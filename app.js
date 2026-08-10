@@ -107,8 +107,8 @@ async function search(rawWord) {
       cache[letter] = {};
     }
   }
-  // 并行加载思维导图数据
-  loadMindmap(letter);
+  // 等待思维导图数据加载完成后再渲染
+  await loadMindmap(letter);
   const entry = cache[letter][word] || cache[letter][word.toLowerCase()];
   $empty.hidden = true;
   if (!entry) { renderNotFound(word); return; }
