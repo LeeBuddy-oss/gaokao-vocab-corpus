@@ -389,6 +389,128 @@ function _extractCnFromDef(defText) {
   return defText.slice(cnIdx).trim();
 }
 
+// ====== 结构签名：把零散 n-gram 合并为语法结构 ======
+const ST_PARTICLES = new Set(['out','up','in','off','down','away','back','on','over','through','into','aside','around','forward','together','apart']);
+const ST_OBJ = new Set(['it','this','that','them','these','those','what','which','something','anything','nothing','everything','him','her','us','me','you','one','all','some','any','each','both','my','your','our','their','his','its','the','a','an']);
+const ST_PREP = new Set(['in','on','at','by','for','with','from','to','of','about','into','through','over','under','after','before','like','near','across','along','behind','beyond','down','off','up','out','as','than','between','among','within','without','against','upon','via','per','despite','during']);
+const ST_DET = new Set(['the','a','an','my','your','our','their','his','her','its','this','that','these','those','some','any','each','every','such','what','which','whose','both','all','no','another']);
+const ST_AUX = new Set(['can','could','will','would','should','may','might','must','shall','do','does','did','have','has','had','be','is','are','was','were','been','being','to']);
+
+// 依据目标词前后相邻词，判定其结构签名（动词短语 / 动宾 / 介词短语 / 其他）
+function _structSignature(beforeRaw, afterRaw, word) {
+  const w = word.toLowerCase();
+  const after = (afterRaw || '').toLowerCase().replace(/[^a-z']/g, '');
+  const before = (beforeRaw || '').toLowerCase().replace(/[^a-z']/g, '');
+  if (after && ST_PARTICLES.has(after)) return { sig: w + ' ' + after, cat: '动词词组' };
+  if (before && ST_AUX.has(before)) {
+    if (before === 'to') return { sig: 'to ' + w, cat: '动词词组' };  // 不定式单独标记，稍后并入短语动词或动词桶
+    return { sig: w + '(动词)', cat: '动词词组' };
+  }
+  if (before && ST_PREP.has(before)) return { sig: before + ' ' + w, cat: '介词词组' };
+  if (after && ST_PREP.has(after)) {
+    // 目标词后接介词：前面是限定词（名词短语）→ 介词词组；否则多为介词动词 → 动词词组
+    if (before && ST_DET.has(before)) return { sig: w + ' ' + after, cat: '介词词组' };
+    return { sig: w + ' ' + after, cat: '动词词组' };
+  }
+  if (after && (ST_OBJ.has(after) || /^[a-z]{3,}$/.test(after))) return { sig: w + '+名词/代词', cat: '动宾结构' };
+  return { sig: w + '(独立用法)', cat: '其他搭配' };
+}
+
+// 从句子中为每个目标词出现点标注一个结构签名（每个出现点只计一次，避免滑动窗口重复）
+function _extractStructures(sentence, word, structMap, catMap, sigCat) {
+  if (!sentence || !word) return;
+  const w = word.toLowerCase();
+  const words = sentence.split(/\s+/);
+  for (let i = 0; i < words.length; i++) {
+    const clean = words[i].toLowerCase().replace(/[^a-z']/g, '');
+    if (clean !== w && !clean.startsWith(w)) continue;
+    const afterRaw = i + 1 < words.length ? words[i + 1] : '';
+    const beforeRaw = i - 1 >= 0 ? words[i - 1] : '';
+    const r = _structSignature(beforeRaw, afterRaw, word);
+    if (r && r.sig) {
+      structMap[r.sig] = (structMap[r.sig] || 0) + 1;
+      catMap[r.cat] = (catMap[r.cat] || 0) + 1;
+      sigCat[r.sig] = r.cat;
+    }
+  }
+}
+
+// 归一化动词结构：把情态/助动词+动词 合并为 "word(动词)" 桶；
+// 不定式 "to word" 在其主导短语动词明显占优时并入该短语动词（如 to figure → figure out），
+// 否则并入动词桶，避免把 to make 错并到 make up。
+function _normalizeVerb(structMap, sigCat, word) {
+  const w = word.toLowerCase();
+  const verbKey = w + '(动词)';
+  let dom = '', dc = 0;
+  Object.keys(sigCat).forEach(s => {
+    if (sigCat[s] === '动词词组' && s.indexOf(' ') !== -1) {
+      const c = structMap[s] || 0;
+      if (c > dc) { dc = c; dom = s; }
+    }
+  });
+  const verbCnt = structMap[verbKey] || 0;
+  const toKey = 'to ' + w;
+  if (structMap[toKey]) {
+    if (dom && dc >= verbCnt) structMap[dom] += structMap[toKey];
+    else structMap[verbKey] = verbCnt + structMap[toKey];
+    delete structMap[toKey];
+    delete sigCat[toKey];
+  }
+  if (structMap[verbKey]) sigCat[verbKey] = '动词词组';
+}
+
+function _topSig(structMap, sigCat, cat) {
+  let best = '', bc = -1;
+  Object.keys(sigCat).forEach(s => {
+    if (sigCat[s] === cat && (structMap[s] || 0) > bc) { bc = structMap[s] || 0; best = s; }
+  });
+  return best;
+}
+
+function _deriveUsagePos(catMap, metaPos) {
+  const verbish = (catMap['动词词组'] || 0) + (catMap['动宾结构'] || 0);
+  const nounish = (catMap['介词词组'] || 0) + (catMap['名词词组'] || 0);
+  if (verbish > 0 && verbish >= nounish) return '动词（含短语动词）';
+  if (nounish > 0 && nounish > verbish) return '名词';
+  return metaPos || '多词性';
+}
+
+function _deriveStructDesc(word, catMap, structMap, sigCat) {
+  const parts = [];
+  const tv = _topSig(structMap, sigCat, '动词词组');
+  if (catMap['动词词组'] && tv) parts.push('动词短语（如 ' + tv + '）');
+  if (catMap['动宾结构']) parts.push('动宾结构（' + word.toLowerCase() + '+名词/代词）');
+  if (catMap['介词词组']) parts.push('介词短语');
+  if (catMap['名词词组']) parts.push('名词短语');
+  if (!parts.length) return '';
+  return esc(word) + ' 在语料中主要构成' + parts.join('、') + '。';
+}
+
+function _firstRepTrans(defs) {
+  for (const d of (defs || [])) {
+    for (const ex of (d.ex || [])) {
+      if (ex.t) {
+        const t = (ex.t || '').replace(/\s+/g, ' ').trim();
+        return t.length > 34 ? t.slice(0, 34) + '…' : t;
+      }
+    }
+  }
+  return '';
+}
+
+// 识别功能：依据语料自动归纳（用真实例句译文作支撑，不编造）
+function _deriveFunctions(word, catMap, structMap, sigCat, repTrans) {
+  const verbish = (catMap['动词词组'] || 0) + (catMap['动宾结构'] || 0);
+  const nounish = (catMap['介词词组'] || 0) + (catMap['名词词组'] || 0);
+  const isVerb = verbish >= nounish;
+  const entries = Object.entries(structMap).sort((a, b) => b[1] - a[1]);
+  const topStr = entries.length ? entries[0][0] : word.toLowerCase();
+  let s = '在语篇中识别 ' + esc(word) + ' 作' + (isVerb ? '动词' : '名词') + '（核心搭配 ' + esc(topStr) + '）';
+  if (repTrans) s += '，如“' + esc(repTrans) + '”';
+  s += '，训练学生结合上下文推断语义、把握语篇逻辑的能力。';
+  return s;
+}
+
 // ====== 渲染风向标主函数 ======
 function renderMindMap(word, entry) {
   const meta = entry.meta || {};
@@ -398,7 +520,9 @@ function renderMindMap(word, entry) {
   // ---- 统计：词义分布 + 搭配 ----
   let totalGaokao = 0, totalTextbook = 0;
   const srcSet = new Set();
-  const phraseMap = {};
+  const structMap = {};     // 结构签名 → 次数（figure out / figure+名词/代词 ...）
+  const catMap = {};        // 词性结构类别 → 次数
+  const sigCat = {};        // 结构签名 → 类别
 
   // 词义列表：{ cnLabel, count, gk, tb, defText }
   const senses = [];
@@ -411,7 +535,7 @@ function renderMindMap(word, entry) {
       srcSet.add(src);
       if (isGaokaoSrc(src)) { gk++; totalGaokao++; }
       else { tb++; totalTextbook++; }
-      _extractCollocations(ex.s || '', word, phraseMap, {}, {});
+      _extractStructures(ex.s || '', word, structMap, catMap, sigCat);
     });
     const cnLabel = _extractCnFromDef(d.def);
     if (cnLabel || exs.length > 0) {
@@ -419,20 +543,7 @@ function renderMindMap(word, entry) {
     }
   });
 
-  // 合并 mindmap 短语数据
-  if (mm && mm.right) {
-    mm.right.forEach(p => {
-      const ph = (p.phrase || '').trim().toLowerCase();
-      if (ph && ph.length >= word.length + 2) {
-        phraseMap[ph] = Math.max(phraseMap[ph] || 0, p.cnt || 0);
-      }
-    });
-  }
-
-  // Top 短语（按频次）
-  const topPhrases = Object.entries(phraseMap)
-    .sort(([,a], [,b]) => b - a).slice(0, 8)
-    .map(([ph, cnt]) => ({ ph, cnt }));
+  // 结构统计已在上方从句中提取（不再混入思维导图噪声短语）
 
   const totalAll = totalGaokao + totalTextbook;
   const hasData = totalAll > 0 || senses.length > 0;
@@ -459,15 +570,17 @@ function renderMindMap(word, entry) {
     });
   }
 
-  // ---- 右侧：用法分析 ----
+  // ---- 右侧：用法分析（按语法结构合并）----
+  _normalizeVerb(structMap, sigCat, word);
+  const usagePos = _deriveUsagePos(catMap, meta.pos);
+  const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat);
+  const repTrans = _firstRepTrans(defs);
+  const funcDesc = _deriveFunctions(word, catMap, structMap, sigCat, repTrans);
+
   let rightHtml = '';
-  rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在十年高考真题与教材中共出现<b class="wv-num">${totalAll}</b>词次`;
+  rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在十年高考与教材语料中主要作<b>${esc(usagePos)}</b>，共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
 
-  // 词性
-  if (meta.pos) rightHtml += `，<b>${esc(meta.pos)}</b>`;
-  rightHtml += '。';
-
-  // 分词义说明
+  // 词义说明（保留）
   if (senses.length > 0) {
     rightHtml += `<div class="wv-body">`;
     senses.forEach((s, i) => {
@@ -476,21 +589,33 @@ function renderMindMap(word, entry) {
       if (s.gk > 0) parts += `（高考${s.gk}次）`;
       rightHtml += `<p class="wv-line">（${i + 1}）${parts}</p>`;
     });
-
-    // 高频搭配/表达
-    if (topPhrases.length > 0) {
-      const phList = topPhrases.slice(0, 6).map(p =>
-        `<span class="wv-hl">${esc(p.ph)}</span><span class="wv-num">(${p.cnt}次)</span>`
-      ).join('、');
-      rightHtml += `<p class="wv-line">高频搭配：${phList}</p>`;
-    }
-
-    // 文体建议
-    const genres = _detectGenres([...srcSet]);
-    if (genres.types.length > 0 && totalGaokao >= 3) {
-      rightHtml += `<p class="wv-line">常出现在<span class="wv-hl">${esc(genres.types[0].t)}</span>类试题中。</p>`;
-    }
     rightHtml += `</div>`;
+  }
+
+  // 高频搭配：按语法结构合并展示
+  const structEntries = Object.entries(structMap).sort((a, b) => b[1] - a[1]).slice(0, 6);
+  if (structEntries.length > 0) {
+    const sl = structEntries.map(([s, c]) =>
+      `<span class="wv-hl">${esc(s)}</span><span class="wv-num">(${c}次)</span>`).join('、');
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">高频搭配</span>${sl}</p>`;
+  }
+
+  // 常出现结构（依据语料自动归纳）
+  if (structDesc) rightHtml += `<p class="wv-line"><span class="wv-tag">常出现结构</span>${structDesc}</p>`;
+
+  // 识别功能（依据语料自动归纳）
+  if (funcDesc) rightHtml += `<p class="wv-line"><span class="wv-tag">识别功能</span>${funcDesc}</p>`;
+
+  // 涵盖义项
+  const coverList = senses.map(s => s.label).filter(Boolean).slice(0, 6);
+  if (coverList.length > 0) {
+    rightHtml += `<p class="wv-line"><span class="wv-tag">涵盖</span>${esc(coverList.join('、'))}等义项</p>`;
+  }
+
+  // 语篇分布
+  const genres = _detectGenres([...srcSet]);
+  if (genres.types.length > 0 && totalGaokao >= 3) {
+    rightHtml += `<p class="wv-line wv-genre">语篇分布：多见于<span class="wv-hl">${esc(genres.types[0].t)}</span>类试题。</p>`;
   }
 
   return `<div class="wv-wrap">
