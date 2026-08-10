@@ -450,8 +450,8 @@ function renderMindMap(word, entry) {
       <span class="wv-bar-label" title="${esc(s.defText)}">${esc(s.label)}</span>
       <div class="wv-bar-track">
         <div class="wv-bar-fill" style="width:${barW}%"></div>
-        ${s.count > 0 ? `<span class="wv-bar-val">${s.count}</span>` : ''}
       </div>
+      ${s.count > 0 ? `<span class="wv-bar-val">${s.count}</span>` : ''}
     </div>`;
   });
 
