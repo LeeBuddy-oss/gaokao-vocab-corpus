@@ -174,106 +174,209 @@ function renderNotFound(word) {
   $result.innerHTML = `<div class="notfound">未找到「${esc(word)}」。试试课标词表里的其它词～</div>`;
 }
 
-/* ========== 思维导图渲染器 ========== */
+/* ========== 词汇风向标渲染器 ========== */
 
-const MM_COLORS = {
-  title: '#1e3a8a',
-  ovalFill: '#9b6fba',     // 紫色椭圆填充
-  ovalStroke: '#7a4fa3',
-  ovalText: '#fff',        // 椭圆内文字白色
-  branchText: '#8B0000',   // 分支文字深红色
-  lineColor: '#5a7ba8',    // 连线蓝灰色
-  rightText: '#A52A2A',    // 右侧短语深红
-  posLabel: '#c44',        // 词性标签
-};
+// 从词条数据中提取风向标统计
+function analyzeWindVane(word, entry) {
+  const meta = entry.meta || {};
+  const defs = entry.defs || [];
+  const mm = _getMmData(word);
 
-function renderMindMap(word, entry) {
-  const letter = (/^[a-z]/i.test(word) ? word[0].toLowerCase() : '#');
-  const mm = mmCache[letter] ? (mmCache[letter][word] || mmCache[letter][word.toLowerCase()]) : null;
-  if (!mm) return '';
+  // 统计每个释义的例句数 & 来源分布
+  let totalGaokao = 0, totalTextbook = 0;
+  const senseBars = [];   // { label, count, gaokao, textbook, defText }
+  const srcSet = new Set(); // 收集所有来源（用于文体判断）
+  const phraseMap = {};    // 短语计数
 
-  const pos = mm.pos || '';
-  const left = mm.left || [];
-  const right = mm.right || [];
-
-  // SVG 尺寸
-  const W = 720, H = Math.max(380, left.length * 62 + right.length * 50 + 120);
-  const cx = W * 0.52;       // 中心 x（稍偏右给左侧留更多空间）
-  const cy = H * 0.48;       // 中心 y
-
-  let svg = '';
-
-  // ---- 连线 ----
-  // 左分支连线
-  const leftCount = left.length;
-  left.forEach((b, i) => {
-    const lx = 55;
-    const ly = 45 + i * (H - 90) / Math.max(leftCount, 1);
-    svg += `<line x1="${lx + 100}" y1="${ly}" x2="${cx - 68}" y2="${cy}" stroke="${MM_COLORS.lineColor}" stroke-width="1.2"/>`;
-  });
-  // 右分支连线
-  const rightCount = right.length;
-  right.forEach((b, i) => {
-    const rx = W - 40;
-    const ry = 50 + i * (H - 100) / Math.max(rightCount, 1);
-    svg += `<path d="M${cx+68} ${cy} L${rx-80} ${ry} L${rx-5} ${ry}" fill="none" stroke="${MM_COLORS.lineColor}" stroke-width="1.2"/>`;
-    // 箭头
-    svg += `<polygon points="${rx-5},${ry} ${rx-12},${ry-4} ${rx-12},${ry+4}" fill="${MM_COLORS.lineColor}"/>`;
-  });
-
-  // ---- 词性标签（左连线中间）----
-  if (pos) {
-    svg += `<text x="${(55 + 100 + cx - 68) / 2}" y="${cy - 6}" text-anchor="middle" font-size="13" font-style="italic" fill="${MM_COLORS.posLabel}" font-weight="600">${esc(pos)}</text>`;
-  }
-
-  // ---- 右词性标签（右连线起点）----
-  const posRight = mm.pos_full || '';
-  const adjMatch = posRight.match(/(adj\.?|n\.?|adv\.?)/i);
-  if (adjMatch) {
-    svg += `<text x="${cx + 75}" y="${cy - 6}" font-size="12" font-style="italic" fill="${MM_COLORS.posLabel}" font-weight="600">${esc(adjMatch[1])}</text>`;
-  }
-
-  // ---- 左节点（紫色椭圆）----
-  left.forEach((b, i) => {
-    const lx = 55;
-    const ly = 45 + i * (H - 90) / Math.max(leftCount, 1);
-    const pattern = esc(b.pattern || '');
-    const cn = esc(b.cn || '');
-    // 椭圆尺寸根据文本长度自适应
-    const pw = Math.max(130, pattern.length * 10 + 30, cn.length * 11 + 20);
-    const ph = cn ? 46 : 34;
-
-    svg += `<ellipse cx="${lx + pw/2}" cy="${ly}" rx="${pw/2 + 8}" ry="${ph/2 + 4}" fill="${MM_COLORS.ovalFill}" stroke="${MM_COLORS.ovalStroke}" stroke-width="1"/>`;
-
-    // 英文模式（上）
-    svg += `<text x="${lx + pw/2}" y="${ly - (cn ? 4 : 1)}" text-anchor="middle" font-size="13" font-weight="700" fill="${MM_COLORS.branchText}">${pattern}</text>`;
-    // 中文释义（下）
-    if (cn) {
-      svg += `<text x="${lx + pw/2}" y="${ly + 14}" text-anchor="middle" font-size="11.5" fill="${MM_COLORS.branchText}">${cn}</text>`;
+  defs.forEach((d, idx) => {
+    const exs = d.ex || [];
+    let gk = 0, tb = 0;
+    exs.forEach(ex => {
+      const src = ex.src || '';
+      srcSet.add(src);
+      if (isGaokaoSrc(src)) { gk++; totalGaokao++; }
+      else { tb++; totalTextbook++; }
+      // 提取含查询词的短语
+      _extractPhrases(ex.s || '', word, phraseMap);
+    });
+    const count = exs.length;
+    if (count > 0 || d.def) {
+      // 提取释义中文摘要（取括号内中文或前20字）
+      const label = _extractSenseLabel(d.def, idx + 1);
+      senseBars.push({ label, count, gaokao: gk, textbook: tb, defText: d.def || '', idx });
     }
   });
 
-  // ---- 中心节点（大紫色椭圆）----
-  const cw = word.length * 18 + 50;
-  const ch = 46;
-  svg += `<ellipse cx="${cx}" cy="${cy}" rx="${cw/2 + 10}" ry="${ch/2 + 6}" fill="${MM_COLORS.ovalFill}" stroke="${MM_COLORS.ovalStroke}" stroke-width="1.8"/>`;
-  svg += `<text x="${cx}" y="${cy + 5}" text-anchor="middle" font-size="22" font-weight="700" fill="#fff" style="font-family:Georgia,'Times New Roman',serif">${esc(word)}</text>`;
+  // 合并思维导图中的短语数据
+  if (mm && mm.right) {
+    mm.right.forEach(p => {
+      const ph = (p.phrase || '').trim().toLowerCase();
+      if (ph) {
+        phraseMap[ph] = Math.max(phraseMap[ph] || 0, p.cnt || 0);
+      }
+    });
+  }
 
-  // ---- 右节点（纯文本）----
-  right.forEach((b, i) => {
-    const rx = W - 35;
-    const ry = 50 + i * (H - 100) / Math.max(rightCount, 1);
-    const phrase = esc(b.phrase || '');
+  // 按例句数降序排列，取 top 6
+  senseBars.sort((a, b) => b.count - a.count);
+  const topSenses = senseBars.slice(0, 6);
 
-    // 英文短语（上，深红）
-    svg += `<text x="${rx}" y="${ry - 4}" text-anchor="end" font-size="13" font-weight="700" fill="${MM_COLORS.rightText}">${phrase}</text>`;
+  // Top 短语（按频次排序）
+  const topPhrases = Object.entries(phraseMap)
+    .sort(([,a], [,b]) => b - a)
+    .slice(0, 8)
+    .map(([ph, cnt]) => ({ ph, cnt }));
+
+  // 判断常见文体
+  const genres = _detectGenres([...srcSet]);
+
+  return {
+    word,
+    pos: meta.pos || '',
+    posFull: mm && mm.pos_full ? mm.pos_full : '',
+    total: totalGaokao + totalTextbook,
+    totalGaokao,
+    totalTextbook,
+    senses: topSenses,
+    allSenseCount: senseBars.length,
+    phrases: topPhrases,
+    genres,
+    hasData: totalGaokao + totalTextbook > 0,
+  };
+}
+
+// 判断是否高考来源
+function isGaokaoSrc(src) {
+  if (!src) return false;
+  const s = src.toLowerCase();
+  return s.includes('高考') || s.includes('全国') || s.includes('新高考') ||
+         s.includes('北京') || s.includes('天津') || s.includes('浙江') ||
+         s.includes('江苏') || s.includes('卷') || s.includes('上海');
+}
+
+// 提取释义的中文短标签
+function _extractSenseLabel(defText, idx) {
+  if (!defText) return `义项 ${idx}`;
+  // 优先提取括号内的中文 （代表数量…）
+  const cnMatch = defText.match(/（([^）]{2,18}?)）/);
+  if (cnMatch) return cnMatch[1];
+  // 取前 18 个字符
+  return defText.replace(/[^a-zA-Z\u4e00-\u9fff]/g, '').slice(0, 18) || `义项 ${idx}`;
+}
+
+// 从句子中提取含查询词的短语
+function _extractPhrases(sentence, word, map) {
+  if (!sentence || !word) return;
+  const w = word.toLowerCase();
+  const re = new RegExp('\\b[a-zA-Z ]{0,12}' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '[a-zA-Z ]{0,12}\\b', 'gi');
+  const matches = sentence.match(re);
+  if (matches) {
+    matches.forEach(m => {
+      const ph = m.trim().toLowerCase();
+      if (ph.length >= w.length + 2 && ph.length <= 30) {
+        map[ph] = (map[ph] || 0) + 1;
+      }
+    });
+  }
+}
+
+// 检测文体类型
+function _detectGenres(sources) {
+  const genres = { count: 0, types: [] };
+  const typeCount = {};
+  sources.forEach(src => {
+    let t = '其他';
+    if (/阅读理解|七选五/.test(src)) t = '阅读理解';
+    else if (/语法填空|完形填空/.test(src)) t = '填空/完形';
+    else if (/书面表达|写作|作文/.test(src)) t = '写作';
+    else if (/听力/.test(src)) t = '听力';
+    typeCount[t] = (typeCount[t] || 0) + 1;
+    genres.count++;
+  });
+  genres.types = Object.entries(typeCount).sort(([,a],[,b]) => b - a).map(([t,c]) => ({ t, c }));
+  return genres;
+}
+
+// 获取思维导图缓存数据
+function _getMmData(word) {
+  const letter = (/^[a-z]/i.test(word) ? word[0].toLowerCase() : '#');
+  const cache = mmCache[letter];
+  if (!cache) return null;
+  return cache[word] || cache[word.toLowerCase()] || null;
+}
+
+// ====== 渲染风向标主函数 ======
+function renderMindMap(word, entry) {
+  const data = analyzeWindVane(word, entry);
+  if (!data.hasData && data.senses.length === 0) return '';
+
+  const maxCount = Math.max(...data.senses.map(s => s.count), 1);
+
+  // ---- 左侧柱状图 ----
+  let barsHtml = '';
+  data.senses.forEach(s => {
+    const pct = Math.round(s.count / maxCount * 100);
+    const barW = Math.max(pct, s.count > 0 ? 8 : 0);
+    barsHtml += `<div class="wv-bar-row">
+      <span class="wv-bar-label" title="${esc(s.defText)}">${esc(s.label)}</span>
+      <div class="wv-bar-track">
+        <div class="wv-bar-fill" style="width:${barW}%"></div>
+        ${s.count > 0 ? `<span class="wv-bar-val">${s.count}</span>` : ''}
+      </div>
+    </div>`;
   });
 
-  return `<div class="mindmap-wrap">
-    <div class="mindmap-title">思维导图总结</div>
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="100%" height="${H}" preserveAspectRatio="xMidYMid meet" class="mindmap-svg">
-      ${svg}
-    </svg>
+  // ---- 右侧文字分析 ----
+  const totalAll = data.totalGaokao + data.totalTextbook;
+  let analysisHtml = '';
+  analysisHtml += `<p class="wv-lead"><b>${esc(data.word)}</b>在十年高考真题与教材中共出现<b>${totalAll}</b>词次，其中：</p>`;
+  let rightLines = [];
+
+  // 分释义描述
+  if (data.senses.length > 0) {
+    data.senses.forEach((s, i) => {
+      if (s.count === 0) return;
+      const parts = [];
+      parts.push(`「${esc(s.label)}」`);
+      parts.push(`出现${s.gaokao + s.textbook}次`);
+      if (s.gaokao > 0) parts.push(`（高考${s.gaokao}次）`);
+      // 文体提示
+      if (data.genres.types.length > 0) {
+        const topGenre = data.genres.types[0].t;
+        if (i === 0 || s.gaokao >= 3) parts.push(`，常出现在<span class="wv-hl">${esc(topGenre)}</span>类试题中`);
+      }
+      rightLines.push(`（${i + 1}）${parts.join('')}；`);
+    });
+  }
+
+  // 高频短语
+  if (data.phrases.length > 0) {
+    const phList = data.phrases.slice(0, 5).map(p =>
+      `<span class="wv-hl">${esc(p.ph)}</span>（${p.cnt}次）`
+    ).join('、');
+    rightLines.push(`高频搭配：${phList}。`);
+  }
+
+  analysisHtml += `<div class="wv-body">`;
+  rightLines.forEach(line => {
+    analysisHtml += `<p class="wv-line">${line}</p>`;
+  });
+  analysisHtml += `</div>`;
+
+  return `<div class="wv-wrap">
+    <div class="wv-header">
+      <span class="wv-title">词汇风向标</span>
+      <span class="wv-subtitle">${esc(word)}特征归纳</span>
+    </div>
+    <div class="wv-content">
+      <div class="wv-left">
+        <div class="wv-chart-title">${esc(word)}义项</div>
+        <div class="wv-bars">${barsHtml}</div>
+      </div>
+      <div class="wv-right">
+        ${analysisHtml}
+      </div>
+    </div>
   </div>`;
 }
 
