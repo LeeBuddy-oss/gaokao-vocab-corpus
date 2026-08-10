@@ -380,69 +380,114 @@ function _getMmData(word) {
   return cache[word] || cache[word.toLowerCase()] || null;
 }
 
+// ====== 从释义中提取中文部分 ======
+function _extractCnFromDef(defText) {
+  if (!defText) return '';
+  // 找到第一个中文字符，截取从它开始的所有内容
+  const cnIdx = defText.search(/[\u4e00-\u9fff]/);
+  if (cnIdx === -1) return defText.slice(0, 20);
+  return defText.slice(cnIdx).trim();
+}
+
 // ====== 渲染风向标主函数 ======
 function renderMindMap(word, entry) {
-  const data = analyzeWindVane(word, entry);
-  if (!data.hasData && data.phrases.length === 0) return '';
+  const meta = entry.meta || {};
+  const defs = entry.defs || [];
+  const mm = _getMmData(word);
 
-  const maxCnt = Math.max(...data.phrases.map(p => p.cnt), 1);
+  // ---- 统计：词义分布 + 搭配 ----
+  let totalGaokao = 0, totalTextbook = 0;
+  const srcSet = new Set();
+  const phraseMap = {};
 
-  // ---- 左侧：高频搭配柱状图 ----
+  // 词义列表：{ cnLabel, count, gk, tb, defText }
+  const senses = [];
+
+  defs.forEach((d) => {
+    const exs = d.ex || [];
+    let gk = 0, tb = 0;
+    exs.forEach(ex => {
+      const src = ex.src || '';
+      srcSet.add(src);
+      if (isGaokaoSrc(src)) { gk++; totalGaokao++; }
+      else { tb++; totalTextbook++; }
+      _extractCollocations(ex.s || '', word, phraseMap, {}, {});
+    });
+    const cnLabel = _extractCnFromDef(d.def);
+    if (cnLabel || exs.length > 0) {
+      senses.push({ label: cnLabel || `义项${senses.length + 1}`, count: exs.length, gk, tb, defText: d.def || '' });
+    }
+  });
+
+  // 合并 mindmap 短语数据
+  if (mm && mm.right) {
+    mm.right.forEach(p => {
+      const ph = (p.phrase || '').trim().toLowerCase();
+      if (ph && ph.length >= word.length + 2) {
+        phraseMap[ph] = Math.max(phraseMap[ph] || 0, p.cnt || 0);
+      }
+    });
+  }
+
+  // Top 短语（按频次）
+  const topPhrases = Object.entries(phraseMap)
+    .sort(([,a], [,b]) => b - a).slice(0, 8)
+    .map(([ph, cnt]) => ({ ph, cnt }));
+
+  const totalAll = totalGaokao + totalTextbook;
+  const hasData = totalAll > 0 || senses.length > 0;
+  if (!hasData) return '';
+
+  // ---- 左侧：词义柱状图（中文标签）----
+  senses.sort((a, b) => b.count - a.count);
+  const maxCount = Math.max(...senses.map(s => s.count), 1);
+
   let barsHtml = '';
-  data.phrases.forEach(p => {
-    const pct = Math.round(p.cnt / maxCnt * 100);
-    const barW = Math.max(pct, p.cnt > 0 ? 10 : 0);
+  senses.forEach(s => {
+    const pct = Math.round(s.count / maxCount * 100);
+    const barW = Math.max(pct, s.count > 0 ? 8 : 0);
     barsHtml += `<div class="wv-bar-row">
-      <span class="wv-bar-label" title="${esc(p.display)}">${esc(p.display)}</span>
+      <span class="wv-bar-label" title="${esc(s.defText)}">${esc(s.label)}</span>
       <div class="wv-bar-track">
         <div class="wv-bar-fill" style="width:${barW}%"></div>
-        <span class="wv-bar-val">${p.cnt}</span>
+        ${s.count > 0 ? `<span class="wv-bar-val">${s.count}</span>` : ''}
       </div>
     </div>`;
   });
 
-  // ---- 右侧：用法分析文字 ----
-  const totalAll = data.totalGaokao + data.totalTextbook;
+  // ---- 右侧：用法分析 ----
   let rightHtml = '';
+  rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在十年高考真题与教材中共出现<b class="wv-num">${totalAll}</b>词次`;
 
-  // 总述
-  rightHtml += `<p class="wv-lead"><b>${esc(data.word)}</b>在十年高考真题与教材中共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
+  // 词性
+  if (meta.pos) rightHtml += `，<b>${esc(meta.pos)}</b>`;
+  rightHtml += '。';
 
-  let lines = [];
-
-  // 按类别展示高频搭配
-  if (data.categories.length > 0) {
-    data.categories.forEach((cat, ci) => {
-      if (cat.examples.length === 0) return;
-      const phList = cat.examples.map(e =>
-        `<span class="wv-hl">${esc(e.ph)}</span><span class="wv-num">(${e.cnt}次)</span>`
-      ).join('、');
-      lines.push(`（${ci + 1}）<b>${esc(cat.cat)}</b>：${phList}；`);
+  // 分词义说明
+  if (senses.length > 0) {
+    rightHtml += `<div class="wv-body">`;
+    senses.forEach((s, i) => {
+      if (s.count === 0) return;
+      let parts = `「${esc(s.label)}」<span class="wv-num">${s.count}次</span>`;
+      if (s.gk > 0) parts += `（高考${s.gk}次）`;
+      rightHtml += `<p class="wv-line">（${i + 1}）${parts}</p>`;
     });
-  }
 
-  // 补充未归类的 top 短语
-  if (data.phrases.length > 0) {
-    const extra = data.phrases.filter(p =>
-      !data.categories.some(c => c.examples.some(e => e.ph === p.core))
-    ).slice(0, 5);
-    if (extra.length > 0) {
-      const phList = extra.map(p =>
-        `<span class="wv-hl">${esc(p.display)}</span><span class="wv-num">(${p.cnt}次)</span>`
+    // 高频搭配/表达
+    if (topPhrases.length > 0) {
+      const phList = topPhrases.slice(0, 6).map(p =>
+        `<span class="wv-hl">${esc(p.ph)}</span><span class="wv-num">(${p.cnt}次)</span>`
       ).join('、');
-      lines.push(`高频表达：${phList}。`);
+      rightHtml += `<p class="wv-line">高频搭配：${phList}</p>`;
     }
-  }
 
-  // 考试建议
-  if (data.genres.types.length > 0 && data.totalGaokao >= 3) {
-    const topG = data.genres.types[0];
-    lines.push(`该词在<span class="wv-hl">${esc(topG.t)}</span>类试题中出现频率较高，需重点关注其固定搭配。`);
+    // 文体建议
+    const genres = _detectGenres([...srcSet]);
+    if (genres.types.length > 0 && totalGaokao >= 3) {
+      rightHtml += `<p class="wv-line">常出现在<span class="wv-hl">${esc(genres.types[0].t)}</span>类试题中。</p>`;
+    }
+    rightHtml += `</div>`;
   }
-
-  rightHtml += `<div class="wv-body">`;
-  lines.forEach(l => { rightHtml += `<p class="wv-line">${l}</p>`; });
-  rightHtml += `</div>`;
 
   return `<div class="wv-wrap">
     <div class="wv-header">
@@ -451,7 +496,7 @@ function renderMindMap(word, entry) {
     </div>
     <div class="wv-content">
       <div class="wv-left">
-        <div class="wv-chart-title">高频搭配</div>
+        <div class="wv-chart-title">${esc(word)}词义</div>
         <div class="wv-bars">${barsHtml}</div>
       </div>
       <div class="wv-right">
