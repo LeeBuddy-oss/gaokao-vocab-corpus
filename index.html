@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>课标词汇例句库</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">📘</span>
+    <div>
+      <h1>课标词汇例句库</h1>
+      <p class="sub">Hello Corpus!</p>
+    </div>
+  </div>
+  <div class="stats" id="stats"></div>
+</header>
+
+<main>
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input id="search" type="text" autocomplete="off" spellcheck="false"
+           placeholder="输入课标词汇，如 identify、ability、improve …" />
+    <ul id="suggest" class="suggest" hidden></ul>
+  </div>
+
+  <section id="result"></section>
+
+  <section id="empty" class="empty">
+    <p class="big">🔍 输入一个课标词汇查询真题/教材例句</p>
+    <p class="hint">例：identify · ability · improve · culture · environment</p>
+  </section>
+</main>
+
+<footer class="foot">
+  <span>例句来源：十年高考真题（69 套）与高中英语教材（人教/外研/北师大/译林）。中文翻译由原始语料提供，如发现错位请以英文原文为准。</span>
+  <span class="copy">版权所有 All rights reserved</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
