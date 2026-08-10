@@ -17,6 +17,8 @@
   --title: #1e3a8a;
   --subtitle: #3b82f6;
   --radius: 12px;
+  --result-bg: #eef7ee;   /* 查询结果区浅绿护眼底色 */
+  --result-border: #cfe6cf;
 }
 
 * { box-sizing: border-box; }
@@ -43,12 +45,39 @@ body {
 .brand { display: flex; align-items: center; gap: 14px; }
 .logo { font-size: 34px; }
 .topbar h1 { margin: 0; font-size: 30px; font-weight: 700; color: var(--title); letter-spacing: .5px; }
-.topbar .sub { margin: 4px 0 0; font-size: 18px; font-weight: 500; color: var(--subtitle); }
+.topbar .sub { margin: 6px 0 0; font-size: 18px; font-weight: 500; color: var(--subtitle); line-height: 1.5; }
+.topbar .sub-en,
+.topbar .sub-cn { display: block; font-size: 15px; color: var(--subtitle); text-align: justify; text-align-last: justify; }
 
-.stats { display: flex; gap: 18px; font-size: 13px; color: var(--muted); flex-wrap: wrap; }
+.stats { display: flex; gap: 14px; font-size: 13px; color: var(--muted); flex-wrap: wrap; align-items: center; }
 .stats b { color: var(--text); font-size: 15px; }
+/* 统计框：红/黄/绿，白字，字号不变 */
+.stat-box {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+  padding: 6px 14px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 13px;
+  font-weight: 500;
+  box-shadow: 0 1px 3px rgba(0,0,0,.12);
+}
+.stat-box b { color: #fff; font-size: 15px; }
+.box-red { background: #dc2626; }
+.box-yellow { background: #d97706; }
+.box-green { background: #16a34a; }
 
 main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
+
+/* 查询结果区：整体浅绿护眼底色 */
+#result {
+  background: var(--result-bg);
+  border: 1px solid var(--result-border);
+  border-radius: var(--radius);
+  padding: 22px 20px;
+  margin-bottom: 22px;
+}
 
 .search-wrap { position: relative; margin-bottom: 26px; }
 .search-icon {
@@ -96,8 +125,8 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .empty .hint { font-size: 13px; }
 
 .word-head {
-  background: var(--card);
-  border: 1px solid var(--border);
+  background: #f4faf4;
+  border: 1px solid var(--result-border);
   border-radius: var(--radius);
   padding: 18px 20px;
   margin-bottom: 22px;
@@ -108,8 +137,8 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .word-head .stars { color: #f59e0b; margin-left: 10px; font-size: 16px; letter-spacing: 1px; }
 
 .def {
-  background: var(--card);
-  border: 1px solid var(--border);
+  background: #f4faf4;
+  border: 1px solid var(--result-border);
   border-radius: var(--radius);
   padding: 14px 16px 6px;
   margin-bottom: 18px;
@@ -136,8 +165,8 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .group-title .bar { flex: 1; height: 1px; background: var(--border); }
 
 .ex {
-  background: var(--card);
-  border: 1px solid var(--border);
+  background: #f9fcf9;
+  border: 1px solid var(--result-border);
   border-left: 3px solid var(--border);
   border-radius: 10px;
   padding: 12px 14px;
@@ -188,8 +217,8 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 
 /* ========== 词汇风向标 ========== */
 .wv-wrap {
-  background: #fff;
-  border: 1px solid var(--border);
+  background: #f4faf4;
+  border: 1px solid var(--result-border);
   border-radius: var(--radius);
   padding: 20px 22px 18px;
   margin-bottom: 22px;

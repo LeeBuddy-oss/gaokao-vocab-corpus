@@ -42,9 +42,9 @@ function loadStats() {
   fetch(STATS_URL).then(r => (r.ok ? r.json() : null)).then(s => {
     if (!s) return;
     document.getElementById('stats').innerHTML =
-      `<span><b>${s.words}</b> 课标词</span>` +
-      `<span><b>${fmt(s.cats.gaokao)}</b> 真题例句</span>` +
-      `<span><b>${fmt(s.totalTextbook)}</b> 教材例句</span>`;
+      `<span class="stat-box box-red"><b>${s.words}</b> 课标词</span>` +
+      `<span class="stat-box box-yellow"><b>${fmt(s.cats.gaokao)}</b> 真题例句</span>` +
+      `<span class="stat-box box-green"><b>${fmt(s.totalTextbook)}</b> 教材例句</span>`;
   }).catch(() => {});
 }
 
