@@ -438,22 +438,26 @@ function renderMindMap(word, entry) {
   const hasData = totalAll > 0 || senses.length > 0;
   if (!hasData) return '';
 
-  // ---- 左侧：词义柱状图（中文标签）----
-  senses.sort((a, b) => b.count - a.count);
-  const maxCount = Math.max(...senses.map(s => s.count), 1);
+  // ---- 左侧：词义柱状图（中文标签，仅显示有例句的释义）----
+  const shownSenses = senses.filter(s => s.count > 0).sort((a, b) => b.count - a.count);
+  const maxCount = Math.max(...shownSenses.map(s => s.count), 1);
 
   let barsHtml = '';
-  senses.forEach(s => {
-    const pct = Math.round(s.count / maxCount * 100);
-    const barW = Math.max(pct, s.count > 0 ? 8 : 0);
-    barsHtml += `<div class="wv-bar-row">
-      <span class="wv-bar-label" title="${esc(s.defText)}">${esc(s.label)}</span>
-      <div class="wv-bar-track">
-        <div class="wv-bar-fill" style="width:${barW}%"></div>
-      </div>
-      ${s.count > 0 ? `<span class="wv-bar-val">${s.count}</span>` : ''}
-    </div>`;
-  });
+  if (shownSenses.length === 0) {
+    barsHtml = `<p class="wv-empty">该词暂无例句数据</p>`;
+  } else {
+    shownSenses.forEach(s => {
+      const pct = Math.round(s.count / maxCount * 100);
+      const barW = Math.max(pct, 8);
+      barsHtml += `<div class="wv-bar-row">
+        <span class="wv-bar-label" title="${esc(s.defText)}">${esc(s.label)}</span>
+        <div class="wv-bar-track">
+          <div class="wv-bar-fill" style="width:${barW}%"></div>
+        </div>
+        <span class="wv-bar-val">${s.count}</span>
+      </div>`;
+    });
+  }
 
   // ---- 右侧：用法分析 ----
   let rightHtml = '';
