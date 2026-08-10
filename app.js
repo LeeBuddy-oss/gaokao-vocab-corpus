@@ -174,74 +174,68 @@ function renderNotFound(word) {
   $result.innerHTML = `<div class="notfound">未找到「${esc(word)}」。试试课标词表里的其它词～</div>`;
 }
 
-/* ========== 词汇风向标渲染器 ========== */
+/* ========== 词汇风向标渲染器（词组搭配 + 高频表达） ========== */
 
-// 从词条数据中提取风向标统计
+// 从词条数据中提取风向标统计——核心：词组/搭配/高频表达
 function analyzeWindVane(word, entry) {
   const meta = entry.meta || {};
   const defs = entry.defs || [];
   const mm = _getMmData(word);
 
-  // 统计每个释义的例句数 & 来源分布
   let totalGaokao = 0, totalTextbook = 0;
-  const senseBars = [];   // { label, count, gaokao, textbook, defText }
-  const srcSet = new Set(); // 收集所有来源（用于文体判断）
-  const phraseMap = {};    // 短语计数
+  const srcSet = new Set();
+  const phraseMap = {};       // 短语 → 出现次数
+  const patternMap = {};      // 结构模式 → 次数（如 "distinguish between", "distinguish from"）
+  const posPatternMap = {};   // 按词性分类的搭配：verb-phrase, prep-phrase, noun-phrase 等
 
-  defs.forEach((d, idx) => {
+  defs.forEach((d) => {
     const exs = d.ex || [];
-    let gk = 0, tb = 0;
     exs.forEach(ex => {
       const src = ex.src || '';
       srcSet.add(src);
-      if (isGaokaoSrc(src)) { gk++; totalGaokao++; }
-      else { tb++; totalTextbook++; }
-      // 提取含查询词的短语
-      _extractPhrases(ex.s || '', word, phraseMap);
+      if (isGaokaoSrc(src)) totalGaokao++;
+      else totalTextbook++;
+
+      // 提取含查询词的短语和搭配
+      _extractCollocations(ex.s || '', word, phraseMap, patternMap, posPatternMap);
     });
-    const count = exs.length;
-    if (count > 0 || d.def) {
-      // 提取释义中文摘要（取括号内中文或前20字）
-      const label = _extractSenseLabel(d.def, idx + 1);
-      senseBars.push({ label, count, gaokao: gk, textbook: tb, defText: d.def || '', idx });
-    }
   });
 
-  // 合并思维导图中的短语数据
+  // 合并思维导图中的短语数据（补充）
   if (mm && mm.right) {
     mm.right.forEach(p => {
       const ph = (p.phrase || '').trim().toLowerCase();
-      if (ph) {
+      if (ph && ph.length >= word.length + 2) {
         phraseMap[ph] = Math.max(phraseMap[ph] || 0, p.cnt || 0);
+        // 也归类到结构模式
+        const struct = _classifyPhraseStruct(ph, word);
+        if (struct) { patternMap[struct] = Math.max(patternMap[struct] || 0, p.cnt || 0); }
       }
     });
   }
 
-  // 按例句数降序排列，取 top 6
-  senseBars.sort((a, b) => b.count - a.count);
-  const topSenses = senseBars.slice(0, 6);
-
-  // Top 短语（按频次排序）
-  const topPhrases = Object.entries(phraseMap)
+  // Top 搭配（按频次排序，去重变体，取 top 8）
+  const topPhrases = _dedupePhrases(Object.entries(phraseMap)
     .sort(([,a], [,b]) => b - a)
-    .slice(0, 8)
-    .map(([ph, cnt]) => ({ ph, cnt }));
+    .map(([ph, cnt]) => ({ ph, cnt })), word)
+    .slice(0, 8);
 
-  // 判断常见文体
+  // 结构化搭配分类
+  const categories = _categorizePatterns(patternMap, posPatternMap, word);
+
+  // 文体检测
   const genres = _detectGenres([...srcSet]);
 
   return {
     word,
     pos: meta.pos || '',
-    posFull: mm && mm.pos_full ? mm.pos_full : '',
     total: totalGaokao + totalTextbook,
     totalGaokao,
     totalTextbook,
-    senses: topSenses,
-    allSenseCount: senseBars.length,
     phrases: topPhrases,
+    categories,
     genres,
-    hasData: totalGaokao + totalTextbook > 0,
+    hasData: totalGaokao + totalTextbook > 0 || topPhrases.length > 0,
   };
 }
 
@@ -254,30 +248,111 @@ function isGaokaoSrc(src) {
          s.includes('江苏') || s.includes('卷') || s.includes('上海');
 }
 
-// 提取释义的中文短标签
-function _extractSenseLabel(defText, idx) {
-  if (!defText) return `义项 ${idx}`;
-  // 优先提取括号内的中文 （代表数量…）
-  const cnMatch = defText.match(/（([^）]{2,18}?)）/);
-  if (cnMatch) return cnMatch[1];
-  // 取前 18 个字符
-  return defText.replace(/[^a-zA-Z\u4e00-\u9fff]/g, '').slice(0, 18) || `义项 ${idx}`;
-}
-
-// 从句子中提取含查询词的短语
-function _extractPhrases(sentence, word, map) {
+// ====== 从句子中提取搭配和词组 ======
+function _extractCollocations(sentence, word, phraseMap, patternMap, posPatternMap) {
   if (!sentence || !word) return;
   const w = word.toLowerCase();
-  const re = new RegExp('\\b[a-zA-Z ]{0,12}' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '[a-zA-Z ]{0,12}\\b', 'gi');
-  const matches = sentence.match(re);
-  if (matches) {
-    matches.forEach(m => {
-      const ph = m.trim().toLowerCase();
-      if (ph.length >= w.length + 2 && ph.length <= 30) {
-        map[ph] = (map[ph] || 0) + 1;
+  const words = sentence.split(/\s+/);
+
+  // 找到查询词在句子中的所有位置
+  for (let i = 0; i < words.length; i++) {
+    const cleanW = words[i].toLowerCase().replace(/[^a-z]/g, '');
+    if (cleanW !== w && !cleanW.startsWith(w)) continue;
+
+    // 提取窗口内的短语（前后各取1-3个词）
+    for (let pre = Math.max(0, i - 3); pre <= i; pre++) {
+      for (let post = i; post < Math.min(words.length, i + 4); post++) {
+        const phWords = words.slice(pre, post + 1).map(x => x.replace(/[^a-zA-Z']/g, ''));
+        const ph = phWords.join(' ').toLowerCase().replace(/\s+/g, ' ').trim();
+        if (ph.length >= w.length + 3 && ph.length <= 35 && ph.includes(w)) {
+          phraseMap[ph] = (phraseMap[ph] || 0) + 1;
+          // 分类到结构模式
+          const struct = _classifyPhraseStruct(ph, word);
+          if (struct) {
+            patternMap[struct] = (patternMap[struct] || 0) + 1;
+            // 词性分类
+            const cat = _phraseCategory(struct);
+            if (cat) { posPatternMap[cat] = (posPatternMap[cat] || 0) + 1; }
+          }
+        }
       }
-    });
+    }
   }
+}
+
+// 判断短语结构类型（如 "distinguish between" → between型介词搭配）
+function _classifyPhraseStruct(ph, target) {
+  if (!ph || !target) return null;
+  const t = target.toLowerCase();
+  const idx = ph.indexOf(t);
+  if (idx === -1) return null;
+
+  const after = ph.slice(idx + t.length).trim().split(/\s+/)[0];
+  const before = ph.slice(0, idx).trim().split(/\s+/).pop();
+
+  let struct = '';
+  if (/^(from|between|with|by|into|as|for|to|in|on|at|of|through|against|upon|among|within|over|under|about|around|after|before|like|near|across|along|behind|beyond|down|off|out|up)$/i.test(after)) {
+    struct = `${target} ${after}`;           // 介词搭配
+  } else if (/^(can|could|will|would|should|may|might|must|shall|need|dare|used|had|is|are|was|were|be|been|being|do|does|did|have|has|had|to)$/i.test(before)) {
+    struct = `${before} ${target}`;          // 动词变形 / 情态动词
+  } else if (after && /^[a-z]{2,}$/i.test(after)) {
+    struct = `${target} ${after}`;           // 一般名词/形容词后接
+  } else if (before && /^[a-z]{2,}$/i.test(before)) {
+    struct = `${before} ${target}`;
+  }
+  return struct || null;
+}
+
+// 短语归类到词性类别
+function _phraseCategory(struct) {
+  if (!struct) return null;
+  const parts = struct.split(/\s+/);
+  const first = (parts[0] || '').toLowerCase();
+  // 常见情态/助动词 → 动词词组
+  if (/^(can|could|will|would|should|may|might|must|shall|do|does|did|have|has|had|be|is|are|was|were|to)$/i.test(first)) return '动词词组';
+  // 介词 → 介词词组
+  if (/^(from|between|with|by|into|as|for|to|in|on|at|of|through|against|upon|among|within|over|under|about|around|after|before|like|near|across|along|behind|beyond|down|off|out|up)$/i.test(parts[parts.length - 1] || '')) return '介词词组';
+  // -ed/-ing 结尾 → 分词词组
+  if (/-(ed|ing)$/.test(parts[parts.length - 1] || '')) return '分词词组';
+  // 名词性（a/an/the + n 或纯名词）
+  if (/^(a|an|the)$/i.test(first)) return '名词词组';
+  return '其他搭配';
+}
+
+// 去重短语变体（如 "distinguish between a" 和 "distinguish between b" 合并为 "distinguish between"）
+function _dedupePhrases(phrases, word) {
+  const seen = new Set();
+  const result = [];
+  phrases.forEach(p => {
+    // 归一化：去掉末尾的冠词/代词/短词来找核心结构
+    const core = p.ph.replace(/\s+(a|an|the|it|this|that|these|those|his|her|their|my|your|our|one|two|three|some|any|no|every|each|all|both|few|many|much|more|most|other|another|such|what|which|who|whom|whose)\b.*$/i, '').trim();
+    if (core.length >= word.length + 2 && !seen.has(core)) {
+      seen.add(core);
+      result.push({ ...p, display: p.ph, core });
+    } else if (seen.has(core)) {
+      // 累加计数到已存在的核心
+      const existing = result.find(r => r.core === core);
+      if (existing) existing.cnt += p.cnt;
+    }
+  });
+  // 重新按累计频次排序
+  result.sort((a, b) => b.cnt - a.cnt);
+  return result;
+}
+
+// 分类汇总搭配模式
+function _categorizePatterns(patternMap, posPatternMap, word) {
+  const cats = [];
+  Object.entries(posPatternMap).sort(([,a],[,b]) => b - a).forEach(([cat, cnt]) => {
+    // 找该类别下的代表短语
+    const examples = Object.entries(patternMap)
+      .filter(([s]) => _phraseCategory(_classifyPhraseStruct(s, word)) === cat)
+      .sort(([,a],[,b]) => b - a)
+      .slice(0, 4)
+      .map(([s, c]) => ({ ph: s, c }));
+    cats.push({ cat, cnt, examples });
+  });
+  return cats;
 }
 
 // 检测文体类型
@@ -308,60 +383,66 @@ function _getMmData(word) {
 // ====== 渲染风向标主函数 ======
 function renderMindMap(word, entry) {
   const data = analyzeWindVane(word, entry);
-  if (!data.hasData && data.senses.length === 0) return '';
+  if (!data.hasData && data.phrases.length === 0) return '';
 
-  const maxCount = Math.max(...data.senses.map(s => s.count), 1);
+  const maxCnt = Math.max(...data.phrases.map(p => p.cnt), 1);
 
-  // ---- 左侧柱状图 ----
+  // ---- 左侧：高频搭配柱状图 ----
   let barsHtml = '';
-  data.senses.forEach(s => {
-    const pct = Math.round(s.count / maxCount * 100);
-    const barW = Math.max(pct, s.count > 0 ? 8 : 0);
+  data.phrases.forEach(p => {
+    const pct = Math.round(p.cnt / maxCnt * 100);
+    const barW = Math.max(pct, p.cnt > 0 ? 10 : 0);
     barsHtml += `<div class="wv-bar-row">
-      <span class="wv-bar-label" title="${esc(s.defText)}">${esc(s.label)}</span>
+      <span class="wv-bar-label" title="${esc(p.display)}">${esc(p.display)}</span>
       <div class="wv-bar-track">
         <div class="wv-bar-fill" style="width:${barW}%"></div>
-        ${s.count > 0 ? `<span class="wv-bar-val">${s.count}</span>` : ''}
+        <span class="wv-bar-val">${p.cnt}</span>
       </div>
     </div>`;
   });
 
-  // ---- 右侧文字分析 ----
+  // ---- 右侧：用法分析文字 ----
   const totalAll = data.totalGaokao + data.totalTextbook;
-  let analysisHtml = '';
-  analysisHtml += `<p class="wv-lead"><b>${esc(data.word)}</b>在十年高考真题与教材中共出现<b>${totalAll}</b>词次，其中：</p>`;
-  let rightLines = [];
+  let rightHtml = '';
 
-  // 分释义描述
-  if (data.senses.length > 0) {
-    data.senses.forEach((s, i) => {
-      if (s.count === 0) return;
-      const parts = [];
-      parts.push(`「${esc(s.label)}」`);
-      parts.push(`出现${s.gaokao + s.textbook}次`);
-      if (s.gaokao > 0) parts.push(`（高考${s.gaokao}次）`);
-      // 文体提示
-      if (data.genres.types.length > 0) {
-        const topGenre = data.genres.types[0].t;
-        if (i === 0 || s.gaokao >= 3) parts.push(`，常出现在<span class="wv-hl">${esc(topGenre)}</span>类试题中`);
-      }
-      rightLines.push(`（${i + 1}）${parts.join('')}；`);
+  // 总述
+  rightHtml += `<p class="wv-lead"><b>${esc(data.word)}</b>在十年高考真题与教材中共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
+
+  let lines = [];
+
+  // 按类别展示高频搭配
+  if (data.categories.length > 0) {
+    data.categories.forEach((cat, ci) => {
+      if (cat.examples.length === 0) return;
+      const phList = cat.examples.map(e =>
+        `<span class="wv-hl">${esc(e.ph)}</span><span class="wv-num">(${e.cnt}次)</span>`
+      ).join('、');
+      lines.push(`（${ci + 1}）<b>${esc(cat.cat)}</b>：${phList}；`);
     });
   }
 
-  // 高频短语
+  // 补充未归类的 top 短语
   if (data.phrases.length > 0) {
-    const phList = data.phrases.slice(0, 5).map(p =>
-      `<span class="wv-hl">${esc(p.ph)}</span>（${p.cnt}次）`
-    ).join('、');
-    rightLines.push(`高频搭配：${phList}。`);
+    const extra = data.phrases.filter(p =>
+      !data.categories.some(c => c.examples.some(e => e.ph === p.core))
+    ).slice(0, 5);
+    if (extra.length > 0) {
+      const phList = extra.map(p =>
+        `<span class="wv-hl">${esc(p.display)}</span><span class="wv-num">(${p.cnt}次)</span>`
+      ).join('、');
+      lines.push(`高频表达：${phList}。`);
+    }
   }
 
-  analysisHtml += `<div class="wv-body">`;
-  rightLines.forEach(line => {
-    analysisHtml += `<p class="wv-line">${line}</p>`;
-  });
-  analysisHtml += `</div>`;
+  // 考试建议
+  if (data.genres.types.length > 0 && data.totalGaokao >= 3) {
+    const topG = data.genres.types[0];
+    lines.push(`该词在<span class="wv-hl">${esc(topG.t)}</span>类试题中出现频率较高，需重点关注其固定搭配。`);
+  }
+
+  rightHtml += `<div class="wv-body">`;
+  lines.forEach(l => { rightHtml += `<p class="wv-line">${l}</p>`; });
+  rightHtml += `</div>`;
 
   return `<div class="wv-wrap">
     <div class="wv-header">
@@ -370,11 +451,11 @@ function renderMindMap(word, entry) {
     </div>
     <div class="wv-content">
       <div class="wv-left">
-        <div class="wv-chart-title">${esc(word)}义项</div>
+        <div class="wv-chart-title">高频搭配</div>
         <div class="wv-bars">${barsHtml}</div>
       </div>
       <div class="wv-right">
-        ${analysisHtml}
+        ${rightHtml}
       </div>
     </div>
   </div>`;
