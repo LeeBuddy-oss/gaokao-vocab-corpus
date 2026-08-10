@@ -1,6 +1,7 @@
 const WORDS_URL = 'data/words.json';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
+const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json';
 
 const CATS = [
@@ -12,7 +13,7 @@ const CATS = [
 ];
 
 let WORDS = [];
-const cache = {};        // letter -> { word: entry }
+let WORD_FILES = null;   // 小写/原词 -> "<letter>/<file>.json"（manifest）
 const mmCache = {};      // letter -> { word: mindmap }
 let activeIdx = -1;      // suggestion highlight index
 
@@ -26,12 +27,15 @@ init();
 async function init() {
   loadStats();
   try {
-    const r = await fetch(WORDS_URL);
-    WORDS = await r.json();
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL), fetch(WORDS_BASE + 'manifest.json')]);
+    WORDS = wr.ok ? await wr.json() : [];
+    WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
     console.error('加载词表失败', e);
   }
   bindEvents();
+  // 预热首页示例词的字母思维导图（identify/ability/improve/culture/environment → i,a,m,c,e）
+  ['i', 'a', 'm', 'c', 'e'].forEach(preload);
 }
 
 function loadStats() {
@@ -57,6 +61,9 @@ function bindEvents() {
 function onInput() {
   const q = $search.value.trim().toLowerCase();
   if (!q) { hideSuggest(); return; }
+  // 边打字边预热该字母的数据，查询时几乎零等待
+  const letter = (/^[a-z]/i.test(q) ? q[0] : '#');
+  preload(letter);
   const matches = WORDS.filter(w => w.w.toLowerCase().startsWith(q))
     .concat(WORDS.filter(w => !w.w.toLowerCase().startsWith(q) && w.w.toLowerCase().includes(q)))
     .slice(0, 12);
@@ -94,27 +101,73 @@ function choose(word) {
   search(word);
 }
 
+/* ========== 数据加载（极速单字查询） ==========
+ * 每个词独立成文件 data/words/<letter>/<safe>.json，查询只下载该词（~10–40KB），
+ * 不再下载整个字母的 MB 级大文件；manifest.json 记录 词→文件路径 的精确映射。
+ * 思维导图仍按字母分片（较小，~43KB）并在后台预热。
+ */
+async function ensureMindmap(letter) {
+  if (mmCache[letter]) return mmCache[letter];
+  try {
+    const r = await fetch(MINDMAP_BASE + letter + '.json');
+    mmCache[letter] = r.ok ? await r.json() : {};
+  } catch (e) {
+    mmCache[letter] = {};
+  }
+  return mmCache[letter];
+}
+
+// 后台预热思维导图（不阻塞输入）
+function preload(letter) {
+  if (!letter || letter === '#') return;
+  ensureMindmap(letter);
+}
+
+// 把用户输入解析成 manifest 中的原始词键（处理大小写/特殊词）
+function resolveKey(word) {
+  if (WORD_FILES && WORD_FILES[word]) return word;
+  const low = word.toLowerCase();
+  if (WORD_FILES && WORD_FILES[low]) return low;
+  // 退而求其次：用已加载词表找大小写匹配的原文
+  const hit = WORDS.find(w => w.w.toLowerCase() === low);
+  return hit ? hit.w : null;
+}
+
 async function search(rawWord) {
   const word = (rawWord || '').trim();
   if (!word) return;
   const letter = (/^[a-z]/i.test(word) ? word[0].toLowerCase() : '#');
-  if (!cache[letter]) {
+  // 确保 manifest 已就绪（首次极快）
+  if (!WORD_FILES) {
     try {
-      const r = await fetch(INDEX_BASE + letter + '.json');
-      cache[letter] = await r.json();
-    } catch (e) {
-      console.error('加载索引失败', e);
-      cache[letter] = {};
-    }
+      const r = await fetch(WORDS_BASE + 'manifest.json');
+      if (r.ok) WORD_FILES = await r.json();
+    } catch (e) {}
   }
-  // 等待思维导图数据加载完成后再渲染
-  await loadMindmap(letter);
-  const entry = cache[letter][word] || cache[letter][word.toLowerCase()];
-  $empty.hidden = true;
-  if (!entry) { renderNotFound(word); return; }
-  // 先渲染思维导图，再渲染词条
-  const mmHtml = await renderMindMap(word, entry);
-  renderEntry(entry, word, mmHtml);
+  const key = resolveKey(word);
+  if (!key) { $empty.hidden = true; renderNotFound(word); return; }
+  const rel = WORD_FILES[key];
+  if (!rel) { $empty.hidden = true; renderNotFound(word); return; }
+
+  showLoading(true);
+  try {
+    // 词条（小文件）与思维导图（已预热）并行加载
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel), ensureMindmap(letter)]);
+    if (!res.ok) { renderNotFound(word); return; }
+    const entry = await res.json();
+    $empty.hidden = true;
+    const mmHtml = renderMindMap(word, entry);
+    renderEntry(entry, word, mmHtml);
+  } catch (e) {
+    console.error(e);
+  } finally {
+    showLoading(false);
+  }
+}
+
+function showLoading(on) {
+  const el = document.getElementById('loading');
+  if (el) el.hidden = !on;
 }
 
 function renderNotFound(word) {
@@ -133,17 +186,6 @@ const MM_COLORS = {
   rightText: '#A52A2A',    // 右侧短语深红
   posLabel: '#c44',        // 词性标签
 };
-
-async function loadMindmap(letter) {
-  if (mmCache[letter]) return mmCache[letter];
-  try {
-    const r = await fetch(MINDMAP_BASE + letter + '.json');
-    mmCache[letter] = await r.json();
-  } catch (e) {
-    mmCache[letter] = {};
-  }
-  return mmCache[letter];
-}
 
 function renderMindMap(word, entry) {
   const letter = (/^[a-z]/i.test(word) ? word[0].toLowerCase() : '#');
