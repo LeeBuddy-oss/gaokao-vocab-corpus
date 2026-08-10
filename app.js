@@ -14,6 +14,7 @@ const CATS = [
 
 let WORDS = [];
 let WORD_FILES = null;   // 小写/原词 -> "<letter>/<file>.json"（manifest）
+let FAMILY_INDEX = null; // 小写形式 -> { seq,cn,verb,noun,adj,adv }（词性变换）
 const mmCache = {};      // letter -> { word: mindmap }
 let activeIdx = -1;      // suggestion highlight index
 
@@ -123,6 +124,21 @@ function preload(letter) {
   ensureMindmap(letter);
 }
 
+// 词性变换表（词汇家族表）数据：首次查询时懒加载一次
+async function ensureFamily() {
+  if (FAMILY_INDEX) return FAMILY_INDEX;
+  try {
+    const r = await fetch('data/family.json');
+    if (r.ok) {
+      const data = await r.json();
+      FAMILY_INDEX = data.index || {};
+    }
+  } catch (e) {
+    FAMILY_INDEX = FAMILY_INDEX || {};
+  }
+  return FAMILY_INDEX;
+}
+
 // 把用户输入解析成 manifest 中的原始词键（处理大小写/特殊词）
 function resolveKey(word) {
   if (WORD_FILES && WORD_FILES[word]) return word;
@@ -151,13 +167,14 @@ async function search(rawWord) {
 
   showLoading(true);
   try {
-    // 词条（小文件）与思维导图（已预热）并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel), ensureMindmap(letter)]);
+    // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
+    const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
     $empty.hidden = true;
     const mmHtml = renderMindMap(word, entry);
-    renderEntry(entry, word, mmHtml);
+    renderEntry(entry, word, mmHtml, fam);
   } catch (e) {
     console.error(e);
   } finally {
@@ -637,13 +654,46 @@ function renderMindMap(word, entry) {
 
 /* ========== 词条渲染 ========== */
 
-function renderEntry(entry, word, mmHtml) {
+// 词汇家族表（词性变换）：复用风向标标题样式，表格列与教师 Excel 一致
+function renderFamily(word, fam) {
+  if (!fam) return '';
+  // 缺失的词性以 “/” 占位，杜绝遗漏或错填
+  const v = x => (x && x !== '/') ? esc(x) : '/';
+  const m = x => (x && x !== '/') ? '' : 'fam-missing';
+  return `<div class="wv-wrap family-wrap">
+    <div class="wv-header">
+      <span class="wv-title">词汇家族表</span>
+      <span class="wv-subtitle">${esc(word)} 词性变换</span>
+    </div>
+    <table class="family-table">
+      <thead><tr>
+        <th>序号</th><th>中文释义</th><th>动词</th><th>名词</th><th>形容词</th><th>副词</th>
+      </tr></thead>
+      <tbody><tr>
+        <td class="${m(fam.seq)}">${v(fam.seq)}</td>
+        <td class="fam-cn">${v(fam.cn)}</td>
+        <td class="${m(fam.verb)}">${v(fam.verb)}</td>
+        <td class="${m(fam.noun)}">${v(fam.noun)}</td>
+        <td class="${m(fam.adj)}">${v(fam.adj)}</td>
+        <td class="${m(fam.adv)}">${v(fam.adv)}</td>
+      </tr></tbody>
+    </table>
+  </div>`;
+}
+
+function renderEntry(entry, word, mmHtml, fam) {
   const meta = entry.meta || {};
   let html = '';
 
-  // 思维导图（如果有）
+  // 词汇风向标
   if (mmHtml) {
     html += mmHtml;
+  }
+
+  // 词汇家族表（词性变换）——位于词汇风向标之下
+  const famHtml = renderFamily(word, fam);
+  if (famHtml) {
+    html += famHtml;
   }
 
   html += `<div class="word-head">` +

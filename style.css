@@ -361,3 +361,42 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   .wv-left { flex: none; width: 100%; }
   .wv-bar-label { flex: 0 0 120px; font-size: 11.5px; }
 }
+
+/* ========== 词汇家族表（词性变换） ========== */
+.family-wrap { padding-bottom: 16px; }
+.family-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 15px;
+  color: var(--text);
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.family-table thead th {
+  background: #1e3a8a;          /* 与标题蓝一致 */
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: .5px;
+  padding: 10px 12px;
+  text-align: center;
+  border-right: 1px solid rgba(255,255,255,.18);
+}
+.family-table thead th:last-child { border-right: none; }
+.family-table tbody td {
+  padding: 12px 12px;
+  text-align: center;
+  border-top: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  vertical-align: middle;
+}
+.family-table tbody td:last-child { border-right: none; }
+.family-table tbody td.fam-cn { text-align: left; font-weight: 600; }
+.family-table tbody td { color: var(--text); }
+.family-table tbody td:empty::before,
+.family-table tbody td > .slash { color: var(--faint); }
+/* “/” 占位：弱化显示，避免与真实内容混淆 */
+.family-table tbody td:not(.fam-cn) { color: #334155; }
+.family-table tbody td.fam-missing { color: var(--faint); font-weight: 400; }
