@@ -833,10 +833,9 @@ function renderFamily(word, fam) {
     </div>
     <table class="family-table">
       <thead><tr>
-        <th>序号</th><th>中文释义</th><th>动词</th><th>名词</th><th>形容词</th><th>副词</th>
+        <th>常见释义</th><th>动词</th><th>名词</th><th>形容词</th><th>副词</th>
       </tr></thead>
       <tbody><tr>
-        <td class="${m(fam.seq)}">${v(fam.seq)}</td>
         <td class="fam-cn">${v(fam.cn)}</td>
         <td class="${m(fam.verb)}">${v(fam.verb)}</td>
         <td class="${m(fam.noun)}">${v(fam.noun)}</td>
