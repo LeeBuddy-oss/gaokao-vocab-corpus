@@ -37,8 +37,8 @@ body::before {
   content: "";
   position: fixed;
   inset: 0;
-  background: url('images/bg-mountains.png') center/cover no-repeat;
-  opacity: 0.12;
+  background: url('images/bg-mountains.png') center/100% 100% no-repeat;
+  opacity: 0.15;
   z-index: -1;
   pointer-events: none;
 }
