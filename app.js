@@ -885,9 +885,10 @@ function renderEntry(entry, word, mmHtml, fam) {
     if (!exs.length) {
       html += `<div class="def-empty">本义项下暂无例句。</div>`;
     }
-    exs.forEach(ex => {
+    exs.forEach((ex, exIdx) => {
       const cat = ex.cat || classify(ex.src);
       html += `<div class="ex s-${cat}">` +
+        `<div class="ex-num">(${exIdx + 1})</div>` +
         `<div class="ex-sentence">${highlight(ex.s || '', word)}</div>` +
         (ex.src ? `<span class="badge">${esc(ex.src)}</span>` : '') +
         (ex.t ? `<div class="ex-trans">${esc(ex.t)}</div>` : '') +

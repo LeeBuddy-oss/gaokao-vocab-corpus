@@ -210,6 +210,10 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .ex.s-yilin { border-left-color: var(--yilin); }
 
 .ex-sentence { font-size: 15.5px; color: var(--text); }
+.ex-num {
+  font-size: 13px; font-weight: 700; color: var(--title);
+  margin-bottom: 6px;
+}
 .ex-sentence mark { background: var(--mark); color: var(--mark-text); padding: 0 2px; border-radius: 3px; font-weight: 600; }
 .badge {
   display: inline-block; margin: 8px 0 4px;
