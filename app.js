@@ -876,11 +876,12 @@ function renderEntry(entry, word, mmHtml, fam) {
     // 推断词性：释义以 "to " 开头 → verb，否则 noun
     const defText = (d.def || '').trim();
     const pos = defText.toLowerCase().startsWith('to ') ? 'verb' : 'noun';
+    const exs = d.ex || [];
+    const exCount = exs.length;
     html += `<div class="def" data-def-idx="${idx}">` +
-      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-pos">[${pos}]</span><span class="def-toggle">▲</span></div>` +
+      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-pos">[${pos}]</span><span class="def-count">${exCount} 例句</span><span class="def-toggle">▲</span></div>` +
       (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '') +
       `<div class="ex-list collapsed">`;
-    const exs = d.ex || [];
     if (!exs.length) {
       html += `<div class="def-empty">本义项下暂无例句。</div>`;
     }
