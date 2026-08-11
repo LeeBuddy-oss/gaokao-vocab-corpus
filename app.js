@@ -793,12 +793,6 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">高频搭配</span>${sl}</p>`;
   }
 
-  // 涵盖义项
-  const coverList = senses.map(s => s.label).filter(Boolean).slice(0, 6);
-  if (coverList.length > 0) {
-    rightHtml += `<p class="wv-line"><span class="wv-tag">涵盖</span>${esc(coverList.join('、'))}等义项</p>`;
-  }
-
   // 语篇分布（与高频搭配同格式）
   const genres = _detectGenres([...srcSet]);
   if (genres.types.length > 0 && totalGaokao >= 3) {
