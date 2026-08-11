@@ -618,13 +618,6 @@
           "t": "双胞胎将早餐抬上楼,把母亲叫醒."
         },
         {
-          "s": "When I was 9, we packed up our home in Los Angeles and arrived at Heathrow, London on a gray January morning.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "9岁时,我们收拾了洛杉矶的家,并于1月灰色早晨抵达伦敦希思罗."
-        },
-        {
           "s": "Within a couple of years, I'd given it up.",
           "src": "2021全国甲卷·阅读理解C",
           "cat": "gaokao",
@@ -2442,13 +2435,6 @@
           "t": "我不知道是什么让我决定在新学校尝试一些新的活动,但是有一天我偶然地来到了科学奥林匹克队的课余会议."
         },
         {
-          "s": "Dogs are known for their impressive fetching habit, but cats take this behavior up a notch.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "狗以令人印象深刻的衔回习惯而闻名，而猫则把这种行为提升到了一个新的高度。"
-        },
-        {
           "s": "Which best explains the phrase \"take. . . up notch\" in paragraph 3?",
           "src": "2024全国甲卷·阅读理解B",
           "cat": "gaokao",
@@ -2481,6 +2467,13 @@
     {
       "def": "as far as a particular number, level, etc. 到达（某数量、程度等）；至多有",
       "ex": [
+        {
+          "s": "When I was 9, we packed up our home in Los Angeles and arrived at Heathrow, London on a gray January morning.",
+          "src": "2021全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "9岁时,我们收拾了洛杉矶的家,并于1月灰色早晨抵达伦敦希思罗."
+        },
         {
           "s": "When I arrived at the campsite for the night, my tent was already set up and ___21___ me.",
           "src": "2023天津3月卷·完形填空",
@@ -2821,11 +2814,25 @@
       "def": "to increase the price or amount of sth 提高 … 的价格（或数量）",
       "ex": [
         {
+          "s": "Dogs are known for their impressive fetching habit, but cats take this behavior up a notch.",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "狗以令人印象深刻的衔回习惯而闻名，而猫则把这种行为提升到了一个新的高度。"
+        },
+        {
           "s": "I find during the winter months, plants around the house can really lift your mood.” Several studies have backed this up and found that indoor plants can improve creativity, focus and memory.",
           "src": "2023全国乙卷·七选五",
           "cat": "gaokao",
           "year": 2023,
           "t": "我发现在冬天的几个月里,周围的植物可以真正提升你的情绪。” 一些研究证实了这一点,并发现室内植物可以提高创造力、重点和记忆力。"
+        },
+        {
+          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "从20世纪30年代开始,麦金泰尔说,促使该州水压上升的最大因素是气温升高,导致树木向空气中流失更多的水,更早的雪融也减少了树木在旱季期间的供水."
         }
       ]
     },
@@ -2845,13 +2852,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "更多新的聊天长椅在英国内外涌现。"
-        },
-        {
-          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "从20世纪30年代开始,麦金泰尔说,促使该州水压上升的最大因素是气温升高,导致树木向空气中流失更多的水,更早的雪融也减少了树木在旱季期间的供水."
         },
         {
           "s": "But all of that growth will take up a lot of space, and though more and more people accept the concept of solar energy, few like large solar panels to be installed near them.",

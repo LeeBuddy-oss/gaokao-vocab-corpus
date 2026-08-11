@@ -198,13 +198,6 @@
           "t": "想象一下这个小个子男人头上顶着巨大的装备___18___的样子。"
         },
         {
-          "s": "Dad said she was probably lonely, and that I ought to sit and listen and nod my head and smile, and maybe she’d work it out of her system.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她在城里住了大半辈子，但她懂得什么是社区。"
-        },
-        {
           "s": "In the case of emperors, the act required the person to touch their head to the ground.",
           "src": "2018上海卷·Section B",
           "cat": "gaokao",
@@ -388,13 +381,6 @@
           "t": "许多人认为积极思维主要是把头埋在沙子里，忽略日常问题，试图表现得乐观。"
         },
         {
-          "s": "Although they could never have met, there are common ___37___ (theme) in their works, said Paul Edmondson, head of research for the Shakespeare Birthplace Trust.",
-          "src": "2024新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "莎士比亚出生地基金会研究主管保罗·埃德蒙森说，尽管他们不可能见过面，但他们的作品中有共同的____（主题）。"
-        },
-        {
           "s": "Jane moved aimlessly down the tree-lined street, not knowing ______she was heading.",
           "src": "2017北京卷",
           "cat": "gaokao",
@@ -466,7 +452,15 @@
     },
     {
       "def": "too difficult or complicated for sb to understand 超过某人理解力；过于复杂",
-      "ex": []
+      "ex": [
+        {
+          "s": "Dad said she was probably lonely, and that I ought to sit and listen and nod my head and smile, and maybe she’d work it out of her system.",
+          "src": "2017浙江11月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "她在城里住了大半辈子，但她懂得什么是社区。"
+        }
+      ]
     },
     {
       "def": "to a higher position of authority than sb 职位比某人高；超过某人",
@@ -493,7 +487,15 @@
     },
     {
       "def": "to lead or be in charge of sth 领导；主管",
-      "ex": []
+      "ex": [
+        {
+          "s": "Although they could never have met, there are common ___37___ (theme) in their works, said Paul Edmondson, head of research for the Shakespeare Birthplace Trust.",
+          "src": "2024新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "莎士比亚出生地基金会研究主管保罗·埃德蒙森说，尽管他们不可能见过面，但他们的作品中有共同的____（主题）。"
+        }
+      ]
     },
     {
       "def": "to be at the top of a list of names or at the front of a line of people 位于排行之首；排在前头",

@@ -255,13 +255,6 @@
           "t": "36 当你第一次试图为作文构思时，把笔放在纸上连续写十到十五分钟，不要让笔离开纸面。"
         },
         {
-          "s": "She adds: “I’ve moved house many times and I always like to personalise my room and put up pictures.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她补充道：“我搬过很多次家，我总是喜欢把自己的房间布置得有个性，挂上画。"
-        },
-        {
           "s": "He was impressed, saying “.... all the soldiers ___36___ themselves to one idea and worked together to put that idea over.” He then began using the term gung-ho in the Marine Corps to try to create the same spirit he had ___37___.",
           "src": "2018上海卷·Section B",
           "cat": "gaokao",
@@ -302,13 +295,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "对现在的我们来说，这道栅栏似乎只是一个障碍。"
-        },
-        {
-          "s": "I tried to put myself in my brother’s shoes.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它随着年龄增长而变大。"
         },
         {
           "s": "A few months ago, the 30-year-old teacher decided it was time to put her ___42___ to good use.",
@@ -547,13 +533,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "爵士乐观众群体变大。"
-        },
-        {
-          "s": "Why was The Last Picture Show put on?",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么要放映《最后一场电影》？"
         },
         {
           "s": "lead to financial difficulties        D. put pressure on schools",
@@ -909,6 +888,13 @@
       "def": "to cancel a meeting or an arrangement that you have made with sb 取消，撤销（与某人的会晤或安排）",
       "ex": [
         {
+          "s": "She adds: “I’ve moved house many times and I always like to personalise my room and put up pictures.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她补充道：“我搬过很多次家，我总是喜欢把自己的房间布置得有个性，挂上画。"
+        },
+        {
           "s": "put the students in a class that fits them",
           "src": "2023天津6月卷·阅读理解A",
           "cat": "gaokao",
@@ -996,11 +982,26 @@
     },
     {
       "def": "to make a tape, CD, DVD, etc. begin to play 播放（磁带、CD、DVD 等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Why was The Last Picture Show put on?",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "为什么要放映《最后一场电影》？"
+        }
+      ]
     },
     {
       "def": "to become heavier, especially by the amount mentioned 增加（若干）体重；发胖",
       "ex": [
+        {
+          "s": "I tried to put myself in my brother’s shoes.",
+          "src": "2025新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "它随着年龄增长而变大。"
+        },
         {
           "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
           "src": "2017全国II卷·阅读理解C",

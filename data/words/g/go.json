@@ -569,13 +569,6 @@
           "t": "他想到，如果有合适的动植物组合，也许他能像大自然那样清理垃圾。"
         },
         {
-          "s": "Have the sales section go first.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "先搬销售部门。"
-        },
-        {
           "s": "Nutria were brought there from Argentina by fur farmers and let go into the wild.",
           "src": "2020全国II卷·阅读理解C",
           "cat": "gaokao",
@@ -1509,7 +1502,15 @@
     },
     {
       "def": "to be sold 被卖掉；被出售",
-      "ex": []
+      "ex": [
+        {
+          "s": "Have the sales section go first.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "先搬销售部门。"
+        }
+      ]
     },
     {
       "def": "to be willing to pay a particular amount of money for sth 愿出价购买",

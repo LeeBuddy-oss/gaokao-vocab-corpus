@@ -28,13 +28,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "他张开双臂双腿好像____17____他在飞一样，眼睛睁得大大的充满____18____。"
-        },
-        {
-          "s": "Soon after moving to Switzerland, I ____11____(throw) a house-warming party and was greatly surprised when all 30 guests showed up ____12____(exact) on time.",
-          "src": "2023北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "搬到瑞士后不久，我____11__(throw)举办了一个乔迁派对，结果30位客人都____12__(exact)准时到达，让我大吃一惊。"
         }
       ]
     },
@@ -156,7 +149,21 @@
     },
     {
       "def": "to give a party 举行聚会",
-      "ex": []
+      "ex": [
+        {
+          "s": "Soon after moving to Switzerland, I ____11____(throw) a house-warming party and was greatly surprised when all 30 guests showed up ____12____(exact) on time.",
+          "src": "2023北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "搬到瑞士后不久，我____11__(throw)举办了一个乔迁派对，结果30位客人都____12__(exact)准时到达，让我大吃一惊。"
+        },
+        {
+          "s": "We 3____ (throw) her a big birthday party!",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我们3____（throw 举办）她一个盛大的生日派对！"
+        }
+      ]
     },
     {
       "def": "to deliberately lose a game or contest that you should have won 故意输掉（本应获胜的比赛或竞赛）",
@@ -401,12 +408,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "为了给一些有才华的演员留下印象、让他们免费来为我工作，我在沙发上铺了些盖毯、点了蜡烛，让地方显得更“年轻职业范儿”一些。"
-        },
-        {
-          "s": "We 3____ (throw) her a big birthday party!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我们3____（throw 举办）她一个盛大的生日派对！"
         }
       ]
     }
