@@ -198,20 +198,6 @@
           "t": "在18和19世纪，36（wealth）富裕的人四处旅行，收集植物、历史物品和艺术品。"
         },
         {
-          "s": "This includes, but is not limited to: visual art, graphic art, photography, poetry, short story, non-fiction, etc Submissions may be from existing or newly created work.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "包括但不限于：视觉艺术、平面艺术、摄影、诗歌、短篇小说、非虚构作品等。投稿可以是已有作品或新创作的作品。"
-        },
-        {
-          "s": "Working from an inspirational picture, this workshop at Helmsley Arts Centre will teach you the techniques you will need to recreate your picture in wool.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这个在赫尔姆斯利艺术中心举办的工作坊将以一幅富有启发性的图片为基础，教你用羊毛重现这幅画的技巧。"
-        },
-        {
           "s": "What is the major finding of the study regarding the appreciation of art?",
           "src": "2026新高考I卷·阅读理解D",
           "cat": "gaokao",
@@ -275,13 +261,6 @@
           "t": "公共艺术标牌将展出多长时间？"
         },
         {
-          "s": "We look forward to welcoming you as we showcase the creativity of the Harvard arts community through performances, art exhibitions and art-making activities.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们期待欢迎你，通过表演、艺术展览和创作活动展示哈佛艺术社区的创造力。"
-        },
-        {
           "s": "Learn about the materials and qualities of watercolor paint with experts from the Harvard Art Museums Materials Lab.",
           "src": "2024全国甲卷·阅读理解A",
           "cat": "gaokao",
@@ -308,13 +287,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "作为一名在社交媒体上分享自己历程的艺术家，我常被好奇的粉丝问到如何开启艺术之旅。"
-        },
-        {
-          "s": "So I’ve put together some good tips for starting an art journey.",
-          "src": "2023新课标II卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "因此，我整理了一些开始艺术之旅的好技巧。"
         },
         {
           "s": "The art of cooking in other countries.",
@@ -504,6 +476,13 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "世界最佳艺术老师"
+        },
+        {
+          "s": "Wang serves as head of the Architecture Department at the China Academy of Art (CAA).",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "王担任中国美术学院（CAA）建筑系主任。"
         }
       ]
     },
@@ -511,18 +490,18 @@
       "def": "examples of objects such as paintings, drawings or sculptures 艺术作品；美术作品",
       "ex": [
         {
+          "s": "This includes, but is not limited to: visual art, graphic art, photography, poetry, short story, non-fiction, etc Submissions may be from existing or newly created work.",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "包括但不限于：视觉艺术、平面艺术、摄影、诗歌、短篇小说、非虚构作品等。投稿可以是已有作品或新创作的作品。"
+        },
+        {
           "s": "The image of the reader appears throughout history, in art made long before books as we now know them came into being.",
           "src": "2023新课标II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
           "t": "读者的形象贯穿整个历史，出现在远早于我们今天所熟知的书籍诞生之前的艺术作品中。"
-        },
-        {
-          "s": "An exhibition at the Jiushi Art Museum in Shanghai is featuring artwork inspired by Go, or weiqi in Chinese, ____56____ originated in China more than 4,000 years ago.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "科学为我们提供了一个指南，我们可以用它来引导自己进行比较的方式，减少其负面情绪影响。"
         },
         {
           "s": "Reading Art: Art for Book Lovers is a celebration of an everyday object — the book, represented here in almost three hundred artworks from museums around the world.",
@@ -550,6 +529,20 @@
     {
       "def": "the skill of creating objects such as paintings and drawings, especially when you study it 艺术技巧",
       "ex": [
+        {
+          "s": "Working from an inspirational picture, this workshop at Helmsley Arts Centre will teach you the techniques you will need to recreate your picture in wool.",
+          "src": "2021新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这个在赫尔姆斯利艺术中心举办的工作坊将以一幅富有启发性的图片为基础，教你用羊毛重现这幅画的技巧。"
+        },
+        {
+          "s": "So I’ve put together some good tips for starting an art journey.",
+          "src": "2023新课标II卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "因此，我整理了一些开始艺术之旅的好技巧。"
+        },
         {
           "s": "We invite you to join us for the coming ARTS FIRST.",
           "src": "2024全国甲卷·阅读理解A",
@@ -582,6 +575,13 @@
       "def": "a type of visual or performing art 表演艺术",
       "ex": [
         {
+          "s": "We look forward to welcoming you as we showcase the creativity of the Harvard arts community through performances, art exhibitions and art-making activities.",
+          "src": "2024全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我们期待欢迎你，通过表演、艺术展览和创作活动展示哈佛艺术社区的创造力。"
+        },
+        {
           "s": "Design art classes.",
           "src": "2026北京卷·阅读理解A",
           "cat": "gaokao",
@@ -593,7 +593,7 @@
           "src": "2025新高考I卷·语法填空",
           "cat": "gaokao",
           "year": 2025,
-          "t": "我希望早点教给女儿的就是这些细微之处。"
+          "t": "\"这次展览汇集了围棋文化、前沿技术和当代艺术，\"涂说。"
         },
         {
           "s": "“We hope ____58____ (present)the rather abstract Go game and AI in a visual context, and initiate dialogues with minimalist art, conceptual art and expressionism.”",
@@ -631,13 +631,6 @@
           "t": "学期即将结束，大家情绪高涨。"
         },
         {
-          "s": "Wang serves as head of the Architecture Department at the China Academy of Art (CAA).",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据王澍的观点，我们应该如何对待中国传统？"
-        },
-        {
           "s": "his interest in modern art",
           "src": "2018浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -649,13 +642,20 @@
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
-          "t": "一个寒冷的夜晚，我和一些学生在落基山脉徒步旅行时，提到我们要穿过一条山溪。"
+          "t": "重新学习观察周围世界的艺术其实很简单，尽管需要练习，还需要改掉一些坏习惯。"
         }
       ]
     },
     {
       "def": "the subjects you can study at school or university that are not scientific, such as languages, history or literature 人文科学，文科（如语言、历史、文学）",
       "ex": [
+        {
+          "s": "An exhibition at the Jiushi Art Museum in Shanghai is featuring artwork inspired by Go, or weiqi in Chinese, ____56____ originated in China more than 4,000 years ago.",
+          "src": "2025新高考I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "科学为我们提供了一个指南，我们可以用它来引导自己进行比较的方式，减少其负面情绪影响。"
+        },
         {
           "s": "In the sciences and arts, those praised as geniuses were most often white men, of European origin.",
           "src": "2021全国甲卷·阅读理解D",
@@ -703,7 +703,7 @@
           "src": "外研社B2 U3",
           "cat": "waiyan",
           "year": "",
-          "t": "1963年，图尔基在牛津大学获得天文学学位后不久，就被诊断出运动神经元疾病。"
+          "t": "太极拳是一种历史悠久的武术，通常是一个受欢迎的选择。"
         },
         {
           "s": "Cultural tourism: travellers go to theatres, museums and festivals to learn about local art, history and lifestyle.",

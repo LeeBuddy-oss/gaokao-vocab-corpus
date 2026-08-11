@@ -52,7 +52,7 @@
           "src": "2025新高考II卷·七选五",
           "cat": "gaokao",
           "year": 2025,
-          "t": "距离我上次使用电话亭已经很多年了，所以我几乎不惊讶我家附近已经没有任何公用电话了。"
+          "t": "帮助社区可以降低抑郁率。"
         },
         {
           "s": "To predict their maximum heart rate.",
@@ -101,13 +101,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "在印度北部，由于高出生率，人口正在激增，但在大多数经济发展正在进行的南部，出生率正在迅速下降。"
-        },
-        {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
         },
         {
           "s": "When vaccination rates are very high, as they still are in the nation as a whole, everyone is protected.",
@@ -162,13 +155,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
-        },
-        {
-          "s": "The first is declining birth rates, which means old generations are large   60   （compare） to younger generations, and so, on average, the population becomes   61   （old） than before.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "首先是出生率下降，这意味着老一代比年轻一代____60____（多），因此平均而言人口比以前更____61____（老）。"
         }
       ]
     },
@@ -180,11 +166,18 @@
       "def": "(in Britain) a tax paid by businesses to a local authority for land and buildings that they use and in the past also paid by anyone who owned a house （英国地方政府征收的）房地产税，房产税",
       "ex": [
         {
+          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+        },
+        {
           "s": "They had slow metabolic rates.",
           "src": "2020江苏卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "他们缺乏运动导致超重。"
+          "t": "他们的代谢率很慢。"
         },
         {
           "s": "“People who live in plant-rich environments report a higher life satisfaction rating, ” she says.",
@@ -212,7 +205,15 @@
     },
     {
       "def": "used to show that what you have just said is not as important as what you are going to say （强调下文）总而言之，反正",
-      "ex": []
+      "ex": [
+        {
+          "s": "The first is declining birth rates, which means old generations are large   60   （compare） to younger generations, and so, on average, the population becomes   61   （old） than before.",
+          "src": "2020浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "首先是出生率下降，这意味着老一代比年轻一代____60____（多），因此平均而言人口比以前更____61____（老）。"
+        }
+      ]
     },
     {
       "def": "to have or think that sb/sth has a particular level of quality, value, etc. 评估；评价；估价",

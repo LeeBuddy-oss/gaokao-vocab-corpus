@@ -13,7 +13,7 @@
           "src": "2020浙江1月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "在研究中，约52%的父亲表现出高于平均水平的权威型育儿方式。关键发现是随着时间的推移，由权威型父亲抚养的孩子更有可能发展出毅力，从而在学校取得更好的成绩。"
+          "t": "权威型育儿不是专制型育儿：不是僵化、苛求或控制。"
         },
         {
           "s": "Controlled experiments on wrens and other birds.",
@@ -44,11 +44,18 @@
           "t": "共同努力将其置于掌控之下。"
         },
         {
-          "s": "A．By getting illegal practices under control．",
-          "src": "2019天津卷·19．",
+          "s": "His parents were not quite able to keep theirs under control.",
+          "src": "2020浙江1月卷·读后续写",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "A．不受控的人类活动严重破坏生态系统。"
+          "year": 2020,
+          "t": "他的父母不太能够控制住自己的情绪。"
+        },
+        {
+          "s": "“Let them feel like they have some control over it.”",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "\"让他们感觉自己对此有一定的控制权。\""
         }
       ]
     },
@@ -210,13 +217,6 @@
           "t": "当污染行业争辩说我们在控制碳排放的战斗中已经失败，除了适应别无选择时，这是一种旨在为一切照旧的商业模式制造理由的 nonsense。"
         },
         {
-          "s": "But the look on everybody’s face when you’re finished and packing, it’s the best smile in the world; and there’s nobody hurt, and the well’s under control.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "但当你完成工作、收拾东西时，每个人脸上的表情是世界上最棒的笑容；没有人受伤，情况已得到控制。"
-        },
-        {
           "s": "It also has a voice control setting that enables you to stay hands-free, while its waterproof band is fully adjustable so that it is comfortable to wear.",
           "src": "外研社B2 U3",
           "cat": "waiyan",
@@ -330,7 +330,15 @@
     },
     {
       "def": "(on a computer keyboard) a key that you press when you want to perform a particular operation （键盘上的）控制键",
-      "ex": []
+      "ex": [
+        {
+          "s": "But the look on everybody’s face when you’re finished and packing, it’s the best smile in the world; and there’s nobody hurt, and the well’s under control.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "但当你完成工作、收拾东西时，每个人脸上的表情是世界上最棒的笑容；没有人受伤，情况已得到控制。"
+        }
+      ]
     },
     {
       "def": "to direct or manage an organization, an area or a situation 掌管，管理，控制，操纵（某机构、地区或局势）",
@@ -353,15 +361,7 @@
     },
     {
       "def": "to be able to organize your life well and keep calm 处之泰然；安之若素",
-      "ex": [
-        {
-          "s": "His parents were not quite able to keep theirs under control.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们开车把儿子送到几小时车程外的大学，他很快就要在那里生活和学习了。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to have power over a person, company, country, etc. so that you are able to decide what they must do or how it is run 指挥；控制；掌管；支配",
@@ -393,13 +393,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "此外,在花园里工作似乎对贾拉米略的特殊教育学生产生了平息效应,其中许多学生有情绪控制问题."
-        },
-        {
-          "s": "“Let them feel like they have some control over it.”",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "可以想象，类似于以往科学模型的构建过程，开发基于\"计算机模拟\"隐喻的模型也将是一项极具回报的练习。"
         },
         {
           "s": "That’s something we all have control over.",
@@ -470,6 +463,13 @@
     {
       "def": "to make sth, such as a machine or system, work in the way that you want it to 操纵，控制（机器或系统等）",
       "ex": [
+        {
+          "s": "A．By getting illegal practices under control．",
+          "src": "2019天津卷·19．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "A．不受控的人类活动严重破坏生态系统。"
+        },
         {
           "s": "New ways of measuring time can help to control Earth systems．",
           "src": "2021北京卷·阅读理解D",

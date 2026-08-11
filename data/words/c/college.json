@@ -7,15 +7,7 @@
   "defs": [
     {
       "def": "(in Britain) a place where students go to study or to receive training after they have left school 常用于名称",
-      "ex": [
-        {
-          "s": "Tyson left for college, so I had to start at a new school all by myself.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "泰森去上大学了，所以我不得不独自在一所新学校重新开始。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "(in the US) a university where students can study for a degree after they have left school 常用于名称",
@@ -33,12 +25,38 @@
       "def": "a place where you can study for higher or more specialist qualifications after you finish high school 高等专科学校；高等职业学院",
       "ex": [
         {
+          "s": "Tyson left for college, so I had to start at a new school all by myself.",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "泰森去上大学了，所以我不得不独自在一所新学校重新开始。"
+        },
+        {
           "s": "Lisa graduated from our school last June and is about to go to college in New York.",
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "year": "",
           "t": "丽莎去年6月从我们学校毕业，即将在纽约上大学。"
         },
+        {
+          "s": "Sure, my friends and I loved to _____46_____ about how bored we were in the middle of nowhere; _____47_____ , as I finish up my junior year of college, I’m convinced that it took _____48_____ our small town to realize how much we actually loved it and what exactly we loved about it.",
+          "src": "2026新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "当然，我和朋友们喜欢____46____我们在偏僻之地有多无聊；____47____，当我念完大三，我确信正是____48____我们的小镇，才让我意识到我们有多爱它、以及我们到底爱它什么。"
+        },
+        {
+          "s": "Schools and Colleges",
+          "src": "2022全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "学校和学院"
+        }
+      ]
+    },
+    {
+      "def": "one of the separate institutions that some British universities, such as Oxford and Cambridge, are divided into （英国大学如牛津和剑桥中独立的）学院",
+      "ex": [
         {
           "s": "Tina Stern   17   rides from Wilson for all her four years in college, and the trips meant much more to her than just free   18  .",
           "src": "2019北京卷·完形填空",
@@ -47,30 +65,11 @@
           "t": "蒂娜·斯特恩在大学四年____17____搭威尔逊的车，这些行程对她而言远不止免费的____18____。"
         },
         {
-          "s": "Sure, my friends and I loved to _____46_____ about how bored we were in the middle of nowhere; _____47_____ , as I finish up my junior year of college, I’m convinced that it took _____48_____ our small town to realize how much we actually loved it and what exactly we loved about it.",
-          "src": "2026新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当然，我和朋友们喜欢____46____我们在偏僻之地有多无聊；____47____，当我念完大三，我确信正是____48____我们的小镇，才让我意识到我们有多爱它、以及我们到底爱它什么。"
-        }
-      ]
-    },
-    {
-      "def": "one of the separate institutions that some British universities, such as Oxford and Cambridge, are divided into （英国大学如牛津和剑桥中独立的）学院",
-      "ex": [
-        {
           "s": "The girls had gone to Smith College.",
           "src": "2022全国乙卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
           "t": "这些女孩去了史密斯学院。"
-        },
-        {
-          "s": "Schools and Colleges",
-          "src": "2022全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "学校和学院"
         },
         {
           "s": "He finally ended up playing college ball at a small, little-known school, Davidson College, not too far from where he lived.",
@@ -213,13 +212,6 @@
           "t": "我在城市学院读大二时，听说教育系开设了一门名为\"国际象棋思维\"的\"免费\"课程，可获得3个学分。"
         },
         {
-          "s": "When I got into college, things ____40.",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当我上大学的时候,事情... 40。"
-        },
-        {
           "s": "2．（1分）Kate，                   sister I shared a room with when we were at college， has gone to work in Australia．（  ）",
           "src": "2018天津卷",
           "cat": "gaokao",
@@ -260,12 +252,26 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "学院咖啡馆正好有这种东西，而且更多。_____36____"
+        },
+        {
+          "s": "Taylor will apply to college soon.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "泰勒很快会申请上大学."
         }
       ]
     },
     {
       "def": "(in the US) one of the main divisions of some large universities （美国一些规模大的大学的）学院",
       "ex": [
+        {
+          "s": "When I got into college, things ____40.",
+          "src": "2018浙江6月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "当我上大学的时候,事情... 40。"
+        },
         {
           "s": "Recognition by colleges.",
           "src": "2025北京卷·阅读理解B",
@@ -335,25 +341,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "“即使在父母没有大学学历的家庭里……家庭规模更小，孩子需要被细心___53____（养育）的观念已经深入人心。”所谓“成人活动”的___54____（减少）不能归因于更多的家庭作业或课外活动，研究指出，如今的青少年花在家庭作业上的时间更少，在课外活动上的时间与1990年代相同（社区服务除外，它略有上升）。"
-        }
-      ]
-    },
-    {
-      "def": "the teachers and/or students of a college （学院的）师生，教师，学生",
-      "ex": [
-        {
-          "s": "What students do at college seems to matter much more than   8   they go.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我知道我会对自己低声说出这两个简单的字：\"做你自己\"。地球日定于4月22日，是一项旨在提高公众环保意识的年度活动。"
-        },
-        {
-          "s": "Max 19 College student (1 picture) There are five of us living in our shared student house.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "最多19名大学生（ 1张照片）我们五个人住在我们共用的学生公寓里。"
         },
         {
           "s": "A survey found that 29 percent of college students registered for online courses.",
@@ -391,6 +378,39 @@
           "t": "我的大学生活必需品排名"
         },
         {
+          "s": "•Kyle Field, College Station, Texas, US Capacity: 102,512.",
+          "src": "2021全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "·Kyle Field，德州大学城，美国，容量：102,512。"
+        },
+        {
+          "s": "Jennifer Mauer has needed more willpower than the typical college student to pursue her goal of earning a nursing degree.",
+          "src": "2020全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "Jennifer Mauer比典型的大学生更需要意志力来追求她获得护理学位的目标."
+        }
+      ]
+    },
+    {
+      "def": "the teachers and/or students of a college （学院的）师生，教师，学生",
+      "ex": [
+        {
+          "s": "What students do at college seems to matter much more than   8   they go.",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我知道我会对自己低声说出这两个简单的字：\"做你自己\"。地球日定于4月22日，是一项旨在提高公众环保意识的年度活动。"
+        },
+        {
+          "s": "Max 19 College student (1 picture) There are five of us living in our shared student house.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "最多19名大学生（ 1张照片）我们五个人住在我们共用的学生公寓里。"
+        },
+        {
           "s": "Handshake is an online job search platform for college students.",
           "src": "2023天津3月卷·阅读理解A",
           "cat": "gaokao",
@@ -424,27 +444,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "一位大学教师。"
-        },
-        {
-          "s": "•Kyle Field, College Station, Texas, US Capacity: 102,512.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "·Kyle Field，德州大学城，美国，容量：102,512。"
-        },
-        {
-          "s": "Jennifer Mauer has needed more willpower than the typical college student to pursue her goal of earning a nursing degree.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Jennifer Mauer比典型的大学生更需要意志力来追求她获得护理学位的目标."
-        },
-        {
-          "s": "Taylor will apply to college soon.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "泰勒很快会申请上大学."
         },
         {
           "s": "While high school does not generally encourage students to explore new aspects of life, college sets the stage for that exploration.",

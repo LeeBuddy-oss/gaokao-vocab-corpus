@@ -79,13 +79,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"
-        },
-        {
-          "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"
         }
       ]
     },
@@ -99,7 +92,15 @@
     },
     {
       "def": "the subjects of study that are concerned with the way people think and behave, for example literature, language, history and philosophy 人文学科",
-      "ex": []
+      "ex": [
+        {
+          "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"
+        }
+      ]
     }
   ]
 }

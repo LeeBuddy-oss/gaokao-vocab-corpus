@@ -87,14 +87,6 @@
           "t": "今天在美国出生的孩子有___63___非常现实的机会活过100岁，因此需要相应地规划。"
         },
         {
-          "s": "They had driven their son several hours out of town to the university where he would soon be living and studying.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们开了几个小时的车把儿子送到城外的大学，他很快就将在那里生活和学习。",
-          "_matched": true
-        },
-        {
           "s": "C．The living environment of other species will remain unchanged．",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
@@ -170,6 +162,12 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "33. 人们____比过去有更好的医疗条件，因此也更长寿。"
+        },
+        {
+          "s": "Max 19 College student (1 picture) There are five of us living in our shared student house.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "最多19名大学生（ 1张照片）我们五个人住在我们共用的学生公寓里。"
         }
       ]
     },
@@ -278,6 +276,14 @@
     {
       "def": "a way or style of life 生活方式",
       "ex": [
+        {
+          "s": "They had driven their son several hours out of town to the university where he would soon be living and studying.",
+          "src": "2020浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们开了几个小时的车把儿子送到城外的大学，他很快就将在那里生活和学习。",
+          "_matched": true
+        },
         {
           "s": "I realized that years of living as a late-night person had turned my heart into an overworked engine.",
           "src": "2026新高考II卷·读后续写",
@@ -462,7 +468,7 @@
           "src": "2020浙江1月卷·语法填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "今天出生的美国孩子有一个   63  非常现实的活过100岁机会并需要相应地规划。"
+          "t": "第二个原因是人们的寿命更长了。"
         },
         {
           "s": "People living long time ago knew more about how to solve problems.",
@@ -476,12 +482,6 @@
           "src": "外研社B2 U5",
           "cat": "waiyan",
           "t": "久而久之，这会让她成为该地区居民的一个危险因素。"
-        },
-        {
-          "s": "Max 19 College student (1 picture) There are five of us living in our shared student house.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "最多19名大学生（ 1张照片）我们五个人住在我们共用的学生公寓里。"
         }
       ]
     },

@@ -16,13 +16,6 @@
           "t": "栖息地修复团队的志愿者在恢复敏感资源、保护山脊与山谷间的濒危物种方面发挥着重要作用。"
         },
         {
-          "s": "Studies have shown that it calculates the effort required for actions and tends to stop us from squandering vital resources on fruitless efforts, like walking over 30 km for a handful of berries.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "研究表明，它会计算某项行动所需的努力，并倾向于阻止我们把宝贵的资源浪费在徒劳的努力上，比如走30多公里只为摘一把浆果。"
-        },
-        {
           "s": "They could do precisely the same thing to inspect railway lines and other vital aspects of rail infrastructure such as the correct position of railway tracks and switching points.",
           "src": "2022全国乙卷·阅读理解C",
           "cat": "gaokao",
@@ -81,21 +74,24 @@
           "src": "人教选必4 U5",
           "cat": "renjiao",
           "t": "儿童是我们最宝贵的资源，是我们对未来的希望。"
-        }
-      ]
-    },
-    {
-      "def": "connected with or necessary for staying alive 生命的；维持生命所必需的",
-      "ex": []
-    },
-    {
-      "def": "full of energy and enthusiasm 人",
-      "ex": [
+        },
         {
           "s": "Artemisinin has become a vital part of the treatment for malaria, and is thought to save 100,000 lives a year in Africa alone.",
           "src": "人教选必1 U1",
           "cat": "renjiao",
           "t": "青蒿素已成为疟疾治疗的一个重要部分,人们认为仅在非洲一年就可拯救10万人的生命。"
+        }
+      ]
+    },
+    {
+      "def": "connected with or necessary for staying alive 生命的；维持生命所必需的",
+      "ex": [
+        {
+          "s": "Studies have shown that it calculates the effort required for actions and tends to stop us from squandering vital resources on fruitless efforts, like walking over 30 km for a handful of berries.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "研究表明，它会计算某项行动所需的努力，并倾向于阻止我们把宝贵的资源浪费在徒劳的努力上，比如走30多公里只为摘一把浆果。"
         },
         {
           "s": "After (arrive), the ambulance team quickly found Mrs Taylor and without delay gave her oxygen, put in an IV needle, and checked her vital signs.",
@@ -104,6 +100,10 @@
           "t": "（到达）后，救护车队迅速找到泰勒夫人，并立即给她输氧，放入静脉注射针头，并检查她的生命体征。"
         }
       ]
+    },
+    {
+      "def": "full of energy and enthusiasm 人",
+      "ex": []
     }
   ]
 }

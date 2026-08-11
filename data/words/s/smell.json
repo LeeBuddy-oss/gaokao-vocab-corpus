@@ -16,13 +16,6 @@
           "t": "因此，当气候变化和生物多样性丧失威胁到自然气味时，许多人可能甚至没有注意到。"
         },
         {
-          "s": "Smell changes of forest and snow share a common underlying cause.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "森林和雪的气味变化有一个共同的深层原因。"
-        },
-        {
           "s": "The sun-dried clothes smell especially pleasant where I live, thanks to the ____63____ (absent) of smog and plenty of blue sky ____64____ (afternoon) with lots of fresh air.",
           "src": "2025新高考II卷·完形填空",
           "cat": "gaokao",
@@ -79,13 +72,6 @@
           "t": "这种影响不仅限于森林。"
         },
         {
-          "s": "Climate change is also quickening the loss of biodiversity, threatening to erase certain smells entirely.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当植物消失时，它们的气味变得更加难以产生。"
-        },
-        {
           "s": "Disappearance of the Earth’s smells can be a cultural loss.",
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
@@ -127,39 +113,11 @@
           "t": "闻起来太浓了，味道有点酸。"
         },
         {
-          "s": "A recent study reported that native communities in Peru noticed a change in the smell of the Amazon River due to industrial pollution.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "最近一项研究报告称，秘鲁的原住民社区注意到由于工业污染，亚马逊河的气味发生了变化。"
-        },
-        {
           "s": "Forest smell is likely to be changed by perception.",
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
           "t": "地球气味的消失可能是一种文化损失。"
-        },
-        {
-          "s": "Gas naturally ____16____ (have) no recognisable smell.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "天然气本身____16____ (have)没有可辨认的气味。"
-        },
-        {
-          "s": "Cheese brine has a downside too a smell similar to that of bad milk.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "奶酪卤水也有缺点——一种类似变质牛奶的气味。"
-        },
-        {
-          "s": "However, another way the cats are able to distinguish between situations is by looking for familiar smells.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "不过，猫还能通过寻找熟悉的气味来区分不同的情况，这是它们的另一种方式。"
         },
         {
           "s": "Warmer conditions can intensify smells, leading the snow to smell more unpleasant and potentially gather more pollutants.",
@@ -194,7 +152,20 @@
     },
     {
       "def": "to feel that sth exists or is going to happen 觉察出；感觉到",
-      "ex": []
+      "ex": [
+        {
+          "s": "A: How does it look/smell/taste/feel?",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "答：它看起来/闻起来/味道/感觉如何？"
+        },
+        {
+          "s": "B: It looks/smells/tastes/feels...",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "B ：看起来/闻起来/味道/感觉……"
+        }
+      ]
     },
     {
       "def": "to be aware of fear, danger, trouble, etc. in a situation 觉察到，意识到（坏事、危险、麻烦等）",
@@ -226,7 +197,56 @@
     },
     {
       "def": "an unpleasant smell 难闻的气味；臭味",
-      "ex": []
+      "ex": [
+        {
+          "s": "Smell changes of forest and snow share a common underlying cause.",
+          "src": "2026北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "森林和雪的气味变化有一个共同的深层原因。"
+        },
+        {
+          "s": "Climate change is also quickening the loss of biodiversity, threatening to erase certain smells entirely.",
+          "src": "2026北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "当植物消失时，它们的气味变得更加难以产生。"
+        },
+        {
+          "s": "A recent study reported that native communities in Peru noticed a change in the smell of the Amazon River due to industrial pollution.",
+          "src": "2026北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "最近一项研究报告称，秘鲁的原住民社区注意到由于工业污染，亚马逊河的气味发生了变化。"
+        },
+        {
+          "s": "Gas naturally ____16____ (have) no recognisable smell.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "天然气本身____16____ (have)没有可辨认的气味。"
+        },
+        {
+          "s": "Cheese brine has a downside too a smell similar to that of bad milk.",
+          "src": "2020浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "奶酪卤水也有缺点——一种类似变质牛奶的气味。"
+        },
+        {
+          "s": "However, another way the cats are able to distinguish between situations is by looking for familiar smells.",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "不过，猫还能通过寻找熟悉的气味来区分不同的情况，这是它们的另一种方式。"
+        },
+        {
+          "s": "It was August, so it was really, really hot and it smelled so bad everywhere!",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "那是八月，所以天气非常非常热，到处闻起来都很难闻！"
+        }
+      ]
     },
     {
       "def": "the ability to sense things with the nose 嗅觉",
@@ -277,24 +297,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "让它们闻起来更好。"
-        },
-        {
-          "s": "A: How does it look/smell/taste/feel?",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "答：它看起来/闻起来/味道/感觉如何？"
-        },
-        {
-          "s": "B: It looks/smells/tastes/feels...",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "B ：看起来/闻起来/味道/感觉……"
-        },
-        {
-          "s": "It was August, so it was really, really hot and it smelled so bad everywhere!",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "那是八月，所以天气非常非常热，到处闻起来都很难闻！"
         }
       ]
     }

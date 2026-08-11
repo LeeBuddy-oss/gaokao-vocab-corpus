@@ -119,16 +119,24 @@
           "t": "David在他最近一次假期做了什么？"
         },
         {
-          "s": "Some ecotourism holidays involve voluntary work, such as planting trees or counting endangered animals.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "一些生态旅游假期包括志愿工作，如植树或统计濒危动物。"
-        },
-        {
           "s": "Students in New York City, meanwhile, have since 2016 been able to enjoy an official day's holiday for Chinese Spring Festival.",
           "src": "外研社B2 U2",
           "cat": "waiyan",
           "t": "与此同时，自2016年以来，纽约市的学生可以在中国春节享受一天的官方假期。"
+        },
+        {
+          "s": "Where does the woman suggest David go for his next holiday?",
+          "src": "2021新高考II卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "女士建议大卫下次假期去哪里？"
+        },
+        {
+          "s": "Where does the woman suggest David go for his next holiday?",
+          "src": "2021浙江卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "女士建议大卫下次假期去哪里？"
         }
       ]
     },
@@ -148,20 +156,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "祝所有人旅途愉快，无论是前往新加坡参加家族婚礼的团体、去罗马度假的老人，还是出发去奥兰多迪士尼乐园的孩子……机场不是个沉闷的地方。"
-        },
-        {
-          "s": "Where does the woman suggest David go for his next holiday?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "莎拉为什么要打电话？"
-        },
-        {
-          "s": "Where does the woman suggest David go for his next holiday?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "莎拉为什么要打电话？"
         },
         {
           "s": "In the summer holiday following my eighteen birthday, I took driving lessons.",
@@ -269,7 +263,14 @@
     },
     {
       "def": "the time in December and early January that includes Christmas, Hanukkah and New Year 节日假期（从十二月到一月上旬，包括圣诞节、修殿节和新年）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Some ecotourism holidays involve voluntary work, such as planting trees or counting endangered animals.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "一些生态旅游假期包括志愿工作，如植树或统计濒危动物。"
+        }
+      ]
     }
   ]
 }

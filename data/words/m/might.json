@@ -55,7 +55,7 @@
           "src": "2025新高考II卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "我把单个字母画成重复的线条，这些都是抽象的形式，令人愉悦但毫无意义的图案。"
+          "t": "我担心同学们可能会厌倦我的努力，甚至对我失去耐心。"
         },
         {
           "s": "However, I soon found that by doing so, I might be losing something more important: the opportunity to share a small part of my cultural identity.",
@@ -730,13 +730,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "我向主人尽可能多地提供了信息，然后朝家走去，看看那个夜晚会带来什么消息。"
-        },
-        {
-          "s": "Asking about “the point” of ALife might be, well, missing the point entirely, he says.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "询问ALife的\"意义\"可能——嗯——完全偏离了重点，他说。"
         }
       ]
     },
@@ -805,7 +798,15 @@
     },
     {
       "def": "（强调提出了重点）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Asking about “the point” of ALife might be, well, missing the point entirely, he says.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "询问ALife的\"意义\"可能——嗯——完全偏离了重点，他说。"
+        }
+      ]
     }
   ]
 }

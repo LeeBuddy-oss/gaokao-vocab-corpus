@@ -23,20 +23,6 @@
           "t": "对成年人来说，志愿服务能带来显著的身体健康益处。"
         },
         {
-          "s": "However, if you’re shopping for one, buying extra   56   (benefit) from price reductions doesn’t make sense.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，如果你是为一个人购物，因降价而多买____56____（受益）并不划算。"
-        },
-        {
-          "s": "Humans benefit more from painful experiences.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "人类从痛苦的经历中受益更多。"
-        },
-        {
           "s": "At the end of the thirty days, you will then add back a small number of carefully chosen online activities that you believe will provide massive benefits to the things you value.",
           "src": "2023新课标I卷·阅读理解C",
           "cat": "gaokao",
@@ -63,13 +49,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "感恩有很多好处：研究表明它让我们更快乐、压力更小，甚至更乐观。___17___。"
-        },
-        {
-          "s": "It benefits manufacturers.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它有利于制造商。"
         },
         {
           "s": "Benefits of painful experiences.",
@@ -105,13 +84,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "候鸟捕猎的历史"
-        },
-        {
-          "s": "Provide 68 (finance) aid and other benefits for local peoples.",
-          "src": "2021全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为当地居民提供68（finance）经济援助和其他福利。"
         },
         {
           "s": "Race walking shares many fitness benefits with running, research shows, while most likely contributing to fewer injuries.",
@@ -287,6 +259,18 @@
           "cat": "waiyan",
           "year": "",
           "t": "跑步的益处 跑步____2____并让他实现了他从未想过能做到的事。"
+        }
+      ]
+    },
+    {
+      "def": "money provided by the government to people who need financial help because they are unemployed, ill/sick, etc. 福利费（政府对失业者、病人等提供的补助金）",
+      "ex": [
+        {
+          "s": "Provide 68 (finance) aid and other benefits for local peoples.",
+          "src": "2021全国乙卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "为当地居民提供68（finance）经济援助和其他福利。"
         },
         {
           "s": "Everyone enjoys the life-saving benefits vaccines provide, but they’ll exist only as long as everyone shares in the risks.",
@@ -294,12 +278,7 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "每个人都享受着疫苗提供的救命益处，但只有当每个人都共同承担风险时，疫苗才能持续存在。"
-        }
-      ]
-    },
-    {
-      "def": "money provided by the government to people who need financial help because they are unemployed, ill/sick, etc. 福利费（政府对失业者、病人等提供的补助金）",
-      "ex": [
+        },
         {
           "s": "There are many benefits to growing plants indoors",
           "src": "2023全国乙卷·七选五",
@@ -413,6 +392,20 @@
     {
       "def": "to be useful to sb or improve their life in some way 对（某人）有用；使受益",
       "ex": [
+        {
+          "s": "However, if you’re shopping for one, buying extra   56   (benefit) from price reductions doesn’t make sense.",
+          "src": "2024浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "然而，如果你是为一个人购物，因降价而多买____56____（受益）并不划算。"
+        },
+        {
+          "s": "Humans benefit more from painful experiences.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "人类从痛苦的经历中受益更多。"
+        },
         {
           "s": "The objective of most speeches is to benefit the audience.",
           "src": "2020全国新高考I卷·七选五",
@@ -529,7 +522,15 @@
     },
     {
       "def": "to be in a better position because of sth 得益于；得利于",
-      "ex": []
+      "ex": [
+        {
+          "s": "It benefits manufacturers.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它有利于制造商。"
+        }
+      ]
     }
   ]
 }

@@ -362,20 +362,6 @@
           "t": "智能推荐引擎会分析展品受欢迎程度和参观者过往行为等数据，推荐特定的展品和活动，让每次参观都独一无二、充满惊喜。_____37_____ 这些数字助手与参观者进行动态对话，并提供契合情境的解说，加深理解、满足好奇心。"
         },
         {
-          "s": "Moreover, these data are biased and favor certain regions, time periods, and species.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "此外，这些数据存在偏差，偏向某些地区、时段和物种。"
-        },
-        {
-          "s": "Mistakes in data analysis.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "数据分析中的错误。"
-        },
-        {
           "s": "Also, there is a convenient app that provides growing data in real time.",
           "src": "2024新高考II卷·阅读理解C",
           "cat": "gaokao",
@@ -388,13 +374,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "团队的数据只统计到2007年，但研究人员还探讨了如果消费者用具有多种功能的新电子产品替代旧产品会发生什么，例如用于文字处理和看电视的平板电脑。"
-        },
-        {
-          "s": "While the decline over the past decade is steep for teen readers, some data in the report shows that reading remains a big part of many children’s lives, and indicates how parents might help encourage more reading.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然过去十年青少年读者的下降幅度很大，但报告中的一些数据显示阅读仍然是许多儿童生活中的重要部分，并表明家长可能如何帮助鼓励更多阅读。"
         },
         {
           "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
@@ -411,12 +390,6 @@
           "t": "数据显示，与不常阅读的孩子和青少年相比，经常阅读的孩子和青少年家里有更多的书，为他们购买的书籍更多，父母阅读更频繁，并且父母会为他们留出阅读时间。"
         },
         {
-          "s": "Today, satellite data and computer technology help scientist predict the weather more precisely.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "如今，卫星数据和计算机技术帮助科学家更精确地预测天气。"
-        },
-        {
           "s": "But recently it has discovered that data can be turned into new services: translation and visual recognition, to be sold to other companies.",
           "src": "2017江苏卷·阅读理解C",
           "cat": "gaokao",
@@ -431,13 +404,6 @@
           "t": "第二条原则是放松在线服务提供商对数据的控制，将更多控制权交给数据提供者。"
         },
         {
-          "s": "By paying attention to firms’ data assets, antitrust regulators could __________.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "通过关注公司的数据资产，反垄断监管机构可以________。"
-        },
-        {
           "s": "In today’s information age, the loss of data _________ cause serious problems for a company.",
           "src": "2018北京卷",
           "cat": "gaokao",
@@ -448,7 +414,42 @@
     },
     {
       "def": "information that is stored by a computer （贮存在计算机中的）数据资料",
-      "ex": []
+      "ex": [
+        {
+          "s": "Moreover, these data are biased and favor certain regions, time periods, and species.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "此外，这些数据存在偏差，偏向某些地区、时段和物种。"
+        },
+        {
+          "s": "Mistakes in data analysis.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "数据分析中的错误。"
+        },
+        {
+          "s": "While the decline over the past decade is steep for teen readers, some data in the report shows that reading remains a big part of many children’s lives, and indicates how parents might help encourage more reading.",
+          "src": "2018全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "虽然过去十年青少年读者的下降幅度很大，但报告中的一些数据显示阅读仍然是许多儿童生活中的重要部分，并表明家长可能如何帮助鼓励更多阅读。"
+        },
+        {
+          "s": "Today, satellite data and computer technology help scientist predict the weather more precisely.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "如今，卫星数据和计算机技术帮助科学家更精确地预测天气。"
+        },
+        {
+          "s": "By paying attention to firms’ data assets, antitrust regulators could __________.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "通过关注公司的数据资产，反垄断监管机构可以________。"
+        }
+      ]
     }
   ]
 }

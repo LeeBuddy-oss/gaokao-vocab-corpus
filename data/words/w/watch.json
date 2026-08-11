@@ -148,12 +148,6 @@
           "t": "“它一直是一股极为积极的力量。”在数百万人的注视下，比赛结局引发了分歧：兄弟俩的行为应该被取消资格，还是受到高度赞扬？"
         },
         {
-          "s": "While I was concentrating on photographing this amazing scene, I suddenly had a feeling that I was being watched.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "当我专注于拍摄这个令人惊叹的场景时，我突然觉得自己被监视了。"
-        },
-        {
           "s": "Nature seems to unfold to people who watch and wait． Next time you take a walk， no matter where it is， take in all the sights， sounds and sensations． Wander in this frame of mind and you will open a new dimension to your life．",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
@@ -189,13 +183,6 @@
           "t": "当我看他脱下篮球服、换上棒球服时，我看到他丢下了那层不再适合他的外壳，就像我们的蜥蜴一样。"
         },
         {
-          "s": "I still loved the night and would stay up until unruly hours for no apparent reason, chatting online and watching videos.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我依然热爱夜晚，会无缘无故熬到离谱的时间，上网聊天、看视频。"
-        },
-        {
           "s": "So, when my brother showed up, I asked him to watch Toby and keep him outside.",
           "src": "2025新高考I卷·读后续写",
           "cat": "gaokao",
@@ -222,13 +209,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "我有两个孩子——小儿子凯南对老虎的到来极其高兴——但我们所有人都真的很期待成为它们生活的一部分，看着它们长大。"
-        },
-        {
-          "s": "The cat would be closely watched.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这只猫会被密切监视。"
         },
         {
           "s": "“I’ll see you back home in a month, okay?” His parents nodded, and they watched as he walked out of sight into the crowds of hundreds of students and parents.",
@@ -380,7 +360,15 @@
     },
     {
       "def": "to take care of sb/sth for a short time （短时间）照看，看护，照管",
-      "ex": []
+      "ex": [
+        {
+          "s": "I still loved the night and would stay up until unruly hours for no apparent reason, chatting online and watching videos.",
+          "src": "2026新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我依然热爱夜晚，会无缘无故熬到离谱的时间，上网聊天、看视频。"
+        }
+      ]
     },
     {
       "def": "to be careful about sth 小心；当心；留意",
@@ -403,7 +391,15 @@
     },
     {
       "def": "to make an effort to be aware of what is happening, so that you will notice if anything bad or unusual happens 密切注意；留意",
-      "ex": []
+      "ex": [
+        {
+          "s": "The cat would be closely watched.",
+          "src": "2017浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这只猫会被密切监视。"
+        }
+      ]
     },
     {
       "def": "to be careful of sth 小心；当心",
@@ -471,6 +467,12 @@
     {
       "def": "the act of watching sb/sth carefully in case of possible danger or problems 注意；注视；监视；观察",
       "ex": [
+        {
+          "s": "While I was concentrating on photographing this amazing scene, I suddenly had a feeling that I was being watched.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "当我专注于拍摄这个令人惊叹的场景时，我突然觉得自己被监视了。"
+        },
         {
           "s": "He enjoyed watching movies.",
           "src": "2021浙江6月卷·阅读理解A",

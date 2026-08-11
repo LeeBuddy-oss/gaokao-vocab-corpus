@@ -55,7 +55,7 @@
           "src": "2024浙江1月卷·七选五",
           "cat": "gaokao",
           "year": 2024,
-          "t": "我们的大脑利用这个系统来获取有关安全回家路线、高效觅食和规避危险的行为模式。"
+          "t": "亚历克斯·戴维森教授亲自和在线教授同一门课程。"
         },
         {
           "s": "In the course of a couple of hours, he   53   me just how much one can gain from   54   with an open mind, and a willingness to   55   with locals from all walks of life.",
@@ -184,13 +184,6 @@
           "t": "当她参加兼职设计课程时，作者有什么感受？（不超过10个词）"
         },
         {
-          "s": "“Of course—I shouldn't have asked.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在薇妮来得及回答之前，总统急忙继续说道，声音中带着一丝歉意。"
-        },
-        {
           "s": "Our courses, totalling 20,000 hours of content in 20 different languages, guarantee you language skills you can use right away.",
           "src": "2020北京卷·阅读理解A",
           "cat": "gaokao",
@@ -233,13 +226,6 @@
           "t": "24岁的盖伊·哈罗尔德从盖特威克机场接上37名学生和三位课程负责人，他们正前往伯恩茅斯与38他们的寄宿家庭会合。"
         },
         {
-          "s": "Of course you have to work at it.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我的祖父母分别住在科罗拉多州和北达科他州，父母决定花几周时间开车去那些州，沿途游览各处的景点。"
-        },
-        {
           "s": "To help them do this, some senior high schools offer courses in time management.",
           "src": "外研社B1 U1",
           "cat": "waiyan",
@@ -266,7 +252,12 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "但所有的在线课程都被同等（一视同仁）地打造出来了吗？"
-        },
+        }
+      ]
+    },
+    {
+      "def": "a period of study at a college or university that leads to an exam or a qualification （学院或大学中要进行考试或取得资格的）课程",
+      "ex": [
         {
           "s": "Lancom is the only product to offer courses tailored to your native language, building on grammar and words you already know.",
           "src": "2020北京卷·阅读理解A",
@@ -274,18 +265,6 @@
           "year": 2020,
           "t": "Lancom是唯一提供根据母语量身定制课程的产品，在你已掌握的语法和词汇基础上进行构建。"
         },
-        {
-          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
-        }
-      ]
-    },
-    {
-      "def": "a period of study at a college or university that leads to an exam or a qualification （学院或大学中要进行考试或取得资格的）课程",
-      "ex": [
         {
           "s": "Completing many courses no longer brings out the feeling of success because more than four AP classes per year is a norm set by top universities.",
           "src": "2025北京卷·阅读理解B",
@@ -431,6 +410,20 @@
       "def": "（强调所说的话属实或正确）当然",
       "ex": [
         {
+          "s": "“Of course—I shouldn't have asked.",
+          "src": "2020天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"当然——我不该问的。\""
+        },
+        {
+          "s": "Of course you have to work at it.",
+          "src": "2017浙江11月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当然你得为此付出努力。"
+        },
+        {
           "s": "Social comparisons do, of course, often get us into emotional trouble.",
           "src": "2025北京卷·阅读理解C",
           "cat": "gaokao",
@@ -569,6 +562,13 @@
     {
       "def": "（表示所说的事不令人惊讶或具有普遍性）当然，自然",
       "ex": [
+        {
+          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
+          "src": "2023北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
+        },
         {
           "s": "Sometimes she prepares traditional Brazilian dishes ___48___ her native home; other times she ___49___ dinner courses with her favorite beers.",
           "src": "2025浙江1月卷·完形填空",

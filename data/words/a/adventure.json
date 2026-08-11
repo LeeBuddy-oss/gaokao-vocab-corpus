@@ -135,13 +135,6 @@
           "t": "虽然攀登珠穆朗玛峰可能有些太过了，但你有一种健康的冒险精神。"
         },
         {
-          "s": "Lead a life of adventure.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "过一种冒险的生活。"
-        },
-        {
           "s": "Yes, it was a huge goodbye in so many ways, but it was also the start of something new — an adventure in multigenerational living.",
           "src": "2026北京卷·阅读理解B",
           "cat": "gaokao",
@@ -173,7 +166,15 @@
     },
     {
       "def": "excitement and the willingness to take risks, try new ideas, etc. 冒险的刺激；大胆开拓",
-      "ex": []
+      "ex": [
+        {
+          "s": "Lead a life of adventure.",
+          "src": "2020天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "过一种冒险的生活。"
+        }
+      ]
     }
   ]
 }

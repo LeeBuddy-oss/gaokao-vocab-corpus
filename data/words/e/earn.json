@@ -58,13 +58,6 @@
           "t": "萨拉____（被告知）她可能成为英国新的超模，在新的一年里赚一百万美元。"
         },
         {
-          "s": "He wants to help them earn a living.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他认为人能把工作做得更好。"
-        },
-        {
           "s": "He was eager to earn money.",
           "src": "2021浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -76,7 +69,7 @@
           "src": "2020全国新高考I卷·读后续写",
           "cat": "gaokao",
           "year": 2020,
-          "t": "妈妈离开房间后，孩子们坐着思考Bernard的事。"
+          "t": "他非常想赚些钱，但我不知道他能做什么。\""
         },
         {
           "s": "“I wish we could help him to earn money.” said Clara.",
@@ -111,7 +104,7 @@
           "src": "2019北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2019,
-          "t": "我们需要解决电信网络的不安全性质。"
+          "t": "信誉来之不易却容易失去，而且从现在起这个问题只会变得更加严峻。"
         },
         {
           "s": "Why don’t I help?” 2At first, his plan was to earn money to build a single well somewhere in Africa.",
@@ -212,13 +205,6 @@
           "src": "外研社B5 U1",
           "cat": "waiyan",
           "t": "如果你已经够大, 挣工资和交税,"
-        },
-        {
-          "s": "I was so happy that I had earned my service hours in this way.",
-          "src": "2022浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我很高兴能以这种方式获得我的服务时间。"
         }
       ]
     },
@@ -251,6 +237,13 @@
       "def": "to do useful or helpful things in return for being allowed to live or stay somewhere 挣口饭吃；为有栖身之处而工作",
       "ex": [
         {
+          "s": "He wants to help them earn a living.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他认为人能把工作做得更好。"
+        },
+        {
           "s": "It can also be used to reinforce the meanings of themes: in the title The Importance of Being Earnest, “Earnest” is an adjective as well as a character’s name.",
           "src": "外研社B5 U2",
           "cat": "waiyan",
@@ -281,7 +274,15 @@
     },
     {
       "def": "to be worth the amount of time or money that is being spent 值得所花的时间（或金钱）",
-      "ex": []
+      "ex": [
+        {
+          "s": "I was so happy that I had earned my service hours in this way.",
+          "src": "2022浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我很高兴能以这种方式获得我的服务时间。"
+        }
+      ]
     }
   ]
 }

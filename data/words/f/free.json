@@ -28,11 +28,18 @@
           "t": "它还带有语音控制设置，让你无需动手，而其防水的表带可完全调节，佩戴舒适。"
         },
         {
-          "s": "In your free time, you can explore the city, have language classes, surf or choose your favourite from among the following.",
-          "src": "2026北京卷·阅读理解A",
+          "s": "So even if your own efforts at humor fall short, you might be freeing the long kept humor in others.",
+          "src": "2020江苏卷·Humor",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "在空闲时间，你可以探索城市、上语言课、冲浪，或从以下选项中挑选你最喜欢的。"
+          "year": 2020,
+          "t": "所以即使你自己的幽默努力不够完美，你也可能释放了他人心中长期压抑的幽默。"
+        },
+        {
+          "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
         }
       ]
     },
@@ -73,6 +80,13 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "现在我自由了。"
+        },
+        {
+          "s": "As they grew more mobile, we let them move freely around the house during the day, but when we were asleep we had to contain them in a large room, otherwise they'd get up to mischief.",
+          "src": "2021新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "随着它们越来越能活动，白天我们让它们在屋里自由走动，但我们睡着时得把它们关在一个大房间里，否则它们会调皮捣蛋。"
         }
       ]
     },
@@ -80,32 +94,11 @@
       "def": "not a prisoner or slave 人",
       "ex": [
         {
-          "s": "So even if your own efforts at humor fall short, you might be freeing the long kept humor in others.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以即使你自己的幽默努力不够完美，你也可能释放了他人心中长期压抑的幽默。"
-        },
-        {
           "s": "When people see you trying to be funny, it frees them to try it themselves.",
           "src": "2020江苏卷·Humor",
           "cat": "gaokao",
           "year": 2020,
           "t": "当人们看到你在努力变得有趣时，这让他们也敢于尝试。"
-        },
-        {
-          "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
-        },
-        {
-          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
         },
         {
           "s": "When some refuse vaccination and seek a free ride, immunity breaks down and everyone is in even bigger danger.",
@@ -136,15 +129,7 @@
     },
     {
       "def": "costing nothing 不收费的",
-      "ex": [
-        {
-          "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "clear; not blocked 无阻碍的；畅通的",
@@ -154,17 +139,19 @@
       "def": "not containing or affected by sth harmful or unpleasant 不含有害物的；不受 … 伤害（或影响等的）",
       "ex": [
         {
+          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
+        },
+        {
           "s": "It is free of sweeteners.",
           "src": "2019北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2019,
           "t": "它不含甜味剂。"
-        }
-      ]
-    },
-    {
-      "def": "without the thing mentioned 构成形容词",
-      "ex": [
+        },
         {
           "s": "This means we don’t eat meat, and any milk or cheese had better be dairy-free.",
           "src": "外研社B2 U1",
@@ -180,28 +167,40 @@
       ]
     },
     {
+      "def": "without the thing mentioned 构成形容词",
+      "ex": []
+    },
+    {
       "def": "not attached to sth or trapped by sth 未固定的；未缚住的",
       "ex": []
     },
     {
       "def": "not being used 未使用的；空着的",
-      "ex": []
+      "ex": [
+        {
+          "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
+          "src": "2018天津卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
+        }
+      ]
     },
     {
       "def": "without particular plans or arrangements; not busy 人或时间",
-      "ex": []
+      "ex": [
+        {
+          "s": "In your free time, you can explore the city, have language classes, surf or choose your favourite from among the following.",
+          "src": "2026北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在空闲时间，你可以探索城市、上语言课、冲浪，或从以下选项中挑选你最喜欢的。"
+        }
+      ]
     },
     {
       "def": "ready to give sth, especially when it is not wanted 随便给出的",
-      "ex": [
-        {
-          "s": "As they grew more mobile, we let them move freely around the house during the day, but when we were asleep we had to contain them in a large room, otherwise they'd get up to mischief.",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "随着它们越来越能活动，白天我们让它们在屋里自由走动，但我们睡着时得把它们关在一个大房间里，否则它们会调皮捣蛋。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a free translation is not exact but gives the general meaning 不拘泥原文的；（翻译）根据大意的；意译的",

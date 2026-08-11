@@ -157,13 +157,6 @@
           "t": "人工智能还显著提升了博物馆的教育价值，对儿童和家庭尤其如此。_____39_____ 例如，由人工智能驱动的互动展品可以根据用户的偏好和反应调整内容和难度。"
         },
         {
-          "s": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks — like identifying the main idea in a reading passage — to ones that require mental abstraction — such as drawing inferences from a text.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
-        },
-        {
           "s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.",
           "src": "2024全国甲卷·阅读理解C",
           "cat": "gaokao",
@@ -296,7 +289,15 @@
     },
     {
       "def": "written information and details about a property, business, job, etc. 详细资料；详细介绍材料",
-      "ex": []
+      "ex": [
+        {
+          "s": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks — like identifying the main idea in a reading passage — to ones that require mental abstraction — such as drawing inferences from a text.",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
+        }
+      ]
     }
   ]
 }

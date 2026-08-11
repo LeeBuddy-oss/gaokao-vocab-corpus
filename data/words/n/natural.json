@@ -93,20 +93,6 @@
           "t": "这片区域，凭借其____独特而壮观的自然美景，必须得到妥善保护，供全国人民享用——作为一个国家公园。"
         },
         {
-          "s": "Caroline doesn't have a natural talent for music but she _________ it with hard work.",
-          "src": "2024天津3月卷·一、单项填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "卡罗琳没有音乐天赋，但她用努力_________它。"
-        },
-        {
-          "s": "Her natural gift for music.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "模仿老师编写试题的方式"
-        },
-        {
           "s": "The natural beauty of the West",
           "src": "2022全国乙卷·阅读理解B",
           "cat": "gaokao",
@@ -325,6 +311,20 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "要达到这种自然的外观，需要大量心思。"
+        },
+        {
+          "s": "People settle in these places because they are easy to get to and naturally suited to communications and trade.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "人们在这些地方定居，因为它们交通便利，且天然适合通信和贸易。"
+        },
+        {
+          "s": "That is a good example of why — no matter how complex our models are or may one day be — we need direct observation of the natural world.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这是一个很好的例子，说明为什么——无论我们的模型现在或将来有多复杂——我们都需要对自然世界进行直接观察。"
         }
       ]
     },
@@ -358,12 +358,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
-        },
-        {
-          "s": "One of the best things about this job is that you can observe animals in their natural environment.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "这项工作的最好之处之一是，您可以在自然环境中观察动物。"
         }
       ]
     },
@@ -383,6 +377,20 @@
       "def": "having an ability that you were born with 天赋的；天生具有某种能力的",
       "ex": [
         {
+          "s": "Caroline doesn't have a natural talent for music but she _________ it with hard work.",
+          "src": "2024天津3月卷·一、单项填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "卡罗琳没有音乐天赋，但她用努力_________它。"
+        },
+        {
+          "s": "Her natural gift for music.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她对音乐的天赋。"
+        },
+        {
           "s": "Naturally, you would expect the addition of the errors to have increased unwanted confusion.",
           "src": "2023天津3月卷·阅读理解D",
           "cat": "gaokao",
@@ -393,7 +401,14 @@
     },
     {
       "def": "relaxed and not pretending to be sb/sth different 不拘束的；不做作的；自然的",
-      "ex": []
+      "ex": [
+        {
+          "s": "One of the best things about this job is that you can observe animals in their natural environment.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "这项工作的最好之处之一是，您可以在自然环境中观察动物。"
+        }
+      ]
     },
     {
       "def": "related by blood 父母或其子女",
@@ -415,13 +430,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"
-        },
-        {
-          "s": "People settle in these places because they are easy to get to and naturally suited to communications and trade.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们在这些地方定居，因为它们交通便利，且天然适合通信和贸易。"
         }
       ]
     },
@@ -435,15 +443,7 @@
     },
     {
       "def": "a person who is very good at sth without having to learn how to do it, or who is perfectly suited for a particular job 有天赋的人；擅长做某事的人",
-      "ex": [
-        {
-          "s": "That is a good example of why — no matter how complex our models are or may one day be — we need direct observation of the natural world.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这是一个很好的例子，说明为什么——无论我们的模型现在或将来有多复杂——我们都需要对自然世界进行直接观察。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a normal musical note, not its sharp or flat form. The written symbol is (♮). 本位音，还原音，本位号（书写符号为 ♮）",

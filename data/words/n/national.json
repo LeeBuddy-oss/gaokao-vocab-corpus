@@ -86,13 +86,6 @@
           "t": "上周，在旧金山的一场公开辩论中，一个名为\"辩论者项目\"的软件程序击败了它的人类对手，包括以色列前全国辩论冠军诺亚·奥瓦迪亚。"
         },
         {
-          "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
-        },
-        {
           "s": "St David’s Hall is the award winning National Concert Hall of Wales standing at the very heart of Cardiff’s entertainment centre.",
           "src": "2022全国甲卷·阅读理解A",
           "cat": "gaokao",
@@ -205,13 +198,6 @@
           "t": "虽然著名的外国建筑师受邀主导中国地标性建筑的设计，如新央视大楼和国家大剧院，但许多优秀的中国建筑师也在努力走向舞台中央。"
         },
         {
-          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
-        },
-        {
           "s": "“Jazz seems like it’s not really a part of the American appetite,” Moran tells National Public Radio’s reporter Neal Conan.",
           "src": "2017全国I卷·阅读理解C",
           "cat": "gaokao",
@@ -282,13 +268,6 @@
           "t": "哈比马是全球希伯来语戏剧的中心，成立于1905年革命后的莫斯科，该公司于20世纪20年代末最终定居特拉维夫。自1958年以来，他们一直被公认为以色列的国家剧院。这版莎士比亚《威尼斯商人》标志着他们首次访问英国。"
         },
         {
-          "s": "Shakespeare’s Richard III will be directed by the National’s Associate Director，Wang Xiaoying.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "莎士比亚的《理查三世》将由国立剧院副院长王小英执导。"
-        },
-        {
           "s": "Habima National Theatre Tel Aviv | Hebrew",
           "src": "2017重庆卷·阅读理解A",
           "cat": "gaokao",
@@ -321,7 +300,7 @@
           "src": "2017北京卷",
           "cat": "gaokao",
           "year": 2017,
-          "t": "她问妈妈他为什么要那样做，妈妈说那个男人无家可归而且饿了。"
+          "t": "这个国家公园有大量野生动物，_________从蝴蝶到大象。"
         },
         {
           "s": "More recently, the foundation began another  47  called National Red Scarf Day --- a day when people donate $20 and wear red scarves in support of Canada’s  48   and homeless.",
@@ -378,7 +357,29 @@
     },
     {
       "def": "owned, controlled or paid for by the government 国有的；国立的；国营的",
-      "ex": []
+      "ex": [
+        {
+          "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
+        },
+        {
+          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
+        },
+        {
+          "s": "Shakespeare’s Richard III will be directed by the National’s Associate Director，Wang Xiaoying.",
+          "src": "2017重庆卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "莎士比亚的《理查三世》将由国立剧院副院长王小英执导。"
+        }
+      ]
     }
   ]
 }

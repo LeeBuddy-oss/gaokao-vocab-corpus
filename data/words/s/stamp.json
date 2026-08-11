@@ -27,6 +27,26 @@
           "src": "人教B1 U2",
           "cat": "renjiao",
           "t": "了解每个学生旅行的理由。"
+        },
+        {
+          "s": "The bees, butterfly and many other insects looked lovely and beautifully on the stamps.",
+          "src": "2023全国甲卷·短文改错",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "蜜蜂、蝴蝶和许多其他昆虫在邮票上看起来可爱又美丽。"
+        },
+        {
+          "s": "In that class, Miss Zhao, our biology teacher, showed we insects on stamps.",
+          "src": "2023全国甲卷·短文改错",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在那节课上，我们的生物老师赵老师给我们看了邮票上的昆虫。"
+        },
+        {
+          "s": "It also earned Carson a posthumous Presidential Medal of Freedom and put her face on the 17-cent US stamp.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "这也为卡森赢得了后继的总统自由勋章,并将她的脸贴在美国17美分邮票上."
         }
       ]
     },
@@ -88,30 +108,10 @@
       "def": "to print letters, words, a design, etc. onto sth using a special tool 在 … 上盖（字样或图案等）；把（字样或图案等）盖在 … 上",
       "ex": [
         {
-          "s": "The bees, butterfly and many other insects looked lovely and beautifully on the stamps.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "蜜蜂、蝴蝶和许多其他昆虫在邮票上看起来可爱又美丽。"
-        },
-        {
-          "s": "In that class, Miss Zhao, our biology teacher, showed we insects on stamps.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在那节课上，我们的生物老师赵老师给我们看了邮票上的昆虫。"
-        },
-        {
           "s": "Chinese characters are carved into small squares of stone and stamped onto paper with ink.",
           "src": "外研社B3 U4",
           "cat": "waiyan",
           "t": "汉字被刻在小块方石上，再用墨拓印到纸上。"
-        },
-        {
-          "s": "It also earned Carson a posthumous Presidential Medal of Freedom and put her face on the 17-cent US stamp.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "这也为卡森赢得了后继的总统自由勋章,并将她的脸贴在美国17美分邮票上."
         },
         {
           "s": "Under this Act, all waterfowl hunters 16 years of age and over must annually purchase and carry a Federal Duck Stamp.",
@@ -146,7 +146,7 @@
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "候鸟飞走了。"
+          "t": "邮票价格下降了。"
         },
         {
           "s": "The Federal Duck Stamp Story",

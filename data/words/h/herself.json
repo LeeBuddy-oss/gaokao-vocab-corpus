@@ -74,7 +74,15 @@
     },
     {
       "def": "（强调句中的女性主语或宾语）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Before the film began, each woman was asked to help herself to a snack.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "电影开始前，每位女性都被邀请随意取用一份零食。"
+        }
+      ]
     },
     {
       "def": "alone; without anyone else （她）独自，单独",
@@ -212,15 +220,7 @@
     },
     {
       "def": "without help （她）独立地",
-      "ex": [
-        {
-          "s": "Before the film began, each woman was asked to help herself to a snack.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "电影开始前，每位女性都被邀请随意取用一份零食。"
-        }
-      ]
+      "ex": []
     }
   ]
 }

@@ -279,13 +279,6 @@
           "t": "提供相关信息和支持服务"
         },
         {
-          "s": "Jennifer received great support from her family as she worked to earn her degree: Her husband worked two jobs to cover the bills, and her 68-year-old mother helped take care of the children at times.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "珍妮弗在努力攻读学位的过程中得到了家人的大力支持：她的丈夫打两份工来支付账单她68岁的母亲有时帮忙照看孩子。"
-        },
-        {
           "s": "More recently, the foundation began another  47  called National Red Scarf Day --- a day when people donate $20 and wear red scarves in support of Canada’s  48   and homeless.",
           "src": "2017北京卷",
           "cat": "gaokao",
@@ -425,13 +418,6 @@
       "def": "encouragement and help that you give to sb/sth because you approve of them and want them to be successful 支持；拥护；鼓励；资助",
       "ex": [
         {
-          "s": "Established matrix gardens should not need the life support we give most gardens: fertilizer, dividing, regular watering.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "成熟的矩阵花园不需要我们给大多数花园提供的那种生命支持：肥料、分株和定期浇水。"
-        },
-        {
           "s": "Give examples to support your opinion.",
           "src": "外研社B1 U3",
           "cat": "waiyan",
@@ -460,7 +446,15 @@
     },
     {
       "def": "something you wear to hold an injured or weak part of your body firmly in position （身体部位的）支持器，托",
-      "ex": []
+      "ex": [
+        {
+          "s": "Jennifer received great support from her family as she worked to earn her degree: Her husband worked two jobs to cover the bills, and her 68-year-old mother helped take care of the children at times.",
+          "src": "2020全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "珍妮弗在努力攻读学位的过程中得到了家人的大力支持：她的丈夫打两份工来支付账单她68岁的母亲有时帮忙照看孩子。"
+        }
+      ]
     },
     {
       "def": "evidence that helps to show that sth is true or correct 证据；依据",
@@ -480,7 +474,15 @@
     },
     {
       "def": "technical help that a company gives to customers using their computers or other products （公司向客户提供的）技术支援",
-      "ex": []
+      "ex": [
+        {
+          "s": "Established matrix gardens should not need the life support we give most gardens: fertilizer, dividing, regular watering.",
+          "src": "2025浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "成熟的矩阵花园不需要我们给大多数花园提供的那种生命支持：肥料、分株和定期浇水。"
+        }
+      ]
     }
   ]
 }

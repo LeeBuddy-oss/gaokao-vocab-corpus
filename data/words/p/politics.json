@@ -41,12 +41,6 @@
           "t": "政治老师：谁是众议院议长？"
         },
         {
-          "s": "His books cover a lot of subjects, including philosophy, logic, politics and natural science.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "他的书涉及许多学科，包括哲学、逻辑学、政治学和自然科学。"
-        },
-        {
           "s": "To fully understand the problems of the state of the world’s children, it would be nice to be an expert on education, economics, politics, religions, traditions, cultures … I’m none of these things, but I am a mother and will travel.",
           "src": "人教选必4 U5",
           "cat": "renjiao",
@@ -64,7 +58,14 @@
     },
     {
       "def": "政治学学位",
-      "ex": []
+      "ex": [
+        {
+          "s": "His books cover a lot of subjects, including philosophy, logic, politics and natural science.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "他的书涉及许多学科，包括哲学、逻辑学、政治学和自然科学。"
+        }
+      ]
     },
     {
       "def": "a system of political beliefs; a state of political affairs 政治思想体系；政治局势",

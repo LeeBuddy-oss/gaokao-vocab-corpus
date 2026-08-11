@@ -37,13 +37,6 @@
           "t": "当他给我回信时我非常____42____（兴奋/excite）。他说他会确保公司将塑料吸管的使用量减半。"
         },
         {
-          "s": "That movie led him into the second half of his career where his comedic presence alone could make a movie a financial success even when movie reviewers would not rate it highly.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "那部电影将他带入了职业生涯的下半场，在那个阶段，仅凭他的喜剧魅力就能让一部电影在商业上获得成功，即使影评人评价不高。"
-        },
-        {
           "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
           "src": "2021卷",
           "cat": "gaokao",
@@ -63,20 +56,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "超过一半（53%）的人独自吃早餐，近半数（46%）的人独自吃午餐。"
-        },
-        {
-          "s": "To be sure, more than half of teens still engage in these activities, but the ___44___ have slimmed considerably, Between 1976 and 1979, 86 percent of high school seniors had gone on a date; between 2010 and 2015 only 63 percent People say, Oh, it's because teenagers are more responsible, or more lazy, or more boring, “but they're ___45___ the larger trend,” said Jean Twenge, lead author of the study, which drew on seven large time-lag surveys of Americans.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "诚然，超过半数青少年仍参与这些活动，但___44___已大幅缩减。1976至1979年间，86%的高中生曾约会；2010至2015年间仅63%。人们说，哦，这是因为青少年更负责、或更懒、或更无趣，“但他们___45___更大的趋势，”该研究领衔作者珍·特温格说，研究借鉴了七项美国大型时滞调查。"
-        },
-        {
-          "s": "Though I lived _____42_____ three and a half hours away, most of my classmates thought of Ohio as a whole different world.",
-          "src": "2026新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "虽然我活____42____了3个半小时 大部分同学都认为俄亥俄是一个不同的世界"
         },
         {
           "s": "Hardly had I written half a page when I felt a sharp pain in my chest",
@@ -221,13 +200,6 @@
           "t": "虽然参与者被告知这项研究是关于认知过程的，但他们也被问及兴趣爱好，约一半人说自己有艺术爱好。"
         },
         {
-          "s": "About half of Ho’s students stay for a week or less; others are there for more than a year.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "大约一半的Ho学生停留一周或不到一周;其他人在那里停留一年以上."
-        },
-        {
           "s": "About half of them walk or bike to work.",
           "src": "2024新高考II卷·阅读理解C",
           "cat": "gaokao",
@@ -287,7 +259,15 @@
     },
     {
       "def": "either of two periods of time into which a sports game, concert, etc. is divided （比赛、音乐会等的）半场，半局",
-      "ex": []
+      "ex": [
+        {
+          "s": "That movie led him into the second half of his career where his comedic presence alone could make a movie a financial success even when movie reviewers would not rate it highly.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "那部电影将他带入了职业生涯的下半场，在那个阶段，仅凭他的喜剧魅力就能让一部电影在商业上获得成功，即使影评人评价不高。"
+        }
+      ]
     },
     {
       "def": "half a pint of beer or a similar drink （啤酒等饮料的）半品脱",
@@ -326,6 +306,13 @@
       "def": "an amount equal to half of sth/sb 半数",
       "ex": [
         {
+          "s": "To be sure, more than half of teens still engage in these activities, but the ___44___ have slimmed considerably, Between 1976 and 1979, 86 percent of high school seniors had gone on a date; between 2010 and 2015 only 63 percent People say, Oh, it's because teenagers are more responsible, or more lazy, or more boring, “but they're ___45___ the larger trend,” said Jean Twenge, lead author of the study, which drew on seven large time-lag surveys of Americans.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "诚然，超过半数青少年仍参与这些活动，但___44___已大幅缩减。1976至1979年间，86%的高中生曾约会；2010至2015年间仅63%。人们说，哦，这是因为青少年更负责、或更懒、或更无趣，“但他们___45___更大的趋势，”该研究领衔作者珍·特温格说，研究借鉴了七项美国大型时滞调查。"
+        },
+        {
           "s": "However, data of the first six months showed it would make less than half this amount.",
           "src": "2022全国乙卷·阅读理解D",
           "cat": "gaokao",
@@ -338,18 +325,18 @@
       "def": "the largest part of sth 绝大部分（时间、乐趣、麻烦等）",
       "ex": [
         {
+          "s": "Though I lived _____42_____ three and a half hours away, most of my classmates thought of Ohio as a whole different world.",
+          "src": "2026新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "虽然我活____42____了3个半小时 大部分同学都认为俄亥俄是一个不同的世界"
+        },
+        {
           "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
           "src": "2018全国II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2018,
           "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
-        },
-        {
-          "s": "Today’s children spend an average of four and a half hours a day looking at screens, split between watching television and using the Internet.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "几年前电影制作人戴维·邦德意识到他的孩子——当时五岁和三岁——沉迷屏幕的程度达到他能对着三岁儿子的耳朵说\"巧克力\"却得不到回应的地步。"
         },
         {
           "s": "During the training stage, each dog was shown only the upper half or the lower half of the person’s face.",
@@ -363,6 +350,20 @@
     {
       "def": "to the extent of half 到一半程度；半",
       "ex": [
+        {
+          "s": "About half of Ho’s students stay for a week or less; others are there for more than a year.",
+          "src": "2025新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "大约一半的Ho学生停留一周或不到一周;其他人在那里停留一年以上."
+        },
+        {
+          "s": "Today’s children spend an average of four and a half hours a day looking at screens, split between watching television and using the Internet.",
+          "src": "2021浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "几年前电影制作人戴维·邦德意识到他的孩子——当时五岁和三岁——沉迷屏幕的程度达到他能对着三岁儿子的耳朵说\"巧克力\"却得不到回应的地步。"
+        },
         {
           "s": "More than half of Australian homes are still choosing to stick with their home phone.",
           "src": "2021全国乙卷·阅读理解B",

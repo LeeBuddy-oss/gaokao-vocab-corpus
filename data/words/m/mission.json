@@ -14,12 +14,39 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "当孩子搞砸时，不要急着出手救援。____39____"
+        },
+        {
+          "s": "This stranger became my cheerleader, as if it was his mission to lift me up from my  28 .",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位陌生人成了我的啦啦队长，仿佛他的使命就是把我从28 中拉起来。"
+        },
+        {
+          "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
         }
       ]
     },
     {
       "def": "a group of people doing such a job; the place where they work 使团；代表团；执行任务的地点",
-      "ex": []
+      "ex": [
+        {
+          "s": "He was the commander of the Apollo 11 manned lunar landing mission, and was the first man to step on the lunar surface.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他是阿波罗11号载人登月任务的指挥官，也是第一个踏上月球表面的人。"
+        },
+        {
+          "s": "In 1944, Saint-Exupéry left on a wartime mission over occupied France, from which he never returned.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "1944年，圣埃克苏佩里出发执行一次飞越被占领法国上空的战时任务，从此再也没有回来。"
+        }
+      ]
     },
     {
       "def": "the work of teaching people about Christianity, especially in a foreign country; a group of people doing such work （尤指在海外的）传教，布道；布道团",
@@ -48,20 +75,6 @@
           "t": "我使命的重要部分是让各个年龄段的人远离含糖饮料，汤姆解释道。"
         },
         {
-          "s": "This stranger became my cheerleader, as if it was his mission to lift me up from my  28 .",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位陌生人成了我的啦啦队长，仿佛他的使命就是把我从28 中拉起来。"
-        },
-        {
-          "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
-        },
-        {
           "s": "It is an independent, non-profit organisation whose mission is to provide medical care to those affected by conflict, epidemics, disasters or a lack of access to health care.",
           "src": "外研社B5 U4",
           "cat": "waiyan",
@@ -83,34 +96,23 @@
     },
     {
       "def": "a flight into space 太空飞行任务",
-      "ex": []
-    },
-    {
-      "def": "a task or journey that is very difficult and takes a long time to complete （极其艰巨且需长时间才能完成的）任务，旅行",
       "ex": [
-        {
-          "s": "He was the commander of the Apollo 11 manned lunar landing mission, and was the first man to step on the lunar surface.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "他是阿波罗11号载人登月任务的指挥官，也是第一个踏上月球表面的人。"
-        },
-        {
-          "s": "In 1944, Saint-Exupéry left on a wartime mission over occupied France, from which he never returned.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "1944年，圣埃克苏佩里出发执行一次飞越被占领法国上空的战时任务，从此再也没有回来。"
-        },
-        {
-          "s": "My mission was to relieve Emma, a Canadian specialist in infectious diseases at the end of her posting.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "我的任务是与Emma交接，她是一位加拿大传染病专家，即将结束她的任务期。"
-        },
         {
           "s": "Encouraged by discoveries over the years, space agencies of various countries are planning manned missions to Mars that could take place within the next 25 years.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "在过去几年的发现的鼓舞下，各国的太空机构正在规划可能在未来25年内进行的火星载人任务。"
+        }
+      ]
+    },
+    {
+      "def": "a task or journey that is very difficult and takes a long time to complete （极其艰巨且需长时间才能完成的）任务，旅行",
+      "ex": [
+        {
+          "s": "My mission was to relieve Emma, a Canadian specialist in infectious diseases at the end of her posting.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "我的任务是与Emma交接，她是一位加拿大传染病专家，即将结束她的任务期。"
         }
       ]
     }

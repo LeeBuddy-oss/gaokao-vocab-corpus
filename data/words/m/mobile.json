@@ -16,24 +16,57 @@
           "t": "我使用移动支付。"
         },
         {
-          "s": "What does paragraph 2 mainly tell us about mobile phones?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第2段主要告诉我们关于手机的什么？"
-        },
-        {
           "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
           "src": "2017全国III卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
           "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
+        },
+        {
+          "s": "This makes sense because the people who get observational biodiversity data on mobile devices are often citizen scientists recording their encounters with species in areas nearby.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这样做是有道理的,因为在移动设备上获得观测生物多样性数据的人往往是公民科学家,记录他们在附近地区与物种的遭遇."
         }
       ]
     },
     {
       "def": "able to move or travel around easily 人",
       "ex": [
+        {
+          "s": "Later, on the phone she apologised and explained that she was busy with work because someone was 2____, I wish she had come!",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "后来，她在电话中道歉，并解释说她忙于工作，因为有人2 ____ ，我希望她来！"
+        },
+        {
+          "s": "As they grew more mobile, we let them move freely around the house during the day, but when we were asleep we had to contain them in a large room, otherwise they'd get up to mischief.",
+          "src": "2021新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "随着它们越来越能活动，白天我们让它们在屋里自由走动，但我们睡着时得把它们关在一个大房间里，否则它们会调皮捣蛋。"
+        }
+      ]
+    },
+    {
+      "def": "able to change your social class, your job or the place where you live easily 人",
+      "ex": []
+    },
+    {
+      "def": "changing shape or expression easily and often 脸或面部特征",
+      "ex": []
+    },
+    {
+      "def": "打手机给我。",
+      "ex": [
+        {
+          "s": "What does paragraph 2 mainly tell us about mobile phones?",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "第2段主要告诉我们关于手机的什么？"
+        },
         {
           "s": "These days you'd be hard pressed to find anyone in Australia over the age of 15 who doesn’t own a mobile phone.",
           "src": "2021全国乙卷·阅读理解B",
@@ -47,19 +80,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "像我和妻子这样有年幼家庭的X世代人，仍然会觉得家中有一部座机电话很方便，而不必为每个家庭成员都配一部手机。"
-        },
-        {
-          "s": "This makes sense because the people who get observational biodiversity data on mobile devices are often citizen scientists recording their encounters with species in areas nearby.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这样做是有道理的,因为在移动设备上获得观测生物多样性数据的人往往是公民科学家,记录他们在附近地区与物种的遭遇."
-        },
-        {
-          "s": "Later, on the phone she apologised and explained that she was busy with work because someone was 2____, I wish she had come!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "后来，她在电话中道歉，并解释说她忙于工作，因为有人2 ____ ，我希望她来！"
         },
         {
           "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
@@ -86,26 +106,6 @@
           "cat": "waiyan",
           "t": "妈妈正在用爸爸的手机拍摄海岸沿线五彩缤纷的小房子，这时我们看到了一些令人惊叹的东西--虎鲸！"
         },
-        {
-          "s": "As they grew more mobile, we let them move freely around the house during the day, but when we were asleep we had to contain them in a large room, otherwise they'd get up to mischief.",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "随着它们越来越能活动，白天我们让它们在屋里自由走动，但我们睡着时得把它们关在一个大房间里，否则它们会调皮捣蛋。"
-        }
-      ]
-    },
-    {
-      "def": "able to change your social class, your job or the place where you live easily 人",
-      "ex": []
-    },
-    {
-      "def": "changing shape or expression easily and often 脸或面部特征",
-      "ex": []
-    },
-    {
-      "def": "打手机给我。",
-      "ex": [
         {
           "s": "My mobile phone was inside, but luckily there was a telephone box across the street.",
           "src": "2024浙江1月卷·阅读理解B",
@@ -162,12 +162,7 @@
           "src": "外研社B2 U5",
           "cat": "waiyan",
           "t": "我刚睡着，就听到爸爸的电话响了。"
-        }
-      ]
-    },
-    {
-      "def": "a decoration made from wire, etc. that is hung from the ceiling and that has small objects hanging from it which move when the air around them moves 风铃；（可随风摆动的）悬挂饰物",
-      "ex": [
+        },
         {
           "s": "After becoming an important part of many British streets, the phone boxes began disappearing in the 1980s, with the rise of the mobile phone sending most of them away to the junkyards.",
           "src": "2020江苏卷·阅读理解B",
@@ -176,6 +171,10 @@
           "t": "在成为许多英国街道的重要组成部分后，电话亭从20世纪80年代开始逐渐消失，随着手机的兴起，大多数被送进了垃圾场。"
         }
       ]
+    },
+    {
+      "def": "a decoration made from wire, etc. that is hung from the ceiling and that has small objects hanging from it which move when the air around them moves 风铃；（可随风摆动的）悬挂饰物",
+      "ex": []
     }
   ]
 }

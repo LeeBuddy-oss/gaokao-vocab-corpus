@@ -130,13 +130,6 @@
           "src": "外研社B3 U6",
           "cat": "waiyan",
           "t": "1960年，智利遭受了20世纪有记录以来最强的______。"
-        },
-        {
-          "s": "If, at a later date, you wish to apply for a job or graduate school where an official copy of your UCLA record is required, it will be to your advantage to provide an impressive academic record.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
         }
       ]
     },
@@ -249,6 +242,13 @@
       "def": "（希望载入正式记录）（仅）供记录",
       "ex": [
         {
+          "s": "If, at a later date, you wish to apply for a job or graduate school where an official copy of your UCLA record is required, it will be to your advantage to provide an impressive academic record.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
+        },
+        {
           "s": "If you forget to officially drop that course, a “F” (Fail) grade will be registered on your record at the end of the term.",
           "src": "2023天津6月卷·阅读理解A",
           "cat": "gaokao",
@@ -259,7 +259,15 @@
     },
     {
       "def": "（强调要点以引起注意）",
-      "ex": []
+      "ex": [
+        {
+          "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对于那些对声音感兴趣的人来说，声音技术领域确实正在引起轰动。"
+        }
+      ]
     },
     {
       "def": "to keep a permanent account of facts or events by writing them down, filming them, storing them in a computer, etc. 记录；记载",
@@ -323,13 +331,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "老师让我们录下自己讲述一次假期的内容。"
-        },
-        {
-          "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对于那些对声音感兴趣的人来说，声音技术领域确实正在引起轰动。"
         },
         {
           "s": "My immediate reaction was to assume I was listening to someone else's recording.",

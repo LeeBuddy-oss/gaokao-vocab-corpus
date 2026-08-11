@@ -170,6 +170,53 @@
           "t": "他翻着书页，睁大眼睛不停地说：“怎么会有这么多词？”过了一会儿，他看着我问：“妈妈，你认识所有这些词吗？”我笑着说：“我确实不认识所有这些词。”"
         },
         {
+          "s": "I don't trust my laptop's spellchecker. ____37____ Of course, these days there are plenty of online dictionaries and thesauruses, but I'm old-fashioned enough to prefer a hard cover and pages I can leaf through with my fingers.",
+          "src": "2024新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我不信任笔记本电脑的拼写检查。____37____ 当然，如今有很多在线词典和同义词词典，但我足够老派，更喜欢硬壳书和可用手指翻阅的书页。"
+        },
+        {
+          "s": "Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "一些音乐片段可以进行40分钟,需要长达50页的翻转,包括重复段落的回转."
+        },
+        {
+          "s": "More recently, as books have become inexpensive or even throwaway, artists have used them as the raw material for artworks — transforming covers, pages or even complete volumes into paintings and sculptures.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "更近一些时候，随着书籍变得廉价甚至可以随意丢弃，艺术家们开始把它们用作艺术品的原材料——把封面、书页甚至整册书变成绘画和雕塑。"
+        },
+        {
+          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
+        },
+        {
+          "s": "You have to make sure you don’t turn two pages at once and make sure you find the repeats in the music when you have to go back to the right spot.” Mr Titterton explained.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你必须确保一次不要翻两页，还要确保当你需要回到正确位置时能找到反复演奏的部分。\"蒂特顿先生解释道。"
+        },
+        {
+          "s": "Silent onstage communication is key, and each pianist has their own style of “nodding” to indicate a page turn which they need to practise with their page turner.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "台上无声的沟通是关键，每位钢琴家都有自己的点头风格来表示翻页，需要与翻谱员练习。"
+        }
+      ]
+    },
+    {
+      "def": "a section of data or information that can be shown on a computer screen at any one time （计算机的）页面，版面",
+      "ex": [
+        {
           "s": "Halfway down the page you realize that you have no idea what you have read. _____37_____ Thus, you go back and reread, not because you did not understand, but because you were not paying attention.",
           "src": "2026浙江1月卷·七选五",
           "cat": "gaokao",
@@ -182,13 +229,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "人们常把对所读内容的记忆与它出现在书中的位置或页面上的位置联系起来。"
-        },
-        {
-          "s": "I don't trust my laptop's spellchecker. ____37____ Of course, these days there are plenty of online dictionaries and thesauruses, but I'm old-fashioned enough to prefer a hard cover and pages I can leaf through with my fingers.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我不信任笔记本电脑的拼写检查。____37____ 当然，如今有很多在线词典和同义词词典，但我足够老派，更喜欢硬壳书和可用手指翻阅的书页。"
         },
         {
           "s": "As I read, he reaches out and pokes（戳）the page with his finger.",
@@ -205,19 +245,43 @@
           "t": "他更用力地戳了页面。"
         },
         {
-          "s": "Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages.",
+          "s": "Make a note of any page which is of special importance.",
+          "src": "2021新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你可能会发现自己需要背诵某些内容。"
+        },
+        {
+          "s": "Triggering events for anger are so many that to describe them all would take hundreds of pages.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "理解这些原因将控制我们自己的愤怒，如果我们愿意以批判的眼光评估自己。"
+        },
+        {
+          "s": "In his spare time though he goes on stage beside pianist Maria Raspopova — not as a musician but as her page turner.",
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "一些音乐片段可以进行40分钟,需要长达50页的翻转,包括重复段落的回转."
-        },
+          "t": "但在空闲时间，他登上舞台，站在钢琴家玛丽亚·拉斯波波娃身旁——不是作为音乐家，而是作为她的翻谱员。"
+        }
+      ]
+    },
+    {
+      "def": "an important event or period of history 历史篇章，历史篇页（指历史大事或时期）",
+      "ex": [
         {
           "s": "2. ___69___ Paste the picture at the top of a page and have them write a story about what is happening or what the picture represents.",
           "src": "2018上海卷·Section C",
           "cat": "gaokao",
           "year": 2018,
           "t": "2. ___69___ 把图片贴在一页顶部，让他们写一个关于正在发生的事或图片所代表之物的故事。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "a student who works as an assistant to a member of the US Congress （美国议员的）青年助理（本身为学生）",
+      "ex": [
         {
           "s": "The students took on diverse topics and turned in stories, 10 to 20 pages each, with characters that broadened my view and touched my heart.",
           "src": "2025新高考I卷·阅读理解B",
@@ -260,69 +324,6 @@
           "year": "",
           "t": "然后，他们会用“我们必须记住……”和“我们不能否认……”这样的表达引出支撑论点。学生A：翻到第83页。"
         },
-        {
-          "s": "More recently, as books have become inexpensive or even throwaway, artists have used them as the raw material for artworks — transforming covers, pages or even complete volumes into paintings and sculptures.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "更近一些时候，随着书籍变得廉价甚至可以随意丢弃，艺术家们开始把它们用作艺术品的原材料——把封面、书页甚至整册书变成绘画和雕塑。"
-        },
-        {
-          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
-        },
-        {
-          "s": "You have to make sure you don’t turn two pages at once and make sure you find the repeats in the music when you have to go back to the right spot.” Mr Titterton explained.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你必须确保一次不要翻两页，还要确保当你需要回到正确位置时能找到反复演奏的部分。\"蒂特顿先生解释道。"
-        },
-        {
-          "s": "Silent onstage communication is key, and each pianist has their own style of “nodding” to indicate a page turn which they need to practise with their page turner.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "台上无声的沟通是关键，每位钢琴家都有自己的点头风格来表示翻页，需要与翻谱员练习。"
-        }
-      ]
-    },
-    {
-      "def": "a section of data or information that can be shown on a computer screen at any one time （计算机的）页面，版面",
-      "ex": [
-        {
-          "s": "Make a note of any page which is of special importance.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你可能会发现自己需要背诵某些内容。"
-        },
-        {
-          "s": "Triggering events for anger are so many that to describe them all would take hundreds of pages.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "理解这些原因将控制我们自己的愤怒，如果我们愿意以批判的眼光评估自己。"
-        },
-        {
-          "s": "In his spare time though he goes on stage beside pianist Maria Raspopova — not as a musician but as her page turner.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但在空闲时间，他登上舞台，站在钢琴家玛丽亚·拉斯波波娃身旁——不是作为音乐家，而是作为她的翻谱员。"
-        }
-      ]
-    },
-    {
-      "def": "an important event or period of history 历史篇章，历史篇页（指历史大事或时期）",
-      "ex": []
-    },
-    {
-      "def": "a student who works as an assistant to a member of the US Congress （美国议员的）青年助理（本身为学生）",
-      "ex": [
         {
           "s": "Most page turners are piano students or up-and-coming concert pianists, although Ms Raspopova has once asked her husband to help her out on stage.",
           "src": "2021卷",

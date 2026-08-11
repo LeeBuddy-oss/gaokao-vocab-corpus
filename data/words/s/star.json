@@ -15,30 +15,10 @@
           "t": "水从它浓密的棕色毛发上流下来，那只熊也瞪着我看。"
         },
         {
-          "s": "This is when a pop star draws far more attention than, say, gradual biodiversity decline.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这就是当一位流行明星比，比如说，渐进的生物多样性衰退吸引更多关注时的情况。"
-        },
-        {
           "s": "He invented twelve new instruments to study stars and planets.",
           "src": "外研社B3 U3",
           "cat": "waiyan",
           "t": "他发明了十二种新的仪器来研究恒星和行星。"
-        },
-        {
-          "s": "Meet a star reporter.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "见到一位明星记者。"
-        },
-        {
-          "s": "Join us on 4 ________ and let our experienced director help you find your inner star.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "在 4 ________ 加入我们，让经验丰富的导演帮你发现内心的明星。"
         },
         {
           "s": "Head Chef David Thompson, who received a Michelin star for his Loodon-based Thai restaurant of the same name, opened this branch in the Metropolitan Hotel in 2010.",
@@ -79,13 +59,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "月光照众星下."
-        },
-        {
-          "s": "Every weekend this is “Wales” premier comedy club where having a great time is the order for both audiences and comedy stars alike.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "每个周末这里都是\"威尔士\"顶级喜剧俱乐部，观众和喜剧明星都能在这里度过美好时光。"
         }
       ]
     },
@@ -109,18 +82,38 @@
       "def": "a famous and excellent singer, performer, sports player, etc. 歌唱（或表演）明星；体坛高手；才华出众者",
       "ex": [
         {
+          "s": "This is when a pop star draws far more attention than, say, gradual biodiversity decline.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这就是当一位流行明星比，比如说，渐进的生物多样性衰退吸引更多关注时的情况。"
+        },
+        {
+          "s": "Meet a star reporter.",
+          "src": "2020全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "见到一位明星记者。"
+        },
+        {
+          "s": "Join us on 4 ________ and let our experienced director help you find your inner star.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "在 4 ________ 加入我们，让经验丰富的导演帮你发现内心的明星。"
+        },
+        {
+          "s": "Every weekend this is “Wales” premier comedy club where having a great time is the order for both audiences and comedy stars alike.",
+          "src": "2022全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "每个周末这里都是\"威尔士\"顶级喜剧俱乐部，观众和喜剧明星都能在这里度过美好时光。"
+        },
+        {
           "s": "If a basketball star is. for example，trying to gain a high personal point total，he may take a shot himself when it would be better to pass the ball to a teammate，affecting the team's performance.",
           "src": "2019北京卷·七选五",
           "cat": "gaokao",
           "year": 2019,
           "t": "例如，如果一个篮球明星试图获得更高的个人得分总数，在把球传给队友可能更好的情况下，他可能会自己投篮，从而影响球队的表现。"
-        },
-        {
-          "s": "He is a star actor of Children’s Theatre, having played leading roles in “The Legend of Sleepy Hollow” and “The Wizard of Oz,” and is fresh from Jersey Production “Ragtime.”",
-          "src": "2024浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他是儿童剧院的明星演员，曾在《沉睡谷传奇》和《绿野仙踪》中担任主角，刚从Jersey制作《Ragtime》中走出。"
         },
         {
           "s": "Anyway, grandpa is now an internet star—two minutes of fame!",
@@ -189,15 +182,7 @@
     },
     {
       "def": "a person who has the main part, or one of the main parts, in a film/movie, play, etc. （电影、戏剧等的）主角，主演",
-      "ex": [
-        {
-          "s": "She has turned down several  67  (invitation) to star at shows in order to concentrate on her studies.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她为了专心学业，已拒绝了数次  67  （邀请）在演出中担任主演。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a person or thing that is the best of a group 常用于另一名词前",
@@ -228,7 +213,22 @@
     },
     {
       "def": "to have one of the main parts in a film/movie, play, etc. 主演；担任主角",
-      "ex": []
+      "ex": [
+        {
+          "s": "He is a star actor of Children’s Theatre, having played leading roles in “The Legend of Sleepy Hollow” and “The Wizard of Oz,” and is fresh from Jersey Production “Ragtime.”",
+          "src": "2024浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他是儿童剧院的明星演员，曾在《沉睡谷传奇》和《绿野仙踪》中担任主角，刚从Jersey制作《Ragtime》中走出。"
+        },
+        {
+          "s": "She has turned down several  67  (invitation) to star at shows in order to concentrate on her studies.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "她为了专心学业，已拒绝了数次  67  （邀请）在演出中担任主演。"
+        }
+      ]
     },
     {
       "def": "if a film/movie, play, etc. stars sb, that person has one of the main parts 使主演；由 … 担任主角",

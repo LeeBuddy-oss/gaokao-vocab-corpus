@@ -65,13 +65,6 @@
           "t": "选择他们自己的课程作业。"
         },
         {
-          "s": "What are the selected artworks about?",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "入选的艺术作品是关于什么的？"
-        },
-        {
           "s": "Which of the following books is the text most likely selected from?",
           "src": "2023全国乙卷·阅读理解D",
           "cat": "gaokao",
@@ -211,6 +204,13 @@
     {
       "def": "carefully chosen as the best out of a larger group of people or things 精选的；作为 … 精华的；优等的",
       "ex": [
+        {
+          "s": "What are the selected artworks about?",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "入选的艺术作品是关于什么的？"
+        },
         {
           "s": "Out of the thousands of applicants, eleven were selected, including a young woman from China.",
           "src": "外研社B4 U6",

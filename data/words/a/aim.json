@@ -23,25 +23,11 @@
           "t": "这本书的目标是什么？"
         },
         {
-          "s": "In writing Paragraph 1, the author aims to ________. （    ）",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在写第一段时，作者的目的是________。（    ）"
-        },
-        {
           "s": "He aims to ___55___ his journey by mid-July.",
           "src": "2019浙江卷",
           "cat": "gaokao",
           "year": 2019,
           "t": "他计划在七月中旬之前___55___他的旅程。"
-        },
-        {
-          "s": "Dutkiewicz's model aims to project phytoplankton changes",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第3段中划线词\"vulnerable\"的意思可能是什么？"
         },
         {
           "s": "What is the aim of the Habitat Restoration Team?",
@@ -63,6 +49,13 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "InSPIRE的目标是什么？"
+        },
+        {
+          "s": "F.Our aim was to see if we could live, in some way, like real Parisians.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "F.我们的目标是看看我们是否能以某种方式像真正的巴黎人一样生活。"
         }
       ]
     },
@@ -85,6 +78,20 @@
     {
       "def": "to have sth as an aim 目的是；旨在",
       "ex": [
+        {
+          "s": "In writing Paragraph 1, the author aims to ________. （    ）",
+          "src": "2020天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在写第一段时，作者的目的是________。（    ）"
+        },
+        {
+          "s": "Dutkiewicz's model aims to project phytoplankton changes",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "杜特凯维奇的模型旨在预测浮游植物的变化"
+        },
         {
           "s": "It aimed to improve kids’ achievement in school.",
           "src": "2020浙江1月卷·阅读理解C",
@@ -189,13 +196,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "后续测试的目的是想了解关于凤头鹦鹉的什么？"
-        },
-        {
-          "s": "F.Our aim was to see if we could live, in some way, like real Parisians.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "G.食物太美味了，你不需要吃多少就能感到满足。"
         },
         {
           "s": "All our projects aim to promote the development of poor and remote communities.",

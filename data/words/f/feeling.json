@@ -65,13 +65,6 @@
           "t": "成功的感觉不再与我所获得的分数挂钩，而是与学习的纯粹乐趣相连。"
         },
         {
-          "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
-        },
-        {
           "s": "Feeling motivated, I started running ____42____, but then two things happened.",
           "src": "2024新高考I卷·完形填空",
           "cat": "gaokao",
@@ -268,13 +261,6 @@
           "t": "她回到工作岗位时感到精力充沛。"
         },
         {
-          "s": "On a regular day， students at the school sometimes come up to him to say they're not feeling well or other times to tell him about something that happened at break． He knows most of the kids at the school， but can't name each one． Some of them make him know them． Like Faith， who often forgets her backpack in the cafeteria， and Lucy， who just wants a hug．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "平常的一天，学校里的学生有时会走到他面前说他们不舒服，有时则会告诉他课间发生的事。他认识学校里大多数孩子，却叫不出每个人的名字。有些孩子让他记住了自己，比如常常把背包忘在食堂的Faith，还有只想拥抱一下的Lucy。"
-        },
-        {
           "s": "They require a bigger commitment than smaller ones, and they have a more powerful effect on the feeling of a space.",
           "src": "2018全国I卷·七选五",
           "cat": "gaokao",
@@ -333,12 +319,6 @@
           "src": "外研社B1 U5",
           "cat": "waiyan",
           "t": "当我专注于拍摄这个令人惊叹的场景时，我突然觉得自己被监视了。"
-        },
-        {
-          "s": "If you haven't been feeling very well, drink some ginger tea to give your immune system a helping hand.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "如果你身体一直不太好，喝点姜茶来增强你的免疫系统。"
         },
         {
           "s": "\"The feeling of being able to see it _____45_____ to form my opinion is like breaking down another wall as a blind person.”",
@@ -575,11 +555,33 @@
     },
     {
       "def": "the ability to feel physically 身体感觉；知觉",
-      "ex": []
+      "ex": [
+        {
+          "s": "If you haven't been feeling very well, drink some ginger tea to give your immune system a helping hand.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "如果你身体一直不太好，喝点姜茶来增强你的免疫系统。"
+        }
+      ]
     },
     {
       "def": "the atmosphere of a place, situation, etc. （场所、情况等给人的）气氛",
-      "ex": []
+      "ex": [
+        {
+          "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
+          "src": "2025北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
+        },
+        {
+          "s": "On a regular day， students at the school sometimes come up to him to say they're not feeling well or other times to tell him about something that happened at break． He knows most of the kids at the school， but can't name each one． Some of them make him know them． Like Faith， who often forgets her backpack in the cafeteria， and Lucy， who just wants a hug．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "平常的一天，学校里的学生有时会走到他面前说他们不舒服，有时则会告诉他课间发生的事。他认识学校里大多数孩子，却叫不出每个人的名字。有些孩子让他记住了自己，比如常常把背包忘在食堂的Faith，还有只想拥抱一下的Lucy。"
+        }
+      ]
     }
   ]
 }

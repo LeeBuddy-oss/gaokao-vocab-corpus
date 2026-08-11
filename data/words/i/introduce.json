@@ -79,13 +79,6 @@
           "t": "它需要被充分介绍。"
         },
         {
-          "s": "Why was the sugar tax introduced?",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为什么开始征收糖税?"
-        },
-        {
           "s": "introduce the topicD. predict the ending",
           "src": "2022北京卷·阅读理解C",
           "cat": "gaokao",
@@ -188,7 +181,7 @@
           "src": "2017北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "进入这样一场比赛并输掉的可能性应该让计算机科学家们集中注意力。"
+          "t": "引入豁免的概念。"
         },
         {
           "s": "I had been too nervous to pay attention when he introduced himself!",
@@ -299,6 +292,13 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "杂志中的文章通常很短，这使得孩子能够在不因注意力短暂而失去兴趣的情况下读完一篇专题文章。"
+        },
+        {
+          "s": "Reading magazines as a family can be used to introduce each other to the various interests that each family member possesses.",
+          "src": "2018上海卷·Section C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "全家一起读杂志，可以用来让彼此了解各位家庭成员的各种兴趣。"
         }
       ]
     },
@@ -334,7 +334,15 @@
     },
     {
       "def": "to be the start of sth new 作为（新事物）的开头；使开始；创始",
-      "ex": []
+      "ex": [
+        {
+          "s": "Why was the sugar tax introduced?",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "为什么开始征收糖税?"
+        }
+      ]
     },
     {
       "def": "to formally present a new law so that it can be discussed 将（法案）提交讨论",
@@ -366,13 +374,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "美国一项研究发现，学校引入校服后，学生的成绩___62___（improve）了一点。"
-        },
-        {
-          "s": "Reading magazines as a family can be used to introduce each other to the various interests that each family member possesses.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "全家一起读杂志，可以用来让彼此了解各位家庭成员的各种兴趣。"
         },
         {
           "s": "For the machine, this quality is not in-born, nor is it something introduced by humans; it is a logical consequence of the simple fact that the machine cannot achieve its original purpose if it is dead.",

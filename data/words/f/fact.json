@@ -137,7 +137,7 @@
           "src": "2023天津6月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "狗更喜欢大方的人给的食物。"
+          "t": "事实与数据。"
         },
         {
           "s": "Why does storytelling work better than mere statement of facts in promoting learning?",
@@ -193,7 +193,12 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "但它们通常有一些共同要素：故事不是干巴巴的事实罗列，而是有情节，并且会介绍人物。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "things that are true rather than things that have been invented 真实的事物；真实情况",
+      "ex": [
         {
           "s": "Most of my reading through primary， middle and high school was factual reading． I read for knowledge， and to make A's on my tests． Occasionally， I would read a novel that was assigned， but I didn't enjoy this type of reading． I liked facts， things that are concrete． I thought anything abstract left too much room for argument．",
           "src": "2019天津卷·18．",
@@ -201,25 +206,6 @@
           "year": 2019,
           "t": "在小学、初中和高中阶段，我的大部分阅读都是事实性阅读。我为获取知识而读，为了在考试中拿A。偶尔，我也会读老师指定的小说，但我并不喜欢这种阅读。我喜欢事实，喜欢具体的东西。我认为任何抽象的事物都留下了太多争论的空间。"
         },
-        {
-          "s": "It is a well-known fact, especially in my school, that Junior year is the time of packing many AP classes into the schedule.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这是一个众所周知的事实，尤其在我学校：高三是要把许多AP课程塞进课表的一年。"
-        },
-        {
-          "s": "Research has found that learning obtained from a well-told story is remembered more accurately, and for far longer, than from facts and figures.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "研究发现，从一个讲述精彩的故事中学到的东西，比从事实和数据中学到的记得更准确，也持久得多。"
-        }
-      ]
-    },
-    {
-      "def": "things that are true rather than things that have been invented 真实的事物；真实情况",
-      "ex": [
         {
           "s": "Frequent stops are made for photo taking as your guide offers unique facts and history.",
           "src": "2018全国I卷·阅读理解A",
@@ -236,6 +222,20 @@
     {
       "def": "（用以强调，尤其与刚提到的相反）事实上，实际上",
       "ex": [
+        {
+          "s": "It is a well-known fact, especially in my school, that Junior year is the time of packing many AP classes into the schedule.",
+          "src": "2025北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这是一个众所周知的事实，尤其在我学校：高三是要把许多AP课程塞进课表的一年。"
+        },
+        {
+          "s": "Research has found that learning obtained from a well-told story is remembered more accurately, and for far longer, than from facts and figures.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "研究发现，从一个讲述精彩的故事中学到的东西，比从事实和数据中学到的记得更准确，也持久得多。"
+        },
         {
           "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
           "src": "2021北京卷·阅读理解B",
@@ -374,7 +374,7 @@
           "src": "2018全国III卷·阅读理解C",
           "cat": "gaokao",
           "year": 2018,
-          "t": "昨天，我和儿子谢泼德坐在一起，决心亲自验证我的这个理论。"
+          "t": "\"事实上，传统也指那些一直在发展、仍在被创造的事物，\"他说。"
         },
         {
           "s": "In fact, we stayed at the same campsite as we did ten years ago.",

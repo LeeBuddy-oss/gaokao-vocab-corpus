@@ -106,16 +106,16 @@
           "t": "暴风雨一来他就消失了"
         },
         {
-          "s": "Do not assume the storm has passed even if the wind stops.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "总之，尽管困难重重，但那些坚持不懈的人可以实现他们设定的任何目标。"
-        },
-        {
           "s": "I'm totally amazed by Storm.",
           "src": "外研社B4 U4",
           "cat": "waiyan",
           "t": "我对暴风雨很惊讶"
+        },
+        {
+          "s": "Stars after the storm 1 It’s strange, but I don’t really remember much about the hurricane itself.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "暴风之后的星星：很奇怪，但我真的不太记得飓风本身的事了。"
         }
       ]
     },
@@ -131,12 +131,6 @@
           "src": "外研社B3 U6",
           "cat": "waiyan",
           "t": "该国的冬季风暴带来多达7.9米的降雪，导致约4000人死亡。"
-        },
-        {
-          "s": "Stars after the storm 1 It’s strange, but I don’t really remember much about the hurricane itself.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "暴风之后的星星：很奇怪，但我真的不太记得飓风本身的事了。"
         }
       ]
     },
@@ -146,7 +140,14 @@
     },
     {
       "def": "to be extremely successful very quickly in a particular place or among particular people 在某处大获成功；使观众等倾动",
-      "ex": []
+      "ex": [
+        {
+          "s": "Do not assume the storm has passed even if the wind stops.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "总之，尽管困难重重，但那些坚持不懈的人可以实现他们设定的任何目标。"
+        }
+      ]
     },
     {
       "def": "to attack a place suddenly and capture it 突袭攻占某处",

@@ -75,14 +75,6 @@
           "t": "他说，如果Textalyzer法案成为法律，“人们会更不敢把手放在手机上。”"
         },
         {
-          "s": "“Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
-          "src": "2025新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“医生从事医学工作，律师从事法律工作，您应该允许自己进行维持植物所需的实践。",
-          "_matched": true
-        },
-        {
           "s": "The protection by law since 1975.",
           "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
@@ -133,7 +125,16 @@
     },
     {
       "def": "the study of the law as a subject at university, etc; the profession of being a lawyer 法学；法律学；律师业",
-      "ex": []
+      "ex": [
+        {
+          "s": "“Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
+          "src": "2025新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“医生从事医学工作，律师从事法律工作，您应该允许自己进行维持植物所需的实践。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "警方；法律机构",

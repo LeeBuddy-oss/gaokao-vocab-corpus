@@ -30,12 +30,6 @@
           "t": "咖啡馆位于1号楼楼上，每天营业直到太平洋科学中心关门前一小时。"
         },
         {
-          "s": "With a different theme each year, the day Is observed with a wide range of events that are organised at local, national and international levels.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "每年有不同的主题，这一天以地方、国家和国际层面组织的各种活动来纪念。"
-        },
-        {
           "s": "Although parks of all sizes and types exist at any level, the national parks, in particular, tend ____41____ (catch) our attention because of their large size and variety.",
           "src": "2024全国甲卷·语法填空",
           "cat": "gaokao",
@@ -76,6 +70,13 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "医学院的数量在20世纪90年代初达到18所，此后一直（______）在那个水平左右。（    ）"
+        },
+        {
+          "s": "The idea of sea level as a reference point for elevations has by now been around for so long as to go essentially unnoticed-we mention it without even considering what it means.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "以海平面作为海拔参照点的想法如今已存在如此之久，以至于几乎被人忽视——我们提到它时甚至不去思考它的含义。"
         }
       ]
     },
@@ -180,20 +181,6 @@
           "t": "健康水平决定生活质量。"
         },
         {
-          "s": "AI also significantly enhances the educational value of museums, particularly for children and families. _____39_____ For instance, interactive exhibits powered by AI can adjust their content and difficulty level based on the user's preferences and responses.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "人工智能还显著提升了博物馆的教育价值，对儿童和家庭尤其如此。_____39_____ 例如，由人工智能驱动的互动展品可以根据用户的偏好和反应调整内容和难度。"
-        },
-        {
-          "s": "“Also, there is a lot of research showing that a positive mood leads to higher levels of productivity and creativity.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "此外，大量研究表明，积极的情绪能带来更高的生产力和创造力。"
-        },
-        {
           "s": "They make me feel valued and respected, no matter my level of artistic ability.",
           "src": "2023新课标II卷·七选五",
           "cat": "gaokao",
@@ -248,13 +235,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
-        },
-        {
-          "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "报告数据显示，2-8岁儿童的娱乐性阅读水平基本保持不变。"
         }
       ]
     },
@@ -281,13 +261,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "有针对不同年龄组的不同强度练习，我们必须根据自己的健康和年龄来做。"
-        },
-        {
-          "s": "You may pursue training, degrees, or increasing levels of responsibility at work.",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你可以在工作中追求培训、学位或不断提高的责任层级。"
         },
         {
           "s": "Cold water was one thing, but this icy lake was a whole other level.",
@@ -331,14 +304,7 @@
           "src": "2020北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "这项狗狗数据研究是巴吉13岁的主人汤姆·亨特和他的父亲马特的创意。"
-        },
-        {
-          "s": "The idea of sea level as a reference point for elevations has by now been around for so long as to go essentially unnoticed-we mention it without even considering what it means.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "以海平面作为海拔参照点的想法如今已存在如此之久，以至于几乎被人忽视——我们提到它时甚至不去思考它的含义。"
+          "t": "她的监测器显示，越靠近地面，空气污染水平越高，这凸显了人们对婴儿和幼儿可能面临更高患肺病风险的担忧。"
         },
         {
           "s": "The peak of Mount Qomolangma, 8,849 meters above sea level.",
@@ -367,13 +333,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "海平面：一段历史"
-        },
-        {
-          "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "30年代初,我决定登上乞力马扎罗山,这是非洲最高的山峰,海拔5,895米."
         },
         {
           "s": "At 5, 700 meters, there’s only half the oxygen ______28______ in each breath compared to at sea level.",
@@ -410,6 +369,40 @@
     {
       "def": "having the same height, position, value, etc. as sth 等高的；地位相同的；价值相等的",
       "ex": [
+        {
+          "s": "With a different theme each year, the day Is observed with a wide range of events that are organised at local, national and international levels.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "每年有不同的主题，这一天以地方、国家和国际层面组织的各种活动来纪念。"
+        },
+        {
+          "s": "AI also significantly enhances the educational value of museums, particularly for children and families. _____39_____ For instance, interactive exhibits powered by AI can adjust their content and difficulty level based on the user's preferences and responses.",
+          "src": "2026新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "人工智能还显著提升了博物馆的教育价值，对儿童和家庭尤其如此。_____39_____ 例如，由人工智能驱动的互动展品可以根据用户的偏好和反应调整内容和难度。"
+        },
+        {
+          "s": "“Also, there is a lot of research showing that a positive mood leads to higher levels of productivity and creativity.",
+          "src": "2022浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "此外，大量研究表明，积极的情绪能带来更高的生产力和创造力。"
+        },
+        {
+          "s": "You may pursue training, degrees, or increasing levels of responsibility at work.",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你可以在工作中追求培训、学位或不断提高的责任层级。"
+        },
+        {
+          "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
+          "src": "2023天津3月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "30年代初,我决定登上乞力马扎罗山,这是非洲最高的山峰,海拔5,895米."
+        },
         {
           "s": "It is believed that today's children and teenagers are consuming three times the recommended level of sugar, putting them at a higher risk of the disease.",
           "src": "2022全国乙卷·阅读理解D",
@@ -462,6 +455,13 @@
     {
       "def": "to stop rising or falling and remain horizontal （停止升降而）保持水平",
       "ex": [
+        {
+          "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
+          "src": "2018全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "报告数据显示，2-8岁儿童的娱乐性阅读水平基本保持不变。"
+        },
         {
           "s": "By underinflating the front bags, the team allowed the platform carrying the tree to roll up the ramp and out of the hole while staying level, A trailer hauled the tree along as team members removed the airbags from the back of the platform and replaced them in the front.",
           "src": "2018上海卷",

@@ -16,13 +16,6 @@
           "t": "它停在石地上——然后转身，缓缓爬向洞穴的另一个角落，那里风更平静，苍蝇也更多。"
         },
         {
-          "s": "Things are going well, but there is always something new just around the corner.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "一切进展顺利，但拐角处总会有新鲜事物。"
-        },
-        {
           "s": "Vinnie wanted to choose the corner near the windows to ______. （    ）",
           "src": "2020天津6月卷·阅读理解B",
           "cat": "gaokao",
@@ -84,20 +77,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "你如何把“走向另一个角落”的想法应用到现实生活中的挑战上？"
-        },
-        {
-          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线,但当他来到拐角处时,他看见他的兄弟即将掉到赛道上."
-        },
-        {
-          "s": "39     On our first morning in Paris, I went around the corner to the food market to pick up some groceries.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "39    在巴黎的第一个早晨，我拐过街角去食品市场买了些食品杂货。"
         }
       ]
     },
@@ -121,6 +100,27 @@
       "def": "a place where two streets join 街角；拐角",
       "ex": [
         {
+          "s": "Things are going well, but there is always something new just around the corner.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "一切进展顺利，但拐角处总会有新鲜事物。"
+        },
+        {
+          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线,但当他来到拐角处时,他看见他的兄弟即将掉到赛道上."
+        },
+        {
+          "s": "39     On our first morning in Paris, I went around the corner to the food market to pick up some groceries.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "39    在巴黎的第一个早晨，我拐过街角去食品市场买了些食品杂货。"
+        },
+        {
           "s": "While the lights were changing to red, a car suddenly appeared round the corner.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
@@ -135,7 +135,15 @@
     },
     {
       "def": "a region or an area of a place (sometimes used for one that is far away or difficult to reach) （有时指偏僻或难以到达的）区域，地区",
-      "ex": []
+      "ex": [
+        {
+          "s": "As a computer engineer, there' s always a new challenge just around the corner!",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "作为一名计算机工程师，新的挑战即将到来！"
+        }
+      ]
     },
     {
       "def": "a difficult situation 困境；窘境",
@@ -179,15 +187,7 @@
     },
     {
       "def": "to go around a corner 转弯；拐弯",
-      "ex": [
-        {
-          "s": "As a computer engineer, there' s always a new challenge just around the corner!",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "作为一名计算机工程师，新的挑战即将到来！"
-        }
-      ]
+      "ex": []
     }
   ]
 }

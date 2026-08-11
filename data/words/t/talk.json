@@ -302,13 +302,6 @@
           "t": "我不愿意和他说话，经常违反他不让我和朋友在外面待太晚的规定。"
         },
         {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者主要谈论的是什么？"
-        },
-        {
           "s": "20.What does the speaker mainly talk about?",
           "src": "2021全国乙卷",
           "cat": "gaokao",
@@ -328,13 +321,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "这意味着,比如说,一个骗子可以给你打电话 从一个看起来熟悉的号码 并用一个声音和你说话 听起来就像你的银行出纳的, 让你\"确认\"你的地址, 母亲的名字,和卡片号码。"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "演讲者主要谈论的是什么？"
         },
         {
           "s": "Questions 14 through 16 are based on the following talk.",
@@ -393,17 +379,57 @@
           "t": "这次谈话的目的是什么？"
         },
         {
-          "s": "For example, Americans talk about putting 3___ in their cars and driving along the 4___, whereas in the UK, people put 5___ in their cars and drive along the 6___.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "例如，美国人谈论在汽车中放置3 ___并沿着4 ___行驶，而在英国，人们在汽车中放置5 ___并沿着6 ___行驶。"
-        },
-        {
           "s": "Paragraph 1:  When Mr and Mrs Green got home, Kevin went to talk to them.",
           "src": "2025浙江1月卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
           "t": "第1段：当格林夫妇回到家时，凯文去和他们说话。"
+        },
+        {
+          "s": "It matters as much as formal talk.",
+          "src": "2018全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "它和正式谈话一样重要。"
+        },
+        {
+          "s": "Leave it open when you’re available to talk and close it when you’re not",
+          "src": "2017全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "你可以谈话时开着门，不能谈话时关上门"
+        },
+        {
+          "s": "How does the speaker mainly talk about?",
+          "src": "2018浙江卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "说话者主要怎么讲述？"
+        }
+      ]
+    },
+    {
+      "def": "to discuss sth, usually sth serious or important 讨论，谈论，商谈，洽谈（通常指重大的事）",
+      "ex": [
+        {
+          "s": "What does the speaker mainly talk about?",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "演讲者主要谈论的是什么？"
+        },
+        {
+          "s": "What does the speaker mainly talk about?",
+          "src": "2018浙江卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "演讲者主要谈论的是什么？"
+        },
+        {
+          "s": "For example, Americans talk about putting 3___ in their cars and driving along the 4___, whereas in the UK, people put 5___ in their cars and drive along the 6___.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "例如，美国人谈论在汽车中放置3 ___并沿着4 ___行驶，而在英国，人们在汽车中放置5 ___并沿着6 ___行驶。"
         },
         {
           "s": "“People could talk about gaining knowledge or personal growth,” says Johnson.",
@@ -426,25 +452,6 @@
           "year": 2017,
           "t": "他和我都知道是怎么回事，但我们从不谈论此事。"
         },
-        {
-          "s": "It matters as much as formal talk.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它和正式谈话一样重要。"
-        },
-        {
-          "s": "Leave it open when you’re available to talk and close it when you’re not",
-          "src": "2017全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "你可以谈话时开着门，不能谈话时关上门"
-        }
-      ]
-    },
-    {
-      "def": "to discuss sth, usually sth serious or important 讨论，谈论，商谈，洽谈（通常指重大的事）",
-      "ex": [
         {
           "s": "Talking about gains from failure is negative.",
           "src": "2025北京卷·阅读理解D",
@@ -577,6 +584,20 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "我毫不犹豫地抓住了这个机会，几周后，当她邀请我与她讨论我可以在她的实验室里开展的潜在项目时，我同样震惊——而且欣喜若狂。"
+        },
+        {
+          "s": "He’d been in and out of the hospital.He and I both knew what the deal was,and we didn’t talk about it.Ours was a relationship that didn’t need a lot of words.",
+          "src": "2017重庆卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "他进出医院好几次了。我和他都知道情况如何，我们没有谈论这件事。我们的关系不需要太多言语。"
+        },
+        {
+          "s": "Dismissing small talk as unimportant is easy, but we can’t forget that deep relationships wouldn’t even exist if it weren’t for casual conversation.",
+          "src": "2018全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "把闲聊视为不重要的事情很容易，但我们不能忘记如果没有闲聊，深厚的关系甚至不会存在。"
         }
       ]
     },
@@ -612,20 +633,6 @@
           "t": "正如西北大学电气工程与计算机科学教授克里斯蒂安·哈蒙德所言：系统从来没有一个阶段知道自己到底在说什么。"
         },
         {
-          "s": "“I've seen those magic moments when children are talking to someone they are inspired by - their eyes are shining and their faces light up,” she said.",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我曾见过那些神奇的时刻，当孩子们与激励他们的人交谈时——他们的眼睛闪闪发亮，脸上焕发光彩，”她说。"
-        },
-        {
-          "s": "While the adults were busy with their serious talk outside, I was left alone in the ____21____ to help my grandmother wash dishes. ____22____ my grandmother would tell me stories about her childhood.",
-          "src": "2024全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当大人们在门外忙着严肃交谈时，我被单独留在____21____帮祖母洗碗。____22____祖母会给我讲她童年的故事。"
-        },
-        {
           "s": "“We have students who say they went home and talked to their parents and now they’re eating differently,” Jaramillo says.",
           "src": "2023新课标II卷·阅读理解B",
           "cat": "gaokao",
@@ -633,32 +640,11 @@
           "t": "“我们有学生说，他们回家和父母谈过，现在他们的饮食方式不同了，”哈拉米略说。"
         },
         {
-          "s": "Why does the speaker give the talk?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "演讲者为什么做这个演讲？"
-        },
-        {
-          "s": "How does the speaker mainly talk about?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话者主要怎么讲述？"
-        },
-        {
           "s": "What is important for successful small talk according to Carducci?",
           "src": "2018全国II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
           "t": "根据卡杜奇的说法，成功闲聊的关键是什么？"
-        },
-        {
-          "s": "Similarly, the corporate world has certainly known its fair share of disruption, yet it is only in the last couple of decades that the “Disruptor” has become a recognisable figure in the way we talk about big business.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "所有参与者都必须探讨通信或交通技术如何在整个历史中提升了美国人的生活质量。对许多人来说，技术意味着电脑、手持设备或飞往遥远行星的飞行器。然而，技术也是科学知识的应用，用以解决问题，以无数方式触动生活。"
         },
         {
           "s": "Ms Burdeyney talked to some friends who had ___19___ problems and discovered that they were largely suffering in ___20___. \" Nobody chooses to talk about it because it seems so ___21___ she said. \" But more and more are suffering and lives are being ___22___.",
@@ -675,25 +661,11 @@
           "t": "在南缘车道 Artist Point 的下层平台集合，参加这场简短讲座。"
         },
         {
-          "s": "We've all known people who run out of steam before they reach life's halfway mark． I'm not talking about those who fail to get to the top． We can't all get there． I'm talking about people who have stopped learning on growing because they have adopted the fixed attitudes and opinions that all too often come with passing years．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我们都认识这样的人，他们在到达人生的中点之前就失去了动力。我说的不是那些没能登上顶峰的人。我们不可能都到达顶峰。我说的是那些停止学习和成长的人，因为他们接受了那些常常伴随岁月流逝而来的固定态度和观念。"
-        },
-        {
           "s": "Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea.",
           "src": "2020全国新高考I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
           "t": "于是有了这本书——《追逐大海：在中亚帝国的幽灵中迷失》，它讲述了一段从塔什干到卡拉卡尔帕克斯坦的公路旅行，在那里，数百万人的生活被大海缓慢干涸所摧毁。"
-        },
-        {
-          "s": "What does Paragraph 4 mainly talk about? （no more than 10 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第4段主要讲的是什么？（不超过10个词）"
         },
         {
           "s": "What does the last paragraph mainly talk about?",
@@ -764,13 +736,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "咖啡店的研究关于闲聊说明了什么？"
-        },
-        {
-          "s": "20     It’s rare to hear someone say, “I wish that speaker had spoken longer.” On the other hand, you probably can’t count the times that you’ve thought, “I’m glad that talk is over.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "20     很少听到有人说：\"我希望那位演讲者能讲得更久。\"另一方面，你可能数不清有多少次你想：\"真高兴那个演讲终于结束了。\"它似乎永远没完没了！所以给你的听众一个惊喜吧。"
         }
       ]
     },
@@ -846,6 +811,27 @@
       "def": "（用以强调款额、情况严重程度等）讲的是，指的是",
       "ex": [
         {
+          "s": "Similarly, the corporate world has certainly known its fair share of disruption, yet it is only in the last couple of decades that the “Disruptor” has become a recognisable figure in the way we talk about big business.",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "所有参与者都必须探讨通信或交通技术如何在整个历史中提升了美国人的生活质量。对许多人来说，技术意味着电脑、手持设备或飞往遥远行星的飞行器。然而，技术也是科学知识的应用，用以解决问题，以无数方式触动生活。"
+        },
+        {
+          "s": "We've all known people who run out of steam before they reach life's halfway mark． I'm not talking about those who fail to get to the top． We can't all get there． I'm talking about people who have stopped learning on growing because they have adopted the fixed attitudes and opinions that all too often come with passing years．",
+          "src": "2019天津卷·20．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我们都认识这样的人，他们在到达人生的中点之前就失去了动力。我说的不是那些没能登上顶峰的人。我们不可能都到达顶峰。我说的是那些停止学习和成长的人，因为他们接受了那些常常伴随岁月流逝而来的固定态度和观念。"
+        },
+        {
+          "s": "What does Paragraph 4 mainly talk about? （no more than 10 words）",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "第4段主要讲的是什么？（不超过10个词）"
+        },
+        {
           "s": "Son: (nervously approaching the table) Erm...Dad, can we talk?",
           "src": "外研社B1 U3",
           "cat": "waiyan",
@@ -891,6 +877,13 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "闲聊的好处 D."
+        },
+        {
+          "s": "You do more than just talk to your neighbors — in a lot of cases, they’re truly an _____50_____ of your family.",
+          "src": "2026新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "你和不只是和邻居聊天——很多时候，他们真的是你家庭的_____50_____。"
         }
       ]
     },
@@ -903,20 +896,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "因为愤怒的争吵会导致混乱，所以这种行为受到强烈反对。"
-        },
-        {
-          "s": "He’d been in and out of the hospital.He and I both knew what the deal was,and we didn’t talk about it.Ours was a relationship that didn’t need a lot of words.",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这款名为Transition的车辆有两个座位、四个车轮，机翼可以折叠起来，因此可以像汽车一样驾驶。"
-        },
-        {
-          "s": "You do more than just talk to your neighbors — in a lot of cases, they’re truly an _____50_____ of your family.",
-          "src": "2026新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "你和不只是和邻居聊天——很多时候，他们真的是你家庭的_____50_____。"
         },
         {
           "s": "Which aspect of the study does paragraph 2 mainly talk about?",
@@ -997,6 +976,20 @@
     {
       "def": "a conversation or discussion 交谈；谈话；讨论；商讨",
       "ex": [
+        {
+          "s": "“I've seen those magic moments when children are talking to someone they are inspired by - their eyes are shining and their faces light up,” she said.",
+          "src": "2021新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“我曾见过那些神奇的时刻，当孩子们与激励他们的人交谈时——他们的眼睛闪闪发亮，脸上焕发光彩，”她说。"
+        },
+        {
+          "s": "While the adults were busy with their serious talk outside, I was left alone in the ____21____ to help my grandmother wash dishes. ____22____ my grandmother would tell me stories about her childhood.",
+          "src": "2024全国甲卷·完形填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当大人们在门外忙着严肃交谈时，我被单独留在____21____帮祖母洗碗。____22____祖母会给我讲她童年的故事。"
+        },
         {
           "s": "One day, he talked with me or hoped to mend our relations.",
           "src": "2022全国甲卷·短文改错",
@@ -1102,13 +1095,6 @@
           "t": "与他们的阅读课老师交谈。"
         },
         {
-          "s": "Does this mean that plants talk to each other?",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这是否意味着植物之间在对话呢？"
-        },
-        {
           "s": "When you need to talk to someone, don’t do it in your own office.",
           "src": "2017全国II卷·七选五",
           "cat": "gaokao",
@@ -1116,25 +1102,11 @@
           "t": "当你需要和别人谈话时，不要在你自己的办公室里谈。"
         },
         {
-          "s": "Does this mean that plants talk to each other?",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这是否意味着植物之间在对话呢？"
-        },
-        {
           "s": "When you need to talk to someone,don’t do it in your own office.",
           "src": "2017重庆卷·七选五",
           "cat": "gaokao",
           "year": 2017,
           "t": "当你需要找人谈话时，别在你自己的办公室里谈。"
-        },
-        {
-          "s": "Dismissing small talk as unimportant is easy, but we can’t forget that deep relationships wouldn’t even exist if it weren’t for casual conversation.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "把闲聊视为不重要的事情很容易，但我们不能忘记如果没有闲聊，深厚的关系甚至不会存在。"
         },
         {
           "s": "We talked endlessly through the curtain to pass the time, without seeing each other.",
@@ -1177,6 +1149,20 @@
       "def": "formal discussions between governments or organizations （政府或组织之间正式的）洽谈，会谈，谈判",
       "ex": [
         {
+          "s": "Does this mean that plants talk to each other?",
+          "src": "2017全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这是否意味着植物之间在对话呢？"
+        },
+        {
+          "s": "Does this mean that plants talk to each other?",
+          "src": "2017重庆卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这是否意味着植物之间在对话呢？"
+        },
+        {
           "s": "What might the author continue talking about?",
           "src": "2023全国乙卷·阅读理解C",
           "cat": "gaokao",
@@ -1195,6 +1181,20 @@
     {
       "def": "a speech or lecture on a particular subject （专题）报告，演讲",
       "ex": [
+        {
+          "s": "Why does the speaker give the talk?",
+          "src": "2023卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "演讲者为什么做这个演讲？"
+        },
+        {
+          "s": "20     It’s rare to hear someone say, “I wish that speaker had spoken longer.” On the other hand, you probably can’t count the times that you’ve thought, “I’m glad that talk is over.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "20     很少听到有人说：\"我希望那位演讲者能讲得更久。\"另一方面，你可能数不清有多少次你想：\"真高兴那个演讲终于结束了。\"它似乎永远没完没了！所以给你的听众一个惊喜吧。"
+        },
         {
           "s": "Give a talk.",
           "src": "2022新高考I卷",

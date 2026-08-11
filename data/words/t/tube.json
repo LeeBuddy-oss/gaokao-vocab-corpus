@@ -66,12 +66,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "不过唯一需要的部件是一张5×5英尺的透明或微乳白塑料布、六英尺塑料管，以及一个容器——或许就一个喝水杯——来接水。"
-        },
-        {
-          "s": "The author is travelling on London Tube.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "提交人乘坐伦敦管。"
         }
       ]
     },
@@ -93,7 +87,14 @@
     },
     {
       "def": "the underground railway system in London 伦敦地下铁道",
-      "ex": []
+      "ex": [
+        {
+          "s": "The author is travelling on London Tube.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "提交人乘坐伦敦管。"
+        }
+      ]
     },
     {
       "def": "the television 电视；电视机",

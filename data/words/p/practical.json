@@ -34,7 +34,7 @@
           "src": "2020北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "所有这些都由高效的客户服务团队支持，可通过电话、电子邮件和在线聊天联系。"
+          "t": "这款应用程序让我们的实用语言课程随时随地可用。"
         },
         {
           "s": "Practically everyone can make and receive calls anywhere, anytime.",
@@ -60,6 +60,19 @@
           "src": "人教选必2 U5",
           "cat": "renjiao",
           "t": "施行海姆立克急救法快速、实用且简单。"
+        },
+        {
+          "s": "(Excerpt from The Little Prince by Antoinede Saint-Exupéry) 1 Grown-ups are more practical than children.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "（摘选自安托万·德·圣埃克苏佩里的《小王子》） 1 大人比孩子更实际。"
+        },
+        {
+          "s": "With life in the unforgiving Northern Canada being so demanding, the Inuit’s practical approach to morality made good sense.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "鉴于加拿大北部严酷的生活环境如此苛刻，因纽特人务实的道德观很有道理。"
         }
       ]
     },
@@ -84,15 +97,7 @@
     },
     {
       "def": "useful or suitable 东西",
-      "ex": [
-        {
-          "s": "Because the number of possible topics____43____（be）practically limitless, we focus on a sample of the most interesting and useful applications and tools and explain the basic principles of technology.",
-          "src": "2020全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "因为可能的主题数量___43___（be）几乎无穷无尽，我们聚焦于最有趣、最有用的应用和工具的一个样本，并解释技术的基本原理。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "sensible and realistic 人",
@@ -102,26 +107,6 @@
           "src": "外研社B4 U1",
           "cat": "waiyan",
           "t": "这是每年有一天世界上很多地方的人互相开玩笑的日子。"
-        },
-        {
-          "s": "(Excerpt from The Little Prince by Antoinede Saint-Exupéry) 1 Grown-ups are more practical than children.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "（摘选自安托万·德·圣埃克苏佩里的《小王子》） 1 大人比孩子更实际。"
-        },
-        {
-          "s": "With life in the unforgiving Northern Canada being so demanding, the Inuit’s practical approach to morality made good sense.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "鉴于加拿大北部严酷的生活环境如此苛刻，因纽特人务实的道德观很有道理。"
-        },
-        {
-          "s": "She writes from the practical angle of a business person rather than as an academic, making for a guide which is highly accessible and informative and which, by the close, will make you feel almost as smart as AI.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "她从一个商人的实用角度而非学者角度写作，使这本指南极易读又有信息量，读到最后会让你觉得自己几乎和AI一样聪明。"
         }
       ]
     },
@@ -132,6 +117,20 @@
     {
       "def": "almost complete or total 几乎完全的；实际上的",
       "ex": [
+        {
+          "s": "Because the number of possible topics____43____（be）practically limitless, we focus on a sample of the most interesting and useful applications and tools and explain the basic principles of technology.",
+          "src": "2020全国新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "因为可能的主题数量___43___（be）几乎无穷无尽，我们聚焦于最有趣、最有用的应用和工具的一个样本，并解释技术的基本原理。"
+        },
+        {
+          "s": "She writes from the practical angle of a business person rather than as an academic, making for a guide which is highly accessible and informative and which, by the close, will make you feel almost as smart as AI.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "她从一个商人的实用角度而非学者角度写作，使这本指南极易读又有信息量，读到最后会让你觉得自己几乎和AI一样聪明。"
+        },
         {
           "s": "By the 1920s, wolves had practically disappeared from the Yellowstone area.",
           "src": "2017全国III卷·阅读理解C",

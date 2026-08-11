@@ -34,19 +34,19 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "它会这样运作：到达车祸现场的警官可以要求司机交出手机，并用Textalyzer在操作系统里检查近期活动。"
-        }
-      ]
-    },
-    {
-      "def": "an event or a situation that you see, especially one of a particular type 事件；场面；情景",
-      "ex": [
+        },
         {
           "s": "If you do, you won’ be able to   59   it and the whole thing develops into an unpleasant scene and that   60   everyone’s day.",
           "src": "2020全国III卷·完形填空",
           "cat": "gaokao",
           "year": 2020,
           "t": "如果你那样做，你将无法___59___，整件事会演变成不愉快的场面，从而___60___大家的一天。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "an event or a situation that you see, especially one of a particular type 事件；场面；情景",
+      "ex": [
         {
           "s": "Embarrassed, as usual, I __27__ the scene. __28__, later when I learned from my friends that my dad __29__ all competitors and won everyone's admiration, I found that mixed in with my __30__ was a touch of pride.",
           "src": "2020天津3月卷·书面表达",
@@ -124,12 +124,6 @@
           "t": "大多数孩子想要超级英雄、运动队标志或公主图案，而婴儿常常收到印有花卉、树木和海洋生物的图案。"
         },
         {
-          "s": "General introduction _____ Main plot _____ The most memorable scene _____ Comments _____ ...",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "一般介绍_____主要情节_____最难忘的场景_____评论_____ ……"
-        },
-        {
           "s": "These scenes may have been painted hundreds of years ago, but they record moments we can all relate to.",
           "src": "2023新课标II卷·阅读理解C",
           "cat": "gaokao",
@@ -173,13 +167,6 @@
       "def": "a painting, drawing, or photograph of a place and the things that are happening there 表现 … 景色的绘画（或摄影）作品；以 … 风情为题材的绘画（或摄影）作品",
       "ex": [
         {
-          "s": "Music has long been considered to be an enjoyable pastime for many people． ____35____ The mental health benefits from music can't be argued．Music could also be helping you with many other health problems behind the scenes．",
-          "src": "2021北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "长期以来，音乐一直被视为许多人喜爱的消遣。____35____ 音乐对心理健康的益处是不容置疑的。在幕后，音乐也可能正帮着你应对许多其他健康问题。"
-        },
-        {
           "s": "It was so peaceful and quiet and the colors of the brown rocks, the deep green pine trees, and the late afternoon sun mixed to create a magic scene.",
           "src": "2018浙江6月卷·读后续写",
           "cat": "gaokao",
@@ -194,7 +181,15 @@
     },
     {
       "def": "in the part of a theatre, etc. that the public does not usually see 在后台；在幕后",
-      "ex": []
+      "ex": [
+        {
+          "s": "Music has long been considered to be an enjoyable pastime for many people． ____35____ The mental health benefits from music can't be argued．Music could also be helping you with many other health problems behind the scenes．",
+          "src": "2021北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "长期以来，音乐一直被视为许多人喜爱的消遣。____35____ 音乐对心理健康的益处是不容置疑的。在幕后，音乐也可能正帮着你应对许多其他健康问题。"
+        }
+      ]
     },
     {
       "def": "in a way that people in general are not aware of 秘密地；背地里；在幕后",
@@ -206,7 +201,14 @@
     },
     {
       "def": "to give sb the information and details they need in order to understand what comes next （向 … ）介绍背景，事先介绍情况",
-      "ex": []
+      "ex": [
+        {
+          "s": "General introduction _____ Main plot _____ The most memorable scene _____ Comments _____ ...",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "一般介绍_____主要情节_____最难忘的场景_____评论_____ ……"
+        }
+      ]
     }
   ]
 }

@@ -41,7 +41,7 @@
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "你的房间天花板上装有烟雾探测器。一些建筑的天花板上还有热探测器。为确保烟雾探测器的安全运行，请执行以下操作："
+          "t": "•立即从最近的紧急出口撤离；不要使用电梯。"
         },
         {
           "s": "B． To lead the students to the nearest exits．",
@@ -68,6 +68,13 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "成功意味着满足个人欲望"
+        },
+        {
+          "s": "The team hopes to make it to market in the near future.",
+          "src": "2019全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "该团队希望在不久的将来将其推向市场。"
         }
       ]
     },
@@ -103,7 +110,15 @@
     },
     {
       "def": "at a short distance away 距离不远；在附近",
-      "ex": []
+      "ex": [
+        {
+          "s": "As it has been many years since I last used one, I should hardly be surprised that there are no longer any public telephones near my house.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "距离我上次使用电话亭已经很多年了，所以我几乎不惊讶我家附近已经没有任何公用电话了。"
+        }
+      ]
     },
     {
       "def": "a short time away in the future 不久以后",
@@ -185,20 +200,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "储物柜位于1号楼，靠近问讯台，以及3号楼。"
-        },
-        {
-          "s": "The team hopes to make it to market in the near future.",
-          "src": "2019全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "该团队希望在不久的将来将其推向市场。"
-        },
-        {
-          "s": "As it has been many years since I last used one, I should hardly be surprised that there are no longer any public telephones near my house.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "距离我上次使用电话亭已经很多年了，所以我几乎不惊讶我家附近已经没有任何公用电话了。"
         },
         {
           "s": "If you’re lucky, there might be a pocket park near where you live, but it’s unusual to find places in a city that are relatively wild.",

@@ -27,6 +27,13 @@
           "src": "人教选必3 U1",
           "cat": "renjiao",
           "t": "国王、贵族和地位崇高的人想要购买他们自己和他们所爱的人的精确画像。"
+        },
+        {
+          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
+          "src": "2023北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
         }
       ]
     },
@@ -102,13 +109,6 @@
           "t": "计算机分析在不知情的情况下比较了母亲和幼鸟发出的叫声，并按相似度排序。"
         },
         {
-          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
-        },
-        {
           "s": "Lang knows only too well that a team needs to start from zero to prepare for new challenges ahead after ranking at the top.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
@@ -154,20 +154,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "当我以高等教育学者的身份与家庭交谈时，他们常常惊讶于教学卓越并未被计入排名。____36____"
-        },
-        {
-          "s": "They should give strong consideration to universities where high-quality teaching is valued, even though the schools may be ranked lower.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他们应该认真考虑那些重视高质量教学的大学，即使这些学校的排名较低。"
-        },
-        {
-          "s": "However, the rankings ignore a critical factor: the quality of teaching.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，排名忽视了一个关键因素：教学质量。"
         }
       ]
     },
@@ -193,7 +179,22 @@
     },
     {
       "def": "（强调质量、状况等）极端的，糟糕的",
-      "ex": []
+      "ex": [
+        {
+          "s": "They should give strong consideration to universities where high-quality teaching is valued, even though the schools may be ranked lower.",
+          "src": "2023北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他们应该认真考虑那些重视高质量教学的大学，即使这些学校的排名较低。"
+        },
+        {
+          "s": "However, the rankings ignore a critical factor: the quality of teaching.",
+          "src": "2023北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "然而，排名忽视了一个关键因素：教学质量。"
+        }
+      ]
     },
     {
       "def": "growing too thickly 植物",

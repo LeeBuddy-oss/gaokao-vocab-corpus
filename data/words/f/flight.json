@@ -30,20 +30,6 @@
           "t": "他乘热气球飞了一次。"
         },
         {
-          "s": "Ehlers returned to Minnesotan, and then drove 100 miles to Minneapolis to put Rosie on a flight to Michigan.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "埃勒斯回到明尼苏达，然后驱车100英里到明尼阿波利斯，把罗西送上飞往密歇根的航班。"
-        },
-        {
-          "s": "15．（1分）If we                  the flight yesterday， we would be enjoying our holiday on the beach now．（  ）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "15．（1分）如果我们昨天赶上了那趟航班，我们现在就会在海滩上享受假期了。（  ）"
-        },
-        {
           "s": "To put him to another flight.",
           "src": "2018上海卷",
           "cat": "gaokao",
@@ -72,13 +58,6 @@
           "t": "Transition的首飞。"
         },
         {
-          "s": "A ．To cancel a flight.",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "取消一个航班。"
-        },
-        {
           "s": "The Transition’s Fist Flight",
           "src": "2017重庆卷·阅读理解C",
           "cat": "gaokao",
@@ -102,6 +81,27 @@
     {
       "def": "a plane making a particular journey 航班飞机；班机",
       "ex": [
+        {
+          "s": "Ehlers returned to Minnesotan, and then drove 100 miles to Minneapolis to put Rosie on a flight to Michigan.",
+          "src": "2019全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "埃勒斯回到明尼苏达，然后驱车100英里到明尼阿波利斯，把罗西送上飞往密歇根的航班。"
+        },
+        {
+          "s": "15．（1分）If we                  the flight yesterday， we would be enjoying our holiday on the beach now．（  ）",
+          "src": "2018天津卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "15．（1分）如果我们昨天赶上了那趟航班，我们现在就会在海滩上享受假期了。（  ）"
+        },
+        {
+          "s": "A ．To cancel a flight.",
+          "src": "2017重庆卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "取消一个航班。"
+        },
         {
           "s": "Due to a big storm, my flight had been delayed by an hour and a half.",
           "src": "2024新高考I卷·读后续写",
@@ -246,13 +246,6 @@
           "t": "Terrafugia公司周一宣布，其新型飞行汽车已完成首飞，使该公司距离在未来一年内销售飞行汽车的目标更近了一步。"
         },
         {
-          "s": "50 Honorable Mentions：Judges will choose up to 50 honorable mention winners, who will each receive a T-shirt in memory of Earhart’s final flight.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "50个荣誉提名奖：评委将选出最多50名荣誉提名获奖者，每人将获得一件纪念埃尔哈特最后一次飞行的T恤。"
-        },
-        {
           "s": "25. ______ birds use their feathers for flight, some of their feathers are for other purposes.",
           "src": "2017北京卷",
           "cat": "gaokao",
@@ -300,7 +293,15 @@
     },
     {
       "def": "a group of birds or aircraft flying together （一起飞行的）鸟群（或机群）",
-      "ex": []
+      "ex": [
+        {
+          "s": "50 Honorable Mentions：Judges will choose up to 50 honorable mention winners, who will each receive a T-shirt in memory of Earhart’s final flight.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "50个荣誉提名奖：评委将选出最多50名荣誉提名获奖者，每人将获得一件纪念埃尔哈特最后一次飞行的T恤。"
+        }
+      ]
     }
   ]
 }

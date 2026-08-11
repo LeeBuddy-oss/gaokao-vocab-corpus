@@ -36,13 +36,6 @@
           "t": "然后他到当地的池塘和小溪转了一圈，带回一些植物和动物。"
         },
         {
-          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。"
-        },
-        {
           "s": "We reached the stream, and they unwillingly walked ahead.",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
@@ -65,12 +58,6 @@
           "src": "人教B2 U3",
           "cat": "renjiao",
           "t": "听到它的第一个TV 我让你流 你最喜欢的电视节目 并看到你的脸 在屏幕上与演员。"
-        },
-        {
-          "s": "A: I listen to music, stream videos, or look up information.",
-          "src": "人教B2 U3",
-          "cat": "renjiao",
-          "t": "答:我听音乐、流视频,"
         }
       ]
     },
@@ -89,7 +76,12 @@
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "从每栋房子的每一扇门，放眼望去，惊恐的人流涌向街道。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "a large number of things that happen one after the other 一连串，接二连三，源源不断（的事情）",
+      "ex": [
         {
           "s": "Self-talk is a constant stream of thoughts of a person, who is often unaware and uncertain of some events, phenomena, people, or even the person himself.",
           "src": "2020北京卷·七选五",
@@ -100,12 +92,16 @@
       ]
     },
     {
-      "def": "a large number of things that happen one after the other 一连串，接二连三，源源不断（的事情）",
-      "ex": []
-    },
-    {
       "def": "a group of students of the same age and level of ability in some schools （将同龄学生按能力编在一起的）班，组",
-      "ex": []
+      "ex": [
+        {
+          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。"
+        }
+      ]
     },
     {
       "def": "to move or pour out in a continuous flow; to produce a continuous flow of liquid or gas 液体或气体",
@@ -125,7 +121,14 @@
     },
     {
       "def": "to play video or sound on a computer by receiving it as a continuous stream, from the Internet for example, rather than needing to wait until the whole of the material has been downloaded 用流式传输，流播（无须待整个文件下载到计算机便可播放互联网上的视频或音频文件）",
-      "ex": []
+      "ex": [
+        {
+          "s": "A: I listen to music, stream videos, or look up information.",
+          "src": "人教B2 U3",
+          "cat": "renjiao",
+          "t": "答:我听音乐、流视频,"
+        }
+      ]
     }
   ]
 }

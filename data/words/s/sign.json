@@ -125,13 +125,6 @@
           "t": "通过触摸，画廊标志不会告诉您____ 37 ____ （做）。"
         },
         {
-          "s": "This call is open to Burlington-based artists and is open to all art forms that can be presented in a sign format.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "本次征集面向Burlington本地艺术家，并接受所有能以标识形式呈现的艺术门类。"
-        },
-        {
           "s": "At mile 3, I passed a sign: “GO FOR IT, RUNNERS!”",
           "src": "2018北京卷·阅读理解A",
           "cat": "gaokao",
@@ -182,13 +175,6 @@
     {
       "def": "to write your name on a document, letter, etc. to show that you have written it, that you agree with what it says, or that it is genuine 签（名）；署（名）；签字；签署",
       "ex": [
-        {
-          "s": "7：00 A．M． ﹣ 9：00 A．M．  Participants signing in at the gym",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "上午7:00–9:00 参与者在体育馆签到"
-        },
         {
           "s": "In eleventh grade, much to my classmates ___38___, I signed up for precalculus BC, the hardest math class.",
           "src": "2024天津3月卷·阅读Passage 2",
@@ -297,13 +283,6 @@
           "src": "外研社B4 U6",
           "cat": "waiyan",
           "t": "1959年， 12个国家签署了一项协议，此后又有更多国家加入。"
-        },
-        {
-          "s": "Signing up for the programme does not automatically mean that you will be able to register and participate.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "报名该项目并不自动意味着你将能够注册并参与。"
         }
       ]
     },
@@ -377,7 +356,15 @@
     },
     {
       "def": "to end a broadcast by saying goodbye or playing a piece of music （以说再见或播放音乐的形式）结束广播",
-      "ex": []
+      "ex": [
+        {
+          "s": "This call is open to Burlington-based artists and is open to all art forms that can be presented in a sign format.",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "本次征集面向Burlington本地艺术家，并接受所有能以标识形式呈现的艺术门类。"
+        }
+      ]
     },
     {
       "def": "to commit yourself to a project or course of action, especially one that you have agreed with a group of other people, countries or organizations 签署同意；签订",
@@ -385,7 +372,22 @@
     },
     {
       "def": "to agree to take part in sth 同意参与",
-      "ex": []
+      "ex": [
+        {
+          "s": "7：00 A．M． ﹣ 9：00 A．M．  Participants signing in at the gym",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "上午7:00–9:00 参与者在体育馆签到"
+        },
+        {
+          "s": "Signing up for the programme does not automatically mean that you will be able to register and participate.",
+          "src": "2024北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "报名该项目并不自动意味着你将能够注册并参与。"
+        }
+      ]
     }
   ]
 }

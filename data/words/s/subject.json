@@ -159,11 +159,34 @@
     },
     {
       "def": "a person or thing that is the main feature of a picture or photograph, or that a work of art is based on 表现对象；绘画（或拍摄）题材",
-      "ex": []
+      "ex": [
+        {
+          "s": "For better or worse, ALife mirrors the very subject it studies.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "无论好坏，ALife反映了它所研究的对象本身。"
+        }
+      ]
     },
     {
       "def": "a person or thing being used to study sth, especially in an experiment 接受试验者；实验对象",
-      "ex": []
+      "ex": [
+        {
+          "s": "The reviews were presented to 400 subjects.",
+          "src": "2026浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这些评论被呈现给400名受试者。"
+        },
+        {
+          "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
+          "src": "2026浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
+        }
+      ]
     },
     {
       "def": "a noun, noun phrase or pronoun representing the person or thing that performs the action of the verb (I in I sat down.), about which sth is stated (the house in the house is very old) or, in a passive sentence, that is affected by the action of the verb (the tree in the tree was blown down in the storm) 主语；主词",
@@ -189,13 +212,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "后来我注意到人们在春季大扫除时往那里放了很多装满各种书籍的大箱子。"
-        },
-        {
-          "s": "For better or worse, ALife mirrors the very subject it studies.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "无论好坏，ALife反映了它所研究的对象本身。"
         },
         {
           "s": "The connection between people and plants has long been the subject of scientific research.",
@@ -248,22 +264,7 @@
     },
     {
       "def": "under the authority of sth/sb 受 … 支配；服从于",
-      "ex": [
-        {
-          "s": "The reviews were presented to 400 subjects.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这些评论被呈现给400名受试者。"
-        },
-        {
-          "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "controlled by the government of another country 受异族统治的；臣服的",

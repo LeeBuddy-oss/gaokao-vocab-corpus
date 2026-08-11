@@ -79,13 +79,6 @@
           "t": "33. GDA各项目的共同目标是"
         },
         {
-          "s": "The model projects that currently blue areas with little phytoplankton could become even bluer.",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "变暖改变了海洋的关键特征，并可能影响浮游植物的生长，因为它们生长不仅需要阳光和二氧化碳，还需要营养物质。"
-        },
-        {
           "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
           "src": "2018上海卷·Section C",
           "cat": "gaokao",
@@ -695,20 +688,26 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "“聊天长椅”是一个很棒的新项目，它___35___各个年龄层的人在未来互动、相互了解。"
-        }
-      ]
-    },
-    {
-      "def": "a piece of work involving careful study of a subject over a period of time, done by school or college students （大、中学学生的）专题研究",
-      "ex": [
+        },
         {
           "s": "Zafirakou began the project at Alperton Community School, her place of work for the past twelve years.",
           "src": "2021新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "\"我见过那些神奇的时刻，当孩子们与他们所仰慕的人交谈时——他们的眼睛闪闪发光，脸上洋溢着喜悦，\"她说。"
+          "t": "扎菲拉库在阿尔珀顿社区学校启动了这个项目，那是她过去十二年工作的地方。"
+        },
+        {
+          "s": "Who are opposed to the project?",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "谁反对这个项目？"
         }
       ]
+    },
+    {
+      "def": "a piece of work involving careful study of a subject over a period of time, done by school or college students （大、中学学生的）专题研究",
+      "ex": []
     },
     {
       "def": "a set of aims, ideas or activities that sb is interested in or wants to bring to people's attention 方案；计划",
@@ -716,15 +715,7 @@
     },
     {
       "def": "只身进入公房区是危险的。",
-      "ex": [
-        {
-          "s": "Who are opposed to the project?",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "30多岁时，我结交了一些画家朋友，学会了欣赏艺术的新视角。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to plan an activity, a project etc. for a time in the future 规划；计划；拟订方案",
@@ -749,19 +740,26 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "成果是《野生动物计划》这部影片，它记录了“野生网络”的诞生——一个由多个组织组成的、以让孩子走进自然为共同目标的团体。"
-        },
-        {
-          "s": "Dutkiewicz's model aims to project phytoplankton changes",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第3段中划线词\"vulnerable\"的意思可能是什么？"
         }
       ]
     },
     {
       "def": "to estimate what the size, cost or amount of sth will be in the future based on what is happening now 预测；预计；推想",
       "ex": [
+        {
+          "s": "The model projects that currently blue areas with little phytoplankton could become even bluer.",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "该模型预测，目前浮游植物稀少的蓝色区域可能会变得更蓝。"
+        },
+        {
+          "s": "Dutkiewicz's model aims to project phytoplankton changes",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "杜特凯维奇的模型旨在预测浮游植物的变化"
+        },
         {
           "s": "Stephanie Dutkiewicz，a scientist in MIT's Center for Global Change Science，built a climate model that projects changes to the oceans throughout the century.",
           "src": "2019北京卷·阅读理解D",

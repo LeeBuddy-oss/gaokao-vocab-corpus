@@ -597,13 +597,6 @@
           "t": "『这些孩子如此专注于学习，我只需在旁边看着。』"
         },
         {
-          "s": "When I studied chemistry high school, I reconsidered mg goal or decided to be a doctor.",
-          "src": "2019全国II卷·第四部分  写作",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "当我在高中学生物化学时，我重新考虑了自己的目标，决定当医生。"
-        },
-        {
           "s": "To help students study the birds well.",
           "src": "2019浙江卷",
           "cat": "gaokao",
@@ -650,7 +643,7 @@
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "数学模型还揭示，食物网可能是不稳定的，其中顶级捕食者的小变化可能导致整个生态系统的巨大影响。在20世纪60年代，科学家提出食物网顶端的捕食者对其他物种种群规模有着惊人的控制力——包括它们并未直接攻击的物种。"
+          "t": "C．研究生态系统中物种的方法。"
         },
         {
           "s": "By the end of the century，if not sooner，the world's oceans will be bluer and greener thanks to a warming climate，according to a new study.",
@@ -723,25 +716,11 @@
           "t": "他奇怪的习惯在你想到他是一位研究如何减少垃圾的环境科学家时就有道理了，包括研究那些在垃圾车沿路行驶时从车上掉落的东西。"
         },
         {
-          "s": "They come to camp, wanting to know what it is like to be an astronaut or a pilot, and they leave with real-world applications for what they’re studying in the classroom.",
-          "src": "2018北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们来到营地，想知道当宇航员或飞行员是什么感觉，离开时带着把课堂所学用于现实世界的实际办法。"
-        },
-        {
           "s": "study the principles of flight    D. build and fire model rockets",
           "src": "2018北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
           "t": "贝尔托基尼同意这一点，并希望她团队的发现有一天可以帮助利用酶在垃圾填埋场中分解塑料。"
-        },
-        {
-          "s": "So far there is no effective way to get rid of it, but a new study suggests an answer may lie in the stomachs of some hungry worms.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "到目前为止，还没有有效的方法来摆脱它，但一项新研究表明答案可能在于某些饥饿蠕虫的胃里。"
         },
         {
           "s": "Federica Bertocchini, co-author of the study, says the worms’ ability to break down their everyday food — beeswax — also allows them to break down plastic.",
@@ -1140,11 +1119,33 @@
     },
     {
       "def": "（用于某些学科名称）",
-      "ex": []
+      "ex": [
+        {
+          "s": "They come to camp, wanting to know what it is like to be an astronaut or a pilot, and they leave with real-world applications for what they’re studying in the classroom.",
+          "src": "2018北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们来到营地，想知道当宇航员或飞行员是什么感觉，离开时带着把课堂所学用于现实世界的实际办法。"
+        },
+        {
+          "s": "So far there is no effective way to get rid of it, but a new study suggests an answer may lie in the stomachs of some hungry worms.",
+          "src": "2018北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "到目前为止，还没有有效的方法来摆脱它，但一项新研究表明答案可能在于某些饥饿蠕虫的胃里。"
+        }
+      ]
     },
     {
       "def": "the act of considering or examining sth in detail 细致考虑；仔细检查；审视",
       "ex": [
+        {
+          "s": "When I studied chemistry high school, I reconsidered mg goal or decided to be a doctor.",
+          "src": "2019全国II卷·第四部分  写作",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "当我在高中学生物化学时，我重新考虑了自己的目标，决定当医生。"
+        },
         {
           "s": "When I was in middle school, my social studies teacher asked me to enter a writing contest I said no without thinking.",
           "src": "2023新课标I卷·书面表达",
@@ -1611,7 +1612,7 @@
           "src": "2019天津卷",
           "cat": "gaokao",
           "year": 2019,
-          "t": "6.（1分）﹣我儿子获得了梦想大学的全额奖学金！"
+          "t": "他打算学什么？（  ）"
         }
       ]
     },

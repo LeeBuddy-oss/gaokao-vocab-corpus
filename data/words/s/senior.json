@@ -7,18 +7,19 @@
   "defs": [
     {
       "def": "high in rank or status; higher in rank or status than others 级别（或地位）高的",
-      "ex": [
-        {
-          "s": "Mr Meng said that challenges at senior high might put them 7_______.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "孟先生说，高中的挑战可能会让他们7 _______。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "for adults or people at a more advanced level 成人的；高级水平的",
-      "ex": []
+      "ex": [
+        {
+          "s": "“We didn’t make a big deal of that,” said Novem Auyeung, a Parks Department senior scientist.",
+          "src": "2026新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“我们当时没把那当回事，”公园管理局高级科学家Novem Auyeung说。"
+        }
+      ]
     },
     {
       "def": "for senior citizens (= older people, especially those who have retired from work) 年纪大的；老年的；年老的",
@@ -31,23 +32,17 @@
           "t": "\"它们需要成为土地的保护者并为农业经济做出贡献。\"InSPIRE正在研究\"低影响\"太阳能开发的实用方法，重点是以更友善的方式建立和运营太阳能发电场。"
         },
         {
-          "s": "That way, you’ll make the most your time at senior high.” People say, “Well begun, half done.” I guess this was a good beginning to my new school life.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "那样的话，你就会充分利用你的高中时光。\"人们说：\"好的开始是成功的一半。\"我想这是我对新学校生活的一个良好开端。"
+          "s": "It reserves seats for the seniors.",
+          "src": "2024全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它为老年人预留座位。"
         }
       ]
     },
     {
       "def": "（父子同名时，加在父亲的名字前）老",
       "ex": [
-        {
-          "s": "It reserves seats for the seniors.",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它为老年人预留座位。"
-        },
         {
           "s": "To all, I wish a pleasant trip, to groups off for a family wedding in Singapore, to seniors travelling to Rome for holiday, to children off to Disney World in Orlando...the airport is not a dull place.",
           "src": "2022天津4月卷·阅读理解B",
@@ -59,11 +54,24 @@
     },
     {
       "def": "for children over the age of 11 or 13 学校或其分部",
-      "ex": []
+      "ex": [
+        {
+          "s": "That way, you’ll make the most your time at senior high.” People say, “Well begun, half done.” I guess this was a good beginning to my new school life.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "那样的话，你就会充分利用你的高中时光。\"人们说：\"好的开始是成功的一半。\"我想这是我对新学校生活的一个良好开端。"
+        }
+      ]
     },
     {
       "def": "connected with the last year in high school or college （高中或大学）毕业年级的",
       "ex": [
+        {
+          "s": "Mr Meng said that challenges at senior high might put them 7_______.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "孟先生说，高中的挑战可能会让他们7 _______。"
+        },
         {
           "s": "Your Form Teacher 1 How did you feel on your first day at senior high?",
           "src": "外研社B1 U1",
@@ -75,13 +83,6 @@
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "t": "但这正是你在高中将要面对的那种事。"
-        },
-        {
-          "s": "To be sure, more than half of teens still engage in these activities, but the ___44___ have slimmed considerably, Between 1976 and 1979, 86 percent of high school seniors had gone on a date; between 2010 and 2015 only 63 percent People say, Oh, it's because teenagers are more responsible, or more lazy, or more boring, “but they're ___45___ the larger trend,” said Jean Twenge, lead author of the study, which drew on seven large time-lag surveys of Americans.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "诚然，超过半数青少年仍参与这些活动，但___44___已大幅缩减。1976至1979年间，86%的高中生曾约会；2010至2015年间仅63%。人们说，哦，这是因为青少年更负责、或更懒、或更无趣，“但他们___45___更大的趋势，”该研究领衔作者珍·特温格说，研究借鉴了七项美国大型时滞调查。"
         }
       ]
     },
@@ -97,19 +98,24 @@
       "def": "adults or people who have reached an advanced level 资深成人运动员；高水平运动员",
       "ex": [
         {
-          "s": "“We didn’t make a big deal of that,” said Novem Auyeung, a Parks Department senior scientist.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“我们当时没把那当回事，”公园管理局高级科学家Novem Auyeung说。"
-        },
-        {
           "s": "“We usually think in very concrete terms when doing something on a screen,” said Simone Schnall, senior author of the study.",
           "src": "2026新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
           "t": "“我们在屏幕上做事情时，通常用非常具体的方式思考，”该研究的主要作者Simone Schnall说。"
         },
+        {
+          "s": "And for that to happen, we also need to protect nature so that we can interact with it,” said Peter Kahn, a senior author of the study.",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "而要做到这一点，我们还需要保护自然，这样我们才能与之互动，该研究的资深作者彼得·卡恩说。"
+        }
+      ]
+    },
+    {
+      "def": "a child at a senior school; an older child in a school 中学生；高年级学生",
+      "ex": [
         {
           "s": "Joanna Wright, a senior political science major, loves coffee and goes to the cafe at least six days a week. _____39_____ “Catherine always has a huge smile on her face, which always puts me in a cheerful mood,” Wright said.",
           "src": "2025新高考I卷·七选五",
@@ -125,18 +131,6 @@
           "t": "我和一位高年级申请者交谈，她回答问题时展现出对自己的信心。"
         },
         {
-          "s": "And for that to happen, we also need to protect nature so that we can interact with it,” said Peter Kahn, a senior author of the study.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "而要做到这一点，我们还需要保护自然，这样我们才能与之互动，该研究的资深作者彼得·卡恩说。"
-        }
-      ]
-    },
-    {
-      "def": "a child at a senior school; an older child in a school 中学生；高年级学生",
-      "ex": [
-        {
           "s": "This year, with an open mind and new knowledge in mind, I walked into another group interview while telling myself I was that cool senior.",
           "src": "2025北京卷·阅读理解B",
           "cat": "gaokao",
@@ -148,6 +142,13 @@
     {
       "def": "(in the US and some other countries) a student in the last year at a high school or college （美国等若干国家高中和大学的）毕业班学生",
       "ex": [
+        {
+          "s": "To be sure, more than half of teens still engage in these activities, but the ___44___ have slimmed considerably, Between 1976 and 1979, 86 percent of high school seniors had gone on a date; between 2010 and 2015 only 63 percent People say, Oh, it's because teenagers are more responsible, or more lazy, or more boring, “but they're ___45___ the larger trend,” said Jean Twenge, lead author of the study, which drew on seven large time-lag surveys of Americans.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "诚然，超过半数青少年仍参与这些活动，但___44___已大幅缩减。1976至1979年间，86%的高中生曾约会；2010至2015年间仅63%。人们说，哦，这是因为青少年更负责、或更懒、或更无趣，“但他们___45___更大的趋势，”该研究领衔作者珍·特温格说，研究借鉴了七项美国大型时滞调查。"
+        },
         {
           "s": "To help them do this, some senior high schools offer courses in time management.",
           "src": "外研社B1 U1",

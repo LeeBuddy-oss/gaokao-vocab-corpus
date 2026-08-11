@@ -55,14 +55,6 @@
           "t": "想象一个孩子站在四英尺高的跳水板上问自己一个问题：\"我应该跳下去吗？"
         },
         {
-          "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。",
-          "_matched": true
-        },
-        {
           "s": "The train moved on．The little boy was ____5____ awake on his mother's lap，but the woman dropped off to sleep．A moment later，he began to____6____the half-open window—one leg went over it．The man jumped up and ____7____the child just before he fell out．",
           "src": "2021北京卷·完形填空",
           "cat": "gaokao",
@@ -76,35 +68,11 @@
           "t": "如果鱼跳得比平常高，或者青蛙叫得更大声，可能要下雨了。"
         },
         {
-          "s": "Suddenly, the man jumped through an open window into the house.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "突然，那名男子从一扇开着的窗户跳进屋里。",
-          "_matched": true
-        },
-        {
           "s": "This was so ___40___ because I had put the handbrake on when I jumped out. ___41___ Don had somehow made the ___42___move.",
           "src": "2020浙江7月卷·完形填空",
           "cat": "gaokao",
           "year": 2020,
           "t": "这太___40___了，因为我跳下车时拉了手刹。___41___唐不知怎的让___42___动了起来。",
-          "_matched": true
-        },
-        {
-          "s": "Paragraph 1: Suddenly a little rabbit jumped out in front of my horse. ____________",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "第1段：突然一只小兔跳到我马前。____________",
-          "_matched": true
-        },
-        {
-          "s": "Mac’s heart jumped.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "麦克的心猛地一跳。",
           "_matched": true
         },
         {
@@ -143,20 +111,6 @@
           "t": "心理学家Frank Farley花了多年时间研究那些跳伞、开快车的人，以及那些攀登珠峰的人。"
         },
         {
-          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
-        },
-        {
-          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
-        },
-        {
           "s": "Go on a boat trip to see whales that jump out of the water and hear the song of dolphins that sing.",
           "src": "外研社B2 U5",
           "cat": "waiyan",
@@ -167,6 +121,14 @@
     {
       "def": "to pass over sth by jumping 跳过；跃过；跨越",
       "ex": [
+        {
+          "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。",
+          "_matched": true
+        },
         {
           "s": "A． To avoid jumping to conclusions．",
           "src": "2018天津卷·阅读理解D",
@@ -187,11 +149,37 @@
     },
     {
       "def": "to move quickly and suddenly 突然快速移动",
-      "ex": []
+      "ex": [
+        {
+          "s": "Suddenly, the man jumped through an open window into the house.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "突然，那名男子从一扇开着的窗户跳进屋里。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "to make a sudden movement because of surprise, fear or excitement （因吃惊、害怕或激动而）猛地一动，突然一跳",
-      "ex": []
+      "ex": [
+        {
+          "s": "Paragraph 1: Suddenly a little rabbit jumped out in front of my horse. ____________",
+          "src": "2018浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "第1段：突然一只小兔跳到我马前。____________",
+          "_matched": true
+        },
+        {
+          "s": "Mac’s heart jumped.",
+          "src": "2017浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "麦克的心猛地一跳。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "to rise suddenly by a large amount 突升；猛涨；激增",
@@ -215,7 +203,22 @@
     },
     {
       "def": "to get on a vehicle very quickly 跳上（车辆等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
+          "src": "2024新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
+        },
+        {
+          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
+          "src": "2024新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
+        }
+      ]
     },
     {
       "def": "to be very lively 欢跃；雀跃",

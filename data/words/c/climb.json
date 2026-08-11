@@ -65,25 +65,11 @@
           "t": "58  你爬进一个像北极一样的区域，那里有____雪和可能很快消失的冰川。"
         },
         {
-          "s": "A regular character in the letters was Polar Bear,who once climbed the North Pole (an actual pole in this case) and fell through the roof of Father Christmas’s house.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "字母中的一个普通人物是北极熊，他曾经爬过北极（在这种情况下是实际的极点） ，从圣诞老人家的屋顶上掉了下来。"
-        },
-        {
           "s": "People celebrate the festival by climbing mountains, appreciating chrysanthemum flowers and drinking chrysanthemum wine.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "year": "",
           "t": "人们通过爬山、欣赏菊花和喝菊花酒来庆祝节日。"
-        },
-        {
-          "s": "We managed to leave this spot to climb higher because of the spare time until sunset.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "由于距离日落还有空闲时间，我们设法离开这个地点爬到更高的地方。"
         },
         {
           "s": "What if the spider had been climbing the wrong corner of the cave?",
@@ -166,7 +152,15 @@
     },
     {
       "def": "to increase in value or amount 温度、国家的货币等",
-      "ex": []
+      "ex": [
+        {
+          "s": "A regular character in the letters was Polar Bear,who once climbed the North Pole (an actual pole in this case) and fell through the roof of Father Christmas’s house.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "字母中的一个普通人物是北极熊，他曾经爬过北极（在这种情况下是实际的极点） ，从圣诞老人家的屋顶上掉了下来。"
+        }
+      ]
     },
     {
       "def": "to move to a higher position or social rank by your own effort （靠自己的努力）晋升，提高社会地位",
@@ -175,6 +169,13 @@
     {
       "def": "an act of climbing up a mountain, rock or large number of steps; a period of time spent climbing 攀登；攀缘；爬阶梯；攀登用的时间",
       "ex": [
+        {
+          "s": "We managed to leave this spot to climb higher because of the spare time until sunset.",
+          "src": "2023全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "由于距离日落还有空闲时间，我们设法离开这个地点爬到更高的地方。"
+        },
         {
           "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
           "src": "2018天津卷",

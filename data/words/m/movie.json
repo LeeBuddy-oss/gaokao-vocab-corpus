@@ -100,13 +100,6 @@
           "t": "要理解这点，想象一张图，竖线量化你能买多少电影票，横线对犯罪小说做同样的事。"
         },
         {
-          "s": "You like going to the movies and reading crime novels and you have $ 150 to spend, In the example below, assume that each movie costs $10 and each crime novel costs $15.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你喜欢看电影和读犯罪小说，有150美元可花。在下面的例子中，假设每部电影10美元，每本犯罪小说15美元。"
-        },
-        {
           "s": "If movies cost $ 10 each, then the maximum number of movies you can see with the money available is 15.",
           "src": "2018上海卷",
           "cat": "gaokao",
@@ -280,7 +273,15 @@
     },
     {
       "def": "我们去看电影吧。",
-      "ex": []
+      "ex": [
+        {
+          "s": "You like going to the movies and reading crime novels and you have $ 150 to spend, In the example below, assume that each movie costs $10 and each crime novel costs $15.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "你喜欢看电影和读犯罪小说，有150美元可花。在下面的例子中，假设每部电影10美元，每本犯罪小说15美元。"
+        }
+      ]
     },
     {
       "def": "我一直想从事电影业。",

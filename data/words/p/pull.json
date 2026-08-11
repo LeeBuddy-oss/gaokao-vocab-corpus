@@ -109,13 +109,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "当我们都坐在那里（第52空）时，一位渔夫驶近，扔给我们一根绳子，把我们拖了回去。"
-        },
-        {
-          "s": "Steam engines ___65__ (use) to pull the carriages and it must have been___66__ (fair) unpleasant for the passsengers, with all the smoke and noise.",
-          "src": "2017全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "蒸汽机____65__（被用于）拉动车厢，对于乘客来说一定____66__（相当）不愉快——到处都是烟雾和噪音。"
         }
       ]
     },
@@ -133,18 +126,19 @@
     },
     {
       "def": "to move sb/sth in a particular direction by pulling （向某方向）拖，拉动",
-      "ex": []
+      "ex": [
+        {
+          "s": "Steam engines ___65__ (use) to pull the carriages and it must have been___66__ (fair) unpleasant for the passsengers, with all the smoke and noise.",
+          "src": "2017全国II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "蒸汽机____65__（被用于）拉动车厢，对于乘客来说一定____66__（相当）不愉快——到处都是烟雾和噪音。"
+        }
+      ]
     },
     {
       "def": "to hold or be attached to sth and move it along behind you 将 … 拖在身后；拉；牵引",
       "ex": [
-        {
-          "s": "The Socrates Express is a fun, sharp book that draws readers in with its apparent simplicity and gradually pulls them in deeper thoughts on desire, loneliness, and aging.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "《苏格拉底快线》是一本有趣而犀利的书，以其表面的简单吸引读者，逐渐将他们带入对欲望、孤独和衰老的更深思考。"
-        },
         {
           "s": "D． Sprinklers and fire alarm pull stations．",
           "src": "2018天津卷·阅读理解A",
@@ -160,15 +154,7 @@
     },
     {
       "def": "to open or close curtains, etc. 拉上；收拢",
-      "ex": [
-        {
-          "s": "The Barcelona subway pulls into the station, the doors slide open and passengers pour out to go about their daily business.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "巴塞罗那地铁驶入车站，门滑开，乘客涌出，去忙各自日常的事。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to damage a muscle, etc. by using too much force 拉伤；扭伤；抻",
@@ -192,7 +178,15 @@
     },
     {
       "def": "to attract the interest or support of sb/sth 吸引；博取",
-      "ex": []
+      "ex": [
+        {
+          "s": "The Socrates Express is a fun, sharp book that draws readers in with its apparent simplicity and gradually pulls them in deeper thoughts on desire, loneliness, and aging.",
+          "src": "2023全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "《苏格拉底快线》是一本有趣而犀利的书，以其表面的简单吸引读者，逐渐将他们带入对欲望、孤独和衰老的更深思考。"
+        }
+      ]
     },
     {
       "def": "to attract sb sexually 吸引异性",
@@ -262,7 +256,15 @@
     },
     {
       "def": "to succeed in doing sth very difficult 完成，做成（十分困难的事）",
-      "ex": []
+      "ex": [
+        {
+          "s": "The Barcelona subway pulls into the station, the doors slide open and passengers pour out to go about their daily business.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "巴塞罗那地铁驶入车站，门滑开，乘客涌出，去忙各自日常的事。"
+        }
+      ]
     },
     {
       "def": "to help sb get better after a serious illness, operation, etc. 帮 … 复原（或康复）",
@@ -315,7 +317,7 @@
           "src": "2023天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "我的童年充满了我所追求的大多数爱好，其中大部分都是妈妈替我选择的。"
+          "t": "但他们没有把它穿过洞递给狗，而是把它拉到狗够不着的地方。"
         },
         {
           "s": "Each has to pull their own weight.",
@@ -329,7 +331,7 @@
           "src": "2020江苏卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "在我们的社会中，我们知道地球只有一个月亮。"
+          "t": "我可以在家里的电脑上调出胡安村庄的卫星图像。"
         },
         {
           "s": "C． Fire alarm pull stations and pipes．",

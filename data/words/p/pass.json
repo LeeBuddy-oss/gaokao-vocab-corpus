@@ -16,13 +16,6 @@
           "t": "房屋的墙壁上有很多洞，可以让风通过。"
         },
         {
-          "s": "Before I knew it an hour had passed and it was time to move on to lunch.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "\"我无法想象一生中还做别的。\"布里奇斯为各个年龄段开设舞蹈课程。"
-        },
-        {
           "s": "I found it difficult, but still hoped to pass.",
           "src": "2024北京卷·阅读理解B",
           "cat": "gaokao",
@@ -58,13 +51,6 @@
           "t": "尽管读者对故事倾注诸多情感，文学终究是一场数字游戏，而时间的考验极难通过。"
         },
         {
-          "s": "Over 28 states have passed laws related to pollinator habitat protection and pesticide use.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "超过28个州已通过与传粉昆虫栖息地保护和杀虫剂使用相关的法律。"
-        },
-        {
           "s": "If people remove food and attractants from their yards and campsites, grizzlies will typically pass by without trouble.",
           "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
@@ -86,10 +72,6 @@
     },
     {
       "def": "to make sth move in the direction or into the position mentioned 使沿某方向移动；使达到某位置",
-      "ex": []
-    },
-    {
-      "def": "to give sth to sb by putting it into their hands or in a place where they can easily reach it 给；递；传递",
       "ex": [
         {
           "s": "If you miss two PASS sessions in a row, you will be deregistered and your place will be given to someone on the waiting list.",
@@ -97,7 +79,12 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "如果你连续错过两次PASS课程，你将被取消注册，你的位置将给候补名单上的人。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "to give sth to sb by putting it into their hands or in a place where they can easily reach it 给；递；传递",
+      "ex": [
         {
           "s": "Carson proves that a simple lyric form that has been passed down through the ages can still ____50____ (employ) today to draw attention to important truths.",
           "src": "2023全国甲卷·语法填空",
@@ -117,7 +104,7 @@
           "src": "2023天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "我的童年充满了我所追求的大多数爱好，其中大部分都是妈妈替我选择的。"
+          "t": "但他们没有把它穿过洞递给狗，而是把它拉到狗够不着的地方。"
         },
         {
           "s": "We've all known people who run out of steam before they reach life's halfway mark． I'm not talking about those who fail to get to the top． We can't all get there． I'm talking about people who have stopped learning on growing because they have adopted the fixed attitudes and opinions that all too often come with passing years．",
@@ -203,13 +190,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "但记住，是你自己必须成长、阅读和重读，才能更好地理解你的朋友们。"
-        },
-        {
-          "s": "Many airlines now allow passengers to print their boarding passes online ______ their valuable time.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如今许多航空公司允许乘客在线打印登机牌，______他们的贵重物品……"
         }
       ]
     },
@@ -282,11 +262,27 @@
     },
     {
       "def": "to accept a proposal, law, etc. by voting 经表决通过（动议、法律等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Over 28 states have passed laws related to pollinator habitat protection and pesticide use.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "超过28个州已通过与传粉昆虫栖息地保护和杀虫剂使用相关的法律。"
+        }
+      ]
     },
     {
       "def": "to be allowed 得到允许",
-      "ex": []
+      "ex": [
+        {
+          "s": "Many airlines now allow passengers to print their boarding passes online ______ their valuable time.",
+          "src": "2017北京卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "如今许多航空公司允许乘客在线打印登机牌，______他们的贵重物品……"
+        }
+      ]
     },
     {
       "def": "to happen; to be said or done 发生；说出（或做出）",
@@ -295,6 +291,13 @@
     {
       "def": "to say that you do not know the answer to a question, especially during a quiz 不知道，过（尤在回答竞赛问题时所用）",
       "ex": [
+        {
+          "s": "Before I knew it an hour had passed and it was time to move on to lunch.",
+          "src": "2018全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "不知不觉中，一个小时过去了，该去吃午饭了。"
+        },
         {
           "s": "He waved and yelled at passing cars but was careful not to show down.",
           "src": "2017浙江6月卷·读后续写",

@@ -224,20 +224,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "在当地徒步俱乐部热情向导的陪伴下，你可以欣赏卡洛低地令人惊叹的景色。"
-        },
-        {
-          "s": "Sports club members.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "体育俱乐部成员。"
-        },
-        {
-          "s": "The dancing club in our community welcomes all new members, ____ age or gender.",
-          "src": "2022天津4月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们社区的舞蹈俱乐部欢迎所有新成员，____ 年龄或性别。"
         }
       ]
     },
@@ -256,6 +242,20 @@
     {
       "def": "an organization that sells books, CDs, etc. cheaply to its members （以优惠价出售图书、激光唱片等给成员的）读者俱乐部，听众俱乐部， … 会",
       "ex": [
+        {
+          "s": "Sports club members.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "体育俱乐部成员。"
+        },
+        {
+          "s": "The dancing club in our community welcomes all new members, ____ age or gender.",
+          "src": "2022天津4月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我们社区的舞蹈俱乐部欢迎所有新成员，____ 年龄或性别。"
+        },
         {
           "s": "That’s what happened the day my club was reading aloud a poem by Henry Longfellow.",
           "src": "2024天津3月卷·阅读Passage 3",

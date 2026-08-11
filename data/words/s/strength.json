@@ -54,13 +54,6 @@
           "t": "太可怕了，不是吗，在你精致的美丽旁边！“在这个不幸男子的口音中，蕴含着对他悲伤如此深切的体认，以至于她没有力气吐出一个音节。”"
         },
         {
-          "s": "Write a poem about how courage, determination, and strength have helped you face challenges in your life.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "写一首诗，讲述勇气、决心和力量如何帮助你面对人生中的挑战。"
-        },
-        {
           "s": "It builds up their strength.",
           "src": "2017全国III卷·阅读理解D",
           "cat": "gaokao",
@@ -90,7 +83,15 @@
     },
     {
       "def": "the quality of being brave and determined in a difficult situation 毅力；坚强决心；意志力量",
-      "ex": []
+      "ex": [
+        {
+          "s": "Write a poem about how courage, determination, and strength have helped you face challenges in your life.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "写一首诗，讲述勇气、决心和力量如何帮助你面对人生中的挑战。"
+        }
+      ]
     },
     {
       "def": "the power and influence that sb/sth has 实力",

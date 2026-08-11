@@ -28,12 +28,6 @@
           "t": "但如果你旅行时没有网络连接，纸质地图仍然是一个选择。"
         },
         {
-          "s": "Small birds (catch) with nets.",
-          "src": "人教B2 U2",
-          "cat": "renjiao",
-          "t": "小鸟用网______。"
-        },
-        {
           "s": "To everyone`s surprising, the ball went into the net.",
           "src": "2019全国I卷·短文改错",
           "cat": "gaokao",
@@ -79,7 +73,14 @@
     },
     {
       "def": "to catch sth, especially fish, in a net 用网捕捉（鱼等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Small birds (catch) with nets.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "小鸟用网______。"
+        }
+      ]
     },
     {
       "def": "to catch sb or obtain sth in a skilful way （巧妙地）捕获，得到",

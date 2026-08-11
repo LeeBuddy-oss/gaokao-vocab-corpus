@@ -23,20 +23,6 @@
           "t": "贝克特尔在西棕榈滩市中心工作，有时会和同事一起吃午餐，但像我们许多人一样，她也经常在办公桌前边工作边吃午餐。"
         },
         {
-          "s": "He is most probably jumping from the desk.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果这位女士参加面试，她很难得到这份工作。"
-        },
-        {
-          "s": "He is most probably repairing the desk.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果这位女士参加面试，她可以得到这份工作。"
-        },
-        {
           "s": "Her desk is extremely messy!",
           "src": "外研社B3 U2",
           "cat": "waiyan",
@@ -80,6 +66,20 @@
       "def": "a place where you can get information or be served at an airport, a hotel, etc. （机场、旅馆等的）问讯台，服务台，工作台",
       "ex": [
         {
+          "s": "He is most probably jumping from the desk.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果这位女士参加面试，她很难得到这份工作。"
+        },
+        {
+          "s": "He is most probably repairing the desk.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果这位女士参加面试，她可以得到这份工作。"
+        },
+        {
           "s": "The lockers are located in Building 1 near the Information Desk and in Building 3.",
           "src": "2017全国I卷·阅读理解A",
           "cat": "gaokao",
@@ -97,7 +97,7 @@
           "s": "At the information desk at the entrance, I asked a lady where the shoe section was.",
           "src": "外研社B1 U2",
           "cat": "waiyan",
-          "t": "这不仅对农作物产生不利影响，还导致农民收入大幅减少。"
+          "t": "在入口处的咨询台，我问一位女士鞋区在哪里。"
         }
       ]
     },

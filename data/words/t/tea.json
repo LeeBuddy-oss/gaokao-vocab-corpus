@@ -54,31 +54,11 @@
           "t": "亚当:我知道,我4 (give)她的新茶集。"
         },
         {
-          "s": "Many people grow their very own tea gardens, in which they plant easy-to-grow herbs such as mint and lemongrass.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "许多人自己种植茶园，在里面种植容易生长的草本植物，比如薄荷和柠檬草。"
-        },
-        {
-          "s": "There was a silence as Dad continued to drink his tea, and I held my breath.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当爸爸继续喝他的茶时，一阵沉默，我屏住了呼吸。"
-        },
-        {
           "s": "May 21st this year marks the first International Tea Day, which was named officially ___41___ the United Nations on November 27th, 2019.",
           "src": "2022全国乙卷·语法填空",
           "cat": "gaokao",
           "year": 2022,
           "t": "今年5月21日标志着第一个国际茶日，该节日于2019年11月27日由联合国正式___41___命名。"
-        },
-        {
-          "s": "The invitation is clear: Weiner wants you to pick up a coffee or tea and sit down with this book.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "邀请函很明确： Weiner希望您拿起一杯咖啡或茶，坐下来阅读这本书。"
         },
         {
           "s": "Fruit teas now include mango, strawberry, apple and pear.",
@@ -96,11 +76,26 @@
     },
     {
       "def": "a cup of tea 一杯茶",
-      "ex": []
+      "ex": [
+        {
+          "s": "The invitation is clear: Weiner wants you to pick up a coffee or tea and sit down with this book.",
+          "src": "2023全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "邀请函很明确： Weiner希望您拿起一杯咖啡或茶，坐下来阅读这本书。"
+        }
+      ]
     },
     {
       "def": "a hot drink made by pouring boiling water onto the leaves of other plants （用其他植物的叶子沏的）热饮料",
-      "ex": []
+      "ex": [
+        {
+          "s": "Many people grow their very own tea gardens, in which they plant easy-to-grow herbs such as mint and lemongrass.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "许多人自己种植茶园，在里面种植容易生长的草本植物，比如薄荷和柠檬草。"
+        }
+      ]
     },
     {
       "def": "晚点，便餐（英国人傍晚时吃）",
@@ -108,7 +103,15 @@
     },
     {
       "def": "a light meal eaten in the afternoon or early evening, usually with sandwiches and/or biscuits and cakes and with tea to drink 茶点（在下午或傍晚，通常喝茶时还有三明治、饼干和蛋糕）",
-      "ex": []
+      "ex": [
+        {
+          "s": "There was a silence as Dad continued to drink his tea, and I held my breath.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "当爸爸继续喝他的茶时，一阵沉默，我屏住了呼吸。"
+        }
+      ]
     }
   ]
 }

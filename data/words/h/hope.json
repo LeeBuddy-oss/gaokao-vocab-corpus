@@ -156,13 +156,6 @@
           "t": "以一种无可救药的希望形式。"
         },
         {
-          "s": "English flag as a symbol of hope.",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "英国国旗作为希望的象征。"
-        },
-        {
           "s": "in the future，the team hopes to develop a version of the technology that can be sprayed onto plant leaves in a one-off treatment that would last the plant’s lifetime.",
           "src": "2020全国I卷·阅读理解D",
           "cat": "gaokao",
@@ -327,27 +320,6 @@
           "t": "你希望将中国的龙舟文化传播到全世界。"
         },
         {
-          "s": "However, instead of the brownish red hair she had hoped for, she final got purple hair.",
-          "src": "2023全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，她最终得到的不是她希望的红棕色头发，而是紫色的头发。"
-        },
-        {
-          "s": "I’ve learned a few things along the way though, which I hope you’ll find encouraging if you’re doing your best to figure out how you can make the change in a not-always-supportive household.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "不过，在这一过程中我学到了一些东西，如果你正努力在一个并非总是支持你的家庭里弄清楚如何做出改变，我希望这些能给你鼓励。"
-        },
-        {
-          "s": "We all want to hope things will turn out fine.",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们都希望事情最终会好转。"
-        },
-        {
           "s": "What do the scientists at Salk Institute hope to achieve?",
           "src": "2026浙江1月卷·阅读理解D",
           "cat": "gaokao",
@@ -427,7 +399,36 @@
     },
     {
       "def": "something that you wish for 希望的东西；期望的事情",
-      "ex": []
+      "ex": [
+        {
+          "s": "English flag as a symbol of hope.",
+          "src": "2020全国I卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "英国国旗作为希望的象征。"
+        },
+        {
+          "s": "However, instead of the brownish red hair she had hoped for, she final got purple hair.",
+          "src": "2023全国乙卷·短文改错",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "然而，她最终得到的不是她希望的红棕色头发，而是紫色的头发。"
+        },
+        {
+          "s": "I’ve learned a few things along the way though, which I hope you’ll find encouraging if you’re doing your best to figure out how you can make the change in a not-always-supportive household.",
+          "src": "2023浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "不过，在这一过程中我学到了一些东西，如果你正努力在一个并非总是支持你的家庭里弄清楚如何做出改变，我希望这些能给你鼓励。"
+        },
+        {
+          "s": "We all want to hope things will turn out fine.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我们都希望事情最终会好转。"
+        }
+      ]
     },
     {
       "def": "a person, a thing or a situation that will help you get what you want 被寄予希望的人（或事物、情况）",

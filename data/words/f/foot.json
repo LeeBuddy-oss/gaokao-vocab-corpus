@@ -47,12 +47,6 @@
           "t": "此刻，我是艾玛·布鲁克斯，在玉龙雪山脚下。"
         },
         {
-          "s": "We were eating lunch on a high rimrock, at the foot of which a turbulent river elbowed its way.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "我们正在一块高高的岩壁上吃午餐，其脚下有一条湍急的河流蜿蜒而过。"
-        },
-        {
           "s": "The hot spring at the foot of the mountain is something you must try after the climb.",
           "src": "2021卷",
           "cat": "gaokao",
@@ -91,7 +85,14 @@
     },
     {
       "def": "a unit of rhythm in a line of poetry containing one stressed syllable and one or more syllables without stress. Each of the four divisions in the following line is a foot. 音步（诗行中的节奏单位，每个音步中有一个重读音节）",
-      "ex": []
+      "ex": [
+        {
+          "s": "We were eating lunch on a high rimrock, at the foot of which a turbulent river elbowed its way.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "我们正在一块高高的岩壁上吃午餐，其脚下有一条湍急的河流蜿蜒而过。"
+        }
+      ]
     },
     {
       "def": "with your feet touching the ground before any other part of your body 脚先着地",

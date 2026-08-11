@@ -311,13 +311,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "对机器而言，这种品质不是天生的，也不是人类赋予的；它是这样一个简单事实的逻辑结果：如果机器停止运转，它就无法实现其原本的目的。"
-        },
-        {
-          "s": "In conclusion, positive thinking is a powerful and effective tool for dealing with hard times and improving the quality of one's life.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "总之，积极思考是应对艰难时期、提升生活质量的强大而有效的工具。"
         }
       ]
     },
@@ -355,7 +348,15 @@
     },
     {
       "def": "a thing that is part of a person's character, especially sth good （尤指好的）人品，素质，品德",
-      "ex": []
+      "ex": [
+        {
+          "s": "Another attractive quality is experience.",
+          "src": "2018上海卷·Becoming an Attractive Employee",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "参加体育或社交俱乐部以及志愿者活动都是很好的例子。"
+        }
+      ]
     },
     {
       "def": "a feature of sth, especially one that makes it different from sth else 特征；特质；特色",
@@ -389,13 +390,6 @@
           "t": "与哈佛艺术博物馆材料实验室的专家一起了解水彩颜料的材料和特性。"
         },
         {
-          "s": "Another attractive quality is experience.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "参加体育或社交俱乐部以及志愿者活动都是很好的例子。"
-        },
-        {
           "s": "Finally, an attractive quality when job-hunting is a great attitude toward potential job.",
           "src": "2018上海卷·Becoming an Attractive Employee",
           "cat": "gaokao",
@@ -415,6 +409,13 @@
       "def": "优质的；高质量的",
       "ex": [
         {
+          "s": "In conclusion, positive thinking is a powerful and effective tool for dealing with hard times and improving the quality of one's life.",
+          "src": "2020北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "总之，积极思考是应对艰难时期、提升生活质量的强大而有效的工具。"
+        },
+        {
           "s": "He directed some high quality movies.",
           "src": "2021浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -433,7 +434,7 @@
           "src": "2017江苏卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "但如果政府不希望数据经济由少数巨头控制，就必须尽快采取行动。"
+          "t": "能接收到优质信号           B.需要培训"
         },
         {
           "s": "Sometimes devices fail because a good design is constructed with low quality materials incompetently applied.",

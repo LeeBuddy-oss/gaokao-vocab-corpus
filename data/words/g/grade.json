@@ -33,6 +33,10 @@
     },
     {
       "def": "a level of ability or rank that sb has in an organization （官衔的）级别；职别",
+      "ex": []
+    },
+    {
+      "def": "a mark given in an exam or for a piece of school work 成绩等级；评分等级",
       "ex": [
         {
           "s": "39   He noted that his online students usually end up with lower grades.",
@@ -40,12 +44,7 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "39 他指出，他的在线学生通常最终成绩较低。"
-        }
-      ]
-    },
-    {
-      "def": "a mark given in an exam or for a piece of school work 成绩等级；评分等级",
-      "ex": [
+        },
         {
           "s": "It is so easy to let an online course slide, but your grades will suffer as a result.",
           "src": "2024浙江1月卷·七选五",
@@ -107,6 +106,26 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "A.学生将获得的成绩"
+        },
+        {
+          "s": "It would not bring him/her a good grade．",
+          "src": "2021北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这不会给他/她带来好成绩。"
+        },
+        {
+          "s": "How many parts is a student’s final grade made up of?",
+          "src": "2022全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "一个学生的期末成绩由多少部分组成?"
+        },
+        {
+          "s": "Mr Davis Subject: History Grade: Comments: and 2 You are a good student who clearly knows the topics, dates, 1 but \" or 5\" need more work.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "t": "戴维斯先生：科目——历史，成绩——评论——你是一个了解主题和日期的好学生，但还需要更多努力。"
         }
       ]
     },
@@ -275,26 +294,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "\"没有评分作业。"
-        },
-        {
-          "s": "It would not bring him/her a good grade．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这不会给他/她带来好成绩。"
-        },
-        {
-          "s": "How many parts is a student’s final grade made up of?",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一个学生的期末成绩由多少部分组成?"
-        },
-        {
-          "s": "Mr Davis Subject: History Grade: Comments: and 2 You are a good student who clearly knows the topics, dates, 1 but \" or 5\" need more work.",
-          "src": "北师大选必2 U6",
-          "cat": "beishida",
-          "t": "戴维斯先生：科目——历史，成绩——评论——你是一个了解主题和日期的好学生，但还需要更多努力。"
         },
         {
           "s": "He explained it's not about the grades; it's about true understanding.",

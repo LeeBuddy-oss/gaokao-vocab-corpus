@@ -62,7 +62,7 @@
           "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
           "year": 2024,
-          "t": "我也偶尔主动做饭，所以我把橱柜的一部分空间划归给自己存放零浪费食品。"
+          "t": "就你的大脑而言，有些过程会阻碍锻炼，有些过程则会促进锻炼。"
         },
         {
           "s": "In the process of rereading, our outlook has also been significantly changed.",
@@ -161,13 +161,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "科学是一个学习和发现的过程，有时我们学到，我们原以为对的东西是错的。"
-        },
-        {
-          "s": "We will also discuss the origins of felt, what enables wool fibres to become felt and how the processes we use work.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们还将讨论毡的起源、是什么让羊毛纤维变成毡，以及我们所使用工艺的原理。"
         },
         {
           "s": "Indeed, the researchers found that face-to-face interactions and conversations affect the creative process, and yet a coworking space or a coffee shop provides a certain level of noise while also providing freedom from interruptions.",
@@ -327,13 +320,6 @@
           "t": "许多物种的思维仅限于“食物，吃掉！”“危险，快跑！”“疼痛，避开！”，而我们已进化得超越这些。"
         },
         {
-          "s": "It can be imagined that comparable to the process of building previous scientific models, developing the “computer simulation” metaphor-based model will also be a hugely rewarding exercise.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "可以想象，与构建以往科学模型的过程类似，发展这种基于\"计算机模拟\"隐喻的模型也将是一项极具价值的实践。"
-        },
-        {
           "s": "Data collection was a lengthy process.",
           "src": "2022浙江1月卷·阅读理解C",
           "cat": "gaokao",
@@ -345,6 +331,13 @@
     {
       "def": "a series of things that happen, especially ones that result in natural changes （事物发展，尤指自然变化的）过程，步骤，流程",
       "ex": [
+        {
+          "s": "It can be imagined that comparable to the process of building previous scientific models, developing the “computer simulation” metaphor-based model will also be a hugely rewarding exercise.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "可以想象，与构建以往科学模型的过程类似，发展这种基于\"计算机模拟\"隐喻的模型也将是一项极具价值的实践。"
+        },
         {
           "s": "You will be requested to upload a passport sized photograph as part of the online registration process.",
           "src": "2020天津3月卷·阅读理解A",
@@ -412,7 +405,15 @@
     },
     {
       "def": "a method of doing or making sth, especially one that is used in industry 做事方法；工艺流程；工序",
-      "ex": []
+      "ex": [
+        {
+          "s": "We will also discuss the origins of felt, what enables wool fibres to become felt and how the processes we use work.",
+          "src": "2021新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我们还将讨论毡的起源、是什么让羊毛纤维变成毡，以及我们所使用工艺的原理。"
+        }
+      ]
     },
     {
       "def": "to treat raw material, food, etc. in order to change it, preserve it, etc. 加工；处理",
@@ -499,20 +500,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "SLEAP使用计算机视觉（计算机理解图像的能力）和深度学习（一种训练计算机像人脑一样学习和工作的AI方法），帮助研究者更快地处理图像。"
-        },
-        {
-          "s": "process collected data             D. reduce air pollution",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "处理所收集的数据 D. 减少空气污染"
-        },
-        {
-          "s": "The team’s data only went up to 2007, but the researchers also explored what would happen if consumers replaced old products with new electronics that serve more than one function, such as a tablet for word processing and TV viewing.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "团队的数据只统计到2007年，但研究人员还探讨了如果消费者用具有多种功能的新电子产品替代旧产品会发生什么，例如用于文字处理和看电视的平板电脑。"
         }
       ]
     },
@@ -530,7 +517,22 @@
     },
     {
       "def": "to perform a series of operations on data in a computer 数据处理",
-      "ex": []
+      "ex": [
+        {
+          "s": "process collected data             D. reduce air pollution",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "处理所收集的数据 D. 减少空气污染"
+        },
+        {
+          "s": "The team’s data only went up to 2007, but the researchers also explored what would happen if consumers replaced old products with new electronics that serve more than one function, such as a tablet for word processing and TV viewing.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "团队的数据只统计到2007年，但研究人员还探讨了如果消费者用具有多种功能的新电子产品替代旧产品会发生什么，例如用于文字处理和看电视的平板电脑。"
+        }
+      ]
     }
   ]
 }

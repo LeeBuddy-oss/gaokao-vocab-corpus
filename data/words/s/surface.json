@@ -80,34 +80,6 @@
           "src": "外研社B3 U5",
           "cat": "waiyan",
           "t": "我上方是平静的海面。"
-        },
-        {
-          "s": "19.Why are young birds drawn to the road surface？",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "19.为什么幼鸟会被吸引到路面上？"
-        },
-        {
-          "s": "Why are young birds drawn to the road surface？",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为什么幼鸟会被吸引到路面上？"
-        },
-        {
-          "s": "When all those had been done, the road surface was replaced.",
-          "src": "2017全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当所有这些都完成后，路面被恢复原状。"
-        },
-        {
-          "s": "When all those had been done, the road surface was replaced.",
-          "src": "2017重庆卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当所有这些都完成后，路面被恢复原状。"
         }
       ]
     },
@@ -152,7 +124,36 @@
     },
     {
       "def": "to put a surface on a road, path, etc. 铺设（路面等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "19.Why are young birds drawn to the road surface？",
+          "src": "2019全国I卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "19.为什么幼鸟会被吸引到路面上？"
+        },
+        {
+          "s": "Why are young birds drawn to the road surface？",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "为什么幼鸟会被吸引到路面上？"
+        },
+        {
+          "s": "When all those had been done, the road surface was replaced.",
+          "src": "2017全国II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当所有这些都完成后，路面被恢复原状。"
+        },
+        {
+          "s": "When all those had been done, the road surface was replaced.",
+          "src": "2017重庆卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当所有这些都完成后，路面被恢复原状。"
+        }
+      ]
     }
   ]
 }

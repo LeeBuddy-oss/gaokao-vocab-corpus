@@ -7,7 +7,21 @@
   "defs": [
     {
       "def": "shaped like a circle or a ball 圆形的；环形的；球形的",
-      "ex": []
+      "ex": [
+        {
+          "s": "Some nouns and adjectives can be used as verbs, or the other way round.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "一些名词和形容词可以用作动词,或者相反的圆形."
+        },
+        {
+          "s": "The original iron boxes with the round roofs first appeared in 1926.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "带有圆形屋顶的原始铁皮电话亭于1926年首次出现。"
+        }
+      ]
     },
     {
       "def": "having a curved shape 弧形的；圆弧的",
@@ -49,39 +63,6 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "当灯光变成红色的时候，一辆车突然出现在拐角处。"
-        },
-        {
-          "s": "Some nouns and adjectives can be used as verbs, or the other way round.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "一些名词和形容词可以用作动词,或者相反的圆形."
-        },
-        {
-          "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
-        },
-        {
-          "s": "He came to see people as a danger to sharks, rather than the other way round.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "他开始把人视为对鲨鱼的威胁，而不是反过来。"
-        },
-        {
-          "s": "The original iron boxes with the round roofs first appeared in 1926.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "带有圆形屋顶的原始铁皮电话亭于1926年首次出现。"
-        },
-        {
-          "s": "Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "访问政府网站，了解可帮助30岁以下人群提升技能、找工作或全年创业的项目和在线工具。"
         }
       ]
     },
@@ -103,11 +84,32 @@
     },
     {
       "def": "in a circle or curve to face another way or the opposite way 调转方向；转过来",
-      "ex": []
+      "ex": [
+        {
+          "s": "He came to see people as a danger to sharks, rather than the other way round.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他开始把人视为对鲨鱼的威胁，而不是反过来。"
+        },
+        {
+          "s": "People eat and make money to be able to 2_________________, not the other way round.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "人们吃饭和赚钱是为了能够2_________________，而不是反过来。"
+        }
+      ]
     },
     {
       "def": "to the other side of sth 绕弯；迂回；向另一侧",
-      "ex": []
+      "ex": [
+        {
+          "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
+        }
+      ]
     },
     {
       "def": "from one place, person, etc. to another 依次；挨个",
@@ -150,14 +152,7 @@
     },
     {
       "def": "to fit in with particular people, ideas, etc. 适应；围绕（人、思想等）",
-      "ex": [
-        {
-          "s": "People eat and make money to be able to 2_________________, not the other way round.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "人们吃饭和赚钱是为了能够2_________________，而不是反过来。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a set of events which form part of a longer process 阶段；轮次",
@@ -213,7 +208,15 @@
     },
     {
       "def": "to go around from place to place, especially when looking for work or support for a political campaign, etc. 到各处去，巡回（找工作或寻求对政治运动的支持等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.",
+          "src": "2019全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "访问政府网站，了解可帮助30岁以下人群提升技能、找工作或全年创业的项目和在线工具。"
+        }
+      ]
     },
     {
       "def": "made so that it can be seen from all sides 艺术品",

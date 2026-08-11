@@ -9,20 +9,6 @@
       "def": "any of the four main periods of the year: spring, summer, autumn/fall and winter 季；季节",
       "ex": [
         {
-          "s": "Open: High Season 1 Apr – 31 Oct: Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "开放时间：旺季 4月1日 – 10月31日：周一至周六 10:00 – 17:00，周日 11:00 – 17:00。"
-        },
-        {
-          "s": "Low Season 1 Nov – 31 Mar: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "淡季 11月1日 – 3月31日：周一至周六 10:00 – 16:30，周日 12:00 – 16:30。"
-        },
-        {
           "s": "Chinese New Year is a ___61___ (celebrate) marking the end of the winter season and the beginning of spring.",
           "src": "2020全国II卷·完形填空",
           "cat": "gaokao",
@@ -152,7 +138,15 @@
     },
     {
       "def": "a period of time during a year when a particular activity happens or is done （一年中开展某项活动的）季节，旺季",
-      "ex": []
+      "ex": [
+        {
+          "s": "Open: High Season 1 Apr – 31 Oct: Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00.",
+          "src": "2020全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "开放时间：旺季 4月1日 – 10月31日：周一至周六 10:00 – 17:00，周日 11:00 – 17:00。"
+        }
+      ]
     },
     {
       "def": "a period of time in which a play is shown in one place; a series of plays, films/movies or television programmes （一部戏剧在一地的）演出期，上演期；（一系列的戏剧、电影或电视节目的）会演，荟萃",
@@ -177,6 +171,13 @@
     {
       "def": "at the times of year when few people go on holiday/vacation 度假淡季；旅游淡季",
       "ex": [
+        {
+          "s": "Low Season 1 Nov – 31 Mar: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30.",
+          "src": "2020全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "淡季 11月1日 – 3月31日：周一至周六 10:00 – 16:30，周日 12:00 – 16:30。"
+        },
         {
           "s": "People have donated more than $1, 500 so far this holiday season.",
           "src": "2022天津4月卷",

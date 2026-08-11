@@ -132,12 +132,46 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "只有我、尼克和安静的森林。"
+        },
+        {
+          "s": "Before the race, everyone was quiet and still.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "比赛前，每个人都安静不动。"
+        },
+        {
+          "s": "Most people have left work to go home, and this part of the city is now quiet.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "大多数人已经下班回家，城市的这一部分现在很安静。"
+        },
+        {
+          "s": "A quiet man, he didn’t understand my world of school activities.",
+          "src": "2021浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他是个安静的人，不理解我参加学校活动的那个世界。"
+        },
+        {
+          "s": "In the headmaster’s office, my father listened attentively, and then spoke with quiet authority: “I trust my son.",
+          "src": "2025北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在校长办公室里，父亲专注地听着，然后以沉静的威严说道：“我相信我的儿子。”"
         }
       ]
     },
     {
       "def": "without many people or much noise or activity 僻静的；寂静的；清静的",
-      "ex": []
+      "ex": [
+        {
+          "s": "For those who hunger for some peace and quiet, sound can now create silence.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对于那些渴望安宁与清静的人来说，声音现在可以创造寂静。"
+        }
+      ]
     },
     {
       "def": "not disturbed; peaceful 清静的；平静的；恬静的",
@@ -200,46 +234,12 @@
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "t": "然而，除此之外，关于幽默是什么以及什么让人觉得好笑的各种理论也大量存在。"
-        },
-        {
-          "s": "Before the race, everyone was quiet and still.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "比赛前，每个人都安静不动。"
-        },
-        {
-          "s": "Most people have left work to go home, and this part of the city is now quiet.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "大多数人已经下班回家，城市的这一部分现在很安静。"
-        },
-        {
-          "s": "For those who hunger for some peace and quiet, sound can now create silence.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "来自LRAD的噪音像光线一样传播，只能进入那个人的耳朵，但它不是致命的。"
-        },
-        {
-          "s": "A quiet man, he didn’t understand my world of school activities.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他是个安静的人，不理解我参加学校活动的那个世界。"
         }
       ]
     },
     {
       "def": "definite but not expressed in an obvious way 感情或态度",
-      "ex": [
-        {
-          "s": "In the headmaster’s office, my father listened attentively, and then spoke with quiet authority: “I trust my son.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在校长办公室里，父亲专注地听着，然后以沉静的威严说道：“我相信我的儿子。”"
-        }
-      ]
+      "ex": []
     }
   ]
 }

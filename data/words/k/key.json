@@ -24,14 +24,6 @@
           "_matched": true
         },
         {
-          "s": "Get an extra key.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "拿一把备用钥匙。",
-          "_matched": true
-        },
-        {
           "s": "Inserting the correct “key” would let out the nut.",
           "src": "2022全国甲卷·阅读理解B",
           "cat": "gaokao",
@@ -45,20 +37,6 @@
           "year": 2025,
           "t": "“用另一把钥匙也有可能打开那把锁，”我说。",
           "_matched": true
-        },
-        {
-          "s": "So, I called Directory Assistance, got put through to our landlady’s managing agent, and had a spare key sent to me with just enough time to get back in before the actors arrived.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "于是我打了查号台，转接到房东的代理处，让人送了一把备用钥匙过来，刚好能在演员到达之前赶回去开门。"
-        },
-        {
-          "s": "Using a key to unlock a door.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "用钥匙开门。"
         }
       ]
     },
@@ -342,6 +320,14 @@
           "year": 2018,
           "t": "在所有项目中，团队合作是关键，学员从中学习领导力和成为更大任务一部分的重要性。",
           "_matched": true
+        },
+        {
+          "s": "Warming changes key characteristics of the ocean and can affect phytoplankton growth，since they need not only sunlight and carbon dioxide to grow，but also nutrients.",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "变暖改变了海洋的关键特征，并会影响浮游植物的生长，因为它们生长不仅需要阳光和二氧化碳，还需要营养物质。",
+          "_matched": true
         }
       ]
     },
@@ -363,27 +349,12 @@
           "year": 2019,
           "t": "减少按键压力。",
           "_matched": true
-        },
-        {
-          "s": "The keyboard could offer a strong layer of security by analyzing things like the force of a user's typing and the time between key presses.",
-          "src": "2019全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "键盘可以通过分析诸如用户敲击的力度和按键间隔等，提供一层强大的安全性。"
         }
       ]
     },
     {
       "def": "any of the wooden or metal parts that you press to play a piano and some other musical instruments （钢琴或其他乐器的）键",
       "ex": [
-        {
-          "s": "Warming changes key characteristics of the ocean and can affect phytoplankton growth，since they need not only sunlight and carbon dioxide to grow，but also nutrients.",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "变暖改变了海洋的关键特征，并会影响浮游植物的生长，因为它们生长不仅需要阳光和二氧化碳，还需要营养物质。",
-          "_matched": true
-        },
         {
           "s": "•Take your room key and ID，close and lock the door to your room．",
           "src": "2018天津卷·阅读理解A",
@@ -408,11 +379,41 @@
     },
     {
       "def": "to put information into a computer using a keyboard 用键盘输入；键入",
-      "ex": []
+      "ex": [
+        {
+          "s": "The keyboard could offer a strong layer of security by analyzing things like the force of a user's typing and the time between key presses.",
+          "src": "2019全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "键盘可以通过分析诸如用户敲击的力度和按键间隔等，提供一层强大的安全性。"
+        }
+      ]
     },
     {
       "def": "to deliberately damage a car by scratching it with a key 用钥匙划坏（汽车）",
       "ex": [
+        {
+          "s": "Get an extra key.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "拿一把备用钥匙。",
+          "_matched": true
+        },
+        {
+          "s": "So, I called Directory Assistance, got put through to our landlady’s managing agent, and had a spare key sent to me with just enough time to get back in before the actors arrived.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "于是我打了查号台，转接到房东的代理处，让人送了一把备用钥匙过来，刚好能在演员到达之前赶回去开门。"
+        },
+        {
+          "s": "Using a key to unlock a door.",
+          "src": "2022全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "用钥匙开门。"
+        },
         {
           "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
           "src": "2017全国III卷·阅读理解D",

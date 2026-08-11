@@ -73,12 +73,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "然而，在\"不情愿\"的情境中，狗看实验员的次数更少，坐下、躺下和四处走动的频率更高。"
-        },
-        {
-          "s": "On the mornings that had once throbbed with the dawn chorus of robins, catbirds, doves, jays, wrens, and scores of other bird voices there was now no sound; only silence lay over the fields and woods and marsh.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "在曾经伴随着知更鸟、猫鸟、鸽子、松鸦、鹪鹩和许多其他鸟鸣的黎明合唱而悸动的早晨，如今已了无生息；只有寂静笼罩着田野、树林和沼泽。"
         }
       ]
     },
@@ -103,6 +97,14 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "这个村庄位于一些湿地附近，那里成了他的第二个____21____。",
+          "_matched": true
+        },
+        {
+          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。",
           "_matched": true
         }
       ]
@@ -135,14 +137,6 @@
           "src": "外研社B6 U1",
           "cat": "waiyan",
           "t": "太可怕了，不是吗，在你精致的美丽旁边！“在这个不幸男子的口音中，蕴含着对他悲伤如此深切的体认，以至于她没有力气吐出一个音节。”",
-          "_matched": true
-        },
-        {
-          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。",
           "_matched": true
         }
       ]
@@ -245,7 +239,14 @@
     },
     {
       "def": "to stop using a ship or other vehicle while it is being repaired （船或其他交通工具维修时）停止使用，搁置不用",
-      "ex": []
+      "ex": [
+        {
+          "s": "On the mornings that had once throbbed with the dawn chorus of robins, catbirds, doves, jays, wrens, and scores of other bird voices there was now no sound; only silence lay over the fields and woods and marsh.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "在曾经伴随着知更鸟、猫鸟、鸽子、松鸦、鹪鹩和许多其他鸟鸣的黎明合唱而悸动的早晨，如今已了无生息；只有寂静笼罩着田野、树林和沼泽。"
+        }
+      ]
     },
     {
       "def": "not having expert knowledge or professional qualifications in a particular subject 外行的；非专业的；缺少专门知识的",

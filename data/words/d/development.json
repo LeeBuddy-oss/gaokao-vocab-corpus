@@ -284,25 +284,11 @@
           "t": "太阳能农场：一项新发展"
         },
         {
-          "s": "These stages mirror the development of human conceptions of the sea.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这些阶段反映了人类对海洋认知的发展。"
-        },
-        {
           "s": "What does Campbell urge people to do regarding AI development?",
           "src": "2024新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
           "t": "关于人工智能发展，坎贝尔呼吁人们做什么？"
-        },
-        {
-          "s": "Compared with the developments of Al, advances in ALife are harder to recognize.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "与人工智能的发展相比，ALife的进展更难被识别。"
         },
         {
           "s": "What Difficulty Drone Development Will Face",
@@ -366,20 +352,6 @@
           "t": "一位澳大利亚教授正在开发一种机器人，用于监测放牧牛群的健康，这一进展可能给一个几十年来主要依赖低技术手段、正面临劳动力短缺的行业带来巨大变化。"
         },
         {
-          "s": "Housing development pushed into the woods.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "住宅开发区向林地推进。"
-        },
-        {
-          "s": "Limiting housing development.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "限制住宅开发。"
-        },
-        {
           "s": "“They need to be protectors of the land and contribute to the agricultural economy.” InSPIRE is investigating practical approaches to “low-impact” solar development, which focuses on establishing and operating solar farms in a way that is kinder to the land.",
           "src": "2023浙江1月卷·阅读理解D",
           "cat": "gaokao",
@@ -391,6 +363,20 @@
     {
       "def": "a new event or stage that is likely to affect what happens in a continuing situation （新的）发展事态，进展情况，发展阶段",
       "ex": [
+        {
+          "s": "These stages mirror the development of human conceptions of the sea.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这些阶段反映了人类对海洋认知的发展。"
+        },
+        {
+          "s": "Compared with the developments of Al, advances in ALife are harder to recognize.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "与人工智能的发展相比，ALife的进展更难被识别。"
+        },
         {
           "s": "These developments are likely to make our current problems with robocalls much worse.",
           "src": "2019北京卷·阅读理解C",
@@ -409,7 +395,22 @@
     },
     {
       "def": "a piece of land with new buildings on it 新建住宅区；新开发区",
-      "ex": []
+      "ex": [
+        {
+          "s": "Housing development pushed into the woods.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "住宅开发区向林地推进。"
+        },
+        {
+          "s": "Limiting housing development.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "限制住宅开发。"
+        }
+      ]
     },
     {
       "def": "the process of using an area of land, especially to make a profit by building on it, etc. （尤指房地产的）开发",

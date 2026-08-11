@@ -16,13 +16,6 @@
           "t": "相反，它们在更温暖的室内长得更好"
         },
         {
-          "s": "I wiped the dirt from the window to get a better look inside.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我擦去窗户上的灰尘，以便更清楚地看里面。"
-        },
-        {
           "s": "This not-so-hidden-anymore fine restaurant for Sichuan cuisine is inside the Days Inn off New York Avenue.",
           "src": "2026新高考II卷·阅读理解A",
           "cat": "gaokao",
@@ -49,13 +42,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "马克在他买的一本书里发现了什么？"
-        },
-        {
-          "s": "What matters is not just the outside of a string of symbols, but the inside too, not just how they are arranged but what they mean.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "重要的不仅仅是一串符号的外在, 内部也一样, 不仅仅是它们是如何排列的, 而且是它们的意思。"
         },
         {
           "s": "This work expanded my mind in ways that are impossible inside the four walls of a classroom.",
@@ -104,20 +90,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
-        },
-        {
-          "s": "The rules that assign meaning lie not just inside our heads, but also outside, in society, in social memory, social conventions and social relations.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "赋予意义的规则不仅存在于我们头脑内部，也存在于外部——在社会中，在社会记忆、社会惯例和社会关系中。"
-        },
-        {
-          "s": "These sepals open on warm days ____58____ (give) the inside plants sunshine and fresh air.",
-          "src": "2024新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这些萼片在温暖的日子打开，____58____（给）里面的植物阳光和新鲜空气。"
         }
       ]
     },
@@ -128,6 +100,13 @@
     {
       "def": "on or to the inside 在（或向）里面",
       "ex": [
+        {
+          "s": "I wiped the dirt from the window to get a better look inside.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我擦去窗户上的灰尘，以便更清楚地看里面。"
+        },
         {
           "s": "They are even appearing inside humans.",
           "src": "2025新高考I卷·阅读理解D",
@@ -198,11 +177,18 @@
       "def": "the inner part, side or surface of sth 里面；内部；内侧",
       "ex": [
         {
-          "s": "The inside of the house is better than the outside.",
-          "src": "2018上海卷",
+          "s": "What matters is not just the outside of a string of symbols, but the inside too, not just how they are arranged but what they mean.",
+          "src": "2023浙江1月卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "说明：阅读下面的文章后，填空使文章连贯且语法正确。"
+          "year": 2023,
+          "t": "重要的不仅仅是一串符号的外在, 内部也一样, 不仅仅是它们是如何排列的, 而且是它们的意思。"
+        },
+        {
+          "s": "The rules that assign meaning lie not just inside our heads, but also outside, in society, in social memory, social conventions and social relations.",
+          "src": "2023浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "赋予意义的规则不仅存在于我们头脑内部，也存在于外部——在社会中，在社会记忆、社会惯例和社会关系中。"
         }
       ]
     },
@@ -243,7 +229,22 @@
     },
     {
       "def": "forming the inner part of sth; not on the outside 内部的；里面的",
-      "ex": []
+      "ex": [
+        {
+          "s": "These sepals open on warm days ____58____ (give) the inside plants sunshine and fresh air.",
+          "src": "2024新高考I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这些萼片在温暖的日子打开，____58____（给）里面的植物阳光和新鲜空气。"
+        },
+        {
+          "s": "The inside of the house is better than the outside.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "说明：阅读下面的文章后，填空使文章连贯且语法正确。"
+        }
+      ]
     },
     {
       "def": "known or done by sb in a group or an organization 从内部了解到的；内线干的",

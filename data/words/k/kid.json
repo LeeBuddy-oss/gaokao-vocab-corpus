@@ -116,14 +116,6 @@
           "_matched": true
         },
         {
-          "s": "Explaining to kids the risks of taking snacks.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "冲突通常通过音乐对决来解决。",
-          "_matched": true
-        },
-        {
           "s": "Talking with kids about school at mealtimes.",
           "src": "2025浙江1月卷·阅读理解B",
           "cat": "gaokao",
@@ -276,14 +268,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "当然，是在把孩子送到学校之后。",
-          "_matched": true
-        },
-        {
-          "s": "It's a joy for him to see the kids get excited when they learn to sound out words.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最重要的是，故事具有变革的力量，让我们能够以一种不同于独自面对世界的方式来看待这个世界。",
           "_matched": true
         },
         {
@@ -668,14 +652,6 @@
           "t": "报告中分享的最有希望的数据表明,有明确证据表明,在阅读方面,父母为子女树立了榜样和重要的指南。"
         },
         {
-          "s": "As the kid, I loved to watch cartoons, but no matter how many times I asked to watching them, my parents would not to let me.",
-          "src": "2018全国II卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "城市通常有其存在的充分理由，比如附近的港口或河流。",
-          "_matched": true
-        },
-        {
           "s": "A Lesson from Kids",
           "src": "2018全国III卷·阅读理解D",
           "cat": "gaokao",
@@ -725,7 +701,7 @@
           "src": "2017浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "不久之后，其中许多人开始定居成为农民，他们的语言也变得更加稳定，数量也减少了。",
+          "t": "她说这些睡前活动会让孩子兴奋起来，使他们很难平静下来入睡。",
           "_matched": true
         },
         {
@@ -804,7 +780,7 @@
           "src": "2020北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "这项狗狗数据研究是巴吉13岁的主人汤姆·亨特和他的父亲马特的创意。",
+          "t": "她的监测器显示，越靠近地面，空气污染水平越高，这凸显了人们对婴儿和幼儿可能面临更高患肺病风险的担忧。",
           "_matched": true
         },
         {
@@ -850,6 +826,22 @@
     {
       "def": "to tell sb sth that is not true, especially as a joke 通常用于进行时",
       "ex": [
+        {
+          "s": "Explaining to kids the risks of taking snacks.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "冲突通常通过音乐对决来解决。",
+          "_matched": true
+        },
+        {
+          "s": "As the kid, I loved to watch cartoons, but no matter how many times I asked to watching them, my parents would not to let me.",
+          "src": "2018全国II卷·短文改错",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "城市通常有其存在的充分理由，比如附近的港口或河流。",
+          "_matched": true
+        },
         {
           "s": "You may even learn that your kid has a talent you didn’t know about before.",
           "src": "2025新高考II卷·七选五",
@@ -942,13 +934,6 @@
           "_matched": true
         },
         {
-          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
-        },
-        {
           "s": "“These kids are so absorbed in their studies that I just sit back.",
           "src": "2019全国II卷·阅读理解D",
           "cat": "gaokao",
@@ -961,14 +946,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "孩子会觉得他们不够好，或者你不在乎，结果可能认为努力争取成就毫无意义。",
-          "_matched": true
-        },
-        {
-          "s": "By the time she was 13，her company was worth millions of dollars with the invention of a super-sweet treat that could save kids' teeth，instead of destroying them.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "到她13岁时，她发明了一种超级甜食，能够保护孩子的牙齿而不是损害它们，这使她的公司价值数百万美元。",
           "_matched": true
         },
         {
@@ -1089,6 +1066,21 @@
       "def": "（强调是真实的或同意别人刚说过的话）真的，可不是",
       "ex": [
         {
+          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
+        },
+        {
+          "s": "By the time she was 13，her company was worth millions of dollars with the invention of a super-sweet treat that could save kids' teeth，instead of destroying them.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "到她13岁时，她发明了一种超级甜食，能够保护孩子的牙齿而不是损害它们，这使她的公司价值数百万美元。",
+          "_matched": true
+        },
+        {
           "s": "But not just any kids.",
           "src": "2019全国II卷·阅读理解D",
           "cat": "gaokao",
@@ -1124,6 +1116,19 @@
           "year": 2018,
           "t": "A．You betB．It dependsC．Forget itD．No kidding",
           "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "（表示认真）不是开玩笑，我说的是真的",
+      "ex": [
+        {
+          "s": "It's a joy for him to see the kids get excited when they learn to sound out words.",
+          "src": "2023天津6月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "最重要的是，故事具有变革的力量，让我们能够以一种不同于独自面对世界的方式来看待这个世界。",
+          "_matched": true
         },
         {
           "s": "“The kids literally come to school with bags of snacks and large bottles of soft drinks,” she says.",
@@ -1132,12 +1137,7 @@
           "year": 2023,
           "t": "“孩子们真的是带着一袋袋零食和大瓶软饮料来上学的，”她说。",
           "_matched": true
-        }
-      ]
-    },
-    {
-      "def": "（表示认真）不是开玩笑，我说的是真的",
-      "ex": [
+        },
         {
           "s": "\"It's a really great 33    for kids,“ said a neighbor in an interview with the local newspaper.",
           "src": "2021天津3月卷·完形填空",

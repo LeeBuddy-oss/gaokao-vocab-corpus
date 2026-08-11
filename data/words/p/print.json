@@ -159,6 +159,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "我们不能______为公司买一台新打印机。"
+        },
+        {
+          "s": "I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"
+        },
+        {
+          "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
         }
       ]
     },
@@ -218,13 +232,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "印刷书并没有完全过时。"
-        },
-        {
-          "s": "Choosing a print publisher.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "选择一家印刷出版商。"
         }
       ]
     },
@@ -269,25 +276,11 @@
           "t": "我们可以把马特的照片印在一个 7_______ 的硬纸板立牌上，然后走到哪都带着它拍照。"
         },
         {
-          "s": "I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"
-        },
-        {
           "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
           "src": "2024新高考I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2024,
           "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
-        },
-        {
-          "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
         },
         {
           "s": "Just a specially printed piece of paper and hemp that we've assigned value to — and probably less durable over time than those shells.",
@@ -312,7 +305,15 @@
     },
     {
       "def": "used to refer to the business of producing newspapers, magazines and books 印刷行业；出版界",
-      "ex": []
+      "ex": [
+        {
+          "s": "Choosing a print publisher.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "选择一家印刷出版商。"
+        }
+      ]
     },
     {
       "def": "a mark left by your finger, foot, etc. on the surface of sth 指纹；手印；脚印；足迹",

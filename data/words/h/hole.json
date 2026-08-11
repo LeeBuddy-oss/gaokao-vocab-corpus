@@ -28,13 +28,6 @@
           "t": "他说：\"你做得很好，儿子，但看看篱笆上所有的洞！"
         },
         {
-          "s": "Both scenarios involved a dog being placed on one side of a glass screen with small holes in it at nose-height, and an experimenter standing on the other.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两种场景都是把狗放在一块玻璃屏风的一侧，屏风上在与狗鼻子齐高的位置有一些小孔，而实验员站在另一侧。"
-        },
-        {
           "s": "Place your cup in the deepest part of the hole.",
           "src": "2017全国I卷·阅读理解D",
           "cat": "gaokao",
@@ -138,12 +131,6 @@
           "t": "房屋的墙壁上有很多洞，可以让风通过。"
         },
         {
-          "s": "Loose on the island, they did what rabbits do best ‒ they multiplied rapidly and began eating the native vegetation and digging holes, which caused soil erosion.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "在岛上自由活动后，它们做了兔子最擅长的事——迅速繁殖，开始吃本地的植被并挖洞，造成了水土流失。"
-        },
-        {
           "s": "I stuffed a piece of cloth into the hole and took her outside, closing the door securely behind me.",
           "src": "2023浙江1月卷·书面表达",
           "cat": "gaokao",
@@ -168,15 +155,7 @@
     },
     {
       "def": "a space or opening that goes all the way through sth 裂口；开口；孔眼",
-      "ex": [
-        {
-          "s": "But instead of passing it through the hole to the dog, they would then pull it out of its reach.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我的童年充满了我所追求的大多数爱好，其中大部分都是妈妈替我选择的。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the home of a small animal 洞穴；巢穴",
@@ -211,11 +190,33 @@
     },
     {
       "def": "a place or position that needs to be filled because sb/sth is no longer there 空缺的地方（或位置）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Both scenarios involved a dog being placed on one side of a glass screen with small holes in it at nose-height, and an experimenter standing on the other.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "两种场景都是把狗放在一块玻璃屏风的一侧，屏风上在与狗鼻子齐高的位置有一些小孔，而实验员站在另一侧。"
+        },
+        {
+          "s": "But instead of passing it through the hole to the dog, they would then pull it out of its reach.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "但他们没有把它穿过洞递给狗，而是把它拉到狗够不着的地方。"
+        }
+      ]
     },
     {
       "def": "to make a hole or holes in sth, especially a boat or ship （尤指在船上）打洞，造成破洞",
-      "ex": []
+      "ex": [
+        {
+          "s": "Loose on the island, they did what rabbits do best ‒ they multiplied rapidly and began eating the native vegetation and digging holes, which caused soil erosion.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "在岛上自由活动后，它们做了兔子最擅长的事——迅速繁殖，开始吃本地的植被并挖洞，造成了水土流失。"
+        }
+      ]
     },
     {
       "def": "to hit a golf ball into the hole 击球入洞",

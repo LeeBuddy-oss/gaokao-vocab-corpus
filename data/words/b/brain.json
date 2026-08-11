@@ -118,7 +118,7 @@
           "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
           "year": 2024,
-          "t": "我也偶尔主动做饭，所以我把橱柜的一部分空间划归给自己存放零浪费食品。"
+          "t": "就你的大脑而言，有些过程会阻碍锻炼，有些过程则会促进锻炼。"
         },
         {
           "s": "Researchers use brain imaging technique to see which brain areas light up when we view paintings that we consider beautiful.",
@@ -153,7 +153,7 @@
           "src": "2018全国II卷·短文改错",
           "cat": "gaokao",
           "year": 2018,
-          "t": "人们在这些地方定居是因为交通便利，天然适合交通和贸易。"
+          "t": "他们会对我们说玩纸牌游戏有助于我的大脑发育。"
         },
         {
           "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
@@ -331,20 +331,6 @@
           "t": "就好像大脑在保存它最重要的记忆。"
         },
         {
-          "s": "In humans, a greatly enlarged brain boosts self-control, just as it boosts problem-solving skills in the social as well as the physical world.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在人类身上，显著增大的大脑增强了自控力，正如它也增强了我们在社会和物质世界中解决问题的能力。"
-        },
-        {
-          "s": "SLEAP uses computer vision (the ability for computers to understand images) and deep learning (an AI approach for training a computer to learn and work like the human brain) to help researchers process images much more quickly.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "SLEAP使用计算机视觉（计算机理解图像的能力）和深度学习（一种训练计算机像人脑一样学习和工作的AI方法），帮助研究者更快地处理图像。"
-        },
-        {
           "s": "If Tononi’s theory is right, it would explain why, when we miss a night’s, we find it harder the next day to concentrate and learn new information — our brains may have smaller room for new experiences.",
           "src": "2017北京卷·七选五",
           "cat": "gaokao",
@@ -395,7 +381,22 @@
     },
     {
       "def": "the ability to learn quickly and think about things in a logical and intelligent way 智力；脑力；逻辑思维能力",
-      "ex": []
+      "ex": [
+        {
+          "s": "In humans, a greatly enlarged brain boosts self-control, just as it boosts problem-solving skills in the social as well as the physical world.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在人类身上，显著增大的大脑增强了自控力，正如它也增强了我们在社会和物质世界中解决问题的能力。"
+        },
+        {
+          "s": "SLEAP uses computer vision (the ability for computers to understand images) and deep learning (an AI approach for training a computer to learn and work like the human brain) to help researchers process images much more quickly.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "SLEAP使用计算机视觉（计算机理解图像的能力）和深度学习（一种训练计算机像人脑一样学习和工作的AI方法），帮助研究者更快地处理图像。"
+        }
+      ]
     },
     {
       "def": "an intelligent person 聪明的人；有智慧的人",

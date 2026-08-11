@@ -77,20 +77,6 @@
           "t": "在选择在线学习之前，要考虑自己是否是一个有自学动力的人，以及学习材料是否足够有趣能让你坚持下去。"
         },
         {
-          "s": "Be sure to schedule set times to watch your lectures, read materials and contribute to online discussion boards.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "不同文化间道德美德的相似性令人瞩目，尽管各种美德的重要性排序可能因社会群体的历史和环境而异。"
-        },
-        {
-          "s": "These exams, which students commonly use for practice, can give you an idea of how instructors ask questions and what they regard as relevant material.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这些学生常用来练习的考试，能让你了解老师如何提问，以及他们认为相关的材料是什么。"
-        },
-        {
           "s": "Tickets: £40 including materials",
           "src": "2021新高考II卷·阅读理解A",
           "cat": "gaokao",
@@ -195,44 +181,11 @@
           "t": "结论中包含你们的想法摘要——不要在这里介绍任何新材料!"
         },
         {
-          "s": "And are listening to and viewing content as effective as reading the written word when covering the same material?",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在学习同样的材料时，听和看内容与阅读文字一样有效吗？"
-        },
-        {
-          "s": "Learn about the materials and qualities of watercolor paint with experts from the Harvard Art Museums Materials Lab.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "与哈佛艺术博物馆材料实验室的专家一起了解水彩颜料的材料和特性。"
-        },
-        {
-          "s": "Each volume in the set explores____41____wide range of material, explains the basic concepts of major applications of digital systems, ____42____discusses the influences they have on everyday life.",
-          "src": "2020全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "丛书的每一卷都探讨了____41____广泛的材料，解释了数字系统主要应用的基本概念，____42____并讨论了它们对日常生活的影响。"
-        },
-        {
           "s": "More recently, as books have become inexpensive or even throwaway, artists have used them as the raw material for artworks — transforming covers, pages or even complete volumes into paintings and sculptures.",
           "src": "2023新课标II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
           "t": "更近一些时候，随着书籍变得廉价甚至可以随意丢弃，艺术家们开始把它们用作艺术品的原材料——把封面、书页甚至整册书变成绘画和雕塑。"
-        },
-        {
-          "s": "Materials for making natural dyes can often be found in gardens 2 _____ colourful flowers are planted.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "制作天然染料的材料通常可以在种植着五颜六色花卉的花园______找到。"
-        },
-        {
-          "s": "This experiment is designed to _______________________ ________________________________________________ ________________________________________________ Main body Describe the materials used in the experiment and explain the procedure.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "这个实验旨在 _______________________ ________________________________________________ ________________________________________________ 主体部分 描述实验所用的材料并解释步骤。"
         }
       ]
     },
@@ -276,7 +229,48 @@
     },
     {
       "def": "information or ideas used in books, etc. 素材；用以创作的材料（或构想）",
-      "ex": []
+      "ex": [
+        {
+          "s": "These exams, which students commonly use for practice, can give you an idea of how instructors ask questions and what they regard as relevant material.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这些学生常用来练习的考试，能让你了解老师如何提问，以及他们认为相关的材料是什么。"
+        },
+        {
+          "s": "And are listening to and viewing content as effective as reading the written word when covering the same material?",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在学习同样的材料时，听和看内容与阅读文字一样有效吗？"
+        },
+        {
+          "s": "Learn about the materials and qualities of watercolor paint with experts from the Harvard Art Museums Materials Lab.",
+          "src": "2024全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "与哈佛艺术博物馆材料实验室的专家一起了解水彩颜料的材料和特性。"
+        },
+        {
+          "s": "Each volume in the set explores____41____wide range of material, explains the basic concepts of major applications of digital systems, ____42____discusses the influences they have on everyday life.",
+          "src": "2020全国新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "丛书的每一卷都探讨了____41____广泛的材料，解释了数字系统主要应用的基本概念，____42____并讨论了它们对日常生活的影响。"
+        },
+        {
+          "s": "Materials for making natural dyes can often be found in gardens 2 _____ colourful flowers are planted.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "制作天然染料的材料通常可以在种植着五颜六色花卉的花园______找到。"
+        },
+        {
+          "s": "This experiment is designed to _______________________ ________________________________________________ ________________________________________________ Main body Describe the materials used in the experiment and explain the procedure.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "这个实验旨在 _______________________ ________________________________________________ ________________________________________________ 主体部分 描述实验所用的材料并解释步骤。"
+        }
+      ]
     },
     {
       "def": "items used in a performance 节目；曲目；剧目",
@@ -314,7 +308,15 @@
     },
     {
       "def": "important and needing to be considered 重要的；必要的",
-      "ex": []
+      "ex": [
+        {
+          "s": "Be sure to schedule set times to watch your lectures, read materials and contribute to online discussion boards.",
+          "src": "2024浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "不同文化间道德美德的相似性令人瞩目，尽管各种美德的重要性排序可能因社会群体的历史和环境而异。"
+        }
+      ]
     }
   ]
 }

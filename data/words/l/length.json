@@ -22,13 +22,6 @@
           "t": "它们的平均长度约为18厘米，平均重量约为31-41克。"
         },
         {
-          "s": "Increased length of green lights.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "绿灯时间延长。"
-        },
-        {
           "s": "When it came to faking a review, length was important to believability, as was detail.",
           "src": "2026浙江1月卷·阅读理解C",
           "cat": "gaokao",
@@ -46,25 +39,19 @@
           "src": "外研社B4 U5",
           "cat": "waiyan",
           "t": "相比之下，迄今地球上发现的最大的动物物种是蓝鲸，它体长可接近30米，体重超过13万公斤。"
-        },
-        {
-          "s": "The traffic signals along Factoria Boulevard in Bellevue, Washington, generally don't flash the same length of green twice in a row, especially at rush hour.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "华盛顿州贝尔维尤市Factoria大道上的交通信号，通常连续两次不会亮同样时长的绿灯，尤其在高峰时段。"
-        },
-        {
-          "s": "It is perhaps the longest species of monkey and also one of the heaviest: a male’s body length can reach 50–115 cm, with a tail length of 45–84 cm, while it can weigh 21– 45 kg; a female’s body weight can range 12–25 kg.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "它可能是最长的猴类物种，也是最重的之一：雄性的体长可达50-115厘米，尾长45-84厘米，体重可达21-45公斤；雌性的体重范围是12-25公斤。"
         }
       ]
     },
     {
       "def": "the amount of time that sth lasts （持续）时间的长短",
       "ex": [
+        {
+          "s": "Increased length of green lights.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "绿灯时间延长。"
+        },
         {
           "s": "The length of cooling time.",
           "src": "2025新高考I卷·阅读理解D",
@@ -108,7 +95,21 @@
     },
     {
       "def": "a long thin piece of sth 细长的一段（或一节、一根等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "The traffic signals along Factoria Boulevard in Bellevue, Washington, generally don't flash the same length of green twice in a row, especially at rush hour.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "华盛顿州贝尔维尤市Factoria大道上的交通信号，通常连续两次不会亮同样时长的绿灯，尤其在高峰时段。"
+        },
+        {
+          "s": "It is perhaps the longest species of monkey and also one of the heaviest: a male’s body length can reach 50–115 cm, with a tail length of 45–84 cm, while it can weigh 21– 45 kg; a female’s body weight can range 12–25 kg.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "它可能是最长的猴类物种，也是最重的之一：雄性的体长可达50-115厘米，尾长45-84厘米，体重可达21-45公斤；雌性的体重范围是12-25公斤。"
+        }
+      ]
     },
     {
       "def": "for a long time and in detail 长时间；详尽地",

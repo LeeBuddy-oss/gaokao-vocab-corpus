@@ -34,20 +34,6 @@
           "t": "在第一部分，我阐述了数字极简主义的哲学基础，先审视那些让许多人的数字生活越来越难以忍受的力量，接着详细讨论数字极简主义理念。"
         },
         {
-          "s": "The keyboard could offer a strong layer of security by analyzing things like the force of a user's typing and the time between key presses.",
-          "src": "2019全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "键盘可以通过分析诸如用户敲击的力度和按键间隔等，提供一层强大的安全性。"
-        },
-        {
-          "s": "“Impetuous has two definitions: rushing with great force or violence; acting suddenly, with little thought. ”",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "“Impetuous有两个释义：以巨大的力量或暴力冲撞；突然行动，欠思考。”"
-        },
-        {
           "s": "It has been an enormously positive force.\" Watched by millions, the ending to the race has divided opinions: should the brothers have been disqualified or highly praised for their actions?",
           "src": "外研社B1 U3",
           "cat": "waiyan",
@@ -111,11 +97,34 @@
     },
     {
       "def": "the strong effect or influence of sth 强大效力；巨大影响",
-      "ex": []
+      "ex": [
+        {
+          "s": "The keyboard could offer a strong layer of security by analyzing things like the force of a user's typing and the time between key presses.",
+          "src": "2019全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "键盘可以通过分析诸如用户敲击的力度和按键间隔等，提供一层强大的安全性。"
+        },
+        {
+          "s": "And it’s especially important for those new to the work force.",
+          "src": "2018上海卷·Becoming an Attractive Employee",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "对年轻人来说，信息技术技能将在未来发挥越来越重要的作用。"
+        }
+      ]
     },
     {
       "def": "a person or thing that has a lot of power or influence 力量大的人（或事物）；影响大的人（或事物）",
-      "ex": []
+      "ex": [
+        {
+          "s": "“Impetuous has two definitions: rushing with great force or violence; acting suddenly, with little thought. ”",
+          "src": "2024天津3月卷·阅读Passage 3",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "“Impetuous有两个释义：以巨大的力量或暴力冲撞；突然行动，欠思考。”"
+        }
+      ]
     },
     {
       "def": "the authority of sth 权力；效力",
@@ -167,15 +176,7 @@
     },
     {
       "def": "in large numbers 人",
-      "ex": [
-        {
-          "s": "And it’s especially important for those new to the work force.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "对年轻人来说，信息技术技能将在未来发挥越来越重要的作用。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "being used 法律、规则等",
@@ -251,18 +252,11 @@
           "t": "把患者逼入深度睡眠状态"
         },
         {
-          "s": "The Disruptor forces change; the clean-up is somebody else’s problem.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这种态度最好概括为\"快速行动，打破常规\"。"
-        },
-        {
           "s": "Eventually, my brother decided to leave rather than force the issue.",
           "src": "2025新高考I卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "许多猫会在外面找到随机物品并把它们带回来给主人。"
+          "t": "最终，我弟弟决定离开，而不是强求。"
         }
       ]
     },
@@ -300,7 +294,15 @@
     },
     {
       "def": "to make sb do sth faster than they want to 迫使（某人）加快速度",
-      "ex": []
+      "ex": [
+        {
+          "s": "The Disruptor forces change; the clean-up is somebody else’s problem.",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这种态度最好概括为\"快速行动，打破常规\"。"
+        }
+      ]
     },
     {
       "def": "to make yourself eat or drink sth that you do not really want 强迫咽下（食物或饮料）",

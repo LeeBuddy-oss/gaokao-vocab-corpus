@@ -9,13 +9,6 @@
       "def": "one thing on a list of things to buy, do, talk about, etc. 项目",
       "ex": [
         {
-          "s": "The cashier had scanned all the items and there were a couple of people ____13____ (wait) behind us.",
-          "src": "2026北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "收银员已经扫完所有商品，后面还有几个人____13____（等待）。"
-        },
-        {
           "s": "Furniture Restoration: take an active role in transforming reclaimed furniture and materials into useful items, giving them a new life;",
           "src": "2026北京卷·阅读理解A",
           "cat": "gaokao",
@@ -35,20 +28,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "值得注意的是，wastED菜单上的所有菜品严格来说都不是用垃圾制作的。"
-        },
-        {
-          "s": "Current students, teachers (including retired) and staff can request items through ILL.",
-          "src": "2025浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在校学生、教师（含退休）和员工可通过ILL申请物品。"
-        },
-        {
-          "s": "However, obtaining items that are rare, recently published or in high demand may take longer.",
-          "src": "2025浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "然而，获取稀有、新出版或需求量大的物品可能需要更长时间。"
         },
         {
           "s": "Borrowed items are subject to recall by the lending library.",
@@ -72,13 +51,6 @@
           "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
         },
         {
-          "s": "Call Lost Property on 13 16 17 during business hours for items lost on Queensland Rail services.",
-          "src": "2020全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如在昆士兰铁路服务中遗失物品，请在营业时间内拨打失物招领处电话13 16 17。"
-        },
-        {
           "s": "Check out other items.",
           "src": "2020天津6月卷·阅读理解A",
           "cat": "gaokao",
@@ -86,32 +58,11 @@
           "t": "一旦你预订的书送到最近的分馆，他们会通过电子邮件通知你，这样你就可以取书了。"
         },
         {
-          "s": "According to Paragraph 3, what items may be checked out from a public library? （    ）",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据第3段，哪些物品可以从公共图书馆借出？（    ）"
-        },
-        {
           "s": "Lost items become the property of transport for London.",
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
           "t": "百分之二十的失物在三个月内被认领。"
-        },
-        {
-          "s": "Lost items are taken good care of by Cowan's team.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "丢失的物品受到考恩团队的妥善保管。"
-        },
-        {
-          "s": "Almost all of the lost items were returned to their owners.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "几乎所有丢失的物品都归还给了它们的主人。"
         },
         {
           "s": "Twenty percent of the lost items are claimed in three months’ time.",
@@ -132,6 +83,55 @@
     {
       "def": "a single article or object 一件商品（或物品）",
       "ex": [
+        {
+          "s": "The cashier had scanned all the items and there were a couple of people ____13____ (wait) behind us.",
+          "src": "2026北京卷·语法填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "收银员已经扫完所有商品，后面还有几个人____13____（等待）。"
+        },
+        {
+          "s": "Current students, teachers (including retired) and staff can request items through ILL.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在校学生、教师（含退休）和员工可通过ILL申请物品。"
+        },
+        {
+          "s": "However, obtaining items that are rare, recently published or in high demand may take longer.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "然而，获取稀有、新出版或需求量大的物品可能需要更长时间。"
+        },
+        {
+          "s": "Call Lost Property on 13 16 17 during business hours for items lost on Queensland Rail services.",
+          "src": "2020全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如在昆士兰铁路服务中遗失物品，请在营业时间内拨打失物招领处电话13 16 17。"
+        },
+        {
+          "s": "According to Paragraph 3, what items may be checked out from a public library? （    ）",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "根据第3段，哪些物品可以从公共图书馆借出？（    ）"
+        },
+        {
+          "s": "Lost items are taken good care of by Cowan's team.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "丢失的物品受到考恩团队的妥善保管。"
+        },
+        {
+          "s": "Almost all of the lost items were returned to their owners.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "几乎所有丢失的物品都归还给了它们的主人。"
+        },
         {
           "s": "We had decided on key items for the ___42___ we were moving to in town, donated what we could, and rented a place to ___43___ our supposedly important objects.",
           "src": "2025新高考I卷·完形填空",

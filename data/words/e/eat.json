@@ -296,13 +296,6 @@
           "t": "最明显的是，这些男性在不吃早餐时开始锻炼的血糖水平比吃早餐时更低。"
         },
         {
-          "s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"
-        },
-        {
           "s": "Multiple genes behaved differently, depending on whether someone had eaten or not before walking.",
           "src": "2020江苏卷·阅读理解C",
           "cat": "gaokao",
@@ -546,13 +539,6 @@
           "t": "许多物种的思维仅限于“食物，吃掉！”“危险，快跑！”“疼痛，避开！”，而我们已进化得超越这些。"
         },
         {
-          "s": "Instead, she recommends applying a well-known concept among nutrition experts called the “Division of Responsibility,” where parents provide a variety of mostly healthy foods to their kids at fixed times, and the kids themselves decide what and how much they want to consume — even if that means occasionally eating more cookies than carrots.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "相反，她建议采用营养专家中一个知名的理念，叫做“责任分工”：父母在固定时间给孩子提供各种大多健康的食物，而孩子自己决定想吃什么、吃多少——即便这意味着偶尔吃更多饼干而非胡萝卜。"
-        },
-        {
           "s": "For many of us, moderation means eating less than we do now.",
           "src": "2024全国甲卷·七选五",
           "cat": "gaokao",
@@ -565,27 +551,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "我得知许多海洋动物吃塑料垃圾时感到不安，它们____37____（以为/thinking）那是食物。"
-        },
-        {
-          "s": "It’s good to eat things at the correct time, when they’re ___38___, and as close as possible to where they were ___39___.",
-          "src": "2023全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在合适的时间、在食物___38___的时候，并且尽可能靠近它们被___39___的地方吃，是件好事。"
-        },
-        {
-          "s": "She’d just look up at the right time, long enough to answer-in character - “The better to eat you with, my dear,” and go back to her place in the magazine article.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她只是在恰当的时候抬起头——足够长的时间——用角色的语气回答：\"这样我就能更好地吃掉你了，亲爱的，\"然后回到她的杂志文章那里去。"
-        },
-        {
-          "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
         },
         {
           "s": "The fun part of the activities is that the kids can eat or take home whatever they make.",
@@ -618,6 +583,13 @@
     {
       "def": "to have a meal 吃饭；用餐",
       "ex": [
+        {
+          "s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"
+        },
         {
           "s": "It's more challenging to eat in moderation if you have unhealthy snacks at the ready, like cookies. ____18____",
           "src": "2024全国甲卷·七选五",
@@ -752,7 +724,36 @@
     },
     {
       "def": "to worry sb over a period of time （一段时间内）使某人苦恼，使某人担心",
-      "ex": []
+      "ex": [
+        {
+          "s": "Instead, she recommends applying a well-known concept among nutrition experts called the “Division of Responsibility,” where parents provide a variety of mostly healthy foods to their kids at fixed times, and the kids themselves decide what and how much they want to consume — even if that means occasionally eating more cookies than carrots.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "相反，她建议采用营养专家中一个知名的理念，叫做“责任分工”：父母在固定时间给孩子提供各种大多健康的食物，而孩子自己决定想吃什么、吃多少——即便这意味着偶尔吃更多饼干而非胡萝卜。"
+        },
+        {
+          "s": "It’s good to eat things at the correct time, when they’re ___38___, and as close as possible to where they were ___39___.",
+          "src": "2023全国甲卷·完形填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在合适的时间、在食物___38___的时候，并且尽可能靠近它们被___39___的地方吃，是件好事。"
+        },
+        {
+          "s": "She’d just look up at the right time, long enough to answer-in character - “The better to eat you with, my dear,” and go back to her place in the magazine article.",
+          "src": "2020浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "她只是在恰当的时候抬起头——足够长的时间——用角色的语气回答：\"这样我就能更好地吃掉你了，亲爱的，\"然后回到她的杂志文章那里去。"
+        },
+        {
+          "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
+        }
+      ]
     },
     {
       "def": "to use up a part of sth, especially sb's money or time 消耗，花掉，耗费（尤指金钱或时间）",

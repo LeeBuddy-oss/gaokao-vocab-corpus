@@ -44,12 +44,6 @@
           "t": "营员有一个三小时的上午课程（围绕上午主题，早9点至中午12点）和一个一小时的午休，之后是另一个三小时的下午课程（围绕下午主题，下午1点至4点）。"
         },
         {
-          "s": "The movie explores the theme of responsibility in an intelligent and humorous way.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "这部电影以一种聪明而幽默的方式探讨了责任的主题。"
-        },
-        {
           "s": "Art exhibitions can have many themes, such as a historical period, a location or a trend.",
           "src": "外研社B4 U4",
           "cat": "waiyan",
@@ -67,7 +61,30 @@
           "src": "2020浙江7月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "我的意图不是指出这本集子中每部剧本的中心主题，因为这确实会破坏阅读、讨论和思考这些剧作的乐趣以及剧作家的效果。"
+          "t": "用少数几个人物来创造一个源自主题的单一印象。"
+        }
+      ]
+    },
+    {
+      "def": "a short tune that is repeated or developed in a piece of music （乐曲的）主题，主旋律",
+      "ex": [
+        {
+          "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
+          "src": "2020浙江7月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
+        }
+      ]
+    },
+    {
+      "def": "《教父》的主题音乐",
+      "ex": [
+        {
+          "s": "The movie explores the theme of responsibility in an intelligent and humorous way.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "这部电影以一种聪明而幽默的方式探讨了责任的主题。"
         },
         {
           "s": "To stress the theme of this issue.",
@@ -114,24 +131,7 @@
           "src": "外研社B2 U1",
           "cat": "waiyan",
           "t": "视觉信息，如照片和插图，可以帮助阅读，并帮助你确定文本的主题和内容。"
-        }
-      ]
-    },
-    {
-      "def": "a short tune that is repeated or developed in a piece of music （乐曲的）主题，主旋律",
-      "ex": [
-        {
-          "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
-        }
-      ]
-    },
-    {
-      "def": "《教父》的主题音乐",
-      "ex": [
+        },
         {
           "s": "（2）What is the theme of this year's competition？",
           "src": "2019天津卷·History Fair Competition",

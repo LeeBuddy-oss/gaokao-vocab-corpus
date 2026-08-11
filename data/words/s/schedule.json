@@ -115,53 +115,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "你可以在学期前两周内通过增删选课列表中的课程来更改课表。"
-        }
-      ]
-    },
-    {
-      "def": "列车时刻表",
-      "ex": [
-        {
-          "s": "Check the train schedule.",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "查看火车时刻表。"
-        },
-        {
-          "s": "Check the train schedule.",
-          "src": "2020全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "查看火车时刻表。"
-        }
-      ]
-    },
-    {
-      "def": "a list of the television and radio programmes that are on a particular channel and the times that they start （电视或广播）节目表",
-      "ex": []
-    },
-    {
-      "def": "a written list of things, for example prices, rates or conditions （价格、收费或条款等的）一览表，明细表，清单",
-      "ex": [
-        {
-          "s": "After the second week of classes, there will be a charge for each schedule change.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "开课两周后，每次更改课表都将收费。"
-        }
-      ]
-    },
-    {
-      "def": "to arrange for sth to happen at a particular time 安排；为 … 安排时间；预定",
-      "ex": [
-        {
-          "s": "They are scheduled for the weekend.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它们都安排在周末。"
         },
         {
           "s": "Schedule their visit on weekdays.",
@@ -199,38 +152,11 @@
           "t": "我猜大概是有些苛刻的工作安排，或是对于为一个不熟悉的运动挺身相助的社会焦虑。"
         },
         {
-          "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
-        },
-        {
           "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
           "src": "2024浙江1月卷·七选五",
           "cat": "gaokao",
           "year": 2024,
           "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
-        },
-        {
-          "s": "However, they can take up a lot of time, so students have to learn to organize their busy schedules.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "然而，它们会占用大量时间，所以学生必须学会安排自己繁忙的日程。"
-        },
-        {
-          "s": "Most trains operate just once a day and some run only three times a week, so missing yours can be a disaster. ____39____ Note: The times listed on the schedules are departure times, not arrival times.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "大多数火车一天只开一班，有些一周只开三班，所以错过你的那班可能是灾难。____39____ 注意：时刻表上列出的时间是出发时间，不是到达时间。"
-        },
-        {
-          "s": "Schedule of Programming",
-          "src": "2025北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "如何在家中获得自己的个人空间。"
         },
         {
           "s": "According to the schedule, which activity can the teens participate in?",
@@ -252,6 +178,80 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "参加新的讲座B. 自己决定日程安排"
+        }
+      ]
+    },
+    {
+      "def": "列车时刻表",
+      "ex": [
+        {
+          "s": "Check the train schedule.",
+          "src": "2023卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "查看火车时刻表。"
+        },
+        {
+          "s": "Check the train schedule.",
+          "src": "2020全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "查看火车时刻表。"
+        },
+        {
+          "s": "Most trains operate just once a day and some run only three times a week, so missing yours can be a disaster. ____39____ Note: The times listed on the schedules are departure times, not arrival times.",
+          "src": "2023浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "大多数火车一天只开一班，有些一周只开三班，所以错过你的那班可能是灾难。____39____ 注意：时刻表上列出的时间是出发时间，不是到达时间。"
+        }
+      ]
+    },
+    {
+      "def": "a list of the television and radio programmes that are on a particular channel and the times that they start （电视或广播）节目表",
+      "ex": []
+    },
+    {
+      "def": "a written list of things, for example prices, rates or conditions （价格、收费或条款等的）一览表，明细表，清单",
+      "ex": [
+        {
+          "s": "After the second week of classes, there will be a charge for each schedule change.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "开课两周后，每次更改课表都将收费。"
+        }
+      ]
+    },
+    {
+      "def": "to arrange for sth to happen at a particular time 安排；为 … 安排时间；预定",
+      "ex": [
+        {
+          "s": "They are scheduled for the weekend.",
+          "src": "2024新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它们都安排在周末。"
+        },
+        {
+          "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
+        },
+        {
+          "s": "However, they can take up a lot of time, so students have to learn to organize their busy schedules.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "然而，它们会占用大量时间，所以学生必须学会安排自己繁忙的日程。"
+        },
+        {
+          "s": "Schedule of Programming",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "如何在家中获得自己的个人空间。"
         },
         {
           "s": "Keep your sleep/wake schedule on weekends.",

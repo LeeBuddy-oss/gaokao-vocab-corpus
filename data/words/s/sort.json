@@ -35,12 +35,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "这为各种以服装为基础的实验开辟了道路。"
-        },
-        {
-          "s": "Reporter: And what sort of work are you doing to help solve these problems?",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "记者：那么你们正在做哪些工作来帮助解决这些问题？"
         }
       ]
     },
@@ -90,10 +84,10 @@
           "t": "他告诉我，这正是那种让你__55__自己挣来的钱、并尊重那些干这活儿的人的工作。"
         },
         {
-          "s": "Craftsmanship speaks to the human need for skilled and socially useful work; the sort of work that can be admired and valued by society.",
-          "src": "外研社B6 U2",
+          "s": "It was served cold and came with some sort of sticky sauce which tasted bitter and smelt really fishy!",
+          "src": "外研社B2 U1",
           "cat": "waiyan",
-          "t": "工艺美术讲的是人类对熟练和社会有用的工作的需求;这种工作可以受到社会的钦佩和重视."
+          "t": "它是冷着的，配了一种黏糊糊的酱汁，尝起来发苦，闻起来鱼腥味极重！"
         }
       ]
     },
@@ -118,16 +112,23 @@
       "def": "to some extent but in a way that you cannot easily describe 有几分；有那么一点",
       "ex": [
         {
-          "s": "It was served cold and came with some sort of sticky sauce which tasted bitter and smelt really fishy!",
-          "src": "外研社B2 U1",
+          "s": "Reporter: And what sort of work are you doing to help solve these problems?",
+          "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "它是冷着的，配了一种黏糊糊的酱汁，尝起来发苦，闻起来鱼腥味极重！"
+          "t": "记者：那么你们正在做哪些工作来帮助解决这些问题？"
         }
       ]
     },
     {
       "def": "（想不出恰当的词或不知下面该怎么说时用）可以说，可说是",
-      "ex": []
+      "ex": [
+        {
+          "s": "Craftsmanship speaks to the human need for skilled and socially useful work; the sort of work that can be admired and valued by society.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "工艺美术讲的是人类对熟练和社会有用的工作的需求;这种工作可以受到社会的钦佩和重视."
+        }
+      ]
     },
     {
       "def": "to arrange things in groups or in a particular order according to their type, etc; to separate things of one type from others 整理；把 … 分类",

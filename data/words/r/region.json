@@ -116,13 +116,6 @@
           "t": "现在，许多____7____（country）和地区正采取行动禁止出售此类袋子，以阻止人们使用它们。"
         },
         {
-          "s": "Furthermore, around 50% of the world’s population live in regions where the figure is now below the replacement level (ie 2.1 births per woman) and almost all developed nations are experiencing sub-replacement birth rate.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
-        },
-        {
           "s": "Declining birth rate is a major problem in many developing regions too, which might cause catastrophic global shortages of work force within a few decades.",
           "src": "2017江苏卷·Population Change",
           "cat": "gaokao",
@@ -137,7 +130,15 @@
     },
     {
       "def": "all of a country except the capital city （一国除首都以外的）全部地区，所有区域",
-      "ex": []
+      "ex": [
+        {
+          "s": "Furthermore, around 50% of the world’s population live in regions where the figure is now below the replacement level (ie 2.1 births per woman) and almost all developed nations are experiencing sub-replacement birth rate.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
+        }
+      ]
     },
     {
       "def": "a part of the body, usually one that has a particular character or problem （通常指有某种特性或问题的）身体部位",

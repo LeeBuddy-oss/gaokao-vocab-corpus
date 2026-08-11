@@ -69,14 +69,14 @@
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "他们打算做法式吐司和鸡肉粥。"
+          "t": "当他们把早餐送到床上时，妈妈会多么高兴和自豪。"
         },
         {
           "s": "How pleased and proud Mother would be when they brought her breakfast in bed.",
           "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
           "cat": "gaokao",
           "year": 2021,
-          "t": "他们打算做法式吐司和鸡肉粥。"
+          "t": "当他们把早餐送到床上时，妈妈会多么高兴和自豪。"
         },
         {
           "s": "Please explain, (no more than 20 words)",
@@ -191,13 +191,6 @@
           "t": "请来加入我们吧。"
         },
         {
-          "s": "Students, parents and teachers are pleased with the results.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "三年前，明尼苏达州埃迪纳的学校将上课时间从早上7:25改为8:30。"
-        },
-        {
           "s": "He tried to please his dad",
           "src": "2017浙江11月卷·阅读理解A",
           "cat": "gaokao",
@@ -216,48 +209,6 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "请问你能告诉我去……怎么走吗？"
-        },
-        {
-          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
-        },
-        {
-          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
-        },
-        {
-          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
-          "src": "2024北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
-        },
-        {
-          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
-        },
-        {
-          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
-        },
-        {
-          "s": "Please decide which part is false in the following statement，then underline it and explain why．",
-          "src": "2021北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "请判断下列陈述中哪一部分是错误的，然后在下面画线并解释原因。"
         },
         {
           "s": "Please explain in your own words. (no more than 20 words)",
@@ -309,7 +260,50 @@
     },
     {
       "def": "（用于加强请求或陈述的语气）请千万，请务必，的确",
-      "ex": []
+      "ex": [
+        {
+          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
+          "src": "2026北京卷·写作问答",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
+        },
+        {
+          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
+          "src": "2025北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
+        },
+        {
+          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
+        },
+        {
+          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
+        },
+        {
+          "s": "Please decide which part is false in the following statement, then underline it and explain why.",
+          "src": "2022北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "请判断以下陈述中哪部分是错误的，然后在其下面画线并解释原因。"
+        },
+        {
+          "s": "Please decide which part is false in the following statement，then underline it and explain why．",
+          "src": "2021北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "请判断下列陈述中哪一部分是错误的，然后在下面画线并解释原因。"
+        }
+      ]
     },
     {
       "def": "（表示接受的客气话）太感谢了，太好了",
@@ -326,6 +320,13 @@
     {
       "def": "to make sb happy 使满意；使愉快",
       "ex": [
+        {
+          "s": "Students, parents and teachers are pleased with the results.",
+          "src": "2017浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "学生、家长和老师对结果感到满意。"
+        },
         {
           "s": "are pleased with the airport staff",
           "src": "2022天津4月卷·阅读理解B",

@@ -83,7 +83,7 @@
           "src": "2020浙江1月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "拆东墙补西墙               D. 一石二鸟"
+          "t": "找错目标                B. 本末倒置"
         },
         {
           "s": "A． Using them wrongly results in punishment．",
@@ -99,12 +99,6 @@
           "t": "她为什么给了我错误的信息？"
         },
         {
-          "s": "There's nothing wrong with this, but don't miss out on new experiences for fear of the unknown.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "这本身没有什么问题，但不要因为害怕未知而错过新的体验。"
-        },
-        {
           "s": "He admitted that his book was wrong about sharks' behaviour.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
@@ -116,25 +110,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "Donohue女士曾因年纪太大不适合锻炼而被嘲笑，但她以最好的方式证明了那些___54____是错误的，并确实成为了许多社交媒体用户的___55____。"
-        }
-      ]
-    },
-    {
-      "def": "not right about sth/sb 人",
-      "ex": [
-        {
-          "s": "It is encouraging to discover that by readily accepting our errors and wisely placing ourselves in the way of being wrong, we can in fact overcome weaknesses and rise stronger.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "令人鼓舞的是，我们发现，通过欣然接受错误、明智地让自己处于可能犯错的位置，我们事实上能克服弱点、变得更强。"
-        },
-        {
-          "s": "You might think that developing nations would make up the loss (especially since 80% of the world’s people now live in such nations), but you’d be wrong.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "你可能以为发展中国家会弥补这一损失（特别是既然世界上80%的人现在生活在这样的国家），但你错了。"
         },
         {
           "s": "Though he acknowledges that engineering works can fail because the person who thought them up or engineered them simply got things wrong, in this book Dr Petroski widens his view to consider the larger context in which such failures occur.",
@@ -146,8 +121,26 @@
       ]
     },
     {
+      "def": "not right about sth/sb 人",
+      "ex": [
+        {
+          "s": "You might think that developing nations would make up the loss (especially since 80% of the world’s people now live in such nations), but you’d be wrong.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "你可能以为发展中国家会弥补这一损失（特别是既然世界上80%的人现在生活在这样的国家），但你错了。"
+        }
+      ]
+    },
+    {
       "def": "causing problems or difficulties; not as it should be 引起问题（或麻烦）；有毛病；不正常",
       "ex": [
+        {
+          "s": "There's nothing wrong with this, but don't miss out on new experiences for fear of the unknown.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "这本身没有什么问题，但不要因为害怕未知而错过新的体验。"
+        },
         {
           "s": "Something could go wrong, though, according to a new study.",
           "src": "2026新高考I卷·阅读理解C",
@@ -238,7 +231,15 @@
     },
     {
       "def": "to make a mistake 犯错误；做错事；搞错；弄错",
-      "ex": []
+      "ex": [
+        {
+          "s": "It is encouraging to discover that by readily accepting our errors and wisely placing ourselves in the way of being wrong, we can in fact overcome weaknesses and rise stronger.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "令人鼓舞的是，我们发现，通过欣然接受错误、明智地让自己处于可能犯错的位置，我们事实上能克服弱点、变得更强。"
+        }
+      ]
     },
     {
       "def": "to stop working correctly 机器",

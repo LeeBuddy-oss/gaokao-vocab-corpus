@@ -30,13 +30,6 @@
           "t": "近来食品服务业出现了降低脂肪含量和减少盐用量的趋势。"
         },
         {
-          "s": "Fat and salt are very important parts of a diet.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "脂肪和盐是饮食中非常重要的组成部分。"
-        },
-        {
           "s": "67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.",
           "src": "2017全国I卷·语法填空",
           "cat": "gaokao",
@@ -112,19 +105,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
-        },
-        {
-          "s": "When fat and salt     64     (remove) from food, the food tastes as if is missing something.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当脂肪和盐从食物中   64   （去除），食物尝起来像少了什么。"
         }
       ]
     },
     {
       "def": "a chemical formed from a metal and an acid 盐（金属和酸组成的化学物质）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Fat and salt are very important parts of a diet.",
+          "src": "2017全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "脂肪和盐是饮食中非常重要的组成部分。"
+        }
+      ]
     },
     {
       "def": "a substance that looks or tastes like salt 形状（或味道）像盐的物质",
@@ -133,6 +127,13 @@
     {
       "def": "to put salt on or in food 在（食物）中放盐",
       "ex": [
+        {
+          "s": "When fat and salt     64     (remove) from food, the food tastes as if is missing something.",
+          "src": "2017全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当脂肪和盐从食物中   64   （去除），食物尝起来像少了什么。"
+        },
         {
           "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
           "src": "2020浙江1月卷·阅读理解B",

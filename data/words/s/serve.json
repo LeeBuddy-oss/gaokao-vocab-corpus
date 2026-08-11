@@ -58,7 +58,29 @@
     },
     {
       "def": "to be enough for sb/sth 食物的量",
-      "ex": []
+      "ex": [
+        {
+          "s": "38   This is often appreciated since at a housewarming there isn’t a lot of food served.",
+          "src": "2020全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "38   这通常受人欢迎，因为暖房派对上供应的食物不多。"
+        },
+        {
+          "s": "There's a new frontier in 3D printing that's beginning to come into focus： food． Recent development has made possible machines that print， cook， and serve foods on a mass scale． And the industry isn't stopping there．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "3D打印出现了一个新的前沿领域，正开始受到关注：食品。近期的发展使能够大规模打印、烹饪并供应食物的机器成为可能。而该行业并未止步于此。"
+        },
+        {
+          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
+        }
+      ]
     },
     {
       "def": "to help a customer or sell them sth in a shop/store 接待；服务",
@@ -88,20 +110,6 @@
     {
       "def": "to be useful to sb in achieving or satisfying sth 对 … 有用；能满足 … 的需要",
       "ex": [
-        {
-          "s": "Wang serves as head of the Architecture Department at the China Academy of Art (CAA).",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据王澍的观点，我们应该如何对待中国传统？"
-        },
-        {
-          "s": "38   This is often appreciated since at a housewarming there isn’t a lot of food served.",
-          "src": "2020全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "38   这通常受人欢迎，因为暖房派对上供应的食物不多。"
-        },
         {
           "s": "The popularization of emotional intelligence has helped both the public and researchers re-evaluate the functionality of emotions and how they serve people adaptively in everyday life.",
           "src": "2021卷",
@@ -171,13 +179,6 @@
           "t": "晚餐供应之前还有很多事情要做，但建筑物外面已经聚集了许多无家可归的人。"
         },
         {
-          "s": "There's a new frontier in 3D printing that's beginning to come into focus： food． Recent development has made possible machines that print， cook， and serve foods on a mass scale． And the industry isn't stopping there．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "3D打印出现了一个新的前沿领域，正开始受到关注：食品。近期的发展使能够大规模打印、烹饪并供应食物的机器成为可能。而该行业并未止步于此。"
-        },
-        {
           "s": "It wasn’t until a couple of hours later that we opened the doors and began serving dinner.",
           "src": "2022浙江6月卷·读后续写",
           "cat": "gaokao",
@@ -202,19 +203,19 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "今天,在太平洋的一个岛屿上,一种特定的贝壳仍然作为货币使用——有些人甚至囤积它,就像比特币模具一样,相信有一天,它将使他们变得富有,超越想象."
-        }
-      ]
-    },
-    {
-      "def": "to have a particular effect or result 产生 … 的效果（或结果）",
-      "ex": [
+        },
         {
           "s": "So while some of the world's first coins were made from a naturally occurring hybrid of gold and silver called electrum, objects other than coins have served as currency, including beads, ivory, livestock, and cowrie shells.",
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
           "t": "因此，尽管世界上最早的一些硬币是由黄金和白银的天然混合物——金银合金制成的，但除硬币外的其他物品也曾被用作货币，包括珠子、象牙、牲畜和贝壳。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "to have a particular effect or result 产生 … 的效果（或结果）",
+      "ex": [
         {
           "s": "For example, stress could serve as a cue that one responds to by eating, which produces the reward﹣the reduction of stress.",
           "src": "2023北京卷",
@@ -310,6 +311,13 @@
       "def": "to spend a period of time in a particular job or training for a job 任期为；担任（职务）时间达；培训期为",
       "ex": [
         {
+          "s": "Wang serves as head of the Architecture Department at the China Academy of Art (CAA).",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "王担任中国美术学院（CAA）建筑系主任。"
+        },
+        {
           "s": "Serve as guides on a farm.",
           "src": "2025北京卷·阅读理解A",
           "cat": "gaokao",
@@ -369,13 +377,6 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "当食物端上来时，你应该等到被邀请时才吃。"
-        },
-        {
-          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
         }
       ]
     },

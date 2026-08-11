@@ -100,13 +100,6 @@
           "t": "A．她是一位画家。"
         },
         {
-          "s": "appreciate landscape paintings",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "掌握颜料的使用技巧"
-        },
-        {
           "s": "“Tom Sawyer: A River Adventure” has all the good stuff, including the fence painting, the graveyard, the island and the cave.",
           "src": "2024浙江1月卷·阅读理解A",
           "cat": "gaokao",
@@ -181,6 +174,13 @@
     {
       "def": "tubes or blocks of paint used for painting pictures 绘画颜料",
       "ex": [
+        {
+          "s": "appreciate landscape paintings",
+          "src": "2017浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "掌握颜料的使用技巧"
+        },
         {
           "s": "A review of modern paintings.",
           "src": "2023新课标II卷·阅读理解C",
@@ -341,6 +341,41 @@
           "cat": "waiyan",
           "year": "",
           "t": "这幅画比你想象的要小得多，而且有玻璃保护着。"
+        },
+        {
+          "s": "Benjamin could read only a little,having been a poor student.But he later said,”Those two books were my companions by day,and under my pillow at night.”While it is likely that he understood very little of the books,they were his introduction to classical paintings.The nine-year-old boy decided then that he would be an artist.",
+          "src": "2017浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "本杰明只读过一点书，因为他曾是个差学生。但他后来说：“那两本书白天是我的伙伴，晚上就在我的枕头下。”虽然他很可能几乎看不懂那些书，但它们是他接触古典绘画的入门。这个九岁男孩当时就下定决心要成为一名艺术家。"
+        },
+        {
+          "s": "Try your hand at some of the painting tricks used by artists whose works will be in the upcoming exhibition of American Watercolors 1880-1990: Into the Light.",
+          "src": "2024全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "亲手尝试一些画家的绘画技巧，他们的作品将出现在即将举办的“美国水彩1880-1990：走进光明”展览中。"
+        },
+        {
+          "s": "One night, in my early 40s, I dreamed that a big woman in red approached me, handed me a bag of paints, and told me to start painting.",
+          "src": "2024北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在我40岁出头的一个夜晚，我梦见一个穿红衣的高大女人走近我，递给我一袋颜料，让我开始画画。"
+        },
+        {
+          "s": "Try unconventional coloring in painting.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在绘画中尝试非传统的用色。"
+        },
+        {
+          "s": "More recently, as books have become inexpensive or even throwaway, artists have used them as the raw material for artworks — transforming covers, pages or even complete volumes into paintings and sculptures.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "更近一些时候，随着书籍变得廉价甚至可以随意丢弃，艺术家们开始把它们用作艺术品的原材料——把封面、书页甚至整册书变成绘画和雕塑。"
         }
       ]
     },
@@ -374,34 +409,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "他大约在400年前画了这幅自画像。"
-        },
-        {
-          "s": "Benjamin could read only a little,having been a poor student.But he later said,”Those two books were my companions by day,and under my pillow at night.”While it is likely that he understood very little of the books,they were his introduction to classical paintings.The nine-year-old boy decided then that he would be an artist.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "本杰明只读过一点书，因为他曾是个差学生。但他后来说：“那两本书白天是我的伙伴，晚上就在我的枕头下。”虽然他很可能几乎看不懂那些书，但它们是他接触古典绘画的入门。这个九岁男孩当时就下定决心要成为一名艺术家。"
-        },
-        {
-          "s": "Try your hand at some of the painting tricks used by artists whose works will be in the upcoming exhibition of American Watercolors 1880-1990: Into the Light.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "亲手尝试一些画家的绘画技巧，他们的作品将出现在即将举办的“美国水彩1880-1990：走进光明”展览中。"
-        },
-        {
-          "s": "One night, in my early 40s, I dreamed that a big woman in red approached me, handed me a bag of paints, and told me to start painting.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在我40岁出头的一个夜晚，我梦见一个穿红衣的高大女人走近我，递给我一袋颜料，让我开始画画。"
-        },
-        {
-          "s": "Try unconventional coloring in painting.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在绘画中尝试非传统的用色。"
         },
         {
           "s": "Campers will share their colorful ideas and imagination with each other and work together to visualize, sketch and paint with non-traditional techniques to create the coolest mural which will be displayed in public for all to see.",
@@ -482,13 +489,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "史密斯先生拥有这幅油画直到1990年代初,他把它送给了孙子。"
-        },
-        {
-          "s": "More recently, as books have become inexpensive or even throwaway, artists have used them as the raw material for artworks — transforming covers, pages or even complete volumes into paintings and sculptures.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "更近一些时候，随着书籍变得廉价甚至可以随意丢弃，艺术家们开始把它们用作艺术品的原材料——把封面、书页甚至整册书变成绘画和雕塑。"
         },
         {
           "s": "I once took up a challenge to create a painting every day for a month and post the works online.",

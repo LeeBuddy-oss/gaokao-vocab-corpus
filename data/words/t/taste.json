@@ -68,6 +68,13 @@
           "src": "外研社B2 U1",
           "cat": "waiyan",
           "t": "答：它看起来/闻起来/味道/感觉如何？"
+        },
+        {
+          "s": "In Samarkand, Mr Bissell admires the architectural wonders, while on his way to Bukhara he gets a taste of police methods when suspected of drug dealing.",
+          "src": "2020全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在撒马尔罕，比塞尔先生欣赏建筑奇观，而在前往布哈拉途中，他因涉嫌毒品交易尝到了警察手段的滋味。"
         }
       ]
     },
@@ -197,25 +204,11 @@
           "t": "加入我们，品尝各种新鲜的本地食物和饮品。"
         },
         {
-          "s": "In Samarkand, Mr Bissell admires the architectural wonders, while on his way to Bukhara he gets a taste of police methods when suspected of drug dealing.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在撒马尔罕，比塞尔先生欣赏建筑奇观，而在前往布哈拉途中，他因涉嫌毒品交易尝到了警察手段的滋味。"
-        },
-        {
           "s": "changed artistic taste",
           "src": "2023天津3月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
           "t": "改变艺术品味"
-        },
-        {
-          "s": "She tasted the sweetness of friendship.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她尝到了友谊的甜蜜。"
         },
         {
           "s": "It was served cold and came with some sort of sticky sauce which tasted bitter and smelt really fishy!",
@@ -246,7 +239,15 @@
     },
     {
       "def": "to have a short experience of sth, especially sth that you want more of 浅尝；尝到甜头",
-      "ex": []
+      "ex": [
+        {
+          "s": "She tasted the sweetness of friendship.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "她尝到了友谊的甜蜜。"
+        }
+      ]
     }
   ]
 }

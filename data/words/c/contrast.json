@@ -35,20 +35,6 @@
           "cat": "gaokao",
           "t": "阐明一个观点B. 对比不同方法",
           "year": 2026
-        },
-        {
-          "s": "When comparing and contrasting characters in a narrative, consider their appearance, actions, and motives.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "在比较和对比叙事中的人物时，要考虑他们的外貌、行为和动机。",
-          "year": ""
-        },
-        {
-          "s": "The green grass and bare rock of its landscape contrast dramatically, giving it a wild and natural beauty.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "翠绿的草地和裸露的岩石形成了鲜明的对比，赋予了它原始自然的野性之美。",
-          "year": ""
         }
       ]
     },
@@ -58,7 +44,15 @@
     },
     {
       "def": "differences in colour or in light and dark, used in photographs and paintings to create a special effect （摄影或绘画中的）颜色反差，明暗对比",
-      "ex": []
+      "ex": [
+        {
+          "s": "When comparing and contrasting characters in a narrative, consider their appearance, actions, and motives.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "在比较和对比叙事中的人物时，要考虑他们的外貌、行为和动机。",
+          "year": ""
+        }
+      ]
     },
     {
       "def": "the amount of difference between light and dark in a photograph or the picture on a television screen （照片或电视图像的）明暗对比度，反差",
@@ -71,6 +65,13 @@
     {
       "def": "to show a clear difference when close together or when compared （靠近或作比较时）显出明显的差异，形成对比",
       "ex": [
+        {
+          "s": "The green grass and bare rock of its landscape contrast dramatically, giving it a wild and natural beauty.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "翠绿的草地和裸露的岩石形成了鲜明的对比，赋予了它原始自然的野性之美。",
+          "year": ""
+        },
         {
           "s": "And in contrast to our increasingly networked lives where the information we consume is monitored and tracked, a printed book still offers the chance of a wholly private, “off-line” activity.",
           "src": "2023新课标II卷·阅读理解C",

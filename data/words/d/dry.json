@@ -46,6 +46,12 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "我听说葡萄是在晾房里晾干制成葡萄干的。"
+        },
+        {
+          "s": "Peru is a country on the Pacific coast of South America with three main areas: narrow, dry, flat land running along the coast, the Andes Mountains, and the Amazon rainforest.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "秘鲁是南美洲太平洋沿岸的一个国家，有三个主要区域：沿海狭窄、干燥平坦的土地、安第斯山脉和亚马逊雨林。"
         }
       ]
     },
@@ -55,7 +61,15 @@
     },
     {
       "def": "without the natural oils that makes it soft and healthy 干性的；无水分的",
-      "ex": []
+      "ex": [
+        {
+          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "麦金太尔说，自20世纪30年代以来，导致该州水压力上升的最大因素是气温上升——气温上升导致树木向空气中散失更多水分——以及融雪提前——融雪提前减少了旱季树木可用的供水量。"
+        }
+      ]
     },
     {
       "def": "that does not produce any phlegm (= the thick liquid that forms in the nose and throat) 干咳的",
@@ -64,33 +78,6 @@
     {
       "def": "eaten on its own without any butter, jam, etc. 无黄油（或果酱等）的",
       "ex": [
-        {
-          "s": "C． Food materials have to be dry．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．3D食品打印：美味的新技术"
-        },
-        {
-          "s": "Peru is a country on the Pacific coast of South America with three main areas: narrow, dry, flat land running along the coast, the Andes Mountains, and the Amazon rainforest.",
-          "src": "人教B1 U2",
-          "cat": "renjiao",
-          "t": "秘鲁是南美洲太平洋沿岸的一个国家，有三个主要区域：沿海狭窄、干燥平坦的土地、安第斯山脉和亚马逊雨林。"
-        },
-        {
-          "s": "But they usually have some elements in common: rather than a list of dry facts, stories have plots and they introduce characters.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但它们通常有一些共同要素：故事不是干巴巴的事实罗列，而是有情节，并且会介绍人物。"
-        },
-        {
-          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "麦金太尔说，自20世纪30年代以来，导致该州水压力上升的最大因素是气温上升——气温上升导致树木向空气中散失更多水分——以及融雪提前——融雪提前减少了旱季树木可用的供水量。"
-        },
         {
           "s": "Growing up, my family and our neighbors never used clotheslines to dry clothing, denying me the chance ____62____ (discover) one of the great wonders of sunshine — the sweet “sunshine scent” after sunning clothes for an entire day.",
           "src": "2025新高考II卷·完形填空",
@@ -111,12 +98,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "这是真正的雨——你的伞或许能在阵雨中护你，但若是狂风暴雨就保不住你不被淋湿了。"
-        },
-        {
-          "s": "Especially amazing is the Incas’ dry stone method of building.",
-          "src": "人教B1 U2",
-          "cat": "renjiao",
-          "t": "尤其令人惊叹的是印加人的干砌石建筑法。"
         },
         {
           "s": "Instead of walking a few blocks to pick up a child or the dry cleaning, they send the self-driving minibus.",
@@ -143,7 +124,15 @@
     },
     {
       "def": "not sweet 无甜味的；干的",
-      "ex": []
+      "ex": [
+        {
+          "s": "C． Food materials have to be dry．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "A．3D食品打印：美味的新技术"
+        }
+      ]
     },
     {
       "def": "very clever and expressed in a quiet way that is not obvious; often using irony 机敏的；不形于色的；不露声色的",
@@ -155,7 +144,15 @@
     },
     {
       "def": "not interesting 干巴巴的；枯燥乏味的",
-      "ex": []
+      "ex": [
+        {
+          "s": "But they usually have some elements in common: rather than a list of dry facts, stories have plots and they introduce characters.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "但它们通常有一些共同要素：故事不是干巴巴的事实罗列，而是有情节，并且会介绍人物。"
+        }
+      ]
     },
     {
       "def": "without alcohol; where it is illegal to buy, sell or drink alcohol 无酒的；禁酒的；戒酒的",
@@ -163,7 +160,14 @@
     },
     {
       "def": "thirsty; that makes you thirsty 口渴的；令人口渴的",
-      "ex": []
+      "ex": [
+        {
+          "s": "Especially amazing is the Incas’ dry stone method of building.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "尤其令人惊叹的是印加人的干砌石建筑法。"
+        }
+      ]
     },
     {
       "def": "to become completely dry 河流、湖泊等",

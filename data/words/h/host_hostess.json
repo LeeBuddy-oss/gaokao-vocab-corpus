@@ -61,12 +61,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "我按约定时间到达参加晚餐，却发现没有其他客人____13__（arrive），女主人还穿着睡衣。"
-        },
-        {
-          "s": "It is not advisable to be early, as the host may not be ready.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "早到是不可取的，因为主人可能还没有准备好。"
         }
       ]
     },
@@ -91,7 +85,42 @@
     },
     {
       "def": "a person who introduces a television or radio show, and talks to guests （电视或广播的）节目主持人",
-      "ex": []
+      "ex": [
+        {
+          "s": "C He’s hosting a program.",
+          "src": "2023全国甲卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "C 他正在主持一个节目。"
+        },
+        {
+          "s": "He’s hosting a program.",
+          "src": "2023全国乙卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他正在主持一个节目。"
+        },
+        {
+          "s": "While running every aspect of our own news station, kids and their fellow campers will create and host a broadcast airing each night at dinner for the entire camp.",
+          "src": "2020全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在运营我们自己的新闻站的方方面面的同时，孩子们和营友将制作并主持每晚晚餐时播出的节目，面向整个营地。"
+        },
+        {
+          "s": "Oliver is a host of a TV programme on food.",
+          "src": "2020北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "奥利弗是一个美食电视节目的主持人。"
+        },
+        {
+          "s": "At one point, the host asked people in the audience to stand up if Nicholas Winton had saved their lives.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "t": "有一次，主持人让观众中那些被尼古拉斯·温顿救过命的人站起来。"
+        }
+      ]
     },
     {
       "def": "an animal or a plant on which another animal or plant lives and feeds （寄生动植物的）寄主，宿主",
@@ -120,20 +149,6 @@
       "def": "to organize an event to which others are invited and make all the arrangements for them 主办，主持（活动）",
       "ex": [
         {
-          "s": "C He’s hosting a program.",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "C 他正在主持一个节目。"
-        },
-        {
-          "s": "He’s hosting a program.",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他正在主持一个节目。"
-        },
-        {
           "s": "Hosting a workshop.",
           "src": "2022新高考I卷",
           "cat": "gaokao",
@@ -141,31 +156,11 @@
           "t": "主持一个工作坊。"
         },
         {
-          "s": "While running every aspect of our own news station, kids and their fellow campers will create and host a broadcast airing each night at dinner for the entire camp.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在运营我们自己的新闻站的方方面面的同时，孩子们和营友将制作并主持每晚晚餐时播出的节目，面向整个营地。"
-        },
-        {
           "s": "Hosting a ceremony.",
           "src": "2020全国I卷",
           "cat": "gaokao",
           "year": 2020,
           "t": "在主持一场典礼。"
-        },
-        {
-          "s": "Oliver is a host of a TV programme on food.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "奥利弗是一个美食电视节目的主持人。"
-        },
-        {
-          "s": "At one point, the host asked people in the audience to stand up if Nicholas Winton had saved their lives.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "有一次，主持人让观众中那些被尼古拉斯·温顿救过命的人站起来。"
         },
         {
           "s": "All these stadiums are still functional, still open and still hosting the biggest events in world sport.",
@@ -205,6 +200,12 @@
     {
       "def": "to organize a party that you have invited guests to 作为主人组织（聚会）；做东",
       "ex": [
+        {
+          "s": "It is not advisable to be early, as the host may not be ready.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "早到是不可取的，因为主人可能还没有准备好。"
+        },
         {
           "s": "My wife and I wanted to share our new home with family and friends by hosting a small gathering in the early summer.",
           "src": "2025新高考I卷·读后续写",

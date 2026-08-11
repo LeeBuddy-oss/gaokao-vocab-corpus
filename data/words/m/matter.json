@@ -37,13 +37,6 @@
           "t": "TransForm允许您通过主题演讲,实践讲习班,以及场外体验,专注于您选择的轨道."
         },
         {
-          "s": "Writing is a matter of personal preferences.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "写作是个人偏好的事。"
-        },
-        {
           "s": "A case in point is that some large, age-old lakes shrank dramatically in what appears to have been a matter of months.",
           "src": "2024天津3月卷·Passage 4",
           "cat": "gaokao",
@@ -279,12 +272,6 @@
           "t": "无论我们的爱好是什么，在互联网的帮助下，我们可以找到其他喜欢同样事情的人。"
         },
         {
-          "s": "Well, we agreed that night that we would meet here again exactly twenty years from that date and time, no matter what our conditions might be or from what distance we might have to come.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "好吧，那天晚上我们同意，无论我们的条件如何，或者我们可能要走多远，我们都会在那个日期和时间整整二十年后再次在这里见面。"
-        },
-        {
           "s": "Nature seems to unfold to people who watch and wait． Next time you take a walk， no matter where it is， take in all the sights， sounds and sensations． Wander in this frame of mind and you will open a new dimension to your life．",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
@@ -330,13 +317,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "了解一些小贴士将有助于确保你与朋友或家人享用一顿愉快的餐食——无论你在世界的哪个角落。"
-        },
-        {
-          "s": "One day they’ll   47   and discover that everything they’ve always known about windows is a   48  .I wonder if   49   should always tell the truth no matter the   50  .",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有一天他们会___47___，发现他们一直以来对窗户的认知是个___48___。我想知道，不管___50___如何，我们是否都应该说真话。"
         }
       ]
     },
@@ -354,6 +334,13 @@
     {
       "def": "a situation that involves sth or depends on sth 关乎 … 的事情",
       "ex": [
+        {
+          "s": "Writing is a matter of personal preferences.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "写作是个人偏好的事。"
+        },
         {
           "s": "Speak directly to what matters to them.",
           "src": "2025浙江1月卷·七选五",
@@ -426,6 +413,13 @@
       "def": "事实上；其实；说真的",
       "ex": [
         {
+          "s": "One day they’ll   47   and discover that everything they’ve always known about windows is a   48  .I wonder if   49   should always tell the truth no matter the   50  .",
+          "src": "2020全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "有一天他们会___47___，发现他们一直以来对窗户的认知是个___48___。我想知道，不管___50___如何，我们是否都应该说真话。"
+        },
+        {
           "s": "I really did not know whether I should continue correcting him or simply drop the matter.",
           "src": "2025新高考II卷·读后续写",
           "cat": "gaokao",
@@ -436,7 +430,14 @@
     },
     {
       "def": "（表示不同意）事实上，其实",
-      "ex": []
+      "ex": [
+        {
+          "s": "Well, we agreed that night that we would meet here again exactly twenty years from that date and time, no matter what our conditions might be or from what distance we might have to come.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "好吧，那天晚上我们同意，无论我们的条件如何，或者我们可能要走多远，我们都会在那个日期和时间整整二十年后再次在这里见面。"
+        }
+      ]
     }
   ]
 }

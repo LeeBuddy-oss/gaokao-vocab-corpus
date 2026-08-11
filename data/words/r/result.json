@@ -167,7 +167,7 @@
           "src": "2021全国甲卷·短文改错",
           "cat": "gaokao",
           "year": 2021,
-          "t": "有些会向父母或老师寻求帮助。"
+          "t": "以下是结果。"
         },
         {
           "s": "One of the results produced by the trial project is                 .",
@@ -279,14 +279,7 @@
           "src": "2017浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "三年前，明尼苏达州埃迪纳的学校将上课时间从早上7:25改为8:30。"
-        },
-        {
-          "s": "As a result it’s likely to see a rise in the size of its working-age population and to witness strong economic growth over the longer term.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "因此，它的劳动年龄人口规模很可能上升，并在更长期内实现强劲的经济增长。"
+          "t": "学生、家长和老师对结果感到满意。"
         },
         {
           "s": "33.People______better access to health care than they used to, and they’re living longer as a result.",
@@ -340,13 +333,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "这项由哥伦比亚气候学院及其他机构的科学家开展的研究发现，如果该市在新种植中沿用过去的树种模式，未来几十年曼哈顿的异戊二烯产量将上升约140%，由此导致的夏季臭氧水平最多将上升30%。"
-        },
-        {
-          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
         },
         {
           "s": "How did the author feel about the result of the art exam?",
@@ -439,7 +425,15 @@
     },
     {
       "def": "a victory or a success, especially in a game of football (soccer) （尤指足球比赛的）胜利，胜局",
-      "ex": []
+      "ex": [
+        {
+          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
+          "src": "2019北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
+        }
+      ]
     },
     {
       "def": "the mark/grade you get in an exam or in a number of exams 得分；成绩",
@@ -594,6 +588,13 @@
       "def": "things that are achieved successfully 成功实现的事；成果；成效",
       "ex": [
         {
+          "s": "As a result it’s likely to see a rise in the size of its working-age population and to witness strong economic growth over the longer term.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "因此，它的劳动年龄人口规模很可能上升，并在更长期内实现强劲的经济增长。"
+        },
+        {
           "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
           "src": "2024新高考I卷·阅读理解C",
           "cat": "gaokao",
@@ -612,7 +613,7 @@
           "src": "2020全国I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "但这项运动的奇特形式确实会给脚踝和髋部带来相当大的压力，所以有过此类伤病史的人在选择这项运动时应谨慎。"
+          "t": "她说，因此，一些与跑步相关的损伤，如跑步膝，在竞走者中并不常见。"
         },
         {
           "s": "Success results in overconfidence",

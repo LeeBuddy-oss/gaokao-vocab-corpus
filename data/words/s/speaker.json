@@ -16,13 +16,6 @@
           "t": "作为演讲者,你已经知道自己会说什么。"
         },
         {
-          "s": "What will the speakers do today?",
-          "src": "2024卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话人今天将做什么？"
-        },
-        {
           "s": "Why does the speaker give the talk?",
           "src": "2023卷",
           "cat": "gaokao",
@@ -177,13 +170,6 @@
           "t": "14.斯特拉住在哪里？"
         },
         {
-          "s": "14.How does the speaker get to her office today?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "14.说话人今天怎么去办公室？"
-        },
-        {
           "s": "16    Do you want to be a good public speaker?",
           "src": "2020全国新高考I卷·七选五",
           "cat": "gaokao",
@@ -242,12 +228,33 @@
           "src": "外研社B3 U2",
           "cat": "waiyan",
           "t": "他是一个出色的演讲者，我从未见过他紧张。"
+        },
+        {
+          "s": "What does the speaker's mother want her to be?",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "演讲者的母亲希望她成为什么样的人？"
         }
       ]
     },
     {
       "def": "a person who is or was speaking 说话者",
       "ex": [
+        {
+          "s": "What will the speakers do today?",
+          "src": "2024卷",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "说话人今天将做什么？"
+        },
+        {
+          "s": "14.How does the speaker get to her office today?",
+          "src": "2017北京卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "14.说话人今天怎么去办公室？"
+        },
         {
           "s": "What will the speakers do next?",
           "src": "2023浙江卷",
@@ -496,7 +503,7 @@
           "src": "2021新高考II卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "戈麦斯什么时候在电视上看足球比赛？"
+          "t": "说话者打算做什么？"
         },
         {
           "s": "What are the speakers talking about?",
@@ -559,7 +566,7 @@
           "src": "2021浙江卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "戈麦斯什么时候在电视上看足球比赛？"
+          "t": "说话者打算做什么？"
         },
         {
           "s": "What are the speakers talking about?",
@@ -902,13 +909,6 @@
     {
       "def": "a person who speaks a particular language 讲（某种语言）的人",
       "ex": [
-        {
-          "s": "What does the speaker's mother want her to be?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者的母亲希望她成为什么样的人？"
-        },
         {
           "s": "For native speakers of English, some Chinese words are rather difficult to pronounce.",
           "src": "2025新高考II卷·读后续写",
