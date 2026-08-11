@@ -51,20 +51,6 @@
           "t": "它们都没有选择改变它们的时刻。"
         },
         {
-          "s": "As the author explains, this is neither a travel nor a history book, or even a piece of reportage.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "正如作者所解释的这既不是一本游记也不是一本历史书甚至不是一篇报道。"
-        },
-        {
-          "s": "Without motivation you can neither set a goal nor reach it",
-          "src": "2019全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "没有动力，你既不能设定目标也不能达成目标"
-        },
-        {
           "s": "Plastic, Paper or Neither",
           "src": "2018浙江6月卷·阅读理解B",
           "cat": "gaokao",
@@ -90,12 +76,6 @@
           "t": "你，你是阳光的一缕，露珠的一滴，一声鸟鸣，而我却是某种可怕的东西，非人非兽。"
         },
         {
-          "s": "It is suddenly clear that when the clock masters say that “these antiques have lives”, it is neither an exaggeration nor a metaphor.",
-          "src": "外研社B6 U2",
-          "cat": "waiyan",
-          "t": "突然变得很清晰，当钟表大师们说＂这些古物是有生命的＂，这既不是夸张也不是比喻。"
-        },
-        {
           "s": "Neither is it almost seen, that very beautiful persons are otherwise of great virtue; as if nature were rather busy not to err, than in labour to produce excellency.",
           "src": "外研社B6 U6",
           "cat": "waiyan",
@@ -105,7 +85,28 @@
     },
     {
       "def": "（否定的陈述适用于两方面）既不 … 也不 …",
-      "ex": []
+      "ex": [
+        {
+          "s": "As the author explains, this is neither a travel nor a history book, or even a piece of reportage.",
+          "src": "2020全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "正如作者所解释的这既不是一本游记也不是一本历史书甚至不是一篇报道。"
+        },
+        {
+          "s": "Without motivation you can neither set a goal nor reach it",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "没有动力，你既不能设定目标也不能达成目标"
+        },
+        {
+          "s": "It is suddenly clear that when the clock masters say that “these antiques have lives”, it is neither an exaggeration nor a metaphor.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "突然变得很清晰，当钟表大师们说＂这些古物是有生命的＂，这既不是夸张也不是比喻。"
+        }
+      ]
     }
   ]
 }

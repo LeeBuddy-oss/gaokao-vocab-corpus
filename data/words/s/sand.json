@@ -1,62 +1,63 @@
 {
- "meta": {
-  "ph": "sænd; NAmE sænd",
-  "pos": "noun",
-  "stars": ""
- },
- "defs": [
-  {
-   "def": "a substance that consists of very small fine grains of rock. Sand is found on beaches, in deserts, etc. 沙",
-   "ex": [
-    {
-     "s": "Though Smith did get her hands on the best sand, doing things the old-fashioned way isn't just about playing around with French mud.",
-     "src": "2020北京卷·阅读理解C",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "虽然史密斯确实得到了她的手 最好的沙子, 做一些事情 旧式的方式 不只是玩弄法国泥。"
-    },
-    {
-     "s": "Many people think that positive thinking is mostly about keeping one's head in the sand and ignoring daily problems, trying to look optimistic.",
-     "src": "2020北京卷·七选五",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "许多人认为,积极的思维主要是把一个人的头放在沙子上,忽略日常问题,试图看起来乐观."
-    },
-    {
-     "s": "It sounds like I will be sailing on a(n) 4_____ of sand!",
-     "src": "外研社B1 U6",
-     "cat": "waiyan",
-     "t": "听起来我好像在沙子上航行!"
-    },
-    {
-     "s": "We were walking on fine, even sand, not wrinkled, as on a flat shore, which keeps the impression of the waves.",
-     "src": "外研社B3 U5",
-     "cat": "waiyan",
-     "t": "在平坦的海岸上,我们行走着, 甚至是沙子,而不是皱纹, 这让海浪留下了深刻的印象。"
-    },
-    {
-     "s": "How much time do you spend on “rocks”, “pebbles”, “sand” and “tea”?",
-     "src": "外研社B7 U2",
-     "cat": "waiyan",
-     "t": "你在“岩石”、“卵石”、“沙子”和“tea”上花多少时间?"
-    },
-    {
-     "s": "Sand now filled the wells instead of water.",
-     "src": "人教B1 U4",
-     "cat": "renjiao",
-     "t": "沙子现在填满了井而不是水。"
-    },
-    {
-     "s": "How many seas must a whi(te) dove sail Before she sleeps in the sand?",
-     "src": "人教B2 U5",
-     "cat": "renjiao",
-     "t": "她睡在沙滩上之前 有多少海要航行?"
-    }
-   ]
+  "meta": {
+    "ph": "sænd; NAmE sænd",
+    "pos": "noun",
+    "stars": ""
   },
-  {
-   "def": "a large area of sand on a beach 沙滩",
-   "ex": []
-  }
- ]
+  "defs": [
+    {
+      "def": "a substance that consists of very small fine grains of rock. Sand is found on beaches, in deserts, etc. 沙",
+      "ex": [
+        {
+          "s": "Though Smith did get her hands on the best sand, doing things the old-fashioned way isn't just about playing around with French mud.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "虽然史密斯确实得到了她的手 最好的沙子, 做一些事情 旧式的方式 不只是玩弄法国泥。"
+        },
+        {
+          "s": "Many people think that positive thinking is mostly about keeping one's head in the sand and ignoring daily problems, trying to look optimistic.",
+          "src": "2020北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "许多人认为,积极的思维主要是把一个人的头放在沙子上,忽略日常问题,试图看起来乐观."
+        },
+        {
+          "s": "It sounds like I will be sailing on a(n) 4_____ of sand!",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "听起来我好像在沙子上航行!"
+        },
+        {
+          "s": "We were walking on fine, even sand, not wrinkled, as on a flat shore, which keeps the impression of the waves.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "在平坦的海岸上,我们行走着, 甚至是沙子,而不是皱纹, 这让海浪留下了深刻的印象。"
+        },
+        {
+          "s": "How much time do you spend on “rocks”, “pebbles”, “sand” and “tea”?",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "你在“岩石”、“卵石”、“沙子”和“tea”上花多少时间?"
+        },
+        {
+          "s": "Sand now filled the wells instead of water.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "t": "沙子现在填满了井而不是水。"
+        }
+      ]
+    },
+    {
+      "def": "a large area of sand on a beach 沙滩",
+      "ex": [
+        {
+          "s": "How many seas must a whi(te) dove sail Before she sleeps in the sand?",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "她睡在沙滩上之前 有多少海要航行?"
+        }
+      ]
+    }
+  ]
 }

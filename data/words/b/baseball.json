@@ -44,13 +44,6 @@
           "year": 2019
         },
         {
-          "s": "This task interdependence distinguishes baseball from football and basketball.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "t": "这种任务的相互依赖，把棒球与足球、篮球区分开来。",
-          "year": 2019
-        },
-        {
           "s": "Hot peanuts are a hit with hungry baseball fans, but the hot dog is the real winner!",
           "src": "人教B1 U5",
           "cat": "renjiao",
@@ -89,7 +82,15 @@
     },
     {
       "def": "the ball used in this game 棒球",
-      "ex": []
+      "ex": [
+        {
+          "s": "This task interdependence distinguishes baseball from football and basketball.",
+          "src": "2019北京卷·七选五",
+          "cat": "gaokao",
+          "t": "这种任务的相互依赖，把棒球与足球、篮球区分开来。",
+          "year": 2019
+        }
+      ]
     }
   ]
 }

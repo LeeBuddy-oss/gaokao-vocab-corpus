@@ -93,13 +93,6 @@
           "t": "还是你只是想在漫长的一天后找个地方放松一下？"
         },
         {
-          "s": "Exercise energizes you, so it is more difficult to relax and have a peaceful sleep when you are very excited.",
-          "src": "2018全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "运动让你精神振奋，所以当你非常兴奋时，更难放松并安睡。"
-        },
-        {
           "s": "The relaxing colors of the wall.",
           "src": "2018上海卷",
           "cat": "gaokao",
@@ -135,11 +128,22 @@
           "src": "外研社B2 U3",
           "cat": "waiyan",
           "t": "它涉及做非常缓慢的身体练习来放松你的心灵和平静你的身体。"
+        },
+        {
+          "s": "I have the same 24 hours in a day as you do, but I have made specific choice that allow me to make the most of every day and still feel happy and relaxed. ____11____",
+          "src": "2022浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我和你一样一天只有24小时，但我做出了特定的选择，让我能够充分利用每一天，同时仍然感到快乐和放松。____11____"
         }
       ]
     },
     {
       "def": "to become or make sb become calmer and less worried 宽慰；（使）冷静，放心，镇定",
+      "ex": []
+    },
+    {
+      "def": "to become or make sth become less tight or stiff （使）放松，松懈；松开",
       "ex": [
         {
           "s": "Yet， now that I'm growing and the world I once knew as being so simple is becoming more complex， I find myself needing a way to escape． By opening a novel， I can leave behind my burdens and enter into a wonderful and mysterious world where I am now a new character． In these worlds I can become anyone． I don't have to write down what happened or what technique the author was using when he or she wrote this． I just read to relax．",
@@ -151,24 +155,20 @@
       ]
     },
     {
-      "def": "to become or make sth become less tight or stiff （使）放松，松懈；松开",
-      "ex": []
-    },
-    {
       "def": "to allow rules, laws, etc. to become less strict 放宽（限制等）",
-      "ex": [
-        {
-          "s": "I have the same 24 hours in a day as you do, but I have made specific choice that allow me to make the most of every day and still feel happy and relaxed. ____11____",
-          "src": "2022浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我和你一样一天只有24小时，但我做出了特定的选择，让我能够充分利用每一天，同时仍然感到快乐和放松。____11____"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to allow your attention or effort to become weaker 放松精神（或思想）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Exercise energizes you, so it is more difficult to relax and have a peaceful sleep when you are very excited.",
+          "src": "2018全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "运动让你精神振奋，所以当你非常兴奋时，更难放松并安睡。"
+        }
+      ]
     }
   ]
 }

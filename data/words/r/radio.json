@@ -15,12 +15,6 @@
           "t": "随着年龄增长，我对广播的兴趣也在增长。"
         },
         {
-          "s": "This was how my first real job in radio began.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "我的第一份真正的电台工作就是这样开始的。"
-        },
-        {
           "s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.",
           "src": "2022全国新高考II卷·阅读理解B",
           "cat": "gaokao",
@@ -54,6 +48,13 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "主持广播节目。"
+        },
+        {
+          "s": "I radioed the camp manager for help.",
+          "src": "2020浙江7月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我用无线电联络营地经理求救。"
         }
       ]
     },
@@ -84,13 +85,6 @@
       "def": "the process of sending and receiving messages through the air using electromagnetic waves 无线电传送；无线电通信",
       "ex": [
         {
-          "s": "I radioed the camp manager for help.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我用无线电联络营地经理求救。"
-        },
-        {
           "s": "Because the moon’s body blocks direct radio communication with a probe, China first had to put a satellite in orbit above the moon in a spot   63   it could send signals to the spacecraft and to Earth.",
           "src": "2020全国I卷·完形填空",
           "cat": "gaokao",
@@ -101,7 +95,14 @@
     },
     {
       "def": "a piece of equipment, for example on ships or planes, for sending and receiving radio signals 无线电收发报机",
-      "ex": []
+      "ex": [
+        {
+          "s": "This was how my first real job in radio began.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我的第一份真正的电台工作就是这样开始的。"
+        }
+      ]
     }
   ]
 }

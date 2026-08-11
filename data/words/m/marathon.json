@@ -1,1 +1,119 @@
-{"meta": {"ph": "ˈmærəθən; NAmE ˈmærəθɑːn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a long running race of about 42 kilometres or 26 miles 马拉松赛跑（距离约 42 公里，合 26 英里）", "ex": [{"s": "Not every child is born with the willpower of a marathon runner.", "src": "2026新高考II卷·七选五", "cat": "gaokao", "year": 2026, "t": "不是每个孩子天生都有马拉松运动员那样的意志力。"}, {"s": "When I was a teenager, a neighborhood friend ____41____ a marathon race.", "src": "2024新高考I卷·完形填空", "cat": "gaokao", "year": 2024, "t": "我十几岁的时候，一位邻居朋友____了一场马拉松比赛。"}, {"s": "First, a girl I met one day told me she was ____43____ for a “super,” referring to a 52.4-mile double marathon.", "src": "2024新高考I卷·完形填空", "cat": "gaokao", "year": 2024, "t": "首先，有一天我遇到的一个女孩告诉我，她正在为一场“超级马拉松”____——指52.4英里的双倍马拉松。"}, {"s": "Nina has run marathons in 32 countries.", "src": "2023北京卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "尼娜已经在32个国家跑过马拉松。"}, {"s": "The longest track and field event at the Summer Olympics is the 50-kilometer race walk, which is about five miles longer than the marathon.", "src": "2020全国I卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "夏季奥运会上最长的田径项目是50公里竞走，比马拉松长大约五英里。"}, {"s": "They are qualified for the marathon.", "src": "2020全国I卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "他们有资格参加马拉松。"}, {"s": "A month before my first marathon, one of my ankles was injured and this meant not running for two weeks, leaving me only two weeks to train.", "src": "2018北京卷·阅读理解A", "cat": "gaokao", "year": 2018, "t": "在我第一次马拉松前一个月，我的一只脚踝受伤了，这意味着两周不能跑步，只剩两周时间训练。"}, {"s": "The night before my marathon, I dreamt that I couldn’t even find the finish line.", "src": "2018北京卷·阅读理解A", "cat": "gaokao", "year": 2018, "t": "马拉松前的那天晚上，我梦见自己甚至找不到终点线。"}, {"s": "A month before the marathon, the author ____________.", "src": "2018北京卷·阅读理解A", "cat": "gaokao", "year": 2018, "t": "马拉松前一个月，作者____________。"}, {"s": "How was the author’s first marathon?", "src": "2018北京卷·阅读理解A", "cat": "gaokao", "year": 2018, "t": "作者的第一次马拉松怎么样？"}]}, {"def": "an activity or a piece of work that lasts a long time and requires a lot of effort and patience 马拉松式的活动（或工作）", "ex": [{"s": "Sunday, 30 October Olympic Park, Beijing Full Marathon and Half Marathon Tickets on sale now SOCCER GAME 3:00 p.m.", "src": "人教B1 U3", "cat": "renjiao", "t": "10月30日星期天，北京奥林匹克公园，全程和半程马拉松，门票现正发售。足球赛：下午3点。"}, {"s": "October 22 Wuhan vs Guangzhou Wuhan Stadium Beijing International Marathon Day B O X I N G BADMINTON MATCH No.", "src": "人教B1 U3", "cat": "renjiao", "t": "10月22日，武汉对广州，武汉体育场。北京国际马拉松日。拳击。羽毛球比赛。"}, {"s": "Why not run an exciting marathon?", "src": "人教B1 U3", "cat": "renjiao", "t": "为什么不跑一场激动人心的马拉松呢？"}, {"s": "Keep trying.” Using Words and Expressions SPORTS AND FITNESS SPORTS AND FITNESS skiing marathon track boxing badminton soccer 4 Write down as many phrases as you can using make or out.", "src": "人教B1 U5", "cat": "renjiao", "t": "继续努力。使用词语和表达：体育与健身：滑雪、马拉松、田径、拳击、羽毛球、足球。用make或out写下尽可能多的短语。"}, {"s": "It’s fresher and healthier, especially since I lead an active life.” Mei Lin often goes jogging in the evening and plays tennis at the weekend, in addition to swimming and training for a marathon in Xiamen in the autumn.", "src": "人教选必2 U5", "cat": "renjiao", "t": "它更新鲜、更健康，尤其是我保持着活跃的生活方式。美琳除了在秋天参加厦门的游泳和马拉松训练外，还经常在晚上慢跑，周末打网球。"}]}]}
+{
+  "meta": {
+    "ph": "ˈmærəθən; NAmE ˈmærəθɑːn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a long running race of about 42 kilometres or 26 miles 马拉松赛跑（距离约 42 公里，合 26 英里）",
+      "ex": [
+        {
+          "s": "Not every child is born with the willpower of a marathon runner.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "不是每个孩子天生都有马拉松运动员那样的意志力。"
+        },
+        {
+          "s": "When I was a teenager, a neighborhood friend ____41____ a marathon race.",
+          "src": "2024新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我十几岁的时候，一位邻居朋友____了一场马拉松比赛。"
+        },
+        {
+          "s": "First, a girl I met one day told me she was ____43____ for a “super,” referring to a 52.4-mile double marathon.",
+          "src": "2024新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "首先，有一天我遇到的一个女孩告诉我，她正在为一场“超级马拉松”____——指52.4英里的双倍马拉松。"
+        },
+        {
+          "s": "Nina has run marathons in 32 countries.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "尼娜已经在32个国家跑过马拉松。"
+        },
+        {
+          "s": "The longest track and field event at the Summer Olympics is the 50-kilometer race walk, which is about five miles longer than the marathon.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "夏季奥运会上最长的田径项目是50公里竞走，比马拉松长大约五英里。"
+        },
+        {
+          "s": "They are qualified for the marathon.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们有资格参加马拉松。"
+        },
+        {
+          "s": "A month before my first marathon, one of my ankles was injured and this meant not running for two weeks, leaving me only two weeks to train.",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在我第一次马拉松前一个月，我的一只脚踝受伤了，这意味着两周不能跑步，只剩两周时间训练。"
+        },
+        {
+          "s": "A month before the marathon, the author ____________.",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "马拉松前一个月，作者____________。"
+        },
+        {
+          "s": "How was the author’s first marathon?",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "作者的第一次马拉松怎么样？"
+        },
+        {
+          "s": "Sunday, 30 October Olympic Park, Beijing Full Marathon and Half Marathon Tickets on sale now SOCCER GAME 3:00 p.m.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "10月30日星期天，北京奥林匹克公园，全程和半程马拉松，门票现正发售。足球赛：下午3点。"
+        },
+        {
+          "s": "October 22 Wuhan vs Guangzhou Wuhan Stadium Beijing International Marathon Day B O X I N G BADMINTON MATCH No.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "10月22日，武汉对广州，武汉体育场。北京国际马拉松日。拳击。羽毛球比赛。"
+        },
+        {
+          "s": "Why not run an exciting marathon?",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "为什么不跑一场激动人心的马拉松呢？"
+        },
+        {
+          "s": "Keep trying.” Using Words and Expressions SPORTS AND FITNESS SPORTS AND FITNESS skiing marathon track boxing badminton soccer 4 Write down as many phrases as you can using make or out.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "继续努力。使用词语和表达：体育与健身：滑雪、马拉松、田径、拳击、羽毛球、足球。用make或out写下尽可能多的短语。"
+        },
+        {
+          "s": "It’s fresher and healthier, especially since I lead an active life.” Mei Lin often goes jogging in the evening and plays tennis at the weekend, in addition to swimming and training for a marathon in Xiamen in the autumn.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "它更新鲜、更健康，尤其是我保持着活跃的生活方式。美琳除了在秋天参加厦门的游泳和马拉松训练外，还经常在晚上慢跑，周末打网球。"
+        }
+      ]
+    },
+    {
+      "def": "an activity or a piece of work that lasts a long time and requires a lot of effort and patience 马拉松式的活动（或工作）",
+      "ex": [
+        {
+          "s": "The night before my marathon, I dreamt that I couldn’t even find the finish line.",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "马拉松前的那天晚上，我梦见自己甚至找不到终点线。"
+        }
+      ]
+    }
+  ]
+}

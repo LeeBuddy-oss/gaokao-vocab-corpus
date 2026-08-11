@@ -51,13 +51,6 @@
           "year": 2019
         },
         {
-          "s": "This task interdependence distinguishes baseball from football and basketball.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "t": "这种任务的相互依赖性将棒球与足球和篮球区分开来。",
-          "year": 2019
-        },
-        {
           "s": "I am no longer a child… (picture e) Stuart, did you leave your basketball in my office today?",
           "src": "外研社B1 U3",
           "cat": "waiyan",
@@ -86,13 +79,6 @@
           "year": ""
         },
         {
-          "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "这与国家篮球协会（NBA）明亮的灯光和闪亮的球场相去甚远。",
-          "year": ""
-        },
-        {
           "s": "If a basketball star is. for example，trying to gain a high personal point total，he may take a shot himself when it would be better to pass the ball to a teammate，affecting the team's performance.",
           "src": "2019北京卷·七选五",
           "cat": "gaokao",
@@ -103,7 +89,22 @@
     },
     {
       "def": "the ball used in this game 篮球",
-      "ex": []
+      "ex": [
+        {
+          "s": "This task interdependence distinguishes baseball from football and basketball.",
+          "src": "2019北京卷·七选五",
+          "cat": "gaokao",
+          "t": "这种任务的相互依赖性将棒球与足球和篮球区分开来。",
+          "year": 2019
+        },
+        {
+          "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "这与国家篮球协会（NBA）明亮的灯光和闪亮的球场相去甚远。",
+          "year": ""
+        }
+      ]
     }
   ]
 }

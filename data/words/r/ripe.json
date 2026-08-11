@@ -23,25 +23,11 @@
           "t": "我和我丈夫一致认为这是我们吃过的最好的水果。"
         },
         {
-          "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你可以成为那个引导对话走向有趣话题的人，让其他人有机会添加幽默元素。"
-        },
-        {
           "s": "But in some waters，such as those of the Arctic，a warming will make conditions riper for phytoplankton，and these areas will turn greener.",
           "src": "2019北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
           "t": "斯蒂法妮·杜特凯维奇是麻省理工学院全球变化科学中心的科学家，她建立了一个预测整个世纪海洋变化的气候模型。"
-        },
-        {
-          "s": "For this purpose, select ripe bananas for freezing as they are much sweeter.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为此目的，请选择成熟的香蕉进行冷冻，因为它们更甜。"
         }
       ]
     },
@@ -49,16 +35,17 @@
       "def": "having a flavour that has fully developed 干酪或果酒",
       "ex": [
         {
+          "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
+          "src": "2020江苏卷·Humor",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你可以成为那个引导对话走向有趣话题的人，让其他人有机会添加幽默元素。"
+        },
+        {
           "s": "In more recent times, Norwegian explorer, Roald Amundsen endured one of the most hostile environments on Earth when he set out into uncharted territory to reach the South Pole – a region of the planet ripe for exploration.",
           "src": "外研社B7 U5",
           "cat": "waiyan",
           "t": "到了更近的时代，挪威探险家罗尔德·阿蒙森在出发前往未知领域到达南极时，经历了地球上最恶劣的环境之一——这个地区是探索的沃土。"
-        },
-        {
-          "s": "He then placed the hot stones in an empty oil drum with kau kau (sweet potato), ripe corn, and greens.",
-          "src": "人教选必4 U4",
-          "cat": "renjiao",
-          "t": "然后他把热石头放进一个空油桶里，里面有kau kau（红薯）、熟的玉米和绿色蔬菜。"
         },
         {
           "s": "This could significantly enhance people's chances of living to a ripe old age.",
@@ -74,7 +61,21 @@
     },
     {
       "def": "ready or suitable for sth to happen 时机成熟的；适宜的",
-      "ex": []
+      "ex": [
+        {
+          "s": "For this purpose, select ripe bananas for freezing as they are much sweeter.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "为此目的，请选择成熟的香蕉进行冷冻，因为它们更甜。"
+        },
+        {
+          "s": "He then placed the hot stones in an empty oil drum with kau kau (sweet potato), ripe corn, and greens.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "然后他把热石头放进一个空油桶里，里面有kau kau（红薯）、熟的玉米和绿色蔬菜。"
+        }
+      ]
     }
   ]
 }

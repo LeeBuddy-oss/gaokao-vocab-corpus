@@ -9,27 +9,6 @@
       "def": "water that falls from the sky in separate drops 雨；雨水",
       "ex": [
         {
-          "s": "We'll be working rain or shine.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "无论晴雨我们都会照常工作。"
-        },
-        {
-          "s": "Neighbors will bring me freshly made cheese and will come to my door to ___27___ me to close the window in my car when rain is coming.",
-          "src": "2024新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "邻居会给我送来新做的奶酪，快下雨时还会上门____（提醒）我关上车窗。"
-        },
-        {
-          "s": "I mean to make an actual phone call — not to shelter from the rain.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我是说真的打电话——不是为了避雨。"
-        },
-        {
           "s": "To shelter from the rain.",
           "src": "2024浙江1月卷·阅读理解B",
           "cat": "gaokao",
@@ -42,6 +21,30 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "然而，新的证据表明，降雨——尤其是秋季降雨的增加——现在正显著导致永久冻土的流失。"
+        },
+        {
+          "s": "But despite the wind and the rain, I still enjoy working outside in the wild.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "但尽管风吹雨打，我仍然享受在野外工作的乐趣。"
+        },
+        {
+          "s": "This forms clouds from which rain falls down onto the mountain terraces once again.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这形成了云，雨水从云中再次降落到山间的梯田上。"
+        }
+      ]
+    },
+    {
+      "def": "the season of heavy continuous rain in tropical countries （热带地区的）雨季",
+      "ex": [
+        {
+          "s": "We'll be working rain or shine.",
+          "src": "2024新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "无论晴雨我们都会照常工作。"
         },
         {
           "s": "Rainforests can generate 75%of their own rain.",
@@ -65,28 +68,10 @@
           "t": "在发现一辆停着的车的前座上有只____18____、车窗摇下后，他在雨中守候了约两小时，等待____19____主人回来。"
         },
         {
-          "s": "When we look out of the window and see rain or snow, we can say “it’s raining” or “it’s snowing”.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "当我们向窗外看去，看到下雨或下雪时，我们可以说\"天在下雨\"或\"天在下雪\"。"
-        },
-        {
-          "s": "But despite the wind and the rain, I still enjoy working outside in the wild.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "但尽管风吹雨打，我仍然享受在野外工作的乐趣。"
-        },
-        {
           "s": "Secondly, although the region has plenty of rain, the mountains are steep and the soil is shallow.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "其次，虽然这个地区雨量充沛，但山势陡峭，土壤浅薄。"
-        },
-        {
-          "s": "This forms clouds from which rain falls down onto the mountain terraces once again.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这形成了云，雨水从云中再次降落到山间的梯田上。"
         },
         {
           "s": "Heavy rainsB.",
@@ -94,19 +79,8 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "大雨 B."
-        },
-        {
-          "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "飞机向有威胁的风暴云体播撒化学物质，使小冰晶在长成危险冰雹之前作为雨降落下来。"
         }
       ]
-    },
-    {
-      "def": "the season of heavy continuous rain in tropical countries （热带地区的）雨季",
-      "ex": []
     },
     {
       "def": "a large number of things falling from the sky at the same time 雨点般降落的东西",
@@ -115,6 +89,19 @@
     {
       "def": "when it rains, water falls from the sky in drops 下雨",
       "ex": [
+        {
+          "s": "Neighbors will bring me freshly made cheese and will come to my door to ___27___ me to close the window in my car when rain is coming.",
+          "src": "2024新高考II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "邻居会给我送来新做的奶酪，快下雨时还会上门____（提醒）我关上车窗。"
+        },
+        {
+          "s": "When we look out of the window and see rain or snow, we can say “it’s raining” or “it’s snowing”.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "当我们向窗外看去，看到下雨或下雪时，我们可以说\"天在下雨\"或\"天在下雪\"。"
+        },
         {
           "s": "It started to rain and everyone went indoors.",
           "src": "2025新高考I卷·读后续写",
@@ -146,7 +133,22 @@
     },
     {
       "def": "to fall or to make sth fall on sb/sth in large quantities （使）大量降落，雨点般落下",
-      "ex": []
+      "ex": [
+        {
+          "s": "I mean to make an actual phone call — not to shelter from the rain.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我是说真的打电话——不是为了避雨。"
+        },
+        {
+          "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "飞机向有威胁的风暴云体播撒化学物质，使小冰晶在长成危险冰雹之前作为雨降落下来。"
+        }
+      ]
     }
   ]
 }

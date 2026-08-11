@@ -30,40 +30,11 @@
           "t": "但当他终于联系上她时，这位女士连珠炮似地问了他很多问题：\"你是谁？哪家古董店？\"然而，当她挂断电话后，她后悔自己处理这次通话的方式。"
         },
         {
-          "s": "When you finish your meal, you 3_____place the knife and fork together on your plate with the handles at the four o'clock position.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "吃完饭后，要把刀叉一起放在盘子上，手柄指向四点钟方向。"
-        },
-        {
           "s": "Some handle this less well than others Recent headlines have seen more and more teens maxing out their parents’ credit cards on games or other online activities.",
           "src": "外研社B5 U2",
           "cat": "waiyan",
           "t": "有些人对此处理得不太好。最近的头条新闻看到越来越多的青少年用父母的信用卡在游戏或其他在线活动上刷爆了限额。"
         },
-        {
-          "s": "He looked thicker and stubbier with his spacesuit on, but he could handle the lunar gravity as no Earth-born human being could.",
-          "src": "外研社B6 U4",
-          "cat": "waiyan",
-          "t": "穿上太空服后他看起来更粗壮了，但他能像没有地球上出生的人一样应对月球重力。"
-        },
-        {
-          "s": "While you’re doing your degree here, most of you must also handle money on your own for the first time.",
-          "src": "外研社B7 U4",
-          "cat": "waiyan",
-          "t": "在你攻读学位期间，你们大多数人也是第一次必须自己管钱。"
-        },
-        {
-          "s": "You will have to pay bills and handle budgets to make ends meet.",
-          "src": "外研社B7 U4",
-          "cat": "waiyan",
-          "t": "你将不得不支付账单和管理预算以维持收支平衡。"
-        }
-      ]
-    },
-    {
-      "def": "to touch, hold or move sth with your hands （用手）触，拿，搬动",
-      "ex": [
         {
           "s": "Consider turning your travel plan over to a travel agent and letting him double-check all the details, make suggestions, and then handle the actual reservations.",
           "src": "2023浙江1月卷·七选五",
@@ -79,39 +50,11 @@
           "t": "他们将如何处理搬家？"
         },
         {
-          "s": "The way you handle chopsticks is important to avoid annoying your companions.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你使用筷子的方式很重要，避免惹恼同伴。"
-        },
-        {
-          "s": "Animals using suction to handle objects are typically found in water.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "使用吸力来抓取物体的动物通常生活在水中。"
-        },
-        {
           "s": "According to the experts, why is history useful for people to handle challenges of life?",
           "src": "2020天津3月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
           "t": "根据专家的观点，为什么历史对人们处理生活挑战有帮助？"
-        },
-        {
-          "s": "Exercising makes you more awake and ready to handle whatever is ahead of you for the day.",
-          "src": "2018全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "锻炼使你更加清醒，准备好应对当天面临的任何事情。"
-        },
-        {
-          "s": "36   , there are several ways to handle things.",
-          "src": "2017全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "36   ，有几种方法可以应对这种情况。"
         },
         {
           "s": "36     ,there are several ways to handle things.Let’s take a look at them now.",
@@ -123,8 +66,40 @@
       ]
     },
     {
+      "def": "to touch, hold or move sth with your hands （用手）触，拿，搬动",
+      "ex": [
+        {
+          "s": "When you finish your meal, you 3_____place the knife and fork together on your plate with the handles at the four o'clock position.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "吃完饭后，要把刀叉一起放在盘子上，手柄指向四点钟方向。"
+        },
+        {
+          "s": "While you’re doing your degree here, most of you must also handle money on your own for the first time.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "在你攻读学位期间，你们大多数人也是第一次必须自己管钱。"
+        },
+        {
+          "s": "The way you handle chopsticks is important to avoid annoying your companions.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "你使用筷子的方式很重要，避免惹恼同伴。"
+        }
+      ]
+    },
+    {
       "def": "to control a vehicle, an animal, a tool, etc. 控制，操纵（车辆、动物、工具等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Animals using suction to handle objects are typically found in water.",
+          "src": "2022天津4月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "使用吸力来抓取物体的动物通常生活在水中。"
+        }
+      ]
     },
     {
       "def": "to be easy/difficult to drive or control （容易/难以）驾驶，操纵",
@@ -136,7 +111,21 @@
     },
     {
       "def": "the part of a door, drawer, window, etc. that you use to open it 把手；拉手",
-      "ex": []
+      "ex": [
+        {
+          "s": "You will have to pay bills and handle budgets to make ends meet.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "你将不得不支付账单和管理预算以维持收支平衡。"
+        },
+        {
+          "s": "Exercising makes you more awake and ready to handle whatever is ahead of you for the day.",
+          "src": "2018全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "锻炼使你更加清醒，准备好应对当天面临的任何事情。"
+        }
+      ]
     },
     {
       "def": "the part of an object, such as a cup, a bag, or a tool that you use to hold it, or carry it 柄；把；提梁；把手",
@@ -144,7 +133,21 @@
     },
     {
       "def": "having the number or type of handle mentioned 构成形容词",
-      "ex": []
+      "ex": [
+        {
+          "s": "He looked thicker and stubbier with his spacesuit on, but he could handle the lunar gravity as no Earth-born human being could.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "穿上太空服后他看起来更粗壮了，但他能像没有地球上出生的人一样应对月球重力。"
+        },
+        {
+          "s": "36   , there are several ways to handle things.",
+          "src": "2017全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "36   ，有几种方法可以应对这种情况。"
+        }
+      ]
     }
   ]
 }

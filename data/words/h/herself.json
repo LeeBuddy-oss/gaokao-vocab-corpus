@@ -44,13 +44,6 @@
           "t": "结果，我研究生生涯的前四年被一系列失败所定义。"
         },
         {
-          "s": "At 28, my grandmother walked herself through the snow to birth her first child.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "28岁时，我的祖母独自踏着雪去生下她的第一个孩子。"
-        },
-        {
           "s": "By furnishing it herself.",
           "src": "2023全国甲卷·阅读理解B",
           "cat": "gaokao",
@@ -86,32 +79,11 @@
           "t": "作者本人。"
         },
         {
-          "s": "She often traveled by herself.",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "她经常独自旅行。"
-        },
-        {
-          "s": "A.She often traveled by herself",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "A.她经常独自旅行。"
-        },
-        {
           "s": "She supported herself through college.",
           "src": "2020全国新高考I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
           "t": "靠打工读完大学。"
-        },
-        {
-          "s": "She ran Jackson’s Carnegie Library absolutely by herself.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她独自一人管理着Jackson的卡内基图书馆。"
         },
         {
           "s": "Why did the author feel strange about herself after listening to the recording? (no more than 10 words)",
@@ -140,13 +112,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "\"仅仅通过阅读相关资料，你是无法理解那种手工技艺的，\"她说。"
-        },
-        {
-          "s": "Marian Bechtel sits at West Palm Beach’s Bar Louie counter by herself, quietly reading her e-book as she waits for her salad.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "玛丽安·贝克特尔独自坐在西棕榈滩Bar Louie餐厅的吧台前，安静地读着电子书，等待她的沙拉。"
         },
         {
           "s": "A．her unique way to locate herself",
@@ -191,6 +156,13 @@
           "src": "外研社B6 U6",
           "cat": "waiyan",
           "t": "面对破坏性趋势，蕾切尔·卡森从不保持沉默，她在美国和更远的地方唤起了意识的春潮。"
+        },
+        {
+          "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她擅长安装置物架和组装家具，自己能做的活从不花钱请别人做。"
         }
       ]
     },
@@ -202,11 +174,39 @@
       "def": "alone; without anyone else （她）独自，单独",
       "ex": [
         {
-          "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
-          "src": "2023全国甲卷·阅读理解B",
+          "s": "At 28, my grandmother walked herself through the snow to birth her first child.",
+          "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "她擅长安装置物架和组装家具，自己能做的活从不花钱请别人做。"
+          "year": 2024,
+          "t": "28岁时，我的祖母独自踏着雪去生下她的第一个孩子。"
+        },
+        {
+          "s": "She often traveled by herself.",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "她经常独自旅行。"
+        },
+        {
+          "s": "A.She often traveled by herself",
+          "src": "2021全国乙卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "A.她经常独自旅行。"
+        },
+        {
+          "s": "She ran Jackson’s Carnegie Library absolutely by herself.",
+          "src": "2020浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "她独自一人管理着Jackson的卡内基图书馆。"
+        },
+        {
+          "s": "Marian Bechtel sits at West Palm Beach’s Bar Louie counter by herself, quietly reading her e-book as she waits for her salad.",
+          "src": "2019全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "玛丽安·贝克特尔独自坐在西棕榈滩Bar Louie餐厅的吧台前，安静地读着电子书，等待她的沙拉。"
         }
       ]
     },

@@ -86,36 +86,12 @@
           "t": "还有一些人认为，超级智能的 AI 永远不会出现。"
         },
         {
-          "s": "help super intelligent machines work better",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "每种动物都会睡觉，但其原因一直模糊不清。"
-        },
-        {
           "s": "What does the author think of the safety problem of super intelligent machines?",
           "src": "2017北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
           "t": "74  睡眠结束后采集的小鼠突触比睡眠前的小18%，表明神经元之间的连接在睡眠期间减弱了。"
-        }
-      ]
-    },
-    {
-      "def": "able to understand and learn things 动物、生物等",
-      "ex": [
-        {
-          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "纽卡斯尔大学的智能交通团队将一辆电动汽车改装成了名为\"Drive LAB\"的移动实验室，目的是了解老年驾驶员面临的挑战并发现关键的压力点在哪里。"
-        }
-      ]
-    },
-    {
-      "def": "able to store information and use it in new situations 计算机、程序等",
-      "ex": [
+        },
         {
           "s": "Why are dolphins so intelligent?",
           "src": "外研社B1 U1",
@@ -129,12 +105,6 @@
           "t": "这部电影以聪明幽默的方式探讨了责任的主题。"
         },
         {
-          "s": "In terms of the environment, it is now possible to create an intelligent walking house.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "就环境而言，现在可以创造智能的移动房屋。"
-        },
-        {
           "s": "These intelligent mammals seem to enjoy our company, and interact with us.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
@@ -145,6 +115,36 @@
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "有证据表明，城市浣熊比它们的野生同类更聪明，因为它们经常需要解决难题，比如如何打开垃圾箱和其他在野外找不到的容器。"
+        }
+      ]
+    },
+    {
+      "def": "able to understand and learn things 动物、生物等",
+      "ex": [
+        {
+          "s": "help super intelligent machines work better",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "每种动物都会睡觉，但其原因一直模糊不清。"
+        },
+        {
+          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "纽卡斯尔大学的智能交通团队将一辆电动汽车改装成了名为\"Drive LAB\"的移动实验室，目的是了解老年驾驶员面临的挑战并发现关键的压力点在哪里。"
+        }
+      ]
+    },
+    {
+      "def": "able to store information and use it in new situations 计算机、程序等",
+      "ex": [
+        {
+          "s": "In terms of the environment, it is now possible to create an intelligent walking house.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "就环境而言，现在可以创造智能的移动房屋。"
         }
       ]
     }

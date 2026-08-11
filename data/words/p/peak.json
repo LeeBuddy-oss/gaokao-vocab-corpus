@@ -21,19 +21,24 @@
           "cat": "gaokao",
           "t": "共有92名女性处于中等健康类别；59名女性处于低健康类别，定义为峰值工作负荷80瓦特或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。",
           "year": 2022
+        },
+        {
+          "s": "The painting of Apsaras reached a peak during the Tang Dynasty; these images are full of life, reflecting the confidence and optimism of people from that time.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "飞天画像在唐代达到了顶峰；这些形象充满生机，反映了那个时代人们的自信和乐观。"
+        },
+        {
+          "s": "Background information The Ancient Maya civilisation reached its peak between 250 AD and 900 AD.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "背景信息 古代玛雅文明在公元250年至公元900年间达到顶峰。"
         }
       ]
     },
     {
       "def": "the pointed top of a mountain; a mountain with a pointed top 山峰；峰峦",
       "ex": [
-        {
-          "s": "The peak of Mount Qomolangma, 8,849 meters above sea level.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "珠穆朗玛峰峰顶，海拔8849米。",
-          "year": 2026
-        },
         {
           "s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.",
           "src": "2017江苏卷·阅读理解D",
@@ -53,22 +58,10 @@
       "def": "any narrow and pointed shape, edge, etc. 尖形；尖端；尖头",
       "ex": [
         {
-          "s": "The painting of Apsaras reached a peak during the Tang Dynasty; these images are full of life, reflecting the confidence and optimism of people from that time.",
-          "src": "外研社B7 U3",
-          "cat": "waiyan",
-          "t": "飞天画像在唐代达到了顶峰；这些形象充满生机，反映了那个时代人们的自信和乐观。"
-        },
-        {
           "s": "By 700 AD, Maya civilisation was at its peak.",
           "src": "外研社B7 U5",
           "cat": "waiyan",
           "t": "到公元700年，玛雅文明达到鼎盛。"
-        },
-        {
-          "s": "Background information The Ancient Maya civilisation reached its peak between 250 AD and 900 AD.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "背景信息 古代玛雅文明在公元250年至公元900年间达到顶峰。"
         },
         {
           "s": "Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!",
@@ -80,7 +73,15 @@
     },
     {
       "def": "the stiff front part of a cap that sticks out above your eyes 帽舌；帽檐",
-      "ex": []
+      "ex": [
+        {
+          "s": "The peak of Mount Qomolangma, 8,849 meters above sea level.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "珠穆朗玛峰峰顶，海拔8849米。",
+          "year": 2026
+        }
+      ]
     }
   ]
 }

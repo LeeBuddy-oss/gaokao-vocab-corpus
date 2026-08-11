@@ -16,18 +16,6 @@
           "t": "他们重复这个过程直到树木到达它新家的边缘。"
         },
         {
-          "s": "Household waste can be roughly divided into: food waste non-recyclable waste recyclable waste.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "家庭垃圾可以大致分为：厨余垃圾 不可回收垃圾 可回收垃圾。"
-        },
-        {
-          "s": "This meant crossing the Weddell Sea, one of the roughest waters in the world.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "这意味着要穿过威德尔海，这是世界上最汹涌的海域之一。"
-        },
-        {
           "s": "It is generally dark brown to grey in colour, with a patch of rough hair on the nape of its neck.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
@@ -51,6 +39,12 @@
       "def": "not exact; not including all details 不确切的；粗略的；大致的",
       "ex": [
         {
+          "s": "Household waste can be roughly divided into: food waste non-recyclable waste recyclable waste.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "家庭垃圾可以大致分为：厨余垃圾 不可回收垃圾 可回收垃圾。"
+        },
+        {
           "s": "The western half of the US was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans.",
           "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
@@ -63,7 +57,16 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "例如，在一个名为No Fly Climate Sci的网站上，大约有_____40_____（rough）200位学术人员——其中许多是气候科学家——自该计划两年前启动以来承诺____41____ （promise）尽可能少坐飞机。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "not gentle or careful; violent 粗暴的；粗野的；猛烈的",
+      "ex": []
+    },
+    {
+      "def": "where there is a lot of violence or crime 犯罪盛行的；充斥暴力的；危险的",
+      "ex": [
         {
           "s": "The trip they took me on was a rough one.",
           "src": "2017全国I卷·七选五",
@@ -74,16 +77,15 @@
       ]
     },
     {
-      "def": "not gentle or careful; violent 粗暴的；粗野的；猛烈的",
-      "ex": []
-    },
-    {
-      "def": "where there is a lot of violence or crime 犯罪盛行的；充斥暴力的；危险的",
-      "ex": []
-    },
-    {
       "def": "having large and dangerous waves 汹涌的；风浪很大的",
-      "ex": []
+      "ex": [
+        {
+          "s": "This meant crossing the Weddell Sea, one of the roughest waters in the world.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "这意味着要穿过威德尔海，这是世界上最汹涌的海域之一。"
+        }
+      ]
     },
     {
       "def": "wild and with storms 恶劣的；有暴风雨的",

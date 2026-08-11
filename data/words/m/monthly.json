@@ -15,12 +15,6 @@
           "t": "《幸存者》是一本新的月刊，面向对生态系统和灾害管理感兴趣的人。"
         },
         {
-          "s": "Now my dad and I go rock climbing together monthly!",
-          "src": "人教选必3 U2",
-          "cat": "renjiao",
-          "t": "现在爸爸和我每个月都一起去攀岩！"
-        },
-        {
           "s": "Li Zhen and her friends are designing a poster for their school's monthly activity\"Human and Us\".",
           "src": "北师大选必3 U9",
           "cat": "beishida",
@@ -36,7 +30,14 @@
     },
     {
       "def": "paid, valid or calculated for one month 按月结算的；有效期为一个月的",
-      "ex": []
+      "ex": [
+        {
+          "s": "Now my dad and I go rock climbing together monthly!",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "现在爸爸和我每个月都一起去攀岩！"
+        }
+      ]
     }
   ]
 }

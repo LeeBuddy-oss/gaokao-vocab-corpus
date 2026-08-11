@@ -44,13 +44,6 @@
           "t": "一旦你请求的书被送到最近的分馆，他们会发邮件通知你，你就可以去取。"
         },
         {
-          "s": "He was just saying: “I’m king of this forest, and here is your reminder!” Once his message was delivered, he allowed me    70    (stay) and watch.",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一旦他的信息传达完毕，他允许我____70____（留下）观看。"
-        },
-        {
           "s": "To deliver some furniture.",
           "src": "2018浙江卷",
           "cat": "gaokao",
@@ -63,25 +56,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "我终于不再送报纸，好几年没见到斯坦利太太。"
-        },
-        {
-          "s": "What help does Cruse offer after delivering students to schools? (no more than 12 words)",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "克鲁斯在把学生送到学校后提供什么帮助？（不超过12个词）"
-        },
-        {
-          "s": "What if the only way of getting news from far away friends was writing letters that took ages to be delivered?",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "如果唯一能从远方朋友那里得到消息的方式，是写那些要很久才能送达的信呢？"
-        },
-        {
-          "s": "This wealth of ways of sharing is a response to our increasing demand for quality goods and services at competitive prices, all delivered at the click of a button.",
-          "src": "外研社B7 U4",
-          "cat": "waiyan",
-          "t": "这种丰富的分享方式，是我们对以有竞争力价格获取优质商品和服务的日益增长的需求的回应，全部通过点击按钮交付。"
         }
       ]
     },
@@ -112,6 +86,19 @@
       "def": "to do what you promised to do or what you are expected to do; to produce or provide what people expect you to 履行诺言；不负所望；兑现",
       "ex": [
         {
+          "s": "What help does Cruse offer after delivering students to schools? (no more than 12 words)",
+          "src": "2023天津6月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "克鲁斯在把学生送到学校后提供什么帮助？（不超过12个词）"
+        },
+        {
+          "s": "What if the only way of getting news from far away friends was writing letters that took ages to be delivered?",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "如果唯一能从远方朋友那里得到消息的方式，是写那些要很久才能送达的信呢？"
+        },
+        {
           "s": "PASS doesn’t re-teach or deliver new content.",
           "src": "2022北京卷·阅读理解A",
           "cat": "gaokao",
@@ -122,7 +109,21 @@
     },
     {
       "def": "to give sb/sth to sb else so that they are under this person's control 交出；交付；移交",
-      "ex": []
+      "ex": [
+        {
+          "s": "He was just saying: “I’m king of this forest, and here is your reminder!” Once his message was delivered, he allowed me    70    (stay) and watch.",
+          "src": "2018全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一旦他的信息传达完毕，他允许我____70____（留下）观看。"
+        },
+        {
+          "s": "This wealth of ways of sharing is a response to our increasing demand for quality goods and services at competitive prices, all delivered at the click of a button.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "这种丰富的分享方式，是我们对以有竞争力价格获取优质商品和服务的日益增长的需求的回应，全部通过点击按钮交付。"
+        }
+      ]
     },
     {
       "def": "to help a woman to give birth to a baby 助产；接生",

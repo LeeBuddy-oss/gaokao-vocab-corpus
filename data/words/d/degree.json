@@ -187,13 +187,6 @@
           "t": "帮助学生申请学位"
         },
         {
-          "s": "Jennifer Mauer has needed more willpower than the typical college student to pursue her goal of earning a nursing degree.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "詹妮弗·毛尔需要比典型大学生更强的意志力来追求获得护理学位的目标。"
-        },
-        {
           "s": "That willpower bore fruit when Jennifer graduated from University of Wisconsin-Eau Claire and became the first in her large family to earn a bachelor’s degree.",
           "src": "2020全国新高考I卷·阅读理解B",
           "cat": "gaokao",
@@ -208,10 +201,11 @@
           "t": "毕业后她计划休学一年全职当模特，然后上大学去获得____68____工程或建筑的学位。"
         },
         {
-          "s": "She received dozens of awards and more than 50 honorary degrees.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "她获得了数十个奖项以及50多个荣誉学位。"
+          "s": "After taking a degree at Chichester University in Related Arts, Ginni began to travel the world, eventually getting work teaching English in Japan and Chile.",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在奇切斯特大学获得相关艺术学位后，金妮开始环游世界，最终在日本和智利找到教英语的工作。"
         }
       ]
     },
@@ -219,11 +213,17 @@
       "def": "a university or college course, normally lasting three years or more （大学通常三年或以上的）学位课程",
       "ex": [
         {
-          "s": "After taking a degree at Chichester University in Related Arts, Ginni began to travel the world, eventually getting work teaching English in Japan and Chile.",
-          "src": "2022全国甲卷·阅读理解C",
+          "s": "Jennifer Mauer has needed more willpower than the typical college student to pursue her goal of earning a nursing degree.",
+          "src": "2020全国新高考I卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2022,
-          "t": "在奇切斯特大学获得相关艺术学位后，金妮开始环游世界，最终在日本和智利找到教英语的工作。"
+          "year": 2020,
+          "t": "詹妮弗·毛尔需要比典型大学生更强的意志力来追求获得护理学位的目标。"
+        },
+        {
+          "s": "She received dozens of awards and more than 50 honorary degrees.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "她获得了数十个奖项以及50多个荣誉学位。"
         }
       ]
     },

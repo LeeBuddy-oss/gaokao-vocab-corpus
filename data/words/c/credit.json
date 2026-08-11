@@ -7,14 +7,23 @@
   "defs": [
     {
       "def": "an arrangement that you make, with a shop/store for example, to pay later for sth you buy 赊购；赊欠",
+      "ex": []
+    },
+    {
+      "def": "money that you borrow from a bank; a loan （从银行借的）借款；贷款",
       "ex": [
         {
-          "s": "I was really surprised when a bank contacted me with a credit card offer.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "当一家银行联系我提供信用卡时，我真的很惊讶。",
-          "year": ""
-        },
+          "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "t": "那个（第2空）时刻很快被心算取代——要花多少时间和金钱……",
+          "year": 2019
+        }
+      ]
+    },
+    {
+      "def": "the status of being trusted to pay back money to sb who lends it to you （借钱偿还的）信誉，信用",
+      "ex": [
         {
           "s": "Of course, I would like to have more freedom with money and no doubt I will be getting a credit card at some point, but I currently don’t have a steady income, so getting a credit card might tempt me to spend more money than I have!",
           "src": "外研社B5 U1",
@@ -46,20 +55,20 @@
       ]
     },
     {
-      "def": "money that you borrow from a bank; a loan （从银行借的）借款；贷款",
-      "ex": []
-    },
-    {
-      "def": "the status of being trusted to pay back money to sb who lends it to you （借钱偿还的）信誉，信用",
-      "ex": []
-    },
-    {
       "def": "if you or your bank account are in credit, there is money in the account 结余",
       "ex": []
     },
     {
       "def": "a sum of money paid into a bank account; a record of the payment （付入银行账户的）存款金额，贷记",
-      "ex": []
+      "ex": [
+        {
+          "s": "I was really surprised when a bank contacted me with a credit card offer.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "当一家银行联系我提供信用卡时，我真的很惊讶。",
+          "year": ""
+        }
+      ]
     },
     {
       "def": "a payment that sb has a right to for a particular reason 有权索要的款项",
@@ -101,13 +110,6 @@
           "cat": "gaokao",
           "t": "在他的介绍中，他明确表示我们的学分来之不易。",
           "year": 2018
-        },
-        {
-          "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "t": "那个（第2空）时刻很快被心算取代——要花多少时间和金钱……",
-          "year": 2019
         },
         {
           "s": "Students who successfully complete the programme will receive one credit each.",

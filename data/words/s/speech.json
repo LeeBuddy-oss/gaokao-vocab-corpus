@@ -1,166 +1,168 @@
 {
- "meta": {
-  "ph": "spiːtʃ; NAmE spiːtʃ",
-  "pos": "noun",
-  "stars": ""
- },
- "defs": [
-  {
-   "def": "a formal talk that a person gives to an audience 演说；讲话；发言",
-   "ex": [
+  "meta": {
+    "ph": "spiːtʃ; NAmE spiːtʃ",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
     {
-     "s": "Keynote Speech on 17 July.",
-     "src": "2025北京卷·阅读理解A",
-     "cat": "gaokao",
-     "year": 2025,
-     "t": "7月17日主旨发言。"
+      "def": "a formal talk that a person gives to an audience 演说；讲话；发言",
+      "ex": [
+        {
+          "s": "Keynote Speech on 17 July.",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "7月17日主旨发言。"
+        },
+        {
+          "s": "14 Whose speech did the woman listen to this morning?",
+          "src": "2023浙江卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "14 这个女人今天早上听了谁的演讲?"
+        },
+        {
+          "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "人类的演讲包含2000多个不同的声音,从常见的“m”和“a”到一些南部非洲语言的罕见点击。"
+        },
+        {
+          "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "一项为期五年的突破性研究表明，与饮食相关的人类咬伤变化导致了新的语音，现在世界上有一半的语言都有这种语音。"
+        },
+        {
+          "s": "More than 30 years ago, the scholar Charles Hockett noted that speech sounds called labiodentals, such as “f” and “v”, were more common in the languages of societies that ate softer foods.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "30多年前,学者查尔斯·霍克特(Charles Hockett)指出,在食用软食的社会语言中,称为labiodentals的语音,如“f”和“v”更为常见。"
+        },
+        {
+          "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这一研究推翻了流行的观点,即人类在30万年前进化时,所有人类的语音都存在。 “我们使用的一套语音自人类出现以来并不一定保持稳定,而我们今天发现的各种各样的语音是生物变化和文化进化等事物复杂相互作用的产物。"
+        },
+        {
+          "s": "What does Steven Moran say about the set of human speech sounds?",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "史蒂文·莫兰对这组人类演讲有什么看法?"
+        },
+        {
+          "s": "\"Big change requires big ideas.\" he said in a speech last month, referring broadly to the need to improve road safety.",
+          "src": "2022全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "\"大变革需要大思想\"他在上个月的一次演讲中说,泛指改善道路安全的必要性."
+        },
+        {
+          "s": "It’s better to leave your listeners wishing for more than shifting restlessly in their seats waiting for your speech finally to end.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "最好不要让听众在座位上闲转,"
+        },
+        {
+          "s": "The objective of most speeches is to benefit the audience.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "大多数演讲的目的是让观众受益."
+        },
+        {
+          "s": "For Canaan Elementary’s second grade in Patchogue, N.Y.，today is speech day ,and right now it’s Chris Palaez’s turn.",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "迦南小学二年级在N. Y."
+        },
+        {
+          "s": "Making a speech.",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "作是语已."
+        },
+        {
+          "s": "Too often, when you stand up to give a speech, you focus on the “public” at the expense of the “speaking.”    17     Focus on the speaking.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "常常,当你站出来发表演讲时,只注重“公众”,而不注重“发言人”。"
+        },
+        {
+          "s": "She said, \"I've had a lot of clouds, but I've had so many rainbows,\" and that she always carried the \"rainbows\" with her to her speeches and classes.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "她说:\"我有很多的云,但是我有很多彩虹\",她总是带着\"彩虹\"去演讲和上课."
+        },
+        {
+          "s": "The speech also contains a reference to Hamlet's hesitation to avenge his father’s murder on his uncle, King Claudius.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "演讲中还提到哈姆雷特犹豫不决,要为父亲的死报仇于他的叔叔克劳迪乌斯国王."
+        },
+        {
+          "s": "What figure of speech is it?",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "这算什么?"
+        }
+      ]
     },
     {
-     "s": "14 Whose speech did the woman listen to this morning?",
-     "src": "2023浙江卷",
-     "cat": "gaokao",
-     "year": 2023,
-     "t": "14 这个女人今天早上听了谁的演讲?"
+      "def": "the ability to speak 说话的能力",
+      "ex": []
     },
     {
-     "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
-     "src": "2022全国新高考I卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "人类的演讲包含2000多个不同的声音,从常见的“m”和“a”到一些南部非洲语言的罕见点击。"
+      "def": "the way in which a particular person speaks 说话方式",
+      "ex": [
+        {
+          "s": "Which aspect of the human speech sound does Damián Blasi’s research focus on?",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Damián Blasi的研究集中在人类言论的哪个方面?"
+        }
+      ]
     },
     {
-     "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
-     "src": "2022全国新高考I卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "一项为期五年的突破性研究表明，与饮食相关的人类咬伤变化导致了新的语音，现在世界上有一半的语言都有这种语音。"
+      "def": "the language used when speaking 口语",
+      "ex": [
+        {
+          "s": "When he brings his speech to a nice conclusion ,Whaley invites the rest of the class to praise him.",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "当他把演讲讲到一个很好的结论时,华利邀请班里其他人来赞美他."
+        },
+        {
+          "s": "Once, having been invited to dinner at a university, he was put on the spot when the president suddenly asked him to give a speech.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "有一次,他受邀在一所大学吃晚饭,当总统突然要求他发表演讲时,他被放在现场."
+        }
+      ]
     },
     {
-     "s": "More than 30 years ago, the scholar Charles Hockett noted that speech sounds called labiodentals, such as “f” and “v”, were more common in the languages of societies that ate softer foods.",
-     "src": "2022全国新高考I卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "30多年前,学者查尔斯·霍克特(Charles Hockett)指出,在食用软食的社会语言中,称为labiodentals的语音,如“f”和“v”更为常见。"
-    },
-    {
-     "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
-     "src": "2022全国新高考I卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "这一研究推翻了流行的观点,即人类在30万年前进化时,所有人类的语音都存在。 “我们使用的一套语音自人类出现以来并不一定保持稳定,而我们今天发现的各种各样的语音是生物变化和文化进化等事物复杂相互作用的产物。"
-    },
-    {
-     "s": "Which aspect of the human speech sound does Damián Blasi’s research focus on?",
-     "src": "2022全国新高考I卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "Damián Blasi的研究集中在人类言论的哪个方面?"
-    },
-    {
-     "s": "What does Steven Moran say about the set of human speech sounds?",
-     "src": "2022全国新高考I卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "史蒂文·莫兰对这组人类演讲有什么看法?"
-    },
-    {
-     "s": "\"Big change requires big ideas.\" he said in a speech last month, referring broadly to the need to improve road safety.",
-     "src": "2022全国新高考II卷·阅读理解C",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "\"大变革需要大思想\"他在上个月的一次演讲中说,泛指改善道路安全的必要性."
-    },
-    {
-     "s": "It’s better to leave your listeners wishing for more than shifting restlessly in their seats waiting for your speech finally to end.",
-     "src": "2020全国新高考I卷·七选五",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "最好不要让听众在座位上闲转,"
-    },
-    {
-     "s": "The objective of most speeches is to benefit the audience.",
-     "src": "2020全国新高考I卷·七选五",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "大多数演讲的目的是让观众受益."
-    },
-    {
-     "s": "For Canaan Elementary’s second grade in Patchogue, N.Y.，today is speech day ,and right now it’s Chris Palaez’s turn.",
-     "src": "2019全国I卷·阅读理解B",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "迦南小学二年级在N. Y."
-    },
-    {
-     "s": "When he brings his speech to a nice conclusion ,Whaley invites the rest of the class to praise him.",
-     "src": "2019全国I卷·阅读理解B",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "当他把演讲讲到一个很好的结论时,华利邀请班里其他人来赞美他."
-    },
-    {
-     "s": "Making a speech.",
-     "src": "2019全国I卷·阅读理解B",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "作是语已."
-    },
-    {
-     "s": "Too often, when you stand up to give a speech, you focus on the “public” at the expense of the “speaking.”    17     Focus on the speaking.",
-     "src": "2020全国新高考I卷·七选五",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "常常,当你站出来发表演讲时,只注重“公众”,而不注重“发言人”。"
-    },
-    {
-     "s": "She said, \"I've had a lot of clouds, but I've had so many rainbows,\" and that she always carried the \"rainbows\" with her to her speeches and classes.",
-     "src": "外研社B1 U6",
-     "cat": "waiyan",
-     "t": "她说:\"我有很多的云,但是我有很多彩虹\",她总是带着\"彩虹\"去演讲和上课."
-    },
-    {
-     "s": "The speech also contains a reference to Hamlet's hesitation to avenge his father’s murder on his uncle, King Claudius.",
-     "src": "外研社B2 U6",
-     "cat": "waiyan",
-     "t": "演讲中还提到哈姆雷特犹豫不决,要为父亲的死报仇于他的叔叔克劳迪乌斯国王."
-    },
-    {
-     "s": "Once, having been invited to dinner at a university, he was put on the spot when the president suddenly asked him to give a speech.",
-     "src": "外研社B4 U1",
-     "cat": "waiyan",
-     "t": "有一次,他受邀在一所大学吃晚饭,当总统突然要求他发表演讲时,他被放在现场."
-    },
-    {
-     "s": "What figure of speech is it?",
-     "src": "外研社B4 U2",
-     "cat": "waiyan",
-     "t": "这算什么?"
+      "def": "a group of lines that an actor speaks in a play in the theatre （戏剧中的）台词",
+      "ex": [
+        {
+          "s": "The production includes some of Shakespeare's famous lines, such as the “To be, or not to be” speech.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "制作内容包括莎士比亚的一些著名台词,如\"要不做\"的演讲."
+        }
+      ]
     }
-   ]
-  },
-  {
-   "def": "the ability to speak 说话的能力",
-   "ex": []
-  },
-  {
-   "def": "the way in which a particular person speaks 说话方式",
-   "ex": []
-  },
-  {
-   "def": "the language used when speaking 口语",
-   "ex": []
-  },
-  {
-   "def": "a group of lines that an actor speaks in a play in the theatre （戏剧中的）台词",
-   "ex": [
-    {
-     "s": "The production includes some of Shakespeare's famous lines, such as the “To be, or not to be” speech.",
-     "src": "外研社B2 U6",
-     "cat": "waiyan",
-     "t": "制作内容包括莎士比亚的一些著名台词,如\"要不做\"的演讲."
-    }
-   ]
-  }
- ]
+  ]
 }

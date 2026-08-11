@@ -7,6 +7,10 @@
   "defs": [
     {
       "def": "a part or share of a whole 部分；份额",
+      "ex": []
+    },
+    {
+      "def": "the relationship of one thing to another in size, amount, etc. 比例；倍数关系",
       "ex": [
         {
           "s": "a portrait photograph of proper proportion",
@@ -14,17 +18,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "一张比例适当的肖像照"
-        }
-      ]
-    },
-    {
-      "def": "the relationship of one thing to another in size, amount, etc. 比例；倍数关系",
-      "ex": [
-        {
-          "s": "It is also ethnically diverse, and has a high proportion of immigrants from China.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它也是民族多元化的，来自中国的移民占了很高的比例。"
         },
         {
           "s": "There is no excellent beauty, that hath not some strangeness in the proportion.",
@@ -37,18 +30,18 @@
           "src": "人教选必3 U5",
           "cat": "renjiao",
           "t": "最后，这座雕像从前到后相当窄——按比例比大多数现实中的人窄得多。"
-        },
-        {
-          "s": "The female kiwi holds the world record for laying the largest egg in proportion to its body size.",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "雌性几维鸟保持着产下相对于其体型最大蛋的世界纪录。"
         }
       ]
     },
     {
       "def": "the correct relationship in size, degree, importance, etc. between one thing and another or between the parts of a whole 正确的比例；均衡；匀称",
       "ex": [
+        {
+          "s": "It is also ethnically diverse, and has a high proportion of immigrants from China.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它也是民族多元化的，来自中国的移民占了很高的比例。"
+        },
         {
           "s": "A man cannot tell, whether Apelles, or Albert Durer, were the more trifler: whereof the one would make a personage by geometrical proportions: the other, by taking the best parts out of divers faces, to make one excellent.",
           "src": "外研社B6 U6",
@@ -59,7 +52,14 @@
     },
     {
       "def": "the measurements of sth; its size and shape 面积；体积；规模；程度",
-      "ex": []
+      "ex": [
+        {
+          "s": "The female kiwi holds the world record for laying the largest egg in proportion to its body size.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "雌性几维鸟保持着产下相对于其体型最大蛋的世界纪录。"
+        }
+      ]
     },
     {
       "def": "the equal relationship between two pairs of numbers, as in the statement ‘4 is to 8 as 6 is to 12’ 等比关系；比例",

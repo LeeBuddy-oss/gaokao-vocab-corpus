@@ -42,13 +42,6 @@
           "cat": "renjiao",
           "t": "然而，如果一个学生懒得梳头，且眼睛因哭泣而发红，我就能推断她有更深层的问题。",
           "year": ""
-        },
-        {
-          "s": "Well, say you leave the tap running while you brush your teeth, leave a light on when you go out or you drop a piece of litter and can't be bothered to pick it up.",
-          "src": "北师大B3 U8",
-          "cat": "beishida",
-          "t": "嗯，比方说你刷牙时让水龙头一直流着，出门时灯亮着不关，或者掉了一片垃圾却懒得捡起来。",
-          "year": ""
         }
       ]
     },
@@ -70,13 +63,6 @@
           "year": 2020
         },
         {
-          "s": "To avoid being bothered.",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "t": "为了避免被打扰。",
-          "year": 2020
-        },
-        {
           "s": "The question of what we know and do not know constantly bothered me.",
           "src": "2020江苏卷·阅读理解D",
           "cat": "gaokao",
@@ -89,6 +75,25 @@
           "cat": "waiyan",
           "t": "很长一段时间里，这真的让我很困扰。",
           "year": ""
+        }
+      ]
+    },
+    {
+      "def": "to interrupt sb; to talk to sb when they do not want to talk to you 打扰；搭话",
+      "ex": [
+        {
+          "s": "Well, say you leave the tap running while you brush your teeth, leave a light on when you go out or you drop a piece of litter and can't be bothered to pick it up.",
+          "src": "北师大B3 U8",
+          "cat": "beishida",
+          "t": "嗯，比方说你刷牙时让水龙头一直流着，出门时灯亮着不关，或者掉了一片垃圾却懒得捡起来。",
+          "year": ""
+        },
+        {
+          "s": "To avoid being bothered.",
+          "src": "2020全国I卷",
+          "cat": "gaokao",
+          "t": "为了避免被打扰。",
+          "year": 2020
         },
         {
           "s": "For example, (disadvantage) In addition, (disadvantage) However, (reasons they do not bother you) All in all, I would prefer to work in the city/country.",
@@ -96,7 +101,16 @@
           "cat": "renjiao",
           "t": "例如，（缺点）此外，（缺点）然而，（它们不困扰你的理由）总而言之，我更愿意在城市/乡村工作。",
           "year": ""
-        },
+        }
+      ]
+    },
+    {
+      "def": "trouble or difficulty 麻烦；困难",
+      "ex": []
+    },
+    {
+      "def": "an annoying situation, thing or person 令人烦恼的情况（或事物、人）",
+      "ex": [
         {
           "s": "She added that it wasn't only the water falling onto their balcony from Smith watering his plants that bothered them, but also the way he cleaned his fish tanks.",
           "src": "北师大选必4 U11",
@@ -105,18 +119,6 @@
           "year": ""
         }
       ]
-    },
-    {
-      "def": "to interrupt sb; to talk to sb when they do not want to talk to you 打扰；搭话",
-      "ex": []
-    },
-    {
-      "def": "trouble or difficulty 麻烦；困难",
-      "ex": []
-    },
-    {
-      "def": "an annoying situation, thing or person 令人烦恼的情况（或事物、人）",
-      "ex": []
     }
   ]
 }

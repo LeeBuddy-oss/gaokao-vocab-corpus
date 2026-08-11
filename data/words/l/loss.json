@@ -103,13 +103,6 @@
           "_matched": true
         },
         {
-          "s": "From 2000 to 2019, there were 7,348 major natural disasters around the world,____19____(result) in USD 2,970 billion in economic loss．Much of this increase can be due to climate change.",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "从2000年到2019年全球共发生7,348次重大自然灾害造成29,700亿美元的经济损失．这种增长很大程度上可能是由于气候变化造成的．"
-        },
-        {
           "s": "I believe this was a perfect   29   for a child in losing something important…to lose it and feel the full   30   of that loss, and then to miraculously get it back.",
           "src": "2020北京卷·书面表达",
           "cat": "gaokao",
@@ -153,20 +146,7 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "你可能以为发展中国家会弥补这一损失（特别是既然世界上80%的人现在生活在这样的国家），但你错了。"
-        }
-      ]
-    },
-    {
-      "def": "money that has been lost by a business or an organization 亏损；亏蚀",
-      "ex": []
-    },
-    {
-      "def": "the death of a person 去世；逝世",
-      "ex": []
-    },
-    {
-      "def": "the disadvantage that is caused when sb leaves or when a useful or valuable object is taken away; a person who causes a disadvantage by leaving （某人离开或珍贵物品被取走造成的）损失；因离去而造成损失者",
-      "ex": [
+        },
         {
           "s": "Habitat loss, pesticide use, and climate change have caused dramatic declines in pollinator populations over the past couple of decades, which has damaged the US agricultural economy.",
           "src": "2023浙江1月卷·阅读理解D",
@@ -181,17 +161,6 @@
           "year": 2020,
           "t": "它会导致暂时性听力丧失。",
           "_matched": true
-        }
-      ]
-    },
-    {
-      "def": "a failure to win a contest 失败；输；失利",
-      "ex": [
-        {
-          "s": "Liu Yonghui, retired teacher 1 Eating out is a good choice and it has nothing to do with loss of traditions.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "刘永辉，退休教师：出去吃饭是个好选择，与失去传统无关。"
         },
         {
           "s": "Sadness wants to do her duty but by accident causes the loss of Riley’s happy core memories with Joy.",
@@ -200,16 +169,43 @@
           "t": "忧忧想尽自己的职责，却意外导致乐乐丢失了莱莉快乐的核心记忆。"
         },
         {
-          "s": "People are suffering from 10______, which are causing damage and loss.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "人们正在遭受自然灾害的影响，这些灾害正在造成破坏和损失。"
-        },
-        {
           "s": "My anxiety drove me to try every means possible to lose weight, including dieting and weight-loss pills, but this brought me nothing but pain and poor health.",
           "src": "外研社B6 U1",
           "cat": "waiyan",
           "t": "我的焦虑驱使我用尽一切方法减肥，包括节食和减肥药，但这只给我带来痛苦和健康不佳。"
+        }
+      ]
+    },
+    {
+      "def": "money that has been lost by a business or an organization 亏损；亏蚀",
+      "ex": [
+        {
+          "s": "Liu Yonghui, retired teacher 1 Eating out is a good choice and it has nothing to do with loss of traditions.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "刘永辉，退休教师：出去吃饭是个好选择，与失去传统无关。"
+        }
+      ]
+    },
+    {
+      "def": "the death of a person 去世；逝世",
+      "ex": []
+    },
+    {
+      "def": "the disadvantage that is caused when sb leaves or when a useful or valuable object is taken away; a person who causes a disadvantage by leaving （某人离开或珍贵物品被取走造成的）损失；因离去而造成损失者",
+      "ex": [
+        {
+          "s": "From 2000 to 2019, there were 7,348 major natural disasters around the world,____19____(result) in USD 2,970 billion in economic loss．Much of this increase can be due to climate change.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "从2000年到2019年全球共发生7,348次重大自然灾害造成29,700亿美元的经济损失．这种增长很大程度上可能是由于气候变化造成的．"
+        },
+        {
+          "s": "People are suffering from 10______, which are causing damage and loss.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "人们正在遭受自然灾害的影响，这些灾害正在造成破坏和损失。"
         },
         {
           "s": "You sail lighter for the loss of forty pounds.” He knew quite well the pattern of what could happen when he reached the inner part of the current.",
@@ -218,6 +214,10 @@
           "t": "你轻了四十磅，航行起来更轻松了。他非常清楚当自己到达洋流内部时可能会发生什么。"
         }
       ]
+    },
+    {
+      "def": "a failure to win a contest 失败；输；失利",
+      "ex": []
     }
   ]
 }

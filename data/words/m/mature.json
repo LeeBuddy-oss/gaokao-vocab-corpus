@@ -1,1 +1,94 @@
-{"meta": {"ph": "məˈtʃʊə(r); NAmE məˈtʃʊr", "pos": "adjective", "stars": "★★"}, "defs": [{"def": "behaving in a sensible way, like an adult 儿童或年轻人", "ex": [{"s": "Being mature and admitting our mistakes when we make them.", "src": "北师大选必1 U3", "cat": "beishida", "t": "成熟并在犯错误时承认错误。"}, {"s": "Recently, there has been an increase in the number of mature students going to university, after working for a few or many years.The oldest person to get a Cambridge MA received his law degree at the age of 102.", "src": "外研社B7 U2", "cat": "waiyan", "t": "最近，在工作了几年或许多年后重返大学的成年学生数量有所增加。获得剑桥大学硕士学位的最年长者在102岁时获得了他的法学学位。"}, {"s": "I’m mature enough to 4________________.", "src": "外研社B5 U1", "cat": "waiyan", "t": "我已经足够成熟，能够……"}, {"s": "But I think I’m already mature enough to understand that driving a car also means taking responsibility for my life and the lives of other people.", "src": "外研社B5 U1", "cat": "waiyan", "t": "但我想我已经足够成熟，能够理解开车也意味着为我和他人的生命负责。"}, {"s": "Other students are not mature enough to handle the challenges by themselves and may become depressed.", "src": "人教选必2 U2", "cat": "renjiao", "t": "其他学生还不够成熟，无法独自应对挑战，可能会变得沮丧。"}]}, {"def": "fully grown and developed 人、树木、鸟或动物", "ex": []}, {"def": "developed over a period of time to produce a strong, rich flavour 发酵成熟的；酿成的", "ex": []}, {"def": "（礼貌或幽默的说法）成年的，不再年轻的", "ex": []}, {"def": "created late in an artist's life and showing great understanding and skill 成熟的；技艺精湛的；创作于晚年的", "ex": []}, {"def": "ready to be paid 到期（应该支付）的", "ex": []}, {"def": "to become fully grown or developed 成熟；长成", "ex": [{"s": "Younger plants are often cheaper than fully grown ones, and you get to care for them as they mature — which is part of the joy of owning plants.", "src": "2023全国乙卷·七选五", "cat": "gaokao", "year": 2023, "t": "幼苗往往比长成的植株便宜，而且你可以在它们成熟的过程中照料它们——这正是养植物的乐趣之一。"}]}, {"def": "to develop emotionally and start to behave like a sensible adult （情感和认识）成熟；有判断力", "ex": []}, {"def": "to fully develop a particular skill or quality 使（技能或素质）成熟；充分发展", "ex": []}, {"def": "if wine, cheese, etc. matures or is matured, it develops over a period of time to produce a strong, rich flavour 酿成；制成；发酵成熟", "ex": []}, {"def": "to reach the date when it must be paid 到期（应付款）", "ex": []}]}
+{
+  "meta": {
+    "ph": "məˈtʃʊə(r); NAmE məˈtʃʊr",
+    "pos": "adjective",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "behaving in a sensible way, like an adult 儿童或年轻人",
+      "ex": []
+    },
+    {
+      "def": "fully grown and developed 人、树木、鸟或动物",
+      "ex": []
+    },
+    {
+      "def": "developed over a period of time to produce a strong, rich flavour 发酵成熟的；酿成的",
+      "ex": [
+        {
+          "s": "Being mature and admitting our mistakes when we make them.",
+          "src": "北师大选必1 U3",
+          "cat": "beishida",
+          "t": "成熟并在犯错误时承认错误。"
+        },
+        {
+          "s": "I’m mature enough to 4________________.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "我已经足够成熟，能够……"
+        },
+        {
+          "s": "Younger plants are often cheaper than fully grown ones, and you get to care for them as they mature — which is part of the joy of owning plants.",
+          "src": "2023全国乙卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "幼苗往往比长成的植株便宜，而且你可以在它们成熟的过程中照料它们——这正是养植物的乐趣之一。"
+        }
+      ]
+    },
+    {
+      "def": "（礼貌或幽默的说法）成年的，不再年轻的",
+      "ex": [
+        {
+          "s": "Recently, there has been an increase in the number of mature students going to university, after working for a few or many years.The oldest person to get a Cambridge MA received his law degree at the age of 102.",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "最近，在工作了几年或许多年后重返大学的成年学生数量有所增加。获得剑桥大学硕士学位的最年长者在102岁时获得了他的法学学位。"
+        }
+      ]
+    },
+    {
+      "def": "created late in an artist's life and showing great understanding and skill 成熟的；技艺精湛的；创作于晚年的",
+      "ex": [
+        {
+          "s": "But I think I’m already mature enough to understand that driving a car also means taking responsibility for my life and the lives of other people.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "但我想我已经足够成熟，能够理解开车也意味着为我和他人的生命负责。"
+        }
+      ]
+    },
+    {
+      "def": "ready to be paid 到期（应该支付）的",
+      "ex": []
+    },
+    {
+      "def": "to become fully grown or developed 成熟；长成",
+      "ex": [
+        {
+          "s": "Other students are not mature enough to handle the challenges by themselves and may become depressed.",
+          "src": "人教选必2 U2",
+          "cat": "renjiao",
+          "t": "其他学生还不够成熟，无法独自应对挑战，可能会变得沮丧。"
+        }
+      ]
+    },
+    {
+      "def": "to develop emotionally and start to behave like a sensible adult （情感和认识）成熟；有判断力",
+      "ex": []
+    },
+    {
+      "def": "to fully develop a particular skill or quality 使（技能或素质）成熟；充分发展",
+      "ex": []
+    },
+    {
+      "def": "if wine, cheese, etc. matures or is matured, it develops over a period of time to produce a strong, rich flavour 酿成；制成；发酵成熟",
+      "ex": []
+    },
+    {
+      "def": "to reach the date when it must be paid 到期（应付款）",
+      "ex": []
+    }
+  ]
+}

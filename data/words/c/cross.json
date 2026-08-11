@@ -7,7 +7,15 @@
   "defs": [
     {
       "def": "a mark or an object formed by two lines crossing each other (X or +); the mark (X) is often used on paper to show sth 叉字形记号；十字形记号",
-      "ex": []
+      "ex": [
+        {
+          "s": "Each day began with a 5-kilometer cross-country run - at 6 am!",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "每天以五公里越野跑开始——早上六点！",
+          "year": ""
+        }
+      ]
     },
     {
       "def": "a long vertical piece of wood with a shorter piece across it near the top. In the past people were hung on crosses and left to die as a punishment. （旧时用以处死人的）十字架",
@@ -15,7 +23,22 @@
     },
     {
       "def": "the cross that Jesus Christ died on, used as a symbol of Christianity （耶稣钉死在上面的）十字架",
-      "ex": []
+      "ex": [
+        {
+          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。",
+          "year": 2018
+        },
+        {
+          "s": "All you have to do is cross out the wrong words.” But he is equally well known for his witty remarks in his everyday interactions with people.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "你只需要划掉错误的词。\"但他同样以其在日常交往中机智幽默的言辞而闻名。",
+          "year": ""
+        }
+      ]
     },
     {
       "def": "an object, a design, a piece of jewellery, etc. in the shape of a cross, used as a symbol of Christianity 十字架物品（或设计、首饰等）",
@@ -27,6 +50,10 @@
     },
     {
       "def": "a mixture of two different things, breeds of animal, etc. 混合物；（动物等的）杂种，杂交品种",
+      "ex": []
+    },
+    {
+      "def": "a kick or hit of the ball across the field rather than up or down it 足球或曲棍球",
       "ex": [
         {
           "s": "To me, there's nothing better than a cross-cultural afternoon tea of English biscuits and a cup of Chinese oolong tea in a fine china cup!",
@@ -36,10 +63,6 @@
           "year": ""
         }
       ]
-    },
-    {
-      "def": "a kick or hit of the ball across the field rather than up or down it 足球或曲棍球",
-      "ex": []
     },
     {
       "def": "to go across; to pass or stretch from one side to the other 穿越；越过；横过；渡过",
@@ -78,27 +101,6 @@
           "cat": "waiyan",
           "t": "即使在GPS的帮助下我们也迷路了几次，但最终我们还是成功穿越了落基山脉。",
           "year": ""
-        },
-        {
-          "s": "Each day began with a 5-kilometer cross-country run - at 6 am!",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "每天以五公里越野跑开始——早上六点！",
-          "year": ""
-        },
-        {
-          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。",
-          "year": 2020
-        },
-        {
-          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。",
-          "year": 2018
         }
       ]
     },
@@ -132,19 +134,19 @@
     },
     {
       "def": "to draw a line across sth 画横线于",
-      "ex": [
-        {
-          "s": "All you have to do is cross out the wrong words.” But he is equally well known for his witty remarks in his everyday interactions with people.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "你只需要划掉错误的词。\"但他同样以其在日常交往中机智幽默的言辞而闻名。",
-          "year": ""
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to make the sign of the cross (= the Christian symbol) on your chest （在胸口上）画十字圣号",
-      "ex": []
+      "ex": [
+        {
+          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。",
+          "year": 2020
+        }
+      ]
     }
   ]
 }

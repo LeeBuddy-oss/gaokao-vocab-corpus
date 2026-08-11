@@ -1,1 +1,75 @@
-{"meta": {"ph": "ˈfaɪnæns; NAmE ˈfaɪnæns", "pos": "noun", "stars": "★★"}, "defs": [{"def": "money used to run a business, an activity or a project 资金", "ex": [{"s": "Travel：You must arrange and finance your travel to and from the location where you will do your internship．", "src": "2021北京卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "旅行：你必须安排并支付往返实习地点的旅行费用．"}, {"s": "A 2016 study said 17 states of the US require high school students to take courses in personal finances.", "src": "外研社B5 U2", "cat": "waiyan", "t": "2016年的一项研究指出，美国有17个州要求高中生修读个人理财课程。"}, {"s": "Asking for clarification Clarifying Stating advantages Finance management tips for freshmen Welcome to Winfield University.", "src": "外研社B7 U4", "cat": "waiyan", "t": "请求澄清、澄清、陈述优点、给大学新生的理财建议：欢迎来到温菲尔德大学。"}, {"s": "This is a widely recognised good habit for personal finance management, and you can receive interest on your savings.", "src": "外研社B7 U4", "cat": "waiyan", "t": "这是一个被广泛认可的良好的个人理财习惯，你还可以从储蓄中获得利息。"}, {"s": "Nowadays, AI is already being applied in many fields: finance, health care, machine translation and art, to name but a few.", "src": "译林选必2 U4", "cat": "yilin", "t": "如今，人工智能已在许多领域得到应用：金融、医疗保健、机器翻译和艺术，仅举几个例子。"}]}, {"def": "the activity of managing money, especially by a government or commercial organization 财政；金融；财务", "ex": [{"s": "10. ________a small amount of money each month is widely recognized as a good habit for personal finance management.", "src": "2023天津3月卷·单项选择", "cat": "gaokao", "year": 2023, "t": "10. ________每月存一小笔钱被广泛认为是个人理财管理的好习惯。"}, {"s": "Provide 68 (finance) aid and other benefits for local peoples.", "src": "2021全国乙卷·语法填空", "cat": "gaokao", "year": 2021, "t": "为当地人民提供经济援助和其他福利。"}, {"s": "Another way of managing their finances is (raise) more funds.", "src": "人教选必3 U5", "cat": "renjiao", "t": "管理他们财务的另一种方式是筹集更多资金。"}]}, {"def": "the money available to a person, an organization or a country; the way this money is managed （个人、组织、国家的）财力，财源，财务管理", "ex": []}]}
+{
+  "meta": {
+    "ph": "ˈfaɪnæns; NAmE ˈfaɪnæns",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "money used to run a business, an activity or a project 资金",
+      "ex": [
+        {
+          "s": "Travel：You must arrange and finance your travel to and from the location where you will do your internship．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "旅行：你必须安排并支付往返实习地点的旅行费用．"
+        },
+        {
+          "s": "Asking for clarification Clarifying Stating advantages Finance management tips for freshmen Welcome to Winfield University.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "请求澄清、澄清、陈述优点、给大学新生的理财建议：欢迎来到温菲尔德大学。"
+        }
+      ]
+    },
+    {
+      "def": "the activity of managing money, especially by a government or commercial organization 财政；金融；财务",
+      "ex": [
+        {
+          "s": "Nowadays, AI is already being applied in many fields: finance, health care, machine translation and art, to name but a few.",
+          "src": "译林选必2 U4",
+          "cat": "yilin",
+          "t": "如今，人工智能已在许多领域得到应用：金融、医疗保健、机器翻译和艺术，仅举几个例子。"
+        },
+        {
+          "s": "Provide 68 (finance) aid and other benefits for local peoples.",
+          "src": "2021全国乙卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "为当地人民提供经济援助和其他福利。"
+        }
+      ]
+    },
+    {
+      "def": "the money available to a person, an organization or a country; the way this money is managed （个人、组织、国家的）财力，财源，财务管理",
+      "ex": [
+        {
+          "s": "A 2016 study said 17 states of the US require high school students to take courses in personal finances.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "2016年的一项研究指出，美国有17个州要求高中生修读个人理财课程。"
+        },
+        {
+          "s": "This is a widely recognised good habit for personal finance management, and you can receive interest on your savings.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "这是一个被广泛认可的良好的个人理财习惯，你还可以从储蓄中获得利息。"
+        },
+        {
+          "s": "10. ________a small amount of money each month is widely recognized as a good habit for personal finance management.",
+          "src": "2023天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "10. ________每月存一小笔钱被广泛认为是个人理财管理的好习惯。"
+        },
+        {
+          "s": "Another way of managing their finances is (raise) more funds.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "管理他们财务的另一种方式是筹集更多资金。"
+        }
+      ]
+    }
+  ]
+}

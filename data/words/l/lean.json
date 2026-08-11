@@ -41,11 +41,10 @@
           "_matched": true
         },
         {
-          "s": "And the Good Morning Britain presenter says she’s been able to put a lot of what she’s leant into practice in her own home, preparing meals for sons, Sam, 14, Finn, 13, and Jack, 11.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这位《早安英国》主持人说，她已经能够把学到很多东西运用到自己家中，为14岁的萨姆、13岁的芬恩和11岁的杰克三个儿子做饭。"
+          "s": "It leans so far on one side that if you dropped a stone from the top, which is 188 feet high, it would fall 16 feet from the base of the tower.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "它倾斜得如此厉害，以至于如果你从188英尺高的顶部扔下一块石头，它会落在离塔基16英尺的地方。"
         }
       ]
     },
@@ -57,18 +56,6 @@
           "src": "人教B1 U5",
           "cat": "renjiao",
           "t": "当然，我参观了美丽的斜塔，它有八层高，每层都有一圈柱子，一层比一层高。"
-        },
-        {
-          "s": "It leans so far on one side that if you dropped a stone from the top, which is 188 feet high, it would fall 16 feet from the base of the tower.",
-          "src": "人教B1 U5",
-          "cat": "renjiao",
-          "t": "它倾斜得如此厉害，以至于如果你从188英尺高的顶部扔下一块石头，它会落在离塔基16英尺的地方。"
-        },
-        {
-          "s": "I know when students are really interested, however, because they lean forward and look at me.",
-          "src": "人教选必1 U4",
-          "cat": "renjiao",
-          "t": "然而，当学生真正感兴趣时，我能看出来，因为他们会身体前倾，看着我。"
         }
       ]
     },
@@ -112,7 +99,21 @@
     },
     {
       "def": "strong and efficient because the number of employees has been reduced 机构等",
-      "ex": []
+      "ex": [
+        {
+          "s": "And the Good Morning Britain presenter says she’s been able to put a lot of what she’s leant into practice in her own home, preparing meals for sons, Sam, 14, Finn, 13, and Jack, 11.",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "这位《早安英国》主持人说，她已经能够把学到很多东西运用到自己家中，为14岁的萨姆、13岁的芬恩和11岁的杰克三个儿子做饭。"
+        },
+        {
+          "s": "I know when students are really interested, however, because they lean forward and look at me.",
+          "src": "人教选必1 U4",
+          "cat": "renjiao",
+          "t": "然而，当学生真正感兴趣时，我能看出来，因为他们会身体前倾，看着我。"
+        }
+      ]
     }
   ]
 }

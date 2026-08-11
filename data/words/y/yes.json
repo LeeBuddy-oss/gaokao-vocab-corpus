@@ -16,13 +16,6 @@
           "t": "是的，这在很多方面都是一次巨大的告别，但它也是新事物的开始——一次多代同堂生活的冒险。"
         },
         {
-          "s": "Yes, we all have our phones, but many of us still like to go old school and read something printed.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "是的，我们都有手机，但我们中的许多人仍然喜欢老派一点，读点印刷品。"
-        },
-        {
           "s": "Yes and no.",
           "src": "2021浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -51,13 +44,6 @@
           "t": "“是的，先生，”她回答，乌黑的眼睛与他的目光相遇。"
         },
         {
-          "s": "Before Vinnie could say yes, the President hurried on, a shade of apology in his voice.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在薇妮来得及说“好”之前，总统匆匆继续说，声音里带着一丝歉意。"
-        },
-        {
           "s": "Yes, I’ll do it.”",
           "src": "2019全国II卷·阅读理解B",
           "cat": "gaokao",
@@ -84,12 +70,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "是的，在一棵小胡萝卜绿叶覆盖的顶端下面，是她丢失已久的结婚戒指。"
-        },
-        {
-          "s": "Interviewer: Yes, I totally agree.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "采访者：是的，我完全同意。"
         },
         {
           "s": "Son:Yes, but I'm not interested in law.",
@@ -121,18 +101,17 @@
       "def": "（表示同意所说的话）",
       "ex": [
         {
+          "s": "Interviewer: Yes, I totally agree.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "采访者：是的，我完全同意。"
+        },
+        {
           "s": "Hedgehog thinkers tend to answer yes. ___35___ And they are usually very credible in doing so.",
           "src": "2024北京卷·七选五",
           "cat": "gaokao",
           "year": 2024,
           "t": "刺猬型思考者倾向于回答是的。___35___而且他们在这样做时通常很有说服力。"
-        },
-        {
-          "s": "We all grew up hearing  people tell us to “go out and get some fresh air.”    36    According to recent studies，the answer is a big YES，if the air quality in your camping area is good.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我们都是在\"出去呼吸点新鲜空气\"的告诫声中长大的。    36    根据最近的研究，答案是肯定的，如果你露营地区的空气质量好的话。"
         },
         {
           "s": "With a question like this, you will get more than a “Yes” or “No” reply.",
@@ -145,7 +124,15 @@
     },
     {
       "def": "（反驳否定的话）",
-      "ex": []
+      "ex": [
+        {
+          "s": "We all grew up hearing  people tell us to “go out and get some fresh air.”    36    According to recent studies，the answer is a big YES，if the air quality in your camping area is good.",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我们都是在\"出去呼吸点新鲜空气\"的告诫声中长大的。    36    根据最近的研究，答案是肯定的，如果你露营地区的空气质量好的话。"
+        }
+      ]
     },
     {
       "def": "（表示答应或许可）",
@@ -169,7 +156,15 @@
     },
     {
       "def": "（鼓励某人继续讲）往下说",
-      "ex": []
+      "ex": [
+        {
+          "s": "Before Vinnie could say yes, the President hurried on, a shade of apology in his voice.",
+          "src": "2020天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在薇妮来得及说“好”之前，总统匆匆继续说，声音里带着一丝歉意。"
+        }
+      ]
     },
     {
       "def": "（表示不相信某人所言）真的",
@@ -177,7 +172,15 @@
     },
     {
       "def": "（强调所说的话）一点不假",
-      "ex": []
+      "ex": [
+        {
+          "s": "Yes, we all have our phones, but many of us still like to go old school and read something printed.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "是的，我们都有手机，但我们中的许多人仍然喜欢老派一点，读点印刷品。"
+        }
+      ]
     },
     {
       "def": "（感到兴奋或高兴时说）好啊",

@@ -44,13 +44,6 @@
           "t": "用更专业的术语来说，群体智慧要求人们的估算相互独立。"
         },
         {
-          "s": "If for whatever reasons, people’s errors become correlated or dependent, the accuracy of the estimate will go down.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果由于某种原因，人们的错误变得相互关联或相互依赖，估算的准确性就会下降。"
-        },
-        {
           "s": "For instance, the average obtained from the estimates of four discussion groups of five was significantly more accurate than the average obtained from 20 independent individuals.",
           "src": "2023新课标I卷·阅读理解D",
           "cat": "gaokao",
@@ -77,12 +70,7 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "个体的估算。"
-        }
-      ]
-    },
-    {
-      "def": "a statement of how much a piece of work will probably cost 估计的成本；估价",
-      "ex": [
+        },
         {
           "s": "Recent studies estimate that between 400 million and 1 billion birds die from window impacts each year in the US alone.",
           "src": "外研社B5 U6",
@@ -96,12 +84,6 @@
           "t": "深潜 据估计，全球水域之下沉睡着约 300 万艘沉船。"
         },
         {
-          "s": "The American space agency NASA believes that sending people to Mars would cost about US$100 billion, although this estimate is based on bringing them back to Earth, too.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "美国航天局 NASA 认为，将人类送上火星的成本约为 1000 亿美元，不过这一估计是基于还需要将他们带回地球的前提。"
-        },
-        {
           "s": "Today, it is estimated that about 60 percent of domestic rice consumption in China is Paragraph 1 Paragraph 2 Paragraph 3 Paragraph 4 Paragraph 5 Paragraph 6 A Yuan conducted research and developed hybrid rice.",
           "src": "人教选必1 U5",
           "cat": "renjiao",
@@ -112,6 +94,24 @@
           "src": "人教选必4 U5",
           "cat": "renjiao",
           "t": "我们当时在这里，被困在一个无法估量大小的洞穴里。"
+        }
+      ]
+    },
+    {
+      "def": "a statement of how much a piece of work will probably cost 估计的成本；估价",
+      "ex": [
+        {
+          "s": "If for whatever reasons, people’s errors become correlated or dependent, the accuracy of the estimate will go down.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果由于某种原因，人们的错误变得相互关联或相互依赖，估算的准确性就会下降。"
+        },
+        {
+          "s": "The American space agency NASA believes that sending people to Mars would cost about US$100 billion, although this estimate is based on bringing them back to Earth, too.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "美国航天局 NASA 认为，将人类送上火星的成本约为 1000 亿美元，不过这一估计是基于还需要将他们带回地球的前提。"
         }
       ]
     }

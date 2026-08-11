@@ -9,13 +9,6 @@
       "def": "（表示迟疑或两个可能性之间的选择）是否",
       "ex": [
         {
-          "s": "All participants were then tested on how they process information, and whether it's in a more practical or abstract way.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "随后，所有参与者都接受了信息处理方式测试，以判断他们的思维方式更偏向实际还是抽象。"
-        },
-        {
           "s": "Whether or not we pay attention to the world’s “scentscape”, heat and pollution are causing it to shift.",
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
@@ -121,13 +114,6 @@
           "t": "人们在探索世界的过程中养成无数的习惯，无论他们是否意识到这一点。"
         },
         {
-          "s": "“Everyone can play a part in reducing waste, whether by not purchasing more food than necessary in your weekly shopping or by asking restaurants to not include the side dish you won’t eat,” Curtin says.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"每个人都可以在减少浪费方面发挥作用，无论是在每周购物时不买超过需要的食物，还是要求餐厅不要上你不吃的配菜，\"Curtin说。"
-        },
-        {
           "s": "The technology could determine whether a driver had just texted, emailed or done anything else that is not allowed under New York's hands-free driving laws.",
           "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
@@ -154,13 +140,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "它们在测试中是否使用触觉"
-        },
-        {
-          "s": "“We can’t seem to make up our minds whether we want a modern city or a traditional one.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"我们似乎拿不定主意是要一座现代化城市还是一座传统城市。"
         },
         {
           "s": "Whether you ride a bicycle, you don’t use petrol.",
@@ -254,13 +233,6 @@
           "t": "机器人电话的问题已经变得如此严重，以至于许多人现在拒绝接听来自陌生号码的电话。"
         },
         {
-          "s": "Whether you’re looking at wallpaper or paint, the time, effort and relative expense put into it are significant.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "无论你是看壁纸还是油漆，投入的时间、精力和相对成本都是相当可观的。"
-        },
-        {
           "s": "He is most probably checking whether everything is OK.",
           "src": "2018上海卷",
           "cat": "gaokao",
@@ -280,17 +252,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "黄石狼项目是一项有价值的实验，有助于生物学家决定是否也将狼重新引入美国其他地区。"
-        }
-      ]
-    },
-    {
-      "def": "（表示两种情况都真实）是 …（还是），或者 …（或者），不管 …（还是）",
-      "ex": [
-        {
-          "s": "I hadn’t, until one day my five-year-old son asked me whether there was ham in a hamburger.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "我以前不知道，直到有一天我五岁的儿子问我汉堡里有没有火腿。"
         },
         {
           "s": "Make sure that any abbreviations and emojis you use are appropriate for the situation, and consider whether your readers will even know what you mean by BRB or COZ.",
@@ -299,16 +260,55 @@
           "t": "确保你使用的任何缩写和表情符号都适合该情境，并考虑你的读者是否明白BRB或COZ是什么意思。"
         },
         {
-          "s": "Speakers will state whether they are for or against the statement.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "发言者将表明他们是支持还是反对该陈述。"
-        },
-        {
           "s": "You ask your customer whether he/she needs a doggie bag.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "你询问顾客是否需要打包袋（剩菜袋）。"
+        }
+      ]
+    },
+    {
+      "def": "（表示两种情况都真实）是 …（还是），或者 …（或者），不管 …（还是）",
+      "ex": [
+        {
+          "s": "All participants were then tested on how they process information, and whether it's in a more practical or abstract way.",
+          "src": "2026新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "随后，所有参与者都接受了信息处理方式测试，以判断他们的思维方式更偏向实际还是抽象。"
+        },
+        {
+          "s": "“Everyone can play a part in reducing waste, whether by not purchasing more food than necessary in your weekly shopping or by asking restaurants to not include the side dish you won’t eat,” Curtin says.",
+          "src": "2022全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "\"每个人都可以在减少浪费方面发挥作用，无论是在每周购物时不买超过需要的食物，还是要求餐厅不要上你不吃的配菜，\"Curtin说。"
+        },
+        {
+          "s": "“We can’t seem to make up our minds whether we want a modern city or a traditional one.",
+          "src": "2022全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "\"我们似乎拿不定主意是要一座现代化城市还是一座传统城市。"
+        },
+        {
+          "s": "Whether you’re looking at wallpaper or paint, the time, effort and relative expense put into it are significant.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "无论你是看壁纸还是油漆，投入的时间、精力和相对成本都是相当可观的。"
+        },
+        {
+          "s": "I hadn’t, until one day my five-year-old son asked me whether there was ham in a hamburger.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "我以前不知道，直到有一天我五岁的儿子问我汉堡里有没有火腿。"
+        },
+        {
+          "s": "Speakers will state whether they are for or against the statement.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "发言者将表明他们是支持还是反对该陈述。"
         },
         {
           "s": "I hadn't, until one day my five-year-old son asked me whether there was ham in a hamburger.",

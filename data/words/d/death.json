@@ -50,12 +50,6 @@
           "t": "《哈姆雷特》围绕爱、死亡与背叛展开，对它所提出的问题没有给出简单答案，每个人都以个人的方式去理解它。"
         },
         {
-          "s": "These are among the 669 children, most of them Jewish, that Nicholas Winton will go on to save from death at the hands of the Nazis.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "这些是被尼古拉斯·温顿从纳粹手中拯救出来的669名儿童中的大多数，他们大多是犹太儿童。"
-        },
-        {
           "s": "The South-east Ridge Route on Qomolangma SUMMIT: 8,844m DEATH ZONE 8,000 m above sea level Only 30% as much oxygen as available at sea level.",
           "src": "外研社B3 U5",
           "cat": "waiyan",
@@ -66,18 +60,18 @@
           "src": "外研社B3 U6",
           "cat": "waiyan",
           "t": "该国的冬季风暴带来多达7.9米的降雪，导致约4000人死亡。"
-        },
-        {
-          "s": "The end result, printed in 3D, was a new “Rembrandt painting” created 347 years after the artist's death.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "t": "最终以3D打印呈现的成果，是这幅“新伦勃朗画作”，创作于这位艺术家去世347年之后。"
         }
       ]
     },
     {
       "def": "the end of life; the state of being dead 生命的终止；死亡状态",
       "ex": [
+        {
+          "s": "The end result, printed in 3D, was a new “Rembrandt painting” created 347 years after the artist's death.",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "t": "最终以3D打印呈现的成果，是这幅“新伦勃朗画作”，创作于这位艺术家去世347年之后。"
+        },
         {
           "s": "Dance expresses love and hate, joy and sorrow, life and death, and everything else in between.",
           "src": "2018全国III卷·七选五",
@@ -100,7 +94,14 @@
     },
     {
       "def": "the power that destroys life, imagined as human in form 死神",
-      "ex": []
+      "ex": [
+        {
+          "s": "These are among the 669 children, most of them Jewish, that Nicholas Winton will go on to save from death at the hands of the Nazis.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "t": "这些是被尼古拉斯·温顿从纳粹手中拯救出来的669名儿童中的大多数，他们大多是犹太儿童。"
+        }
+      ]
     }
   ]
 }

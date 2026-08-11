@@ -1,1 +1,83 @@
-{"meta":{"ph":"ˈfɔːmæt; NAmE ˈfɔːrmæt","pos":"noun","stars":"★★"},"defs":[{"def":"the general arrangement, plan, design, etc. of sth 总体安排；计划；设计","ex":[{"s":"This call is open to Burlington-based artists and is open to all art forms that can be presented in a sign format.","src":"2026浙江1月卷·阅读理解A","cat":"gaokao","year":2026,"t":"本次征集面向伯灵顿本地的艺术家，对所有能以标牌形式呈现的艺术形式开放。"},{"s":"Your poem can be any format, any number of lines.","src":"2020全国新高考I卷·阅读理解A","cat":"gaokao","year":2020,"t":"你的诗可以是任何格式任何行数。"},{"s":"The format of magazines enables children to be exposed to a wide variety of wide subjects.","src":"2018上海卷·Section C","cat":"gaokao","year":2018,"t":"杂志的版式使孩子们能够接触到广泛的主题。"},{"s":"The format of the ceremony is yet to be decided, and we would like to hear your ideas about the events and performances that could be included.","src":"外研社B7 U3","cat":"waiyan","t":"典礼的形式还有待决定，我们想听听你们对可以包含的活动和表演的想法。"},{"s":"Surf the Internet to research different forms of poetry and discover their formats.","src":"人教选必3 U5","cat":"renjiao","t":"上网研究不同形式的诗歌，了解它们的格式。"},{"s":"Then use a properemail format with a share in class.","src":"北师大B1 U1","cat":"beishida","t":"然后使用合适的电子邮件格式并在课堂上分享。"}]},{"def":"the shape and size of a book, magazine, etc. （出版物的）版式，开本","ex":[{"s":"Later, it was published in book format and has never been out of print since.","src":"人教选必2 U5","cat":"renjiao","t":"后来，它以书籍的形式出版，自那以后从未绝版。"},{"s":"It has a format of three lines, containing 5, 7, and 5 syllables respectively.","src":"人教选必3 U5","cat":"renjiao","t":"它的格式是三行，分别包含5个、7个和5个音节。"}]},{"def":"the way in which data is stored or held to be worked on by a computer 格式","ex":[]},{"def":"to prepare a computer disk so that data can be recorded on it 格式化","ex":[]},{"def":"to arrange text in a particular way on a page or a screen 安排版式","ex":[]}]}
+{
+  "meta": {
+    "ph": "ˈfɔːmæt; NAmE ˈfɔːrmæt",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the general arrangement, plan, design, etc. of sth 总体安排；计划；设计",
+      "ex": []
+    },
+    {
+      "def": "the shape and size of a book, magazine, etc. （出版物的）版式，开本",
+      "ex": [
+        {
+          "s": "The format of magazines enables children to be exposed to a wide variety of wide subjects.",
+          "src": "2018上海卷·Section C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "杂志的版式使孩子们能够接触到广泛的主题。"
+        },
+        {
+          "s": "Later, it was published in book format and has never been out of print since.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "后来，它以书籍的形式出版，自那以后从未绝版。"
+        }
+      ]
+    },
+    {
+      "def": "the way in which data is stored or held to be worked on by a computer 格式",
+      "ex": [
+        {
+          "s": "Surf the Internet to research different forms of poetry and discover their formats.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "上网研究不同形式的诗歌，了解它们的格式。"
+        },
+        {
+          "s": "Then use a properemail format with a share in class.",
+          "src": "北师大B1 U1",
+          "cat": "beishida",
+          "t": "然后使用合适的电子邮件格式并在课堂上分享。"
+        },
+        {
+          "s": "It has a format of three lines, containing 5, 7, and 5 syllables respectively.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "它的格式是三行，分别包含5个、7个和5个音节。"
+        }
+      ]
+    },
+    {
+      "def": "to prepare a computer disk so that data can be recorded on it 格式化",
+      "ex": [
+        {
+          "s": "This call is open to Burlington-based artists and is open to all art forms that can be presented in a sign format.",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "本次征集面向伯灵顿本地的艺术家，对所有能以标牌形式呈现的艺术形式开放。"
+        },
+        {
+          "s": "Your poem can be any format, any number of lines.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你的诗可以是任何格式任何行数。"
+        },
+        {
+          "s": "The format of the ceremony is yet to be decided, and we would like to hear your ideas about the events and performances that could be included.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "典礼的形式还有待决定，我们想听听你们对可以包含的活动和表演的想法。"
+        }
+      ]
+    },
+    {
+      "def": "to arrange text in a particular way on a page or a screen 安排版式",
+      "ex": []
+    }
+  ]
+}

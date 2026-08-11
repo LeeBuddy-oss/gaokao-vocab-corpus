@@ -16,25 +16,11 @@
           "t": "露营者享受到1:4到1:7的员工与孩子比例，具体取决于年龄组。"
         },
         {
-          "s": "The amount of time needed to build a habit will depend on multiple factors, including the individual and the intended behaviour.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "养成一个习惯所需的时间取决于多种因素，包括个人和预期的行为。"
-        },
-        {
           "s": "Since April drinks companies have been forced to pay between 18p and 24p for every litre of sugary drink they produce or import, depending on the sugar content.",
           "src": "2022全国乙卷·阅读理解D",
           "cat": "gaokao",
           "year": 2022,
           "t": "自4月起，饮料公司被迫为其生产或进口的每升含糖饮料支付18至24便士，具体取决于含糖量。"
-        },
-        {
-          "s": "Most importantly, Edison realized that success depended on mass electrification, which he showed in New York City.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最重要的是，爱迪生意识到成功取决于大规模电气化，他在纽约市证明了这一点。"
         },
         {
           "s": "The future depends on creativity and creativity depends on the young.",
@@ -70,13 +56,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "多个基因表现不同，取决于某人散步前是否吃过东西。"
-        },
-        {
-          "s": "The second drawer began to fill and as it did I wondered whether there were bigger discoveries out there, not just species, but life that depends on things thought to be useless, life even without DNA.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二个抽屉开始装满，就在它装满时我想知道外面是否还有更大的发现，不只是物种，还有依赖被认为无用的东西生存的生命，甚至没有DNA的生命。"
         },
         {
           "s": "Every system in our body depends on water to function.",
@@ -121,20 +100,6 @@
           "t": "海洋颜色从绿色到蓝色不等，取决于浮游植物的类型和浓度。"
         },
         {
-          "s": "Frozen bananas will last several weeks, depending on their ripeness and the temperature of the freezer.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "冷冻香蕉能保存数周，取决于其成熟度和冷冻室的温度。"
-        },
-        {
-          "s": "But soon, the gold that Dawson depended on had all been found.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但很快，道森所依赖的黄金都被找到了。"
-        },
-        {
           "s": "A．You betB．It dependsC．Forget itD．No kidding",
           "src": "2018天津卷",
           "cat": "gaokao",
@@ -147,13 +112,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "我们的心理和身体健康都取决于它。"
-        },
-        {
-          "s": "According to an evolutionary psychology theory that a person's “life strategy” slows down or speeds up depending on his or her ___47___, exposure to a “harsh and unpredictable” environment leads to faster development, while a more resource-rich and secure environment has the ___48___ effect, the study said.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据进化心理学理论，一个人的'人生策略'会根据他或她的___47___而加快或减慢……"
         },
         {
           "s": "In the past, money's makeup varied from place to place, depending on what was considered valuable there.",
@@ -224,7 +182,50 @@
     },
     {
       "def": "to be sure or expect that sth will happen 确信；相信；指望",
-      "ex": []
+      "ex": [
+        {
+          "s": "The amount of time needed to build a habit will depend on multiple factors, including the individual and the intended behaviour.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "养成一个习惯所需的时间取决于多种因素，包括个人和预期的行为。"
+        },
+        {
+          "s": "Most importantly, Edison realized that success depended on mass electrification, which he showed in New York City.",
+          "src": "2022浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "最重要的是，爱迪生意识到成功取决于大规模电气化，他在纽约市证明了这一点。"
+        },
+        {
+          "s": "The second drawer began to fill and as it did I wondered whether there were bigger discoveries out there, not just species, but life that depends on things thought to be useless, life even without DNA.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "第二个抽屉开始装满，就在它装满时我想知道外面是否还有更大的发现，不只是物种，还有依赖被认为无用的东西生存的生命，甚至没有DNA的生命。"
+        },
+        {
+          "s": "Frozen bananas will last several weeks, depending on their ripeness and the temperature of the freezer.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "冷冻香蕉能保存数周，取决于其成熟度和冷冻室的温度。"
+        },
+        {
+          "s": "But soon, the gold that Dawson depended on had all been found.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "但很快，道森所依赖的黄金都被找到了。"
+        },
+        {
+          "s": "According to an evolutionary psychology theory that a person's “life strategy” slows down or speeds up depending on his or her ___47___, exposure to a “harsh and unpredictable” environment leads to faster development, while a more resource-rich and secure environment has the ___48___ effect, the study said.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "根据进化心理学理论，一个人的'人生策略'会根据他或她的___47___而加快或减慢……"
+        }
+      ]
     }
   ]
 }

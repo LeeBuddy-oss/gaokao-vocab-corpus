@@ -37,34 +37,6 @@
           "t": "高知识水平可能让人们在艺术、科学和政治等各领域过于执着于传统的看问题方式。"
         },
         {
-          "s": "How attached are you to your landline?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第2段主要告诉我们手机的什么？"
-        },
-        {
-          "s": "They are attached to their family.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它仍然是家庭必需品。"
-        },
-        {
-          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "几年前，电影制作人大卫·邦德意识到，他当时五岁和三岁的孩子对屏幕的依赖已经到了这种程度：他对三岁的儿子耳边说“巧克力”都得不到任何反应。"
-        },
-        {
-          "s": "While I tend to buy a lot of books, these three were given to me as gifs, which might add to the meaning I attach to them.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "虽然我往往买很多书，但这三本是作为礼物送给我的，这或许增加了我对它们的情感分量。"
-        },
-        {
           "s": "She trying to come up with a lable to attach to nutria fashions to show it is eco-friendly.",
           "src": "2020全国II卷·阅读理解C",
           "cat": "gaokao",
@@ -77,13 +49,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "没有任何附加条件的钱。"
-        },
-        {
-          "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
         },
         {
           "s": "What does the expression \"money with no strings attached\" in paragraph 1 mean?",
@@ -110,11 +75,54 @@
     },
     {
       "def": "to believe that sth is important or worth thinking about 认为有重要性（或意义、价值、分量等）；重视",
-      "ex": []
+      "ex": [
+        {
+          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
+          "src": "2021浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "几年前，电影制作人大卫·邦德意识到，他当时五岁和三岁的孩子对屏幕的依赖已经到了这种程度：他对三岁的儿子耳边说“巧克力”都得不到任何反应。"
+        },
+        {
+          "s": "While I tend to buy a lot of books, these three were given to me as gifs, which might add to the meaning I attach to them.",
+          "src": "2020全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "虽然我往往买很多书，但这三本是作为礼物送给我的，这或许增加了我对它们的情感分量。"
+        },
+        {
+          "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
+        },
+        {
+          "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "它们具有先进的通信系统，例如，它们通过肢体语言和气味进行交流。"
+        }
+      ]
     },
     {
       "def": "to join sb for a time, sometimes when you are not welcome or have not been invited （有时不受欢迎或未受邀请而）参加，和 … 在一起，缠着",
       "ex": [
+        {
+          "s": "How attached are you to your landline?",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "第2段主要告诉我们手机的什么？"
+        },
+        {
+          "s": "They are attached to their family.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "它仍然是家庭必需品。"
+        },
         {
           "s": "For all the feelings readers attach to stories, literature is a numbers game, and the test of time is extremely difficult to pass.",
           "src": "2018浙江6月卷·阅读理解A",
@@ -133,13 +141,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "此外，成人仪式在世界各地的不同文化中都存在。"
-        },
-        {
-          "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "它们具有先进的通信系统，例如，它们通过肢体语言和气味进行交流。"
         },
         {
           "s": "As stated in my attached CV, I can speak both English and French fluently.",

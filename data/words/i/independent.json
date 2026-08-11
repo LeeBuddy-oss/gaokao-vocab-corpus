@@ -9,6 +9,33 @@
       "def": "having their own government 国家",
       "ex": [
         {
+          "s": "B achieve their original goals independently",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它会随着AI的发展而消失。"
+        }
+      ]
+    },
+    {
+      "def": "done or given by sb who is not involved in a situation and so is able to judge it fairly 不相干的人所做的（或提供的）；公正的；无偏见的",
+      "ex": [
+        {
+          "s": "It is an independent, non-profit organisation whose mission is to provide medical care to those affected by conflict, epidemics, disasters or a lack of access to health care.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "它是一个独立的非营利组织，其使命是为受冲突、流行病、灾害或缺乏医疗保障影响的人们提供医疗护理。"
+        }
+      ]
+    },
+    {
+      "def": "not connected with or influenced by sth; not connected with each other 不相关的；不受影响的；无关联的",
+      "ex": []
+    },
+    {
+      "def": "supported by private money rather than government money 私营的；独立",
+      "ex": [
+        {
           "s": "It was my junior year of undergraduate, and I was doing an independent study on Victorian literature.",
           "src": "2024全国甲卷·阅读理解D",
           "cat": "gaokao",
@@ -86,30 +113,6 @@
           "t": "它使他们保持独立。"
         },
         {
-          "s": "B achieve their original goals independently",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它会随着AI的发展而消失。"
-        }
-      ]
-    },
-    {
-      "def": "done or given by sb who is not involved in a situation and so is able to judge it fairly 不相干的人所做的（或提供的）；公正的；无偏见的",
-      "ex": []
-    },
-    {
-      "def": "not connected with or influenced by sth; not connected with each other 不相关的；不受影响的；无关联的",
-      "ex": []
-    },
-    {
-      "def": "supported by private money rather than government money 私营的；独立",
-      "ex": []
-    },
-    {
-      "def": "confident and free to do things without needing help from other people 自主的；有主见的",
-      "ex": [
-        {
           "s": "By learning when to ask for help, I eventually found myself on the way to becoming an independent scientist.",
           "src": "2024北京卷·书面表达",
           "cat": "gaokao",
@@ -122,17 +125,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "用更专业的术语来说，群体智慧要求人们的估算相互独立。"
-        }
-      ]
-    },
-    {
-      "def": "having or earning enough money so that you do not have to rely on sb else for help 自立的；自食其力的",
-      "ex": [
-        {
-          "s": "But he’s also an independent thinker.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "但他也是一个独立的思想家。"
         },
         {
           "s": "Morgan 20, Florida, the US People say that 18 marks a new chapter in our lives, and that we should become more independent.",
@@ -147,12 +139,6 @@
           "t": "他深深叹了口气，告诉我经营一家独立书店变得多么困难。"
         },
         {
-          "s": "It is an independent, non-profit organisation whose mission is to provide medical care to those affected by conflict, epidemics, disasters or a lack of access to health care.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "它是一个独立的非营利组织，其使命是为受冲突、流行病、灾害或缺乏医疗保障影响的人们提供医疗护理。"
-        },
-        {
           "s": "It is clear that the elderly have already come to rely on digital technology to help them remain independent and keep in touch with friends and relatives.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
@@ -161,8 +147,23 @@
       ]
     },
     {
-      "def": "not representing or belonging to a particular political party 无党派的；独立的",
+      "def": "confident and free to do things without needing help from other people 自主的；有主见的",
       "ex": []
+    },
+    {
+      "def": "having or earning enough money so that you do not have to rely on sb else for help 自立的；自食其力的",
+      "ex": []
+    },
+    {
+      "def": "not representing or belonging to a particular political party 无党派的；独立的",
+      "ex": [
+        {
+          "s": "But he’s also an independent thinker.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "t": "但他也是一个独立的思想家。"
+        }
+      ]
     }
   ]
 }

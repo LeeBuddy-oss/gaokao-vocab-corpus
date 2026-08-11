@@ -7,15 +7,7 @@
   "defs": [
     {
       "def": "accepted or deserving to be accepted as one of the best or most important of its kind 最优秀的；第一流的",
-      "ex": [
-        {
-          "s": "However, some high sugar brands, like Classic Coca Cola, have accepted the sugar tax and are refusing to change for fear of upsetting consumers.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "然而，一些高糖品牌，如经典可口可乐，已接受糖税，并拒绝改变，以免惹恼消费者。",
-          "year": 2022
-        }
-      ]
+      "ex": []
     },
     {
       "def": "with all the features you would expect to find; very typical 有特点的；有代表性的；典型的",
@@ -32,6 +24,13 @@
     {
       "def": "a book, film/movie or song which is well known and considered to be of very high quality, setting standards for other books, etc. （书、电影或歌曲的）经典作品，名著，杰作",
       "ex": [
+        {
+          "s": "However, some high sugar brands, like Classic Coca Cola, have accepted the sugar tax and are refusing to change for fear of upsetting consumers.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "然而，一些高糖品牌，如经典可口可乐，已接受糖税，并拒绝改变，以免惹恼消费者。",
+          "year": 2022
+        },
         {
           "s": "You need to    61   (real)read at least one good book a week, preferably a classic.",
           "src": "2017浙江11月卷·语法填空",
@@ -75,13 +74,6 @@
           "year": 2017
         },
         {
-          "s": "It was first published in 1911 and is considered a classic of English children's literature.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "它于1911年首次出版，被认为是英国儿童文学的经典之作。",
-          "year": ""
-        },
-        {
           "s": "For example, in his classic novel The Adventures of Tom Sawyer, he famously says, “Writing is easy.",
           "src": "外研社B4 U1",
           "cat": "waiyan",
@@ -101,13 +93,6 @@
           "cat": "waiyan",
           "t": "Joachim ： 15岁的时候，妈妈给我买了一本经典的《史记》。",
           "year": ""
-        },
-        {
-          "s": "They started writing novels, today Charlotte Bronte' Jane Eyre, Emily Bronte's Wuthering Heights and Anne Bronte's Agnes Grey are regarded as classics of world literature.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "他们开始写小说，如今夏洛特·勃朗特的《简爱》、艾米丽·勃朗特的《呼啸山庄》和安妮·勃朗特的《艾格尼丝·格雷》被认为是世界文学的经典。",
-          "year": ""
         }
       ]
     },
@@ -117,7 +102,22 @@
     },
     {
       "def": "the study of ancient Greek and Roman culture, especially their languages and literature 古希腊与古罗马的文化研究（尤指对其语言与文学的研究）",
-      "ex": []
+      "ex": [
+        {
+          "s": "It was first published in 1911 and is considered a classic of English children's literature.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "它于1911年首次出版，被认为是英国儿童文学的经典之作。",
+          "year": ""
+        },
+        {
+          "s": "They started writing novels, today Charlotte Bronte' Jane Eyre, Emily Bronte's Wuthering Heights and Anne Bronte's Agnes Grey are regarded as classics of world literature.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "他们开始写小说，如今夏洛特·勃朗特的《简爱》、艾米丽·勃朗特的《呼啸山庄》和安妮·勃朗特的《艾格尼丝·格雷》被认为是世界文学的经典。",
+          "year": ""
+        }
+      ]
     }
   ]
 }

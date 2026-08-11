@@ -16,13 +16,6 @@
           "year": 2018
         },
         {
-          "s": "12．（1分）I didn't mean                  anything but the ice cream looked so good that I couldn't help               it．（  ）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "t": "12．（1分）我本没打算吃任何东西，但冰淇淋看起来太好吃了，我忍不住____（吃了）它。（  ）",
-          "year": 2018
-        },
-        {
           "s": "Enjoy fun history as we take you through San Francisco for a free taste of ice cream.",
           "src": "2017全国III卷·阅读理解A",
           "cat": "gaokao",
@@ -37,13 +30,6 @@
           "year": 2017
         },
         {
-          "s": "When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "冷冻香蕉与浆果或其他水果片搭配，是制作浓稠、清凉果昔和低脂“冰淇淋”的绝佳基底。",
-          "year": 2018
-        },
-        {
           "s": "Top the whipped cream with your choice of chopped fresh fruit.",
           "src": "人教选必4 U5",
           "cat": "renjiao",
@@ -55,13 +41,6 @@
           "src": "人教选必4 U5",
           "cat": "renjiao",
           "t": "配料：4个蛋清、少许盐、1杯糖、2茶匙面粉、2/3茶匙醋、2/3茶匙香草精、2杯奶油、新鲜水果。再读一遍文本，回答问题。",
-          "year": ""
-        },
-        {
-          "s": "Tiramisu does not look very attractive-it's brown, because of the coffee and dark chocolate, and white, because of the cream and cheese-but all these ingredients make it taste delicious!",
-          "src": "译林选必1 U1",
-          "cat": "yilin",
-          "t": "提拉米苏看起来并不很吸引人——因为咖啡和黑巧克力是棕色的，因为奶油和奶酪是白色的——但所有这些原料混合在一起，使它美味无比！",
           "year": ""
         },
         {
@@ -82,11 +61,27 @@
     },
     {
       "def": "a sweet/candy that has a soft substance like cream inside 构成复合词",
-      "ex": []
+      "ex": [
+        {
+          "s": "12．（1分）I didn't mean                  anything but the ice cream looked so good that I couldn't help               it．（  ）",
+          "src": "2018天津卷",
+          "cat": "gaokao",
+          "t": "12．（1分）我本没打算吃任何东西，但冰淇淋看起来太好吃了，我忍不住____（吃了）它。（  ）",
+          "year": 2018
+        }
+      ]
     },
     {
       "def": "a soft substance or thick liquid used on your skin to protect it or make it feel soft; a similar substance used for cleaning things 护肤霜；洁净剂；清洗液",
-      "ex": []
+      "ex": [
+        {
+          "s": "When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "冷冻香蕉与浆果或其他水果片搭配，是制作浓稠、清凉果昔和低脂“冰淇淋”的绝佳基底。",
+          "year": 2018
+        }
+      ]
     },
     {
       "def": "a pale yellowish-white colour 奶油色；淡黄色；米色",
@@ -98,7 +93,15 @@
     },
     {
       "def": "to mix things together into a soft smooth mixture 把 … 搅成糊状（或奶油状）混合物",
-      "ex": []
+      "ex": [
+        {
+          "s": "Tiramisu does not look very attractive-it's brown, because of the coffee and dark chocolate, and white, because of the cream and cheese-but all these ingredients make it taste delicious!",
+          "src": "译林选必1 U1",
+          "cat": "yilin",
+          "t": "提拉米苏看起来并不很吸引人——因为咖啡和黑巧克力是棕色的，因为奶油和奶酪是白色的——但所有这些原料混合在一起，使它美味无比！",
+          "year": ""
+        }
+      ]
     },
     {
       "def": "to completely defeat sb 彻底打败；狠揍",

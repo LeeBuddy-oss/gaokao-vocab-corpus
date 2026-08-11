@@ -113,22 +113,10 @@
           "t": "Mia，一个社交笨拙的美国女孩，在她久未出现的父亲（王储）去世后，成为了吉诺维亚的公主。"
         },
         {
-          "s": "The sharks are thrown back into the sea where they die slowly and painfully.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "鲨鱼被扔回大海，在那里慢慢地痛苦地死去。"
-        },
-        {
           "s": "Though now regarded as one of the greatest American novels, the book sold poorly to begin with and Fitzgerald died before it received acclaim.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "虽然现在被认为是最伟大的美国小说之一，这本书起初销量不佳，菲茨杰拉德在获得赞誉之前就去世了。"
-        },
-        {
-          "s": "But scientists all agree that if Franklin had actually touched the key, he would certainly have died from the electric shock.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "但科学家们一致认为，如果富兰克林真的碰了钥匙，他肯定会触电身亡。"
         },
         {
           "s": "\"Sadly, Mallory would die on the mountain in 1924, although his body would not be found until many years later.",
@@ -170,7 +158,20 @@
     },
     {
       "def": "a block of metal with a special shape, or with a pattern cut into it, that is used for shaping other pieces of metal such as coins, or for making patterns on paper or leather 模具；冲模；压模",
-      "ex": []
+      "ex": [
+        {
+          "s": "The sharks are thrown back into the sea where they die slowly and painfully.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "鲨鱼被扔回大海，在那里慢慢地痛苦地死去。"
+        },
+        {
+          "s": "But scientists all agree that if Franklin had actually touched the key, he would certainly have died from the electric shock.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "但科学家们一致认为，如果富兰克林真的碰了钥匙，他肯定会触电身亡。"
+        }
+      ]
     }
   ]
 }

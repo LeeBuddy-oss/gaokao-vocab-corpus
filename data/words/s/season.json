@@ -1,192 +1,193 @@
 {
- "meta": {
-  "ph": "ˈsiːzn; NAmE ˈsiːzn",
-  "pos": "noun",
-  "stars": ""
- },
- "defs": [
-  {
-   "def": "any of the four main periods of the year: spring, summer, autumn/fall and winter 季；季节",
-   "ex": [
+  "meta": {
+    "ph": "ˈsiːzn; NAmE ˈsiːzn",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
     {
-     "s": "Open: High Season 1 Apr – 31 Oct: Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00.",
-     "src": "2020全国II卷·阅读理解A",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "开放时间:4月1日 – 10月31日 : Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00."
+      "def": "any of the four main periods of the year: spring, summer, autumn/fall and winter 季；季节",
+      "ex": [
+        {
+          "s": "Open: High Season 1 Apr – 31 Oct: Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00.",
+          "src": "2020全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "开放时间:4月1日 – 10月31日 : Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00."
+        },
+        {
+          "s": "Low Season 1 Nov – 31 Mar: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30.",
+          "src": "2020全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "11月1日 – 3月31日: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30."
+        },
+        {
+          "s": "Chinese New Year is a ___61___ (celebrate) marking the end of the winter season and the beginning of spring.",
+          "src": "2020全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "中华新年号为   61 (快讯),标志着冬季结束和春季开始."
+        },
+        {
+          "s": "The coach is able to focus on the kids while the other parents are relieved to be off the hook for another season.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "教练可以专心照顾孩子,而其他父母则被解除了另一个赛季的勾当."
+        },
+        {
+          "s": "She’ll work for another season.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "她会工作到另一个季节。"
+        },
+        {
+          "s": "What season is it now in Juárez?",
+          "src": "2017浙江卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "华雷斯现在是哪个赛季?"
+        },
+        {
+          "s": "What season is it now in Juárez?",
+          "src": "2017江苏卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "华雷斯现在是哪个赛季?"
+        },
+        {
+          "s": "It’s 5_______ season and there will be a big one across the Atlantic.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "整个大西洋将有一个大季节。"
+        },
+        {
+          "s": "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "每季随节而居;呼吸气息,饮酒,尝果实,辞去各受影响."
+        },
+        {
+          "s": "Life on Earth • Wear ordinary clothes and change according to the seasons.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "地球上的生活 • 穿普通的衣服,并根据季节变化."
+        }
+      ]
     },
     {
-     "s": "Low Season 1 Nov – 31 Mar: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30.",
-     "src": "2020全国II卷·阅读理解A",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "11月1日 – 3月31日: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30."
+      "def": "a period of the year in tropical countries when it is either very dry or it rains a lot （热带地区的）旱/雨季",
+      "ex": [
+        {
+          "s": "During the rainy season, it is along these waterways that rainwater moves down the mountains and into the terraces.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "在雨季,雨水沿着这些水道向山下移动,进入梯田。"
+        },
+        {
+          "s": "31     young plants in the dry season was    32     for a lone boy.",
+          "src": "2020全国新高考I卷·完型填空个",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "旱季的31种幼稚植物是32株,对于一个孤独的男孩来说."
+        },
+        {
+          "s": "A longer dry season.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "更长的旱季。"
+        },
+        {
+          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "从20世纪30年代开始,麦金泰尔说,促使该州水压上升的最大因素是气温升高,导致树木向空气中流失更多的水,更早的雪融也减少了树木在旱季期间的供水."
+        }
+      ]
     },
     {
-     "s": "Chinese New Year is a ___61___ (celebrate) marking the end of the winter season and the beginning of spring.",
-     "src": "2020全国II卷·完形填空",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "中华新年号为   61 (快讯),标志着冬季结束和春季开始."
+      "def": "a period of time during a year when a particular activity happens or is done （一年中开展某项活动的）季节，旺季",
+      "ex": [
+        {
+          "s": "Still, most of us volunteers breathe a sigh of relief when the season comes to a close.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "然而,当季节到来时,我们大多数的志愿者都呼吸着一股松口气。"
+        },
+        {
+          "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "即使这种计时方法在细节上是新颖的,早期的农业社会也将时间与自然现象联系起来。 例如,在古希腊,人们通过向前或向后移动日期来反映季节变化来“修正”官方日历。与环境的暂时联系对于他们的生存至关重要。 同样,我们正在开发的河流时间和其他计时系统可能会鼓励环境意识。"
+        },
+        {
+          "s": "But he is also working at a far more fundamental level: his staff show people how to make floating gardens and fish ponds prevent starvation during the wet season.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "但是,他也在更根本的层面上工作:他的工作人员向人们展示如何在潮湿的季节使漂浮的花园和鱼塘防止饥饿。"
+        }
+      ]
     },
     {
-     "s": "The coach is able to focus on the kids while the other parents are relieved to be off the hook for another season.",
-     "src": "2019全国II卷·阅读理解B",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "教练可以专心照顾孩子,而其他父母则被解除了另一个赛季的勾当."
+      "def": "a period of time in which a play is shown in one place; a series of plays, films/movies or television programmes （一部戏剧在一地的）演出期，上演期；（一系列的戏剧、电影或电视节目的）会演，荟萃",
+      "ex": [
+        {
+          "s": "Why is Emily doing unpaid work in the new season of the show?",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "艾米丽为什么在节目的新赛季做无偿工作?."
+        },
+        {
+          "s": "15 Why is Emily doing unpaid work in the new season of the show?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "15 Emily为什么在节目的新赛季做无偿工作?."
+        }
+      ]
     },
     {
-     "s": "Still, most of us volunteers breathe a sigh of relief when the season comes to a close.",
-     "src": "2019全国II卷·阅读理解B",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "然而,当季节到来时,我们大多数的志愿者都呼吸着一股松口气。"
+      "def": "a period of time during one year when a particular style of clothes, hair, etc. is popular and fashionable （一年中时装、发型等的）流行期",
+      "ex": []
     },
     {
-     "s": "She’ll work for another season.",
-     "src": "2019全国II卷·阅读理解B",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "她会工作到另一个季节。"
+      "def": "easily available and ready to eat because it is the right time of year for them 水果、蔬菜",
+      "ex": [
+        {
+          "s": "We should live with them in harmony and enjoy nature’s gifts, as he describes in his journals: Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "我们应当与他们和谐相处,享受大自然的礼物,正如他在日记中描述的那样:在每一季中随其过去而生活;呼吸空气,饮酒,品尝水果,并接受每个季节的影响。"
+        }
+      ]
     },
     {
-     "s": "What season is it now in Juárez?",
-     "src": "2017浙江卷",
-     "cat": "gaokao",
-     "year": 2017,
-     "t": "华雷斯现在是哪个赛季?"
+      "def": "ready to reproduce 雌性动物",
+      "ex": []
     },
     {
-     "s": "What season is it now in Juárez?",
-     "src": "2017江苏卷",
-     "cat": "gaokao",
-     "year": 2017,
-     "t": "华雷斯现在是哪个赛季?"
+      "def": "not easily available because it is not the right time of year for them 水果、蔬菜",
+      "ex": []
     },
     {
-     "s": "It’s 5_______ season and there will be a big one across the Atlantic.",
-     "src": "外研社B3 U6",
-     "cat": "waiyan",
-     "t": "整个大西洋将有一个大季节。"
-    },
-    {
-     "s": "We should live with them in harmony and enjoy nature’s gifts, as he describes in his journals: Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each.",
-     "src": "外研社B6 U5",
-     "cat": "waiyan",
-     "t": "我们应当与他们和谐相处,享受大自然的礼物,正如他在日记中描述的那样:在每一季中随其过去而生活;呼吸空气,饮酒,品尝水果,并接受每个季节的影响。"
-    },
-    {
-     "s": "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influences of each.",
-     "src": "外研社B6 U5",
-     "cat": "waiyan",
-     "t": "每季随节而居;呼吸气息,饮酒,尝果实,辞去各受影响."
-    },
-    {
-     "s": "Life on Earth • Wear ordinary clothes and change according to the seasons.",
-     "src": "外研社B6 U4",
-     "cat": "waiyan",
-     "t": "地球上的生活 • 穿普通的衣服,并根据季节变化."
+      "def": "at the times of year when few people go on holiday/vacation 度假淡季；旅游淡季",
+      "ex": [
+        {
+          "s": "People have donated more than $1, 500 so far this holiday season.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这个节日,人们捐赠了超过1500美元。"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "def": "a period of the year in tropical countries when it is either very dry or it rains a lot （热带地区的）旱/雨季",
-   "ex": [
-    {
-     "s": "During the rainy season, it is along these waterways that rainwater moves down the mountains and into the terraces.",
-     "src": "外研社B1 U6",
-     "cat": "waiyan",
-     "t": "在雨季,雨水沿着这些水道向山下移动,进入梯田。"
-    },
-    {
-     "s": "31     young plants in the dry season was    32     for a lone boy.",
-     "src": "2020全国新高考I卷·完型填空个",
-     "cat": "gaokao",
-     "year": 2020,
-     "t": "旱季的31种幼稚植物是32株,对于一个孤独的男孩来说."
-    },
-    {
-     "s": "A longer dry season.",
-     "src": "2019浙江卷",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "更长的旱季。"
-    },
-    {
-     "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
-     "src": "2019浙江卷",
-     "cat": "gaokao",
-     "year": 2019,
-     "t": "从20世纪30年代开始,麦金泰尔说,促使该州水压上升的最大因素是气温升高,导致树木向空气中流失更多的水,更早的雪融也减少了树木在旱季期间的供水."
-    }
-   ]
-  },
-  {
-   "def": "a period of time during a year when a particular activity happens or is done （一年中开展某项活动的）季节，旺季",
-   "ex": [
-    {
-     "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
-     "src": "2021北京卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2021,
-     "t": "即使这种计时方法在细节上是新颖的,早期的农业社会也将时间与自然现象联系起来。 例如,在古希腊,人们通过向前或向后移动日期来反映季节变化来“修正”官方日历。与环境的暂时联系对于他们的生存至关重要。 同样,我们正在开发的河流时间和其他计时系统可能会鼓励环境意识。"
-    },
-    {
-     "s": "But he is also working at a far more fundamental level: his staff show people how to make floating gardens and fish ponds prevent starvation during the wet season.",
-     "src": "2017江苏卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2017,
-     "t": "但是,他也在更根本的层面上工作:他的工作人员向人们展示如何在潮湿的季节使漂浮的花园和鱼塘防止饥饿。"
-    }
-   ]
-  },
-  {
-   "def": "a period of time in which a play is shown in one place; a series of plays, films/movies or television programmes （一部戏剧在一地的）演出期，上演期；（一系列的戏剧、电影或电视节目的）会演，荟萃",
-   "ex": [
-    {
-     "s": "Why is Emily doing unpaid work in the new season of the show?",
-     "src": "2022新高考I卷",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "艾米丽为什么在节目的新赛季做无偿工作?."
-    },
-    {
-     "s": "15 Why is Emily doing unpaid work in the new season of the show?",
-     "src": "2022浙江卷",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "15 Emily为什么在节目的新赛季做无偿工作?."
-    }
-   ]
-  },
-  {
-   "def": "a period of time during one year when a particular style of clothes, hair, etc. is popular and fashionable （一年中时装、发型等的）流行期",
-   "ex": []
-  },
-  {
-   "def": "easily available and ready to eat because it is the right time of year for them 水果、蔬菜",
-   "ex": []
-  },
-  {
-   "def": "ready to reproduce 雌性动物",
-   "ex": []
-  },
-  {
-   "def": "not easily available because it is not the right time of year for them 水果、蔬菜",
-   "ex": []
-  },
-  {
-   "def": "at the times of year when few people go on holiday/vacation 度假淡季；旅游淡季",
-   "ex": [
-    {
-     "s": "People have donated more than $1, 500 so far this holiday season.",
-     "src": "2022天津4月卷",
-     "cat": "gaokao",
-     "year": 2022,
-     "t": "这个节日,人们捐赠了超过1500美元。"
-    }
-   ]
-  }
- ]
+  ]
 }

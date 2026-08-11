@@ -44,13 +44,6 @@
           "t": "据说历史是由胜利者书写的，而这些胜利者为进入天才俱乐部设定了标准。"
         },
         {
-          "s": "Praising the effort and not the outcome can also mean recognizing your child when she has worked hard to clean the yard, cook dinner, or finish a book report.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但如果他每天都在场上并且努力拼搏，无论球队输赢你都应赞扬他的努力。"
-        },
-        {
           "s": "Young job seekers are known to be overconfident because they have been praised for everything they have done.",
           "src": "2018上海卷·Becoming an Attractive Employee",
           "cat": "gaokao",
@@ -77,13 +70,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "为了赞扬他们的写作技巧。"
-        },
-        {
-          "s": "When he brings his speech to a nice conclusion ,Whaley invites the rest of the class to praise him.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "当他把演讲圆满结束时，惠利邀请全班同学表扬他。"
         },
         {
           "s": "Parents everywhere praise their kids.",
@@ -168,12 +154,6 @@
           "t": "那么为什么基于《了不起的盖茨比》的电影从未被称赞为＂伟大＂呢？"
         },
         {
-          "s": "Anne was praised in class, and she felt happy as well as ashamed.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "安妮在班上受到了表扬，她既高兴又惭愧。"
-        },
-        {
           "s": "All the horses in your stables are my very teachers.” 5 Those who saw Han Gan’s horse paintings all sang high praises for his unique skill, saying that his horses “could gallop off the paper”.",
           "src": "外研社B3 U4",
           "cat": "waiyan",
@@ -184,6 +164,13 @@
           "src": "外研社B6 U1",
           "cat": "waiyan",
           "t": "然而，杰德为了获得他人的赞赏而展现的形象是虚假的。"
+        },
+        {
+          "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
+          "src": "2020全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "相反，一位身穿全套猴子服装的活动家带着一块标语牌到场，称赞电影制作人：\"谢谢你们没有使用真正的猿类！\""
         }
       ]
     },
@@ -193,19 +180,32 @@
     },
     {
       "def": "to express your approval or admiration for sb/sth 表扬；赞扬；称赞",
-      "ex": []
+      "ex": [
+        {
+          "s": "Praising the effort and not the outcome can also mean recognizing your child when she has worked hard to clean the yard, cook dinner, or finish a book report.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "但如果他每天都在场上并且努力拼搏，无论球队输赢你都应赞扬他的努力。"
+        },
+        {
+          "s": "When he brings his speech to a nice conclusion ,Whaley invites the rest of the class to praise him.",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "当他把演讲圆满结束时，惠利邀请全班同学表扬他。"
+        },
+        {
+          "s": "Anne was praised in class, and she felt happy as well as ashamed.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "安妮在班上受到了表扬，她既高兴又惭愧。"
+        }
+      ]
     },
     {
       "def": "to express your thanks to or your respect for God 颂扬，赞颂（上帝）",
-      "ex": [
-        {
-          "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "相反，一位身穿全套猴子服装的活动家带着一块标语牌到场，称赞电影制作人：\"谢谢你们没有使用真正的猿类！\""
-        }
-      ]
+      "ex": []
     }
   ]
 }

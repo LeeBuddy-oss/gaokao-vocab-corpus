@@ -1,1 +1,95 @@
-{"meta": {"ph": "kəˈmɑːnd; NAmE kəˈmænd", "pos": "noun", "stars": "★"}, "defs": [{"def": "an order given to a person or an animal （给人或动物的）命令", "ex": [{"s": "command armies of killer robotsD. work faster than a mathematician", "src": "2017北京卷·阅读理解D", "cat": "gaokao", "year": 2017, "t": "指挥杀手机器人军团D. 比数学家算得更快"}, {"s": "An order issued by Supreme Allied Commander General Eisenhower to the troops read: “Your task will not be an easy one.", "src": "外研社B6 U3", "cat": "waiyan", "year": "", "t": "盟军最高司令艾森豪威尔将军向部队发布的一项命令写道：“你们的任务并不轻松。”"}]}, {"def": "an instruction given to a computer 指令；命令", "ex": [{"s": "All controls will respond to voice commands, so if you want to change your routine, you just say aloud what you want and the home system will obey.", "src": "人教选必1 U2", "cat": "renjiao", "year": "", "t": "所有控制都将响应语音指令，因此，如果你想改变日常设置，只需大声说出你想要的内容，家庭系统就会照办。"}]}, {"def": "control and authority over a situation or a group of people 控制；管辖；指挥", "ex": [{"s": "When giving commands, people usually use the imperative.", "src": "人教选必2 U5", "cat": "renjiao", "year": "", "t": "在发布命令时，人们通常会使用祈使句。"}, {"s": "He was the commander of the Apollo 11 manned lunar landing mission, and was the first man to step on the lunar surface.", "src": "外研社B2 U6", "cat": "waiyan", "year": "", "t": "他是阿波罗11号载人登月任务的指挥官，也是第一个踏上月球表面的人。"}]}, {"def": "a part of an army, air force, etc. that is organized and controlled separately; a group of officers who give orders （陆军、空军等的）兵团，军区，指挥部，司令部", "ex": []}, {"def": "your knowledge of sth; your ability to do or use sth, especially a language 知识；（尤指对语言的）掌握，运用能力", "ex": [{"s": "During his studies and working life, Lu developed a remarkable command of English, as well as of his native Chinese.", "src": "外研社B6 U6", "cat": "waiyan", "year": "", "t": "在学习和工作生涯中，陆培养了对英语以及母语汉语的非凡掌握（运用能力）。"}]}, {"def": "to tell sb to do sth 掌权者", "ex": []}, {"def": "to be in charge of a group of people in the army, navy, etc. 指挥，统率（陆军、海军等）", "ex": []}, {"def": "to deserve and get sth because of the special qualities you have 不用于进行时", "ex": []}, {"def": "to be in a position from where you can see or control sth 不用于进行时", "ex": []}, {"def": "to have control of sth; to have sth available for use 不用于进行时", "ex": []}]}
+{
+  "meta": {
+    "ph": "kəˈmɑːnd; NAmE kəˈmænd",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "an order given to a person or an animal （给人或动物的）命令",
+      "ex": [
+        {
+          "s": "An order issued by Supreme Allied Commander General Eisenhower to the troops read: “Your task will not be an easy one.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "盟军最高司令艾森豪威尔将军向部队发布的一项命令写道：“你们的任务并不轻松。”"
+        },
+        {
+          "s": "When giving commands, people usually use the imperative.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "在发布命令时，人们通常会使用祈使句。"
+        }
+      ]
+    },
+    {
+      "def": "an instruction given to a computer 指令；命令",
+      "ex": [
+        {
+          "s": "All controls will respond to voice commands, so if you want to change your routine, you just say aloud what you want and the home system will obey.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "所有控制都将响应语音指令，因此，如果你想改变日常设置，只需大声说出你想要的内容，家庭系统就会照办。"
+        }
+      ]
+    },
+    {
+      "def": "control and authority over a situation or a group of people 控制；管辖；指挥",
+      "ex": [
+        {
+          "s": "command armies of killer robotsD. work faster than a mathematician",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "指挥杀手机器人军团D. 比数学家算得更快"
+        },
+        {
+          "s": "He was the commander of the Apollo 11 manned lunar landing mission, and was the first man to step on the lunar surface.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "他是阿波罗11号载人登月任务的指挥官，也是第一个踏上月球表面的人。"
+        }
+      ]
+    },
+    {
+      "def": "a part of an army, air force, etc. that is organized and controlled separately; a group of officers who give orders （陆军、空军等的）兵团，军区，指挥部，司令部",
+      "ex": []
+    },
+    {
+      "def": "your knowledge of sth; your ability to do or use sth, especially a language 知识；（尤指对语言的）掌握，运用能力",
+      "ex": [
+        {
+          "s": "During his studies and working life, Lu developed a remarkable command of English, as well as of his native Chinese.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "在学习和工作生涯中，陆培养了对英语以及母语汉语的非凡掌握（运用能力）。"
+        }
+      ]
+    },
+    {
+      "def": "to tell sb to do sth 掌权者",
+      "ex": []
+    },
+    {
+      "def": "to be in charge of a group of people in the army, navy, etc. 指挥，统率（陆军、海军等）",
+      "ex": []
+    },
+    {
+      "def": "to deserve and get sth because of the special qualities you have 不用于进行时",
+      "ex": []
+    },
+    {
+      "def": "to be in a position from where you can see or control sth 不用于进行时",
+      "ex": []
+    },
+    {
+      "def": "to have control of sth; to have sth available for use 不用于进行时",
+      "ex": []
+    }
+  ]
+}

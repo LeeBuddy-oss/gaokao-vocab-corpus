@@ -30,27 +30,6 @@
           "t": "他认为这是一个理想的阅读场所。"
         },
         {
-          "s": "Your “ideal” self is what you want to be.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这听起来有点令人泄气。"
-        },
-        {
-          "s": "And your “ought” self is the self that does what you ought to be doing to become your “ideal” self.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "但随着减废的月份持续下去，我在自己力所能及的范围内尽我所能。"
-        },
-        {
-          "s": "So, if your “ideal” self is a professional footballer, and your “actual” self isn’t, your “ought” self is the one that spends a lot of time training, exercising, and getting better at football.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我有自己的卧室，所以我开始清理我不需要的东西。"
-        },
-        {
           "s": "Ideally, you’ll end up putting more weight on the latter than the former.",
           "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
@@ -70,12 +49,7 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "餐厅菜单的创意设计"
-        }
-      ]
-    },
-    {
-      "def": "existing only in your imagination or as an idea; not likely to be real 想像的；不切实际的",
-      "ex": [
+        },
         {
           "s": "DX Sports Watch is the ideal choice for you.",
           "src": "外研社B2 U3",
@@ -109,12 +83,39 @@
       ]
     },
     {
+      "def": "existing only in your imagination or as an idea; not likely to be real 想像的；不切实际的",
+      "ex": [
+        {
+          "s": "Your “ideal” self is what you want to be.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这听起来有点令人泄气。"
+        },
+        {
+          "s": "So, if your “ideal” self is a professional footballer, and your “actual” self isn’t, your “ought” self is the one that spends a lot of time training, exercising, and getting better at football.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我有自己的卧室，所以我开始清理我不需要的东西。"
+        }
+      ]
+    },
+    {
       "def": "an idea or standard that seems perfect, and worth trying to achieve or obtain 理想；看似完美的思想（或标准）",
       "ex": []
     },
     {
       "def": "a person or thing that you think is perfect 完美的人（或事物）",
-      "ex": []
+      "ex": [
+        {
+          "s": "And your “ought” self is the self that does what you ought to be doing to become your “ideal” self.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "但随着减废的月份持续下去，我在自己力所能及的范围内尽我所能。"
+        }
+      ]
     }
   ]
 }

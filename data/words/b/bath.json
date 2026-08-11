@@ -1,1 +1,93 @@
-{"meta": {"ph": "bɑːθ; NAmE bæθ", "pos": "noun", "stars": ""}, "defs": [{"def": "a large, long container that you put water in and then get into to wash your whole body 浴缸；浴盆", "ex": [{"s": "It depends on how long you spend in the shower and how large your bath is.", "src": "外研社B2 U6", "cat": "waiyan", "year": "", "t": "这取决于你在淋浴上花多长时间，以及你的浴缸有多大。"}]}, {"def": "the water in a bath/ bathtub, ready to use 浴缸的水", "ex": [{"s": "If you spend more than eight minutes in a shower, you’ll use as much water as in a bath - about 50 litres of water.", "src": "外研社B2 U6", "cat": "waiyan", "year": "", "t": "如果你在淋浴里待超过八分钟，用水量就和洗一次澡差不多——大约50升水。"}]}, {"def": "an act of washing your whole body by sitting or lying in water 洗澡；洗浴", "ex": [{"s": "Lauren Bath Blogging Australia My name is Lauren Elizabeth Pirie Bath.", "src": "外研社B2 U5", "cat": "waiyan", "year": "", "t": "劳伦·巴思　澳大利亚旅游博客　我的名字是劳伦·伊丽莎白·皮里·巴思。"}, {"s": "It’s better to take a shower than a bath.", "src": "外研社B2 U6", "cat": "waiyan", "year": "", "t": "洗澡不如淋浴好。"}, {"s": "It’s not always better to take a shower than a bath.", "src": "外研社B2 U6", "cat": "waiyan", "year": "", "t": "洗澡并不总是比淋浴好。"}]}, {"def": "a public building where you can go to swim 游泳池", "ex": []}, {"def": "a public place where people went in the past to wash or have a bath （旧时的）公共浴室，澡堂", "ex": [{"s": "Then I saw a group of people in bathing suits bouncing up and down in the water.", "src": "2023天津3月卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "然后我看见一群穿着泳衣的人在水里上下蹦跳。"}]}, {"def": "a container with a liquid such as water or a dye in it, in which sth is washed or placed for a period of time. Baths are used in industrial, chemical and medical processes. 浴器，浴锅，染缸（工业、化学以及医学加工处理用）", "ex": [{"s": "They moved in with a local family, the Harrisons, and, like them, had little privacy, rare baths, and a blanket of snow on their quilt when they woke up in the morning.", "src": "2022全国乙卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "他们和当地一户哈里森人家住在一起，和他们一样，几乎没有隐私，很少洗澡，早上醒来被子上是厚厚一层雪。"}]}, {"def": "to give a bath to sb 给 … 洗澡", "ex": []}, {"def": "to have a bath 洗澡", "ex": []}]}
+{
+  "meta": {
+    "ph": "bɑːθ; NAmE bæθ",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a large, long container that you put water in and then get into to wash your whole body 浴缸；浴盆",
+      "ex": [
+        {
+          "s": "It depends on how long you spend in the shower and how large your bath is.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这取决于你在淋浴上花多长时间，以及你的浴缸有多大。"
+        },
+        {
+          "s": "If you spend more than eight minutes in a shower, you’ll use as much water as in a bath - about 50 litres of water.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "如果你在淋浴里待超过八分钟，用水量就和洗一次澡差不多——大约50升水。"
+        },
+        {
+          "s": "Then I saw a group of people in bathing suits bouncing up and down in the water.",
+          "src": "2023天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "然后我看见一群穿着泳衣的人在水里上下蹦跳。"
+        }
+      ]
+    },
+    {
+      "def": "the water in a bath/ bathtub, ready to use 浴缸的水",
+      "ex": []
+    },
+    {
+      "def": "an act of washing your whole body by sitting or lying in water 洗澡；洗浴",
+      "ex": [
+        {
+          "s": "It’s better to take a shower than a bath.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "洗澡不如淋浴好。"
+        },
+        {
+          "s": "It’s not always better to take a shower than a bath.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "洗澡并不总是比淋浴好。"
+        },
+        {
+          "s": "They moved in with a local family, the Harrisons, and, like them, had little privacy, rare baths, and a blanket of snow on their quilt when they woke up in the morning.",
+          "src": "2022全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他们和当地一户哈里森人家住在一起，和他们一样，几乎没有隐私，很少洗澡，早上醒来被子上是厚厚一层雪。"
+        }
+      ]
+    },
+    {
+      "def": "a public building where you can go to swim 游泳池",
+      "ex": []
+    },
+    {
+      "def": "a public place where people went in the past to wash or have a bath （旧时的）公共浴室，澡堂",
+      "ex": [
+        {
+          "s": "Lauren Bath Blogging Australia My name is Lauren Elizabeth Pirie Bath.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "劳伦·巴思　澳大利亚旅游博客　我的名字是劳伦·伊丽莎白·皮里·巴思。"
+        }
+      ]
+    },
+    {
+      "def": "a container with a liquid such as water or a dye in it, in which sth is washed or placed for a period of time. Baths are used in industrial, chemical and medical processes. 浴器，浴锅，染缸（工业、化学以及医学加工处理用）",
+      "ex": []
+    },
+    {
+      "def": "to give a bath to sb 给 … 洗澡",
+      "ex": []
+    },
+    {
+      "def": "to have a bath 洗澡",
+      "ex": []
+    }
+  ]
+}

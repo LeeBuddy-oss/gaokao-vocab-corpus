@@ -70,13 +70,6 @@
           "t": "四分之一的成年人表示，电视厨师让他们在拓展烹饪知识和技能方面更有信心，年轻人对烹饪也越来越感兴趣。"
         },
         {
-          "s": "We also get enjoyment from the knowledge of how something was made.",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们也从了解事物的制作方式中获得享受。"
-        },
-        {
           "s": "At worst, you will have refreshed and deepened your knowledge of the rules you normally apply, so that you can be even more effective next time.",
           "src": "2023天津3月卷·阅读理解D",
           "cat": "gaokao",
@@ -237,12 +230,6 @@
           "t": "你不仅可以发布具体问题，还可以通过阅读来自世界各地其他英语学习者的帖子来扩展你的知识。"
         },
         {
-          "s": "Job requirements Being a wildlife photographer requires good photography skills, knowledge of animal behaviour and a lot of patience.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "工作要求：成为一名野生动物摄影师需要良好的摄影技术、对动物行为的了解以及极大的耐心。"
-        },
-        {
           "s": "This knowledge is passed down through families, which means that new generations continue to use ancient methods of agriculture to maintain the terraces.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
@@ -253,12 +240,6 @@
           "src": "外研社B3 U1",
           "cat": "waiyan",
           "t": "也许我们用这样的认识来安慰自己：我们所说的大部分谎言都是善意的谎言——我们为了保护别人免受真相的伤害而说的小谎。"
-        },
-        {
-          "s": "Make connections between your background knowledge about this Chinese historical figure and the new information you read in the passage.",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "把你关于这位中国历史人物的背景知识与你在文章中读到的新信息联系起来。"
         },
         {
           "s": "This year, with an open mind and new knowledge in mind, I walked into another group interview while telling myself I was that cool senior.",
@@ -272,11 +253,32 @@
     },
     {
       "def": "the state of knowing about a particular fact or situation 知晓；知悉；了解",
-      "ex": []
+      "ex": [
+        {
+          "s": "We also get enjoyment from the knowledge of how something was made.",
+          "src": "2023天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我们也从了解事物的制作方式中获得享受。"
+        },
+        {
+          "s": "Job requirements Being a wildlife photographer requires good photography skills, knowledge of animal behaviour and a lot of patience.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "工作要求：成为一名野生动物摄影师需要良好的摄影技术、对动物行为的了解以及极大的耐心。"
+        }
+      ]
     },
     {
       "def": "working with information rather than producing goods 信息，知识（与产品制造相对）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Make connections between your background knowledge about this Chinese historical figure and the new information you read in the passage.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "把你关于这位中国历史人物的背景知识与你在文章中读到的新信息联系起来。"
+        }
+      ]
     }
   ]
 }

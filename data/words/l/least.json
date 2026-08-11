@@ -266,13 +266,6 @@
           "t": "这就是为什么美国国家气候评估在某种程度上说：\"没有'一刀切'的适应方案。\"尽管如此，有些行动收益很大而风险或成本很低。"
         },
         {
-          "s": "Most long-distance trains especially the sleeping car accommodations, sell out very quickly. ____36____ But no matter when you travel, it’s a good idea to make your reservations at least 90 days in advance.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "大多数长途火车，尤其是卧铺车厢，很快就会售罄。____36____但无论你什么时候出行，提前至少90天预订都是个好主意。"
-        },
-        {
           "s": "You should exercise for at least half an hour each day.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
@@ -285,16 +278,26 @@
           "t": "他们最不经常吃什么食物或喝什么饮料？"
         },
         {
-          "s": "As she talked, I could hear at least three different languages being spoken at the tables around us.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "在她说话的时候，我能听到至少三种不同的语言在周围桌子间被使用。"
-        },
-        {
           "s": "But at least the report shows that things are moving slowly in the right direction.",
           "src": "外研社B5 U4",
           "cat": "waiyan",
           "t": "但至少报告显示事情正在朝着正确的方向缓慢发展。"
+        }
+      ]
+    },
+    {
+      "def": "（用于对否定情况补充肯定的评论）起码",
+      "ex": []
+    },
+    {
+      "def": "even if nothing else is true or you do nothing else 无论如何；反正",
+      "ex": [
+        {
+          "s": "Most long-distance trains especially the sleeping car accommodations, sell out very quickly. ____36____ But no matter when you travel, it’s a good idea to make your reservations at least 90 days in advance.",
+          "src": "2023浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "大多数长途火车，尤其是卧铺车厢，很快就会售罄。____36____但无论你什么时候出行，提前至少90天预订都是个好主意。"
         },
         {
           "s": "What you did on the spacecraft: How you felt: What you enjoyed most/least: Now write your journal entry.",
@@ -305,16 +308,15 @@
       ]
     },
     {
-      "def": "（用于对否定情况补充肯定的评论）起码",
-      "ex": []
-    },
-    {
-      "def": "even if nothing else is true or you do nothing else 无论如何；反正",
-      "ex": []
-    },
-    {
       "def": "（用以减轻前面所说的话的肯定性）至少",
-      "ex": []
+      "ex": [
+        {
+          "s": "As she talked, I could hear at least three different languages being spoken at the tables around us.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "在她说话的时候，我能听到至少三种不同的语言在周围桌子间被使用。"
+        }
+      ]
     }
   ]
 }

@@ -23,13 +23,6 @@
           "year": 2020
         },
         {
-          "s": "Dancing reminds me I’m alive.”",
-          "src": "2018全国III卷·七选五",
-          "cat": "gaokao",
-          "t": "跳舞让我意识到自己还活着。",
-          "year": 2018
-        },
-        {
           "s": "When the gorillas and I frightened each other, I was just glad to find    68   (they) alive.",
           "src": "2018全国III卷·语法填空",
           "cat": "gaokao",
@@ -63,6 +56,13 @@
           "cat": "waiyan",
           "t": "活着将是一项日常挑战，但正如生物圈2实验所证明的那样，并非不可能。",
           "year": ""
+        },
+        {
+          "s": "The letters were Tolkien’s way of keeping Father Christmas alive for his four children, over a period of more than twenty years.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "这些信件是托尔金在二十多年的时间里为他的四个孩子保持圣诞老人活着的方式。",
+          "year": ""
         }
       ]
     },
@@ -94,13 +94,6 @@
           "cat": "waiyan",
           "t": "托尔金父亲的圣诞节信件由BAILLIE TOLKIEN编辑1许多人仍然记得他们小时候圣诞老人的魔力。作为父母，他们试图尽可能长时间地为孩子保持这种魔力。",
           "year": ""
-        },
-        {
-          "s": "The letters were Tolkien’s way of keeping Father Christmas alive for his four children, over a period of more than twenty years.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "这些信件是托尔金在二十多年的时间里为他的四个孩子保持圣诞老人活着的方式。",
-          "year": ""
         }
       ]
     },
@@ -118,7 +111,15 @@
     },
     {
       "def": "aware of sth; knowing sth exists and is important 意识到；认识到；注意到",
-      "ex": []
+      "ex": [
+        {
+          "s": "Dancing reminds me I’m alive.”",
+          "src": "2018全国III卷·七选五",
+          "cat": "gaokao",
+          "t": "跳舞让我意识到自己还活着。",
+          "year": 2018
+        }
+      ]
     },
     {
       "def": "to become interesting and exciting 主题或活动",

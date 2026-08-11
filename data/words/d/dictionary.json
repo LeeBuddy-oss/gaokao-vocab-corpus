@@ -86,13 +86,6 @@
           "t": "关于作者的第一本词典，我们能了解到什么？"
         },
         {
-          "s": "Dictionaries are still a useful tool.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "词典仍然是有用的工具。"
-        },
-        {
           "s": "I use the Concise Oxford Dictionary and the Collins Thesaurus.",
           "src": "2024新高考I卷·七选五",
           "cat": "gaokao",
@@ -174,12 +167,6 @@
           "t": "现象 例子 如今越来越多的 1___________________ 进入词典。"
         },
         {
-          "s": "Open a dictionary, and you’ll be surprised to find that there are many more words about nature than you would think.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "翻开一本词典，你会惊讶地发现关于大自然的词比你想的要多得多。"
-        },
-        {
           "s": "He said that many words describing nature were being added to the new version of the junior dictionary.",
           "src": "外研社B6 U6",
           "cat": "waiyan",
@@ -198,6 +185,24 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "在词典中查词。"
+        }
+      ]
+    },
+    {
+      "def": "a book that explains the words that are used in a particular subject 专业术语大全；专业词典",
+      "ex": [
+        {
+          "s": "Dictionaries are still a useful tool.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "词典仍然是有用的工具。"
+        },
+        {
+          "s": "Open a dictionary, and you’ll be surprised to find that there are many more words about nature than you would think.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "翻开一本词典，你会惊讶地发现关于大自然的词比你想的要多得多。"
         },
         {
           "s": "But there are a few things you can do… Use a dictionary: look up the difficult words.",
@@ -205,16 +210,7 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "但有几件事你可以做……使用词典：查阅难词。"
-        }
-      ]
-    },
-    {
-      "def": "a book that explains the words that are used in a particular subject 专业术语大全；专业词典",
-      "ex": []
-    },
-    {
-      "def": "a list of words in electronic form, for example stored in a computer's spellchecker 电子词典",
-      "ex": [
+        },
         {
           "s": "I don't trust my laptop's spellchecker. ____37____ Of course, these days there are plenty of online dictionaries and thesauruses, but I'm old-fashioned enough to prefer a hard cover and pages I can leaf through with my fingers.",
           "src": "2024新高考I卷·七选五",
@@ -223,6 +219,10 @@
           "t": "我不相信我笔记本电脑的拼写检查。____37____ 当然，如今有很多在线词典和同义词典，但我老派得还是更喜欢精装封面和可以用手指翻阅的书页。"
         }
       ]
+    },
+    {
+      "def": "a list of words in electronic form, for example stored in a computer's spellchecker 电子词典",
+      "ex": []
     }
   ]
 }

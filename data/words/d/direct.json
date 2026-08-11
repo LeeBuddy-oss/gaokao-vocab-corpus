@@ -16,13 +16,6 @@
           "t": "进入正确的区域后，停车工作人员会直接引导你到车位。"
         },
         {
-          "s": "Speak directly to what matters to them.",
-          "src": "2025浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "直截了当地谈他们真正关心的事。"
-        },
-        {
           "s": "This directly impacts how our brain processes motivation and willpower.",
           "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
@@ -128,13 +121,6 @@
           "t": "研究人员发现，在外就餐的增加与____64____（weigh）问题的上升之间存在直接联系。"
         },
         {
-          "s": "The low point of the sheet must be centered directly over, and no more than three inches above, the cup.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "纸张的最低点必须正对杯口中心，且高出杯口不超过三英寸。"
-        },
-        {
           "s": "Now we have the most direct evidence yet that he is right.",
           "src": "2017北京卷·七选五",
           "cat": "gaokao",
@@ -181,12 +167,7 @@
           "src": "外研社B3 U1",
           "cat": "waiyan",
           "t": "直接而诚恳地告诉他，你刚才说话是没有经过思考的。"
-        }
-      ]
-    },
-    {
-      "def": "going in the straightest line between two places without stopping or changing direction 笔直的；径直的；最近的",
-      "ex": [
+        },
         {
           "s": "The word history of typhoon had a far less direct path to the English language than gung-ho.",
           "src": "2018上海卷·Section B",
@@ -197,12 +178,31 @@
       ]
     },
     {
-      "def": "with nothing between sth and the source of the heat or light 直射的",
+      "def": "going in the straightest line between two places without stopping or changing direction 笔直的；径直的；最近的",
       "ex": []
+    },
+    {
+      "def": "with nothing between sth and the source of the heat or light 直射的",
+      "ex": [
+        {
+          "s": "The noise from the LRAD is directed like a ray of light and travels only into the ears of that person, but it is not deadly.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "LRAD发出的声音像光线一样被定向传播，只传入那个人的耳朵，但它并不致命。"
+        }
+      ]
     },
     {
       "def": "saying exactly what you mean in a way that nobody can pretend not to understand 直爽的；直率的；坦率的",
       "ex": [
+        {
+          "s": "Speak directly to what matters to them.",
+          "src": "2025浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "直截了当地谈他们真正关心的事。"
+        },
         {
           "s": "Carson uses a simple, direct style common to fable.",
           "src": "2023全国甲卷·语法填空",
@@ -211,37 +211,11 @@
           "t": "卡森采用了寓言常见的朴素而直白的风格。"
         },
         {
-          "s": "When you make a suggestion, use less direct language than you would to make a statement or give an order.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "当你提建议时，使用的语言要比陈述事实或下命令时更委婉（不那么直白）。"
-        }
-      ]
-    },
-    {
-      "def": "exact 正好的；恰好的",
-      "ex": []
-    },
-    {
-      "def": "related through parents and children rather than brothers, sisters, aunts, etc. 直系的；嫡系的",
-      "ex": []
-    },
-    {
-      "def": "to aim sth in a particular direction or at a particular person 把 … 对准（某方向或某人）",
-      "ex": [
-        {
           "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
           "src": "2020江苏卷·Humor",
           "cat": "gaokao",
           "year": 2020,
           "t": "你可以成为那个把对话引向有趣话题的人，让他人有机会添加幽默。"
-        },
-        {
-          "s": "Directed sound is also beginning to appear in shopping centers and even at homes.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "定向声音也开始出现在购物中心甚至家庭中。"
         },
         {
           "s": "They can be directed onto a specific area.",
@@ -256,20 +230,41 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "定向声音可用于________。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "exact 正好的；恰好的",
+      "ex": [
         {
-          "s": "He directed the wasted water into shallow basins where it froze, and was stored until the spring.",
-          "src": "2017江苏卷·阅读理解D",
+          "s": "In more good news, to write and direct Hollywood films is more common than before for women.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "还有个更好的消息：对女性而言，撰写并执导好莱坞电影比以往更常见了。"
+        }
+      ]
+    },
+    {
+      "def": "related through parents and children rather than brothers, sisters, aunts, etc. 直系的；嫡系的",
+      "ex": [
+        {
+          "s": "The low point of the sheet must be centered directly over, and no more than three inches above, the cup.",
+          "src": "2017全国I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "他把废水引入浅盆中，在那里冻结储存，留到春天使用。"
-        },
+          "t": "纸张的最低点必须正对杯口中心，且高出杯口不超过三英寸。"
+        }
+      ]
+    },
+    {
+      "def": "to aim sth in a particular direction or at a particular person 把 … 对准（某方向或某人）",
+      "ex": [
         {
-          "s": "The noise from the LRAD is directed like a ray of light and travels only into the ears of that person, but it is not deadly.",
+          "s": "Directed sound is also beginning to appear in shopping centers and even at homes.",
           "src": "2020天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "LRAD发出的声音像光线一样被定向传播，只传入那个人的耳朵，但它并不致命。"
+          "t": "定向声音也开始出现在购物中心甚至家庭中。"
         }
       ]
     },
@@ -306,18 +301,19 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "背景信息：《特洛伊》是一部2004年的美国电影，由Wolfgang Petersen执导，大致改编自荷马史诗《伊利亚特》。"
-        },
-        {
-          "s": "In more good news, to write and direct Hollywood films is more common than before for women.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "还有个更好的消息：对女性而言，撰写并执导好莱坞电影比以往更常见了。"
         }
       ]
     },
     {
       "def": "to tell or show sb how to get to somewhere or where to go 给（某人）指路；为（某人）领路",
       "ex": [
+        {
+          "s": "He directed the wasted water into shallow basins where it froze, and was stored until the spring.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "他把废水引入浅盆中，在那里冻结储存，留到春天使用。"
+        },
         {
           "s": "As the snow came down more and more heavily, Emily was directed off the highway.",
           "src": "2026新高考I卷·读后续写",
@@ -329,7 +325,14 @@
     },
     {
       "def": "to give an official order 指示；命令",
-      "ex": []
+      "ex": [
+        {
+          "s": "When you make a suggestion, use less direct language than you would to make a statement or give an order.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "当你提建议时，使用的语言要比陈述事实或下命令时更委婉（不那么直白）。"
+        }
+      ]
     },
     {
       "def": "to send a letter, etc. to a particular place or to a particular person 把（信件等）寄至；交予",

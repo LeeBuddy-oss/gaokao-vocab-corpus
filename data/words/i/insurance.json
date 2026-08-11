@@ -7,6 +7,10 @@
   "defs": [
     {
       "def": "an arrangement with a company in which you pay them regular amounts of money and they agree to pay the costs, for example, if you die or are ill/sick, or if you lose or damage sth 保险",
+      "ex": []
+    },
+    {
+      "def": "the business of providing people with insurance 保险业",
       "ex": [
         {
           "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
@@ -51,17 +55,22 @@
           "year": 2021
         },
         {
+          "s": "Bill: Working as a clerk at my dad's insurance firm?",
+          "src": "外研社B7 U1",
+          "cat": "waiyan",
+          "t": "比尔：在我父亲的保险公司做职员？"
+        }
+      ]
+    },
+    {
+      "def": "money paid by or to an insurance company 保险费；保费",
+      "ex": [
+        {
           "s": "As it became clearer that fashion was what I wanted to do full time, the reality of my day-to-day work at the insurance company became harder.",
           "src": "2021天津3月卷",
           "cat": "gaokao",
           "t": "随着情况越来越清楚时尚是我想要全职从事的现实中日复一日在保险公司的工作变得越来越难熬。",
           "year": 2021
-        },
-        {
-          "s": "Bill: Working as a clerk at my dad's insurance firm?",
-          "src": "外研社B7 U1",
-          "cat": "waiyan",
-          "t": "比尔：在我父亲的保险公司做职员？"
         },
         {
           "s": "An insurance salesman who is about to reach his annual sales target, only for the company to make the target higher, could rightly complain about the company moving the goalposts.",
@@ -70,14 +79,6 @@
           "t": "一个即将达到年度销售目标的保险推销员，发现公司把目标提高了，他完全有权抱怨公司在改变游戏规则。"
         }
       ]
-    },
-    {
-      "def": "the business of providing people with insurance 保险业",
-      "ex": []
-    },
-    {
-      "def": "money paid by or to an insurance company 保险费；保费",
-      "ex": []
     },
     {
       "def": "something you do to protect yourself against sth bad happening in the future （防备不测的）保障措施，安全保证",

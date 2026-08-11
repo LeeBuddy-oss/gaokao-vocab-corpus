@@ -39,6 +39,13 @@
           "src": "外研社B5 U1",
           "cat": "waiyan",
           "t": "当然，我希望在金钱上有更多自由，而且毫无疑问，我迟早会办一张信用卡，但目前我没有稳定的收入，所以办信用卡可能会诱使我花的比挣的多！"
+        },
+        {
+          "s": "I breathed a huge sigh of relief: I had expected sadness, maybe even doubt, but Dad was already looking to the future.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我大大地松了一口气：我原本以为会有悲伤，甚至可能是疑虑，但爸爸已经在展望未来了。"
         }
       ]
     },
@@ -46,25 +53,37 @@
       "def": "无疑；确实地",
       "ex": [
         {
-          "s": "I breathed a huge sigh of relief: I had expected sadness, maybe even doubt, but Dad was already looking to the future.",
-          "src": "2026北京卷·阅读理解B",
+          "s": "How personal stories raise doubts.",
+          "src": "2025北京卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "我大大地松了一口气：我原本以为会有悲伤，甚至可能是疑虑，但爸爸已经在展望未来了。"
+          "year": 2025,
+          "t": "个人故事如何引发疑虑。"
         },
+        {
+          "s": "I had doubts.",
+          "src": "2023新课标I卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我有过疑虑。"
+        },
+        {
+          "s": "I had doubts.",
+          "src": "2023新课标II卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我有过疑虑。"
+        }
+      ]
+    },
+    {
+      "def": "to feel uncertain about sth; to feel that sth is not true, will probably not happen, etc. 怀疑；无把握；不能肯定；认为 … 未必可能",
+      "ex": [
         {
           "s": "Contrary to popular doubt, resolutions made on I January are more effective for this reason.",
           "src": "2025北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2025,
           "t": "与大众的怀疑相反，1月1日制定的决心因此更有效。"
-        },
-        {
-          "s": "How personal stories raise doubts.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "个人故事如何引发疑虑。"
         },
         {
           "s": "One doubter about the safety of cloud seeding is Chuck Doswell, a research scientist who just retired from the University of Oklahoma.",
@@ -100,20 +119,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "为了消除人们对约翰发明的怀疑。"
-        },
-        {
-          "s": "I had doubts.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我有过疑虑。"
-        },
-        {
-          "s": "I had doubts.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我有过疑虑。"
         },
         {
           "s": "D A reasonable doubt about the research process.",
@@ -175,12 +180,7 @@
           "src": "外研社B2 U4",
           "cat": "waiyan",
           "t": "最难忘的一幕是在电影接近尾声时，在Mia自我怀疑的最黑暗时刻，她被父亲留给她的信所打动。"
-        }
-      ]
-    },
-    {
-      "def": "to feel uncertain about sth; to feel that sth is not true, will probably not happen, etc. 怀疑；无把握；不能肯定；认为 … 未必可能",
-      "ex": [
+        },
         {
           "s": "D． Some experts doubt 3D food printing．",
           "src": "2018天津卷·阅读理解C",

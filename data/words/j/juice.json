@@ -32,13 +32,6 @@
           "_matched": true
         },
         {
-          "s": "If you like, a squeeze of fresh lemon juice on the bananas will prevent them turning brown.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "如果你愿意，在香蕉上挤一点新鲜柠檬汁可以防止它们变褐。",
-          "year": 2018
-        },
-        {
           "s": "Why is fresh lemon juice used in freezing bananas?",
           "src": "2018全国II卷·阅读理解B",
           "cat": "gaokao",
@@ -62,7 +55,12 @@
           "src": "人教B3 U5",
           "cat": "renjiao",
           "t": "请给我橙汁。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "the liquid that comes out of a piece of meat when it is cooked 肉汁",
+      "ex": [
         {
           "s": "Then, he goes tothe bar and 4 (order) an orange juice when he hears a voice, \"That's a nice tie.\" Theman5 (look) around but nobody is near him.",
           "src": "北师大选必2 U4",
@@ -72,12 +70,16 @@
       ]
     },
     {
-      "def": "the liquid that comes out of a piece of meat when it is cooked 肉汁",
-      "ex": []
-    },
-    {
       "def": "the liquid in the stomach that helps you to digest food 胃液；消化液",
-      "ex": []
+      "ex": [
+        {
+          "s": "If you like, a squeeze of fresh lemon juice on the bananas will prevent them turning brown.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "如果你愿意，在香蕉上挤一点新鲜柠檬汁可以防止它们变褐。",
+          "year": 2018
+        }
+      ]
     },
     {
       "def": "petrol/gas 汽油",

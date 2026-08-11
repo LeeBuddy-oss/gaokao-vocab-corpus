@@ -32,13 +32,6 @@
           "_matched": true
         },
         {
-          "s": "Many instructors continue to teach using traditional lectures, which lead to lower success rates.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "许多教师继续使用传统的讲授式教学，导致成功率较低。"
-        },
-        {
           "s": "Attending a lecture.",
           "src": "2022新高考I卷",
           "cat": "gaokao",
@@ -51,13 +44,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "课堂活动每天都会有所不同，但学生必须准备好完成简短的课堂写作或测试，这些内容直接来自指定阅读材料或上一堂课的讲座/讨论笔记，因此上课时仔细记笔记很重要。"
-        },
-        {
-          "s": "They are held in the Lecture Room.",
-          "src": "2022全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它们在报告厅展出。"
         },
         {
           "s": "Admission to lectures is free.",
@@ -133,16 +119,7 @@
           "src": "外研社B5 U5",
           "cat": "waiyan",
           "t": "一场典型的讲座通常以直接讨论主题开头。"
-        }
-      ]
-    },
-    {
-      "def": "a long angry talk that sb gives to one person or a group of people because they have done sth wrong （冗长的）教训，训斥，谴责",
-      "ex": []
-    },
-    {
-      "def": "to give a talk or a series of talks to a group of people on a subject, especially as a way of teaching in a university or college （尤指在大学里）开讲座，讲授，讲课",
-      "ex": [
+        },
         {
           "s": "I guess I was better than the others, for Miss Chevalier asked a while later, “Addie, I was wondering if you would recite the whole poem to the Saturday evening’s club.” She said a famous professor was going to give a lecture about the poet, and a presentation of that poem would be a fresh way to start.",
           "src": "2024天津3月卷·阅读Passage 3",
@@ -156,18 +133,37 @@
           "src": "外研社B5 U5",
           "cat": "waiyan",
           "t": "我很荣幸代表与自然融为一体协会在这里发表演讲。"
+        }
+      ]
+    },
+    {
+      "def": "a long angry talk that sb gives to one person or a group of people because they have done sth wrong （冗长的）教训，训斥，谴责",
+      "ex": [
+        {
+          "s": "They are held in the Lecture Room.",
+          "src": "2022全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它们在报告厅展出。"
+        }
+      ]
+    },
+    {
+      "def": "to give a talk or a series of talks to a group of people on a subject, especially as a way of teaching in a university or college （尤指在大学里）开讲座，讲授，讲课",
+      "ex": [
+        {
+          "s": "Many instructors continue to teach using traditional lectures, which lead to lower success rates.",
+          "src": "2023北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "许多教师继续使用传统的讲授式教学，导致成功率较低。"
         },
         {
           "s": "The lecture is one of the oldest teaching methods, and is still widely used today.",
           "src": "外研社B5 U5",
           "cat": "waiyan",
           "t": "讲课是最古老的教学方法之一，至今仍被广泛使用。"
-        }
-      ]
-    },
-    {
-      "def": "to criticize sb or tell them how you think they should behave, especially when it is done in an annoying way （尤指恼人地）指责，训斥，告诫",
-      "ex": [
+        },
         {
           "s": "To try a new way to warm up the coming lecture.",
           "src": "2024天津3月卷·阅读Passage 3",
@@ -177,6 +173,10 @@
           "_matched": true
         }
       ]
+    },
+    {
+      "def": "to criticize sb or tell them how you think they should behave, especially when it is done in an annoying way （尤指恼人地）指责，训斥，告诫",
+      "ex": []
     }
   ]
 }

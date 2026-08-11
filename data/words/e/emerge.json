@@ -16,13 +16,6 @@
           "t": "被新出现的湖泊所证明 B. 被科学家低估"
         },
         {
-          "s": "Across the 320 submissions, a pattern of categories the researchers call a “nature language” began to emerge.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在320份提交材料中，一种被研究人员称为“自然语言”的类别模式开始显现。"
-        },
-        {
           "s": "Meaning emerges through a process of social interaction, not of computation, interaction that shapes the content of the symbols in our heads.",
           "src": "2023浙江1月卷·阅读理解C",
           "cat": "gaokao",
@@ -49,20 +42,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "他的演讲不仅让我惊叹和受到启发，还激发了我内心想要在这个世界做出改变的愿望。"
-        },
-        {
-          "s": "Seconds later, our lizard emerged from its tank with its old skin flowing behind it.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "几秒钟后我们的蜥蜴从箱子里钻了出来旧皮跟在身后飘动。"
-        },
-        {
-          "s": "It turns out that baby red-backed fairy wrens also emerge chirping like their moms.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "结果发现，红背细尾鹩莺幼鸟孵化出来时也会像妈妈一样啁啾。"
         },
         {
           "s": "Seeing an opening in the pupa, he realised that the butterfly was ready to emerge.",
@@ -103,11 +82,34 @@
     },
     {
       "def": "to start to exist; to appear or become known 露头；显现；显露",
-      "ex": []
+      "ex": [
+        {
+          "s": "Across the 320 submissions, a pattern of categories the researchers call a “nature language” began to emerge.",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在320份提交材料中，一种被研究人员称为“自然语言”的类别模式开始显现。"
+        }
+      ]
     },
     {
       "def": "to survive a difficult situation or experience （从困境或苦难经历中）幸存下来，摆脱出来",
-      "ex": []
+      "ex": [
+        {
+          "s": "Seconds later, our lizard emerged from its tank with its old skin flowing behind it.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "几秒钟后我们的蜥蜴从箱子里钻了出来旧皮跟在身后飘动。"
+        },
+        {
+          "s": "It turns out that baby red-backed fairy wrens also emerge chirping like their moms.",
+          "src": "2017江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "结果发现，红背细尾鹩莺幼鸟孵化出来时也会像妈妈一样啁啾。"
+        }
+      ]
     }
   ]
 }

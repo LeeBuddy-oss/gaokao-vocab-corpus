@@ -79,13 +79,6 @@
           "t": "Youth Station旅舍。"
         },
         {
-          "s": "Youth and Me",
-          "src": "2021新高考II卷·应用文写作",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "青春与我"
-        },
-        {
           "s": "Jobs for Youth",
           "src": "2019全国I卷·阅读理解A",
           "cat": "gaokao",
@@ -128,24 +121,6 @@
           "t": "资源管理员青年护林员项目。"
         },
         {
-          "s": "B.A youth is to be regarded with respect.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "B.年轻人应当受到尊重。"
-        }
-      ]
-    },
-    {
-      "def": "the quality or state of being young 年轻；青春；朝气",
-      "ex": [
-        {
-          "s": "Youth means a temperamental predominance of courage over timidity of the appetite, for adventure over the love of ease.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "青春意味着气质上勇气压倒胆怯，对冒险的渴望压倒对安逸的爱好。"
-        },
-        {
           "s": "Plan a camp for teenagers Adventure Camp International Youth Camp Talking about future activities We’ll learn survival skills.",
           "src": "人教B1 U1",
           "cat": "renjiao",
@@ -158,16 +133,28 @@
           "t": "滑雪赛：中国北方美丽城市张家口将于12月举办青年滑雪赛。"
         },
         {
-          "s": "With parents who do everything for them, today’s youth seem to prefer to live like teenagers even when they are in their 20s or 30s.",
-          "src": "人教B1 U5",
-          "cat": "renjiao",
-          "t": "因为有父母为他们包办一切，如今的年轻人似乎即使在二三十岁时也宁愿像青少年一样生活。"
-        },
-        {
           "s": "Take part in a youth project 1 Before you listen, look at the pictures below.",
           "src": "人教B2 U1",
           "cat": "renjiao",
           "t": "参加一个青年项目 1 听之前，请看下面的图片。"
+        }
+      ]
+    },
+    {
+      "def": "the quality or state of being young 年轻；青春；朝气",
+      "ex": [
+        {
+          "s": "Youth and Me",
+          "src": "2021新高考II卷·应用文写作",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "青春与我"
+        },
+        {
+          "s": "Youth means a temperamental predominance of courage over timidity of the appetite, for adventure over the love of ease.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "青春意味着气质上勇气压倒胆怯，对冒险的渴望压倒对安逸的爱好。"
         }
       ]
     },
@@ -177,7 +164,21 @@
     },
     {
       "def": "young people considered as a group （统称）青年，年轻人",
-      "ex": []
+      "ex": [
+        {
+          "s": "B.A youth is to be regarded with respect.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "B.年轻人应当受到尊重。"
+        },
+        {
+          "s": "With parents who do everything for them, today’s youth seem to prefer to live like teenagers even when they are in their 20s or 30s.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "因为有父母为他们包办一切，如今的年轻人似乎即使在二三十岁时也宁愿像青少年一样生活。"
+        }
+      ]
     }
   ]
 }

@@ -37,12 +37,6 @@
           "t": "詹姆斯明天要做什么？"
         },
         {
-          "s": "The two main characters are Captain John Miller, played by Tom Hanks, and Private James Ryan, played by Matt Damon.",
-          "src": "外研社B6 U3",
-          "cat": "waiyan",
-          "t": "两个主要角色是由汤姆·汉克斯饰演的约翰·米勒上尉和由马特·达蒙饰演的二等兵詹姆斯·瑞恩。"
-        },
-        {
           "s": "James Ryan is the fourth son in his family to be sent to fight in the Second World War.",
           "src": "外研社B6 U3",
           "cat": "waiyan",
@@ -53,6 +47,12 @@
     {
       "def": "a situation in which it is difficult or impossible to move because there are so many people or vehicles in one particular place 拥挤；堵塞",
       "ex": [
+        {
+          "s": "The two main characters are Captain John Miller, played by Tom Hanks, and Private James Ryan, played by Matt Damon.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "两个主要角色是由汤姆·汉克斯饰演的约翰·米勒上尉和由马特·达蒙饰演的二等兵詹姆斯·瑞恩。"
+        },
         {
           "s": "Here’s a riddle: What do traffic jams, long lines and waiting for a vacation to start all have in common?",
           "src": "2023全国甲卷·阅读理解D",
@@ -95,6 +95,38 @@
           "t": "也许未来空中也会有交通堵塞。"
         },
         {
+          "s": "James I can’t understand why some people spend their whole life doing just one thing.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "詹姆斯：我不明白为什么有些人一生只做一件事。"
+        },
+        {
+          "s": "For all of Bellevue’s success, adaptive signals are not a cure-all for jammed roadways.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "尽管贝尔维尤取得了成功，但自适应信号并不是解决道路拥堵的万能药。"
+        },
+        {
+          "s": "“Our hope is to have a clean, attractant-free place where bears can pass through without learning bad habits,“ says James Jonkel, longtime biologist who manages bears in and around Missoula.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "“我们的希望是拥有一个干净、没有引诱物的地方，让熊可以经过而不养成坏习惯，”长期负责米苏拉及周边地区熊类管理工作的生物学家詹姆斯·琼克尔说。"
+        },
+        {
+          "s": "While they are rare north of 88°,there is evidence   61   they range all the way across the Arctic, and as far south as James Bay in Canada.",
+          "src": "2019全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "虽然它们在北纬88°以北地区很少见，但有证据表明它们的活动范围遍布整个北极，向南远至加拿大的詹姆斯湾。"
+        }
+      ]
+    },
+    {
+      "def": "a situation in which a machine does not work because sth is stuck in one position 卡住（因而发生故障）",
+      "ex": [
+        {
           "s": "7.How does the woman feel about James' situation？",
           "src": "2019全国I卷",
           "cat": "gaokao",
@@ -108,37 +140,6 @@
           "year": 2019,
           "t": "那位女士对詹姆斯的情况感觉如何？"
         },
-        {
-          "s": "Nominees Usain Bolt Andy Murray LeBron James Michelle's opinion He has won it three times and other people should 1_______, too.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "提名人：尤塞恩·博尔特、安迪·穆雷、勒布朗·詹姆斯。米歇尔的看法：他已经赢了三次，其他人也应该获奖。"
-        },
-        {
-          "s": "James I can’t understand why some people spend their whole life doing just one thing.",
-          "src": "外研社B6 U2",
-          "cat": "waiyan",
-          "t": "詹姆斯：我不明白为什么有些人一生只做一件事。"
-        },
-        {
-          "s": "Kevin Balke, a research engineer at the Texas A&M University Transportation Institute, says that while smart lights can be particularly beneficial for some cities, others are so jammed that only a sharp reduction in the number of cars on the road will make a meaningful difference.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "德克萨斯A&M大学交通运输研究所的研究工程师凯文·巴尔克说，虽然智能灯光对某些城市特别有益，但有些城市拥堵严重，只有大幅减少路上的汽车数量才会有意义。"
-        },
-        {
-          "s": "For all of Bellevue’s success, adaptive signals are not a cure-all for jammed roadways.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "尽管贝尔维尤取得了成功，但自适应信号并不是解决道路拥堵的万能药。"
-        }
-      ]
-    },
-    {
-      "def": "a situation in which a machine does not work because sth is stuck in one position 卡住（因而发生故障）",
-      "ex": [
         {
           "s": "At first, everything went wrong — the plastic broke, the printer jammed, and the pieces didn’t fit together.",
           "src": "2025北京卷·七选五",
@@ -162,7 +163,21 @@
     },
     {
       "def": "to fill sth with a large number of people or things so that it is unable to function as it should 挤满；塞紧",
-      "ex": []
+      "ex": [
+        {
+          "s": "Nominees Usain Bolt Andy Murray LeBron James Michelle's opinion He has won it three times and other people should 1_______, too.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "提名人：尤塞恩·博尔特、安迪·穆雷、勒布朗·詹姆斯。米歇尔的看法：他已经赢了三次，其他人也应该获奖。"
+        },
+        {
+          "s": "Kevin Balke, a research engineer at the Texas A&M University Transportation Institute, says that while smart lights can be particularly beneficial for some cities, others are so jammed that only a sharp reduction in the number of cars on the road will make a meaningful difference.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "德克萨斯A&M大学交通运输研究所的研究工程师凯文·巴尔克说，虽然智能灯光对某些城市特别有益，但有些城市拥堵严重，只有大幅减少路上的汽车数量才会有意义。"
+        }
+      ]
     },
     {
       "def": "to send out radio signals to prevent another radio broadcast from being heard （发射无线电波）干扰",
@@ -170,22 +185,7 @@
     },
     {
       "def": "to play music with other musicians in an informal way without preparing or practising first 即兴演奏",
-      "ex": [
-        {
-          "s": "“Our hope is to have a clean, attractant-free place where bears can pass through without learning bad habits,“ says James Jonkel, longtime biologist who manages bears in and around Missoula.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“我们的希望是拥有一个干净、没有引诱物的地方，让熊可以经过而不养成坏习惯，”长期负责米苏拉及周边地区熊类管理工作的生物学家詹姆斯·琼克尔说。"
-        },
-        {
-          "s": "While they are rare north of 88°,there is evidence   61   they range all the way across the Arctic, and as far south as James Bay in Canada.",
-          "src": "2019全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "虽然它们在北纬88°以北地区很少见，但有证据表明它们的活动范围遍布整个北极，向南远至加拿大的詹姆斯湾。"
-        }
-      ]
+      "ex": []
     }
   ]
 }

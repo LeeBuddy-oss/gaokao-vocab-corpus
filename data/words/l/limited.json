@@ -47,13 +47,6 @@
           "_matched": true
         },
         {
-          "s": "Language capacity is limited by self-control.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "语言能力受自控力限制。"
-        },
-        {
           "s": "They shouldn’t be limited to a single method.",
           "src": "2022天津4月卷·阅读理解D",
           "cat": "gaokao",
@@ -136,18 +129,6 @@
           "src": "外研社B7 U3",
           "cat": "waiyan",
           "t": "总的来说，我不得不承认，在这里，人们对中国文学的了解相当有限。"
-        }
-      ]
-    },
-    {
-      "def": "restricted to a particular limit of time, numbers, etc. 受（ … 的）限制",
-      "ex": [
-        {
-          "s": "This includes, but is not limited to: visual art, graphic art, photography, poetry, short story, non-fiction, etc Submissions may be from existing or newly created work.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "包括但不限于：视觉艺术、平面艺术、摄影、诗歌、短篇小说、非虚构作品等。投稿可以是已有作品或新创作的作品。"
         },
         {
           "s": "Once we found the place, it was stressful getting lights and cameras set up in the limited time.",
@@ -161,6 +142,25 @@
           "src": "外研社B4 U4",
           "cat": "waiyan",
           "t": "一旦站在画前，他们只有有限的时间来欣赏它五米长的描绘汴京汴河沿岸景象的长卷。"
+        }
+      ]
+    },
+    {
+      "def": "restricted to a particular limit of time, numbers, etc. 受（ … 的）限制",
+      "ex": [
+        {
+          "s": "Language capacity is limited by self-control.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "语言能力受自控力限制。"
+        },
+        {
+          "s": "This includes, but is not limited to: visual art, graphic art, photography, poetry, short story, non-fiction, etc Submissions may be from existing or newly created work.",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "包括但不限于：视觉艺术、平面艺术、摄影、诗歌、短篇小说、非虚构作品等。投稿可以是已有作品或新创作的作品。"
         }
       ]
     }

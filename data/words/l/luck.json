@@ -16,14 +16,6 @@
           "t": "我向她表示祝贺并祝她好运。"
         },
         {
-          "s": "Genius and Luck",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "天才与运气。",
-          "_matched": true
-        },
-        {
           "s": "Best of luck with yours learning kung fu in China.",
           "src": "2020全国II卷",
           "cat": "gaokao",
@@ -46,22 +38,6 @@
           "_matched": true
         },
         {
-          "s": "They wanted to try their luck elsewhere.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们想到别处去碰碰运气。",
-          "_matched": true
-        },
-        {
-          "s": "No one will ever know what mix of talent, ambition, energy and luck made Dickens such a singular writer.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "没有人会知道是什么样的才华、抱负、精力和运气的组合，造就了狄更斯这样独一无二的作家。",
-          "_matched": true
-        },
-        {
           "s": "If I could locate the nest, I might have been able to put it back, but no luck.",
           "src": "2017全国I卷·阅读理解B",
           "cat": "gaokao",
@@ -76,20 +52,7 @@
           "year": 2017,
           "t": "幸运眷顾了他们；巴黎的心跳恢复了。",
           "_matched": true
-        }
-      ]
-    },
-    {
-      "def": "chance; the force that causes good or bad things to happen to people 机遇；命运；运气",
-      "ex": []
-    },
-    {
-      "def": "because you believe it will bring you good luck, or because this is a traditional belief 图个吉利；为了带来好运",
-      "ex": []
-    },
-    {
-      "def": "for no particular reason 无缘无故",
-      "ex": [
+        },
         {
           "s": "And good luck with college!",
           "src": "外研社B1 U1",
@@ -101,6 +64,35 @@
           "src": "外研社B1 U5",
           "cat": "waiyan",
           "t": "丹顶鹤在中国文化中是长寿和好运的象征。"
+        }
+      ]
+    },
+    {
+      "def": "chance; the force that causes good or bad things to happen to people 机遇；命运；运气",
+      "ex": [
+        {
+          "s": "Genius and Luck",
+          "src": "2021全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "天才与运气。",
+          "_matched": true
+        },
+        {
+          "s": "They wanted to try their luck elsewhere.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们想到别处去碰碰运气。",
+          "_matched": true
+        },
+        {
+          "s": "No one will ever know what mix of talent, ambition, energy and luck made Dickens such a singular writer.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "没有人会知道是什么样的才华、抱负、精力和运气的组合，造就了狄更斯这样独一无二的作家。",
+          "_matched": true
         },
         {
           "s": "Twain's response was, “That's just my luck.",
@@ -121,6 +113,14 @@
           "t": "当那对兄弟对他的坏运气显得太开心时，亨利不高兴了。"
         }
       ]
+    },
+    {
+      "def": "because you believe it will bring you good luck, or because this is a traditional belief 图个吉利；为了带来好运",
+      "ex": []
+    },
+    {
+      "def": "for no particular reason 无缘无故",
+      "ex": []
     }
   ]
 }

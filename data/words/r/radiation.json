@@ -27,12 +27,6 @@
           "t": "例如，从＂虽然月球可以在几天内到达，但要穿越危险的太阳辐射到达火星则需要几个月＂这句话，我们可以推断出月球比火星更少暴露在危险的辐射中。"
         },
         {
-          "s": "Fortunately, I have shelter, because the landing capsule protects me from the deadly radiation outside.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "幸运的是，我有庇护所，因为着陆舱保护我免受外面致命辐射的伤害。"
-        },
-        {
           "s": "CAUSES OF BURNS You can get burnt by a variety of things: hot liquids, steam, fire, radiation, the sun, electricity, acids, or other chemicals.",
           "src": "人教选必2 U5",
           "cat": "renjiao",
@@ -42,7 +36,14 @@
     },
     {
       "def": "heat, energy, etc. that is sent out in the form of rays 辐射的热（或能量等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Fortunately, I have shelter, because the landing capsule protects me from the deadly radiation outside.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "幸运的是，我有庇护所，因为着陆舱保护我免受外面致命辐射的伤害。"
+        }
+      ]
     },
     {
       "def": "the treatment of cancer and other diseases using radiation 放射疗法",

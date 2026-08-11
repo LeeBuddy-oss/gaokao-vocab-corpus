@@ -65,13 +65,6 @@
           "t": "关于疾病的实验性研究。"
         },
         {
-          "s": "One day I got word that he was admitted to hospital for a serious disease.",
-          "src": "2022浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "有一天我听说他因重病住院了。"
-        },
-        {
           "s": "Tracking of 150 biochemicals in food has been important in revealing the relationships between calories, sugar, fat and the occurrence of common diseases.",
           "src": "2022北京卷·阅读理解C",
           "cat": "gaokao",
@@ -196,7 +189,15 @@
     },
     {
       "def": "something that is very wrong with people's attitudes, way of life or with society 弊端；恶疾；痼疾",
-      "ex": []
+      "ex": [
+        {
+          "s": "One day I got word that he was admitted to hospital for a serious disease.",
+          "src": "2022浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "有一天我听说他因重病住院了。"
+        }
+      ]
     }
   ]
 }

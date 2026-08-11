@@ -86,25 +86,11 @@
           "t": "对我们的环境造成破坏。"
         },
         {
-          "s": "The damage is usually more serious on the first plant, but the neighbors, relatively speaking, stay safer because they heard the alarm and knew what to do.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "损害通常在第一株植物上更严重，但相对而言，邻居们更安全，因为它们听到了警报并知道该怎么做。"
-        },
-        {
           "s": "Damage to local ecology.",
           "src": "2017全国III卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
           "t": "对当地生态的破坏。"
-        },
-        {
-          "s": "In study after study,it appears that these chemical conversations help the neighbors .The damage is usually more serious on the first plant,but the neighbors ,relatively speaking ,stay safer because they heard the alarm and knew what to do.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "研究显示，这些化学“对话”有助于邻居们。损害通常在第一株植物上更严重，但相对而言，邻居们更安全，因为它们听到了警报并知道该怎么做。"
         },
         {
           "s": "Floods have become more damaging in Bangladesh in recent decades.",
@@ -156,6 +142,13 @@
           "src": "外研社B5 U2",
           "cat": "waiyan",
           "t": "B：我会让他们停下，因为这会损坏展品。"
+        },
+        {
+          "s": "The   42   might damage the beauty of the place.",
+          "src": "2019全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "____42____ 可能会破坏该地的美感。"
         }
       ]
     },
@@ -163,11 +156,11 @@
       "def": "harmful effects on sb/sth 损害；伤害",
       "ex": [
         {
-          "s": "Habitat loss, pesticide use, and climate change have caused dramatic declines in pollinator populations over the past couple of decades, which has damaged the US agricultural economy.",
-          "src": "2023浙江1月卷·阅读理解D",
+          "s": "The damage is usually more serious on the first plant, but the neighbors, relatively speaking, stay safer because they heard the alarm and knew what to do.",
+          "src": "2017全国II卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "栖息地的丧失、杀虫剂的使用和气候变化在过去几十年中导致传粉昆虫数量急剧下降，这损害了美国农业经济。"
+          "year": 2017,
+          "t": "损害通常在第一株植物上更严重，但相对而言，邻居们更安全，因为它们听到了警报并知道该怎么做。"
         },
         {
           "s": "Damage changes us before we are ready.",
@@ -191,13 +184,6 @@
           "t": "消极的自我对话会损害自信、降低自尊。"
         },
         {
-          "s": "The   42   might damage the beauty of the place.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "____42____ 可能会破坏该地的美感。"
-        },
-        {
           "s": "Not giving enough praise can be just as damaging gas giving too much.",
           "src": "2019浙江卷",
           "cat": "gaokao",
@@ -208,7 +194,22 @@
     },
     {
       "def": "an amount of money that a court decides should be paid to sb by the person, company, etc. that has caused them harm or injury （法院判定的）损害赔偿金",
-      "ex": []
+      "ex": [
+        {
+          "s": "In study after study,it appears that these chemical conversations help the neighbors .The damage is usually more serious on the first plant,but the neighbors ,relatively speaking ,stay safer because they heard the alarm and knew what to do.",
+          "src": "2017重庆卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "研究显示，这些化学“对话”有助于邻居们。损害通常在第一株植物上更严重，但相对而言，邻居们更安全，因为它们听到了警报并知道该怎么做。"
+        },
+        {
+          "s": "Habitat loss, pesticide use, and climate change have caused dramatic declines in pollinator populations over the past couple of decades, which has damaged the US agricultural economy.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "栖息地的丧失、杀虫剂的使用和气候变化在过去几十年中导致传粉昆虫数量急剧下降，这损害了美国农业经济。"
+        }
+      ]
     }
   ]
 }

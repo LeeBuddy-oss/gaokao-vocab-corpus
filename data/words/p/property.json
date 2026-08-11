@@ -9,13 +9,6 @@
       "def": "a thing or things that are owned by sb; a possession or possessions 所有物；财产；财物",
       "ex": [
         {
-          "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "纸质阅读与电子阅读效果之间的差异，部分与纸张的物理特性有关。"
-        },
-        {
           "s": "Call Lost Property on 13 16 17 during business hours for items lost on Queensland Rail services.",
           "src": "2020全国I卷·阅读理解A",
           "cat": "gaokao",
@@ -77,12 +70,7 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "百分之二十的失物在三个月内被认领。"
-        }
-      ]
-    },
-    {
-      "def": "land and buildings 不动产；房地产",
-      "ex": [
+        },
         {
           "s": "Protect your property: close windows and tape them up, and bring indoors anything that could blow away.",
           "src": "外研社B3 U6",
@@ -94,19 +82,12 @@
           "src": "外研社B7 U4",
           "cat": "waiyan",
           "t": "有些人在出租房屋时遭到了财产损失，还有一些人在共享乘车时发现自己成了盗窃或袭击的受害者。"
-        },
-        {
-          "s": "Her team examined over 2,000 old medical texts, and evaluated 280,000 plants for their medical properties.",
-          "src": "人教选必1 U1",
-          "cat": "renjiao",
-          "t": "她的团队查阅了2000多本古老的医学文献，并对28万种植物的药用特性进行了评估。"
-        },
-        {
-          "s": "She concluded that boiling the sweet wormwood apparently destroyed its medical properties.",
-          "src": "人教选必1 U1",
-          "cat": "renjiao",
-          "t": "她得出结论，煮沸青蒿显然会破坏其药用特性。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "land and buildings 不动产；房地产",
+      "ex": [
         {
           "s": "Some think it is a crime if done without a property owner's permission, while others see this asa richform of non-traditional cultural expression.",
           "src": "北师大B3 U7",
@@ -121,7 +102,27 @@
     },
     {
       "def": "a quality or characteristic that sth has 性质；特性",
-      "ex": []
+      "ex": [
+        {
+          "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "纸质阅读与电子阅读效果之间的差异，部分与纸张的物理特性有关。"
+        },
+        {
+          "s": "Her team examined over 2,000 old medical texts, and evaluated 280,000 plants for their medical properties.",
+          "src": "人教选必1 U1",
+          "cat": "renjiao",
+          "t": "她的团队查阅了2000多本古老的医学文献，并对28万种植物的药用特性进行了评估。"
+        },
+        {
+          "s": "She concluded that boiling the sweet wormwood apparently destroyed its medical properties.",
+          "src": "人教选必1 U1",
+          "cat": "renjiao",
+          "t": "她得出结论，煮沸青蒿显然会破坏其药用特性。"
+        }
+      ]
     }
   ]
 }

@@ -1,1 +1,67 @@
-{"meta":{"ph":"ˈvaɪrəs; NAmE ˈvaɪrəs","pos":"noun","stars":""},"defs":[{"def":"a living thing, too small to be seen without a microscope, that causes infectious disease in people, animals and plants 病毒；滤过性病毒","ex":[{"s":"Not very long ago, it was also unthinkable that a virus would shut down nations and that safety nets would be proven so disastrously lacking in flexibility.","src":"2021北京卷·阅读理解C","cat":"gaokao","year":2021,"t":"不久前病毒导致国家停摆、安全网被证明灾难性地缺乏灵活性也是不可想象的。"},{"s":"It can even help solve present-day problems: In 2015, scientists discovered that a 10th-century English medicine for eve problems could kill a drug-resistant virus.","src":"2020北京卷·阅读理解C","cat":"gaokao","year":2020,"t":"它甚至能帮助解决当代的问题：2015年，科学家发现一种10世纪英格兰治疗眼疾的药方可以杀死一种耐药病毒。"}]},{"def":"a disease caused by a virus 病毒性疾病；病毒病","ex":[]},{"def":"instructions that are hidden within a computer program and are designed to cause faults or destroy data （计算机程序中的）病毒","ex":[{"s":"Some can be very small, like bacteria and viruses, which are so small that we cannot see them with only our eyes.","src":"外研社B4 U5","cat":"waiyan","t":"有些微生物非常小，比如细菌和病毒，小到我们用肉眼根本看不见。"},{"s":"With this goal in mind, a virus was released onto the island.","src":"外研社B5 U5","cat":"waiyan","t":"怀着这个目标，一种病毒被投放到该岛上。"},{"s":"But although the virus caused the rabbit population to decrease from 130,000 to around 10,000, it also meant less food for the cats.","src":"外研社B5 U5","cat":"waiyan","t":"但是，尽管这种病毒使兔子数量从13万降到约1万，但也意味着猫的食物更少了。"},{"s":"It turned out that they developed an immunity to the virus, and their numbers exploded once again.","src":"外研社B5 U5","cat":"waiyan","t":"结果它们对这种病毒产生了免疫力，数量再次暴增。"},{"s":"Doctors battle new disease Doctors are flying to an island off the coast of West Africa after an outbreak of a new disease caused by a flu virus.","src":"外研社B5 U6","cat":"waiyan","t":"医生抗击新型疾病 一种由流感病毒引起的新型疾病爆发后，医生们正飞往西非海岸外的一座岛屿。"}]}]}
+{
+  "meta": {
+    "ph": "ˈvaɪrəs; NAmE ˈvaɪrəs",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a living thing, too small to be seen without a microscope, that causes infectious disease in people, animals and plants 病毒；滤过性病毒",
+      "ex": [
+        {
+          "s": "Not very long ago, it was also unthinkable that a virus would shut down nations and that safety nets would be proven so disastrously lacking in flexibility.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "不久前病毒导致国家停摆、安全网被证明灾难性地缺乏灵活性也是不可想象的。"
+        },
+        {
+          "s": "It can even help solve present-day problems: In 2015, scientists discovered that a 10th-century English medicine for eve problems could kill a drug-resistant virus.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它甚至能帮助解决当代的问题：2015年，科学家发现一种10世纪英格兰治疗眼疾的药方可以杀死一种耐药病毒。"
+        },
+        {
+          "s": "Some can be very small, like bacteria and viruses, which are so small that we cannot see them with only our eyes.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "有些微生物非常小，比如细菌和病毒，小到我们用肉眼根本看不见。"
+        },
+        {
+          "s": "It turned out that they developed an immunity to the virus, and their numbers exploded once again.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "结果它们对这种病毒产生了免疫力，数量再次暴增。"
+        }
+      ]
+    },
+    {
+      "def": "a disease caused by a virus 病毒性疾病；病毒病",
+      "ex": [
+        {
+          "s": "With this goal in mind, a virus was released onto the island.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "怀着这个目标，一种病毒被投放到该岛上。"
+        },
+        {
+          "s": "But although the virus caused the rabbit population to decrease from 130,000 to around 10,000, it also meant less food for the cats.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "但是，尽管这种病毒使兔子数量从13万降到约1万，但也意味着猫的食物更少了。"
+        },
+        {
+          "s": "Doctors battle new disease Doctors are flying to an island off the coast of West Africa after an outbreak of a new disease caused by a flu virus.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "医生抗击新型疾病 一种由流感病毒引起的新型疾病爆发后，医生们正飞往西非海岸外的一座岛屿。"
+        }
+      ]
+    },
+    {
+      "def": "instructions that are hidden within a computer program and are designed to cause faults or destroy data （计算机程序中的）病毒",
+      "ex": []
+    }
+  ]
+}

@@ -1,1 +1,116 @@
-{"meta": {"ph": "ɪmˈplaɪ; NAmE ɪmˈplaɪ", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to suggest that sth is true or that you feel or think sth, without saying so directly 含有 … 的意思；暗示；暗指", "ex": [{"s": "What does the new study imply regarding oaks and sweetgums?", "src": "2026新高考I卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "关于橡树和枫香树，这项新研究暗示了什么？"}, {"s": "What is implied in this passage?", "src": "2026北京卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "这篇文章暗示了什么？"}, {"s": "What does the author imply in the last paragraph?", "src": "2024新高考I卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "作者在最后一段暗示了什么？"}, {"s": "It is implied in this passage that we should _________.", "src": "2024北京卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "本文暗示我们应该______。"}, {"s": "What Dad did for Tara during the swimming competition implies that he is ________.", "src": "2023天津6月卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "在游泳比赛中爸爸为塔拉所做的一切表明他是________。"}, {"s": "What does the passage imply?", "src": "2019北京卷·阅读理解C", "cat": "gaokao", "year": 2019, "t": "这篇文章暗示了什么？"}, {"s": "Having these personality traits implies the pre-anger state, where anger is in the background of your mind.", "src": "2018北京卷·Why Do We Get Angry?", "cat": "gaokao", "year": 2018, "t": "拥有这些性格特征意味着处于愤怒前状态，此时愤怒潜伏在你的脑海深处。"}, {"s": "The underlined part in Paragraph 2 implies __________.", "src": "2017江苏卷·阅读理解D", "cat": "gaokao", "year": 2017, "t": "第2段中划线部分暗示________。"}, {"s": "What does it imply?", "src": "2017江苏卷·Population Change", "cat": "gaokao", "year": 2017, "t": "这意味着什么？"}]}, {"def": "to make it seem likely that sth is true or exists 说明；表明", "ex": [{"s": "Smiles imply happiness, but remember – although they might be laughing on the outside, they might be weeping on the inside.", "src": "外研社B6 U1", "cat": "waiyan", "t": "微笑暗示着快乐，但请记住——虽然他们可能表面上在笑，但内心可能在哭泣。"}, {"s": "Implied meaning is suggested but not directly expressed, i.e.", "src": "人教B2 U2", "cat": "renjiao", "t": "隐含意义是被暗示但未直接表达的意思。"}, {"s": "Identify literal and implied meaning I The Tibetan antelope lives high above sea level.", "src": "人教B2 U2", "cat": "renjiao", "t": "识别字面意义和隐含意义：I 藏羚羊生活在高海拔地区。"}, {"s": "Then talk about the implied meanings of the responses with different intonations.", "src": "人教B3 U5", "cat": "renjiao", "t": "然后谈谈不同语调的回应所隐含的意思。"}, {"s": "Some sentences have an implied meaning which is not clearly stated.", "src": "人教B3 U5", "cat": "renjiao", "t": "有些句子的隐含意义没有明确陈述。"}]}, {"def": "to make sth necessary in order to be successful 思想、行为等", "ex": []}]}
+{
+  "meta": {
+    "ph": "ɪmˈplaɪ; NAmE ɪmˈplaɪ",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to suggest that sth is true or that you feel or think sth, without saying so directly 含有 … 的意思；暗示；暗指",
+      "ex": [
+        {
+          "s": "What does the new study imply regarding oaks and sweetgums?",
+          "src": "2026新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "关于橡树和枫香树，这项新研究暗示了什么？"
+        },
+        {
+          "s": "What is implied in this passage?",
+          "src": "2026北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这篇文章暗示了什么？"
+        },
+        {
+          "s": "What does the author imply in the last paragraph?",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "作者在最后一段暗示了什么？"
+        },
+        {
+          "s": "It is implied in this passage that we should _________.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "本文暗示我们应该______。"
+        },
+        {
+          "s": "What does the passage imply?",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这篇文章暗示了什么？"
+        },
+        {
+          "s": "Having these personality traits implies the pre-anger state, where anger is in the background of your mind.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "拥有这些性格特征意味着处于愤怒前状态，此时愤怒潜伏在你的脑海深处。"
+        },
+        {
+          "s": "The underlined part in Paragraph 2 implies __________.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "第2段中划线部分暗示________。"
+        },
+        {
+          "s": "What does it imply?",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这意味着什么？"
+        },
+        {
+          "s": "Smiles imply happiness, but remember – although they might be laughing on the outside, they might be weeping on the inside.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "微笑暗示着快乐，但请记住——虽然他们可能表面上在笑，但内心可能在哭泣。"
+        },
+        {
+          "s": "Implied meaning is suggested but not directly expressed, i.e.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "隐含意义是被暗示但未直接表达的意思。"
+        },
+        {
+          "s": "Then talk about the implied meanings of the responses with different intonations.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "然后谈谈不同语调的回应所隐含的意思。"
+        }
+      ]
+    },
+    {
+      "def": "to make it seem likely that sth is true or exists 说明；表明",
+      "ex": [
+        {
+          "s": "What Dad did for Tara during the swimming competition implies that he is ________.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在游泳比赛中爸爸为塔拉所做的一切表明他是________。"
+        },
+        {
+          "s": "Identify literal and implied meaning I The Tibetan antelope lives high above sea level.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "识别字面意义和隐含意义：I 藏羚羊生活在高海拔地区。"
+        },
+        {
+          "s": "Some sentences have an implied meaning which is not clearly stated.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "有些句子的隐含意义没有明确陈述。"
+        }
+      ]
+    },
+    {
+      "def": "to make sth necessary in order to be successful 思想、行为等",
+      "ex": []
+    }
+  ]
+}

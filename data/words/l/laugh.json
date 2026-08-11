@@ -37,25 +37,11 @@
           "t": "没有人比他笑得更厉害。"
         },
         {
-          "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
-        },
-        {
           "s": "No one laughed harder than he did.",
           "src": "2023新课标II卷·书面表达",
           "cat": "gaokao",
           "year": 2023,
           "t": "没有人比他笑得更厉害。"
-        },
-        {
-          "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
         },
         {
           "s": "Trembling, they were yet laughing and hugging each other.",
@@ -65,25 +51,11 @@
           "t": "他们颤抖着，却笑着互相拥抱。"
         },
         {
-          "s": "We laughed together, often, but from the stories we’ve shared about ourselves, I know I’m not the only one who faces life’s challenges.",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们经常一起大笑，但从我们分享的故事中，我知道我不是唯一一个面对人生挑战的人。"
-        },
-        {
           "s": "I half expected a____7____— at least an “I hope you’ve learned your lesson”. ____8____, mum laughed and laughed as she read.",
           "src": "2023北京卷",
           "cat": "gaokao",
           "year": 2023,
           "t": "我本以为会得到一个____7____——至少是一句\"我希望你吸取了教训\"。____8____，妈妈读着读着笑个不停。"
-        },
-        {
-          "s": "The next day, when Ms Black read the essay to the class, everyone laughed.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第二天，当布莱克女士在班上朗读这篇文章时，大家都笑了。"
         },
         {
           "s": "“I was afraid that kids from other schools would laugh at him,” he explained uncomfortably.",
@@ -115,21 +87,6 @@
           "_matched": true
         },
         {
-          "s": "He who laughs last laughs longest",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "谁笑到最后，谁笑得最久。",
-          "_matched": true
-        },
-        {
-          "s": "63  (choose), but when he presented his masterpiece to the emperor’s chief minister, the old nan laughed.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "63  （选择），但当他把他的杰作呈给皇帝的首席大臣时，这位老人笑了。"
-        },
-        {
           "s": "Humor lets you better understand life and sometimes helps you laugh at even the worst of your problems.",
           "src": "2020江苏卷·Humor",
           "cat": "gaokao",
@@ -158,13 +115,6 @@
           "year": 2020,
           "t": "他的袜子穿得太高，听__20__乡村音乐，在朋友面前笑得太大声。",
           "_matched": true
-        },
-        {
-          "s": "\"During a time of stress for families, it's nice to be able to help them smile and laugh,\" Parry said.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"在家庭压力较大的时期，能够帮助他们微笑和欢笑是一件美好的事，\"帕里说。"
         },
         {
           "s": "I would have laughed heartily.",
@@ -202,6 +152,13 @@
           "src": "外研社B3 U4",
           "cat": "waiyan",
           "t": "有一刻她好像在嘲笑我，但随后我又从她的微笑中捕捉到一丝悲伤。"
+        },
+        {
+          "s": "I could ____9____ they weren’t making fun of me: they laughed because I had the power to tell a funny story.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我能____9____他们不是在嘲笑我：他们笑是因为我有能力讲一个有趣的故事。"
         }
       ]
     },
@@ -220,21 +177,66 @@
     },
     {
       "def": "the sound you make when you are amused or happy 笑声",
-      "ex": []
+      "ex": [
+        {
+          "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
+          "src": "2023新课标I卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
+        },
+        {
+          "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
+          "src": "2023新课标II卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
+        },
+        {
+          "s": "The next day, when Ms Black read the essay to the class, everyone laughed.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "第二天，当布莱克女士在班上朗读这篇文章时，大家都笑了。"
+        },
+        {
+          "s": "63  (choose), but when he presented his masterpiece to the emperor’s chief minister, the old nan laughed.",
+          "src": "2020全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "63  （选择），但当他把他的杰作呈给皇帝的首席大臣时，这位老人笑了。"
+        }
+      ]
     },
     {
       "def": "an enjoyable and amusing occasion or thing that happens 令人开心的时刻；引人发笑的事；笑料",
-      "ex": []
+      "ex": [
+        {
+          "s": "\"During a time of stress for families, it's nice to be able to help them smile and laugh,\" Parry said.",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"在家庭压力较大的时期，能够帮助他们微笑和欢笑是一件美好的事，\"帕里说。"
+        }
+      ]
     },
     {
       "def": "a person who is amusing and fun to be with 引人发笑的人；逗笑好玩的人",
       "ex": [
         {
-          "s": "I could ____9____ they weren’t making fun of me: they laughed because I had the power to tell a funny story.",
-          "src": "2023北京卷",
+          "s": "We laughed together, often, but from the stories we’ve shared about ourselves, I know I’m not the only one who faces life’s challenges.",
+          "src": "2023天津3月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
-          "t": "我能____9____他们不是在嘲笑我：他们笑是因为我有能力讲一个有趣的故事。"
+          "t": "我们经常一起大笑，但从我们分享的故事中，我知道我不是唯一一个面对人生挑战的人。"
+        },
+        {
+          "s": "He who laughs last laughs longest",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "谁笑到最后，谁笑得最久。",
+          "_matched": true
         }
       ]
     }

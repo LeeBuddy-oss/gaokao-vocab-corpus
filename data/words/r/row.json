@@ -22,12 +22,6 @@
           "t": "她小心翼翼地穿过黑暗，经过一排又一排的玫瑰植物。"
         },
         {
-          "s": "She moves carefully through the darkness and passes many rows of rose plants.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "她小心翼翼地穿过黑暗，经过许多排玫瑰植物。"
-        },
-        {
           "s": "There was a row of trees near his friend’s house, and one of them was much taller than the others.",
           "src": "人教选必1 U5",
           "cat": "renjiao",
@@ -44,13 +38,6 @@
     {
       "def": "a line of seats in a cinema/movie theater, etc. （剧院、电影院等的）一排座位",
       "ex": [
-        {
-          "s": "The traffic signals along Factoria Boulevard in Bellevue, Washington, generally don't flash the same length of green twice in a row, especially at rush hour.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "华盛顿州贝尔维尤市法克托里亚大道上的交通信号灯通常不会连续两次亮相同时长的绿灯，尤其是在高峰时段。"
-        },
         {
           "s": "Locating in front of the Falls, the hotel provides a front-row view of the Canadian Horseshoe Falls.",
           "src": "人教选必2 U5",
@@ -75,6 +62,13 @@
       "def": "if sth happens several times in a row, it happens in exactly the same way each time, and nothing different happens in the time between 连续几次地",
       "ex": [
         {
+          "s": "The traffic signals along Factoria Boulevard in Bellevue, Washington, generally don't flash the same length of green twice in a row, especially at rush hour.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "华盛顿州贝尔维尤市法克托里亚大道上的交通信号灯通常不会连续两次亮相同时长的绿灯，尤其是在高峰时段。"
+        },
+        {
           "s": "If you miss two PASS sessions in a row, you will be deregistered and your place will be given to someone on the waiting list.",
           "src": "2022北京卷·阅读理解A",
           "cat": "gaokao",
@@ -96,7 +90,14 @@
     },
     {
       "def": "to move a boat through water using oars (= long wooden poles with flat ends) 划（船）",
-      "ex": []
+      "ex": [
+        {
+          "s": "She moves carefully through the darkness and passes many rows of rose plants.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "她小心翼翼地穿过黑暗，经过许多排玫瑰植物。"
+        }
+      ]
     },
     {
       "def": "to take sb somewhere in a boat with oars 划船送（某人）",

@@ -15,12 +15,6 @@
           "t": "在她十六岁生日前不久，她被一个改变人生的消息震惊了：她是一个叫做吉诺维亚的虚构王国的公主。"
         },
         {
-          "s": "It tells the story of the Greek hero Odysseus and his ten-year voyage home to his island kingdom of Ithaca after the Trojan War, which is the subject of The Iliad.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它讲述了希腊英雄奥德修斯的故事，以及他在特洛伊战争（这是《伊利亚特》的主题）之后，历经十年回到他的岛国伊萨卡的航程。"
-        },
-        {
           "s": "For example, the mysterious large-eyed, bronze statues of the ancient Shu Kingdom, discovered at the Chinese archeological site at Sanxingdui, were believed to have been able to look across great distances into the stars.",
           "src": "外研社B7 U6",
           "cat": "waiyan",
@@ -37,6 +31,14 @@
           "src": "人教B2 U4",
           "cat": "renjiao",
           "t": "联合王国、大不列颠、英国、英格兰——许多人被这些不同名字的含义搞糊涂了。"
+        },
+        {
+          "s": "Human impact on the animal kingdom, such as hunting and destruction of habitats, ___________a reduction in the population of certain species in the past three decades.",
+          "src": "2023天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "人类对动物王国的影响，如狩猎和栖息地破坏，________导致过去三十年某些物种种群数量的减少。",
+          "_matched": true
         }
       ]
     },
@@ -52,12 +54,10 @@
       "def": "one of the five major groups into which all living things are organized 界（生物的五大类别之一）",
       "ex": [
         {
-          "s": "Human impact on the animal kingdom, such as hunting and destruction of habitats, ___________a reduction in the population of certain species in the past three decades.",
-          "src": "2023天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "人类对动物王国的影响，如狩猎和栖息地破坏，________导致过去三十年某些物种种群数量的减少。",
-          "_matched": true
+          "s": "It tells the story of the Greek hero Odysseus and his ten-year voyage home to his island kingdom of Ithaca after the Trojan War, which is the subject of The Iliad.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它讲述了希腊英雄奥德修斯的故事，以及他在特洛伊战争（这是《伊利亚特》的主题）之后，历经十年回到他的岛国伊萨卡的航程。"
         }
       ]
     }

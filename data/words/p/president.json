@@ -23,13 +23,6 @@
           "t": "牛通常被养在偏远地区，其价值不断上升，使其成为诱人的目标。"
         },
         {
-          "s": "I found the contact information of the company____40____ emailed its president.",
-          "src": "2021新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我找到了这家公司的联系方式并____40____给其总裁发了邮件。"
-        },
-        {
           "s": "After Lincoln was elected President of the US in 1861, they rented the house and   65   （sell）most of their furniture.",
           "src": "2021浙江6月卷·语法填空",
           "cat": "gaokao",
@@ -133,17 +126,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "在用铁丝网包裹根球后，搬运人员让树适应新环境七个月后才进行搬迁。"
-        }
-      ]
-    },
-    {
-      "def": "the person in charge of some organizations, clubs, colleges, etc. （机构、俱乐部、学院等的）负责人，会长，院长，主席",
-      "ex": [
-        {
-          "s": "Once, having been invited to dinner at a university, he was put on the spot when the president suddenly asked him to give a speech.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "有一次，他被邀请到一所大学赴宴，当校长突然请他发表演讲时，他被弄得很尴尬。"
         },
         {
           "s": "With this little joke, Lin was able to make people laugh, while gently telling off the president.",
@@ -172,8 +154,27 @@
       ]
     },
     {
+      "def": "the person in charge of some organizations, clubs, colleges, etc. （机构、俱乐部、学院等的）负责人，会长，院长，主席",
+      "ex": [
+        {
+          "s": "Once, having been invited to dinner at a university, he was put on the spot when the president suddenly asked him to give a speech.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "有一次，他被邀请到一所大学赴宴，当校长突然请他发表演讲时，他被弄得很尴尬。"
+        }
+      ]
+    },
+    {
       "def": "the person in charge of a bank or a commercial organization 银行行长；总经理；董事长；总裁",
-      "ex": []
+      "ex": [
+        {
+          "s": "I found the contact information of the company____40____ emailed its president.",
+          "src": "2021新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我找到了这家公司的联系方式并____40____给其总裁发了邮件。"
+        }
+      ]
     }
   ]
 }

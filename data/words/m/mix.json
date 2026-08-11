@@ -37,13 +37,6 @@
           "t": "尴尬如常我 __27__ 离开了现场。 __28__ 后来当我从朋友那里得知我爸爸 __29__ 击败所有竞争对手赢得了大家的钦佩时我发现我的 __30__ 中夹杂着一丝自豪。"
         },
         {
-          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "公司花费数百万聘请顶尖商业人才。"
-        },
-        {
           "s": "No one will ever know what mix of talent, ambition, energy and luck made Dickens such a singular writer.",
           "src": "2018浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -70,6 +63,30 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "聋人剧院  伦敦 | 英国手语（BSL）"
+        },
+        {
+          "s": "Pour it into a pot an mix it with five grams of smiles.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "倒入锅中，加入五克微笑。"
+        },
+        {
+          "s": "You want to persuade a customer to buy a new mixed fruit drink.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "你想说服一个顾客购买一种新的混合果汁饮料。"
+        },
+        {
+          "s": "Student A is selling a new mixed fruit drink.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "学生A正在销售一种新的混合果汁饮料。"
+        },
+        {
+          "s": "The events that Silkroad organises are either performances, workshops, or mixed musical-artistic displays.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "丝绸之路组织的活动要么是演出，要么是工作坊，要么是音乐与艺术的混合展示。"
         }
       ]
     },
@@ -105,40 +122,24 @@
       "def": "a combination of things that you need to make sth, often sold as a powder to which you add water, etc. 配料，混合料（常为粉状）",
       "ex": [
         {
-          "s": "Pour it into a pot an mix it with five grams of smiles.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "倒入锅中，加入五克微笑。"
-        },
-        {
           "s": "Take, for example,the epic movie Tory, which is in part based on Homer’s The Iliad and was met with mixed reviews from the audience.",
           "src": "外研社B2 U4",
           "cat": "waiyan",
           "t": "以史诗电影《特洛伊》为例，它部分基于荷马的《伊利亚特》，观众对其评价褒贬不一。"
-        },
-        {
-          "s": "You want to persuade a customer to buy a new mixed fruit drink.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "你想说服一个顾客购买一种新的混合果汁饮料。"
-        },
-        {
-          "s": "Student A is selling a new mixed fruit drink.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "学生A正在销售一种新的混合果汁饮料。"
-        },
-        {
-          "s": "The events that Silkroad organises are either performances, workshops, or mixed musical-artistic displays.",
-          "src": "外研社B7 U3",
-          "cat": "waiyan",
-          "t": "丝绸之路组织的活动要么是演出，要么是工作坊，要么是音乐与艺术的混合展示。"
         }
       ]
     },
     {
       "def": "the particular way that instruments and voices are arranged in a piece of music 混录；混音",
-      "ex": []
+      "ex": [
+        {
+          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
+          "src": "2019北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "公司花费数百万聘请顶尖商业人才。"
+        }
+      ]
     },
     {
       "def": "an arrangement of several songs or pieces of music into one continuous piece, especially for dancing 乐曲组合；连奏；连唱",

@@ -30,13 +30,6 @@
           "t": "was being removed（正在被移除）"
         },
         {
-          "s": "If people remove food and attractants from their yards and campsites, grizzlies will typically pass by without trouble.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果人们把食物和引诱物从院子和营地移走，灰熊通常会安然路过，不惹麻烦。"
-        },
-        {
           "s": "I had my own bedroom, so I worked on removing things I didn’t need.",
           "src": "2023浙江1月卷·阅读理解B",
           "cat": "gaokao",
@@ -100,12 +93,6 @@
           "t": "当一组工人运走垃圾时，另一组工人开始拆除座椅和其他剧院设备，为建筑的终结做准备。"
         },
         {
-          "s": "To make sure your appliance is in fact off, remove the plug from its power supply.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "为了确保你的电器确实关闭了，请拔掉电源插头。"
-        },
-        {
           "s": "Remove the shell of the egg.",
           "src": "外研社B3 U3",
           "cat": "waiyan",
@@ -129,13 +116,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "在那里等候的袋子随后被进一步充气以承受红杉的重量，而运输用的袋子被放气并从树下移除。"
-        },
-        {
-          "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "大约那时，Tony Inglis的工程与运输公司接到了从街道上移除电话亭并将其出售的工作。"
         }
       ]
     },
@@ -154,6 +134,12 @@
     {
       "def": "to get rid of sth unpleasant, dirty, etc; to make sth disappear 去除，排除（污渍、不愉快的事物等）；使消失",
       "ex": [
+        {
+          "s": "To make sure your appliance is in fact off, remove the plug from its power supply.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "为了确保你的电器确实关闭了，请拔掉电源插头。"
+        },
         {
           "s": "They provide shade, lower surface temperatures, absorb a surprising amount of airborne carbon, remove tiny pollutants, and provide wildlife habitat along with just plain beauty.",
           "src": "2026新高考I卷·阅读理解C",
@@ -234,7 +220,22 @@
     },
     {
       "def": "to dismiss sb from their position or job 免除，解除（职务等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "If people remove food and attractants from their yards and campsites, grizzlies will typically pass by without trouble.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果人们把食物和引诱物从院子和营地移走，灰熊通常会安然路过，不惹麻烦。"
+        },
+        {
+          "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "大约那时，Tony Inglis的工程与运输公司接到了从街道上移除电话亭并将其出售的工作。"
+        }
+      ]
     }
   ]
 }
