@@ -874,9 +874,9 @@ function renderEntry(entry, word, mmHtml, fam) {
   }
   defs.forEach((d, idx) => {
     html += `<div class="def" data-def-idx="${idx}">` +
-      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle" onclick="toggleDef(this)">▼</span></div>` +
+      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle" onclick="toggleDef(this)">▲</span></div>` +
       (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '') +
-      `<div class="ex-list">`;
+      `<div class="ex-list collapsed">`;
     const exs = d.ex || [];
     if (!exs.length) {
       html += `<div class="def-empty">本义项下暂无例句。</div>`;
