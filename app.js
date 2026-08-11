@@ -888,9 +888,11 @@ function renderEntry(entry, word, mmHtml, fam) {
     exs.forEach((ex, exIdx) => {
       const cat = ex.cat || classify(ex.src);
       html += `<div class="ex s-${cat}">` +
-        `<div class="ex-num">(${exIdx + 1})</div>` +
-        `<div class="ex-sentence">${highlight(ex.s || '', word)}</div>` +
+        `<div class="ex-line">` +
+        `<span class="ex-num">(${exIdx + 1})</span>` +
+        `<span class="ex-sentence">${highlight(ex.s || '', word)}</span>` +
         (ex.src ? `<span class="badge">${esc(ex.src)}</span>` : '') +
+        `</div>` +
         (ex.t ? `<div class="ex-trans">${esc(ex.t)}</div>` : '') +
         `</div>`;
     });
