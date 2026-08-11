@@ -1,1 +1,93 @@
-{"meta":{"ph":"ˈɡriːnhaʊs; NAmE ˈɡriːnhaʊs","pos":"noun","stars":"★"},"defs":[{"def":"a building with glass sides and a glass roof for growing plants in 温室；暖房","ex":[{"s":"As the world races to decarbonize everything, it faces particular problems with transportation — which accounts for about a quarter of our energy-related greenhouse gas emissions.","src":"2025新高考I卷·阅读理解A","cat":"gaokao","year":2025,"t":"当世界突速推进万物脱碳时，交通领域面临特殊问题——交通约占"},{"s":"Heatherwick Studio recently built a greenhouse at the edge of the National Trust’s Woolbeding Gardens.","src":"2024新高考I卷·语法填空","cat":"gaokao","year":2024,"t":"赫斯维克工作室最近在英国国民信托的伍尔贝丁花园边缘建了一座温室。"},{"s":"Further, the Silk Route Garden around the greenhouse ____60____ (walk) visitors through a journey influenced by the ancient Silk Road, by which silk as well as many plant species came to Britain for ____61____ first time.","src":"2024新高考I卷·语法填空","cat":"gaokao","year":2024,"t":"此外，温室周围的丝路花园____（带领）游客踏上一段受古丝绸之路影响的旅程，丝绸以及许多植物物种正是通过这条路线____第一次来到英国。"},{"s":"In fact, Royte writes, “if food waste were a country, it would be the third largest producer of greenhouse gases in the world.”","src":"2022全国新高考I卷·阅读理解B","cat":"gaokao","year":2022,"t":"事实上，Royte写道，\"如果食物浪费是一个国家，它将是世界上第三大温室气体排放国。\""},{"s":"The solar still works by creating a greenhouse under the plastic.","src":"2017全国I卷·阅读理解D","cat":"gaokao","year":2017,"t":"太阳能蒸馏器是通过在塞料下方处造一个温室来工作的。"},{"s":"In southern Spain the sudden increase of greenhouses (which reflect light back to space) has changed the warming trend locally, and actually cooled the region.","src":"2017江苏卷·阅读理解D","cat":"gaokao","year":2017,"t":"在西班牙南部，温室（将光线反射回太空）的突然增加已经改变了当地的变暖趋势，实际上使该地区降温了。"},{"s":"While Spain as a whole is heating up quickly, temperatures near the greenhouses have decreased.","src":"2017江苏卷·阅读理解D","cat":"gaokao","year":2017,"t":"虽然西班牙整体上正在快速升温，但温室附近的温度却下降了。"},{"s":"The process also produces more greenhouse gases.","src":"外研社B2 U6","cat":"waiyan","t":"这个过程也会产生更多的温室气体。"},{"s":"It is the production of food, not it transport, that uses most of the energy and produces most of the greenhouse gases.","src":"外研社B2 U6","cat":"waiyan","t":"是食物的生产，而不是运输，消耗了大部分能源并产生了大部分温室气体。"},{"s":"In some cases, local produce might have used more energy and produced more greenhouse gases than produce grown a long way away - even taking into account its transport.","src":"外研社B2 U6","cat":"waiyan","t":"在某些情况下，本地农产品可能比远距离种植的农产品消耗了更多的能源并产生了更多的温室气体——即使考虑到其运输。"},{"s":"It also produces more greenhouse gases.","src":"外研社B2 U6","cat":"waiyan","t":"它也会产生更多的温室气体。"},{"s":"We could also say Sometimes, even when we consider food transport, local might have used more energy and produced more greenhouse gases than food that is grown a long way away.","src":"外研社B2 U6","cat":"waiyan","t":"我们也可以说：有时，即使考虑到食物运输，本地食物也可能比远距离种植的食物消耗更多能源并产生更多温室气体。"}]}]}
+{
+  "meta": {
+    "ph": "ˈɡriːnhaʊs; NAmE ˈɡriːnhaʊs",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a building with glass sides and a glass roof for growing plants in 温室；暖房",
+      "ex": [
+        {
+          "s": "As the world races to decarbonize everything, it faces particular problems with transportation — which accounts for about a quarter of our energy-related greenhouse gas emissions.",
+          "src": "2025新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "随着全球竞相为一切去碳化，交通面临着特殊难题——它约占我们与能源相关的温室气体排放的四分之一。"
+        },
+        {
+          "s": "Heatherwick Studio recently built a greenhouse at the edge of the National Trust’s Woolbeding Gardens.",
+          "src": "2024新高考I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "Heatherwick工作室最近在英国国家信托Woolbeding花园的边缘建了一座温室。"
+        },
+        {
+          "s": "Further, the Silk Route Garden around the greenhouse ____60____ (walk) visitors through a journey influenced by the ancient Silk Road, by which silk as well as many plant species came to Britain for ____61____ first time.",
+          "src": "2024新高考I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "此外，温室周围的丝绸之路花园____ 60 ____ （步行）游客经历了受古代丝绸之路影响的旅程，丝绸和许多植物物种首次来到英国____ 61 ____。"
+        },
+        {
+          "s": "In fact, Royte writes, “if food waste were a country, it would be the third largest producer of greenhouse gases in the world.”",
+          "src": "2022全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "事实上，罗伊特写道：\"如果食物浪费是一个国家，它将是世界第三大温室气体排放国。\""
+        },
+        {
+          "s": "The solar still works by creating a greenhouse under the plastic.",
+          "src": "2017全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "太阳能蒸馏器通过在塑料下制造温室效应工作。"
+        },
+        {
+          "s": "In southern Spain the sudden increase of greenhouses (which reflect light back to space) has changed the warming trend locally, and actually cooled the region.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "在西班牙南部，温室（将光线反射回太空）的突然增加已经改变了当地的变暖趋势，实际上使该地区降温了。"
+        },
+        {
+          "s": "While Spain as a whole is heating up quickly, temperatures near the greenhouses have decreased.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "虽然西班牙整体在迅速升温，但温室附近的气温却下降了。"
+        },
+        {
+          "s": "The process also produces more greenhouse gases.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "这个过程也会产生更多的温室气体。"
+        },
+        {
+          "s": "It is the production of food, not it transport, that uses most of the energy and produces most of the greenhouse gases.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "是食物的生产，而不是运输，消耗了大部分能源并产生了大部分温室气体。"
+        },
+        {
+          "s": "In some cases, local produce might have used more energy and produced more greenhouse gases than produce grown a long way away - even taking into account its transport.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "在某些情况下，本地农产品可能比远距离种植的农产品消耗了更多的能源并产生了更多的温室气体——即使考虑到其运输。"
+        },
+        {
+          "s": "It also produces more greenhouse gases.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它也会产生更多的温室气体。"
+        },
+        {
+          "s": "We could also say Sometimes, even when we consider food transport, local might have used more energy and produced more greenhouse gases than food that is grown a long way away.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说：有时候，即使我们考虑了食品运输的因素，本地食品也可能比远方种植的食品消耗了更多能源并产生了更多温室气体。"
+        }
+      ]
+    }
+  ]
+}

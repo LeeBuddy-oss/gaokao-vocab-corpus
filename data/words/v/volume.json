@@ -7,14 +7,7 @@
   "defs": [
     {
       "def": "the amount of space that an object or a substance fills; the amount of space that a container has 体积；容积；容量",
-      "ex": [
-        {
-          "s": "The Lord of the Rings was published in three volumes in 1954 and 1955, and has become one of the world's best-selling novel 2 Every Christmas, an envelope with a North Pole stamp arrived.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "《指环王》于1954和1955年分三卷出版，已成为全球最畅销的小说之一。 2 每年圣诞节，都会收到一个贴着北极邮戳的信封。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the amount of sth 量；额",
@@ -27,7 +20,7 @@
           "s": "You might want to: • relax and make eye contact with the audience • use gestures when appropriate • vary your tone and volume 1 Select a representative from the group to deliver the speech to the class.",
           "src": "外研社B6 U6",
           "cat": "waiyan",
-          "t": "你也许可以：• 放松并与观众进行眼神交流 • 在适当的时候使用手势 • 变换你的语调和音量 1 从小组中选出一名代表向全班发表演讲。"
+          "t": "你或许想要：• 放松并与听众保持眼神交流 • 在适当的时候使用手势 • 变换你的语调和音量 1 从小组中选一名代表向全班发表演讲。"
         }
       ]
     },
@@ -35,25 +28,23 @@
       "def": "a book, that is part of a series of books （成套书籍中的）一卷，一册",
       "ex": [
         {
-          "s": "The Digital World is a set of volumes____40____aim to describe how digital systems influence society and help readers understand the nature of digital systems and their many interacting parts.",
-          "src": "2020全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "丛书的每一卷都探讨了____41____广泛的材料，解释了数字系统主要应用的基本概念，____42____并讨论了它们对日常生活的影响。"
-        },
-        {
           "s": "Each volume in the set explores____41____wide range of material, explains the basic concepts of major applications of digital systems, ____42____discusses the influences they have on everyday life.",
           "src": "2020全国新高考II卷·语法填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "这套丛书中的每一卷都探讨____41____广泛的材料，解释数字系统主要应用的基本概念，____42____并讨论它们对日常生活的影响。"
-        },
+          "t": "丛书的每一卷都探讨了____41____广泛的材料，解释了数字系统主要应用的基本概念，____42____并讨论了它们对日常生活的影响。"
+        }
+      ]
+    },
+    {
+      "def": "a book 书",
+      "ex": [
         {
-          "s": "Readers____44____（encourage）to continue exploring the digital world with the guidance of_____45_____（we）Further Resources section featured in each volume.",
+          "s": "The Digital World is a set of volumes____40____aim to describe how digital systems influence society and help readers understand the nature of digital systems and their many interacting parts.",
           "src": "2020全国新高考II卷·语法填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "读者____44____（encourage，鼓励）在每一卷都设有的、由_____45____（we）撰写的“延伸资源”栏目指引下，继续探索数字世界。"
+          "t": "《数字世界》是一套丛书，___40___旨在描述数字系统如何影响社会，并帮助读者理解数字系统的本质及其众多相互作用的组成部分。"
         },
         {
           "s": "More recently, as books have become inexpensive or even throwaway, artists have used them as the raw material for artworks — transforming covers, pages or even complete volumes into paintings and sculptures.",
@@ -65,13 +56,26 @@
       ]
     },
     {
-      "def": "a book 书",
+      "def": "a series of different issues of the same magazine, especially all the issues for one year 卷，合订本（同一杂志的一系列期刊，尤指一年的）",
       "ex": [
+        {
+          "s": "The Lord of the Rings was published in three volumes in 1954 and 1955, and has become one of the world's best-selling novel 2 Every Christmas, an envelope with a North Pole stamp arrived.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "《指环王》于 1954 年和 1955 年分三卷出版，已成为世界上最畅销的小说之一 2 每年圣诞节，一封带着北极邮戳的信封都会如期而至。"
+        },
+        {
+          "s": "Readers____44____（encourage）to continue exploring the digital world with the guidance of_____45_____（we）Further Resources section featured in each volume.",
+          "src": "2020全国新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "读者____44____（encourage）在每卷附有的_____45_____（we）“延伸资源”栏目的指引下继续探索数字世界。"
+        },
         {
           "s": "The 7th century: Xuanzang, a Chinese monk, scholar and traveller, translated volumes of scriptures from Sanskrit to Chinese.",
           "src": "外研社B7 U3",
           "cat": "waiyan",
-          "t": "7世纪：中国僧人、学者和旅行家玄奘将大量佛经从梵文译为中文。"
+          "t": "7世纪:X宗,中国道士,学者,旅行家,翻译经文各卷,从梵文译为中文."
         },
         {
           "s": "At its last printing, it was 20 volumes, with nearly 22,000 pages.",
@@ -86,10 +90,6 @@
           "t": "默里计划编一部约6400页、分四卷、在10年内完成的词典。"
         }
       ]
-    },
-    {
-      "def": "a series of different issues of the same magazine, especially all the issues for one year 卷，合订本（同一杂志的一系列期刊，尤指一年的）",
-      "ex": []
     }
   ]
 }

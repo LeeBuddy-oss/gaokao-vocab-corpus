@@ -13,7 +13,7 @@
           "src": "2026浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
-          "t": "在SLEAP出现之前，追踪植物和动物的物理特征需要大量人力，这减缓了科学研究进程。"
+          "t": "在SLEAP出现之前，追踪动植物物理特征需要大量人工，拖慢了科研进程。"
         },
         {
           "s": "The rising labor cost of building solar farms.",
@@ -41,7 +41,7 @@
           "src": "2020天津6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "她以前做过的繁重体力劳动。",
+          "t": "她在乡村度过的纯真童年",
           "_matched": true
         },
         {
@@ -49,15 +49,7 @@
           "src": "2017重庆卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "23.什么时候可以看到希伯来语演出的戏剧？"
-        },
-        {
-          "s": "Perhaps most   47  , however, was the fact that this man spent hours studying every day after hard physical labor.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，也许最____47____的是，这个人每天在繁重的体力劳动之后还要花数小时学习。",
-          "_matched": true
+          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
         },
         {
           "s": "Building the Taj Mahal was a labour of love.",
@@ -87,7 +79,7 @@
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "法国人非常看重每周35小时工作制——如此看重，以至于一些工会最近与一批公司达成协议，限制独立承包商待命的小时数。",
+          "t": "法国人极其看重35小时工作周——以至于一些工会最近与一批公司达成协议，限制独立承包商待命的时长。",
           "_matched": true
         },
         {
@@ -95,7 +87,7 @@
           "src": "2017全国II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "通过将《爱的徒劳》丰富而幽默的文本转化为BSL的身体语言，聋人剧院创造了莎士比亚喜剧的新诠释，旨在通过向两个群体同时表演来架起聋人世界与听人世界之间的桥梁。"
+          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
         },
         {
           "s": "Lover’s Labour’s Lost.",
@@ -110,6 +102,14 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "我们两人都具有美国演员典型的品质和美德：幽默、进取、互相调侃——但始终带着一种潜在的深情。"
+        },
+        {
+          "s": "Bring down the cost of labor.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "让工作更有吸引力。",
+          "_matched": true
         }
       ]
     },
@@ -121,15 +121,7 @@
           "src": "2021新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "一位澳大利亚教授正在开发一种机器人来监测放牧牛群的健康状况，这一发展可能给一个几十年来主要依赖低技术方式、正面临劳动力短缺的行业带来重大变化。",
-          "_matched": true
-        },
-        {
-          "s": "Bring down the cost of labor.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "降低劳动力成本。",
+          "t": "一位澳大利亚教授正在开发一种机器人，用于监测放牧牛群的健康，这一进展可能给一个几十年来主要依赖低技术手段、正面临劳动力短缺的行业带来巨大变化。",
           "_matched": true
         },
         {
@@ -161,7 +153,16 @@
     },
     {
       "def": "to do hard physical work 干苦力活",
-      "ex": []
+      "ex": [
+        {
+          "s": "Perhaps most   47  , however, was the fact that this man spent hours studying every day after hard physical labor.",
+          "src": "2024浙江1月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "然而，也许最____47____的是，这个人在繁重体力劳作后每天还花数小时学习。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "to move with difficulty and effort 困难吃力地行进",

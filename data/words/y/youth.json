@@ -9,25 +9,66 @@
       "def": "the time of life when a person is young, especially the time before a child becomes an adult 青年时期（尤指成年以前）",
       "ex": [
         {
+          "s": "Read our Youth Policy Guidelines for youth under the age of 15.",
+          "src": "2024新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "15岁以下的青少年请阅读我们的青少年政策指南。"
+        },
+        {
+          "s": "Youth Station Hostel",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "Youth Station旅舍"
+        },
+        {
+          "s": "If you’re looking for cleanliness and a modern hostel, look no further than Youth Station.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如果你想要干净现代的青旅，Youth Station是不二之选。"
+        }
+      ]
+    },
+    {
+      "def": "the quality or state of being young 年轻；青春；朝气",
+      "ex": [
+        {
+          "s": "Youth and Me",
+          "src": "2021新高考II卷·应用文写作",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "青春与我"
+        },
+        {
+          "s": "Youth means a temperamental predominance of courage over timidity of the appetite, for adventure over the love of ease.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。"
+        }
+      ]
+    },
+    {
+      "def": "a young man 青年男子；小伙子",
+      "ex": []
+    },
+    {
+      "def": "young people considered as a group （统称）青年，年轻人",
+      "ex": [
+        {
           "s": "Youth Panel on 18 July.",
           "src": "2025北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
-          "t": "7月18日青年论坛。"
+          "t": "7月18日的青年座谈会。"
         },
         {
           "s": "Their app quickly grew popular in town and even won a local youth innovation award.",
           "src": "2025北京卷·七选五",
           "cat": "gaokao",
           "year": 2025,
-          "t": "他们的应用很快在镇上走红，甚至还获得了一个本地青年创新奖。"
-        },
-        {
-          "s": "Read our Youth Policy Guidelines for youth under the age of 15.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "15岁以下的青少年请阅读我们的青少年政策指南。"
+          "t": "他们的应用很快在镇上流行起来，甚至还拿了一个本地青年创新奖。"
         },
         {
           "s": "We offer scholarships to low-income schools and youth organizations, subject to availability.",
@@ -48,35 +89,21 @@
           "src": "2022北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
-          "t": "收到他的邀请后不久，申请加入自然青年和地球青年团体的表格通过我的高中发放了出来。"
+          "t": "不久,我收到了他的邀请, 申请加入 \" 青年为自然 \" 和 \" 青年为星球 \" 团体 通过我的高中。"
         },
         {
           "s": "When asked what advice he’d give other entrepreneurial youth, he says, “Prepare and have your family’s support.",
           "src": "2022北京卷·书面表达",
           "cat": "gaokao",
           "year": 2022,
-          "t": "当被问到他会给其他有创业精神的青年什么建议时，他说，\"做好准备并获得家人的支持。"
-        },
-        {
-          "s": "Youth Station Hostel",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "Youth Station旅舍"
-        },
-        {
-          "s": "If you’re looking for cleanliness and a modern hostel, look no further than Youth Station.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "如果你在寻找干净整洁和现代化的旅舍，Youth Station就是你的不二选择。"
+          "t": "当被问及会给其他创业青年什么建议时，他说：“做好准备，并获得家人的支持。”"
         },
         {
           "s": "Youth Station Hostel.",
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "Youth Station旅舍。"
+          "t": "青年站招待所."
         },
         {
           "s": "Jobs for Youth",
@@ -97,7 +124,7 @@
           "src": "2019全国I卷·阅读理解A",
           "cat": "gaokao",
           "year": 2019,
-          "t": "你可以申请成为资源管理员青年护林员，今年夏天在当地自然资源管理项目上工作八周。"
+          "t": "你可以申请成为“资源管理青年护林员”，今年夏天用八周时间参与当地的自然资源管理工作。"
         },
         {
           "s": "What is the age range required by Stewardship Youth Ranger Program?",
@@ -130,47 +157,20 @@
           "s": "Ski Race: Zhangjiakou, a beautiful city in northern China, will host the Youth Ski Race in December.",
           "src": "人教B1 U3",
           "cat": "renjiao",
-          "t": "滑雪赛：中国北方美丽城市张家口将于12月举办青年滑雪赛。"
+          "t": "滑雪比赛：中国北方美丽的城市张家口将于12月举办青年滑雪比赛。"
         },
         {
           "s": "Take part in a youth project 1 Before you listen, look at the pictures below.",
           "src": "人教B2 U1",
           "cat": "renjiao",
           "t": "参加一个青年项目 1 听之前，请看下面的图片。"
-        }
-      ]
-    },
-    {
-      "def": "the quality or state of being young 年轻；青春；朝气",
-      "ex": [
-        {
-          "s": "Youth and Me",
-          "src": "2021新高考II卷·应用文写作",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "青春与我"
         },
-        {
-          "s": "Youth means a temperamental predominance of courage over timidity of the appetite, for adventure over the love of ease.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "青春意味着气质上勇气压倒胆怯，对冒险的渴望压倒对安逸的爱好。"
-        }
-      ]
-    },
-    {
-      "def": "a young man 青年男子；小伙子",
-      "ex": []
-    },
-    {
-      "def": "young people considered as a group （统称）青年，年轻人",
-      "ex": [
         {
           "s": "B.A youth is to be regarded with respect.",
           "src": "2019北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2019,
-          "t": "B.年轻人应当受到尊重。"
+          "t": "B.青年应受到尊重。"
         },
         {
           "s": "With parents who do everything for them, today’s youth seem to prefer to live like teenagers even when they are in their 20s or 30s.",

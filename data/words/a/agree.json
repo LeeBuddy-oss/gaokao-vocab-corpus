@@ -44,13 +44,6 @@
           "t": "经过长时间讨论，我们不知怎的同意做一项关于青少年心理健康的研究。"
         },
         {
-          "s": "My husband and I agreed they were the best fruit we had ever eaten.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但它们花了18美元！"
-        },
-        {
           "s": "The author agrees with the message of the poem.",
           "src": "2021北京卷·阅读理解C",
           "cat": "gaokao",
@@ -76,7 +69,7 @@
           "src": "外研社B1 U3",
           "cat": "waiyan",
           "year": "",
-          "t": "尽管偶尔会为“蠢事”争论，阿利斯泰尔同意有个兄弟是一种优势。"
+          "t": "尽管偶尔会为'愚蠢的小事'争吵，Alistair 也认为有个兄弟是一种优势。"
         },
         {
           "s": "Well, we agreed that night that we would meet here again exactly twenty years from that date and time, no matter what our conditions might be or from what distance we might have to come.",
@@ -111,7 +104,7 @@
           "src": "2020北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "相反，我认同牛津大学哲学家尼克·博斯特罗姆的观点，他认为AGI最大的风险并非来自背叛人类的决定，而是来自不顾一切、执拗地追求既定目标。"
+          "t": "相反,我同意牛津大学哲学家尼克·博斯特罗姆的观点,他相信GI带来的最重风险并非来自对全人类的背叛,而是来自于以牺牲其他一切为代价,对既定目标的顽强追求。"
         },
         {
           "s": "In doing so, I’ll draw on an experiment I ran in 2018 in which over 1,600 people agreed to perform a digital declutter.",
@@ -145,29 +138,7 @@
     },
     {
       "def": "（对 … ）取得一致意见，一致同意",
-      "ex": [
-        {
-          "s": "In recent years, researchers from diverse fields have agreed that short-termism is now a significant problem in industrialised societies.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "近年来，来自不同领域的研究者一致认为，短视主义如今在工业化社会是一个重要问题。"
-        },
-        {
-          "s": "Other scientists may say scientific findings are true because they use “the scientific method.” But we can never actually agree on what that method is.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "其他科学家可能说科学发现是真的，因为他们用了“科学方法”。但我们永远无法真正就那方法是什么达成一致。"
-        },
-        {
-          "s": "It’s hard to tell exactly how many people agree with him, but research indicates that the numbers have been rising for some time.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "很难确切地说有多少人与他意见一致，但研究表明这个数字一直在上升。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to say ‘yes’; to say that you will do what sb wants or that you will allow sth to happen 应允；答应；同意",
@@ -191,7 +162,7 @@
           "src": "2018全国III卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
-          "t": "即使这么多年过去了，我想变得越来越好。"
+          "t": "是什么让Georgia同意卖掉她的一些物品？"
         }
       ]
     },
@@ -205,7 +176,36 @@
     },
     {
       "def": "to be the same as sth （与 … ）相符，一致",
-      "ex": []
+      "ex": [
+        {
+          "s": "My husband and I agreed they were the best fruit we had ever eaten.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我和丈夫一致认为这是我们吃过的最好的水果。"
+        },
+        {
+          "s": "In recent years, researchers from diverse fields have agreed that short-termism is now a significant problem in industrialised societies.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "近年来，来自不同领域的研究者一致认为，短视主义如今在工业化社会是一个重要问题。"
+        },
+        {
+          "s": "Other scientists may say scientific findings are true because they use “the scientific method.” But we can never actually agree on what that method is.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "其他科学家可能说科学发现是真的，因为他们用了“科学方法”。但我们永远无法真正就那方法是什么达成一致。"
+        },
+        {
+          "s": "It’s hard to tell exactly how many people agree with him, but research indicates that the numbers have been rising for some time.",
+          "src": "2020全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "很难确切地说有多少人与他意见一致，但研究表明这个数字一直在上升。"
+        }
+      ]
     },
     {
       "def": "to match a word or phrase in number, gender or person （在数、性或人称上与 … ）一致",

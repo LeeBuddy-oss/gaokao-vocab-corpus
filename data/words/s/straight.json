@@ -7,51 +7,18 @@
   "defs": [
     {
       "def": "not in a curve or at an angle; in a straight line 笔直地；平正地；成直线",
+      "ex": []
+    },
+    {
+      "def": "by a direct route; immediately 直接；径直；立即",
       "ex": [
-        {
-          "s": "In my ninth-grade writing class last year, I met a cowboy who saved his town, a strict father who demanded his son earn straight A’s, and a modern-day Juliet who died of heartbreak after her parents rejected the love of her young life.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在去年九年级的写作班上,我遇到了一位拯救了小镇的牛仔,一位严格要求儿子挣得A的父王,以及一位现代朱丽叶,她的父母拒绝了她年轻时的爱情后,因心碎去世."
-        },
         {
           "s": "When we arrived, we went straight a famous restaurant and ordered dishes, which tasted greatly.",
           "src": "2024全国甲卷·第四部分 写作",
           "cat": "gaokao",
           "year": 2024,
-          "t": "到达后,我们直走一家著名的餐厅,点菜,味道很大."
+          "t": "我们到达后，直接走进一家有名的餐厅点菜，味道好极了。"
         },
-        {
-          "s": "The journey you’re on won’t follow a straight path. ___40___ Push through, give it time and put in the effort.",
-          "src": "2023新课标II卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "你所踏的旅程不会走一条正路。 — — 40 — — 推过去、给时间和努力。"
-        },
-        {
-          "s": "Remember to keep your back completely straight.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "记住要保持你的背完全直。"
-        },
-        {
-          "s": "Sophie: Maybe we don’t need to travel in straight lines.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "也许我们不需要直线旅行。"
-        },
-        {
-          "s": "Straight away and for nothing?",
-          "src": "外研社B7 U2",
-          "cat": "waiyan",
-          "t": "直走又白费力气?"
-        }
-      ]
-    },
-    {
-      "def": "by a direct route; immediately 直接；径直；立即",
-      "ex": [
         {
           "s": "My story would come straight from the horse’s mouth.",
           "src": "2023新课标I卷·书面表达",
@@ -67,18 +34,11 @@
           "t": "我的故事会直接从马的嘴里说出来。"
         },
         {
-          "s": "The doorway to peace and quiet, for Nick Bright at least, leads straight to his mother-in-law, she lives on the ground floor, while he lives upstairs with his wife and their two daughters.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通往和平和安静的大门,对尼克·布莱特来说至少直接通往他的岳母,她住在一楼,而他却和他的妻子和两个女儿住在楼上."
-        },
-        {
           "s": "SILENCE in big black letters was on signs hung everywhere If she thought you were dressed improperly, she sent you straight back home to change your clothes.",
           "src": "2020浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "黑色大字里写着的SOLENCE 到处挂着标志 如果她觉得你穿的不当 她直接送你回家换衣服"
+          "t": "用大写字母写的\"安静\"标志到处都是如果她觉得你穿得不合适，她会直接让你回家换衣服。"
         },
         {
           "s": "In these waters, more than 200 metres deep, where light cannot reach, are extraordinary creatures that appear as if they are straight out of science fiction.",
@@ -90,7 +50,54 @@
     },
     {
       "def": "in or into a level or vertical position; in or into the correct position 正；直；平正地",
-      "ex": []
+      "ex": [
+        {
+          "s": "The journey you’re on won’t follow a straight path. ___40___ Push through, give it time and put in the effort.",
+          "src": "2023新课标II卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "你走过的旅程不会是一条直线。___40___ 坚持下去，给它时间，付出努力。"
+        },
+        {
+          "s": "Remember to keep your back completely straight.",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "记得保持背部完全挺直。"
+        },
+        {
+          "s": "Sophie: Maybe we don’t need to travel in straight lines.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "也许我们不需要直线旅行。"
+        },
+        {
+          "s": "Straight away and for nothing?",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "直走又白费力气?"
+        },
+        {
+          "s": "The doorway to peace and quiet, for Nick Bright at least, leads straight to his mother-in-law, she lives on the ground floor, while he lives upstairs with his wife and their two daughters.",
+          "src": "2020全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对于Nick Bright来说，通往宁静的入口直通他岳母那里，她住在一楼，而他楼上和妻子及两个女儿住在一起。"
+        },
+        {
+          "s": "Every party needs a straight person.",
+          "src": "2020江苏卷·Humor",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "每个聚会都需要一个正经的人。"
+        },
+        {
+          "s": "But now is the time to set the record straight, which starts with questioning the idea that all social comparison is unhealthy.",
+          "src": "2025北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "但现在是纠正错误认知的时候了，而这要从质疑\"所有社会比较都不健康\"这种观点开始。"
+        }
+      ]
     },
     {
       "def": "honestly and directly 坦率地；直截了当地",
@@ -104,23 +111,24 @@
       "def": "without a bend or curve; going in one direction only 直的",
       "ex": [
         {
-          "s": "Every party needs a straight person.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "每个政党都需要一个直的人。"
-        },
-        {
           "s": "She still has smooth skin and straight black hair, and jogging has kept her slim and fit.",
           "src": "外研社B1 U3",
           "cat": "waiyan",
-          "t": "她仍然有光滑的皮肤和直的黑色头发，慢跑使她保持苗条和健康。"
+          "t": "她依然皮肤光滑、一头顺直的黑发，慢跑让她保持苗条健美。"
         }
       ]
     },
     {
       "def": "not fitting close to the body and not curving away from the body 直筒型（非紧身）的",
-      "ex": []
+      "ex": [
+        {
+          "s": "In my ninth-grade writing class last year, I met a cowboy who saved his town, a strict father who demanded his son earn straight A’s, and a modern-day Juliet who died of heartbreak after her parents rejected the love of her young life.",
+          "src": "2025新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "去年在我九年级的写作课上，我遇到了一个拯救了小镇的牛仔、一个要求儿子门门得A的严厉父亲，以及一个在现代版朱丽叶——她在父母拒绝了她年轻生命中的挚爱后，因心碎而死。"
+        }
+      ]
     },
     {
       "def": "going directly to the correct place 准的；正中目标的",
@@ -144,15 +152,7 @@
     },
     {
       "def": "not connected with comedy or musical theatre, but with serious theatre 演员或戏剧",
-      "ex": [
-        {
-          "s": "But now is the time to set the record straight, which starts with questioning the idea that all social comparison is unhealthy.",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "但是现在是时候把记录理直气壮了,这首先要质疑一种观点,即所有的社会比较都是不健康的."
-        }
-      ]
+      "ex": []
     },
     {
       "def": "one after another in a series, without interruption 连续的；不间断的",

@@ -28,7 +28,7 @@
           "src": "2020北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "它甚至能帮助解决当今的问题：2015年，科学家发现一种10世纪英国治疗眼疾的药方可以杀死一种耐药病毒。",
+          "t": "它甚至能帮助解决当下的问题：2015年，科学家发现一种10世纪治疗眼睛问题的英国药方能杀死耐药病毒。",
           "_matched": true
         },
         {
@@ -36,7 +36,7 @@
           "src": "2017北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "指挥杀手机器人军队 D．比数学家算得更快",
+          "t": "指挥杀手机器人军团D. 比数学家算得更快",
           "_matched": true
         },
         {
@@ -50,7 +50,7 @@
           "src": "2017北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "所以如果我们派出一个机器人，只给它取咖啡的指令，它会强烈渴望通过关闭自己的开关、甚至杀死任何可能干扰它完成任务的人来确保成功。",
+          "t": "所以，如果我们派出一个只接到“去取咖啡”这一指令的机器人，它会强烈渴望通过 disable 自己的关闭开关、甚至杀死任何可能干扰其任务的人来确保成功。",
           "_matched": true
         },
         {
@@ -58,8 +58,14 @@
           "src": "2023天津6月卷·阅读表达",
           "cat": "gaokao",
           "year": 2023,
-          "t": "对克鲁斯来说，最初打发时间的一种方式，如今已发展成改变一个孩子内心的方式。",
+          "t": "对克鲁斯来说，最初打发时间的方式，如今已变成在孩子心灵中产生积极影响的方式。",
           "_matched": true
+        },
+        {
+          "s": "They cut down trees and use chemicals that kill the plants that monarch caterpillars eat.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "他们砍伐树木，使用杀死帝王蝶毛虫所依赖植物的化学物质。"
         }
       ]
     },
@@ -79,7 +85,7 @@
           "src": "2017江苏卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "消除一个新威胁B. 避免规模陷阱",
+          "t": "扼杀新生威胁B. 避免规模陷阱",
           "_matched": true
         }
       ]
@@ -94,14 +100,7 @@
     },
     {
       "def": "to make a lot of plants, animals, etc. die 大量杀死，大量消灭（动植物等）",
-      "ex": [
-        {
-          "s": "They cut down trees and use chemicals that kill the plants that monarch caterpillars eat.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "他们砍伐树木，使用化学物质杀死帝王蝶毛虫吃的植物。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to stop or get rid of sth 使某事物停止；除掉；排除",
@@ -114,20 +113,20 @@
           "s": "David 1 as busy as a(n) __________ 2 kill two __________ with one stone 3 When the cat’s away, the __________ will play.",
           "src": "外研社B1 U5",
           "cat": "waiyan",
-          "t": "大卫：1像……一样忙；2一举两得；3猫儿不在，老鼠成精。"
+          "t": "大卫　1 像____一样忙（as busy as a bee 像蜜蜂一样忙）　2 一石二____（kill two birds with one stone 一石二鸟）　3 猫儿不在，____作怪（When the cat's away, the mice will play 猫走鼠称王）。"
         },
         {
           "s": "Mum was using Dad's phone to take photos of the colourful little houses along the coast when we saw something amazing - a killer whale!",
           "src": "外研社B2 U5",
           "cat": "waiyan",
-          "t": "妈妈正用爸爸的手机拍摄海岸沿线五彩缤纷的小房子时，我们看到了令人惊叹的东西——一头虎鲸！"
+          "t": "妈妈正在用爸爸的手机拍摄海岸沿线五彩缤纷的小房子，这时我们看到了一些令人惊叹的东西--虎鲸！"
         },
         {
           "s": "Corrado, a translator for the Army during WWII, was killed in action in Europe.",
           "src": "2019浙江卷",
           "cat": "gaokao",
           "year": 2019,
-          "t": "科拉多是二战期间军队的一名翻译官，在欧洲阵亡。",
+          "t": "科拉多是二战期间陆军的翻译，在欧洲战场上阵亡。",
           "_matched": true
         },
         {
@@ -142,7 +141,7 @@
           "src": "2020浙江1月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "拆东墙补西墙　D. 一石二鸟（一举两得）",
+          "t": "当今世界对年轻人来说并不容易适应。",
           "_matched": true
         },
         {
@@ -150,7 +149,7 @@
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "B．通过阻止我们捕杀大型掠食者。",
+          "t": "B．快速的经济发展威胁动物栖息地。",
           "_matched": true
         },
         {
@@ -180,7 +179,7 @@
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "而未经计划的人类活动证明了顶级掠食者自上而下控制这一观点的正确性。在海洋中，我们以工业规模捕捞鳕鱼等顶级掠食者；在陆地上，我们杀光了狼等大型掠食者。这些行为极大地影响了生态平衡。",
+          "t": "而人类无计划的活动已经证明了顶级捕食者自上而下控制的观点是正确的。在海洋中，我们以工业规模捕捞鳕鱼等顶级捕食者，而在陆地上，我们消灭了狼等大型捕食者。这些行为极大地影响了生态平衡。",
           "_matched": true
         },
         {
@@ -188,7 +187,7 @@
           "src": "2017全国III卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "郊狼杀死了公园中很大比例的红狐，并将河狸完全赶出了公园。",
+          "t": "土狼杀死了公园里很大比例的红狐，并彻底赶走了公园里的河狸。",
           "_matched": true
         }
       ]
@@ -201,7 +200,7 @@
           "src": "2021全国乙卷·七选五",
           "cat": "gaokao",
           "year": 2021,
-          "t": "那么晚宴上的另一个“杀手”呢：尴尬的沉默？",
+          "t": "那另一个饭局杀手——尴尬的沉默——又怎么说？",
           "_matched": true
         }
       ]

@@ -7,18 +7,38 @@
   "defs": [
     {
       "def": "a box or folded piece of card for keeping loose papers together and in order 文件夹；卷宗",
+      "ex": []
+    },
+    {
+      "def": "a collection of information stored together in a computer, under a particular name （计算机的）文件，（台）档案",
       "ex": [
         {
           "s": "The office allows users to share files and software, and to use a central printer.",
           "src": "人教选必1 U2",
           "cat": "renjiao",
           "t": "该办公室允许用户共享文件和软件，并使用中央打印机。"
+        },
+        {
+          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
+        },
+        {
+          "s": "This should be a .jpg file with a size of no more than 1 MB.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这应是一个不超过1 MB的.jpg文件。"
+        },
+        {
+          "s": "REFLECTING In this project, you are going to make a presentation using a poster or presentation file about one of these topics: 1 In groups, discuss these questions.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "反思：在这个项目中，你将要使用海报或演示文件就以下主题之一进行演示。分组讨论这些问题。"
         }
       ]
-    },
-    {
-      "def": "a collection of information stored together in a computer, under a particular name （计算机的）文件，（台）档案",
-      "ex": []
     },
     {
       "def": "a file and the information it contains, for example about a particular person or subject 档案",
@@ -48,7 +68,7 @@
           "s": "People who saw the file Jaws believed 2______.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "看过电影《大白鲨》的人认为2______。"
+          "t": "看过电影《大白鲨》的人相信2______。"
         }
       ]
     },
@@ -56,31 +76,11 @@
       "def": "to put and keep documents, etc. in a particular place and in a particular order so that you can find them easily; to put a document into a file 把（文件等）归档",
       "ex": [
         {
-          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "8月2日 艺术家征集截止；8月12日前 选出入选艺术家并与伯灵顿市签订合同；9月6日 最终作品文件提交截止；9月23日—10月13日 作品在文化日庆祝期间展出。申请材料"
-        },
-        {
-          "s": "This should be a .jpg file with a size of no more than 1 MB.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这应该是一个.jpg文件大小不超过1 MB。"
-        },
-        {
           "s": "an image saved as a PDF file",
           "src": "2020天津3月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "保存为PDF文件的图像"
-        },
-        {
-          "s": "REFLECTING In this project, you are going to make a presentation using a poster or presentation file about one of these topics: 1 In groups, discuss these questions.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "反思：在这个项目中，你将要使用海报或演示文件就以下主题之一进行演示。分组讨论这些问题。"
+          "t": "保存为PDF格式的图像"
         }
       ]
     },

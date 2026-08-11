@@ -9,6 +9,74 @@
       "def": "not very great in amount or extent 有限的",
       "ex": [
         {
+          "s": "They are limited in number.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它们数量有限。"
+        },
+        {
+          "s": "They shouldn’t be limited to a single method.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它们不应局限于单一方法。"
+        },
+        {
+          "s": "Limited working space.",
+          "src": "2021全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "有限的工作空间。",
+          "_matched": true
+        },
+        {
+          "s": "Limited medical insurance coverage．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "有限的医疗保险。"
+        },
+        {
+          "s": "on a limited budgetB. in high spirits",
+          "src": "2020天津3月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在一个有限的预算B, 在高的精神"
+        },
+        {
+          "s": "valuableD. limited",
+          "src": "2018浙江6月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "宝贵的D. 有限的",
+          "_matched": true
+        },
+        {
+          "s": "A thistle cannot grow.\" a As well as being good for the environment, gardening is also good for the soul b But in cities, limited space has led to people looking for new solutions.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "蓟草不能生长。a 园艺不仅对环境有好处，对心灵也有好处。b 但在城市里，有限的空间让人们开始寻找新的解决方案。"
+        },
+        {
+          "s": "Once we found the place, it was stressful getting lights and cameras set up in the limited time.",
+          "src": "2023全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "一旦我们找到那个地方, 在有限的时间里安装灯光和摄像头 压力很大。"
+        },
+        {
+          "s": "Once in front of the painting, they only have limited time to spend taking in its five metres of scenes along the Bian River in Bianjing.",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "t": "一旦站在画前，他们只有有限的时间来欣赏它五米长的描绘汴京汴河沿岸景象的长卷。"
+        }
+      ]
+    },
+    {
+      "def": "restricted to a particular limit of time, numbers, etc. 受（ … 的）限制",
+      "ex": [
+        {
           "s": "It was a valuable limited edition.",
           "src": "2026新高考I卷·阅读理解B",
           "cat": "gaokao",
@@ -32,33 +100,11 @@
           "_matched": true
         },
         {
-          "s": "They are limited in number.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它们数量有限。"
-        },
-        {
           "s": "While many species’ thought processes are limited to “Food, eat it!”, “Danger, run!”, “Pain, avoid!”, we’ve evolved beyond that.",
           "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
           "year": 2024,
-          "t": "虽然许多物种的思维过程仅限于“食物，吃了它！”“危险，快跑！”“疼痛，避开！”，但我们已进化超越了这些。",
-          "_matched": true
-        },
-        {
-          "s": "They shouldn’t be limited to a single method.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "不应该局限于单一方法。"
-        },
-        {
-          "s": "Limited working space.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "有限的工作空间。",
+          "t": "许多物种的思维仅限于“食物，吃掉！”“危险，快跑！”“疼痛，避开！”，而我们已进化得超越这些。",
           "_matched": true
         },
         {
@@ -66,36 +112,14 @@
           "src": "2021浙江6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "\"许多中国人接触英语的机会有限。"
-        },
-        {
-          "s": "Limited medical insurance coverage．",
-          "src": "2021北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "有限的医疗保险．"
-        },
-        {
-          "s": "on a limited budgetB. in high spirits",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "预算有限B. 情绪高涨"
-        },
-        {
-          "s": "valuableD. limited",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "有价值的D. 有限的。",
-          "_matched": true
+          "t": "‘许多中国人接触英语的机会有限。’"
         },
         {
           "s": "Given a limited amount of money, a consumer can only spend that same amount buying goods.",
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "给定有限的金钱，消费者只能花同样多的钱购买商品。",
+          "t": "如果消费者需要数量为A的商品花费0.75，那么她只能在购买B时花费剩余的0.25X。",
           "_matched": true
         },
         {
@@ -103,14 +127,8 @@
           "src": "2017北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "父母只有在有限的医疗或宗教原因下才可以退出。",
+          "t": "如果我们愿意用批判的眼光审视自己，理解这些原因就能控制我们自己的愤怒。",
           "_matched": true
-        },
-        {
-          "s": "A thistle cannot grow.\" a As well as being good for the environment, gardening is also good for the soul b But in cities, limited space has led to people looking for new solutions.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "蓟草不能生长。a 园艺不仅对环境有好处，对心灵也有好处。b 但在城市里，有限的空间让人们开始寻找新的解决方案。"
         },
         {
           "s": "When first introduced in Japan in 1999, emojis were limited to 176 simple designs.",
@@ -122,7 +140,7 @@
           "s": "She believed that the chemical industry was knowingly causing harm to plants, animals and even humans, and wished to see pesticides used in a more responsible, limited and carefully monitored way.",
           "src": "外研社B6 U6",
           "cat": "waiyan",
-          "t": "她认为化学工业正在明知地给植物、动物甚至人类造成伤害，并希望看到农药以更负责任、有限和仔细监控的方式使用。"
+          "t": "她认为化学工业是在明知故犯地对植物、动物甚至人类造成伤害，并希望看到杀虫剂以更负责任、更有限和更受严格监控的方式使用。"
         },
         {
           "s": "On the whole, I do have to admit that here, people’s knowledge of Chinese literature is rather limited.",
@@ -130,24 +148,6 @@
           "cat": "waiyan",
           "t": "总的来说，我不得不承认，在这里，人们对中国文学的了解相当有限。"
         },
-        {
-          "s": "Once we found the place, it was stressful getting lights and cameras set up in the limited time.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "找到地点后，要在有限的时间内架好灯光和相机，压力很大。"
-        },
-        {
-          "s": "Once in front of the painting, they only have limited time to spend taking in its five metres of scenes along the Bian River in Bianjing.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "t": "一旦站在画前，他们只有有限的时间来欣赏它五米长的描绘汴京汴河沿岸景象的长卷。"
-        }
-      ]
-    },
-    {
-      "def": "restricted to a particular limit of time, numbers, etc. 受（ … 的）限制",
-      "ex": [
         {
           "s": "Language capacity is limited by self-control.",
           "src": "2024北京卷·阅读理解D",

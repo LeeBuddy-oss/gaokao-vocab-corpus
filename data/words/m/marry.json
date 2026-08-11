@@ -32,7 +32,7 @@
           "s": "The plot follows that of a Hamlet,with Prince Zidan taking revenge upon his evil uncle, who has murdered Prince Zidan's father and married his mother.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "剧情仿照哈姆雷特，王子子丹向邪恶的叔叔复仇，叔叔谋杀了子丹的父亲并娶了他的母亲。"
+          "t": "阴谋沿袭了哈姆雷特的图谋,齐丹亲王为他邪恶的叔叔报仇,他谋杀了齐丹亲王的父亲,娶了他的母亲."
         },
         {
           "s": "We’ve had our ups and downs, but we’ve now been married for ten mostly happy years!",
@@ -45,6 +45,13 @@
           "src": "人教B2 U5",
           "cat": "renjiao",
           "t": "17世纪初，印度由一位名叫沙贾汗的皇帝统治，他娶了一位名叫穆塔兹的女子。"
+        },
+        {
+          "s": "In India, particularly outside cities, young women are expected to move in with their husband’s family when they get married.",
+          "src": "2020全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在印度，特别是在城市以外，年轻女性结婚后 expected 要搬进去和丈夫的家人住在一起。"
         }
       ]
     },
@@ -68,26 +75,19 @@
     },
     {
       "def": "to find a husband or wife for sb, especially your daughter or son 把 … 嫁给；为 … 娶亲",
-      "ex": []
-    },
-    {
-      "def": "to combine two different things, ideas, etc. successfully （使不同的事物、观点等）相结合，结合在一起",
       "ex": [
-        {
-          "s": "In India, particularly outside cities, young women are expected to move in with their husband’s family when they get married.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在印度，特别是在城市以外，年轻女性结婚后要搬去和丈夫的家人住在一起。"
-        },
         {
           "s": "If we can rediscover the values of hands-on experience and craftwork, Smith says, we can marry the best of our modern insights with the handiness of our ancestors.",
           "src": "2020北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "史密斯说，如果我们能重新发现动手体验和手工艺的价值，我们就能将最好的……结合在一起"
+          "t": "史密斯说，如果我们能重新发现动手实践和工艺的价值，我们就能把现代见解的精华与我们祖先的灵巧结合起来。"
         }
       ]
+    },
+    {
+      "def": "to combine two different things, ideas, etc. successfully （使不同的事物、观点等）相结合，结合在一起",
+      "ex": []
     }
   ]
 }

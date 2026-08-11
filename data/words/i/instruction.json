@@ -20,14 +20,14 @@
           "src": "2023天津6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2023,
-          "t": "学生经常去上那些他们在开学第一天尚未注册的课程，试图把这门新课加入名单，因为其他学生可能已退课。"
+          "t": "学生常在开课第一天去上他们未注册的课程，试图把这门新课加入列表，因为其他学生可能已退课。"
         },
         {
           "s": "The first day of instruction.",
           "src": "2023天津6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2023,
-          "t": "教学的第一天。"
+          "t": "开课第一天。"
         },
         {
           "s": "To give an instruction of drawing a budget Line.",
@@ -35,13 +35,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "你能看的电影的最大数量是10部。"
-        },
-        {
-          "s": "So if we send out a robot with the single instruction of fetching coffee, it will have a strong desire to secure success by disabling its own off switch or even killing anyone who might interfere with its task.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "另一些人说我们可以直接\"关掉它们\"，好像超级智能机器蠢到想不到这种可能性似的。"
         },
         {
           "s": "Results … Note: Do the experiment under the instructions of a teacher.",
@@ -74,7 +67,7 @@
           "src": "2018上海卷·V. Translation",
           "cat": "gaokao",
           "year": 2018,
-          "t": "说明：根据下面中文说明写一篇120-150词的英语作文。"
+          "t": "说明：根据以下中文提示写一篇120-150词的英语作文。"
         }
       ]
     },
@@ -85,7 +78,7 @@
           "s": "As you listen, make notes of key information such as names, numbers, facts and instructions.",
           "src": "外研社B1 U1",
           "cat": "waiyan",
-          "t": "听的时候，记下关键信息，如姓名、数字、事实和指示。"
+          "t": "听的时候，把关键信息记下来，比如姓名、数字、事实和指示。"
         },
         {
           "s": "Choose a disaster and prepare a list of safety instructions.",
@@ -111,7 +104,7 @@
           "src": "2023天津3月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "第二部分是情感-评估。"
+          "t": "例如，如果你喜欢烹饪，你可能会忠实地遵循食谱，而不质疑其中的说明。"
         },
         {
           "s": "•Meet outside of your residence hall and wait for further instructions．",
@@ -125,7 +118,7 @@
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "D．在大厅等候指示"
+          "t": "B．不负责任的使用会损坏灭火器。"
         }
       ]
     },
@@ -133,11 +126,18 @@
       "def": "a piece of information that tells a computer to perform a particular operation. （计算机的）指令",
       "ex": [
         {
+          "s": "So if we send out a robot with the single instruction of fetching coffee, it will have a strong desire to secure success by disabling its own off switch or even killing anyone who might interfere with its task.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "所以，如果我们派出一个只接到“去取咖啡”这一指令的机器人，它会强烈渴望通过 disable 自己的关闭开关、甚至杀死任何可能干扰其任务的人来确保成功。"
+        },
+        {
           "s": "Not the pandas, even though ___59___ language used for the medical training instructions is actually English.",
           "src": "2023新课标II卷·语法填空",
           "cat": "gaokao",
           "year": 2023,
-          "t": "不是熊猫，尽管___59___用于医疗训练指令的语言实际上是英语。"
+          "t": "不是熊猫，尽管用于医疗训练指令的语言____59____其实是英语。"
         }
       ]
     },

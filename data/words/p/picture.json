@@ -13,35 +13,42 @@
           "src": "2020浙江7月卷·读后续写",
           "cat": "gaokao",
           "year": 2020,
-          "t": "给北极熊拍照令人惊叹，但也充满危险。"
+          "t": "北极熊——像所有野生动物一样——应该在安全距离外拍摄。"
         },
         {
           "s": "Remember that Thomas Costain was 57 when he published his first novel, and that Grandma Moses showed her first pictures when she was 78.",
           "src": "2020天津6月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "记住，托马斯·科斯汀出版他的第一部小说时57岁，而摩西奶奶展出她的第一批画作时已经78岁。"
-        },
-        {
-          "s": "These were the first pictures and first real paint and brushes Benjamin had  ever  seen.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些是本杰明见过的第一批画作和真正的颜料及画笔。"
+          "t": "记住，托马斯·科斯坦57岁时才出版了他的第一部小说，而摩西奶奶78岁时才展出了她的第一批画作。"
         },
         {
           "s": "Every Wednesday 5 pm -7 pm Room 201 (picture 3) Want to play the 5_____ or the guitar?",
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "year": "",
-          "t": "每周三下午5点-7点 201房间（图3） 想弹弹______还是吉他？"
+          "t": "每周三下午 5 点到 7 点 201 室（图 3） 想弹 5_____ 或吉他吗？"
         },
         {
           "s": "Every Tuesday 4 pm-5 pm The Music Room (picture 4) Join the 7_____ Club!",
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "year": "",
-          "t": "每周二下午4点-5点 音乐教室（图4）加入_____俱乐部！"
+          "t": "每周二下午4点至5点音乐室（图4 ）加入7 _____俱乐部！"
+        },
+        {
+          "s": "Tu says that the balance between the black and white pieces, the beauty in the ____63____ (strategy) placement of the pieces, ____64____ the energy flow following each move inspired artists to create oil paintings, sculptures, ____65____ (digital) generated pictures and silk-screen prints for the exhibition.",
+          "src": "2025新高考I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "涂说，黑白棋子之间的平衡、棋子____63____（战略性）摆放的美感，____64____每一步之后能量流动的气息，启发了艺术家为展览创作油画、雕塑、____65____（数字）生成的图画和丝网版画。"
+        },
+        {
+          "s": "It had simple words and colorful pictures—a perfect match for his age.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它有简单的文字和彩色的图画——正适合他的年龄。"
         }
       ]
     },
@@ -49,11 +56,18 @@
       "def": "a photograph 相片；照片",
       "ex": [
         {
+          "s": "These were the first pictures and first real paint and brushes Benjamin had  ever  seen.",
+          "src": "2017浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这些是本杰明见过的第一批照片 和第一批真正的油漆和刷子"
+        },
+        {
           "s": "Take pictures of the harbor.",
           "src": "2025新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
-          "t": "拍摄港口的照片。"
+          "t": "那是我大学三年级的时候，我正在做维多利亚文学的独立研究。"
         },
         {
           "s": "He was so _____55_____ and sent me a nice e-mail with pictures.",
@@ -74,7 +88,63 @@
           "src": "2018全国III卷·完形填空",
           "cat": "gaokao",
           "year": 2018,
-          "t": "她48岁时，似乎没有意识到自己正在49把宝宝的照片给一个完全陌生的人看。“嗯，我50不认识你们所有人，但我会去那里和宝宝合影，”丹尼斯回答道，同时问新生儿51在哪个房间。"
+          "t": "在她的___48___中，她似乎没意识到自己正在把一个婴儿的照片___49___给一个完全陌生的人。“嗯，我___50___你们所有人，但我会到那里和宝宝合影，”丹尼斯回复道，然后问新手___51___在哪个房间。"
+        },
+        {
+          "s": "Suggestions to the Head Teacher (1 picture) ·What to change: lunch break, school uniform, ...",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "给班主任的建议（ 1张照片） ·更改内容：午餐休息、校服、……"
+        },
+        {
+          "s": "I took a picture of the vase and posted it online, for $10.",
+          "src": "2025新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我给花瓶拍了张照片，以10美元挂到网上卖。"
+        },
+        {
+          "s": "Here is a picture of Dorothy Woodruff, on her horse, looking down from a hill top: “When the sun slipped behind the mountains, it shed a rosy glow all around them.",
+          "src": "2022全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这里有一张多萝西·伍德拉夫骑在马上的照片，从山顶俯瞰：当太阳滑到山后，它在他们四周洒下玫瑰色的光辉。"
+        },
+        {
+          "s": "He bought a book and was ____53____ to find a picture of the artist Pierre Bonnard sitting on the same chair in the same ____54____ as his father’s painting.",
+          "src": "2020全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他买了一本书，___53___发现画家皮埃尔·博纳尔坐在同一把椅子上的照片，姿势与他父亲的画中___54___。"
+        },
+        {
+          "s": "a colour picture of their passport",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们护照的彩色照片"
+        },
+        {
+          "s": "When I look at this picture of myself.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当我看到这张自己的照片时。"
+        },
+        {
+          "s": "Around me in picture are the things they were very important in my life at that time; car magazines and musical instruments.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "照片中围绕着我的那些东西在当时对我来说非常重要；汽车杂志和乐器。"
+        },
+        {
+          "s": "This picture often brings back to me many happy memories of your high school days.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这张照片常常让我回想起你的高中时代的许多美好回忆。"
         }
       ]
     },
@@ -97,42 +167,34 @@
           "src": "2021全国甲卷·语法填空",
           "cat": "gaokao",
           "year": 2021,
-          "t": "理论上你可以在两小时内完成，但我们在不同的城门和___49___（watchtower 瞭望塔）停下拍照，或者只是看看当地人日常___50___（day）的生活节奏。"
+          "t": "据说你两小时就能走完，但我们在不同的门和____49____（watchtower）停下拍照，或只是看当地人进行他们____50____（day）的日常。"
         },
         {
           "s": "I am no longer a child… (picture e) Stuart, did you leave your basketball in my office today?",
           "src": "外研社B1 U3",
           "cat": "waiyan",
           "year": "",
-          "t": "我不再是个孩子了……（图e） 斯图尔特，你今天是不是把篮球落在我办公室了？"
+          "t": "我不再是孩子了…（图 e）Stuart，你今天把篮球落在我办公室了吗？"
         },
         {
           "s": "She adds: “I’ve moved house many times and I always like to personalise my room and put up pictures.",
           "src": "2023全国甲卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
-          "t": "她补充道：“我搬过很多次家，我总是喜欢把自己的房间布置得有个性，挂上画。"
+          "t": "她补充道：“我搬过很多次家，总是喜欢把房间个性化，挂上画。”"
         },
         {
           "s": "Removing gender from the picture altogether seems like a simple way to fix this.",
           "src": "2025浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2025,
-          "t": "将性别完全从局面中移除似乎是解决这个问题的简单办法。"
+          "t": "把性别完全从画面中剔除，似乎是解决这个问题的简单办法。"
         }
       ]
     },
     {
       "def": "a mental image or memory of sth 头脑中的情景；记忆；印象",
-      "ex": [
-        {
-          "s": "Tu says that the balance between the black and white pieces, the beauty in the ____63____ (strategy) placement of the pieces, ____64____ the energy flow following each move inspired artists to create oil paintings, sculptures, ____65____ (digital) generated pictures and silk-screen prints for the exhibition.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "屠宁宁说，黑白棋子的平衡、棋子___63___（strategy 策略）布局中的美感，以及每一步之后能量流动，激发了艺术家为展览创作油画、雕塑、___65___（digital）生成的图片和丝网版画。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the general situation concerning sb/sth 状况；情形；形势",
@@ -147,20 +209,26 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "为什么要放映《最后一场电影》？"
-        }
-      ]
-    },
-    {
-      "def": "the cinema/the movies 电影院；影剧院",
-      "ex": [
+        },
         {
           "s": "The film classic The Last Picture Show was the last movie shown in the old theater.",
           "src": "2017全国III卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
           "t": "经典影片《最后一场电影》是这座老剧院放映的最后一部电影。"
+        },
+        {
+          "s": "The researchers found that the dogs were able to pick the angry or happy face by touching a picture of it with their noses more often than one would expect by random chance.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "那部电影把他带入了职业生涯的后半段，在那里，仅凭他的喜剧存在感，就能让一部电影获得商业成功，即使影评人并不看好它。"
         }
       ]
+    },
+    {
+      "def": "the cinema/the movies 电影院；影剧院",
+      "ex": []
     },
     {
       "def": "to imagine sb/sth; to create an image of sb/sth in your mind 想像；设想；忆起",
@@ -189,13 +257,6 @@
           "t": "上传图片质量差。"
         },
         {
-          "s": "It had simple words and colorful pictures—a perfect match for his age.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "书里有简单的文字和彩色的图片——非常适合他的年龄。"
-        },
-        {
           "s": "He just likes the pictures, I thought.",
           "src": "2022全国新高考II卷·阅读理解B",
           "cat": "gaokao",
@@ -207,7 +268,7 @@
           "src": "2022全国新高考II卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
-          "t": "他的父亲经常用平板电脑逗他开心，平板电脑上加载着彩色图片，一戳就会动。"
+          "t": "他父亲常用平板电脑逗他开心，那上面装载着五彩缤纷、戳一下就会动起来的图片。"
         },
         {
           "s": "He disliked the colorful pictures.",
@@ -221,7 +282,7 @@
           "src": "2021浙江6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "研究作者科辛·穆勒说：“我们可以排除狗只是基于诸如牙齿外观之类的简单线索来区分这些图片的可能性。”"
+          "t": "“我们可以排除狗只是根据诸如看到牙齿这样简单的线索来区分这些图片的可能性，”研究作者Corsin Muller说。"
         },
         {
           "s": "Pictures used in the two stages were different",
@@ -249,35 +310,21 @@
           "src": "2018上海卷·Section C",
           "cat": "gaokao",
           "year": 2018,
-          "t": "剪下图片，帮助您上幼儿园和学前班的孩子学习字母、数字和颜色。"
-        },
-        {
-          "s": "Suggestions to the Head Teacher (1 picture) ·What to change: lunch break, school uniform, ...",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "给校长的建议（1张图片） ·需要改变什么：午休时间、校服、……"
+          "t": "剪下图片，帮助你上幼儿园和学前班的孩子学习字母、数字和颜色。"
         },
         {
           "s": "Misadventures in English (18 pictures) (picture 1) Last week, our forum asked if you had any funny or strange stories about using English.",
           "src": "外研社B1 U2",
           "cat": "waiyan",
           "year": "",
-          "t": "英语趣事（18张图片）（图1）上周，我们的论坛问大家有没有关于使用英语的有趣或奇怪的故事。"
+          "t": "英语中的不幸事件（ 18张图片） （图片1 ）上周，我们的论坛询问您是否有任何关于使用英语的有趣或奇怪的故事。"
         },
         {
           "s": "Clip pictures to create a collage.",
           "src": "2018上海卷·Section C",
           "cat": "gaokao",
           "year": 2018,
-          "t": "剪贴图片制作拼贴画。"
-        },
-        {
-          "s": "I took a picture of the vase and posted it online, for $10.",
-          "src": "2025新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我给花瓶拍了张照片，以10美元的价格把它挂到了网上。"
+          "t": "用不超过60个词总结文章的主要观点和要点。"
         },
         {
           "s": "Humans are able to picture a favorable future.",
@@ -291,7 +338,7 @@
           "src": "2023全国乙卷·短文改错",
           "cat": "gaokao",
           "year": 2023,
-          "t": "她选的颜色装在一个盒子里，盒子上有一张女人的图片，那头发颜色看起来棒极了。"
+          "t": "她选的颜色装在一个盒子里，盒子上有一个女人的图片，那发色看起来恰到好处。"
         },
         {
           "s": "Picture this: my grandson sitting on my lap as I hold the book in front so he can see the pictures.",
@@ -301,18 +348,11 @@
           "t": "想象一下：我的孙子坐在我腿上，我把书举在他面前让他看到图片。"
         },
         {
-          "s": "Here is a picture of Dorothy Woodruff, on her horse, looking down from a hill top: “When the sun slipped behind the mountains, it shed a rosy glow all around them.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这是多萝西·伍德拉夫的照片，她骑在马上，从山顶俯瞰：“当太阳滑到山后时，它在周围洒下玫瑰色的光辉。”"
-        },
-        {
           "s": "Felt Picture Making",
           "src": "2021新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2021,
-          "t": "毡画制作。"
+          "t": "这个在赫尔姆斯利艺术中心举办的工作坊将以一幅富有启发性的图片为基础，教你用羊毛重现这幅画的技巧。"
         },
         {
           "s": "Working from an inspirational picture, this workshop at Helmsley Arts Centre will teach you the techniques you will need to recreate your picture in wool.",
@@ -326,42 +366,28 @@
           "src": "2021新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2021,
-          "t": "毡画制作的门票多少钱？"
+          "t": "Felt Picture Making的门票多少钱？"
         },
         {
           "s": "Felt Picture Making.",
           "src": "2021新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2021,
-          "t": "毡画制作。"
-        },
-        {
-          "s": "The researchers found that the dogs were able to pick the angry or happy face by touching a picture of it with their noses more often than one would expect by random chance.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "\"我们可以排除狗只是根据简单线索如牙齿的外观来区分图片的可能性，\"研究作者科辛·穆勒说。"
+          "t": "毛毡画制作。"
         },
         {
           "s": "Paulo Magalhaes, a 34-year-old Portuguese computer engineer, loves to open his mailbox and find a brightly colored picture of Rome’s Colosseum.",
           "src": "2021浙江6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "34岁的葡萄牙电脑工程师保罗·马加良斯喜欢打开邮箱发现一张色彩鲜艳的罗马斗兽场明信片。"
+          "t": "34岁的葡萄牙计算机工程师保罗·马加良斯喜欢打开邮箱，发现一张色彩鲜艳的罗马斗兽场图片。"
         },
         {
           "s": "Mr Bissell skillfully organizes historical insights and cultural references, making his tale a well-rounded picture of Uzbekistan, seen from Western eyes.",
           "src": "2020全国新高考I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "比塞尔先生巧妙地将历史洞察和文化参考编织在一起使他的故事成为从西方人眼中看到的乌兹别克斯坦的完整画面。"
-        },
-        {
-          "s": "He bought a book and was ____53____ to find a picture of the artist Pierre Bonnard sitting on the same chair in the same ____54____ as his father’s painting.",
-          "src": "2020全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他买了一本书，____53____惊讶地发现一张艺术家Pierre Bonnard的照片坐在和他父亲画作中相同的____54____椅子上。"
+          "t": "比斯尔先生巧妙地编排历史洞见与文化指涉，使他的故事成为一幅从西方视角看去的、完整的乌兹别克斯坦图景。"
         },
         {
           "s": "To get the most out of reading these plays, try to picture the play on stage, with you, the reader, in the audience.",
@@ -371,46 +397,18 @@
           "t": "要充分阅读这些剧本，试着想象舞台上的演出场景，你——读者——坐在观众席上。"
         },
         {
-          "s": "a colour picture of their passport",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一张护照彩色照片"
-        },
-        {
           "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
           "src": "2018天津卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
-          "t": "我17岁时，读了一篇关于一个名为McNay的博物馆的杂志文章。她曾要求社区在她去世后将其改建成博物馆。在一个晴朗的周六，莎莉和我开车去了博物馆。她问：“你有地址吗？”“没有，但我能认出来，杂志里有一张图片。”"
+          "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求将收藏……"
         },
         {
           "s": "2. ___69___ Paste the picture at the top of a page and have them write a story about what is happening or what the picture represents.",
           "src": "2018上海卷·Section C",
           "cat": "gaokao",
           "year": 2018,
-          "t": "2. ___69___ 把图片粘贴在一页的顶部，让他们写一个关于正在发生的事情或图片所代表内容的故事。"
-        },
-        {
-          "s": "When I look at this picture of myself.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当我看到这张自己的照片时。"
-        },
-        {
-          "s": "Around me in picture are the things they were very important in my life at that time; car magazines and musical instruments.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "照片中围绕着我的那些东西在当时对我来说非常重要；汽车杂志和乐器。"
-        },
-        {
-          "s": "This picture often brings back to me many happy memories of your high school days.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这张照片常常让我回想起你的高中时代的许多美好回忆。"
+          "t": "2. ___69___ 把图片贴在一页顶部，让他们写一个关于正在发生的事或图片所代表之物的故事。"
         }
       ]
     }

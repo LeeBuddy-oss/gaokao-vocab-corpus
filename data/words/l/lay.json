@@ -24,14 +24,14 @@
           "src": "2017全国II卷·语法填空",
           "cat": "gaokao",
           "year": 2017,
-          "t": "这包括挖开路面、____63___（铺设）轨道，然后在____64___顶部建造坚固的顶棚。"
+          "t": "这包括挖开路面、____63____（铺设）轨道，然后在____64____顶部建造坚固的顶棚。"
         },
         {
           "s": "This included digging up the road, ____63___(lay) the track and then building a strong roof over___64___ top.",
           "src": "2017重庆卷·语法填空",
           "cat": "gaokao",
           "year": 2017,
-          "t": "这包括挖开路面、____63___（铺设）轨道，然后在顶部建造……",
+          "t": "这包括挖开路面、____63____（铺设）轨道，然后在____64____顶部建造坚固的顶棚。",
           "_matched": true
         }
       ]
@@ -40,19 +40,11 @@
       "def": "to spread sth on sth; to cover sth with a layer of sth （在某物上）摊开，涂，敷；用一层 … 覆盖",
       "ex": [
         {
-          "s": "As I watched him take off his basketball uniform and replace it with a baseball uniform, I saw him leaving behind the layer that no longer served him, just as our lizard had.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当我看着他脱下篮球制服换上棒球制服时，我看到他脱掉了那层不再适合他的外壳，就像我们的……",
-          "_matched": true
-        },
-        {
           "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
           "src": "2020浙江1月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "在铺上一层岩盐之前，先在街道上喷洒奶酪卤水……",
+          "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。",
           "_matched": true
         },
         {
@@ -60,13 +52,35 @@
           "src": "2019全国I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2019,
-          "t": "这种键盘可以通过分析用户打字的力度和按键之间的时间间隔来提供强大的安全层。"
+          "t": "键盘可以通过分析诸如用户敲击的力度和按键间隔等，提供一层强大的安全性。"
         }
       ]
     },
     {
       "def": "if a bird, an insect, a fish, etc. lays eggs, it produces them from its body （鸟、昆虫、鱼等）下（蛋），产（卵）",
-      "ex": []
+      "ex": [
+        {
+          "s": "As I watched him take off his basketball uniform and replace it with a baseball uniform, I saw him leaving behind the layer that no longer served him, just as our lizard had.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "当我看他脱下篮球服、换上棒球服时，我看到他丢下了那层不再适合他的外壳，就像我们的蜥蜴一样。",
+          "_matched": true
+        },
+        {
+          "s": "In the “unwilling” scenario, however, the dogs looked at the experimenter less often, sat, lay down and wandered around more frequently.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "然而，在\"不情愿\"的情境中，狗看实验员的次数更少，坐下、躺下和四处走动的频率更高。"
+        },
+        {
+          "s": "On the mornings that had once throbbed with the dawn chorus of robins, catbirds, doves, jays, wrens, and scores of other bird voices there was now no sound; only silence lay over the fields and woods and marsh.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "在曾经伴随着知更鸟、猫鸟、鸽子、松鸦、鹪鹩和许多其他鸟鸣的黎明合唱而悸动的早晨，如今已了无生息；只有寂静笼罩着田野、树林和沼泽。"
+        }
+      ]
     },
     {
       "def": "to arrange knives, forks, plates, etc. on a table ready for a meal 摆放餐具（准备就餐）",
@@ -80,7 +94,7 @@
           "src": "2017浙江6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "其他欧洲国家对移民提出了类似的要求。",
+          "t": "14小时后，薄膜失去了13%的质量——显然是被蠕虫胃里的酶分解了。",
           "_matched": true
         },
         {
@@ -115,7 +129,23 @@
     },
     {
       "def": "to bet money on sth; to place a bet 对 … 下赌金；下赌注",
-      "ex": []
+      "ex": [
+        {
+          "s": "It is horrible, is it not, next to your exquisite beauty!” There lay in the accents of the unfortunate man so significant an awareness of his sadness that she had not the strength to utter a syllable.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "太可怕了，不是吗，在你精致的美丽旁边！“在这个不幸男子的口音中，蕴含着对他悲伤如此深切的体认，以至于她没有力气吐出一个音节。”",
+          "_matched": true
+        },
+        {
+          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "to put sth on one side and not use it or think about it 把 … 放在一边（或搁置一旁）",
@@ -125,7 +155,7 @@
           "src": "2017全国I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "然后把管子放好，使一端一直伸进弯管里。",
+          "t": "然后把管子放好，使一端一直伸到杯子里，管子的其余部分沿着孔的一侧向上——并伸出——孔外。",
           "_matched": true
         },
         {
@@ -159,20 +189,6 @@
           "t": "古代人为今天的人们奠定了经济基础。"
         },
         {
-          "s": "In the “unwilling” scenario, however, the dogs looked at the experimenter less often, sat, lay down and wandered around more frequently.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每个星期六我都求妈妈不要让我去参加游泳比赛，但很少成功。"
-        },
-        {
-          "s": "It is horrible, is it not, next to your exquisite beauty!” There lay in the accents of the unfortunate man so significant an awareness of his sadness that she had not the strength to utter a syllable.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "太可怕了，不是吗，在你精致的美貌旁边！那不幸的人躺在那里……",
-          "_matched": true
-        },
-        {
           "s": "By mid-morning, hundreds lay dead in the water and amongst the tanks on the beach.",
           "src": "外研社B6 U3",
           "cat": "waiyan",
@@ -182,7 +198,7 @@
           "s": "However, the local people worry that building the hotel is 3___________ and will 4_____________, in particular the turtles which lay their eggs on White Beach.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
-          "t": "然而，当地人担心建酒店是不环保的，会影响到生态，特别是那些在白沙滩下蛋的海龟。"
+          "t": "在20世纪70年代，朋克摇滚变得流行起来。"
         }
       ]
     },
@@ -206,7 +222,7 @@
           "src": "2021天津3月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2021,
-          "t": "第8段中划线的“leaving behind the layer”可以理解为……",
+          "t": "第8段中划线的\"leaving behind the layer\"可以理解为       。",
           "_matched": true
         }
       ]
@@ -233,16 +249,7 @@
     },
     {
       "def": "not having expert knowledge or professional qualifications in a particular subject 外行的；非专业的；缺少专门知识的",
-      "ex": [
-        {
-          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "国家研究所对4500名儿童进行的一项综合研究……",
-          "_matched": true
-        }
-      ]
+      "ex": []
     },
     {
       "def": "not in an official position in the Church 平信徒的；在俗的",
@@ -254,14 +261,7 @@
     },
     {
       "def": "a poem that was written to be sung, usually telling a story （供吟唱的）叙事诗",
-      "ex": [
-        {
-          "s": "On the mornings that had once throbbed with the dawn chorus of robins, catbirds, doves, jays, wrens, and scores of other bird voices there was now no sound; only silence lay over the fields and woods and marsh.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "在那些曾经回荡着知更鸟、猫鹊、鸽子、松鸦、鹪鹩和许多其他鸟类黎明合唱的早晨，现在没有了声音；只有寂静笼罩着田野、树林和沼泽。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the way the land in an area is formed and what physical characteristics it has 地貌；地势；地形",

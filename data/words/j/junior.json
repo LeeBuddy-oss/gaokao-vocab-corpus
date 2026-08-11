@@ -17,7 +17,7 @@
           "src": "2023新课标II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2023,
-          "t": "少年护林员野生动物奥运会（6月5日至8月21日）"
+          "t": "少年游侠野生动物奥运会(6月5日至8月21日)"
         },
         {
           "s": "Junior Ranger Wildlife Olympics.",
@@ -30,37 +30,43 @@
     },
     {
       "def": "（尤用于美国，置于同名父子中儿子的姓名之后）小",
-      "ex": []
-    },
-    {
-      "def": "for children under the age of 11 or 13 学校或学校的一部分",
-      "ex": [
-        {
-          "s": "It is a well-known fact, especially in my school, that Junior year is the time of packing many AP classes into the schedule.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "众所周知，尤其是在我的学校，高三（Junior year）是把许多AP课程塞进课表的时候。",
-          "_matched": true
-        }
-      ]
-    },
-    {
-      "def": "connected with the year before the last year in a high school or college （四年制中学或大学中）三年级生的，三年级的",
       "ex": [
         {
           "s": "Sure, my friends and I loved to _____46_____ about how bored we were in the middle of nowhere; _____47_____ , as I finish up my junior year of college, I’m convinced that it took _____48_____ our small town to realize how much we actually loved it and what exactly we loved about it.",
           "src": "2026新高考I卷·完形填空",
           "cat": "gaokao",
           "year": 2026,
-          "t": "当然，我和朋友们过去总爱____，抱怨我们在这偏僻地方有多无聊；____，当我大学三年级即将结束时，我确信，正是____我们的小镇，才让我们意识到自己其实有多爱它，以及我们究竟爱它什么。"
+          "t": "当然，我和朋友们喜欢____46____我们在偏僻之地有多无聊；____47____，当我念完大三，我确信正是____48____我们的小镇，才让我意识到我们有多爱它、以及我们到底爱它什么。"
+        },
+        {
+          "s": "Ellie 24 Junior doctor (1 picture) There’s not enough room to swing a cat in my small apartment, so I don’t cook very often.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "Ellie 24初级医生（ 1张照片）我的小公寓没有足够的空间荡猫，所以我不经常做饭。"
+        }
+      ]
+    },
+    {
+      "def": "for children under the age of 11 or 13 学校或学校的一部分",
+      "ex": []
+    },
+    {
+      "def": "connected with the year before the last year in a high school or college （四年制中学或大学中）三年级生的，三年级的",
+      "ex": [
+        {
+          "s": "It is a well-known fact, especially in my school, that Junior year is the time of packing many AP classes into the schedule.",
+          "src": "2025北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这是一个众所周知的事实，尤其在我学校：高三是要把许多AP课程塞进课表的一年。",
+          "_matched": true
         },
         {
           "s": "Throughout our Junior year, my classmates and I have been worried about what colleges will see when they look at our whole life story reduced to a single 200-word essay.",
           "src": "2025北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
-          "t": "在整个高三学年，我和同学们一直担心大学在审阅我们被浓缩成一篇200字文章的人生故事时会看到什么。",
+          "t": "整个高三那年，我和同学们一直担心，当大学招生官把我们整个生平浓缩成一篇200词的短文来审视时，他们会看到什么。",
           "_matched": true
         },
         {
@@ -68,7 +74,7 @@
           "src": "2024全国甲卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "那是我大学本科三年级的时候，我正在做维多利亚时期文学的独立研究。",
+          "t": "那是我本科三年级，我正在做一项关于维多利亚时代文学的独立研究。",
           "_matched": true
         },
         {
@@ -76,6 +82,12 @@
           "src": "人教B1 U1",
           "cat": "renjiao",
           "t": "从初中升到高中是一个非常大的挑战。"
+        },
+        {
+          "s": "To celebrate the 2017 festival, over 1,000 Ghanaian junior high school students got up on stage to perform Chinese songs and dances.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "为庆祝2017年节日，1000多名加纳初中生登台表演中国歌曲和舞蹈。"
         }
       ]
     },
@@ -95,7 +107,7 @@
           "src": "2025北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
-          "t": "在整个高三学年，作者主要担心的是什么？",
+          "t": "在整个高三年级期间，作者主要担心的是什么？",
           "_matched": true
         },
         {
@@ -105,16 +117,10 @@
           "t": "初中时，我在课堂上做了很多笔记。"
         },
         {
-          "s": "Ellie 24 Junior doctor (1 picture) There’s not enough room to swing a cat in my small apartment, so I don’t cook very often.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "艾莉，24岁，初级医生：我的小公寓连转身的地方都没有，所以我不常做饭。"
-        },
-        {
           "s": "He said that many words describing nature were being added to the new version of the junior dictionary.",
           "src": "外研社B6 U6",
           "cat": "waiyan",
-          "t": "他说许多描述自然的词正被添加到新版初级词典中。"
+          "t": "他说许多描述自然的词被加入了新版少儿词典。"
         }
       ]
     },
@@ -126,14 +132,8 @@
           "src": "2024浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2024,
-          "t": "麦克马思是比奇伍德高中的三年级学生。",
+          "t": "McMath是Beechwood高中的一名三年级学生。",
           "_matched": true
-        },
-        {
-          "s": "To celebrate the 2017 festival, over 1,000 Ghanaian junior high school students got up on stage to perform Chinese songs and dances.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "为了庆祝2017年的节日，一千多名加纳初中学生登台表演了中国歌舞。"
         }
       ]
     },

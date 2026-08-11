@@ -13,14 +13,7 @@
           "src": "2019北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
-          "t": "一项新研究显示，到本世纪末（若非更早），由于气候变暖，世界海洋将变得更蓝更绿。"
-        },
-        {
-          "s": "Ocean colour varies from green to blue，depending on the type and concentration of phytoplankton.",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "机器人电话如何影响着科技世界"
+          "t": "到本世纪末,如果不是早一点,世界的海洋将会因为气候变暖而变得更加蓝绿,根据一项新的研究。"
         },
         {
           "s": "The sun-dried clothes smell especially pleasant where I live, thanks to the ____63____ (absent) of smog and plenty of blue sky ____64____ (afternoon) with lots of fresh air.",
@@ -41,14 +34,14 @@
           "src": "2021全国甲卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "没有了心爱的海滩和无尽的蓝天，我感到茫然和格格不入。"
+          "t": "没有我心爱的海滩和无尽的蓝天日子，我感到迷茫和不自在。"
         },
         {
-          "s": "He passed milky white waterfalls and mountains in many shades of blue.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他经过乳白色的瀑布和呈现各种蓝色调的山峦。"
+          "s": "Beyond that the colours darkened into fine shades of deep blue, and gradually disappeared.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "再往远处，颜色逐渐变深，呈现出深蓝色的细腻渐变，然后渐渐消失了。"
         }
       ]
     },
@@ -67,7 +60,7 @@
           "src": "外研社B3 U3",
           "cat": "waiyan",
           "year": "",
-          "t": "《时间机器》　一束微弱的蓝光闪过，渐渐暗成紫色，很快她看到了住在地球另一端的儿子的影像，而他也能看到她。"
+          "t": "《时间机器》 一道微弱的蓝光划过，渐渐暗成了紫色，不一会儿她就看到了儿子的影像——他住在地球的另一边，而他也能看到她。"
         },
         {
           "s": "By contrast, the largest animal species so far found on our planet is the blue whale, which can grow up to almost 30 metres in length and weigh over 130,000 kilos.",
@@ -88,14 +81,14 @@
           "src": "2025新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2025,
-          "t": "这部时长35分钟、伴随着拍手跺脚的音乐剧改编自马克·吐温的经典作品，将在Tall Stacks节上回归。"
+          "t": "Blue Hill为什么要进行这次实验？"
         },
         {
           "s": "Her efforts have encouraged others to take part by running through a global campaign called“Run Blue”.",
           "src": "2023北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "她的努力鼓励了其他人通过一场名为\"蓝跑\"的全球活动参与进来。"
+          "t": "她的努力鼓励其他人通过一个名为\"Run Blue\"的全球 campaign 参与进来。"
         },
         {
           "s": "Awake from a short sleep in her chair, my grandmother ran her fingers through her wavy white hair, looked out her window at the blue sky, and asked me what I would wish for if I had just one wish.",
@@ -121,13 +114,6 @@
       "def": "films/movies, jokes or stories that are blue are about sex （电影、玩笑或故事）色情的，黄色的",
       "ex": [
         {
-          "s": "Beyond that the colours darkened into fine shades of deep blue, and gradually disappeared.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "再往外，色彩暗成深浅不一的深蓝，渐渐消失了。"
-        },
-        {
           "s": "The model projects that currently blue areas with little phytoplankton could become even bluer.",
           "src": "2019北京卷·阅读理解D",
           "cat": "gaokao",
@@ -149,7 +135,22 @@
     },
     {
       "def": "the colour of a clear sky or the sea/ocean on a clear day 蓝色；天蓝色；蔚蓝色",
-      "ex": []
+      "ex": [
+        {
+          "s": "Ocean colour varies from green to blue，depending on the type and concentration of phytoplankton.",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "海水的颜色因浮游植物的种类和浓度不同，而从绿色到蓝色变化。"
+        },
+        {
+          "s": "He passed milky white waterfalls and mountains in many shades of blue.",
+          "src": "2020全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他经过乳白色的瀑布和呈现各种蓝色调的山峦。"
+        }
+      ]
     },
     {
       "def": "a person who has played a particular sport for Oxford or Cambridge University; a title given to them 蓝色荣誉者（牛津或剑桥大学的校队运动员）；蓝色荣誉的头衔",

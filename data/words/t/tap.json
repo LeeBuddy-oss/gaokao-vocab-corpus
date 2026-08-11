@@ -31,19 +31,7 @@
           "s": "Tap on a pipe or or whistle for help.",
           "src": "人教B1 U4",
           "cat": "renjiao",
-          "t": "敲打烟斗或哨子求救"
-        },
-        {
-          "s": "Plastic pollution is also bad, killing many birds and fish, and has even been found in our tap water.",
-          "src": "人教选必4 U3",
-          "cat": "renjiao",
-          "t": "塑料污染也非常严重,杀死了许多鸟类和鱼类,甚至在我们的自来水中被发现。"
-        },
-        {
-          "s": "Humans also eat these fish, and micro plastic has even been found in tap water around the world.",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "人类也吃这些鱼,微塑料甚至在全世界自来水中被发现."
+          "t": "敲击管道或吹口哨求助。"
         }
       ]
     },
@@ -55,7 +43,7 @@
           "src": "2019全国I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
-          "t": "“讨人喜欢者”善于与人合作的品质强化了校园友谊，启动了人际技能，并且若及早发掘，会在今后的人生和工作中一直被运用。"
+          "t": "讨人喜欢的那种\"善于与人相处\"的品质加强了校园友谊，启动了人际交往技能，如果及早发掘，将在以后的生活和工作中一直发挥作用。"
         }
       ]
     },
@@ -65,7 +53,27 @@
     },
     {
       "def": "to cut into a tree in order to get liquid from it 在（树）上切口（导出液体）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Plastic pollution is also bad, killing many birds and fish, and has even been found in our tap water.",
+          "src": "人教选必4 U3",
+          "cat": "renjiao",
+          "t": "塑料污染也非常严重,杀死了许多鸟类和鱼类,甚至在我们的自来水中被发现。"
+        },
+        {
+          "s": "Humans also eat these fish, and micro plastic has even been found in tap water around the world.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "人类也吃这些鱼,微塑料甚至在全世界自来水中被发现."
+        },
+        {
+          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
+        }
+      ]
     },
     {
       "def": "to choose sb to do a particular job 委任；指定（某人做某事）",
@@ -90,13 +98,13 @@
           "s": "Next, the tea concentrate is poured into cups, after which water from inside the samovar is added by using the tap.",
           "src": "人教B2 U5",
           "cat": "renjiao",
-          "t": "接下来,茶精被倒入杯中,之后通过使用水龙头加入来自萨莫瓦尔内部的水."
+          "t": "接下来，将茶浓缩物倒入杯子中，然后使用水龙头加入茶壶内的水。"
         },
         {
           "s": "Well, say you leave the tap running while you brush your teeth, leave a light on when you go out or you drop a piece of litter and can't be bothered to pick it up.",
           "src": "北师大B3 U8",
           "cat": "beishida",
-          "t": "好吧,说当你刷牙时把水龙头放下, 出去时留个灯或者扔个垃圾, 并且不方便捡起来。"
+          "t": "嗯，比方说你刷牙时让水龙头一直流着，出门时灯亮着不关，或者掉了一片垃圾却懒得捡起来。"
         }
       ]
     },
@@ -122,15 +130,7 @@
     },
     {
       "def": "beer that is on tap is in a barrel with a tap on it （啤酒）装在有旋塞的桶里的，散装的",
-      "ex": [
-        {
-          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "something that is on tap is being discussed or prepared and will happen soon 协商中；准备中；即将发生",

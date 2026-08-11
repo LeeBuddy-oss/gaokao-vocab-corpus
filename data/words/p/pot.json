@@ -12,19 +12,60 @@
           "s": "The park sits on a supervolcano, and visitors can see colourful hot springs, bubbling pots of mud and geysers.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "这个公园坐落在一座超级火山上，游客可以看到色彩斑斓的温泉、冒泡的泥浆池和间歇泉。"
+          "t": "这个公园坐落在一座超级火山上，游客可以看到五颜六色的温泉、冒泡的泥潭和间歇泉。"
         },
         {
           "s": "Thanks to this, Dad has come to love hot pot!",
           "src": "外研社B2 U1",
           "cat": "waiyan",
-          "t": "多亏了这些，爸爸开始爱上火锅了！"
+          "t": "多亏了这个，爸爸已经爱上了火锅！"
         },
         {
           "s": "He invited me back for the winter to stay in a traditional Mongolian tent and eat hot pot.",
           "src": "人教B3 U1",
           "cat": "renjiao",
           "t": "他邀请我冬天回来，住在传统的蒙古包里吃火锅。"
+        },
+        {
+          "s": "Pour it into a pot an mix it with five grams of smiles.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "把它倒进锅里，与五克微笑混合。"
+        },
+        {
+          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他们把一些米放进一锅水里，然后让它煮着，同时去做法式吐司。"
+        },
+        {
+          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
+          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他们把一些米放进一锅水里，然后让它煮着，同时去做法式吐司。"
+        },
+        {
+          "s": "In 1928 Herbert Hoover imagined an America with “a chicken in every pot and a car in every garage.” Since then, this society has moved onward, never looking back, as the car transformed America from a farm-based society into an industrial power.zxx.k",
+          "src": "2018浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "1928年，赫伯特·胡佛设想了一个“每个锅里一只鸡、每个车库一辆车”的美国。从那以后，这个社会一往无前，从不回头，因为汽车把美国从一个以农业为基础的社会变成了一个工业强国。"
+        },
+        {
+          "s": "Hotpot is meant for families and friends to sit together, dip everything they like this in one pot, and shared friendship and love.",
+          "src": "2024全国甲卷·第四部分 写作",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "火锅适合家人和朋友围坐在一起，把自己喜欢的东西都放进同一个锅里蘸着吃，分享友谊和爱。"
+        },
+        {
+          "s": "We yelled at the bear，hit pots hard，and fired blank shotgun shells into the air.",
+          "src": "2020浙江7月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我们对着熊大喊，用力敲打锅，并向空中发射空包弹。"
         }
       ]
     },
@@ -45,26 +86,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "不时给你的植物换盆也会有帮助"
-        },
-        {
-          "s": "Pour it into a pot an mix it with five grams of smiles.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "倒入锅中，加入五克微笑。"
-        },
-        {
-          "s": "Then Jeff noticed steam shooting out of the pot and the lid starting to shake.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "下一分钟粥溢出来了，把火浇灭了。"
-        },
-        {
-          "s": "Then Jeff noticed steam shooting out of the pot and the lid starting to shake.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "下一分钟粥溢出来了，把火浇灭了。"
         }
       ]
     },
@@ -86,52 +107,29 @@
     },
     {
       "def": "他用气枪向邻居的猫打了一枪。",
-      "ex": [
-        {
-          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "杰夫往盘子里打了两个鸡蛋并加了一些牛奶。"
-        },
-        {
-          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "杰夫往盘子里打了两个鸡蛋并加了一些牛奶。"
-        },
-        {
-          "s": "In 1928 Herbert Hoover imagined an America with “a chicken in every pot and a car in every garage.” Since then, this society has moved onward, never looking back, as the car transformed America from a farm-based society into an industrial power.zxx.k",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "驱动美国梦的汽车帮助制造了一场全球生态灾难。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the act of hitting a ball into one of the pockets around the edge of the table 台球、普尔或斯诺克",
-      "ex": [
-        {
-          "s": "Hotpot is meant for families and friends to sit together, dip everything they like this in one pot, and shared friendship and love.",
-          "src": "2024全国甲卷·第四部分 写作",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "火锅适合家人和朋友围坐在一起，把自己喜欢的东西都放进同一个锅里蘸着吃，分享友谊和爱。"
-        },
-        {
-          "s": "We yelled at the bear，hit pots hard，and fired blank shotgun shells into the air.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有时像这样的巨大声会把熊吓跑。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to put a plant into a flowerpot filled with soil 把 … 栽入盆中；种盆栽",
       "ex": [
+        {
+          "s": "Then Jeff noticed steam shooting out of the pot and the lid starting to shake.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "下一分钟粥溢出来了，把火浇灭了。"
+        },
+        {
+          "s": "Then Jeff noticed steam shooting out of the pot and the lid starting to shake.",
+          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "下一分钟粥溢出来了，把火浇灭了。"
+        },
         {
           "s": "Indoor plants, also known as houseplants or pot plants, are plants that like to grow indoors.",
           "src": "2023全国乙卷·七选五",
@@ -150,7 +148,7 @@
           "s": "Put these ingredients and the dates into a pot.",
           "src": "人教B3 U1",
           "cat": "renjiao",
-          "t": "将这些食材和枣子放入锅中。"
+          "t": "把这些材料和日期放进锅里。"
         }
       ]
     },

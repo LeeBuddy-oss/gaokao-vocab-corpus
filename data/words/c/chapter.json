@@ -20,21 +20,21 @@
           "src": "2025浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
-          "t": "对于文章或书籍章节，可用时你会收到电子邮件通知。"
+          "t": "对于文章或书籍章节，当其可用时，你会收到电子邮件通知。"
         },
         {
           "s": "To obtain the article or chapter, click on the link provided in the email and log into your ILL account.",
           "src": "2025浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
-          "t": "要获取文章或章节，点击邮件中提供的链接并登录你的ILL账户。"
+          "t": "要获取该文章或章节，请点击邮件中提供的链接并登录你的馆际互借账户。"
         },
         {
           "s": "Library Type Loan Cost Article/Chapter Cost",
           "src": "2025浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
-          "t": "成功之母是勤奋。"
+          "t": "图书馆类型 借阅费用 文章/章节费用"
         },
         {
           "s": "If you want to turn over a new leaf, though, one top tip is that it helps to choose a significant date that signals the start of a new “chapter”.",
@@ -62,7 +62,7 @@
           "src": "2023新课标I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "每一章都以一组练习收尾，这些练习旨在帮助你践行该章的核心思想。"
+          "t": "每一章都以一系列实践练习收尾，这些练习旨在帮助你将本章的重要理念付诸行动。"
         },
         {
           "s": "What is presented in the final chapter of part one?",
@@ -97,7 +97,7 @@
           "src": "外研社B4 U2",
           "cat": "waiyan",
           "year": "",
-          "t": "即使在第二次世界大战期间在美国陆军服役时，他也随身携带了《麦田守望者》的六章，并在整个战争服役期间为小说工作。"
+          "t": "即使在二战期间服役于美国陆军时，他也随身带着《麦田里的守望者》的六章手稿，在整个服役期间都在创作这部小说。"
         },
         {
           "s": "This often appears at the beginning of a story, or a chapter, and helps the reader develop expectations about the coming events in a story.",
@@ -105,12 +105,7 @@
           "cat": "waiyan",
           "year": "",
           "t": "这通常出现在故事的开头或章节中，帮助读者对故事中即将发生的事件产生期望。"
-        }
-      ]
-    },
-    {
-      "def": "a period of time in a person's life or in history （人生或历史的）时期，时代，篇章",
-      "ex": [
+        },
         {
           "s": "Sitting at the table, making my mini sandwich, I realised I was ready for our next chapter.",
           "src": "2026北京卷·阅读理解B",
@@ -140,18 +135,6 @@
           "t": "理想情况下，历史会把文本和实物结合起来，本书的一些章节能够做到这一点，但在许多情况下我们根本做不到。"
         },
         {
-          "s": "Our life story is something that starts coming together in our teenage years, when we begin to organise our lives into chapters around key events or life changes, and begin to see ourselves as both the central character and, to a varying extent, the story’s author.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我们的人生故事在青少年时期开始成形——那时我们围绕关键事件或人生变化把生活组织成若干章节，并开始把自己视为既是中心人物，也在一定程度上是这个故事的作者。"
-        }
-      ]
-    },
-    {
-      "def": "all the priests of a cathedral or members of a religious community 主教座堂全体教士；宗教团体的全体成员",
-      "ex": [
-        {
           "s": "In the former case you may be able to read a chapter.",
           "src": "2021新高考II卷·七选五",
           "cat": "gaokao",
@@ -159,6 +142,22 @@
           "t": "在前一种情况下，你可能能读一章。"
         }
       ]
+    },
+    {
+      "def": "a period of time in a person's life or in history （人生或历史的）时期，时代，篇章",
+      "ex": [
+        {
+          "s": "Our life story is something that starts coming together in our teenage years, when we begin to organise our lives into chapters around key events or life changes, and begin to see ourselves as both the central character and, to a varying extent, the story’s author.",
+          "src": "2025北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我们的人生故事在青少年时期开始成形，那时我们开始把生活围绕关键事件或人生变化整理成一个个章节，并开始把自己视为故事的中心人物，并且在不同程度上也视为这个故事的创作者。"
+        }
+      ]
+    },
+    {
+      "def": "all the priests of a cathedral or members of a religious community 主教座堂全体教士；宗教团体的全体成员",
+      "ex": []
     },
     {
       "def": "a local branch of a society, club, etc. （社团、俱乐部等的）地方分会",

@@ -7,20 +7,24 @@
   "defs": [
     {
       "def": "a number of people or things taken from a larger group and used in tests to provide information about the group （抽查的）样本，样品",
+      "ex": []
+    },
+    {
+      "def": "a small amount of a substance taken from a larger amount and tested in order to obtain information about the substance （化验的）取样，样本，样",
       "ex": [
         {
           "s": "Collect samples of plant root systems.",
           "src": "2026浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
-          "t": "采集植物根系样本."
+          "t": "收集植物根系的样本。"
         },
         {
           "s": "But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent.",
           "src": "2025新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2025,
-          "t": "但在碳酸钙少于60毫克的样本中，煮沸只将塑料水平降低25%。"
+          "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
         },
         {
           "s": "The reason is simple: we know of just one type of life and it’s challenging to do science with a sample size of one.",
@@ -34,7 +38,7 @@
           "src": "2020全国新高考II卷·语法填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "因为可能的主题数量(____43____be)在实践上是无限的,所以我们侧重于最有趣和有用的应用和工具的样本,并解释技术的基本原则."
+          "t": "因为可能的主题数量___43___（be）几乎无穷无尽，我们聚焦于最有趣、最有用的应用和工具的一个样本，并解释技术的基本原理。"
         },
         {
           "s": "Just before and an hour after each workout, the scientists took additional samples of the men’s blood and fat tissue.",
@@ -48,19 +52,19 @@
           "src": "2020江苏卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "然后他们比较了样本。"
+          "t": "在每次锻炼前后各一小时，科学家们额外采集了男性的血液和脂肪组织样本。"
         },
         {
           "s": "Every child provide / provides a small sample of blood or body tissue.",
           "src": "外研社B6 U4",
           "cat": "waiyan",
-          "t": "每个孩子提供/provides 一小份血液或身体组织样本。"
+          "t": "每个孩子 provide / provides 提供一小份血液或身体组织样本。"
         },
         {
           "s": "Thousands of metres beneath the waves, its crew took incredible photos and videos and collected important samples from the ocean floor for research in oceanography.",
           "src": "外研社B7 U6",
           "cat": "waiyan",
-          "t": "海浪下数千米,它的船员拍摄了不可思议的照片和视频,并从洋底收集了重要的样品,用于海洋学研究."
+          "t": "在海浪下数千米处，其船员拍摄了令人难以置信的照片和视频，并为海洋学研究从海底收集了重要样本。"
         },
         {
           "s": "Many samples of Aboriginal rock art accurately dated back as far as 28,000 years.",
@@ -73,12 +77,14 @@
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "在这样做的时候,她尽管相当忙于她的学校工作,却在一个医学实验室实习,并邀请人们捐献组织样本,用于她去的地方的研究目的."
+        },
+        {
+          "s": "After Darwin had spent some time in South America, his room on the ship was crowded with samples of the plants and animals he had collected.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "达尔文在南美洲呆了一段时间后，他在船上的房间里挤满了他收集的动植物样本。"
         }
       ]
-    },
-    {
-      "def": "a small amount of a substance taken from a larger amount and tested in order to obtain information about the substance （化验的）取样，样本，样",
-      "ex": []
     },
     {
       "def": "a small amount or example of sth that can be looked at or tried to see what it is like （作为标准或代表的）样品，货样",
@@ -100,20 +106,13 @@
           "src": "2024新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "采样方式不当."
+          "t": "采样方式不当。"
         }
       ]
     },
     {
       "def": "to record part of a piece of music, or a sound, in order to use it in a new piece of music 节录，选录（一段音乐或声音，用于新的乐曲中）",
-      "ex": [
-        {
-          "s": "After Darwin had spent some time in South America, his room on the ship was crowded with samples of the plants and animals he had collected.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "达尔文在南美待了一段时间后，船上他的房间挤满收集的动植物标本。"
-        }
-      ]
+      "ex": []
     }
   ]
 }

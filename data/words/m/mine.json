@@ -13,7 +13,7 @@
           "src": "2024全国甲卷·完形填空",
           "cat": "gaokao",
           "year": 2024,
-          "t": "奶奶出生于二战前夕，她的童年生活方式与我的____完全不同。"
+          "t": "我的祖母出生在二战前夕，___23____与我完全不同的童年生活方式。"
         },
         {
           "s": "It was still summer, but mine was  17 .",
@@ -27,7 +27,7 @@
           "src": "2021浙江6月卷·读后续写",
           "cat": "gaokao",
           "year": 2021,
-          "t": "我很高兴你能为家庭做出贡献。\"爸爸的话让我意识到我的收入可能不能由我自己支配。"
+          "t": "我很高兴你能为这个家庭贡献力量。” 我父亲的话让我意识到,我的收入可能不是按我的意愿来支付的。"
         },
         {
           "s": "My mother shared this feeling of mine.",
@@ -41,14 +41,14 @@
           "src": "2020浙江7月卷·七选五",
           "cat": "gaokao",
           "year": 2020,
-          "t": "我童年时经历过数年的孤独。___31___他的朋友们嘲笑他要照顾妹妹，他的兴趣与我的截然不同。"
+          "t": "我童年时经历了多年的孤独。___31___ 他的朋友嘲笑他照顾妹妹，而他的兴趣也与我大相径庭。"
         },
         {
           "s": "A friend of mine owns an area of land in western Victoria.",
           "src": "2017江苏卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "我的一位朋友在维多利亚州西部拥有一片土地。"
+          "t": "我的一个朋友在维多利亚州西部拥有一块土地。"
         },
         {
           "s": "The room whose window faces south is mine.",
@@ -88,19 +88,14 @@
           "src": "2018全国I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
-          "t": "为了弄清楚这些设备使用了多少电力，纽约罗彻斯特理工学院的卡莉·巴比特和她的同事们追踪了每种产品在整个生命周期中的环境成本——从矿物开采到我们停止使用该设备为止。"
-        }
-      ]
-    },
-    {
-      "def": "a type of bomb that is hidden under the ground or in the sea and that explodes when sb/sth touches it 地雷；水雷",
-      "ex": [
+          "t": "为了弄清楚这些设备用了多少电，纽约罗彻斯特理工学院的 Callie Babbitt 和她的同事们追踪了每种产品整个生命周期的环境成本——从矿物开采到我们停止使用该设备为止。"
+        },
         {
           "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
           "src": "2022天津4月卷",
           "cat": "gaokao",
           "year": 2022,
-          "t": "沙利文一直在想1954年他在一个小矿镇长大时收到的那份唯一礼物。"
+          "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
         },
         {
           "s": "His friend used Henry’s name to get people to invest in his gold mine.",
@@ -109,6 +104,10 @@
           "t": "他的朋友利用亨利的名字让人们投资他的金矿。"
         }
       ]
+    },
+    {
+      "def": "a type of bomb that is hidden under the ground or in the sea and that explodes when sb/sth touches it 地雷；水雷",
+      "ex": []
     },
     {
       "def": "to dig holes in the ground in order to find and obtain coal, diamonds, etc. （在某地）开矿，采矿",

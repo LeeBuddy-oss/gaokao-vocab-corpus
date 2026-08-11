@@ -20,7 +20,7 @@
           "src": "2022全国甲卷",
           "cat": "gaokao",
           "year": 2022,
-          "t": "虽然我（第44空）他是个动物爱好者，但我（第45空）三只狗也许太多了，而且我的狗可能会攻击（第46空），那只猫。"
+          "t": "虽然___44___他是个动物爱好者，但我___45___三只狗可能太多了，我的狗可能会攻击___46___——那只猫。"
         },
         {
           "s": "Mathematical models have also revealed that food webs may be unstable， where small changes of top predators can lead to big effects throughout entire ecosystems． In the 1960s， scientists proposed that predators at the top of a food web had a surprising amount of control over the size of populations of other species﹣including species they did not directly attack．",
@@ -41,7 +41,7 @@
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "B．能轻易找到新的猎物"
+          "t": "B．它们间接攻击的物种会变成顶级捕食者。"
         },
         {
           "s": "When a leafy plant is under attack, it doesn’t sit quietly.",
@@ -69,7 +69,7 @@
           "src": "2017全国II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "当植物受到攻击时会怎么做？"
+          "t": "当植物受到攻击时它会做什么？"
         },
         {
           "s": "The attackers get attacked.",
@@ -111,7 +111,7 @@
           "src": "2017重庆卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "当植物受到攻击时会怎么做？"
+          "t": "当植物受到攻击时它会做什么？"
         },
         {
           "s": "The attackers get attacked.",
@@ -119,6 +119,27 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "攻击者反被攻击。"
+        },
+        {
+          "s": "It tells the story of a great white shark that attacks and kills swimmers.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "它讲述了一条大白鲨袭击并杀死游泳者的故事。"
+        },
+        {
+          "s": "Experts have proved that sharks do not see people as food, and they attack us by mistake.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "专家已经证明，鲨鱼并不把人类当作食物，它们攻击我们是出于误会。"
+        },
+        {
+          "s": "This is the opening scene from the 1975 film Jaws, showing a shark attack.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这是1975年电影《大白鲨》的开场场景，展示了一次鲨鱼袭击。"
         }
       ]
     },
@@ -130,7 +151,7 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "year": "",
-          "t": "所以，如果你有这样的朋友，你需要诚实地对待你的感受，不要忘记你最好的朋友不会利用你。"
+          "t": "专家已经证明 8______，它们攻击我们是出于误会。"
         }
       ]
     },
@@ -140,15 +161,7 @@
     },
     {
       "def": "an action that you take to try to stop or change sth that you feel is bad 抑制；打击；处理",
-      "ex": [
-        {
-          "s": "It tells the story of a great white shark that attacks and kills swimmers.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "你经常在哪里看到广告？你喜欢吗？"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a sudden, short period of illness, usually severe, especially an illness that you have often （尤指常发疾病的）发作，侵袭",
@@ -173,13 +186,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "心脏病发作的原因。"
-        },
-        {
-          "s": "Experts have proved that sharks do not see people as food, and they attack us by mistake.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "你能给夏洛克一些关于……的建议吗？/关于如何改善健康状况的建议。"
         }
       ]
     },
@@ -199,14 +205,7 @@
           "src": "外研社B2 U1",
           "cat": "waiyan",
           "year": "",
-          "t": "软饮料中的糖形成酸性物质，每次饮用后约20分钟内侵蚀我们的牙齿。"
-        },
-        {
-          "s": "This is the opening scene from the 1975 film Jaws, showing a shark attack.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "小报（提供信息并影响我们如何感受问题）\\广告"
+          "t": "软饮料中的糖会形成酸，每次饮用时都会侵蚀我们的牙齿约 20 分钟。"
         }
       ]
     },

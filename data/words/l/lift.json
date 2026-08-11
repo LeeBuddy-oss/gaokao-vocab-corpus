@@ -13,7 +13,7 @@
           "src": "2025新高考II卷·完形填空",
           "cat": "gaokao",
           "year": 2025,
-          "t": "____51____他人：在你的旅程中托起他人。",
+          "t": "“___51___他人：在你的旅程中扶他人一把。”",
           "_matched": true
         },
         {
@@ -21,7 +21,7 @@
           "src": "2025浙江1月卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "“我的父母以前住在这里，我父亲的手表也在这里，”他一边解释，一边试图撬起一块地板。",
+          "t": "我父母以前住在这里，我父亲的手表也在这里，”他一边解释，一边试着撬起一块地板。",
           "_matched": true
         },
         {
@@ -43,28 +43,34 @@
           "src": "2022全国新高考I卷·七选五",
           "cat": "gaokao",
           "year": 2022,
-          "t": "你和你的伴侣可能有不同的技能。___40___随着时间的推移，你们双方都会受益——你的伴侣将能够举起更重的重量，而你将变得更加健康。"
+          "t": "你和你的搭档可能技能不同。___40___久而久之，你们双方都会受益——你的搭档能举起更重的重量，而你也会变得更健康。"
         },
         {
           "s": "Finally, some girls had to lift their partners.",
           "src": "人教B1 U1",
           "cat": "renjiao",
           "t": "最后，一些女孩不得不举起她们的舞伴。"
+        },
+        {
+          "s": "Referred to as matrix planting, this approach aims for nature to do a lot more of the heavy lifting in the garden, and even some of the designing.",
+          "src": "2025浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这种方法被称为“矩阵种植”，旨在让自然在花园中承担更多繁重工作，甚至部分设计。",
+          "_matched": true
+        },
+        {
+          "s": "Nanxiang aside, the best Xiao long bao have a fine skin, allowing them ____41____ (lift) out of the steamer basket without allowing them tearing or spilling any of ____42____ (they) contents.",
+          "src": "2023新课标I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "撇开南翔不谈，最好的小笼包皮薄，能让它们被____41____（lift）从蒸笼里取出而不会破皮，也不会洒出____42____（they）里面的东西。"
         }
       ]
     },
     {
       "def": "to take hold of sb/sth and move them/it to a different position 移开；移动",
-      "ex": [
-        {
-          "s": "The Texas-based company has developed and patented scooping and lifting technology to move massive trees.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这家总部位于德克萨斯的公司开发并获得了挖掘和提升技术的专利，用于移动巨大的树木。",
-          "_matched": true
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to transport people or things by air 空运",
@@ -76,29 +82,7 @@
     },
     {
       "def": "to become or make sb more cheerful 高兴起来；使更愉快",
-      "ex": [
-        {
-          "s": "Referred to as matrix planting, this approach aims for nature to do a lot more of the heavy lifting in the garden, and even some of the designing.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这种方法被称为矩阵种植，旨在让自然在花园中承担更多繁重的抬举工作，甚至一些设计工作。",
-          "_matched": true
-        },
-        {
-          "s": "This stranger became my cheerleader, as if it was his mission to lift me up from my  28 .",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位陌生人成了我的啦啦队长，仿佛他的使命就是把我从28 中拉起来。"
-        },
-        {
-          "s": "After twenty minutes, Peter felt happy when he saw the medics lifting the boy, now is talking, into the ambulance.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "二十分钟后，当彼得看到医护人员把那个男孩（现在在说话了）抬上救护车时，他感到很高兴。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to rise and disappear 消散；消失",
@@ -110,18 +94,28 @@
     },
     {
       "def": "to use sb's ideas or words without asking permission or without saying where they come from 剽窃；盗用；抄袭",
+      "ex": []
+    },
+    {
+      "def": "to dig up vegetables or plants from the ground 挖出，刨出，拔起（蔬菜或植物）",
+      "ex": []
+    },
+    {
+      "def": "to make the amount or level of sth greater; to become greater in amount or level 提高；增加；（使）增长",
       "ex": [
+        {
+          "s": "This stranger became my cheerleader, as if it was his mission to lift me up from my  28 .",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位陌生人成了我的啦啦队长，仿佛他的使命就是把我从28 中拉起来。"
+        },
         {
           "s": "In truth, even if they had decided to put it on top of the cathedral, given its weight, they had no way to lift it that high.",
           "src": "人教选必3 U5",
           "cat": "renjiao",
           "t": "事实上，即使他们决定把它放在大教堂顶部，考虑到它的重量，他们也根本无法把它举那么高。"
-        }
-      ]
-    },
-    {
-      "def": "to dig up vegetables or plants from the ground 挖出，刨出，拔起（蔬菜或植物）",
-      "ex": [
+        },
         {
           "s": "I find during the winter months, plants around the house can really lift your mood.” Several studies have backed this up and found that indoor plants can improve creativity, focus and memory.",
           "src": "2023全国乙卷·七选五",
@@ -132,10 +126,6 @@
       ]
     },
     {
-      "def": "to make the amount or level of sth greater; to become greater in amount or level 提高；增加；（使）增长",
-      "ex": []
-    },
-    {
       "def": "a machine that carries people or goods up and down to different levels in a building or a mine 电梯；升降机",
       "ex": [
         {
@@ -143,7 +133,7 @@
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "A．迅速冲向电梯。",
+          "t": "A．快速冲向电梯",
           "_matched": true
         },
         {
@@ -172,7 +162,7 @@
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "•立即从最近的紧急出口离开；不要使用电梯。",
+          "t": "你的房间天花板上装有烟雾探测器。一些建筑的天花板上还有热探测器。为确保烟雾探测器的安全运行，请执行以下操作：",
           "_matched": true
         },
         {
@@ -191,27 +181,33 @@
     },
     {
       "def": "a feeling of being happier or more confident than before 较好的心情；更大的信心",
+      "ex": []
+    },
+    {
+      "def": "a movement in which sth rises or is lifted up 提；抬；举；上升；吊",
       "ex": [
+        {
+          "s": "The Texas-based company has developed and patented scooping and lifting technology to move massive trees.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "\"我[已经]为此失去了足够的睡眠，\"该公司西部副总裁大卫·考克斯说——那还是在医院提到这棵树的显赫出身之前。",
+          "_matched": true
+        },
+        {
+          "s": "After twenty minutes, Peter felt happy when he saw the medics lifting the boy, now is talking, into the ambulance.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "二十分钟后，当彼得看到医护人员把那个男孩（现在在说话了）抬上救护车时，他感到很高兴。"
+        },
         {
           "s": "Before the heavy lifting began, the team assessed the root system and dug a five-foot-deep cylinder , measuring 40 feet in diameter, around the trunk to protect all essential roots.",
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "在繁重的吊装工作开始之前，团队评估了根系，并在树干周围挖了一个直径40英尺、深5英尺的圆柱体，以保护所有重要根系。",
+          "t": "在重型吊装开始前，团队先评估了根系，并在树干周围挖了一个深五英尺、直径40英尺的圆柱形坑，以保护所有重要的根部。",
           "_matched": true
         },
-        {
-          "s": "Nanxiang aside, the best Xiao long bao have a fine skin, allowing them ____41____ (lift) out of the steamer basket without allowing them tearing or spilling any of ____42____ (they) contents.",
-          "src": "2023新课标I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "撇开南翔不谈，最好的小笼包皮薄，能让它们被____41____（lift）从蒸笼里取出而不会破皮，也不会洒出____42____（they）里面的东西。"
-        }
-      ]
-    },
-    {
-      "def": "a movement in which sth rises or is lifted up 提；抬；举；上升；吊",
-      "ex": [
         {
           "s": "Mom lifted me out of the car and  38  to speak to the driver.",
           "src": "2020浙江1月卷·完形填空",
@@ -233,6 +229,12 @@
           "src": "外研社B6 U6",
           "cat": "waiyan",
           "t": "战时著名的演讲在黑暗时期鼓舞了人心，给绝望带来了希望，缅怀了逝者，甚至改变了历史的进程。"
+        },
+        {
+          "s": "Our waiter advised us to lift the plates and bowls close to our faces.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "我们的服务员建议我们把盘子和碗举到靠近脸的地方。"
         }
       ]
     },
@@ -244,14 +246,8 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "因为挖掘和提升技术应该投入使用。",
+          "t": "因为它符合政府的环境设计计划。",
           "_matched": true
-        },
-        {
-          "s": "Our waiter advised us to lift the plates and bowls close to our faces.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "我们的服务员建议我们把盘子和碗举到靠近脸的地方。"
         }
       ]
     }

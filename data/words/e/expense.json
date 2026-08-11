@@ -9,20 +9,6 @@
       "def": "the money that you spend on sth 费用；价钱",
       "ex": [
         {
-          "s": "It may increase daily expenses.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你听说过塑料污染海洋——每年有480万到1270万吨塑料进入海洋生态系统。"
-        },
-        {
-          "s": "She never minded the alarm clock sounding at 4 am or questioned my expenses on running.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者的第一次马拉松怎么样？"
-        },
-        {
           "s": "I know from experience that Dr Nobel occupied himself with the solution of medical problems and that he spared neither trouble nor expense to obtain an explanation of the question raised.",
           "src": "译林选必2 U4",
           "cat": "yilin",
@@ -33,20 +19,27 @@
           "src": "2020全国新高考I卷·七选五",
           "cat": "gaokao",
           "year": 2020,
-          "t": "太多时候，当你站起来演讲时，你过于关注\"公众\"而忽略了\"演讲\"本身。    17     关注演讲本身。"
+          "t": "很多时候，当你站起来演讲时，你只顾着“公众”而牺牲了“演讲”。    17     把注意力放在演讲上。"
         },
         {
           "s": "Instead, I agree with Oxford University philosopher Nick Bostrom, who believes that the heaviest risks from A GI do not come from a decision to turn against mankind but rather from a dogged pursuit of set objectives at the expense of everything else.",
           "src": "2020北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "相反，我同意牛津大学哲学家尼克·波斯特罗姆的观点，他认为AGI的最大风险并非来自决定背叛人类，而是来自对既定目标的执着追求而不顾其他一切。"
+          "t": "相反,我同意牛津大学哲学家尼克·博斯特罗姆的观点,他相信GI带来的最重风险并非来自对全人类的背叛,而是来自于以牺牲其他一切为代价,对既定目标的顽强追求。"
         }
       ]
     },
     {
       "def": "something that makes you spend money 花钱的东西；开销",
       "ex": [
+        {
+          "s": "She never minded the alarm clock sounding at 4 am or questioned my expenses on running.",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "她从不介意凌晨4点的闹钟响起，也不质疑我在跑步上的开销。"
+        },
         {
           "s": "But it all depends on my expenses, so I intend to find some work first.",
           "src": "人教选必2 U5",
@@ -66,11 +59,18 @@
       "def": "money spent in doing a particular job, or for a particular purpose 开支；花费；费用",
       "ex": [
         {
+          "s": "It may increase daily expenses.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "它可能会增加日常开支。"
+        },
+        {
           "s": "How to cut his travel expenses.",
           "src": "2026新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
-          "t": "如何节省出行开支。"
+          "t": "如何削减他的差旅费用."
         }
       ]
     },
@@ -82,14 +82,14 @@
           "src": "2021浙江6月卷·读后续写",
           "cat": "gaokao",
           "year": 2021,
-          "t": "他的父亲阿尔伯特拿走我父亲挣的钱用来支付家庭开支。"
+          "t": "而他的爸爸,阿尔伯特,拿走了我爸挣来的钱,用它来支付家庭开支."
         },
         {
           "s": "With food our biggest weekly household expense, Susanna and Matt spend time with a different family each week.",
           "src": "2018全国I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
-          "t": "食物是我们每周最大的家庭开支，苏珊娜和马特每周都会花时间与不同的家庭在一起。"
+          "t": "由于食物是我们每周最大的家庭开支，苏珊娜和马特每周与一户不同的家庭共度时光。"
         },
         {
           "s": "Tuition fees and living expenses are much more expensive than at home and could end up costing most families an arm and a leg.",
@@ -130,7 +130,7 @@
           "src": "2025北京卷·语法填空",
           "cat": "gaokao",
           "year": 2025,
-          "t": "毕竟，探索世界不应以牺牲地球为代价（____20____）。"
+          "t": "毕竟，探索世界不应以____20____地球为代价。"
         }
       ]
     }

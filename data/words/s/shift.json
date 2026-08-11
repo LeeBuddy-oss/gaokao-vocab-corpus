@@ -13,7 +13,7 @@
           "src": "2020全国新高考I卷·七选五",
           "cat": "gaokao",
           "year": 2020,
-          "t": "让你的听众意犹未尽，好过他们在座位上不安地挪动、等着你的演讲终于结束。"
+          "t": "与其让你的听众焦躁不安地在座位上挪动、等着你的演讲终于结束，不如让他们意犹未尽。"
         },
         {
           "s": "Once Qian changed his major because of a shift in personal interest.",
@@ -25,7 +25,21 @@
           "s": "In subject matter, the emphasis increasingly shifted from religious themes to people and the world around us.",
           "src": "人教选必3 U1",
           "cat": "renjiao",
-          "t": "在主题方面,重点日益从宗教主题转移到我们周围的人和世界。"
+          "t": "在题材上，重点日益从宗教主题转向人类和我们周围的世界。"
+        },
+        {
+          "s": "In fact, universities often shift emphasis from teaching to other ranking factors.",
+          "src": "2023北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "事实上，大学经常将重心从教学转移到其他排名因素上。"
+        },
+        {
+          "s": "And then, we can shift our inquiry from “Is the universe a computer simulation? ” to “Can we model the universe as a computer simulation? ” Modelling reality is what we do.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "然后，我们可以将我们的探究从\"宇宙是一个计算机模拟吗？\"转移到\"我们能否将宇宙建模为一个计算机模拟？\"建模现实正是我们所做的事。"
         }
       ]
     },
@@ -52,47 +66,27 @@
           "src": "2018上海卷·Section A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "但是,Twinge说,美国____52____正在更多地转向这个模式,这种变化在社会经济方面是显而易见的。"
+          "t": "但美国正更多地转向____52____模式，这种转变在整个社会经济光谱中都显而易见，特温格说。"
         },
         {
           "s": "They shifted their viewpoints frequently.",
           "src": "2020江苏卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "他们经常改变观点。"
+          "t": "他们频繁改变观点。"
         },
         {
           "s": "Whether or not we pay attention to the world’s “scentscape”, heat and pollution are causing it to shift.",
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
-          "t": "无论我们是否关注世界的“气味景观”，高温和污染都在使它改变。"
-        },
-        {
-          "s": "Clearly, my way of reading the text had shifted, and I myself had changed over the years.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "显然，我阅读文本的方式已经改变，而我自己也多年来发生了变化。"
-        },
-        {
-          "s": "You will work on a morning, afternoon or evening shift at your project site for 3 to 5 hours per day, Monday to Friday.",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "周一至周五，你将在项目地点上早班、午班或晚班，每天3到5小时。"
+          "t": "无论我们是否关注世界的“气味景观”，高温和污染都在使它发生变化。"
         },
         {
           "s": "Identify change To help identify the changes that an article talks about, look for words that express change, such as development, breakthrough, innovation, begin, and shift, and the construction from … to ...",
           "src": "人教选必3 U1",
           "cat": "renjiao",
           "t": "识别变化 帮助识别文章谈论的变化,寻找表达变化的文字,如发展,突破,创新,开始和转变,以及建设从.到."
-        },
-        {
-          "s": "Others would also shift their bodies, adjust their clothing, or play with their hair.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "t": "其他人也会改变身体,调整衣服,或玩弄头发。"
         },
         {
           "s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.",
@@ -107,13 +101,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "因此我们谈论的不是去适应一个新的标准，而是去适应一组不断变化的条件。"
-        },
-        {
-          "s": "Barcelona has put together a package of clean energy technologies to help public transportation go greener, while also doing its part to tackle climate change and aid Europe’s difficult shift to the privately owned electric vehicle market.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "巴塞罗那整合了一系列清洁能源技术，帮助公共交通变得更环保，同时也为应对气候变化出力，并助力欧洲艰难地向私人电动汽车市场转型。"
         }
       ]
     },
@@ -131,28 +118,57 @@
     },
     {
       "def": "to change the gears when you are driving a vehicle 换（挡）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Barcelona has put together a package of clean energy technologies to help public transportation go greener, while also doing its part to tackle climate change and aid Europe’s difficult shift to the privately owned electric vehicle market.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "巴塞罗那已经汇集了一整套清洁能源技术,以帮助公共交通走向绿色,同时也在应对气候变化并帮助欧洲艰难地转向私人拥有的电动车辆市场方面尽了自己的职责。"
+        }
+      ]
     },
     {
       "def": "a change in position or direction 改变；转移；转换；变换",
-      "ex": []
+      "ex": [
+        {
+          "s": "Clearly, my way of reading the text had shifted, and I myself had changed over the years.",
+          "src": "2024天津3月卷·阅读Passage 2",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "显然，我阅读文本的方式已经改变，而这些年来我自己也变了。"
+        },
+        {
+          "s": "Others would also shift their bodies, adjust their clothing, or play with their hair.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "其他人也会改变身体,调整衣服,或玩弄头发。"
+        }
+      ]
     },
     {
       "def": "a period of time worked by a group of workers who start work as another group finishes 班；轮班；轮班工作时间",
       "ex": [
         {
+          "s": "You will work on a morning, afternoon or evening shift at your project site for 3 to 5 hours per day, Monday to Friday.",
+          "src": "2026北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "你将在周一至周五每天在项目地点工作，轮早班、午班或晚班，每天3到5小时。"
+        },
+        {
           "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
           "src": "2021北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "即使这种计时方法在具体上新颖，早期农业社会也将时间与自然现象相连。例如在前古典时期的希腊，人们通过把日期前移或后移来“修正”官方日历以反映季节变化。与环境的 temporal 联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统可能促进环保意识。"
+          "t": "即便这种计时方式在细节上很新颖，早期的农业社会也将时间与自然现象联系起来。例如在前古典时期的希腊，人们会通过把日期向前或向后调整来“修正”官方历法，以反映季节的变化。与环境的时间联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统或许也能唤起人们的环保意识。"
         },
         {
           "s": "This is about making the shift from sedentary time to playtime, while ___27___ (protect) sleep.",
           "src": "2018上海卷·Section A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "这是关于从静坐时间到游戏时间的转变____27____,同时睡眠."
+          "t": "这是关于从久坐时间转向玩耍时间，同时____27____（protect）睡眠。"
         },
         {
           "s": "However, for other people, it's bedtime.These people are the night workers -nurses on night shift, lorry drivers crossing continents and bakers preparing breakfast bread.",
@@ -164,27 +180,11 @@
     },
     {
       "def": "the workers who work a particular shift 轮班职工",
-      "ex": [
-        {
-          "s": "In fact, universities often shift emphasis from teaching to other ranking factors.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "事实上,大学往往将重点从教学转向其他排名因素."
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the system on a computer keyboard or typewriter that allows capital letters or a different set of characters to be typed; the key that operates this system （计算机键盘或打字机上的）转换（键），换挡（键）",
-      "ex": [
-        {
-          "s": "And then, we can shift our inquiry from “Is the universe a computer simulation? ” to “Can we model the universe as a computer simulation? ” Modelling reality is what we do.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然后，我们可以将我们的探究从\"宇宙是一个计算机模拟吗？\"转移到\"我们能否将宇宙建模为一个计算机模拟？\"建模现实正是我们所做的事。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a woman's simple straight dress 直筒式连衣裙",

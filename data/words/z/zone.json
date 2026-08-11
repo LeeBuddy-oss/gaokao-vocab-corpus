@@ -13,21 +13,14 @@
           "src": "2026新高考I卷·阅读理解A",
           "cat": "gaokao",
           "year": 2026,
-          "t": "每个停车区由多个停车场组成，旨在高效管理整个场馆范围内的交通。"
-        },
-        {
-          "s": "Choose a parking zone.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "选择一个停车区。"
+          "t": "每个停车区由多个停车场组成，旨在高效管理整个场地的交通。"
         },
         {
           "s": "Walking at night-time is a great way to step out of your comfort zone.",
           "src": "2024新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2024,
-          "t": "夜间徒步是走出舒适区的好方式。"
+          "t": "夜间徒步是走出舒适区的好方法。"
         },
         {
           "s": "Get out of your comfort zone.",
@@ -35,13 +28,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "走出你的舒适区。"
-        },
-        {
-          "s": "58   you climb into an arctic-like zone with   59   snow and the glaciers that may soon disappear.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "当你进入一个类似北极的地带，那里有终年不化的雪和可能很快消失的冰川。"
         },
         {
           "s": "The general rule is that mild zones have relatively few languages.",
@@ -61,7 +47,7 @@
           "s": "The South-east Ridge Route on Qomolangma SUMMIT: 8,844m DEATH ZONE 8,000 m above sea level Only 30% as much oxygen as available at sea level.",
           "src": "外研社B3 U5",
           "cat": "waiyan",
-          "t": "珠穆朗玛峰东南山脊路线 顶峰：8844米 死亡地带 海拔8000米 氧气含量仅为海平面的30%。"
+          "t": "珠峰东南山脊路线 顶峰：8844米 死亡地带 海拔8000米 只有海平面含氧量的30%。"
         },
         {
           "s": "These measures aim to give stability to conflict zones and allow governments to reestablish authority.",
@@ -80,6 +66,20 @@
     {
       "def": "one of the areas that a larger area is divided into for the purpose of organization （规划的）区域，分区",
       "ex": [
+        {
+          "s": "Choose a parking zone.",
+          "src": "2026新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "选择停车区域。"
+        },
+        {
+          "s": "58   you climb into an arctic-like zone with   59   snow and the glaciers that may soon disappear.",
+          "src": "2019全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "58  你爬进一个像北极一样的区域，那里有____雪和可能很快消失的冰川。"
+        },
         {
           "s": "For those wishing to park near friends, all vehicles must have passes for the same zone and arrive together — spaces cannot be saved.",
           "src": "2026新高考I卷·阅读理解A",
@@ -106,7 +106,21 @@
           "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "我们中的许多人都认为舒适是我们唯一能容忍的状态，而当我们经历舒适区之外的事情时，就会对这种处境失去耐心。"
+          "t": "我们许多人都有这样的信念：舒适是唯一我们能容忍的状态，当我们经历舒适区之外的事时，就会对处境失去耐心。"
+        },
+        {
+          "s": "Upon entering the correct zone, parking staff will guide you directly to a space.",
+          "src": "2026新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "一旦进入正确的区域，停车管理员会直接引导你到车位。"
+        },
+        {
+          "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“例如，我们大多数人都以为老年驾驶者总是比其他人开得慢，但令人惊讶的是，我们发现，在限速30英里每小时的区域，他们难以保持匀速，因此更有可能超速并被罚款的风险。"
         }
       ]
     },
@@ -134,20 +148,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "SoFi体育场要求你严格在指定区域停车，并且宾客必须通过其彩色编码电子停车证上标明的确切入口进入。"
-        },
-        {
-          "s": "Upon entering the correct zone, parking staff will guide you directly to a space.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "进入正确的区域后，停车工作人员会直接引导你到车位。"
-        },
-        {
-          "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "\"例如，我们大多数人可能预期老年驾驶员总是比别人慢，但令人惊讶的是，我们发现他们在30英里/小时的区域内很难保持匀速，因此更容易超速并有被罚款的风险。"
         }
       ]
     },
@@ -158,7 +158,7 @@
           "s": "A more recent work of his is the huge Floating Fish, which was set among the beautiful landscape of Wuzhen West Scenic Zone.",
           "src": "外研社B4 U4",
           "cat": "waiyan",
-          "t": "他较近期的作品是巨大的《浮鱼》，安放在乌镇西栅风景区美丽的景致之中。"
+          "t": "他最近的作品是巨大的漂浮鱼，它坐落在乌镇西风景区的美丽景观中。"
         }
       ]
     }

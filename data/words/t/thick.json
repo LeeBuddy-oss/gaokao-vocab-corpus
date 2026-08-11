@@ -13,8 +13,19 @@
           "src": "2022浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
-          "t": "它们种得很密。"
+          "t": "它们种植密集。"
         },
+        {
+          "s": "I reached down, expecting rice and vegetables, but instead stuck my hand into a bowl of warm, thick soup.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "我伸手下去，本以为是米饭和蔬菜，却把手伸进了一碗温热浓稠的汤里。"
+        }
+      ]
+    },
+    {
+      "def": "（询问或说明厚度）有 … 厚",
+      "ex": [
         {
           "s": "Further up, the weather   55   — low clouds envelope the mountainsides, which are covered with thick grass.",
           "src": "2019全国I卷·完形填空",
@@ -27,30 +38,25 @@
           "src": "2018全国II卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
-          "t": "冷冻香蕉与浆果或其他水果片搭配，是制作浓稠、清凉果昔和低脂“冰淇淋”的绝佳基底。"
+          "t": "当与浆果或其他水果切片结合时,冰冻的香蕉为厚、冷却的水果摇摆和低脂“冰淇淋”提供了极佳的基础。"
         },
-        {
-          "s": "I reached down, expecting rice and vegetables, but instead stuck my hand into a bowl of warm, thick soup.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "我到了下面,等待着米饭和蔬菜,却把我的手塞进一碗温暖,浓厚的汤里."
-        }
-      ]
-    },
-    {
-      "def": "（询问或说明厚度）有 … 厚",
-      "ex": [
         {
           "s": "Only shots perfectly aimed at its centre went into the heavy, thick basket.",
           "src": "外研社B4 U3",
           "cat": "waiyan",
-          "t": "只有完美瞄准中心的投篮才能进入那个沉重厚实的篮筐。"
+          "t": "只有完美瞄准中心的投篮才能进入那个又重又厚的篮筐。"
         },
         {
           "s": "The ball could go into the heavy, thick basket only when he shot perfectly at its centre.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
-          "t": "只有当他完美地瞄准中心投篮时，球才能进入那个沉重厚实的篮筐。"
+          "t": "只有当他完美地瞄准中心投篮时，球才能进入那个又重又厚的篮筐。"
+        },
+        {
+          "s": "I no longer felt the weight of my clothes, or of my shoes, of my air supply, or my thick helmet, inside which my head shook like a nut in its shell.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "我不再感受到衣服的重量，或鞋子的，或供氧设备，或厚头盔的——我的头在里面摇得像坚果壳里的核仁。"
         }
       ]
     },
@@ -58,17 +64,10 @@
       "def": "growing closely together in large numbers 浓密的；稠密的；茂密的",
       "ex": [
         {
-          "s": "I ____44____ beekeeper Ziyad over a wide stretch of grassland before entering a thick jungle.",
-          "src": "2023浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "进入茂密丛林前，我____44____养蜂人齐亚德走过一片广阔的草地。"
-        },
-        {
           "s": "With water falling off it thick, brown hair, the bear stared back at me.",
           "src": "外研社B1 U5",
           "cat": "waiyan",
-          "t": "水从它浓密棕色的毛发上滴落，那头熊回瞪着我。"
+          "t": "水从它浓密的棕色毛发上流下来，那只熊也瞪着我看。"
         }
       ]
     },
@@ -86,18 +85,19 @@
     },
     {
       "def": "slow to learn or understand things 人",
-      "ex": []
+      "ex": [
+        {
+          "s": "I ____44____ beekeeper Ziyad over a wide stretch of grassland before entering a thick jungle.",
+          "src": "2023浙江1月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "进入茂密丛林前，我____44____养蜂人齐亚德走过一片广阔的草地。"
+        }
+      ]
     },
     {
       "def": "easily recognized as being from a particular country or area 浓重的；明显的",
-      "ex": [
-        {
-          "s": "I no longer felt the weight of my clothes, or of my shoes, of my air supply, or my thick helmet, inside which my head shook like a nut in its shell.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "我不再感受到我的衣服、鞋子、空气供应的重量,或我厚重的头盔的重量,在头盔内,我的头像壳里的坚果一样摇晃。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "deep and not as clear as normal, especially because of illness or emotion 嘶哑的，不清的（尤指因疾病或激动所致）",

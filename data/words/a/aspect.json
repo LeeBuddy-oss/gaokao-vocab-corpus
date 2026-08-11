@@ -34,14 +34,14 @@
           "src": "2026北京卷·七选五",
           "cat": "gaokao",
           "year": 2026,
-          "t": "牢记你的听众。"
+          "t": "直到最近，科学证据还仅限于道德的一个方面：善良。"
         },
         {
           "s": "She said it was all down to some key aspects.",
           "src": "2025新高考II卷·完形填空",
           "cat": "gaokao",
           "year": 2025,
-          "t": "报名和注册流程如下："
+          "t": "她说这全都归功于一些关键方面。"
         },
         {
           "s": "But equally important is the mental aspect.",
@@ -118,14 +118,14 @@
           "src": "2021天津3月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "我们开始看到事物在我们生活各个方面、我们自己以及宇宙中的相互联系性。"
+          "t": "我们开始看到,在我们生活、我们自己和宇宙的各个方面,一个事物与另一个事物相互关联。"
         },
         {
           "s": "While running every aspect of our own news station, kids and their fellow campers will create and host a broadcast airing each night at dinner for the entire camp.",
           "src": "2020全国新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "在运营我们自己新闻台的方方面面时，孩子们和营友将创作并主持一档每晚晚餐时向全营播出的节目。"
+          "t": "在运营我们自己的新闻站的方方面面的同时，孩子们和营友将制作并主持每晚晚餐时播出的节目，面向整个营地。"
         },
         {
           "s": "In which aspect do children benefit from puzzle play?",
@@ -168,6 +168,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "在……方面同意/很多人会同意我的观点，即给予对我们所有人都很重要。"
+        },
+        {
+          "s": "You could ask a friend or family member to help add to your list. ____19____ That way, you could exchange thoughts on what makes each of you special and the aspects of your personality that shine through.",
+          "src": "2023新课标I卷·Personal Forgiveness",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "你可以请朋友或家人帮你补充这个清单。____19____ 这样，你们就可以交流想法，谈谈是什么让彼此与众不同，以及你们性格中闪光的方面。"
         }
       ]
     },
@@ -178,13 +185,6 @@
     {
       "def": "the direction in which a building, window, piece of land, etc. faces; the side of a building that faces a particular direction 朝向；方位",
       "ex": [
-        {
-          "s": "You could ask a friend or family member to help add to your list. ____19____ That way, you could exchange thoughts on what makes each of you special and the aspects of your personality that shine through.",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "你可以请朋友或家人帮你补充清单。____19____ 这样，你们可以交流是什么让彼此独特，以及你性格中闪光的地方。"
-        },
         {
           "s": "Moran says one of the problems with jazz today is that the entertainment aspect of the music has been lost.",
           "src": "2017全国I卷·阅读理解C",
@@ -205,19 +205,20 @@
           "cat": "waiyan",
           "year": "",
           "t": "关于环保的观点/同意或不同意/重新排列。"
-        },
-        {
-          "s": "Of Beauty By Francis Bacon Virtue is like a rich stone, best plain set: and surely virtue is best in a body that is comely, though not of delicate features: and that hath rather dignity of presence, than beauty of aspect.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "从农业的角度来说，像农民一样，我们的祖先/庆祝新年。"
         }
       ]
     },
     {
       "def": "the form of a verb that shows, for example, whether the action happens once or repeatedly, is completed or still continuing （动词的）体（如表示动作等发生一次或多次、已完成或正在进行）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Of Beauty By Francis Bacon Virtue is like a rich stone, best plain set: and surely virtue is best in a body that is comely, though not of delicate features: and that hath rather dignity of presence, than beauty of aspect.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "《论美》　弗朗西斯·培根　美德犹如一块宝贵的宝石，最好以朴素来衬托；无疑，美德存在于得体的举止而非精致的容貌之中，且更重在气度的端庄，而非外貌的娇美。"
+        }
+      ]
     }
   ]
 }

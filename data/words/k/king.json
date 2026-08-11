@@ -21,14 +21,14 @@
           "src": "2026北京卷·写作问答",
           "cat": "gaokao",
           "year": 2026,
-          "t": "罗伯特国王的故事为那些最需要鼓舞的人提供了深厚的灵感源泉。"
+          "t": "罗伯特国王的故事为最最需要它的人提供了深厚的灵感源泉。"
         },
         {
           "s": "In 1793, Britain's King George III sent Lord George Macartney and other trade ambassadors to China to  ___33___ a trade agreement.",
           "src": "2018上海卷·Section B",
           "cat": "gaokao",
           "year": 2018,
-          "t": "1793年，英国国王乔治三世派乔治·马戛尔尼勋爵及其他贸易使节前往中国，以___33___一项贸易协定。",
+          "t": "1793年，英国国王乔治三世派马戛尔尼勋爵等贸易使节来华，以___33___一项贸易协定。",
           "_matched": true
         },
         {
@@ -36,7 +36,7 @@
           "src": "2018上海卷·Section B",
           "cat": "gaokao",
           "year": 2018,
-          "t": "他说那就是他们为自己的国王所需要做的全部。",
+          "t": "今天，这种用法与中国没有任何关系，也没有任何特定的政治联系。",
           "_matched": true
         },
         {
@@ -49,20 +49,13 @@
           "s": "The speech also contains a reference to Hamlet's hesitation to avenge his father’s murder on his uncle, King Claudius.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "演讲中还提到了哈姆雷特对为其父亲被叔叔克劳狄斯国王谋杀而复仇的犹豫。"
+          "t": "演讲中还提到哈姆雷特犹豫不决,要为父亲的死报仇于他的叔叔克劳迪乌斯国王."
         },
         {
           "s": "As king of Macedonia, he established the largest empire the ancient world had ever seen.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
-          "t": "作为马其顿的国王，他建立了古代世界有史以来最大帝国。"
-        },
-        {
-          "s": "Nor would they fail to imagine how its native inhabitants, including royal penguins, king penguins, and elephant seals, existed in perfect harmony with their natural habitat for thousands of years.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "他们也不难想象，包括皇家企鹅、王企鹅和象海豹在内的本地居民是如何与它们的自然栖息地在完美和谐中生存了数千年。",
-          "_matched": true
+          "t": "作为马其顿国王，他建立了古代世界有史以来最庞大的帝国。"
         }
       ]
     },
@@ -85,7 +78,7 @@
           "src": "2021浙江6月卷·读后续写",
           "cat": "gaokao",
           "year": 2021,
-          "t": "这种情况反复发生但我们很快学会了识别不同的草如苍耳、藜、狗尾草以及杂草之王美丽的紫色蓟。",
+          "t": "这一次又一次发生,但我们很快学会了辨别不同的草种,如公鸡,羊肉的四分之一,狐尾,以及野草之王,漂亮的紫色的 this。",
           "_matched": true
         }
       ]
@@ -94,11 +87,18 @@
       "def": "the most important piece used in the game of chess, that can move one square in any direction （国际象棋中的）王",
       "ex": [
         {
+          "s": "Nor would they fail to imagine how its native inhabitants, including royal penguins, king penguins, and elephant seals, existed in perfect harmony with their natural habitat for thousands of years.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "他们也不会不想到，岛上的原始居民——包括皇家企鹅、王企鹅和象海豹——是如何与它们的自然栖息地完美和谐地共存了数千年。",
+          "_matched": true
+        },
+        {
           "s": "We can imagine a different version of King Robert’s story.",
           "src": "2026北京卷·写作问答",
           "cat": "gaokao",
           "year": 2026,
-          "t": "里贝罗每人收费35欧元，通常提供一道三道菜的正餐，最长可持续三小时。"
+          "t": "我们可以想象罗伯特国王故事的另一个版本。"
         }
       ]
     },

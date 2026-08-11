@@ -20,7 +20,7 @@
           "src": "2026新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
-          "t": "但海拔必然是相对的：只有选定一个参照点，我们才能用数字表示一个物体或地点的高度。"
+          "t": "但海拔高度必然是相对的：只有选择一个参照点，我们才能用数值表示物体或地点的高度。"
         },
         {
           "s": "The human body can only stand this height for a few days.",
@@ -32,7 +32,21 @@
     },
     {
       "def": "the quality of being tall or high 高",
-      "ex": []
+      "ex": [
+        {
+          "s": "What do we know about the Cantonese restaurant in Columbia Heights?",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "关于哥伦比亚高地的那家粤餐厅，我们知道什么？"
+        },
+        {
+          "s": "With objects ranging from small pocket watches to clocks over one metre in height, each of these requires its own unique method of restoration.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "这些物品从小型怀表到超过一米高的大钟，每一件都需要其独特的修复方法。"
+        }
+      ]
     },
     {
       "def": "a particular distance above the ground （离地面的）高度",
@@ -42,7 +56,7 @@
           "src": "2020北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "这位英国少年注意到，靠近地面的污染水平比机构记录的高度处空气污染水平高出约三分之二。"
+          "t": "这位英国少年注意到，靠近地面的污染水平约为地面高度三分之二，而该高度的数据是由该机构记录的。"
         }
       ]
     },
@@ -54,20 +68,13 @@
           "src": "2026新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2026,
-          "t": "这家位于哥伦比亚高地的不错的粤餐厅，凭借主厨Henji Cheung的港式烹饪和合伙人Sarah Thompson的天然酒单迅速成为热门去处，酒单还为她赢得了米其林的认可。"
-        },
-        {
-          "s": "What do we know about the Cantonese restaurant in Columbia Heights?",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "关于哥伦比亚高地的那家粤餐厅，我们知道什么？"
+          "t": "这家位于Columbia Heights的精致粤菜馆，很快成为主厨Henji Cheung的港式料理以及联合老板Sarah Thompson获得米其林认可的天然葡萄酒单的打卡地。"
         },
         {
           "s": "They started writing novels, today Charlotte Bronte' Jane Eyre, Emily Bronte's Wuthering Heights and Anne Bronte's Agnes Grey are regarded as classics of world literature.",
           "src": "外研社B4 U2",
           "cat": "waiyan",
-          "t": "她们开始写小说，如今夏洛特·勃朗特的《简·爱》、艾米莉·勃朗特的《呼啸山庄》和安妮·勃朗特的《艾格尼丝·格雷》被认为是世界文学的经典。"
+          "t": "他们开始写小说，如今夏洛特·勃朗特的《简爱》、艾米丽·勃朗特的《呼啸山庄》和安妮·勃朗特的《艾格尼丝·格雷》被认为是世界文学的经典。"
         },
         {
           "s": "In 1847, Wuthering Heights by Emily, Agnes Grey by Anne and Jane Eyre by Charlotte were published, and Jane Eyre became one of the best-sellers of that year.",
@@ -80,12 +87,6 @@
     {
       "def": "the point when sth is at its best or strongest 最佳点；最强点；顶点",
       "ex": [
-        {
-          "s": "With objects ranging from small pocket watches to clocks over one metre in height, each of these requires its own unique method of restoration.",
-          "src": "外研社B6 U2",
-          "cat": "waiyan",
-          "t": "这些物品从小型怀表到超过一米高的大钟，每一件都需要其独特的修复方法。"
-        },
         {
           "s": "The Hidden Letter At the height of his fame as a musician and composer, Ludwig van Beethoven slowly began to lose his hearing.",
           "src": "外研社B4 U6",

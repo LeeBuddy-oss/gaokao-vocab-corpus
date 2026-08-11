@@ -13,7 +13,7 @@
           "src": "人教B3 U3",
           "cat": "renjiao",
           "year": "",
-          "t": "食物名称注释　汉堡包•混合了多种文化　幸运饼干　玉米片•用奶酪盖住的玉米片•由厨师制作　秋葵汤•大约在几年前发明•饼干里包着一张写有信息的纸条•辛辣炖菜•发明于新奥尔良。"
+          "t": "食物名称注释汉堡包•混合+文化幸运饼干玉米片•用奶酪包裹的薯片•由COOK for Gumbo制作•大约在几年前发明•里面有一块饼干•辛辣炖菜•发明于N.O."
         }
       ]
     },
@@ -30,7 +30,12 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "大概是炸鱼薯条，或者肉食加两种蔬菜的周日大餐。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "a thin round slice of potato that is fried until hard then dried and eaten cold. Chips are sold in bags and have many different flavours. 油炸土豆片；炸薯片",
+      "ex": [
         {
           "s": "He eats fruit and vegetables rather than chips and fried chicken.",
           "src": "译林B1 U4",
@@ -44,18 +49,13 @@
           "cat": "yilin",
           "year": "",
           "t": "英国的炸鱼薯条由炸鱼和薯条组成。"
-        }
-      ]
-    },
-    {
-      "def": "a thin round slice of potato that is fried until hard then dried and eaten cold. Chips are sold in bags and have many different flavours. 油炸土豆片；炸薯片",
-      "ex": [
+        },
         {
           "s": "A student eating potato chips while watching TV.",
           "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
           "year": 2024,
-          "t": "一个边看电视边吃薯片的学生。"
+          "t": "一个学生一边看电视一边吃薯片."
         },
         {
           "s": "James's action plan: trying to (3) a bit Learning more about nutrition; Eating fewer chips and more (4) Going to an (5) with Laura; Spending less time on computer games and watching less TV; Getting (6) more.",

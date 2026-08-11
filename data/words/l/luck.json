@@ -27,23 +27,7 @@
           "src": "2020北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "奥利弗说，如果你足够幸运，身边有一个热爱烹饪的人，请在可能的时候问问能否一起参与。"
-        },
-        {
-          "s": "With any luck, he’ll turn a few more heads in the process.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "如果一切顺利，他在这个过程中会让更多人刮目相看。",
-          "_matched": true
-        },
-        {
-          "s": "If I could locate the nest, I might have been able to put it back, but no luck.",
-          "src": "2017全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果我能找到那个巢，也许就能把它放回去，但没那么幸运。",
-          "_matched": true
+          "t": "奥利弗说,如果你2(幸运)足够有 与你亲近的人谁喜欢做饭, 问他们3,你可以加入 当有可能。"
         },
         {
           "s": "Luck stayed with them; Paris’ heartbeat returned.",
@@ -57,13 +41,13 @@
           "s": "And good luck with college!",
           "src": "外研社B1 U1",
           "cat": "waiyan",
-          "t": "祝你大学好运！"
+          "t": "祝你上大学好运！"
         },
         {
           "s": "The red-crowned crane is a symbol of long life and good luck in Chinese culture.",
           "src": "外研社B1 U5",
           "cat": "waiyan",
-          "t": "丹顶鹤在中国文化中是长寿和好运的象征。"
+          "t": "红冠鹤在中国文化中是长寿好运的象征。"
         }
       ]
     },
@@ -71,11 +55,27 @@
       "def": "chance; the force that causes good or bad things to happen to people 机遇；命运；运气",
       "ex": [
         {
+          "s": "With any luck, he’ll turn a few more heads in the process.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "运气好的话，他在此过程中还会吸引更多人的目光。",
+          "_matched": true
+        },
+        {
+          "s": "If I could locate the nest, I might have been able to put it back, but no luck.",
+          "src": "2017全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "如果我能找到鸟巢，也许就能把它放回去，但运气不好，没找到。",
+          "_matched": true
+        },
+        {
           "s": "Genius and Luck",
           "src": "2021全国甲卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "天才与运气。",
+          "t": "但回收不仅限于瓶子、罐子和纸张。",
           "_matched": true
         },
         {
@@ -91,7 +91,7 @@
           "src": "2018浙江6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "没有人会知道是什么样的才华、抱负、精力和运气的组合，造就了狄更斯这样独一无二的作家。",
+          "t": "无人能知，是天赋、抱负、精力与运气的何种组合造就了如此独特的狄更斯。",
           "_matched": true
         },
         {

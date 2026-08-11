@@ -9,22 +9,29 @@
       "def": "a hollow place or structure that a bird makes or chooses for laying its eggs in and sheltering its young 鸟巢；鸟窝",
       "ex": [
         {
-          "s": "The book was an early example of an adventure tale told from an animal’s point of view, by an animal with human emotions and ways of seeing the world: “Close in under the sheltering rock Buck made his nest.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "这本书是从动物的视角讲述冒险故事的早期例子，通过一只拥有人类情感和看待世界方式的动物来叙述：＂巴克在庇护岩石下紧挨着的地方筑了他的窝。"
-        },
-        {
           "s": "While it may lay eggs in a nest like a bird, it’s really a primitive mammal, with a unique biology.",
           "src": "人教选必4 U2",
           "cat": "renjiao",
-          "t": "虽然它可能像鸟一样在巢中产卵，但它实际上是一种原始的哺乳动物，有着独特的生物学特征。"
+          "t": "虽然它可能像鸟一样在巢中产卵，但它实际上是一种原始哺乳动物，有着独特的生物学特性。"
+        },
+        {
+          "s": "If I could locate the nest, I might have been able to put it back, but no luck.",
+          "src": "2017全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "如果我能找到鸟巢，也许就能把它放回去，但运气不好，没找到。"
         }
       ]
     },
     {
       "def": "a place where insects or other small creatures live and produce their young 巢穴；窝",
       "ex": [
+        {
+          "s": "The book was an early example of an adventure tale told from an animal’s point of view, by an animal with human emotions and ways of seeing the world: “Close in under the sheltering rock Buck made his nest.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "这本书是从动物的视角讲述冒险故事的早期例子，通过一只拥有人类情感和看待世界方式的动物来叙述：＂巴克在庇护岩石下紧挨着的地方筑了他的窝。"
+        },
         {
           "s": "When she retired from dancing and her sons eventually flew the nest, she decided it was time to take the plunge.",
           "src": "2022全国甲卷·阅读理解C",
@@ -44,6 +51,19 @@
           "src": "人教选必3 U5",
           "cat": "renjiao",
           "t": "夜 太阳西沉，晚星闪烁；鸟儿在巢中静寂无声，而我也该去寻找我的归宿。"
+        },
+        {
+          "s": "But when Buck finished his ration and returned, he found his nest occupied.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "但当巴克吃完他的口粮回来时，发现他的窝被占了。"
+        },
+        {
+          "s": "First they collected sound data from 67 nests in four sites in Queensland before and after hatching.",
+          "src": "2017江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "首先，他们在孵化前后从昆士兰州四个地点的67个巢穴收集声音数据。"
         }
       ]
     },
@@ -67,14 +87,14 @@
           "src": "2017全国I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "父母完成了它们的职责，而且可能会继续这样做。"
+          "t": "我接下来的工作是搭建一个巢并固定在树上。"
         },
         {
           "s": "I drove over and saw the chick in the nest looking healthy and active.",
           "src": "2017全国I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "它必须继续发展，因为世界的运作方式不一样了，\"莫兰说。"
+          "t": "我开车过去，看到巢里的小鸟看起来健康又活跃。"
         },
         {
           "s": "And it was accompanied in the nest by the greatest sight of all — LUNCH!",
@@ -95,33 +115,12 @@
           "src": "外研社B6 U5",
           "cat": "waiyan",
           "t": "津巴布韦建筑师米克\\u00b7皮尔斯是在观看一部关于白蚁筑巢的自然纪录片时受到启发创建该中心的。"
-        },
-        {
-          "s": "But when Buck finished his ration and returned, he found his nest occupied.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "但当巴克吃完他的口粮回来时，发现他的窝被占了。"
         }
       ]
     },
     {
       "def": "to put types of information together, or inside each other, so that they form a single unit 嵌套（信息）",
-      "ex": [
-        {
-          "s": "First they collected sound data from 67 nests in four sites in Queensland before and after hatching.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "谷歌最初利用收集来的用户数据更好地投放广告。"
-        },
-        {
-          "s": "If I could locate the nest, I might have been able to put it back, but no luck.",
-          "src": "2017全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "而且它伴随着有史以来最棒的景象——午餐！"
-        }
-      ]
+      "ex": []
     }
   ]
 }

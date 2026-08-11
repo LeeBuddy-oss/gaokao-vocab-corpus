@@ -1,45 +1,46 @@
 {
- "meta": {
-  "ph": "skeɪt; NAmE skeɪt",
-  "pos": "verb",
-  "stars": ""
- },
- "defs": [
-  {
-   "def": "to move on skates (usually referring to ice skating, if no other information is given) （通常指）滑冰，溜冰",
-   "ex": [
+  "meta": {
+    "ph": "skeɪt; NAmE skeɪt",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
     {
-     "s": "For two weeks in March, Greenwich Village’s Blue Hill restaurant was renamed wastED, and served items like fried skate cartilage, a juice pulp burger, and a dumpster diver’s vegetable salad.",
-     "src": "2025新高考II卷·阅读理解D",
-     "cat": "gaokao",
-     "year": 2025,
-     "t": "在3月的两周时间里,格林尼治村的蓝山餐厅被重新命名为\"荒芜餐厅\"(wented),并服务于油炸滑冰软骨,果汁纸浆汉堡,垃圾箱潜水员蔬菜沙拉等物品."
+      "def": "to move on skates (usually referring to ice skating, if no other information is given) （通常指）滑冰，溜冰",
+      "ex": [
+        {
+          "s": "My teacher was great and before I knew it, I was able to skate.",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "我的老师很棒，在我知道之前，我就能滑冰了。"
+        },
+        {
+          "s": "If I were a boy again, I would build a habit of attention, and I would let nothing come between me and the subject at hand: an ice skater never tries to skate in two directions at once.",
+          "src": "译林B1 U4",
+          "cat": "yilin",
+          "t": "如果我还是个男孩，我会养成注意力集中的习惯，我不会让任何事情妨碍我和手头的主题：滑冰运动员从不试图同时向两个方向滑冰。"
+        }
+      ]
     },
     {
-     "s": "My teacher was great and before I knew it, I was able to skate.",
-     "src": "外研社B2 U3",
-     "cat": "waiyan",
-     "t": "我的老师很棒，在我知道之前，我就能滑冰了。"
+      "def": "to ride on a skateboard 滑（滑板）",
+      "ex": []
     },
     {
-     "s": "If I were a boy again, I would build a habit of attention, and I would let nothing come between me and the subject at hand: an ice skater never tries to skate in two directions at once.",
-     "src": "译林B1 U4",
-     "cat": "yilin",
-     "t": "如果我还是个男孩，我会养成注意力集中的习惯，我不会让任何事情妨碍我和手头的主题：滑冰运动员从不试图同时向两个方向滑冰。"
+      "def": "一双冰鞋",
+      "ex": []
+    },
+    {
+      "def": "a large flat sea fish that can be eaten 鳐（扁体鱼，可食用）",
+      "ex": [
+        {
+          "s": "For two weeks in March, Greenwich Village’s Blue Hill restaurant was renamed wastED, and served items like fried skate cartilage, a juice pulp burger, and a dumpster diver’s vegetable salad.",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "三月的头两周，格林尼治村的蓝山餐厅改名为wastED，供应诸如炸鳐鱼软骨、果汁渣汉堡和垃圾箱潜水者蔬菜沙拉之类的菜品。"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "def": "to ride on a skateboard 滑（滑板）",
-   "ex": []
-  },
-  {
-   "def": "一双冰鞋",
-   "ex": []
-  },
-  {
-   "def": "a large flat sea fish that can be eaten 鳐（扁体鱼，可食用）",
-   "ex": []
-  }
- ]
+  ]
 }

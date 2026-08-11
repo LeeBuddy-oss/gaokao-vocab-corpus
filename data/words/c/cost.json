@@ -13,7 +13,7 @@
           "src": "2025浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
-          "t": "成功之母是勤奋。"
+          "t": "图书馆类型 借阅费用 文章/章节费用"
         },
         {
           "s": "It is becoming more costly.",
@@ -51,18 +51,11 @@
           "t": "他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"
         },
         {
-          "s": "But something inside me was going to climb that mountain at all cost． I could hardly wait to try this adventure again．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（1）是什么促使作者开始爬通往山顶的台阶？（不超过5个词）"
-        },
-        {
           "s": "Since crime novels in the example cost $15 and you have $150 available, if you spend all the available money crime novels, you can buy 10.",
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "你把这个点放在垂直轴的底部因为在这种情况下你没有可用于电影票的资金。"
+          "t": "由于示例中的犯罪小说售价为$ 15 ，而您可以使用$ 150 ，因此如果您花费所有可用的货币犯罪小说，则可以购买10本。"
         },
         {
           "s": "It’s expected to cost $279,000.",
@@ -118,7 +111,7 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "如果消费者需要花费0.75的A，那她买B时只能花剩余的0.25 X。"
+          "t": "如果消费者需要花费0.75美元的A金额,那么她只能花0.25 X,剩下的金额用于购买B."
         },
         {
           "s": "That includes huge savings in maintenance costs and better protection of railway personnel safety.",
@@ -140,13 +133,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "摩根，20岁，佛罗里达州，美国：我以为一旦我18岁并有了全职工作，我就能自给自足，但我的薪水不够高。我还发现存钱很难，因为开销大和通勤费用高。"
-        },
-        {
-          "s": "You don't need expensive equipment; even the ball doesn't have to cost much money.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "你不需要昂贵的设备；甚至球也不需要花很多钱。"
         },
         {
           "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
@@ -172,7 +158,7 @@
           "src": "2020浙江7月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "这些被称为自适应信号的灯使得通勤的麻烦和成本都大幅下降。"
+          "t": "华盛顿州贝尔维尤市法克托里亚大道上的交通信号灯通常不会连续两次亮起相同时长的绿灯，尤其是在高峰时段。"
         },
         {
           "s": "To cut the cost of e-space protection.",
@@ -214,7 +200,7 @@
           "src": "2024浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "但当我们重塑了周围的世界，大幅降低了获取热量所需的成本和精力时，我们仍然拥有和几千年前一样的大脑，而这种不匹配正是我们中许多人难以抗拒明知不该吃的诱人食物的根本原因。"
+          "t": "但当我们重新塑造周围的世界,大幅降低获取卡路里所需的成本和努力时,我们仍然有我们几千年前拥有的同样的大脑,这种不匹配现象正是我们许多人努力抵制诱人的食物的核心,而我们知道我们不应该吃这些食物。"
         },
         {
           "s": "To reduce its running costs.",
@@ -229,6 +215,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "制作《猿》的成本。"
+        },
+        {
+          "s": "To figure out how much power these devices are using, Callie Babbitt and her colleagues at the Rochester Institute of Technology in New York tracked the environmental costs for each product throughout its life — from when its minerals are mined to when we stop using the device.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "为了弄清楚这些设备用了多少电，纽约罗彻斯特理工学院的 Callie Babbitt 和她的同事们追踪了每种产品整个生命周期的环境成本——从矿物开采到我们停止使用该设备为止。"
+        },
+        {
+          "s": "This is why, in part at least, the US National Climate Assessment says that: ＂There is no ‘one-size fits all’ adaptation.＂ Nevertheless, there are some actions that offer much and carry little risk or cost.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这就是为什么，至少部分地，美国《国家气候评估》说：“没有‘一刀切’的适应。”尽管如此，有些行动收益大、风险和成本却小。"
         }
       ]
     },
@@ -236,11 +236,18 @@
       "def": "the effort, loss or damage that is involved in order to do or achieve sth （为做某事涉及的）努力，代价，损失",
       "ex": [
         {
+          "s": "But something inside me was going to climb that mountain at all cost． I could hardly wait to try this adventure again．",
+          "src": "2018天津卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "但我内心有股力量要不惜一切代价去爬那座山。我迫不及待地想再试一次这次冒险。"
+        },
+        {
           "s": "Modernity is usually achieved at the cost of elegance.",
           "src": "2022全国甲卷·阅读理解D",
           "cat": "gaokao",
           "year": 2022,
-          "t": "现代性通常以优雅为代价来实现。"
+          "t": "现代性通常是以优雅为代价来实现的."
         },
         {
           "s": "While regularly eating out seems to   61  (become) common for many young people in recent years, it’s not without a cost.",
@@ -306,7 +313,7 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "如果电影每张10美元，那么用可用资金你能看的电影的最大数量是15部。"
+          "t": "你喜欢看电影和读犯罪小说，有150美元可花。在下面的例子中，假设每部电影10美元，每本犯罪小说15美元。"
         },
         {
           "s": "Assume that each movie costs 10 and each crime novel costs, $15, you have $150.Which is RIGHT according to this passage?",
@@ -329,18 +336,11 @@
       "def": "to estimate how much money will be needed for sth or the price that should be charged for sth 估算成本；估价",
       "ex": [
         {
-          "s": "To figure out how much power these devices are using, Callie Babbitt and her colleagues at the Rochester Institute of Technology in New York tracked the environmental costs for each product throughout its life — from when its minerals are mined to when we stop using the device.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为了弄清楚这些设备使用了多少电力，纽约罗彻斯特理工学院的卡莉·巴比特和她的同事们追踪了每种产品在整个生命周期中的环境成本——从矿物开采到我们停止使用该设备为止。"
-        },
-        {
-          "s": "This is why, in part at least, the US National Climate Assessment says that: ＂There is no ‘one-size fits all’ adaptation.＂ Nevertheless, there are some actions that offer much and carry little risk or cost.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这就是为什么，至少部分地，美国《国家气候评估》说：“没有‘一刀切’的适应。”尽管如此，有些行动收益大、风险和成本却小。"
+          "s": "You don't need expensive equipment; even the ball doesn't have to cost much money.",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "在20世纪70年代，她的父母双亡，她只好辍学去找工作养活自己。"
         }
       ]
     }

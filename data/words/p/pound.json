@@ -9,20 +9,6 @@
       "def": "the unit of money in the UK, worth 100 pence 英镑（英国货币单位，等于 100 便士）",
       "ex": [
         {
-          "s": "In her natural state, the actor weighed 105 pounds.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在自然状态下，这位演员体重105磅。"
-        },
-        {
-          "s": "The state produced 2.8 billion pounds of cheese last year!",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "该州去年生产了28亿磅奶酪！"
-        },
-        {
           "s": "Weighing in at more than 800, 000 pounds, the Boise sequoia is its largest undertaking yet.",
           "src": "2018上海卷",
           "cat": "gaokao",
@@ -33,7 +19,7 @@
           "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
           "src": "外研社B3 U2",
           "cat": "waiyan",
-          "t": "他用捐款和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
+          "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
         },
         {
           "s": "It’s a million-pound bank note.",
@@ -46,35 +32,47 @@
           "src": "人教B3 U5",
           "cat": "renjiao",
           "t": "奥利弗相信，凭一张百万英镑的钞票，一个人可以在伦敦生活一个月。"
+        },
+        {
+          "s": "THE MILLION POUND BANK NOTE ACT 1, SCENE 3 Read about a bet between two wealthy men 1 What would you do if you had a million-pound bank note?",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "《百万英镑》 第一幕 第三场 阅读关于两个富人的一个赌注 1 如果你有一张百万英镑的钞票，你会怎么做？"
         }
       ]
     },
     {
       "def": "the unit of money of several other countries 镑（英国以外某些国家的货币单位）",
+      "ex": []
+    },
+    {
+      "def": "the value of the British pound compared with the value of the money of other countries 英镑与外币的比值",
+      "ex": []
+    },
+    {
+      "def": "a unit for measuring weight, equal to 0.454 of a kilogram 磅（重量单位，合 0.454 千克）",
       "ex": [
+        {
+          "s": "In her natural state, the actor weighed 105 pounds.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在自然状态下，这位演员重105磅。"
+        },
+        {
+          "s": "The state produced 2.8 billion pounds of cheese last year!",
+          "src": "2020浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "该州去年生产了28亿磅奶酪！"
+        },
         {
           "s": "There was just one thing I hadn’t counted on: My brother chose to bring his dog Toby, a 50-pound ball of fire.",
           "src": "2025新高考I卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "\"认识你自己\"的呼唤自古就有，但我们的自我认知并不总是与他人的看法一致。"
-        }
-      ]
-    },
-    {
-      "def": "the value of the British pound compared with the value of the money of other countries 英镑与外币的比值",
-      "ex": [
-        {
-          "s": "THE MILLION POUND BANK NOTE ACT 1, SCENE 3 Read about a bet between two wealthy men 1 What would you do if you had a million-pound bank note?",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "《百万英镑》 第一幕，第三场 读一读关于两个有钱人之间的一个赌注 1 如果你有一张百万英镑的钞票，你会怎么做？"
-        }
-      ]
-    },
-    {
-      "def": "a unit for measuring weight, equal to 0.454 of a kilogram 磅（重量单位，合 0.454 千克）",
-      "ex": [
+          "t": "只有一件事我没料到：我弟弟选择带上他的狗Toby——一个50磅重的小火球。"
+        },
         {
           "s": "However, race walking does not pound the body as much as running does, Dr Norberg says.",
           "src": "2020全国I卷·阅读理解C",
@@ -87,7 +85,20 @@
           "src": "2020全国新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "但在一半的情况下她穿着专门设计的增肥服使体重增加到180磅。"
+          "t": "但在一半的情境下，她穿了一件特制的肥胖装，使体重增至180磅。"
+        },
+        {
+          "s": "That makes her baby scream, and then a 400-pound male appears.",
+          "src": "2018全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "那让她怀里的婴儿尖叫，随后一只400磅重的雄猩猩出现了。"
+        },
+        {
+          "s": "You sail lighter for the loss of forty pounds.” He knew quite well the pattern of what could happen when he reached the inner part of the current.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "你轻了四十磅，航行起来更轻松了。他非常清楚当自己到达洋流内部时可能会发生什么。"
         }
       ]
     },
@@ -111,13 +122,6 @@
       "def": "to hit sth/sb hard many times, especially in a way that makes a lot of noise 反复击打；连续砰砰地猛击",
       "ex": [
         {
-          "s": "That makes her baby scream, and then a 400-pound male appears.",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那让她的幼崽尖叫起来，随后一只400磅重的雄性出现了。"
-        },
-        {
           "s": "Soon Eva began to breathe hard, with her heart pounding and legs shaking.",
           "src": "2024浙江1月卷·书面表达",
           "cat": "gaokao",
@@ -128,14 +132,7 @@
     },
     {
       "def": "to move with noisy steps 咚咚地走",
-      "ex": [
-        {
-          "s": "You sail lighter for the loss of forty pounds.” He knew quite well the pattern of what could happen when he reached the inner part of the current.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "减掉这四十磅你航行起来更轻松了。＂他非常清楚当他到达洋流内部时可能会发生什么。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to beat quickly and loudly （心脏）狂跳，怦怦地跳",

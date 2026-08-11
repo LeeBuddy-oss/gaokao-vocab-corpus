@@ -17,13 +17,7 @@
           "src": "2024新高考I卷·七选五",
           "cat": "gaokao",
           "year": 2024,
-          "t": "它收录了约16.3万个单词，外加词语搭配和惯用短语。____ 不过，如果我需要查一个单词的词源或查找其用法例句，没有比它更好的了。"
-        },
-        {
-          "s": "Today the temperature in London is expected to reach 30 plus degrees!",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "今天伦敦的气温预计将达到30多度！"
+          "t": "它收录约16.3万个单词，外加词语搭配和习语短语。____39____ 不过，如果我要查一个词的来源或用法示例，没有比它更好的了。"
         },
         {
           "s": "Pouring water was very difficult, plus I kept drinking from my friend's glass.",
@@ -35,7 +29,7 @@
           "s": "The channel features documentaries with factual content involving nature, science, culture and history, plus some reality and pseudo-scientific programmes.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
-          "t": "这个频道以纪实性内容的纪录片为特色，涉及自然、科学、文化和历史，外加一些真人秀和伪科学节目。"
+          "t": "该频道播放的纪录片包含涉及自然、科学、文化和历史的事实内容，以及一些现实和伪科学节目。"
         },
         {
           "s": "Plus, it also includes a free poster illustrating new plans to get rid of the Ebola virus once and for all.",
@@ -61,7 +55,14 @@
     },
     {
       "def": "（在数字后）多，余",
-      "ex": []
+      "ex": [
+        {
+          "s": "Today the temperature in London is expected to reach 30 plus degrees!",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "今天伦敦气温预计达到30多度！"
+        }
+      ]
     },
     {
       "def": "above zero 零度以上；零上",

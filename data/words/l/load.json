@@ -12,16 +12,9 @@
           "s": "By the time 250,000 were on the bridge, engineers noticed something terrible：the roadway was flattening under what turned out to be the heaviest load it had ever been asked to carry.",
           "src": "2020全国新高考II卷·阅读理解C",
           "cat": "gaokao",
-          "t": "当桥上有25万人时，工程师们注意到了可怕的情况：路面在它当时承受的最重负荷下变平了。",
+          "t": "等到25万人在桥上时，工程师们注意到一件可怕的事情：桥面在它迄今承载的最重负荷下变平了。",
           "year": 2020,
           "_matched": true
-        },
-        {
-          "s": "His father frequently amused the boy with a tablet computer which was loaded with colorful pictures that come alive when you poke them.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "他的父亲经常用平板电脑逗他开心，平板电脑上加载着彩色图片，一戳就会动。",
-          "year": 2022
         }
       ]
     },
@@ -52,7 +45,7 @@
           "s": "It was a big deal for us to load up and go to the local library, where my kids could pick out books to read or books they wanted me to read to them.",
           "src": "2020全国II卷·阅读理解D",
           "cat": "gaokao",
-          "t": "对我们来说，装车去当地图书馆是一件大事，在那里我的孩子们可以选择自己读的书或者想让我读给他们听的书。",
+          "t": "对我们来说，装满东西去当地图书馆是件大事，孩子们可以在那里挑选自己读的书，或挑出想让我读给他们听的书。",
           "year": 2020
         }
       ]
@@ -65,17 +58,10 @@
       "def": "to put a large quantity of things or people onto or into sth （把大量 … ）装上，装入",
       "ex": [
         {
-          "s": "You can’t expect your child to tackle their tasks with enthusiasm while you’re complaining about loading the dishwasher.",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "t": "你不能一边抱怨着把碗碟放进洗碗机，一边指望孩子满怀热情地完成自己的任务。",
-          "year": 2026
-        },
-        {
           "s": "Finally, the moment of our departure arrived, and we loaded suitcases, books, games, camping equipment, and a tent into the car and bravely drove off.",
           "src": "2017浙江11月卷·读后续写",
           "cat": "gaokao",
-          "t": "终于，我们出发的时刻到了，我们把行李箱、书、游戏、露营装备和帐篷装上车，勇敢地开走了。",
+          "t": "终于，我们出发的时刻到了，我们把行李箱、书、游戏、露营装备和帐篷装上车，勇敢地开车出发了。",
           "year": 2017,
           "_matched": true
         }
@@ -83,7 +69,21 @@
     },
     {
       "def": "to receive a load 承载；装载",
-      "ex": []
+      "ex": [
+        {
+          "s": "His father frequently amused the boy with a tablet computer which was loaded with colorful pictures that come alive when you poke them.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "他父亲常用平板电脑逗他开心，那上面装载着五彩缤纷、戳一下就会动起来的图片。",
+          "year": 2022
+        },
+        {
+          "s": "His ships were loaded with china, silk, tea and other treasures as gifts for foreign rulers, and the fleet paid friendly visits to more than 30 countries and regions.",
+          "src": "译林选必3 U3",
+          "cat": "yilin",
+          "t": "他的船上装载着瓷器、丝绸、茶叶和其他珍宝，作为给外国统治者的礼物，舰队对30多个国家和地区进行了友好访问。"
+        }
+      ]
     },
     {
       "def": "to give sb a lot of things, especially things they have to carry 大量给予（尤指得携带的东西）",
@@ -92,13 +92,7 @@
           "s": "The routes were alive with strings of camels carrying loads of goods and traders selling everything imaginable.",
           "src": "译林选必3 U4",
           "cat": "yilin",
-          "t": "道路上充满了一队队骆驼，满载货物，商人们售卖着一切能想象到的东西。"
-        },
-        {
-          "s": "Preparing for an adventurous trip Take the things you need food supplies · A (3) kit A torch A hiking map A (2) A good backpack Practise carrying your backpack A fully loaded backpack should be no (4) of your body weight.",
-          "src": "译林选必3 U4",
-          "cat": "yilin",
-          "t": "准备一次冒险旅行：带上你需要的东西——食物、急救包、手电筒、一张地图、一个背包。练习背你的背包：一个装得满满的背包不应超过你体重的四分之一。"
+          "t": "这条路上往来不绝，一队队骆驼驮着货物，商贩叫卖着一切能想到的东西。"
         },
         {
           "s": "The processes take place to stop our brains becoming loaded with memories.",
@@ -113,10 +107,17 @@
       "def": "to put sth into a weapon, camera or other piece of equipment so that it can be used 把 … 装入（武器、照相机或其他设备）",
       "ex": [
         {
-          "s": "His ships were loaded with china, silk, tea and other treasures as gifts for foreign rulers, and the fleet paid friendly visits to more than 30 countries and regions.",
-          "src": "译林选必3 U3",
+          "s": "You can’t expect your child to tackle their tasks with enthusiasm while you’re complaining about loading the dishwasher.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "t": "你不能一边抱怨着把碗碟放进洗碗机，一边指望孩子满怀热情地完成自己的任务。",
+          "year": 2026
+        },
+        {
+          "s": "Preparing for an adventurous trip Take the things you need food supplies · A (3) kit A torch A hiking map A (2) A good backpack Practise carrying your backpack A fully loaded backpack should be no (4) of your body weight.",
+          "src": "译林选必3 U4",
           "cat": "yilin",
-          "t": "他的船上装载着瓷器、丝绸、茶叶和其他珍宝，作为给外国统治者的礼物，舰队对30多个国家和地区进行了友好访问。"
+          "t": "为一次冒险旅行做准备：带上你需要的东西——食物补给·一个(3)套装、一把手电筒、一张徒步地图、一个(2)好背包。练习背着你的背包：一个装满的背包重量不应超过你体重的(4)。"
         }
       ]
     },

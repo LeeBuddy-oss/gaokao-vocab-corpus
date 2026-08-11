@@ -7,6 +7,10 @@
   "defs": [
     {
       "def": "thick stiff paper 卡片纸；厚纸片；薄纸板",
+      "ex": []
+    },
+    {
+      "def": "a small piece of stiff paper or plastic with information on it, especially information about sb's identity （尤指显示个人资料的）卡片",
       "ex": [
         {
           "s": "Last Friday， after he arrived at the school， instead of finding garbage to clean up， he found almost 800 students lining the hallways with handmade cards， blowing noisemakers and singing a full﹣throated happy birthday to him． It was his 80th． As he walked the long hallway， some popped out of line to hug him． They handed him so many cards that they filled several large boxes． Touched by their enthusiastic expression of affection， Mabry thanked them all． \"They're like my children，\" Mabry said．",
@@ -14,16 +18,7 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "上周五，他到学校后，没找到要清理的垃圾，却发现有近800名学生排在教学楼走廊里，举着手制卡片，吹着闹响器，扯着嗓子给他唱生日快乐歌。那天是他80岁生日。当他走过长长的走廊时，有些人跳出队伍拥抱他。他们递给他的卡片多得装满了好几个大箱子。被他们热情流露的关爱所打动，马布里向所有人道谢。“他们就像我的孩子，”马布里说。"
-        }
-      ]
-    },
-    {
-      "def": "a small piece of stiff paper or plastic with information on it, especially information about sb's identity （尤指显示个人资料的）卡片",
-      "ex": []
-    },
-    {
-      "def": "如果你需要再和我联系，这是我的名片。",
-      "ex": [
+        },
         {
           "s": "Over the weekend， he worked through the piles of handmade cards at his house． One card from a student stood out to him． It read： \"Mr． Haze，you are my sunshine．\"",
           "src": "2019天津卷",
@@ -32,25 +27,30 @@
           "t": "整个周末，他在家翻看那一堆手写卡片。一张学生的卡片让他眼前一亮。上面写着：“黑兹先生，你是我的阳光。”"
         },
         {
-          "s": "If your student ID card no longer works or has been damaged, or if you have changed your personal or programme details, you should call into the Student Administration Centre （SAC） to request a new one.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你的学生证失效或损坏，或者你更改了个人或课程信息，你应到学生事务中心（SAC）申请补办。"
-        },
-        {
-          "s": "We were excited -- none of us knew that these would be our final days together, At first, the sea was calm and we spent our days working, fishing and playing cards, happily unaware that 2_______.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我们很兴奋——没人知道这将是我们在一起的最后日子。起初，海面平静，我们白天劳作、钓鱼、打牌，幸福地不曾察觉2____。"
-        },
-        {
           "s": "Similarly, if you speak only Chinese, receiving a card in Swedish takes part of the fun away.",
           "src": "2021浙江6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
           "t": "同样地，如果你只会说中文，收到一张瑞典语的卡片会少了一些乐趣。"
+        },
+        {
+          "s": "This means. for example，that a scammer could call you from what looks to be a familiar number and talk to you using a voice that sounds exactly like your bank teller 's，ricking you into \"confirming \" your address，mother's name，and card number.",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这意味着,比如说,一个骗子可以给你打电话 从一个看起来熟悉的号码 并用一个声音和你说话 听起来就像你的银行出纳的, 让你\"确认\"你的地址, 母亲的名字,和卡片号码。"
+        }
+      ]
+    },
+    {
+      "def": "如果你需要再和我联系，这是我的名片。",
+      "ex": [
+        {
+          "s": "If your student ID card no longer works or has been damaged, or if you have changed your personal or programme details, you should call into the Student Administration Centre （SAC） to request a new one.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果你的学生证失效或损坏，或者你更改了个人或课程信息，你应到学生事务中心（SAC）申请补办。"
         },
         {
           "s": "Please be aware that you will not receive this smart card during Welcome Week if you do not upload your image online by 4 September 2020.",
@@ -97,14 +97,14 @@
           "src": "外研社B5 U1",
           "cat": "waiyan",
           "year": "",
-          "t": "当一家银行联系我、向我提供信用卡时，我真的很惊讶。"
+          "t": "在20世纪50年代后期\\/在20世纪50年代后期，篮球是用……进行的。"
         },
         {
           "s": "Of course, I would like to have more freedom with money and no doubt I will be getting a credit card at some point, but I currently don’t have a steady income, so getting a credit card might tempt me to spend more money than I have!",
           "src": "外研社B5 U1",
           "cat": "waiyan",
           "year": "",
-          "t": "当然，我希望在金钱上有更多自由，无疑将来某时我也会办信用卡，但我目前没有稳定收入，所以办信用卡可能会诱使我超支！"
+          "t": "当然，我希望在花钱方面有更多的自由，毫无疑问，我会在某个时候拿到一张信用卡，但我目前没有稳定的收入，所以拿到信用卡可能会诱惑我花比拥有更多的钱！"
         }
       ]
     },
@@ -116,7 +116,7 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "year": "",
-          "t": "我们有时送生日贺卡。"
+          "t": "我们有时会送生日贺卡。"
         },
         {
           "s": "Please carry your card with you at all times.",
@@ -209,6 +209,13 @@
       "def": "a game or games in which playing cards are used 纸牌游戏",
       "ex": [
         {
+          "s": "We were excited -- none of us knew that these would be our final days together, At first, the sea was calm and we spent our days working, fishing and playing cards, happily unaware that 2_______.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我们很兴奋——没人知道这将是我们在一起的最后日子。起初，海面平静，我们白天劳作、钓鱼、打牌，幸福地不曾察觉2____。"
+        },
+        {
           "s": "They must have ID cards with them.",
           "src": "2022全国乙卷·阅读理解A",
           "cat": "gaokao",
@@ -220,7 +227,7 @@
           "src": "2018全国II卷·短文改错",
           "cat": "gaokao",
           "year": 2018,
-          "t": "全国花园日。"
+          "t": "晚饭后，我们会在客厅里玩各种各样的纸牌游戏。"
         },
         {
           "s": "They would say to us that playing card games would help my brain.",
@@ -338,7 +345,7 @@
           "src": "2020浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "我母亲不怕卡洛韦太太，她希望我有自己的借书卡，自己借书。"
+          "t": "我妈妈不害怕Calloway太太她希望我有自己的借书证可以自己借书。"
         },
         {
           "s": "To meet the requirements of the photograph on the student ID card, a new student should upload ______.",
@@ -359,14 +366,7 @@
           "src": "2020天津3月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "卡无法正常工作。"
-        },
-        {
-          "s": "This means. for example，that a scammer could call you from what looks to be a familiar number and talk to you using a voice that sounds exactly like your bank teller 's，ricking you into \"confirming \" your address，mother's name，and card number.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这意味着，例如，诈骗者可以用一个看似熟悉的号码给你打电话，并用与你银行柜员一模一样的声音和你说话，骗你“确认”你的地址、母亲的名字和卡号。"
+          "t": "这张卡无法正常工作。"
         }
       ]
     }

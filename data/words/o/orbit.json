@@ -13,19 +13,13 @@
           "src": "2020全国I卷·完形填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "因为月球本体阻挡了与探测器的直接无线电通信，中国首先必须在月球上方轨道的一个位置放置一颗卫星，   63   在那里它可以向航天器和地球发送信号。"
-        },
-        {
-          "s": "Our probes have orbited the planet, sending back valuable data and stunning images.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "我们的探测器已经绕这颗行星飞行，发回了宝贵的数据和令人惊叹的图像。"
+          "t": "由于月球本体阻挡了与探测器的直接无线电通信，中国必须先在月球上方轨道上的一个___63___能将信号发往航天器和地球的位置部署一颗卫星。"
         },
         {
           "s": "She planned to give two 15-minute lessons from orbit: the first to demonstrate the controls of the spacecraft and explain how gravity worked, and the second to describe the objectives of the Challenger programme.",
           "src": "外研社B7 U6",
           "cat": "waiyan",
-          "t": "她计划在轨道上讲两节15分钟的课：第一节演示航天器的控制并解释重力是如何工作的，第二节描述挑战者号项目的目标。"
+          "t": "她计划从轨道上进行两节15分钟的课：第一节演示航天器的操控并解释重力如何运作，第二节描述挑战者计划的目标。"
         },
         {
           "s": "In 1990, the Hubble Space Telescope was launched into orbit.",
@@ -49,7 +43,14 @@
     },
     {
       "def": "an area that a particular person, organization, etc. deals with or is able to influence （人、组织等的）影响范围，势力范围",
-      "ex": []
+      "ex": [
+        {
+          "s": "Our probes have orbited the planet, sending back valuable data and stunning images.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "我们的探测器已经绕这颗行星飞行，发回了宝贵的数据和令人惊叹的图像。"
+        }
+      ]
     }
   ]
 }

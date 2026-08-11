@@ -13,14 +13,14 @@
           "src": "2026新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2026,
-          "t": "标准英语（Queen's English）。"
+          "t": "Queen's English餐厅"
         },
         {
           "s": "Queen’s English.",
           "src": "2026新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2026,
-          "t": "标准英语（Queen's English）。"
+          "t": "女王英语。"
         },
         {
           "s": "England’s Queen Elizabeth I could speak about 10 languages.",
@@ -29,29 +29,11 @@
           "t": "英格兰女王伊丽莎白一世会说大约10种语言。"
         },
         {
-          "s": "Queens is a neighbourhood in the city of New York.",
-          "src": "人教B3 U3",
-          "cat": "renjiao",
-          "t": "皇后区是纽约市的一个街区。"
-        },
-        {
-          "s": "In time, he rose to become a famous doctor, and even attended to Queen Victoria when she gave birth.",
-          "src": "人教选必2 U1",
-          "cat": "renjiao",
-          "t": "随着时间推移，他成长为一位著名的医生，甚至在维多利亚女王分娩时为她接生。"
-        },
-        {
           "s": "I was the queen of the playground.",
           "src": "2019全国I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
-          "t": "我是操场上的女王。"
-        },
-        {
-          "s": "Like bees, every RoboBee has a job to do/obeys a queen bee.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "像蜜蜂一样，每只机器蜜蜂都有工作要做／服从蜂王的指挥。"
+          "t": "我是操场的女王。"
         }
       ]
     },
@@ -61,7 +43,21 @@
     },
     {
       "def": "a woman, place or thing that is thought to be one of the best in a particular group or area （某领域的）王后，精髓，精华",
+      "ex": []
+    },
+    {
+      "def": "a woman or girl chosen to perform official duties at a festival or celebration （节日或庆典活动中当选的）履行职责的女子",
+      "ex": []
+    },
+    {
+      "def": "the most powerful piece used in the game of chess that can move any number of squares in any direction 后",
       "ex": [
+        {
+          "s": "Queens is a neighbourhood in the city of New York.",
+          "src": "人教B3 U3",
+          "cat": "renjiao",
+          "t": "皇后区是纽约市的一个街区。"
+        },
         {
           "s": "I bought a beautiful necklace for you, Mum—it looks just like one that Queen Cleopatra would have worn!",
           "src": "人教B2 U5",
@@ -71,20 +67,25 @@
       ]
     },
     {
-      "def": "a woman or girl chosen to perform official duties at a festival or celebration （节日或庆典活动中当选的）履行职责的女子",
-      "ex": []
-    },
-    {
-      "def": "the most powerful piece used in the game of chess that can move any number of squares in any direction 后",
-      "ex": []
-    },
-    {
       "def": "a playing card with the picture of a queen on it 王后（牌）",
       "ex": []
     },
     {
       "def": "a large female insect that lays eggs for the whole group （为群体产卵的）雌性昆虫，王；后",
-      "ex": []
+      "ex": [
+        {
+          "s": "In time, he rose to become a famous doctor, and even attended to Queen Victoria when she gave birth.",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "t": "后来，他成为了著名的医生，甚至在维多利亚女王分娩时为她接生。"
+        },
+        {
+          "s": "Like bees, every RoboBee has a job to do/obeys a queen bee.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "像蜜蜂一样，每只机器蜜蜂都有工作要做/服从蜂王的指挥。"
+        }
+      ]
     },
     {
       "def": "an offensive word for a male homosexual who behaves like a woman （女性化的男同性恋者贬称）王后，假娘儿们",

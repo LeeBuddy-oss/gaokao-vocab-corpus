@@ -35,20 +35,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "如果你的卡已被报警称被盗，请也到SAC申请补发，并带上一份警方报案文件的复印件。"
-        },
-        {
-          "s": "Do we want to copy — or even worsen — the traffic of today with driverless cars?",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为客户提供更好的服务"
-        },
-        {
-          "s": "Interlibrary Loan (ILL) provides teachers, students and staff with access to books that are checked out or not owned by our own libraries, as well as digitized copies of articles and book chapters from our collection.",
-          "src": "2025浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "30多岁时，我结交了一些画家朋友，学会了欣赏艺术的新视角。"
         }
       ]
     },
@@ -74,7 +60,21 @@
           "src": "2023天津6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2023,
-          "t": "如果日后你想申请需要UCLA官方成绩单的工作或研究生院，提供一份亮眼的学业记录会对你有利。"
+          "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
+        },
+        {
+          "s": "When it was eventually published, the book became an immediate best-seller and went on to sell millions and millions of copies.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "当它最终出版时，这本书立即成为畅销书，并最终售出了数百万册。"
+        },
+        {
+          "s": "Even when the book sold only two copies，the sisters still didn't give up.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "即使那本书只卖出了两本，姐妹们仍然没有放弃。"
         }
       ]
     },
@@ -98,18 +98,11 @@
       "def": "a book used by students for writing exercises, etc. in 作业本；练习本",
       "ex": [
         {
-          "s": "When it was eventually published, the book became an immediate best-seller and went on to sell millions and millions of copies.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "当它最终出版时，这本书立即成为畅销书，并最终售出了数百万册。"
-        },
-        {
-          "s": "Even when the book sold only two copies，the sisters still didn't give up.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "即使那本书只卖出了两本，姐妹们仍然没有放弃。"
+          "s": "Interlibrary Loan (ILL) provides teachers, students and staff with access to books that are checked out or not owned by our own libraries, as well as digitized copies of articles and book chapters from our collection.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "30多岁时，我结交了一些画家朋友，学会了欣赏艺术的新视角。"
         }
       ]
     },
@@ -129,6 +122,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "当时，学习画马最常用的方法就是临摹前代画家的作品。"
+        },
+        {
+          "s": "I had never cooked anything before, so I fried to copy how she did if.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我以前从未做过任何东西，所以我油炸以复制她的做法。"
         }
       ]
     },
@@ -140,7 +140,7 @@
           "src": "2023天津3月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "对一些术语，他们只是抄写正确的定义；对另一些，他们被要求在纠正错误之前，先在术语描述中加入一个错误。"
+          "t": "对于一些术语，他们直接抄写正确的定义；对于另一些，他们被要求在对该术语的描述中加入一个错误，然后再纠正这个错误。"
         },
         {
           "s": "Yet the exact opposite was true: the participants who made deliberate errors learned about twice as much as the people who simply copied out the correct definitions.",
@@ -155,18 +155,18 @@
       "def": "to behave or do sth in the same way as sb else 模仿；效法；仿效",
       "ex": [
         {
+          "s": "Do we want to copy — or even worsen — the traffic of today with driverless cars?",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我们是要用无人驾驶汽车去模仿——甚至加剧——当今的交通状况吗？"
+        },
+        {
           "s": "I keep my eyes ____63____ a woman to my right and try to copy her movements, but unfortunately I soon lose focus.",
           "src": "2026新高考II卷·语法填空",
           "cat": "gaokao",
           "year": 2026,
           "t": "我的眼睛____63____右边的一位女士，试图模仿她的动作，但不幸的是我很快失去了专注。"
-        },
-        {
-          "s": "I had never cooked anything before, so I fried to copy how she did if.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我以前从来没有做过饭，所以我模仿她的做法。"
         }
       ]
     },

@@ -34,7 +34,7 @@
           "src": "2020北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "寻找污染源."
+          "t": "证明巴吉的能力。"
         },
         {
           "s": "Pessimists, on the contrary, tend to perceive problems as a source of additional stress.",
@@ -55,38 +55,44 @@
           "src": "2018北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2018,
-          "t": "找出酶的来源"
-        },
-        {
-          "s": "54    Sometimes even routine occurrences become sources of pre-anger, or anger itself.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "54    有时甚至日常琐事也会成为前愤怒或愤怒本身的来源。"
+          "t": "为机器人汽车做准备的城市"
         },
         {
           "s": "Sheep, cows and pigs have been kept at home as sources of food for around 7,000 years.",
           "src": "外研社B1 U5",
           "cat": "waiyan",
-          "t": "绵羊,牛和猪被作为食物来源保存在家约7000年."
+          "t": "大约七千年来，羊、牛和猪一直被养在家里作为食物来源。"
         },
         {
           "s": "The most common natural source1_______natural dyes come is plants.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "最常见的天然来源1       天然染料是植物."
+          "t": "天然染料最常见的天然来源 1____ 是植物。"
         },
         {
           "s": "Fun facts: ·It is the main source of food for giant pandas.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "有趣的事实: ^ 它是大熊猫的主要食物来源."
+          "t": "有趣的事实：它是大熊猫的主要食物来源。"
         },
         {
           "s": "Of them all, one ever-lasting source of inspiration is war and peace.",
           "src": "外研社B4 U4",
           "cat": "waiyan",
-          "t": "其中,一个持久的灵感来源是战争与和平。"
+          "t": "其中，一个永恒的灵感源泉是战争与和平。"
+        },
+        {
+          "s": "With this in mind, perhaps we should judge a movie in its own right, and not against its original source.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "考虑到这一点，也许我们应该独立判断一部电影，而不是根据其原始来源。"
+        },
+        {
+          "s": "The advantage that foxes have is that they are more likely to seek out new information from a broader range of sources, and are comfortable with uncertainty and new information. ___38___ They try to include it in their viewpoint rather than to exclude it from their thinking.",
+          "src": "2024北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "狐狸的优势在于，它们更可能从更广泛的来源寻找新信息，并且能从容面对不确定性和新信息。___38___ 它们试图将其纳入自己的观点，而不是将其排除在思维之外。"
         }
       ]
     },
@@ -94,24 +100,11 @@
       "def": "a person, book or document that provides information, especially for study, a piece of written work or news 信息来源；原始资料",
       "ex": [
         {
-          "s": "With this in mind, perhaps we should judge a movie in its own right, and not against its original source.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "有鉴于此，或许我们应该凭电影本身来评价，而不是对照其原始素材。"
-        },
-        {
           "s": "Use diverse information sources.",
           "src": "2024浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "使用各种信息来源。"
-        },
-        {
-          "s": "The advantage that foxes have is that they are more likely to seek out new information from a broader range of sources, and are comfortable with uncertainty and new information. ___38___ They try to include it in their viewpoint rather than to exclude it from their thinking.",
-          "src": "2024北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "狐狸的优势在于它们更有可能从更广泛的来源寻找新信息，并且对不确定性和新信息感到适应。___38___它们试图将其纳入自己的观点，而不是排除在思考之外。"
+          "t": "使用多样化的信息来源。"
         }
       ]
     },
@@ -121,7 +114,15 @@
     },
     {
       "def": "the place where a river or stream starts 源头；发源地",
-      "ex": []
+      "ex": [
+        {
+          "s": "54    Sometimes even routine occurrences become sources of pre-anger, or anger itself.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "54 有时，即使是日常琐事也会成为前愤怒或愤怒本身的源头。"
+        }
+      ]
     }
   ]
 }

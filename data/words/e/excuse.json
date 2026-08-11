@@ -13,14 +13,7 @@
           "src": "2022全国新高考I卷·阅读理解A",
           "cat": "gaokao",
           "year": 2022,
-          "t": "因准假缺席而错过的简短写作可以被接受。"
-        },
-        {
-          "s": "Thirty years later， a woman approached me in a public place． \"Excuse me， did you ever enter a residence， long ago， thinking it was the McNay Museum？\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（1）关于玛丽安·麦克奈我们知道什么？"
+          "t": "因准予缺勤而错过的短写作业将被接受。"
         },
         {
           "s": "39  , it’s much easeier to excuse yourself to get back to your work than if you try to get someone out of your space even after explaining how busy you are",
@@ -34,7 +27,7 @@
           "src": "2017重庆卷·七选五",
           "cat": "gaokao",
           "year": 2017,
-          "t": "怀特先生下午一点可能会做什么？"
+          "t": "39 . 为自己找借口回到工作中，要比在解释了自己有多忙之后还试图把某人从你的空间里请走容易得多。"
         },
         {
           "s": "Ever watched your child try to get out of doing housework by making excuses?",
@@ -66,7 +59,7 @@
           "src": "2024新高考II卷·完形填空",
           "cat": "gaokao",
           "year": 2024,
-          "t": "家人们会在周日、生日，以及任何他们能____32____（找到）的借口下____31____（聚餐）。"
+          "t": "家人们在周日、生日以及任何他们能____的借口下____聚餐。"
         }
       ]
     },
@@ -84,7 +77,22 @@
     },
     {
       "def": "to make your or sb else's behaviour seem less offensive by finding reasons for it 为 … 辩解（或找理由）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Thirty years later， a woman approached me in a public place． \"Excuse me， did you ever enter a residence， long ago， thinking it was the McNay Museum？\"",
+          "src": "2018天津卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "三十年后，一位女士在公共场所走近我。“打扰一下，你很久以前是否曾进过一户住宅，以为那是麦克奈博物馆？”"
+        },
+        {
+          "s": "Hit the streets with confidence. _____33_____ Say, “Excuse me, I work for XYZ News, and I was wondering if you could share your opinion about this topic.” This is a quick way to get people to warm up to you.",
+          "src": "2017浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "自信地上街。_____33_____说：“打扰一下，我为XYZ新闻工作，我想知道您能否分享一下对这个问题的看法。”这是让人对你放下戒备的快速方法。"
+        }
+      ]
     },
     {
       "def": "to allow sb to leave; to say in a polite way that you are leaving 准许 … 离开；请求准予离开；（离开前）请求原谅",
@@ -117,30 +125,28 @@
     },
     {
       "def": "（因打扰别人或失礼表示歉意）对不起，请原谅",
-      "ex": [
-        {
-          "s": "Hit the streets with confidence. _____33_____ Say, “Excuse me, I work for XYZ News, and I was wondering if you could share your opinion about this topic.” This is a quick way to get people to warm up to you.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "自信地走上街头。_____33_____ 说：\"打扰一下，我在XYZ新闻工作，我想知道您是否愿意分享对这个话题的看法。\" 这是让人们快速对你产生好感的好方法。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "（婉转地表示不赞成）对不起，请原谅，很抱歉",
+      "ex": []
+    },
+    {
+      "def": "（婉转地要求离开或要与另外的人讲话）对不起，请原谅，抱歉",
       "ex": [
         {
           "s": "Sorry to interrupt, but… Excuse me, but can I just ask…?",
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "抱歉打断一下，但…… 不好意思，我能问一下……？"
+        },
+        {
+          "s": "This may be preceded with an apology such as Sorry,… or Excuse me,… Usually we interrupt someone when they pause for breath, or during the slight pause between spoken clauses.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "这前面可能先说一句道歉，比如“抱歉……”或“打扰一下……”。通常我们在别人换气停顿、或在话语小句之间的短暂停顿时插话。"
         }
       ]
-    },
-    {
-      "def": "（婉转地要求离开或要与另外的人讲话）对不起，请原谅，抱歉",
-      "ex": []
     },
     {
       "def": "（因挤着别人或做错了事表示歉意）对不起，请原谅，很抱歉",
@@ -148,14 +154,7 @@
     },
     {
       "def": "（没听清楚，请对方再说一遍）对不起，请再说一遍",
-      "ex": [
-        {
-          "s": "This may be preceded with an apology such as Sorry,… or Excuse me,… Usually we interrupt someone when they pause for breath, or during the slight pause between spoken clauses.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "这前面可能会先道歉，比如说“对不起……”或“不好意思……”通常我们在对方停下来喘气的时候，或者在口头分句之间的短暂停顿时打断他们。"
-        }
-      ]
+      "ex": []
     }
   ]
 }

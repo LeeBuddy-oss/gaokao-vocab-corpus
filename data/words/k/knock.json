@@ -13,7 +13,45 @@
           "src": "2017全国III卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "它会被拆除。"
+          "t": "通过将建筑物漆成白色，城市可能会减缓变暖过程。"
+        },
+        {
+          "s": "It comes from the Cantonese word kau tau, which means “knock your head.” It refers to the act of kneeling and lowering one's head as a sign of respect to ___32___— such as emperors, elders and leaders.",
+          "src": "2018上海卷·Section B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "它源自粤语单词kau tau ，意思是“敲头”。“它指的是跪下和低头的行为，作为对皇帝、长老和领袖等___ 32 ___的尊重。"
+        },
+        {
+          "s": "Just last year, I was  56  a workshop when someone knocked at the classroom door.",
+          "src": "2017全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "就在去年，我在一个工作坊里，这时有人敲了教室的门。",
+          "_matched": true
+        },
+        {
+          "s": "Just last year, I was   56    a workshop when someone knocked at the classroom door.",
+          "src": "2017重庆卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "就在去年，我正在____56____一个研讨会，这时有人敲教室门。",
+          "_matched": true
+        },
+        {
+          "s": "I walked to the door and knocked.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "我走到门口敲了门。",
+          "_matched": true
+        },
+        {
+          "s": "Emily awoke to a gentle knock on her car window.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "Emily被轻轻敲打车窗的声音唤醒。",
+          "_matched": true
         }
       ]
     },
@@ -33,7 +71,7 @@
           "src": "2025新高考I卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "虽然友好，但他很容易把我侄女的小男孩们和六个月大的孙子撞倒。",
+          "t": "虽然他很友善，但他很容易撞倒我侄女的小男孩和我六个月大的孙女。",
           "_matched": true
         },
         {
@@ -41,13 +79,37 @@
           "src": "2024北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2024,
-          "t": "我____想：\"他为什么要把所有书都拿着？\"就在这时，几个孩子朝他跑去，____（撞）他怀里的书。"
+          "t": "我想,____18____“为什么他要带着他的书?” 刚才,一些孩子冲着他,____19____他的书从他的怀里跑出来。"
+        },
+        {
+          "s": "Eric Brown, only three years old, knocked Henry down when he fell.",
+          "src": "2022全国新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Eric Brown只有三岁，摔倒时把Henry撞倒了。",
+          "_matched": true
+        },
+        {
+          "s": "I didn't think about it much until a morning last week when I knocked my favorite teapot off the table.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我没太在意这件事，直到上周一个早晨，我把最心爱的茶壶从桌上碰掉了。",
+          "_matched": true
         }
       ]
     },
     {
       "def": "to put sb/sth into a particular state by hitting them/it 把 … 撞击成（某种状态）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Robutt would knock him out of trouble when he was too near a rock, jump on him to show how much he loved him, or go round in circles making noises as if he was scared when Jimmy hid behind a rock.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "当罗伯特太靠近一块岩石时，他会把他从麻烦中解救出来，跳到他身上以显示他有多爱他，或者绕圈子制造噪音，好像当吉米躲在岩石后面时他很害怕。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "to hit sth so that it moves or breaks 打掉；敲动；打破",
@@ -65,15 +127,8 @@
           "src": "2025北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
-          "t": "成功只会敲你的门一次。",
+          "t": "安装太阳能板的负面影响。",
           "_matched": true
-        },
-        {
-          "s": "It comes from the Cantonese word kau tau, which means “knock your head.” It refers to the act of kneeling and lowering one's head as a sign of respect to ___32___— such as emperors, elders and leaders.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "中国人要求他们向乾隆皇帝磕头。"
         },
         {
           "s": "Every moment Esmeralda discovered some fresh defect in Quasimodo, as her glance travelled from his knock knees to his hunched back, from his hunched back to his single eye.",
@@ -89,24 +144,7 @@
     },
     {
       "def": "to criticize sb/sth, especially when it happens unfairly （不公平地）批评；贬责；挑剔；非难",
-      "ex": [
-        {
-          "s": "Eric Brown, only three years old, knocked Henry down when he fell.",
-          "src": "2022全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Eric Brown只有三岁，摔倒时把Henry撞倒了。",
-          "_matched": true
-        },
-        {
-          "s": "I didn't think about it much until a morning last week when I knocked my favorite teapot off the table.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我没太在意直到上周一天早上我不小心把最心爱的茶壶碰到了桌上摔落。",
-          "_matched": true
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to travel and live in various places 漫游",
@@ -115,29 +153,6 @@
     {
       "def": "（表示某物在一个地方但不知确切位置）",
       "ex": [
-        {
-          "s": "Just last year, I was  56  a workshop when someone knocked at the classroom door.",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "就在去年，我正在____一个研讨会，这时有人敲教室门。",
-          "_matched": true
-        },
-        {
-          "s": "Just last year, I was   56    a workshop when someone knocked at the classroom door.",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "就在去年，我正在____一个研讨会，这时有人敲教室门。",
-          "_matched": true
-        },
-        {
-          "s": "Robutt would knock him out of trouble when he was too near a rock, jump on him to show how much he loved him, or go round in circles making noises as if he was scared when Jimmy hid behind a rock.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "罗布特会在吉米靠岩石太近时把他撞开以免惹上麻烦，会跳到他身上来表示多么爱他，或者当吉米藏在岩石后面时围着他转圈发出声音，好像很害怕的样子。",
-          "_matched": true
-        },
         {
           "s": "Adolph was knocked off, at a good sum, to the young gentlemen who had previously stated his intention of buying him; and the other servants of the St.",
           "src": "外研社B5 U6",
@@ -192,31 +207,7 @@
     },
     {
       "def": "to wake sb by knocking on their door 敲门唤醒某人",
-      "ex": [
-        {
-          "s": "I walked to the door and knocked.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "我走到门口敲了门。",
-          "_matched": true
-        },
-        {
-          "s": "Two hours later， back at my house，I heard a knock on the door． My husband（4）     it while I was on the phone in the dining room． \"Does Jennifer live here？\" I heard a lady say． In my husband's hand was my wallet， with not a penny（5）     ． She left before I could （6）      make it to the door to offer my thanks．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "两小时后，回到我家，我听到一声敲门声。我丈夫（4）____去开的门，而____。",
-          "_matched": true
-        },
-        {
-          "s": "Emily awoke to a gentle knock on her car window.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Emily被轻轻的敲车窗声唤醒。",
-          "_matched": true
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to make a woman pregnant 使怀孕",
@@ -224,7 +215,16 @@
     },
     {
       "def": "the sound of sb hitting a door, window, etc. with their hand or with sth hard to attract attention 敲击声；敲门（或窗等）声",
-      "ex": []
+      "ex": [
+        {
+          "s": "Two hours later， back at my house，I heard a knock on the door． My husband（4）     it while I was on the phone in the dining room． \"Does Jennifer live here？\" I heard a lady say． In my husband's hand was my wallet， with not a penny（5）     ． She left before I could （6）      make it to the door to offer my thanks．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "两小时后，回到家中，我听到敲门声。我丈夫（4）_____应了门，当时我在餐厅打电话。“詹妮弗住这儿吗？”我听到一位女士说。我丈夫手里是我的钱包，一分钱（5）_____都没少。我还没来得及（6）_____走到门口道谢，她就走了。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "a sharp blow from sth hard 捶击；敲击；撞击",

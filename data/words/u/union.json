@@ -13,7 +13,7 @@
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "法国人对待35小时工作周十分认真——如此认真，以至于一些工会最近与一批公司达成协议，限制独立承包商随时待命的时间。"
+          "t": "法国人极其看重35小时工作周——以至于一些工会最近与一批公司达成协议，限制独立承包商待命的时长。"
         }
       ]
     },
@@ -24,20 +24,7 @@
           "s": "Hu Ming manages student union affairs.",
           "src": "人教B1 U5",
           "cat": "renjiao",
-          "t": "胡明负责管理学生会的事务。"
-        },
-        {
-          "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但上个月在洛杉矶的联合车站，一块板子上用别针钉着美元钞票，旁边一块牌子写着“……”"
-        },
-        {
-          "s": "They use the same flag, known as the Union Jack, as well as share the same currency and military defence.",
-          "src": "人教B2 U4",
-          "cat": "renjiao",
-          "t": "他们使用同一面旗帜，即“联合杰克”（Union Jack），并共用同一种货币与军事防御。"
+          "t": "胡明负责管理学生会事务。"
         }
       ]
     },
@@ -48,7 +35,7 @@
           "s": "The World Triathlon Series is held by the International Triathlon Union.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "世界铁人三项系列赛由国际铁人三项联盟（International Triathlon Union）举办。"
+          "t": "世界Triathlon系列赛由国际Triathlon联盟举办."
         },
         {
           "s": "The Union side won, but at a great cost.",
@@ -65,13 +52,27 @@
           "s": "For two years, its people had been deep in a civil war between the slave-owning Confederate Southern States and the “free” Northern States of the Union.",
           "src": "外研社B5 U4",
           "cat": "waiyan",
-          "t": "两年来，其人民一直深陷蓄奴的南方邦联各州与“自由”的北方联邦（合众国）之间的内战。"
+          "t": "两年来，其人民一直深陷拥有奴隶的南方各州与“自由”的北方各州之间的内战。"
         }
       ]
     },
     {
       "def": "the act of joining two or more things together; the state of being joined together; the act of two people joining together 联合；结合；合并",
-      "ex": []
+      "ex": [
+        {
+          "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
+        },
+        {
+          "s": "They use the same flag, known as the Union Jack, as well as share the same currency and military defence.",
+          "src": "人教B2 U4",
+          "cat": "renjiao",
+          "t": "他们使用同一面国旗（被称为联合旗），并共享同样的货币和军事防御。"
+        }
+      ]
     },
     {
       "def": "a marriage 结为夫妻；婚姻",

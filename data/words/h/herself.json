@@ -9,39 +9,11 @@
       "def": "* she 的反身形式",
       "ex": [
         {
-          "s": "She drove on for a while and found herself on an unfamiliar road toward a Canadian town.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她又开了一会儿，发现自己行驶在一条通往加拿大小镇的陌生道路上。"
-        },
-        {
-          "s": "She wrapped herself in a blanket, waiting for morning.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她裹上毯子，等待天亮。"
-        },
-        {
-          "s": "Ivy recognised a(n) ___3___ feeling when Mia was applauded, and an ache in the heart when she compared herself with Mia.",
-          "src": "2026北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当米娅受到掌声欢迎时，艾薇感到一种____熟悉的情绪；当拿自己和米娅比较时，她的心中隐隐作痛。"
-        },
-        {
-          "s": "I talked to one of the senior applicants who answered questions in a way that reflected the faith she had in herself.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "古代哲学家为辩论者树立了好榜样。"
-        },
-        {
           "s": "Feeling desperate, Eva started using a mind trick on herself.",
           "src": "2024浙江1月卷·书面表达",
           "cat": "gaokao",
           "year": 2024,
-          "t": "结果，我研究生生涯的前四年被一系列失败所定义。"
+          "t": "感到绝望的伊娃开始对自己使用心理技巧。"
         },
         {
           "s": "By furnishing it herself.",
@@ -62,14 +34,7 @@
           "src": "2022浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2022,
-          "t": "这是她新工作的第一次公路旅行。"
-        },
-        {
-          "s": "She relies on herself the whole time.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她完全依靠自己。"
+          "t": "没过多久，梅雷贝斯就决定自己开车把狗送到那里。"
         },
         {
           "s": "The author herself.",
@@ -90,35 +55,85 @@
           "src": "2020天津3月卷",
           "cat": "gaokao",
           "year": 2020,
-          "t": "而且我知道我并不孤单。"
-        },
-        {
-          "s": "“Small does not mean weak, sir,” she defended herself.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她意识到自己看起来像个孩子，因为她身材娇小。"
-        },
-        {
-          "s": "I think of one friend who couldn't arrange flowers to satisfy herself.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "谦虚地，以免灰心丧气。"
+          "t": "听完录音后作者为什么觉得自己奇怪？（不超过10词）"
         },
         {
           "s": "For the past five years, Paula Smith, a historian of science, has devoted herself to re-creating long-forgotten techniques.",
           "src": "2020北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "\"仅仅通过阅读相关资料，你是无法理解那种手工技艺的，\"她说。"
+          "t": "在过去的五年里，科学史家 Paula Smith 一直致力于重现早已被遗忘的技术。"
+        },
+        {
+          "s": "When he learns that Sybil has killed herself, Dorian finds his face in the painting has taken on a cruel look.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "当他得知西比尔自杀后，多里安发现画中自己的脸变得残忍起来。"
+        }
+      ]
+    },
+    {
+      "def": "（强调句中的女性主语或宾语）",
+      "ex": []
+    },
+    {
+      "def": "alone; without anyone else （她）独自，单独",
+      "ex": [
+        {
+          "s": "She drove on for a while and found herself on an unfamiliar road toward a Canadian town.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "她又开了一会儿，发现自己走上了一条通往加拿大小镇的陌生道路。"
+        },
+        {
+          "s": "She wrapped herself in a blanket, waiting for morning.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "她用毯子裹住自己，等待天亮。"
+        },
+        {
+          "s": "Ivy recognised a(n) ___3___ feeling when Mia was applauded, and an ache in the heart when she compared herself with Mia.",
+          "src": "2026北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "当Mia受到掌声时，Ivy认出了一种___3___的感觉；而当她把自己和Mia比较时，心里一阵刺痛。"
+        },
+        {
+          "s": "I talked to one of the senior applicants who answered questions in a way that reflected the faith she had in herself.",
+          "src": "2025北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我和一位高年级申请者交谈，她回答问题时展现出对自己的信心。"
+        },
+        {
+          "s": "She relies on herself the whole time.",
+          "src": "2022浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "她完全依靠自己。"
+        },
+        {
+          "s": "“Small does not mean weak, sir,” she defended herself.",
+          "src": "2020天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“小不意味着弱，先生，”她为自己辩护道。"
+        },
+        {
+          "s": "I think of one friend who couldn't arrange flowers to satisfy herself.",
+          "src": "2020天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我想起一位朋友，她怎么插花都无法让自己满意。"
         },
         {
           "s": "A．her unique way to locate herself",
           "src": "2019天津卷·18．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "A．她定位自己的独特方式。"
+          "t": "A．她定位自己的独特方式"
         },
         {
           "s": "To make herself stand out.",
@@ -143,13 +158,7 @@
           "s": "She remains true to herself and never loses hope, faith or dignity in her search for love and happiness.",
           "src": "外研社B6 U1",
           "cat": "waiyan",
-          "t": "在对爱和幸福的追求中，她始终忠于自己，从未失去希望、信念或尊严。"
-        },
-        {
-          "s": "When he learns that Sybil has killed herself, Dorian finds his face in the painting has taken on a cruel look.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "当他得知西比尔自杀后，多里安发现画中自己的脸变得残忍起来。"
+          "t": "她始终保持真实，在追寻爱与幸福的过程中从未失去希望、信念或尊严。"
         },
         {
           "s": "Never silent herself in the face of destructive trends, Rachel Carson fed a spring of awareness across America and beyond.",
@@ -162,17 +171,8 @@
           "src": "2023全国甲卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
-          "t": "她擅长安装置物架和组装家具，自己能做的活从不花钱请别人做。"
-        }
-      ]
-    },
-    {
-      "def": "（强调句中的女性主语或宾语）",
-      "ex": []
-    },
-    {
-      "def": "alone; without anyone else （她）独自，单独",
-      "ex": [
+          "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
+        },
         {
           "s": "At 28, my grandmother walked herself through the snow to birth her first child.",
           "src": "2024天津3月卷·阅读Passage 1",
@@ -192,7 +192,7 @@
           "src": "2021全国乙卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "A.她经常独自旅行。"
+          "t": "A. 她经常独自旅行"
         },
         {
           "s": "She ran Jackson’s Carnegie Library absolutely by herself.",
@@ -218,7 +218,7 @@
           "src": "2020全国新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "电影开始前每位女士被要求自己拿一些零食。"
+          "t": "电影开始前，每位女性都被邀请随意取用一份零食。"
         }
       ]
     }

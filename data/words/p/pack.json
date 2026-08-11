@@ -16,18 +16,11 @@
           "t": "多年来我一直做着这些铅笔标记，离家上大学时，我把那本词典装进了行李箱。"
         },
         {
-          "s": "Packing for a move.",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为搬家打包行李。"
-        },
-        {
           "s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.",
           "src": "2021新高考II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2021,
-          "t": "装好一个袋子、切一块蛋糕、猜哪个果汁容器装得最多液体，还有更多。"
+          "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。"
         },
         {
           "s": "Then all we have to do is pack luggage.",
@@ -41,7 +34,28 @@
           "src": "2026北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2026,
-          "t": "收拾我父母房子的过程就像一场盛大的告别——那间卧室、那些回忆，还有我在那里始终感受到的安全与庇护。"
+          "t": "收拾父母家的房子感觉像一场盛大的告别——那间卧室、那些记忆、我在那里始终感到的安全和庇护。"
+        },
+        {
+          "s": "When I was 9, we packed up our home in Los Angeles and arrived at Heathrow, London on a gray January morning.",
+          "src": "2021全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我9岁时，我们收拾好洛杉矶的家，在一个灰色的一月早晨抵达伦敦希思罗机场。"
+        },
+        {
+          "s": "But the look on everybody’s face when you’re finished and packing, it’s the best smile in the world; and there’s nobody hurt, and the well’s under control.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "但当你完成工作、收拾东西时，每个人脸上的表情是世界上最棒的笑容；没有人受伤，情况已得到控制。"
+        },
+        {
+          "s": "Filled with   64   (curious), the artist packed his bags and left.",
+          "src": "2020全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "充满   64  （好奇心），这位艺术家收拾行李离开了。"
         }
       ]
     },
@@ -49,18 +63,25 @@
       "def": "to put sth into a container so that it can be stored, transported or sold 打包；包装",
       "ex": [
         {
+          "s": "Packing for a move.",
+          "src": "2019全国II卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "为搬家打包。"
+        },
+        {
           "s": "On our final morning in the house, we took a break from the mind-bending, never-ending work of packing to sit down for that last breakfast.",
           "src": "2026北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2026,
-          "t": "我们暂停了那令人头疼、没完没了的打包工作，坐下来吃最后一顿早餐。"
+          "t": "在老房子里的最后一个早晨，我们从令人头疼、没完没了的打包工作中歇下来，坐下来吃最后一顿早餐。"
         },
         {
           "s": "there would be too much work in packing",
           "src": "2026北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2026,
-          "t": "打包的工作会太多。"
+          "t": "父母可能会后悔卖掉房子"
         },
         {
           "s": "Pack the food for her.",
@@ -74,56 +95,35 @@
           "src": "外研社B5 U3",
           "cat": "waiyan",
           "year": "",
-          "t": "当我匆忙赶到书店时，我看到书已经在被打包装箱了。"
+          "t": "当我匆忙赶到书店时，看到那些书已经在被打包装箱了。"
         },
         {
           "s": "Past continuous passive a When I hurried to the store, I saw that the books were already being packed into boxes.",
           "src": "外研社B5 U3",
           "cat": "waiyan",
           "year": "",
-          "t": "过去进行时被动语态 当我匆忙赶到书店时，我看到书已经在被打包装箱了。"
-        },
-        {
-          "s": "When I was 9, we packed up our home in Los Angeles and arrived at Heathrow, London on a gray January morning.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "9岁时，我们打包了在洛杉矶的家，在一个灰蒙蒙的一月早晨抵达伦敦希思罗机场。"
-        },
-        {
-          "s": "But the look on everybody’s face when you’re finished and packing, it’s the best smile in the world; and there’s nobody hurt, and the well’s under control.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "但完事后在打包时，每个人脸上的表情，那是世界上最灿烂的笑容；而且没有人受伤，火井也控制住了。"
+          "t": "过去进行时的被动语态：当我匆忙赶到书店时，看到那些书已经在被打包装箱了。"
         },
         {
           "s": "However, though it’s nice to get a few cents off a pack of sausages, it would help even more if they could sometimes   61   (offer) in smaller packs.",
           "src": "2024浙江1月卷·语法填空",
           "cat": "gaokao",
           "year": 2024,
-          "t": "不过，虽说买一包香肠能省下几毛钱是件好事，但如果它们有时能____以更小包装出售，帮助会更大。"
+          "t": "然而，尽管一包香肠能便宜几分钱不错，但如果它们有时能以更小包装（第61空，offer）出售，会更有帮助。"
         },
         {
           "s": "Over the last two years, some supermarkets   62   (start) selling chicken or salad in packs   63   (design) with two halves containing separate portions (份).",
           "src": "2024浙江1月卷·语法填空",
           "cat": "gaokao",
           "year": 2024,
-          "t": "过去两年里，一些超市____开始销售鸡肉或沙拉，采用分成两半、各装一份的____包装。"
+          "t": "根据吉姆·哈特的说法，\"刺猬理念\"是公司走向卓越的因素之一。"
         },
         {
           "s": "Who knows, perhaps some of the more forward-looking   65   (one) may yet come out with a whole range of “just for you” pack sizes with special offers as well.",
           "src": "2024浙江1月卷·语法填空",
           "cat": "gaokao",
           "year": 2024,
-          "t": "谁知道呢，也许一些更有远见的____将来也会推出一整套「专为你」的包装规格，并配以特别优惠。"
-        },
-        {
-          "s": "These pieces can be folded into a neat little pack and fastened on your belt.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些部件可以折成一个整齐的小包，系在你的腰带上。"
+          "t": "他们弄清楚自己擅长什么。___36___刺猬理念对公司来说完全适用。"
         }
       ]
     },
@@ -188,7 +188,7 @@
           "src": "2022全国甲卷·阅读理解A",
           "cat": "gaokao",
           "year": 2022,
-          "t": "Sherman Cymru 很兴奋地推出一系列精彩的戏剧、舞蹈、家庭演出以及来自威尔士和世界各地的音乐节目。"
+          "t": "Sherman Cymru很高兴呈献一套密集的节目，囊括来自威尔士及世界各地最优秀的戏剧、舞蹈、家庭秀和音乐。"
         }
       ]
     },
@@ -200,11 +200,11 @@
       "def": "to do a lot of things in a limited period of time 在（有限时间里）做（大量工作）",
       "ex": [
         {
-          "s": "They tolerate long, slow journeys to and from work on packed highways because they can work, entertain themselves or sleep on the ride, which encourages urban spread.",
-          "src": "2018北京卷·阅读理解D",
+          "s": "These pieces can be folded into a neat little pack and fastened on your belt.",
+          "src": "2017全国I卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "他们能忍受在拥挤的公路上往返工作途中的漫长缓慢旅程，因为他们可以在路上工作、娱乐或睡觉，这助长了城市的扩张。"
+          "year": 2017,
+          "t": "这些部件可以折叠成一个小巧整齐的包，扣在你的腰带上。"
         }
       ]
     },
@@ -216,7 +216,7 @@
           "src": "2025新高考I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
-          "t": "许多家长说路上车太多，孩子没法安全步行上学，所以他们干脆把孩子塞进车里。"
+          "t": "这是我从未体验过的一种快感。"
         },
         {
           "s": "Staring at the bookcases in my study, packed with so many great books that had remained unread, I heard a loud voice in my head — “Shame on you!",
@@ -230,28 +230,13 @@
           "src": "2025北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
-          "t": "尤其是在我的学校里，众所周知高二（Junior year）是把许多 AP 课程塞进课表的时候。"
-        },
-        {
-          "s": "The three dogs formed a pack that, with coaching, ______56______ Flora’s space; Steve and I formed a good team ______57______ for Tilly.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "三只狗组成了一个群体，经过训练，它们______56______占据 Flora 的空间；Steve 和我组成了一个好团队______57______照顾 Tilly。"
+          "t": "这是一个众所周知的事实，尤其在我学校：高三是要把许多AP课程塞进课表的一年。"
         }
       ]
     },
     {
       "def": "to put your possessions into a bag, etc. before leaving a place 打行李；收拾行装",
-      "ex": [
-        {
-          "s": "Filled with   64   (curious), the artist packed his bags and left.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "充满（好奇心），这位艺术家收拾行李离开了。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to stop doing sth, especially a job 停止；放弃；辞掉",
@@ -261,7 +246,7 @@
           "src": "2026新高考II卷·完形填空",
           "cat": "gaokao",
           "year": 2026,
-          "t": "有几次我想过要不要干脆放弃，但男孩的话一直在我耳边回响：我知道，成功所需要的不过是一点____和勤奋。"
+          "t": "曾有段时间我怀疑自己是否该放弃，但男孩的话一直在我耳边回响：我知道要成功，除了一点____54____和努力，我别无所需。"
         }
       ]
     },
@@ -277,7 +262,7 @@
           "src": "2017北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "□带礼品包的年度订阅"
+          "t": "□含礼品包的年度订阅"
         }
       ]
     },
@@ -293,32 +278,39 @@
           "src": "2017北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "如果你订购带礼品包的 TOKNOW 12 个月订阅，应该付多少钱？"
+          "t": "如果你从中国订阅带礼品包的TOKNOW 12个月，应该付多少钱？"
         },
         {
           "s": "I was ___17___ with a pack nearly as tall as his whole body.",
           "src": "2023天津3月卷·完形填空",
           "cat": "gaokao",
           "year": 2023,
-          "t": "我____背着一个几乎和他整个身体一样高的背包。"
+          "t": "我___17___背着一个几乎和他整个身体一样高的背包。"
         }
       ]
     },
     {
       "def": "a group of animals that hunt together or are kept for hunting 一群（动物或猎狗）",
+      "ex": []
+    },
+    {
+      "def": "a group of similar people or things, especially one that you do not like or approve of 群；帮；团伙",
       "ex": [
+        {
+          "s": "The three dogs formed a pack that, with coaching, ______56______ Flora’s space; Steve and I formed a good team ______57______ for Tilly.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "三只狗形成了一个群体，经过训练，它们______56______尊重Flora的空间；Steve和我组成了一个好团队______57______照顾Tilly。"
+        },
         {
           "s": "The US Fish and Wildlife Service carefully monitors and manages the wolf packs in Yellowstone.",
           "src": "2017全国III卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "美国鱼类和野生动物管理局仔细监测和管理黄石公园的狼群。"
+          "t": "美国鱼类和野生动物局对黄石公园的狼群进行了仔细的监测和管理."
         }
       ]
-    },
-    {
-      "def": "a group of similar people or things, especially one that you do not like or approve of 群；帮；团伙",
-      "ex": []
     },
     {
       "def": "all the people who are behind the leaders in a race, competition, etc. （统称）竞赛中的落后者",
@@ -326,7 +318,15 @@
     },
     {
       "def": "a complete set of 52 playing cards 一副（为 52 张）",
-      "ex": []
+      "ex": [
+        {
+          "s": "They tolerate long, slow journeys to and from work on packed highways because they can work, entertain themselves or sleep on the ride, which encourages urban spread.",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们忍受在拥挤的高速公路上漫长而缓慢的上下班通勤，因为他们可以在途中工作、娱乐或睡觉，这促进了城市扩张。"
+        }
+      ]
     },
     {
       "def": "an organized group of Cubs/Cub Scouts or Brownies 一队（男或女幼童军）",

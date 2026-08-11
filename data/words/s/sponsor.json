@@ -16,18 +16,6 @@
           "t": "图书馆可能会赞助一个你可以加入的语言小组。"
         },
         {
-          "s": "Wang Wei decided to sponsor the young man to study painting and recommended him to a master.",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "王伟决定赞助青年学习绘画,并推荐他为大师."
-        },
-        {
-          "s": "Visitors can see these (amaze) creatures in their natural domain, and also sponsor an elephant to preserve its health and liberty.",
-          "src": "人教选必4 U2",
-          "cat": "renjiao",
-          "t": "游客可以在自然领域看到这些(动物)生物,并赞助一只大象来维护它的健康和自由."
-        },
-        {
           "s": "Some films are now sponsored by leading brands, so that only their products appear in the films, like the watches worn by the title character in the James Bond films.",
           "src": "译林选必2 U1",
           "cat": "yilin",
@@ -50,7 +38,7 @@
           "src": "2020天津6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "父母会见他们的方案赞助人"
+          "t": "家长见到他们的项目赞助人"
         }
       ]
     },
@@ -86,7 +74,7 @@
           "src": "2020全国II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "主办书展."
+          "t": "赞助书展。"
         }
       ]
     },
@@ -96,7 +84,20 @@
     },
     {
       "def": "to support sb by paying for their training or education 资助（某人的培训或教育）",
-      "ex": []
+      "ex": [
+        {
+          "s": "Wang Wei decided to sponsor the young man to study painting and recommended him to a master.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "王维决定资助这位年轻人学习绘画，并把他推荐给了一位大师。"
+        },
+        {
+          "s": "Visitors can see these (amaze) creatures in their natural domain, and also sponsor an elephant to preserve its health and liberty.",
+          "src": "人教选必4 U2",
+          "cat": "renjiao",
+          "t": "游客可以在它们的自然栖息地看到这些（令人惊叹的）生物，也可以资助一头大象来保护它的健康和自由。"
+        }
+      ]
     },
     {
       "def": "to introduce a proposal for a new law, etc. 倡议，提交（法案等）",

@@ -7,15 +7,7 @@
   "defs": [
     {
       "def": "the official system used for sending and delivering letters, packages, etc. 邮政；邮递系统",
-      "ex": [
-        {
-          "s": "■Mail your entry to us by October 31 this year.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "t": "在今年十月三十一号前,",
-          "year": 2020
-        }
-      ]
+      "ex": []
     },
     {
       "def": "letters, packages, etc. that are sent and delivered 邮件；信件；邮包",
@@ -24,14 +16,14 @@
           "s": "They sent a mail to their neighbors.",
           "src": "2022新高考I卷",
           "cat": "gaokao",
-          "t": "他们给邻居寄了封信",
+          "t": "他们给邻居寄了信。",
           "year": 2022
         },
         {
           "s": "They sent a mail to their neighbors.",
           "src": "2022浙江卷",
           "cat": "gaokao",
-          "t": "他们给邻居寄了封信",
+          "t": "他们给邻居寄了信。",
           "year": 2022
         }
       ]
@@ -84,10 +76,17 @@
       "def": "to send sth to sb using the postal system 邮寄",
       "ex": [
         {
+          "s": "■Mail your entry to us by October 31 this year.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "■在今年10月31日前将你的参赛作品邮寄给我们。",
+          "year": 2020
+        },
+        {
           "s": "Mailing your entry on October 30.",
           "src": "2020全国新高考I卷·阅读理解A",
           "cat": "gaokao",
-          "t": "10月30日邮寄进境.",
+          "t": "在10月30日邮寄参赛作品。",
           "year": 2020
         }
       ]

@@ -13,7 +13,7 @@
           "src": "2026北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2026,
-          "t": "我意识到这根本与丧失无关，而是与运动和信任有关。",
+          "t": "我意识到这根本不是关于失去，而是关于移动和信任。",
           "_matched": true
         },
         {
@@ -21,7 +21,7 @@
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
-          "t": "因此，随着气候变化和生物多样性丧失威胁自然气味，许多人甚至可能不会注意到。",
+          "t": "无论我们是否关注世界的\"气味景观\"，热浪和污染正在使其发生变化。",
           "_matched": true
         },
         {
@@ -29,7 +29,7 @@
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
-          "t": "气候变化也在加快生物多样性的丧失，有可能彻底抹去某些气味。",
+          "t": "当植物消失时，它们的气味变得更加难以产生。",
           "_matched": true
         },
         {
@@ -45,7 +45,7 @@
           "src": "2026北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
-          "t": "气味的丧失会导致自然灾害。",
+          "t": "气味景观的损害可以被人工修复。",
           "_matched": true
         },
         {
@@ -53,7 +53,7 @@
           "src": "2025新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2025,
-          "t": "它遭受了巨大的损失。",
+          "t": "它遭受了巨大损失。",
           "_matched": true
         },
         {
@@ -68,7 +68,7 @@
           "src": "2024天津3月卷·Passage 4",
           "cat": "gaokao",
           "year": 2024,
-          "t": "科学家将这一现象称为“灾难性的湖泊消失”。",
+          "t": "手捧着这只鸟，我环顾四周，想看看它是怎么进来的。",
           "_matched": true
         },
         {
@@ -76,7 +76,7 @@
           "src": "2024天津3月卷·Passage 4",
           "cat": "gaokao",
           "year": 2024,
-          "t": "然而，新的证据表明，降雨——尤其是增加的秋季降雨——现在正显著导致永久冻土的消失。",
+          "t": "然而，新的证据表明，降雨——尤其是日益增多的秋雨——如今正在显著加剧永久冻土的消融。",
           "_matched": true
         },
         {
@@ -107,7 +107,7 @@
           "src": "2020北京卷·书面表达",
           "cat": "gaokao",
           "year": 2020,
-          "t": "我相信这对一个孩子来说是经历失去重要之物的完美____29____——失去它并充分感受到那份损失的____30____，然后再奇迹般地失而复得。",
+          "t": "我相信，对于一个孩子来说，这是失去重要之物的完美___29___……失去它，感受那份失去的全部___30___，然后奇迹般地失而复得。",
           "_matched": true
         },
         {
@@ -129,7 +129,7 @@
           "src": "2019天津卷·20．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "A．自由的丧失激发一个人的创造力。",
+          "t": "A．失去自由会激发人的创造力",
           "_matched": true
         },
         {
@@ -137,7 +137,7 @@
           "src": "2018北京卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "在当今世界的信息时代，数据的丢失____会给公司造成严重的麻烦。",
+          "t": "在如今的信息时代，数据的丢失____会给公司造成严重问题。",
           "_matched": true
         },
         {
@@ -166,26 +166,25 @@
           "s": "Sadness wants to do her duty but by accident causes the loss of Riley’s happy core memories with Joy.",
           "src": "外研社B3 U1",
           "cat": "waiyan",
-          "t": "忧忧想尽自己的职责，却意外导致乐乐丢失了莱莉快乐的核心记忆。"
+          "t": "悲伤想履行她的职责，却意外导致莱莉的快乐核心记忆与乐乐一起丢失。"
         },
         {
           "s": "My anxiety drove me to try every means possible to lose weight, including dieting and weight-loss pills, but this brought me nothing but pain and poor health.",
           "src": "外研社B6 U1",
           "cat": "waiyan",
-          "t": "我的焦虑驱使我用尽一切方法减肥，包括节食和减肥药，但这只给我带来痛苦和健康不佳。"
+          "t": "我的焦虑驱使我尝试各种可能的减肥方法，包括节食和减肥药，但这只给我带来了疼痛和健康状况不佳。"
+        },
+        {
+          "s": "Liu Yonghui, retired teacher 1 Eating out is a good choice and it has nothing to do with loss of traditions.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "刘永辉，退休教师 1 外出就餐是一个不错的选择，这与传统的丧失无关。"
         }
       ]
     },
     {
       "def": "money that has been lost by a business or an organization 亏损；亏蚀",
-      "ex": [
-        {
-          "s": "Liu Yonghui, retired teacher 1 Eating out is a good choice and it has nothing to do with loss of traditions.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "刘永辉，退休教师：出去吃饭是个好选择，与失去传统无关。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the death of a person 去世；逝世",
@@ -199,13 +198,13 @@
           "src": "2021北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "从2000年到2019年全球共发生7,348次重大自然灾害造成29,700亿美元的经济损失．这种增长很大程度上可能是由于气候变化造成的．"
+          "t": "从2000年到2019年，全球共发生7,348次重大自然灾害，____19____（造成）29,700亿美元的经济损失。这种增长很大程度上可能是由于气候变化。"
         },
         {
           "s": "People are suffering from 10______, which are causing damage and loss.",
           "src": "外研社B3 U6",
           "cat": "waiyan",
-          "t": "人们正在遭受自然灾害的影响，这些灾害正在造成破坏和损失。"
+          "t": "人们正遭受10______的侵袭，它们正在造成破坏与损失。"
         },
         {
           "s": "You sail lighter for the loss of forty pounds.” He knew quite well the pattern of what could happen when he reached the inner part of the current.",

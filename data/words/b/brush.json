@@ -27,7 +27,7 @@
           "src": "2017浙江6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "这些是本杰明见过的第一批画作和真正的颜料及画笔。"
+          "t": "这些是本杰明见过的第一批照片 和第一批真正的油漆和刷子"
         },
         {
           "s": "Benjamin would have real brushes soon.",
@@ -37,25 +37,11 @@
           "t": "本杰明很快就要离开家了。"
         },
         {
-          "s": "Involve your child in the daily running of the house: tidying toys, feeding the dog, watering the plants. ____36____ When the tasks become as routine as brushing teeth, kids internalise that helping with housework is simply part of life.",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "让孩子参与家庭的日常运转：收拾玩具、喂狗、给植物浇水。____ 当这些任务变得像刷牙一样习以为常，孩子就会内化这样一种观念：帮忙做家务本来就是生活的一部分。"
-        },
-        {
           "s": "In those days , a brush was made from camel’s hair.",
           "src": "2017浙江6月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "那时候，画笔是用骆驼毛做的。"
-        },
-        {
-          "s": "He learnt 2______(use) his feet for everyday activities, such as eating and brushing his teeth.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他学会了2____（use）双脚来做日常活动，比如吃饭和刷牙。"
+          "t": "在那个时候，画笔是用骆驼毛制成的。"
         },
         {
           "s": "A recent project used technology and data in the same way that Rembrandt used his paints and brushes.",
@@ -79,13 +65,6 @@
           "t": "这支画笔没用多久。"
         },
         {
-          "s": "By the time you brushed your teeth, you ____15____ (make) several decisions even without noticing.",
-          "src": "2025北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者的父亲对用罐子购物的态度是什么？"
-        },
-        {
           "s": "He cut some fur from the family cat to make a brush.",
           "src": "2017浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -96,7 +75,29 @@
     },
     {
       "def": "an act of brushing 刷",
-      "ex": []
+      "ex": [
+        {
+          "s": "Involve your child in the daily running of the house: tidying toys, feeding the dog, watering the plants. ____36____ When the tasks become as routine as brushing teeth, kids internalise that helping with housework is simply part of life.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "让孩子参与家里的日常运转：整理玩具、喂狗、给植物浇水。____36____ 当这些任务变得像刷牙一样例行，孩子们就会内化“帮忙做家务就是生活的一部分”。"
+        },
+        {
+          "s": "He learnt 2______(use) his feet for everyday activities, such as eating and brushing his teeth.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "他学会了2____（use）双脚来做日常活动，比如吃饭和刷牙。"
+        },
+        {
+          "s": "By the time you brushed your teeth, you ____15____ (make) several decisions even without noticing.",
+          "src": "2025北京卷·语法填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "等你刷完牙的时候，你已经____15____（make）了好几个决定，甚至都没有察觉。"
+        }
+      ]
     },
     {
       "def": "a light touch made in passing sth/sb 轻擦；掠过",
@@ -138,13 +139,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "日复一日，韩干画着马，他的笔展现着亲眼所见的每一处细节。"
-        },
-        {
-          "s": "I brush it off and it runs under some leaves.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我把它拂开，它便钻到几片叶子下面去了。"
         }
       ]
     },
@@ -163,13 +157,21 @@
           "src": "2021全国乙卷·完形填空",
           "cat": "gaokao",
           "year": 2021,
-          "t": "它不同于传统旅游因为它允许旅行者61（受教育/educate）了解这些地区——既包括地理条件也包括文化特征，并且通常为保护提供资金并惠及62（发展/develop）当地地区。"
+          "t": "把……撇在一边 B. 经受考验"
         }
       ]
     },
     {
       "def": "to remove sth from a surface with a brush or with your hand （用刷子或手）拂，掸，擦掉",
-      "ex": []
+      "ex": [
+        {
+          "s": "I brush it off and it runs under some leaves.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我把它拂开，它便钻到几片叶子下面去了。"
+        }
+      ]
     },
     {
       "def": "to touch sb/sth lightly while moving close to them/it 轻擦，掠过（某人/某物）",

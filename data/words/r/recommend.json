@@ -13,7 +13,7 @@
           "src": "2024新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "推荐一本关于人工智能的书。"
+          "t": "推荐一本关于AI的书。"
         },
         {
           "s": "To recommend their new books.",
@@ -30,25 +30,18 @@
           "t": "把它们推荐给朋友。"
         },
         {
-          "s": "It is believed that today's children and teenagers are consuming three times the recommended level of sugar, putting them at a higher risk of the disease.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "人们认为如今的儿童和青少年摄入的糖是推荐摄入量的三倍，使他们面临更高的患病风险。"
-        },
-        {
           "s": "To recommend a research team.",
           "src": "2022天津4月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2022,
-          "t": "推荐一个研究团队。"
+          "t": "为了推荐一个研究团队。"
         },
         {
           "s": "To recommend a travel destination.",
           "src": "2020全国新高考I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "推荐一个旅游目的地。"
+          "t": "为了推荐一个旅行目的地。"
         },
         {
           "s": "To recommend some toys.",
@@ -76,14 +69,14 @@
           "src": "2019全国I卷",
           "cat": "gaokao",
           "year": 2019,
-          "t": "推荐一项运动。"
+          "t": "为了推荐一项运动。"
         },
         {
           "s": "To recommend an exercise.",
           "src": "2019浙江卷",
           "cat": "gaokao",
           "year": 2019,
-          "t": "推荐一项运动。"
+          "t": "为了推荐一项运动。"
         },
         {
           "s": "The director recommended someone else.",
@@ -97,7 +90,7 @@
           "src": "2017重庆卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "D．导演推荐了别人。"
+          "t": "Transition的首飞"
         },
         {
           "s": "We would like to recommend...",
@@ -124,17 +117,11 @@
           "t": "你还有什么推荐的吗？"
         },
         {
-          "s": "It opens/ closes at … There's a… called…It’s… I'd recommend… You can… Listen to student A talking about recycling.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它在……开门/关门 有一个叫……的…… 我推荐…… 你可以…… 听学生A谈论回收利用。"
-        },
-        {
           "s": "Take a look online—evidence shows that thousands of teachers and parents know a good thing when they see it and recommend TOKNOW to their friends.",
           "src": "2017北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2017,
-          "t": "上网看看吧——有证据表明，成千上万的老师和家长能识别好东西，并把TOKNOW推荐给他们的朋友。"
+          "t": "上网看看吧——有证据表明，成千上万的老师和家长都能辨识好东西，并向朋友推荐TOKNOW。"
         },
         {
           "s": "What is the woman recommending to the man?",
@@ -183,7 +170,7 @@
           "src": "2017江苏卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "作者向读者推荐CHRONOLOGICA的方式是什么？"
+          "t": "作者向读者推荐《CHRONOLOGICA》的方式是什么？"
         }
       ]
     },
@@ -191,11 +178,24 @@
       "def": "to advise a particular course of action; to advise sb to do sth 劝告；建议",
       "ex": [
         {
+          "s": "It is believed that today's children and teenagers are consuming three times the recommended level of sugar, putting them at a higher risk of the disease.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "据信，如今的儿童和青少年摄入的糖是建议量的三倍，使他们患该病的风险更高。"
+        },
+        {
+          "s": "It opens/ closes at … There's a… called…It’s… I'd recommend… You can… Listen to student A talking about recycling.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它在……打开/关闭……有一个……叫……这是……我建议……你可以……听听学生A谈论回收。"
+        },
+        {
           "s": "Instead, she recommends applying a well-known concept among nutrition experts called the “Division of Responsibility,” where parents provide a variety of mostly healthy foods to their kids at fixed times, and the kids themselves decide what and how much they want to consume — even if that means occasionally eating more cookies than carrots.",
           "src": "2025浙江1月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
-          "t": "相反，她建议应用营养专家中一个著名的概念，叫做“责任分工”，即父母在固定时间给孩子提供各种大多健康的食物，而孩子自己决定想吃什么、吃多少——即使那意味着偶尔吃的饼干比胡萝卜多。"
+          "t": "相反，她建议采用营养专家中一个知名的理念，叫做“责任分工”：父母在固定时间给孩子提供各种大多健康的食物，而孩子自己决定想吃什么、吃多少——即便这意味着偶尔吃更多饼干而非胡萝卜。"
         },
         {
           "s": "Why does Marie recommend beginners to grow strawberries?",
@@ -209,7 +209,7 @@
           "src": "2019北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2019,
-          "t": "他建议她做一些研究，并与牙医谈谈更健康的糖果应该包含什么成分。"
+          "t": "他建议她做些研究，并和牙医谈谈更健康的糖果应包含什么。"
         },
         {
           "s": "I recommend that you find your way in style.",

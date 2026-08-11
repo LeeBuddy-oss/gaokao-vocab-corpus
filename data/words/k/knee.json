@@ -20,7 +20,7 @@
           "src": "2018上海卷·Section B",
           "cat": "gaokao",
           "year": 2018,
-          "t": "据传，马戛尔尼勋爵拒绝让他的___34___除了弯曲膝盖之外再做更多（即不肯下跪磕头）。",
+          "t": "正如故事所言,麦卡特尼勋爵拒绝了他的  34  的不止是弯膝.",
           "_matched": true
         },
         {
@@ -28,7 +28,7 @@
           "src": "2021全国乙卷·完形填空",
           "cat": "gaokao",
           "year": 2021,
-          "t": "我们有一位女病人刚刚接受了膝盖置换手术。",
+          "t": "我们有一位女病人，她刚做完膝关节置换手术___44___。",
           "_matched": true
         },
         {
@@ -36,7 +36,7 @@
           "src": "2020全国I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "它不太可能导致膝盖损伤。",
+          "t": "它不太可能导致膝盖受伤。",
           "_matched": true
         },
         {
@@ -44,7 +44,7 @@
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
-          "t": "当他们意识到那是个温泉时，水几乎没到膝盖深。",
+          "t": "当他们意识到那是温泉时，水已几乎没到膝盖。",
           "_matched": true
         },
         {
@@ -64,6 +64,19 @@
           "src": "北师大B1 U2",
           "cat": "beishida",
           "t": "教练，我想我不能继续打了，当医生把冰袋放在我膝盖上时，我轻声说。"
+        },
+        {
+          "s": "When we paused to catch our ___48___, Steve got down on one knee.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "当我们停下来喘口气时，Steve单膝跪下。"
+        },
+        {
+          "s": "The wrestler loses if any part of his body above his knee touches the ground.",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "如果摔跤手膝盖以上的任何身体部位触地，他就输了。"
         }
       ]
     },
@@ -82,25 +95,12 @@
       "def": "the top surface of the upper part of the legs when you are sitting down （坐下时）大腿朝上的面",
       "ex": [
         {
-          "s": "When we paused to catch our ___48___, Steve got down on one knee.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当我们停下来喘口气时，Steve单膝跪下。"
-        },
-        {
           "s": "As a result, she says, some of the injuries associated with running, such as runner’s knee, are uncommon among race walkers.",
           "src": "2020全国I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "因此她说，一些与跑步相关的损伤，比如跑步者膝（runner's knee），在竞走者中并不常见。",
+          "t": "但这项运动的奇特形式确实会给脚踝和髋部带来相当大的压力，所以有过此类伤病史的人在选择这项运动时应谨慎。",
           "_matched": true
-        },
-        {
-          "s": "The wrestler loses if any part of his body above his knee touches the ground.",
-          "src": "人教B3 U1",
-          "cat": "renjiao",
-          "t": "如果摔跤手膝盖以上的任何身体部位触地，他就输了。"
         }
       ]
     }

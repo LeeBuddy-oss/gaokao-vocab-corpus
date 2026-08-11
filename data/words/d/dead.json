@@ -13,7 +13,7 @@
           "src": "2020天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "LRAD的噪音像光线一样定向传播，只进入那个人的耳朵，但它并非致命的。"
+          "t": "LRAD发出的噪音像一束光线一样定向传播，只进入那个人的耳朵，但它不会致命。"
         },
         {
           "s": "Shackleton and his men had crossed the Weddell Sea in the Endurance, but doing so in a small boat was considered deadly.",
@@ -25,15 +25,7 @@
     },
     {
       "def": "no longer believed in or aimed for 不再有人相信（或争取）",
-      "ex": [
-        {
-          "s": "The reason for the explosion is not that people have been reproducing like rabbits, but that people have stopped dropping dead like flies.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "爆炸的原因不是人们像兔子一样繁殖，而是人们不再像苍蝇一样成批倒地死亡。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "belonging to the past; no longer practised or fashionable 过时的；已废弃的；不流行的",
@@ -41,14 +33,7 @@
     },
     {
       "def": "finished; not able to be used any more 用完了的；不能再用的",
-      "ex": [
-        {
-          "s": "More than 25 million years old, the Great Barrier Reef is made up of living coral growing on dead coral.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "大堡礁有超过2500万年历史，由生长在死珊瑚上的活珊瑚组成。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "not working because of a lack of power 机器或设备",
@@ -58,7 +43,7 @@
           "src": "2017北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "对机器而言，这一特质既非天生，也非人为引入；而是源于一个简单事实：如果机器“死了”（无法运转），就无法实现其初衷。"
+          "t": "对机器而言，这种品质不是天生的，也不是人类赋予的；它是这样一个简单事实的逻辑结果：如果机器停止运转，它就无法实现其原本的目的。"
         }
       ]
     },
@@ -98,20 +83,13 @@
           "src": "2020全国新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "在这里，枯叶变成树木和其他森林生物的食物。"
+          "t": "它们被称为热带雨林是有原因的！"
         }
       ]
     },
     {
       "def": "outside the playing area 界外的",
-      "ex": [
-        {
-          "s": "It was an area where fishermen were finning, and the sea floor was covered with dead sharks.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "那是一个渔民正在割鳍的地方，海床上铺满了死鲨鱼。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "already dead when arriving at hospital 事故受害者或其他病人",
@@ -128,20 +106,20 @@
           "src": "2017浙江11月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "斯坦利太太大多谈论她已故的丈夫，“斯坦利先生和我今天早上去购物了，”她会说。"
+          "t": "斯坦利太太大多谈论她已故的丈夫：“斯坦利先生和我今天早上去购物了。”她会这么说。"
         },
         {
           "s": "Prince Hamlet is called upon by the supernatural to take revenge upon his uncle, Claudius, who has murdered his brother the king, seized the throne and married the dead king's widow in unseemly haste.",
           "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "超自然力量召唤哈姆雷特王子向叔父克劳狄斯复仇，克劳狄斯谋杀了兄长国王、篡夺王位，并不合时宜地匆匆娶了已故国王的遗孀。"
+          "t": "哈姆雷特王子被超自然力量召唤，要向他的叔叔克劳狄斯复仇，克劳狄斯谋杀了他的国王哥哥，篡夺了王位，又以不体面的匆忙娶了已故国王的遗孀。"
         },
         {
           "s": "We were stuck in the middle of the lake with a dead motor.",
           "src": "2022全国新高考I卷·完形填空",
           "cat": "gaokao",
           "year": 2022,
-          "t": "我们被困在湖中央，马达熄火了。"
+          "t": "我们困在湖中央，马达熄火了。"
         }
       ]
     },
@@ -151,18 +129,37 @@
     },
     {
       "def": "people who have died 死人；死者",
+      "ex": []
+    },
+    {
+      "def": "the state of being dead 死",
       "ex": [
+        {
+          "s": "The reason for the explosion is not that people have been reproducing like rabbits, but that people have stopped dropping dead like flies.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "人口爆炸的原因不是人们像兔子一样繁殖，而是人们不再像苍蝇一样大量死亡。"
+        },
+        {
+          "s": "More than 25 million years old, the Great Barrier Reef is made up of living coral growing on dead coral.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "大堡礁已有超过 2500 万年的历史，由生长在死珊瑚上的活珊瑚构成。"
+        },
+        {
+          "s": "It was an area where fishermen were finning, and the sea floor was covered with dead sharks.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "那是一个渔民正在割鳍的地方，海床上铺满了死鲨鱼。"
+        },
         {
           "s": "The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract.",
           "src": "外研社B5 U4",
           "cat": "waiyan",
-          "t": "在这里奋斗过的勇士们，无论生者还是逝者，都已使这片土地神圣化，远超我们微薄之力所能增减。"
+          "t": "在这里奋斗过的勇士们，无论生死，已使这片土地神圣化了，远非我们微薄之力所能增损。"
         }
       ]
-    },
-    {
-      "def": "the state of being dead 死",
-      "ex": []
     },
     {
       "def": "completely; exactly 完全地；全然地；确实地",

@@ -9,11 +9,11 @@
       "def": "empty, with nothing written, printed or recorded on it 空白的",
       "ex": [
         {
-          "s": "Before getting into the car, I thought I had learned the instructor’s orders, so once I started the car, my mind goes blank.",
-          "src": "2017全国I卷·短文改错",
+          "s": "For the blanks with a given word, fill in each blank with the proper form of the given word; for the other blanks, use one word that best fits each blank.",
+          "src": "2018上海卷·Section A",
           "cat": "gaokao",
-          "t": "在上车之前，我以为已经记住了教练的指令，可一旦发动车子，我的大脑就一片空白。",
-          "year": 2017
+          "t": "对于带有给定单词的空白,在每一个空白中填写给定单词的正确形式;对于其他空白,使用一个最适合每个空白的单词.",
+          "year": 2018
         }
       ]
     },
@@ -51,14 +51,14 @@
           "s": "Directions: Fill in each blank with a proper word chosen from the box.",
           "src": "2018上海卷·Section B",
           "cat": "gaokao",
-          "t": "说明：从方框中选出适当的词填入每个空格。",
+          "t": "说明：从方框中选出合适的词填入每个空白处。",
           "year": 2018
         },
         {
           "s": "Directions: For each blank in the following passage there are four words or phrases marked A, B, C and D.",
           "src": "2018上海卷·Section A",
           "cat": "gaokao",
-          "t": "说明：以下短文每个空格有标为A、B、C、D的四个词或短语。",
+          "t": "说明：在下面短文中的每个空白处，都有标为A、B、C、D的四个单词或短语。",
           "year": 2018
         },
         {
@@ -66,20 +66,6 @@
           "src": "2018上海卷·Section C",
           "cat": "gaokao",
           "t": "用方框中给出的适当句子填入每个空格。",
-          "year": 2018
-        },
-        {
-          "s": "40   The resulting blank space invites you to revise.",
-          "src": "2022全国新高考II卷·七选五",
-          "cat": "gaokao",
-          "t": "40 由此产生的空白空间邀请你去修改。",
-          "year": 2022
-        },
-        {
-          "s": "For the blanks with a given word, fill in each blank with the proper form of the given word; for the other blanks, use one word that best fits each blank.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "t": "对于给出单词的空格，用所给单词的适当形式填空；其他空格，用最适合的一个词填空。",
           "year": 2018
         },
         {
@@ -114,7 +100,22 @@
     },
     {
       "def": "a state of not being able to remember anything （记忆中的）空白，遗忘",
-      "ex": []
+      "ex": [
+        {
+          "s": "Before getting into the car, I thought I had learned the instructor’s orders, so once I started the car, my mind goes blank.",
+          "src": "2017全国I卷·短文改错",
+          "cat": "gaokao",
+          "t": "在上车之前，我以为已经记住了教练的指令，可一旦发动车子，我的大脑就一片空白。",
+          "year": 2017
+        },
+        {
+          "s": "40   The resulting blank space invites you to revise.",
+          "src": "2022全国新高考II卷·七选五",
+          "cat": "gaokao",
+          "t": "40 由此产生的空白空间邀请你去修改。",
+          "year": 2022
+        }
+      ]
     },
     {
       "def": "a cartridge in a gun that contains an explosive but no bullet 空弹",
@@ -123,14 +124,14 @@
           "s": "Fill in each blank with the word or phrase that best fits the context .",
           "src": "2018上海卷·Section A",
           "cat": "gaokao",
-          "t": "用最贴合语境的单词或短语填空。",
+          "t": "当17岁的夸特罗·穆瑟和朋友聚会时，他们不喝啤酒也不和约会对象开车兜风。相反，他们坚持参加攀岩或谈论书籍等适合所有年龄的活动。",
           "year": 2018
         },
         {
           "s": "We yelled at the bear，hit pots hard，and fired blank shotgun shells into the air.",
           "src": "2020浙江7月卷·读后续写",
           "cat": "gaokao",
-          "t": "我们对着熊大喊，用力敲锅，并向空中发射空弹。",
+          "t": "我们对着熊大喊，用力敲打锅，并向空中发射空包弹。",
           "year": 2020
         }
       ]

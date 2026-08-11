@@ -9,12 +9,6 @@
       "def": "a tool or machine with a pointed end for making holes 钻；钻头；钻床；钻机",
       "ex": [
         {
-          "s": "At work, Leon learnt about his trade, which involved much drilling, and he kept a detailed journal of the new skills he acquired.",
-          "src": "译林选必4 U4",
-          "cat": "yilin",
-          "t": "在工作中，Leon学会了他的手艺，这涉及大量的钻孔作业，他详细记录了自己学到的新技能。"
-        },
-        {
           "s": "So much sand fell in Kansas that an oil driller reported digging down 18 feet and finding nothing but dry powder all the way.",
           "src": "译林B3 U4",
           "cat": "yilin",
@@ -25,6 +19,12 @@
           "src": "人教选必2 U4",
           "cat": "renjiao",
           "t": "火车的最初几站之一是在埃德蒙顿，这是阿尔伯塔省的省会，也是加拿大庞大的石油和天然气钻探产业的中心。"
+        },
+        {
+          "s": "The research conducted by these vessels is giving scientists a greater understanding of how the sea bed was formed, as well as helping identify areas for deep-sea drilling, taking deep-sea exploration into a whole new era.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "这些科考船进行的研究让科学家对海床的形成有了更深入的了解，同时也有助于确定深海钻探的区域，将深海探索带入一个全新的时代。"
         }
       ]
     },
@@ -47,7 +47,7 @@
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "（3）在消防演习中，学生们应该______。"
+          "t": "（3）在消防演习中，学生应该     。"
         }
       ]
     },
@@ -69,7 +69,14 @@
     },
     {
       "def": "to make a hole in sth, using a drill 钻（孔）；打（眼）",
-      "ex": []
+      "ex": [
+        {
+          "s": "At work, Leon learnt about his trade, which involved much drilling, and he kept a detailed journal of the new skills he acquired.",
+          "src": "译林选必4 U4",
+          "cat": "yilin",
+          "t": "在工作中，Leon学会了他的手艺，这涉及大量的钻孔作业，他详细记录了自己学到的新技能。"
+        }
+      ]
     },
     {
       "def": "to teach sb to do sth by making them repeat it a lot of times 培训；训练",
@@ -77,14 +84,7 @@
     },
     {
       "def": "to train soldiers to perform military actions 进行军事训练；操练",
-      "ex": [
-        {
-          "s": "The research conducted by these vessels is giving scientists a greater understanding of how the sea bed was formed, as well as helping identify areas for deep-sea drilling, taking deep-sea exploration into a whole new era.",
-          "src": "外研社B7 U5",
-          "cat": "waiyan",
-          "t": "这些科考船进行的研究让科学家对海床的形成有了更深入的了解，同时也有助于确定深海钻探的区域，将深海探索带入一个全新的时代。"
-        }
-      ]
+      "ex": []
     }
   ]
 }

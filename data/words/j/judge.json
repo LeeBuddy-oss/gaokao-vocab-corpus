@@ -20,7 +20,7 @@
           "src": "2020全国新高考I卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
-          "t": "50个荣誉奖：评委将选出最多50名荣誉奖获得者每人将获得一件纪念埃尔哈特最后一次飞行的T恤。",
+          "t": "50个荣誉提名奖：评委将选出最多50名荣誉提名获奖者，每人将获得一件纪念埃尔哈特最后一次飞行的T恤。",
           "_matched": true
         }
       ]
@@ -33,7 +33,7 @@
           "src": "2019天津卷·History Fair Competition",
           "cat": "gaokao",
           "year": 2019,
-          "t": "上午10:00–下午6:00　竞赛与评委评审",
+          "t": "上午10:00–下午6:00 竞赛与评委评审",
           "_matched": true
         }
       ]
@@ -65,7 +65,7 @@
           "src": "2023天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "判断他人意图的能力是拥有“心智理论”的标志，而这曾被认为为人类独有。",
+          "t": "判断他人意图的能力是拥有 \" 思想理论 \" 的一个指标,这种理论曾经被认为是人类特有的。",
           "_matched": true
         },
         {
@@ -80,14 +80,20 @@
           "s": "Duck-billed platypus: The first scientists to examine a preserved platypus body judged it a fake in the late 18th century.",
           "src": "外研社B4 U5",
           "cat": "waiyan",
-          "t": "鸭嘴兽：第一批检查鸭嘴兽标本的科学家在18世纪末断定它是一个假货。",
+          "t": "鸭嘴兽：最早检查一只保存完好的鸭嘴兽标本的科学家在18世纪末判定它是一个伪造品。",
           "_matched": true
         },
         {
           "s": "The saying “Don’t judge a book by its cover” means that we judge the value of something just based on its external appearance.",
           "src": "人教B3 U5",
           "cat": "renjiao",
-          "t": "俗话说不要以封面判断一本书，意思是说我们仅凭外表来判断某物的价值。"
+          "t": "俗话说“不要以貌取人”，意思是不要仅仅根据外表来判断某样东西的价值。"
+        },
+        {
+          "s": "With this in mind, perhaps we should judge a movie in its own right, and not against its original source.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "考虑到这一点，也许我们应该独立判断一部电影，而不是根据其原始来源。"
         }
       ]
     },
@@ -97,14 +103,7 @@
     },
     {
       "def": "to decide the result of a competition; to be the judge in a competition 裁判；评判；担任裁判",
-      "ex": [
-        {
-          "s": "With this in mind, perhaps we should judge a movie in its own right, and not against its original source.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "考虑到这一点，也许我们应该从电影本身来评判它，而不是对照它的原始出处。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to give your opinion about sb, especially when you disapprove of them 评价；鉴定；（尤指）批评，指责",

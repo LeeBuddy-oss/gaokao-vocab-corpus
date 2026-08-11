@@ -11,6 +11,14 @@
     },
     {
       "def": "to make light, a shadow, etc. appear in a particular place 投射（光、影子等）",
+      "ex": []
+    },
+    {
+      "def": "to say, do or suggest sth that makes people doubt sth or think that sb is less honest, good, etc. 使人怀疑；造谣中伤",
+      "ex": []
+    },
+    {
+      "def": "to throw one end of a fishing line into a river, etc. 投（钓线）；抛（钓钩）",
       "ex": [
         {
           "s": "She stopped thinking about the word “mile.” Instead, she focused on reaching the shadow cast on the track by an oak tree up ahead.",
@@ -25,16 +33,7 @@
           "cat": "renjiao",
           "year": "",
           "t": "照片E：你站在____前，它在彩虹中投下你不同的影子。"
-        }
-      ]
-    },
-    {
-      "def": "to say, do or suggest sth that makes people doubt sth or think that sb is less honest, good, etc. 使人怀疑；造谣中伤",
-      "ex": []
-    },
-    {
-      "def": "to throw one end of a fishing line into a river, etc. 投（钓线）；抛（钓钩）",
-      "ex": [
+        },
         {
           "s": "They know not how to swim, They know not how to cast nets.",
           "src": "人教选必4 U5",
@@ -48,6 +47,13 @@
           "cat": "renjiao",
           "year": "",
           "t": "他们不寻找隐藏的珍宝，他们不知如何撒网。"
+        },
+        {
+          "s": "It was the most disastrous space accident ever, and it cast a shadow on people’s hearts.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这是有史以来最灾难性的太空事故,给人们的心灵投下了阴影。"
         }
       ]
     },
@@ -61,19 +67,19 @@
     },
     {
       "def": "if a horse casts a shoe, the shoe comes off by accident （马）踢落（蹄铁）",
-      "ex": [
-        {
-          "s": "It was the most disastrous space accident ever, and it cast a shadow on people’s hearts.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "那是史上最严重的太空事故，在人们心中投下了阴影。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to choose actors to play the different parts in a film/movie, play, etc; to choose an actor to play a particular role 分配角色；选派角色",
-      "ex": []
+      "ex": [
+        {
+          "s": "Even now, to cast white actors as Asian characters is seen as acceptable by film studios.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "即便现在，让白人演员饰演亚洲角色仍被电影制片厂视为可接受。"
+        }
+      ]
     },
     {
       "def": "to describe or present sb/yourself in a particular way 把某人描写成；把某人表现为",
@@ -99,13 +105,6 @@
       "def": "all the people who act in a play or film/movie （一出戏剧或一部电影的）全体演员",
       "ex": [
         {
-          "s": "Even now, to cast white actors as Asian characters is seen as acceptable by film studios.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "即便现在，让白人演员饰演亚洲角色仍被电影制片厂视为可接受。"
-        },
-        {
           "s": "He was in the cast of “Tom Sawyer” when it was first performed and is a Children’s Theatre regular, with five shows to his credit.",
           "src": "2024浙江1月卷·阅读理解A",
           "cat": "gaokao",
@@ -117,7 +116,7 @@
           "src": "2024北京卷",
           "cat": "gaokao",
           "year": 2024,
-          "t": "很快，演员名单____了。"
+          "t": "不久,参演名单为 7 ."
         }
       ]
     },

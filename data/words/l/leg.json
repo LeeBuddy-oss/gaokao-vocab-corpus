@@ -13,14 +13,9 @@
           "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "尽管这是你上山途中唯一不自然的东西，它仍然突出了整个冒险，并提供了一个可以坐下来休息你酸痛双腿的地方。",
+          "t": "尽管它是你上山途中唯一不自然的东西，它仍然突显了整个冒险（第62空），并提供了一个你可以坐下来休息（第63空，ache）双腿的地方。",
           "_matched": true
-        }
-      ]
-    },
-    {
-      "def": "the leg of an animal, especially the top part, cooked and eaten （尤指供食用的）动物的腿，腿肉",
-      "ex": [
+        },
         {
           "s": "I had broken my right leg the night before.",
           "src": "2022天津4月卷",
@@ -36,25 +31,17 @@
           "t": "我的腿把我带到那扇门前，我把它推开了。"
         },
         {
-          "s": "My legs just weren't made to run like his.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的腿生来就不是像他那样跑步的。",
-          "_matched": true
-        },
-        {
           "s": "The train moved on．The little boy was ____5____ awake on his mother's lap，but the woman dropped off to sleep．A moment later，he began to____6____the half-open window—one leg went over it．The man jumped up and ____7____the child just before he fell out．",
           "src": "2021北京卷·完形填空",
           "cat": "gaokao",
           "year": 2021,
-          "t": "火车继续行驶．小男孩____5____醒着坐在妈妈腿上但那位女士睡着了．片刻后他开始____6____弄半开的窗户——一条腿跨了过去．那个男人跳起来在小孩掉下去之前____7____接住了他．"
+          "t": "火车继续前行。小男孩___5___醒着躺在母亲腿上，但女人睡着了。片刻后，他开始___6___那半开的车窗——一条腿已经跨了过去。男子跳起来，在孩子掉出去前___7___了他。"
         },
         {
           "s": "It also helps build strong leg bones.",
           "src": "外研社B2 U3",
           "cat": "waiyan",
-          "t": "它也有助于强健腿部骨骼。"
+          "t": "它还有助于增强腿部骨骼。"
         },
         {
           "s": "By mile two, the tension has moved from my mind to my legs.",
@@ -66,47 +53,26 @@
           "s": "It's a bit hot and sweaty inside the suit, and my legs ache, but it's a lot of fun.",
           "src": "外研社B2 U3",
           "cat": "waiyan",
-          "t": "穿着这套服装里面有点热和出汗，我的腿很疼，但乐趣无穷。"
+          "t": "宇航服里面有点热、有点出汗，我的腿也酸，但很有趣。"
         },
         {
           "s": "It is capable of using GPS technology to travel to different places, with computing technology controlling its “legs”.",
           "src": "外研社B3 U3",
           "cat": "waiyan",
-          "t": "它能够使用GPS技术前往不同的地方，通过计算技术控制它的腿。"
+          "t": "它能够利用GPS技术前往不同地点，由计算技术控制它的“腿”。"
         },
         {
           "s": "Although my legs were tired from walking around the city, I was determined to see the painting, which is often called the “Mona Lisa of the North”.",
           "src": "外研社B4 U4",
           "cat": "waiyan",
-          "t": "虽然我的腿因在城市里走了一整天而疲惫，但我决心要看到那幅画，它常被称为北方的蒙娜丽莎。"
-        }
-      ]
-    },
-    {
-      "def": "the part of a pair of trousers/pants that covers the leg 裤腿",
-      "ex": []
-    },
-    {
-      "def": "one of the long thin parts on the bottom of a table, chair, etc. that support it （桌椅等的）腿",
-      "ex": []
-    },
-    {
-      "def": "having the number or type of legs mentioned 构成形容词",
-      "ex": [
+          "t": "虽然我在城里走来走去腿累了，但我决心要看那幅画，它常被称为'北方的蒙娜丽莎'。"
+        },
         {
           "s": "Now, I ____60____ (suppose) to feel the weight on my legs and sink my dan tian.",
           "src": "2026新高考II卷·语法填空",
           "cat": "gaokao",
           "year": 2026,
           "t": "现在，我____（应该）感受双腿承受的重量，让丹田下沉。"
-        },
-        {
-          "s": "Soon Eva began to breathe hard, with her heart pounding and legs shaking.",
-          "src": "2024浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "很快伊娃开始喘粗气，心跳加速，双腿发抖。",
-          "_matched": true
         },
         {
           "s": "He throws his arms and legs out ____17____ he were flying, his eyes wide with ____18____.",
@@ -122,13 +88,47 @@
           "year": 2020,
           "t": "它们擅长摆动双腿。",
           "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "the leg of an animal, especially the top part, cooked and eaten （尤指供食用的）动物的腿，腿肉",
+      "ex": [
+        {
+          "s": "My legs just weren't made to run like his.",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "正如任何弟弟都会告诉你的那样，有一个哥哥意味着很多时候你要活在别人的阴影下，尤其是当你有一个典型的\"酷\"哥哥时更是如此。",
+          "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "the part of a pair of trousers/pants that covers the leg 裤腿",
+      "ex": []
+    },
+    {
+      "def": "one of the long thin parts on the bottom of a table, chair, etc. that support it （桌椅等的）腿",
+      "ex": []
+    },
+    {
+      "def": "having the number or type of legs mentioned 构成形容词",
+      "ex": [
+        {
+          "s": "Soon Eva began to breathe hard, with her heart pounding and legs shaking.",
+          "src": "2024浙江1月卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "但我对独立的需求驱使我坚持推进我的研究计划。",
+          "_matched": true
         },
         {
           "s": "He stood on his back legs and pushed at the wooden fence posts.",
           "src": "2020浙江7月卷·读后续写",
           "cat": "gaokao",
           "year": 2020,
-          "t": "他后腿站立，推着木栅栏柱。",
+          "t": "恐惧之中Elli和我用尽了我们知道的所有防熊措施。",
           "_matched": true
         }
       ]

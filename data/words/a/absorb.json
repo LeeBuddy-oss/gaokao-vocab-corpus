@@ -58,20 +58,6 @@
           "t": "植树可以帮助减少6 __________ ，因为树木吸收空气中的二氧化碳。"
         },
         {
-          "s": "They also make their own food by absorbing light from the sun.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "它们还通过吸收太阳光来制造自己的食物。"
-        },
-        {
-          "s": "At night, the heat absorbed by the wall during the day warms the cool air, creating a comfortable temperature inside.",
-          "src": "外研社B6 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "在夜间，白天墙壁吸收的热量会使凉爽的空气变暖，从而在室内创造舒适的温度。"
-        },
-        {
           "s": "Scientists at Salk Institute are making use of the natural capacity of plants to absorb carbon dioxide by enhancing their root systems.",
           "src": "2026浙江1月卷·阅读理解D",
           "cat": "gaokao",
@@ -84,6 +70,27 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "雪——已受到气候变暖的威胁——随着气温升高会从大气中吸收不同的化学物质，从而改变它清冷洁净的气味。"
+        },
+        {
+          "s": "Lancom trains your brain to learn efficiently, so you absorb more information while in the app and continue leaning outside of it.",
+          "src": "2020北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "Lancom训练你的大脑高效学习，因此你在应用内吸收更多信息，并在应用外继续学习。"
+        },
+        {
+          "s": "Pay attention to the words and expressions in bold.] Producers absorb water and dissolved nutrients from the soil.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "注意粗体中的单词和表达。生产者从土壤中吸收水分和溶解的养分。"
+        },
+        {
+          "s": "It takes sunscreen about fifteen minutes to start working, and that's plenty of time for your skin to absorb a day's worth of Vitamin D.",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这需要15分钟的防晒霜才能开始工作,那么你的皮肤就有足够的时间吸收一天的维生素D."
         }
       ]
     },
@@ -93,15 +100,7 @@
     },
     {
       "def": "to take sth into the mind and learn or understand it 理解；掌握",
-      "ex": [
-        {
-          "s": "Lancom trains your brain to learn efficiently, so you absorb more information while in the app and continue leaning outside of it.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们直接为学习者服务，不为任何第三方服务。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to interest sb very much so that they pay no attention to anything else 吸引全部注意力；使全神贯注",
@@ -118,7 +117,7 @@
           "src": "2019全国II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
-          "t": "我不教课。\"那么那些烦人的细菌呢？"
+          "t": "『这些孩子如此专注于学习，我只需在旁边看着。』"
         },
         {
           "s": "As soon as the curtain rose, I was absorbed.",
@@ -126,19 +125,27 @@
           "cat": "waiyan",
           "year": "",
           "t": "窗帘一升起，我就全神贯注了。"
-        },
-        {
-          "s": "Pay attention to the words and expressions in bold.] Producers absorb water and dissolved nutrients from the soil.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "注意粗体中的单词和表达。生产者从土壤中吸收水分和溶解的养分。"
         }
       ]
     },
     {
       "def": "to take in and keep heat, light, energy, etc. instead of reflecting it 吸收（热、光、能等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "They also make their own food by absorbing light from the sun.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "它们还通过吸收太阳光来制造自己的食物。"
+        },
+        {
+          "s": "At night, the heat absorbed by the wall during the day warms the cool air, creating a comfortable temperature inside.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "在夜间，白天墙壁吸收的热量会使凉爽的空气变暖，从而在室内创造舒适的温度。"
+        }
+      ]
     },
     {
       "def": "to reduce the effect of a blow, hit, etc. 减轻（打击、碰击等的）作用",
@@ -146,15 +153,7 @@
     },
     {
       "def": "to use up a large supply of sth, especially money or time 耗费，耗去（大量金钱、时间等）",
-      "ex": [
-        {
-          "s": "It takes sunscreen about fifteen minutes to start working, and that's plenty of time for your skin to absorb a day's worth of Vitamin D.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "防晒霜大约需要15分钟才开始起效，而这段时间足够你的皮肤吸收一天所需的维生素D。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to deal with changes, effects, costs, etc. 承受，承担，对付（变化、结果、费用等）",

@@ -34,7 +34,7 @@
           "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2022,
-          "t": "这种技术可以确定司机是否刚刚发过短信、发过邮件或做过纽约免提驾驶法律不允许的其他事情。"
+          "t": "该技术能判断司机是否刚刚发过短信、邮件或做了纽约免提驾驶法所不允许的其他事情。"
         },
         {
           "s": "These universal norms far pre-date the concept of any moralising religion or written law.",
@@ -65,20 +65,35 @@
           "s": "Background information The age of majority is the point at which a child reaches adulthood, as recognised by law.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
-          "t": "背景信息：法定成年年龄是法律认可的儿童进入成年的节点。"
+          "t": "背景资料法律承认，成年年龄是儿童成年的时间点。"
+        },
+        {
+          "s": "If the Textalyzer bill becomes law, he said, \"people are going to be more afraid to put their hands on the cell phone.\"",
+          "src": "2022全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他说，如果Textalyzer法案成为法律，“人们会更不敢把手放在手机上。”"
+        },
+        {
+          "s": "“Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
+          "src": "2025新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“医生从事医学工作，律师从事法律工作，您应该允许自己进行维持植物所需的实践。",
+          "_matched": true
+        },
+        {
+          "s": "The protection by law since 1975.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "自1975年以来的法律保护。"
         }
       ]
     },
     {
       "def": "a particular branch of the law 法规",
       "ex": [
-        {
-          "s": "If the Textalyzer bill becomes law, he said, \"people are going to be more afraid to put their hands on the cell phone.\"",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "以下哪项最能描述美国禁止司机发短信的规定？"
-        },
         {
           "s": "What is Nick’s attitude towards sharing the house with his mother-in -law?",
           "src": "2020全国III卷·阅读理解C",
@@ -96,14 +111,14 @@
           "src": "2020全国II卷·完形填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "\"Nicolo\"，由于意大利的隐私法，他的真实姓名不能___41___向公众透露，___42___在都灵的一家工厂工作了整整一夜。"
+          "t": "“尼科洛”，其真实姓名因意大利隐私法不能___41___于公众，他___42___在都灵一家工厂整夜工作。"
         },
         {
           "s": "Now, several states are moving to tighten laws by adding new regulations for opting out.",
           "src": "2017北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
-          "t": "现在，几个州正通过增加新法规来收紧法律。",
+          "t": "现在，几个州正通过为退出增加新规定来收紧法律。",
           "_matched": true
         },
         {
@@ -118,23 +133,7 @@
     },
     {
       "def": "the study of the law as a subject at university, etc; the profession of being a lawyer 法学；法律学；律师业",
-      "ex": [
-        {
-          "s": "“Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
-          "src": "2025新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "医生行医，律师执业，你们都应该允许……",
-          "_matched": true
-        },
-        {
-          "s": "The protection by law since 1975.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "自1975年以来的法律保护。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "警方；法律机构",
@@ -156,7 +155,7 @@
           "src": "2020全国新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "丛林法则",
+          "t": "丛林法则。",
           "_matched": true
         }
       ]

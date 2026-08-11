@@ -24,7 +24,7 @@
           "s": "Background information Sanxingdui site was the capital of the ancient Shu Kingdom more than 3,000 years ago.",
           "src": "外研社B7 U6",
           "cat": "waiyan",
-          "t": "背景信息：三星堆遗址是三千多年前古代蜀王国的都城。"
+          "t": "背景信息　三星堆遗址是三千多年前古蜀国的都城。"
         },
         {
           "s": "The United Kingdom, Great Britain, Britain, England—many people are confused by what these different names mean.",
@@ -39,6 +39,12 @@
           "year": 2023,
           "t": "人类对动物王国的影响，如狩猎和栖息地破坏，________导致过去三十年某些物种种群数量的减少。",
           "_matched": true
+        },
+        {
+          "s": "It tells the story of the Greek hero Odysseus and his ten-year voyage home to his island kingdom of Ithaca after the Trojan War, which is the subject of The Iliad.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它讲述了希腊英雄奥德修斯在特洛伊战争后历经十年航行、返回他的岛屿王国伊萨卡的故事，这也是《伊利亚特》的主题。"
         }
       ]
     },
@@ -52,14 +58,7 @@
     },
     {
       "def": "one of the five major groups into which all living things are organized 界（生物的五大类别之一）",
-      "ex": [
-        {
-          "s": "It tells the story of the Greek hero Odysseus and his ten-year voyage home to his island kingdom of Ithaca after the Trojan War, which is the subject of The Iliad.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它讲述了希腊英雄奥德修斯的故事，以及他在特洛伊战争（这是《伊利亚特》的主题）之后，历经十年回到他的岛国伊萨卡的航程。"
-        }
-      ]
+      "ex": []
     }
   ]
 }

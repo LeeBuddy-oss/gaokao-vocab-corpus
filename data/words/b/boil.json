@@ -13,7 +13,7 @@
           "src": "外研社B6 U6",
           "cat": "waiyan",
           "year": "",
-          "t": "今天下午我们吃了烂兮兮的煮生菜。"
+          "t": "今天下午我们吃了腐烂的煮生菜。"
         },
         {
           "s": "Ordinary lettuce, spinach and boiled lettuce, that’s all there is.",
@@ -70,38 +70,7 @@
           "cat": "renjiao",
           "year": "",
           "t": "将近200年前，我的曾曾祖母正在熬过又一个严寒的俄罗斯冬天，那时她听说了一种叫“茶炊”（samovar）的新发明，在俄语里意为“自煮器”。"
-        }
-      ]
-    },
-    {
-      "def": "when a kettle, pan, etc. boils or when you boil a kettle, etc., it is heated until the water inside it boils （把壶、锅等里面的水）烧开",
-      "ex": [
-        {
-          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他们把一些米放进一锅水里煮着，同时做做法式吐司。"
         },
-        {
-          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他们把一些米放进一锅水里煮着，同时做做法式吐司。"
-        },
-        {
-          "s": "It’s a traditional Russian water boiler that can also brew tea.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "year": "",
-          "t": "这是一种传统的俄罗斯烧水壶，也能用来煮茶。"
-        }
-      ]
-    },
-    {
-      "def": "to cook or wash sth in boiling water; to be cooked or washed in boiling water 用沸水煮（或烫洗）；被煮（或烫洗）",
-      "ex": [
         {
           "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
           "src": "2025新高考I卷·阅读理解D",
@@ -114,9 +83,39 @@
           "src": "2025新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2025,
-          "t": "15:15-16:45      成人工作坊7月20日"
+          "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
         }
       ]
+    },
+    {
+      "def": "when a kettle, pan, etc. boils or when you boil a kettle, etc., it is heated until the water inside it boils （把壶、锅等里面的水）烧开",
+      "ex": [
+        {
+          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他们把一些米放进一锅水里，然后让它煮着，同时去做法式吐司。"
+        },
+        {
+          "s": "They put some rice into a pot of water and left it to boil while they made the French toast.",
+          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他们把一些米放进一锅水里，然后让它煮着，同时去做法式吐司。"
+        },
+        {
+          "s": "It’s a traditional Russian water boiler that can also brew tea.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "这是一种传统的俄罗斯烧水壶，也能用来煮茶。"
+        }
+      ]
+    },
+    {
+      "def": "to cook or wash sth in boiling water; to be cooked or washed in boiling water 用沸水煮（或烫洗）；被煮（或烫洗）",
+      "ex": []
     },
     {
       "def": "if you boil with anger, etc. or anger, etc. boils inside you, you are very angry 怒火中烧；异常气愤",
