@@ -57,15 +57,6 @@ function bindEvents() {
     const li = e.target.closest('li');
     if (li) { e.preventDefault(); choose(li.dataset.word); }
   });
-  // 释义折叠/展开（事件委托，只绑定一次）
-  $result.addEventListener('click', (e) => {
-    const toggle = e.target.closest('.def-toggle');
-    if (!toggle) return;
-    const def = toggle.closest('.def');
-    const exList = def.querySelector('.ex-list');
-    const isCollapsed = exList.classList.toggle('collapsed');
-    toggle.textContent = isCollapsed ? '▲' : '▼';
-  });
 }
 
 function onInput() {
@@ -883,7 +874,7 @@ function renderEntry(entry, word, mmHtml, fam) {
   }
   defs.forEach((d, idx) => {
     html += `<div class="def" data-def-idx="${idx}">` +
-      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle">▼</span></div>` +
+      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle" onclick="toggleDef(this)">▼</span></div>` +
       (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '') +
       `<div class="ex-list">`;
     const exs = d.ex || [];
@@ -911,6 +902,14 @@ function classify(src) {
   if (src.includes('北师大')) return 'beishida';
   if (src.includes('译林')) return 'yilin';
   return 'gaokao';
+}
+
+// 释义折叠/展开（内联 onclick 调用）
+function toggleDef(el) {
+  const def = el.closest('.def');
+  const exList = def.querySelector('.ex-list');
+  const isCollapsed = exList.classList.toggle('collapsed');
+  el.textContent = isCollapsed ? '▲' : '▼';
 }
 
 /* helpers */
