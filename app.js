@@ -873,9 +873,10 @@ function renderEntry(entry, word, mmHtml, fam) {
     html += `<div class="notfound">该词暂无助记例句。</div>`;
   }
   defs.forEach((d, idx) => {
-    html += `<div class="def">` +
-      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span></div>` +
-      (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '');
+    html += `<div class="def" data-def-idx="${idx}">` +
+      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle">▼</span></div>` +
+      (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '') +
+      `<div class="ex-list">`;
     const exs = d.ex || [];
     if (!exs.length) {
       html += `<div class="def-empty">本义项下暂无例句。</div>`;
@@ -888,9 +889,19 @@ function renderEntry(entry, word, mmHtml, fam) {
         (ex.t ? `<div class="ex-trans">${esc(ex.t)}</div>` : '') +
         `</div>`;
     });
-    html += `</div>`;
+    html += `</div></div>`;
   });
   $result.innerHTML = html;
+
+  // 绑定释义折叠/展开（事件委托）
+  $result.addEventListener('click', (e) => {
+    const toggle = e.target.closest('.def-toggle');
+    if (!toggle) return;
+    const def = toggle.closest('.def');
+    const exList = def.querySelector('.ex-list');
+    const isCollapsed = exList.classList.toggle('collapsed');
+    toggle.textContent = isCollapsed ? '▲' : '▼';
+  });
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 

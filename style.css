@@ -166,6 +166,17 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 }
 .def-empty { font-size: 13px; color: var(--faint); padding: 6px 0 10px; }
 
+/* 释义折叠三角形 */
+.def-toggle {
+  margin-left: 8px;
+  font-size: 10px;
+  color: var(--title);
+  cursor: pointer;
+  user-select: none;
+  transition: transform 0.2s;
+}
+.ex-list.collapsed { display: none; }
+
 .group { margin-bottom: 22px; }
 .group-title {
   display: flex; align-items: center; gap: 10px;
