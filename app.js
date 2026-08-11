@@ -874,7 +874,7 @@ function renderEntry(entry, word, mmHtml, fam) {
   }
   defs.forEach((d, idx) => {
     html += `<div class="def" data-def-idx="${idx}">` +
-      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle" onclick="toggleDef(this)">▲</span></div>` +
+      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle">▲</span></div>` +
       (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '') +
       `<div class="ex-list collapsed">`;
     const exs = d.ex || [];
@@ -892,6 +892,17 @@ function renderEntry(entry, word, mmHtml, fam) {
     html += `</div></div>`;
   });
   $result.innerHTML = html;
+
+  // 绑定释义折叠/展开——直接在每个三角标上绑定，确保可靠
+  $result.querySelectorAll('.def-toggle').forEach(toggle => {
+    toggle.addEventListener('click', function() {
+      const def = this.closest('.def');
+      const exList = def.querySelector('.ex-list');
+      const isCollapsed = exList.classList.toggle('collapsed');
+      this.textContent = isCollapsed ? '▲' : '▼';
+    });
+  });
+
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
