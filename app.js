@@ -873,8 +873,11 @@ function renderEntry(entry, word, mmHtml, fam) {
     html += `<div class="notfound">该词暂无助记例句。</div>`;
   }
   defs.forEach((d, idx) => {
+    // 推断词性：释义以 "to " 开头 → verb，否则 noun
+    const defText = (d.def || '').trim();
+    const pos = defText.toLowerCase().startsWith('to ') ? 'verb' : 'noun';
     html += `<div class="def" data-def-idx="${idx}">` +
-      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-toggle">▲</span></div>` +
+      `<div class="def-title"><span class="def-idx">释义 ${idx + 1}</span><span class="def-pos">[${pos}]</span><span class="def-toggle">▲</span></div>` +
       (d.def ? `<div class="def-text">${esc(d.def)}</div>` : '') +
       `<div class="ex-list collapsed">`;
     const exs = d.ex || [];
