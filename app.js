@@ -57,6 +57,15 @@ function bindEvents() {
     const li = e.target.closest('li');
     if (li) { e.preventDefault(); choose(li.dataset.word); }
   });
+  // 释义折叠/展开（事件委托，只绑定一次）
+  $result.addEventListener('click', (e) => {
+    const toggle = e.target.closest('.def-toggle');
+    if (!toggle) return;
+    const def = toggle.closest('.def');
+    const exList = def.querySelector('.ex-list');
+    const isCollapsed = exList.classList.toggle('collapsed');
+    toggle.textContent = isCollapsed ? '▲' : '▼';
+  });
 }
 
 function onInput() {
@@ -892,16 +901,6 @@ function renderEntry(entry, word, mmHtml, fam) {
     html += `</div></div>`;
   });
   $result.innerHTML = html;
-
-  // 绑定释义折叠/展开（事件委托）
-  $result.addEventListener('click', (e) => {
-    const toggle = e.target.closest('.def-toggle');
-    if (!toggle) return;
-    const def = toggle.closest('.def');
-    const exList = def.querySelector('.ex-list');
-    const isCollapsed = exList.classList.toggle('collapsed');
-    toggle.textContent = isCollapsed ? '▲' : '▼';
-  });
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
