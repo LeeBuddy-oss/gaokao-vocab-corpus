@@ -1,1 +1,110 @@
-{"meta": {"ph": "ˈkʌrənsi; NAmE ˈkɜːrənsi", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the system of money that a country uses 通货；货币", "ex": [{"s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.", "src": "2020全国I卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "最好的书是随着时间推移而不断展开的书。"}, {"s": "What does the underlined word ＂currency＂ in paragraph 4 refer to?", "src": "2020全国I卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "从文中我们可以推断出作者的什么信息？"}, {"s": "“The ability to design, build and export green technologies for producing clean water, clean air and healthy and abundant food is going to be the currency of power in the new century.”", "src": "2018浙江6月卷·阅读理解C", "cat": "gaokao", "year": 2018, "t": "第2段为什么提到汉堡包？"}, {"s": "Bitcoin and other so called crypt currencies have been all over the news lately.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "但值得记住的是我们现在都使用的银行体系只是一个现代发明。"}, {"s": "So while some of the world's first coins were made from a naturally occurring hybrid of gold and silver called electrum, objects other than coins have served as currency, including beads, ivory, livestock, and cowrie shells.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "在整个殖民时期，烟草在弗吉尼亚州、马里兰州和北卡罗来纳州被用来代替硬币或纸币，尽管它在殖民地其他地方以及整个欧洲和英国也被广泛使用"}, {"s": "Once marooned out on their islands, locals needed a currency to use among themselves, and so the shell currency was born.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "就像加密货币一样，也有人认为岛民投资这种货币是明智的，据报道这种货币的价值在过去三十年中有所上升。"}, {"s": "And just like crypto currencies, there are those who think the islanders are smart to invest in this type of money, which is reported to have risen in value over the last three decades.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "只是一张专门印刷的纸和大麻纤维，我们赋予了它价值——而且随着时间的推移可能比那些贝壳更不耐用。"}, {"s": "a factory that produces currency", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "以下哪项可能是这篇文章的最佳标题？"}, {"s": "The Currency Is of Great Use          D.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "今年早些时候，爱达荷州博伊西市的居民惴惴不安地看着这棵城市最古老最高的居民移动了两个街区。"}, {"s": "Have you exchanged foreign currency?", "src": "外研社B2 U5", "cat": "waiyan", "t": "你兑换过外币吗？"}, {"s": "They use the same flag, known as the Union Jack, as well as share the same currency and military defence.", "src": "人教B2 U4", "cat": "renjiao", "t": "他们使用同一面国旗（被称为联合旗），并共享同样的货币和军事防御。"}, {"s": "The shape of jiaozi is also similar to the currency used in ancient China, so it is believed that they will bring wealth and prosperity3.", "src": "北师大B1 U3", "cat": "beishida", "t": "饺子的形状也类似中国古代使用的货币，因此人们相信它们会带来财富和繁荣。"}]}, {"def": "the fact that sth is used or accepted by a lot of people 通用；流行；流传", "ex": [{"s": "Today, on an island in the Pacific, a specific type of shell still serves as currency — and some people there are even hoarding it, just like Bitcoin moguls, convinced that one day, it will make them wealthy beyond imagination.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "\"一条深色贝壳可能换到两罐小金枪鱼，但红色的价值更高，对于红色贝壳，一条可能换到足够养活一个大家庭很长时间的金枪鱼。"}]}]}
+{
+  "meta": {
+    "ph": "ˈkʌrənsi; NAmE ˈkɜːrənsi",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the system of money that a country uses 通货；货币",
+      "ex": [
+        {
+          "s": "What does the underlined word ＂currency＂ in paragraph 4 refer to?",
+          "src": "2020全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "第4段中加下划线的“currency”一词指的是什么？",
+          "year": 2020
+        },
+        {
+          "s": "“The ability to design, build and export green technologies for producing clean water, clean air and healthy and abundant food is going to be the currency of power in the new century.”",
+          "src": "2018浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "“设计、制造和出口用于生产清洁水、清洁空气和健康丰足食物的绿色技术的能力，将成为新世纪的力量货币。”",
+          "year": 2018
+        },
+        {
+          "s": "Bitcoin and other so called crypt currencies have been all over the news lately.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "比特币和其他所谓的加密货币最近占据了新闻头条。",
+          "year": 2018
+        },
+        {
+          "s": "So while some of the world's first coins were made from a naturally occurring hybrid of gold and silver called electrum, objects other than coins have served as currency, including beads, ivory, livestock, and cowrie shells.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "因此，尽管世界上最早的硬币有些由天然金银合金“银金矿”制成，但硬币以外的物品也曾作为货币，包括珠子、象牙、牲畜和贝壳。",
+          "year": 2018
+        },
+        {
+          "s": "Once marooned out on their islands, locals needed a currency to use among themselves, and so the shell currency was born.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "一旦被困在岛上，当地人需要一种内部流通的货币，于是贝壳货币便诞生了。",
+          "year": 2018
+        },
+        {
+          "s": "And just like crypto currencies, there are those who think the islanders are smart to invest in this type of money, which is reported to have risen in value over the last three decades.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "就像加密货币一样，也有人认为岛民投资贝壳是明智的……",
+          "year": 2018
+        },
+        {
+          "s": "a factory that produces currency",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "生产货币的工厂",
+          "year": 2018
+        },
+        {
+          "s": "The Currency Is of Great Use          D.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "货币大有用处 D．",
+          "year": 2018
+        },
+        {
+          "s": "Have you exchanged foreign currency?",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "你兑换过外币吗？",
+          "year": ""
+        },
+        {
+          "s": "They use the same flag, known as the Union Jack, as well as share the same currency and military defence.",
+          "src": "人教B2 U4",
+          "cat": "renjiao",
+          "t": "他们使用同一面国旗（被称为联合旗），并共享同样的货币和军事防御。",
+          "year": ""
+        },
+        {
+          "s": "The shape of jiaozi is also similar to the currency used in ancient China, so it is believed that they will bring wealth and prosperity3.",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "饺子的形状也类似中国古代使用的货币，因此人们相信它们会带来财富和繁荣。",
+          "year": ""
+        },
+        {
+          "s": "Today, on an island in the Pacific, a specific type of shell still serves as currency — and some people there are even hoarding it, just like Bitcoin moguls, convinced that one day, it will make them wealthy beyond imagination.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "t": "今天，在太平洋的一个岛上，一种特定的贝壳仍被当作货币——那里有些人甚至像比特币大亨一样囤积它，坚信有一天它会让他们富得超乎想象。",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "def": "the fact that sth is used or accepted by a lot of people 通用；流行；流传",
+      "ex": [
+        {
+          "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
+          "src": "2020全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "但我想，尽管金钱确实美好且必要，重读一位作者的作品才是读者能给予他们的最高礼遇。",
+          "year": 2020
+        }
+      ]
+    }
+  ]
+}

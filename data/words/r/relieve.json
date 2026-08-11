@@ -1,1 +1,135 @@
-{"meta": {"ph": "rɪˈliːv; NAmE rɪˈliːv", "pos": "verb", "stars": "★"}, "defs": [{"def": "to remove or reduce an unpleasant feeling or pain 解除，减轻，缓和（不快或痛苦）", "ex": [{"s": "Grateful and relieved, Emily accepted the offer.", "src": "2026新高考I卷·读后续写", "cat": "gaokao", "year": 2026, "t": "Emily既感激又松了一口气，接受了他们的提议。"}, {"s": "I'm relieved to know that \"cool\" has a much broader definition than what I used to think.", "src": "2020天津6月卷", "cat": "gaokao", "year": 2020, "t": "我很欣慰地知道，\"酷\"有着比我以前认为的更广泛的含义。"}, {"s": "I’m secretly relieved because I know there’s real power in sharing volunteer responsibilities among many.", "src": "2019全国II卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "我暗自松了一口气，因为我知道在多人之间分担志愿责任是真正有力量的。"}, {"s": "The coach is able to focus on the kids while the other parents are relieved to be off the hook for another season.", "src": "2019全国II卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "教练能够专注于孩子们，而其他家长们则为又一个赛季不用操心而感到轻松。"}, {"s": "In 1963 the UN set up the World Food Programme, one of __________ purposes is to relieve worldwide starvation.", "src": "2017江苏卷", "cat": "gaokao", "year": 2017, "t": "但他很快就发现自己喜欢演奏这种乐器，并且____坚持练习，以至于几个月内他就演奏得相当不错了。"}, {"s": "Big companies could relieve data security pressure.", "src": "2017江苏卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "大公司可以缓解数据安全压力。"}, {"s": "Governments could relieve their financial pressure.", "src": "2017江苏卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "政府可以缓解财政压力。"}, {"s": "Sunlight reflection may relieve global warming.", "src": "2017江苏卷·阅读理解D", "cat": "gaokao", "year": 2017, "t": "阳光反射可能缓解全球变暖。"}]}, {"def": "to make a problem less serious 减轻（问题的严重性）；缓和；缓解", "ex": [{"s": "My mission was to relieve Emma, a Canadian specialist in infectious diseases at the end of her posting.", "src": "外研社B5 U4", "cat": "waiyan", "t": "我的任务是接替艾玛，她是一名加拿大传染病专家，任期即将结束。"}, {"s": "Five years passed away without a single event to relieve the monotonous existence of Eugénie and her father.", "src": "外研社B7 U6", "cat": "waiyan", "t": "五年过去了，没有一件事情能够缓解欧也妮和她父亲单调乏味的生活。"}, {"s": "Meg ran upstairs and soon came back, looking relieved but a little ashamed.", "src": "人教选必3 U5", "cat": "renjiao", "t": "梅格跑上楼，很快就回来了，看起来如释重负但又有点惭愧。"}, {"s": "Happy and relieved to see 15 him, I said nothing about the monster, which by that time had left my house.", "src": "北师大选必3 U9", "cat": "beishida", "t": "看到他我既高兴又松了口气，我没有提那个怪物的事，那时它已经离开了我家。"}, {"s": "Finally, after four long and tiring hours, they came across their parents, who were relieved to see them.", "src": "译林B1 U4", "cat": "yilin", "t": "最后，经过漫长疲劳的四个小时，他们碰到了父母，父母看到他们如释重负。"}]}, {"def": "to make sth less boring, especially by introducing sth different 调剂；使有趣", "ex": []}, {"def": "to replace sb who is on duty 接替；给 … 换班", "ex": []}, {"def": "to free a town, etc. from an enemy army that has surrounded it 将（城镇从敌人的围困中）解围", "ex": []}, {"def": "（去厕所的一种委婉说法）方便，解手", "ex": []}, {"def": "to help sb by taking sth heavy or difficult from them 替 … 拿重物；帮助 … 减轻（负担）", "ex": []}, {"def": "to steal sth from sb 偷窃；窃取", "ex": []}, {"def": "to dismiss sb from a job, position, etc. 开除；解除 … 的职务", "ex": []}]}
+{
+  "meta": {
+    "ph": "rɪˈliːv; NAmE rɪˈliːv",
+    "pos": "verb",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "to remove or reduce an unpleasant feeling or pain 解除，减轻，缓和（不快或痛苦）",
+      "ex": [
+        {
+          "s": "Grateful and relieved, Emily accepted the offer.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "Emily既感激又松了一口气，接受了他们的提议。"
+        },
+        {
+          "s": "I'm relieved to know that \"cool\" has a much broader definition than what I used to think.",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我很欣慰地知道，\"酷\"有着比我以前认为的更广泛的含义。"
+        },
+        {
+          "s": "I’m secretly relieved because I know there’s real power in sharing volunteer responsibilities among many.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我暗自松了一口气，因为我知道在多人之间分担志愿责任是真正有力量的。"
+        },
+        {
+          "s": "The coach is able to focus on the kids while the other parents are relieved to be off the hook for another season.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "教练能够专注于孩子们，而其他家长们则为又一个赛季不用操心而感到轻松。"
+        },
+        {
+          "s": "In 1963 the UN set up the World Food Programme, one of __________ purposes is to relieve worldwide starvation.",
+          "src": "2017江苏卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "1963年联合国设立了世界粮食计划署，其目的之一是缓解全球的饥饿。"
+        },
+        {
+          "s": "Meg ran upstairs and soon came back, looking relieved but a little ashamed.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "梅格跑上楼，很快就回来了，看起来如释重负但又有点惭愧。"
+        },
+        {
+          "s": "Happy and relieved to see 15 him, I said nothing about the monster, which by that time had left my house.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "看到他我既高兴又松了口气，我没有提那个怪物的事，那时它已经离开了我家。"
+        },
+        {
+          "s": "Finally, after four long and tiring hours, they came across their parents, who were relieved to see them.",
+          "src": "译林B1 U4",
+          "cat": "yilin",
+          "t": "最后，经过漫长疲劳的四个小时，他们碰到了父母，父母看到他们如释重负。"
+        }
+      ]
+    },
+    {
+      "def": "to make a problem less serious 减轻（问题的严重性）；缓和；缓解",
+      "ex": [
+        {
+          "s": "Big companies could relieve data security pressure.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "大公司可以缓解数据安全压力。"
+        },
+        {
+          "s": "Governments could relieve their financial pressure.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "政府可以缓解财政压力。"
+        },
+        {
+          "s": "Sunlight reflection may relieve global warming.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "阳光反射可能缓解全球变暖。"
+        }
+      ]
+    },
+    {
+      "def": "to make sth less boring, especially by introducing sth different 调剂；使有趣",
+      "ex": [
+        {
+          "s": "Five years passed away without a single event to relieve the monotonous existence of Eugénie and her father.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "五年过去了，没有一件事情能够缓解欧也妮和她父亲单调乏味的生活。"
+        }
+      ]
+    },
+    {
+      "def": "to replace sb who is on duty 接替；给 … 换班",
+      "ex": [
+        {
+          "s": "My mission was to relieve Emma, a Canadian specialist in infectious diseases at the end of her posting.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "我的任务是接替艾玛，她是一名加拿大传染病专家，任期即将结束。"
+        }
+      ]
+    },
+    {
+      "def": "to free a town, etc. from an enemy army that has surrounded it 将（城镇从敌人的围困中）解围",
+      "ex": []
+    },
+    {
+      "def": "（去厕所的一种委婉说法）方便，解手",
+      "ex": []
+    },
+    {
+      "def": "to help sb by taking sth heavy or difficult from them 替 … 拿重物；帮助 … 减轻（负担）",
+      "ex": []
+    },
+    {
+      "def": "to steal sth from sb 偷窃；窃取",
+      "ex": []
+    },
+    {
+      "def": "to dismiss sb from a job, position, etc. 开除；解除 … 的职务",
+      "ex": []
+    }
+  ]
+}

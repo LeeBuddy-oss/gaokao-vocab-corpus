@@ -1,1 +1,105 @@
-{"meta": {"ph": "ˈprɒfɪt; NAmE ˈprɑːfɪt", "pos": "noun", "stars": "★"}, "defs": [{"def": "the money that you make in business or by selling things, especially after paying the costs involved 利润；收益；赢利", "ex": [{"s": "Its profits will decline.", "src": "2024新高考II卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "它的利润会下降。"}, {"s": "Instead, all that matters is next quarter’s profit, or satisfying some other near-term desires.", "src": "2023北京卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "相反，重要的只是下个季度的利润，或满足某些其他近期欲望。"}, {"s": "To earn profits for the crews.", "src": "2022全国乙卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "加速交通运输。"}, {"s": "It helps to provide healthy alternatives to sugary drinks; and also Tom donates part of the profits to the Organisation for a Healthier Generation (OHG).", "src": "2022北京卷·书面表达", "cat": "gaokao", "year": 2022, "t": "它有助于提供含糖饮料的健康替代品；Tom还将部分利润捐赠给更健康一代组织（OHG）。"}, {"s": "Tom is most proud of the opportunities that Fun Bottle presents to others because he not only provides healthy alternatives to sugary drinks but also donates all the profits to the OHG.", "src": "2022北京卷·书面表达", "cat": "gaokao", "year": 2022, "t": "Tom最引以为豪Fun Bottle为他人的带来机会是因为他不仅提供了含糖饮料的健康替代品，还将所有利润捐赠给了OHG。"}, {"s": "In the past ten years, one percent of our company’s profits ____ given to local charities.", "src": "2022天津4月卷·单项选择", "cat": "gaokao", "year": 2022, "t": "在过去十年中，我们公司百分之一的利润____捐给了当地慈善机构。"}, {"s": "Although she founded her company early on in life, she wasn't driven primarily by profit.", "src": "2019北京卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "摩尔对她创造的糖果充满热情，对未来也持积极态度。"}, {"s": "She donates 10% of AilicCandy's profits to Big Smiles.", "src": "2019北京卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "与此同时，在父母的帮助下，摩尔基本上能够过上正常的青少年生活。"}]}, {"def": "the advantage that you get from doing sth 好处；利益；裨益", "ex": [{"s": "It is an independent, non-profit organisation whose mission is to provide medical care to those affected by conflict, epidemics, disasters or a lack of access to health care.", "src": "外研社B5 U4", "cat": "waiyan", "t": "它是一个独立的非营利组织，其使命是为受冲突、流行病、灾难或缺乏医疗服务影响的人们提供医疗护理。"}, {"s": "Hunters were shooting antelopes to make profits.", "src": "人教B2 U2", "cat": "renjiao", "t": "猎人们为了牟利而猎杀羚羊。"}, {"s": "Finally, the company— by its new manager—started to make a profit.", "src": "人教选必2 U4", "cat": "renjiao", "t": "最后，这家公司——在其新经理的领导下——开始盈利。"}, {"s": "The profits from the farm were then used to pay for the education of poor children.", "src": "人教选必3 U5", "cat": "renjiao", "t": "农场的利润随后被用来支付贫困儿童的教育费用。"}, {"s": "Invited Talk ANon-Profit OrganisationIAdmire Presenter:Dr.ChenLan Time: 2 pm Friday, 10 April Place: The Meeting Hall Organiser: The Student Union, No.", "src": "北师大B3 U8", "cat": "beishida", "t": "受邀演讲 我敬佩的一个非营利组织 演讲人：陈兰博士 时间：4月10日周五下午2点 地点：会议厅 组织者：学生会，______号"}]}]}
+{
+  "meta": {
+    "ph": "ˈprɒfɪt; NAmE ˈprɑːfɪt",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the money that you make in business or by selling things, especially after paying the costs involved 利润；收益；赢利",
+      "ex": [
+        {
+          "s": "Its profits will decline.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它的利润会下降。"
+        },
+        {
+          "s": "Instead, all that matters is next quarter’s profit, or satisfying some other near-term desires.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "相反，重要的只是下个季度的利润，或满足某些其他近期欲望。"
+        },
+        {
+          "s": "To earn profits for the crews.",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "加速交通运输。"
+        },
+        {
+          "s": "It helps to provide healthy alternatives to sugary drinks; and also Tom donates part of the profits to the Organisation for a Healthier Generation (OHG).",
+          "src": "2022北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它有助于提供含糖饮料的健康替代品；Tom还将部分利润捐赠给更健康一代组织（OHG）。"
+        },
+        {
+          "s": "Tom is most proud of the opportunities that Fun Bottle presents to others because he not only provides healthy alternatives to sugary drinks but also donates all the profits to the OHG.",
+          "src": "2022北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Tom最引以为豪Fun Bottle为他人的带来机会是因为他不仅提供了含糖饮料的健康替代品，还将所有利润捐赠给了OHG。"
+        },
+        {
+          "s": "In the past ten years, one percent of our company’s profits ____ given to local charities.",
+          "src": "2022天津4月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在过去十年中，我们公司百分之一的利润____捐给了当地慈善机构。"
+        },
+        {
+          "s": "Although she founded her company early on in life, she wasn't driven primarily by profit.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "摩尔对她创造的糖果充满热情，对未来也持积极态度。"
+        },
+        {
+          "s": "She donates 10% of AilicCandy's profits to Big Smiles.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "与此同时，在父母的帮助下，摩尔基本上能够过上正常的青少年生活。"
+        }
+      ]
+    },
+    {
+      "def": "the advantage that you get from doing sth 好处；利益；裨益",
+      "ex": [
+        {
+          "s": "It is an independent, non-profit organisation whose mission is to provide medical care to those affected by conflict, epidemics, disasters or a lack of access to health care.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "它是一个独立的非营利组织，其使命是为受冲突、流行病、灾难或缺乏医疗服务影响的人们提供医疗护理。"
+        },
+        {
+          "s": "Hunters were shooting antelopes to make profits.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "猎人们为了牟利而猎杀羚羊。"
+        },
+        {
+          "s": "Finally, the company— by its new manager—started to make a profit.",
+          "src": "人教选必2 U4",
+          "cat": "renjiao",
+          "t": "最后，这家公司——在其新经理的领导下——开始盈利。"
+        },
+        {
+          "s": "The profits from the farm were then used to pay for the education of poor children.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "农场的利润随后被用来支付贫困儿童的教育费用。"
+        },
+        {
+          "s": "Invited Talk ANon-Profit OrganisationIAdmire Presenter:Dr.ChenLan Time: 2 pm Friday, 10 April Place: The Meeting Hall Organiser: The Student Union, No.",
+          "src": "北师大B3 U8",
+          "cat": "beishida",
+          "t": "受邀演讲 我敬佩的一个非营利组织 演讲人：陈兰博士 时间：4月10日周五下午2点 地点：会议厅 组织者：学生会，______号"
+        }
+      ]
+    }
+  ]
+}

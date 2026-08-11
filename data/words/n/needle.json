@@ -1,1 +1,73 @@
-{"meta": {"ph": "ˈniːdl; NAmE ˈniːdl", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other 针；缝衣针", "ex": [{"s": "Needless to say, I didn't look forward to an entire term of being brushed off, but I tried to make the best of it and didn't say anything for fear that I would make things worse.", "src": "2022浙江1月卷·读后续写", "cat": "gaokao", "year": 2022, "t": "不用说，我不期待整个学期都被这样冷落，但我试图尽量往好处想，因为害怕会使情况恶化而什么也没说。"}]}, {"def": "a long thin piece of plastic or metal with a point at one end that you use for knitting. You usually use two together. 编织针", "ex": [{"s": "Meanwhile, a woman at the next stand was using a needle and some thread to do some 3________.", "src": "外研社B3 U4", "cat": "waiyan", "t": "与此同时，隔壁摊位的一个女人正在用针线做一些________。"}, {"s": "After (arrive), the ambulance team quickly found Mrs Taylor and without delay gave her oxygen, put in an IV needle, and checked her vital signs.", "src": "人教选必2 U5", "cat": "renjiao", "t": "______（到达）后，救护车小组迅速找到了泰勒夫人，毫不拖延地给她吸氧、插入静脉注射针，并检查了她的生命体征。"}, {"s": "Tina phoned the emergency services and told them what she (justsee).AdoctorfromtheAmbulanceService4 (tell) Tina that he 5 (send) an ambulance, but in the meantime she should look for a needle with insulin in the teacher's bag.", "src": "北师大选必1 U1", "cat": "beishida", "t": "蒂娜打电话给急救中心，告诉他们她______的情况。急救中心的一名医生______蒂娜，他______一辆救护车，但在此期间她应该在老师的包里找含有胰岛素的针头。"}, {"s": "Having found the needle, Tina did what the doctor 6 (tell) her - to inject her teacher in the leg.And because she 7 (do) everything she could before the ambulance (arrive), her teacher was saved.", "src": "北师大选必1 U1", "cat": "beishida", "t": "找到针头后，蒂娜按医生______她做的——在她老师的大腿上注射。因为她在救护车______之前尽了她所能的一切，她的老师得救了。"}]}, {"def": "a very thin, pointed piece of steel used on the end of a syringe for putting a drug into sb's body, or for taking blood out of it 注射针；针头", "ex": [{"s": "Very thin needles are put in certain parts of a person’s body.", "src": "人教选必2 U5", "cat": "renjiao", "t": "非常细的针被扎入人体某些部位。"}]}, {"def": "a thin piece of metal on a scientific instrument that moves to point to the correct measurement or direction 指针", "ex": []}, {"def": "the thin, hard, pointed leaf of a pine tree 松针；针叶", "ex": []}, {"def": "the very small pointed piece of metal that touches a record that is being played in order to produce the sound 唱针；磁针", "ex": []}]}
+{
+  "meta": {
+    "ph": "ˈniːdl; NAmE ˈniːdl",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a small thin piece of steel that you use for sewing, with a point at one end and a hole for the thread at the other 针；缝衣针",
+      "ex": [
+        {
+          "s": "Needless to say, I didn't look forward to an entire term of being brushed off, but I tried to make the best of it and didn't say anything for fear that I would make things worse.",
+          "src": "2022浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "不用说，我不期待整个学期都被这样冷落，但我试图尽量往好处想，因为害怕会使情况恶化而什么也没说。"
+        }
+      ]
+    },
+    {
+      "def": "a long thin piece of plastic or metal with a point at one end that you use for knitting. You usually use two together. 编织针",
+      "ex": [
+        {
+          "s": "Meanwhile, a woman at the next stand was using a needle and some thread to do some 3________.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "与此同时，隔壁摊位的一个女人正在用针线做一些________。"
+        },
+        {
+          "s": "After (arrive), the ambulance team quickly found Mrs Taylor and without delay gave her oxygen, put in an IV needle, and checked her vital signs.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "______（到达）后，救护车小组迅速找到了泰勒夫人，毫不拖延地给她吸氧、插入静脉注射针，并检查了她的生命体征。"
+        },
+        {
+          "s": "Tina phoned the emergency services and told them what she (justsee).AdoctorfromtheAmbulanceService4 (tell) Tina that he 5 (send) an ambulance, but in the meantime she should look for a needle with insulin in the teacher's bag.",
+          "src": "北师大选必1 U1",
+          "cat": "beishida",
+          "t": "蒂娜打电话给急救中心，告诉他们她______的情况。急救中心的一名医生______蒂娜，他______一辆救护车，但在此期间她应该在老师的包里找含有胰岛素的针头。"
+        },
+        {
+          "s": "Having found the needle, Tina did what the doctor 6 (tell) her - to inject her teacher in the leg.And because she 7 (do) everything she could before the ambulance (arrive), her teacher was saved.",
+          "src": "北师大选必1 U1",
+          "cat": "beishida",
+          "t": "找到针头后，蒂娜按医生______她做的——在她老师的大腿上注射。因为她在救护车______之前尽了她所能的一切，她的老师得救了。"
+        }
+      ]
+    },
+    {
+      "def": "a very thin, pointed piece of steel used on the end of a syringe for putting a drug into sb's body, or for taking blood out of it 注射针；针头",
+      "ex": [
+        {
+          "s": "Very thin needles are put in certain parts of a person’s body.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "非常细的针被扎入人体某些部位。"
+        }
+      ]
+    },
+    {
+      "def": "a thin piece of metal on a scientific instrument that moves to point to the correct measurement or direction 指针",
+      "ex": []
+    },
+    {
+      "def": "the thin, hard, pointed leaf of a pine tree 松针；针叶",
+      "ex": []
+    },
+    {
+      "def": "the very small pointed piece of metal that touches a record that is being played in order to produce the sound 唱针；磁针",
+      "ex": []
+    }
+  ]
+}

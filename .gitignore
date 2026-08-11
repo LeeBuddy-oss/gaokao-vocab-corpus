@@ -1,0 +1,14 @@
+# Temporary repair files
+_mod.txt
+_mod_backup_destroyed.txt
+_repair_batches/
+__pycache__/
+*.pyc
+_extract_pairs.py
+_apply_fixes.py
+_fix*.py
+_corrections.json
+_dump/
+_food_dump.txt
+_it_flag.json
+_it_wh.txt

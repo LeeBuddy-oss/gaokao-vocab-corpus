@@ -1,1 +1,122 @@
-{"meta": {"ph": "leŋθ; NAmE leŋθ", "pos": "noun", "stars": "★"}, "defs": [{"def": "the size or measurement of sth from one end to the other 长；长度", "ex": [{"s": "When it came to faking a review, length was important to believability, as was detail.", "src": "2026浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "在伪造评论时，篇幅对可信度很重要，细节也是如此。"}, {"s": "Length of Loans", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "我让我的线条画变成卡通画发给朋友们。"}, {"s": "“You choose which length you want and it gives you a receipt-like short story.”", "src": "2024新高考II卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "“你选择想要的长度，它就会给你一篇像收据一样的短篇故事。”"}, {"s": "The traffic signals along Factoria Boulevard in Bellevue, Washington, generally don't flash the same length of green twice in a row, especially at rush hour.", "src": "2020浙江7月卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "华盛顿州贝尔维尤市法克托里亚大道上的交通信号灯通常不会连续两次亮相同时长的绿灯，尤其是在高峰时段。"}, {"s": "Increased length of green lights.", "src": "2020浙江7月卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "绿灯时间延长。"}]}, {"def": "the amount of time that sth lasts （持续）时间的长短", "ex": [{"s": "The length of cooling time.", "src": "2025新高考I卷·阅读理解D", "cat": "gaokao", "year": 2025, "t": "了解健康生活。"}]}, {"def": "the amount of writing in a book, or a document, etc; the amount of time that a film/movie lasts （书或文件等的）篇幅；（电影的）片长", "ex": []}, {"def": "having the length mentioned 构成形容词", "ex": []}, {"def": "the distance from one end of a swimming pool to the other 游泳池长度（一端至另一端的距离）", "ex": [{"s": "These two countries are joined by the Channel Tunnel, a rail tunnel with a length of about 50 kilometres, most of which is under the sea.", "src": "外研社B1 U6", "cat": "waiyan", "t": "这两个国家由英吉利海峡隧道连接，这是一条长约50公里的铁路隧道，大部分位于海底下。"}, {"s": "By contrast, the largest animal species so far found on our planet is the blue whale, which can grow up to almost 30 metres in length and weigh over 130,000 kilos.", "src": "外研社B4 U5", "cat": "waiyan", "t": "相比之下，我们星球上迄今为止发现的最大动物物种是蓝鲸，它可以长到近30米长，重达13万公斤以上。"}, {"s": "They have an average length of about 18 cm and an average weight of about 31–41 g.", "src": "外研社B5 U6", "cat": "waiyan", "t": "它们的平均长度约为18厘米，平均重量约为31-41克。"}, {"s": "It is perhaps the longest species of monkey and also one of the heaviest: a male’s body length can reach 50–115 cm, with a tail length of 45–84 cm, while it can weigh 21– 45 kg; a female’s body weight can range 12–25 kg.", "src": "外研社B5 U6", "cat": "waiyan", "t": "它可能是最长的猴类物种，也是最重的之一：雄性的体长可达50-115厘米，尾长45-84厘米，体重可达21-45公斤；雌性的体重范围是12-25公斤。"}, {"s": "An extended metaphor refers to a comparison between two things that is developed at length over many lines of text, or throughout an entire work of literature.", "src": "外研社B6 U5", "cat": "waiyan", "t": "扩展隐喻指的是两个事物之间在文本的许多行或整部文学作品中展开的长篇比较。"}]}, {"def": "the size of a horse or boat from one end to the other, when it is used to measure the distance between two horses or boats taking part in a race （马或船的）自身长度", "ex": []}, {"def": "a long thin piece of sth 细长的一段（或一节、一根等）", "ex": []}, {"def": "for a long time and in detail 长时间；详尽地", "ex": []}, {"def": "after a long time 经过一段长时间以后；最后", "ex": []}]}
+{
+  "meta": {
+    "ph": "leŋθ; NAmE leŋθ",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the size or measurement of sth from one end to the other 长；长度",
+      "ex": [
+        {
+          "s": "When it came to faking a review, length was important to believability, as was detail.",
+          "src": "2026浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在伪造评论时，篇幅对可信度很重要，细节也是如此。"
+        },
+        {
+          "s": "Length of Loans",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "贷款期限。",
+          "_matched": true
+        },
+        {
+          "s": "“You choose which length you want and it gives you a receipt-like short story.”",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "“你选择想要的长度，它就会给你一篇像收据一样的短篇故事。”"
+        },
+        {
+          "s": "The traffic signals along Factoria Boulevard in Bellevue, Washington, generally don't flash the same length of green twice in a row, especially at rush hour.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "华盛顿州贝尔维尤市法克托里亚大道上的交通信号灯通常不会连续两次亮相同时长的绿灯，尤其是在高峰时段。"
+        },
+        {
+          "s": "Increased length of green lights.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "绿灯时间延长。"
+        }
+      ]
+    },
+    {
+      "def": "the amount of time that sth lasts （持续）时间的长短",
+      "ex": [
+        {
+          "s": "The length of cooling time.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "冷却时间的长度。",
+          "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "the amount of writing in a book, or a document, etc; the amount of time that a film/movie lasts （书或文件等的）篇幅；（电影的）片长",
+      "ex": []
+    },
+    {
+      "def": "having the length mentioned 构成形容词",
+      "ex": []
+    },
+    {
+      "def": "the distance from one end of a swimming pool to the other 游泳池长度（一端至另一端的距离）",
+      "ex": [
+        {
+          "s": "These two countries are joined by the Channel Tunnel, a rail tunnel with a length of about 50 kilometres, most of which is under the sea.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这两个国家由英吉利海峡隧道连接，这是一条长约50公里的铁路隧道，大部分位于海底下。"
+        },
+        {
+          "s": "By contrast, the largest animal species so far found on our planet is the blue whale, which can grow up to almost 30 metres in length and weigh over 130,000 kilos.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "相比之下，我们星球上迄今为止发现的最大动物物种是蓝鲸，它可以长到近30米长，重达13万公斤以上。"
+        },
+        {
+          "s": "They have an average length of about 18 cm and an average weight of about 31–41 g.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "它们的平均长度约为18厘米，平均重量约为31-41克。"
+        },
+        {
+          "s": "It is perhaps the longest species of monkey and also one of the heaviest: a male’s body length can reach 50–115 cm, with a tail length of 45–84 cm, while it can weigh 21– 45 kg; a female’s body weight can range 12–25 kg.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "它可能是最长的猴类物种，也是最重的之一：雄性的体长可达50-115厘米，尾长45-84厘米，体重可达21-45公斤；雌性的体重范围是12-25公斤。"
+        },
+        {
+          "s": "An extended metaphor refers to a comparison between two things that is developed at length over many lines of text, or throughout an entire work of literature.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "扩展隐喻指的是两个事物之间在文本的许多行或整部文学作品中展开的长篇比较。"
+        }
+      ]
+    },
+    {
+      "def": "the size of a horse or boat from one end to the other, when it is used to measure the distance between two horses or boats taking part in a race （马或船的）自身长度",
+      "ex": []
+    },
+    {
+      "def": "a long thin piece of sth 细长的一段（或一节、一根等）",
+      "ex": []
+    },
+    {
+      "def": "for a long time and in detail 长时间；详尽地",
+      "ex": []
+    },
+    {
+      "def": "after a long time 经过一段长时间以后；最后",
+      "ex": []
+    }
+  ]
+}

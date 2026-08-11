@@ -1,1 +1,161 @@
-{"meta": {"ph": "ˈsɪmbl; NAmE ˈsɪmbl", "pos": "noun", "stars": ""}, "defs": [{"def": "a person, an object, an event, etc. that represents a more general quality or situation 象征", "ex": [{"s": "As a symbol of the glorious history of Chinese civilization, the Forbidden City _________ the cultural memory of the country.", "src": "2024天津3月卷·一、单项填空", "cat": "gaokao", "year": 2024, "t": "导师和作者在经历多次失败后采取了什么解决方案？"}, {"s": "They are a symbol of American culture.", "src": "2023全国甲卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "它们是美国文化的象征。"}, {"s": "A computer works with symbols.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "计算机处理符号。"}, {"s": "Its program specifies a set of rules to transform one string of symbols into another.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "其程序指定了一套规则，将一个符号串转换为另一个符号串。"}, {"s": "But it does not specify what those symbols mean.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "但它并没有指定这些符号的含义。"}, {"s": "Humans, in thinking, talking, reading and writing, also work with symbols.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "人类在思考、交谈、阅读和写作时也使用符号。"}, {"s": "What matters is not just the outside of a string of symbols, but the inside too, not just how they are arranged but what they mean.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "重要的不仅是符号串的外表，还有内在；不仅是它们的排列方式，还有它们的含义。"}, {"s": "Social interaction is key to understanding symbols.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "社会互动是理解符号的关键。"}, {"s": "His face is almost the international symbol for genius.", "src": "2021全国甲卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "但我们要超越一个人去探索天才的本质本身。"}, {"s": "What is an advantage of using symbols in note-taking?", "src": "2020卷", "cat": "gaokao", "year": 2020, "t": "它能保密信息。"}, {"s": "What is an advantage of using symbols in note-taking?", "src": "2020全国新高考II卷·读后续写", "cat": "gaokao", "year": 2020, "t": "它能保密信息。"}, {"s": "English flag as a symbol of hope.", "src": "2020全国I卷", "cat": "gaokao", "year": 2020, "t": "英国历来最喜欢的运动。"}, {"s": "Oranges: Orange trees are more ___64___ decoration; they are a symbol of good fortune and wealth.", "src": "2020全国II卷·完形填空", "cat": "gaokao", "year": 2020, "t": "橙子：橙树更多的是一种___64___装饰品；它们是好运和财富的象征。"}, {"s": "What is an advantage of using symbols in note-taking?", "src": "2020浙江卷", "cat": "gaokao", "year": 2020, "t": "它能保密信息。"}, {"s": "As cultural symbols go, the American car is quite young.", "src": "2018浙江6月卷·阅读理解C", "cat": "gaokao", "year": 2018, "t": "第二个月只生产了十一辆汽车。"}, {"s": "The red-crowned crane is a symbol of long life and good luck in Chinese culture.", "src": "外研社B1 U5", "cat": "waiyan", "t": "丹顶鹤在中国文化中是长寿和好运的象征。"}, {"s": "The production was full of colours and romantic symbols, and challenged my senses in new ways.", "src": "外研社B2 U4", "cat": "waiyan", "t": "这场演出充满色彩和浪漫的意象，以全新的方式冲击着我的感官。"}, {"s": "Using symbols and abbreviations can allow you to take notes more quickly.", "src": "外研社B3 U5", "cat": "waiyan", "t": "使用符号和缩写能让你更快地做笔记。"}, {"s": "The Tramp is a symbol of the silent cinema and even after so many years, he is still able to make people laugh.", "src": "外研社B4 U1", "cat": "waiyan", "t": "“流浪汉”形象是无声电影的象征，即便过了这么多年，他依然能让人发笑。"}, {"s": "Emojis are small symbols representing ideas, emotions or feelings.", "src": "外研社B5 U3", "cat": "waiyan", "t": "表情符号是代表想法、情绪或感受的小图标。"}]}, {"def": "a sign, number, letter, etc. that has a fixed meaning, especially in science, mathematics and music 符号；代号；记号", "ex": [{"s": "Meaning emerges through a process of social interaction, not of computation, interaction that shapes the content of the symbols in our heads.", "src": "2023浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "意义通过社会互动的过程产生，而非计算过程——这种互动塑造了我们头脑中符号的内容。"}]}]}
+{
+ "meta": {
+  "ph": "ˈsɪmbl; NAmE ˈsɪmbl",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a person, an object, an event, etc. that represents a more general quality or situation 象征",
+   "ex": [
+    {
+     "s": "As a symbol of the glorious history of Chinese civilization, the Forbidden City _________ the cultural memory of the country.",
+     "src": "2024天津3月卷·一、单项填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作为中华文明辉煌历史的象征,紫禁城          国文化记忆."
+    },
+    {
+     "s": "They are a symbol of American culture.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它们是美国文化的象征。"
+    },
+    {
+     "s": "His face is almost the international symbol for genius.",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他的脸几乎是天才的国际象征."
+    },
+    {
+     "s": "English flag as a symbol of hope.",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "英国国旗作为希望的象征."
+    },
+    {
+     "s": "Oranges: Orange trees are more ___64___ decoration; they are a symbol of good fortune and wealth.",
+     "src": "2020全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "橘子:橘子树更是  64  装饰;它们象征着好运和财富."
+    },
+    {
+     "s": "The red-crowned crane is a symbol of long life and good luck in Chinese culture.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "红衣鹤是中国文化中长寿和好运的象征."
+    },
+    {
+     "s": "The production was full of colours and romantic symbols, and challenged my senses in new ways.",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "制作中充满了色彩和浪漫的象征,并以新的方式挑战了我的感官."
+    },
+    {
+     "s": "The Tramp is a symbol of the silent cinema and even after so many years, he is still able to make people laugh.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "流浪汉是无声电影的象征，即使经过这么多年，他仍然能够让人们发笑。"
+    }
+   ]
+  },
+  {
+   "def": "a sign, number, letter, etc. that has a fixed meaning, especially in science, mathematics and music 符号；代号；记号",
+   "ex": [
+    {
+     "s": "A computer works with symbols.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "一台电脑有符号"
+    },
+    {
+     "s": "Its program specifies a set of rules to transform one string of symbols into another.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它的程序指定了一套规则来将一串符号转换成另一串符号."
+    },
+    {
+     "s": "But it does not specify what those symbols mean.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "但是,它没有具体说明这些符号的含义。"
+    },
+    {
+     "s": "Humans, in thinking, talking, reading and writing, also work with symbols.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "人类在思考,交谈,阅读和写作中,也用符号工作."
+    },
+    {
+     "s": "What matters is not just the outside of a string of symbols, but the inside too, not just how they are arranged but what they mean.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "重要的不仅仅是一串符号的外在, 内部也一样, 不仅仅是它们是如何排列的, 而且是它们的意思。"
+    },
+    {
+     "s": "Social interaction is key to understanding symbols.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "社会互动是理解符号的关键."
+    },
+    {
+     "s": "What is an advantage of using symbols in note-taking?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在记号中使用符号有什么好处?"
+    },
+    {
+     "s": "What is an advantage of using symbols in note-taking?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在记号中使用符号有什么好处?"
+    },
+    {
+     "s": "What is an advantage of using symbols in note-taking?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在记号中使用符号有什么好处?"
+    },
+    {
+     "s": "As cultural symbols go, the American car is quite young.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "随着文化符号的发展,美国汽车相当年轻."
+    },
+    {
+     "s": "Using symbols and abbreviations can allow you to take notes more quickly.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "t": "使用符号和缩写可以让你更快地做笔记."
+    },
+    {
+     "s": "Emojis are small symbols representing ideas, emotions or feelings.",
+     "src": "外研社B5 U3",
+     "cat": "waiyan",
+     "t": "爱莫吉斯是代表思想,情感或感情的小符号."
+    },
+    {
+     "s": "Meaning emerges through a process of social interaction, not of computation, interaction that shapes the content of the symbols in our heads.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "意义通过一个社会互动的过程产生,而不是计算的过程,互动决定了我们头上符号的内容."
+    }
+   ]
+  }
+ ]
+}

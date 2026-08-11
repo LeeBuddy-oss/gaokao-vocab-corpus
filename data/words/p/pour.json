@@ -1,1 +1,105 @@
-{"meta": {"ph": "pɔː(r); NAmE pɔːr", "pos": "verb", "stars": ""}, "defs": [{"def": "to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle 使（液体）连续流出；倾倒；倒出", "ex": [{"s": "The bottle is quite difficult to open; the _________ is to pour hot water on it first.", "src": "2023天津6月卷·一、单项选择", "cat": "gaokao", "year": 2023, "t": "在第1段中，作者提出了__________。"}, {"s": "He poured water from a bottle into his hand and offered it to my dogs. ______50______, I began to fall for him.", "src": "2022全国甲卷", "cat": "gaokao", "year": 2022, "t": "他把瓶里的水倒在手里递给我的狗。______50______，我开始爱上他了。"}, {"s": "After that I poured oil into a pan and turned off the stove, I waited patiently unless the oil was hot.", "src": "2020全国I卷·短文改错", "cat": "gaokao", "year": 2020, "t": "之后我把油倒入锅中，关掉了炉灶，我耐心等待直到油热了。"}, {"s": "Pour it into a pot an mix it with five grams of smiles.", "src": "外研社B1 U4", "cat": "waiyan", "t": "倒入锅中，加入五克微笑。"}, {"s": "Carefully pour some hot water into the bottle.", "src": "外研社B3 U3", "cat": "waiyan", "t": "小心地将一些热水倒入瓶中。"}, {"s": "The plastic tore and a river of nut shells poured out.", "src": "外研社B4 U6", "cat": "waiyan", "t": "塑料布撕裂了，坚果壳如河流般倾泻而出。"}, {"s": "From every door of every house, as far as the eye could see, a stream of frightened people were pouring into the street.", "src": "外研社B5 U6", "cat": "waiyan", "t": "从每栋房子的每一扇门，放眼望去，惊恐的人流涌向街道。"}]}, {"def": "to flow quickly in a continuous stream 液体、烟、光等", "ex": []}, {"def": "to serve a drink by letting it flow from a container into a cup or glass 倒，斟（饮料）", "ex": [{"s": "Pouring water was very difficult, plus I kept drinking from my friend's glass.", "src": "外研社B4 U2", "cat": "waiyan", "t": "倒水非常困难，而且我还总喝我朋友杯子里的水。"}]}, {"def": "when rain pours down or when it's pouring (with) rain, rain is falling heavily （雨）倾盆而下；下大雨", "ex": [{"s": "People have been pouring into stadiums since the days of ancient Greece.", "src": "2021全国乙卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "罗马大竞技场高157英尺，有80个入口，可容纳50,000人。"}, {"s": "Here you can enjoy 4 pours of some of the best wine San Francisco has to offer.", "src": "2017全国III卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "在这里你可以品尝到4杯旧金山最好的葡萄酒。"}]}, {"def": "to come or go somewhere continuously in large numbers 不断涌向（或涌现）", "ex": [{"s": "The Barcelona subway pulls into the station, the doors slide open and passengers pour out to go about their daily business.", "src": "2026新高考II卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "巴塞罗那地铁驶入车站，车门滑开，乘客们鱼贯而出，各自忙碌日常事务。"}]}]}
+{
+  "meta": {
+    "ph": "pɔː(r); NAmE pɔːr",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to make a liquid or other substance flow from a container in a continuous stream, especially by holding the container at an angle 使（液体）连续流出；倾倒；倒出",
+      "ex": [
+        {
+          "s": "The bottle is quite difficult to open; the _________ is to pour hot water on it first.",
+          "src": "2023天津6月卷·一、单项选择",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在第1段中，作者提出了__________。"
+        },
+        {
+          "s": "He poured water from a bottle into his hand and offered it to my dogs. ______50______, I began to fall for him.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他把瓶里的水倒在手里递给我的狗。______50______，我开始爱上他了。"
+        },
+        {
+          "s": "After that I poured oil into a pan and turned off the stove, I waited patiently unless the oil was hot.",
+          "src": "2020全国I卷·短文改错",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "之后我把油倒入锅中，关掉了炉灶，我耐心等待直到油热了。"
+        },
+        {
+          "s": "Pour it into a pot an mix it with five grams of smiles.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "倒入锅中，加入五克微笑。"
+        },
+        {
+          "s": "Carefully pour some hot water into the bottle.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "小心地将一些热水倒入瓶中。"
+        },
+        {
+          "s": "The plastic tore and a river of nut shells poured out.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "塑料布撕裂了，坚果壳如河流般倾泻而出。"
+        },
+        {
+          "s": "From every door of every house, as far as the eye could see, a stream of frightened people were pouring into the street.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "从每栋房子的每一扇门，放眼望去，惊恐的人流涌向街道。"
+        }
+      ]
+    },
+    {
+      "def": "to flow quickly in a continuous stream 液体、烟、光等",
+      "ex": []
+    },
+    {
+      "def": "to serve a drink by letting it flow from a container into a cup or glass 倒，斟（饮料）",
+      "ex": [
+        {
+          "s": "Pouring water was very difficult, plus I kept drinking from my friend's glass.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "倒水非常困难，而且我还总喝我朋友杯子里的水。"
+        }
+      ]
+    },
+    {
+      "def": "when rain pours down or when it's pouring (with) rain, rain is falling heavily （雨）倾盆而下；下大雨",
+      "ex": [
+        {
+          "s": "People have been pouring into stadiums since the days of ancient Greece.",
+          "src": "2021全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "罗马大竞技场高157英尺，有80个入口，可容纳50,000人。"
+        },
+        {
+          "s": "Here you can enjoy 4 pours of some of the best wine San Francisco has to offer.",
+          "src": "2017全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "在这里你可以品尝到4杯旧金山最好的葡萄酒。"
+        }
+      ]
+    },
+    {
+      "def": "to come or go somewhere continuously in large numbers 不断涌向（或涌现）",
+      "ex": [
+        {
+          "s": "The Barcelona subway pulls into the station, the doors slide open and passengers pour out to go about their daily business.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "巴塞罗那地铁驶入车站，车门滑开，乘客们鱼贯而出，各自忙碌日常事务。"
+        }
+      ]
+    }
+  ]
+}

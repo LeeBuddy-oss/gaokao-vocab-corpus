@@ -1,1 +1,61 @@
-{"meta": {"ph": "det; NAmE det", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a sum of money that sb owes 借款；欠款；债务", "ex": [{"s": "Would you BET on the future of this man？ He is 53 years old． Most of his adult life has been a losing struggle against debt and misfortune． A war injury has made his left hand stop functioning， and he has often been in prison． Driven by heaven﹣knows﹣what motives， he determines to write a book．", "src": "2019天津卷·20．", "cat": "gaokao", "year": 2019, "t": "（5）预警系统如何帮助我们维持生态平衡？"}]}, {"def": "the situation of owing money, especially when you cannot pay 负债情况", "ex": [{"s": "Avoid luxuries so that you don’t go into debt.", "src": "外研社B7 U4", "cat": "waiyan", "t": "避免奢侈品，以免陷入债务。"}, {"s": "The effect of the monstrous burden of debt has made the poor even poorer and has fallen most heavily on the neediest, and those whom it has damaged the most are the mothers and children.", "src": "人教选必4 U5", "cat": "renjiao", "t": "沉重的债务负担的后果使穷人更加贫困，最沉重地落在最需要帮助的人身上，而受伤害最大的是母亲和孩子们。"}, {"s": "Occasionally, she thinks back 65 and remembers the wonders of the ball, but finally, their debt is paid in full.", "src": "北师大选必1 U3", "cat": "beishida", "t": "偶尔，她会回想起舞会的奇迹，但最终，他们的债务全部还清了。"}, {"s": "We 3 are in debt to a lot of people like Galileo for standing up against the 4 religious organisation which refused to believe that the Earth wasn't the centre of the 5 planets and stars.", "src": "北师大选必2 U6", "cat": "beishida", "t": "我们欠很多人如伽利略的债，因为他们站出来反对那些拒绝相信地球不是行星和恒星中心的宗教组织。"}, {"s": "BASSANIO: Yes, I can offer the court twice the amount of Antonio's debt.", "src": "北师大选必4 U10", "cat": "beishida", "t": "巴萨尼奥：是的，我可以给法庭两倍于安东尼奥债务的金额。"}]}, {"def": "the fact that you should feel grateful to sb because they have helped you or been kind to you 人情债；情义；恩情", "ex": []}]}
+{
+  "meta": {
+    "ph": "det; NAmE det",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a sum of money that sb owes 借款；欠款；债务",
+      "ex": [
+        {
+          "s": "Would you BET on the future of this man？ He is 53 years old． Most of his adult life has been a losing struggle against debt and misfortune． A war injury has made his left hand stop functioning， and he has often been in prison． Driven by heaven﹣knows﹣what motives， he determines to write a book．",
+          "src": "2019天津卷·20．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "你愿意为这个人的未来下注吗？他53岁。成年后的大部分时光都在与债务和不幸做徒劳的斗争。战争受伤让他的左手失去功能，他还常入狱。不知受何种动机驱使，他决心写一本书。"
+        },
+        {
+          "s": "The effect of the monstrous burden of debt has made the poor even poorer and has fallen most heavily on the neediest, and those whom it has damaged the most are the mothers and children.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "巨额债务负担的影响让穷人更穷，并且最沉重地压在最需要的人身上，受其伤害最深的是母亲和儿童。"
+        },
+        {
+          "s": "Occasionally, she thinks back 65 and remembers the wonders of the ball, but finally, their debt is paid in full.",
+          "src": "北师大选必1 U3",
+          "cat": "beishida",
+          "t": "偶尔，她会回想____65____，记起舞会的奇妙，但最终，他们的债务被全额还清。"
+        },
+        {
+          "s": "BASSANIO: Yes, I can offer the court twice the amount of Antonio's debt.",
+          "src": "北师大选必4 U10",
+          "cat": "beishida",
+          "t": "巴萨尼奥：是的，我可以向法庭提供安东尼奥债务两倍的金额。"
+        }
+      ]
+    },
+    {
+      "def": "the situation of owing money, especially when you cannot pay 负债情况",
+      "ex": [
+        {
+          "s": "Avoid luxuries so that you don’t go into debt.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "避免奢侈品，以免你陷入债务。"
+        }
+      ]
+    },
+    {
+      "def": "the fact that you should feel grateful to sb because they have helped you or been kind to you 人情债；情义；恩情",
+      "ex": [
+        {
+          "s": "We 3 are in debt to a lot of people like Galileo for standing up against the 4 religious organisation which refused to believe that the Earth wasn't the centre of the 5 planets and stars.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "t": "我们3人都欠了许多人（如伽利略）的情，因为他们挺身反对那个拒绝相信地球不是行星与恒星中心的天主教会。"
+        }
+      ]
+    }
+  ]
+}

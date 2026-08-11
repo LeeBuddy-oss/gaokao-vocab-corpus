@@ -1,1 +1,149 @@
-{"meta": {"ph": "rɪˈliːf; NAmE rɪˈliːf", "pos": "noun", "stars": "★"}, "defs": [{"def": "the feeling of happiness that you have when sth unpleasant stops or does not happen （不快过后的）宽慰，轻松；解脱", "ex": [{"s": "I breathed a huge sigh of relief: I had expected sadness, maybe even doubt, but Dad was already looking to the future.", "src": "2026北京卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "他的回答对我产生了影响。"}, {"s": "The man froze for a second, but when he saw the skinny boy he breathed a sigh of relief.", "src": "2025浙江1月卷·读后续写", "cat": "gaokao", "year": 2025, "t": "进行过多类型的锻炼。"}, {"s": "The headmaster asked my father to come to school, whose shaky faith in me brought a mix of relief and ____8____.", "src": "2025北京卷·完形填空", "cat": "gaokao", "year": 2025, "t": "我记得给父母看了一段比·约翰逊的视频，分享我觉得用罐子买 groceries 多么酷，垃圾会有多么少！"}, {"s": "He tried muscle-relaxing drugs but found little relief.", "src": "2024新高考I卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "他试过肌肉松弛药物，但几乎没有什么缓解。"}, {"s": "What a relief", "src": "2020天津3月卷", "cat": "gaokao", "year": 2020, "t": "我明白了D."}, {"s": "Still, most of us volunteers breathe a sigh of relief when the season comes to a close.", "src": "2019全国II卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "尽管如此，当我们大多数志愿者在赛季结束时都会松一口气。"}, {"s": "It was a relief and I came to a suddenly stop just in the middle on the road.", "src": "2017全国I卷·短文改错", "cat": "gaokao", "year": 2017, "t": "这是一种解脱，我在马路正中间突然停了下来。"}, {"s": "A bright red cloud enveloped the animal, and to Mac's relief, it fell back, shaking its head.", "src": "2017浙江6月卷·读后续写", "cat": "gaokao", "year": 2017, "t": "一团红色的雾气包裹住了这只动物，令麦克感到欣慰的是，它退却了，摇晃着头。"}, {"s": "To our great relief, Dad turned down the idea.", "src": "2017浙江11月卷·读后续写", "cat": "gaokao", "year": 2017, "t": "C．洗衣服。"}]}, {"def": "the act of removing or reducing pain, anxiety, etc. （焦虑、痛苦等的）减轻，消除，缓和", "ex": [{"s": "(C) Music gave me strength and brought me relief.", "src": "人教B2 U5", "cat": "renjiao", "t": "（C）音乐给了我力量，带给我安慰。"}, {"s": "For example, the Red Cross provided aid and relief after the May 2008 Wenchuan Earthquake in Sichuan, China.", "src": "人教选必2 U5", "cat": "renjiao", "t": "例如，红十字会在2008年5月中国四川汶川地震后提供了援助和救济。"}, {"s": "When we were finally rescued, we felt such relief and joy that many of us could not hide our tears.", "src": "人教选必3 U4", "cat": "renjiao", "t": "当我们终于获救时，我们感到如此解脱和喜悦，许多人无法掩饰自己的泪水。"}]}, {"def": "food, money, medicine, etc. that is given to help people in places where there has been a war or natural disaster （给灾区或交战地区人民提供的）救济，救援物品", "ex": [{"s": "Despite this, he continued to work as a volunteer, helping provide relief to people caught up in war.", "src": "人教选必2 U5", "cat": "renjiao", "t": "尽管如此，他继续担任志愿者，帮助为陷入战争中的人们提供救援。"}]}, {"def": "financial help given by the government to people who need it 救济金", "ex": []}, {"def": "支付按揭利息的税收减免", "ex": []}, {"def": "something that is interesting or enjoyable that replaces sth boring, difficult or unpleasant for a short period of time （暂时替代单调乏味事物的）调剂，轻松场面", "ex": []}, {"def": "a person or group of people that replaces another when they have finished working for the day or when they are sick 常用作形容词", "ex": [{"s": "Invented in China, it breaks through cultural barriers and provides great relief after a hard day’s work.", "src": "人教B2 U5", "cat": "renjiao", "t": "它发明于中国，它突破了文化障碍，在一天的辛勤工作后提供了极大的放松。"}]}, {"def": "the act of freeing a town, etc. from an enemy army that has surrounded it （被困城镇等的）解困，解围", "ex": []}, {"def": "a way of decorating wood, stone, etc. by cutting designs into the surface of it so that some parts stick out more than others; a design that is made in this way 浮雕；浮雕法；浮雕作品", "ex": []}, {"def": "the effect of colours, light, etc. that makes an object more noticeable than others around it （光和色彩等产生的）醒目效果；醒目；光彩夺目", "ex": []}, {"def": "the quality of a particular situation, problem, etc. that makes it more noticeable than before 突出的品质；令人注目的特征", "ex": []}]}
+{
+  "meta": {
+    "ph": "rɪˈliːf; NAmE rɪˈliːf",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the feeling of happiness that you have when sth unpleasant stops or does not happen （不快过后的）宽慰，轻松；解脱",
+      "ex": [
+        {
+          "s": "I breathed a huge sigh of relief: I had expected sadness, maybe even doubt, but Dad was already looking to the future.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我长舒了一口气，如释重负：我原本以为会是悲伤，甚至可能是怀疑，但爸爸已经在展望未来了。"
+        },
+        {
+          "s": "The man froze for a second, but when he saw the skinny boy he breathed a sigh of relief.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "那男人愣了一下，但看到那个瘦小的男孩时，他松了一口气。"
+        },
+        {
+          "s": "The headmaster asked my father to come to school, whose shaky faith in me brought a mix of relief and ____8____.",
+          "src": "2025北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "校长让我父亲来学校，他对我动摇的信念让我感到一种宽慰与____8____交织的情绪。"
+        },
+        {
+          "s": "What a relief",
+          "src": "2020天津3月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "真是松了一口气！"
+        },
+        {
+          "s": "Still, most of us volunteers breathe a sigh of relief when the season comes to a close.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "尽管如此，当我们大多数志愿者在赛季结束时都会松一口气。"
+        },
+        {
+          "s": "It was a relief and I came to a suddenly stop just in the middle on the road.",
+          "src": "2017全国I卷·短文改错",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这是一种解脱，我在马路正中间突然停了下来。"
+        },
+        {
+          "s": "A bright red cloud enveloped the animal, and to Mac's relief, it fell back, shaking its head.",
+          "src": "2017浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一团红色的雾气包裹住了这只动物，令麦克感到欣慰的是，它退却了，摇晃着头。"
+        },
+        {
+          "s": "To our great relief, Dad turned down the idea.",
+          "src": "2017浙江11月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "令我们大为宽慰的是，爸爸拒绝了那个想法。"
+        },
+        {
+          "s": "When we were finally rescued, we felt such relief and joy that many of us could not hide our tears.",
+          "src": "人教选必3 U4",
+          "cat": "renjiao",
+          "t": "当我们终于获救时，我们感到如此解脱和喜悦，许多人无法掩饰自己的泪水。"
+        }
+      ]
+    },
+    {
+      "def": "the act of removing or reducing pain, anxiety, etc. （焦虑、痛苦等的）减轻，消除，缓和",
+      "ex": [
+        {
+          "s": "He tried muscle-relaxing drugs but found little relief.",
+          "src": "2024新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他试过肌肉松弛药物，但几乎没有什么缓解。"
+        },
+        {
+          "s": "(C) Music gave me strength and brought me relief.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "（C）音乐给了我力量，带给我安慰。"
+        },
+        {
+          "s": "Invented in China, it breaks through cultural barriers and provides great relief after a hard day’s work.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "它发明于中国，它突破了文化障碍，在一天的辛勤工作后提供了极大的放松。"
+        }
+      ]
+    },
+    {
+      "def": "food, money, medicine, etc. that is given to help people in places where there has been a war or natural disaster （给灾区或交战地区人民提供的）救济，救援物品",
+      "ex": [
+        {
+          "s": "For example, the Red Cross provided aid and relief after the May 2008 Wenchuan Earthquake in Sichuan, China.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "例如，红十字会在2008年5月中国四川汶川地震后提供了援助和救济。"
+        },
+        {
+          "s": "Despite this, he continued to work as a volunteer, helping provide relief to people caught up in war.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "尽管如此，他继续担任志愿者，帮助为陷入战争中的人们提供救援。"
+        }
+      ]
+    },
+    {
+      "def": "financial help given by the government to people who need it 救济金",
+      "ex": []
+    },
+    {
+      "def": "支付按揭利息的税收减免",
+      "ex": []
+    },
+    {
+      "def": "something that is interesting or enjoyable that replaces sth boring, difficult or unpleasant for a short period of time （暂时替代单调乏味事物的）调剂，轻松场面",
+      "ex": []
+    },
+    {
+      "def": "a person or group of people that replaces another when they have finished working for the day or when they are sick 常用作形容词",
+      "ex": []
+    },
+    {
+      "def": "the act of freeing a town, etc. from an enemy army that has surrounded it （被困城镇等的）解困，解围",
+      "ex": []
+    },
+    {
+      "def": "a way of decorating wood, stone, etc. by cutting designs into the surface of it so that some parts stick out more than others; a design that is made in this way 浮雕；浮雕法；浮雕作品",
+      "ex": []
+    },
+    {
+      "def": "the effect of colours, light, etc. that makes an object more noticeable than others around it （光和色彩等产生的）醒目效果；醒目；光彩夺目",
+      "ex": []
+    },
+    {
+      "def": "the quality of a particular situation, problem, etc. that makes it more noticeable than before 突出的品质；令人注目的特征",
+      "ex": []
+    }
+  ]
+}

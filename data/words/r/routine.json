@@ -1,1 +1,149 @@
-{"meta": {"ph": "ruːˈtiːn; NAmE ruːˈtiːn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the normal order and way in which you regularly do things 常规；正常顺序", "ex": [{"s": "Slowly but surely, my efforts to adjust to the new routine paid off.", "src": "2026新高考II卷·读后续写", "cat": "gaokao", "year": 2026, "t": "我努力适应新作息，缓慢但稳步地见到了成效。"}, {"s": "Doing the same routine all the time.", "src": "2023浙江卷", "cat": "gaokao", "year": 2023, "t": "一直做同样的常规训练。"}, {"s": "a routine warning", "src": "2023天津3月卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "这是关于我们如何与一件艺术品建立联系以及我们能从中创造什么意义。"}, {"s": "These elements are called the cue, the routine, and the reward.", "src": "2023北京卷", "cat": "gaokao", "year": 2023, "t": "这些要素被称为提示、常规和奖励。"}, {"s": "While a routine involves repeated behaviour, it’s not necessarily performed in response to a deep﹣rooted urge, as a habit is.", "src": "2023北京卷", "cat": "gaokao", "year": 2023, "t": "虽然常规涉及重复的行为，但不一定像习惯那样是对深层冲动的回应。"}, {"s": "But the study was small and needs to be repeated with far larger groups of people to determine exactly which aspects of an exercise routine make the biggest difference.", "src": "2022全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "但这项研究规模较小，需要在更大的人群中重复进行，以确定运动常规中哪些方面产生的影响最大。"}, {"s": "54    Sometimes even routine occurrences become sources of pre-anger, or anger itself.", "src": "2018北京卷·Why Do We Get Angry?", "cat": "gaokao", "year": 2018, "t": "我们的展览会滋养你的头脑但你的身体呢？"}]}, {"def": "a situation in which life is boring because things are always done in the same way 生活乏味；无聊", "ex": [{"s": "Involve your child in the daily running of the house: tidying toys, feeding the dog, watering the plants. ____36____ When the tasks become as routine as brushing teeth, kids internalise that helping with housework is simply part of life.", "src": "2026新高考II卷·七选五", "cat": "gaokao", "year": 2026, "t": "让孩子参与家庭的日常运转：收拾玩具、喂狗、给植物浇水。____ 当这些任务变得像刷牙一样习以为常，孩子就会内化这样一种观念：帮忙做家务本来就是生活的一部分。"}]}, {"def": "a series of movements, jokes, etc. that are part of a performance （演出中的）一套动作，一系列笑话（等）", "ex": [{"s": "● Make housework part of the family routine.", "src": "2026新高考II卷·七选五", "cat": "gaokao", "year": 2026, "t": "● 让家务成为家庭日常的一部分。"}]}, {"def": "a list of instructions that enable a computer to perform a particular task 例行程序；例程", "ex": []}, {"def": "done or happening as a normal part of a particular job, situation or process 常规的；例行公事的；日常的", "ex": []}, {"def": "not unusual or different in any way 平常的；正常的；毫不特别的", "ex": [{"s": "In what way is a routine different from a habit?", "src": "2023北京卷", "cat": "gaokao", "year": 2023, "t": "常规和习惯有什么不同？"}, {"s": "Supposedly you can do it in two hours, but we stopped at the different gates and ___49___ (watchtower) to fake pictures or just to watch the local people going about their ____50____ (day) routines.", "src": "2021全国甲卷·语法填空", "cat": "gaokao", "year": 2021, "t": "其中一个问题是：遇到困难时你会向谁求助？"}]}, {"def": "ordinary and boring 乏味的；平淡的", "ex": [{"s": "The boats drive them away from the places where they feed and interrupt their routine of resting and taking care of their young.", "src": "外研社B4 U6", "cat": "waiyan", "t": "船只把它们赶离觅食的地方，打断了它们休息和照顾幼崽的日常。"}, {"s": "Most importantly, instead of disrupting these animals’ routines, we should try to adapt to them.", "src": "外研社B4 U6", "cat": "waiyan", "t": "最重要的是，我们不应打扰这些动物的日常，而应该试着去适应它们。"}, {"s": "I might have a different routine to 4_______________ and they might not be very pleasant to 5________________.", "src": "外研社B5 U1", "cat": "waiyan", "t": "我可能有一个与4_______________不同的日常，而且他们可能不太乐意5________________。"}, {"s": "Emma spent an hour with me in the staff room talking me through the daily routine.", "src": "外研社B5 U4", "cat": "waiyan", "t": "Emma在教员室花了一个小时给我讲解日常工作流程。"}, {"s": "Your home will also learn your daily routine and preferences, so everything will be ready for you when you get home each evening.", "src": "人教选必1 U2", "cat": "renjiao", "t": "你的家还会学习你的日常习惯和偏好，这样每晚你回家时一切都会为你准备好。"}]}]}
+{
+  "meta": {
+    "ph": "ruːˈtiːn; NAmE ruːˈtiːn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the normal order and way in which you regularly do things 常规；正常顺序",
+      "ex": [
+        {
+          "s": "Slowly but surely, my efforts to adjust to the new routine paid off.",
+          "src": "2026新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我努力适应新作息，缓慢但稳步地见到了成效。"
+        },
+        {
+          "s": "Doing the same routine all the time.",
+          "src": "2023浙江卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "一直做同样的常规训练。"
+        },
+        {
+          "s": "a routine warning",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这是关于我们如何与一件艺术品建立联系以及我们能从中创造什么意义。"
+        },
+        {
+          "s": "These elements are called the cue, the routine, and the reward.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这些要素被称为提示、常规和奖励。"
+        },
+        {
+          "s": "While a routine involves repeated behaviour, it’s not necessarily performed in response to a deep﹣rooted urge, as a habit is.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "虽然常规涉及重复的行为，但不一定像习惯那样是对深层冲动的回应。"
+        },
+        {
+          "s": "But the study was small and needs to be repeated with far larger groups of people to determine exactly which aspects of an exercise routine make the biggest difference.",
+          "src": "2022全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "但这项研究规模较小，需要在更大的人群中重复进行，以确定运动常规中哪些方面产生的影响最大。"
+        },
+        {
+          "s": "54    Sometimes even routine occurrences become sources of pre-anger, or anger itself.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我们的展览会滋养你的头脑但你的身体呢？"
+        }
+      ]
+    },
+    {
+      "def": "a situation in which life is boring because things are always done in the same way 生活乏味；无聊",
+      "ex": [
+        {
+          "s": "Involve your child in the daily running of the house: tidying toys, feeding the dog, watering the plants. ____36____ When the tasks become as routine as brushing teeth, kids internalise that helping with housework is simply part of life.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "让孩子参与家庭的日常运转：收拾玩具、喂狗、给植物浇水。____ 当这些任务变得像刷牙一样习以为常，孩子就会内化这样一种观念：帮忙做家务本来就是生活的一部分。"
+        }
+      ]
+    },
+    {
+      "def": "a series of movements, jokes, etc. that are part of a performance （演出中的）一套动作，一系列笑话（等）",
+      "ex": [
+        {
+          "s": "● Make housework part of the family routine.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "● 让家务成为家庭日常的一部分。"
+        }
+      ]
+    },
+    {
+      "def": "a list of instructions that enable a computer to perform a particular task 例行程序；例程",
+      "ex": []
+    },
+    {
+      "def": "done or happening as a normal part of a particular job, situation or process 常规的；例行公事的；日常的",
+      "ex": []
+    },
+    {
+      "def": "not unusual or different in any way 平常的；正常的；毫不特别的",
+      "ex": [
+        {
+          "s": "In what way is a routine different from a habit?",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "常规和习惯有什么不同？"
+        },
+        {
+          "s": "Supposedly you can do it in two hours, but we stopped at the different gates and ___49___ (watchtower) to fake pictures or just to watch the local people going about their ____50____ (day) routines.",
+          "src": "2021全国甲卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "其中一个问题是：遇到困难时你会向谁求助？"
+        }
+      ]
+    },
+    {
+      "def": "ordinary and boring 乏味的；平淡的",
+      "ex": [
+        {
+          "s": "The boats drive them away from the places where they feed and interrupt their routine of resting and taking care of their young.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "船只把它们赶离觅食的地方，打断了它们休息和照顾幼崽的日常。"
+        },
+        {
+          "s": "Most importantly, instead of disrupting these animals’ routines, we should try to adapt to them.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "最重要的是，我们不应打扰这些动物的日常，而应该试着去适应它们。"
+        },
+        {
+          "s": "I might have a different routine to 4_______________ and they might not be very pleasant to 5________________.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "我可能有一个与4_______________不同的日常，而且他们可能不太乐意5________________。"
+        },
+        {
+          "s": "Emma spent an hour with me in the staff room talking me through the daily routine.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "Emma在教员室花了一个小时给我讲解日常工作流程。"
+        },
+        {
+          "s": "Your home will also learn your daily routine and preferences, so everything will be ready for you when you get home each evening.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "你的家还会学习你的日常习惯和偏好，这样每晚你回家时一切都会为你准备好。"
+        }
+      ]
+    }
+  ]
+}

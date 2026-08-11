@@ -1,1 +1,100 @@
-{"meta": {"ph": "dɪˈtekt; NAmE dɪˈtekt", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to discover or notice sth, especially sth that is not easy to see, hear, etc. 发现；查明；侦察出adj.", "ex": [{"s": "Machines can detect fake reviews accurately.", "src": "2026浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "机器能够准确地识别虚假评论。"}, {"s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.", "src": "2024新高考I卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "尽管它们有助于探测一个地区物种数量和种类的变化，但斯坦福大学的一项新研究发现，这类记录并不完美。"}, {"s": "By using the latest technologies, drones could also start providing higher-value services for railways, detecting faults in the rail or switches, before they can cause any safety problems.", "src": "2022全国乙卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "为了执行这些任务，铁路无人机不需要在空中飞行。"}, {"s": "What Faults Can Be Detected with Drones", "src": "2022全国乙卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "如何扩大无人机的生产"}, {"s": "To detect their potential health problems", "src": "2022浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "检测他们的潜在健康问题"}, {"s": "However, a strong smell is added so that we can raise the alarm when we detect the smell associated with danger.", "src": "2022北京卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "然而，添加了强烈的气味以便我们在检测到与危险相关的气味时能够发出警报。"}, {"s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.", "src": "2020全国I卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "Strano的团队发现他们可以发出微弱的光，持续三个半小时。"}, {"s": "To detect plants’ lack of water", "src": "2020全国I卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "改变植物的组成"}, {"s": "This is like a warning，or a call for help: “I'm being attacked!” When another bean plant detects the chemicals from its injured neighbour, it starts to release its own, different chemicals.", "src": "外研社B4 U5", "cat": "waiyan", "t": "这就像一个警告，或者说一种求救信号：\"我正在被攻击！\"当另一株豆类植物检测到受伤邻居释放的化学物质时，它自身也开始释放不同的化学物质。"}, {"s": "For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information.", "src": "人教选必1 U2", "cat": "renjiao", "t": "例如，如果水管开始漏水，或者电线出现短路，你的智能家居会检测到并为你提供相关信息。"}, {"s": "I can detect laughter, sorrow, and many other obvious emotions.", "src": "人教选必1 U5", "cat": "renjiao", "t": "我能察觉笑声、悲伤和许多其他明显的情绪。"}, {"s": "While direct hard-sell ads might be easy to detect - such as those for products endorsed by celebrities soft-sell ads may be more difficult to spot.", "src": "北师大选必2 U6", "cat": "beishida", "t": "虽然直接的硬性推销广告可能容易被识别——比如那些由名人代言的产品——但软性推销广告可能更难被识破。"}, {"s": "\"Soft-sell\" methods are easy to detect.", "src": "北师大选必2 U6", "cat": "beishida", "t": "\"软性推销\"方法很容易被识别。"}]}]}
+{
+  "meta": {
+    "ph": "dɪˈtekt; NAmE dɪˈtekt",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to discover or notice sth, especially sth that is not easy to see, hear, etc. 发现；查明；侦察出adj.",
+      "ex": [
+        {
+          "s": "Machines can detect fake reviews accurately.",
+          "src": "2026浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "机器能准确检测虚假评论。"
+        },
+        {
+          "s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "虽然它们对检测一个地区物种数量和种类的变化很有用，但斯坦福的一项新研究发现这类记录并不完美。"
+        },
+        {
+          "s": "By using the latest technologies, drones could also start providing higher-value services for railways, detecting faults in the rail or switches, before they can cause any safety problems.",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "通过使用最新技术，无人机还可以开始为铁路提供更高价值的服务，在轨道或转辙器的故障造成安全问题之前检测它们。"
+        },
+        {
+          "s": "What Faults Can Be Detected with Drones",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "用无人机可以检测哪些故障"
+        },
+        {
+          "s": "To detect their potential health problems",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "检测它们潜在的健康问题"
+        },
+        {
+          "s": "However, a strong smell is added so that we can raise the alarm when we detect the smell associated with danger.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "然而，添加了强烈气味，以便我们在检测到与危险相关的气味时拉响警报。"
+        },
+        {
+          "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这些包括叶子上印有传感器的植物，显示它们何时缺水，以及一种能检测地下水中有害化学物质的植物。"
+        },
+        {
+          "s": "To detect plants’ lack of water",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "检测植物缺水"
+        },
+        {
+          "s": "This is like a warning，or a call for help: “I'm being attacked!” When another bean plant detects the chemicals from its injured neighbour, it starts to release its own, different chemicals.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "当另一株豆科植物检测到受伤邻居散发的化学物质时，它开始释放自己不同的化学物质。"
+        },
+        {
+          "s": "For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "例如，如果水管开始漏水，或者电线短路，你的智能家居会检测到并向你提供相关信息。"
+        },
+        {
+          "s": "I can detect laughter, sorrow, and many other obvious emotions.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "我能察觉笑声、悲伤和许多其他明显的情绪。"
+        },
+        {
+          "s": "While direct hard-sell ads might be easy to detect - such as those for products endorsed by celebrities soft-sell ads may be more difficult to spot.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "t": "虽然直接的硬性推销广告可能容易检测——比如那些由名人代言的产品——软性推销广告可能更难发现。"
+        },
+        {
+          "s": "\"Soft-sell\" methods are easy to detect.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "t": "'软性推销'方法容易检测。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,136 @@
-{"meta": {"ph": "kjʊə(r); NAmE kjʊr", "pos": "verb", "stars": "★"}, "defs": [{"def": "to make a person or an animal healthy again after an illness 治愈，治好（病人或动物）", "ex": [{"s": "Silence is the best cure for nostalgia.", "src": "2026北京卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "距离使心灵更加亲密。"}, {"s": "It aimed to find a cure for dementia.", "src": "2022浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "它旨在寻找治愈痴呆症的方法。"}, {"s": "Patience is a cure of anxiety.", "src": "2022北京卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "耐心是焦虑的良药。"}, {"s": "A new study has ____ the causes of the disease, and it’s likely that a cure will soon be found.", "src": "2022天津4月卷·单项选择", "cat": "gaokao", "year": 2022, "t": "一项新研究已经____了这种疾病的原因，很可能很快就能找到治疗方法。"}, {"s": "Cure the diseased cattle.", "src": "2021新高考II卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "把牛转移到另一个牧场。"}, {"s": "To discuss methods to cure measles.", "src": "2017北京卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "一些研究人员认为我们可以将机器密封在某种防火墙内，利用它们回答难题但不允许它们影响现实世界。"}]}, {"def": "to make an illness go away 治好（疾病）", "ex": []}, {"def": "to deal with a problem successfully 解决，了结（问题）", "ex": []}, {"def": "to stop sb from behaving in a particular way, especially a way that is bad or annoying 矫正，改正（某人的不良行为）", "ex": []}, {"def": "to treat food or tobacco with smoke, salt, etc. in order to preserve it （用熏、腌等方法）加工贮藏（食物或烟草）", "ex": []}, {"def": "a medicine or medical treatment that cures an illness 药；药物；疗法", "ex": [{"s": "Tackling the odds together cures.", "src": "2023天津3月卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "共同面对困难治愈一切"}, {"s": "It cures their mental illnesses.", "src": "2017全国III卷·阅读理解D", "cat": "gaokao", "year": 2017, "t": "它治愈他们的精神疾病。"}]}, {"def": "the act of curing sb of an illness or the process of being cured 治疗；疗程", "ex": [{"s": "They will be testing various medicines in a struggle to find a cure .", "src": "外研社B5 U6", "cat": "waiyan", "t": "他们将测试各种药物，努力寻找治疗方法。"}, {"s": "I think it’s also fair to say that we can get our hopes up when it comes to finding cures for serious diseases, such as cancer.", "src": "外研社B6 U4", "cat": "waiyan", "t": "我认为也可以公正地说，当谈到为癌症等严重疾病寻找治疗方法时，我们可能会抱有过高的期望。"}, {"s": "But I know what would cure her.", "src": "外研社B7 U2", "cat": "waiyan", "t": "但我知道什么能治好她。"}, {"s": "Two years ago, I was told I had a serious disease which was difficult to cure.", "src": "人教B2 U5", "cat": "renjiao", "t": "两年前，我被告知患上了一种难以治愈的严重疾病。"}, {"s": "The drug with artemisinin has proved to be the most effective cure.", "src": "北师大B2 U6", "cat": "beishida", "t": "含有青蒿素的药物已被证明是最有效的治疗方法。"}]}, {"def": "something that will solve a problem, improve a bad situation, etc. （解决问题、改善糟糕情况等的）措施，对策", "ex": []}]}
+{
+  "meta": {
+    "ph": "kjʊə(r); NAmE kjʊr",
+    "pos": "verb",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "to make a person or an animal healthy again after an illness 治愈，治好（病人或动物）",
+      "ex": [
+        {
+          "s": "Cure the diseased cattle.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "治好那些患病的牛。",
+          "year": 2021
+        },
+        {
+          "s": "But I know what would cure her.",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "但我知道什么能治好她。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "to make an illness go away 治好（疾病）",
+      "ex": [
+        {
+          "s": "To discuss methods to cure measles.",
+          "src": "2017北京卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "讨论治疗麻疹的方法。",
+          "year": 2017
+        },
+        {
+          "s": "It cures their mental illnesses.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "它治愈他们的精神疾病。",
+          "year": 2017
+        },
+        {
+          "s": "Two years ago, I was told I had a serious disease which was difficult to cure.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "两年前，我被告知患上了一种难以治愈的严重疾病。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "to deal with a problem successfully 解决，了结（问题）",
+      "ex": []
+    },
+    {
+      "def": "to stop sb from behaving in a particular way, especially a way that is bad or annoying 矫正，改正（某人的不良行为）",
+      "ex": []
+    },
+    {
+      "def": "to treat food or tobacco with smoke, salt, etc. in order to preserve it （用熏、腌等方法）加工贮藏（食物或烟草）",
+      "ex": []
+    },
+    {
+      "def": "a medicine or medical treatment that cures an illness 药；药物；疗法",
+      "ex": [
+        {
+          "s": "It aimed to find a cure for dementia.",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "它旨在找到痴呆症的治愈方法。",
+          "year": 2022
+        },
+        {
+          "s": "A new study has ____ the causes of the disease, and it’s likely that a cure will soon be found.",
+          "src": "2022天津4月卷·单项选择",
+          "cat": "gaokao",
+          "t": "一项新研究已经（第__空）这种疾病的原因，很可能很快会找到治愈方法。",
+          "year": 2022
+        },
+        {
+          "s": "I think it’s also fair to say that we can get our hopes up when it comes to finding cures for serious diseases, such as cancer.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "我认为也可以公正地说，当谈到为癌症等严重疾病寻找治疗方法时，我们可能会抱有过高的期望。",
+          "year": ""
+        },
+        {
+          "s": "They will be testing various medicines in a struggle to find a cure .",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "他们将测试各种药物，努力寻找治疗方法。",
+          "year": ""
+        },
+        {
+          "s": "The drug with artemisinin has proved to be the most effective cure.",
+          "src": "北师大B2 U6",
+          "cat": "beishida",
+          "t": "含有青蒿素的药物已被证明是最有效的治疗方法。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "the act of curing sb of an illness or the process of being cured 治疗；疗程",
+      "ex": []
+    },
+    {
+      "def": "something that will solve a problem, improve a bad situation, etc. （解决问题、改善糟糕情况等的）措施，对策",
+      "ex": [
+        {
+          "s": "Silence is the best cure for nostalgia.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "沉默是治疗乡愁最好的良药。",
+          "year": 2026
+        },
+        {
+          "s": "Patience is a cure of anxiety.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "耐心是焦虑的解药。",
+          "year": 2022
+        },
+        {
+          "s": "Tackling the odds together cures.",
+          "src": "2023天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "共同面对困难治愈一切",
+          "year": 2023
+        }
+      ]
+    }
+  ]
+}

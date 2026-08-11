@@ -1,1 +1,122 @@
-{"meta": {"ph": "ləʊn; NAmE loʊn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "money that an organization such as a bank lends and sb borrows 贷款；借款", "ex": [{"s": "Interlibrary Loan (ILL) provides teachers, students and staff with access to books that are checked out or not owned by our own libraries, as well as digitized copies of articles and book chapters from our collection.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "30多岁时，我结交了一些画家朋友，学会了欣赏艺术的新视角。"}, {"s": "Interlibrary loan is not available to former students, guest borrowers or fee-card holders.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "这个梦感觉如此权威，震撼了我。"}, {"s": "Length of Loans", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "我让我的线条画变成卡通画发给朋友们。"}, {"s": "Interlibrary Loan Fees", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "行动胜于言语。"}, {"s": "Library Type Loan Cost Article/Chapter Cost", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "成功之母是勤奋。"}, {"s": "They talk to the flood of international tourists and to ___60___ (visit) Chinese zookeepers who often come to check on the pandas, which are on loan from China.", "src": "2023新课标II卷·语法填空", "cat": "gaokao", "year": 2023, "t": "他们与蜂拥而至的国际游客交流，也与经常前来查看这些从中国租借的熊猫的___60___（visit）来访的中国饲养员交流。"}, {"s": "Some libraries even loan out toys and games.", "src": "2020天津6月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "你可以借DVD电影、CD音乐和流行杂志。"}]}, {"def": "the act of lending sth; the state of being lent 借出；贷给；被借出", "ex": [{"s": "Loan periods are established by the lending library.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "一切都感觉自由而轻松。"}]}, {"def": "to lend sth to sb, especially money 借出，贷与（尤指钱）", "ex": [{"s": "I know I could get a bank loan to pay the deposit on my very own apartment, but I don’t feel ready to make that kind of commitment, and I do like my mom’s cooking.", "src": "外研社B5 U1", "cat": "waiyan", "t": "我知道我可以从银行贷款来付我自己的公寓首付，但我觉得还没有准备好做出那种承诺，而且我确实喜欢我妈妈做的饭。"}, {"s": "Social credit Credit, or the offering of money loans for repayment, has existed since the Bronze Age.", "src": "外研社B7 U4", "cat": "waiyan", "t": "社会信用：信用，即提供贷款以偿还，自青铜时代以来就已存在。"}, {"s": "Chen spent all her savings and took out a large loan.", "src": "人教B3 U5", "cat": "renjiao", "t": "陈花光了所有的积蓄，还贷了一大笔款。"}, {"s": "Business development loans are becoming easier for these young people to obtain, too.", "src": "人教选必1 U5", "cat": "renjiao", "t": "为这些年轻人获得商业发展贷款也变得越来越容易。"}]}, {"def": "to lend a valuable object to a museum, etc. 出借（贵重物品给博物馆等）", "ex": [{"s": "People’s activities such as credit card payments, loan payments, etc, are recorded and scored, and will affect their future creditworthiness.", "src": "外研社B7 U4", "cat": "waiyan", "t": "人们的行为如信用卡支付、贷款偿还等，被记录和评分，并将影响他们未来的信用度。"}]}]}
+{
+  "meta": {
+    "ph": "ləʊn; NAmE loʊn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "money that an organization such as a bank lends and sb borrows 贷款；借款",
+      "ex": [
+        {
+          "s": "Interlibrary Loan (ILL) provides teachers, students and staff with access to books that are checked out or not owned by our own libraries, as well as digitized copies of articles and book chapters from our collection.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "馆际互借（ILL）为教师、学生和员工提供借阅本馆已借出或未收藏的图书，以及本馆馆藏文章和书章数字副本的渠道。",
+          "_matched": true
+        },
+        {
+          "s": "Interlibrary loan is not available to former students, guest borrowers or fee-card holders.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "馆际互借不向往届学生、临时借阅者或缴费卡持有者提供。",
+          "_matched": true
+        },
+        {
+          "s": "Length of Loans",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "借阅期限。",
+          "_matched": true
+        },
+        {
+          "s": "Interlibrary Loan Fees",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "馆际互借费用。",
+          "_matched": true
+        },
+        {
+          "s": "Library Type Loan Cost Article/Chapter Cost",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "图书馆类型 借阅费用 文章/章节费用。",
+          "_matched": true
+        },
+        {
+          "s": "They talk to the flood of international tourists and to ___60___ (visit) Chinese zookeepers who often come to check on the pandas, which are on loan from China.",
+          "src": "2023新课标II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他们与蜂拥而至的国际游客交流，也与经常前来查看这些从中国租借的熊猫的___60___（visit）来访的中国饲养员交流。"
+        },
+        {
+          "s": "Some libraries even loan out toys and games.",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "一些图书馆甚至出借玩具和游戏。",
+          "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "the act of lending sth; the state of being lent 借出；贷给；被借出",
+      "ex": [
+        {
+          "s": "Loan periods are established by the lending library.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "借阅期限由出借图书馆设定。",
+          "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "to lend sth to sb, especially money 借出，贷与（尤指钱）",
+      "ex": [
+        {
+          "s": "I know I could get a bank loan to pay the deposit on my very own apartment, but I don’t feel ready to make that kind of commitment, and I do like my mom’s cooking.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "我知道我可以从银行贷款来付我自己的公寓首付，但我觉得还没有准备好做出那种承诺，而且我确实喜欢我妈妈做的饭。"
+        },
+        {
+          "s": "Social credit Credit, or the offering of money loans for repayment, has existed since the Bronze Age.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "社会信用：信用，即提供贷款以偿还，自青铜时代以来就已存在。"
+        },
+        {
+          "s": "Chen spent all her savings and took out a large loan.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "陈花光了所有的积蓄，还贷了一大笔款。"
+        },
+        {
+          "s": "Business development loans are becoming easier for these young people to obtain, too.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "为这些年轻人获得商业发展贷款也变得越来越容易。"
+        }
+      ]
+    },
+    {
+      "def": "to lend a valuable object to a museum, etc. 出借（贵重物品给博物馆等）",
+      "ex": [
+        {
+          "s": "People’s activities such as credit card payments, loan payments, etc, are recorded and scored, and will affect their future creditworthiness.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "人们的行为如信用卡支付、贷款偿还等，被记录和评分，并将影响他们未来的信用度。"
+        }
+      ]
+    }
+  ]
+}

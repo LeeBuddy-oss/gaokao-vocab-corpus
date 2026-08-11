@@ -1,1 +1,104 @@
-{"meta": {"ph": "ˈtraɪəl; NAmE ˈtraɪəl", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a formal examination of evidence in court by a judge and often a jury, to decide if sb accused of a crime is guilty or not （法院的）审讯，审理，审判", "ex": [{"s": "After months of trial and error he succeeded.", "src": "2025北京卷·七选五", "cat": "gaokao", "year": 2025, "t": "in honor ofB. in search of"}, {"s": "> With encouragement from his friends and parents, Mark built a small bike shelter for his neighbourhood after months of trial and error.", "src": "2025北京卷·七选五", "cat": "gaokao", "year": 2025, "t": "在朋友和父母的鼓励下，马克经过数月的反复试验，为他的社区建了一个小型自行车棚。"}, {"s": "She went through trials.", "src": "2023全国乙卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "她经历了考验。"}, {"s": "One of the results produced by the trial project is                 .", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "该试点项目产生的结果之一是                 。"}, {"s": "Trial and error leads to the finding of truth.", "src": "2020天津6月卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "伽利略的例子告诉我们什么？（    ）"}, {"s": "With her dad's permission, she spent the next two years researching online and conducting trials to get a recipe that was both tasty and tooth-friendly.", "src": "2019北京卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "但摩尔厌倦了不能吃糖。"}]}, {"def": "the process of testing the ability, quality or performance of sb/sth, especially before you make a final decision about them （对能力、质量、性能等的）试验，试用", "ex": [{"s": "Since the end of the SARS epidemic,scientists have been doing trials on treatments to prevent anyfuture outbreaks.", "src": "北师大选必3 U9", "cat": "beishida", "t": "自非典疫情结束以来，科学家们一直在进行防治性试验，以防止未来疫情暴发。"}, {"s": "However, it was hard to produce enough qinghao extract for large trials because research resources were limited.", "src": "译林B3 U4", "cat": "yilin", "t": "然而，由于研究资源有限，很难生产出足够用于大型试验的青蒿提取物。"}, {"s": "The trials on patients were likely to be postponed because they did not have sufficient safety data.", "src": "译林B3 U4", "cat": "yilin", "t": "在病人身上进行的试验可能会推迟，因为他们没有足够的安全性数据。"}, {"s": "In November 1972, through trial and error, they successfully discovered qinghaosuthe most effective part of the qinghao extract.", "src": "译林B3 U4", "cat": "yilin", "t": "1972 年 11 月，他们通过反复试验，成功发现了青蒿素——青蒿提取物中最有效的成分。"}]}, {"def": "a competition or series of tests to find the best players for a sports team or an important event 预赛；选拔赛", "ex": [{"s": "Tu and her team did not have sufficient safety data to start trials on patients.", "src": "译林B3 U4", "cat": "yilin", "t": "屠和她的团队没有足够的安全性数据来开始病人试验。"}]}, {"def": "an event at which animals compete or perform 比赛；表演", "ex": []}, {"def": "an experience or a person that causes difficulties for sb 令人伤脑筋的事；惹麻烦的人；考验", "ex": []}]}
+{
+ "meta": {
+  "ph": "ˈtraɪəl; NAmE ˈtraɪəl",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a formal examination of evidence in court by a judge and often a jury, to decide if sb accused of a crime is guilty or not （法院的）审讯，审理，审判",
+   "ex": [
+    {
+     "s": "She went through trials.",
+     "src": "2023全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她经历了审判。"
+    },
+    {
+     "s": "Trial and error leads to the finding of truth.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "审判和错误导致发现真相。"
+    },
+    {
+     "s": "In November 1972, through trial and error, they successfully discovered qinghaosuthe most effective part of the qinghao extract.",
+     "src": "译林B3 U4",
+     "cat": "yilin",
+     "t": "1972年11月,他们通过试题和误题,成功发现了\"青海素\"中最有效的部分."
+    }
+   ]
+  },
+  {
+   "def": "the process of testing the ability, quality or performance of sb/sth, especially before you make a final decision about them （对能力、质量、性能等的）试验，试用",
+   "ex": [
+    {
+     "s": "> With encouragement from his friends and parents, Mark built a small bike shelter for his neighbourhood after months of trial and error.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": ">在朋友和父母的鼓励下， Mark在经历了数月的反复试验后，为他的街区建造了一个小型自行车庇护所。"
+    },
+    {
+     "s": "One of the results produced by the trial project is                 .",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "试验项目取得的成果之一是:"
+    },
+    {
+     "s": "With her dad's permission, she spent the next two years researching online and conducting trials to get a recipe that was both tasty and tooth-friendly.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在她父亲的允许下,她花了两年时间在网上进行研究,并进行试验,以获得一种既美味又方便牙齿的食谱."
+    },
+    {
+     "s": "Since the end of the SARS epidemic,scientists have been doing trials on treatments to prevent anyfuture outbreaks.",
+     "src": "北师大选必3 U9",
+     "cat": "beishida",
+     "t": "自非典疫情结束以来,科学家一直在进行治疗试验,以防止今后爆发任何疾病。"
+    },
+    {
+     "s": "However, it was hard to produce enough qinghao extract for large trials because research resources were limited.",
+     "src": "译林B3 U4",
+     "cat": "yilin",
+     "t": "然而,由于研究资源有限,很难为大型试验生产足够的青豪提取物."
+    },
+    {
+     "s": "The trials on patients were likely to be postponed because they did not have sufficient safety data.",
+     "src": "译林B3 U4",
+     "cat": "yilin",
+     "t": "对病人的试验可能推迟,因为他们没有足够的安全数据。"
+    },
+    {
+     "s": "Tu and her team did not have sufficient safety data to start trials on patients.",
+     "src": "译林B3 U4",
+     "cat": "yilin",
+     "t": "Tu和她的团队没有足够的安全数据开始对病人进行试验."
+    }
+   ]
+  },
+  {
+   "def": "a competition or series of tests to find the best players for a sports team or an important event 预赛；选拔赛",
+   "ex": []
+  },
+  {
+   "def": "an event at which animals compete or perform 比赛；表演",
+   "ex": []
+  },
+  {
+   "def": "an experience or a person that causes difficulties for sb 令人伤脑筋的事；惹麻烦的人；考验",
+   "ex": [
+    {
+     "s": "After months of trial and error he succeeded.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "经过几个月的考验和失误,他取得了成功。"
+    }
+   ]
+  }
+ ]
+}

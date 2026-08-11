@@ -1,1 +1,110 @@
-{"meta": {"ph": "ˈkɒntekst; NAmE ˈkɑːntekst", "pos": "noun", "stars": "★"}, "defs": [{"def": "the situation in which sth happens and that helps you to understand it （事情发生的）背景，环境，来龙去脉", "ex": [{"s": "Guess from the context.", "src": "2026新高考I卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "根据上下文猜测。"}, {"s": "“We hope ____58____ (present)the rather abstract Go game and AI in a visual context, and initiate dialogues with minimalist art, conceptual art and expressionism.”", "src": "2025新高考I卷·语法填空", "cat": "gaokao", "year": 2025, "t": "我们的自我感觉不仅取决于我们与谁比较，还取决于我们如何思考这种比较。"}, {"s": "It takes no account of the context.", "src": "2024新高考I卷·七选五", "cat": "gaokao", "year": 2024, "t": "它不考虑语境。"}, {"s": "Good social habits do something similar in a social context.", "src": "2024北京卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "良好的社会习惯在社会环境中起到类似的作用。"}, {"s": "When St．Augustine admitted his inability to define time， he highlighted one of time 's most noticeable qualities：Time becomes meaningful only in a defined context．Any timekeeping system is valid，and each is as praiseworthy as its purpose．", "src": "2021北京卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "当圣奥古斯丁承认他无法定义时间时他突出了时间最显著的特征之一：时间只有在特定的语境下才有意义．任何计时系统都是有效的每种都因其目的而值得称赞．"}, {"s": "Though he acknowledges that engineering works can fail because the person who thought them up or engineered them simply got things wrong, in this book Dr Petroski widens his view to consider the larger context in which such failures occur.", "src": "2020全国新高考II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "有时设备失败是因为一个好的设计使用了低质量材料且施工不当。"}, {"s": "Sometimes we lose sight that the music has a wider context,” says Moran, “so I want to continue those dialogues.", "src": "2017全国I卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "它会逐渐消失。"}, {"s": "It's not as confusing as it seems: usually people from the two countries can understand each other from the context.", "src": "外研社B1 U2", "cat": "waiyan", "t": "这并不像看起来那么令人困惑：通常来自这两个国家的人可以从上下文中理解彼此。"}, {"s": "His plays remain popular today and are often reinterpreted in performances with wide-ranging cultural and historical contexts.", "src": "外研社B2 U6", "cat": "waiyan", "t": "他的戏剧至今仍然受欢迎，并且经常在具有广泛文化和历史背景的演出中被重新诠释。"}, {"s": "Guess what they mean from the context.", "src": "人教B1 U4", "cat": "renjiao", "t": "从上下文猜测它们的意思。"}]}, {"def": "the words that come just before and after a word, phrase or statement and help you to understand its meaning 上下文；语境", "ex": [{"s": "Fill in each blank with the word or phrase that best fits the context .", "src": "2018上海卷·Section A", "cat": "gaokao", "year": 2018, "t": "当17岁的夸特罗·穆瑟和朋友聚会时，他们不喝啤酒也不和约会对象开车兜风。相反，他们坚持参加攀岩或谈论书籍等适合所有年龄的活动。"}, {"s": "When you have finished listening, try to work out the meaning from the context of the word.", "src": "外研社B1 U6", "cat": "waiyan", "t": "听完之后，试着从词的上下文来理解它的意思。"}, {"s": "If you continue reading, the context will probably help you understand what it means.", "src": "人教B1 U4", "cat": "renjiao", "t": "如果你继续读下去，上下文很可能会帮助你理解它的意思。"}]}]}
+{
+  "meta": {
+    "ph": "ˈkɒntekst; NAmE ˈkɑːntekst",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the situation in which sth happens and that helps you to understand it （事情发生的）背景，环境，来龙去脉",
+      "ex": [
+        {
+          "s": "“We hope ____58____ (present)the rather abstract Go game and AI in a visual context, and initiate dialogues with minimalist art, conceptual art and expressionism.”",
+          "src": "2025新高考I卷·语法填空",
+          "cat": "gaokao",
+          "t": "“我们希望____58____（呈现）颇为抽象的围棋和人工智能于视觉语境中，并与极简艺术、观念艺术和表现主义展开对话。”",
+          "year": 2025
+        },
+        {
+          "s": "It takes no account of the context.",
+          "src": "2024新高考I卷·七选五",
+          "cat": "gaokao",
+          "t": "它没有考虑语境。",
+          "year": 2024
+        },
+        {
+          "s": "Good social habits do something similar in a social context.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "良好的社会习惯在社会情境中做着类似的事。",
+          "year": 2024
+        },
+        {
+          "s": "When St．Augustine admitted his inability to define time， he highlighted one of time 's most noticeable qualities：Time becomes meaningful only in a defined context．Any timekeeping system is valid，and each is as praiseworthy as its purpose．",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "当圣奥古斯丁承认自己无法定义时间时，他指出了时间最显著的特性之一：时间只有在特定的语境中才有意义。任何计时系统都是有效的，而每一种都因其用途而值得称赞。",
+          "year": 2021
+        },
+        {
+          "s": "Though he acknowledges that engineering works can fail because the person who thought them up or engineered them simply got things wrong, in this book Dr Petroski widens his view to consider the larger context in which such failures occur.",
+          "src": "2020全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "尽管他承认，工程作品之所以会失败，是因为构思它们的人……",
+          "year": 2020
+        },
+        {
+          "s": "Sometimes we lose sight that the music has a wider context,” says Moran, “so I want to continue those dialogues.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "“有时我们忽略了音乐有更广阔的语境，”莫兰说，“所以我想延续那些对话。”",
+          "year": 2017
+        },
+        {
+          "s": "His plays remain popular today and are often reinterpreted in performances with wide-ranging cultural and historical contexts.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他的戏剧至今仍然受欢迎，并且经常在具有广泛文化和历史背景的演出中被重新诠释。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "the words that come just before and after a word, phrase or statement and help you to understand its meaning 上下文；语境",
+      "ex": [
+        {
+          "s": "Guess from the context.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "根据上下文猜测。",
+          "year": 2026
+        },
+        {
+          "s": "It's not as confusing as it seems: usually people from the two countries can understand each other from the context.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "这并不像看起来那么令人困惑：通常来自这两个国家的人可以从上下文中理解彼此。",
+          "year": ""
+        },
+        {
+          "s": "Guess what they mean from the context.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "t": "从上下文猜测它们的意思。",
+          "year": ""
+        },
+        {
+          "s": "Fill in each blank with the word or phrase that best fits the context .",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "t": "用最贴合语境的单词或短语填空。",
+          "year": 2018
+        },
+        {
+          "s": "When you have finished listening, try to work out the meaning from the context of the word.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "听完之后，试着从词的上下文来理解它的意思。",
+          "year": ""
+        },
+        {
+          "s": "If you continue reading, the context will probably help you understand what it means.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "t": "如果你继续读下去，上下文很可能会帮助你理解它的意思。",
+          "year": ""
+        }
+      ]
+    }
+  ]
+}
