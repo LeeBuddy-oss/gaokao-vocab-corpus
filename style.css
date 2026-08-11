@@ -32,6 +32,17 @@ body {
   line-height: 1.6;
 }
 
+/* 水墨意境背景 — 只改底层底色，卡片等容器保持原色 */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url('images/bg-mountains.png') center/cover no-repeat;
+  opacity: 0.10;
+  z-index: -1;
+  pointer-events: none;
+}
+
 .topbar {
   display: flex;
   align-items: center;
