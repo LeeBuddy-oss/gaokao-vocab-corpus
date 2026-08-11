@@ -352,8 +352,7 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   vertical-align: middle;
   letter-spacing: .5px;
 }
-.wv-genre { color: var(--muted); font-size: 13px; }
-.wv-genre .wv-hl { color: #dc2626; }
+/* wv-genre 已废弃，语篇分布改用 wv-struct 统一格式 */
 
 /* 响应式：窄屏上下堆叠 */
 @media (max-width: 680px) {

@@ -492,40 +492,189 @@ function _deriveUsagePos(catMap, metaPos) {
   return metaPos || '多词性';
 }
 
-function _deriveStructDesc(word, catMap, structMap, sigCat) {
-  const parts = [];
-  const tv = _topSig(structMap, sigCat, '动词词组');
-  if (catMap['动词词组'] && tv) parts.push('动词短语（如 ' + tv + '）');
-  if (catMap['动宾结构']) parts.push('动宾结构（' + word.toLowerCase() + '+名词/代词）');
-  if (catMap['介词词组']) parts.push('介词短语');
-  if (catMap['名词词组']) parts.push('名词短语');
-  if (!parts.length) return '';
-  return esc(word) + ' 在语料中主要构成' + parts.join('、') + '。';
+// ====== POS 归一化 ======
+function _normalizePos(pos) {
+  const p = (pos || '').toLowerCase();
+  if (p.includes('verb') || p.includes('; v') || p === 'v.') return 'verb';
+  if (p.includes('noun') || p === 'n.') return 'noun';
+  if (p.includes('adj')) return 'adj';
+  if (p.includes('adv')) return 'adv';
+  if (p.includes('prep')) return 'prep';
+  if (p.includes('pron')) return 'pron';
+  return 'other';
 }
 
-function _firstRepTrans(defs) {
-  for (const d of (defs || [])) {
-    for (const ex of (d.ex || [])) {
-      if (ex.t) {
-        const t = (ex.t || '').replace(/\s+/g, ' ').trim();
-        return t.length > 34 ? t.slice(0, 34) + '…' : t;
+// 强动词信号：不与介词重叠的小品词（out/up/off 等几乎只用于动词短语）
+const ST_VERB_PARTICLE = new Set(['out','up','off','away','back','aside','apart','together']);
+
+// 从语料实际用法推断主词性（以 meta.pos 为基准，仅在有强证据时覆盖）
+function _derivePrimaryPos(catMap, metaPos, word, structMap, sigCat) {
+  const metaNorm = _normalizePos(metaPos);
+
+  // 形容词/副词/介词/代词：信任 meta.pos，不因后接介词而误判为动词
+  if (metaNorm === 'adj' || metaNorm === 'adv' ||
+      metaNorm === 'prep' || metaNorm === 'pron') return metaNorm;
+
+  // 名词：仅当存在足量"不可伪"动词小品词（如 figure out）时才覆盖
+  if (metaNorm === 'noun') {
+    const w = word.toLowerCase();
+    let particleCount = 0;
+    Object.keys(sigCat).forEach(s => {
+      if (sigCat[s] === '动词词组' && s.startsWith(w + ' ')) {
+        const p = s.split(' ').pop();
+        if (ST_VERB_PARTICLE.has(p)) particleCount += structMap[s] || 0;
+      }
+    });
+    if (particleCount >= 3) return 'verb';
+    return 'noun';
+  }
+
+  // 动词：保持
+  if (metaNorm === 'verb') return 'verb';
+
+  // 未知词性：按频次推断
+  const verbScore = (catMap['动词词组'] || 0) + (catMap['动宾结构'] || 0);
+  const nounScore = (catMap['介词词组'] || 0) + (catMap['名词词组'] || 0);
+  if (verbScore > nounScore && verbScore > 0) return 'verb';
+  if (nounScore > 0) return 'noun';
+  return 'other';
+}
+
+// 不应出现在搭配中的停用词（连词/副词等）
+const ST_STOP = new Set([
+  'and','or','but','if','when','where','while','although','because','since',
+  'that','which','who','whom','whose','what','how','why','not','no','very',
+  'too','so','as','than','also','just','only','even','still','already','yet',
+  'now','then','here','there','up','down','out','off','away','back','more',
+  'most','less','least','much','many','few','several','various','other',
+  'another','such','same','different','similar','certain','particular',
+  'specific','general','main','major','minor','whole','entire','complete',
+  'full','total','partial','half','first','second','third','last','next',
+  'previous','following','former','latter','both','either','neither','all',
+  'any','some','none','one','two','three','four','five','six','seven',
+  'eight','nine','ten','however','therefore','thus','hence','moreover',
+  'furthermore','nevertheless','instead','otherwise','meanwhile','besides'
+]);
+
+// ====== 按词性从例句中提取真实搭配 ======
+function _extractPosCollocations(sentence, word, primaryPos, collocMap) {
+  if (!sentence || !word) return;
+  const w = word.toLowerCase();
+  const tokens = sentence.split(/\s+/);
+
+  for (let i = 0; i < tokens.length; i++) {
+    const clean = tokens[i].toLowerCase().replace(/[^a-z']/g, '');
+    if (clean !== w) continue;
+
+    const after  = i + 1 < tokens.length ? tokens[i + 1].toLowerCase().replace(/[^a-z']/g, '') : '';
+    const before = i - 1 >= 0 ? tokens[i - 1].toLowerCase().replace(/[^a-z']/g, '') : '';
+
+    if (primaryPos === 'verb') {
+      // 动词短语：word + 副词/小品词，word + 介词
+      if (after && (ST_PARTICLES.has(after) || ST_PREP.has(after))) {
+        const ph = w + ' ' + after;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+    }
+    else if (primaryPos === 'noun') {
+      // 名词短语：形容词 + word
+      if (before && /^[a-z]{3,}$/.test(before) &&
+          !ST_DET.has(before) && !ST_AUX.has(before) &&
+          !ST_PREP.has(before) && !ST_PARTICLES.has(before) && !ST_STOP.has(before)) {
+        const ph = before + ' ' + w;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+      // 名词 + 介词
+      if (after && ST_PREP.has(after)) {
+        const ph = w + ' ' + after;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+    }
+    else if (primaryPos === 'adj') {
+      // 形容词 + 介词
+      if (after && ST_PREP.has(after)) {
+        const ph = w + ' ' + after;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+      // 形容词 + 名词
+      if (after && /^[a-z]{3,}$/.test(after) &&
+          !ST_PREP.has(after) && !ST_PARTICLES.has(after) &&
+          !ST_AUX.has(after) && !ST_DET.has(after) && !ST_STOP.has(after)) {
+        const ph = w + ' ' + after;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+    }
+    else if (primaryPos === 'adv') {
+      // 动词 + 副词
+      if (before && /^[a-z]{3,}$/.test(before) &&
+          !ST_DET.has(before) && !ST_AUX.has(before) &&
+          !ST_PREP.has(before) && !ST_PARTICLES.has(before) && !ST_STOP.has(before)) {
+        const ph = before + ' ' + w;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+      // 副词 + 形容词
+      if (after && /^[a-z]{3,}$/.test(after) &&
+          !ST_PREP.has(after) && !ST_PARTICLES.has(after) &&
+          !ST_AUX.has(after) && !ST_DET.has(after) && !ST_STOP.has(after)) {
+        const ph = w + ' ' + after;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
+      }
+    }
+    else {
+      // 默认：word + 介词/小品词
+      if (after && (ST_PREP.has(after) || ST_PARTICLES.has(after))) {
+        const ph = w + ' ' + after;
+        collocMap[ph] = (collocMap[ph] || 0) + 1;
       }
     }
   }
-  return '';
 }
 
-// 识别功能：依据语料自动归纳（用真实例句译文作支撑，不编造）
-function _deriveFunctions(word, catMap, structMap, sigCat, repTrans) {
-  const verbish = (catMap['动词词组'] || 0) + (catMap['动宾结构'] || 0);
-  const nounish = (catMap['介词词组'] || 0) + (catMap['名词词组'] || 0);
-  const isVerb = verbish >= nounish;
-  const entries = Object.entries(structMap).sort((a, b) => b[1] - a[1]);
-  const topStr = entries.length ? entries[0][0] : word.toLowerCase();
-  let s = '在语篇中识别 ' + esc(word) + ' 作' + (isVerb ? '动词' : '名词') + '（核心搭配 ' + esc(topStr) + '）';
-  if (repTrans) s += '，如“' + esc(repTrans) + '”';
-  s += '，训练学生结合上下文推断语义、把握语篇逻辑的能力。';
-  return s;
+// ====== 常见结构：语法框架分析（按词性输出抽象模式） ======
+function _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos) {
+  const w = word.toLowerCase();
+  const parts = [];
+  const sigs = Object.keys(sigCat);
+
+  if (primaryPos === 'verb') {
+    const hasParticle = sigs.some(s =>
+      sigCat[s] === '动词词组' && s.includes(' ') && ST_PARTICLES.has(s.split(' ').pop() || ''));
+    const hasPrep = sigs.some(s =>
+      sigCat[s] === '动词词组' && s.includes(' ') &&
+      ST_PREP.has(s.split(' ').pop() || '') && !ST_PARTICLES.has(s.split(' ').pop() || ''));
+    if (hasParticle) parts.push(w + ' + 副词/小品词');
+    if (hasPrep) parts.push(w + ' + 介词');
+    if (catMap['动宾结构']) parts.push(w + ' + 名词/代词');
+    if (structMap['to ' + w] || structMap[w + '(动词)']) parts.push('to + ' + w);
+  }
+  else if (primaryPos === 'noun') {
+    if (catMap['名词词组'] || catMap['介词词组']) parts.push('形容词 + ' + w);
+    // 直接检查 structMap 中是否有 word + 介词 签名（不受 sigCat 误分类影响）
+    const hasNounPrep = sigs.some(s =>
+      s.startsWith(w + ' ') && ST_PREP.has(s.split(' ').pop() || ''));
+    if (hasNounPrep) parts.push(w + ' + 介词');
+    parts.push('冠词 + ' + w);
+  }
+  else if (primaryPos === 'adj') {
+    if (catMap['动宾结构'] || catMap['其他搭配']) parts.push(w + ' + 名词');
+    const hasAdjPrep = sigs.some(s =>
+      s.startsWith(w + ' ') && ST_PREP.has(s.split(' ').pop() || ''));
+    if (hasAdjPrep) parts.push(w + ' + 介词');
+    parts.push('代词 + ' + w);
+  }
+  else if (primaryPos === 'adv') {
+    parts.push('动词 + ' + w);
+    parts.push(w + ' + 形容词');
+  }
+  else {
+    // 回退：通用模式
+    if (catMap['动词词组']) parts.push(w + ' + 副词/小品词');
+    if (catMap['介词词组']) parts.push(w + ' + 介词');
+    if (catMap['动宾结构']) parts.push(w + ' + 名词/代词');
+  }
+
+  if (!parts.length) return '';
+  return parts.join('、');
 }
 
 // ====== 渲染风向标主函数 ======
@@ -587,15 +736,38 @@ function renderMindMap(word, entry) {
     });
   }
 
-  // ---- 右侧：用法分析（按语法结构合并）----
+  // ---- 右侧：用法分析 ----
   _normalizeVerb(structMap, sigCat, word);
   const usagePos = _deriveUsagePos(catMap, meta.pos);
-  const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat);
-  const repTrans = _firstRepTrans(defs);
-  const funcDesc = _deriveFunctions(word, catMap, structMap, sigCat, repTrans);
+  const primaryPos = _derivePrimaryPos(catMap, meta.pos, word, structMap, sigCat);
+  const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos);
+
+  // 按词性提取真实搭配
+  const collocMap = {};
+  defs.forEach((d) => {
+    (d.ex || []).forEach(ex => {
+      _extractPosCollocations(ex.s || '', word, primaryPos, collocMap);
+    });
+  });
+  let collocEntries = Object.entries(collocMap).sort((a, b) => b[1] - a[1]);
+  // 若主词性搭配不足 3 个，回退提取所有类型
+  if (collocEntries.length < 3) {
+    const fallbackMap = {};
+    defs.forEach((d) => {
+      (d.ex || []).forEach(ex => {
+        _extractPosCollocations(ex.s || '', word, 'other', fallbackMap);
+      });
+    });
+    const existing = new Set(collocEntries.map(e => e[0]));
+    Object.entries(fallbackMap).sort((a, b) => b[1] - a[1]).forEach(e => {
+      if (!existing.has(e[0])) collocEntries.push(e);
+    });
+    collocEntries.sort((a, b) => b[1] - a[1]);
+  }
+  const topCollocations = collocEntries.slice(0, 5);
 
   let rightHtml = '';
-  rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在十年高考与教材语料中主要作<b>${esc(usagePos)}</b>，共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
+  rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在例句库中主要作<b>${esc(usagePos)}</b>，共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
 
   // 词义说明（保留）
   if (senses.length > 0) {
@@ -609,19 +781,17 @@ function renderMindMap(word, entry) {
     rightHtml += `</div>`;
   }
 
-  // 高频搭配：按语法结构合并展示
-  const structEntries = Object.entries(structMap).sort((a, b) => b[1] - a[1]).slice(0, 6);
-  if (structEntries.length > 0) {
-    const sl = structEntries.map(([s, c]) =>
-      `<span class="wv-hl">${esc(s)}</span><span class="wv-num">(${c}次)</span>`).join('、');
-    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">高频搭配</span>${sl}</p>`;
+  // 常见结构（语法框架分析）
+  if (structDesc) {
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">常见结构</span>${esc(structDesc)}</p>`;
   }
 
-  // 常出现结构（依据语料自动归纳）
-  if (structDesc) rightHtml += `<p class="wv-line"><span class="wv-tag">常出现结构</span>${structDesc}</p>`;
-
-  // 识别功能（依据语料自动归纳）
-  if (funcDesc) rightHtml += `<p class="wv-line"><span class="wv-tag">识别功能</span>${funcDesc}</p>`;
+  // 高频搭配（按词性提取的真实短语，3-5 个）
+  if (topCollocations.length > 0) {
+    const sl = topCollocations.map(([ph, c]) =>
+      `<span class="wv-hl">${esc(ph)}</span><span class="wv-num">(${c}次)</span>`).join('、');
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">高频搭配</span>${sl}</p>`;
+  }
 
   // 涵盖义项
   const coverList = senses.map(s => s.label).filter(Boolean).slice(0, 6);
@@ -629,10 +799,12 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line"><span class="wv-tag">涵盖</span>${esc(coverList.join('、'))}等义项</p>`;
   }
 
-  // 语篇分布
+  // 语篇分布（与高频搭配同格式）
   const genres = _detectGenres([...srcSet]);
   if (genres.types.length > 0 && totalGaokao >= 3) {
-    rightHtml += `<p class="wv-line wv-genre">语篇分布：多见于<span class="wv-hl">${esc(genres.types[0].t)}</span>类试题。</p>`;
+    const gl = genres.types.slice(0, 3).map(({ t, c }) =>
+      `<span class="wv-hl">${esc(t)}</span><span class="wv-num">(${c}次)</span>`).join('、');
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}</p>`;
   }
 
   return `<div class="wv-wrap">
