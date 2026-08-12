@@ -27,6 +27,27 @@
           "src": "外研社B2 U3",
           "cat": "waiyan",
           "t": "阅读标题以了解这些事实和数据代表什么，阅读垂直和水平轴上的标签，并看明白关键信息，这些都很重要。"
+        },
+        {
+          "s": "Research has found that learning obtained from a well-told story is remembered more accurately, and for far longer, than from facts and figures.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "研究发现，从一个讲述精彩的故事中学到的东西，比从事实和数据中学到的记得更准确，也持久得多。"
+        },
+        {
+          "s": "Furthermore, around 50% of the world’s population live in regions where the figure is now below the replacement level (ie 2.1 births per woman) and almost all developed nations are experiencing sub-replacement birth rate.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
+        },
+        {
+          "s": "Facts and figures.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "事实与数据。"
         }
       ]
     },
@@ -53,20 +74,19 @@
           "src": "外研社B3 U2",
           "cat": "waiyan",
           "t": "这个节目使他的行为引起了公众的关注，温顿因此在全世界成为了一位受人尊敬的人物。"
-        }
-      ]
-    },
-    {
-      "def": "the shape of a person seen from a distance or not clearly （远处人的）轮廓；（隐约可见的）人影",
-      "ex": [
+        },
         {
           "s": "Similarly, the corporate world has certainly known its fair share of disruption, yet it is only in the last couple of decades that the “Disruptor” has become a recognisable figure in the way we talk about big business.",
           "src": "2026北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
-          "t": "所有参与者都必须探讨通信或交通技术如何在整个历史中提升了美国人的生活质量。对许多人来说，技术意味着电脑、手持设备或飞往遥远行星的飞行器。然而，技术也是科学知识的应用，用以解决问题，以无数方式触动生活。"
+          "t": "类似地，企业界当然也经历过公平的颠覆，然而只是在过去几十年间，\"颠覆者\"才成为我们谈论大公司时一个耳熟能详的人物。"
         }
       ]
+    },
+    {
+      "def": "the shape of a person seen from a distance or not clearly （远处人的）轮廓；（隐约可见的）人影",
+      "ex": []
     },
     {
       "def": "the shape of the human body, especially a woman's body that is attractive 身材；体形；（尤指）身段",
@@ -82,42 +102,7 @@
     },
     {
       "def": "a person or an animal in a drawing, painting, etc., or in a story （绘画或故事中的）人，动物",
-      "ex": [
-        {
-          "s": "Facts and figures.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "事实与数据。"
-        },
-        {
-          "s": "Furthermore, around 50% of the world’s population live in regions where the figure is now below the replacement level (ie 2.1 births per woman) and almost all developed nations are experiencing sub-replacement birth rate.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
-        },
-        {
-          "s": "We figured that in twenty years each of us ought to have our destiny worked out and our fortunes made, whatever they were going to be.”“It sounds pretty interesting,” said the policeman.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "我们想，二十年后，我们每个人都应该已经确定了自己的命运，并且发了财，不管结果会是什么。＂＂听起来挺有意思的，＂警察说。"
-        },
-        {
-          "s": "Research has found that learning obtained from a well-told story is remembered more accurately, and for far longer, than from facts and figures.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "研究发现，从一个讲述精彩的故事中学到的东西，比从事实和数据中学到的记得更准确，也持久得多。"
-        },
-        {
-          "s": "The study showed the animals had figured out how to apply what they learned about human faces during training to new faces in the testing stage.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "研究表明，这些动物已经想出了如何把训练时学到的关于人脸的知识，运用到测试阶段的新面孔上。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a statue of a person or an animal （人、动物的）雕像，塑像",
@@ -168,6 +153,12 @@
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "t": "但后来我想我最好全力以赴，看看会发生什么。"
+        },
+        {
+          "s": "We figured that in twenty years each of us ought to have our destiny worked out and our fortunes made, whatever they were going to be.”“It sounds pretty interesting,” said the policeman.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "我们想，二十年后，我们每个人都应该已经确定了自己的命运，并且发了财，不管结果会是什么。＂＂听起来挺有意思的，＂警察说。"
         }
       ]
     },
@@ -269,6 +260,13 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "许多人疯狂地想办法如何安排时间与朋友、家人、工作、娱乐等共度。____13____ 找到方法以组合的方式享受它们。"
+        },
+        {
+          "s": "The study showed the animals had figured out how to apply what they learned about human faces during training to new faces in the testing stage.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "研究表明，这些动物已经想出了如何把训练时学到的关于人脸的知识，运用到测试阶段的新面孔上。"
         }
       ]
     },
