@@ -194,7 +194,7 @@ function todayStr() {
 
 // 页面访问（PV）：登录成功/恢复登录态时写入一条
 function trackVisit() {
-  if (!STATS_READY || !CLOUDBASE_UID) return;
+  if (!STATS_READY || !CLOUDBASE_UID || !CLOUDBASE_DB) return;
   CLOUDBASE_DB.collection('visits').add({
     uid: CLOUDBASE_UID, ts: Date.now(), date: todayStr()
   }).catch(e => console.warn('[stats] 访问统计失败', e));
@@ -205,7 +205,7 @@ const statQueue = [];
 let statTimer = null;
 
 function trackQuery(word) {
-  if (!STATS_READY || !CLOUDBASE_UID || !word) return;
+  if (!STATS_READY || !CLOUDBASE_UID || !word || !CLOUDBASE_DB) return;
   statQueue.push({
     uid: CLOUDBASE_UID,
     word: String(word).toLowerCase().trim(),
@@ -217,7 +217,7 @@ function trackQuery(word) {
 }
 
 async function flushStats() {
-  if (!statQueue.length) return;
+  if (!statQueue.length || !CLOUDBASE_DB) return;
   const batch = statQueue.splice(0, statQueue.length);
   statTimer = null;
   try {
@@ -246,13 +246,21 @@ async function initAuth() {
   try {
     const app = cloudbase.init({ env: CLOUDBASE_ENV });
     CLOUDBASE_AUTH = app.auth();
-    CLOUDBASE_DB   = app.database();
+    // 数据库用于统计；若环境不支持文档型数据库，仅关闭统计，不影响登录
+    try {
+      CLOUDBASE_DB = app.database();
+    } catch (dbErr) {
+      console.warn('[auth] 文档数据库不可用，统计功能已关闭', dbErr);
+      CLOUDBASE_DB = null;
+    }
     CLOUDBASE_AUTH.onLoginStateChanged(user => {
       if (user) {
         if (!CLOUDBASE_UID) {
           CLOUDBASE_UID = user.uid;
-          STATS_READY = true;
-          trackVisit();
+          if (CLOUDBASE_DB) {
+            STATS_READY = true;
+            trackVisit();
+          }
         }
         updateLogoutBtn(true);
         hideAuthOverlay();
@@ -265,7 +273,9 @@ async function initAuth() {
     const state = await CLOUDBASE_AUTH.getLoginState();
     if (state && state.user) {
       CLOUDBASE_UID = state.user.uid;
-      STATS_READY = true;
+      if (CLOUDBASE_DB) {
+        STATS_READY = true;
+      }
       updateLogoutBtn(true);
       hideAuthOverlay();
       trackVisit();

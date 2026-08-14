@@ -73,6 +73,12 @@
     $dash.innerHTML = '<div class="admin-main"><p class="load-tip">正在连接数据库并加载统计数据…</p></div>';
     try {
       await initCloud();
+      // 如果数据库不可用，显示提示并结束（不抛错）
+      if (!DB) {
+        $dash.innerHTML = '<div class="admin-main"><p class="load-tip">⚠️ 当前 CloudBase 环境不支持文档型数据库，统计功能已关闭。<br/><br/>' +
+          '如需启用统计，请使用支持文档数据库的 CloudBase 环境。</p></div>';
+        return;
+      }
       await loadData();
       renderDashboard();
     } catch (e) {
@@ -89,7 +95,13 @@
     }
     const app = cloudbase.init({ env: ENV });
     const auth = app.auth();
-    DB = app.database();
+    try {
+      DB = app.database();
+    } catch (dbErr) {
+      console.warn('[admin] 文档数据库不可用，统计功能已关闭', dbErr);
+      DB = null;
+      return; // 数据库不可用时不继续，enterDashboard 会显示提示
+    }
     try {
       const state = await auth.getLoginState();
       if (!state || !state.user) {
