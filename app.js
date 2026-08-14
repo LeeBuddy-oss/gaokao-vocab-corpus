@@ -18,6 +18,132 @@ let FAMILY_INDEX = null; // 小写形式 -> { seq,cn,verb,noun,adj,adv }（词�
 const mmCache = {};      // letter -> { word: mindmap }
 let activeIdx = -1;      // suggestion highlight index
 
+// 不规则动词变体表（原形 -> 所有变体）
+const IRREGULAR = {
+  'be': ['am','is','are','was','were','been','being'],
+  'have': ['has','had','having'],
+  'do': ['did','done','does','doing'],
+  'go': ['went','gone','goes','going'],
+  'run': ['ran','runs','running'],
+  'come': ['came','comes','coming'],
+  'see': ['saw','seen','sees','seeing'],
+  'take': ['took','taken','takes','taking'],
+  'give': ['gave','given','gives','giving'],
+  'know': ['knew','known','knows','knowing'],
+  'think': ['thought','thinks','thinking'],
+  'get': ['got','gotten','gets','getting'],
+  'make': ['made','makes','making'],
+  'say': ['said','says','saying'],
+  'find': ['found','finds','finding'],
+  'tell': ['told','tells','telling'],
+  'become': ['became','becomes','becoming'],
+  'show': ['showed','shown','shows','showing'],
+  'leave': ['left','leaves','leaving'],
+  'feel': ['felt','feels','feeling'],
+  'put': ['puts','putting'],
+  'bring': ['brought','brings','bringing'],
+  'begin': ['began','begun','begins','beginning'],
+  'keep': ['kept','keeps','keeping'],
+  'hold': ['held','holds','holding'],
+  'write': ['wrote','written','writes','writing'],
+  'stand': ['stood','stands','standing'],
+  'hear': ['heard','hears','hearing'],
+  'let': ['lets','letting'],
+  'mean': ['meant','means','meaning'],
+  'set': ['sets','setting'],
+  'meet': ['met','meets','meeting'],
+  'pay': ['paid','pays','paying'],
+  'sit': ['sat','sits','sitting'],
+  'speak': ['spoke','spoken','speaks','speaking'],
+  'lie': ['lay','lain','lies','lying'],
+  'lead': ['led','leads','leading'],
+  'read': ['reads','reading'],
+  'grow': ['grew','grown','grows','growing'],
+  'lose': ['lost','loses','losing'],
+  'fall': ['fell','fallen','falls','falling'],
+  'send': ['sent','sends','sending'],
+  'build': ['built','builds','building'],
+  'understand': ['understood','understands','understanding'],
+  'draw': ['drew','drawn','draws','drawing'],
+  'break': ['broke','broken','breaks','breaking'],
+  'spend': ['spent','spends','spending'],
+  'cut': ['cuts','cutting'],
+  'rise': ['rose','risen','rises','rising'],
+  'drive': ['drove','driven','drives','driving'],
+  'buy': ['bought','buys','buying'],
+  'wear': ['wore','worn','wears','wearing'],
+  'choose': ['chose','chosen','chooses','choosing'],
+  'eat': ['ate','eaten','eats','eating'],
+  'sleep': ['slept','sleeps','sleeping'],
+  'catch': ['caught','catches','catching'],
+  'drink': ['drank','drunk','drinks','drinking'],
+  'fly': ['flew','flown','flies','flying'],
+  'sing': ['sang','sung','sings','singing'],
+  'swim': ['swam','swum','swims','swimming'],
+  'throw': ['threw','thrown','throws','throwing'],
+  'fight': ['fought','fights','fighting'],
+  'ride': ['rode','ridden','rides','riding'],
+  'seek': ['sought','seeks','seeking'],
+  'teach': ['taught','teaches','teaching'],
+  'stick': ['stuck','sticks','sticking'],
+  'beat': ['beat','beaten','beats','beating'],
+  'blow': ['blew','blown','blows','blowing'],
+  'burn': ['burnt','burned','burns','burning'],
+  'dig': ['dug','digs','digging'],
+  'hang': ['hung','hanged','hangs','hanging'],
+  'hide': ['hid','hidden','hides','hiding'],
+  'hit': ['hits','hitting'],
+  'hurt': ['hurts','hurting'],
+  'lay': ['laid','lays','laying'],
+  'deal': ['dealt','deals','dealing'],
+  'feed': ['fed','feeds','feeding'],
+  'ring': ['rang','rung','rings','ringing'],
+  'shake': ['shook','shaken','shakes','shaking'],
+  'shut': ['shuts','shutting'],
+  'spread': ['spreads','spreading'],
+  'strike': ['struck','strikes','striking'],
+  'sweep': ['swept','sweeps','sweeping'],
+  'wake': ['woke','woken','wakes','waking'],
+  'bet': ['bets','betting'],
+  'bend': ['bent','bends','bending'],
+  'bind': ['bound','binds','binding'],
+  'bleed': ['bled','bleeds','bleeding'],
+  'breed': ['bred','breeds','breeding'],
+  'cast': ['casts','casting'],
+  'creep': ['crept','creeps','creeping'],
+  'dwell': ['dwelt','dwells','dwelling'],
+  'flee': ['fled','flees','fleeing'],
+  'forbid': ['forbade','forbidden','forbids','forbidding'],
+  'forgive': ['forgave','forgiven','forgives','forgiving'],
+  'freeze': ['froze','frozen','freezes','freezing'],
+  'kneel': ['knelt','kneels','kneeling'],
+  'lean': ['leant','leaned','leans','leaning'],
+  'leap': ['leapt','leaped','leaps','leaping'],
+  'shine': ['shone','shined','shines','shining'],
+  'slide': ['slid','slides','sliding'],
+  'sow': ['sowed','sown','sows','sowing'],
+  'speed': ['sped','speeded','speeds','speeding'],
+  'spell': ['spelt','spelled','spells','spelling'],
+  'spill': ['spilt','spilled','spills','spilling'],
+  'spin': ['spun','spins','spinning'],
+  'spit': ['spat','spits','spitting'],
+  'split': ['splits','splitting'],
+  'spoil': ['spoilt','spoiled','spoils','spoiling'],
+  'steal': ['stole','stolen','steals','stealing'],
+  'sting': ['stung','stings','stinging'],
+  'stride': ['strode','strides','striding'],
+  'string': ['strung','strings','stringing'],
+  'strive': ['strove','striven','strives','striving'],
+  'swear': ['swore','sworn','swears','swearing'],
+  'tear': ['tore','torn','tears','tearing'],
+  'tread': ['trod','trodden','treads','treading'],
+  'weave': ['wove','woven','weaves','weaving'],
+  'wind': ['wound','winds','winding'],
+  'withdraw': ['withdrew','withdrawn','withdraws','withdrawing'],
+  'withhold': ['withheld','withholds','withholding'],
+  'withstand': ['withstood','withstands','withstanding'],
+};
+
 const $search = document.getElementById('search');
 const $suggest = document.getElementById('suggest');
 const $result = document.getElementById('result');
@@ -139,6 +265,81 @@ async function ensureFamily() {
   return FAMILY_INDEX;
 }
 
+// 为单词生成规则时态/数/级变体
+function _addRegularForms(w, variants) {
+  // 第三人称单数
+  variants.add(w + 's');
+  if (/[sxz]$/.test(w) || /[sc]h$/.test(w)) {
+    variants.add(w + 'es');
+  } else if (/[^aeiou]y$/.test(w)) {
+    variants.add(w.slice(0, -1) + 'ies');
+  } else if (/o$/.test(w)) {
+    variants.add(w + 'es');
+  }
+
+  // 过去式 / 过去分词
+  variants.add(w + 'ed');
+  if (w.endsWith('e')) {
+    variants.add(w + 'd');
+  } else if (/[^aeiou]y$/.test(w)) {
+    variants.add(w.slice(0, -1) + 'ied');
+  }
+
+  // 现在分词
+  variants.add(w + 'ing');
+  if (w.endsWith('e')) {
+    variants.add(w.slice(0, -1) + 'ing');
+  }
+
+  // 名词复数
+  if (/[sxz]$/.test(w) || /[sc]h$/.test(w)) {
+    variants.add(w + 'es');
+  } else if (/[^aeiou]y$/.test(w)) {
+    variants.add(w.slice(0, -1) + 'ies');
+  }
+
+  // 形容词/副词常见派生
+  variants.add(w + 'er');
+  variants.add(w + 'est');
+  variants.add(w + 'ly');
+  variants.add(w + 'ness');
+  variants.add(w + 'ment');
+}
+
+// 获取单词的所有变体（family.json + 不规则动词 + 规则变化）
+function _getWordVariants(word) {
+  const w = word.toLowerCase();
+  const variants = new Set();
+
+  // 1. family.json 词族变体
+  const fam = FAMILY_INDEX && FAMILY_INDEX[w];
+  if (fam) {
+    for (const k of ['verb','noun','adj','adv']) {
+      const v = (fam[k] || '').trim();
+      if (!v) continue;
+      for (const part of v.split(/[\/\n]/)) {
+        const p = part.trim().toLowerCase();
+        if (p && p !== w) variants.add(p);
+      }
+    }
+  }
+
+  // 2. 不规则动词变体
+  if (IRREGULAR[w]) {
+    for (const v of IRREGULAR[w]) {
+      if (v !== w) variants.add(v);
+    }
+  }
+
+  // 3. 规则时态/数/级变化（只要该词在 family.json 中是动词，或没有 family 信息）
+  const isVerb = fam && fam.verb;
+  if (!fam || isVerb) {
+    _addRegularForms(w, variants);
+  }
+
+  return Array.from(variants).filter(v => v && v !== w);
+}
+
 // 把用户输入解析成 manifest 中的原始词键（处理大小写/特殊词）
 function resolveKey(word) {
   if (WORD_FILES && WORD_FILES[word]) return word;
@@ -172,9 +373,10 @@ async function search(rawWord) {
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
+    const variants = _getWordVariants(word);
     $empty.hidden = true;
     const mmHtml = renderMindMap(word, entry);
-    renderEntry(entry, word, mmHtml, fam);
+    renderEntry(entry, word, mmHtml, fam, variants);
   } catch (e) {
     console.error(e);
   } finally {
@@ -846,7 +1048,7 @@ function renderFamily(word, fam) {
   </div>`;
 }
 
-function renderEntry(entry, word, mmHtml, fam) {
+function renderEntry(entry, word, mmHtml, fam, variants) {
   const meta = entry.meta || {};
   let html = '';
 
@@ -890,7 +1092,7 @@ function renderEntry(entry, word, mmHtml, fam) {
       html += `<div class="ex s-${cat}">` +
         `<div class="ex-line">` +
         `<span class="ex-num">(${exIdx + 1})</span> ` +
-        `<span class="ex-sentence">${highlight(ex.s || '', word)}</span>` +
+        `<span class="ex-sentence">${highlight(ex.s || '', word, variants)}</span>` +
         (ex.src ? ` <span class="ex-src">(${esc(ex.src)})</span>` : '') +
         `</div>` +
         (ex.t ? `<div class="ex-trans">${esc(ex.t)}</div>` : '') +
@@ -935,13 +1137,32 @@ function esc(s) {
   return String(s).replace(/[&<>"']/g, c =>
     ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 }
-function highlight(s, word) {
+function highlight(s, word, variants) {
   const base = esc(s);
   const w = (word || '').trim();
   if (!w) return base;
-  const safe = w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+  // 收集所有要匹配的变体（原形 + variants），按长度降序排列（长的优先匹配）
+  const all = [w];
+  if (variants && variants.length) {
+    for (const v of variants) {
+      if (v && v !== w) all.push(v);
+    }
+  }
+  all.sort((a, b) => b.length - a.length);
+
+  // 去重并转义
+  const seen = new Set();
+  const parts = [];
+  for (const v of all) {
+    const lv = v.toLowerCase();
+    if (seen.has(lv)) continue;
+    seen.add(lv);
+    parts.push(v.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+  }
+
   try {
-    return base.replace(new RegExp('(' + safe + ')', 'gi'), '<mark>$1</mark>');
+    return base.replace(new RegExp('(' + parts.join('|') + ')', 'gi'), '<mark>$1</mark>');
   } catch (e) { return base; }
 }
 function fmt(n) { return (n || 0).toLocaleString('en-US'); }
