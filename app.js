@@ -149,17 +149,16 @@ const $suggest = document.getElementById('suggest');
 const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
-/* ========== 登录认证（腾讯云 CloudBase） ========== */
-const CLOUDBASE_ENV = ''; // TODO: 填入你的 CloudBase 环境 ID（如 my-gk-vocab-xxxx）
-const $overlay  = document.getElementById('auth-overlay');
-const $authForm = document.getElementById('auth-form');
-const $authEmail = document.getElementById('auth-email');
-const $authPass  = document.getElementById('auth-pass');
-const $authBtn   = document.getElementById('auth-btn');
+/* ========== 匿名登录 + 使用统计（腾讯云 CloudBase） ========== */
+const CLOUDBASE_ENV = (window.CB_CONFIG && window.CB_CONFIG.env) || '';
+const $overlay   = document.getElementById('auth-overlay');
+const $enterBtn  = document.getElementById('enter-btn');
 const $authMsg   = document.getElementById('auth-msg');
-const $logoutBtn = document.getElementById('logout-btn');
 
 let CLOUDBASE_AUTH = null;
+let CLOUDBASE_DB   = null;
+let CLOUDBASE_UID  = null;   // 当前访客匿名 UID（统计口径：独立访客）
+let STATS_READY    = false;  // 统计可用标记
 
 function setAuthMsg(text, ok) {
   if (!text) { $authMsg.hidden = true; return; }
@@ -170,18 +169,67 @@ function setAuthMsg(text, ok) {
 
 function showAuthOverlay() {
   $overlay.hidden = false;
-  $logoutBtn.style.display = 'none';
   document.body.style.overflow = 'hidden';
 }
 
 function hideAuthOverlay() {
   $overlay.hidden = true;
-  $logoutBtn.style.display = 'inline-block';
   document.body.style.overflow = '';
 }
 
+/* ---------- 统计埋点（visits / queries 两个集合） ---------- */
+function todayStr() {
+  const d = new Date();
+  const p = n => String(n).padStart(2, '0');
+  return d.getFullYear() + '-' + p(d.getMonth() + 1) + '-' + p(d.getDate());
+}
+
+// 页面访问（PV）：匿名登录成功/恢复登录态时写入一条
+function trackVisit() {
+  if (!STATS_READY || !CLOUDBASE_UID) return;
+  CLOUDBASE_DB.collection('visits').add({
+    uid: CLOUDBASE_UID, ts: Date.now(), date: todayStr()
+  }).catch(e => console.warn('[stats] 访问统计失败', e));
+}
+
+// 查询统计：内存缓冲，满 10 条或 15 秒批量写入，避免频繁请求
+const statQueue = [];
+let statTimer = null;
+
+function trackQuery(word) {
+  if (!STATS_READY || !CLOUDBASE_UID || !word) return;
+  statQueue.push({
+    uid: CLOUDBASE_UID,
+    word: String(word).toLowerCase().trim(),
+    ts: Date.now(),
+    date: todayStr()
+  });
+  if (statQueue.length >= 10) flushStats();
+  else if (!statTimer) statTimer = setTimeout(flushStats, 15000);
+}
+
+async function flushStats() {
+  if (!statQueue.length) return;
+  const batch = statQueue.splice(0, statQueue.length);
+  statTimer = null;
+  try {
+    await CLOUDBASE_DB.collection('queries').add(batch);
+  } catch (e) {
+    console.warn('[stats] 查询统计上报失败', e);
+  }
+}
+
+// 页面离开前尽力上报剩余统计
+window.addEventListener('pagehide', () => {
+  if (statQueue.length && STATS_READY && CLOUDBASE_DB) {
+    const batch = statQueue.splice(0, statQueue.length);
+    CLOUDBASE_DB.collection('queries').add(batch).catch(() => {});
+  }
+});
+
+/* ---------- 初始化：匿名登录 ---------- */
 async function initAuth() {
-  // 未配置环境 ID 时进入开发模式：跳过登录（本地预览/未启用前不锁死站点）
+  // 未配置环境 ID 时进入开发模式：跳过登录，直接可用（本地预览/未启用前不锁站）
   if (!CLOUDBASE_ENV || typeof cloudbase === 'undefined') {
     hideAuthOverlay();
     console.warn('[auth] CloudBase 未配置，开发模式：跳过登录');
@@ -190,47 +238,53 @@ async function initAuth() {
   try {
     const app = cloudbase.init({ env: CLOUDBASE_ENV });
     CLOUDBASE_AUTH = app.auth();
+    CLOUDBASE_DB   = app.database();
     CLOUDBASE_AUTH.onLoginStateChanged(user => {
-      if (user) { hideAuthOverlay(); } else { showAuthOverlay(); }
+      if (user) {
+        if (!CLOUDBASE_UID) {
+          CLOUDBASE_UID = user.uid;
+          STATS_READY = true;
+          trackVisit();
+        }
+        hideAuthOverlay();
+      } else {
+        showAuthOverlay();
+      }
     });
+    // 已有匿名登录态（30 天有效）自动恢复，无需再点进入
+    const state = await CLOUDBASE_AUTH.getLoginState();
+    if (state && state.user) {
+      CLOUDBASE_UID = state.user.uid;
+      STATS_READY = true;
+      hideAuthOverlay();
+      trackVisit();
+      return;
+    }
+    showAuthOverlay();
   } catch (e) {
     console.error('[auth] CloudBase 初始化失败，放行访问', e);
     hideAuthOverlay();
   }
 }
 
-// 登录表单提交
-$authForm.addEventListener('submit', async ev => {
-  ev.preventDefault();
-  const email = $authEmail.value.trim();
-  const pass  = $authPass.value;
-  if (!email || !pass) { setAuthMsg('请输入邮箱和密码'); return; }
-  $authBtn.disabled = true;
-  $authBtn.textContent = '登录中…';
+// 点击"进入查询" → 匿名登录（自动分配唯一 UID 用于统计）
+$enterBtn.addEventListener('click', async () => {
+  if (!CLOUDBASE_AUTH) { hideAuthOverlay(); return; }
+  $enterBtn.disabled = true;
+  $enterBtn.textContent = '正在进入…';
   setAuthMsg('');
   try {
-    await CLOUDBASE_AUTH.signInWithEmailAndPassword(email, pass);
+    await CLOUDBASE_AUTH.signInAnonymously();
     // 登录成功后的界面切换由 onLoginStateChanged 处理
   } catch (e) {
     const code = e.code || '';
-    let msg = '登录失败，请重试';
-    if (code.includes('user-not-found') || code.includes('wrong-password')) msg = '邮箱或密码错误';
-    else if (code.includes('invalid-email'))  msg = '邮箱格式不正确';
-    else if (code.includes('too-many-requests')) msg = '尝试次数过多，请稍后再试';
-    else if (code.includes('network')) msg = '网络异常，请检查网络后重试';
+    let msg = '进入失败，请重试';
+    if (code.includes('network')) msg = '网络异常，请检查网络后重试';
+    else if (code.includes('anonymous')) msg = '匿名登录暂不可用，请稍后再试';
     setAuthMsg(msg);
-  } finally {
-    $authBtn.disabled = false;
-    $authBtn.textContent = '登 录';
+    $enterBtn.disabled = false;
+    $enterBtn.textContent = '🔍 进入查询';
   }
-});
-
-// 退出登录
-$logoutBtn.addEventListener('click', async () => {
-  if (CLOUDBASE_AUTH) {
-    try { await CLOUDBASE_AUTH.signOut(); } catch (e) { console.error('[auth] 退出失败', e); }
-  }
-  showAuthOverlay();
 });
 
 init();
@@ -459,6 +513,7 @@ async function search(rawWord) {
     $empty.hidden = true;
     const mmHtml = renderMindMap(word, entry);
     renderEntry(entry, word, mmHtml, fam, variants);
+    trackQuery(word); // 统计埋点：记录本次查询
   } catch (e) {
     console.error(e);
   } finally {
