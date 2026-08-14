@@ -150,7 +150,7 @@ const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
 /* ========== 访问码门槛（免注册，输入一次永久记住） ========== */
-const ACCESS_CODE_SHA256 = '24c387b7cd22a79876fe121fb1cd9a191c8a77167f692ac8c251c5b449895eb6'; // sha256(访问码)
+const ACCESS_CODE_SHA256 = 'dbebdea8b6a3e1a982af32293091bab40e300b1cbfbabbabe85e320c748dce18'; // sha256(访问码)
 const GATE_KEY = 'gk_gate_ok';
 const $overlay   = document.getElementById('auth-overlay');
 const $authMsg   = document.getElementById('auth-msg');
