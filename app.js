@@ -331,11 +331,8 @@ function _getWordVariants(word) {
     }
   }
 
-  // 3. 规则时态/数/级变化（只要该词在 family.json 中是动词，或没有 family 信息）
-  const isVerb = fam && fam.verb;
-  if (!fam || isVerb) {
-    _addRegularForms(w, variants);
-  }
+  // 3. 规则时态/数/级变化（所有词都生成，family.json 已记录的变体不会重复加入）
+  _addRegularForms(w, variants);
 
   return Array.from(variants).filter(v => v && v !== w);
 }
