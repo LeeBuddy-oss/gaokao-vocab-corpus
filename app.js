@@ -149,9 +149,94 @@ const $suggest = document.getElementById('suggest');
 const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
+/* ========== 登录认证（腾讯云 CloudBase） ========== */
+const CLOUDBASE_ENV = ''; // TODO: 填入你的 CloudBase 环境 ID（如 my-gk-vocab-xxxx）
+const $overlay  = document.getElementById('auth-overlay');
+const $authForm = document.getElementById('auth-form');
+const $authEmail = document.getElementById('auth-email');
+const $authPass  = document.getElementById('auth-pass');
+const $authBtn   = document.getElementById('auth-btn');
+const $authMsg   = document.getElementById('auth-msg');
+const $logoutBtn = document.getElementById('logout-btn');
+
+let CLOUDBASE_AUTH = null;
+
+function setAuthMsg(text, ok) {
+  if (!text) { $authMsg.hidden = true; return; }
+  $authMsg.textContent = text;
+  $authMsg.className = 'auth-msg' + (ok ? ' ok' : '');
+  $authMsg.hidden = false;
+}
+
+function showAuthOverlay() {
+  $overlay.hidden = false;
+  $logoutBtn.style.display = 'none';
+  document.body.style.overflow = 'hidden';
+}
+
+function hideAuthOverlay() {
+  $overlay.hidden = true;
+  $logoutBtn.style.display = 'inline-block';
+  document.body.style.overflow = '';
+}
+
+async function initAuth() {
+  // 未配置环境 ID 时进入开发模式：跳过登录（本地预览/未启用前不锁死站点）
+  if (!CLOUDBASE_ENV || typeof cloudbase === 'undefined') {
+    hideAuthOverlay();
+    console.warn('[auth] CloudBase 未配置，开发模式：跳过登录');
+    return;
+  }
+  try {
+    const app = cloudbase.init({ env: CLOUDBASE_ENV });
+    CLOUDBASE_AUTH = app.auth();
+    CLOUDBASE_AUTH.onLoginStateChanged(user => {
+      if (user) { hideAuthOverlay(); } else { showAuthOverlay(); }
+    });
+  } catch (e) {
+    console.error('[auth] CloudBase 初始化失败，放行访问', e);
+    hideAuthOverlay();
+  }
+}
+
+// 登录表单提交
+$authForm.addEventListener('submit', async ev => {
+  ev.preventDefault();
+  const email = $authEmail.value.trim();
+  const pass  = $authPass.value;
+  if (!email || !pass) { setAuthMsg('请输入邮箱和密码'); return; }
+  $authBtn.disabled = true;
+  $authBtn.textContent = '登录中…';
+  setAuthMsg('');
+  try {
+    await CLOUDBASE_AUTH.signInWithEmailAndPassword(email, pass);
+    // 登录成功后的界面切换由 onLoginStateChanged 处理
+  } catch (e) {
+    const code = e.code || '';
+    let msg = '登录失败，请重试';
+    if (code.includes('user-not-found') || code.includes('wrong-password')) msg = '邮箱或密码错误';
+    else if (code.includes('invalid-email'))  msg = '邮箱格式不正确';
+    else if (code.includes('too-many-requests')) msg = '尝试次数过多，请稍后再试';
+    else if (code.includes('network')) msg = '网络异常，请检查网络后重试';
+    setAuthMsg(msg);
+  } finally {
+    $authBtn.disabled = false;
+    $authBtn.textContent = '登 录';
+  }
+});
+
+// 退出登录
+$logoutBtn.addEventListener('click', async () => {
+  if (CLOUDBASE_AUTH) {
+    try { await CLOUDBASE_AUTH.signOut(); } catch (e) { console.error('[auth] 退出失败', e); }
+  }
+  showAuthOverlay();
+});
+
 init();
 
 async function init() {
+  await initAuth(); // 先处理登录（未配置时自动跳过）
   loadStats();
   try {
     const [wr, mr] = await Promise.all([fetch(WORDS_URL), fetch(WORDS_BASE + 'manifest.json')]);

@@ -7,6 +7,26 @@
 <link rel="stylesheet" href="style.css?v=20260812r" />
 </head>
 <body>
+<!-- 登录遮罩层：未登录时覆盖全站 -->
+<div id="auth-overlay" class="auth-overlay" hidden>
+  <div class="auth-card">
+    <div class="auth-brand">
+      <span class="logo">📘</span>
+      <h2>课标词汇教学例句库</h2>
+      <p class="auth-sub">请登录后使用 · 账号由管理员统一发放</p>
+    </div>
+    <form id="auth-form" autocomplete="on">
+      <label class="auth-label" for="auth-email">邮箱</label>
+      <input id="auth-email" type="email" placeholder="name@example.com" required autocomplete="username" />
+      <label class="auth-label" for="auth-pass">密码</label>
+      <input id="auth-pass" type="password" placeholder="请输入密码" required autocomplete="current-password" />
+      <button id="auth-btn" type="submit">登 录</button>
+      <p id="auth-msg" class="auth-msg" hidden></p>
+    </form>
+    <p class="auth-tip">没有账号？请联系老师开通</p>
+  </div>
+</div>
+
 <header class="topbar">
   <div class="brand">
     <span class="logo">📘</span>
@@ -19,6 +39,7 @@
     </div>
   </div>
   <div class="stats" id="stats"></div>
+  <button id="logout-btn" type="button">退出登录</button>
 </header>
 
 <main>
@@ -46,6 +67,8 @@
   <span class="copy">本网站系深圳市教育科学规划2023年度校本专项研究课题“语料库技术促进高考英语主题词汇深度学习的行动研究”（课题编号：xbjy23027）的阶段性研究成果</span>
 </footer>
 
-<script src="app.js?v=20260812r"></script>
+<!-- 腾讯云 CloudBase 认证 SDK -->
+<script src="https://static.cloudbase.net/cloudbase-js-sdk/latest/cloudbase.full.js"></script>
+<script src="app.js?v=20260812s"></script>
 </body>
 </html>

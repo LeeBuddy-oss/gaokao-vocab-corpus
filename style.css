@@ -435,3 +435,104 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 /* “/” 占位：弱化显示，避免与真实内容混淆 */
 .family-table tbody td:not(.fam-cn) { color: #334155; }
 .family-table tbody td.fam-missing { color: var(--faint); font-weight: 400; }
+
+/* ========== 登录遮罩层 ========== */
+.auth-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(15, 23, 42, 0.55);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.auth-overlay[hidden] { display: none; }
+.auth-card {
+  width: 400px;
+  max-width: calc(100vw - 40px);
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: 0 20px 50px rgba(15, 23, 42, 0.25);
+  padding: 34px 32px 28px;
+  text-align: center;
+}
+.auth-card .logo { font-size: 44px; display: block; }
+.auth-card h2 {
+  margin: 12px 0 4px;
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--title);
+}
+.auth-sub {
+  margin: 0 0 22px;
+  font-size: 13.5px;
+  color: var(--muted);
+}
+#auth-form { text-align: left; }
+.auth-label {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--muted);
+  margin: 12px 0 6px;
+}
+#auth-form input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 15px;
+  color: var(--text);
+  background: var(--bg-2);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+  transition: border-color .15s, box-shadow .15s;
+}
+#auth-form input:focus {
+  border-color: var(--subtitle);
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+#auth-btn {
+  width: 100%;
+  margin-top: 20px;
+  padding: 11px 0;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 4px;
+  color: #fff;
+  background: linear-gradient(135deg, var(--subtitle), var(--title));
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: opacity .15s, transform .1s;
+}
+#auth-btn:hover { opacity: 0.9; }
+#auth-btn:active { transform: scale(0.98); }
+#auth-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+.auth-msg {
+  margin: 14px 0 0;
+  font-size: 13.5px;
+  color: #dc2626;
+  text-align: center;
+}
+.auth-msg.ok { color: #16a34a; }
+.auth-tip {
+  margin: 18px 0 0;
+  font-size: 12.5px;
+  color: var(--faint);
+}
+/* 顶栏退出按钮 */
+#logout-btn {
+  display: none;
+  padding: 6px 14px;
+  font-size: 13px;
+  color: var(--muted);
+  background: var(--card-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: color .15s, border-color .15s;
+}
+#logout-btn:hover { color: #dc2626; border-color: #dc2626; }
