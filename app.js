@@ -889,9 +889,9 @@ function renderEntry(entry, word, mmHtml, fam) {
       const cat = ex.cat || classify(ex.src);
       html += `<div class="ex s-${cat}">` +
         `<div class="ex-line">` +
-        `<span class="ex-num">(${exIdx + 1})</span>` +
+        `<span class="ex-num">(${exIdx + 1})</span> ` +
         `<span class="ex-sentence">${highlight(ex.s || '', word)}</span>` +
-        (ex.src ? `<span class="badge">${esc(ex.src)}</span>` : '') +
+        (ex.src ? ` <span class="ex-src">(${esc(ex.src)})</span>` : '') +
         `</div>` +
         (ex.t ? `<div class="ex-trans">${esc(ex.t)}</div>` : '') +
         `</div>`;

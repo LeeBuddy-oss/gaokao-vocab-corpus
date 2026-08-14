@@ -210,22 +210,16 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .ex.s-yilin { border-left-color: var(--yilin); }
 
 .ex-line {
-  display: flex;
-  align-items: baseline;
-  flex-wrap: wrap;
-  gap: 6px;
+  line-height: 1.7;
 }
 .ex-sentence { font-size: 15.5px; color: var(--text); }
 .ex-num {
   font-size: 13px; font-weight: 700; color: var(--title);
-  flex-shrink: 0;
 }
 .ex-sentence mark { background: var(--mark); color: var(--mark-text); padding: 0 2px; border-radius: 3px; font-weight: 600; }
-.badge {
-  display: inline-block;
-  font-size: 12px; padding: 2px 9px; border-radius: 999px;
-  background: var(--card-2); color: var(--muted); border: 1px solid var(--border);
-  flex-shrink: 0;
+.ex-src {
+  font-size: 12.5px; color: var(--muted);
+  white-space: nowrap;
 }
 .ex-trans { font-size: 13.5px; color: var(--muted); }
 
