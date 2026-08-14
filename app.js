@@ -150,7 +150,7 @@ const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
 /* ========== 访问码门槛（免注册，输入一次永久记住） ========== */
-const ACCESS_CODE_SHA256 = 'dbebdea8b6a3e1a982af32293091bab40e300b1cbfbabbabe85e320c748dce18'; // sha256(访问码)
+const ACCESS_CODE_SHA256 = '24c387b7cd22a79876fe121fb1cd9a191c8a77167f692ac8c251c5b449895eb6'; // sha256(访问码=课题编号)
 const GATE_KEY = 'gk_gate_ok';
 const $overlay   = document.getElementById('auth-overlay');
 const $authMsg   = document.getElementById('auth-msg');
@@ -194,12 +194,20 @@ function initGate() {
   }, 100);
 }
 
+// 输入规整化：全角转半角（防中文输入法打出ｘｂｊｙ２３０２７）、去除所有空白
+function normalizeCode(raw) {
+  return String(raw || '')
+    .replace(/[\uFF01-\uFF5E]/g, ch => String.fromCharCode(ch.charCodeAt(0) - 0xFEE0))
+    .replace(/\u3000/g, ' ')
+    .replace(/\s+/g, '');
+}
+
 // 提交访问码
 $loginForm.addEventListener('submit', async (e) => {
   e.preventDefault();
   const input = document.getElementById('access-code');
   const btn = document.getElementById('login-btn');
-  const code = input ? input.value.trim() : '';
+  const code = normalizeCode(input ? input.value : '');
   if (!code) { setAuthMsg('请输入访问码'); return; }
   btn.disabled = true;
   btn.textContent = '验证中…';
