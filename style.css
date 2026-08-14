@@ -240,23 +240,6 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .notfound { text-align:center; color: var(--muted); padding: 30px 0; }
 
 /* ========== 加载提示 ========== */
-.loading {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 10px;
-  padding: 26px 0;
-  color: var(--muted);
-  font-size: 14px;
-}
-.loading .spinner {
-  width: 18px; height: 18px;
-  border: 2.5px solid var(--border);
-  border-top-color: var(--subtitle);
-  border-radius: 50%;
-  animation: spin .7s linear infinite;
-}
-@keyframes spin { to { transform: rotate(360deg); } }
 
 /* ========== 词汇风向标 ========== */
 .wv-wrap {

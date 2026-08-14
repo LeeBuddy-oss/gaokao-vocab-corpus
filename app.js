@@ -466,7 +466,6 @@ async function search(rawWord) {
   const rel = WORD_FILES[key];
   if (!rel) { $empty.hidden = true; renderNotFound(word); return; }
 
-  showLoading(true);
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
     const [res] = await Promise.all([fetch(WORDS_BASE + rel), ensureMindmap(letter), ensureFamily()]);
@@ -479,14 +478,7 @@ async function search(rawWord) {
     renderEntry(entry, word, mmHtml, fam, variants);
   } catch (e) {
     console.error(e);
-  } finally {
-    showLoading(false);
   }
-}
-
-function showLoading(on) {
-  const el = document.getElementById('loading');
-  if (el) el.hidden = !on;
 }
 
 function renderNotFound(word) {
