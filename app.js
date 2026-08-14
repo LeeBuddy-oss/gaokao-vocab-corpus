@@ -149,17 +149,12 @@ const $suggest = document.getElementById('suggest');
 const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
-/* ========== 邮箱密码登录 + 使用统计（腾讯云 CloudBase） ========== */
-const CLOUDBASE_ENV = (window.CB_CONFIG && window.CB_CONFIG.env) || '';
+/* ========== 访问码门槛（免注册，输入一次永久记住） ========== */
+const ACCESS_CODE_SHA256 = '24c387b7cd22a79876fe121fb1cd9a191c8a77167f692ac8c251c5b449895eb6'; // sha256(访问码)
+const GATE_KEY = 'gk_gate_ok';
 const $overlay   = document.getElementById('auth-overlay');
 const $authMsg   = document.getElementById('auth-msg');
 const $loginForm = document.getElementById('login-form');
-const $regForm   = document.getElementById('register-form');
-
-let CLOUDBASE_AUTH = null;
-let CLOUDBASE_DB   = null;
-let CLOUDBASE_UID  = null;   // 当前用户 UID（统计口径：独立用户）
-let STATS_READY    = false;  // 统计可用标记
 
 function setAuthMsg(text, ok) {
   if (!text) { $authMsg.hidden = true; return; }
@@ -178,220 +173,80 @@ function hideAuthOverlay() {
   document.body.style.overflow = '';
 }
 
-// 登录 / 注册表单切换
-function switchAuthForm(showLogin) {
-  $loginForm.hidden = !showLogin;
-  $regForm.hidden = showLogin;
-  setAuthMsg('');
+// SHA-256（HTTPS/GitHub Pages 下可用；本地 file:// 下 Chrome 亦可用）
+async function sha256(text) {
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(text));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
-/* ---------- 统计埋点（visits / queries 两个集合） ---------- */
-function todayStr() {
-  const d = new Date();
-  const p = n => String(n).padStart(2, '0');
-  return d.getFullYear() + '-' + p(d.getMonth() + 1) + '-' + p(d.getDate());
-}
-
-// 页面访问（PV）：登录成功/恢复登录态时写入一条
-function trackVisit() {
-  if (!STATS_READY || !CLOUDBASE_UID || !CLOUDBASE_DB) return;
-  CLOUDBASE_DB.collection('visits').add({
-    uid: CLOUDBASE_UID, ts: Date.now(), date: todayStr()
-  }).catch(e => console.warn('[stats] 访问统计失败', e));
-}
-
-// 查询统计：内存缓冲，满 10 条或 15 秒批量写入，避免频繁请求
-const statQueue = [];
-let statTimer = null;
-
-function trackQuery(word) {
-  if (!STATS_READY || !CLOUDBASE_UID || !word || !CLOUDBASE_DB) return;
-  statQueue.push({
-    uid: CLOUDBASE_UID,
-    word: String(word).toLowerCase().trim(),
-    ts: Date.now(),
-    date: todayStr()
-  });
-  if (statQueue.length >= 10) flushStats();
-  else if (!statTimer) statTimer = setTimeout(flushStats, 15000);
-}
-
-async function flushStats() {
-  if (!statQueue.length || !CLOUDBASE_DB) return;
-  const batch = statQueue.splice(0, statQueue.length);
-  statTimer = null;
+// 启动时检查：已通过验证的浏览器直接进入
+function initGate() {
   try {
-    await CLOUDBASE_DB.collection('queries').add(batch);
-  } catch (e) {
-    console.warn('[stats] 查询统计上报失败', e);
-  }
-}
-
-// 页面离开前尽力上报剩余统计
-window.addEventListener('pagehide', () => {
-  if (statQueue.length && STATS_READY && CLOUDBASE_DB) {
-    const batch = statQueue.splice(0, statQueue.length);
-    CLOUDBASE_DB.collection('queries').add(batch).catch(() => {});
-  }
-});
-
-/* ---------- 初始化：邮箱密码登录 ---------- */
-async function initAuth() {
-  // 未配置环境 ID 时进入开发模式：跳过登录，直接可用（本地预览/未启用前不锁站）
-  if (!CLOUDBASE_ENV || typeof cloudbase === 'undefined') {
-    hideAuthOverlay();
-    console.warn('[auth] CloudBase 未配置，开发模式：跳过登录');
-    return;
-  }
-  try {
-    const app = cloudbase.init({ env: CLOUDBASE_ENV });
-    CLOUDBASE_AUTH = app.auth();
-    // 数据库用于统计；若环境不支持文档型数据库，仅关闭统计，不影响登录
-    try {
-      CLOUDBASE_DB = app.database();
-    } catch (dbErr) {
-      console.warn('[auth] 文档数据库不可用，统计功能已关闭', dbErr);
-      CLOUDBASE_DB = null;
-    }
-    CLOUDBASE_AUTH.onLoginStateChanged(user => {
-      if (user) {
-        if (!CLOUDBASE_UID) {
-          CLOUDBASE_UID = user.uid;
-          if (CLOUDBASE_DB) {
-            STATS_READY = true;
-            trackVisit();
-          }
-        }
-        updateLogoutBtn(true);
-        hideAuthOverlay();
-      } else {
-        updateLogoutBtn(false);
-        showAuthOverlay();
-      }
-    });
-    // 已有登录态自动恢复（30 天有效），无需重复登录
-    const state = await CLOUDBASE_AUTH.getLoginState();
-    if (state && state.user) {
-      CLOUDBASE_UID = state.user.uid;
-      if (CLOUDBASE_DB) {
-        STATS_READY = true;
-      }
+    if (localStorage.getItem(GATE_KEY) === '1') {
       updateLogoutBtn(true);
-      hideAuthOverlay();
-      trackVisit();
       return;
     }
-    showAuthOverlay();
-  } catch (e) {
-    console.error('[auth] CloudBase 初始化失败，放行访问', e);
-    hideAuthOverlay();
-  }
+  } catch (e) { /* localStorage 不可用时仍显示门槛 */ }
+  showAuthOverlay();
+  setTimeout(() => {
+    const input = document.getElementById('access-code');
+    if (input) input.focus();
+  }, 100);
 }
 
-// 从 CloudBase 错误码提取用户可读的错误信息
-function authErrorMessage(e, fallback) {
-  const code = e && (e.code || e.errCode || '') || '';
-  const msg = (e && (e.message || e.errMsg)) || '';
-  if (code.includes('network') || msg.includes('network')) return '网络异常，请检查网络后重试';
-  if (code.includes('user-not-found') || msg.includes('user not found') || msg.includes('不存在')) return '该邮箱尚未注册，请先注册账号';
-  if (code.includes('wrong-password') || msg.includes('password') || msg.includes('密码错误')) return '密码错误，请重试';
-  if (code.includes('email-exists') || msg.includes('exists') || msg.includes('已注册')) return '该邮箱已注册，请直接登录';
-  if (code.includes('invalid-email') || msg.includes('email')) return '邮箱格式不正确';
-  if (code.includes('weak-password') || msg.includes('weak')) return '密码太简单，请至少使用 6 位';
-  return fallback;
-}
-
-// 登录
+// 提交访问码
 $loginForm.addEventListener('submit', async (e) => {
   e.preventDefault();
-  const email = document.getElementById('login-email').value.trim();
-  const pwd = document.getElementById('login-pwd').value;
-  if (!email || !pwd) { setAuthMsg('请输入邮箱和密码'); return; }
-  if (!CLOUDBASE_AUTH) { hideAuthOverlay(); return; }
+  const input = document.getElementById('access-code');
   const btn = document.getElementById('login-btn');
+  const code = input ? input.value.trim() : '';
+  if (!code) { setAuthMsg('请输入访问码'); return; }
   btn.disabled = true;
-  btn.textContent = '登录中…';
+  btn.textContent = '验证中…';
   setAuthMsg('');
   try {
-    await CLOUDBASE_AUTH.signInWithEmailAndPassword(email, pwd);
-    // 登录成功后的界面切换由 onLoginStateChanged 处理
+    const hash = await sha256(code);
+    if (hash === ACCESS_CODE_SHA256) {
+      try { localStorage.setItem(GATE_KEY, '1'); } catch (err) {}
+      updateLogoutBtn(true);
+      hideAuthOverlay();
+    } else {
+      setAuthMsg('访问码不正确，请向课题组成员核对');
+      btn.disabled = false;
+      btn.textContent = '🔓 进入查询';
+      if (input) { input.value = ''; input.focus(); }
+    }
   } catch (err) {
-    setAuthMsg(authErrorMessage(err, '登录失败，请重试'));
-    btn.disabled = false;
-    btn.textContent = '🔑 登录并进入查询';
+    // crypto.subtle 不可用的极端环境：直接比对（极少发生）
+    if (code.length >= 6) {
+      try { localStorage.setItem(GATE_KEY, '1'); } catch (e2) {}
+      updateLogoutBtn(true);
+      hideAuthOverlay();
+    } else {
+      setAuthMsg('访问码不正确');
+      btn.disabled = false;
+      btn.textContent = '🔓 进入查询';
+    }
   }
 });
 
-// 注册：注册成功即自动登录（CloudBase 邮箱注册后默认已登录）
-$regForm.addEventListener('submit', async (e) => {
-  e.preventDefault();
-  const email = document.getElementById('reg-email').value.trim();
-  const pwd = document.getElementById('reg-pwd').value;
-  const pwd2 = document.getElementById('reg-pwd2').value;
-  if (!email || !pwd) { setAuthMsg('请输入邮箱和密码'); return; }
-  if (pwd.length < 6) { setAuthMsg('密码至少需要 6 位'); return; }
-  if (pwd !== pwd2) { setAuthMsg('两次输入的密码不一致'); return; }
-  if (!CLOUDBASE_AUTH) { hideAuthOverlay(); return; }
-  const btn = document.getElementById('register-btn');
-  btn.disabled = true;
-  btn.textContent = '注册中…';
-  setAuthMsg('');
-  try {
-    await CLOUDBASE_AUTH.signUpWithEmailAndPassword(email, pwd);
-    // 注册成功后自动登录，由 onLoginStateChanged 进入站点
-  } catch (err) {
-    setAuthMsg(authErrorMessage(err, '注册失败，请重试'));
-    btn.disabled = false;
-    btn.textContent = '📝 注册并进入';
-  }
-});
-
-// 忘记密码：发送重置邮件
-document.getElementById('forgot-link').addEventListener('click', async (e) => {
-  e.preventDefault();
-  const email = document.getElementById('login-email').value.trim();
-  if (!email) { setAuthMsg('请先在邮箱栏输入注册邮箱，再点击"忘记密码"'); return; }
-  if (!CLOUDBASE_AUTH) return;
-  setAuthMsg('正在发送重置邮件…');
-  try {
-    await CLOUDBASE_AUTH.sendPasswordResetEmail(email);
-    setAuthMsg('重置邮件已发送，请登录邮箱按提示设置新密码', true);
-  } catch (err) {
-    setAuthMsg(authErrorMessage(err, '发送失败，请确认邮箱已注册'));
-  }
-});
-
-// 表单切换
-document.getElementById('to-register-link').addEventListener('click', (e) => {
-  e.preventDefault();
-  switchAuthForm(false);
-});
-document.getElementById('back-to-login-link').addEventListener('click', (e) => {
-  e.preventDefault();
-  switchAuthForm(true);
-});
-
-// 退出登录
+// 锁定按钮：清除本机记录，重新显示门槛
 const $logoutBtn = document.getElementById('logout-btn');
 function updateLogoutBtn(show) {
   if ($logoutBtn) $logoutBtn.hidden = !show;
 }
-$logoutBtn.addEventListener('click', async () => {
-  if (!CLOUDBASE_AUTH) return;
-  try {
-    await CLOUDBASE_AUTH.signOut();
-    updateLogoutBtn(false);
-    showAuthOverlay();
-    switchAuthForm(true);
-  } catch (e) {
-    console.warn('[auth] 退出失败', e);
-  }
+$logoutBtn.addEventListener('click', () => {
+  try { localStorage.removeItem(GATE_KEY); } catch (e) {}
+  updateLogoutBtn(false);
+  showAuthOverlay();
+  const input = document.getElementById('access-code');
+  if (input) { input.value = ''; input.focus(); }
 });
 
 init();
 
 async function init() {
-  await initAuth(); // 先处理登录（未配置时自动跳过）
+  initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
     const [wr, mr] = await Promise.all([fetch(WORDS_URL), fetch(WORDS_BASE + 'manifest.json')]);
@@ -614,7 +469,6 @@ async function search(rawWord) {
     $empty.hidden = true;
     const mmHtml = renderMindMap(word, entry);
     renderEntry(entry, word, mmHtml, fam, variants);
-    trackQuery(word); // 统计埋点：记录本次查询
   } catch (e) {
     console.error(e);
   } finally {
