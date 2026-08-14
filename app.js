@@ -149,15 +149,16 @@ const $suggest = document.getElementById('suggest');
 const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
-/* ========== 匿名登录 + 使用统计（腾讯云 CloudBase） ========== */
+/* ========== 邮箱密码登录 + 使用统计（腾讯云 CloudBase） ========== */
 const CLOUDBASE_ENV = (window.CB_CONFIG && window.CB_CONFIG.env) || '';
 const $overlay   = document.getElementById('auth-overlay');
-const $enterBtn  = document.getElementById('enter-btn');
 const $authMsg   = document.getElementById('auth-msg');
+const $loginForm = document.getElementById('login-form');
+const $regForm   = document.getElementById('register-form');
 
 let CLOUDBASE_AUTH = null;
 let CLOUDBASE_DB   = null;
-let CLOUDBASE_UID  = null;   // 当前访客匿名 UID（统计口径：独立访客）
+let CLOUDBASE_UID  = null;   // 当前用户 UID（统计口径：独立用户）
 let STATS_READY    = false;  // 统计可用标记
 
 function setAuthMsg(text, ok) {
@@ -177,6 +178,13 @@ function hideAuthOverlay() {
   document.body.style.overflow = '';
 }
 
+// 登录 / 注册表单切换
+function switchAuthForm(showLogin) {
+  $loginForm.hidden = !showLogin;
+  $regForm.hidden = showLogin;
+  setAuthMsg('');
+}
+
 /* ---------- 统计埋点（visits / queries 两个集合） ---------- */
 function todayStr() {
   const d = new Date();
@@ -184,7 +192,7 @@ function todayStr() {
   return d.getFullYear() + '-' + p(d.getMonth() + 1) + '-' + p(d.getDate());
 }
 
-// 页面访问（PV）：匿名登录成功/恢复登录态时写入一条
+// 页面访问（PV）：登录成功/恢复登录态时写入一条
 function trackVisit() {
   if (!STATS_READY || !CLOUDBASE_UID) return;
   CLOUDBASE_DB.collection('visits').add({
@@ -227,7 +235,7 @@ window.addEventListener('pagehide', () => {
   }
 });
 
-/* ---------- 初始化：匿名登录 ---------- */
+/* ---------- 初始化：邮箱密码登录 ---------- */
 async function initAuth() {
   // 未配置环境 ID 时进入开发模式：跳过登录，直接可用（本地预览/未启用前不锁站）
   if (!CLOUDBASE_ENV || typeof cloudbase === 'undefined') {
@@ -246,16 +254,19 @@ async function initAuth() {
           STATS_READY = true;
           trackVisit();
         }
+        updateLogoutBtn(true);
         hideAuthOverlay();
       } else {
+        updateLogoutBtn(false);
         showAuthOverlay();
       }
     });
-    // 已有匿名登录态（30 天有效）自动恢复，无需再点进入
+    // 已有登录态自动恢复（30 天有效），无需重复登录
     const state = await CLOUDBASE_AUTH.getLoginState();
     if (state && state.user) {
       CLOUDBASE_UID = state.user.uid;
       STATS_READY = true;
+      updateLogoutBtn(true);
       hideAuthOverlay();
       trackVisit();
       return;
@@ -267,23 +278,103 @@ async function initAuth() {
   }
 }
 
-// 点击"进入查询" → 匿名登录（自动分配唯一 UID 用于统计）
-$enterBtn.addEventListener('click', async () => {
+// 从 CloudBase 错误码提取用户可读的错误信息
+function authErrorMessage(e, fallback) {
+  const code = e && (e.code || e.errCode || '') || '';
+  const msg = (e && (e.message || e.errMsg)) || '';
+  if (code.includes('network') || msg.includes('network')) return '网络异常，请检查网络后重试';
+  if (code.includes('user-not-found') || msg.includes('user not found') || msg.includes('不存在')) return '该邮箱尚未注册，请先注册账号';
+  if (code.includes('wrong-password') || msg.includes('password') || msg.includes('密码错误')) return '密码错误，请重试';
+  if (code.includes('email-exists') || msg.includes('exists') || msg.includes('已注册')) return '该邮箱已注册，请直接登录';
+  if (code.includes('invalid-email') || msg.includes('email')) return '邮箱格式不正确';
+  if (code.includes('weak-password') || msg.includes('weak')) return '密码太简单，请至少使用 6 位';
+  return fallback;
+}
+
+// 登录
+$loginForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const email = document.getElementById('login-email').value.trim();
+  const pwd = document.getElementById('login-pwd').value;
+  if (!email || !pwd) { setAuthMsg('请输入邮箱和密码'); return; }
   if (!CLOUDBASE_AUTH) { hideAuthOverlay(); return; }
-  $enterBtn.disabled = true;
-  $enterBtn.textContent = '正在进入…';
+  const btn = document.getElementById('login-btn');
+  btn.disabled = true;
+  btn.textContent = '登录中…';
   setAuthMsg('');
   try {
-    await CLOUDBASE_AUTH.signInAnonymously();
+    await CLOUDBASE_AUTH.signInWithEmailAndPassword(email, pwd);
     // 登录成功后的界面切换由 onLoginStateChanged 处理
+  } catch (err) {
+    setAuthMsg(authErrorMessage(err, '登录失败，请重试'));
+    btn.disabled = false;
+    btn.textContent = '🔑 登录并进入查询';
+  }
+});
+
+// 注册：注册成功即自动登录（CloudBase 邮箱注册后默认已登录）
+$regForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  const email = document.getElementById('reg-email').value.trim();
+  const pwd = document.getElementById('reg-pwd').value;
+  const pwd2 = document.getElementById('reg-pwd2').value;
+  if (!email || !pwd) { setAuthMsg('请输入邮箱和密码'); return; }
+  if (pwd.length < 6) { setAuthMsg('密码至少需要 6 位'); return; }
+  if (pwd !== pwd2) { setAuthMsg('两次输入的密码不一致'); return; }
+  if (!CLOUDBASE_AUTH) { hideAuthOverlay(); return; }
+  const btn = document.getElementById('register-btn');
+  btn.disabled = true;
+  btn.textContent = '注册中…';
+  setAuthMsg('');
+  try {
+    await CLOUDBASE_AUTH.signUpWithEmailAndPassword(email, pwd);
+    // 注册成功后自动登录，由 onLoginStateChanged 进入站点
+  } catch (err) {
+    setAuthMsg(authErrorMessage(err, '注册失败，请重试'));
+    btn.disabled = false;
+    btn.textContent = '📝 注册并进入';
+  }
+});
+
+// 忘记密码：发送重置邮件
+document.getElementById('forgot-link').addEventListener('click', async (e) => {
+  e.preventDefault();
+  const email = document.getElementById('login-email').value.trim();
+  if (!email) { setAuthMsg('请先在邮箱栏输入注册邮箱，再点击"忘记密码"'); return; }
+  if (!CLOUDBASE_AUTH) return;
+  setAuthMsg('正在发送重置邮件…');
+  try {
+    await CLOUDBASE_AUTH.sendPasswordResetEmail(email);
+    setAuthMsg('重置邮件已发送，请登录邮箱按提示设置新密码', true);
+  } catch (err) {
+    setAuthMsg(authErrorMessage(err, '发送失败，请确认邮箱已注册'));
+  }
+});
+
+// 表单切换
+document.getElementById('to-register-link').addEventListener('click', (e) => {
+  e.preventDefault();
+  switchAuthForm(false);
+});
+document.getElementById('back-to-login-link').addEventListener('click', (e) => {
+  e.preventDefault();
+  switchAuthForm(true);
+});
+
+// 退出登录
+const $logoutBtn = document.getElementById('logout-btn');
+function updateLogoutBtn(show) {
+  if ($logoutBtn) $logoutBtn.hidden = !show;
+}
+$logoutBtn.addEventListener('click', async () => {
+  if (!CLOUDBASE_AUTH) return;
+  try {
+    await CLOUDBASE_AUTH.signOut();
+    updateLogoutBtn(false);
+    showAuthOverlay();
+    switchAuthForm(true);
   } catch (e) {
-    const code = e.code || '';
-    let msg = '进入失败，请重试';
-    if (code.includes('network')) msg = '网络异常，请检查网络后重试';
-    else if (code.includes('anonymous')) msg = '匿名登录暂不可用，请稍后再试';
-    setAuthMsg(msg);
-    $enterBtn.disabled = false;
-    $enterBtn.textContent = '🔍 进入查询';
+    console.warn('[auth] 退出失败', e);
   }
 });
 

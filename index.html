@@ -4,10 +4,10 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>课标词汇教学例句库</title>
-<link rel="stylesheet" href="style.css?v=20260812u" />
+<link rel="stylesheet" href="style.css?v=20260814a" />
 </head>
 <body>
-<!-- 进入遮罩层：访客进入站点前显示 -->
+<!-- 登录遮罩层：访客必须登录后才能查询词汇 -->
 <div id="auth-overlay" class="auth-overlay" hidden>
   <div class="auth-card">
     <div class="auth-brand">
@@ -17,9 +17,47 @@
     </div>
     <div class="auth-intro">
       <p>十年高考真题（69 套）＋ 四版高中英语教材（人教/外研/北师大/译林），3064 个课标词汇、数万条例句智能检索，面向全国师生<b>免费开放</b>。</p>
-      <p class="auth-note">本站采用<b>匿名统计</b>：不收集姓名、邮箱等任何个人信息，使用数据仅用于教育科研（课题编号：xbjy23027）。</p>
+      <p class="auth-note">本站需要<b>登录</b>后使用：注册仅需邮箱+密码，使用数据仅用于教育科研统计（课题编号：xbjy23027），不收取任何费用。</p>
     </div>
-    <button id="enter-btn" class="auth-enter" type="button">🔍 进入查询</button>
+
+    <!-- 登录表单 -->
+    <form id="login-form" class="auth-form" novalidate>
+      <label class="auth-field">
+        <span class="auth-label">邮箱</span>
+        <input id="login-email" class="auth-input" type="email" placeholder="you@example.com" autocomplete="email" />
+      </label>
+      <label class="auth-field">
+        <span class="auth-label">密码</span>
+        <input id="login-pwd" class="auth-input" type="password" placeholder="请输入密码" autocomplete="current-password" />
+      </label>
+      <button id="login-btn" class="auth-enter" type="submit">🔑 登录并进入查询</button>
+      <div class="auth-links">
+        <a href="#" id="forgot-link" class="auth-link">忘记密码？</a>
+        <span class="auth-link-sep">·</span>
+        <a href="#" id="to-register-link" class="auth-link">注册账号</a>
+      </div>
+    </form>
+
+    <!-- 注册表单（默认隐藏） -->
+    <form id="register-form" class="auth-form" hidden novalidate>
+      <label class="auth-field">
+        <span class="auth-label">邮箱</span>
+        <input id="reg-email" class="auth-input" type="email" placeholder="you@example.com" autocomplete="email" />
+      </label>
+      <label class="auth-field">
+        <span class="auth-label">密码</span>
+        <input id="reg-pwd" class="auth-input" type="password" placeholder="至少 6 位" autocomplete="new-password" />
+      </label>
+      <label class="auth-field">
+        <span class="auth-label">确认密码</span>
+        <input id="reg-pwd2" class="auth-input" type="password" placeholder="再次输入密码" autocomplete="new-password" />
+      </label>
+      <button id="register-btn" class="auth-enter" type="submit">📝 注册并进入</button>
+      <div class="auth-links">
+        <a href="#" id="back-to-login-link" class="auth-link">← 返回登录</a>
+      </div>
+    </form>
+
     <p id="auth-msg" class="auth-msg" hidden></p>
   </div>
 </div>
@@ -36,6 +74,7 @@
     </div>
   </div>
   <div class="stats" id="stats"></div>
+  <button id="logout-btn" class="logout-btn" type="button" hidden>退出登录</button>
 </header>
 
 <main>
@@ -63,9 +102,9 @@
   <span class="copy">本网站系深圳市教育科学规划2023年度校本专项研究课题“语料库技术促进高考英语主题词汇深度学习的行动研究”（课题编号：xbjy23027）的阶段性研究成果</span>
 </footer>
 
-<!-- 腾讯云 CloudBase SDK 与配置（匿名登录 + 使用统计） -->
+<!-- 腾讯云 CloudBase SDK 与配置（邮箱密码登录 + 使用统计） -->
 <script src="https://static.cloudbase.net/cloudbase-js-sdk/latest/cloudbase.full.js"></script>
 <script src="cloudbase-config.js"></script>
-<script src="app.js?v=20260812u"></script>
+<script src="app.js?v=20260814a"></script>
 </body>
 </html>

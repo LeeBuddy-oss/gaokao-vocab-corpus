@@ -89,11 +89,17 @@
     }
     const app = cloudbase.init({ env: ENV });
     const auth = app.auth();
-    const state = await auth.getLoginState();
-    if (!state || !state.user) {
-      await auth.signInAnonymously();
-    }
     DB = app.database();
+    try {
+      const state = await auth.getLoginState();
+      if (!state || !state.user) {
+        // 后台以匿名身份读取统计数据（集合权限为"所有用户可读写"即可）
+        await auth.signInAnonymously();
+      }
+    } catch (e) {
+      // 匿名登录未开启时：集合若为"所有用户可读写"，仍可直接读取
+      console.warn('[admin] 匿名登录不可用，尝试直接读取', e);
+    }
   }
 
   /* ---------- 读取数据（分页，每页 1000 条） ---------- */
