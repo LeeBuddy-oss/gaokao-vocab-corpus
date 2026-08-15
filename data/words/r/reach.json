@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "riːtʃ; NAmE riːtʃ",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -28,13 +28,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "他们到达射击地点的时间比预期的晚。"
-        },
-        {
-          "s": "Cao ___67___ (walk) through 34 countries in six continents and in 2016, he reached the top of Kilimanjaro, Africa’s ___68___ (high) mountain.",
-          "src": "2022全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "曹___67___ (walk)徒步走过六大洲34个国家，2016年他登上了非洲最高峰乞力马扎罗山___68___ (high)。"
         },
         {
           "s": "The best of a Kilimanjaro   50  , in my opinion, isn’t reaching the top.",
@@ -105,7 +98,22 @@
     },
     {
       "def": "to increase to a particular level, speed, etc. over a period of time 增加到，提升到（某一水平、速度等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
+          "src": "2017全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
+        },
+        {
+          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
+          "src": "2017重庆卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
+        }
+      ]
     },
     {
       "def": "to arrive at a particular point or stage of sth after a period of time 达到（某点）；进入（某阶段）",
@@ -118,24 +126,10 @@
           "t": "技术岗位的申请人必须已进入技术院校学习的最后一年。"
         },
         {
-          "s": "The number of medical schools reached 18 in the early 1990s and ______ around that level since. （    ）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "医学院的数量在20世纪90年代初达到18所，此后一直（______）在那个水平左右。（    ）"
-        },
-        {
           "s": "He soon reached his first target of $70, but when he gave the money to a charity, he was told that it actually cost $2,000 to build a well.",
           "src": "外研社B3 U2",
           "cat": "waiyan",
           "t": "他很快达到了70美元的第一个目标，但当他把钱捐给慈善机构时，被告知打一口井其实要2000美元。"
-        },
-        {
-          "s": "in the shape of     B. beyond the reach of",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "形状为B. 无法达到"
         }
       ]
     },
@@ -193,25 +187,11 @@
           "t": "这些梯田延绵至目力所及之处，覆盖着座座高山，常常从山脚一直延伸到山顶。"
         },
         {
-          "s": "They pulled the sausage beyond the dog’s reach.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他们把香肠拉到狗够不到的地方。"
-        },
-        {
           "s": "keep all her tools within easy reach",
           "src": "2020天津6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
           "t": "把她所有的工具放在触手可及的地方。"
-        },
-        {
-          "s": "Samuel, the tallest boy in our class, ______ easily reach the books on the top shelf.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Samuel是我们班最高的男孩，______能够到顶层书架上的书。"
         },
         {
           "s": "But at times it seems too difficult and too far out of reach.",
@@ -230,7 +210,7 @@
           "src": "2018天津卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "现在我们生活在一个充满\"做不到\"的态度的世界里。我们都会跌倒。我们都有疑虑和遗憾。但我们仍然必须攀登，梦想着我们山顶上有什么。怪物可能会出现，或者黑夜将会降临。但永远不要放弃你的梦想！"
+          "t": "我爬呀爬。除了绿色的灌木丛和这些台阶之外什么都没有。我必须到达山顶！"
         },
         {
           "s": "Emily Sanders, a 25-year-old from Detroit, Michigan, set out on December 23rd with high hopes of reaching Toronto to meet her boyfriend for Christmas.",
@@ -238,13 +218,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "来自密歇根州底特律的25岁女孩Emily Sanders在12月23日出发，满怀希望前往多伦多见男友过圣诞节。"
-        },
-        {
-          "s": "But instead of passing it through the hole to the dog, they would then pull it out of its reach.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但他们没有把它穿过洞递给狗，而是把它拉到狗够不着的地方。"
         }
       ]
     },
@@ -308,25 +281,32 @@
       "def": "the distance over which you can stretch your arms to touch sth; the distance over which a particular object can be used to touch sth else 手臂展开的长度；臂展",
       "ex": [
         {
-          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
-        },
-        {
-          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
-        },
-        {
           "s": "Without motivation you can neither set a goal nor reach it",
           "src": "2019全国II卷·七选五",
           "cat": "gaokao",
           "year": 2019,
           "t": "没有动力，你既无法设定目标，也无法达成目标"
+        },
+        {
+          "s": "in the shape of     B. beyond the reach of",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "形状为B. 无法达到"
+        },
+        {
+          "s": "They pulled the sausage beyond the dog’s reach.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他们把香肠拉到狗够不到的地方。"
+        },
+        {
+          "s": "But instead of passing it through the hole to the dog, they would then pull it out of its reach.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "但他们没有把它穿过洞递给狗，而是把它拉到狗够不着的地方。"
         }
       ]
     },
