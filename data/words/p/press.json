@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pres; NAmE pres",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -70,12 +70,6 @@
           "t": "然后，我按下播放键回听。"
         },
         {
-          "s": "It is certainly more convenient to take out a mobile and make a call at the touch of a button than to press a series of long numbers on a telephone.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "拿出手机按一下键就能打电话，肯定比在电话上按一长串数字更方便。"
-        },
-        {
           "s": "The keyboard could offer a strong layer of security by analyzing things like the force of a user's typing and the time between key presses.",
           "src": "2019全国I卷·阅读理解C",
           "cat": "gaokao",
@@ -122,13 +116,6 @@
       "def": "to push or squeeze part of a device, etc. in order to make it work 按，压（使启动）",
       "ex": [
         {
-          "s": "There you will find them prepared differently- more dumpling and less soup, and the wrappers are pressed ____40____ hand rather than rolled.",
-          "src": "2023新课标I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在那里，你会发现小笼包的做法不同——馅更多、汤更少，而且面皮是____40____手按压而不是擀出来的。"
-        },
-        {
           "s": "Harry Potter and the Philosopher’s Stone Presently I am going to press the lever, and off the machine will go.",
           "src": "外研社B3 U3",
           "cat": "waiyan",
@@ -139,20 +126,18 @@
           "src": "人教选必2 U5",
           "cat": "renjiao",
           "t": "按压，每秒钟两次。"
+        },
+        {
+          "s": "It is certainly more convenient to take out a mobile and make a call at the touch of a button than to press a series of long numbers on a telephone.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "拿出手机按一下键就能打电话，肯定比在电话上按一长串数字更方便。"
         }
       ]
     },
     {
       "def": "to put sth in a place by pushing it firmly 将 … 塞进；把 … 按入",
-      "ex": [
-        {
-          "s": "When she ___53______ one nurse, she tried to press a five-pound note into her hand.",
-          "src": "2021全国乙卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当她___53___一位护士时，她试图把一张五英镑钞票塞进护士手里。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to squeeze sb's hand or arm, especially as a sign of affection （深情地）紧握（某人的手或臂）",

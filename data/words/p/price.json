@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "praɪs; NAmE praɪs",
-    "pos": "noun",
+    "pos": "noun;noun;noun;adj.;adj.;noun;noun;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -25,7 +25,7 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "这位女士会因为价格合理而买下这所房子。"
+          "t": "价格太高了。"
         },
         {
           "s": "Price: Available upon request",
@@ -42,13 +42,6 @@
           "t": "收购价格也可能是一个信号，表明一家老牌公司在收购一个新生威胁。"
         },
         {
-          "s": "As our ___47___ day drew near, I settled on a new price ($0) and reposted it.",
-          "src": "2025新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "随着我们的___47___之日临近，我定了个新价格（0美元）重新发布了。"
-        },
-        {
           "s": "But driverless car ownership could increase as the prices drop and more people become comfortable with the technology.",
           "src": "2018北京卷·阅读理解D",
           "cat": "gaokao",
@@ -63,18 +56,67 @@
           "t": "邮票价格下降了。"
         },
         {
-          "s": "Before _____64_____ (head) home, they fill their shopping bags with fresh fruit and vegetables from local farmers, at prices significantly _____65_____ (cheap) than those found in supermarkets.",
-          "src": "2026新高考I卷·语法填空",
+          "s": "However, if you’re shopping for one, buying extra   56   (benefit) from price reductions doesn’t make sense.",
+          "src": "2024浙江1月卷·语法填空",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "在_____ 64 _____ （头部）回家之前，他们在购物袋中装满来自当地农民的新鲜水果和蔬菜，价格比超市中的价格便宜_____ 65 _____ （便宜）。"
+          "year": 2024,
+          "t": "然而，如果你是为一个人购物，因降价而多买____56____（受益）并不划算。"
         },
         {
-          "s": "A couple of messages came in, one wanting additional ___46___, another asking for a price cut.",
-          "src": "2025新高考I卷·完形填空",
+          "s": "The price is reasonable.",
+          "src": "2018上海卷",
           "cat": "gaokao",
-          "year": 2025,
-          "t": "来了几条消息，一个想要更多___46___，另一个要求降价。"
+          "year": 2018,
+          "t": "价格合理。"
+        },
+        {
+          "s": "The price is low.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "价格很低。"
+        },
+        {
+          "s": "(Included in tickets price)",
+          "src": "2017全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "(包括票价)"
+        },
+        {
+          "s": "They raised the prices of their products.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他们提高了产品的价格。"
+        },
+        {
+          "s": "Hunters willingly pay the stamp price to ensure the survival of our natural resources.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "猎人乐意支付鸭票的价格，以确保我们的自然资源得以存续。"
+        },
+        {
+          "s": "their new appearance and lower pricesB. the push of the local organizations",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它们焕然一新的外观和更低的价格 B. 地方组织的推动"
+        },
+        {
+          "s": "Compare their prices.",
+          "src": "2026新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "比较它们的价格。"
+        },
+        {
+          "s": "favour bigger firmsD. charge higher prices",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "偏爱大公司D. 收取更高的价格"
         }
       ]
     },
@@ -101,13 +143,6 @@
           "t": "\"睡眠是我们为学习付出的代价，\"提出这一理念的朱利奥·托诺尼说。"
         },
         {
-          "s": "The price of fashion — economically and environmentally — has led to the rise of ___56___ new way of dressing, and it’s beginning to take off in Australia, too.",
-          "src": "2025浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "时尚的代价——无论是经济上还是环境上——催生了一种____56____新的穿衣方式，而且它也开始在澳大利亚流行起来。"
-        },
-        {
           "s": "Now I was paying the price — to write a five-page essay on “Why I Should Not Talk in Class”.",
           "src": "2023北京卷",
           "cat": "gaokao",
@@ -124,7 +159,7 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "这位女士非常喜欢这所房子，她会买下它。"
+          "t": "这位女士会因为价格合理而买下这所房子。"
         }
       ]
     },
@@ -178,27 +213,6 @@
       "def": "to fix the price of sth at a particular level 给 … 定价；为 … 作价",
       "ex": [
         {
-          "s": "However, if you’re shopping for one, buying extra   56   (benefit) from price reductions doesn’t make sense.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，如果你是为一个人购物，因降价而多买____56____（受益）并不划算。"
-        },
-        {
-          "s": "The price is reasonable.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "出价不公平。"
-        },
-        {
-          "s": "The price is low.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这所房子真的很好，因为浴室与卧室相连。"
-        },
-        {
           "s": "Of course, shops are not charities — they price goods in the way   58 will make them the most money.",
           "src": "2024浙江1月卷·语法填空",
           "cat": "gaokao",
@@ -209,62 +223,11 @@
     },
     {
       "def": "to write or stick tickets on goods to show how much they cost （在商品上）标价，贴价格标签",
-      "ex": [
-        {
-          "s": "(Included in tickets price)",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "(包括票价)"
-        },
-        {
-          "s": "They raised the prices of their products.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它们削减了产量。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to compare the prices of different types of the same thing 比较 … 的价格",
-      "ex": [
-        {
-          "s": "Hunters willingly pay the stamp price to ensure the survival of our natural resources.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "猎人乐意支付鸭票的价格，以确保我们的自然资源得以存续。"
-        },
-        {
-          "s": "We choose this hotel because the price for a night here is down to $20, half of _________ it used to charge.",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我们选这家酒店是因为这里一晚的价格降到了20美元，是它过去收费的一半。"
-        },
-        {
-          "s": "their new appearance and lower pricesB. the push of the local organizations",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们焕然一新的外观和更低的价格 B. 地方组织的推动"
-        },
-        {
-          "s": "Compare their prices.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "比较它们的价格。"
-        },
-        {
-          "s": "favour bigger firmsD. charge higher prices",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "偏爱大公司D. 收取更高的价格"
-        }
-      ]
+      "ex": []
     }
   ]
 }
