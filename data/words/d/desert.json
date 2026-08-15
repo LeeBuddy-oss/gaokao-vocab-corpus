@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈdezət; NAmE ˈdezərt",
-    "pos": "noun",
+    "pos": "noun; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -58,20 +58,26 @@
           "src": "外研社B5 U1",
           "cat": "waiyan",
           "t": "它讲述了一个在沙漠中坠机的飞行员的故事。"
-        }
-      ]
-    },
-    {
-      "def": "to go away from a place and leave it empty 舍弃，离弃（某地方）",
-      "ex": [
+        },
         {
           "s": "That project, which I could complete from my sofa instead of in the burning heat of the desert, not only survived the lockdown but worked where traditional methods didn’t.",
           "src": "2023北京卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
           "t": "那个项目我可以坐在沙发上完成，而不必在沙漠的酷热中进行，它不仅在封锁期间存活了下来，而且在传统方法不起作用的地方发挥了作用。"
+        },
+        {
+          "s": "The position—measuring soil quality in the Sahara Desert as part of an undergraduate research programme — had felt like the answer I had spent years looking for.",
+          "src": "2023北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这个职位——作为本科研究项目的一部分在撒哈拉沙漠测量土壤质量——感觉就像我多年来一直在寻找的答案。"
         }
       ]
+    },
+    {
+      "def": "to go away from a place and leave it empty 舍弃，离弃（某地方）",
+      "ex": []
     },
     {
       "def": "to leave the armed forces without permission 擅离（部队）；逃走；开小差",
@@ -83,15 +89,7 @@
     },
     {
       "def": "if a particular quality deserts you, it is not there when you need it 背离；使失望",
-      "ex": [
-        {
-          "s": "The position—measuring soil quality in the Sahara Desert as part of an undergraduate research programme — had felt like the answer I had spent years looking for.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这个职位——作为本科研究项目的一部分在撒哈拉沙漠测量土壤质量——感觉就像我多年来一直在寻找的答案。"
-        }
-      ]
+      "ex": []
     }
   ]
 }
