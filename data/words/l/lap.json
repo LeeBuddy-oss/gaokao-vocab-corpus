@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "læp; NAmE læp",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb;verb;verb;verb",
     "stars": "★"
   },
   "defs": [
@@ -14,14 +14,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "想象一下：我的孙子坐在我腿上，我把书举在他面前让他看到图片。"
-        },
-        {
-          "s": "Recently，I took a trip home by train．I got a seat opposite a middle-aged man with sharp eyes，who kept____1____a young woman in a window seat with a little boy on her lap．The woman's eye fell on the man's face，and she immediately looked down and____2____her scarf．",
-          "src": "2021北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我乘火车回家。我坐在一位目光锐利的中年男子对面，他一直___1___一位坐在靠窗座位、腿上抱着小男孩的年轻女子。女子的目光落在男子脸上，立刻低下头___2___自己的围巾。",
-          "_matched": true
         },
         {
           "s": "I was sitting in my room with my cat, Smarrie, on my lap, when the roof just flew off.",
@@ -40,6 +32,18 @@
           "src": "译林B1 U2",
           "cat": "yilin",
           "t": "账单来了，我赶紧跑到妈妈身边，把它放在她腿上。"
+        },
+        {
+          "s": "Then she sits in Oliver’s lap, puts her arms around his neck and kisses him on the cheek.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "然后她坐在奥利弗的腿上，搂住他的脖子，亲吻了他的脸颊。"
+        },
+        {
+          "s": "Granny and I made sugar biscuits, stuffed the turkey and then I sat on my granny's lap and we sang Christmas songs.",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "奶奶和我做了糖饼干，给火鸡填了馅，然后我坐在奶奶腿上，一起唱了圣诞歌。"
         }
       ]
     },
@@ -60,14 +64,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "到第四年，我对成功的渴望压过了对独立的渴望。",
-          "_matched": true
-        },
-        {
-          "s": "The train moved on．The little boy was ____5____ awake on his mother's lap，but the woman dropped off to sleep．A moment later，he began to____6____the half-open window—one leg went over it．The man jumped up and ____7____the child just before he fell out．",
-          "src": "2021北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "火车继续前行。小男孩___5___醒着躺在母亲腿上，但女人睡着了。片刻后，他开始___6___那半开的车窗——一条腿已经跨了过去。男子跳起来，在孩子掉出去前___7___了他。",
           "_matched": true
         }
       ]
@@ -99,20 +95,7 @@
     },
     {
       "def": "to accept or receive sth with great enjoyment, without thinking about whether it is good, true or sincere （不加考虑地）乐于接受",
-      "ex": [
-        {
-          "s": "Then she sits in Oliver’s lap, puts her arms around his neck and kisses him on the cheek.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "然后她坐在奥利弗的腿上，搂住他的脖子，亲吻了他的脸颊。"
-        },
-        {
-          "s": "Granny and I made sugar biscuits, stuffed the turkey and then I sat on my granny's lap and we sang Christmas songs.",
-          "src": "北师大B1 U3",
-          "cat": "beishida",
-          "t": "奶奶和我做了糖饼干，给火鸡填了馅，然后我坐在奶奶腿上，一起唱了圣诞歌。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to drink all of sth with great enjoyment 开怀畅饮",
