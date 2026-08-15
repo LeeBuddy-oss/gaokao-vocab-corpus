@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "biːt; NAmE biːt",
-    "pos": "verb",
+    "pos": "verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; noun; noun; noun; noun",
     "stars": ""
   },
   "defs": [
@@ -14,13 +14,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "上周，在旧金山的一场公开辩论中，一个名为\"辩论者项目\"的软件程序击败了它的人类对手，包括以色列前全国辩论冠军诺亚·奥瓦迪亚。"
-        },
-        {
-          "s": "The beat of the drums.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果交换学生选择停止修读某门课程，他们应该做什么？"
         },
         {
           "s": "To beat other candy companies.",
@@ -203,7 +196,15 @@
     },
     {
       "def": "a series of regular blows to sth, such as a drum; the sound that this makes 有规律的敲击（声）",
-      "ex": []
+      "ex": [
+        {
+          "s": "The beat of the drums.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "鼓的节拍。"
+        }
+      ]
     },
     {
       "def": "the main rhythm, or a unit of rhythm, in a piece of music, a poem, etc. （音乐、诗歌等的）主节奏，节拍",
