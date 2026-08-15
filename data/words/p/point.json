@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pɔɪnt; NAmE pɔɪnt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -140,6 +140,13 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "阐明一个观点B. 对比不同方法"
+        },
+        {
+          "s": "From a 21st-century point of view, the printed book is certainly ancient, but it remains as interactive as any battery-powered e-reader.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "从21世纪的角度看，印刷书固然古老，但它仍像任何电池供电的电子阅读器一样具有互动性。"
         }
       ]
     },
@@ -220,6 +227,13 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "坎贝尔的目的是唤醒那些对人工智能负责的人——科技公司和世界领导人——让他们与目前开发人工智能的所有专家达成共识。"
+        },
+        {
+          "s": "There is no point in arguing if the universe is a clock, a set of particles or an output of computation.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "争论宇宙是一座钟、一组粒子还是计算的输出，是毫无意义的。"
         }
       ]
     },
@@ -248,6 +262,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "在达成目标的过程中，我们几乎肯定会在某个时刻遇到____53____。"
+        },
+        {
+          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
+          "src": "2021浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "影片制作人大卫·邦德(David Bond)在几年前意识到,他的孩子当时五岁三岁,被贴在屏幕上,以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
+        },
+        {
+          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
         }
       ]
     },
@@ -474,36 +502,7 @@
     },
     {
       "def": "a unit of measurement for the size of letters in printing or on a computer screen, etc. （印刷物或计算机屏幕上字体大小的单位）点，磅值",
-      "ex": [
-        {
-          "s": "There is no point in arguing if the universe is a clock, a set of particles or an output of computation.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "争论宇宙是一座钟、一组粒子还是计算的输出，是毫无意义的。"
-        },
-        {
-          "s": "From a 21st-century point of view, the printed book is certainly ancient, but it remains as interactive as any battery-powered e-reader.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从21世纪的角度看，印刷书固然古老，但它仍像任何电池供电的电子阅读器一样具有互动性。"
-        },
-        {
-          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "影片制作人大卫·邦德(David Bond)在几年前意识到,他的孩子当时五岁三岁,被贴在屏幕上,以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
-        },
-        {
-          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a place where a journey starts 出发点",
@@ -614,13 +613,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "走了一小段路后，农场主停下来，指着我们漏掉的一株杂草。"
-        },
-        {
-          "s": "Shanghai may be the ____39____ (recognize) home of the soup dumplings but food historians will actually point you to the neighboring canal town of Nanxiang as Xiao long hao’s birthplace.",
-          "src": "2023新课标I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "上海可能是____39____（recognize）小笼包之乡，但食物史学家实际上会指向邻近的运河小镇南翔作为小笼包的诞生地。"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pəˈliːs; NAmE pəˈliːs",
-    "pos": "noun",
+    "pos": "noun;noun",
     "stars": ""
   },
   "defs": [
@@ -27,7 +27,7 @@
           "src": "2025浙江1月卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "•可报名单周或多周。"
+          "t": "凯文跟了出去，向到达的警官们讲述了发生的事情。"
         },
         {
           "s": "Paragraph 2:  Kevin and Mr Green took the watch they had found to the police station.",
@@ -56,13 +56,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "在撒马尔罕，比塞尔先生欣赏建筑奇观，而在前往布哈拉途中，他因涉嫌毒品交易尝到了警察手段的滋味。"
-        },
-        {
-          "s": "The police _____52_____ and the motorway ran normally again.",
-          "src": "2020浙江7月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "警察_____52_____ ，高速公路又恢复了正常通行。"
         },
         {
           "s": "If your card has been reported to the Police as stolen, please also call into the SAC to request a replacement, bringing with you a copy of your Police Crime Report paperwork.",
@@ -140,18 +133,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "无论他犯下多少罪行，警方都无力逮捕他。"
-        }
-      ]
-    },
-    {
-      "def": "to make sure that a particular set of rules is obeyed 委员会等",
-      "ex": [
+        },
         {
           "s": "The lantern fair attracts a lot of people, so it’s one of the busiest times of year for the traffic police.",
           "src": "外研社B2 U2",
           "cat": "waiyan",
           "year": "",
-          "t": "过了一会儿/最终，简宁斯先生吃掉了主人公。"
+          "t": "灯会吸引了大量人流，因此这是一年中交警最忙碌的时期之一。"
         },
         {
           "s": "We do our best to help the traffic police keep everyone safe.",
@@ -161,6 +149,10 @@
           "t": "我们尽最大努力帮助交警保障每个人的安全。"
         }
       ]
+    },
+    {
+      "def": "to make sure that a particular set of rules is obeyed 委员会等",
+      "ex": []
     }
   ]
 }

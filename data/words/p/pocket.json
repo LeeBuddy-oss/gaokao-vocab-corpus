@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈpɒkɪt; NAmE ˈpɑːkɪt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -72,7 +72,22 @@
     },
     {
       "def": "钱财；财力；资金",
-      "ex": []
+      "ex": [
+        {
+          "s": "A day’s work was rewarded with £ 5 in pocket money.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "一天的工作换来5英镑零花钱作为报酬。"
+        },
+        {
+          "s": "Inside the bags are necessities such as toothpaste, soap and socks, bought first with her pocket money and then through crowd funding.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "袋子里面是牙膏、肥皂和袜子等必需品，最初是用她的零花钱买的，后来通过众筹。"
+        }
+      ]
     },
     {
       "def": "a small group or area that is different from its surroundings （与周围不同的）小组织，小区域",
@@ -92,22 +107,7 @@
     },
     {
       "def": "to put sth into your pocket 把 … 放进衣袋",
-      "ex": [
-        {
-          "s": "A day’s work was rewarded with £ 5 in pocket money.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一天的工作换来5英镑零花钱作为报酬。"
-        },
-        {
-          "s": "Inside the bags are necessities such as toothpaste, soap and socks, bought first with her pocket money and then through crowd funding.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "袋子里面是牙膏、肥皂和袜子等必需品，最初是用她的零花钱买的，后来通过众筹。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to take or keep sth, especially an amount of money, that does not belong to you 攫取；揩油；中饱私囊",
