@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈəʊpən; NAmE ˈoʊpən",
-    "pos": "adjective",
+    "pos": "adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -13,12 +13,6 @@
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "t": "只要保持开放的心态，尽可能地多参与。"
-        },
-        {
-          "s": "The next walk 4_______ is open to new members is on 22 July.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "下一次对新成员开放的徒步活动______是在7月22日。"
         },
         {
           "s": "This year, with an open mind and new knowledge in mind, I walked into another group interview while telling myself I was that cool senior.",
@@ -56,18 +50,18 @@
           "t": "谈论食物促使她的父母终于敞开心扉谈起了他们的过去，比如她父亲在1940年代曾拥有一家唐人街餐馆。"
         },
         {
-          "s": "The wooden tower that _________ will be open to tourists soon, and the work is almost finished.",
-          "src": "2023天津6月卷·一、单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "那座_________的木塔很快将对游客开放，工程即将完工。"
-        },
-        {
           "s": "In the course of a couple of hours, he   53   me just how much one can gain from   54   with an open mind, and a willingness to   55   with locals from all walks of life.",
           "src": "2024浙江1月卷·完形填空",
           "cat": "gaokao",
           "year": 2024,
           "t": "在几个小时的过程中，他让我___53___认识到，一个人以开放的心态___54___，并愿意与各行各业的当地人___55___，能获得多少收获。"
+        },
+        {
+          "s": "Suddenly, the man jumped through an open window into the house.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "突然，那名男子从一扇开着的窗户跳进屋里。"
         }
       ]
     },
@@ -93,15 +87,7 @@
     },
     {
       "def": "not fastened or covered, so that things can easily come out or be put in 敞口的；未封的",
-      "ex": [
-        {
-          "s": "As he was ___25___ that it would be too warm, he ___26___ it out on the table near an open window.",
-          "src": "2021全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当他____25____觉得太暖和时____26____ 他在窗外的桌子上"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "not fastened 衣服",
@@ -116,6 +102,13 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "天气对他们来说还是有点太冷，不能到开阔地去，但等天气一暖和，我毫不怀疑这个小家伙就会整天在外面探索和玩耍。”"
+        },
+        {
+          "s": "“I am the last original client of Frank Lloyd Wright, still living in the home he designed for me,” Reisley said, sitting in the bright open living room of the home designed by the famous architect.",
+          "src": "2026新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“我是弗兰克·劳埃德·赖特最后一位健在的原始客户，至今仍住在他为我设计的房子里，”Reisley坐在由这位著名建筑师设计的明亮通透的客厅里说道。"
         }
       ]
     },
@@ -360,13 +353,6 @@
       "def": "willing to listen to and think about new ideas 人",
       "ex": [
         {
-          "s": "In 1863the first underground passenger railway in the world opened in London. z&xxk It ran for just under seven kilometers and allowed people to avoid terrible __61__(crowd) on the roads above as they travelled to and ___62__ word.",
-          "src": "2017重庆卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "1863年，世界上第一条地下客运铁路在伦敦开通。它运行了不到七公里，让人们在上方道路上前往和____62__（word）时避开可怕的__61__（crowd）人群。"
-        },
-        {
           "s": "Holker once again opens its gardens in aid of the disadvantaged.",
           "src": "2018全国III卷·阅读理解A",
           "cat": "gaokao",
@@ -443,20 +429,6 @@
           "t": "爸爸打开箱子，一只可爱的小狗出现了。"
         },
         {
-          "s": "That's when things went ____29____ “I remember walking down the long _____30_____ and opening the door to my room to find an entire flock of seagulls,” Burchill said in a recent letter of _____31_____ to the 4-star hotel.",
-          "src": "2021全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "就在那时情况变得____29____“我记得走过长长的_____30_____，打开我房间的门，发现一整群海鸥，”Burchill在最近写给那家四星级酒店的_____31_____信中说道。"
-        },
-        {
-          "s": "Suddenly, the man jumped through an open window into the house.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "突然，那名男子从一扇开着的窗户跳进屋里。"
-        },
-        {
           "s": "They could not open and close their lips easily.",
           "src": "2022全国新高考I卷·阅读理解D",
           "cat": "gaokao",
@@ -499,27 +471,6 @@
           "t": "然而，随着我渐渐长大，曾经以为如此简单的世界变得越来越复杂，我发现自己需要一种逃避的方式。打开一本小说，我就能抛开烦恼，进入一个奇妙而神秘的世界，在那里我成为一个新的角色。在这些世界里我可以成为任何人。我不必记下发生了什么，也不必分析作者写作时运用了什么技巧。我阅读只是为了放松。"
         },
         {
-          "s": "The central London Railway was one of the most ___70___ (success) of these new lines, and was opened in 1900.",
-          "src": "2017全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "伦敦中央铁路是这些新线路中最____70___（成功）的一条，于1900年开通。"
-        },
-        {
-          "s": "The central London Railway was one of the most ___70___(success) of these new lines, and was opened in 1900.",
-          "src": "2017重庆卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "伦敦中央铁路是这些新线路中最____70___（成功）的一条，于1900年开通。"
-        },
-        {
-          "s": "He kicked it wide open, finding a____29____woman in a wheelchair with a little boy and a tiny baby.",
-          "src": "2020全国新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他一脚把它踹开，发现一位坐轮椅的___29___女性和一个小男孩、一个婴儿在一起。"
-        },
-        {
           "s": "I’m telling them they can’t open what they absolutely know is a door.",
           "src": "2020全国I卷·完形填空",
           "cat": "gaokao",
@@ -548,30 +499,10 @@
           "t": "是谁为作者打开了哲学之门？"
         },
         {
-          "s": "First, open a new document.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "首先，打开一个新文档。"
-        },
-        {
           "s": "In China, we open a gift later.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "在中国，我们稍后再打开礼物。"
-        },
-        {
-          "s": "These sepals open on warm days ____58____ (give) the inside plants sunshine and fresh air.",
-          "src": "2024新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这些萼片在温暖的日子打开，____58____（给）里面的植物阳光和新鲜空气。"
-        },
-        {
-          "s": "Enjoying all the eyes on me, I ____4____ how to open the lock.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "享受着所有目光落在我身上，我____4____如何打开锁。"
         },
         {
           "s": "“It’s possible to open that lock with another key,” I said.",
@@ -579,13 +510,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "“用另一把钥匙也有可能打开那把锁，”我说。"
-        },
-        {
-          "s": "The bottle is quite difficult to open; the _________ is to pour hot water on it first.",
-          "src": "2023天津6月卷·一、单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这个瓶子相当难开；_________是先往上面倒热水。"
         },
         {
           "s": "In 1863 the first underground passenger railway in the world opened in London.",
@@ -609,13 +533,6 @@
           "t": "他喜爱阅读如何为他们打开一个新世界。"
         },
         {
-          "s": "If you can start the conversation with a question other than “What do you do for a living?\", you'll be able to get a lot more interesting conversation out of whomever it is you're talking to. ____37 ___. it can bring in \"I have this old, broken-down vehicle\" or \"I rode the bus with these crazy people who were laughing at silly jokes in the back.\" It just opens up conversation.",
-          "src": "2021全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "如果您可以用“您做什么工作？”以外的问题开始对话，您将能够从与您交谈的人那里获得更多有趣的对话。____ 37 ___。它可以带来“我有这辆破旧的旧车”或“我和这些疯狂的人一起乘坐公共汽车，他们在后面嘲笑愚蠢的笑话。“这只是开启了对话。"
-        },
-        {
           "s": "·Before you open the book, make sure that you are comfortable.",
           "src": "2021新高考II卷·七选五",
           "cat": "gaokao",
@@ -637,13 +554,6 @@
           "t": "我应该只是____59____反复说“不，我们现在不能出去。”然后当他们在生活中遇到其他门时，无论是真实的还是比喻意义上的，他们都不会____60____去打开并穿过。"
         },
         {
-          "s": "The chairman of the China Culture Promotion Society ___43___ (address) the opening ceremony.",
-          "src": "2022全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "中华文化促进会主席____43____（address）开幕式。"
-        },
-        {
           "s": "When Sonja Detrinidad opened her online shop selling houseplants, she didn’t have high hopes for it.",
           "src": "2025新高考II卷·阅读理解C",
           "cat": "gaokao",
@@ -656,13 +566,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "G. 当你有空交谈时把它打开，没空时关上"
-        },
-        {
-          "s": "He had been dropped off at school late and was ____4____ to open the door.",
-          "src": "2022北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他很晚才被送到学校，正在____4____努力开门。"
         }
       ]
     },
@@ -689,13 +592,6 @@
     {
       "def": "if you open your mouth or your mouth opens, you move your lips, for example in order to speak 张开",
       "ex": [
-        {
-          "s": "This is something I ____33____ — her ability to open her ____34____ underwater and still sit comfortably on the seabed.",
-          "src": "2024全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这是我____33____的——她在水下张开____34____并仍能舒适地坐在海底的能力。"
-        },
         {
           "s": "It opens children's mind.",
           "src": "2021新高考II卷·阅读理解C",
@@ -782,15 +678,7 @@
     },
     {
       "def": "to perform a ceremony showing that a building can start being used 为（建筑物）揭幕；宣布启用",
-      "ex": [
-        {
-          "s": "“I am the last original client of Frank Lloyd Wright, still living in the home he designed for me,” Reisley said, sitting in the bright open living room of the home designed by the famous architect.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“我是弗兰克·劳埃德·赖特最后一位健在的原始客户，至今仍住在他为我设计的房子里，”Reisley坐在由这位著名建筑师设计的明亮通透的客厅里说道。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to start a computer program or file so that you can use it on the screen 启动，打开（计算机程序或文件）",
@@ -801,6 +689,12 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "34岁的葡萄牙计算机工程师保罗·马加良斯喜欢打开邮箱，发现一张色彩鲜艳的罗马斗兽场图片。"
+        },
+        {
+          "s": "First, open a new document.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "首先，打开一个新文档。"
         }
       ]
     },
@@ -816,7 +710,7 @@
       "def": "to become or make sth possible, available or able to be reached （使某事物）成为可能，可得到，可达到",
       "ex": [
         {
-          "s": "C． open our mind to new things and ideas",
+          "s": "open our mind to new things and ideas",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
