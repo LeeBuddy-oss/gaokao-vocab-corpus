@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "dʌst; NAmE dʌst",
-    "pos": "noun",
+    "pos": "noun; noun; noun; verb; verb; verb",
     "stars": "★★"
   },
   "defs": [
@@ -19,6 +19,19 @@
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "忧虑、恐惧、自我怀疑会使心灵屈服，让精神归于尘土。"
+        },
+        {
+          "s": "And in Karakalpakstan, he is saddened by the dust storms, diseases and fishing boats stuck miles from the sea.",
+          "src": "2020全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在卡拉卡尔帕克斯坦他为沙尘暴、疾病和搁浅在远离海边数英里的渔船而悲伤。"
+        },
+        {
+          "s": "I was caught in a dust storm and lost contact with them.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "我遭遇了一场沙尘暴，与他们失去了联系。"
         }
       ]
     },
@@ -45,21 +58,7 @@
     },
     {
       "def": "to clean furniture, a room, etc. by removing dust from surfaces with a cloth 擦去 … 的灰尘；擦灰",
-      "ex": [
-        {
-          "s": "And in Karakalpakstan, he is saddened by the dust storms, diseases and fishing boats stuck miles from the sea.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在卡拉卡尔帕克斯坦他为沙尘暴、疾病和搁浅在远离海边数英里的渔船而悲伤。"
-        },
-        {
-          "s": "I was caught in a dust storm and lost contact with them.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "我遭遇了一场沙尘暴，与他们失去了联系。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to remove dirt from sb/sth/yourself with your hands or a brush 掸去；擦去；刷去",
