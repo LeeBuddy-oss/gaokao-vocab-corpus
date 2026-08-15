@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "rɪˈvjuː; NAmE rɪˈvjuː",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -44,7 +44,7 @@
           "t": "“这是对你们产品的一次严苛的商业评估。”"
         },
         {
-          "s": "10：00 A．M． ﹣ 6：00 P．M． Competition and judges' review",
+          "s": "00 A．M． ﹣ 6：00 P．M． Competition and judges' review",
           "src": "2019天津卷·History Fair Competition",
           "cat": "gaokao",
           "year": 2019,
@@ -214,18 +214,18 @@
           "t": "《小王子》书评：《小王子》由法国作家安托万·德·圣埃克苏佩里在第二次世界大战期间创作并绘制插图。"
         },
         {
-          "s": "The publication of Great Expectations, which __________ both widely reviewed and highly praised, strengthened Dickens, status as a leading novelist.",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在他上高中的最初几年里，加布里埃尔会怜悯地看着那些音乐学生，____背着沉重的乐器盒____走在校园里，____为了练习比别人更早到校____其他人都不需要在场。"
-        },
-        {
           "s": "Human beings have always loved reviews: word of mouth has long been regarded as one of the most valuable marketing tools available to a company.",
           "src": "2026浙江1月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
           "t": "人类一直喜爱评论：口碑长期以来被视为公司可用的最有价值的营销工具之一。"
+        },
+        {
+          "s": "While running regularly can’t make you live forever, the review says it  64 (be) more effective at lengthening life  65 walking, cycling or swimming.",
+          "src": "2018全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "虽然经常跑步不能让你长生不老，但综述说它比步行、骑自行车或游泳更能____64____（是）延长生命____65____。"
         }
       ]
     },
@@ -240,13 +240,6 @@
           "t": "当他们回顾我们的成就时，『成功』这个金光闪闪的词会在他们脑海中浮现吗？"
         },
         {
-          "s": "To review John’s research plans.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为了回顾约翰的研究计划。"
-        },
-        {
           "s": "According to a review of evidence in a medical journal, runners live three years  61  (long) than non-runners.",
           "src": "2018全国I卷·语法填空",
           "cat": "gaokao",
@@ -259,13 +252,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
-        },
-        {
-          "s": "A quick review of successes and failures at the end of year will help _________your year ahead.",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "年末快速回顾一年的成功与失败，将有助于_________你新的一年。"
         }
       ]
     },
@@ -281,18 +267,11 @@
       "def": "to carefully examine or consider sth again, especially so that you can decide if it is necessary to make changes 复查；重新考虑",
       "ex": [
         {
-          "s": "While running regularly can’t make you live forever, the review says it  64 (be) more effective at lengthening life  65 walking, cycling or swimming.",
-          "src": "2018全国I卷·语法填空",
+          "s": "To review John’s research plans.",
+          "src": "2023新课标I卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然经常跑步不能让你长生不老，但综述说它比步行、骑自行车或游泳更能____64____（是）延长生命____65____。"
-        },
-        {
-          "s": "Written communication will give your audience more time to review it, think it over, and follow up with questions. ___40___",
-          "src": "2025浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "书面沟通会给你的受众更多时间来审阅、思考，并跟进提出问题。___40___"
+          "year": 2023,
+          "t": "为了回顾约翰的研究计划。"
         }
       ]
     },
