@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈleɪbl; NAmE ˈleɪbl",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -39,6 +39,14 @@
           "src": "人教选必4 U5",
           "cat": "renjiao",
           "t": "要理解它们，首先阅读标题，然后阅读图表边缘的标签（通常称为x轴、y轴和图例/说明）。"
+        },
+        {
+          "s": "Any restrictions established by the lending library will be indicated on the label.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我意识到我一直害怕有太多的渴望。",
+          "_matched": true
         }
       ]
     },
@@ -53,14 +61,6 @@
     {
       "def": "to fix a label on sth or write information on sth 贴标签于；用标签标明",
       "ex": [
-        {
-          "s": "Any restrictions established by the lending library will be indicated on the label.",
-          "src": "2025浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我意识到我一直害怕有太多的渴望。",
-          "_matched": true
-        },
         {
           "s": "Label the paragraphs using the letters below.",
           "src": "人教选必3 U2",
