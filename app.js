@@ -923,12 +923,41 @@ function _lemmaOf(raw) {
 }
 
 // 内容词（形容词/名词修饰语/动词等），返回词元；不合格返回 null
+// -ing/-ed 形容词（surprising/talented）若不在词表内则保持原形，避免误还原成动词/名词
 function _ckContentWord(raw) {
   if (!/^[a-zA-Z][a-zA-Z-]*$/.test(raw) || /[a-z][A-Z]/.test(raw)) return null;
   const t = raw.toLowerCase();
   if (CK_FUNC.has(t) || t.length < 3 || t.length > 15) return null;
+  if ((/[a-z]{2,}(ing|ed)$/.test(t)) && !_lemmaSet().has(t)) return t;
   return _lemmaOf(raw) || t;
 }
+
+// 词表中的名词集合（供 to 的介词/不定式消歧）
+let _ckNounSet = null;
+function _nounSet() {
+  if (!_ckNounSet) {
+    _ckNounSet = new Set();
+    WORDS.forEach(x => {
+      if ((x.pos || '').includes('noun')) _ckNounSet.add((x.w || '').toLowerCase());
+    });
+  }
+  return _ckNounSet;
+}
+
+// 词表中的纯动词集合（不含名词词性的动词，用于动词目标的左侧扩展）
+let _ckVerbOnlySet = null;
+function _verbOnlySet() {
+  if (!_ckVerbOnlySet) {
+    _ckVerbOnlySet = new Set();
+    WORDS.forEach(x => {
+      const p = x.pos || '';
+      if (p.includes('verb') && !p.includes('noun')) _ckVerbOnlySet.add((x.w || '').toLowerCase());
+    });
+  }
+  return _ckVerbOnlySet;
+}
+
+const CK_BE_FORMS = new Set(['am','is','are','was','were','be','been','being']);
 
 // 动词形判断（用于"动词 + 限定词 + 名词"跨限定词扩展，如 took a picture）
 function _ckVerbish(raw) {
@@ -938,7 +967,12 @@ function _ckVerbish(raw) {
   return null;
 }
 
-// 核心：从单个例句中提取含目标词的教学词块
+// 核心：从单个例句中提取含目标词的教学词块（n-gram，n=2~5）
+// 右侧按“小品词 → 宾语 → 介词 → 介词宾语”逐段扩展，每个切点各产出一条候选：
+//   distinguish right from wrong → distinguish right / distinguish right from / distinguish right from wrong
+//   take care of the environment → take care / take care of / take care of environment
+// 聚合阶段（_mergeChunkVariants）再按前缀规则合并，保证长词块不被截断、
+// 高频核心词块不被零散宾语稀释。
 function _extractChunks(sentence, word, primaryPos, chunkMap) {
   if (!sentence || !word) return;
   const w = word.toLowerCase();
@@ -951,9 +985,26 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
     if (_lemmaOf(toks[i]) !== w && toks[i].toLowerCase() !== w) continue;
     if (/^[A-Z]/.test(toks[i]) && i > 0) continue;   // 大写目标=标题/专有名词
 
-    // ---- 向左扩展（动词目标不取左侧，避免混入主语）----
+    // 被动语态检测（be + 过去分词）：动词目标不再产出“动词+介词”裸模式
+    const curT = toks[i].toLowerCase();
+    const prevT = i - 1 >= 0 ? toks[i - 1].toLowerCase() : '';
+    const isPassive = primaryPos === 'verb' && CK_BE_FORMS.has(prevT) &&
+      (/^[a-z]{3,}ed$/.test(curT) || (_irregRev()[curT] && curT !== w));
+
+    // ---- 向左扩展（动词目标仅取紧邻实义动词，避免混入名词主语）----
     let left = [], sawWord = false, sawParticle = false, leftHasPrep = false;
-    if (primaryPos !== 'verb') {
+    if (primaryPos === 'verb') {
+      // take care of / stop doing：左侧紧邻纯动词才有效（company cut 类名词主语被排除）
+      if (i - 1 >= 0) {
+        const raw = toks[i - 1], t = raw.toLowerCase();
+        if (!/^[A-Z]/.test(raw) && t !== w && !CK_FUNC.has(t)) {
+          const l = _lemmaOf(raw);
+          if (l && _verbOnlySet().has(l) && !['be','have','do'].includes(l)) {
+            left = [l]; sawWord = true;
+          }
+        }
+      }
+    } else {
       let j = i - 1;
       while (j >= 0) {
         const raw = toks[j], t = raw.toLowerCase();
@@ -971,10 +1022,13 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
           left.unshift(t); sawParticle = true; j--; continue;   // cut out pictures
         }
         if (CK_DET.has(t) && !sawWord) {
-          // 限定词：可跨一个动词（took a picture → take picture）
-          const v = j - 1 >= 0 ? _ckVerbish(toks[j - 1]) : null;
+          // 限定词：可跨一个实义动词（took a picture → take picture），排除助动词
+          const vRaw = j - 1 >= 0 ? toks[j - 1] : '';
+          const v = _ckVerbish(vRaw);
           const before = j - 2 >= 0 ? toks[j - 2].toLowerCase() : '';
-          if (v && (j - 1 === 0 || CK_FUNC.has(before))) { left.unshift(v); sawWord = true; }
+          if (v && !['be','have','do'].includes(v) && (j - 1 === 0 || CK_FUNC.has(before))) {
+            left.unshift(v); sawWord = true;
+          }
           break;
         }
         if (CK_FUNC.has(t)) break;
@@ -986,45 +1040,121 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
     }
     if (sawParticle && !sawWord) { left = []; sawParticle = false; }  // 孤悬小品词无效
 
-    // ---- 向右扩展：小品词 / 介词 / （动词、形容词目标的）宾语名词 ----
-    let right = [], rContent = false;
+    // ---- 向右扩展：逐段设置切点，产出多条 n-gram 候选 ----
+    const stages = [];     // [{ toks: 右侧词序列, content: 是否含实质内容 }]
+    let seq = [], gotParticle = false, gotObj = false, gotPrep = false;
+    const hasContent = () => sawWord || leftHasPrep || gotParticle || gotObj;
     let k = i + 1;
     while (k < toks.length) {
       const raw = toks[k], t = raw.toLowerCase();
       if (/^[A-Z]/.test(raw) || /[a-z][A-Z]/.test(raw) || _lemmaOf(raw) === w) break;
-      if (!rContent && primaryPos === 'verb' && CK_HARD_PARTICLE.has(t)) {
-        right.push(t); rContent = true; k++; continue;          // cut down / take off
-      }
-      if (!rContent && CK_PREP.has(t)) {
-        if (CK_BREAK_RIGHT.has(t)) break;
-        if (t === 'to') {
-          // 不定式 to：后接限定词/代词才视为介词（lead to the problem）
-          const nx = k + 1 < toks.length ? toks[k + 1].toLowerCase() : '';
-          if ((CK_DET.has(nx) || CK_PRON.has(nx)) && !leftHasPrep) { right.push(t); k++; }
-          break;
-        }
-        if (!leftHasPrep) { right.push(t); k++; }               // picture of / risk of
-        break;
-      }
       if (CK_PRON.has(t)) break;                                // 代词宾语终止
-      if (!rContent && (primaryPos === 'verb' || primaryPos === 'adj')) {
+
+      // 小品词（动词目标开头）：cut out / look forward
+      if (!gotObj && !gotPrep && primaryPos === 'verb' && CK_HARD_PARTICLE.has(t)) {
+        seq.push(t); gotParticle = true;
+        stages.push({ toks: seq.slice(), content: true });
+        k++; continue;
+      }
+      // 介词：picture of / take care of / look forward to
+      if (!gotPrep && CK_PREP.has(t)) {
+        if (CK_BREAK_RIGHT.has(t)) break;
+        if (leftHasPrep && !gotParticle && !gotObj) break;      // 左侧已带介词，不再叠加
+        if (t === 'to') {
+          // 不定式 to：后接限定词/代词/动名词/名词才视为介词（look forward to life / lead to success）
+          const nx = k + 1 < toks.length ? toks[k + 1].toLowerCase() : '';
+          const nxOk = CK_DET.has(nx) || CK_PRON.has(nx) || CK_FUNC.has(nx) ||
+            /^[a-z]{4,}ing$/.test(nx) || _nounSet().has(nx);
+          if (!nxOk) break;
+        }
+        // 动词目标：介词本身即构成模式（distinguish between / look after）；被动语态除外
+        const prepValid = hasContent() || (primaryPos === 'verb' && !isPassive);
+        seq.push(t); gotPrep = true;
+        stages.push({ toks: seq.slice(), content: prepValid });
+        k++; continue;
+      }
+      // 介词宾语：distinguish right from wrong / look for new ideas
+      if (gotPrep) {
+        if (CK_DET.has(t)) { k++; continue; }                   // 跨过介词宾语的限定词
+        // 动名词保持原形（look forward to seeing / insist on doing）
+        const ger = /^[a-z]{3,}ing$/.test(t);
+        const c1 = ger ? t : _ckContentWord(raw);
+        if (!c1) break;
+        const rest = [c1];
+        if (!ger) {
+          // 介词后是“形容词+名词”时取完整名词组（look for new ideas）
+          const r2 = k + 1 < toks.length ? toks[k + 1] : '';
+          const t2 = r2.toLowerCase();
+          if (r2 && !CK_FUNC.has(t2) && !CK_DET.has(t2) && !CK_PRON.has(t2) &&
+              !CK_PREP.has(t2) && !/^[a-z]{3,}ed$/.test(t2) && !/^[A-Z]/.test(r2)) {
+            const c2 = _ckContentWord(r2);
+            if (c2) { rest.push(c2); k++; }
+          }
+        }
+        if (hasContent() || primaryPos === 'verb') {
+          seq.push(...rest);
+          stages.push({ toks: seq.slice(), content: true });
+        }
+        break;                                                  // 介词宾语后即止
+      }
+      // 动词/形容词目标的宾语：take place / make good use of（排除 -ed 分词修饰）
+      if (!gotObj && (primaryPos === 'verb' || primaryPos === 'adj')) {
         if (CK_DET.has(t)) { k++; continue; }                   // 跨过宾语限定词
+        if (/^[a-z]{3,}ed$/.test(t)) break;                     // 分词后置修饰，非宾语
         const cw = _ckContentWord(raw);
-        if (cw) { right.push(cw); rContent = true; k++; }
+        if (cw) {
+          const rest = [cw];
+          // 宾语是“形容词+名词”时取完整名词组（make good use of / make small change）
+          const r2 = k + 1 < toks.length ? toks[k + 1] : '';
+          const t2 = r2.toLowerCase();
+          if (r2 && !CK_FUNC.has(t2) && !CK_DET.has(t2) && !CK_PRON.has(t2) &&
+              !CK_PREP.has(t2) && !CK_HARD_PARTICLE.has(t2) && !/^[a-z]{3,}ed$/.test(t2) &&
+              !/^[A-Z]/.test(r2)) {
+            const c2 = _ckContentWord(r2);
+            if (c2) { rest.push(c2); k++; }
+          }
+          seq.push(...rest); gotObj = true;
+          stages.push({ toks: seq.slice(), content: true });
+          k++; continue;
+        }
         break;
       }
       break;
     }
 
-    // 有效性：词块必须含内容词，或构成固定介词短语（on average）
-    const leftMeaning = sawWord || leftHasPrep;
-    if (!leftMeaning && !rContent) continue;
-    // 名词/形容词目标：左侧无内容且右侧只有介词 → "picture of" 类无意义组合，跳过
-    if (!leftMeaning && right.every(x => CK_PREP.has(x))) continue;
-
-    const chunk = [...left, w, ...right].join(' ');
-    chunkMap[chunk] = (chunkMap[chunk] || 0) + 1;
+    // ---- 产出：基础词块（有左侧内容时）+ 各切点词块 ----
+    if (sawWord || leftHasPrep) {
+      const chunk = [...left, w].join(' ');
+      chunkMap[chunk] = (chunkMap[chunk] || 0) + 1;
+    }
+    stages.forEach(st => {
+      if (!st.content) return;
+      const chunk = [...left, w, ...st.toks].join(' ');
+      chunkMap[chunk] = (chunkMap[chunk] || 0) + 1;
+    });
   }
+}
+
+// 前缀合并：同一批实例产出的长短候选只保留一条，避免重复计数与稀释
+// 规则：短词块 S 与其延伸 L（L 以 S 开头）
+//   · 计数相等 → 每次 S 都延伸到了 L，保留更长的 L（distinguish right from wrong）
+//   · 计数不等 → L 只是零散延伸，保留聚合的 S（take care of）
+function _mergeChunkVariants(chunkMap) {
+  const keys = Object.keys(chunkMap);
+  const kept = new Set(keys);
+  for (const L of keys) {
+    const ws = L.split(' ');
+    if (ws.length < 3) continue;
+    let dropped = false;
+    for (let n = ws.length - 1; n >= 2; n--) {
+      const S = ws.slice(0, n).join(' ');
+      if (chunkMap[S] === undefined) continue;
+      if (chunkMap[S] === chunkMap[L]) { kept.delete(S); continue; }
+      kept.delete(L); dropped = true; break;
+    }
+    if (dropped) continue;
+  }
+  return keys.filter(k => kept.has(k)).map(k => [k, chunkMap[k]]);
 }
 
 // ====== 常见结构：语法框架分析（按词性输出抽象模式） ======
@@ -1139,12 +1269,12 @@ function renderMindMap(word, entry) {
   const usagePos = _posDisplayName(primaryPos);
   const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos);
 
-  // 提取真实教学词块（colorful picture / take picture of / cut out picture ...）
+  // 提取真实教学 n-gram 词块（catch sight of / distinguish right from wrong / take place ...）
   const collocMap = {};
   defs.forEach((d) => {
     (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, primaryPos, collocMap));
   });
-  const topCollocations = Object.entries(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
+  const topCollocations = _mergeChunkVariants(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
 
   let rightHtml = '';
   rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在例句库中主要作<b>${esc(usagePos)}</b>，共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
