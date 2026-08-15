@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "lɪŋk; NAmE lɪŋk",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -14,13 +14,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "人们常把对所读内容的记忆与它出现在书中的位置或页面上的位置联系起来。"
-        },
-        {
-          "s": "Why do we dream？Scientists aren't completely sure,and they have diverse____11____ (idea)．Dreams might be a side effect of memory making.When you sleep,your brain sorts through everything ____12____ happened during the day，trying to link new experiences to old memories.As it ____13____ (connect) things，your brain tums them into a story,and you get a dream．",
-          "src": "2021北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们为什么会做梦？科学家也不完全确定，他们有各种各样的___11___（想法）。梦可能是记忆形成的副作用。当你睡觉时，大脑会梳理白天发生的每一件事___12___，试图把新经历和旧记忆联系起来。当它___13___（连接）事物时，大脑把它们变成了一个故事，于是你便做了个梦。"
         },
         {
           "s": "By linking its definitions to Addie’s situations.",
@@ -37,25 +30,12 @@
           "t": "互联网是通过电缆和卫星连接的全世界的计算机网络，而木质万维网是通过真菌在地下连接的。"
         },
         {
-          "s": "Using the “wood wide web” •This fungal network links 7____________.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "使用木质万维网：这种真菌网络连接着植物的根系。"
-        },
-        {
           "s": "（2）A strong link is found between two species when a predator     ．",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
           "t": "（2）当捕食者___时，两个物种间会发现强联系。",
           "_matched": true
-        },
-        {
-          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
         },
         {
           "s": "“It can bring a new interest and focus into people’s lives and help to make the link between home and nature.”",
@@ -78,6 +58,14 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "约翰逊还调查了幸福感与某些故事主题之间的联系。"
+        },
+        {
+          "s": "Researchers have found that there is a direct link between the increase in food eaten outside the home and the rise in   64  (weigh) problems.",
+          "src": "2018浙江6月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "研究人员发现，在家外就餐的增加与___64___（weigh）问题的上升之间有直接联系。",
+          "_matched": true
         }
       ]
     },
@@ -107,7 +95,7 @@
       "def": "a place in an electronic document that is connected to another electronic document or to another part of the same document 链接",
       "ex": [
         {
-          "s": "D．The differences between weak and strong links in food webs．",
+          "s": "The differences between weak and strong links in food webs．",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
@@ -189,16 +177,7 @@
     },
     {
       "def": "to state that there is a connection or relationship between two things or people 说明（两件东西或两人之间）有联系（或关系）",
-      "ex": [
-        {
-          "s": "Researchers have found that there is a direct link between the increase in food eaten outside the home and the rise in   64  (weigh) problems.",
-          "src": "2018浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "研究人员发现，在家外就餐的增加与___64___（weigh）问题的上升之间有直接联系。",
-          "_matched": true
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to join two things by putting one through the other 挽住；钩住；套在一起",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "lɪst; NAmE lɪst",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -21,20 +21,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "索要一份阅读书单。"
-        },
-        {
-          "s": "Soon, the cast list was ___7___.",
-          "src": "2024北京卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "不久,参演名单为 7 ."
-        },
-        {
-          "s": "You could ask a friend or family member to help add to your list. ____19____ That way, you could exchange thoughts on what makes each of you special and the aspects of your personality that shine through.",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "你可以请朋友或家人帮你补充这个清单。____19____ 这样，你们就可以交流想法，谈谈是什么让彼此与众不同，以及你们性格中闪光的方面。"
         },
         {
           "s": "It’s the only Thai restaurant that ranks among the top 10 of the word’s 50 best restaurants list.",
@@ -145,31 +131,10 @@
           "t": "当你的老板或教授派你出去为一篇报道做街头采访时，先想想主题，并就此列出大约十个相关问题。"
         },
         {
-          "s": "To remember all the questions you have when you are not in the doctor's office, write them down and bring the list with you to your appointment.____20____Remember—there's no such thing as a stupid question.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了记住你在不在医生办公室时想到的所有问题，把它们写下来，带着清单去就诊。____20____记住——没有愚蠢的问题这回事。",
-          "_matched": true
-        },
-        {
-          "s": "Oh, 8____ you 9____(finish) the guest list yet, dear?",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "噢，亲爱的，你____8____ ____9____（完成）宾客名单了吗？"
-        },
-        {
           "s": "So we still need to prepare food and drinks I'll make a checklist Preparation choose presents for Grandma draw up the guest list on Wednesday make invitations prepare food and drinks on Sunday morning Who's responsible?",
           "src": "外研社B1 U3",
           "cat": "waiyan",
           "t": "所以我们还需要准备食物和饮料。我来列个清单：准备——给奶奶选礼物；星期三拟好客人名单；做邀请函；准备食物和饮料；星期天早上——谁负责？"
-        },
-        {
-          "s": "Most trains operate just once a day and some run only three times a week, so missing yours can be a disaster. ____39____ Note: The times listed on the schedules are departure times, not arrival times.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "大多数火车一天只开一班，有些一周只开三班，所以错过你的那班可能是灾难。____39____ 注意：时刻表上列出的时间是出发时间，不是到达时间。"
         },
         {
           "s": "Unfortunately, there is no magic list I can offer.",
@@ -245,6 +210,35 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "学生A正在访问你的城镇，有一串要做的事情的清单。"
+        },
+        {
+          "s": "Please review the List of Available Projects and fill out the Group Project Request Form.",
+          "src": "2024新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "请查阅“可参与项目列表”并填写团体项目申请表。"
+        },
+        {
+          "s": "Students often attend classes in which they are not enrolled on the first day of instruction to try adding this new course to the list, as other students may have dropped it.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "学生常在开课第一天去上他们未注册的课程，试图把这门新课加入列表，因为其他学生可能已退课。",
+          "_matched": true
+        },
+        {
+          "s": "You may change your class schedule during the first two weeks of the term by adding or dropping courses from your enrollment list.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "你可以在学期前两周内通过增删选课列表中的课程来更改课表。",
+          "_matched": true
+        },
+        {
+          "s": "It was the first traditional Chinese festival added to UNESCO’s List of Intangible Cultural Heritage.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "它是第一个被列入联合国教科文组织非物质文化遗产名录的中国传统节日。"
         }
       ]
     },
@@ -255,22 +249,6 @@
     {
       "def": "to write a list of things in a particular order （按某次序）把 … 列表，列清单，造表",
       "ex": [
-        {
-          "s": "You may change your class schedule during the first two weeks of the term by adding or dropping courses from your enrollment list.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "你可以在学期前两周内通过增删选课列表中的课程来更改课表。",
-          "_matched": true
-        },
-        {
-          "s": "Students often attend classes in which they are not enrolled on the first day of instruction to try adding this new course to the list, as other students may have dropped it.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "学生常在开课第一天去上他们未注册的课程，试图把这门新课加入列表，因为其他学生可能已退课。",
-          "_matched": true
-        },
         {
           "s": "This is why making lists is important in any productivity handbook.",
           "src": "2022浙江1月卷·七选五",
@@ -284,13 +262,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "这家位于Columbia Heights的精致粤菜馆，很快成为主厨Henji Cheung的港式料理以及联合老板Sarah Thompson获得米其林认可的天然葡萄酒单的打卡地。"
-        },
-        {
-          "s": "Please review the List of Available Projects and fill out the Group Project Request Form.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "请查阅“可参与项目列表”并填写团体项目申请表。"
         },
         {
           "s": "For the biggest stadiums in the world, we have used data supplied by the World Atlas list so far, which ranks them by their stated permanent capacity, as well as updated information from official stadium websites.",
@@ -350,13 +321,6 @@
           "t": "目前，灰熊仍在保护名录上。"
         },
         {
-          "s": "It also listed her favorite sports and activities, and provided her phone number. ___39___",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它还列出了她最喜欢的运动和活动，并提供了她的电话号码。___39___"
-        },
-        {
           "s": "What do the listed stadiums have in common?",
           "src": "2021全国乙卷·阅读理解A",
           "cat": "gaokao",
@@ -390,12 +354,6 @@
     {
       "def": "to be put or put sth in a list of things for sale （被）列入销售清单，列入价目表",
       "ex": [
-        {
-          "s": "It was the first traditional Chinese festival added to UNESCO’s List of Intangible Cultural Heritage.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "它是第一个被列入联合国教科文组织非物质文化遗产名录的中国传统节日。"
-        },
         {
           "s": "The house is now listed on the National Register of Historic Places.",
           "src": "2026新高考II卷·阅读理解B",
