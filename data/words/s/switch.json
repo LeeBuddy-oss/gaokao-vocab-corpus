@@ -1,20 +1,13 @@
 {
   "meta": {
     "ph": "swɪtʃ; NAmE swɪtʃ",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
     {
       "def": "a small device that you press or move up and down in order to turn a light or piece of electrical equipment on and off （电路的）开关，闸，转换器",
       "ex": [
-        {
-          "s": "A company ____44____ (represent) wrote back and told me the airline was switching over _____45_____ plastic to paper cups on all of its 1,200 daily flights.",
-          "src": "2021新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一家（第44空，represent）公司回信告诉我，该航空公司在它每天1200个航班上正从塑料杯（第45空）纸杯。"
-        },
         {
           "s": "The engineers are also trying to develop an on and off＂switch＂where the glow would fade when exposed to daylight.",
           "src": "2020全国I卷·阅读理解D",
@@ -56,18 +49,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "那种冲击就像按下一个开关。"
-        },
-        {
-          "s": "Or, have you ever forgotten to switch off the TV or computer?",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "或者,你有没有忘记关闭电视或电脑?"
-        },
-        {
-          "s": "However, in the nottoo-distant future, we will be living in smart homes that will lock the door for us when we are away and remember to switch off the TV when we forget.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "然而，在不太遥远的将来，我们将生活在智能家居中，这些家居会在我们外出时为我们锁上门，并在我们忘记时记得关掉电视。"
         },
         {
           "s": "Intelligent Controls Today, we have to use switches for our lights, knobs for our appliances, and remote controls for our TVs and air conditioners.",
@@ -141,6 +122,18 @@
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "尽管他们有手机，但手机经常关机（\"不用的时候开着也没意义。\"），或者因为几周没用过而找不到（\"嗯，我上次把它放在哪儿了……？\"）。"
+        },
+        {
+          "s": "Or, have you ever forgotten to switch off the TV or computer?",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "或者,你有没有忘记关闭电视或电脑?"
+        },
+        {
+          "s": "However, in the nottoo-distant future, we will be living in smart homes that will lock the door for us when we are away and remember to switch off the TV when we forget.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "然而，在不太遥远的将来，我们将生活在智能家居中，这些家居会在我们外出时为我们锁上门，并在我们忘记时记得关掉电视。"
         }
       ]
     },
