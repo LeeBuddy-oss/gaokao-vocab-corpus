@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "maɪnd; NAmE maɪnd",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -116,6 +116,41 @@
           "src": "外研社B2 U3",
           "cat": "waiyan",
           "t": "它涉及做非常缓慢的身体练习，以放松你的头脑，平静你的身体。"
+        },
+        {
+          "s": "Last year, Moran worked on a project that arranged Fats Waller’s music for a dance party, “Just to kind of put it back in the mind that Waller is dance music as much as it is concert music,” says Moran.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "去年，莫兰参与了一个项目，将法茨·沃勒的音乐改编用于舞会，“就是想让人重新意识到，沃勒的音乐既是舞曲也是音乐会音乐，”莫兰说。"
+        },
+        {
+          "s": "It also helps in keeping us calm and relaxes our mind.",
+          "src": "2022北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它也有助于让我们保持冷静和放松心情。"
+        },
+        {
+          "s": "An idea suddenly crossed Cruse's mind.",
+          "src": "2023天津6月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "克鲁斯突然想到一个主意。"
+        },
+        {
+          "s": "Although my kindergarten experience feels like a century ago, the lessons I learned will stick in my mind forever.",
+          "src": "2022浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "虽然我的幼儿园经历感觉像是一个世纪前的事，但我学到的教训将永远留在脑海里。"
+        },
+        {
+          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。"
         }
       ]
     },
@@ -214,18 +249,32 @@
           "t": "积极思维对身体和心灵都有几种有益影响。"
         },
         {
-          "s": "Visualize the incoming ideas, and relate the new material to what you already know. _____38_____ If your mind is truly occupied with the text, you will not be able to think about Friday night or where to go on Saturday.",
-          "src": "2026浙江1月卷·七选五",
+          "s": "Develop a questioning mind.",
+          "src": "2020天津6月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "把 incoming 的想法形象化，并把新材料和你已知的联系起来。_____38_____如果你真的全神贯注于文本，你就没法去想周五晚上或周六去哪儿。"
+          "year": 2020,
+          "t": "观察周围的未知事物。"
         },
         {
-          "s": "Travel promotes understanding, expands our minds, makes us better people, and boosts local economies and communities, but the rapid growth of travel has led to overtourism in certain regions and destinations. ___16___ Certainly not.",
-          "src": "2024新高考II卷·七选五",
+          "s": "He left after seven months, physically broken and having lost his mind.",
+          "src": "2020全国新高考I卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "旅行促进理解、拓展思维、使我们成为更好的人，并促进当地经济和社区发展，但旅行的快速增长导致某些地区和目的地出现过度旅游。___16___ 当然不是。"
+          "year": 2020,
+          "t": "七个月后他离开了身体垮了精神也崩溃了。"
+        },
+        {
+          "s": "It opens children's mind.",
+          "src": "2021新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "它值得更多关注。"
+        },
+        {
+          "s": "The possibility of entering into and losing such a match should concentrate the minds of computer scientists.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "陷入并输掉这样一局棋的可能性，理应让计算机科学家集中注意力。"
         }
       ]
     },
@@ -254,14 +303,14 @@
           "t": "大自然似乎向那些观察和等待的人展开。下次你散步时，无论在哪里，都要领略所有的景色、声音和感觉。带着这种心态闲逛，你会为生活打开一个新的维度。"
         },
         {
-          "s": "C．Opportunity favors those with a curious mind．",
+          "s": "Opportunity favors those with a curious mind．",
           "src": "2019天津卷·20．",
           "cat": "gaokao",
           "year": 2019,
           "t": "C．机会青睐那些有好奇心的人。"
         },
         {
-          "s": "D．Opportunity awaits those with a cautious mind．",
+          "s": "Opportunity awaits those with a cautious mind．",
           "src": "2019天津卷·20．",
           "cat": "gaokao",
           "year": 2019,
@@ -292,6 +341,27 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "我把两个释义又读了一遍，试图弄明白，但谢瓦利埃小姐一定看穿了我的心思。"
+        },
+        {
+          "s": "Your eyes were engaged, but your mind was not.",
+          "src": "2026浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "你的眼睛在看，但你的心不在焉。"
+        },
+        {
+          "s": "You never knowD．You read my mind",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "A．我不明白B．由你决定"
+        },
+        {
+          "s": "Gender is rooted in people’s mind.",
+          "src": "2025浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "性别观念根植于人们的思想中。"
         }
       ]
     },
@@ -299,7 +369,7 @@
       "def": "your ability to remember things 记忆力",
       "ex": [
         {
-          "s": "C． open our mind to new things and ideas",
+          "s": "open our mind to new things and ideas",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
@@ -316,13 +386,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "英格利斯说，电话亭让人想起一个东西都做得经久耐用的时代。"
-        },
-        {
-          "s": "“Your mind ____58____ body go together.",
-          "src": "2026新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“你的意念____身体相随。"
         },
         {
           "s": "Feeling desperate, Eva started using a mind trick on herself.",
@@ -346,20 +409,6 @@
           "t": "它发出了我曾听过的最美妙的声音！我的心随着它流淌的旋律起舞。"
         },
         {
-          "s": "An idea suddenly crossed Cruse's mind.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "克鲁斯突然想到一个主意。"
-        },
-        {
-          "s": "It also helps in keeping us calm and relaxes our mind.",
-          "src": "2022北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它也有助于让我们保持冷静和放松心情。"
-        },
-        {
           "s": "一I haven’t made up my mind whether I’ll sign the contract with this company.",
           "src": "2022天津4月卷·单项选择",
           "cat": "gaokao",
@@ -367,39 +416,11 @@
           "t": "—我还没决定是否要与这家公司签合同。"
         },
         {
-          "s": "It opens children's mind.",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它值得更多关注。"
-        },
-        {
-          "s": "He left after seven months, physically broken and having lost his mind.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "七个月后他离开了身体垮了精神也崩溃了。"
-        },
-        {
           "s": "Keep their audience in mind.",
           "src": "2020浙江7月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
           "t": "心中有观众。"
-        },
-        {
-          "s": "Develop a questioning mind.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "观察周围的未知事物。"
-        },
-        {
-          "s": "C．You never knowD．You read my mind",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．我不明白B．由你决定"
         },
         {
           "s": "With these main reasons in mind, we can evaluate our level of anger throughout the day and prevent cases of outbursts by comprehending the reasons for our feelings.",
@@ -446,27 +467,6 @@
       "def": "想去做某事，可能会做某事（但不确定）",
       "ex": [
         {
-          "s": "When people think about operating systems ____ were developed for the personal computer, Microsoft may come to mind.",
-          "src": "2022天津4月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当人们想到为个人电脑开发的 'operating systems' 时，可能会想到微软。"
-        },
-        {
-          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。"
-        },
-        {
-          "s": "My grandmother helped me believe that I could accomplish ______ I put my mind to.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我祖母帮助我相信只要我用心去做我就能完成______任何事情。"
-        },
-        {
           "s": "Just keep an open mind and take part in as much as possible.",
           "src": "外研社B1 U1",
           "cat": "waiyan",
@@ -488,15 +488,7 @@
     },
     {
       "def": "to be upset, annoyed or worried by sth 尤用于疑问句或否定句，不用于被动句",
-      "ex": [
-        {
-          "s": "Last year, Moran worked on a project that arranged Fats Waller’s music for a dance party, “Just to kind of put it back in the mind that Waller is dance music as much as it is concert music,” says Moran.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "去年，莫兰参与了一个项目，将法茨·沃勒的音乐改编用于舞会，“就是想让人重新意识到，沃勒的音乐既是舞曲也是音乐会音乐，”莫兰说。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "（请求允许或客气地请人做事）介意",
@@ -513,13 +505,6 @@
     {
       "def": "to not care or not be concerned about sth 不关心；不在意；不考虑",
       "ex": [
-        {
-          "s": "Your eyes were engaged, but your mind was not.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "你的眼睛在看，但你的心不在焉。"
-        },
         {
           "s": "Consider and keep in mind why you want to make a change, including how the change reflects your values.",
           "src": "2023北京卷",
@@ -557,15 +542,7 @@
     },
     {
       "def": "当心；注意",
-      "ex": [
-        {
-          "s": "The possibility of entering into and losing such a match should concentrate the minds of computer scientists.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "陷入并输掉这样一局棋的可能性，理应让计算机科学家集中注意力。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to pay attention to what sb says, and obey them 听从",
@@ -633,27 +610,12 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "今年，带着开放的心态和新知，我走进另一次小组面试，告诉自己我就是那个从容的高年级生。"
-        },
-        {
-          "s": "Gender is rooted in people’s mind.",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "当皮特教练在终点线对她说\"干得好！\"时，伊娃很惊讶。"
         }
       ]
     },
     {
       "def": "（表示反对某人所做的事或所说的话）如蒙你不在意",
-      "ex": [
-        {
-          "s": "Although my kindergarten experience feels like a century ago, the lessons I learned will stick in my mind forever.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "虽然我的幼儿园经历感觉像是一个世纪前的事，但我学到的教训将永远留在脑海里。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "（表示委婉拒绝）",
