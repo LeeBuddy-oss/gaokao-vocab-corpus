@@ -1223,11 +1223,49 @@ function _mergeChunkVariants(chunkMap) {
 }
 
 // ====== 常见结构：语法框架分析（按词性输出抽象模式） ======
-function _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos) {
+function _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos, topCollocations) {
   const w = word.toLowerCase();
   const parts = [];
   const sigs = Object.keys(sigCat);
 
+  // 优先：从高频搭配反向推断常见结构（数据驱动，避免例句上下文误分类）
+  if (topCollocations && topCollocations.length > 0) {
+    const patterns = new Set();
+    topCollocations.forEach(([ph]) => {
+      const words = ph.split(' ');
+      const idx = words.indexOf(w);
+      if (idx === -1) return;
+      // word 在开头：动词用法（figure out / figure into ...）
+      if (idx === 0 && words.length > 1) {
+        const next = words[1];
+        if (ST_PARTICLES.has(next)) patterns.add('verb_particle');
+        else if (ST_PREP.has(next)) patterns.add('verb_prep');
+        else if (next.length > 2 && !ST_STOP.has(next)) patterns.add('verb_obj');
+      }
+      // word 不在开头：名词/形容词用法（official figure / respected figure ...）
+      else if (idx > 0) {
+        const prev = words[idx - 1];
+        // 前一个词不是功能词/限定词/介词/助动词，且长度>2 → 视为形容词+名词
+        if (prev.length > 2 && !ST_DET.has(prev) && !ST_AUX.has(prev) &&
+            !ST_PREP.has(prev) && !ST_PARTICLES.has(prev) && !ST_STOP.has(prev)) {
+          if (idx === words.length - 1) {
+            patterns.add('adj_noun');
+          } else if (idx < words.length - 1 && ST_PREP.has(words[idx + 1])) {
+            patterns.add('adj_noun_prep'); // 形容词 + 名词 + 介词
+          }
+        }
+      }
+    });
+
+    if (patterns.has('verb_particle')) parts.push(w + ' + 副词/小品词');
+    if (patterns.has('verb_prep'))     parts.push(w + ' + 介词');
+    if (patterns.has('verb_obj'))      parts.push(w + ' + 名词/代词');
+    if (patterns.has('adj_noun') || patterns.has('adj_noun_prep')) parts.push('形容词 + ' + w);
+
+    if (parts.length > 0) return parts.join('、');
+  }
+
+  // 回退：基于例句上下文结构签名的传统推导
   if (primaryPos === 'verb') {
     const hasParticle = sigs.some(s =>
       sigCat[s] === '动词词组' && s.includes(' ') && ST_PARTICLES.has(s.split(' ').pop() || ''));
@@ -1241,7 +1279,6 @@ function _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos) {
   }
   else if (primaryPos === 'noun') {
     if (catMap['名词词组'] || catMap['介词词组']) parts.push('形容词 + ' + w);
-    // 直接检查 structMap 中是否有 word + 介词 签名（不受 sigCat 误分类影响）
     const hasNounPrep = sigs.some(s =>
       s.startsWith(w + ' ') && ST_PREP.has(s.split(' ').pop() || ''));
     if (hasNounPrep) parts.push(w + ' + 介词');
@@ -1259,7 +1296,6 @@ function _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos) {
     parts.push(w + ' + 形容词');
   }
   else {
-    // 回退：通用模式
     if (catMap['动词词组']) parts.push(w + ' + 副词/小品词');
     if (catMap['介词词组']) parts.push(w + ' + 介词');
     if (catMap['动宾结构']) parts.push(w + ' + 名词/代词');
@@ -1332,7 +1368,6 @@ function renderMindMap(word, entry) {
   _normalizeVerb(structMap, sigCat, word);
   const primaryPos = _derivePrimaryPos(catMap, meta.pos, word, structMap, sigCat);
   const usagePos = _posDisplayName(primaryPos);
-  const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos);
 
   // 提取真实教学 n-gram 词块（catch sight of / distinguish right from wrong / take place ...）
   // 每条释义先按释义文本推断词性（to 开头=动词 / 中文"的"结尾=形容词），避免名词用法按动词规则提取
@@ -1343,6 +1378,8 @@ function renderMindMap(word, entry) {
     (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, dpos, collocMap, nounCapable));
   });
   const topCollocations = _mergeChunkVariants(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
+
+  const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos, topCollocations);
 
   let rightHtml = '';
   rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在例句库中主要作<b>${esc(usagePos)}</b>，共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
