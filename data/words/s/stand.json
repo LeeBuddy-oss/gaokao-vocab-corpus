@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "stænd; NAmE stænd",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -34,6 +34,25 @@
           "src": "外研社B1 U5",
           "cat": "waiyan",
           "t": "写一份动物档案：丹顶鹤是世界上最高的鹤之一，站立时约150厘米高。"
+        },
+        {
+          "s": "To make herself stand out.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "为了让她自己脱颖而出。"
+        },
+        {
+          "s": "I came a thousand miles to stand in this door tonight, and it’s worth it if my old partner turns up.” (Excerpts from “After Twenty Years” by O.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "\"我千里迢迢赶来，今晚站在这扇门前，如果我的老搭档出现，那就值了。\"（摘自《二十年后》by O.）"
+        },
+        {
+          "s": "Tourists can stand on a narrow glass platform called the Skywalk to see the Grand Canyon.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "游客可以站在一个叫空中走廊的狭窄玻璃平台上观看大峡谷。"
         }
       ]
     },
@@ -142,13 +161,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "为受到不公平对待的人挺身而出可能会让人感到不舒服。"
-        },
-        {
-          "s": "But something about quantum computing makes it especially prone to hype, Johnson suggests, perhaps because “‘quantum’ stands for something cool you shouldn’t be able to understand.” And that brings me back to Taylor, who suggested that I read his book Q for Quantum.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但量子计算的某些特点使其特别容易受到炒作的影响，Johnson暗示道，也许是因为\"'量子'代表着你本不该理解的酷东西。\"这让我回到了Taylor身边，他建议我读他的书《Q for Quantum》。"
         }
       ]
     },
@@ -229,13 +241,6 @@
       "def": "to be located away from sth 位于离 … 有一段距离的地方",
       "ex": [
         {
-          "s": "But for all its ancient buildings, Beijing is also a place ____43____ welcomes the fast-paced development of modern life, with 21st-century architectural ____44____ (wonder) standing side by side with historical buildings of the past.",
-          "src": "2023全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但尽管有许多古建筑，北京也是一个____43____欢迎现代生活快节奏发展的地方，21世纪的建筑____44____（wonder）与过去的历史建筑比邻而立。"
-        },
-        {
           "s": "Even soccer fans tend to have a seat each; gone are the days of thousands standing to watch the match.",
           "src": "2021全国乙卷·阅读理解A",
           "cat": "gaokao",
@@ -257,27 +262,11 @@
     },
     {
       "def": "to be present while sth bad is happening but not do anything to stop it 袖手旁观；无动于衷",
-      "ex": [
-        {
-          "s": "Don't stand _____32_____ , do something about it. \"",
-          "src": "2022浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "别袖手旁观____32____，为它做点什么。”"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to be ready for action 做好随时行动的准备；做好准备",
-      "ex": [
-        {
-          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to leave a job or position 离职；退职；下台",
@@ -289,7 +278,15 @@
     },
     {
       "def": "to be an abbreviation or symbol of sth 不用于进行时",
-      "ex": []
+      "ex": [
+        {
+          "s": "But something about quantum computing makes it especially prone to hype, Johnson suggests, perhaps because “‘quantum’ stands for something cool you shouldn’t be able to understand.” And that brings me back to Taylor, who suggested that I read his book Q for Quantum.",
+          "src": "2022北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "但量子计算的某些特点使其特别容易受到炒作的影响，Johnson暗示道，也许是因为\"'量子'代表着你本不该理解的酷东西。\"这让我回到了Taylor身边，他建议我读他的书《Q for Quantum》。"
+        }
+      ]
     },
     {
       "def": "to support sth 支持；主张",
@@ -310,13 +307,6 @@
     {
       "def": "an attitude towards sth or an opinion that you make clear to people 态度；立场；观点",
       "ex": [
-        {
-          "s": "To make herself stand out.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为了让她自己脱颖而出。"
-        },
         {
           "s": "A rethink is required — and as a new approach starts to become apparent, two ideas stand out.",
           "src": "2017江苏卷·阅读理解C",
@@ -354,7 +344,15 @@
     },
     {
       "def": "a piece of equipment or furniture that you use for holding a particular type of thing 常构成复合词",
-      "ex": []
+      "ex": [
+        {
+          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
+        }
+      ]
     },
     {
       "def": "a large sloping structure at a stadium with rows where people sit or stand to watch the game 看台",
@@ -378,24 +376,11 @@
           "t": "当制片厂不想让我出演这部电影——他们想要一个像保罗一样出名的人——他为我挺身而出。"
         },
         {
-          "s": "The ____1____ to stand out consumed me, pushing me towards a regrettable decision.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "想要___1___的欲望吞噬了我，把我推向一个令人后悔的决定。"
-        },
-        {
           "s": "The last one standing has just been turned into a “mini community library”: any passer-by can “borrow” a book from its shelves, and return it later, or replace it with another title from their own collection.",
           "src": "2024浙江1月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2024,
           "t": "最后一个幸存的电话亭刚刚被改造成了一个\"迷你社区图书馆\"：任何路人都可以从架子上\"借\"一本书，之后归还，或者用自己的藏书替换。"
-        },
-        {
-          "s": "Tourists can stand on a narrow glass platform called the Skywalk to see the Grand Canyon.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "游客可以站在一个叫空中走廊的狭窄玻璃平台上观看大峡谷。"
         },
         {
           "s": "Which of the following words can be used to replace the words underlined \"stood in the way of\"?",
@@ -460,31 +445,10 @@
           "t": "我环顾四周，终于看到了David，他独自站在围栏旁边的一侧。"
         },
         {
-          "s": "Mr Dena kept an unforgettable ___41___ by Sir Isaac Newton on his chalk board: “If I have been able to see further, it is only because I stand on the shoulders of giants.” He reflected on that throughout the year and was ___42___ to teach us more than math.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "德纳先生在黑板上保留了一句艾萨克·牛顿爵士令人难忘的___41___：\"如果说我比别人看得更远，那只是因为我站在巨人的肩膀上。\"他整整一年都在回味这句话，并___42___教会我们超越数学的东西。"
-        },
-        {
-          "s": "例：Stand over there ______ you’ll be able to see it better.",
-          "src": "2022天津卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "例：站在那边____，你就能看得更清楚。"
-        },
-        {
           "s": "例：Stand over there        you'll be able to see it better.",
           "src": "2021天津卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "例：站在那边____，你就能看得更清楚。"
-        },
-        {
-          "s": "例：Stand over there ______ you'll be able to see it better.",
-          "src": "2020天津卷",
-          "cat": "gaokao",
-          "year": 2020,
           "t": "例：站在那边____，你就能看得更清楚。"
         },
         {
@@ -500,12 +464,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "几年后，当我和幼儿园班级站在布鲁克林一所学校的午餐队伍里时，我意识到事情不再那么简单了。"
-        },
-        {
-          "s": "I came a thousand miles to stand in this door tonight, and it’s worth it if my old partner turns up.” (Excerpts from “After Twenty Years” by O.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "\"我千里迢迢赶来，今晚站在这扇门前，如果我的老搭档出现，那就值了。\"（摘自《二十年后》by O.）"
         },
         {
           "s": "Where can the parents stand and watch?",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈsteɪʃn; NAmE ˈsteɪʃn",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -16,14 +16,14 @@
           "t": "巴塞罗那地铁驶入车站，门滑开，乘客涌出，去忙各自日常的事。"
         },
         {
-          "s": "C． Fire alarm pull stations and pipes．",
+          "s": "Fire alarm pull stations and pipes．",
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
           "t": "C． 火警报警按钮和管道。"
         },
         {
-          "s": "D． Sprinklers and fire alarm pull stations．",
+          "s": "Sprinklers and fire alarm pull stations．",
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
@@ -248,6 +248,13 @@
           "src": "外研社B3 U6",
           "cat": "waiyan",
           "t": "怀着沉重的心情走出车站，我突然感到脸上吹来一阵清新的风。"
+        },
+        {
+          "s": "He then took the wallet to a nearby police station after    22    a note behind to let the owner know it was safe.",
+          "src": "2018北京卷·The Homeless Hero",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "然后他把钱包带到附近警局，之前___22___留了张便条让主人知道钱包安全。"
         }
       ]
     },
@@ -302,13 +309,6 @@
       "def": "to go somewhere and stand or sit there, especially to wait for sth; to send sb somewhere to do this 到某处站（或坐）；把 … 安置到（某处）",
       "ex": [
         {
-          "s": "He then took the wallet to a nearby police station after    22    a note behind to let the owner know it was safe.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "然后他把钱包带到附近警局，之前___22___留了张便条让主人知道钱包安全。"
-        },
-        {
           "s": "Paragraph 2:  Kevin and Mr Green took the watch they had found to the police station.",
           "src": "2025浙江1月卷·读后续写",
           "cat": "gaokao",
@@ -316,7 +316,7 @@
           "t": "第2段：凯文和格林先生把他们捡到的手表交到了警察局。"
         },
         {
-          "s": "16．（30分）I was ready to pay for my bananas at the grocery one night， when fear seized me． My wallet was gone． I could only have left it on the G9 bus， which was now speeding in the dark to some（1）     station．",
+          "s": "（30分）I was ready to pay for my bananas at the grocery one night， when fear seized me． My wallet was gone． I could only have left it on the G9 bus， which was now speeding in the dark to some（1）     station．",
           "src": "2019天津卷",
           "cat": "gaokao",
           "year": 2019,

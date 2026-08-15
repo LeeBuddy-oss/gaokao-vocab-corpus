@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "stæmp; NAmE stæmp",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -47,6 +47,13 @@
           "src": "外研社B6 U6",
           "cat": "waiyan",
           "t": "这也为卡森赢得了后继的总统自由勋章,并将她的脸贴在美国17美分邮票上."
+        },
+        {
+          "s": "The stamp price has gone down.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "邮票价格下降了。"
         }
       ]
     },
@@ -141,13 +148,6 @@
     {
       "def": "to stick a stamp on a letter or package 在 … 上贴邮票",
       "ex": [
-        {
-          "s": "The stamp price has gone down.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "邮票价格下降了。"
-        },
         {
           "s": "The Federal Duck Stamp Story",
           "src": "2021卷",
