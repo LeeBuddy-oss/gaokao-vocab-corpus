@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "tæp; NAmE tæp",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -53,27 +53,7 @@
     },
     {
       "def": "to cut into a tree in order to get liquid from it 在（树）上切口（导出液体）",
-      "ex": [
-        {
-          "s": "Plastic pollution is also bad, killing many birds and fish, and has even been found in our tap water.",
-          "src": "人教选必4 U3",
-          "cat": "renjiao",
-          "t": "塑料污染也非常严重,杀死了许多鸟类和鱼类,甚至在我们的自来水中被发现。"
-        },
-        {
-          "s": "Humans also eat these fish, and micro plastic has even been found in tap water around the world.",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "人类也吃这些鱼,微塑料甚至在全世界自来水中被发现."
-        },
-        {
-          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to choose sb to do a particular job 委任；指定（某人做某事）",
@@ -105,6 +85,25 @@
           "src": "北师大B3 U8",
           "cat": "beishida",
           "t": "嗯，比方说你刷牙时让水龙头一直流着，出门时灯亮着不关，或者掉了一片垃圾却懒得捡起来。"
+        },
+        {
+          "s": "Plastic pollution is also bad, killing many birds and fish, and has even been found in our tap water.",
+          "src": "人教选必4 U3",
+          "cat": "renjiao",
+          "t": "塑料污染也非常严重,杀死了许多鸟类和鱼类,甚至在我们的自来水中被发现。"
+        },
+        {
+          "s": "Humans also eat these fish, and micro plastic has even been found in tap water around the world.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "人类也吃这些鱼,微塑料甚至在全世界自来水中被发现."
+        },
+        {
+          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
         }
       ]
     },
