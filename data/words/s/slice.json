@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "slaɪs; NAmE slaɪs",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -33,24 +33,7 @@
           "src": "人教B1 U5",
           "cat": "renjiao",
           "t": "若食二片,则食六分之二或三分之一."
-        }
-      ]
-    },
-    {
-      "def": "a part or share of sth 部分；份额",
-      "ex": []
-    },
-    {
-      "def": "a kitchen utensil (= tool) that you use to lift and serve pieces of food 锅铲；（餐桌用）小铲",
-      "ex": []
-    },
-    {
-      "def": "a stroke that makes the ball spin to one side rather than going straight ahead 高尔夫球、网球等",
-      "ex": []
-    },
-    {
-      "def": "to cut sth into slices 把 … 切成（薄）片",
-      "ex": [
+        },
         {
           "s": "Jenna threw the burnt piece into the sink and put in the other slice of bread.",
           "src": "2021卷",
@@ -68,13 +51,6 @@
         {
           "s": "Jenna found the bread and put two slices into the egg mixture.",
           "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
-        },
-        {
-          "s": "Jenna found the bread and put two slices into the egg mixture.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
           "cat": "gaokao",
           "year": 2021,
           "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
@@ -99,6 +75,22 @@
           "t": "服务平原为薄,白色切片,肉质多汁,咸."
         }
       ]
+    },
+    {
+      "def": "a part or share of sth 部分；份额",
+      "ex": []
+    },
+    {
+      "def": "a kitchen utensil (= tool) that you use to lift and serve pieces of food 锅铲；（餐桌用）小铲",
+      "ex": []
+    },
+    {
+      "def": "a stroke that makes the ball spin to one side rather than going straight ahead 高尔夫球、网球等",
+      "ex": []
+    },
+    {
+      "def": "to cut sth into slices 把 … 切成（薄）片",
+      "ex": []
     },
     {
       "def": "to cut sth easily with or as if with a sharp blade 切；割；划",
