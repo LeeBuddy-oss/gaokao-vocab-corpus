@@ -1,20 +1,13 @@
 {
   "meta": {
     "ph": "ˈbæləns; NAmE ˈbæləns",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; verb; verb; verb; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
     {
       "def": "a situation in which different things exist in equal, correct or good amounts 均衡；平衡；均势",
       "ex": [
-        {
-          "s": "You have to balance creating an ending that's unpredictable, but doesn’t seem to come from nowhere, one that fits what’s right for the characters.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "你必须平衡：创造一个出人意料、却又不是凭空而来的结局，一个契合角色应有的结局。"
-        },
         {
           "s": "7/10 — Wildflowers &White Balance: meet at Washburn Trailhead in Chittenden parking area.",
           "src": "2023新课标II卷·阅读理解A",
@@ -72,13 +65,6 @@
           "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
         },
         {
-          "s": "Stop trying to balance time between them all.",
-          "src": "2022浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "不要试图在所有事情之间平衡时间。"
-        },
-        {
           "s": "Balance between work and family.",
           "src": "2022浙江6月卷·阅读理解C",
           "cat": "gaokao",
@@ -93,13 +79,6 @@
           "t": "糟糕的是，我太累了，甚至不想起床。"
         },
         {
-          "s": "To balance power and weight of batteries in e-planes.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "平衡电动飞机中电池的功率和重量。"
-        },
-        {
           "s": "What’s more, they came to understand the delicate balance that the environment exists in and what can, and must, be done to protect the reef.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
@@ -107,25 +86,11 @@
           "t": "更重要的是，他们开始理解环境存在其中的微妙平衡，以及为了保护礁石，能够做些什么、必须做些什么。"
         },
         {
-          "s": "Tu says that the balance between the black and white pieces, the beauty in the ____63____ (strategy) placement of the pieces, ____64____ the energy flow following each move inspired artists to create oil paintings, sculptures, ____65____ (digital) generated pictures and silk-screen prints for the exhibition.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "涂说，黑白棋子之间的平衡、棋子____63____（战略性）摆放的美感，____64____每一步之后能量流动的气息，启发了艺术家为展览创作油画、雕塑、____65____（数字）生成的图画和丝网版画。"
-        },
-        {
           "s": "（5）How does an early﹣warning system help us maintain the ecological balance？",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
           "t": "（5）预警系统如何帮助我们维持生态平衡？"
-        },
-        {
-          "s": "This __23__ continued into high school, but we somehow began to find a balance.",
-          "src": "2020天津3月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这种__23__延续到了高中，但我们不知怎的开始找到平衡。"
         }
       ]
     },
@@ -179,7 +144,29 @@
     },
     {
       "def": "to give equal importance to two contrasting things or parts of sth 同等重视（相对的两个事物或方面）",
-      "ex": []
+      "ex": [
+        {
+          "s": "To balance power and weight of batteries in e-planes.",
+          "src": "2020天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "平衡电动飞机中电池的功率和重量。"
+        },
+        {
+          "s": "Stop trying to balance time between them all.",
+          "src": "2022浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "不要试图在所有事情之间平衡时间。"
+        },
+        {
+          "s": "You have to balance creating an ending that's unpredictable, but doesn’t seem to come from nowhere, one that fits what’s right for the characters.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "你必须平衡：创造一个出人意料、却又不是凭空而来的结局，一个契合角色应有的结局。"
+        }
+      ]
     },
     {
       "def": "to compare the relative importance of two contrasting things 比较（两个相对的事物）；权衡重要性",

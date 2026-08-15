@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "bæn; NAmE bæn",
-    "pos": "verb",
+    "pos": "verb; verb; noun",
     "stars": "★★"
   },
   "defs": [
@@ -9,25 +9,11 @@
       "def": "to decide or say officially that sth is not allowed 明令禁止；取缔",
       "ex": [
         {
-          "s": "Which of the following best describes the ban on drivers' texting in the US?",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Textalyzer能帮助警察发现什么？"
-        },
-        {
           "s": "New York Banning Hand-Held Devices by Drivers",
           "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2022,
           "t": "下一代手机：Textalyzer"
-        },
-        {
-          "s": "“I come to you, _____37_____ , to apologize for the-damage I had _____38_____ caused and to ask you to _____39_____ my lifetime ban from the hotel.”",
-          "src": "2021全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "西安城墙是中国悠久历史中保存最完整的城墙。"
         },
         {
           "s": "Among the bag makers' argument: many cities with bans still allow shoppers to purchase paper bags, which are easily recycled but require more energy to produce and transport.",
@@ -124,6 +110,18 @@
           "cat": "renjiao",
           "year": "",
           "t": "作为一支成功的乐队，Impact的成员们展现出不少引人注目的品质。"
+        }
+      ]
+    },
+    {
+      "def": "an official rule that says that sth is not allowed 禁令",
+      "ex": [
+        {
+          "s": "Which of the following best describes the ban on drivers' texting in the US?",
+          "src": "2022全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Textalyzer能帮助警察发现什么？"
         }
       ]
     }
