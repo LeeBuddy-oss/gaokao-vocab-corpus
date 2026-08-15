@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈkʌlə(r); NAmE ˈkʌlər",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; noun; noun; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -14,13 +14,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "荷兰园艺师兼设计师 Piet Oudolf 的花园推广了这种风格，在色彩和形态上做文章，增添了艺术气息，兼顾四季趣味并满足野生动物的需求。"
-        },
-        {
-          "s": "Last Friday my mom decided to color his hair.",
-          "src": "2023全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "上周五我妈妈决定染头发。"
         },
         {
           "s": "The color she choose came in a box which had a picture of a woman that hair color looked just perfect.",
@@ -125,7 +118,7 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "安排下一班航班。"
+          "t": "他不喜欢这件衬衫的颜色。"
         },
         {
           "s": "The relaxing colors of the wall.",
@@ -161,13 +154,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "这些是龙脊梯田的颜色。"
-        },
-        {
-          "s": "The reasons 3______ they prefer natural dyes are that the colours are brighter and can be kept longer.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他们偏爱天然染料的理由3____是：颜色更鲜亮，且能保持更久。"
         },
         {
           "s": "With pleasant flavours and scents, and coming in a variety of colours, fruit and herbal teas make a nice change to traditional teas.",
@@ -270,7 +256,14 @@
           "src": "2019北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
-          "t": "浮游植物已被用于控制全球气候"
+          "t": "评估海洋颜色变化的后果"
+        },
+        {
+          "s": "a colour picture of their passport",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们护照的彩色照片"
         }
       ]
     },
@@ -301,7 +294,7 @@
           "src": "2019北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2019,
-          "t": "\"不仅海洋中浮游植物的数量在变化，\"她说，\"而且浮游植物的品种也在变化。\""
+          "t": "海洋颜色变化的原因。"
         }
       ]
     },
@@ -341,18 +334,18 @@
       "def": "to put colour on sth using paint, coloured pencils, etc. （用颜料、彩色笔等）为 … 着色",
       "ex": [
         {
-          "s": "a colour picture of their passport",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们护照的彩色照片"
-        },
-        {
           "s": "She put the new color on her hair or sat still for 30 minutes, just as the directions saying.",
           "src": "2023全国乙卷·短文改错",
           "cat": "gaokao",
           "year": 2023,
           "t": "她把染发剂涂在头发上，然后静坐了30分钟，就像说明书上写的那样。"
+        },
+        {
+          "s": "Last Friday my mom decided to color his hair.",
+          "src": "2023全国乙卷·短文改错",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "上周五我妈妈决定染头发。"
         }
       ]
     },
