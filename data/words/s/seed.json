@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "siːd; NAmE siːd",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -33,12 +33,25 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "在我第三年里,我发现,经过对数千种种子的治疗,我只得到了一种植物,我可以用来做实验。"
+        },
+        {
+          "s": "Part of our mission was to experiment with growing plants in the Martian soil, so I have seeds of various kinds.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "我们的任务之一是在火星土壤中试验种植植物, 所以我有各种种子。"
         }
       ]
     },
     {
       "def": "the beginning of a feeling or a development which continues to grow 起源；起因；萌芽；开端",
-      "ex": []
+      "ex": [
+        {
+          "s": "These letters obviously helped sow the seeds of love between the two.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "这些信件显然帮助在两人之间播下了爱的种子。"
+        }
+      ]
     },
     {
       "def": "one of the best players in a competition. The seeds are given a position in a list to try and make sure that they do not play each other in the early parts of the competition. 尤指网球",
@@ -76,12 +89,6 @@
       "def": "to produce other plants using its own seeds （种子）繁殖",
       "ex": [
         {
-          "s": "These letters obviously helped sow the seeds of love between the two.",
-          "src": "人教选必3 U5",
-          "cat": "renjiao",
-          "t": "这些信件显然帮助在两人之间播下了爱的种子。"
-        },
-        {
           "s": "You could try eating fish, nuts and seeds to increase your intake of Omega-3.",
           "src": "北师大选必3 U9",
           "cat": "beishida",
@@ -93,12 +100,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "一些学生对园艺非常感兴趣，以至于把种子带回家，开辟自己的菜园。"
-        },
-        {
-          "s": "Part of our mission was to experiment with growing plants in the Martian soil, so I have seeds of various kinds.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "我们的任务之一是在火星土壤中试验种植植物, 所以我有各种种子。"
         }
       ]
     },
