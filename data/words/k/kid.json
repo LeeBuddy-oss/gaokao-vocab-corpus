@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "kɪd; NAmE kɪd",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb;adv;adv",
     "stars": ""
   },
   "defs": [
@@ -14,27 +14,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "及早培养孩子敬业精神的方法"
-        },
-        {
-          "s": "Involve your child in the daily running of the house: tidying toys, feeding the dog, watering the plants. ____36____ When the tasks become as routine as brushing teeth, kids internalise that helping with housework is simply part of life.",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "让孩子参与家里的日常运转：整理玩具、喂狗、给植物浇水。____36____ 当这些任务变得像刷牙一样例行，孩子们就会内化“帮忙做家务就是生活的一部分”。"
-        },
-        {
-          "s": "When kids mess up, don’t jump in with a rescue mission. ____39____",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当孩子搞砸时，不要急着出手救援。____39____"
-        },
-        {
-          "s": "Teaching kids work ethic is to gently and consistently push them toward responsibility, determination, and pride in their efforts. ____40____ No worry.",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "培养孩子的敬业精神，就是温和而持续地把他们推向责任感、毅力和对自己努力的自豪。____40____ 别担心。"
         },
         {
           "s": "Help kids develop analytical skills.",
@@ -195,13 +174,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "考虑到孩子的身高，学校是如何设计教室的？（不超过10个词）"
-        },
-        {
-          "s": "I thought ___18___ myself, “Why would he carry all his books? ” Just then, some kids ran at him, ___19___ (knock) his books out of his arms.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我想,____18____“为什么他要带着他的书?” 刚才,一些孩子冲着他,____19____他的书从他的怀里跑出来。"
         },
         {
           "s": "Kids can test their skills and compare their abilities to the animals of Yellowstone.",
@@ -489,14 +461,6 @@
           "_matched": true
         },
         {
-          "s": "As is described in Paragraph 4, taking a small kid to a half-hour Story Time allows ______. （    ）",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如第4段所述，带小孩去半小时的“故事时间”能让______。（    ）",
-          "_matched": true
-        },
-        {
           "s": "the kid to learn a new language",
           "src": "2020天津6月卷·阅读理解A",
           "cat": "gaokao",
@@ -769,11 +733,27 @@
           "_matched": true
         },
         {
-          "s": "In the first ___49___, “You'd have a lot of kids and be in survival mode, start having kids young, expect your kids will have kids young, and expect that there will be more ___50___ and fewer resources,” said Twenge, a psychology professor at San Diego State University who is the author of “iGen; Why Today’s Super-Connected Kids Are Growing Up Less Rebellious, More Tolerant, Less Happy — and Completely Unprepared  for Adulthood.",
-          "src": "2018上海卷·Section A",
+          "s": "As the kid, I loved to watch cartoons, but no matter how many times I asked to watching them, my parents would not to let me.",
+          "src": "2018全国II卷·短文改错",
           "cat": "gaokao",
           "year": 2018,
-          "t": "在第一个___49___中，“你会有很多孩子，处于生存模式，早早生孩子，期望你的孩子也早早生孩子，并预期会有更多___50___、更少资源，”圣地亚哥州立大学心理学教授特温格说，她著有《iGen：为何当今超级互联的孩子更不叛逆、更宽容、更不快乐——且完全未准备好成年》。",
+          "t": "城市通常有其存在的充分理由，比如附近的港口或河流。",
+          "_matched": true
+        },
+        {
+          "s": "You may even learn that your kid has a talent you didn’t know about before.",
+          "src": "2025新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "你甚至可能发现，你的孩子有你以前不知道的天赋。",
+          "_matched": true
+        },
+        {
+          "s": "She hopes that every kid can have a clean mouth and a broad smile.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "她希望每个孩子都能拥有干净的嘴和灿烂的笑容。",
           "_matched": true
         }
       ]
@@ -817,22 +797,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "冲突通常通过音乐对决来解决。",
-          "_matched": true
-        },
-        {
-          "s": "As the kid, I loved to watch cartoons, but no matter how many times I asked to watching them, my parents would not to let me.",
-          "src": "2018全国II卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "城市通常有其存在的充分理由，比如附近的港口或河流。",
-          "_matched": true
-        },
-        {
-          "s": "You may even learn that your kid has a talent you didn’t know about before.",
-          "src": "2025新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "你甚至可能发现，你的孩子有你以前不知道的天赋。",
           "_matched": true
         },
         {
@@ -903,14 +867,6 @@
           "t": "“我怕其他学校的孩子会笑他，”他不安地解释道。"
         },
         {
-          "s": "It happened that the plant downtown needed eight kids for __43__ help during our spring break, for which I had no __44__ beyond listening to my favorite records.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "碰巧市中心的那家工厂在春假期间需要八个孩子来__43__帮忙，而除了听我最喜欢的唱片，我对这件事没有别的__44__。",
-          "_matched": true
-        },
-        {
           "s": "But the   58   is that I shouldn’t lie to my kids.",
           "src": "2020全国I卷·完形填空",
           "cat": "gaokao",
@@ -931,14 +887,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "孩子会觉得他们不够好，或者你不在乎，结果可能认为努力争取成就毫无意义。",
-          "_matched": true
-        },
-        {
-          "s": "She hopes that every kid can have a clean mouth and a broad smile.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "她希望每个孩子都能拥有干净的嘴和灿烂的笑容。",
           "_matched": true
         },
         {
@@ -1030,13 +978,6 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "过多的表扬可能适得其反，而且当表扬以不真诚的方式给出时，会让孩子害怕尝试新事物或冒险，担心无法保持在父母表扬把他们放到的那个顶端位置。"
-        },
-        {
-          "s": "The problem isn't just screens ___24___, but also the way screens tempt kids (and adults) away from something far more important: physical activity.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "问题不只是屏幕____，还在于屏幕诱惑孩子（和大人）远离更重要的事：身体活动。"
         }
       ]
     },
@@ -1088,7 +1029,7 @@
           "_matched": true
         },
         {
-          "s": "A．You betB．It dependsC．Forget itD．No kidding",
+          "s": "You betB．It dependsC．Forget itD．No kidding",
           "src": "2018天津卷",
           "cat": "gaokao",
           "year": 2018,
@@ -1122,14 +1063,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "“这对孩子们来说真是个很棒的33___，”一位邻居在接受当地报纸采访时说。"
-        },
-        {
-          "s": "“What we can say is that this is ___23___ the brains look like of kids who spend a lot of time on screens.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“我们能说的是，这就是花很多时间在屏幕上的孩子的大脑____23____的样子。”",
-          "_matched": true
         },
         {
           "s": "You're kidding me",

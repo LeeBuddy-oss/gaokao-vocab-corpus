@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "kɪl; NAmE kɪl",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -60,6 +60,13 @@
           "year": 2023,
           "t": "对克鲁斯来说，最初打发时间的方式，如今已变成在孩子心灵中产生积极影响的方式。",
           "_matched": true
+        },
+        {
+          "s": "Many farmers opposed the plan because they feared that wolves would kill their farm animals or pets.",
+          "src": "2017全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "许多农民反对这项计划，因为他们担心狼会杀死他们的农场动物或宠物。"
         }
       ]
     },
@@ -119,12 +126,6 @@
       "def": "an act of killing, especially when an animal is hunted or killed 杀死，捕杀（尤指动物）",
       "ex": [
         {
-          "s": "David 1 as busy as a(n) __________ 2 kill two __________ with one stone 3 When the cat’s away, the __________ will play.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "大卫　1 像____一样忙（as busy as a bee 像蜜蜂一样忙）　2 一石二____（kill two birds with one stone 一石二鸟）　3 猫儿不在，____作怪（When the cat's away, the mice will play 猫走鼠称王）。"
-        },
-        {
           "s": "Mum was using Dad's phone to take photos of the colourful little houses along the coast when we saw something amazing - a killer whale!",
           "src": "外研社B2 U5",
           "cat": "waiyan",
@@ -139,13 +140,6 @@
           "_matched": true
         },
         {
-          "s": "Many farmers opposed the plan because they feared that wolves would kill their farm animals or pets.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "许多农民反对这项计划，因为他们担心狼会杀死他们的农场动物或宠物。"
-        },
-        {
           "s": "robbing Peter to pay Paul                 D. killing two birds with one stone",
           "src": "2020浙江1月卷·阅读理解B",
           "cat": "gaokao",
@@ -154,7 +148,7 @@
           "_matched": true
         },
         {
-          "s": "B．By stopping us from killing large predators．",
+          "s": "By stopping us from killing large predators．",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,

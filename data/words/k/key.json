@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "kiː; NAmE kiː",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -37,6 +37,35 @@
           "year": 2025,
           "t": "“用另一把钥匙也有可能打开那把锁，”我说。",
           "_matched": true
+        },
+        {
+          "s": "Get an extra key.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "拿一把备用钥匙。",
+          "_matched": true
+        },
+        {
+          "s": "So, I called Directory Assistance, got put through to our landlady’s managing agent, and had a spare key sent to me with just enough time to get back in before the actors arrived.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "于是我打了查号台，转接到房东的代理处，让人送了一把备用钥匙过来，刚好能在演员到达之前赶回去开门。"
+        },
+        {
+          "s": "Using a key to unlock a door.",
+          "src": "2022全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "用钥匙开门。"
+        },
+        {
+          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
         }
       ]
     },
@@ -49,14 +78,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "关于人性的反思",
-          "_matched": true
-        },
-        {
-          "s": "We had decided on key items for the ___42___ we were moving to in town, donated what we could, and rented a place to ___43___ our supposedly important objects.",
-          "src": "2025新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我们已为要搬进镇上的___42___选定了关键物品，能捐的都捐了，还租了个地方来___43___那些自认为重要的物件。",
           "_matched": true
         },
         {
@@ -382,37 +403,7 @@
     },
     {
       "def": "to deliberately damage a car by scratching it with a key 用钥匙划坏（汽车）",
-      "ex": [
-        {
-          "s": "Get an extra key.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "拿一把备用钥匙。",
-          "_matched": true
-        },
-        {
-          "s": "So, I called Directory Assistance, got put through to our landlady’s managing agent, and had a spare key sent to me with just enough time to get back in before the actors arrived.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "于是我打了查号台，转接到房东的代理处，让人送了一把备用钥匙过来，刚好能在演员到达之前赶回去开门。"
-        },
-        {
-          "s": "Using a key to unlock a door.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "用钥匙开门。"
-        },
-        {
-          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
-        }
-      ]
+      "ex": []
     }
   ]
 }
