@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "dʒʌmp; NAmE dʒʌmp",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -55,40 +55,10 @@
           "t": "想象一个孩子站在四英尺高的跳水板上问自己一个问题：\"我应该跳下去吗？"
         },
         {
-          "s": "The train moved on．The little boy was ____5____ awake on his mother's lap，but the woman dropped off to sleep．A moment later，he began to____6____the half-open window—one leg went over it．The man jumped up and ____7____the child just before he fell out．",
-          "src": "2021北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "火车继续前行。小男孩___5___醒着躺在母亲腿上，但女人睡着了。片刻后，他开始___6___那半开的车窗——一条腿已经跨了过去。男子跳起来，在孩子掉出去前___7___了他。"
-        },
-        {
           "s": "If fish are jumping higher than usual or frogs are croaking more loudly, it may rain.",
           "src": "外研社B3 U6",
           "cat": "waiyan",
           "t": "如果鱼跳得比平常高，或者青蛙叫得更大声，可能要下雨了。"
-        },
-        {
-          "s": "This was so ___40___ because I had put the handbrake on when I jumped out. ___41___ Don had somehow made the ___42___move.",
-          "src": "2020浙江7月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这太___40___了，因为我跳下车时拉了手刹。___41___唐不知怎的让___42___动了起来。",
-          "_matched": true
-        },
-        {
-          "s": "The lamb had become separated from its ___37___ , so I jumped out of the tractor to ___38___ it while Don stayed in his scat.",
-          "src": "2020浙江7月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这只羔羊与它的___37___母羊走散了，所以我跳下拖拉机去___38___找回它，而唐留在座位上。"
-        },
-        {
-          "s": "I couldn’t see Don, but as I _____50_____ the tractor he jumped out onto the road, apparently _____51_____ , and dashed back to me.",
-          "src": "2020浙江7月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我看不见唐，但当我_____50_____拖拉机时，他跳到路上，显然_____51_____，然后冲回我身边。",
-          "_matched": true
         },
         {
           "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
@@ -130,7 +100,7 @@
           "_matched": true
         },
         {
-          "s": "A． To avoid jumping to conclusions．",
+          "s": "To avoid jumping to conclusions．",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
@@ -163,14 +133,6 @@
     {
       "def": "to make a sudden movement because of surprise, fear or excitement （因吃惊、害怕或激动而）猛地一动，突然一跳",
       "ex": [
-        {
-          "s": "Paragraph 1: Suddenly a little rabbit jumped out in front of my horse. ____________",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "第1段：突然一只小兔跳到我马前。____________",
-          "_matched": true
-        },
         {
           "s": "Mac’s heart jumped.",
           "src": "2017浙江6月卷·读后续写",
@@ -250,7 +212,14 @@
     },
     {
       "def": "to interrupt a conversation 打断谈话",
-      "ex": []
+      "ex": [
+        {
+          "s": "Sorry, but I was wondering whether… Is it OK if I jump in for a second?",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "对不起，不过我在想……我可以插一句吗？"
+        }
+      ]
     },
     {
       "def": "to start to do sth very quickly without spending a long time thinking first 匆忙行动；急于从事",
@@ -285,19 +254,6 @@
           "year": 2021,
           "t": "当Spot和Stripe四个月大时，它们正在学习如何开门和翻越围栏，我们知道它们真的该走了。",
           "_matched": true
-        },
-        {
-          "s": "When kids mess up, don’t jump in with a rescue mission. ____39____",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当孩子搞砸时，不要急着出手救援。____39____"
-        },
-        {
-          "s": "Sorry, but I was wondering whether… Is it OK if I jump in for a second?",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "对不起，不过我在想……我可以插一句吗？"
         }
       ]
     },
