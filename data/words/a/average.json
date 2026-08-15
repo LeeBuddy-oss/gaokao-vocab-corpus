@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈævərɪdʒ; NAmE ˈævərɪdʒ",
-    "pos": "adjective",
+    "pos": "adjective; noun",
     "stars": ""
   },
   "defs": [
@@ -14,41 +14,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "当足够多的这类误差被平均在一起时，它们会相互抵消，从而得到更准确的估计。"
-        },
-        {
-          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
-        },
-        {
-          "s": "It isn’t just that people are, on average, living longer.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "还有他们在平均上更健康   65  更有生产力持续的时间更长。"
-        },
-        {
-          "s": "They burned more fat on average.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们平均燃烧了更多的脂肪。"
-        },
-        {
-          "s": "Navajas’ study found that the average accuracy could increase even if ________.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "纳瓦哈斯的研究发现，即使________，平均准确率也能提高。"
-        },
-        {
-          "s": "Across all participants, those in the beauty group reported an average of 23% higher levels of “transformative and self-transcendent feelings” — such as feeling moved, enlightened and inspired — than the control group.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在所有参与者中，“美”组报告的“蜕变与超越自我的感受”——如感动、顿悟和受启发——平均比对照组高出23%。"
         },
         {
           "s": "In most countries, the average age for starting university is 18 years old, but actually there is no upper age limit for starting a university degree.",
@@ -72,13 +37,6 @@
           "t": "平均海拔约4,000至5,000米，高原被巨大的山脉环绕。"
         },
         {
-          "s": "For instance, the average obtained from the estimates of four discussion groups of five was significantly more accurate than the average obtained from 20 independent individuals.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "例如，由四个五人讨论小组得出的平均估算值，明显比由20个独立个体得出的平均值更准确。"
-        },
-        {
           "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
           "src": "2017江苏卷·Population Change",
           "cat": "gaokao",
@@ -93,18 +51,67 @@
           "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
         },
         {
-          "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
-        },
-        {
           "s": "They have an average length of about 18 cm and an average weight of about 31–41 g.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "year": "",
           "t": "它们的平均长度约为18厘米，平均重量约为31-41克。"
+        },
+        {
+          "s": "The average high temperature in July is only 22 degrees, so over 30 is not usual for London.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "七月平均高温只有22度，所以超过30度对伦敦来说不寻常。"
+        },
+        {
+          "s": "By 2000 the average age was 65.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "到2000年平均寿命达到了65岁。"
+        },
+        {
+          "s": "After years of observing human nature, I have decided that two qualities make the difference between men of great achievement and men of average performance curioscy and discontent.",
+          "src": "2020天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "经过多年对人性的观察，我已认定有两种品质决定了成就卓著者与表现平庸者之间的差别：好奇与不满。"
+        },
+        {
+          "s": "They could walk at an average speed.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们能以平均速度行走。"
+        },
+        {
+          "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
+        },
+        {
+          "s": "The average peak workload was measured at 103 watts.",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "平均峰值工作负荷测量值为103瓦特。"
+        },
+        {
+          "s": "In 1900, people died at the average age of 30.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "1900年，人们的平均死亡年龄是30岁。"
+        },
+        {
+          "s": "The average spend per project will be around £ 823.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "每个项目的平均花费约为823英镑。"
         }
       ]
     },
@@ -129,20 +136,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "我也从未见过一个两者兼备的普通人。"
-        },
-        {
-          "s": "Freddy was an average   44  , but not an average person.",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "弗雷迪是一个普通的____44____，但不是一个普通的人。"
-        },
-        {
-          "s": "Freddy was an average     44    ,but not an average person.",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "弗雷迪是一个普通的____44____，但不是一个普通的人。"
         }
       ]
     },
@@ -150,11 +143,39 @@
       "def": "the result of adding several amounts together, finding a total, and dividing the total by the number of amounts 平均数",
       "ex": [
         {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
+          "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
+        },
+        {
+          "s": "For instance, the average obtained from the estimates of four discussion groups of five was significantly more accurate than the average obtained from 20 independent individuals.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "例如，由四个五人讨论小组得出的平均估算值，明显比由20个独立个体得出的平均值更准确。"
+        },
+        {
+          "s": "Across all participants, those in the beauty group reported an average of 23% higher levels of “transformative and self-transcendent feelings” — such as feeling moved, enlightened and inspired — than the control group.",
+          "src": "2026新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在所有参与者中，“美”组报告的“蜕变与超越自我的感受”——如感动、顿悟和受启发——平均比对照组高出23%。"
+        },
+        {
+          "s": "Today’s children spend an average of four and a half hours a day looking at screens, split between watching television and using the Internet.",
+          "src": "2021浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+          "t": "如今的孩子每天花在屏幕前的时间平均为四个半小时，分为看电视和上网。"
+        },
+        {
+          "s": "The key finding of the study was that when crowds were further divided into smaller groups that were allowed to have a discussion, the averages from these groups were more accurate than those from an equal number of independent individuals.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这项研究的关键发现是，当人群被进一步分成可以进行讨论的小组时，这些小组的平均值比同等数量的独立个体的平均值更准确。"
         }
       ]
     },
@@ -169,24 +190,19 @@
           "t": "哪组参与者在测试中平均得分最高？"
         },
         {
-          "s": "The first is declining birth rates, which means old generations are large   60   （compare） to younger generations, and so, on average, the population becomes   61   （old） than before.",
+          "s": "They burned more fat on average.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们平均燃烧了更多的脂肪。"
+        },
+        {
+          "s": "It isn’t just that people are, on average, living longer.",
           "src": "2020浙江1月卷·语法填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "首先是出生率下降，这意味着老一代比年轻一代____60____（多），因此平均而言人口比以前更____61____（老）。"
+          "t": "还有他们在平均上更健康   65  更有生产力持续的时间更长。"
         },
-        {
-          "s": "The average high temperature in July is only 22 degrees, so over 30 is not usual for London.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "七月平均高温只有22度，所以超过30度对伦敦来说不寻常。"
-        }
-      ]
-    },
-    {
-      "def": "to be equal to a particular amount as an average 平均为",
-      "ex": [
         {
           "s": "Across all participants, those in the beauty group scored almost 14% higher on average than the control group in abstract thinking.",
           "src": "2026新高考I卷·阅读理解D",
@@ -195,86 +211,11 @@
           "t": "在所有参与者中，美组在抽象思维上平均比控制组高出近14%。"
         },
         {
-          "s": "The average peak workload was measured at 103 watts.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "平均峰值工作负荷测量值为103瓦特。"
-        },
-        {
-          "s": "Today’s children spend an average of four and a half hours a day looking at screens, split between watching television and using the Internet.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "几年前电影制作人戴维·邦德意识到他的孩子——当时五岁和三岁——沉迷屏幕的程度达到他能对着三岁儿子的耳朵说\"巧克力\"却得不到回应的地步。"
-        },
-        {
-          "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
-        },
-        {
-          "s": "They could walk at an average speed.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们能以平均速度行走。"
-        },
-        {
-          "s": "It’s also that they are on average healthier   65   more productive for longer.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "因此，他们可以工作更长时间、消费更多，总体上成为经济的推动力。"
-        },
-        {
-          "s": "After years of observing human nature, I have decided that two qualities make the difference between men of great achievement and men of average performance curioscy and discontent.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "经过多年对人性的观察，我已认定有两种品质决定了成就卓著者与表现平庸者之间的差别：好奇与不满。"
-        },
-        {
-          "s": "By 2000 the average age was 65.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "到2000年平均寿命达到了65岁。"
-        }
-      ]
-    },
-    {
-      "def": "to calculate the average of sth 计算出 … 的平均数",
-      "ex": [
-        {
-          "s": "The key finding of the study was that when crowds were further divided into smaller groups that were allowed to have a discussion, the averages from these groups were more accurate than those from an equal number of independent individuals.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这项研究的关键发现是，当人群被进一步分成可以进行讨论的小组时，这些小组的平均值比同等数量的独立个体的平均值更准确。"
-        },
-        {
           "s": "Among those, the effect was greater: those with an artistic hobby in the beauty group scored over 25% higher on average for abstract thinking than those with an artistic hobby in the control group.",
           "src": "2026新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
           "t": "在其中，效果更明显：有艺术爱好的“美”组在抽象思维上的平均得分比有艺术爱好的对照组高出25%以上。"
-        },
-        {
-          "s": "The average spend per project will be around £ 823.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每个项目的平均花费约为823英镑。"
-        },
-        {
-          "s": "In 1900, people died at the average age of 30.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "1900年，人们的平均死亡年龄是30岁。"
         }
       ]
     }
