@@ -812,6 +812,25 @@ function _normalizePos(pos) {
   return 'other';
 }
 
+// ====== 按释义文本推断该释义的词性（修复 meta.pos 单标注问题）======
+// 词条 meta.pos 只记录一个笼统词性（如 set 只标 verb），但同一词条常含名词/形容词释义，
+// 导致名词用法被按动词规则提取出 "set of" 这类弱词块。
+// 规律：动词释义以 "to ..." 开头；名词释义以限定词开头；形容词中文释义多以"的"结尾；副词多以"地"结尾。
+function _defPos(defText, fallbackPos) {
+  if (!defText) return fallbackPos;
+  let t = defText.trim().replace(/^\s*[(（][^)）]*[)）]\s*/, '').trim();
+  if (!t || /[\u4e00-\u9fff]/.test(t[0])) return fallbackPos;  // 中文开头（语法说明）→ 信任回退词性
+  if (/^to\s+[a-z]/i.test(t)) return 'verb';
+  // 中文释义部分
+  const zhMatch = t.match(/[\u4e00-\u9fff][\u4e00-\u9fff\s，。；、（）()·…]*$/);
+  const zh = zhMatch ? zhMatch[0].replace(/\s/g, '') : '';
+  if (zh && /地$/.test(zh)) return 'adv';
+  if (zh && /的$/.test(zh)) return 'adj';
+  if (/^(the|a|an|one|each|every|some|any|no|this|that|these|those|his|her|their|its|our|your|my|sb'?s?|sth|it|he|she|they)\b/i.test(t)) return 'noun';
+  // 非动词、非形容词/副词的释义默认按名词处理（名词块提取规则最通用）
+  return 'noun';
+}
+
 // 强动词信号：不与介词重叠的小品词（out/up/off 等几乎只用于动词短语）
 const ST_VERB_PARTICLE = new Set(['out','up','off','away','back','aside','apart','together']);
 
@@ -872,6 +891,10 @@ const CK_HARD_PARTICLE = new Set(['out','up','off','down','away','back','aside',
 const CK_PREP = new Set(['in','on','at','by','for','with','from','to','of','about','into','through','over','under','after','before','like','near','across','along','behind','beyond','down','off','up','out','as','than','between','among','within','without','against','upon','via','per','despite','during','onto','toward','towards']);
 const CK_BREAK_RIGHT = new Set(['than','as','during','if','when','while','since','until','whether']);
 const CK_DET = new Set(['the','a','an','my','your','our','their','his','her','its','this','that','these','those','some','any','each','every','such','both','all','no','another','one']);
+// 数词/序数词：类似限定词处理，不作名词块的左侧内容词（two sets of 不产出 two set of）
+const CK_NUM_DET = new Set(['two','three','four','five','six','seven','eight','nine','ten','eleven','twelve','twenty','thirty','hundred','thousand','million','first','second','third','fourth','fifth','dozen','couple','many','few','several']);
+// 动词 + of 的真实搭配白名单（其余 verb+of 视为名词用法：a set of / a balanced set of）
+const CK_VERB_OF = new Set(['think','dream','approve','consist','die','complain','hear','speak','talk','taste','remind','dispose']);
 const CK_PRON = new Set(['it','its','he','she','they','them','him','her','us','me','you','we','i','one','ones','everyone','someone','anyone','something','anything','everything','nothing','myself','yourself','himself','herself','themselves','ourselves','who','whom','whose','which','what']);
 const CK_LY_KEEP = new Set(['only','early','likely','friendly','lovely','lonely','weekly','monthly','daily','yearly','costly','deadly','silly','ugly','holy']);
 const CK_FUNC = new Set([...CK_DET, ...CK_PRON,
@@ -957,6 +980,18 @@ function _verbOnlySet() {
   return _ckVerbOnlySet;
 }
 
+// 词表中的形容词集合（形容词 + 词 + 介词 → 名词用法：significant changes in）
+let _ckAdjSet = null;
+function _adjSet() {
+  if (!_ckAdjSet) {
+    _ckAdjSet = new Set();
+    WORDS.forEach(x => {
+      if (/adj/.test(x.pos || '')) _ckAdjSet.add((x.w || '').toLowerCase());
+    });
+  }
+  return _ckAdjSet;
+}
+
 const CK_BE_FORMS = new Set(['am','is','are','was','were','be','been','being']);
 
 // 动词形判断（用于"动词 + 限定词 + 名词"跨限定词扩展，如 took a picture）
@@ -973,8 +1008,10 @@ function _ckVerbish(raw) {
 //   take care of the environment → take care / take care of / take care of environment
 // 聚合阶段（_mergeChunkVariants）再按前缀规则合并，保证长词块不被截断、
 // 高频核心词块不被零散宾语稀释。
-function _extractChunks(sentence, word, primaryPos, chunkMap) {
+function _extractChunks(sentence, word, primaryPos, chunkMap, nounCapable) {
   if (!sentence || !word) return;
+  // 未显式传入时退回词表词性判断（words.json 标注不全，优先用词条释义推断结果）
+  const nounOk = (nounCapable !== undefined) ? nounCapable : _nounSet().has(word.toLowerCase());
   const w = word.toLowerCase();
   const toks = sentence.split(/\s+/)
     .map(rt => rt.replace(/[^a-zA-Z-]/g, ''))
@@ -985,15 +1022,42 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
     if (_lemmaOf(toks[i]) !== w && toks[i].toLowerCase() !== w) continue;
     if (/^[A-Z]/.test(toks[i]) && i > 0) continue;   // 大写目标=标题/专有名词
 
-    // 被动语态检测（be + 过去分词）：动词目标不再产出“动词+介词”裸模式
+    // 被动语态检测：be + 过去分词，或 名词 + 过去分词后置定语（photos taken from the Internet）
     const curT = toks[i].toLowerCase();
     const prevT = i - 1 >= 0 ? toks[i - 1].toLowerCase() : '';
-    const isPassive = primaryPos === 'verb' && CK_BE_FORMS.has(prevT) &&
-      (/^[a-z]{3,}ed$/.test(curT) || (_irregRev()[curT] && curT !== w));
+    const isPastForm = /^[a-z]{3,}ed$/.test(curT) || (_irregRev()[curT] && curT !== w);
+    const isPassive = primaryPos === 'verb' && isPastForm &&
+      (CK_BE_FORMS.has(prevT) ||
+       (prevT && (_nounSet().has(prevT) || _nounSet().has(_lemmaOf(prevT) || ''))));
+
+    // 名词用法签名：限定词 + 目标词 + 介词（a set of rules / a change in attitude）
+    // 即使所在释义标为动词（历史例句错挂），也按名词规则处理，避免产出 "set of" 弱词块
+    let pos = primaryPos;
+    if (pos === 'verb') {
+      const nextT = i + 1 < toks.length ? toks[i + 1].toLowerCase() : '';
+      if (CK_PREP.has(nextT)) {
+        if (CK_DET.has(prevT) || CK_NUM_DET.has(prevT)) pos = 'noun';
+        // 动词+of 不在白名单（且非被动 be made of）→ 名词用法（balanced set of standards）
+        else if (nextT === 'of' && !isPassive && !CK_VERB_OF.has(w)) pos = 'noun';
+        // 句首复数形式 + 介词（Changes in people's ...）→ 名词
+        else if (!prevT && /^[a-z]+s$/.test(curT) && curT !== w) pos = 'noun';
+        // 目标词具备名词词性 + 前面是形容词（含连字符复合形容词 diet-related changes in）、
+        // 纯动词（create change in，此时目标词是宾语）+ 后面是介词 → 名词用法；
+        // 名词性主语（the author thinks of）保持动词
+        else if (nounOk && prevT.length >= 3 && !CK_FUNC.has(prevT) &&
+                 !CK_NUM_DET.has(prevT) && !/^[a-z]{2,}ly$/.test(prevT)) {
+          if (/-/.test(prevT)) pos = 'noun';
+          else {
+            const pl = _lemmaOf(prevT) || prevT;
+            if (_adjSet().has(pl) || _verbOnlySet().has(pl)) pos = 'noun';
+          }
+        }
+      }
+    }
 
     // ---- 向左扩展（动词目标仅取紧邻实义动词，避免混入名词主语）----
     let left = [], sawWord = false, sawParticle = false, leftHasPrep = false;
-    if (primaryPos === 'verb') {
+    if (pos === 'verb') {
       // take care of / stop doing：左侧紧邻纯动词才有效（company cut 类名词主语被排除）
       if (i - 1 >= 0) {
         const raw = toks[i - 1], t = raw.toLowerCase();
@@ -1013,7 +1077,7 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
         if (_lemmaOf(raw) === w) break;                 // 目标词自身变体
         if (CK_PREP.has(t)) {
           // 形容词/副词目标允许带一个左侧介词（on average / in particular）
-          if ((primaryPos === 'adj' || primaryPos === 'adv') && !sawWord && !leftHasPrep) {
+          if ((pos === 'adj' || pos === 'adv') && !sawWord && !leftHasPrep) {
             left.unshift(t); leftHasPrep = true;
           }
           break;
@@ -1031,6 +1095,7 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
           }
           break;
         }
+        if (CK_NUM_DET.has(t)) break;                        // 数词/序数词：不构成修饰语
         if (CK_FUNC.has(t)) break;
         if (/^[a-z]{3,}ly$/.test(t) && !CK_LY_KEEP.has(t)) break;  // -ly 副词截断
         const cw = _ckContentWord(raw);
@@ -1051,7 +1116,7 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
       if (CK_PRON.has(t)) break;                                // 代词宾语终止
 
       // 小品词（动词目标开头）：cut out / look forward
-      if (!gotObj && !gotPrep && primaryPos === 'verb' && CK_HARD_PARTICLE.has(t)) {
+      if (!gotObj && !gotPrep && pos === 'verb' && CK_HARD_PARTICLE.has(t)) {
         seq.push(t); gotParticle = true;
         stages.push({ toks: seq.slice(), content: true });
         k++; continue;
@@ -1068,7 +1133,7 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
           if (!nxOk) break;
         }
         // 动词目标：介词本身即构成模式（distinguish between / look after）；被动语态除外
-        const prepValid = hasContent() || (primaryPos === 'verb' && !isPassive);
+        const prepValid = hasContent() || (pos === 'verb' && !isPassive);
         seq.push(t); gotPrep = true;
         stages.push({ toks: seq.slice(), content: prepValid });
         k++; continue;
@@ -1091,14 +1156,14 @@ function _extractChunks(sentence, word, primaryPos, chunkMap) {
             if (c2) { rest.push(c2); k++; }
           }
         }
-        if (hasContent() || primaryPos === 'verb') {
+        if ((hasContent() || pos === 'verb') && !(pos === 'verb' && isPassive)) {
           seq.push(...rest);
           stages.push({ toks: seq.slice(), content: true });
         }
         break;                                                  // 介词宾语后即止
       }
       // 动词/形容词目标的宾语：take place / make good use of（排除 -ed 分词修饰）
-      if (!gotObj && (primaryPos === 'verb' || primaryPos === 'adj')) {
+      if (!gotObj && (pos === 'verb' || pos === 'adj')) {
         if (CK_DET.has(t)) { k++; continue; }                   // 跨过宾语限定词
         if (/^[a-z]{3,}ed$/.test(t)) break;                     // 分词后置修饰，非宾语
         const cw = _ckContentWord(raw);
@@ -1270,9 +1335,12 @@ function renderMindMap(word, entry) {
   const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos);
 
   // 提取真实教学 n-gram 词块（catch sight of / distinguish right from wrong / take place ...）
+  // 每条释义先按释义文本推断词性（to 开头=动词 / 中文"的"结尾=形容词），避免名词用法按动词规则提取
   const collocMap = {};
+  const nounCapable = defs.some(d => _defPos(d.def || '', '') === 'noun');
   defs.forEach((d) => {
-    (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, primaryPos, collocMap));
+    const dpos = _defPos(d.def || '', primaryPos);
+    (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, dpos, collocMap, nounCapable));
   });
   const topCollocations = _mergeChunkVariants(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
 
