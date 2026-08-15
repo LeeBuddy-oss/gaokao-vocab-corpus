@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈfjuːəl; NAmE ˈfjuːəl",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -9,25 +9,11 @@
       "def": "any material that produces heat or power, usually when it is burnt 燃料",
       "ex": [
         {
-          "s": "To fuel the city’s economy.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了推动城市经济发展。"
-        },
-        {
           "s": "Limiting fuel consumption.",
           "src": "2025新高考I卷·阅读理解A",
           "cat": "gaokao",
           "year": 2025,
           "t": "希尔太太睡着了。"
-        },
-        {
-          "s": "As a foodie, the way to my heart is through my stomach, and nowhere fuels my ___29___ quite like Italy.",
-          "src": "2024新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作为吃货，打动我的路要经过我的胃，没有什么地方比意大利更能点燃我的___29___。"
         },
         {
           "s": "Producing food that no one eats wastes the water, fuel, and other resources used to grow it.",
@@ -56,20 +42,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
-        },
-        {
-          "s": "Climate change will fuel the growth of phytoplankton in some areas，while reducing it in other spots，leading to changes in the ocean's appearance.",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "气候变化会在某些地区助长浮游植物的生长，同时又在另一些地方抑制它，从而导致海洋外观发生变化。"
-        },
-        {
-          "s": "The efforts to fuel the growth of phytoplankton.",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "海面上的各种图案。"
         },
         {
           "s": "It bums too much fuel.",
@@ -108,23 +80,7 @@
           "src": "外研社B6 U5",
           "cat": "waiyan",
           "t": "这还不是全部——面板内的藻类可以被收获并用来生产燃料。"
-        }
-      ]
-    },
-    {
-      "def": "a thing that is said or done that makes sth, especially an argument, continue or get worse （尤指使争论等继续或更加激烈的）刺激性言行",
-      "ex": [
-        {
-          "s": "You don’t need much imagination to see how this would fuel the idea of a “China plot”.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "不需要太多想象力就能看出这将如何助长\"中国阴谋论\"的想法。"
-        }
-      ]
-    },
-    {
-      "def": "to supply sth with material that can be burnt to produce heat or power 给 … 提供燃料",
-      "ex": [
+        },
         {
           "s": "Each mode of transport has its specific fuel needs.",
           "src": "2025新高考I卷·阅读理解A",
@@ -133,6 +89,14 @@
           "t": "每种交通方式都有其特定的燃料需求。"
         }
       ]
+    },
+    {
+      "def": "a thing that is said or done that makes sth, especially an argument, continue or get worse （尤指使争论等继续或更加激烈的）刺激性言行",
+      "ex": []
+    },
+    {
+      "def": "to supply sth with material that can be burnt to produce heat or power 给 … 提供燃料",
+      "ex": []
     },
     {
       "def": "to put petrol/gas into a vehicle 给（交通工具）加油",
@@ -155,7 +119,35 @@
     },
     {
       "def": "to increase sth; to make sth stronger 增加；加强；刺激",
-      "ex": []
+      "ex": [
+        {
+          "s": "To fuel the city’s economy.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "为了推动城市经济发展。"
+        },
+        {
+          "s": "Climate change will fuel the growth of phytoplankton in some areas，while reducing it in other spots，leading to changes in the ocean's appearance.",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "气候变化会在某些地区助长浮游植物的生长，同时又在另一些地方抑制它，从而导致海洋外观发生变化。"
+        },
+        {
+          "s": "The efforts to fuel the growth of phytoplankton.",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "促进浮游植物生长的努力。"
+        },
+        {
+          "s": "You don’t need much imagination to see how this would fuel the idea of a “China plot”.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "不需要太多想象力就能看出这将如何助长\"中国阴谋论\"的想法。"
+        }
+      ]
     }
   ]
 }
