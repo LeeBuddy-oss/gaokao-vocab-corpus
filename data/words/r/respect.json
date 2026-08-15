@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "rɪˈspekt; NAmE rɪˈspekt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;prep;prep;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -21,13 +21,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "她们有一个带浴缸的房间。"
-        },
-        {
-          "s": "When children write for real audiences and real purposes, they can learn to choose their words accordingly. ____13____ You write “Dear Santa” because you don’t know him personally and you want to show him respect.",
-          "src": "2022浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当孩子们为真实读者和真实目的写作时，他们能学会相应地选择词语。____13____你写“亲爱的圣诞老人”是因为你个人不认识他，想表达尊重。"
         },
         {
           "s": "Build respect for and awareness of the environment and cultural practices.",
@@ -58,55 +51,10 @@
           "t": "青年应受到尊重。"
         },
         {
-          "s": "It comes from the Cantonese word kau tau, which means “knock your head.” It refers to the act of kneeling and lowering one's head as a sign of respect to ___32___— such as emperors, elders and leaders.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它源自粤语单词kau tau ，意思是“敲头”。“它指的是跪下和低头的行为，作为对皇帝、长老和领袖等___ 32 ___的尊重。"
-        },
-        {
-          "s": "Lawyers help people and are respected by others.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "律师帮助人们，受到他人的尊重。"
-        },
-        {
           "s": "From time to time I look at the photo as a reminder to show respect to all animals.",
           "src": "外研社B1 U5",
           "cat": "waiyan",
           "t": "我时不时地看着这张照片，提醒大家要尊重所有的动物。"
-        },
-        {
-          "s": "We could also say Now and then I look at the photo to remind myself that we need to respect all animals, because we are the visitors to their world.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "我们也可以说：我不时看看这张照片，提醒自己我们需要尊重所有动物，因为我们是它们世界里的访客。"
-        },
-        {
-          "s": "Bill Shankly(1913-1981) was one of Britain's most successful and respected football managers.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "比尔·香克利（1913-1981）是英国最成功、最受尊敬的足球经理之一。"
-        },
-        {
-          "s": "She respects others’ privacy.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她尊重他人的隐私。"
-        },
-        {
-          "s": "Wouldn’t it be better to respect their concern for you and ask for their advice?",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "尊重他们对您的关心并征求他们的意见不是更好吗？"
-        },
-        {
-          "s": "This was the sort of work that made you __55__ the dollars you earned and respect those who did the work, he told me.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他告诉我，这正是那种让你__55__自己挣来的钱、并尊重那些干这活儿的人的工作。"
         }
       ]
     },
@@ -158,7 +106,39 @@
     },
     {
       "def": "to have a very good opinion of sb/sth; to admire sb/sth 通常不用于进行时",
-      "ex": []
+      "ex": [
+        {
+          "s": "Lawyers help people and are respected by others.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "律师帮助人们，受到他人的尊重。"
+        },
+        {
+          "s": "We could also say Now and then I look at the photo to remind myself that we need to respect all animals, because we are the visitors to their world.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说：我不时看看这张照片，提醒自己我们需要尊重所有动物，因为我们是它们世界里的访客。"
+        },
+        {
+          "s": "Bill Shankly(1913-1981) was one of Britain's most successful and respected football managers.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "比尔·香克利（1913-1981）是英国最成功、最受尊敬的足球经理之一。"
+        },
+        {
+          "s": "She respects others’ privacy.",
+          "src": "2023浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她尊重他人的隐私。"
+        },
+        {
+          "s": "Wouldn’t it be better to respect their concern for you and ask for their advice?",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "尊重他们对您的关心并征求他们的意见不是更好吗？"
+        }
+      ]
     },
     {
       "def": "to be careful about sth; to make sure you do not do sth that sb would consider to be wrong 慎重对待；谨慎从事；尊重",
