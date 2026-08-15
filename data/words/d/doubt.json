@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "daʊt; NAmE daʊt",
-    "pos": "noun",
+    "pos": "noun; noun; noun; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "def": "to feel uncertain about sth; to feel that sth is not true, will probably not happen, etc. 怀疑；无把握；不能肯定；认为 … 未必可能",
+      "def": "a feeling of being uncertain about sth; a feeling that sth may not be true or may not happen 怀疑；疑虑；不确定",
       "ex": [
         {
           "s": "Contrary to popular doubt, resolutions made on I January are more effective for this reason.",
@@ -84,13 +84,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "与普遍的怀疑相反，出于这个原因，在1月1日下定的决心更有效。"
-        },
-        {
-          "s": "One doubter about the safety of cloud seeding is Chuck Doswell, a research scientist who just retired from the University of Oklahoma.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "对人工降雨安全性持怀疑态度的人之一是查克·多斯韦尔，他是一名刚从俄克拉荷马大学退休的研究科学家。"
         },
         {
           "s": "Given the degree of doubt, Mr Stienwand suggests, “it would be wise to stop cloud seeding.” In practice, doubt has had the opposite effect.",
@@ -105,13 +98,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "对人工降雨的怀疑已经消失了。"
-        },
-        {
-          "s": "That was when I met Mr Dena and told him I had ___39___ in math, yet I would try my hardest He was convinced I could succeed ___40___ the doubts from my classmates.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "那是我遇见Dena老师的时候，我告诉他我在数学上____39____，但我会全力以赴。他坚信我能克服来自同学的____40____疑虑而取得成功。"
         },
         {
           "s": "To erase doubts about John’s invention.",
@@ -153,7 +139,7 @@
           "src": "2019北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2019,
-          "t": "成功意味着满足个人欲望"
+          "t": "在不久的将来，不仅仅是你屏幕上看到的数字会受到质疑。"
         },
         {
           "s": "Now we live in a world surrounded by the \"can't do\" attitudes． We all fall down． We all have doubts and regrets． Still we must climb and dream about what's at the top of our mountain． Monsters may appear or the night will fall． But never ever give up on your dream!",
@@ -173,9 +159,21 @@
           "src": "外研社B2 U4",
           "cat": "waiyan",
           "t": "最难忘的场景在电影接近结尾时：在米娅最黑暗的自我怀疑时刻，她被父亲留下的信触动。"
+        }
+      ]
+    },
+    {
+      "def": "to feel uncertain about sth; to feel that sth is not true, will probably not happen, etc. 怀疑；无把握；不能肯定；认为 … 未必可能",
+      "ex": [
+        {
+          "s": "One doubter about the safety of cloud seeding is Chuck Doswell, a research scientist who just retired from the University of Oklahoma.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "对人工降雨安全性持怀疑态度的人之一是查克·多斯韦尔，他是一名刚从俄克拉荷马大学退休的研究科学家。"
         },
         {
-          "s": "D． Some experts doubt 3D food printing．",
+          "s": "Some experts doubt 3D food printing．",
           "src": "2018天津卷·阅读理解C",
           "cat": "gaokao",
           "year": 2018,
