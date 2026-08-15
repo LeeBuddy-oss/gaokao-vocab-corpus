@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "kɑːd; NAmE kɑːrd",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; noun; noun; noun; noun; noun; noun; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -25,6 +25,20 @@
           "cat": "gaokao",
           "year": 2019,
           "t": "这意味着,比如说,一个骗子可以给你打电话 从一个看起来熟悉的号码 并用一个声音和你说话 听起来就像你的银行出纳的, 让你\"确认\"你的地址, 母亲的名字,和卡片号码。"
+        },
+        {
+          "s": "The card dropped off into a lake by accident.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "卡不小心掉进了湖里。"
+        },
+        {
+          "s": "My mother was not afraid of Mrs Calloway She wished me to have my own library card to check out books for myself.",
+          "src": "2020浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我妈妈不害怕Calloway太太她希望我有自己的借书证可以自己借书。"
         }
       ]
     },
@@ -72,13 +86,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "如果你的卡丢失，补发卡将收取5英镑费用。"
-        },
-        {
-          "s": "We were excited -- none of us knew that these would be our final days together, At first, the sea was calm and we spent our days working, fishing and playing cards, happily unaware that 2_______.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我们很兴奋——没人知道这将是我们在一起的最后日子。起初，海面平静，我们白天劳作、钓鱼、打牌，幸福地不曾察觉2____。"
         }
       ]
     },
@@ -112,6 +119,20 @@
           "cat": "waiyan",
           "year": "",
           "t": "当然，我希望在花钱方面有更多的自由，毫无疑问，我会在某个时候拿到一张信用卡，但我目前没有稳定的收入，所以拿到信用卡可能会诱惑我花比拥有更多的钱！"
+        },
+        {
+          "s": "The card fails to work properly.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这张卡无法正常工作。"
+        },
+        {
+          "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
+          "src": "2024新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
         }
       ]
     },
@@ -194,13 +215,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "卡的主人更改了他或她的专业。"
-        },
-        {
-          "s": "To collect your replacement card, you should ______.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了领取你的换卡你应该______。"
         }
       ]
     },
@@ -299,13 +313,6 @@
       "def": "to ask a person to show their identity card as a means of checking how old they are, for example if they want to buy alcohol 要求出示身分证（以确认年龄，如购酒时）",
       "ex": [
         {
-          "s": "As they asked him questions and searched for a(n)___19___information card, other passengers from the flight joined us.",
-          "src": "2023天津6月卷·二、完型填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当他们问他问题并寻找一张（第19空）信息卡时，航班上的其他乘客也加入了我们。"
-        },
-        {
           "s": "*Social Security card        *Bank  account",
           "src": "2023天津3月卷·阅读理解A",
           "cat": "gaokao",
@@ -313,60 +320,11 @@
           "t": "*社会保障卡        *银行账户"
         },
         {
-          "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
-        },
-        {
-          "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
-        },
-        {
           "s": "Note: Replacement cards will be available for you to collect seven working days after making the request As a security measure, you are requested to collect your card in person at the SAC.",
           "src": "2020天津3月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2020,
           "t": "注：补办的卡将在你提出申请七个工作日后可供领取。作为一项安全措施，你被要求在SAC当面领取你的卡。"
-        },
-        {
-          "s": "Unexpectedly, a man ____14____ (step) forward, handed his card to the cashier and said, “Let me help.”",
-          "src": "2026北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "出乎意料地，一名男子____14____（走上前），把他的卡递给收银员说：“我来帮忙。”"
-        },
-        {
-          "s": "My mother was not afraid of Mrs Calloway She wished me to have my own library card to check out books for myself.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我妈妈不害怕Calloway太太她希望我有自己的借书证可以自己借书。"
-        },
-        {
-          "s": "To meet the requirements of the photograph on the student ID card, a new student should upload ______.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为满足学生证照片的要求，新生应上传______。"
-        },
-        {
-          "s": "The card dropped off into a lake by accident.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "卡不小心掉进了湖里。"
-        },
-        {
-          "s": "The card fails to work properly.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这张卡无法正常工作。"
         }
       ]
     }
