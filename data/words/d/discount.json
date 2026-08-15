@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈdɪskaʊnt; NAmE ˈdɪskaʊnt",
-    "pos": "noun",
+    "pos": "verb; noun; verb",
     "stars": "★★"
   },
   "defs": [
@@ -10,7 +10,7 @@
       "ex": []
     },
     {
-      "def": "to take an amount of money off the usual cost of sth; to sell sth at a discount 打折扣；打折出售",
+      "def": "an amount of money that is taken off the usual cost of sth 折扣",
       "ex": [
         {
           "s": "Already we may see online advertisements for products or services we have previously searched for on the Internet, and we are very likely to receive special discounts and promotions targeted specifically at us.",
@@ -19,25 +19,11 @@
           "t": "我们可能已经看到网上有我们之前在互联网上搜索过的产品或服务的广告，而且我们很可能收到专门针对我们的特别折扣和促销信息。"
         },
         {
-          "s": "A good one can sometimes find you discounted tickets. ____37____ Then you won’t have to walk through several cars on a moving train three times a day for your meals.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "t": "一个好的代理有时能帮你找到打折票。____37____ 这样你就不必为了吃饭每天在行驶的火车上穿过几节车厢三次。",
-          "year": 2023
-        },
-        {
           "s": "How can full-time students get group discounts?",
           "src": "2022全国乙卷·阅读理解A",
           "cat": "gaokao",
           "t": "全日制学生如何获得集体折扣?.",
           "year": 2022
-        },
-        {
-          "s": "Jordan Axani, 28, said he and his then girlfriend, Elizabeth Gallagher, booked heavily discounted round-the-world air tickets in May, but their   43    ended and he did not want her ticket to   44     .",
-          "src": "2017全国III卷·完形填空",
-          "cat": "gaokao",
-          "t": "28岁的乔丹·阿克萨尼说，他和当时的女友伊丽莎白·加拉格尔在5月份订购了大幅折扣的环球机票，但他们____结束了，他不想让这张票____。",
-          "year": 2017
         },
         {
           "s": "It gives children a discount.",
@@ -71,6 +57,18 @@
           "src": "人教B2 U3",
           "cat": "renjiao",
           "t": "Laura需要一个能帮她获得折扣的应用程序。"
+        }
+      ]
+    },
+    {
+      "def": "to take an amount of money off the usual cost of sth; to sell sth at a discount 打折扣；打折出售",
+      "ex": [
+        {
+          "s": "Jordan Axani, 28, said he and his then girlfriend, Elizabeth Gallagher, booked heavily discounted round-the-world air tickets in May, but their   43    ended and he did not want her ticket to   44     .",
+          "src": "2017全国III卷·完形填空",
+          "cat": "gaokao",
+          "t": "28岁的乔丹·阿克萨尼说，他和当时的女友伊丽莎白·加拉格尔在5月份订购了大幅折扣的环球机票，但他们____结束了，他不想让这张票____。",
+          "year": 2017
         }
       ]
     }
