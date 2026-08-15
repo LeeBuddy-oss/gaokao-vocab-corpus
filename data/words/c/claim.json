@@ -1,20 +1,13 @@
 {
   "meta": {
     "ph": "kleɪm; NAmE kleɪm",
-    "pos": "verb",
+    "pos": "verb; verb; verb; verb; verb; verb; noun; noun; noun",
     "stars": "★★"
   },
   "defs": [
     {
       "def": "to say that sth is true although it has not been proved and other people may not believe it 宣称；声称；断言",
       "ex": [
-        {
-          "s": "Lancom claims that it is unique in its ___________.（    ）",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom声称它在……方面是独一无二的。（    ）"
-        },
         {
           "s": "He is also known as a painter of light and shade and as an artist who favoured a realism that leads some critics to claim that he preferred ugliness to beauty.",
           "src": "外研社B4 U6",
@@ -23,18 +16,11 @@
           "t": "他也被称为光影画家，并且是一位喜欢现实主义的艺术家，这导致一些评论家声称他更喜欢丑陋而不是美丽。"
         },
         {
-          "s": "Outbreaks tend to occur in tropical regions of subSaharan Africa, the largest to date being the 2013–2016 epidemic in West Africa, which infected 28,616 people and claimed 11,310 lives.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "疫情往往发生在撒哈拉以南非洲的热带地区，迄今为止规模最大的是西非2013–2016年的疫情，感染了28,616人，夺去了11,310人的生命。"
-        },
-        {
-          "s": "Each of these views has its value, but if the claim is that any one of these is the scientific method, then they all fail.",
-          "src": "2022天津4月卷·阅读理解D",
+          "s": "Could PyQuantum really be leading all the competition “by a wide margin”, as Taylor claims?",
+          "src": "2022北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2022,
-          "t": "这些观点各有价值，但如果声称其中任何一个是唯一的科学方法，那么它们都不成立。"
+          "t": "正如泰勒所称，PyQuantum真的能大幅领先所有竞争对手吗？"
         }
       ]
     },
@@ -46,7 +32,7 @@
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "因为他们想要一双新的。"
+          "t": "百分之二十的遗失物品在三个月内被认领。"
         }
       ]
     },
@@ -71,6 +57,20 @@
           "cat": "waiyan",
           "year": "",
           "t": "它夺去了1800多人的生命。"
+        },
+        {
+          "s": "Outbreaks tend to occur in tropical regions of subSaharan Africa, the largest to date being the 2013–2016 epidemic in West Africa, which infected 28,616 people and claimed 11,310 lives.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "疫情往往发生在撒哈拉以南非洲的热带地区，迄今为止规模最大的是西非2013–2016年的疫情，感染了28,616人，夺去了11,310人的生命。"
+        },
+        {
+          "s": "Caused by exceptionally heavy snowfall within a short period of time, they destroyed buildings and forest, and claimed over 256 lives.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "由于在短时间内降下异常大雪，他们摧毁了建筑物和森林，夺去了256人的生命。"
         }
       ]
     },
@@ -83,27 +83,19 @@
           "cat": "waiyan",
           "year": "",
           "t": "卡森出现在公共场合和电视上为自己的主张辩护，在《寂静的春天》出版50多年后的今天，《寂静的春天》的声音仍然响亮而清晰。"
+        },
+        {
+          "s": "Each of these views has its value, but if the claim is that any one of these is the scientific method, then they all fail.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这些观点各有价值，但如果声称其中任何一个是唯一的科学方法，那么它们都不成立。"
         }
       ]
     },
     {
       "def": "a right that sb believes they have to sth, especially property, land, etc. （尤指对财产、土地等要求拥有的）所有权",
-      "ex": [
-        {
-          "s": "Could PyQuantum really be leading all the competition “by a wide margin”, as Taylor claims?",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "正如泰勒所称，PyQuantum真的能大幅领先所有竞争对手吗？"
-        },
-        {
-          "s": "Caused by exceptionally heavy snowfall within a short period of time, they destroyed buildings and forest, and claimed over 256 lives.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "由于在短时间内降下异常大雪，他们摧毁了建筑物和森林，夺去了256人的生命。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a request for a sum of money that you believe you have a right to, especially from a company, the government, etc. （尤指向公司、政府等）索款，索赔",
