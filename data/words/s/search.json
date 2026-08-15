@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "sɜːtʃ; NAmE sɜːrtʃ",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -58,13 +58,6 @@
           "t": "*点击\"Jobs\"按钮开始职位搜索。"
         },
         {
-          "s": "Before searching for a job on Handshake, you need to_________.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在Handshake上找工作之前，你需要_________。"
-        },
-        {
           "s": "I quickly searched the crowd for the school’s coach and asked him what had happened.",
           "src": "2022全国新高考I卷·读后续写",
           "cat": "gaokao",
@@ -77,13 +70,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "我迅速在人群中找到学校教练，询问发生了什么事。"
-        },
-        {
-          "s": "There are no more continents and no more moons to search for, little left to discover.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们从每个角度观察了我们的星球，发现了所有最狂野的事物。"
         },
         {
           "s": "Jeff searched   55   for Rosie in the next four days.",
@@ -126,12 +112,6 @@
           "t": "在所有国际重型救援队中，中国国际搜救队是第一支到达的国际重型救援队。"
         },
         {
-          "s": "Instead of replying with a simple “OK, don’t rush”, I searched for emojis on my phone that would express the same message: (picture 2) This was my attempt to follow the trend of communicating with emojis.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "而不是用简单的「OK, 别急」来回答, 我在手机上搜寻了表达相同讯息的emojis:(图2),"
-        },
-        {
           "s": "Our robots have explored the Martian surface, testing the soil and searching for resources, water and signs of life.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
@@ -144,26 +124,6 @@
           "year": 2020,
           "t": "我们的晚餐预订在桥那头的一家餐厅，所以我___20___他，回去吃晚饭时我们不仅会搜查喷泉周围的区域，还会找警察询问背包是否已被___21___。"
         },
-        {
-          "s": "As they asked him questions and searched for a(n)___19___information card, other passengers from the flight joined us.",
-          "src": "2023天津6月卷·二、完型填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当他们问他问题并寻找一张（第19空）信息卡时，航班上的其他乘客也加入了我们。"
-        }
-      ]
-    },
-    {
-      "def": "an act of looking for information in a computer database or network 搜索；检索",
-      "ex": []
-    },
-    {
-      "def": "to look carefully for sth/sb; to examine a particular place when looking for sb/sth 搜索；搜寻；搜查；查找",
-      "ex": []
-    },
-    {
-      "def": "to examine sb's clothes, their pockets, etc. in order to find sth that they may be hiding 尤指警察",
-      "ex": [
         {
           "s": "They migrate to find food, seek a partner, or in search of warmer weather.",
           "src": "外研社B1 U5",
@@ -178,6 +138,32 @@
           "t": "学员们在荒野求生徽章上也有一个良好的开端，他们通过设计好的任务和对\"坠机\"飞行员的搜救来学习水上和陆上生存知识。"
         }
       ]
+    },
+    {
+      "def": "an act of looking for information in a computer database or network 搜索；检索",
+      "ex": []
+    },
+    {
+      "def": "to look carefully for sth/sb; to examine a particular place when looking for sb/sth 搜索；搜寻；搜查；查找",
+      "ex": [
+        {
+          "s": "There are no more continents and no more moons to search for, little left to discover.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我们从每个角度观察了我们的星球，发现了所有最狂野的事物。"
+        },
+        {
+          "s": "Instead of replying with a simple “OK, don’t rush”, I searched for emojis on my phone that would express the same message: (picture 2) This was my attempt to follow the trend of communicating with emojis.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "而不是用简单的「OK, 别急」来回答, 我在手机上搜寻了表达相同讯息的emojis:(图2),"
+        }
+      ]
+    },
+    {
+      "def": "to examine sb's clothes, their pockets, etc. in order to find sth that they may be hiding 尤指警察",
+      "ex": []
     },
     {
       "def": "to think carefully about sth, especially in order to find the answer to a problem 思索，细想（问题答案等）",

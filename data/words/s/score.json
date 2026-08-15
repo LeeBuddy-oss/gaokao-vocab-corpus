@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "skɔː(r); NAmE skɔː",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -33,13 +33,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "在其中，效果更明显：有艺术爱好的“美”组在抽象思维上的平均得分比有艺术爱好的对照组高出25%以上。"
-        },
-        {
-          "s": "Emerging research suggests that courses in lower-ranked universities, on average, scored higher on teaching than courses in higher-ranked universities. ____37____ The absence of teaching excellence from the rankings is surprising given the link between high-quality teaching and student success.",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "新兴研究表明，平均而言，排名较低大学的课程在教学方面的得分高于排名较高的大学。____37____ 考虑到高质量教学与学生成功之间的联系，排名中缺少教学质量这一点令人惊讶。"
         }
       ]
     },
@@ -57,12 +50,27 @@
           "src": "外研社B6 U4",
           "cat": "waiyan",
           "t": "与此同时，本尼的最高分被显示是在一门艺术科目上：测试给了他在文学研究方面68%的分数。"
+        },
+        {
+          "s": "Which participants got the highest score on average in the test?",
+          "src": "2026新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "哪组参与者在测试中平均得分最高？"
         }
       ]
     },
     {
       "def": "a written or printed version of a piece of music showing what each instrument is to play or what each voice is to sing 总谱",
-      "ex": []
+      "ex": [
+        {
+          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
+        }
+      ]
     },
     {
       "def": "the music written for a film/movie or play （电影或戏剧的）配乐",
@@ -108,15 +116,7 @@
     },
     {
       "def": "to gain marks in a test or an exam （在考试中）得分",
-      "ex": [
-        {
-          "s": "Which participants got the highest score on average in the test?",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "哪组参与者在测试中平均得分最高？"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to give sth/sb a particular number of points 评分；打分数",
@@ -140,15 +140,7 @@
     },
     {
       "def": "to arrange a piece of music for one or more musical instruments or for voices 编总谱（包括各种乐器及各声部的乐谱）",
-      "ex": [
-        {
-          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to make a cut or mark on a surface （在物体表面）划下痕迹，刻出记号",

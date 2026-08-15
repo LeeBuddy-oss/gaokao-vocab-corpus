@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈʃedjuːl; NAmE ˈskedʒuːl",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb",
     "stars": "★"
   },
   "defs": [
@@ -28,13 +28,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "如果你选择退一门课，你必须遵循UCLA将其从你的课表中移除的程序。"
-        },
-        {
-          "s": "With busy schedules, squeezing in phone calls can be a challenge. ___16___.",
-          "src": "2022全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "日程繁忙时，挤出时间打电话可能是个挑战。___16___。"
         },
         {
           "s": "While Queensland Rail makes every effort to ensure trains run as scheduled，there can be no guarantee of connections between trains or between train services and bus services.",
@@ -83,12 +76,6 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "学校工作人员和学生志愿者将向学校周围的新生展示， “新生将得到他们的时间表，并找出他们的教室在哪里”。"
-        },
-        {
-          "s": "I will no longer be able to 7_______________ as much as before if I have to follow a strict dorm schedule.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "如果我不得不遵守严格的宿舍计划 我将无法再像以前那样 达到7点"
         },
         {
           "s": "The kids have a busy schedule every day and do not get enough sleep.",
@@ -178,6 +165,34 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "参加新的讲座B. 自己决定日程安排"
+        },
+        {
+          "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
+        },
+        {
+          "s": "Schedule of Programming",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "如何在家中获得自己的个人空间。"
+        },
+        {
+          "s": "Keep your sleep/wake schedule on weekends.",
+          "src": "2017全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "保持周末的睡眠/唤醒作息。"
+        },
+        {
+          "s": "It is a well-known fact, especially in my school, that Junior year is the time of packing many AP classes into the schedule.",
+          "src": "2025北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这是一个众所周知的事实，尤其在我学校：高三是要把许多AP课程塞进课表的一年。"
         }
       ]
     },
@@ -197,13 +212,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "查看火车时刻表。"
-        },
-        {
-          "s": "Most trains operate just once a day and some run only three times a week, so missing yours can be a disaster. ____39____ Note: The times listed on the schedules are departure times, not arrival times.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "大多数火车一天只开一班，有些一周只开三班，所以错过你的那班可能是灾难。____39____ 注意：时刻表上列出的时间是出发时间，不是到达时间。"
         }
       ]
     },
@@ -234,31 +242,10 @@
           "t": "它们都安排在周末。"
         },
         {
-          "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
-        },
-        {
           "s": "However, they can take up a lot of time, so students have to learn to organize their busy schedules.",
           "src": "外研社B1 U1",
           "cat": "waiyan",
           "t": "然而，它们会占用大量时间，所以学生必须学会安排自己繁忙的日程。"
-        },
-        {
-          "s": "Schedule of Programming",
-          "src": "2025北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "如何在家中获得自己的个人空间。"
-        },
-        {
-          "s": "Keep your sleep/wake schedule on weekends.",
-          "src": "2017全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "保持周末的睡眠/唤醒作息。"
         },
         {
           "s": "Be sure to schedule set times to watch your lectures, read materials and contribute to online discussion boards.",
@@ -266,13 +253,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "不同文化间道德美德的相似性令人瞩目，尽管各种美德的重要性排序可能因社会群体的历史和环境而异。"
-        },
-        {
-          "s": "It is a well-known fact, especially in my school, that Junior year is the time of packing many AP classes into the schedule.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这是一个众所周知的事实，尤其在我学校：高三是要把许多AP课程塞进课表的一年。"
         },
         {
           "s": "Group Play may be scheduled during any day or time the Museum is open.",
