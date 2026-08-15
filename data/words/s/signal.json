@@ -1,19 +1,13 @@
 {
   "meta": {
     "ph": "ˈsɪɡnəl; NAmE ˈsɪɡnəl",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb;verb",
     "stars": "★"
   },
   "defs": [
     {
       "def": "a movement or sound that you make to give sb information, instructions, a warning, etc. 信号；暗号",
       "ex": [
-        {
-          "s": "Receiving moko is seen as a great honour, and it is often part of a ritual to signal a person has passed an important milestone.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "这给了人们错误的信号。"
-        },
         {
           "s": "“Adaptive signals can make sure that the traffic demand that is there is being addressed, ” says Alex Stevanovic, a researcher at Florida Atlantic University.",
           "src": "2020浙江7月卷·阅读理解B",
@@ -69,7 +63,7 @@
           "t": "凯文·巴尔克对自适应信号怎么评价？"
         },
         {
-          "s": "D．By signaling the urgent need for taking preventive action．",
+          "s": "By signaling the urgent need for taking preventive action．",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
@@ -80,13 +74,6 @@
     {
       "def": "an event, an action, a fact, etc. that shows that sth exists or is likely to happen 标志；预示；信号",
       "ex": [
-        {
-          "s": "With their ability to see ahead, they could signal any problem, so that fast-moving trains would be able to react in time.",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "凭借它们的前瞻能力，它们可以发出任何问题的信号，以便高速行驶的火车能及时反应。"
-        },
         {
           "s": "The purchase price could also be a signal that an established company is buying a new-born threat.",
           "src": "2017江苏卷·阅读理解C",
@@ -183,11 +170,26 @@
     },
     {
       "def": "to make a movement or sound to give sb a message, an order, etc. 发信号；发暗号；示意",
-      "ex": []
+      "ex": [
+        {
+          "s": "Receiving moko is seen as a great honour, and it is often part of a ritual to signal a person has passed an important milestone.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "这给了人们错误的信号。"
+        }
+      ]
     },
     {
       "def": "to be a sign that sth exists or is likely to happen 标志；表明；预示",
-      "ex": []
+      "ex": [
+        {
+          "s": "With their ability to see ahead, they could signal any problem, so that fast-moving trains would be able to react in time.",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "凭借它们的前瞻能力，它们可以发出任何问题的信号，以便高速行驶的火车能及时反应。"
+        }
+      ]
     },
     {
       "def": "to do sth to make your feelings or opinions known 表达；表示；显示",
