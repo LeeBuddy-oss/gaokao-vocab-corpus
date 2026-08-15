@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈmɒnɪtə(r); NAmE ˈmɑːnɪtər",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -27,13 +27,6 @@
       "def": "a piece of equipment used to check or record sth 监控器；监测器",
       "ex": [
         {
-          "s": "It will use cameras and sensors to monitor the animals.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它将使用摄像头和传感器来监测动物。"
-        },
-        {
           "s": "Monitor the quality of grass.",
           "src": "2021新高考II卷·阅读理解D",
           "cat": "gaokao",
@@ -46,13 +39,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "她的监测器显示，越靠近地面，空气污染水平越高，这凸显了人们对婴儿和幼儿可能面临更高患肺病风险的担忧。"
-        },
-        {
-          "s": "For the next five years the local park service will monitor and maintain the tree in its new home.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在接下来的五年里，当地公园管理部门将监测并维护这棵树在新家的情况。"
         },
         {
           "s": "Conventional monitors are more reliable.",
@@ -118,12 +104,6 @@
           "t": "监测污染行业。"
         },
         {
-          "s": "We carried out this 2 ___________________________________________________________ to monitor the 3 ___________________________________________________________ in Liberia.",
-          "src": "外研社B6 U3",
-          "cat": "waiyan",
-          "t": "我们开展这个2 ______________________________________以监测利比里亚的3 ______________________________________。"
-        },
-        {
           "s": "She believed that the chemical industry was knowingly causing harm to plants, animals and even humans, and wished to see pesticides used in a more responsible, limited and carefully monitored way.",
           "src": "外研社B6 U6",
           "cat": "waiyan",
@@ -136,25 +116,11 @@
           "t": "T F 3 太平洋海啸预警中心的科学家24小时监测地球的运动以追踪海啸。"
         },
         {
-          "s": "With a monitor on her collar, Baggy can ____________.（    ）",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "衣领上戴着监测器，巴吉可以____________。（    ）"
-        },
-        {
           "s": "Machines have largely taken over planting, watering and harvesting crops such as com and wheat, but the monitoring of cattle has gone through fewer changes.",
           "src": "2021新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
           "t": "机器已经在很大程度上接管了玉米和小麦等作物的种植、灌溉和收割，但对牛群的监测所经历的变化却少得多。"
-        },
-        {
-          "s": "An Australian professor is developing a robot to monitor the health of grazing cattle, a development that could bring big changes to a profession that's relied largely on a low-tech approach for decades but is facing a labor shortage.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一位澳大利亚教授正在开发一种机器人，用于监测放牧牛群的健康，这一进展可能给一个几十年来主要依赖低技术手段、正面临劳动力短缺的行业带来巨大变化。"
         },
         {
           "s": "One Sunday afternoon, we went out to do some monitoring, and he said, why don't we put it on Baggy's collar and let her monitor the pollution？'So we did it.\"",
@@ -186,7 +152,29 @@
     },
     {
       "def": "to watch and check sth over a period of time in order to see how it develops, so that you can make any necessary changes 监视；检查；跟踪调查",
-      "ex": []
+      "ex": [
+        {
+          "s": "It will use cameras and sensors to monitor the animals.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "它将使用摄像头和传感器来监测动物。"
+        },
+        {
+          "s": "For the next five years the local park service will monitor and maintain the tree in its new home.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在接下来的五年里，当地公园管理部门将监测并维护这棵树在新家的情况。"
+        },
+        {
+          "s": "An Australian professor is developing a robot to monitor the health of grazing cattle, a development that could bring big changes to a profession that's relied largely on a low-tech approach for decades but is facing a labor shortage.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "一位澳大利亚教授正在开发一种机器人，用于监测放牧牛群的健康，这一进展可能给一个几十年来主要依赖低技术手段、正面临劳动力短缺的行业带来巨大变化。"
+        }
+      ]
     },
     {
       "def": "to listen to telephone calls, foreign radio broadcasts, etc. in order to find out information that might be useful 监听（电话、外国无线电广播等）",
