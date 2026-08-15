@@ -1,12 +1,20 @@
 {
   "meta": {
     "ph": "ɪŋk; NAmE ɪŋk",
-    "pos": "noun",
+    "pos": "verb;verb;noun",
     "stars": "★"
   },
   "defs": [
     {
       "def": "to cover sth with ink so that it can be used for printing 给 … 上油墨（以供印刷）",
+      "ex": []
+    },
+    {
+      "def": "to sign a document, especially a contract 签署，签订（合同等）",
+      "ex": []
+    },
+    {
+      "def": "the coloured liquid used for writing, printing, etc. 墨水；墨汁；油墨",
       "ex": [
         {
           "s": "Although I have enjoyed breaking my decades-long taboo about working with oil paints, I have discovered I now prefer chalks and ink.",
@@ -32,23 +40,12 @@
           "src": "北师大B3 U7",
           "cat": "beishida",
           "t": "在画的左右两侧，徐悲鸿巧妙地用墨汁绘制，展现了马鬃和马尾上飘动的毛发。"
-        }
-      ]
-    },
-    {
-      "def": "to sign a document, especially a contract 签署，签订（合同等）",
-      "ex": [
+        },
         {
           "s": "Chinese characters are carved into small squares of stone and stamped onto paper with ink.",
           "src": "外研社B3 U4",
           "cat": "waiyan",
           "t": "汉字被刻在小块方石上，再用墨拓印到纸上。"
-        },
-        {
-          "s": "Chinese artist Wu Guanzhong is 1_________(know) for his paintings using oils and also for those using the more traditional Chinese method of ink.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "t": "中国艺术家吴冠中以他的油画作品以及使用更传统的中国水墨方法的作品而闻名。"
         }
       ]
     }

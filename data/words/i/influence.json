@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈɪnfluəns; NAmE ˈɪnfluəns",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -65,13 +65,6 @@
           "t": "我们“调整影响”基于什么？（根据最后一段）（    ）"
         },
         {
-          "s": "The Digital World is a set of volumes____40____aim to describe how digital systems influence society and help readers understand the nature of digital systems and their many interacting parts.",
-          "src": "2020全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "《数字世界》是一套丛书，___40___旨在描述数字系统如何影响社会，并帮助读者理解数字系统的本质及其众多相互作用的组成部分。"
-        },
-        {
           "s": "Family Relationship Influences School Performance",
           "src": "2020浙江1月卷·阅读理解C",
           "cat": "gaokao",
@@ -118,13 +111,6 @@
           "t": "主要受乐乐的影响，莱莉的大部分记忆是快乐的。"
         },
         {
-          "s": "No matter how much I had tried to __33__ him, he still influenced me.",
-          "src": "2020天津3月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不管我曾多么努力想 __33__ 摆脱他他仍然影响着我。"
-        },
-        {
           "s": "To test the effect of social influence on eating habits, the researchers conducted two experiments.",
           "src": "2020全国新高考I卷·阅读理解D",
           "cat": "gaokao",
@@ -132,18 +118,37 @@
           "t": "为了测试社会影响对饮食习惯的作用研究人员进行了两项实验。"
         },
         {
-          "s": "The modern form of the word — typhoon — was influenced by the Cantonese but  ___40___ to make it appear more Greek.",
-          "src": "2018上海卷·Section B",
+          "s": "Influence of misinformation on the public.",
+          "src": "2022新高考I卷",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "该词的现代形式——台风——受到了广东话的影响,____40____但是为了使其更像希腊语."
+          "year": 2022,
+          "t": "错误信息对公众的影响。"
         },
         {
-          "s": "Each volume in the set explores____41____wide range of material, explains the basic concepts of major applications of digital systems, ____42____discusses the influences they have on everyday life.",
-          "src": "2020全国新高考II卷·语法填空",
+          "s": "The influence of farming on big trees in California.",
+          "src": "2019浙江卷",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "丛书的每一卷都探讨了____41____广泛的材料，解释了数字系统主要应用的基本概念，____42____并讨论了它们对日常生活的影响。"
+          "year": 2019,
+          "t": "农业对加州大树的影响。"
+        },
+        {
+          "s": "The performance borrowed a lot from Chinese dance and music, so the Eastern influence on the ballet was clear.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "这部作品大量借鉴了中国舞蹈和音乐，因此东方对这部芭蕾舞剧的影响清晰可见。"
+        },
+        {
+          "s": "It has had a strong influence on late European literature.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它对后来的欧洲文学产生了强烈的影响。"
+        },
+        {
+          "s": "Written laws have great influence on virtues.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "成文法律对美德有很大影响。"
         }
       ]
     },
@@ -154,13 +159,6 @@
     {
       "def": "a person or thing that affects the way a person behaves and thinks （对 … ）有影响的人（或事物）",
       "ex": [
-        {
-          "s": "According to a recent study in the Journal of Consumer Research, both the size and consumption habits of our eating companions can influence our food intake.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据《消费者研究杂志》最近的一项研究，与我们一起吃饭的人的体型和饮食习惯都会影响我们的进食量。"
-        },
         {
           "s": "Louise Hartley, who is leading the Tiny Forest project in the UK, explains that the process begins by identifying areas in which a tiny forest could have the biggest influence.",
           "src": "2022浙江6月卷·阅读理解B",
@@ -188,20 +186,6 @@
           "t": "然而重要的是，美感组并没有报告比对照组更快乐，这表明影响抽象思维的是与美的接触，而不是这次经历带来的整体积极情绪。"
         },
         {
-          "s": "Influence of misinformation on the public.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "错误信息对公众的影响。"
-        },
-        {
-          "s": "Influence of misinformation on the public.",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "错误信息对公众的影响。"
-        },
-        {
           "s": "How did Grant Brown’s presentation influence Alice?",
           "src": "2022北京卷·阅读理解B",
           "cat": "gaokao",
@@ -209,30 +193,11 @@
           "t": "Grant Brown的演讲对Alice产生了什么影响？"
         },
         {
-          "s": "The influence of farming on big trees in California.",
-          "src": "2019浙江卷",
+          "s": "According to a recent study in the Journal of Consumer Research, both the size and consumption habits of our eating companions can influence our food intake.",
+          "src": "2020全国新高考I卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "农业对加州大树的影响。"
-        },
-        {
-          "s": "The performance borrowed a lot from Chinese dance and music, so the Eastern influence on the ballet was clear.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "这部作品大量借鉴了中国舞蹈和音乐，因此东方对这部芭蕾舞剧的影响清晰可见。"
-        },
-        {
-          "s": "It has had a strong influence on late European literature.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它对后来的欧洲文学产生了强烈的影响。"
-        },
-        {
-          "s": "Written laws have great influence on virtues.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "成文法律对美德有很大影响。"
+          "year": 2020,
+          "t": "根据《消费者研究杂志》最近的一项研究，与我们一起吃饭的人的体型和饮食习惯都会影响我们的进食量。"
         }
       ]
     },
