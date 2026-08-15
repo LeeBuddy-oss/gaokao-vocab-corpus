@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "eɪdʒ; NAmE eɪdʒ",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; noun; noun; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -63,13 +63,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "悉尼大学教授萨拉赫·苏卡里赫认为，鉴于牧场主日益老龄化，机器人是必要的。"
-        },
-        {
-          "s": "Children aged from 11 to 14.",
-          "src": "2020浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "双亲家庭中的母亲。"
         },
         {
           "s": "At one school in the UK, children between the ages of 10 and 15 walk 6km with six litres of water.",
@@ -205,7 +198,7 @@
           "t": "周三发表在《神经学》期刊上的一项研究表明，需要大量分析思考、规划和其他管理技能的富有挑战性的工作，可能有助于你的大脑随着年龄增长保持敏锐。"
         },
         {
-          "s": "B．age is not a barrier to achieving one's goal",
+          "s": "age is not a barrier to achieving one's goal",
           "src": "2019天津卷·20．",
           "cat": "gaokao",
           "year": 2019,
@@ -575,13 +568,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "为老年人提供兼职工作。"
-        },
-        {
-          "s": "40    While the sun's rays can age and harm our skin, they also give is beneficial Vitamin D.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "40    虽然阳光会使我们的皮肤老化和受损，但它也给我们提供有益的维生素D。"
         }
       ]
     },
@@ -634,13 +620,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "Young 女士早年培养了对烹饪的热情。"
-        },
-        {
-          "s": "Levine and his research team selected volunteers aged between 45 and 64 who did not exercise much but were otherwise healthy.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Levine和他的研究团队选择了45至64岁之间不常运动但其他方面健康的志愿者。"
         },
         {
           "s": "To promote values of the Victorian age.",
@@ -775,11 +754,34 @@
     },
     {
       "def": "to become older 变老",
-      "ex": []
+      "ex": [
+        {
+          "s": "Children aged from 11 to 14.",
+          "src": "2020浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "年龄在 11 到 14 岁之间的儿童。"
+        },
+        {
+          "s": "Levine and his research team selected volunteers aged between 45 and 64 who did not exercise much but were otherwise healthy.",
+          "src": "2022全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Levine和他的研究团队选择了45至64岁之间不常运动但其他方面健康的志愿者。"
+        }
+      ]
     },
     {
       "def": "to make sb/sth look, feel or seem older 使显老；使变老；使苍老",
-      "ex": []
+      "ex": [
+        {
+          "s": "While the sun's rays can age and harm our skin, they also give us beneficial Vitamin D.",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "虽然阳光会使我们的皮肤老化和受损，但它也给我们提供有益的维生素D。"
+        }
+      ]
     },
     {
       "def": "to develop in flavour over a period of time; to allow sth to do this （使）成熟，变陈",

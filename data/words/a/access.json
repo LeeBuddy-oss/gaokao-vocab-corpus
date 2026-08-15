@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈækses; NAmE ˈækses",
-    "pos": "noun",
+    "pos": "noun; noun; verb; verb",
     "stars": "★★"
   },
   "defs": [
@@ -133,6 +133,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "与此同时，电视是了解世界的窗口，让我们能够快速轻松地了解其他文化和生活方式。"
+        },
+        {
+          "s": "If you enter through the wrong access point, you'll be turned around and redirected — so plan ahead.",
+          "src": "2026新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "如果你从错误的入口进入，会被拦下并重新指引——所以请提前规划。"
         }
       ]
     },
@@ -182,13 +189,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "我们从南门进入了城墙。"
-        },
-        {
-          "s": "If you enter through the wrong access point, you'll be turned around and redirected — so plan ahead.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果你从错误的入口进入，会被拦下并重新指引——所以请提前规划。"
         }
       ]
     }

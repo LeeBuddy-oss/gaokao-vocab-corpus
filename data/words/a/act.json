@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ækt; NAmE ækt",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -21,13 +21,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "它们可能普遍适用于进化的一切行为。"
-        },
-        {
-          "s": "She explains we are at a “tipping point” in history and must act now to prevent an extinction-level event for humanity.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "她解释说，我们正处于历史上的一个“临界点”，必须立刻行动，以防人类遭遇灭绝级事件。"
         },
         {
           "s": "And that’s what makes the act of rereading so rich and transformative.",
@@ -51,25 +44,18 @@
           "t": "史密斯先生的行为____30____了公众的很多关注。"
         },
         {
-          "s": "But if governments don’t want a data economy controlled by a few giants, they must act soon.",
-          "src": "2017江苏卷·阅读理解C",
+          "s": "He also won praise from social media users after Mr Anderson    31    about the act of kindness on Facebook.",
+          "src": "2018北京卷·The Homeless Hero",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "但如果政府不希望数据经济被少数巨头控制，就必须尽快行动。"
+          "year": 2018,
+          "t": "在安德森先生在脸书上____31____这一善举后，他也赢得了社交媒体用户的赞扬。"
         },
         {
-          "s": "“I know I can act under pressure in a scary situation.”",
-          "src": "2017北京卷·阅读理解A",
+          "s": "In the case of emperors, the act required the person to touch their head to the ground.",
+          "src": "2018上海卷·Section B",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "“我知道在可怕的情况下我能顶住压力采取行动。”"
-        },
-        {
-          "s": "Each chapter concludes with a collection of practices, which are designed to help you act on the big ideas of the chapter.",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每一章都以一系列实践练习收尾，这些练习旨在帮助你将本章的重要理念付诸行动。"
+          "year": 2018,
+          "t": "在皇帝的情况下，该礼节要求人把头触地。"
         }
       ]
     },
@@ -141,13 +127,6 @@
           "t": "他觉得自己擅长表演。"
         },
         {
-          "s": "Wonderment from acting out the stories.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "表演故事带来的奇妙感受。"
-        },
-        {
           "s": "Apply their acting skills.",
           "src": "2020浙江7月卷·阅读理解A",
           "cat": "gaokao",
@@ -174,20 +153,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "莱斯利·尼尔森对表演的投入极其鼓舞人心。"
-        },
-        {
-          "s": "Act out the conversation to talk about the road trips across China.] Student A: Turn to page 83.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "表演对话来谈论穿越中国的公路旅行。] 学生A：翻到第83页。"
-        },
-        {
-          "s": "When he was writing his novels, Charles Dickens would act out the parts of the characters, He’d make faces in the mirror, and change his voice for each character.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "查尔斯·狄更斯写小说时，会表演角色的部分，对着镜子做鬼脸，并为每个角色变换声音。"
         }
       ]
     },
@@ -197,7 +162,36 @@
     },
     {
       "def": "to do sth for a particular purpose or in order to deal with a situation 做事；行动",
-      "ex": []
+      "ex": [
+        {
+          "s": "Each chapter concludes with a collection of practices, which are designed to help you act on the big ideas of the chapter.",
+          "src": "2023新课标I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "每一章都以一系列实践练习收尾，这些练习旨在帮助你将本章的重要理念付诸行动。"
+        },
+        {
+          "s": "“I know I can act under pressure in a scary situation.”",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“我知道在可怕的情况下我能顶住压力采取行动。”"
+        },
+        {
+          "s": "But if governments don’t want a data economy controlled by a few giants, they must act soon.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "但如果政府不希望数据经济被少数巨头控制，就必须尽快行动。"
+        },
+        {
+          "s": "She explains we are at a “tipping point” in history and must act now to prevent an extinction-level event for humanity.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "她解释说，我们正处于历史上的一个“临界点”，必须立刻行动，以防人类遭遇灭绝级事件。"
+        }
+      ]
     },
     {
       "def": "to behave in a particular way 表现得",
@@ -259,6 +253,27 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "写作对我来说太困难、太痛苦，以至于老师允许我通过表演一出戏来呈现关于泰坦尼克号沉没的论文，在戏里我扮演了所有角色。"
+        },
+        {
+          "s": "When he was writing his novels, Charles Dickens would act out the parts of the characters, He’d make faces in the mirror, and change his voice for each character.",
+          "src": "2017浙江11月卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "查尔斯·狄更斯写小说时，会表演角色的部分，对着镜子做鬼脸，并为每个角色变换声音。"
+        },
+        {
+          "s": "Act out the conversation to talk about the road trips across China.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "表演对话来谈论穿越中国的公路旅行。"
+        },
+        {
+          "s": "Wonderment from acting out the stories.",
+          "src": "2020全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "表演故事带来的奇妙感受。"
         }
       ]
     },
@@ -328,22 +343,7 @@
     },
     {
       "def": "to act a part in a real situation 充当（真实情况中的角色）",
-      "ex": [
-        {
-          "s": "In the case of emperors, the act required the person to touch their head to the ground.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在皇帝的情况下，该礼节要求人把头触地。"
-        },
-        {
-          "s": "He also won praise from social media users after Mr Anderson    31    about the act of kindness on Facebook.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在安德森先生在脸书上____31____这一善举后，他也赢得了社交媒体用户的赞扬。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to behave badly 表现不好；捣乱",

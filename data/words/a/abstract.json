@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈæbstrækt; NAmE ˈæbstrækt",
-    "pos": "adjective",
+    "pos": "adjective; adjective; adjective; noun; noun; verb; verb",
     "stars": "★★"
   },
   "defs": [
@@ -80,7 +80,15 @@
     },
     {
       "def": "not representing people or things in a realistic way, but expressing the artist's ideas about them 艺术",
-      "ex": []
+      "ex": [
+        {
+          "s": "Still others turned to abstract art.",
+          "src": "人教选必3 U1",
+          "cat": "renjiao",
+          "year": "",
+          "t": "还有一些人转向了抽象艺术。"
+        }
+      ]
     },
     {
       "def": "an abstract work of art 抽象派艺术作品",
@@ -105,13 +113,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "现代艺术博物馆 @modernartmuseum 抽象艺术新展览将于周二至周日每天上午 10 点至下午 6 点开放。"
-        },
-        {
-          "s": "Still others turned to abstract art.",
-          "src": "人教选必3 U1",
-          "cat": "renjiao",
-          "year": "",
-          "t": "还有一些人转向了抽象艺术。"
         },
         {
           "s": "Across all participants, those in the beauty group scored almost 14% higher on average than the control group in abstract thinking.",

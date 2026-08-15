@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "əˈmaʊnt; NAmE əˈmaʊnt",
-    "pos": "noun",
+    "pos": "noun; noun; verb; verb",
     "stars": "★"
   },
   "defs": [
@@ -56,13 +56,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "由于照顾它们需要耗费巨大的精力，一切很快就变得十分紧张忙碌。"
-        },
-        {
-          "s": "It was tiring work, but I looked forward to the pay, even though I wasn’t sure how much it would amount to.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这是累人的活但我期待着报酬虽然我不确定会有多少。"
         },
         {
           "s": "The light，about one-thousandth of the amount needed to read by，is just a start.",
@@ -128,13 +121,6 @@
           "t": "更    66   （糟）的是，人们吃的快餐量上升了。"
         },
         {
-          "s": "(Adaptation from “fHeiligenstadt Testament” by Ludwig van Beethoven) first choice of all time in question be crowded with come to exist adapt to a variety of tiny amounts of drive...",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "（改编自路德维希·范·贝多芬（ Ludwig van Beethoven ）的《海利根斯塔特遗嘱》（ fHeiligenstadt Testament ） ）有史以来的首选，都挤满了来适应各种微小的驱动力......"
-        },
-        {
           "s": "The plant releases tiny amounts of chemicals from the leaves that are being eaten.",
           "src": "外研社B4 U5",
           "cat": "waiyan",
@@ -161,6 +147,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "令人惊奇的是，这些树的生长方式使得它们的叶子和枝条虽然紧密相邻，却从不真正接触另一棵树的叶子和枝条。"
+        },
+        {
+          "s": "By taking off these, she was able to   42   the new total to the amount of cash she had with her.",
+          "src": "2021浙江6月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "通过去掉这些，她能够把____42____的新总额和她手头的现金对上。"
+        },
+        {
+          "s": "However, data of the first six months showed it would make less than half this amount.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "目前预计截至2019年4月的财年将产生2.4亿英镑收入，这笔钱将用于学校体育。"
         }
       ]
     },
@@ -187,25 +187,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "无论穿肥胖装还是苗条装的演员都拿了大量食物。"
-        }
-      ]
-    },
-    {
-      "def": "to add up to sth; to make sth as a total 总计；共计",
-      "ex": [
-        {
-          "s": "However, data of the first six months showed it would make less than half this amount.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "目前预计截至2019年4月的财年将产生2.4亿英镑收入，这笔钱将用于学校体育。"
-        },
-        {
-          "s": "By taking off these, she was able to   42   the new total to the amount of cash she had with her.",
-          "src": "2021浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "通过去掉这些，她能够把____42____的新总额和她手头的现金对上。"
         },
         {
           "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
@@ -213,7 +194,12 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。"
-        },
+        }
+      ]
+    },
+    {
+      "def": "to add up to sth; to make sth as a total 总计；共计",
+      "ex": [
         {
           "s": "At the start of this year, foreigners living in Italy amounted to 4.56 million of a total population of 60.6 million, or 7.5 percent, with immigrants’ children accounting for an even larger percentage of births in Italy.",
           "src": "2017浙江6月卷·阅读理解C",
@@ -227,6 +213,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "令人震惊的是，这些死亡人数约占美国鸟类总数的10%。"
+        },
+        {
+          "s": "It was tiring work, but I looked forward to the pay, even though I wasn’t sure how much it would amount to.",
+          "src": "2021浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这是累人的活但我期待着报酬虽然我不确定会有多少。"
         }
       ]
     },

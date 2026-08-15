@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈɑːnsə(r); NAmE ˈænsər",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -14,20 +14,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "她常这么问，而我也总是同样的回答——“让爷爷回来”——这通常会让她陷入对他的回忆。"
-        },
-        {
-          "s": "encourage the students to answer questions",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "鼓励学生们回答问题。"
-        },
-        {
-          "s": "They found it hard to answer, she wrote later, because imagining something that isn’t part of real life—and learning how to make it real—is a rare skill.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她后来写道，他们发现很难回答，因为想象不属于真实生活的东西——并学会如何让它成真——是一种罕见的能力。"
         },
         {
           "s": "After I read the book, Taylor patiently answered my questions about it.",
@@ -65,13 +51,6 @@
           "t": "回答一个问题。"
         },
         {
-          "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
-        },
-        {
           "s": "Similarly, these invitations are answered in writing.",
           "src": "外研社B2 U2",
           "cat": "waiyan",
@@ -84,20 +63,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "我和一位高年级申请者交谈，她回答问题时展现出对自己的信心。"
-        },
-        {
-          "s": "Like most great questions, this one is easy to ask but difficult to answer.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "像大多数重大问题一样，这个问题容易提出却难以回答。"
-        },
-        {
-          "s": "The author didn’t know how to answer.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者不知道如何回答。"
         }
       ]
     },
@@ -288,19 +253,55 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "在我看来，遇到困难时我们应该向我们最信任的人寻求帮助。"
+        }
+      ]
+    },
+    {
+      "def": "to say, write or do sth as a reaction to a question or situation 答复；回答",
+      "ex": [
+        {
+          "s": "The author didn’t know how to answer.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "作者不知道如何回答。"
+        },
+        {
+          "s": "Like most great questions, this one is easy to ask but difficult to answer.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "像大多数重大问题一样，这个问题容易提出却难以回答。"
+        },
+        {
+          "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
+        },
+        {
+          "s": "They found it hard to answer, she wrote later, because imagining something that isn’t part of real life—and learning how to make it real—is a rare skill.",
+          "src": "2022北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "她后来写道，他们发现很难回答，因为想象不属于真实生活的东西——并学会如何让它成真——是一种罕见的能力。"
+        },
+        {
+          "s": "encourage the students to answer questions",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "鼓励学生们回答问题。"
         },
         {
           "s": "One way to begin is to answer your own excuses.",
           "src": "2020天津6月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "现在她已经是专家之一，正在写关于插花的书。"
+          "t": "开始的方法之一是回应你自己的借口。"
         }
       ]
-    },
-    {
-      "def": "to say, write or do sth as a reaction to a question or situation 答复；回答",
-      "ex": []
     },
     {
       "def": "to be suitable for sth; to match sth 适合；符合；比得上；相配",

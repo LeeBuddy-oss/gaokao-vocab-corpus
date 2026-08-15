@@ -1,20 +1,13 @@
 {
   "meta": {
     "ph": "əˈkaʊnt; NAmE əˈkaʊnt",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; noun; noun; noun; verb; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
     {
       "def": "an arrangement that sb has with a bank, etc. to keep money there, take some out, etc. 账户",
       "ex": [
-        {
-          "s": "We invest a lot in roads that help us rush through, but we fail to account for the true costs.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我们投入巨资修建让我们匆匆穿行的道路，却忽略了真正的代价。"
-        },
         {
           "s": "It takes no account of the context.",
           "src": "2024新高考I卷·七选五",
@@ -119,13 +112,6 @@
       "def": "an explanation or a description of an idea, a theory or a process （思想、理论、过程的）解释，说明，叙述",
       "ex": [
         {
-          "s": "This dazzling carpet, really a reflector, drove away the rays of the sun with wonderful intensity, which accounted for the vibration which passed through every atom of liquid.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这块耀眼的地毯，其实是一个反射器，以惊人的强度驱散了太阳的光线，这解释了穿过每一粒液体的震动。"
-        },
-        {
           "s": "The results held true even after the scientists accounted for the participants’ overall health status.",
           "src": "2020浙江7月卷·阅读理解C",
           "cat": "gaokao",
@@ -138,6 +124,13 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "它是一趟旅程的简要记述。"
+        },
+        {
+          "s": "To give a brief account of AI history.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "简要介绍AI的历史。"
         }
       ]
     },
@@ -179,11 +172,18 @@
       "def": "to give an explanation of sth 解释；说明",
       "ex": [
         {
-          "s": "To give a brief account of AI history.",
-          "src": "2024新高考II卷·阅读理解D",
+          "s": "We invest a lot in roads that help us rush through, but we fail to account for the true costs.",
+          "src": "2025新高考I卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "简要介绍AI的历史。"
+          "year": 2025,
+          "t": "我们投入巨资修建让我们匆匆穿行的道路，却未能说明真正的代价。"
+        },
+        {
+          "s": "This dazzling carpet, really a reflector, drove away the rays of the sun with wonderful intensity, which accounted for the vibration which passed through every atom of liquid.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这块耀眼的地毯，其实是一个反射器，以惊人的强度驱散了太阳的光线，这解释了穿过每一粒液体的震动。"
         }
       ]
     },
