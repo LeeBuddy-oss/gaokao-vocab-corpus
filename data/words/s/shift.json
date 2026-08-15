@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ʃɪft; NAmE ʃɪft",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun",
     "stars": "★★"
   },
   "defs": [
@@ -14,12 +14,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "与其让你的听众焦躁不安地在座位上挪动、等着你的演讲终于结束，不如让他们意犹未尽。"
-        },
-        {
-          "s": "Once Qian changed his major because of a shift in personal interest.",
-          "src": "人教选必2 U1",
-          "cat": "renjiao",
-          "t": "曾因个人兴趣转移而改主修."
         },
         {
           "s": "In subject matter, the emphasis increasingly shifted from religious themes to people and the world around us.",
@@ -53,13 +47,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "但随着他们渐渐长大，发生了变化。"
-        },
-        {
-          "s": "But America is shifting more toward the ___52___ model, and the change is apparent across the socioeconomic spectrum, Twenge said.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但美国正更多地转向____52____模式，这种转变在整个社会经济光谱中都显而易见，特温格说。"
         },
         {
           "s": "They shifted their viewpoints frequently.",
@@ -108,6 +95,13 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "显然，我阅读文本的方式已经改变，而这些年来我自己也变了。"
+        },
+        {
+          "s": "And then, we can shift our inquiry from “Is the universe a computer simulation? ” to “Can we model the universe as a computer simulation? ” Modelling reality is what we do.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "然后，我们可以将我们的探究从\"宇宙是一个计算机模拟吗？\"转移到\"我们能否将宇宙建模为一个计算机模拟？\"建模现实正是我们所做的事。"
         }
       ]
     },
@@ -135,6 +129,12 @@
           "src": "人教选必1 U5",
           "cat": "renjiao",
           "t": "其他人也会改变身体,调整衣服,或玩弄头发。"
+        },
+        {
+          "s": "Once Qian changed his major because of a shift in personal interest.",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "t": "曾因个人兴趣转移而改主修."
         }
       ]
     },
@@ -156,13 +156,6 @@
           "t": "即便这种计时方式在细节上很新颖，早期的农业社会也将时间与自然现象联系起来。例如在前古典时期的希腊，人们会通过把日期向前或向后调整来“修正”官方历法，以反映季节的变化。与环境的时间联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统或许也能唤起人们的环保意识。"
         },
         {
-          "s": "This is about making the shift from sedentary time to playtime, while ___27___ (protect) sleep.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这是关于从久坐时间转向玩耍时间，同时____27____（protect）睡眠。"
-        },
-        {
           "s": "However, for other people, it's bedtime.These people are the night workers -nurses on night shift, lorry drivers crossing continents and bakers preparing breakfast bread.",
           "src": "北师大选必3 U7",
           "cat": "beishida",
@@ -176,15 +169,7 @@
     },
     {
       "def": "the system on a computer keyboard or typewriter that allows capital letters or a different set of characters to be typed; the key that operates this system （计算机键盘或打字机上的）转换（键），换挡（键）",
-      "ex": [
-        {
-          "s": "And then, we can shift our inquiry from “Is the universe a computer simulation? ” to “Can we model the universe as a computer simulation? ” Modelling reality is what we do.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然后，我们可以将我们的探究从\"宇宙是一个计算机模拟吗？\"转移到\"我们能否将宇宙建模为一个计算机模拟？\"建模现实正是我们所做的事。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a woman's simple straight dress 直筒式连衣裙",

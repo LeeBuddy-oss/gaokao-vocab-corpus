@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ʃɒk; NAmE ʃɑːk",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -63,13 +63,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "什么让Norman感到震惊？"
-        },
-        {
-          "s": "Shocked for her own lack of hand skills.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对自己缺乏动手能力感到震惊。"
         },
         {
           "s": "I still remember   59   (visit) a friend who’d lived here for five years and I   60  (shock) when I learnt she hadn’t cooked once in all that time.",
@@ -157,7 +150,15 @@
     },
     {
       "def": "to surprise and upset sb 使震惊；使惊愕",
-      "ex": []
+      "ex": [
+        {
+          "s": "Shocked for her own lack of hand skills.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对自己缺乏动手能力感到震惊。"
+        }
+      ]
     },
     {
       "def": "to make sb feel offended or disgusted 脏话、不道德行为等",
