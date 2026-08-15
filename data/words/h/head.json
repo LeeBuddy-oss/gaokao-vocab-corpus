@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "hed; NAmE hed",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -57,13 +57,6 @@
           "t": "在皇帝的情况下，该礼节要求人把头触地。"
         },
         {
-          "s": "Before _____64_____ (head) home, they fill their shopping bags with fresh fruit and vegetables from local farmers, at prices significantly _____65_____ (cheap) than those found in supermarkets.",
-          "src": "2026新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在_____ 64 _____ （头部）回家之前，他们在购物袋中装满来自当地农民的新鲜水果和蔬菜，价格比超市中的价格便宜_____ 65 _____ （便宜）。"
-        },
-        {
           "s": "I quickly lower myself, ducking my head to avoid    64    (look) directly into his eyes so he doesn’t feel    65   (challenge).",
           "src": "2018全国III卷·语法填空",
           "cat": "gaokao",
@@ -76,6 +69,26 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "许多人认为积极思维主要是把头埋进沙里、忽视日常问题、试图显得乐观。"
+        },
+        {
+          "s": "They are now getting a head start on next year’s toy workload.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他们现在已经开始着手准备明年的玩具制作工作了。"
+        },
+        {
+          "s": "Mik was carrying 30 kilos on his head!",
+          "src": "2023天津3月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "米克头顶上扛着30公斤！"
+        },
+        {
+          "s": "Its unique feature, from which it gets its name, is the bright red skin on the top of its head.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "它的独特特征——也是它名字的由来——是头顶上鲜红色的皮肤。"
         }
       ]
     },
@@ -116,6 +129,19 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "我保证不会让它冲昏头脑。"
+        },
+        {
+          "s": "I was organising my words in my head when the girl next to me gave me a nudge.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "我正在脑海中组织我的词语，这时旁边的女孩轻轻推了我一下。"
+        },
+        {
+          "s": "It was full of ideas that were new to me so I spent the summer with my head in and out of that book.",
+          "src": "2023全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "书里满是对我来说全新的思想，所以我整个夏天都沉浸在那本书里，时而读时而想。"
         }
       ]
     },
@@ -128,13 +154,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "一团鲜红的云包围了那只动物，令麦克宽慰的是，它摇着头退了回去。"
-        },
-        {
-          "s": "Paul Beer, head of rhino section at Port Lympne, said: “Obviously we're all absolutely delighted to welcome another calf to our black rhino family.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "波特·林普恩犀牛部门主管保罗·比尔说：\"显然我们都非常高兴欢迎另一头小犀牛加入我们的黑犀牛家族。"
         },
         {
           "s": "For Jessica, that means   53   plenty of pictures of happy pets, keeping the house   54   and leaving a nice small gift before heading to the next house.",
@@ -161,13 +180,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "为了减少我们的影响，我们可以采取简单的步骤：出门前清空冰箱，并选择可持续的就餐选择。"
-        },
-        {
-          "s": "To make sure you get enough Vitamin D—but still protect your skin— put on sunscreen right as you head outside.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为了确保你获得足够的维生素D——同时保护你的皮肤——出门时立即涂上防晒霜。"
         }
       ]
     },
@@ -180,6 +192,13 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "\"太阳能项目需要做好邻居，\"创新场地准备与环境影响力减损（InSPIRE）项目负责人乔丹·麦克尼克说。"
+        },
+        {
+          "s": "Paul Beer, head of rhino section at Port Lympne, said: “Obviously we're all absolutely delighted to welcome another calf to our black rhino family.",
+          "src": "2021全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "波特·林普恩犀牛部门主管保罗·比尔说：\"显然我们都非常高兴欢迎另一头小犀牛加入我们的黑犀牛家族。"
         }
       ]
     },
@@ -198,13 +217,6 @@
     {
       "def": "the side of a coin that has a picture of the head of a person on it, used as one choice when a coin is tossed to decide sth 硬币正面（有人头像）",
       "ex": [
-        {
-          "s": "Just imagine this little man with the huge equipment ___18___ on his head.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "想象一下这个小个子男人头上顶着巨大的装备___18___的样子。"
-        },
         {
           "s": "Suggestions to the Head Teacher (1 picture) ·What to change: lunch break, school uniform, ...",
           "src": "外研社B1 U1",
@@ -258,7 +270,15 @@
     },
     {
       "def": "the mass of leaves or flowers at the end of a stem （茎梗顶端的）叶球，头状花序",
-      "ex": []
+      "ex": [
+        {
+          "s": "Beautiful year-round, they invite you to enjoy the smallest detail, from the sound of grasses in the gentle wind to the sculpture of odd-looking seed heads.",
+          "src": "2025浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "它们四季美丽，邀你欣赏最小的细节，从微风中草丛的沙沙声到造型奇特的种穗如雕塑般的美。"
+        }
+      ]
     },
     {
       "def": "the mass of small bubbles on the top of a glass of beer 啤酒泡沫；酒头",
@@ -295,13 +315,6 @@
     {
       "def": "the central part of a phrase, which has the same grammatical function as the whole phrase. In the phrase ‘the tall man in a suit’, man is the head. （短语的）中心成分，中心词，主导词",
       "ex": [
-        {
-          "s": "Our _39_ suggest when a child “hides” by putting a blanket over her head, it is not a result of egocentrism.",
-          "src": "2022全国乙卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们的_39_表明，当一个孩子用毯子盖住自己的头来“躲藏”时，这并不是自我中心的结果。"
-        },
         {
           "s": "It was that voice in the back of my head telling me that one phrase that has stopped so many people from reaching their potential: I can’t.",
           "src": "2022北京卷·阅读理解B",
@@ -342,14 +355,7 @@
           "src": "2024浙江1月卷·书面表达",
           "cat": "gaokao",
           "year": 2024,
-          "t": "它们也更清楚地知道自己知道什么和不知道什么。"
-        },
-        {
-          "s": "Jane moved aimlessly down the tree-lined street, not knowing ______she was heading.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "33.人们____比以前更容易获得医疗保健，因此他们的寿命也更长了。"
+          "t": "伊娃在高中第一周努力跟上进度，不让自己掉队。"
         }
       ]
     },
@@ -366,27 +372,12 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "马特·亨特说他为儿子感到“非常自豪”，因为“当男孩有了想法时，他会埋头苦干，坚持下去，而且他真的想做点好事，防止孩子们患上哮喘。”"
-        },
-        {
-          "s": "Tanya is also looking beyond special-occasion dresses to less formal clothing, ___63___ she plans to package as capsule wardrobes and offer to travellers, such as those headed to weddings abroad, with a longer-term rental period.",
-          "src": "2025浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Tanya也在超越特殊场合的连衣裙，转向更不正式的服装，____63____她计划打包成胶囊衣橱，提供给前往国外参加婚礼等、租期更长的旅客。"
         }
       ]
     },
     {
       "def": "moving forwards or downwards with your head in front of the rest of your body 头在前；头朝下",
-      "ex": [
-        {
-          "s": "The microwave had a loud alarm, but we overshadowed that noise with our own performance, tipping our heads back and shouting into the air — a scream _____61_____ always ended in laughter.",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "微波炉发出响亮的警报，但我们用自己的表演盖过了那声音——仰起头朝空中大喊，一声_____61_____的尖叫总是以笑声收场。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "without thinking carefully about sth before acting 未经深思；轻率；鲁莽",
@@ -398,15 +389,7 @@
     },
     {
       "def": "not knowing what you are saying or doing because of the effects of alcohol or drugs （酒后或使用药物后）胡言乱语，行为乖张，神志不清",
-      "ex": [
-        {
-          "s": "It comes from the Cantonese word kau tau, which means “knock your head.” It refers to the act of kneeling and lowering one's head as a sign of respect to ___32___— such as emperors, elders and leaders.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它源自粤语单词kau tau ，意思是“敲头”。“它指的是跪下和低头的行为，作为对皇帝、长老和领袖等___ 32 ___的尊重。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "too difficult or complicated for sb to understand 超过某人理解力；过于复杂",
@@ -416,7 +399,7 @@
           "src": "2017浙江11月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2017,
-          "t": "她在城里住了大半辈子，但她懂得什么是社区。"
+          "t": "爸爸说她可能很孤独，我应该坐下来倾听、点点头、微笑，也许她能把心里的郁闷发泄出来。"
         }
       ]
     },
@@ -435,25 +418,24 @@
           "t": "我向主人尽可能多地提供了信息，然后朝家走去，看看那个夜晚会带来什么消息。"
         },
         {
-          "s": "My heart froze in my chest as I ___43___ the tractor heading towards the ___44___ .I ran desperately but failed to _____45_____.",
-          "src": "2020浙江7月卷·完形填空",
+          "s": "To make sure you get enough Vitamin D—but still protect your skin— put on sunscreen right as you head outside.",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "我的心在胸口冻结，当我___43___拖拉机朝___44___驶来。我绝望地跑但没能_____45_____。"
+          "year": 2019,
+          "t": "为了确保你获得足够的维生素D——同时保护你的皮肤——出门时立即涂上防晒霜。"
+        },
+        {
+          "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
+          "src": "2018浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
         }
       ]
     },
     {
       "def": "to lead or be in charge of sth 领导；主管",
-      "ex": [
-        {
-          "s": "Although they could never have met, there are common ___37___ (theme) in their works, said Paul Edmondson, head of research for the Shakespeare Birthplace Trust.",
-          "src": "2024新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "莎士比亚出生地基金会研究主管保罗·埃德蒙森说，尽管他们不可能见过面，但他们的作品中有共同的____（主题）。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to be at the top of a list of names or at the front of a line of people 位于排行之首；排在前头",
@@ -471,52 +453,11 @@
       "def": "to put a word or words at the top of a page or section of a book as a title 在（页或篇章的）顶端加标题",
       "ex": [
         {
-          "s": "It was full of ideas that were new to me so I spent the summer with my head in and out of that book.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "书里满是对我来说全新的思想，所以我整个夏天都沉浸在那本书里，时而读时而想。"
-        },
-        {
-          "s": "I was organising my words in my head when the girl next to me gave me a nudge.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "我正在脑海中组织我的词语，这时旁边的女孩轻轻推了我一下。"
-        },
-        {
-          "s": "Beautiful year-round, they invite you to enjoy the smallest detail, from the sound of grasses in the gentle wind to the sculpture of odd-looking seed heads.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "良好的社会习惯在社会环境中发挥类似作用。"
-        },
-        {
-          "s": "They are now getting a head start on next year’s toy workload.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他们现在已经开始着手准备明年的玩具制作工作了。"
-        },
-        {
           "s": "With any luck, he’ll turn a few more heads in the process.",
           "src": "2019浙江卷",
           "cat": "gaokao",
           "year": 2019,
           "t": "运气好的话，他在此过程中还会吸引更多人的目光。"
-        },
-        {
-          "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
-        },
-        {
-          "s": "In a journal or on a piece of paper, put the heading “Personal strengths.” ____17____ Are you caring?",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在日记本或一张纸上，写上标题\"个人优势\"。____17____ 你有同理心吗？"
         },
         {
           "s": "At the top of a second page, put the heading “Acts of kindness.” On this one, list all the positive things you’ve done for others.",
@@ -535,21 +476,7 @@
     },
     {
       "def": "to hit a football with your head 用头顶（球）",
-      "ex": [
-        {
-          "s": "Its unique feature, from which it gets its name, is the bright red skin on the top of its head.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "它的独特特征——也是它名字的由来——是头顶上鲜红色的皮肤。"
-        },
-        {
-          "s": "Mik was carrying 30 kilos on his head!",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "米克头顶上扛着30公斤！"
-        }
-      ]
+      "ex": []
     }
   ]
 }

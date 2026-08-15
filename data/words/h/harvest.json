@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈhɑːvɪst; NAmE ˈhɑːrvɪst",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -13,13 +13,6 @@
           "src": "2023新课标II卷·阅读理解B",
           "cat": "gaokao",
           "t": "翻土、拔草和收卷心菜，对中学生和高中生来说听起来像是艰苦的劳动。",
-          "year": 2023
-        },
-        {
-          "s": "You will harvest the rewards of an artistic life.",
-          "src": "2023新课标II卷·七选五",
-          "cat": "gaokao",
-          "t": "你将收获艺术生活的回报。",
           "year": 2023
         },
         {
@@ -68,7 +61,15 @@
     },
     {
       "def": "to cut and gather a crop; to catch a number of animals or fish to eat 收割（庄稼）；捕猎（动物、鱼）",
-      "ex": []
+      "ex": [
+        {
+          "s": "You will harvest the rewards of an artistic life.",
+          "src": "2023新课标II卷·七选五",
+          "cat": "gaokao",
+          "t": "你将收获艺术生活的回报。",
+          "year": 2023
+        }
+      ]
     },
     {
       "def": "to collect cells or tissue from sb's body for use in medical experiments or operations 采集（人体的细胞或组织，以供医学实验等）",
