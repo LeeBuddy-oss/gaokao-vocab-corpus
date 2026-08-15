@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ʃeɪk; NAmE ʃeɪk",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -46,12 +46,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "下一分钟粥溢出来了，把火浇灭了。"
-        },
-        {
-          "s": "He gives his harness bells a shake Listen to the poem.",
-          "src": "北师大选必3 U8",
-          "cat": "beishida",
-          "t": "他摇了摇马具上的铃铛 听这首诗。"
         },
         {
           "s": "When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.",
@@ -160,7 +154,14 @@
     },
     {
       "def": "an act of shaking sth/sb 摇动；抖动；颤动",
-      "ex": []
+      "ex": [
+        {
+          "s": "He gives his harness bells a shake Listen to the poem.",
+          "src": "北师大选必3 U8",
+          "cat": "beishida",
+          "t": "他摇了摇马具上的铃铛 听这首诗。"
+        }
+      ]
     },
     {
       "def": "a physical condition in which you cannot stop your body from shaking because of fear, illness, or because you have drunk too much alcohol 颤抖；战栗；哆嗦",
