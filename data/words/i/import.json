@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈɪmpɔːt; NAmE ˈɪmpɔːrt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb",
     "stars": "★"
   },
   "defs": [
@@ -37,13 +37,6 @@
           "src": "译林B3 U2",
           "cat": "yilin",
           "t": "运入城市的货船和载着出口物资出海的商船，以及富人们乘坐的金色游船，都拥挤地停泊在港口如镜的水面上。"
-        },
-        {
-          "s": "One solution is obviously to import foreign workers via immigration.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一个明显的解决方案是通过移民引进外国工人。"
         }
       ]
     },
@@ -57,7 +50,15 @@
     },
     {
       "def": "to bring a product, a service, an idea, etc. into one country from another 进口；输入；引进",
-      "ex": []
+      "ex": [
+        {
+          "s": "One solution is obviously to import foreign workers via immigration.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一个明显的解决方案是通过移民引进外国工人。"
+        }
+      ]
     },
     {
       "def": "to get data from another program, changing its form so that the program you are using can read it 导入；输入；移入",

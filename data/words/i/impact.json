@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈɪmpækt; NAmE ˈɪmpækt",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb",
     "stars": "★"
   },
   "defs": [
@@ -37,13 +37,6 @@
           "t": "科学提供了一个指南，我们可以借此引导自己进行这些比较的方式，以减少其负面情绪影响。"
         },
         {
-          "s": "●___19___ Minimize impact and maximize experience by skipping major holidays or rush hour.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "●___19___ 避开主要节假日或高峰时段，把影响降到最低，把体验提升到最高。"
-        },
-        {
           "s": "Which of the following best describes the impact of the program?",
           "src": "2023新课标II卷·阅读理解B",
           "cat": "gaokao",
@@ -63,20 +56,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "安装太阳能电池板的负面影响。"
-        },
-        {
-          "s": "Human impact on the animal kingdom, such as hunting and destruction of habitats, ___________a reduction in the population of certain species in the past three decades.",
-          "src": "2023天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "人类对动物王国的影响，如狩猎和栖息地破坏，________导致过去三十年某些物种种群数量的减少。"
-        },
-        {
-          "s": "He always had a smile and a positive ____30____.It had an enormous impact on me, giving me the ____31____ to keep going.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他总是面带微笑，态度积极____30____。这对我产生了巨大的影响，给了我____31____继续前进的动力。"
         },
         {
           "s": "First, researchers need to identify all the players in that system; second, they must work out how they relate to each other; and third, they need to understand and quantify the impact of those relationships on each other and on those outside the system.",
@@ -107,7 +86,7 @@
           "t": "尽量减少参观此地（67 visit）带来的影响。"
         },
         {
-          "s": "A．statementB．impactC．impressionD．judgment",
+          "s": "statementB．impactC．impressionD．judgment",
           "src": "2019天津卷",
           "cat": "gaokao",
           "year": 2019,
@@ -143,6 +122,13 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "这对生活在那里的独特动植物产生了负面影响。"
+        },
+        {
+          "s": "“These pollinator-friendly solar farms can have a valuable impact on everything that’s going on in the landscape,” says Macknick.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "\"这些传粉昆虫友好的太阳能农场可以对景观中发生的一切产生有价值的影响，\"麦克尼克说。"
         }
       ]
     },
@@ -166,22 +152,7 @@
     },
     {
       "def": "to have an effect on sth （对某事物）有影响，有作用",
-      "ex": [
-        {
-          "s": "The disastrous climatic impacts on the Arctic region have been ________.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "北极地区灾难性的气候影响已经________。"
-        },
-        {
-          "s": "“These pollinator-friendly solar farms can have a valuable impact on everything that’s going on in the landscape,” says Macknick.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "\"这些传粉昆虫友好的太阳能农场可以对景观中发生的一切产生有价值的影响，\"麦克尼克说。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to hit sth with great force 冲击；撞击",
