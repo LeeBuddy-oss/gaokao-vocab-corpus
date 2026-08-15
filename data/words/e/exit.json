@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈeksɪt; NAmE ˈeksɪt",
-    "pos": "noun",
+    "pos": "noun; noun; noun; verb; verb; verb",
     "stars": "★"
   },
   "defs": [
@@ -21,14 +21,14 @@
           "t": "例子 A：出口是什么？"
         },
         {
-          "s": "B． To lead the students to the nearest exits．",
+          "s": "To lead the students to the nearest exits．",
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
           "t": "B． 把学生们带到最近的出口。"
         },
         {
-          "s": "B． gather at the nearest exit",
+          "s": "gather at the nearest exit",
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
@@ -50,13 +50,6 @@
     {
       "def": "a place where vehicles can leave a road to join another road （车辆可以从一道路驶出进入另一道路的）出口，出路",
       "ex": [
-        {
-          "s": "We need to exit the things that don’t work anymore to be able to enter the ones that make sense for who we are today.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我们需要放弃那些不再有效的事情，才能进入那些对我们今天来说有意义的事物。"
-        },
         {
           "s": "B: An exit is the door where / through which you can leave a building.",
           "src": "人教B2 U1",
@@ -86,6 +79,13 @@
           "src": "译林B3 U2",
           "cat": "yilin",
           "t": "她示意学生们用手护住头，排成有序的队伍走出教室。"
+        },
+        {
+          "s": "We need to exit the things that don’t work anymore to be able to enter the ones that make sense for who we are today.",
+          "src": "2026北京卷·写作问答",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我们需要放弃那些不再有效的事情，才能进入那些对我们今天来说有意义的事物。"
         }
       ]
     },

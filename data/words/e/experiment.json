@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ɪkˈsperɪmənt; NAmE ɪkˈsperɪmənt",
-    "pos": "noun",
+    "pos": "noun; noun; verb; verb",
     "stars": "★"
   },
   "defs": [
@@ -271,13 +271,6 @@
           "t": "在整个实验过程中，大象都没有弄碎那块薄饼。"
         },
         {
-          "s": "Adam and Galinsky’s experiment tested the effect of clothes on their wearers’___________.",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "亚当和加林斯基的实验测试了衣服对穿戴者的________影响。"
-        },
-        {
           "s": "But in science, facts should be proved by experiments and research, and we should not always believe everything we read or hear – even if it is a great story.",
           "src": "外研社B3 U3",
           "cat": "waiyan",
@@ -296,6 +289,41 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "我这从单一物品中寻找快乐的小实验对我们俩都奏效了。"
+        },
+        {
+          "s": "Why did Blue Hill carry out the experiment?",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "Blue Hill为什么要进行这次实验？"
+        },
+        {
+          "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
+        },
+        {
+          "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
+        },
+        {
+          "s": "In doing so, I’ll draw on an experiment I ran in 2018 in which over 1,600 people agreed to perform a digital declutter.",
+          "src": "2023新课标I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在这样做的过程中，我将援引我在2018年进行的一项实验，其中有1600多人同意进行数字清理。"
+        },
+        {
+          "s": "Finally, I conducted an elegant experiment that would not have been possible without the help of the members in the lab.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "最终，我进行了一项精巧的实验，若没有实验室成员们的帮助，这项实验是不可能完成的。"
         }
       ]
     },
@@ -322,13 +350,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "如果你正在尝试一种颜色"
-        },
-        {
-          "s": "This unbeatable price-point encouraged me to experiment with dozens of titles that I would never normally consider buying.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这种无可比拟的价格优势鼓励我去尝试了几十种我平时绝不会考虑购买的书籍。"
         }
       ]
     },
@@ -336,53 +357,11 @@
       "def": "to do a scientific experiment or experiments 做试验；进行实验",
       "ex": [
         {
-          "s": "Finally, I conducted an elegant experiment that would not have been possible without the help of the members in the lab.",
-          "src": "2024北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "最终，我进行了一项精巧的实验，若没有实验室成员们的帮助，这项实验是不可能完成的。"
-        },
-        {
-          "s": "In doing so, I’ll draw on an experiment I ran in 2018 in which over 1,600 people agreed to perform a digital declutter.",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在这样做的过程中，我将援引我在2018年进行的一项实验，其中有1600多人同意进行数字清理。"
-        },
-        {
-          "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
-        },
-        {
-          "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
-        },
-        {
           "s": "To test the effect of social influence on eating habits, the researchers conducted two experiments.",
           "src": "2020全国新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
           "t": "为了测试社会影响对饮食习惯的作用研究人员进行了两项实验。"
-        },
-        {
-          "s": "Why did Blue Hill carry out the experiment?",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Blue Hill为什么要进行这次实验？"
-        },
-        {
-          "s": "The student completed this experiment to make come true ______ Professor Joseph had said. （    ）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "舞者令人难以置信的表演让观众在演出结束时起立鼓掌______10分钟。（    ）"
         },
         {
           "s": "Experiments the students will do.",
@@ -397,6 +376,13 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "政府可以在征得用户同意的情况下命令共享某些类型的数据。"
+        },
+        {
+          "s": "This unbeatable price-point encouraged me to experiment with dozens of titles that I would never normally consider buying.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这种无可比拟的价格优势鼓励我去尝试了几十种我平时绝不会考虑购买的书籍。"
         }
       ]
     },
