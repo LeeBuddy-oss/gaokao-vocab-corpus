@@ -9,6 +9,27 @@
       "def": "approximately 大约",
       "ex": [
         {
+          "s": "Did you know that around 750 million people do not have clean water to drink?",
+          "src": "2020浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你知道吗，全球约有 7.5 亿人喝不到干净的水？"
+        },
+        {
+          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
+          "src": "2017全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
+        },
+        {
+          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
+          "src": "2017重庆卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
+        },
+        {
           "s": "If you enter through the wrong access point, you'll be turned around and redirected — so plan ahead.",
           "src": "2026新高考I卷·阅读理解A",
           "cat": "gaokao",
@@ -79,32 +100,11 @@
           "t": "“身边有植物的学生，学业表现优于在没有植物的教室里的学生，”Knuth说。"
         },
         {
-          "s": "Determined to turn her life around, Ms Donohue began to work out and follow a ___45___ lifestyle, before discovering a ___46___ for weightlifting.",
-          "src": "2025新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "决心扭转人生的Donohue女士开始锻炼并遵循一种___45____的生活方式，后来发现了自己对举重的___46____。"
-        },
-        {
-          "s": "It’s ____11____ (peace), especially around sunset.",
-          "src": "2025北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它____11____（很宁静），尤其是在日落时分。"
-        },
-        {
           "s": "40 What upset Mark when he was biking around his neighbourhood?",
           "src": "2025北京卷·七选五",
           "cat": "gaokao",
           "year": 2025,
           "t": "40 马克在社区骑车时，是什么让他苦恼？"
-        },
-        {
-          "s": "It contains around 163,000 words, plus word combinations and idiomatic phrases. ____39____ However, if I need to check the origin of a word or to look up examples of its usage, there's nothing better.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它收录约16.3万个单词，外加词语搭配和习语短语。____39____ 不过，如果我要查一个词的来源或用法示例，没有比它更好的了。"
         },
         {
           "s": "Having a poor sense of direction, Eva found it impossible to get around in such a huge building.",
@@ -261,20 +261,6 @@
           "t": "带她游览海边。"
         },
         {
-          "s": "In English, a typhoon is a very powerful and ___38___ storm that occurs around the China Sea and in the South Pacific.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "英语中，台风是在中国海和南太平洋附近发生的非常强大且___38___的风暴。"
-        },
-        {
-          "s": "When 17-year-old Quattro Musser hangs out with friends, they don't drink beer or cruise around in cars with their dates. ___41___, they stick to G-rated activities such as rock-climbing or talking about books.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当17岁的夸特罗·穆瑟和朋友出去玩时，他们不喝啤酒，也不和约会对象开车兜风。____41____，他们坚持G级活动，比如攀岩或聊书。"
-        },
-        {
           "s": "I haven’t seen you around?",
           "src": "2018北京卷",
           "cat": "gaokao",
@@ -359,14 +345,7 @@
           "t": "周游世界"
         },
         {
-          "s": "From 2000 to 2019, there were 7,348 major natural disasters around the world,____19____(result) in USD 2,970 billion in economic loss．Much of this increase can be due to climate change.",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "从2000年到2019年，全球共发生7,348次重大自然灾害，____19____（造成）29,700亿美元的经济损失。这种增长很大程度上可能是由于气候变化。"
-        },
-        {
-          "s": "D． eager to explore the world around them",
+          "s": "eager to explore the world around them",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
@@ -413,25 +392,39 @@
       "def": "on every side; surrounding sb/sth 周围；四周",
       "ex": [
         {
+          "s": "In 2015, one in 12 people around the world were over 65; by 2050, it will be one in six.",
+          "src": "2020浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "2015年，全世界每12个人中就有1人超过65岁；到2050年，这个比例将变为六分之一。"
+        },
+        {
+          "s": "“It was absolutely out of   53  , thousands of e-mails, people around the world 54  their stories of travel.”",
+          "src": "2017全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这绝对超出了   53   ，数千封邮件，世界各地的人   54   他们的旅行故事。"
+        },
+        {
+          "s": "Around the world, people are adapting in surprising ways, especially in some poor countries.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "世界各地的人们正在以令人惊讶的方式适应，特别是在一些贫穷国家。"
+        },
+        {
+          "s": "Nowadays, we can move around the world and still stay in touch with the people that we want to remain friends with.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "如今，我们可以在世界各地活动，仍然与我们想要保持友谊的人保持联系。"
+        },
+        {
           "s": "Relearning the art of seeing the world around us is quite simple, although it takes practice and requires breaking some bad habits．",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
           "t": "重新学习观察周围世界的艺术其实很简单，尽管需要练习，还需要改掉一些坏习惯。"
-        },
-        {
-          "s": "I had struggled with math since fourth grade, but worked very hard to ___37___ the smart students around me.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我从四年级起就在数学上挣扎，但我非常努力地___37___周围的聪明学生。"
-        },
-        {
-          "s": "Being new to the school made me even ____1____ , so it was surprising I’d ____2____ to anyone around me.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "初来乍到让我更加____，所以我居然会对周围的人____，这很令人惊讶。"
         },
         {
           "s": "Vinnie glanced around and noted the size of his office.",
@@ -448,18 +441,11 @@
           "t": "观察你周围未知的事物。"
         },
         {
-          "s": "D．her growing desire to know the world around her",
+          "s": "her growing desire to know the world around her",
           "src": "2019天津卷·18．",
           "cat": "gaokao",
           "year": 2019,
           "t": "D．她日益增长的了解周围世界的渴望"
-        },
-        {
-          "s": "There, they would walk through deep water, sit down cross-legged underwater and hold their ____32____ while they watched all action going on around them.",
-          "src": "2024全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在那里，他们会穿过深水，盘腿坐在水下，抱着他们的____ 32 ____ ，同时观看周围发生的所有动作。"
         },
         {
           "s": "When John Todd was a child he loved to explore the woods around his house, observing how nature solved problems.",
@@ -504,13 +490,6 @@
           "t": "手托着这只鸟，我环顾四周看她是怎么进来的。"
         },
         {
-          "s": "A great attitude can bring joy to those around you, or even ____33____ stranger to the top of a mountain.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "积极的态度可以给你周围的人带来快乐，甚至能____33____把陌生人送上山顶。"
-        },
-        {
           "s": "It’s a good sign for the chef if you make a mess around your plate",
           "src": "2022全国甲卷",
           "cat": "gaokao",
@@ -553,13 +532,6 @@
           "t": "重读使我们能够以一种新的眼光看待我们周围的世界，包括我们自己。"
         },
         {
-          "s": "On April 22 every year, people around the world mark Earth Day by _________ the environment.",
-          "src": "2023天津6月卷·一、单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每年4月22日，世界各地的人们通过_________环境来纪念世界地球日。"
-        },
-        {
           "s": "34 On this day every year, countries around the world hold events to educate people about the problems of dirty water and that clean water is something that everyone should have around the world.",
           "src": "2020浙江1月卷·七选五",
           "cat": "gaokao",
@@ -588,13 +560,6 @@
           "t": "但当我们重新塑造周围的世界,大幅降低获取卡路里所需的成本和努力时,我们仍然有我们几千年前拥有的同样的大脑,这种不匹配现象正是我们许多人努力抵制诱人的食物的核心,而我们知道我们不应该吃这些食物。"
         },
         {
-          "s": "Further, the Silk Route Garden around the greenhouse ____60____ (walk) visitors through a journey influenced by the ancient Silk Road, by which silk as well as many plant species came to Britain for ____61____ first time.",
-          "src": "2024新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "此外，温室周围的丝绸之路花园____ 60 ____ （步行）游客经历了受古代丝绸之路影响的旅程，丝绸和许多植物物种首次来到英国____ 61 ____。"
-        },
-        {
           "s": "Putting electric fencing around chicken houses and other farm animal quarters is also highly effective at getting grizzlies away.",
           "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
@@ -616,7 +581,7 @@
           "t": "让周围的人安静下来"
         },
         {
-          "s": "C．A man should try to satisfy people around him．",
+          "s": "A man should try to satisfy people around him．",
           "src": "2019天津卷·20．",
           "cat": "gaokao",
           "year": 2019,
@@ -630,7 +595,7 @@
           "t": "他喜欢在社区周围骑自行车，但看到许多塑料瓶散落在公园和人行道上，感到很沮丧。"
         },
         {
-          "s": "C． People tend to be blind to the beauty around them．",
+          "s": "People tend to be blind to the beauty around them．",
           "src": "2018天津卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
@@ -689,13 +654,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "围绕工作环境中的人建立你的社交生活。"
-        },
-        {
-          "s": "It took us about 3 hours to go all ___48___ way around the Xi'an City Wall.",
-          "src": "2021全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们花了约3小时走完西安城墙____48____全程。"
         }
       ]
     },
@@ -772,13 +730,6 @@
     {
       "def": "present in a place; available 出现；现有；可用",
       "ex": [
-        {
-          "s": "Things started to __24__ around the time of my l0th-grade physics project.",
-          "src": "2020天津3月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "事情开始在我10年级物理项目前后 __24__ 出现转机。"
-        },
         {
           "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
           "src": "2022全国新高考I卷·阅读理解D",
@@ -881,13 +832,6 @@
           "t": "虽然史密斯确实得到了她的手 最好的沙子, 做一些事情 旧式的方式 不只是玩弄法国泥。"
         },
         {
-          "s": "Nina recently finished her year-long series of runs in Chicago, ____18____ thousands were attending a water conference.She called for action ____19____(address)the struggles of people around the world ____20____(face) “too little water or too dirty water”.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "妮娜最近在芝加哥完成了她长达一年的系列跑步，（第18空）数千人正参加一场水会议。她呼吁采取行动（第19空，address）世界各地人们（第20空，face）\"水太少或水太脏\"的困境。"
-        },
-        {
           "s": "But they must realize that the employment market is about how an employee will be a good fit for a company, not the other way around.",
           "src": "2018上海卷·Becoming an Attractive Employee",
           "cat": "gaokao",
@@ -912,25 +856,11 @@
       "def": "on, to or from the other side of sb/sth 在那边；到那边；从那边",
       "ex": [
         {
-          "s": "The number of medical schools reached 18 in the early 1990s and ______ around that level since. （    ）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "医学院的数量在20世纪90年代初达到18所，此后一直（______）在那个水平左右。（    ）"
-        },
-        {
           "s": "That's why most pet cats are able to tell immediately if their owners were around any other cats, which they don't usually like.",
           "src": "2024全国甲卷·阅读理解B",
           "cat": "gaokao",
           "year": 2024,
           "t": "这就是为什么大多数宠物猫能立刻察觉主人是否接触过其他猫——而它们通常不喜欢这样。"
-        },
-        {
-          "s": "Then, with one end of a rope tied to his waist and the other end around the trunk of a tree, Ziyad began ____47____ .",
-          "src": "2023浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然后，齐亚德把绳子的一端系在腰上，另一端绕在树干上，开始____47____。"
         },
         {
           "s": "Long curtains had been pulled around my bed,  16  me from the other patients.",
@@ -952,13 +882,6 @@
       "def": "in a circle 绕着",
       "ex": [
         {
-          "s": "She would dance us left and right around the kitchen, our eyes _____59_____ (watch) the microwave like it was a space rocket countdown, _____60_____ (excite) and tension building to that final moment: BEEP!",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她会绕着厨房左右舞动我们，我们的眼睛____59____（注视）着微波炉，像盯着火箭倒计时，____60____（兴奋）与紧张不断累积到那一刻：哔！"
-        },
-        {
           "s": "In her first PE class , Eva was shocked when Coach Pitt announced that everyone had to run one mile around the track outside.",
           "src": "2024浙江1月卷·书面表达",
           "cat": "gaokao",
@@ -975,67 +898,11 @@
       "def": "to fit in with particular people, ideas, etc. 同 … 一致；适合；符合",
       "ex": [
         {
-          "s": "In 2015, one in 12 people around the world were over 65; by 2050, it will be one in six.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "2015年，全世界每12个人中就有1人超过65岁；到2050年，这个比例将变为六分之一。"
-        },
-        {
-          "s": "“It was absolutely out of   53  , thousands of e-mails, people around the world 54  their stories of travel.”",
-          "src": "2017全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这绝对超出了   53   ，数千封邮件，世界各地的人   54   他们的旅行故事。"
-        },
-        {
-          "s": "Around the world, people are adapting in surprising ways, especially in some poor countries.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "世界各地的人们正在以令人惊讶的方式适应，特别是在一些贫穷国家。"
-        },
-        {
           "s": "Morgan says，”To give people a guilt-free option that they can wear without someone throwing paint on them-1 think that’s going to be a massive thing, at least here in New York.” Designer Jennifer Anderson admits it took her a while to come around to the opinion that using nutria fur for her creations is morally acceptable.",
           "src": "2020全国II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
           "t": "摩根说：“给人们一种毫无愧疚感的选择，让他们穿上也不会被人泼油漆——我认为这会是一件大事，至少在纽约这里。”设计师詹妮弗·安德森承认，她花了一段时间才接受在其创作中使用海狸鼠毛皮在道德上可以接受的观点。"
-        },
-        {
-          "s": "Did you know that around 750 million people do not have clean water to drink?",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你知道吗，全球约有 7.5 亿人喝不到干净的水？"
-        },
-        {
-          "s": "In recent years some Inuit people in Nunayut   65   (report) increases in bear sightings around human settlements, leading to a   66   (believe) that populations are increasing.",
-          "src": "2019全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "近年来，努纳武特的一些因纽特人___65___（report）在人类聚居地附近看到熊的次数增加，导致一种种群在增长的___66___（believe）。"
-        },
-        {
-          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
-        },
-        {
-          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
-        },
-        {
-          "s": "Nowadays, we can move around the world and still stay in touch with the people that we want to remain friends with.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "如今，我们可以在世界各地活动，仍然与我们想要保持友谊的人保持联系。"
         }
       ]
     }
