@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pæn; NAmE pæn",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -34,13 +34,6 @@
     {
       "def": "the amount contained in a pan 一锅的量",
       "ex": [
-        {
-          "s": "We need to consider how we want our future with AI to pan out.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们需要思考希望我们与人工智能的未来如何展开。"
-        },
         {
           "s": "The pan was too hot and the bread turned black within seconds.",
           "src": "2021卷",
@@ -114,7 +107,15 @@
     },
     {
       "def": "to severely criticize sth such as a play or a film/movie 严厉批评，抨击（戏剧、电影等）",
-      "ex": []
+      "ex": [
+        {
+          "s": "We need to consider how we want our future with AI to pan out.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我们需要思考希望我们与人工智能的未来如何展开。"
+        }
+      ]
     },
     {
       "def": "if a television or video camera pans somewhere, or a person pans or pans a camera, the camera moves in a particular direction, to follow an object or to film a wide area （移动摄像机）追拍，摇摄",

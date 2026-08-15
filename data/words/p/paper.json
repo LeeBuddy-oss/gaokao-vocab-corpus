@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈpeɪpə(r); NAmE ˈpeɪpər",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -80,13 +80,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "阅读几百词或更长的文本时，在纸上学习通常比在屏幕上更成功。"
-        },
-        {
-          "s": "A company ____44____ (represent) wrote back and told me the airline was switching over _____45_____ plastic to paper cups on all of its 1,200 daily flights.",
-          "src": "2021新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一家（第44空，represent）公司回信告诉我，该航空公司在它每天1200个航班上正从塑料杯（第45空）纸杯。"
         }
       ]
     },
@@ -117,6 +110,20 @@
           "cat": "waiyan",
           "year": "",
           "t": "我们也可以说：当我看到试卷时我非常紧张。"
+        },
+        {
+          "s": "After you hear a conversation and the question about it, read the four possible answers on your paper, and decide which one is the best answer to the question you have heard.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "听完对话及问题后，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
+        },
+        {
+          "s": "When you hear a question, read the four possible answers on your paper and decide which one is the best answer to the question you have heard.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "听到问题时，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
         }
       ]
     },
@@ -218,13 +225,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "一篇研究论文。"
-        },
-        {
-          "s": "Always keep a pencil and paper beside you. ____20____Note also the facts important for your purpose as well as anything which leads you to further research.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "始终在身边放一支铅笔和一张纸。____20____同时记下对你的目的重要的事实，以及任何引导你进一步研究的内容。"
         }
       ]
     },
@@ -279,13 +279,6 @@
           "t": "拿着纸书时，你能实实在在地用手翻阅，还能看到一页页分明的视觉布局。"
         },
         {
-          "s": "In a journal or on a piece of paper, put the heading “Personal strengths.” ____17____ Are you caring?",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在日记本或一张纸上，写上标题\"个人优势\"。____17____ 你有同理心吗？"
-        },
-        {
           "s": "■Write by hand or type on a single sheet of paper.",
           "src": "2020全国新高考I卷·阅读理解A",
           "cat": "gaokao",
@@ -331,13 +324,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "这是处理旧衣服、从朋友那里获得衣服、同时举办聚会的最佳方式。"
-        },
-        {
-          "s": "On paper, his application looked ____28____ , but the interview went badly.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从纸面上看，他的申请看起来____28____，但面试进行得很糟糕。"
         }
       ]
     },
@@ -347,22 +333,7 @@
     },
     {
       "def": "to try to hide a problem or disagreement in a way that is temporary and not likely to be successful 暂时掩盖，权且掩饰（问题或分歧）",
-      "ex": [
-        {
-          "s": "After you hear a conversation and the question about it, read the four possible answers on your paper, and decide which one is the best answer to the question you have heard.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "听完对话及问题后，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
-        },
-        {
-          "s": "When you hear a question, read the four possible answers on your paper and decide which one is the best answer to the question you have heard.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "听到问题时，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
-        }
-      ]
+      "ex": []
     }
   ]
 }
