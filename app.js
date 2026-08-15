@@ -786,6 +786,20 @@ function _deriveUsagePos(catMap, metaPos) {
   return metaPos || '多词性';
 }
 
+// 把归一化词性转为风向标展示用词
+function _posDisplayName(pos) {
+  const map = {
+    verb: '动词（含短语动词）',
+    noun: '名词',
+    adj: '形容词',
+    adv: '副词',
+    prep: '介词',
+    pron: '代词',
+    other: '多词性'
+  };
+  return map[pos] || '多词性';
+}
+
 // ====== POS 归一化 ======
 function _normalizePos(pos) {
   const p = (pos || '').toLowerCase();
@@ -1032,8 +1046,8 @@ function renderMindMap(word, entry) {
 
   // ---- 右侧：用法分析 ----
   _normalizeVerb(structMap, sigCat, word);
-  const usagePos = _deriveUsagePos(catMap, meta.pos);
   const primaryPos = _derivePrimaryPos(catMap, meta.pos, word, structMap, sigCat);
+  const usagePos = _posDisplayName(primaryPos);
   const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos);
 
   // 按词性提取真实搭配

@@ -112,6 +112,34 @@
           "cat": "waiyan",
           "year": "",
           "t": "虽然他的飞机残骸于2000年被发现，但圣埃克苏佩里的遗体一直没有找到，他的死因至今仍是个谜。"
+        },
+        {
+          "s": "The story was probably inspired by his plane crash in the desert in 1935.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这个故事很可能受到他1935年在沙漠中坠机的启发。"
+        },
+        {
+          "s": "Andrew From Matt To Andrew Subject Re: Travel arrangements Hey Andrew, I’ve bought the plane tickets and arranged transfer from the airport to the hotel.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "安德鲁从马特到安德鲁主题回复：旅行安排嘿，安德鲁，我已经买了机票，并安排了从机场到酒店的接送服务。"
+        },
+        {
+          "s": "By the way, did you buy the plane tickets?",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "顺便问一下，你买机票了吗？"
+        },
+        {
+          "s": "A plane ticket.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "一张机票。"
         }
       ]
     },
@@ -129,36 +157,7 @@
     },
     {
       "def": "to make a piece of wood smoother or flatter with a plane n. (4) 用刨子刨平",
-      "ex": [
-        {
-          "s": "A plane ticket.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一张机票。"
-        },
-        {
-          "s": "By the way, did you buy the plane tickets?",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "顺便问一下，你买机票了吗？"
-        },
-        {
-          "s": "Andrew From Matt To Andrew Subject Re: Travel arrangements Hey Andrew, I’ve bought the plane tickets and arranged transfer from the airport to the hotel.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "安德鲁从马特到安德鲁主题回复：旅行安排嘿，安德鲁，我已经买了机票，并安排了从机场到酒店的接送服务。"
-        },
-        {
-          "s": "The story was probably inspired by his plane crash in the desert in 1935.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这个故事很可能受到他1935年在沙漠中坠机的启发。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to fly without moving the wings, especially high up in the air 鸟",

@@ -112,6 +112,62 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "日程繁忙时，挤出时间打电话可能是个挑战。___16___。"
+        },
+        {
+          "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
+        },
+        {
+          "s": "Two hours later， back at my house，I heard a knock on the door． My husband（4）     it while I was on the phone in the dining room． \"Does Jennifer live here？\" I heard a lady say． In my husband's hand was my wallet， with not a penny（5）     ． She left before I could （6）      make it to the door to offer my thanks．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "两小时后，回到家中，我听到敲门声。我丈夫（4）_____应了门，当时我在餐厅打电话。“詹妮弗住这儿吗？”我听到一位女士说。我丈夫手里是我的钱包，一分钱（5）_____都没少。我还没来得及（6）_____走到门口道谢，她就走了。"
+        },
+        {
+          "s": "Why does the man make the phone call?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位男士为什么打电话？"
+        },
+        {
+          "s": "Why does Sara make the phone call?",
+          "src": "2023卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "萨拉为什么打电话？"
+        },
+        {
+          "s": "She tried to call for help but found no signal on her phone.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "她试图打电话求救，却发现手机没有信号。"
+        },
+        {
+          "s": "Later, on the phone she apologised and explained that she was busy with work because someone was 2____, I wish she had come!",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "后来，她在电话中道歉，并解释说她忙于工作，因为有人2 ____ ，我希望她来！"
+        },
+        {
+          "s": "He’s making a phone call.",
+          "src": "2023全国乙卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他正在打电话。"
+        },
+        {
+          "s": "The last time I used a phone box for its intended purpose was … 2006.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我上一次为打电话而使用电话亭，是……2006年。"
         }
       ]
     },
@@ -331,78 +387,7 @@
     },
     {
       "def": "to be using the telephone 在打电话中",
-      "ex": [
-        {
-          "s": "The last time I used a phone box for its intended purpose was … 2006.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我上一次为打电话而使用电话亭，是……2006年。"
-        },
-        {
-          "s": "He’s making a phone call.",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他正在打电话。"
-        },
-        {
-          "s": "He’s making a phone call.",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他正在打电话。"
-        },
-        {
-          "s": "Later, on the phone she apologised and explained that she was busy with work because someone was 2____, I wish she had come!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "后来，她在电话中道歉，并解释说她忙于工作，因为有人2 ____ ，我希望她来！"
-        },
-        {
-          "s": "She tried to call for help but found no signal on her phone.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她试图打电话求救，却发现手机没有信号。"
-        },
-        {
-          "s": "Why does Sara make the phone call?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "萨拉为什么打电话？"
-        },
-        {
-          "s": "Why does the man make the phone call?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士为什么打电话？"
-        },
-        {
-          "s": "Why does the man make the phone call?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士为什么打电话？"
-        },
-        {
-          "s": "Two hours later， back at my house，I heard a knock on the door． My husband（4）     it while I was on the phone in the dining room． \"Does Jennifer live here？\" I heard a lady say． In my husband's hand was my wallet， with not a penny（5）     ． She left before I could （6）      make it to the door to offer my thanks．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "两小时后，回到家中，我听到敲门声。我丈夫（4）_____应了门，当时我在餐厅打电话。“詹妮弗住这儿吗？”我听到一位女士说。我丈夫手里是我的钱包，一分钱（5）_____都没少。我还没来得及（6）_____走到门口道谢，她就走了。"
-        },
-        {
-          "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to have a telephone in your home or place of work （在家中或工作单位）有电话，安了电话",

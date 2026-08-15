@@ -7,7 +7,40 @@
   "defs": [
     {
       "def": "a piece of equipment producing a spray of water that you stand under to wash yourself; the small room or part of a room that contains a shower 淋浴器；淋浴间",
-      "ex": []
+      "ex": [
+        {
+          "s": "She went right into the shower to washing it, but it was no use.",
+          "src": "2023全国乙卷·短文改错",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她马上去淋浴冲洗，但没有用。"
+        },
+        {
+          "s": "It’s not always better to take a shower than a bath.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "洗澡并不总是比淋浴好。"
+        },
+        {
+          "s": "If you spend more than eight minutes in a shower, you’ll use as much water as in a bath - about 50 litres of water.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "如果你在淋浴里待超过八分钟，用水量就和洗一次澡差不多——大约50升水。"
+        },
+        {
+          "s": "It’s better to take a shower than a bath.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "洗澡不如淋浴好。"
+        },
+        {
+          "s": "37    We sleep in a tent, cooked over an open fire, and walked a long distance to take the shower and use the bathroom.",
+          "src": "2017全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "37    我们睡帐篷，在篝火上做饭，走很远的路去洗澡和上厕所。"
+        }
+      ]
     },
     {
       "def": "the act of washing yourself with a shower 淋浴",
@@ -48,40 +81,7 @@
     },
     {
       "def": "to wash yourself under a shower （洗）淋浴",
-      "ex": [
-        {
-          "s": "37    We sleep in a tent, cooked over an open fire, and walked a long distance to take the shower and use the bathroom.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "37    我们睡帐篷，在篝火上做饭，走很远的路去洗澡和上厕所。"
-        },
-        {
-          "s": "It’s better to take a shower than a bath.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "洗澡不如淋浴好。"
-        },
-        {
-          "s": "If you spend more than eight minutes in a shower, you’ll use as much water as in a bath - about 50 litres of water.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "如果你在淋浴里待超过八分钟，用水量就和洗一次澡差不多——大约50升水。"
-        },
-        {
-          "s": "It’s not always better to take a shower than a bath.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "洗澡并不总是比淋浴好。"
-        },
-        {
-          "s": "She went right into the shower to washing it, but it was no use.",
-          "src": "2023全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她马上去淋浴冲洗，但没有用。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to fall onto sb/sth, especially in a lot of small pieces 洒落；纷纷降落",

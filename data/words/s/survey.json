@@ -89,6 +89,33 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "他们调查了数百名公园游客，要求他们在线提交一份书面摘要，描述他们在公园里与大自然的某种有意义互动。"
+        },
+        {
+          "s": "EXAMPLE This week, our group of five students did a survey of our classmates to find out what sports interests and needs our students have.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "ExAMPLE 本周,我们这五个学生组对我们的同学进行了调查,以了解我们的学生对体育的兴趣和需求."
+        },
+        {
+          "s": "A survey carried out last year showed that 80% of the middle-aged in this city ______ in favour of the proposal on health care reform.",
+          "src": "2020天津3月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "去年进行的一项调查显示，该市80%的中年人___支持医疗改革的提案。"
+        },
+        {
+          "s": "A survey of scientists found that extreme weather events, food insecurity, and freshwater shortages might create global collapse.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "一项针对科学家的调查发现，极端天气事件、粮食不安全和淡水短缺可能引发全球崩溃。"
+        },
+        {
+          "s": "Doing a survey of customers.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "对顾客做调查。"
         }
       ]
     },
@@ -135,35 +162,7 @@
     },
     {
       "def": "to investigate the opinions or behaviour of a group of people by asking them a series of questions （对 … ）做民意调查，进行民意测验",
-      "ex": [
-        {
-          "s": "Doing a survey of customers.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "对顾客做调查。"
-        },
-        {
-          "s": "A survey of scientists found that extreme weather events, food insecurity, and freshwater shortages might create global collapse.",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一项针对科学家的调查发现，极端天气事件、粮食不安全和淡水短缺可能引发全球崩溃。"
-        },
-        {
-          "s": "A survey carried out last year showed that 80% of the middle-aged in this city ______ in favour of the proposal on health care reform.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "去年进行的一项调查显示，该市80%的中年人___支持医疗改革的提案。"
-        },
-        {
-          "s": "EXAMPLE This week, our group of five students did a survey of our classmates to find out what sports interests and needs our students have.",
-          "src": "人教B1 U3",
-          "cat": "renjiao",
-          "t": "ExAMPLE 本周,我们这五个学生组对我们的同学进行了调查,以了解我们的学生对体育的兴趣和需求."
-        }
-      ]
+      "ex": []
     }
   ]
 }
