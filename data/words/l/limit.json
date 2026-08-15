@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈlɪmɪt; NAmE ˈlɪmɪt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -37,14 +37,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "他们的词汇量非常有限。",
-          "_matched": true
-        },
-        {
-          "s": "The new study suggests boiling tap water could be a tool to limit intake.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这项新研究表明，煮沸自来水可能是一个限制摄入的工具。",
           "_matched": true
         },
         {
@@ -134,13 +126,6 @@
           "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
         },
         {
-          "s": "Why do many parents limit electronic reading?",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为什么许多家长限制电子阅读？"
-        },
-        {
           "s": "valuableD. limited",
           "src": "2018浙江6月卷·完形填空",
           "cat": "gaokao",
@@ -149,27 +134,11 @@
           "_matched": true
         },
         {
-          "s": "Parents need to limit screen time for themselves and especially for their kids- ___30___ it means playing the bad guy.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "父母需要限制自己,特别是孩子的屏幕时间 -____30____ 这意味着扮演坏人.",
-          "_matched": true
-        },
-        {
           "s": "Limit your time.",
           "src": "2017浙江6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2017,
           "t": "控制时间。"
-        },
-        {
-          "s": "But no one does enough to limit exemptions.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但没有人做得足够多来限制豁免。",
-          "_matched": true
         },
         {
           "s": "Parents ought to be able to opt out only for limited medical or religious reasons.",
@@ -196,12 +165,6 @@
           "src": "外研社B5 U3",
           "cat": "waiyan",
           "t": "1999年首次在日本推出时，表情符号仅限于176种简单的设计。"
-        },
-        {
-          "s": "Country Is Coping With Oil Shortage The President has announced emergency measures to limit fuel consumption.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "国家正在应对石油短缺总统宣布了限制燃料消耗的紧急措施。"
         }
       ]
     },
@@ -274,6 +237,35 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "许多物种的思维仅限于“食物，吃掉！”“危险，快跑！”“疼痛，避开！”，而我们已进化得超越这些。"
+        },
+        {
+          "s": "The new study suggests boiling tap water could be a tool to limit intake.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这项新研究表明，煮沸自来水可能是一个限制摄入的工具。",
+          "_matched": true
+        },
+        {
+          "s": "Why do many parents limit electronic reading?",
+          "src": "2018全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "为什么许多家长限制电子阅读？"
+        },
+        {
+          "s": "But no one does enough to limit exemptions.",
+          "src": "2017北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "但没有人做得足够多来限制豁免。",
+          "_matched": true
+        },
+        {
+          "s": "Country Is Coping With Oil Shortage The President has announced emergency measures to limit fuel consumption.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "国家正在应对石油短缺总统宣布了限制燃料消耗的紧急措施。"
         }
       ]
     },

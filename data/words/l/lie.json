@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "laɪ; NAmE laɪ",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;verb;noun",
     "stars": ""
   },
   "defs": [
@@ -83,22 +83,6 @@
           "_matched": true
         },
         {
-          "s": "I have a very strong   51   that the lie we’re telling is doing   52   damage to our children.",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我有一种非常强烈的___51___，我们所说的这个谎言正在对孩子们造成___52___伤害。",
-          "_matched": true
-        },
-        {
-          "s": "But the   58   is that I shouldn’t lie to my kids.",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但____58____事实是，我不应该对孩子们撒谎。",
-          "_matched": true
-        },
-        {
           "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
           "src": "2020浙江1月卷·阅读理解B",
           "cat": "gaokao",
@@ -113,12 +97,6 @@
           "year": 2018,
           "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。",
           "_matched": true
-        },
-        {
-          "s": "We all know that honesty is an important value and that lying is wrong, but who can honestly say that they’ve never told a lie?",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "我们都知道诚实是一种重要的价值观，撒谎是错误的，但谁又能诚实地说自己从来没有说过谎呢？"
         },
         {
           "s": "We're taught to read because it's necessary for much of human understanding． Reading is a vital part of my life． Reading satisfies my desire to keep learning． And I've found that the possibilities that lie within books are limitless．",
@@ -166,7 +144,16 @@
     },
     {
       "def": "to exist or be found 思想、特征、问题等",
-      "ex": []
+      "ex": [
+        {
+          "s": "So far there is no effective way to get rid of it, but a new study suggests an answer may lie in the stomachs of some hungry worms.",
+          "src": "2018北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "到目前为止，还没有有效的方法来摆脱它，但一项新研究表明答案可能在于某些饥饿蠕虫的胃里。",
+          "_matched": true
+        }
+      ]
     },
     {
       "def": "to be in a particular position during a competition （比赛时）名列，排名",
@@ -253,18 +240,42 @@
           "t": "实际上，轻松早起的关键在于调整你的生物钟   36     以下是如何做到这一点的方法。"
         },
         {
-          "s": "So far there is no effective way to get rid of it, but a new study suggests an answer may lie in the stomachs of some hungry worms.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "到目前为止，还没有有效的方法来摆脱它，但一项新研究表明答案可能在于某些饥饿蠕虫的胃里。",
-          "_matched": true
-        },
-        {
           "s": "What the phenomenon is: What reasons lie behind it: How you feel about it: Now write a letter to the editor to express your ideas.",
           "src": "外研社B2 U2",
           "cat": "waiyan",
           "t": "这一现象是什么：背后的原因是什么：你的感受如何：现在给编辑写一封信表达你的想法。"
+        }
+      ]
+    },
+    {
+      "def": "to say sth that you know is not true 说谎",
+      "ex": [
+        {
+          "s": "We all know that honesty is an important value and that lying is wrong, but who can honestly say that they’ve never told a lie?",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "我们都知道诚实是一种重要的价值观，撒谎是错误的，但谁又能诚实地说自己从来没有说过谎呢？"
+        },
+        {
+          "s": "But the   58   is that I shouldn’t lie to my kids.",
+          "src": "2020全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "但____58____事实是，我不应该对孩子们撒谎。",
+          "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "a statement that you know is not true 谎言",
+      "ex": [
+        {
+          "s": "I have a very strong   51   that the lie we’re telling is doing   52   damage to our children.",
+          "src": "2020全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我有一种非常强烈的___51___，我们所说的这个谎言正在对孩子们造成___52___伤害。",
+          "_matched": true
         }
       ]
     }

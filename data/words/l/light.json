@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "laɪt; NAmE laɪt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -14,14 +14,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "重读使我们能够以一种新的眼光看待我们周围的世界，包括我们自己。",
-          "_matched": true
-        },
-        {
-          "s": "I ____25____ back, my burden lighter somehow.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我____25____微笑着回应，我的负担似乎轻了一些。",
           "_matched": true
         },
         {
@@ -114,13 +106,6 @@
           "_matched": true
         },
         {
-          "s": "Sunlight is used to ____ some of the lighting and hot water in the Olympic Village in Beijing.",
-          "src": "2022天津4月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "阳光被用来____北京奥运村的部分照明和热水供应。"
-        },
-        {
           "s": "Try your hand at some of the painting tricks used by artists whose works will be in the upcoming exhibition of American Watercolors 1880-1990: Into the Light.",
           "src": "2024全国甲卷·阅读理解A",
           "cat": "gaokao",
@@ -208,14 +193,6 @@
       "def": "a thing that produces light, especially an electric light 发光体；光源；（尤指）电灯",
       "ex": [
         {
-          "s": "On the edge of the jacket, there is a piece of cloth ___58___gives off light in the dark.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "夹克衫的边缘有一块在黑暗中会发光的布___58___。",
-          "_matched": true
-        },
-        {
           "s": "“I've seen those magic moments when children are talking to someone they are inspired by - their eyes are shining and their faces light up,” she said.",
           "src": "2021新高考II卷·阅读理解C",
           "cat": "gaokao",
@@ -229,18 +206,20 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "爱迪生完善了白炽灯泡，把电灯带进了美国家庭。"
+        },
+        {
+          "s": "make certain the red light is working",
+          "src": "2018天津卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "D．确保红灯正常工作",
+          "_matched": true
         }
       ]
     },
     {
       "def": "a match or device with which you can light a cigarette 火柴；打火机；点火器",
       "ex": [
-        {
-          "s": "When you struck the match to light your cigar I saw it was the face of the man wanted in Chicago.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "当你划火柴点燃雪茄时，我看到了那张脸，正是芝加哥通缉犯的脸。"
-        },
         {
           "s": "decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes.",
           "src": "2017全国II卷·阅读理解C",
@@ -285,15 +264,7 @@
     },
     {
       "def": "to finally understand or accept sth, especially sth obvious 终于领悟，最终明白，最后接受（尤指显而易见的事）",
-      "ex": [
-        {
-          "s": "They _____48_____ at first, unwilling to take a risk, but I finally _____49_____ to get the green light,” she says.",
-          "src": "2026浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "他们起初_____48_____，不愿冒险，但我最终_____49_____拿到了绿灯，”她说。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to begin to believe in a religion 开始信教；皈依宗教",
@@ -447,7 +418,14 @@
     },
     {
       "def": "to make sth start to burn 点燃；点火",
-      "ex": []
+      "ex": [
+        {
+          "s": "When you struck the match to light your cigar I saw it was the face of the man wanted in Chicago.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "当你划火柴点燃雪茄时，我看到了那张脸，正是芝加哥通缉犯的脸。"
+        }
+      ]
     },
     {
       "def": "to start to burn 开始燃烧；燃起来",
@@ -523,14 +501,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "研究人员使用脑成像技术来观察当我们观看我们认为美丽的画作时，哪些大脑区域会被激活。"
-        },
-        {
-          "s": "D． make certain the red light is working",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "D．确保红灯正常工作",
-          "_matched": true
         }
       ]
     },
