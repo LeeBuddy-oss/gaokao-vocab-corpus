@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "paɪp; NAmE paɪp",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -9,14 +9,14 @@
       "def": "a tube through which liquids and gases can flow 管子；管道",
       "ex": [
         {
-          "s": "A． Pipes and smoke detectors．",
+          "s": "Pipes and smoke detectors．",
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
           "t": "A．管道和烟雾探测器。"
         },
         {
-          "s": "C． Fire alarm pull stations and pipes．",
+          "s": "Fire alarm pull stations and pipes．",
           "src": "2018天津卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
@@ -28,6 +28,13 @@
           "cat": "renjiao",
           "year": "",
           "t": "敲击管道或吹口哨求助。"
+        },
+        {
+          "s": "For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "例如，如果水管开始漏水，或者电线短路，你的智能家居会检测到并向你提供相关信息。"
         }
       ]
     },
@@ -52,13 +59,6 @@
           "cat": "renjiao",
           "year": "",
           "t": "铁轨已经没用了，水管里也没有水。"
-        },
-        {
-          "s": "For example, if a water pipe starts leaking, or if there is a short in the electrical wiring, your smart home will detect it and provide you with the relevant information.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "year": "",
-          "t": "例如，如果水管开始漏水，或者电线短路，你的智能家居会检测到并向你提供相关信息。"
         },
         {
           "s": "When Blass dug around the roots to find out what the secret was, he discovered that the house’s water pipe had a small leak at the base of the tree.",

@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pleɪt; NAmE pleɪt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -30,18 +30,18 @@
           "t": "杰夫把两个鸡蛋打进盘子里，加了一点牛奶。"
         },
         {
-          "s": "When you finish your meal, you 3_____place the knife and fork together on your plate with the handles at the four o'clock position.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "吃完饭后，要把刀叉一起放在盘子上，手柄指向四点钟方向。"
-        },
-        {
           "s": "Our waiter advised us to lift the plates and bowls close to our faces.",
           "src": "外研社B4 U2",
           "cat": "waiyan",
           "year": "",
           "t": "我们的服务员建议我们把盘子和碗举到靠近脸的地方。"
+        },
+        {
+          "s": "Dear Friends, We are writing this letter to call on everyone to take part in the Clear Your Plate campaign.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "亲爱的朋友们，我们写这封信是为了呼吁所有人参加Clear Your Plate活动。"
         }
       ]
     },
@@ -122,15 +122,7 @@
     },
     {
       "def": "to cover sth with sheets of metal or another hard substance 为 … 加设护板；（用金属板等）覆盖",
-      "ex": [
-        {
-          "s": "Dear Friends, We are writing this letter to call on everyone to take part in the Clear Your Plate campaign.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "亲爱的朋友们，我们写这封信是为了呼吁所有人参加Clear Your Plate活动。"
-        }
-      ]
+      "ex": []
     }
   ]
 }
