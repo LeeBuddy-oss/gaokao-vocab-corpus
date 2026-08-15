@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "liːp; NAmE liːp",
-    "pos": "verb",
+    "pos": "verb;verb;verb;noun;noun",
     "stars": "★★"
   },
   "defs": [
@@ -15,12 +15,6 @@
           "year": 2020,
           "t": "而大众追求安稳和平庸。",
           "_matched": true
-        },
-        {
-          "s": "LOOKING FOR A WAY TO TAKE ONE GIANT LEAP INTO A FUTURE CAREER IN SPACE EXPLORATION?",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "寻找一种方式，在太空探索的未来事业中迈出一大步？"
         },
         {
           "s": "And sometimes, these monsters leap off the pages of legends and into the news.",
@@ -44,12 +38,6 @@
           "src": "外研社B6 U4",
           "cat": "waiyan",
           "t": "虽然超级智能AI可能是人类历史上最大的飞跃，但如果出错或落入坏人之手，它也可能成为最危险的。"
-        },
-        {
-          "s": "With Armstrong’s now famous words “That’s one small step for man, one giant leap for mankind”, what had once been considered impossible had now been achieved.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "伴随着阿姆斯特朗现在著名的话这对一个人来说是一小步，对人类来说却是一大步，曾经被认为不可能的事现在已经被实现了。"
         }
       ]
     },
@@ -59,7 +47,20 @@
     },
     {
       "def": "a long or high jump 跳越；跳跃；跳高",
-      "ex": []
+      "ex": [
+        {
+          "s": "LOOKING FOR A WAY TO TAKE ONE GIANT LEAP INTO A FUTURE CAREER IN SPACE EXPLORATION?",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "寻找一种方式，在太空探索的未来事业中迈出一大步？"
+        },
+        {
+          "s": "With Armstrong’s now famous words “That’s one small step for man, one giant leap for mankind”, what had once been considered impossible had now been achieved.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "伴随着阿姆斯特朗现在著名的话这对一个人来说是一小步，对人类来说却是一大步，曾经被认为不可能的事现在已经被实现了。"
+        }
+      ]
     },
     {
       "def": "a sudden large change or increase in sth 骤变；剧增；激增",
