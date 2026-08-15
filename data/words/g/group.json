@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ɡruːp; NAmE ɡruːp",
-    "pos": "noun",
+    "pos": "noun; noun; noun; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -35,13 +35,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "尽管纳瓦哈斯主导的研究存在局限性且仍有许多问题未解决，但其对小组讨论和决策的潜在影响是巨大的。"
-        },
-        {
-          "s": "Some restaurants are happy to provide a free cake if you let them know in advance that you ________a group for a birthday party.",
-          "src": "2023天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "有些餐厅很乐意在你提前告知他们你____要为生日聚会带一群人来时提供免费蛋糕。"
         },
         {
           "s": "Scholarships are for Group Play admission fees and/or transportation.",
@@ -175,34 +168,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "对所有全日制教育者，包括处于本科学位层次的人，在有教师组织的团体中，每人2英镑的特别低入场费适用。"
-        },
-        {
-          "s": "Beauty group, with an artistic hobby.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "美感组中有艺术爱好的人。"
-        },
-        {
-          "s": "Beauty group, without an artistic hobby.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "美感组中没有艺术爱好的人。"
-        },
-        {
-          "s": "Control group, with an artistic hobby.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "对照组中有艺术爱好的人。"
-        },
-        {
-          "s": "Control group, without an artistic hobby.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "对照组中没有艺术爱好的人。"
         },
         {
           "s": "A month after visiting the French Riviera and enjoying the sandy beaches of Nice and Menton, I went hiking with friends in the Pala group.",
@@ -369,13 +334,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "成果是《野生动物计划》这部影片，它记录了“野生网络”的诞生——一个由多个组织组成的、以让孩子走进自然为共同目标的团体。"
-        },
-        {
-          "s": "The author's OIC project group would help ten Iraqi children to________．.",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者的OIC项目小组将帮助十个伊拉克儿童_________．"
         },
         {
           "s": "The Central Steering Group arrived in Wuhan.",
@@ -572,68 +530,13 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "它有两组演员    B. 它是伦敦的领军剧院"
-        }
-      ]
-    },
-    {
-      "def": "a number of companies that are owned by the same person or organization 集团",
-      "ex": []
-    },
-    {
-      "def": "a number of musicians who perform together, especially to play pop music （尤指流行音乐的）演奏组，乐团，乐队",
-      "ex": [
-        {
-          "s": "Group Play       $7/person",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "团体游玩       7美元/人"
         },
-        {
-          "s": "General Information about Group Play",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于团体游戏的通用信息"
-        },
-        {
-          "s": "Group Play may be scheduled during any day or time the Museum is open.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "团体游玩可在博物馆开放期间的任何日期和时间安排。"
-        },
-        {
-          "s": "Mr Titterton is chairman of the Omega Ensemble but has been the group’s official page turner for the past four years.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "蒂特顿先生是Omega乐团的主席，但在过去四年里他一直是该乐团的官方翻谱员。"
-        },
-        {
-          "s": "Even though there is a common spirit among all music groups, they make very different music. ___31___ At that time the Beatles entered the world of music from Liverpool.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "尽管所有音乐团体有一种共同的精神，他们创作的音乐却截然不同。___31___ 那时披头士从利物浦进入了音乐世界。"
-        }
-      ]
-    },
-    {
-      "def": "to gather into a group; to make sb/sth form a group （使）成群，成组，聚集",
-      "ex": [
         {
           "s": "Most people believe the best way to build a great team is to gather a group of the most talented individuals.",
           "src": "2019北京卷·七选五",
           "cat": "gaokao",
           "year": 2019,
           "t": "这个小型团体自行车游是欣赏华盛顿特区世界著名樱花树美景的绝佳方式。"
-        },
-        {
-          "s": "Walking and talk is a group 1______ meets every Sunday.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "走路聊天是一个每周日都聚会的 1______ 团体。"
         },
         {
           "s": "The Longji Rice Terraces were built by the local Zhuang ethnic group alone.",
@@ -703,12 +606,7 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "请查阅“可参与项目列表”并填写团体项目申请表。"
-        }
-      ]
-    },
-    {
-      "def": "to divide people or things into groups of people or things that are similar in some way 将 … 分类；把 … 分组",
-      "ex": [
+        },
         {
           "s": "Group Play is for groups of 10 or more with a limit of 35 people.",
           "src": "2022全国新高考II卷·阅读理解A",
@@ -722,20 +620,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
-        },
-        {
-          "s": "Grouping toys of different shapes.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "将不同形状的玩具分组。"
-        },
-        {
-          "s": "Devices were grouped by generation — Desktop computers, basic mobile phones, and box-set TVs defined 1992.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "设备按代分类——台式电脑、基本功能手机和套装电视定义了1992年。"
         },
         {
           "s": "It tailors learning experiences to different age groups and learning styles.",
@@ -819,6 +703,66 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "它的人口是汉族以外所有少数民族中最多的。"
+        }
+      ]
+    },
+    {
+      "def": "a number of companies that are owned by the same person or organization 集团",
+      "ex": []
+    },
+    {
+      "def": "a number of musicians who perform together, especially to play pop music （尤指流行音乐的）演奏组，乐团，乐队",
+      "ex": [
+        {
+          "s": "Group Play       $7/person",
+          "src": "2022全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "团体游玩       7美元/人"
+        },
+        {
+          "s": "General Information about Group Play",
+          "src": "2022全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "关于团体游戏的通用信息"
+        },
+        {
+          "s": "Group Play may be scheduled during any day or time the Museum is open.",
+          "src": "2022全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "团体游玩可在博物馆开放期间的任何日期和时间安排。"
+        },
+        {
+          "s": "Mr Titterton is chairman of the Omega Ensemble but has been the group’s official page turner for the past four years.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "蒂特顿先生是Omega乐团的主席，但在过去四年里他一直是该乐团的官方翻谱员。"
+        }
+      ]
+    },
+    {
+      "def": "to gather into a group; to make sb/sth form a group （使）成群，成组，聚集",
+      "ex": []
+    },
+    {
+      "def": "to divide people or things into groups of people or things that are similar in some way 将 … 分类；把 … 分组",
+      "ex": [
+        {
+          "s": "Grouping toys of different shapes.",
+          "src": "2022全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "将不同形状的玩具分组。"
+        },
+        {
+          "s": "Devices were grouped by generation — Desktop computers, basic mobile phones, and box-set TVs defined 1992.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "设备按代分类——台式电脑、基本功能手机和套装电视定义了1992年。"
         }
       ]
     }

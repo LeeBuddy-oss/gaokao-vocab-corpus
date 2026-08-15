@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ɡaɪd; NAmE ɡaɪd",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -72,7 +72,7 @@
           "t": "《培养快乐自信孩子A到Z指南》的作者Jenn Berman说：\"我们已经走到了几十年前父母往往更严厉的那个极端的对立面。\"通过给孩子很多表扬，父母以为在建立孩子的自信，而实际上可能适得其反。"
         },
         {
-          "s": "D． question the accuracy of the field guides",
+          "s": "question the accuracy of the field guides",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
@@ -96,20 +96,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "她从一个商人的实用角度而非学者角度写作，使这本指南极易读又有信息量，读到最后会让你觉得自己几乎和AI一样聪明。"
-        },
-        {
-          "s": "Upon entering the correct zone, parking staff will guide you directly to a space.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "一旦进入正确的区域，停车管理员会直接引导你到车位。"
-        },
-        {
-          "s": "The technologist will guide the patient to this modified state—an imaginary world that will disassociate itself more and more from the procedure that follows.",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "技师会引导患者进入这种改变后的状态——一个想象中的世界，它将越来越脱离随后的操作过程。"
         },
         {
           "s": "·Community Booster: Guiding you to develop innovative solutions for real-world challenges and create transformative progress to benefit all communities",
@@ -254,7 +240,7 @@
           "t": "一名导游"
         },
         {
-          "s": "D． She mistook him for a tour guide．",
+          "s": "She mistook him for a tour guide．",
           "src": "2018天津卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
@@ -282,36 +268,16 @@
           "t": "在当地徒步俱乐部热情向导的陪伴下，你可以欣赏卡洛低地令人惊叹的景色。"
         },
         {
-          "s": "Louvre art Mona Lisa exhibition museum selfie fantastic tour guide history live broadcast Winged Victory of Samothrace Here at the top of the stairs is this 1________.",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "卢浮宫　艺术　蒙娜丽莎　展览　博物馆　自拍　绝佳的　导游　历史　直播　《萨莫色雷斯的胜利女神》　在楼梯顶端的是这1____。"
-        },
-        {
           "s": "Patience, they say, is what I must now choose for my guide, and I have done so - I hope my courage will remain firm to continue until the bitter end.",
           "src": "外研社B4 U6",
           "cat": "waiyan",
           "t": "人们说，耐心是我此刻必须择以为向导的品格，我已然如此——但愿我的勇气能坚贞不渝，坚持到苦涩的终局。"
-        },
-        {
-          "s": "RULE 2 5________________________________________ • The guide said that 6______________________________.",
-          "src": "外研社B6 U4",
-          "cat": "waiyan",
-          "t": "规则2 5________________________________________ • 导游说6______________________________。"
         }
       ]
     },
     {
       "def": "a person who advises you on how to live and behave 指导者；指引者",
-      "ex": [
-        {
-          "s": "All of her runs have a guiding purpose: to call attention ____17____ global water issues.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她所有的跑步都有一个指导宗旨：引起人们对全球水问题的关注。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "something that gives you enough information to be able to make a decision about sth or form an opinion 有指导意义的事物；指导的事物",
@@ -332,11 +298,18 @@
           "t": "带有先进传感器和AI、在火车前方行驶的小型无人机，可以像副驾驶一样为它引路。"
         },
         {
-          "s": "This was the very door I ____2____ guided the children through to ensure their safety from the bitter cold.",
-          "src": "2022北京卷·完形填空",
+          "s": "Upon entering the correct zone, parking staff will guide you directly to a space.",
+          "src": "2026新高考I卷·阅读理解A",
           "cat": "gaokao",
-          "year": 2022,
-          "t": "这正是那扇我____2____引导孩子们穿过以确保他们免受严寒侵袭的门。"
+          "year": 2026,
+          "t": "一旦进入正确的区域，停车管理员会直接引导你到车位。"
+        },
+        {
+          "s": "The technologist will guide the patient to this modified state—an imaginary world that will disassociate itself more and more from the procedure that follows.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "技师会引导患者进入这种改变后的状态——一个想象中的世界，它将越来越脱离随后的操作过程。"
         }
       ]
     },
@@ -361,15 +334,7 @@
     },
     {
       "def": "to explain to sb how to do sth, especially sth complicated or difficult （向某人）解释，阐明",
-      "ex": [
-        {
-          "s": "You try to lead the opponent into your trap and force them to follow your ‘____59____ (guide)’ till they lose,” explains Wang Wei, a Go player among the visitors to the exhibition.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“你试图把对手引入陷阱，迫使他们跟随你的‘____59____（引导）’，直到他们输掉，”参观展览的围棋棋手Wang Wei解释道。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to help sb to move in a particular direction; to move sth in a particular direction 搀扶（某人朝 … 方向）走；（朝 … 方向）移动（某物）",
