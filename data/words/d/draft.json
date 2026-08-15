@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "drɑːft; NAmE dræft",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; verb; verb; verb",
     "stars": "★★"
   },
   "defs": [
@@ -67,6 +67,13 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "下一个技巧是快速写草稿，不必担心完美。"
+        },
+        {
+          "s": "Think of your first draft as a path cut out of the jungle—as part of an exploration, not as a complete highway.",
+          "src": "2022全国新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "把你的初稿看作从丛林中开辟出的一条路——作为探索的一部分，而不是一条完整的高速公路。"
         }
       ]
     },
@@ -79,21 +86,22 @@
       "ex": []
     },
     {
-      "def": "你关上门好吗？这里有穿堂风。",
-      "ex": []
+      "def": "a current of air in a room 穿堂风；气流",
+      "ex": [
+        {
+          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
+        }
+      ]
     },
     {
       "def": "to write the first rough version of sth such as a letter, speech or book 起草；草拟",
       "ex": [
         {
-          "s": "Think of your first draft as a path cut out of the jungle—as part of an exploration, not as a complete highway.",
-          "src": "2022全国新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "把你的初稿看作从丛林中开辟出的一条路——作为探索的一部分，而不是一条完整的高速公路。"
-        },
-        {
-          "s": "C．Improve the participant's first draft．",
+          "s": "Improve the participant's first draft．",
           "src": "2019天津卷·History Fair Competition",
           "cat": "gaokao",
           "year": 2019,
@@ -115,18 +123,10 @@
     },
     {
       "def": "to choose people and send them somewhere for a special task 选派；抽调",
-      "ex": [
-        {
-          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
-        }
-      ]
+      "ex": []
     },
     {
-      "def": "他们应征入伍。",
+      "def": "to conscript sb into the army 征召；招募",
       "ex": []
     }
   ]

@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "drɒp; NAmE drɑːp",
-    "pos": "verb",
+    "pos": "verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; noun; noun; noun; noun; noun; noun; noun",
     "stars": ""
   },
   "defs": [
@@ -14,6 +14,12 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "从澳大利亚一方那里，我们只有一面木盾（盾），是一个人在第一次经历枪击后逃跑时丢下的。"
+        },
+        {
+          "s": "A bunch of us kids would frequently drop by the store after school.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "我们一帮孩子放学后常顺道去那家店。"
         }
       ]
     },
@@ -31,15 +37,7 @@
     },
     {
       "def": "to fall down or be no longer able to stand because you are extremely tired 累倒；累垮",
-      "ex": [
-        {
-          "s": "My parents, who are doctors, dropped everything and began trying to___18___what had happened.",
-          "src": "2023天津6月卷·二、完型填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我的父母是医生，他们放下一切，开始试图____18____发生了什么。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to become or make sth weaker, lower or less （使）变弱，降低，减少",
@@ -145,13 +143,6 @@
           "t": "卡不小心掉进了湖里。"
         },
         {
-          "s": "The train moved on．The little boy was ____5____ awake on his mother's lap，but the woman dropped off to sleep．A moment later，he began to____6____the half-open window—one leg went over it．The man jumped up and ____7____the child just before he fell out．",
-          "src": "2021北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "火车继续前行。小男孩___5___醒着躺在母亲腿上，但女人睡着了。片刻后，他开始___6___那半开的车窗——一条腿已经跨了过去。男子跳起来，在孩子掉出去前___7___了他。"
-        },
-        {
           "s": "A lady sitting in her rocking and shaking home, saw the wall part from the ceiling, open and shut twice, like a mouth, and then drop the end of a brick on the floor like a tooth.",
           "src": "外研社B5 U6",
           "cat": "waiyan",
@@ -242,6 +233,20 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "在那之后，感到有必要进一步____52____，我决定顺便去参加美国手语俱乐部的一次聚会。"
+        },
+        {
+          "s": "Go through the procedures to drop it.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "按照程序办理退课。"
+        },
+        {
+          "s": "If you choose to drop a course you must follow the UCLA procedures for removing it from your schedule.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果你选择退一门课，你必须遵循UCLA将其从你的课表中移除的程序。"
         }
       ]
     },
@@ -294,26 +299,6 @@
     {
       "def": "a liquid medicine that you put one drop at a time into your eyes, ears or nose 滴剂",
       "ex": [
-        {
-          "s": "A bunch of us kids would frequently drop by the store after school.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "我们一帮孩子放学后常顺道去那家店。"
-        },
-        {
-          "s": "Go through the procedures to drop it.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "按照程序办理退课。"
-        },
-        {
-          "s": "If you choose to drop a course you must follow the UCLA procedures for removing it from your schedule.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果你选择退一门课，你必须遵循UCLA将其从你的课表中移除的程序。"
-        },
         {
           "s": "If you forget to officially drop that course, a “F” (Fail) grade will be registered on your record at the end of the term.",
           "src": "2023天津6月卷·阅读理解A",
