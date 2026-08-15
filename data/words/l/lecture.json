@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈlektʃə(r); NAmE ˈlektʃər",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb",
     "stars": "★"
   },
   "defs": [
@@ -51,13 +51,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "听讲座免费入场。"
-        },
-        {
-          "s": "Travelling to conferences, lectures, workshops, and the like frequently by plane  ____37____（view） as important for scientists to get together and exchange information.",
-          "src": "2022浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "乘飞机频繁参加会议、讲座、研讨会等活动____37____（view）被认为是科学家聚集和交流信息的重要方式。"
         },
         {
           "s": "It’s an opportunity to deepen your understanding of the key points from lecture materials while you are applying your skills to solve problems.",
@@ -141,6 +134,12 @@
           "year": 2024,
           "t": "为了尝试一种新的方式为即将到来的讲座热身。",
           "_matched": true
+        },
+        {
+          "s": "The lecture is one of the oldest teaching methods, and is still widely used today.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "讲课是最古老的教学方法之一，至今仍被广泛使用。"
         }
       ]
     },
@@ -165,12 +164,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "许多教师继续使用传统的讲授式教学，导致成功率较低。"
-        },
-        {
-          "s": "The lecture is one of the oldest teaching methods, and is still widely used today.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "讲课是最古老的教学方法之一，至今仍被广泛使用。"
         }
       ]
     },
