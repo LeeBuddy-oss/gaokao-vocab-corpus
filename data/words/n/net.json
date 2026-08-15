@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "net; NAmE net",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;adj;adj;adj;verb;verb;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -53,7 +53,14 @@
     },
     {
       "def": "the piece of net between the two players that the ball goes over 网球等",
-      "ex": []
+      "ex": [
+        {
+          "s": "Zhang Changning hits the ball over the net.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "张常宁将球扣过网。"
+        }
+      ]
     },
     {
       "def": "a net amount of money is the amount that remains when nothing more is to be taken away 净得的；纯的",
@@ -88,14 +95,7 @@
     },
     {
       "def": "to kick or hit a ball into the goal SYN score （将球）踢入球门，射入球门",
-      "ex": [
-        {
-          "s": "Zhang Changning hits the ball over the net.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "张常宁将球扣过网。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to cover sth with a net or nets 用网覆盖",

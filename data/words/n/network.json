@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈnetwɜːk; NAmE ˈnetwɜːrk",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -86,13 +86,6 @@
           "t": "他在一家社交网站上发布了他的____，收到了数千封电子邮件，其中包括三十封来自真正的伊丽莎白·加拉赫的邮件，她们持有____护照。“更有____，有数百名加拿大人有兴趣把他们的名字改成伊丽莎白·加拉赫，”阿克萨尼说。"
         },
         {
-          "s": "Public libraries connected by a cooperative network benefit readers by______. （    ）",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过合作网络相连的公共图书馆以______造福读者。（    ）"
-        },
-        {
           "s": "It lists your performance against other runners in your social network.",
           "src": "外研社B2 U3",
           "cat": "waiyan",
@@ -104,6 +97,12 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "成果是《野生动物计划》这部影片，它记录了“野生网络”的诞生——一个由多个组织组成的、以让孩子走进自然为共同目标的团体。"
+        },
+        {
+          "s": "This fungal network links the roots of different plants to each other.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "这种真菌网络将不同植物的根系相互连接起来。"
         }
       ]
     },
@@ -144,23 +143,11 @@
       "def": "to connect a number of computers and other devices together so that equipment and information can be shared 将 … 连接成网络",
       "ex": [
         {
-          "s": "Using the “wood wide web” •This fungal network links 7____________.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "使用木质万维网：这种真菌网络连接着植物的根系。"
-        },
-        {
           "s": "We need to deal with the insecure nature of our telecom networks.",
           "src": "2019北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2019,
           "t": "我们需要应对电信网络不安全的本质。"
-        },
-        {
-          "s": "This fungal network links the roots of different plants to each other.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "这种真菌网络将不同植物的根系相互连接起来。"
         }
       ]
     },
