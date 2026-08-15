@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈprɒmɪs; NAmE ˈprɑːmɪs",
-    "pos": "verb",
+    "pos": "verb;verb;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -23,13 +23,6 @@
           "t": "四天后，我回到维也纳，如约给冈特打了电话。"
         },
         {
-          "s": "I promised to take care of Tiffy and _____52_____ them as soon as we got to Kansas City.",
-          "src": "2023新课标II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我答应会照顾好蒂菲，并一到堪萨斯城就_____52_____他们。"
-        },
-        {
           "s": "They promised to fix the window.",
           "src": "2023浙江1月卷·书面表达",
           "cat": "gaokao",
@@ -49,27 +42,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "我保证不会让它冲昏头脑。"
-        },
-        {
-          "s": "They represent the promise of spring and a renewal of life.",
-          "src": "2020全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们代表着春天的承诺与生命的更新。"
-        },
-        {
-          "s": "The promise and danger of true A GI are great.",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "真正AGI的潜力与危险都很大。"
-        },
-        {
-          "s": "Russia is another country with population problems that could break its economic promise.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "俄罗斯是另一个可能因人口问题而无法实现经济承诺的国家。"
         },
         {
           "s": "If you’re willing to drive a little further, the Ritz-Carlton Los Angeles promises luxurious rooms and extensive leisure facilities — perfect for turning a game day into a great weekend escape.",
@@ -99,29 +71,10 @@
           "t": "家人和朋友承诺他们每度过一天不使用社交媒体的日子就给他们钱。"
         },
         {
-          "s": "Tech-Hub remains thankful to the community and promises 5___________________ of our success with the town.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "科技中心仍然感谢社区，并承诺5___________________ 与城镇分享我们的成功。"
-        },
-        {
           "s": "I ought to give you a job, as I promised.",
           "src": "人教B3 U5",
           "cat": "renjiao",
           "t": "我应该给你一份工作，是我答应过的。"
-        },
-        {
-          "s": "From their research, they discovered and tested 380 distinct ancient Chinese medical treatments that showed promise in the fight against malaria.",
-          "src": "人教选必1 U1",
-          "cat": "renjiao",
-          "t": "通过研究，他们发现并测试了380种独特的中国古代疗法，这些疗法在抗击疟疾方面显示出了希望。"
-        },
-        {
-          "s": "On a website called No Fly Climate Sci, for example, _____40_____（rough） 200 academics - many of them climate scientists ____41____ （promise） to fly as little as possible since the effort started two years ago.",
-          "src": "2022浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "例如，在一个名为No Fly Climate Sci的网站上，（第40空，rough）200名学者——其中许多是气候科学家——自两年前该行动开始以来（第41空，promise）尽可能少飞。"
         }
       ]
     },
@@ -159,6 +112,33 @@
           "src": "人教选必2 U5",
           "cat": "renjiao",
           "t": "即使在小时候，达\\u00b7芬奇就已经展现出了艺术家的潜力。"
+        },
+        {
+          "s": "They represent the promise of spring and a renewal of life.",
+          "src": "2020全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它们代表着春天的承诺与生命的更新。"
+        },
+        {
+          "s": "The promise and danger of true A GI are great.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "真正AGI的潜力与危险都很大。"
+        },
+        {
+          "s": "Russia is another country with population problems that could break its economic promise.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "俄罗斯是另一个可能因人口问题而无法实现经济承诺的国家。"
+        },
+        {
+          "s": "From their research, they discovered and tested 380 distinct ancient Chinese medical treatments that showed promise in the fight against malaria.",
+          "src": "人教选必1 U1",
+          "cat": "renjiao",
+          "t": "通过研究，他们发现并测试了380种独特的中国古代疗法，这些疗法在抗击疟疾方面显示出了希望。"
         }
       ]
     },

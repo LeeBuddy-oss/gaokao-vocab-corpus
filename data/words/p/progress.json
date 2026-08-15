@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈprəʊɡres; NAmE ˈprɑːɡres",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -69,6 +69,38 @@
           "src": "外研社B6 U4",
           "cat": "waiyan",
           "t": "我们无法阻止进步的进程。"
+        },
+        {
+          "s": "The rapid progress in her ability.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "学习试题是如何出的以及基于什么内容"
+        },
+        {
+          "s": "To frame his story, Klein creates the character of Ned, a fictional witness to the progress brought about by the steams and electric revolutions in America during one man's lifetime.",
+          "src": "2022浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "为了构建他的故事，Klein创造了Ned这个角色，一个见证美国在一个人的有生之年因蒸汽和电力革命而取得进展的虚构人物。"
+        },
+        {
+          "s": "Make sure to give each other encouragement and take photos or make videos to record your progress.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "一定要互相鼓励，并拍照或录像记录你们的进展。"
+        },
+        {
+          "s": "SENIOR HIGH QUESTIONNAIRE Now you’ve been at senior high for over a year, I’d like to know your progress and plans for the future.",
+          "src": "外研社B7 U1",
+          "cat": "waiyan",
+          "t": "高中问卷 现在你上高中已经一年多了，我想了解你的进展和未来计划。"
+        },
+        {
+          "s": "DX Sports Watch Are you looking for a sports watch that can help you keep track of your fitness and chart your training progress?",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "DX运动手表您是否正在寻找一款可以帮助您跟踪健身情况并记录训练进度的运动手表？"
         }
       ]
     },
@@ -115,20 +147,6 @@
           "t": "毕竟，不偶尔走错步，任何事都不可能进步。"
         },
         {
-          "s": "The rapid progress in her ability.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "学习试题是如何出的以及基于什么内容"
-        },
-        {
-          "s": "To frame his story, Klein creates the character of Ned, a fictional witness to the progress brought about by the steams and electric revolutions in America during one man's lifetime.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为了构建他的故事，Klein创造了Ned这个角色，一个见证美国在一个人的有生之年因蒸汽和电力革命而取得进展的虚构人物。"
-        },
-        {
           "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
           "src": "2019天津卷·18．",
           "cat": "gaokao",
@@ -147,31 +165,12 @@
           "src": "外研社B5 U6",
           "cat": "waiyan",
           "t": "进度检查（√或×） 反思 第一天 第二天 第三天 2 执行你的自我提升计划。"
-        },
-        {
-          "s": "Make sure to give each other encouragement and take photos or make videos to record your progress.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "一定要互相鼓励，并拍照或录像记录你们的进展。"
-        },
-        {
-          "s": "SENIOR HIGH QUESTIONNAIRE Now you’ve been at senior high for over a year, I’d like to know your progress and plans for the future.",
-          "src": "外研社B7 U1",
-          "cat": "waiyan",
-          "t": "高中问卷 现在你上高中已经一年多了，我想了解你的进展和未来计划。"
         }
       ]
     },
     {
       "def": "to move forward 前进；行进",
-      "ex": [
-        {
-          "s": "DX Sports Watch Are you looking for a sports watch that can help you keep track of your fitness and chart your training progress?",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "DX运动手表您是否正在寻找一款可以帮助您跟踪健身情况并记录训练进度的运动手表？"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to go forward in time （时间上）推移，流逝",
