@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "faɪt; NAmE faɪt",
-    "pos": "verb",
+    "pos": "verb; verb; verb; verb; verb; verb; verb; verb; noun; noun; noun; noun; noun; noun",
     "stars": ""
   },
   "defs": [
@@ -9,32 +9,11 @@
       "def": "to take part in a war or battle against an enemy 打仗；战斗；作战",
       "ex": [
         {
-          "s": "Robert then decided to return to the fight, winning independence for the Scots — on the seventh attempt.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果你传递的信息不紧急，可以考虑发送电子邮件。"
-        },
-        {
           "s": "Some communities fought back.",
           "src": "2025新高考I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2025,
           "t": "一些社区进行了反击。"
-        },
-        {
-          "s": "China is a shining example for the global community to follow _________developing green industry to fight climate change.",
-          "src": "2023天津6月卷·一、单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "中国是全球社会效仿的光辉榜样，_________发展绿色产业以应对气候变化。"
-        },
-        {
-          "s": "Often due to various pressures, we tend to ignore our health. ____35____ It is the fitness level of our body that helps us fight these diseases.",
-          "src": "2022北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "往往由于各种压力，我们倾向于忽视我们的健康。____35____正是我们身体的健康水平帮助我们抵抗这些疾病。"
         },
         {
           "s": "fight back against others’ criticisms",
@@ -44,30 +23,11 @@
           "t": "反击他人的批评"
         },
         {
-          "s": "Baggy has become the first dog in the UK—and potentially the world—to join the fight against air pollution by recording pollutant levels near the ground.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它的监测器显示，越接近地面，空气污染程度越高，这突显了一个令人担忧的问题：婴儿和幼儿患肺部疾病的风险可能更高。"
-        },
-        {
           "s": "leave carbon emission aloneD. fight against carbon pollution",
           "src": "2017江苏卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
           "t": "对碳排放放任自流D. 对抗碳污染"
-        },
-        {
-          "s": "Every single member of the team gave their all to the fight, including Hui Ruoqi who had had heart surgery less than five months previously.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "团队的每一位成员都全力以赴投入战斗，包括不到五个月前刚做了心脏手术的惠若琪。"
-        },
-        {
-          "s": "The final saw them in a fierce fight against Serbia, and they won gold with a strong will and determination.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "决赛中她们与塞尔维亚队展开了激烈的战斗，凭借坚强的意志和决心赢得了金牌。"
         },
         {
           "s": "Our first issue has a special focus on fighting against global warming.",
@@ -143,7 +103,34 @@
     },
     {
       "def": "a struggle against sb/sth using physical force 搏斗；打斗；打架",
-      "ex": []
+      "ex": [
+        {
+          "s": "The final saw them in a fierce fight against Serbia, and they won gold with a strong will and determination.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "决赛中她们与塞尔维亚队展开了激烈的战斗，凭借坚强的意志和决心赢得了金牌。"
+        },
+        {
+          "s": "Every single member of the team gave their all to the fight, including Hui Ruoqi who had had heart surgery less than five months previously.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "团队的每一位成员都全力以赴投入战斗，包括不到五个月前刚做了心脏手术的惠若琪。"
+        },
+        {
+          "s": "Baggy has become the first dog in the UK—and potentially the world—to join the fight against air pollution by recording pollutant levels near the ground.",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它的监测器显示，越接近地面，空气污染程度越高，这突显了一个令人担忧的问题：婴儿和幼儿患肺部疾病的风险可能更高。"
+        },
+        {
+          "s": "Robert then decided to return to the fight, winning independence for the Scots — on the seventh attempt.",
+          "src": "2026北京卷·写作问答",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "如果你传递的信息不紧急，可以考虑发送电子邮件。"
+        }
+      ]
     },
     {
       "def": "the work of trying to destroy, prevent or achieve sth 斗争",
