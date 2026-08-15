@@ -1,19 +1,19 @@
 {
   "meta": {
     "ph": "kəʊst; NAmE koʊst",
-    "pos": "noun",
+    "pos": "noun; verb; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
     {
-      "def": "to move, especially down a hill, without using any power 汽车或自行车",
+      "def": "the land beside or near the sea 海岸；沿海地区",
       "ex": [
         {
           "s": "Florida's Atlantic coast.",
           "src": "2018上海卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "问题14至16基于以下演讲。"
+          "t": "佛罗里达的大西洋海岸。"
         },
         {
           "s": "Mum was using Dad's phone to take photos of the colourful little houses along the coast when we saw something amazing - a killer whale!",
@@ -21,32 +21,14 @@
           "cat": "waiyan",
           "year": "",
           "t": "妈妈正在用爸爸的手机拍摄海岸沿线五彩缤纷的小房子，这时我们看到了一些令人惊叹的东西--虎鲸！"
-        }
-      ]
-    },
-    {
-      "def": "to move quickly and smoothly, without using much power 交通工具",
-      "ex": []
-    },
-    {
-      "def": "to be successful at sth without having to try hard 不费力地取得成功",
-      "ex": [
+        },
         {
           "s": "Rocky Mountains Vancouver Newfoundland Quebec (1 picture) From Eva To Amy Subject Coast to coast Hi Amy, We made it!",
           "src": "外研社B2 U5",
           "cat": "waiyan",
           "year": "",
           "t": "落基山脉温哥华纽芬兰魁北克（ 1张照片）从伊娃到艾米主题海岸到海岸嗨，艾米，我们成功了！"
-        }
-      ]
-    },
-    {
-      "def": "to put very little effort into sth （做事）不出力",
-      "ex": []
-    },
-    {
-      "def": "to stay close to land while sailing around the coast 船",
-      "ex": [
+        },
         {
           "s": "No area was spared or unaffected, from the foggy northern coast to the Sierra Nevada Mountains to the San Gabriels above Los Angeles.",
           "src": "2019浙江卷",
@@ -60,13 +42,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "许多游客支持佛罗里达海岸因其美丽而恢复。"
-        },
-        {
-          "s": "Many people who live along the coast make a living _______ fishing industry.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这让汉娜非常难过，并且更加____想要做点什么。"
         },
         {
           "s": "It runs for several hundred metres on the eastern coast of Northern Ireland.",
@@ -97,6 +72,26 @@
           "t": "她一从高中毕业就离开家，住到加州海岸外的卡塔利娜岛上，远离父母，享受航海和越野骑行的人生。"
         }
       ]
+    },
+    {
+      "def": "to move, especially down a hill, without using any power 汽车或自行车",
+      "ex": []
+    },
+    {
+      "def": "to move quickly and smoothly, without using much power 交通工具",
+      "ex": []
+    },
+    {
+      "def": "to be successful at sth without having to try hard 不费力地取得成功",
+      "ex": []
+    },
+    {
+      "def": "to put very little effort into sth （做事）不出力",
+      "ex": []
+    },
+    {
+      "def": "to stay close to land while sailing around the coast 船",
+      "ex": []
     }
   ]
 }
