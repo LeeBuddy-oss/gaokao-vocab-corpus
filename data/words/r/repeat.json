@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "rɪˈpiːt; NAmE rɪˈpiːt",
-    "pos": "verb; noun; adj.; adv.; noun; adj.; verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -88,6 +88,13 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "这是在该剧院75年历史中多次重复过的场景。"
+        },
+        {
+          "s": "In my defence, I did what we’ve all done before, which is to repeat received wisdom without exploring the nuances.",
+          "src": "2025北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "为我自己辩护一下，我做了我们所有人都做过的事，那就是在不探究细节的情况下重复人云亦云的观点。"
         }
       ]
     },
@@ -99,7 +106,7 @@
       "def": "to happen more than once in the same way 重复发生；再次发生",
       "ex": [
         {
-          "s": "A.happenedB. repeated C, changed D. mattered",
+          "s": "happenedB. repeated C, changed D. mattered",
           "src": "2018浙江6月卷·完形填空",
           "cat": "gaokao",
           "year": 2018,
@@ -144,13 +151,6 @@
     {
       "def": "an event that is very similar to sth that happened before 重演的事物；重复的事件",
       "ex": [
-        {
-          "s": "In my defence, I did what we’ve all done before, which is to repeat received wisdom without exploring the nuances.",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "为我自己辩护一下，我做了我们所有人都做过的事，那就是在不探究细节的情况下重复人云亦云的观点。"
-        },
         {
           "s": "I shaped individual letters into repeating lines, which were abstract forms, delightful but meaningless patterns.",
           "src": "2024北京卷·阅读理解B",
@@ -203,13 +203,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "反复努力的重要性。"
-        },
-        {
-          "s": "His repeated ____6____ intensified, pushing me to the edge of fear and tears.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他反复的____6____加剧了，把我推向恐惧和泪水的边缘。"
         },
         {
           "s": "What was the solution by the adviser and the author after those repeated failures?",

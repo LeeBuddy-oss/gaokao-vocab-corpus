@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "rent; NAmE rent",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -28,58 +28,22 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "这位女士觉得这套公寓怎么样？"
-        },
-        {
-          "s": "He said that one of the boxes generated around $13,500 in revenue a month and cost only about $400 to rent.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"
-        },
-        {
-          "s": "The state also cleared the way for companies to sell or rent out self-driving cars, and for companies to operate driverless taxi services.",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "政策制定者现在应该开始思考如何确保自动驾驶汽车的出现不会延续我们当前受控于汽车的交通系统中最糟糕的方面。"
         }
       ]
     },
     {
       "def": "a torn place in a piece of material or clothing 破裂处；裂口；撕裂",
-      "ex": [
-        {
-          "s": "We had decided on key items for the ___42___ we were moving to in town, donated what we could, and rented a place to ___43___ our supposedly important objects.",
-          "src": "2025新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我们已为要搬进镇上的___42___选定了关键物品，能捐的都捐了，还租了个地方来___43___那些自认为重要的物件。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to regularly pay money to sb so that you can use sth that they own, such as a house, some land, a machine, etc. 租用，租借（房屋、土地、机器等）",
       "ex": [
-        {
-          "s": "The concept ___62___ (be) certainly not new — men have been renting good suits for decades — but for female shoppers, it is just taking off.",
-          "src": "2025浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这一概念____62____（绝非）新鲜——男人租用好西装已有几十年——但对女性购物者来说才刚刚兴起。"
-        },
         {
           "s": "After Lincoln was elected President of the US in 1861, they rented the house and   65   （sell）most of their furniture.",
           "src": "2021浙江6月卷·语法填空",
           "cat": "gaokao",
           "year": 2021,
           "t": "1861年林肯当选美国总统后，他们租了房子并____65____（sell）了大部分家具。"
-        },
-        {
-          "s": "Tanya’s shop offers fashion clothes for women ___60___ (rent) rather than purchase them outright, providing a less expensive ___61___ (solve) to one-time event dressing.",
-          "src": "2025浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Tanya的店为女性提供时装___60___（租赁）而非直接购买，为一次性场合的着装提供了一种较便宜的___61___（解决方案）。"
         },
         {
           "s": "Those without outside space can rent small pieces of land on which to grow things.",
@@ -106,13 +70,6 @@
       "def": "to allow sb to use sth that you own such as a house or some land in exchange for regular payments 出租；将 … 租给",
       "ex": [
         {
-          "s": "Someone is planning to move out of our building, and their apartment will be _________ for rent at the beginning of March.",
-          "src": "2024天津3月卷·一、单项填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "有人打算搬出我们这栋楼，他们的公寓三月初将_________对外出租。"
-        },
-        {
           "s": "How did Terri avoid losing the deposit on the house she rented?",
           "src": "2023全国甲卷·阅读理解B",
           "cat": "gaokao",
@@ -125,6 +82,13 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "为家庭租一套房子"
+        },
+        {
+          "s": "The state also cleared the way for companies to sell or rent out self-driving cars, and for companies to operate driverless taxi services.",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "政策制定者现在应该开始思考如何确保自动驾驶汽车的出现不会延续我们当前受控于汽车的交通系统中最糟糕的方面。"
         }
       ]
     },
@@ -143,6 +107,13 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "在那里我们租了一辆房车，随时想去哪就去哪。"
+        },
+        {
+          "s": "He said that one of the boxes generated around $13,500 in revenue a month and cost only about $400 to rent.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"
         }
       ]
     },
