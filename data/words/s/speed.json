@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "spiːd; NAmE spiːd",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -23,7 +23,7 @@
           "t": "那匹马在黑夜中疾驰时会想些什么呢？"
         },
         {
-          "s": "16．（30分）I was ready to pay for my bananas at the grocery one night， when fear seized me． My wallet was gone． I could only have left it on the G9 bus， which was now speeding in the dark to some（1）     station．",
+          "s": "（30分）I was ready to pay for my bananas at the grocery one night， when fear seized me． My wallet was gone． I could only have left it on the G9 bus， which was now speeding in the dark to some（1）     station．",
           "src": "2019天津卷",
           "cat": "gaokao",
           "year": 2019,
@@ -95,13 +95,6 @@
           "t": "\"只有当我们讨论我们生物物理极限的后果时\"12月的警告信说\"我们才有希望降低其速度、严重性和危害\"。"
         },
         {
-          "s": "The speed of 6G will exceed 125 GB/s, ______ a new generation of virtual reality.",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "6G的速度将超过125 GB/s，___新一代虚拟现实。"
-        },
-        {
           "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
           "src": "2020江苏卷·阅读理解C",
           "cat": "gaokao",
@@ -135,13 +128,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "嗯，未来显然就是现在。"
-        },
-        {
-          "s": "It should speed up its progress.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它应该加快发展速度。"
         }
       ]
     },
@@ -151,22 +137,7 @@
     },
     {
       "def": "the quality of being quick or rapid 快；迅速",
-      "ex": [
-        {
-          "s": "According to an evolutionary psychology theory that a person's “life strategy” slows down or speeds up depending on his or her ___47___, exposure to a “harsh and unpredictable” environment leads to faster development, while a more resource-rich and secure environment has the ___48___ effect, the study said.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据一项进化心理学理论，一个人的“生命策略”会因其____47____而放慢或加快，暴露于“严酷和不可预测”的环境会导致更快的发育，而资源更丰富、更安全的环境则有____48____效果。"
-        },
-        {
-          "s": "“We need to speed up the development of green energy, and it will all get used,” says Wipke.",
-          "src": "2025新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Wipke说：“我们需要加快绿色能源的发展，而它都会被用上。”"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a measurement of how sensitive film for cameras, etc. is to light 感光度",
@@ -189,13 +160,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "我们正在研究控制车速的系统的好处，将其作为一种预防措施。\""
-        },
-        {
-          "s": "They will speed up energy production.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们可能向家庭传输电力。"
         }
       ]
     },
@@ -213,15 +177,7 @@
     },
     {
       "def": "having the most recent and accurate information or knowledge 人",
-      "ex": [
-        {
-          "s": "To speed up the process, please make sure the information you submit through the ILL Request Form is accurate.",
-          "src": "2025浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "虽然我很享受打破几十年来不用油画颜料的禁忌，但我发现自己现在更喜欢粉笔和墨水。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to move along quickly 快速前行",
@@ -258,13 +214,6 @@
           "t": "AI加速了人类进化的过程。"
         },
         {
-          "s": "She would speed up, the wind blowing our hair back _____64_____ my tiny voice singing out, “Weeee-eee-eee!”",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她会加速, 风吹回我们的头发 我____64____的微弱的声音, 唱着“呜呜呜呜呜!”"
-        },
-        {
           "s": "To speed up their ripening.",
           "src": "2018全国II卷·阅读理解B",
           "cat": "gaokao",
@@ -277,6 +226,34 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "教练不停地重复这个词： “加速！“慢点！ ”“向左转！ “我非常紧张，几乎分不清剩下哪个方向。"
+        },
+        {
+          "s": "It should speed up its progress.",
+          "src": "2022全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它应该加快发展速度。"
+        },
+        {
+          "s": "“We need to speed up the development of green energy, and it will all get used,” says Wipke.",
+          "src": "2025新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "Wipke说：“我们需要加快绿色能源的发展，而它都会被用上。”"
+        },
+        {
+          "s": "They will speed up energy production.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它们可能向家庭传输电力。"
+        },
+        {
+          "s": "To speed up the process, please make sure the information you submit through the ILL Request Form is accurate.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "虽然我很享受打破几十年来不用油画颜料的禁忌，但我发现自己现在更喜欢粉笔和墨水。"
         }
       ]
     },
