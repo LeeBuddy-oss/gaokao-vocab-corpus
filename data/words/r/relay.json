@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈriːleɪ; NAmE ˈriːleɪ",
-    "pos": "verb",
+    "pos": "verb;verb;noun;noun;noun",
     "stars": "★★"
   },
   "defs": [
@@ -13,6 +13,12 @@
           "src": "人教选必4 U4",
           "cat": "renjiao",
           "t": "总统正在向观众传达他的抱负。"
+        },
+        {
+          "s": "Today, I want to relay to you that I’m proud of the work my mother has done, and I am now supportive of it.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "今天，我想转达给你们，我为我母亲所做的工作感到骄傲，现在我也支持它了。"
         }
       ]
     },
@@ -39,14 +45,7 @@
     },
     {
       "def": "a fresh set of people or animals that take the place of others that are tired or have finished a period of work 接班的人（或动物）；轮换者",
-      "ex": [
-        {
-          "s": "Today, I want to relay to you that I’m proud of the work my mother has done, and I am now supportive of it.",
-          "src": "人教选必4 U4",
-          "cat": "renjiao",
-          "t": "今天，我想转达给你们，我为我母亲所做的工作感到骄傲，现在我也支持它了。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "an electronic device that receives radio or television signals and sends them on again with greater strength 中继设备",
