@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "staɪl; NAmE staɪl",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -14,13 +14,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "它采用接地气的写作风格。"
-        },
-        {
-          "s": "It is important for everyone to devote some time to health and fitness. ____38____ For instance, we must exercise daily regardless of our age and working style.",
-          "src": "2022北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "每个人都应该花一些时间在健康和健身上，这很重要。____38____例如，我们必须每天锻炼，无论我们的年龄和工作方式如何。"
         },
         {
           "s": "This style of farming lasted for quite a long time.",
@@ -88,13 +81,6 @@
           "t": "新奥尔良（ New Orleans ）和布鲁克林（ Brooklyn ）不寻常的时装秀（展示）了制作成不同风格服装的营养皮草。"
         },
         {
-          "s": "We move on to tai chi positions, of ____61____ there are forty-two in the style that Angela teaches.",
-          "src": "2026新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我们转向泰姬的位____61____置, 安吉拉的风格有42个"
-        },
-        {
           "s": "It’s partly true that Dickens’ style of writing attracted audiences",
           "src": "2018浙江6月卷·阅读理解A",
           "cat": "gaokao",
@@ -144,25 +130,11 @@
           "t": "一种风格相对于另一种有明显优势吗？"
         },
         {
-          "s": "The question can be answered in a foxy hedgehog style. ___39___ The choice between being a hedgehog or a fox is a false trade-off.",
-          "src": "2024北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这个问题可以用\"狐狸式刺猬\"的风格来回答。___39___ 在成为刺猬还是狐狸之间做选择是一种虚假的取舍。"
-        },
-        {
           "s": "Carson uses a simple, direct style common to fable.",
           "src": "2023全国甲卷·语法填空",
           "cat": "gaokao",
           "year": 2023,
           "t": "卡森使用了寓言常见的简洁、直接的风格。"
-        },
-        {
-          "s": "Behind the simple style, however, is a serious message ___46___ (intend) for everyone.",
-          "src": "2023全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，在简洁的风格背后，是一个（第46空，intend）给每个人的严肃讯息。"
         },
         {
           "s": "Being at the right place at the right time is decisive in any style of photography.",
@@ -191,20 +163,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "以自己的风格表演。"
-        },
-        {
-          "s": "In any given office, employees can range from age 22 to 70 and beyond, and finding common ground in communication style can be a challenge. ___38___.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在任何一家办公室里，员工年龄可能从22岁到70岁甚至更大，要在沟通风格上找到共同点可能很难。___38___。"
-        },
-        {
-          "s": "—______ it is not your style, that doesn't mean it is bad. （    ）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "——______不是你的风格，但这并不意味着它不好。（）"
         },
         {
           "s": "They go out of style quickly.",
@@ -247,11 +205,11 @@
           "t": "第一段的风格也需要设定整段的基调."
         },
         {
-          "s": "Everybody wears___57___ same style of clothes.",
-          "src": "2019浙江卷",
+          "s": "Dutch plantsman and designer Piet Oudolf’s gardens popularized this style, adding artistic flavors to the planting mixes while playing with color and form, including four-season interest and serving the needs of wildlife.",
+          "src": "2025浙江1月卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "每个人____57____都穿一样的衣服"
+          "year": 2025,
+          "t": "荷兰园艺师兼设计师 Piet Oudolf 的花园推广了这种风格，在色彩和形态上做文章，增添了艺术气息，兼顾四季趣味并满足野生动物的需求。"
         }
       ]
     },
@@ -276,22 +234,7 @@
     },
     {
       "def": "to design, make or shape sth in a particular way 把 … 设计（或缝制、做）成某种式样",
-      "ex": [
-        {
-          "s": "Dutch plantsman and designer Piet Oudolf’s gardens popularized this style, adding artistic flavors to the planting mixes while playing with color and form, including four-season interest and serving the needs of wildlife.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "荷兰园艺师兼设计师 Piet Oudolf 的花园推广了这种风格，在色彩和形态上做文章，增添了艺术气息，兼顾四季趣味并满足野生动物的需求。"
-        },
-        {
-          "s": "To many people, ___59____lives is part of the job but styling hair is an ___60____ and should be rewarded.",
-          "src": "2021全国乙卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "对许多人来说，___59___生活是工作的一部分，但做发型是一项___60___，理应得到回报。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to give sb/sth/yourself a particular name or title 称呼；命名；称",
