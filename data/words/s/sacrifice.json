@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈsækrɪfaɪs; NAmE ˈsækrɪfaɪs",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -16,20 +16,6 @@
           "t": "人类倾向于做出长期的牺牲。"
         },
         {
-          "s": "What did Jennifer sacrifice to achieve her goal? （    ）",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "詹妮弗为了实现目标牺牲了什么？（    ）"
-        },
-        {
-          "s": "The local government doesn't have to sacrifice environmental protection ______ economic growth.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当地政府不必为了经济增长而牺牲环境保护______。"
-        },
-        {
           "s": "He sacrifices his true self in pursuit of physical beauty and pleasure, which leads to his destruction in the end.",
           "src": "外研社B6 U1",
           "cat": "waiyan",
@@ -42,6 +28,13 @@
           "cat": "waiyan",
           "year": null,
           "t": "救救列兵瑞安是一部难忘的战争电影,同时也是一部关于勇气和牺牲的故事."
+        },
+        {
+          "s": "The excerpt above is the most memorable stanza of his most famous poem For the Fallen, in which Binyon pledges that the living will not forget the sacrifice of the soldiers who gave their lives.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": null,
+          "t": "上面的节录是他最著名的诗\"法伦人\"中最令人难忘的诗篇,其中比尼翁保证活人不会忘记献出生命的士兵的牺牲."
         }
       ]
     },
@@ -53,11 +46,11 @@
       "def": "to give up sth that is important or valuable to you in order to get or do sth that seems more important for yourself or for another person 牺牲；献出",
       "ex": [
         {
-          "s": "The excerpt above is the most memorable stanza of his most famous poem For the Fallen, in which Binyon pledges that the living will not forget the sacrifice of the soldiers who gave their lives.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "year": null,
-          "t": "上面的节录是他最著名的诗\"法伦人\"中最令人难忘的诗篇,其中比尼翁保证活人不会忘记献出生命的士兵的牺牲."
+          "s": "What did Jennifer sacrifice to achieve her goal? （    ）",
+          "src": "2020全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "詹妮弗为了实现目标牺牲了什么？（    ）"
         }
       ]
     },

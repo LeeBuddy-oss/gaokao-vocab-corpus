@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ruːl; NAmE ruːl",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -41,12 +41,6 @@
           "src": "外研社B2 U3",
           "cat": "waiyan",
           "t": "我们今天所知的足球起源于英国，在那里这项运动被赋予了新的规则。"
-        },
-        {
-          "s": "Sport_________________________________________________________ Rules for the sport___________________________________________ Reasons for recommendation_______________________________ 1 Say what sport you would like to recommend.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "运动_________________________________________________________ 运动规则___________________________________________ 推荐理由_______________________________ 1 说出你想推荐什么运动。"
         },
         {
           "s": "The rules are as follows...",
@@ -89,13 +83,6 @@
           "t": "最坏的情况是，你复习并加深了对通常所运用规则的理解，以便下次能更加高效。"
         },
         {
-          "s": "Some of these cultural dining etiquette rules may seem random and strange, but they are important in various countries. ___40___, the more comfortable you’ll begin to feel with its foreign cultural practices.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "有些文化餐饮礼仪规则可能看起来是随机的和奇怪的,但它们在各国都很重要。 — — — 40 — — 越能从外国的文化习俗中感到舒适。"
-        },
-        {
           "s": "Everyone knew the rules.",
           "src": "2020江苏卷·阅读理解D",
           "cat": "gaokao",
@@ -124,7 +111,7 @@
           "t": "向他们解释规则。"
         },
         {
-          "s": "C．her effort to remind mom to obey traffic rules",
+          "s": "her effort to remind mom to obey traffic rules",
           "src": "2019天津卷·18．",
           "cat": "gaokao",
           "year": 2019,
@@ -184,6 +171,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "他们必须遵守特殊规则。"
+        },
+        {
+          "s": "The general rule is that mild zones have relatively few languages.",
+          "src": "2018全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一般规律是温带地区的语言相对较少。"
+        },
+        {
+          "s": "I was unwilling talk with him and often disobeyed his rule of not stay out with my friends too late.",
+          "src": "2022全国甲卷·短文改错",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我不愿意和他说话，经常违反他不让我和朋友在外面待太晚的规定。"
         }
       ]
     },
@@ -203,7 +204,7 @@
       "def": "the government of a country or control of a group of people by a particular person, group or system 统治；管理；支配；控制",
       "ex": [
         {
-          "s": "B．The rules governing food webs of the ecosystems．",
+          "s": "The rules governing food webs of the ecosystems．",
           "src": "2019天津卷·19．",
           "cat": "gaokao",
           "year": 2019,
@@ -225,13 +226,6 @@
     {
       "def": "to control and have authority over a country, a group of people, etc. 控制；统治；支配",
       "ex": [
-        {
-          "s": "The general rule is that mild zones have relatively few languages.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一般规律是温带地区的语言相对较少。"
-        },
         {
           "s": "He ruled over Botany Bay.",
           "src": "2023全国乙卷·阅读理解D",
@@ -269,20 +263,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "“我们可以排除狗只是根据诸如看到牙齿这样简单的线索来区分这些图片的可能性，”研究作者Corsin Muller说。"
-        },
-        {
-          "s": "I was unwilling talk with him and often disobeyed his rule of not stay out with my friends too late.",
-          "src": "2022全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我不愿意和他说话，经常违反他不让我和朋友在外面待太晚的规定。"
-        },
-        {
-          "s": "A number of _33_ ruled out that the children misunderstood what they were being asked.",
-          "src": "2022全国乙卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "结果很明显：我们的幼童参与者 _34_ 理解了问题并且知道 _35_ 问的是什么。"
         },
         {
           "s": "Yet, as I thought about Juan’s question, I was not sure how much more we could really rule out.",
