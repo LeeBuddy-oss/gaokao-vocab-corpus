@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈɪntəvjuː; NAmE ˈɪntərvjuː",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -44,27 +44,6 @@
           "t": "以下哪项最能描述作者的第一次小组面试？"
         },
         {
-          "s": "I had spent days ___18___ the interview and in the end, I didn’t even know what went wrong.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我花了好几天___18___那次面试，到头来甚至不知道哪里出了错。"
-        },
-        {
-          "s": "Years later, I found myself on the other side of the table, interviewing ____27____ for a position in my lab.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "多年以后，我发现自己坐到了桌子的另一侧，面试____27____来应聘我实验室的职位。"
-        },
-        {
-          "s": "I then told him where he could ____32____ in future interviews.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然后我告诉他在未来的面试中他可以在哪里____32____。"
-        },
-        {
           "s": "Why does the interviewer prefer a coworking space?",
           "src": "2021全国乙卷·阅读理解D",
           "cat": "gaokao",
@@ -100,18 +79,31 @@
           "t": "事实上，在面试中，一个要问的重要问题是：“作为雇员，我会被期望做什么？”在当今严峻的就业市场中，年轻的求职者需要向潜在雇主提供充分的理由来雇用他们。"
         },
         {
-          "s": "The job at the company was something I was capable of doing, but I didn’t feel ___23___ about it — and that showed in the interview.",
-          "src": "2024天津3月卷·完形填空",
+          "s": "Conducting an interview.",
+          "src": "2022新高考I卷",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "那家公司的活儿是我能胜任的，但我对此并不感到____23____——这一点在面试中显露了出来。"
+          "year": 2022,
+          "t": "进行一场面试。"
         },
         {
-          "s": "On paper, his application looked ____28____ , but the interview went badly.",
-          "src": "2024天津3月卷·完形填空",
+          "s": "Refer to the interview for ideas.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "参考采访来获取思路。"
+        },
+        {
+          "s": "● 34  Each interview that you get on the street shouldn’t be longer than ten minutes.",
+          "src": "2017浙江6月卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "从纸面上看，他的申请看起来____28____，但面试进行得很糟糕。"
+          "year": 2017,
+          "t": "● 34 你在街头做的每次采访不应超过十分钟。"
+        },
+        {
+          "s": "During an interview for one of my books, my interviewer said something I still think about often.",
+          "src": "2021全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "在接受我一本书的采访时,我的采访者说了一些我仍然经常想到的事情."
         }
       ]
     },
@@ -136,20 +128,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "“这对孩子们来说真是个很棒的33___，”一位邻居在接受当地报纸采访时说。"
-        },
-        {
-          "s": "They also need to be ready to give ___61___ (interview) in English with international journalists.",
-          "src": "2023新课标II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他们还需要随时准备用英语接受国际记者的___61___（interview）采访。"
-        },
-        {
-          "s": "The man-on-the-street interview is an interview in which a reporter hits the streets with a cameraman to interview people on the sport. _____31_____ But with these tips, your first man-on-the-street interview experience can be easy.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "街头采访是一种记者带着摄像师走上街头就某个话题采访路人的方式。_____31_____ 但有了这些建议，你的第一次街头采访经历可以变得轻松愉快。"
         }
       ]
     },
@@ -160,27 +138,6 @@
     {
       "def": "to talk to sb and ask them questions at a formal meeting to find out if they are suitable for a job, course of study, etc. 对（某人）进行面试（或面谈）",
       "ex": [
-        {
-          "s": "Conducting an interview.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "进行一场面试。"
-        },
-        {
-          "s": "Conducting an interview.",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "进行一场面试。"
-        },
-        {
-          "s": "Conducting an interview.",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "进行一场面试。"
-        },
         {
           "s": "Conducting a job interview.",
           "src": "2019全国I卷",
@@ -260,12 +217,6 @@
           "t": "采访者：那么，抬起头来吧。"
         },
         {
-          "s": "Refer to the interview for ideas.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "参考采访来获取思路。"
-        },
-        {
           "s": "He often interviews internet stars.",
           "src": "2022全国新高考II卷·阅读理解B",
           "cat": "gaokao",
@@ -280,13 +231,6 @@
           "t": "采访研究参与者。"
         },
         {
-          "s": "● 34  Each interview that you get on the street shouldn’t be longer than ten minutes.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "● 34 你在街头做的每次采访不应超过十分钟。"
-        },
-        {
           "s": "When your boss or professor sends you out to do man-on-the-street interviews for a story, think about the topic and develop a list of about ten general questions relating to it.",
           "src": "2017浙江6月卷·阅读理解C",
           "cat": "gaokao",
@@ -299,13 +243,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "进行六到十次采访是一个比较合适的数量。"
-        },
-        {
-          "s": "During an interview for one of my books, my interviewer said something I still think about often.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在接受我一本书的采访时,我的采访者说了一些我仍然经常想到的事情."
         },
         {
           "s": "37   We interviewed students and professors to get their advice about online courses.",
