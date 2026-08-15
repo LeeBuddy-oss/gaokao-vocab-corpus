@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "raʊnd; NAmE raʊnd",
-    "pos": "adjective",
+    "pos": "adj;adj;adj;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;adj;adj;verb;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -20,6 +20,13 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "带有圆形屋顶的原始铁皮电话亭于1926年首次出现。"
+        },
+        {
+          "s": "Putting a ball into a round hole.",
+          "src": "2022全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "把球放进圆孔里。"
         }
       ]
     },
@@ -30,13 +37,6 @@
     {
       "def": "a round figure or amount is one that is given as a whole number, usually one ending in 0 or 5 整数的；尾数是 0（或 5）的",
       "ex": [
-        {
-          "s": "But when we looked at the tomatoes, we were ___26___ because they were so misshapen: not at all like the nice, round, ___27___ things you get in a supermarket.",
-          "src": "2023全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但当我们看到那些西红柿时，我们很___26___，因为它们长得奇形怪状：一点也不像超市里那种漂亮、圆润、___27___的西红柿。"
-        },
         {
           "s": "Is the psychologist wearing little round glasses and smoking a cigar more insightful?",
           "src": "2017浙江11月卷·阅读理解B",
@@ -90,12 +90,6 @@
           "src": "外研社B2 U6",
           "cat": "waiyan",
           "t": "他开始把人视为对鲨鱼的威胁，而不是反过来。"
-        },
-        {
-          "s": "People eat and make money to be able to 2_________________, not the other way round.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "人们吃饭和赚钱是为了能够2_________________，而不是反过来。"
         }
       ]
     },
@@ -236,15 +230,7 @@
     },
     {
       "def": "to increase or decrease a number to the next highest or lowest whole number （将数字调高或调低）使成为整数；把（数字）四舍五入",
-      "ex": [
-        {
-          "s": "Putting a ball into a round hole.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "把球放进圆孔里。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to finish an activity or complete sth in a good or suitable way 圆满结束；圆满完成",
