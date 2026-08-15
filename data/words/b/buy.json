@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "baɪ; NAmE baɪ",
-    "pos": "verb",
+    "pos": "verb; verb; verb; verb; verb; verb; verb; verb; verb; noun; noun",
     "stars": ""
   },
   "defs": [
@@ -105,13 +105,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "我想给家人买纪念品，所以我打算带300美元现金。"
-        },
-        {
-          "s": "No matter where I buy them, one steamer is ____44____ (rare) enough, yet two seems greedy, so I am always left _____45_____ (want) more next time.",
-          "src": "2023新课标I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "无论我在哪里买，一笼总是____44____（rare）不够，但两笼又显得贪心，所以我总是_____45_____（want）期待下次再多吃点。"
         },
         {
           "s": "When I decided to buy a house in Europe ten years ago, I didn't think too long.",
@@ -392,6 +385,20 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "最近，我们买了一辆二十八英尺长的旅居拖车，配有浴室和内置电视机。"
+        },
+        {
+          "s": "If the consumer has X amount of money and wants to buy two goods A and B, she can only purchase goods totaling X.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果消费者有X金额的钱并且想购买两种商品A和B，她只能购买总计X的商品。"
+        },
+        {
+          "s": "Given a limited amount of money, a consumer can only spend that same amount buying goods.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果消费者需要数量为A的商品花费0.75，那么她只能在购买B时花费剩余的0.25X。"
         }
       ]
     },
@@ -466,13 +473,6 @@
       "def": "to buy shares in a company, especially in order to gain some control over it 购买公司股份（尤指为取得部分控制权）",
       "ex": [
         {
-          "s": "We can't ______ I buying a new printer for our company.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们不能______为公司买一台新打印机。"
-        },
-        {
           "s": "How to control the budget when buying groceries.",
           "src": "2023浙江1月卷·阅读理解B",
           "cat": "gaokao",
@@ -524,22 +524,7 @@
     },
     {
       "def": "a thing that is worth the money that you pay for it 合算的商品",
-      "ex": [
-        {
-          "s": "If the consumer has X amount of money and wants to buy two goods A and B, she can only purchase goods totaling X.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果消费者有X金额的钱并且想购买两种商品A和B，她只能购买总计X的商品。"
-        },
-        {
-          "s": "Given a limited amount of money, a consumer can only spend that same amount buying goods.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果消费者需要数量为A的商品花费0.75，那么她只能在购买B时花费剩余的0.25X。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "something that is bought or that is for sale; the act of buying sth 买进（或出售）的东西；购买",
