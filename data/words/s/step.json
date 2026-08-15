@@ -1,20 +1,13 @@
 {
   "meta": {
     "ph": "step; NAmE step",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
     {
       "def": "the act of lifting your foot and putting it down in order to walk or move somewhere; the sound this makes 迈步；脚步声",
       "ex": [
-        {
-          "s": "The ____49____ (remark) development of this city, which is consciously designed to protect the past while stepping into the modern world, _____50_____ (mean) there is always something new to discover here, and I could be photographing Beijing for the next 50 years.",
-          "src": "2023全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这座城市____49____（remark）非凡的发展——有意识地设计为在迈向现代世界的同时保护过去——_____50_____（mean）意味着这里总有新东西等待发现，我可以在未来50年里一直拍摄北京。"
-        },
         {
           "s": "Following the passengers’ steps.",
           "src": "2022天津4月卷·阅读理解B",
@@ -45,25 +38,11 @@
           "t": "虽然攀登珠穆朗玛峰可能有些太过了，但你有一种健康的冒险精神。"
         },
         {
-          "s": "Unexpectedly, a man ____14____ (step) forward, handed his card to the cashier and said, “Let me help.”",
-          "src": "2026北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "出乎意料地，一名男子____14____（走上前），把他的卡递给收银员说：“我来帮忙。”"
-        },
-        {
           "s": "Volunteering can be the first step in breaking down prejudice.",
           "src": "2025新高考II卷·七选五",
           "cat": "gaokao",
           "year": 2025,
           "t": "后来我注意到人们在春季大扫除时往那里放了很多装满各种书籍的大箱子。"
-        },
-        {
-          "s": "This process requires you to step away from optional online activities for thirty days.",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这个过程要求你远离可选的线上活动三十天。"
         },
         {
           "s": "Taking responsibility for mistakes is a positive step, but don’t beat yourself up about them.",
@@ -157,19 +136,6 @@
           "t": "一个周一早晨，当孩子们正享受自由玩耍时，我走到教室门口休息一下。"
         },
         {
-          "s": "He was the commander of the Apollo 11 manned lunar landing mission, and was the first man to step on the lunar surface.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "他是阿波罗11号载人登月任务的指挥官，也是第一个踏上月球表面的人。"
-        },
-        {
-          "s": "Experts say Paris is right: For a sudden heart failure, the single best chance for survival is having someone nearby step in and do CPR quickly.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "专家们说巴黎的做法是对的：对于突发性心脏骤停，唯一的最佳生存机会是有人就近挺身而出并迅速实施心肺复苏术。"
-        },
-        {
           "s": "A grasp of how to manage color in your spaces is one of the first steps to creating rooms you’ll love to live in.",
           "src": "2018全国I卷·七选五",
           "cat": "gaokao",
@@ -245,13 +211,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "根据她的研究，跑步者每步落地时对地面的冲击力可达体重的四倍，而竞走者不离开地面，每步只产生约1.4倍体重的冲击。"
-        },
-        {
-          "s": "Walking at night-time is a great way to step out of your comfort zone.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "夜间徒步是走出舒适区的好方法。"
         }
       ]
     },
@@ -316,7 +275,7 @@
           "src": "2018天津卷",
           "cat": "gaokao",
           "year": 2018,
-          "t": "现在我们生活在一个充满\"做不到\"的态度的世界里。我们都会跌倒。我们都有疑虑和遗憾。但我们仍然必须攀登，梦想着我们山顶上有什么。怪物可能会出现，或者黑夜将会降临。但永远不要放弃你的梦想！"
+          "t": "我爬啊爬。那里只有绿色的灌木丛和这些台阶。我必须到达山顶！"
         }
       ]
     },
@@ -330,7 +289,35 @@
     },
     {
       "def": "to walk carefully 走路小心",
-      "ex": []
+      "ex": [
+        {
+          "s": "This process requires you to step away from optional online activities for thirty days.",
+          "src": "2023新课标I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这个过程要求你远离可选的线上活动三十天。"
+        },
+        {
+          "s": "He was the commander of the Apollo 11 manned lunar landing mission, and was the first man to step on the lunar surface.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他是阿波罗11号载人登月任务的指挥官，也是第一个踏上月球表面的人。"
+        },
+        {
+          "s": "Experts say Paris is right: For a sudden heart failure, the single best chance for survival is having someone nearby step in and do CPR quickly.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "专家们说巴黎的做法是对的：对于突发性心脏骤停，唯一的最佳生存机会是有人就近挺身而出并迅速实施心肺复苏术。"
+        },
+        {
+          "s": "Walking at night-time is a great way to step out of your comfort zone.",
+          "src": "2024新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "夜间徒步是走出舒适区的好方法。"
+        }
+      ]
     },
     {
       "def": "to behave in a careful and sensible way 言行小心谨慎",

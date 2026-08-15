@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "stəʊn; NAmE stoʊn",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -14,6 +14,13 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "与其把计划定死，我学到了有时候我需要抓住提供的机会，即使当时听起来并不完美，并且充分利用它们。"
+        },
+        {
+          "s": "It stops on the stone floor — and then turns, moving slowly towards a different corner of the cave, where the wind is calmer and the flies more plentiful.",
+          "src": "2026北京卷·写作问答",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "它停在石地上——然后转身，缓缓爬向洞穴的另一个角落，那里风更平静，苍蝇也更多。"
         }
       ]
     },
@@ -32,18 +39,19 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "通常，他们最终会用小石子填满该区域，并用化学药剂控制杂草。"
+        },
+        {
+          "s": "robbing Peter to pay Paul                 D. killing two birds with one stone",
+          "src": "2020浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "当今世界对年轻人来说并不容易适应。"
         }
       ]
     },
     {
       "def": "a piece of stone shaped for a particular purpose 通常构成复合词",
       "ex": [
-        {
-          "s": "David 1 as busy as a(n) __________ 2 kill two __________ with one stone 3 When the cat’s away, the __________ will play.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "大卫　1 像____一样忙（as busy as a bee 像蜜蜂一样忙）　2 一石二____（kill two birds with one stone 一石二鸟）　3 猫儿不在，____作怪（When the cat's away, the mice will play 猫走鼠称王）。"
-        },
         {
           "s": "What was Prof Stone's grandfather afraid of?",
           "src": "2021全国甲卷",
@@ -99,6 +107,13 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "桃子等黄色和橙色核果富含类胡萝卜素，我们将其转化为维生素A，且它们是抗氧化剂。"
+        },
+        {
+          "s": "However, the stone tool made by Neanderthals suggests otherwise.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "上周末在我们全家在韦尔镇聚会后，我对人性的信任从未如此之高。"
         }
       ]
     },
@@ -125,13 +140,6 @@
           "t": "在荷兰海滩上___8___（find）的一块石头表明，我们已灭绝的人类近亲——尼安德特人，"
         },
         {
-          "s": "robbing Peter to pay Paul                 D. killing two birds with one stone",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当今世界对年轻人来说并不容易适应。"
-        },
-        {
           "s": "I really can’t believe she’s made of stone.",
           "src": "外研社B3 U4",
           "cat": "waiyan",
@@ -148,20 +156,6 @@
           "src": "外研社B1 U6",
           "cat": "waiyan",
           "t": "你必须小心掉下来的石头。"
-        },
-        {
-          "s": "It stops on the stone floor — and then turns, moving slowly towards a different corner of the cave, where the wind is calmer and the flies more plentiful.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它停在石地上——然后转身，缓缓爬向洞穴的另一个角落，那里风更平静，苍蝇也更多。"
-        },
-        {
-          "s": "However, the stone tool made by Neanderthals suggests otherwise.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "上周末在我们全家在韦尔镇聚会后，我对人性的信任从未如此之高。"
         }
       ]
     },

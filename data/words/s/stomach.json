@@ -1,33 +1,25 @@
 {
   "meta": {
     "ph": "ˈstʌmək; NAmE ˈstʌmək",
-    "pos": "noun",
+    "pos": "noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
     {
-      "def": "to not want to eat sth 不想吃 … ；对 … 没有胃口",
+      "def": "the organ in the body where food is digested 胃；肚子",
       "ex": [
         {
-          "s": "As a foodie, the way to my heart is through my stomach, and nowhere fuels my ___29___ quite like Italy.",
-          "src": "2024新高考II卷·完形填空",
+          "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
+          "src": "2025新高考I卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "作为吃货，打动我的路要经过我的胃，没有什么地方比意大利更能点燃我的___29___。"
+          "year": 2025,
+          "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
         },
         {
-          "s": "His judgment and references are decidedly American, as well as his delicate stomach.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他的判断和参考明显是美国式的他那脆弱的胃也是如此。"
-        },
-        {
-          "s": "For those who can stomach it, working out before breakfast may be more beneficial for health than eating first, according to a study of meal timing and physical activity.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据一项关于进餐时间与身体活动的研究，对那些能承受的人来说，早餐前锻炼可能比先吃饭更有益健康。"
+          "s": "In the skeleton, a person lies on his or her stomach on the sled, with his or her head pointing downhill!",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "在骨架上,一个人躺在雪橇上的肚子上,头朝下指向山坡!"
         },
         {
           "s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.",
@@ -35,20 +27,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"
-        },
-        {
-          "s": "The underlined expression “stomach it” in Paragraph 1 most probably means “______”.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第1段中划线的“stomach it”很可能意味着“______”。"
-        },
-        {
-          "s": "I began a second drawer for more general discoveries: new cave system discovered with dozens of nameless species, four hundred species of bacteria found in the human stomach.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我开始了第二个抽屉，用来放更一般的发现：被发现的有几十种无名物种的新洞穴系统、在人体胃部发现的四百种细菌。"
         },
         {
           "s": "On the first day of my first grade，I stood by the door with butterflies in my stomach.",
@@ -101,31 +79,42 @@
           "src": "人教选必1 U4",
           "cat": "renjiao",
           "t": "说“我饱了”的好方法就是在一顿饭之后,把你的手圈在你的胃上。"
+        },
+        {
+          "s": "I began a second drawer for more general discoveries: new cave system discovered with dozens of nameless species, four hundred species of bacteria found in the human stomach.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我开始了第二个抽屉，用来放更一般的发现：被发现的有几十种无名物种的新洞穴系统、在人体胃部发现的四百种细菌。"
+        }
+      ]
+    },
+    {
+      "def": "to not want to eat sth 不想吃 … ；对 … 没有胃口",
+      "ex": [
+        {
+          "s": "His judgment and references are decidedly American, as well as his delicate stomach.",
+          "src": "2020全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他的判断和参考明显是美国式的他那脆弱的胃也是如此。"
+        },
+        {
+          "s": "For those who can stomach it, working out before breakfast may be more beneficial for health than eating first, according to a study of meal timing and physical activity.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "根据一项关于进餐时间与身体活动的研究，对那些能承受的人来说，早餐前锻炼可能比先吃饭更有益健康。"
         }
       ]
     },
     {
       "def": "to not have the desire or courage to do sth 没有做某事的欲望（或勇气）",
-      "ex": [
-        {
-          "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to approve of sth and be able to enjoy it; to enjoy being with a person 欣赏；欣然接受；喜欢和 … 相处",
-      "ex": [
-        {
-          "s": "In the skeleton, a person lies on his or her stomach on the sled, with his or her head pointing downhill!",
-          "src": "人教B1 U5",
-          "cat": "renjiao",
-          "t": "在骨架上,一个人躺在雪橇上的肚子上,头朝下指向山坡!"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to be able to eat sth without feeling ill/sick 能吃；吃得下",

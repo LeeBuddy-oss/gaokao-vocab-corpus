@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "stɔː(r); NAmE stɔːr",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -48,13 +48,6 @@
           "src": "外研社B5 U3",
           "cat": "waiyan",
           "t": "当我匆忙赶到书店时，看到那些书已经在被打包装箱了。"
-        },
-        {
-          "s": "There, he had to ___49___ at some  different stores or restaurants before finding food.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在那里，他不得不在一些不同的商店或餐馆____49____后才能找到食物。"
         }
       ]
     },
@@ -184,26 +177,12 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "当收银员扫描完所有商品后，爸爸伸手去拿钱包，却愣住了。"
-        },
-        {
-          "s": "Lockers are available to store any belongings during your visit.",
-          "src": "2017全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "参观期间可使用储物柜存放任何随身物品。"
         }
       ]
     },
     {
       "def": "a place where goods of a particular kind are kept 仓库；贮藏所",
       "ex": [
-        {
-          "s": "Museums are not only places to store artworks, but also spaces for learning.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "博物馆不仅是存放艺术品的场所，也是学习的空间。"
-        },
         {
           "s": "Jaramillo’s students live in neighborhoods where fresh food and green space are not easy to find and fast food restaurants outnumber grocery stores.",
           "src": "2023新课标II卷·阅读理解B",
@@ -236,6 +215,20 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "他将这些浪费的水引入浅水池中冻结储存，直到春天使用。"
+        },
+        {
+          "s": "Museums are not only places to store artworks, but also spaces for learning.",
+          "src": "2026新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "博物馆不仅是存放艺术品的场所，也是学习的空间。"
+        },
+        {
+          "s": "Lockers are available to store any belongings during your visit.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "参观期间可使用储物柜存放任何随身物品。"
         }
       ]
     },
