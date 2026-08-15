@@ -1,48 +1,13 @@
 {
   "meta": {
     "ph": "kraɪ; NAmE kraɪ",
-    "pos": "verb",
+    "pos": "verb; verb; verb; noun; noun; noun; noun; noun; noun",
     "stars": ""
   },
   "defs": [
     {
       "def": "to produce tears from your eyes because you are unhappy or hurt 哭；哭泣",
       "ex": [
-        {
-          "s": "But Jeff’s hand touched the hot burner and he gave a cry of pain.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但杰夫的手碰到了热的炉盘，他痛得叫了一声。"
-        },
-        {
-          "s": "But Jeff’s hand touched the hot burner and he gave a cry of pain.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但杰夫的手碰到了热的炉盘，他痛得叫了一声。"
-        },
-        {
-          "s": "For some moments, John said nothing, but, suddenly, he sprang to his feet and cried, “I have a great idea!",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "约翰沉默了片刻，但忽然一跃而起，喊道：“我有个好主意！”"
-        },
-        {
-          "s": "For some moments, John said nothing, but, suddenly, he sprang to his feet and cried, “I have a great idea!",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "约翰沉默了片刻，但忽然一跃而起，喊道：“我有个好主意！”"
-        },
-        {
-          "s": "\"Don’t be late for supper,\" Uncle Paul cried, \"and keep to the track so that you don’t get lost!\" \"OK! \" my dad cried back.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“晚饭别迟到了，”保罗叔叔喊道，“沿着小路走，这样你们就不会迷路！”“好的！”我爸爸大声回应。"
-        },
         {
           "s": "She surfaces, cries in fear, then disappears forever.",
           "src": "外研社B2 U6",
@@ -77,24 +42,26 @@
       "def": "to shout loudly 喊叫；呼喊；呼叫",
       "ex": [
         {
-          "s": "Perhaps the neighbors just happened to “overhear” the cry.",
-          "src": "2017全国II卷·阅读理解D",
+          "s": "For some moments, John said nothing, but, suddenly, he sprang to his feet and cried, “I have a great idea!",
+          "src": "2020全国新高考I卷·读后续写",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "也许邻居们只是恰好\"无意中听到\"了这声呼喊。"
+          "year": 2020,
+          "t": "约翰沉默了片刻，但忽然一跃而起，喊道：“我有个好主意！”"
         },
         {
-          "s": "Perhaps the neighbors just happened to “overhear” the cry.",
-          "src": "2017重庆卷·阅读理解D",
+          "s": "For some moments, John said nothing, but, suddenly, he sprang to his feet and cried, “I have a great idea!",
+          "src": "2020全国新高考II卷·读后续写",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "也许邻居们只是恰好\"无意中听到\"了这声呼喊。"
-        }
-      ]
-    },
-    {
-      "def": "to make a loud unpleasant noise 鸟或动物",
-      "ex": [
+          "year": 2020,
+          "t": "约翰沉默了片刻，但忽然一跃而起，喊道：“我有个好主意！”"
+        },
+        {
+          "s": "\"Don’t be late for supper,\" Uncle Paul cried, \"and keep to the track so that you don’t get lost!\" \"OK! \" my dad cried back.",
+          "src": "2018浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "“晚饭别迟到了，”保罗叔叔喊道，“沿着小路走，这样你们就不会迷路！”“好的！”我爸爸大声回应。"
+        },
         {
           "s": "“Let's make a cake for Dad!” I cried.",
           "src": "2021天津3月卷·阅读理解B",
@@ -103,6 +70,10 @@
           "t": "“我们给爸爸做个蛋糕吧！”我喊道。"
         }
       ]
+    },
+    {
+      "def": "to make a loud unpleasant noise 鸟或动物",
+      "ex": []
     },
     {
       "def": "a loud sound without words that expresses a strong feeling （表达强烈感情的）叫喊，叫声",
@@ -125,7 +96,36 @@
     },
     {
       "def": "a loud shout 大喊；大叫；呼喊",
-      "ex": []
+      "ex": [
+        {
+          "s": "But Jeff’s hand touched the hot burner and he gave a cry of pain.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "但杰夫的手碰到了热的炉盘，他痛得叫了一声。"
+        },
+        {
+          "s": "But Jeff’s hand touched the hot burner and he gave a cry of pain.",
+          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "但杰夫的手碰到了热的炉盘，他痛得叫了一声。"
+        },
+        {
+          "s": "Perhaps the neighbors just happened to “overhear” the cry.",
+          "src": "2017全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "也许邻居们只是恰好\"无意中听到\"了这声呼喊。"
+        },
+        {
+          "s": "Perhaps the neighbors just happened to “overhear” the cry.",
+          "src": "2017重庆卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "也许邻居们只是恰好\"无意中听到\"了这声呼喊。"
+        }
+      ]
     },
     {
       "def": "the sound made by a bird or an animal （鸟的）鸣叫，啼叫；（动物的）嗥叫，吠",
@@ -150,25 +150,11 @@
       "def": "an action or a period of crying 哭；一阵哭泣",
       "ex": [
         {
-          "s": "As reported by a local newspaper, Bailey was more than two-thirds of the way through her ____24____ when a runner in front of her began crying in pain.",
-          "src": "2023新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "据当地一家报纸报道，贝利在____24____已完成超过三分之二时，她前面的一名跑步者开始痛苦地哭喊。"
-        },
-        {
           "s": "“She was just crying.",
           "src": "2023新高考I卷·完形填空",
           "cat": "gaokao",
           "year": 2023,
           "t": "“她只是在哭。"
-        },
-        {
-          "s": "He was ___44___, and his crying let the whole campground know it.",
-          "src": "2022全国新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他___44___了，他的哭声让整个营地都知道了。"
         },
         {
           "s": "Mom  41  me to start crying, but I just sat there for a minute.",

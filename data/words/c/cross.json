@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "krɒs; NAmE krɔːs",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; noun; noun; verb; verb; verb; verb; verb; verb; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -23,22 +23,7 @@
     },
     {
       "def": "the cross that Jesus Christ died on, used as a symbol of Christianity （耶稣钉死在上面的）十字架",
-      "ex": [
-        {
-          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。",
-          "year": 2018
-        },
-        {
-          "s": "All you have to do is cross out the wrong words.” But he is equally well known for his witty remarks in his everyday interactions with people.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "你只需要划掉错误的词。\"但他同样以其在日常交往中机智幽默的言辞而闻名。",
-          "year": ""
-        }
-      ]
+      "ex": []
     },
     {
       "def": "an object, a design, a piece of jewellery, etc. in the shape of a cross, used as a symbol of Christianity 十字架物品（或设计、首饰等）",
@@ -82,13 +67,6 @@
           "year": 2023
         },
         {
-          "s": "On the 1,100 kilometer journey, the man Cao Shengkang, ___62___ lost his eyesight at the age of eight in a car accident, crossed 40 cities and counties in three province.",
-          "src": "2022全国甲卷·语法填空",
-          "cat": "gaokao",
-          "t": "在1100公里的旅程中，曹盛康先生___62___八岁时因车祸失明，穿越三省的40个市县。",
-          "year": 2022
-        },
-        {
           "s": "My family and I have managed to cross the North American continent, from western to eastern Canada, in two weeks!",
           "src": "外研社B2 U5",
           "cat": "waiyan",
@@ -101,6 +79,20 @@
           "cat": "waiyan",
           "t": "即使在GPS的帮助下我们也迷路了几次，但最终我们还是成功穿越了落基山脉。",
           "year": ""
+        },
+        {
+          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。",
+          "year": 2018
+        },
+        {
+          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。",
+          "year": 2020
         }
       ]
     },
@@ -134,19 +126,19 @@
     },
     {
       "def": "to draw a line across sth 画横线于",
-      "ex": []
+      "ex": [
+        {
+          "s": "All you have to do is cross out the wrong words.” But he is equally well known for his witty remarks in his everyday interactions with people.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "你只需要划掉错误的词。\"但他同样以其在日常交往中机智幽默的言辞而闻名。",
+          "year": ""
+        }
+      ]
     },
     {
       "def": "to make the sign of the cross (= the Christian symbol) on your chest （在胸口上）画十字圣号",
-      "ex": [
-        {
-          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。",
-          "year": 2020
-        }
-      ]
+      "ex": []
     }
   ]
 }
