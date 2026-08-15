@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "bɜːd; NAmE bɜːrd",
-    "pos": "noun",
+    "pos": "noun; noun; noun; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -70,13 +70,6 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "尼克·伯奇尔被加拿大维多利亚的费尔蒙帝后大酒店列入黑名单，至少有一部分责任要归咎于海边的鸟。"
-        },
-        {
-          "s": "They rushed to the window, 30 or 40 birds all trying to _____33_____ at the same time, and pepperoni—everywhere.",
-          "src": "2021全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他们冲向窗户，30或40只鸟都试图同时_____33_____，到处都是意大利辣香肠。"
         },
         {
           "s": "A flood had hit the area earlier that year and the   24    it caused had driven away a number of birds.",
@@ -149,14 +142,14 @@
           "t": "（3）观鸟者的行为表明他们     。"
         },
         {
-          "s": "C． care only about the names of birds",
+          "s": "care only about the names of birds",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
           "t": "A．自然美景对他们没有吸引力。"
         },
         {
-          "s": "D． They are keen to see rare birds at the destination．",
+          "s": "They are keen to see rare birds at the destination．",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
@@ -191,20 +184,6 @@
           "t": "政府可以在征得用户同意的情况下命令共享某些类型的数据。"
         },
         {
-          "s": "Embryonic learning helps mother birds to identify the baby birds which __________.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "胚胎学习帮助母鸟辨认出那些__________的雏鸟。"
-        },
-        {
-          "s": "______ birds use their feathers for flight, some of their feathers are for other purposes.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "鸟利用羽毛飞行,部分羽毛用于其他目的."
-        },
-        {
           "s": "Why are young birds drawn to the road surface？",
           "src": "2019全国I卷",
           "cat": "gaokao",
@@ -224,13 +203,6 @@
           "cat": "waiyan",
           "year": "",
           "t": "这些梯田也为鸟类和鱼类提供了一个完美的环境。"
-        },
-        {
-          "s": "They serve as the 4__________for various birds and fish, and are very important to the 5___________.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "它们为各种鸟类和鱼类充当4__________，对5___________非常重要。"
         },
         {
           "s": "Water birds playing in the lake, and cattle and sheep wandering the grasslands bring the scenery to life.",
@@ -254,13 +226,6 @@
           "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
         },
         {
-          "s": "The movements have ____62____ (describe) names like “holding the bowl” and “grabbing the bird’s tail.”",
-          "src": "2026新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这些动作有____62____（describe）像'抱球'和'抓鸟尾'这样的名称。"
-        },
-        {
           "s": "And next time you look up at the sky don’t just look for rain crowds, but also for birds.",
           "src": "外研社B3 U6",
           "cat": "waiyan",
@@ -273,6 +238,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "聆听人声的音乐、鸟儿的歌唱、管弦乐队雄浑的乐章，就好像明天你会失去听觉一样。"
+        },
+        {
+          "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
         }
       ]
     },
@@ -290,15 +262,7 @@
     },
     {
       "def": "to make a rude sign at sb with your middle finger; to have this sign made at you 向某人竖起中指（表示侮辱）；受到竖中指的侮辱",
-      "ex": [
-        {
-          "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
-        }
-      ]
+      "ex": []
     }
   ]
 }
