@@ -1,27 +1,13 @@
 {
   "meta": {
     "ph": "teɪst; NAmE teɪst",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
     {
       "def": "the particular quality that different foods and drinks have that allows you to recognize them when you put them in your mouth 味道；滋味",
       "ex": [
-        {
-          "s": "Nowadays supermarket tomatoes ___34___ perfect but taste of water.",
-          "src": "2023全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如今超市里的西红柿___34___完美，吃起来却像水一样没味道。"
-        },
-        {
-          "s": "What Mario had ___40___ us was the taste of the Garfagnana.",
-          "src": "2023全国甲卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "马里奥___40___给我们的，是加尔法尼亚纳的味道。"
-        },
         {
           "s": "It lacks authentic tastes.",
           "src": "2023全国乙卷·阅读理解C",
@@ -42,13 +28,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "对肉的喜好是这一变化背后的___63___（actual）原因：其玉米的重要部分被用来喂养鸡、猪和牛。"
-        },
-        {
-          "s": "38     French strawberries do not taste like cardboard.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "相反，它们在你嘴里像小味蕾炸弹一样绽放。"
         },
         {
           "s": "They have a pleasant taste.",
@@ -84,7 +63,15 @@
     },
     {
       "def": "a small quantity of food or drink that you try in order to see what it is like 少许尝的东西；一口；一点儿",
-      "ex": []
+      "ex": [
+        {
+          "s": "Enjoy fun history as we take you through San Francisco for a free taste of ice cream.",
+          "src": "2017全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "在旧金山免费品尝冰淇淋的同时，享受有趣的历史之旅吧。"
+        }
+      ]
     },
     {
       "def": "a short experience of sth 体验；尝试",
@@ -92,7 +79,22 @@
     },
     {
       "def": "a person's ability to choose things that people recognize as being of good quality or appropriate 鉴赏力；欣赏力",
-      "ex": []
+      "ex": [
+        {
+          "s": "It satisfies readers’ taste.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它满足读者的口味。"
+        },
+        {
+          "s": "The steady improvement in her taste.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "向注册办公室提出请求。"
+        }
+      ]
     },
     {
       "def": "what a person likes or prefers 爱好；志趣",
@@ -129,25 +131,11 @@
           "t": "她极其漂亮，她的房子是___61___（她）的写照，一切都很有品位、井井有条。"
         },
         {
-          "s": "A． People should have good taste to enjoy life．",
+          "s": "People should have good taste to enjoy life．",
           "src": "2018天津卷·阅读理解B",
           "cat": "gaokao",
           "year": 2018,
           "t": "A．人应有好品味才能享受生活。"
-        },
-        {
-          "s": "It satisfies readers’ taste.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它满足读者的口味。"
-        },
-        {
-          "s": "The steady improvement in her taste.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "向注册办公室提出请求。"
         },
         {
           "s": "It's smooth and creamy with fresh strawberries, which give it a lovely sweet and fruity taste.",
@@ -161,6 +149,13 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "在她30多岁时，她意识到，尽管她已协助创作了40多本烹饪书，她却不知道如何做出有家乡味道的菜。"
+        },
+        {
+          "s": "38     French strawberries do not taste like cardboard.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "相反，它们在你嘴里像小味蕾炸弹一样绽放。"
         }
       ]
     },
@@ -181,13 +176,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "“城市萌芽”的课程在两所初中和两所高中开设，内容包括动手实验，如土壤检测、花和种子的解剖、品尝新鲜或晒干的农产品，以及在菜园里劳动。"
-        },
-        {
-          "s": "Enjoy fun history as we take you through San Francisco for a free taste of ice cream.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在旧金山免费品尝冰淇淋的同时，享受有趣的历史之旅吧。"
         },
         {
           "s": "When fat and salt     64     (remove) from food, the food tastes as if is missing something.",
@@ -227,13 +215,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "厨师的帽子会让做出来的食物更好吃吗？"
-        },
-        {
-          "s": "Xiao long bao (soup dumplings), those amazing constructions of delicate dumpling wrappers, encasing hot, ____36____ (taste) soup and sweet, fresh meat, are far and away my favorite Chinese street food.",
-          "src": "2023新课标I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "小笼包（汤包），那些由精致面皮包裹着的奇妙杰作，里面包着滚烫____36____（taste）的汤汁和香甜鲜嫩的肉馅，绝对是我最喜欢的中国街头小吃。"
         }
       ]
     },
