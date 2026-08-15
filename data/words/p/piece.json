@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "piːs; NAmE piːs",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -30,20 +30,6 @@
           "t": "首先我把西红柿切成块，但把它们放在一边。"
         },
         {
-          "s": "On the edge of the jacket, there is a piece of cloth ___58___gives off light in the dark.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "夹克衫的边缘有一块在黑暗中会发光的布___58___。"
-        },
-        {
-          "s": "In a journal or on a piece of paper, put the heading “Personal strengths.” ____17____ Are you caring?",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在日记本或一张纸上，写上标题\"个人优势\"。____17____ 你有同理心吗？"
-        },
-        {
           "s": "Today, there are over 4,000 people in London waiting for such pieces of land.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
@@ -56,6 +42,20 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "在荷兰海滩上___8___（find）的一块石头表明，我们已灭绝的人类近亲——尼安德特人，"
+        },
+        {
+          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+          "src": "2022浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上,几乎没有网球场规模的细小森林正在出现,这为野生动物和当地人提供了一个大好地方,他们通常无法轻易进入大自然。"
+        },
+        {
+          "s": "For the second test, in one case the thin actor took two pieces of candy from the snack bowls.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "第二项测试中，一种情况是瘦演员从零食碗里拿了两块糖。"
         }
       ]
     },
@@ -152,6 +152,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "我们也可以说，蝴蝶能察觉一天中的时间和太阳在天空中的位置，从而利用这两点信息来判断该往哪个方向飞。"
+        },
+        {
+          "s": "When scanning a text, you read it quickly in order to find a specific piece of information.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "在扫描一个文本时,您会快速读取,以便找到一个特定的信息片段."
         }
       ]
     },
@@ -262,13 +269,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "即使没有登记单，一份好的乔迁礼物是用来装饰新家的东西，比如一件艺术品或一盆植物。"
-        },
-        {
-          "s": "After ___44___ (spend) some time looking at all the defensive equipment at the wall, we decided it was time for some action and what ___45___ (good) than to ride on a piece of history!",
-          "src": "2021全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在（第44空，spend）一些时间观看城墙上所有防御装备后，我们决定是时候行动了，还有什么（第45空，good）于骑上一件历史呢！"
         }
       ]
     },
@@ -299,13 +299,6 @@
     {
       "def": "one of the small figures or objects that you move around in games such as chess 棋子",
       "ex": [
-        {
-          "s": "Tu says that the balance between the black and white pieces, the beauty in the ____63____ (strategy) placement of the pieces, ____64____ the energy flow following each move inspired artists to create oil paintings, sculptures, ____65____ (digital) generated pictures and silk-screen prints for the exhibition.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "涂说，黑白棋子之间的平衡、棋子____63____（战略性）摆放的美感，____64____每一步之后能量流动的气息，启发了艺术家为展览创作油画、雕塑、____65____（数字）生成的图画和丝网版画。"
-        },
         {
           "s": "It’s not really a good idea to use too many small color pieces",
           "src": "2018全国I卷·七选五",
@@ -351,13 +344,6 @@
           "cat": "gaokao",
           "year": 2018,
           "t": "中等色彩选择通常是沙发、餐桌或书架等家具____39____。"
-        },
-        {
-          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上,几乎没有网球场规模的细小森林正在出现,这为野生动物和当地人提供了一个大好地方,他们通常无法轻易进入大自然。"
         }
       ]
     },
@@ -408,25 +394,11 @@
       "def": "to understand a story, situation, etc. by taking all the facts and details about it and putting them together 组合资料（以便了解情况）",
       "ex": [
         {
-          "s": "For the second test, in one case the thin actor took two pieces of candy from the snack bowls.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二项测试中，一种情况是瘦演员从零食碗里拿了两块糖。"
-        },
-        {
-          "s": "When scanning a text, you read it quickly in order to find a specific piece of information.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "在扫描一个文本时,您会快速读取,以便找到一个特定的信息片段."
-        },
-        {
           "s": "The movements of the black and white pieces reflect the basic ideas of Eastern philosophy, according to Tu Ningning, who is in charge of the exhibition.",
           "src": "2025新高考I卷·语法填空",
           "cat": "gaokao",
           "year": 2025,
-          "t": "与表现优于你的人比较，如果你关注的是他们拥有而你没有的东西，可能会产生嫉妒情绪；但如果你把这些比较作为激励的源泉，它也可以给你带来动力和启发，例如，\"如果他们能做到，我也能。\"与比你过得差的人比较，如果你想到自己也可能陷入类似的处境，可能会产生恐惧和担忧；但如果你用这种比较来拓宽视野，它可以激发感恩和欣赏之情——例如，\"哇，情况本来可能更糟；我现在过得挺好的。\""
+          "t": "据展览负责人涂宁宁介绍，黑白棋子的走法反映了东方哲学的基本理念。"
         },
         {
           "s": "In the other case, she took 30 pieces.",
