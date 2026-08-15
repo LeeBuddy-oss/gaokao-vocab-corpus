@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈkʌpl; NAmE ˈkʌpl",
-    "pos": "noun",
+    "pos": "noun; noun; noun; verb; verb",
     "stars": ""
   },
   "defs": [
@@ -14,13 +14,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "在咖啡馆里，那对夫妇给 Emily 买了一杯热巧克力，并耐心地听她解释自己绝望的处境：她离目的地约有一百英里，车完全陷住了，整个假期计划可能毁于一旦。"
-        },
-        {
-          "s": "A couple of messages came in, one wanting additional ___46___, another asking for a price cut.",
-          "src": "2025新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "来了几条消息，一个想要更多___46___，另一个要求降价。"
         },
         {
           "s": "So, after studying the techniques for a couple of years, he began offering them to pets.",
@@ -98,13 +91,6 @@
       "def": "a small number of people or things 几个人；几件事物",
       "ex": [
         {
-          "s": "The cashier had scanned all the items and there were a couple of people ____13____ (wait) behind us.",
-          "src": "2026北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "收银员已经扫完所有商品，后面还有几个人____13____（等待）。"
-        },
-        {
           "s": "It wasn’t until a couple of hours later that we opened the doors and began serving dinner.",
           "src": "2022浙江6月卷·读后续写",
           "cat": "gaokao",
@@ -126,13 +112,6 @@
           "t": "但他很快发现自己热爱演奏这种乐器，并___51___投入练习，因此在几个月内就能演奏得相当不错了。"
         },
         {
-          "s": "Then, in a couple of years’ time, I 4___________ (study) at university.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "那么，再过几年，我就要上大学了。"
-        },
-        {
           "s": "Now I exercise a couple of times a week but just to keep fit.",
           "src": "外研社B6 U1",
           "cat": "waiyan",
@@ -152,6 +131,27 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "在几个小时的过程中，他让我___53___认识到，一个人以开放的心态___54___，并愿意与各行各业的当地人___55___，能获得多少收获。"
+        },
+        {
+          "s": "Similarly, the corporate world has certainly known its fair share of disruption, yet it is only in the last couple of decades that the “Disruptor” has become a recognisable figure in the way we talk about big business.",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "同样，企业界当然也经历了相当多的颠覆，但直到最近几十年，\"颠覆者\"才成为我们谈论大企业时一个可识别的角色。"
+        },
+        {
+          "s": "Habitat loss, pesticide use, and climate change have caused dramatic declines in pollinator populations over the past couple of decades, which has damaged the US agricultural economy.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "栖息地的丧失、杀虫剂的使用和气候变化在过去几十年中导致传粉昆虫数量急剧下降，这损害了美国农业经济。"
+        },
+        {
+          "s": "Countless artists have been protesting wars and promoting peace via their works, including Spanish artist Pablo Picasso and Chinese artist Feng Zikai, to name just a couple.",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "无数艺术家通过他们的作品抗议战争和倡导和平，仅举两位，如西班牙艺术家巴勃罗\\u00b7毕加索和中国艺术家丰子恺。"
         }
       ]
     },
@@ -227,39 +227,17 @@
       "def": "to join together two parts of sth, for example two vehicles or pieces of equipment （把车辆或设备等）连接，结合",
       "ex": [
         {
-          "s": "Similarly, the corporate world has certainly known its fair share of disruption, yet it is only in the last couple of decades that the “Disruptor” has become a recognisable figure in the way we talk about big business.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "所有参与者都必须探讨通信或交通技术如何在整个历史中提升了美国人的生活质量。对许多人来说，技术意味着电脑、手持设备或飞往遥远行星的飞行器。然而，技术也是科学知识的应用，用以解决问题，以无数方式触动生活。"
-        }
-      ]
-    },
-    {
-      "def": "to have sex 两人或两动物",
-      "ex": [
-        {
-          "s": "Habitat loss, pesticide use, and climate change have caused dramatic declines in pollinator populations over the past couple of decades, which has damaged the US agricultural economy.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "栖息地的丧失、杀虫剂的使用和气候变化在过去几十年中导致传粉昆虫数量急剧下降，这损害了美国农业经济。"
-        },
-        {
           "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
           "src": "2022浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
           "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
-        },
-        {
-          "s": "Countless artists have been protesting wars and promoting peace via their works, including Spanish artist Pablo Picasso and Chinese artist Feng Zikai, to name just a couple.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "无数艺术家通过他们的作品抗议战争和倡导和平，仅举两位，如西班牙艺术家巴勃罗\\u00b7毕加索和中国艺术家丰子恺。"
         }
       ]
+    },
+    {
+      "def": "to have sex 两人或两动物",
+      "ex": []
     }
   ]
 }

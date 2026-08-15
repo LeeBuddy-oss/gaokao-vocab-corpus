@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "kriːm; NAmE kriːm",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; verb; verb",
     "stars": "★★"
   },
   "defs": [
@@ -56,6 +56,13 @@
           "cat": "gaokao",
           "t": "当与浆果或其他水果切片结合时,冰冻的香蕉为厚、冷却的水果摇摆和低脂“冰淇淋”提供了极佳的基础。",
           "year": 2018
+        },
+        {
+          "s": "Tiramisu does not look very attractive-it's brown, because of the coffee and dark chocolate, and white, because of the cream and cheese-but all these ingredients make it taste delicious!",
+          "src": "译林选必1 U1",
+          "cat": "yilin",
+          "t": "提拉米苏看起来并不很吸引人——因为咖啡和黑巧克力是棕色的，因为奶油和奶酪是白色的——但所有这些原料混合在一起，使它美味无比！",
+          "year": ""
         }
       ]
     },
@@ -63,10 +70,17 @@
       "def": "a sweet/candy that has a soft substance like cream inside 构成复合词",
       "ex": [
         {
-          "s": "12．（1分）I didn't mean                  anything but the ice cream looked so good that I couldn't help               it．（  ）",
+          "s": "（1分）I didn't mean                  anything but the ice cream looked so good that I couldn't help               it．（  ）",
           "src": "2018天津卷",
           "cat": "gaokao",
           "t": "12．（1分）我本没打算吃任何东西，但冰淇淋看起来太好吃了，我忍不住____（吃了）它。（  ）",
+          "year": 2018
+        },
+        {
+          "s": "This makes a fun activity for a children’s party; they love feeding the fruit and frozen bananas into the top of the machine and watching the ice cream come out below.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "这对儿童派对来说是个有趣的活动；他们喜欢把水果和冷冻香蕉从机器顶端投入，看着冰淇淋从下方出来。",
           "year": 2018
         }
       ]
@@ -85,22 +99,7 @@
     },
     {
       "def": "to mix things together into a soft smooth mixture 把 … 搅成糊状（或奶油状）混合物",
-      "ex": [
-        {
-          "s": "Tiramisu does not look very attractive-it's brown, because of the coffee and dark chocolate, and white, because of the cream and cheese-but all these ingredients make it taste delicious!",
-          "src": "译林选必1 U1",
-          "cat": "yilin",
-          "t": "提拉米苏看起来并不很吸引人——因为咖啡和黑巧克力是棕色的，因为奶油和奶酪是白色的——但所有这些原料混合在一起，使它美味无比！",
-          "year": ""
-        },
-        {
-          "s": "This makes a fun activity for a children’s party; they love feeding the fruit and frozen bananas into the top of the machine and watching the ice cream come out below.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "这对儿童派对来说是个有趣的活动；他们喜欢把水果和冷冻香蕉从机器顶端投入，看着冰淇淋从下方出来。",
-          "year": 2018
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to completely defeat sb 彻底打败；狠揍",

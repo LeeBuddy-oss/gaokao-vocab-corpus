@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "kræʃ; NAmE kræʃ",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; verb; verb; verb; verb; verb; verb; verb; verb",
     "stars": "★"
   },
   "defs": [
@@ -9,24 +9,39 @@
       "def": "an accident in which a vehicle hits sth, for example another vehicle, usually causing damage and often injuring or killing the passengers 撞车；碰撞；相撞",
       "ex": [
         {
-          "s": "It fell and crashed beside the cake.",
-          "src": "2021天津3月卷·阅读理解B",
+          "s": "The Transition is now going through crash tests to make sure it meets federal safety standards.",
+          "src": "2017全国II卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2021,
-          "t": "它掉下来在蛋糕旁摔碎了。"
+          "year": 2017,
+          "t": "Transition目前正在接受碰撞测试，以确保符合联邦安全标准。"
         },
         {
-          "s": "It crashed through a wooden fence and disappeared.",
-          "src": "2020浙江7月卷·完形填空",
+          "s": "The Transition is now going through crash tests to make sure it meets federal safety standards.",
+          "src": "2017重庆卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "它撞穿一道木栅栏后消失了。"
+          "year": 2017,
+          "t": "Transition目前正在接受碰撞测试，以确保符合联邦安全标准。"
+        },
+        {
+          "s": "The story was probably inspired by his plane crash in the desert in 1935.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这个故事很可能受到他1935年在沙漠中坠机的启发。"
         }
       ]
     },
     {
       "def": "a sudden loud noise made, for example, by sth falling or breaking （倒下、破碎等突然的）碰撞声，破裂声，碎裂声",
-      "ex": []
+      "ex": [
+        {
+          "s": "Southbank, at an eastern bend in the Thames, is the center of British skateboarding, where the continuous crashing of skateboards left your head ringing .I loved it.",
+          "src": "2021全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "南岸，在泰晤士河向东的拐弯处，是英国滑板运动的中心，滑板不断的撞击声让你的脑袋嗡嗡作响。我爱上了那里。"
+        }
+      ]
     },
     {
       "def": "a sudden serious fall in the price or value of sth; the occasion when a business, etc. fails 暴跌；倒闭；破产；失败",
@@ -48,11 +63,11 @@
       "def": "if a vehicle crashes or the driver crashes it, it hits an object or another vehicle, causing damage 碰撞；撞击",
       "ex": [
         {
-          "s": "Southbank, at an eastern bend in the Thames, is the center of British skateboarding, where the continuous crashing of skateboards left your head ringing .I loved it.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "南岸，在泰晤士河向东的拐弯处，是英国滑板运动的中心，滑板不断的撞击声让你的脑袋嗡嗡作响。我爱上了那里。"
+          "s": "It tells a story about a pilot who has crashed in the desert.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "它讲述了一个在沙漠中坠机的飞行员的故事。"
         }
       ]
     },
@@ -60,18 +75,25 @@
       "def": "to hit sth hard while moving, causing noise and/or damage; to make sth hit sb/sth in this way （使）猛撞，碰撞",
       "ex": [
         {
-          "s": "The Transition is now going through crash tests to make sure it meets federal safety standards.",
-          "src": "2017全国II卷·阅读理解C",
+          "s": "It fell and crashed beside the cake.",
+          "src": "2021天津3月卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition目前正在接受碰撞测试，以确保符合联邦安全标准。"
+          "year": 2021,
+          "t": "它掉下来在蛋糕旁摔碎了。"
         },
         {
-          "s": "The Transition is now going through crash tests to make sure it meets federal safety standards.",
-          "src": "2017重庆卷·阅读理解C",
+          "s": "It crashed through a wooden fence and disappeared.",
+          "src": "2020浙江7月卷·完形填空",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition目前正在接受碰撞测试，以确保符合联邦安全标准。"
+          "year": 2020,
+          "t": "它撞穿一道木栅栏后消失了。"
+        },
+        {
+          "s": "Unable to distinguish between blue sky and glass, birds crash into windows at speeds of about 30 miles per hour.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "由于无法区分蓝天和玻璃，鸟类以大约每小时30英里的速度撞向窗户。"
         }
       ]
     },
@@ -96,34 +118,12 @@
           "cat": "waiyan",
           "year": "",
           "t": "过去几年里，其种群数量骤减了多达90%。"
-        },
-        {
-          "s": "It tells a story about a pilot who has crashed in the desert.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "它讲述了一个在沙漠中坠机的飞行员的故事。"
         }
       ]
     },
     {
       "def": "if a computer crashes or you crash a computer, it stops working suddenly 崩溃",
-      "ex": [
-        {
-          "s": "The story was probably inspired by his plane crash in the desert in 1935.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这个故事很可能受到他1935年在沙漠中坠机的启发。"
-        },
-        {
-          "s": "Unable to distinguish between blue sky and glass, birds crash into windows at speeds of about 30 miles per hour.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "由于无法区分蓝天和玻璃，鸟类以大约每小时30英里的速度撞向窗户。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to lose very badly in a sports game （比赛中）溃败，惨败",
