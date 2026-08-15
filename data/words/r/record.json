@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈrekɔːd; NAmE ˈrekərd",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -100,57 +100,36 @@
           "t": "这些场景也许是数百年前画下的，但它们记录了我们每个人都能感同身受的时刻。"
         },
         {
-          "s": "Why did Ms Young want to record her parents’ recipes?(no more than 15 words)",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "杨女士为什么想记录她父母的食谱？（不超过15个词）"
-        },
-        {
-          "s": "Make sure you fill in the attendance sheet at each session to record your attendance.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保每次课程都填写考勤表以记录出勤情况。"
-        },
-        {
-          "s": "Record _____ to do the activities.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "记录____来做这些活动。"
-        },
-        {
           "s": "It has a digital display that records your steps, speed and distance, as well as monitoring your heart rate and calories burnt.",
           "src": "外研社B2 U3",
           "cat": "waiyan",
           "t": "它有一个数字显示屏，记录你的步数、速度和距离，同时监测你的心率和消耗的卡路里。"
         },
         {
-          "s": "In 1960, Chile suffered the strongest 4______ to be recorded in the 20th century.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "1960年，智利遭受了20世纪有记录以来最强的______。"
+          "s": "It will also give them a handy record to refer back to.",
+          "src": "2025浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "它还会给他们一份方便随时查阅的记录。"
         },
         {
-          "s": "As a photographer, I have spent the last two years ___48___  (record) everything I discovered.",
-          "src": "2023全国乙卷·语法填空",
+          "s": "To keep records of her progress.",
+          "src": "2024卷",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "作为一名摄影师，过去两年我（第48空，record）我所发现的一切。"
+          "year": 2024,
+          "t": "为了记录自己的进展。"
+        },
+        {
+          "s": "He established an office to keep records of the children, and then returned to Britain to find temporary homes for them.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "t": "他设立了一个办公室来记录这些孩子的情况，然后返回英国为他们寻找临时住所。"
         }
       ]
     },
     {
       "def": "a thin round piece of plastic on which music, etc. is recorded 唱片",
-      "ex": [
-        {
-          "s": "It happened that the plant downtown needed eight kids for __43__ help during our spring break, for which I had no __44__ beyond listening to my favorite records.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "碰巧市中心的那家工厂在春假期间需要八个孩子来__43__帮忙，而除了听我最喜欢的唱片，我对这件事没有别的__44__。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "a piece or collection of music released as a record, or on CD, the Internet, etc. 唱片；专辑",
@@ -225,12 +204,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "这位英国少年注意到，靠近地面的污染水平约为地面高度三分之二，而该高度的数据是由该机构记录的。"
-        },
-        {
-          "s": "People have been working together to record its migration and make sure that there are enough plants for it to feed on.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "人们一直在共同努力记录它的迁徙，并确保有足够的植物供它觅食。"
         }
       ]
     },
@@ -273,13 +246,6 @@
       "def": "to keep a permanent account of facts or events by writing them down, filming them, storing them in a computer, etc. 记录；记载",
       "ex": [
         {
-          "s": "It will also give them a handy record to refer back to.",
-          "src": "2025浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它还会给他们一份方便随时查阅的记录。"
-        },
-        {
           "s": "Keep a record and evaluate it weekly.",
           "src": "2017全国III卷·七选五",
           "cat": "gaokao",
@@ -294,17 +260,24 @@
           "t": "采集污染物读数            B. 记录污染物水平"
         },
         {
-          "s": "To keep records of her progress.",
-          "src": "2024卷",
+          "s": "Why did Ms Young want to record her parents’ recipes?(no more than 15 words)",
+          "src": "2023天津3月卷·阅读表达",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "为了记录自己的进展。"
+          "year": 2023,
+          "t": "杨女士为什么想记录她父母的食谱？（不超过15个词）"
         },
         {
-          "s": "He established an office to keep records of the children, and then returned to Britain to find temporary homes for them.",
-          "src": "外研社B3 U2",
+          "s": "Make sure you fill in the attendance sheet at each session to record your attendance.",
+          "src": "2022北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "确保每次课程都填写考勤表以记录出勤情况。"
+        },
+        {
+          "s": "People have been working together to record its migration and make sure that there are enough plants for it to feed on.",
+          "src": "外研社B1 U5",
           "cat": "waiyan",
-          "t": "他设立了一个办公室来记录这些孩子的情况，然后返回英国为他们寻找临时住所。"
+          "t": "人们一直在共同努力记录它的迁徙，并确保有足够的植物供它觅食。"
         }
       ]
     },
