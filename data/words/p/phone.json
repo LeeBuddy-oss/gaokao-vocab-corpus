@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "fəʊn; NAmE foʊn",
-    "pos": "noun",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -79,13 +79,6 @@
           "t": "妈妈正在用爸爸的手机拍摄海岸沿线五彩缤纷的小房子，这时我们看到了一些令人惊叹的东西--虎鲸！"
         },
         {
-          "s": "It also listed her favorite sports and activities, and provided her phone number. ___39___",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它还列出了她最喜欢的运动和活动，并提供了她的电话号码。___39___"
-        },
-        {
           "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
           "src": "2020江苏卷·阅读理解B",
           "cat": "gaokao",
@@ -105,13 +98,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "我指的是打一通真正的电话——而不是躲雨。"
-        },
-        {
-          "s": "With busy schedules, squeezing in phone calls can be a challenge. ___16___.",
-          "src": "2022全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "日程繁忙时，挤出时间打电话可能是个挑战。___16___。"
         },
         {
           "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
@@ -149,13 +135,6 @@
           "t": "她试图打电话求救，却发现手机没有信号。"
         },
         {
-          "s": "Later, on the phone she apologised and explained that she was busy with work because someone was 2____, I wish she had come!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "后来，她在电话中道歉，并解释说她忙于工作，因为有人2 ____ ，我希望她来！"
-        },
-        {
           "s": "He’s making a phone call.",
           "src": "2023全国乙卷",
           "cat": "gaokao",
@@ -174,13 +153,6 @@
     {
       "def": "the part of a phone that you hold in your hand and speak into; a telephone 电话听筒；电话",
       "ex": [
-        {
-          "s": "12．（1分）The professor warned the students that on no account________use mobile phones in his class．（  ）",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "12．（1分）教授警告学生，在他的课上绝不可以____使用手机。（  ）"
-        },
         {
           "s": "Where will Jessica go right after the phone call?",
           "src": "2020浙江卷",
@@ -266,25 +238,11 @@
           "t": "英格利斯说，电话亭让人想起一个东西都做得经久耐用的时代。"
         },
         {
-          "s": "The phone boxes are making a comeback ______.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "电话亭正在卷土重来______。"
-        },
-        {
           "s": "Why did the phone boxes begin to go out of service in the 1980s?",
           "src": "2020江苏卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
           "t": "为什么电话箱在1980年代开始停止服务?"
-        },
-        {
-          "s": "The phone boxes are becoming popular mainly because of ______.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "电话亭重新流行主要是因为______。"
         },
         {
           "s": "“We love Mexican churros, so I buy them on my phone from my local Mexican takeaway restaurant,” she explains.",
@@ -362,6 +320,13 @@
           "cat": "waiyan",
           "year": "",
           "t": "我刚睡着，就听到爸爸的电话响了。"
+        },
+        {
+          "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
+          "src": "2024新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
         }
       ]
     },
@@ -392,20 +357,6 @@
     {
       "def": "to have a telephone in your home or place of work （在家中或工作单位）有电话，安了电话",
       "ex": [
-        {
-          "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
-        },
-        {
-          "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
-        },
         {
           "s": "Generation Xers with young families, like my wife and I, can still find it convenient to have a home phone rather than providing a mobile phone for every family member.",
           "src": "2021全国乙卷·阅读理解B",
@@ -451,13 +402,6 @@
     {
       "def": "to make a telephone call to a radio or television station 往（电台或电视台）打电话；打热线电话",
       "ex": [
-        {
-          "s": "In the 1950s in the USA, most families had just one phone at home, and wireless phones _______ yet.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "20世纪50年代的美国，大多数家庭家里只有一部电话，而无线电话当时_______尚未出现。"
-        },
         {
           "s": "Devices were grouped by generation — Desktop computers, basic mobile phones, and box-set TVs defined 1992.",
           "src": "2018全国I卷·阅读理解D",
