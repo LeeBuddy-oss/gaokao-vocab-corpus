@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "mɑːtʃ; NAmE mɑːrtʃ",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;noun;noun;noun;noun;noun",
     "stars": "★"
   },
   "defs": [
@@ -28,13 +28,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "1907年3月7日，英国统计学家弗朗西斯·高尔顿发表了一篇论文，阐述了后来被称为\"群体智慧\"效应的现象。"
-        },
-        {
-          "s": "In 1993 the United Nations decided that March 22nd is the World Day for Water.",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "1993年，联合国决定将3月22日定为世界水日。"
         },
         {
           "s": "March 9 Submit a final draft of your essay．",
@@ -70,20 +63,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "哪个旅游项目在三月份开放？"
-        },
-        {
-          "s": "It was a cold March day in High Point, North Carolina.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "那是北卡罗来纳州海角市三月寒冷的一天。"
-        },
-        {
-          "s": "What happened to Paris on a March day?",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在三月的那一天巴黎发生了什么？"
         }
       ]
     },
@@ -106,12 +85,6 @@
           "src": "外研社B2 U4",
           "cat": "waiyan",
           "t": "《公主日记》 观众评论 多有趣的电影 3月2日 | by Jane 《公主日记》是一部关于一个名叫 Mia Thermopolis 的少女的电影。"
-        },
-        {
-          "s": "His biographical accounts and depictions of historical events, such as the Long March, therefore captured the spirit of the period and the people living through it with unprecedented authenticity.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "他关于长征等历史事件的传记性叙述和描绘，因此以空前的真实感刻画了那个时代及身处其中的人们的精神。"
         }
       ]
     },
@@ -130,13 +103,6 @@
       "def": "an organized walk by many people from one place to another, in order to protest about sth, or to express their opinions 示威游行；抗议游行",
       "ex": [
         {
-          "s": "Someone is planning to move out of our building, and their apartment will be _________ for rent at the beginning of March.",
-          "src": "2024天津3月卷·一、单项填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "有人打算搬出我们这栋楼，他们的公寓三月初将_________对外出租。"
-        },
-        {
           "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
           "src": "2019天津卷·History Fair Competition",
           "cat": "gaokao",
@@ -154,6 +120,12 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "2008年3月，金妮与48名素未谋面的乘客登上一艘船，开始了前往南极的旅程。"
+        },
+        {
+          "s": "His biographical accounts and depictions of historical events, such as the Long March, therefore captured the spirit of the period and the people living through it with unprecedented authenticity.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "他关于长征等历史事件的传记性叙述和描绘，因此以空前的真实感刻画了那个时代及身处其中的人们的精神。"
         }
       ]
     },
@@ -177,6 +149,32 @@
     {
       "def": "a piece of music written for marching to 进行曲",
       "ex": []
+    },
+    {
+      "def": "the third month of the year, following February 三月",
+      "ex": [
+        {
+          "s": "In 1993 the United Nations decided that March 22nd is the World Day for Water.",
+          "src": "2020浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "1993年，联合国决定将3月22日定为世界水日。"
+        },
+        {
+          "s": "It was a cold March day in High Point, North Carolina.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "那是北卡罗来纳州海角市三月寒冷的一天。"
+        },
+        {
+          "s": "What happened to Paris on a March day?",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "在三月的那一天巴黎发生了什么？"
+        }
+      ]
     }
   ]
 }
