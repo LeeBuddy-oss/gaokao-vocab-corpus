@@ -1,13 +1,20 @@
 {
   "meta": {
     "ph": "ˈfɔːmæt; NAmE ˈfɔːrmæt",
-    "pos": "noun",
+    "pos": "noun;noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
     {
       "def": "the general arrangement, plan, design, etc. of sth 总体安排；计划；设计",
-      "ex": []
+      "ex": [
+        {
+          "s": "The format of the ceremony is yet to be decided, and we would like to hear your ideas about the events and performances that could be included.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "典礼的形式还有待决定，我们想听听你们对可以包含的活动和表演的想法。"
+        }
+      ]
     },
     {
       "def": "the shape and size of a book, magazine, etc. （出版物的）版式，开本",
@@ -66,12 +73,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "本次征集面向Burlington本地艺术家，并接受所有能以标识形式呈现的艺术门类。"
-        },
-        {
-          "s": "The format of the ceremony is yet to be decided, and we would like to hear your ideas about the events and performances that could be included.",
-          "src": "外研社B7 U3",
-          "cat": "waiyan",
-          "t": "典礼的形式还有待决定，我们想听听你们对可以包含的活动和表演的想法。"
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "friː; NAmE friː",
-    "pos": "adjective",
+    "pos": "adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;adj;verb;verb;verb;verb;verb;adv;adv",
     "stars": ""
   },
   "defs": [
@@ -188,6 +188,19 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "在空闲时间，你可以探索城市、上语言课、冲浪，或从以下选项中挑选你最喜欢的。"
+        },
+        {
+          "s": "00 amWork at the project sites, or enjoy your free time",
+          "src": "2026北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "10:00 am 在项目点工作，或享受自由时间"
+        },
+        {
+          "s": "For example, in our free time we can sculpt a sculpture and paint a painting, but we take a photo.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "例如，在空闲时间，我们可以雕刻一件雕塑、画一幅画，但我们拍一张照片。"
         }
       ]
     },
@@ -218,13 +231,6 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "这对我来说是一个恍然大悟的时刻，从此我再也不会以同样的方式看待结局了。"
-        },
-        {
-          "s": "After a struggle, she managed to free the vehicle and continued inching along the snow-covered road.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "一番挣扎后，她设法把车弄了出来，继续在积雪覆盖的道路上缓慢前行。"
         }
       ]
     },
@@ -239,7 +245,7 @@
           "t": "他们看起来和听起来都那么自由自在。"
         },
         {
-          "s": "B．It would allow much room for free thinking．",
+          "s": "It would allow much room for free thinking．",
           "src": "2019天津卷·18．",
           "cat": "gaokao",
           "year": 2019,
@@ -263,6 +269,13 @@
           "cat": "gaokao",
           "year": 2025,
           "t": "它让他们摆脱酸痛。"
+        },
+        {
+          "s": "After a struggle, she managed to free the vehicle and continued inching along the snow-covered road.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "一番挣扎后，她设法把车弄了出来，继续在积雪覆盖的道路上缓慢前行。"
         }
       ]
     },
@@ -285,24 +298,11 @@
           "t": "你或许以为学习占用了你更多时间，但其实总有新的做事方式能让你在日常任务上节省时间，从而腾出精力处理最重要的事。"
         },
         {
-          "s": "10:00 amWork at the project sites, or enjoy your free time",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "10:00 am 在项目点工作，或享受自由时间"
-        },
-        {
           "s": "Young Children Need More Free Time",
           "src": "2021浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2021,
           "t": "戴维·邦德：儿童的榜样"
-        },
-        {
-          "s": "For example, in our free time we can sculpt a sculpture and paint a painting, but we take a photo.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "例如，在空闲时间，我们可以雕刻一件雕塑、画一幅画，但我们拍一张照片。"
         }
       ]
     },
@@ -401,13 +401,6 @@
           "t": "免费住宿。"
         },
         {
-          "s": "Some restaurants are happy to provide a free cake if you let them know in advance that you ________a group for a birthday party.",
-          "src": "2023天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "有些餐厅很乐意在你提前告知他们你____要为生日聚会带一群人来时提供免费蛋糕。"
-        },
-        {
           "s": "What is the deadline for a free enrollment list change?",
           "src": "2023天津6月卷·阅读理解A",
           "cat": "gaokao",
@@ -490,20 +483,6 @@
           "cat": "gaokao",
           "year": 2017,
           "t": "它们不再提供免费服务。"
-        },
-        {
-          "s": "When you’re riding on trains, you won’t be provided with a blanket for free, even if your trip is an overnight one. ____38____ In the summer in particular, the air conditioning can make them quite cold.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当你坐火车时，即使你是过夜旅行，也不会免费提供毯子。____38____ 尤其在夏天，空调可能让车厢相当冷。"
-        },
-        {
-          "s": "Many lessons are now available online, from _____ students can choose for free.",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "现在许多课程都可以在线学习，学生可以从中_____免费选择。"
         }
       ]
     },
