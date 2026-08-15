@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "dɪˈbeɪt; NAmE dɪˈbeɪt",
-    "pos": "noun",
+    "pos": "noun; noun; verb; verb",
     "stars": "★★"
   },
   "defs": [
@@ -39,19 +39,6 @@
           "src": "外研社B4 U4",
           "cat": "waiyan",
           "t": "每一方在辩论中持有一侧的立场。"
-        },
-        {
-          "s": "Recently, scientists have started a debate on _______the computers will “think” like human in half a century.",
-          "src": "2023天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最近，科学家们就____计算机在半个世纪后是否会像人类一样“思考”展开了辩论。"
-        },
-        {
-          "s": "Bye!” The question that the animals were due to debate was what to do with the issue of humans making frequent animal sacrifices.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "动物们将要辩论的问题是：该如何处理人类频繁献祭这件事。"
         }
       ]
     },
@@ -85,6 +72,17 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "当你做出生活方式改变时，如果别人评论你的做法，你可能会想为自己发声，这可能演变成全家的一场争论。"
+        }
+      ]
+    },
+    {
+      "def": "to discuss sth, especially formally, before making a decision or finding a solution （尤指正式）讨论，辩论",
+      "ex": [
+        {
+          "s": "Bye!” The question that the animals were due to debate was what to do with the issue of humans making frequent animal sacrifices.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "动物们将要辩论的问题是：该如何处理人类频繁献祭这件事。"
         },
         {
           "s": "Scholars still debate whether a single poet named Homer ever existed, as the poems were transmitted orally for many years before they were written down, and may have been worked on by many different poems.",
@@ -95,20 +93,8 @@
       ]
     },
     {
-      "def": "to discuss sth, especially formally, before making a decision or finding a solution （尤指正式）讨论，辩论",
-      "ex": []
-    },
-    {
       "def": "to think carefully about sth before making a decision 仔细考虑；思考；盘算",
-      "ex": [
-        {
-          "s": "Maybe this morning you debated whether to get up or stay in bed slightly ____14____ (long).",
-          "src": "2025北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "也许今天早上你曾权衡是起床还是多在床上躺一会儿____14____（长）。"
-        }
-      ]
+      "ex": []
     }
   ]
 }
