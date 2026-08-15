@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pəʊz; NAmE poʊz",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;noun;noun",
     "stars": "★★"
   },
   "defs": [
@@ -21,13 +21,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
-        },
-        {
-          "s": "A full-length pose would be much too big a project for a young woman your size. ”",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一幅全身像对你这样身材的年轻女子来说，是个太大的工程。\""
         },
         {
           "s": "How could I possibly take the time to pose for a sculpture now?",
@@ -57,7 +50,20 @@
     },
     {
       "def": "to sit or stand in a particular position in order to be painted, drawn or photographed （为画像、摄影）摆好姿势",
-      "ex": []
+      "ex": [
+        {
+          "s": "After all, the animals aren’t going to come and pose for me!",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "毕竟，动物们不会过来为我摆姿势！"
+        },
+        {
+          "s": "And yet every member of New York’s wealthy high society wanted nothing more than to pose for this man.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "然而纽约富裕的上流社会的每一个成员最想做的就是为这个人摆姿势拍照。"
+        }
+      ]
     },
     {
       "def": "to pretend to be sb in order to trick other people 佯装；冒充；假扮",
@@ -71,16 +77,11 @@
       "def": "a particular position in which sb stands, sits, etc., especially in order to be painted, drawn or photographed （为画像、拍照等摆的）姿势",
       "ex": [
         {
-          "s": "After all, the animals aren’t going to come and pose for me!",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "毕竟，动物们不会过来为我摆姿势！"
-        },
-        {
-          "s": "And yet every member of New York’s wealthy high society wanted nothing more than to pose for this man.",
-          "src": "外研社B6 U2",
-          "cat": "waiyan",
-          "t": "然而纽约富裕的上流社会的每一个成员最想做的就是为这个人摆姿势拍照。"
+          "s": "A full-length pose would be much too big a project for a young woman your size. ”",
+          "src": "2020天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "一幅全身像对你这样身材的年轻女子来说，是个太大的工程。\""
         }
       ]
     },
