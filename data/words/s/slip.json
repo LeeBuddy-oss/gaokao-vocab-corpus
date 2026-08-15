@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "slɪp; NAmE slɪp",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun",
     "stars": "★★"
   },
   "defs": [
@@ -34,13 +34,6 @@
           "cat": "gaokao",
           "year": 2022,
           "t": "只要坚持写一本记录朋友生日和其他重要日期的记事簿，就能确保你不会漏掉任何事。"
-        },
-        {
-          "s": "You don’t need to apologize for a minor slip.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你不必为小小的口误道歉。"
         }
       ]
     },
@@ -51,13 +44,6 @@
     {
       "def": "to go somewhere quickly and quietly, especially without being noticed 悄悄疾行；溜",
       "ex": [
-        {
-          "s": "Tightly holding the permission slip from the orchestra director, I ran all the way home after school, and shakily handed it to my parents with a fear that they might dismiss my desire.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "紧紧攥着管弦乐队指挥的许可条，放学后我一溜烟跑回家，颤抖着递给父母，生怕他们会否决我的愿望。"
-        },
         {
           "s": "Sue told him about Johnsy's longing to slip away like the leaves.",
           "src": "北师大选必3 U8",
@@ -95,11 +81,27 @@
     },
     {
       "def": "a small mistake, usually made by being careless or not paying attention 差错；疏漏；纰漏",
-      "ex": []
+      "ex": [
+        {
+          "s": "You don’t need to apologize for a minor slip.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你不必为小小的口误道歉。"
+        }
+      ]
     },
     {
       "def": "a small piece of paper, especially one for writing on or with sth printed on it 纸条；便条；小纸片",
-      "ex": []
+      "ex": [
+        {
+          "s": "Tightly holding the permission slip from the orchestra director, I ran all the way home after school, and shakily handed it to my parents with a fear that they might dismiss my desire.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "紧紧攥着管弦乐队指挥的许可条，放学后我一溜烟跑回家，颤抖着递给父母，生怕他们会否决我的愿望。"
+        }
+      ]
     },
     {
       "def": "an act of slipping 滑跤；滑倒；失脚",
