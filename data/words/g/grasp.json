@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ɡrɑːsp; NAmE ɡræsp",
-    "pos": "verb",
+    "pos": "verb; verb; verb; verb; verb; noun; noun; noun",
     "stars": "★★"
   },
   "defs": [
@@ -44,6 +44,18 @@
           "src": "外研社B6 U2",
           "cat": "waiyan",
           "t": "随着许多手工艺已经或即将永远失传，人们开始意识到保护那些留存下来的手工艺的重要性。"
+        },
+        {
+          "s": "B: Well, I suppose it was difficult to grasp the tones at first.",
+          "src": "人教选必2 U2",
+          "cat": "renjiao",
+          "t": "B：嗯，我想一开始掌握声调是很难的。"
+        },
+        {
+          "s": "That way, my Chinese will improve much faster, especially my written Chinese, which I find the most difficult to grasp.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "那样的话，我的中文会提高得更快，特别是书面语，这是我觉得最难掌握的。"
         }
       ]
     },
@@ -60,15 +72,7 @@
     },
     {
       "def": "to try to take hold of sth in your hands 尽力抓住某物",
-      "ex": [
-        {
-          "s": "A grasp of how to manage color in your spaces is one of the first steps to creating rooms you’ll love to live in.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "t": "掌握如何在你空间中管理色彩的方法，是你创造自己喜欢的房间的第一步之一。",
-          "year": 2018
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to try to take an opportunity 抓住机会",
@@ -82,16 +86,11 @@
       "def": "a person's understanding of a subject or of difficult facts 理解（力）；领会",
       "ex": [
         {
-          "s": "B: Well, I suppose it was difficult to grasp grasp the tones at first.",
-          "src": "人教选必2 U2",
-          "cat": "renjiao",
-          "t": "B：嗯，我想一开始掌握声调是很难的。"
-        },
-        {
-          "s": "That way, my Chinese will improve much faster, especially my written Chinese, which I find the most difficult to grasp.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "那样的话，我的中文会提高得更快，特别是书面语，这是我觉得最难掌握的。"
+          "s": "A grasp of how to manage color in your spaces is one of the first steps to creating rooms you’ll love to live in.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "t": "掌握如何在你空间中管理色彩的方法，是你创造自己喜欢的房间的第一步之一。",
+          "year": 2018
         }
       ]
     },
