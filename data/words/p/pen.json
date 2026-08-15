@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "pen; NAmE pen",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -37,11 +37,11 @@
           "t": "这有一支笔、几个信封和一些纸给你。"
         },
         {
-          "s": "Words formed by combining other words are called compounds, for example, 1______ (a friend that you contact by writing, traditionally using a pen) and 2_______ (known by many people).",
-          "src": "外研社B1 U2",
+          "s": "Alice’s Adventures in Wonderland is an 1865 novel written by English mathematician Charles Lutwidge Dodgson, better known by his pen name Lewis Carroll.",
+          "src": "外研社B2 U6",
           "cat": "waiyan",
           "year": "",
-          "t": "由其他词组合而成的词叫复合词，例如1____（你通过写信——传统上用钢笔——联系的朋友）和2____（为许多人所知）。"
+          "t": "《爱丽丝梦游仙境》是一部1865年的小说，由英国数学家查尔斯\\u00b7路特维奇\\u00b7道奇森以笔名刘易斯\\u00b7卡罗尔撰写。"
         }
       ]
     },
@@ -52,13 +52,6 @@
     {
       "def": "to write sth 写",
       "ex": [
-        {
-          "s": "Alice’s Adventures in Wonderland is an 1865 novel written by English mathematician Charles Lutwidge Dodgson, better known by his pen name Lewis Carroll.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "《爱丽丝梦游仙境》是一部1865年的小说，由英国数学家查尔斯\\u00b7路特维奇\\u00b7道奇森以笔名刘易斯\\u00b7卡罗尔撰写。"
-        },
         {
           "s": "36   When you are first trying to think of ideas for an essay, put your pen to your paper and write nonstop for ten or fifteen minutes without letting your pen leave the paper.",
           "src": "2022全国新高考II卷·七选五",
