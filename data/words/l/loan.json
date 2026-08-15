@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ləʊn; NAmE loʊn",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb",
     "stars": "★★"
   },
   "defs": [
@@ -41,13 +41,6 @@
           "_matched": true
         },
         {
-          "s": "They talk to the flood of international tourists and to ___60___ (visit) Chinese zookeepers who often come to check on the pandas, which are on loan from China.",
-          "src": "2023新课标II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他们与蜂拥而至的国际游客交流，也与经常前来查看这些从中国租借的熊猫的___60___（visit）来访的中国饲养员交流。"
-        },
-        {
           "s": "I know I could get a bank loan to pay the deposit on my very own apartment, but I don’t feel ready to make that kind of commitment, and I do like my mom’s cooking.",
           "src": "外研社B5 U1",
           "cat": "waiyan",
@@ -70,6 +63,12 @@
           "src": "外研社B7 U4",
           "cat": "waiyan",
           "t": "人们的行为如信用卡支付、贷款偿还等，被记录和评分，并将影响他们未来的信用度。"
+        },
+        {
+          "s": "Chen spent all her savings and took out a large loan.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "陈花光了所有的积蓄，还贷了一大笔款。"
         }
       ]
     },
@@ -88,14 +87,7 @@
     },
     {
       "def": "to lend sth to sb, especially money 借出，贷与（尤指钱）",
-      "ex": [
-        {
-          "s": "Chen spent all her savings and took out a large loan.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "陈花光了所有的积蓄，还贷了一大笔款。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to lend a valuable object to a museum, etc. 出借（贵重物品给博物馆等）",
