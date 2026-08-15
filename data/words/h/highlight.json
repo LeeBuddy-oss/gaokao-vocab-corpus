@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈhaɪlaɪt; NAmE ˈhaɪlaɪt",
-    "pos": "verb",
+    "pos": "verb;verb;verb;noun;noun;noun",
     "stars": "★★"
   },
   "defs": [
@@ -44,13 +44,6 @@
           "t": "强调一项实验D. 介绍一种方法"
         },
         {
-          "s": "Which of the following highlight the Tunisian tour？",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "以下哪项是突尼斯之旅的亮点？"
-        },
-        {
           "s": "Her final goal is to link the worlds of art and science back together: She believes that bringing the old recipes to life can help develop a kind of learning that highlights experimentation, teamwork, and problem solving.",
           "src": "2020北京卷·阅读理解C",
           "cat": "gaokao",
@@ -63,13 +56,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "强调古董的重要性。"
-        },
-        {
-          "s": "Vinnie confirmed her ability to make a full-length statue by highlighting ______. （    ）",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "温妮通过强调______证实了她制作全身雕像的能力。（    ）"
         },
         {
           "s": "She appeared in The Cove, a documentary aiming at highlighting the cruelty of dolphin hunting.",
@@ -87,6 +73,14 @@
     },
     {
       "def": "to mark part of a text with a special coloured pen, or to mark an area on a computer screen, to emphasize it or make it easier to see 将（文本的某部分）用彩笔做标记；将（计算机屏幕的某区域）增强亮度；使醒目",
+      "ex": []
+    },
+    {
+      "def": "to make some parts of your hair a lighter colour than the rest by using a chemical substance on them 挑染（将部分头发染成浅色）",
+      "ex": []
+    },
+    {
+      "def": "the best, most interesting or most exciting part of sth 最好（或最精彩、最激动人心）的部分",
       "ex": [
         {
           "s": "In addition to seeing spectacular mountain peaks and forests, one highlight of their trip was being able to see many different creatures, including deer, mountain goats, and even a grizzly bear and an eagle.",
@@ -95,22 +89,6 @@
           "t": "除了看到壮观的山峰和森林，他们旅途中的一个亮点是能看到许多不同的动物，包括鹿、山羊，甚至一只灰熊和一只鹰。"
         }
       ]
-    },
-    {
-      "def": "to make some parts of your hair a lighter colour than the rest by using a chemical substance on them 挑染（将部分头发染成浅色）",
-      "ex": [
-        {
-          "s": "Though it is the only unnatural thing on your way up the mountain, still it highlights the whole adventure ___62___ offers a place where you can sit down to rest your ___63___ (ache) legs.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "尽管它是你上山途中唯一不自然的东西，它仍然突显了整个冒险（第62空），并提供了一个你可以坐下来休息（第63空，ache）双腿的地方。"
-        }
-      ]
-    },
-    {
-      "def": "the best, most interesting or most exciting part of sth 最好（或最精彩、最激动人心）的部分",
-      "ex": []
     },
     {
       "def": "areas of hair that are lighter than the rest, usually because a chemical substance has been put on them 挑染的头发",

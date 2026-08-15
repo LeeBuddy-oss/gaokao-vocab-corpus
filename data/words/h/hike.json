@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "haɪk; NAmE haɪk",
-    "pos": "noun",
+    "pos": "noun;noun;verb;verb;verb",
     "stars": ""
   },
   "defs": [
@@ -33,32 +33,6 @@
           "src": "人教选必2 U4",
           "cat": "renjiao",
           "t": "后来，他们在不远处的一片森林里愉快地徒步。"
-        },
-        {
-          "s": "If today is anything like yesterday, it will be full of sweat and hard work as I hike over this difficult land to my destination on the other side of the valley.",
-          "src": "人教选必1 U3",
-          "cat": "renjiao",
-          "t": "如果今天与昨天一样，那将充满汗水和辛劳，因为我将徒步穿越这片艰险的土地，前往山谷另一边的目的地。"
-        },
-        {
-          "s": "EXAMPLE It is challenging yet really fascinating to hike through the mountains in the pathless Sarek.",
-          "src": "人教选必1 U3",
-          "cat": "renjiao",
-          "t": "示例：在没有道路的萨勒克山脉中徒步穿越既具有挑战性又非常迷人。"
-        },
-        {
-          "s": "He flew 4, 700 kilometers ___69___ Xi’an to Kashgar on Sept 20, ____70____ (plan) to hike back to Xi’an in five months.",
-          "src": "2022全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他于9月20日飞行4700公里（第69空）西安到喀什，（第70空，plan）在五个月内徒步返回西安。"
-        },
-        {
-          "s": "Cao believes this will make the hiking trip even more ___66___ (meaning).",
-          "src": "2022全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "曹相信这将使徒步旅行更加___66___ (meaning)有意义。"
         }
       ]
     },
@@ -81,6 +55,18 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "在游览法国里维埃拉、享受尼斯和芒通沙滩一个月后，我和朋友去Pala山群徒步。"
+        },
+        {
+          "s": "If today is anything like yesterday, it will be full of sweat and hard work as I hike over this difficult land to my destination on the other side of the valley.",
+          "src": "人教选必1 U3",
+          "cat": "renjiao",
+          "t": "如果今天与昨天一样，那将充满汗水和辛劳，因为我将徒步穿越这片艰险的土地，前往山谷另一边的目的地。"
+        },
+        {
+          "s": "It is challenging yet really fascinating to hike through the mountains in the pathless Sarek.",
+          "src": "人教选必1 U3",
+          "cat": "renjiao",
+          "t": "示例：在没有道路的萨勒克山脉中徒步穿越既具有挑战性又非常迷人。"
         }
       ]
     },
