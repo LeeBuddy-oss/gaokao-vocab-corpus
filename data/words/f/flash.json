@@ -1,20 +1,13 @@
 {
   "meta": {
     "ph": "flæʃ; NAmE flæʃ",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;verb;verb;noun;noun;noun;noun;noun;noun;noun;noun",
     "stars": "★"
   },
   "defs": [
     {
       "def": "to shine very brightly for a short time; to make sth shine in this way （使）闪耀，闪光",
       "ex": [
-        {
-          "s": "One of my earliest memories is being held _____57_____ her arms, counting down the flashing green _____58_____ (number) together.",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我最早的记忆之一是被她抱在_____57_____（她的）怀里，一起倒数闪烁的绿色_____58_____（数字）。"
-        },
         {
           "s": "I flashed him an apologetic smile as I pulled out my Portuguese bankcard.",
           "src": "2024新高考I卷·读后续写",
@@ -28,19 +21,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "我一边露出歉意的微笑，一边掏出我的葡萄牙银行卡。"
-        },
-        {
-          "s": "In a wired world with constant global communication, we're all positioned to see flashes of genius wherever they appear.",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在一个有线连接、全球沟通不断的世界里，我们都有机会看到天才的闪光，无论出现在哪里。"
-        },
-        {
-          "s": "After seeing a flash of light, they follow it.",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "看到一道闪光后，它们就跟随它前进。"
         }
       ]
     },
@@ -66,21 +46,7 @@
     },
     {
       "def": "to send information quickly by radio, computer, etc. （通过无线电、计算机等）快速发送（信息）",
-      "ex": [
-        {
-          "s": "A flash of lightning hit the kite, and electricity was conducted through the string to the key.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "一道闪电击中了风筝，电流通过绳子传到钥匙上。"
-        },
-        {
-          "s": "At best, you may just find that you have discovered something completely new and unexpected, through a flash of inspiration that you would have missed with perfectionism.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "往好了说，你或许会发现，通过一瞬灵感，你发现了某种全新而意外的事物——而若追求完美，你会与之失之交臂。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to show a strong emotion suddenly and quickly 突然显露（强烈情感）",
@@ -126,7 +92,20 @@
     },
     {
       "def": "a sudden bright light that shines for a moment and then disappears 闪光；闪耀",
-      "ex": []
+      "ex": [
+        {
+          "s": "After seeing a flash of light, they follow it.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "看到一道闪光后，它们就跟随它前进。"
+        },
+        {
+          "s": "A flash of lightning hit the kite, and electricity was conducted through the string to the key.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "一道闪电击中了风筝，电流通过绳子传到钥匙上。"
+        }
+      ]
     },
     {
       "def": "the act of shining a light on sth, especially as a signal （尤指信号灯）闪亮",
@@ -156,6 +135,20 @@
           "src": "北师大B1 U1",
           "cat": "beishida",
           "t": "离开的念头一度闪过他的脑海，但他很快放弃了这个想法，找到了应对挑战的方法。"
+        },
+        {
+          "s": "In a wired world with constant global communication, we're all positioned to see flashes of genius wherever they appear.",
+          "src": "2021全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "在一个有线连接、全球沟通不断的世界里，我们都有机会看到天才的闪光，无论出现在哪里。"
+        },
+        {
+          "s": "At best, you may just find that you have discovered something completely new and unexpected, through a flash of inspiration that you would have missed with perfectionism.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "往好了说，你或许会发现，通过一瞬灵感，你发现了某种全新而意外的事物——而若追求完美，你会与之失之交臂。"
         }
       ]
     },

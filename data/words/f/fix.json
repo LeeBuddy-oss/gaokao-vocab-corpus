@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "fɪks; NAmE fɪks",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -140,6 +140,40 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "30    不仅满足了物质需求他还为社区里的孩子们提供了一个学习修理自己自行车的机会。"
+        },
+        {
+          "s": "Get someone to fix the old one",
+          "src": "2017浙江卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "找人来修旧的"
+        },
+        {
+          "s": "This way, you will be able to fix the problem before your home becomes flooded or catches fire.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "这样，你就能在家被淹或起火之前解决问题。"
+        },
+        {
+          "s": "It won’t fix everything in our lives—but for some reason, it helps.",
+          "src": "2023天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "它不会解决我们生活中的一切——但由于某种原因，它确实有帮助。"
+        },
+        {
+          "s": "“It’s not going to fix everything, but adaptive signals have some benefits for smaller cities,” he says.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"它不能解决所有问题，但对较小的城市来说，自适应信号有一些好处，\"他说。"
+        },
+        {
+          "s": "Removing gender from the picture altogether seems like a simple way to fix this.",
+          "src": "2025浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "把性别完全从画面中剔除，似乎是解决这个问题的简单办法。"
         }
       ]
     },
@@ -177,42 +211,7 @@
     },
     {
       "def": "a solution to a problem, especially an easy or temporary one （尤指简单、暂时的）解决方法",
-      "ex": [
-        {
-          "s": "Removing gender from the picture altogether seems like a simple way to fix this.",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "把性别完全从画面中剔除，似乎是解决这个问题的简单办法。"
-        },
-        {
-          "s": "“It’s not going to fix everything, but adaptive signals have some benefits for smaller cities,” he says.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"它不能解决所有问题，但对较小的城市来说，自适应信号有一些好处，\"他说。"
-        },
-        {
-          "s": "It won’t fix everything in our lives—but for some reason, it helps.",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它不会解决我们生活中的一切——但由于某种原因，它确实有帮助。"
-        },
-        {
-          "s": "This way, you will be able to fix the problem before your home becomes flooded or catches fire.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "这样，你就能在家被淹或起火之前解决问题。"
-        },
-        {
-          "s": "Get someone to fix the old one",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "找人来修旧的"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "an amount of sth that you need and want frequently, especially an illegal drug such as heroin （致瘾的东西，尤指毒品的）一次用量",

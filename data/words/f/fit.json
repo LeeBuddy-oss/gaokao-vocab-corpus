@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "fɪt; NAmE fɪt",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;adj;adj;adj;adj;noun;noun;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -70,30 +70,23 @@
           "t": "当17岁的夸特罗·穆瑟和朋友聚会时，他们不喝啤酒也不和约会对象开车兜风。相反，他们坚持参加攀岩或谈论书籍等适合所有年龄的活动。"
         },
         {
-          "s": "Add to that rotten potatoes, and you have a meal fit for a king!",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "再加上腐烂的土豆，你就有了一顿适合国王享用的美餐！"
-        },
-        {
           "s": "For the blanks with a given word, fill in each blank with the proper form of the given word; for the other blanks, use one word that best fits each blank.",
           "src": "2018上海卷·Section A",
           "cat": "gaokao",
           "year": 2018,
           "t": "对于带有给定单词的空白,在每一个空白中填写给定单词的正确形式;对于其他空白,使用一个最适合每个空白的单词."
+        },
+        {
+          "s": "It fits into most sport bags.",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "它能放进大多数运动包里。"
         }
       ]
     },
     {
       "def": "to put clothes on sb and make them the right size and shape 试穿（衣服）",
       "ex": [
-        {
-          "s": "She and her family bicycle to work, _________ helps them keep fit.",
-          "src": "2018北京卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "中国的高速铁路在过去几年中从9000公里增加到25000公里。"
-        },
         {
           "s": "fit the environment better            D. make the loudest call",
           "src": "2017江苏卷·阅读理解B",
@@ -121,7 +114,15 @@
     },
     {
       "def": "to agree with, match or be suitable for sth; to make sth do this 不用于进行时",
-      "ex": []
+      "ex": [
+        {
+          "s": "It fits with the story development.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它与故事情节的发展相吻合。"
+        }
+      ]
     },
     {
       "def": "to make sb/sth suitable for a particular job 使适合，使胜任（某工作）",
@@ -132,13 +133,6 @@
           "cat": "gaokao",
           "year": 2020,
           "t": "不只是公司工作，甚至付费工作才能帮助你保持大脑健康，滕指出。"
-        },
-        {
-          "s": "As I just wanted a job in my home city, I didn’t ___22___ much whether it fit my interests.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "由于我只想在家乡城市找份工作，我并不太___22___它是否符合我的兴趣。"
         },
         {
           "s": "Medical certificate：You must provide a medical certificate indicating you are fit to work．",
@@ -203,13 +197,6 @@
           "t": "他才25岁，身体仍然很健壮。"
         },
         {
-          "s": "First of all, decide what you want from that person. ___37___ Or do you just want to be physically fit, able to move with strength and flexibility?",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "首先，想清楚你想从那个人身上得到什么。___37___还是你只是想身体健康，能够有力而灵活地活动？"
-        },
-        {
           "s": "The difficulty of keeping fit.",
           "src": "2022全国新高考II卷·阅读理解D",
           "cat": "gaokao",
@@ -248,13 +235,6 @@
           "src": "外研社B6 U1",
           "cat": "waiyan",
           "t": "现在我每周锻炼几次，但只是为了保持健康。"
-        },
-        {
-          "s": "You and your partner will probably have different skills. ___40___ Over time, both of you will benefit — your partner will be able to lift more weights and you will become more physically fit.",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你和你的搭档可能技能不同。___40___久而久之，你们双方都会受益——你的搭档能举起更重的重量，而你也会变得更健康。"
         }
       ]
     },
@@ -274,6 +254,12 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "当我被一个看似完美契合的职位拒绝时，无疑很难受。"
+        },
+        {
+          "s": "Add to that rotten potatoes, and you have a meal fit for a king!",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "再加上腐烂的土豆，你就有了一顿适合国王享用的美餐！"
         }
       ]
     },
@@ -315,21 +301,7 @@
     },
     {
       "def": "the way that sth, especially a piece of clothing, fits 常与形容词连用",
-      "ex": [
-        {
-          "s": "It fits with the story development.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它与故事情节的发展相吻合。"
-        },
-        {
-          "s": "It fits into most sport bags.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "它能放进大多数运动包里。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "the way that two things match each other or are suitable for each other 匹配；相配",
