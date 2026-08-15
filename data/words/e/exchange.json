@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ɪksˈtʃeɪndʒ; NAmE ɪksˈtʃeɪndʒ",
-    "pos": "noun",
+    "pos": "noun; noun; noun; noun; noun; verb; verb; verb",
     "stars": "★"
   },
   "defs": [
@@ -28,13 +28,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "欢迎来到UCLA交换项目！"
-        },
-        {
-          "s": "Exchange students can enroll in the ESL course if they ________.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "交换生只要________，就可以选修 ESL 课程。"
         },
         {
           "s": "What should exchange students do if they choose to stop taking a course?",
@@ -65,32 +58,11 @@
           "t": "所以信息确实得到了交换，但这并不是真正有意的来回交流。"
         },
         {
-          "s": "One day, during a class in the IT lab with my classmates, our teacher mentioned missing computer parts. ____2____ looks exchanged, everyone wondered how it could happen in a(n) ____3____ lab.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "有一天，在IT实验室和同学上课时，老师提到了丢失的电脑零件。____2____（目光）交换，大家都想知道这怎么会发生在一个____3____实验室里。"
-        },
-        {
-          "s": "Travelling to conferences, lectures, workshops, and the like frequently by plane  ____37____（view） as important for scientists to get together and exchange information.",
-          "src": "2022浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "乘飞机频繁参加会议、讲座、研讨会等活动____37____（view）被认为是科学家聚集和交流信息的重要方式。"
-        },
-        {
           "s": "The Language Exchange Programme allows students in pairs to communicate in two different languages they wish to share and learn each week.",
           "src": "2024北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2024,
           "t": "语言交换项目让学生两人一组，每周用两种他们希望分享和学习的不同语言进行交流。"
-        },
-        {
-          "s": "You could ask a friend or family member to help add to your list. ____19____ That way, you could exchange thoughts on what makes each of you special and the aspects of your personality that shine through.",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "你可以请朋友或家人帮你补充这个清单。____19____ 这样，你们就可以交流想法，谈谈是什么让彼此与众不同，以及你们性格中闪光的方面。"
         }
       ]
     },
@@ -107,15 +79,7 @@
     },
     {
       "def": "the process of changing an amount of one currency (= the money used in one country) for an equal value of another 兑换；汇兑",
-      "ex": [
-        {
-          "s": "a kind of money that can exchange",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个生产和打磨贝壳的地方"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "an arrangement when two people or groups from different countries visit each other's homes or do each other's jobs for a short time （不同国家人或团体之间的）交流，互访",
@@ -147,7 +111,15 @@
     },
     {
       "def": "to give sth to sb and at the same time receive the same type of thing from them 交换；交流；掉换",
-      "ex": []
+      "ex": [
+        {
+          "s": "a kind of money that can exchange",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一个生产和打磨贝壳的地方"
+        }
+      ]
     },
     {
       "def": "to give or return sth that you have and get sth different or better instead 兑换；交易；更换",
