@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "sɪŋk; NAmE sɪŋk",
-    "pos": "verb",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun",
     "stars": "★★"
   },
   "defs": [
@@ -14,13 +14,6 @@
           "cat": "gaokao",
           "year": 2026,
           "t": "进步可能很慢，你会怀疑这一切是否真的被他们吸收了。"
-        },
-        {
-          "s": "Now, I ____60____ (suppose) to feel the weight on my legs and sink my dan tian.",
-          "src": "2026新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "现在，我____（应该）感受双腿承受的重量，让丹田下沉。"
         },
         {
           "s": "But one day when I heard her saying “I think I’m too fat,” my heart sank.",
@@ -92,15 +85,7 @@
     },
     {
       "def": "to decrease in amount, volume, strength, etc. 降低；减少；减弱",
-      "ex": [
-        {
-          "s": "“Even in families whose parents didn't have a college education... families are smaller, and the idea that children need to be carefully ___53___ has really sunk in.” The ___54___ of “adult activities” could not be attributed to more homework or extracurricular activities, the study said, noting that teens today spend fewer hours on homework and the same amount of time on extracurricular as they did in the 1990s ( with the exception of community service, which has risen slightly).",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“即使在父母没有大学学历的家庭里……家庭规模更小，孩子需要被细心___53____（养育）的观念已经深入人心。”所谓“成人活动”的___54____（减少）不能归因于更多的家庭作业或课外活动，研究指出，如今的青少年花在家庭作业上的时间更少，在课外活动上的时间与1990年代相同（社区服务除外，它略有上升）。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to become quieter 变低；变小",
@@ -120,22 +105,7 @@
     },
     {
       "def": "to hit a ball into a hole in golf or snooker （高尔夫球）击球入洞；（斯诺克）击球入袋",
-      "ex": [
-        {
-          "s": "Jenna threw the burnt piece into the sink and put in the other slice of bread.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
-        },
-        {
-          "s": "Jenna threw the burnt piece into the  sink and put in the other slice of bread.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to drink sth quickly, especially a large amount of alcohol 猛喝；灌",
@@ -159,7 +129,22 @@
     },
     {
       "def": "a large open container in a kitchen that has taps/faucets to supply water and that you use for washing dishes in （厨房里的）洗涤池，洗碗槽",
-      "ex": []
+      "ex": [
+        {
+          "s": "Jenna threw the burnt piece into the sink and put in the other slice of bread.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
+        },
+        {
+          "s": "Jenna threw the burnt piece into the  sink and put in the other slice of bread.",
+          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
+        }
+      ]
     }
   ]
 }
