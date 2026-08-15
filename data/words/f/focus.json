@@ -1,7 +1,7 @@
 {
   "meta": {
     "ph": "ˈfəʊkəs; NAmE ˈfoʊkəs",
-    "pos": "verb",
+    "pos": "verb;verb;verb;noun;noun;noun;noun",
     "stars": ""
   },
   "defs": [
@@ -28,13 +28,6 @@
           "cat": "gaokao",
           "year": 2024,
           "t": "她不再去想\"英里\"这个词。相反，她专注于跑到前方一棵橡树投在跑道上的影子处。"
-        },
-        {
-          "s": "_________ focusing on winning the approval of others, try to understand and accept yourself.",
-          "src": "2024天津3月卷·一、单项填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "_________专注于赢得他人的认可，不如试着去理解和接纳自己。"
         },
         {
           "s": "Focusing only on building muscles.",
@@ -93,7 +86,7 @@
           "t": "47 他们专注于足球、篮球和棒球。"
         },
         {
-          "s": "B． They focus on arriving at the camp in time．",
+          "s": "They focus on arriving at the camp in time．",
           "src": "2018天津卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
@@ -188,19 +181,26 @@
           "cat": "gaokao",
           "year": 2021,
           "t": "问题可能是，在我们的办公室里，当我们试图集中注意力时无法不被卷入他人的对话中。"
+        },
+        {
+          "s": "What does the passage focus on? （    ）",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这篇文章（这段文字）关注的是什么？"
+        },
+        {
+          "s": "People tend to focus on the first factor.",
+          "src": "2020浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "人们往往关注第一个因素。"
         }
       ]
     },
     {
       "def": "to adapt or be adjusted so that things can be seen clearly; to adjust sth so that you can see things clearly 眼睛、摄影机等",
       "ex": [
-        {
-          "s": "I keep my eyes ____63____ a woman to my right and try to copy her movements, but unfortunately I soon lose focus.",
-          "src": "2026新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我的眼睛____63____右边的一位女士，试图模仿她的动作，但不幸的是我很快失去了专注。"
-        },
         {
           "s": "35  As you make reading a regular part of your life, you’ll make more connections, stay more focused and understand the text better.",
           "src": "2017浙江11月卷·七选五",
@@ -253,13 +253,6 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "探索者营在每一节课上都组织引人入胜的与艺术、历史、科学相关的活动，并聚焦于一系列强调主动学习、探索，尤其是乐趣的主题！"
-        },
-        {
-          "s": "Because the number of possible topics____43____（be）practically limitless, we focus on a sample of the most interesting and useful applications and tools and explain the basic principles of technology.",
-          "src": "2020全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "因为可能的主题数量___43___（be）几乎无穷无尽，我们聚焦于最有趣、最有用的应用和工具的一个样本，并解释技术的基本原理。"
         },
         {
           "s": "Focusing on a topic.",
@@ -328,32 +321,11 @@
           "t": "“它们需要成为土地的保护者，并为农业经济做出贡献。”InSPIRE正在研究“低影响”太阳能开发的实用方案，重点关注以一种对土地更友好的方式建立和运营太阳能农场……"
         },
         {
-          "s": "The new study focused on whether dogs can_________.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这项新研究的重点是狗能否区分人类的面部表情。"
-        },
-        {
           "s": "In all, 80 examinations were conducted for the project between January and September, 2019, focusing on the imaging procedures that would cause anxiety.",
           "src": "2021天津3月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
           "t": "总共在2019年1月至9月间该项目进行了80次检查重点关注会引起焦虑的成像程序。"
-        },
-        {
-          "s": "What does the passage focus on? （    ）",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这篇文章（这段文字）关注的是什么？"
-        },
-        {
-          "s": "People tend to focus on the first factor.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不仅仅是人们在平均寿命上更长。"
         },
         {
           "s": "We’ve all been there: in a lift, in line at the bank or on an airplane, surrounded by people who are, like us, deeply focused on their smartphones or, worse, struggling with the uncomfortable silence.",
