@@ -864,77 +864,166 @@ const ST_STOP = new Set([
   'furthermore','nevertheless','instead','otherwise','meanwhile','besides'
 ]);
 
-// ====== 按词性从例句中提取真实搭配 ======
-function _extractPosCollocations(sentence, word, primaryPos, collocMap) {
+// ====== 高频搭配：从例句中提取真实教学词块 ======
+// 目标：提取完整词块（形容词+名词 / 动词+名词 / 动词+小品词 / 名词+介词），
+// 如 colorful picture / take picture of / cut out picture / well-rounded picture of，
+// 而非 "picture of"、"room picture" 这类无教学意义的二元组合。
+const CK_HARD_PARTICLE = new Set(['out','up','off','down','away','back','aside','apart','forward','together']);
+const CK_PREP = new Set(['in','on','at','by','for','with','from','to','of','about','into','through','over','under','after','before','like','near','across','along','behind','beyond','down','off','up','out','as','than','between','among','within','without','against','upon','via','per','despite','during','onto','toward','towards']);
+const CK_BREAK_RIGHT = new Set(['than','as','during','if','when','while','since','until','whether']);
+const CK_DET = new Set(['the','a','an','my','your','our','their','his','her','its','this','that','these','those','some','any','each','every','such','both','all','no','another','one']);
+const CK_PRON = new Set(['it','its','he','she','they','them','him','her','us','me','you','we','i','one','ones','everyone','someone','anyone','something','anything','everything','nothing','myself','yourself','himself','herself','themselves','ourselves','who','whom','whose','which','what']);
+const CK_LY_KEEP = new Set(['only','early','likely','friendly','lovely','lonely','weekly','monthly','daily','yearly','costly','deadly','silly','ugly','holy']);
+const CK_FUNC = new Set([...CK_DET, ...CK_PRON,
+  'can','could','will','would','should','may','might','must','shall','do','does','did','have','has','had','be','is','are','was','were','been','being','am','not','and','or','but','if','when','while','because','so','very','too','also','just','only','even','still','now','then','here','there','more','most','less','least','much','many','few','several','first','second','last','next','other','same','such','than','always','often','never','again','both']);
+
+// 词表词元集合（懒加载，供词形还原使用）
+let _ckWordSet = null;
+function _lemmaSet() {
+  if (!_ckWordSet) _ckWordSet = new Set(WORDS.map(x => (x.w || '').toLowerCase()));
+  return _ckWordSet;
+}
+// 不规则动词反向表：变体 -> 原形
+let _ckIrrevRev = null;
+function _irregRev() {
+  if (!_ckIrrevRev) {
+    _ckIrregRev = {};
+    Object.keys(IRREGULAR).forEach(base => IRREGULAR[base].forEach(v => {
+      if (!_ckIrregRev[v]) _ckIrregRev[v] = base;
+    }));
+  }
+  return _ckIrregRev;
+}
+
+// 词形还原：把变形词还原为课标词原型（pictures→picture, taking→take, felt→feel）
+function _lemmaOf(raw) {
+  const t = raw.toLowerCase().replace(/[^a-z]/g, '');
+  if (!t) return null;
+  const set = _lemmaSet();
+  if (set.has(t)) return t;
+  if (_irregRev()[t]) return _irregRev()[t];
+  const cands = [];
+  if (t.endsWith('ies') && t.length > 4) cands.push(t.slice(0, -3) + 'y');
+  if (t.endsWith('sses')) cands.push(t.slice(0, -2));
+  if (t.endsWith('es') && t.length > 3) cands.push(t.slice(0, -2), t.slice(0, -1));
+  if (t.endsWith('s') && !t.endsWith('ss') && t.length > 3) cands.push(t.slice(0, -1));
+  if (t.endsWith('ing') && t.length > 5) {
+    const stem = t.slice(0, -3);
+    cands.push(stem + 'e', stem);
+    if (stem.length > 2 && /([a-z])\1$/.test(stem)) cands.push(stem.slice(0, -1));
+  }
+  if (t.endsWith('ied') && t.length > 4) cands.push(t.slice(0, -3) + 'y');
+  if (t.endsWith('ed') && t.length > 4) {
+    const stem = t.slice(0, -2);
+    cands.push(stem, stem + 'e');
+    if (/([a-z])\1$/.test(stem)) cands.push(stem.slice(0, -1));
+  }
+  for (const c of cands) if (set.has(c)) return c;
+  return null;
+}
+
+// 内容词（形容词/名词修饰语/动词等），返回词元；不合格返回 null
+function _ckContentWord(raw) {
+  if (!/^[a-zA-Z][a-zA-Z-]*$/.test(raw) || /[a-z][A-Z]/.test(raw)) return null;
+  const t = raw.toLowerCase();
+  if (CK_FUNC.has(t) || t.length < 3 || t.length > 15) return null;
+  return _lemmaOf(raw) || t;
+}
+
+// 动词形判断（用于"动词 + 限定词 + 名词"跨限定词扩展，如 took a picture）
+function _ckVerbish(raw) {
+  const t = raw.toLowerCase();
+  if (_irregRev()[t]) return _irregRev()[t];
+  if (/(ing|ed)$/.test(t)) { const l = _lemmaOf(raw); if (l) return l; }
+  return null;
+}
+
+// 核心：从单个例句中提取含目标词的教学词块
+function _extractChunks(sentence, word, primaryPos, chunkMap) {
   if (!sentence || !word) return;
   const w = word.toLowerCase();
-  const tokens = sentence.split(/\s+/);
+  const toks = sentence.split(/\s+/)
+    .map(rt => rt.replace(/[^a-zA-Z-]/g, ''))
+    .filter(t => t !== '');
+  if (!toks.length) return;
 
-  for (let i = 0; i < tokens.length; i++) {
-    const clean = tokens[i].toLowerCase().replace(/[^a-z']/g, '');
-    if (clean !== w) continue;
+  for (let i = 0; i < toks.length; i++) {
+    if (_lemmaOf(toks[i]) !== w && toks[i].toLowerCase() !== w) continue;
+    if (/^[A-Z]/.test(toks[i]) && i > 0) continue;   // 大写目标=标题/专有名词
 
-    const after  = i + 1 < tokens.length ? tokens[i + 1].toLowerCase().replace(/[^a-z']/g, '') : '';
-    const before = i - 1 >= 0 ? tokens[i - 1].toLowerCase().replace(/[^a-z']/g, '') : '';
+    // ---- 向左扩展（动词目标不取左侧，避免混入主语）----
+    let left = [], sawWord = false, sawParticle = false, leftHasPrep = false;
+    if (primaryPos !== 'verb') {
+      let j = i - 1;
+      while (j >= 0) {
+        const raw = toks[j], t = raw.toLowerCase();
+        if (/^[A-Z]/.test(raw) && j > 0) break;         // 专有名词
+        if (/[a-z][A-Z]/.test(raw)) break;              // 粘连词
+        if (_lemmaOf(raw) === w) break;                 // 目标词自身变体
+        if (CK_PREP.has(t)) {
+          // 形容词/副词目标允许带一个左侧介词（on average / in particular）
+          if ((primaryPos === 'adj' || primaryPos === 'adv') && !sawWord && !leftHasPrep) {
+            left.unshift(t); leftHasPrep = true;
+          }
+          break;
+        }
+        if (CK_HARD_PARTICLE.has(t) && !sawWord && !sawParticle) {
+          left.unshift(t); sawParticle = true; j--; continue;   // cut out pictures
+        }
+        if (CK_DET.has(t) && !sawWord) {
+          // 限定词：可跨一个动词（took a picture → take picture）
+          const v = j - 1 >= 0 ? _ckVerbish(toks[j - 1]) : null;
+          const before = j - 2 >= 0 ? toks[j - 2].toLowerCase() : '';
+          if (v && (j - 1 === 0 || CK_FUNC.has(before))) { left.unshift(v); sawWord = true; }
+          break;
+        }
+        if (CK_FUNC.has(t)) break;
+        if (/^[a-z]{3,}ly$/.test(t) && !CK_LY_KEEP.has(t)) break;  // -ly 副词截断
+        const cw = _ckContentWord(raw);
+        if (cw && !sawWord) { left.unshift(cw); sawWord = true; j--; continue; }
+        break;
+      }
+    }
+    if (sawParticle && !sawWord) { left = []; sawParticle = false; }  // 孤悬小品词无效
 
-    if (primaryPos === 'verb') {
-      // 动词短语：word + 副词/小品词，word + 介词
-      if (after && (ST_PARTICLES.has(after) || ST_PREP.has(after))) {
-        const ph = w + ' ' + after;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
+    // ---- 向右扩展：小品词 / 介词 / （动词、形容词目标的）宾语名词 ----
+    let right = [], rContent = false;
+    let k = i + 1;
+    while (k < toks.length) {
+      const raw = toks[k], t = raw.toLowerCase();
+      if (/^[A-Z]/.test(raw) || /[a-z][A-Z]/.test(raw) || _lemmaOf(raw) === w) break;
+      if (!rContent && primaryPos === 'verb' && CK_HARD_PARTICLE.has(t)) {
+        right.push(t); rContent = true; k++; continue;          // cut down / take off
       }
+      if (!rContent && CK_PREP.has(t)) {
+        if (CK_BREAK_RIGHT.has(t)) break;
+        if (t === 'to') {
+          // 不定式 to：后接限定词/代词才视为介词（lead to the problem）
+          const nx = k + 1 < toks.length ? toks[k + 1].toLowerCase() : '';
+          if ((CK_DET.has(nx) || CK_PRON.has(nx)) && !leftHasPrep) { right.push(t); k++; }
+          break;
+        }
+        if (!leftHasPrep) { right.push(t); k++; }               // picture of / risk of
+        break;
+      }
+      if (CK_PRON.has(t)) break;                                // 代词宾语终止
+      if (!rContent && (primaryPos === 'verb' || primaryPos === 'adj')) {
+        if (CK_DET.has(t)) { k++; continue; }                   // 跨过宾语限定词
+        const cw = _ckContentWord(raw);
+        if (cw) { right.push(cw); rContent = true; k++; }
+        break;
+      }
+      break;
     }
-    else if (primaryPos === 'noun') {
-      // 名词短语：形容词 + word
-      if (before && /^[a-z]{3,}$/.test(before) &&
-          !ST_DET.has(before) && !ST_AUX.has(before) &&
-          !ST_PREP.has(before) && !ST_PARTICLES.has(before) && !ST_STOP.has(before)) {
-        const ph = before + ' ' + w;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-      // 名词 + 介词
-      if (after && ST_PREP.has(after)) {
-        const ph = w + ' ' + after;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-    }
-    else if (primaryPos === 'adj') {
-      // 形容词 + 介词
-      if (after && ST_PREP.has(after)) {
-        const ph = w + ' ' + after;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-      // 形容词 + 名词
-      if (after && /^[a-z]{3,}$/.test(after) &&
-          !ST_PREP.has(after) && !ST_PARTICLES.has(after) &&
-          !ST_AUX.has(after) && !ST_DET.has(after) && !ST_STOP.has(after)) {
-        const ph = w + ' ' + after;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-    }
-    else if (primaryPos === 'adv') {
-      // 动词 + 副词
-      if (before && /^[a-z]{3,}$/.test(before) &&
-          !ST_DET.has(before) && !ST_AUX.has(before) &&
-          !ST_PREP.has(before) && !ST_PARTICLES.has(before) && !ST_STOP.has(before)) {
-        const ph = before + ' ' + w;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-      // 副词 + 形容词
-      if (after && /^[a-z]{3,}$/.test(after) &&
-          !ST_PREP.has(after) && !ST_PARTICLES.has(after) &&
-          !ST_AUX.has(after) && !ST_DET.has(after) && !ST_STOP.has(after)) {
-        const ph = w + ' ' + after;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-    }
-    else {
-      // 默认：word + 介词/小品词
-      if (after && (ST_PREP.has(after) || ST_PARTICLES.has(after))) {
-        const ph = w + ' ' + after;
-        collocMap[ph] = (collocMap[ph] || 0) + 1;
-      }
-    }
+
+    // 有效性：词块必须含内容词，或构成固定介词短语（on average）
+    const leftMeaning = sawWord || leftHasPrep;
+    if (!leftMeaning && !rContent) continue;
+    // 名词/形容词目标：左侧无内容且右侧只有介词 → "picture of" 类无意义组合，跳过
+    if (!leftMeaning && right.every(x => CK_PREP.has(x))) continue;
+
+    const chunk = [...left, w, ...right].join(' ');
+    chunkMap[chunk] = (chunkMap[chunk] || 0) + 1;
   }
 }
 
@@ -1050,29 +1139,12 @@ function renderMindMap(word, entry) {
   const usagePos = _posDisplayName(primaryPos);
   const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos);
 
-  // 按词性提取真实搭配
+  // 提取真实教学词块（colorful picture / take picture of / cut out picture ...）
   const collocMap = {};
   defs.forEach((d) => {
-    (d.ex || []).forEach(ex => {
-      _extractPosCollocations(ex.s || '', word, primaryPos, collocMap);
-    });
+    (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, primaryPos, collocMap));
   });
-  let collocEntries = Object.entries(collocMap).sort((a, b) => b[1] - a[1]);
-  // 若主词性搭配不足 3 个，回退提取所有类型
-  if (collocEntries.length < 3) {
-    const fallbackMap = {};
-    defs.forEach((d) => {
-      (d.ex || []).forEach(ex => {
-        _extractPosCollocations(ex.s || '', word, 'other', fallbackMap);
-      });
-    });
-    const existing = new Set(collocEntries.map(e => e[0]));
-    Object.entries(fallbackMap).sort((a, b) => b[1] - a[1]).forEach(e => {
-      if (!existing.has(e[0])) collocEntries.push(e);
-    });
-    collocEntries.sort((a, b) => b[1] - a[1]);
-  }
-  const topCollocations = collocEntries.slice(0, 5);
+  const topCollocations = Object.entries(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
 
   let rightHtml = '';
   rightHtml += `<p class="wv-lead"><b>${esc(word)}</b>在例句库中主要作<b>${esc(usagePos)}</b>，共出现<b class="wv-num">${totalAll}</b>词次。</p>`;
