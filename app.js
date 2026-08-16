@@ -679,7 +679,12 @@ function _detectGenres(sources) {
     typeCount[t] = (typeCount[t] || 0) + 1;
     genres.count++;
   });
-  genres.types = Object.entries(typeCount).sort(([,a],[,b]) => b - a).map(([t,c]) => ({ t, c }));
+  // 排序：按出现次数降序，但「其他」始终排在最后
+  genres.types = Object.entries(typeCount).sort(([ta, a], [tb, b]) => {
+    if (ta === '其他' && tb !== '其他') return 1;
+    if (tb === '其他' && ta !== '其他') return -1;
+    return b - a;
+  }).map(([t,c]) => ({ t, c }));
   return genres;
 }
 
