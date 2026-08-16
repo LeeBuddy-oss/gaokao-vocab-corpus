@@ -800,13 +800,28 @@ function _posDisplayName(pos) {
   return map[pos] || '多词性';
 }
 
+// 把归一化词性转为徽章标完整英文名（noun/verb/adjective/adverb 等）
+function _posBadgeName(pos) {
+  const map = {
+    noun: 'noun',
+    verb: 'verb',
+    adj: 'adjective',
+    adv: 'adverb',
+    prep: 'preposition',
+    pron: 'pronoun',
+    other: 'multi'
+  };
+  return map[pos] || 'multi';
+}
+
 // ====== POS 归一化 ======
 function _normalizePos(pos) {
   const p = (pos || '').toLowerCase();
-  if (p.includes('verb') || p.includes('; v') || p === 'v.') return 'verb';
-  if (p.includes('noun') || p === 'n.') return 'noun';
+  // 注意：adverb 同时包含 adv 和 verb，必须先检查 adv
   if (p.includes('adj')) return 'adj';
   if (p.includes('adv')) return 'adv';
+  if (p.includes('verb') || p.includes('; v') || p === 'v.') return 'verb';
+  if (p.includes('noun') || p === 'n.') return 'noun';
   if (p.includes('prep')) return 'prep';
   if (p.includes('pron')) return 'pron';
   return 'other';
@@ -826,6 +841,14 @@ function _defPos(defText, fallbackPos) {
   const zh = zhMatch ? zhMatch[0].replace(/\s/g, '') : '';
   if (zh && /地$/.test(zh)) return 'adv';
   if (zh && /的$/.test(zh)) return 'adj';
+  // 形容词释义常见英文起始模式
+  if (/^(having|being|used to|used for|used in|used as|relating to|related to|typical of|concerned with|concerned about|able to|likely to|inclined to|supposed to|given to|willing to|easy to|hard to|difficult to|too .+ to|free to|fit to|due to|owing to|open to)\s/i.test(t)) return 'adj';
+  // -ing 形容词释义（doing / feeling / looking... + sth/that/which/who/when/where/how）
+  if (/^[a-z]+ing\s+(sth|sb|st|that|which|who|whom|when|where|how|in|at|on|by|for|with|from|of|to|about)\b/i.test(t)) return 'adj';
+  // -ed 形容词释义（interested/concerned/pleased + in/by/with/about/that）
+  if (/^[a-z]+ed\s+(to|by|with|in|for|from|of|that|which|who|about|into|on|at)\b/i.test(t)) return 'adj';
+  // "more...than" 比较级形容词
+  if (/^(more|less)\s+\w+\s+than\b/i.test(t)) return 'adj';
   if (/^(the|a|an|one|each|every|some|any|no|this|that|these|those|his|her|their|its|our|your|my|sb'?s?|sth|it|he|she|they)\b/i.test(t)) return 'noun';
   // 非动词、非形容词/副词的释义默认按名词处理（名词块提取规则最通用）
   return 'noun';
@@ -1488,9 +1511,10 @@ function renderEntry(entry, word, mmHtml, fam, variants) {
     html += `<div class="notfound">该词暂无助记例句。</div>`;
   }
   defs.forEach((d, idx) => {
-    // 推断词性：释义以 "to " 开头 → verb，否则 noun
-    const defText = (d.def || '').trim();
-    const pos = defText.toLowerCase().startsWith('to ') ? 'verb' : 'noun';
+    // 推断词性：使用 _defPos 完整逻辑（to 开头=verb / 中文"的/地"结尾=adj/adv / 限定词开头=noun / 常见形容词起始模式=adj）
+    const wordFallbackPos = _normalizePos(meta.pos);
+    const posKey = _defPos(d.def || '', wordFallbackPos);
+    const pos = _posBadgeName(posKey);
     const exs = d.ex || [];
     const exCount = exs.length;
     html += `<div class="def" data-def-idx="${idx}">` +
