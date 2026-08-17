@@ -227,8 +227,13 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   max-width: 920px; margin: 0 auto; padding: 18px 20px 40px;
   font-size: 13px; color: var(--muted); border-top: 1px solid var(--border);
   display: flex; flex-direction: column; gap: 8px;
+  white-space: nowrap; /* 避免页脚文字在中间换行 */
 }
 .foot .copy { color: var(--faint); font-size: 12px; }
+/* 小屏允许页脚换行，避免横向溢出 */
+@media (max-width: 720px) {
+  .foot { white-space: normal; }
+}
 /* 51.la 数据挂件容器：居中 + 加粗 */
 .la-widget-count {
   text-align: center;
