@@ -844,7 +844,7 @@ function _defPos(defText, fallbackPos) {
   if (!defText) return fallbackPos;
   let t = defText.trim().replace(/^\s*[(（][^)）]*[)）]\s*/, '').trim();
   if (!t || /[\u4e00-\u9fff]/.test(t[0])) return fallbackPos;  // 中文开头（语法说明）→ 信任回退词性
-  if (/^to\s+[a-z]/i.test(t)) return 'verb';
+  if (/^to\s+[a-z]/i.test(t) && !/^to\s+(or|and)\s/i.test(t)) return 'verb';
   // 中文释义部分
   const zhMatch = t.match(/[\u4e00-\u9fff][\u4e00-\u9fff\s，。；、（）()·…]*$/);
   const zh = zhMatch ? zhMatch[0].replace(/\s/g, '') : '';
@@ -865,7 +865,7 @@ function _defPos(defText, fallbackPos) {
   // 介词释义：以常见介词开头（at/in/on/of/for/with/by/from/about ...）
   // 注意：要排除 "to"（已在上方 verb 处理）和 "of + 名词短语"（如 "of God" 是名词短语的情况）
   // 使用 \b 而非 \s+ 以允许标点（如 "until, and including"）
-  if (/^(at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\b/i.test(t)) return 'prep';
+  if (/^(to|at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\b/i.test(t)) return 'prep';
   // 介词释义："more/less/greater/higher ... than" 比较级"超过"义
   if (/^(more|less|greater|higher|louder|clearer|fewer|earlier|later|better|worse|further)\s+.*\s+than\b/i.test(t)) return 'prep';
   // 副词性释义：比较级 + in（"greater in number", "earlier in sth"）
