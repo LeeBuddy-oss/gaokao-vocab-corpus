@@ -850,18 +850,25 @@ function _defPos(defText, fallbackPos) {
   const zh = zhMatch ? zhMatch[0].replace(/\s/g, '') : '';
   if (zh && /地$/.test(zh)) return 'adv';
   if (zh && /的$/.test(zh)) return 'adj';
+  // 介词释义：特定短语（similar to / as if / concerning / regarding 等）
+  // 必须在 -ing 形容词检测之前，否则 "concerning sb/sth" 会被误判为形容词
+  if (/^(similar\s+to|as\s+if|concerning|regarding|respecting|touching)\b/i.test(t)) return 'prep';
+  // 语法说明排除：used to show/describe/indicate 等不是形容词（是介词的语法说明）
+  if (/^used to (show|describe|indicate|express|represent|demonstrate|illustrate|form|mark|introduce|refer)\b/i.test(t)) return fallbackPos;
   // 形容词释义常见英文起始模式
   if (/^(having|being|used to|used for|used in|used as|relating to|related to|typical of|concerned with|concerned about|able to|likely to|inclined to|supposed to|given to|willing to|easy to|hard to|difficult to|too .+ to|free to|fit to|due to|owing to|open to)\s/i.test(t)) return 'adj';
   // -ing 形容词释义（doing / feeling / looking... + sth/that/which/who/when/where/how）
   if (/^[a-z]+ing\s+(sth|sb|st|that|which|who|whom|when|where|how|in|at|on|by|for|with|from|of|to|about)\b/i.test(t)) return 'adj';
+  // 语法说明排除：employed by 不是形容词（for = employed by 是介词用法）
+  if (/^employed by\b/i.test(t)) return fallbackPos;
   // -ed 形容词释义（interested/concerned/pleased + in/by/with/about/that）
   if (/^[a-z]+ed\s+(to|by|with|in|for|from|of|that|which|who|about|into|on|at)\b/i.test(t)) return 'adj';
   // "more...than" 比较级形容词
   if (/^(more|less)\s+\w+\s+than\b/i.test(t)) return 'adj';
+  // 语法说明排除：better/worse ... etc. 不是比较级形容词（是介词用法说明，列举比较级后接 for）
+  if (/^(better|worse)\s*,.*\betc\b/i.test(t)) return fallbackPos;
   // 比较级形容词（better; more acceptable / worse; less ...）
   if (/^(better|worse)\s*[,;]\s+/i.test(t)) return 'adj';
-  // 介词释义：特定短语（similar to / as if / concerning / regarding）
-  if (/^(similar\s+to|as\s+if|concerning|regarding|respecting|touching)\b/i.test(t)) return 'prep';
   // 介词释义：以常见介词开头（at/in/on/of/for/with/by/from/about ...）
   // 注意：要排除 "to"（已在上方 verb 处理）和 "of + 名词短语"（如 "of God" 是名词短语的情况）
   // 使用 \b 而非 \s+ 以允许标点（如 "until, and including"）
