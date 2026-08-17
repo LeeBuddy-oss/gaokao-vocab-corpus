@@ -854,7 +854,17 @@ function _defPos(defText, fallbackPos) {
   if (/^[a-z]+ed\s+(to|by|with|in|for|from|of|that|which|who|about|into|on|at)\b/i.test(t)) return 'adj';
   // "more...than" 比较级形容词
   if (/^(more|less)\s+\w+\s+than\b/i.test(t)) return 'adj';
+  // 介词释义：以常见介词开头（at/in/on/of/for/with/by/from/about ...）
+  // 注意：要排除 "to"（已在上方 verb 处理）和 "of + 名词短语"（如 "of God" 是名词短语的情况）
+  if (/^(at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\s+(or\s+(at|in|on|to|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\s+)?/i.test(t)) return 'prep';
+  // 介词释义："more/less/greater/higher ... than" 比较级"超过"义
+  if (/^(more|less|greater|higher|louder|clearer|fewer|earlier|later|better|worse|further)\s+.*\s+than\b/i.test(t)) return 'prep';
+  // 副词性释义：比较级 + in（"greater in number", "earlier in sth"）
+  // above 的副词义"超过"、"上文"等以比较级开头
+  if (/^(greater|earlier|later|higher|lower|fewer|older|younger)\s+in\s/i.test(t)) return 'adv';
   if (/^(the|a|an|one|each|every|some|any|no|this|that|these|those|his|her|their|its|our|your|my|sb'?s?|sth|it|he|she|they)\b/i.test(t)) return 'noun';
+  // 介词/代词类词的释义若未匹配任何模式，不应回退到名词
+  if (fallbackPos === 'prep' || fallbackPos === 'pron' || fallbackPos === 'adv') return fallbackPos;
   // 非动词、非形容词/副词的释义默认按名词处理（名词块提取规则最通用）
   return 'noun';
 }
