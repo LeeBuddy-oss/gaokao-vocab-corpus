@@ -234,15 +234,25 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 @media (max-width: 720px) {
   .foot { white-space: normal; }
 }
-/* 51.la 数据挂件容器：右对齐，让数字与页脚"准"字右端对齐 */
+/* 51.la 数据挂件容器：撑满页脚宽度，让右边框与页脚"准"字右端对齐 */
 .la-widget-count {
   text-align: right;
   font-weight: 700;
   font-size: 13px;
   color: var(--muted);
   margin-top: 4px;
-  display: flex;
-  justify-content: flex-end;
+  display: block;
+  width: 100%;
+}
+/* 强制挂件内部元素（iframe/div/span）撑满容器宽度 */
+.la-widget-count iframe,
+.la-widget-count > div,
+.la-widget-count > span,
+.la-widget-count > a {
+  width: 100% !important;
+  max-width: 100% !important;
+  display: block !important;
+  box-sizing: border-box !important;
 }
 .la-widget-count img, .la-widget-count a { vertical-align: middle; }
 
