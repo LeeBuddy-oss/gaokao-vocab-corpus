@@ -234,13 +234,15 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 @media (max-width: 720px) {
   .foot { white-space: normal; }
 }
-/* 51.la 数据挂件容器：居中 + 加粗 */
+/* 51.la 数据挂件容器：右对齐，让数字与页脚"准"字右端对齐 */
 .la-widget-count {
-  text-align: center;
+  text-align: right;
   font-weight: 700;
   font-size: 13px;
   color: var(--muted);
   margin-top: 4px;
+  display: flex;
+  justify-content: flex-end;
 }
 .la-widget-count img, .la-widget-count a { vertical-align: middle; }
 
