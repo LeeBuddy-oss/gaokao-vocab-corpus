@@ -1007,6 +1007,9 @@ const CK_PRON = new Set(['it','its','he','she','they','them','him','her','us','m
 const CK_LY_KEEP = new Set(['only','early','likely','friendly','lovely','lonely','weekly','monthly','daily','yearly','costly','deadly','silly','ugly','holy']);
 const CK_FUNC = new Set([...CK_DET, ...CK_PRON,
   'can','could','will','would','should','may','might','must','shall','do','does','did','have','has','had','be','is','are','was','were','been','being','am','not','and','or','but','if','when','while','because','so','very','too','also','just','only','even','still','now','then','here','there','more','most','less','least','much','many','few','several','first','second','last','next','other','same','such','than','always','often','never','again','both']);
+// 句间连接副词（conjunctive adverbs）：在句法上与主句可分离，不与相邻词构成教学搭配。
+// 例：acknowledge, however, was... → 不应产出 "acknowledge however"
+const CK_CONJ_ADV = new Set(['however','therefore','thus','hence','moreover','furthermore','nevertheless','nonetheless','meanwhile','otherwise','accordingly','consequently','additionally','similarly','likewise','subsequently','simultaneously','instead','indeed','certainly','apparently','obviously','clearly','naturally','fortunately','unfortunately','surprisingly','interestingly']);
 
 // 词表词元集合（懒加载，供词形还原使用）
 let _ckWordSet = null;
@@ -1058,7 +1061,7 @@ function _lemmaOf(raw) {
 function _ckContentWord(raw) {
   if (!/^[a-zA-Z][a-zA-Z-]*$/.test(raw) || /[a-z][A-Z]/.test(raw)) return null;
   const t = raw.toLowerCase();
-  if (CK_FUNC.has(t) || t.length < 3 || t.length > 15) return null;
+  if (CK_FUNC.has(t) || CK_CONJ_ADV.has(t) || t.length < 3 || t.length > 15) return null;
   if ((/[a-z]{2,}(ing|ed)$/.test(t)) && !_lemmaSet().has(t)) return t;
   return _lemmaOf(raw) || t;
 }
