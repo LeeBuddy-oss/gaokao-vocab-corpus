@@ -1315,9 +1315,11 @@ function _extractChunks(sentence, word, primaryPos, chunkMap, nounCapable) {
 // 规则：短词块 S 与其延伸 L（L 以 S 开头）
 //   · 计数相等 → 每次 S 都延伸到了 L，保留更长的 L（distinguish right from wrong）
 //   · 计数不等 → L 只是零散延伸，保留聚合的 S（take care of）
-function _mergeChunkVariants(chunkMap) {
+// 保护动宾搭配（长度2，动词+名词）：run marathon 不被 run marathon in country 吞噬
+function _mergeChunkVariants(chunkMap, word) {
   const keys = Object.keys(chunkMap);
   const kept = new Set(keys);
+  const w = (word || '').toLowerCase();
   for (const L of keys) {
     const ws = L.split(' ');
     if (ws.length < 3) continue;
@@ -1325,12 +1327,50 @@ function _mergeChunkVariants(chunkMap) {
     for (let n = ws.length - 1; n >= 2; n--) {
       const S = ws.slice(0, n).join(' ');
       if (chunkMap[S] === undefined) continue;
+      // 保护动宾搭配（长度2，动词+名词宾语）：不被长词块删除
+      // run marathon 不应被 run marathon in country 删除（in country 只是上下文）
+      if (n === 2 && S.split(' ')[0] === w) {
+        const obj = S.split(' ')[1];
+        const objLemma = _lemmaOf(obj) || obj;
+        if (_nounSet().has(objLemma)) continue;  // 动宾搭配，保留短词块
+      }
       if (chunkMap[S] === chunkMap[L]) { kept.delete(S); continue; }
       kept.delete(L); dropped = true; break;
     }
     if (dropped) continue;
   }
   return keys.filter(k => kept.has(k)).map(k => [k, chunkMap[k]]);
+}
+
+// 搭配质量评分：动宾/形+名搭配教学价值高，即使频率低也应优先；
+// 介词/副词弱搭配即使高频也降权。综合分 = 频率 + 质量分 × 1.5
+function _chunkQualityScore(chunk, word) {
+  const ws = chunk.split(' ');
+  const w = word.toLowerCase();
+  const idx = ws.indexOf(w);
+  if (idx === -1) return 0;
+  const left = ws.slice(0, idx);
+  const right = ws.slice(idx + 1);
+  let q = 0;
+  // 形+名（word在末位，左边有内容词）：cross-country run / long run
+  if (left.length > 0 && right.length === 0) { q = 3; }
+  // word在开头
+  else if (idx === 0 && right.length > 0) {
+    const next = right[0];
+    if (CK_HARD_PARTICLE.has(next)) q = 2;                        // 动词+小品词：run out / run back
+    else if (CK_PREP.has(next) && right.length === 1) q = 1;     // 动词+介词（单独）：run at
+    else if (CK_PREP.has(next) && right.length >= 2) q = 2.5;    // 动词+介词+宾语：run at speed
+    else {
+      const nextLemma = _lemmaOf(next) || next;
+      if (_nounSet().has(nextLemma)) q = 3;                       // 动宾搭配：run business / run marathon
+      else if (_ckContentWord(next) || _adjSet().has(nextLemma)) q = 1.5;  // 动词+形容词：make sure
+      else q = 0;
+    }
+  }
+  else if (left.length > 0 && right.length > 0) { q = 2.5; }     // 完整词块：take care of
+  // 长度惩罚：超过3个词的搭配降权（避免上下文噪声如"run marathon in country"）
+  if (ws.length > 3) q -= (ws.length - 3) * 0.5;
+  return q;
 }
 
 // ====== 常见结构：语法框架分析（按词性输出抽象模式） ======
@@ -1488,7 +1528,13 @@ function renderMindMap(word, entry) {
     const dpos = _defPos(d.def || '', primaryPos, word);
     (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, dpos, collocMap, nounCapable));
   });
-  const topCollocations = _mergeChunkVariants(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
+  // 质量加权排序：综合分 = 频率 + 质量分 × 1.5
+  // 动宾/形+名搭配优先于介词/副词弱搭配，确保"run business"等核心搭配不被高频弱搭配挤出
+  const topCollocations = _mergeChunkVariants(collocMap, word)
+    .map(([ph, c]) => [ph, c, c + _chunkQualityScore(ph, word) * 1.5])
+    .sort((a, b) => b[2] - a[2] || b[1] - a[1])
+    .slice(0, 8)
+    .map(([ph, c]) => [ph, c]);
 
   const structDesc = _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos, topCollocations);
 
