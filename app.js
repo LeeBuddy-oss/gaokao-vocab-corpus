@@ -862,6 +862,9 @@ function _defPos(defText, fallbackPos) {
   if (/^to\s+[a-z]/i.test(t) && !/^to\s+(or|and)\s/i.test(t)) return 'verb';
   if (zh && /地$/.test(zh)) return 'adv';
   if (zh && /的$/.test(zh)) return 'adj';
+  // 介词短语排除：because of 是介词短语（+名词），不是连词（+从句）
+  // with Def9/Def10、over Def21 "because of..." 均为介词用法，不应标为 [conj]
+  if (/^because\s+of\b/i.test(t)) return 'prep';
   // 连词释义：以 because/while/whereas/just as 等连词开头
   if (/^(because|while|whereas|whereupon|whereafter|just\s+as)\b/i.test(t)) return 'conj';
   // 连词释义：although 后接 ;/, 表示同义词释义（排除 "Although the word..." 等语法说明句）
