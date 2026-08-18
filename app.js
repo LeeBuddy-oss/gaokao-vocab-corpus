@@ -1552,7 +1552,7 @@ function renderFamily(word, fam) {
   return `<div class="wv-wrap family-wrap">
     <div class="wv-header">
       <span class="wv-title">词汇家族表</span>
-      <span class="wv-subtitle">${esc(word)} 词性变换</span>
+      <span class="wv-subtitle">${esc(word)}词性变换</span>
     </div>
     <table class="family-table">
       <thead><tr>
