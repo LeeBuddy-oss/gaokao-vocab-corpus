@@ -843,13 +843,31 @@ function _normalizePos(pos) {
 function _defPos(defText, fallbackPos) {
   if (!defText) return fallbackPos;
   let t = defText.trim().replace(/^\s*[(（][^)）]*[)）]\s*/, '').trim();
-  if (!t || /[\u4e00-\u9fff]/.test(t[0])) return fallbackPos;  // 中文开头（语法说明）→ 信任回退词性
-  if (/^to\s+[a-z]/i.test(t) && !/^to\s+(or|and)\s/i.test(t)) return 'verb';
-  // 中文释义部分
+  if (!t) return fallbackPos;
+  // 中文释义部分提取（提前到中文开头检测之前，以便检查连词/副词关键词）
   const zhMatch = t.match(/[\u4e00-\u9fff][\u4e00-\u9fff\s，。；、（）()·…]*$/);
   const zh = zhMatch ? zhMatch[0].replace(/\s/g, '') : '';
+  // 中文"连用"模式（since + 特定时态从句，释义含"连用"表示连接从句）
+  if (zh && /连用/.test(zh)) return 'conj';
+  if (/[\u4e00-\u9fff]/.test(t[0])) {
+    // 中文开头（语法说明）→ 先检查连词/副词关键词
+    // 用分号/逗号分割后精确匹配，避免"尽管"等歧义词误判介词词（如 despite）
+    if (zh) {
+      const parts = zh.split(/[；，;,]/);
+      if (parts.some(p => /^(既然|虽然|哪怕|正如|然而)$/.test(p.trim()))) return 'conj';
+    }
+    if (zh && /^(此后|后来|何曾|什么时候)/.test(zh)) return 'adv';
+    return fallbackPos;  // 中文开头（语法说明）→ 信任回退词性
+  }
+  if (/^to\s+[a-z]/i.test(t) && !/^to\s+(or|and)\s/i.test(t)) return 'verb';
   if (zh && /地$/.test(zh)) return 'adv';
   if (zh && /的$/.test(zh)) return 'adj';
+  // 连词释义：以 because/while/whereas/just as 等连词开头
+  if (/^(because|while|whereas|whereupon|whereafter|just\s+as)\b/i.test(t)) return 'conj';
+  // 连词释义：although 后接 ;/, 表示同义词释义（排除 "Although the word..." 等语法说明句）
+  if (/^although\s*[;,]/i.test(t)) return 'conj';
+  // 连词释义：in the way that/in which（as = in the manner that）
+  if (/^in the way (in which|that)\b/i.test(t)) return 'conj';
   // 介词释义：特定短语（similar to / as if / concerning / regarding 等）
   // 必须在 -ing 形容词检测之前，否则 "concerning sb/sth" 会被误判为形容词
   if (/^(similar\s+to|as\s+if|concerning|regarding|respecting|touching)\b/i.test(t)) return 'prep';
@@ -869,12 +887,16 @@ function _defPos(defText, fallbackPos) {
   if (/^(better|worse)\s*,.*\betc\b/i.test(t)) return fallbackPos;
   // 比较级形容词（better; more acceptable / worse; less ...）
   if (/^(better|worse)\s*[,;]\s+/i.test(t)) return 'adj';
+  // 副词性释义：at a time after（since = afterward）
+  if (/^at a time after\b/i.test(t)) return 'adv';
   // 介词释义：以常见介词开头（at/in/on/of/for/with/by/from/about ...）
   // 注意：要排除 "to"（已在上方 verb 处理）和 "of + 名词短语"（如 "of God" 是名词短语的情况）
   // 使用 \b 而非 \s+ 以允许标点（如 "until, and including"）
-  if (/^(to|at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\b/i.test(t)) return 'prep';
+  // 连词类词（while/although 等）的释义常以介词起始词开头（如 "during the time that"），
+  // 但这些是连词释义，不应被介词模式覆盖
+  if (fallbackPos !== 'conj' && /^(to|at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\b/i.test(t)) return 'prep';
   // 介词释义："more/less/greater/higher ... than" 比较级"超过"义
-  if (/^(more|less|greater|higher|louder|clearer|fewer|earlier|later|better|worse|further)\s+.*\s+than\b/i.test(t)) return 'prep';
+  if (fallbackPos !== 'conj' && /^(more|less|greater|higher|louder|clearer|fewer|earlier|later|better|worse|further)\s+.*\s+than\b/i.test(t)) return 'prep';
   // 副词性释义：比较级 + in（"greater in number", "earlier in sth"）
   // above 的副词义"超过"、"上文"等以比较级开头
   if (/^(greater|earlier|later|higher|lower|fewer|older|younger)\s+in\s/i.test(t)) return 'adv';
