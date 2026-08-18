@@ -840,7 +840,21 @@ function _normalizePos(pos) {
 // 词条 meta.pos 只记录一个笼统词性（如 set 只标 verb），但同一词条常含名词/形容词释义，
 // 导致名词用法被按动词规则提取出 "set of" 这类弱词块。
 // 规律：动词释义以 "to ..." 开头；名词释义以限定词开头；形容词中文释义多以"的"结尾；副词多以"地"结尾。
-function _defPos(defText, fallbackPos) {
+
+// 可作介词的词汇集合：纯副词（always/already/soon 等）英文释义虽以 at/in/on 开头，
+// 但并非介词用法（仅释义措辞），不应标为 [prep]。
+// 此集合覆盖所有英语介词，用于限制介词模式仅对介词能力词生效。
+const PREP_CAPABLE = new Set([
+  'about','above','across','after','against','along','amid','among','around','as','at',
+  'before','behind','below','beneath','beside','besides','between','beyond','but','by',
+  'concerning','considering','despite','down','during','except','excepting','excluding',
+  'following','for','from','in','including','inside','into','like','minus','near','of',
+  'off','on','onto','opposite','out','outside','over','past','per','plus','regarding','round',
+  'save','since','than','through','throughout','till','to','toward','towards','under',
+  'underneath','unlike','until','up','upon','versus','via','with','within','without'
+]);
+
+function _defPos(defText, fallbackPos, headword) {
   if (!defText) return fallbackPos;
   let t = defText.trim().replace(/^\s*[(（][^)）]*[)）]\s*/, '').trim();
   if (!t) return fallbackPos;
@@ -848,7 +862,8 @@ function _defPos(defText, fallbackPos) {
   const zhMatch = t.match(/[\u4e00-\u9fff][\u4e00-\u9fff\s，。；、（）()·…]*$/);
   const zh = zhMatch ? zhMatch[0].replace(/\s/g, '') : '';
   // 中文"连用"模式（since + 特定时态从句，释义含"连用"表示连接从句）
-  if (zh && /连用/.test(zh)) return 'conj';
+  // 仅对 prep/conj 词生效：also/quite/some 等的"不与否定动词连用"是语法说明，非连词
+  if (zh && /连用/.test(zh) && (fallbackPos === 'prep' || fallbackPos === 'conj')) return 'conj';
   if (/[\u4e00-\u9fff]/.test(t[0])) {
     // 中文开头（语法说明）→ 先检查连词/副词关键词
     // 用分号/逗号分割后精确匹配，避免"尽管"等歧义词误判介词词（如 despite）
@@ -903,9 +918,13 @@ function _defPos(defText, fallbackPos) {
   // 使用 \b 而非 \s+ 以允许标点（如 "until, and including"）
   // 连词类词（while/although 等）的释义常以介词起始词开头（如 "during the time that"），
   // 但这些是连词释义，不应被介词模式覆盖
-  if (fallbackPos !== 'conj' && /^(to|at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\b/i.test(t)) return 'prep';
-  // 介词释义："more/less/greater/higher ... than" 比较级"超过"义
-  if (fallbackPos !== 'conj' && /^(more|less|greater|higher|louder|clearer|fewer|earlier|later|better|worse|further)\s+.*\s+than\b/i.test(t)) return 'prep';
+  // 纯副词（always/already/soon/often/now 等）英文释义虽以 at/in/on 开头，但不是介词用法，
+  // 仅当词本身可作介词（PREP_CAPABLE）或 meta.pos 已标 prep 时才触发
+  const _hw = (typeof headword === 'string' ? headword : '').toLowerCase();
+  const _prepOk = fallbackPos === 'prep' || PREP_CAPABLE.has(_hw);
+  if (fallbackPos !== 'conj' && _prepOk && /^(to|at|in|on|for|with|by|from|of|about|against|along|among|around|before|behind|below|beneath|beside|between|beyond|during|except|inside|into|near|onto|opposite|outside|over|past|through|throughout|toward|towards|under|underneath|unlike|until|upon|via|within|without|above|across|after)\b/i.test(t)) return 'prep';
+  // 介词释义："more/less/greater/higher ... than" 比较级"超过"义（同样仅对介词能力词）
+  if (fallbackPos !== 'conj' && _prepOk && /^(more|less|greater|higher|louder|clearer|fewer|earlier|later|better|worse|further)\s+.*\s+than\b/i.test(t)) return 'prep';
   // 副词性释义：比较级 + in（"greater in number", "earlier in sth"）
   // above 的副词义"超过"、"上文"等以比较级开头
   if (/^(greater|earlier|later|higher|lower|fewer|older|younger)\s+in\s/i.test(t)) return 'adv';
@@ -1459,9 +1478,9 @@ function renderMindMap(word, entry) {
   // 提取真实教学 n-gram 词块（catch sight of / distinguish right from wrong / take place ...）
   // 每条释义先按释义文本推断词性（to 开头=动词 / 中文"的"结尾=形容词），避免名词用法按动词规则提取
   const collocMap = {};
-  const nounCapable = defs.some(d => _defPos(d.def || '', '') === 'noun');
+  const nounCapable = defs.some(d => _defPos(d.def || '', primaryPos, word) === 'noun');
   defs.forEach((d) => {
-    const dpos = _defPos(d.def || '', primaryPos);
+    const dpos = _defPos(d.def || '', primaryPos, word);
     (d.ex || []).forEach(ex => _extractChunks(ex.s || '', word, dpos, collocMap, nounCapable));
   });
   const topCollocations = _mergeChunkVariants(collocMap).sort((a, b) => b[1] - a[1]).slice(0, 5);
@@ -1577,7 +1596,7 @@ function renderEntry(entry, word, mmHtml, fam, variants) {
   defs.forEach((d, idx) => {
     // 推断词性：使用 _defPos 完整逻辑（to 开头=verb / 中文"的/地"结尾=adj/adv / 限定词开头=noun / 常见形容词起始模式=adj）
     const wordFallbackPos = _normalizePos(meta.pos);
-    const posKey = _defPos(d.def || '', wordFallbackPos);
+    const posKey = _defPos(d.def || '', wordFallbackPos, word);
     const pos = _posBadgeName(posKey);
     const exs = d.ex || [];
     const exCount = exs.length;
