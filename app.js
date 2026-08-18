@@ -877,6 +877,8 @@ function _defPos(defText, fallbackPos) {
   if (/^having\s+or\b/i.test(t)) return fallbackPos;
   // 介词释义排除：using sth/sb/st（with = using，是介词定义，不是形容词）
   if (/^using\s+(sth|sb|st)\b/i.test(t)) return fallbackPos;
+  // 介词词排除：knowing about...（"with it" 是idiom而非形容词；介词词"with"单独不作adj）
+  if (/^knowing about\b/i.test(t) && fallbackPos === 'prep') return fallbackPos;
   // 形容词释义常见英文起始模式
   if (/^(having|being|used to|used for|used in|used as|relating to|related to|typical of|concerned with|concerned about|able to|likely to|inclined to|supposed to|given to|willing to|easy to|hard to|difficult to|too .+ to|free to|fit to|due to|owing to|open to)\s/i.test(t)) return 'adj';
   // -ing 形容词释义（doing / feeling / looking... + sth/that/which/who/when/where/how）
