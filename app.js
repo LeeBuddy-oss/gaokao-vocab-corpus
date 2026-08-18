@@ -873,6 +873,10 @@ function _defPos(defText, fallbackPos) {
   if (/^(similar\s+to|as\s+if|concerning|regarding|respecting|touching)\b/i.test(t)) return 'prep';
   // 语法说明排除：used to show/describe/indicate 等不是形容词（是介词的语法说明）
   if (/^used to (show|describe|indicate|express|represent|demonstrate|illustrate|form|mark|introduce|refer)\b/i.test(t)) return fallbackPos;
+  // 介词释义排除：having or...（with = having，是介词定义，不是形容词）
+  if (/^having\s+or\b/i.test(t)) return fallbackPos;
+  // 介词释义排除：using sth/sb/st（with = using，是介词定义，不是形容词）
+  if (/^using\s+(sth|sb|st)\b/i.test(t)) return fallbackPos;
   // 形容词释义常见英文起始模式
   if (/^(having|being|used to|used for|used in|used as|relating to|related to|typical of|concerned with|concerned about|able to|likely to|inclined to|supposed to|given to|willing to|easy to|hard to|difficult to|too .+ to|free to|fit to|due to|owing to|open to)\s/i.test(t)) return 'adj';
   // -ing 形容词释义（doing / feeling / looking... + sth/that/which/who/when/where/how）
