@@ -1636,7 +1636,6 @@ function renderEntry(entry, word, mmHtml, fam, variants) {
   html += `<div class="word-head">` +
     `<span class="w">${esc(word)}</span>` +
     (meta.ph ? `<span class="ph">/${esc(meta.ph)}/</span>` : '') +
-    (meta.pos ? `<span class="pos">${esc(meta.pos)}</span>` : '') +
     (meta.stars ? `<span class="stars">${esc(meta.stars)}</span>` : '') +
     `</div>`;
 
