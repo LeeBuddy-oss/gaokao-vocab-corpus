@@ -800,6 +800,7 @@ function _posDisplayName(pos) {
     adv: '副词',
     prep: '介词',
     pron: '代词',
+    conj: '连词',
     other: '多词性'
   };
   return map[pos] || '多词性';
@@ -814,6 +815,7 @@ function _posBadgeName(pos) {
     adv: 'adverb',
     prep: 'preposition',
     pron: 'pronoun',
+    conj: 'conjunction',
     other: 'multi'
   };
   return map[pos] || 'multi';
