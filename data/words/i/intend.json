@@ -1,1 +1,166 @@
-{"meta":{"ph":"ɪnˈtend; NAmE ɪnˈtend","pos":"verb; adj.","stars":"★"},"defs":[{"def":"to have a plan, result or purpose in your mind when you do sth 打算；计划；想要","ex":[{"s":"What does the author intend to tell us?","src":"2026北京卷·阅读理解D","cat":"gaokao","year":2026,"t":"作者打算告诉我们什么？"},{"s":"It is intended for AI professionals.","src":"2024新高考II卷·阅读理解D","cat":"gaokao","year":2024,"t":"它面向人工智能专业人士。"},{"s":"The last time I used a phone box for its intended purpose was … 2006.","src":"2024浙江1月卷·阅读理解B","cat":"gaokao","year":2024,"t":"我上一次为打电话而使用电话亭，是……2006年。"},{"s":"What does the author intend to do by challenging a hypothesis?","src":"2024北京卷·阅读理解C","cat":"gaokao","year":2024,"t":"作者通过质疑一个假设，意图做什么？"},{"s":"What does the author intend to tell us?","src":"2023北京卷·阅读理解C","cat":"gaokao","year":2023,"t":"作者打算告诉我们什么？"},{"s":"The amount of time needed to build a habit will depend on multiple factors, including the individual and the intended behaviour.","src":"2023北京卷","cat":"gaokao","year":2023,"t":"养成一个习惯所需的时间取决于多种因素，包括个人和预期行为。"},{"s":"What are Von Wong’s artworks intended for?","src":"2021全国乙卷·阅读理解C","cat":"gaokao","year":2021,"t":"Von Wong 的艺术作品是为了什么？"},{"s":"What does the author intend to show with the example of Toni?","src":"2021天津3月卷·阅读理解D","cat":"gaokao","year":2021,"t":"作者想通过托尼的例子说明什么？"},{"s":"（4）What does the author intend to tell us in Paragraph 5？","src":"2019天津卷·20．","cat":"gaokao","year":2019,"t":"(4) 作者打算在第5段中告诉我们什么？"},{"s":"What does the author intend to do in paragraph 4?","src":"2018全国I卷·阅读理解B","cat":"gaokao","year":2018,"t":"作者在第4段打算做什么？"},{"s":"But when Dennis Williams    42    a text that clearly wasn’t intended for him, he did something    43   .","src":"2018全国III卷·完形填空","cat":"gaokao","year":2018,"t":"但当丹尼斯·威廉姆斯___42___一条显然不是发给他的短信时，他做了件___43___的事。"},{"s":"On receiving a Kare Bag, one woman said, “You make me feel like a human being.” However people intend to use their money, managing it seems to be unprecedentedly important to younger generations.","src":"外研社B5 U2","cat":"waiyan","t":"在收到一个Kare包时，一位女士说：\"你让我感觉像一个真正的人。\"不管人们打算如何使用他们的钱，理财似乎对年轻一代来说前所未有地重要。"},{"s":"The government, however, does not intend to stop the protection programmes, since the threats to the Tibetan antelope have not yet disappeared.","src":"人教B2 U2","cat":"renjiao","t":"然而，政府并不打算停止保护计划，因为对藏羚羊的威胁还没有消失。"},{"s":"（5）In the passage， the author intends to tell us we should     ．","src":"2018天津卷·阅读理解D","cat":"gaokao","year":2018,"t":"（5）在这篇文章中，作者想要告诉我们应该____。"}]},{"def":"to plan that sth should have a particular meaning 意指","ex":[{"s":"UPCYCLING is a programme that intends to reduce waste.","src":"2026北京卷·阅读理解A","cat":"gaokao","year":2026,"t":"“升级再造”是一个旨在减少废弃物的项目。"},{"s":"Find out what the author intends to tell us.] TWENTY THOUSAND LEAGUES UNDER THE SEA In 1866, a terrible sea creature is seen by several ships.","src":"外研社B3 U5","cat":"waiyan","t":"弄清作者想告诉我们什么：《海底两万里》——1866年，几艘船发现了一只可怕的海怪。"},{"s":"A punch line concludes a joke and is intended to make people laugh.","src":"外研社B4 U1","cat":"waiyan","t":"笑点总结笑话，意在让人们发笑。"}]}]}
+{
+  "meta": {
+    "ph": "ɪnˈtend; NAmE ɪnˈtend",
+    "pos": "verb; adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "to have a plan, result or purpose in your mind when you do sth 打算；计划；想要",
+      "ex": [
+        {
+          "s": "What does the author intend to tell us?",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "作者打算告诉我们什么？"
+        },
+        {
+          "s": "It is intended for AI professionals.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它面向人工智能专业人士。"
+        },
+        {
+          "s": "The last time I used a phone box for its intended purpose was … 2006.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我上一次为打电话而使用电话亭，是……2006年。"
+        },
+        {
+          "s": "What does the author intend to do by challenging a hypothesis?",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "作者通过质疑一个假设，意图做什么？"
+        },
+        {
+          "s": "What does the author intend to tell us?",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "作者打算告诉我们什么？"
+        },
+        {
+          "s": "The amount of time needed to build a habit will depend on multiple factors, including the individual and the intended behaviour.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "养成一个习惯所需的时间取决于多种因素，包括个人和预期行为。"
+        },
+        {
+          "s": "What are Von Wong’s artworks intended for?",
+          "src": "2021全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "Von Wong 的艺术作品是为了什么？"
+        },
+        {
+          "s": "What does the author intend to show with the example of Toni?",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "作者想通过托尼的例子说明什么？"
+        },
+        {
+          "s": "（4）What does the author intend to tell us in Paragraph 5？",
+          "src": "2019天津卷·20．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "(4) 作者打算在第5段中告诉我们什么？"
+        },
+        {
+          "s": "What does the author intend to do in paragraph 4?",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "作者在第4段打算做什么？"
+        },
+        {
+          "s": "But when Dennis Williams    42    a text that clearly wasn’t intended for him, he did something    43   .",
+          "src": "2018全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "但当丹尼斯·威廉姆斯___42___一条显然不是发给他的短信时，他做了件___43___的事。"
+        },
+        {
+          "s": "On receiving a Kare Bag, one woman said, “You make me feel like a human being.” However people intend to use their money, managing it seems to be unprecedentedly important to younger generations.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "在收到一个Kare包时，一位女士说：\"你让我感觉像一个真正的人。\"不管人们打算如何使用他们的钱，理财似乎对年轻一代来说前所未有地重要。"
+        },
+        {
+          "s": "The government, however, does not intend to stop the protection programmes, since the threats to the Tibetan antelope have not yet disappeared.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "然而，政府并不打算停止保护计划，因为对藏羚羊的威胁还没有消失。"
+        },
+        {
+          "s": "（5）In the passage， the author intends to tell us we should     ．",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "（5）在这篇文章中，作者想要告诉我们应该____。"
+        }
+      ]
+    },
+    {
+      "def": "to plan that sth should have a particular meaning 意指",
+      "ex": [
+        {
+          "s": "UPCYCLING is a programme that intends to reduce waste.",
+          "src": "2026北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“升级再造”是一个旨在减少废弃物的项目。"
+        },
+        {
+          "s": "Find out what the author intends to tell us.] TWENTY THOUSAND LEAGUES UNDER THE SEA In 1866, a terrible sea creature is seen by several ships.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "弄清作者想告诉我们什么：《海底两万里》——1866年，几艘船发现了一只可怕的海怪。"
+        },
+        {
+          "s": "A punch line concludes a joke and is intended to make people laugh.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "笑点总结笑话，意在让人们发笑。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "author intend to tell",
+      "cn": "告诉的著者打算",
+      "type": "名词词组"
+    },
+    {
+      "en": "author intends to tell",
+      "cn": "告诉的著者打算",
+      "type": "名词词组"
+    },
+    {
+      "en": "intend to stop",
+      "cn": "停止的打算",
+      "type": "名词词组"
+    },
+    {
+      "en": "intended to make",
+      "cn": "做的打算",
+      "type": "名词词组"
+    },
+    {
+      "en": "people intend to use",
+      "cn": "使用的人们打算",
+      "type": "名词词组"
+    },
+    {
+      "en": "programme intends to reduce",
+      "cn": "减少的计划打算",
+      "type": "名词词组"
+    }
+  ]
+}
