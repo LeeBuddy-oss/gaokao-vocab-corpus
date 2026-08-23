@@ -1457,6 +1457,36 @@ function _deriveStructDesc(word, catMap, structMap, sigCat, primaryPos, topCollo
 }
 
 // ====== 渲染风向标主函数 ======
+// 词云：从例句中提取与目标词共现的课标内容词，按词频排序返回 top N
+// 返回 [{w, c, pos}]，pos ∈ noun/verb/adj/other，供着色使用
+function _extractCloudWords(defs, word) {
+  const freq = {};
+  const wLemma = word.toLowerCase();
+  const nounS = _nounSet();
+  const verbS = _verbOnlySet();
+  const adjS = _adjSet();
+  defs.forEach(d => {
+    (d.ex || []).forEach(ex => {
+      const s = ex.s || '';
+      // 分词：提取字母序列（含连字符），跳过纯数字与标点
+      const toks = s.match(/[a-zA-Z]+(?:-[a-zA-Z]+)*/g) || [];
+      toks.forEach(tok => {
+        const lemma = _lemmaOf(tok);
+        if (!lemma) return;            // 非课标词（含专有名词自动过滤）
+        if (lemma === wLemma) return;  // 跳过目标词自身
+        freq[lemma] = (freq[lemma] || 0) + 1;
+      });
+    });
+  });
+  return Object.entries(freq)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 30)
+    .map(([w, c]) => ({
+      w, c,
+      pos: nounS.has(w) ? 'noun' : verbS.has(w) ? 'verb' : adjS.has(w) ? 'adj' : 'other'
+    }));
+}
+
 function renderMindMap(word, entry) {
   const meta = entry.meta || {};
   const defs = entry.defs || [];
@@ -1563,7 +1593,8 @@ function renderMindMap(word, entry) {
   // 真题词组：优先使用人工标注词块（entry.chunks），无标注时回退到自动提取
   const manualChunks = entry.chunks;
   if (manualChunks && Array.isArray(manualChunks) && manualChunks.length > 0) {
-    // 按词组类型分组，每类一行，格式与"常见结构"一致
+    // 一级标题"真题词组"独立成行，二级按类型各自成行
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span></p>`;
     const byType = {};
     const typeOrder = ['名词词组', '动词词组', '形容词词组', '副词词组', '介词词组', '其他'];
     manualChunks.forEach(c => {
@@ -1576,7 +1607,7 @@ function renderMindMap(word, entry) {
       const items = byType[tp].map(c =>
         `<span class="wv-hl">${esc(c.en)}</span>${esc(c.cn)}`
       ).join('、');
-      rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">${esc(tp)}</span>${items}</p>`;
+      rightHtml += `<p class="wv-line wv-struct wv-sub"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
     });
   } else if (topCollocations.length > 0) {
     const sl = topCollocations.map(([ph, c]) =>
@@ -1592,6 +1623,70 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}</p>`;
   }
 
+  // ---- 左侧：词汇语义网（真题共现词汇网络图）----
+  // 以目标词为中心节点，共现课标词为外围节点，线段表示共现关系
+  // 节点大小 / 线条粗细 ∝ 词频；颜色按词性：名词=蓝  动词=红  形容词=紫
+  const cloudWords = _extractCloudWords(defs, word);
+  let netHtml = '';
+  if (cloudWords.length >= 3) {
+    const top = cloudWords.slice(0, 18);
+    const maxC = top[0].c;
+    const minC = top[top.length - 1].c;
+    const logMax = Math.log(maxC);
+    const logMin = Math.log(Math.max(minC, 1));
+    const logRange = logMax - logMin || 1;
+    const colorMap = { noun: '#2563eb', verb: '#dc2626', adj: '#7c3aed', other: '#6b7280' };
+
+    const W = 300, H = 380;
+    const cx = 150, cy = 188;
+    const r = 112;
+    const n = top.length;
+
+    const nodes = top.map((cw, i) => {
+      const angle = (2 * Math.PI * i / n) - Math.PI / 2;
+      const ratio = (Math.log(cw.c) - logMin) / logRange;
+      return {
+        w: cw.w, c: cw.c, pos: cw.pos,
+        x: cx + r * Math.cos(angle),
+        y: cy + r * Math.sin(angle),
+        nr: 3.5 + ratio * 5,        // node radius 3.5–8.5
+        lw: 0.5 + ratio * 2.2,      // line width 0.5–2.7
+        angle
+      };
+    });
+
+    let svg = `<svg viewBox="0 0 ${W} ${H}" class="wv-net" xmlns="http://www.w3.org/2000/svg">`;
+
+    // 连接线（先画线，再画节点，确保线在节点下方）
+    nodes.forEach(nd => {
+      svg += `<line x1="${cx}" y1="${cy}" x2="${nd.x.toFixed(1)}" y2="${nd.y.toFixed(1)}" ` +
+             `stroke="${colorMap[nd.pos]}" stroke-width="${nd.lw.toFixed(1)}" stroke-opacity="0.3"/>`;
+    });
+
+    // 中心节点（目标词）
+    svg += `<circle cx="${cx}" cy="${cy}" r="24" fill="#1f2937"/>`;
+    svg += `<text x="${cx}" y="${cy + 5}" text-anchor="middle" fill="#fff" ` +
+           `font-size="14" font-weight="700">${esc(word)}</text>`;
+
+    // 外围节点 + 标签
+    nodes.forEach(nd => {
+      const color = colorMap[nd.pos];
+      svg += `<circle cx="${nd.x.toFixed(1)}" cy="${nd.y.toFixed(1)}" r="${nd.nr.toFixed(1)}" ` +
+             `fill="${color}" fill-opacity="0.82" stroke="#fff" stroke-width="1.2"/>`;
+      // 标签：沿径向外移，根据角度选对齐方式
+      const lo = nd.nr + 5;
+      const lx = nd.x + lo * Math.cos(nd.angle);
+      const ly = nd.y + lo * Math.sin(nd.angle) + 3.5;
+      const cosA = Math.cos(nd.angle);
+      const anchor = cosA > 0.15 ? 'start' : cosA < -0.15 ? 'end' : 'middle';
+      svg += `<text x="${lx.toFixed(1)}" y="${ly.toFixed(1)}" text-anchor="${anchor}" ` +
+             `fill="${color}" font-size="10.5" font-weight="600">${esc(nd.w)}</text>`;
+    });
+
+    svg += `</svg>`;
+    netHtml = `<div class="wv-net-wrap"><div class="wv-net-title">真题词汇语义网</div>${svg}</div>`;
+  }
+
   return `<div class="wv-wrap">
     <div class="wv-header">
       <span class="wv-title">词汇风向标</span>
@@ -1601,6 +1696,7 @@ function renderMindMap(word, entry) {
       <div class="wv-left">
         <div class="wv-chart-title">${esc(word)}词义</div>
         <div class="wv-bars">${barsHtml}</div>
+        ${netHtml}
       </div>
       <div class="wv-right">
         ${rightHtml}

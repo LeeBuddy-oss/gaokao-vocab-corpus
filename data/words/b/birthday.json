@@ -171,5 +171,32 @@
         }
       ]
     }
+  ],
+  "chunks": [
+    {
+      "en": "happy birthday",
+      "cn": "快乐的生日",
+      "type": "名词词组"
+    },
+    {
+      "en": "give birthday",
+      "cn": "给生日",
+      "type": "动词词组"
+    },
+    {
+      "en": "afford birthday",
+      "cn": "通常与 can、生日",
+      "type": "动词词组"
+    },
+    {
+      "en": "friends birthdays",
+      "cn": "朋友生日",
+      "type": "名词词组"
+    },
+    {
+      "en": "weddings birthdays",
+      "cn": "婚礼生日",
+      "type": "名词词组"
+    }
   ]
 }

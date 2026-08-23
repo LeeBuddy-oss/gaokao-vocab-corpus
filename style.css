@@ -397,7 +397,38 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   vertical-align: middle;
   letter-spacing: .5px;
 }
+.wv-sub-label {              /* 二级标签：名词词组/动词词组等 */
+  font-weight: 700;
+  color: #374151;
+  margin-right: 4px;
+}
+.wv-sub {                    /* 二级子行：缩进与一级区分 */
+  padding-left: 18px;
+  margin-top: 2px !important;
+  line-height: 1.85;
+}
 /* wv-genre 已废弃，语篇分布改用 wv-struct 统一格式 */
+
+/* 词汇语义网（真题共现词汇网络图） */
+.wv-net-wrap {
+  margin-top: 22px;
+  border-top: 1px dashed var(--border);
+  padding-top: 16px;
+  overflow: visible;
+}
+.wv-net-title {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 12px;
+  letter-spacing: 1px;
+}
+.wv-net {
+  width: 100%;
+  height: auto;
+  overflow: visible;
+}
 
 /* 响应式：窄屏上下堆叠 */
 @media (max-width: 680px) {
