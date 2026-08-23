@@ -1465,6 +1465,7 @@ function renderMindMap(word, entry) {
   // ---- 统计：词义分布 + 搭配 ----
   let totalGaokao = 0, totalTextbook = 0;
   const srcSet = new Set();
+  const srcList = [];       // 所有例句来源（含重复，供语篇分布按例句计数）
   const structMap = {};     // 结构签名 → 次数（figure out / figure+名词/代词 ...）
   const catMap = {};        // 词性结构类别 → 次数
   const sigCat = {};        // 结构签名 → 类别
@@ -1478,6 +1479,7 @@ function renderMindMap(word, entry) {
     exs.forEach(ex => {
       const src = ex.src || '';
       srcSet.add(src);
+      srcList.push(src);
       if (isGaokaoSrc(src)) { gk++; totalGaokao++; }
       else { tb++; totalTextbook++; }
       _extractStructures(ex.s || '', word, structMap, catMap, sigCat);
@@ -1558,15 +1560,32 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">常见结构</span>${esc(structDesc)}</p>`;
   }
 
-  // 高频搭配（按词性提取的真实短语，3-5 个）
-  if (topCollocations.length > 0) {
+  // 真题词组：优先使用人工标注词块（entry.chunks），无标注时回退到自动提取
+  const manualChunks = entry.chunks;
+  if (manualChunks && Array.isArray(manualChunks) && manualChunks.length > 0) {
+    // 按词组类型分组，每类一行，格式与"常见结构"一致
+    const byType = {};
+    const typeOrder = ['名词词组', '动词词组', '形容词词组', '副词词组', '介词词组', '其他'];
+    manualChunks.forEach(c => {
+      const tp = c.type || '其他';
+      if (!byType[tp]) byType[tp] = [];
+      byType[tp].push(c);
+    });
+    typeOrder.forEach(tp => {
+      if (!byType[tp] || byType[tp].length === 0) return;
+      const items = byType[tp].map(c =>
+        `<span class="wv-hl">${esc(c.en)}</span>${esc(c.cn)}`
+      ).join('、');
+      rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">${esc(tp)}</span>${items}</p>`;
+    });
+  } else if (topCollocations.length > 0) {
     const sl = topCollocations.map(([ph, c]) =>
       `<span class="wv-hl">${esc(ph)}</span><span class="wv-num">(${c}次)</span>`).join('、');
-    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">高频搭配</span>${sl}</p>`;
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span>${sl}</p>`;
   }
 
-  // 语篇分布（与高频搭配同格式）
-  const genres = _detectGenres([...srcSet]);
+  // 语篇分布（按例句计数，非去重来源）
+  const genres = _detectGenres(srcList);
   if (genres.types.length > 0 && totalGaokao >= 3) {
     const gl = genres.types.slice(0, 3).map(({ t, c }) =>
       `<span class="wv-hl">${esc(t)}</span><span class="wv-num">(${c}次)</span>`).join('、');
