@@ -686,22 +686,28 @@
   ],
   "chunks": [
     {
-      "en": "art in own",
-      "cn": "自己的艺术",
+      "en": "art of",
+      "cn": "…的艺术",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "work of art",
+      "cn": "艺术品",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "public art",
+      "cn": "公共艺术",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "art exhibition",
+      "cn": "艺术展",
       "type": "名词短语",
       "count": 1
-    },
-    {
-      "en": "public / modern / contemporary / hall / ancient / school / museum art",
-      "cn": "公共艺术 / 现代艺术 / 当代艺术 / 展厅艺术 / 古代艺术 / 学校艺术 / 博物馆艺术",
-      "type": "名词短语",
-      "count": 0
-    },
-    {
-      "en": "performing / about art",
-      "cn": "表演艺术 / 关于艺术",
-      "type": "动词短语",
-      "count": 0
     }
   ]
 }

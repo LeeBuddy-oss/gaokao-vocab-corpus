@@ -518,15 +518,27 @@
   ],
   "chunks": [
     {
-      "en": "local / public / ancient / community / mother / university library",
-      "cn": "本地的图书馆 / 公共的图书馆 / 古代的图书馆 / 社区图书馆 / 母亲图书馆 / 综合性）大学图书馆",
+      "en": "public library",
+      "cn": "公共图书馆",
+      "type": "名词短语",
+      "count": 7
+    },
+    {
+      "en": "school library",
+      "cn": "学校图书馆",
       "type": "名词短语",
       "count": 0
     },
     {
-      "en": "lending / use / share library",
-      "cn": "借给图书馆 / 使用图书馆 / 分享图书馆",
+      "en": "borrow from the library",
+      "cn": "从图书馆借",
       "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "digital library",
+      "cn": "数字图书馆",
+      "type": "名词短语",
       "count": 0
     }
   ]

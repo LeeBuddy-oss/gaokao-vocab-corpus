@@ -429,14 +429,20 @@
   ],
   "chunks": [
     {
-      "en": "museum in respects",
-      "cn": "各方面的博物馆",
+      "en": "visit a museum",
+      "cn": "参观博物馆",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "art museum",
+      "cn": "艺术博物馆",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "house / real / gallery / time / art / local / concert / standard / discovery museum",
-      "cn": "故居博物馆 / 真正的博物馆 / 美术馆 / 时间博物馆 / 艺术博物馆 / 当地博物馆 / 音乐博物馆 / 标准博物馆 / 探索博物馆",
+      "en": "museum of",
+      "cn": "…博物馆",
       "type": "名词短语",
       "count": 0
     }

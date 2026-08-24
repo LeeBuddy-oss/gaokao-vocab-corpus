@@ -478,9 +478,27 @@
   ],
   "chunks": [
     {
-      "en": "increase value / number / life / daily / time / carbon / weight / levels / artists / autumn",
-      "cn": "增加价值 / 增加数字 / 增加生命 / 增加日常的 / 增加时间 / 增加碳 / 增加重量 / 增加水平 / 增加艺术家 / 增加秋天",
+      "en": "increase by",
+      "cn": "增长了",
       "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "increase to",
+      "cn": "增长到",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "on the increase",
+      "cn": "在增长",
+      "type": "介词短语",
+      "count": 0
+    },
+    {
+      "en": "a significant increase",
+      "cn": "显著增长",
+      "type": "名词短语",
       "count": 0
     }
   ]

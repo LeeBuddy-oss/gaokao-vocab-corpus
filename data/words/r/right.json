@@ -792,21 +792,33 @@
   ],
   "chunks": [
     {
-      "en": "be right for",
-      "cn": "正确的",
-      "type": "动词短语",
+      "en": "right now",
+      "cn": "现在",
+      "type": "副词搭配",
+      "count": 8
+    },
+    {
+      "en": "right away",
+      "cn": "立刻",
+      "type": "副词搭配",
       "count": 4
     },
     {
-      "en": "is / was / be right",
-      "cn": "是对的",
-      "type": "形容词搭配",
-      "count": 0
+      "en": "right to",
+      "cn": "…的权利",
+      "type": "名词短语",
+      "count": 4
     },
     {
-      "en": "right thing / time / place / level / amount / direction / spots",
-      "cn": "正确的事情 / 合适的时间 / 合适的地方 / 合适的水平 / 合适的量 / 正确的方向 / 合适的位置",
+      "en": "all right",
+      "cn": "好吧",
       "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "turn right",
+      "cn": "右转",
+      "type": "动词短语",
       "count": 0
     }
   ]

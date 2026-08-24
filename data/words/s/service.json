@@ -474,16 +474,28 @@
   ],
   "chunks": [
     {
-      "en": "earned service",
-      "cn": "赢得服务",
+      "en": "provide service",
+      "cn": "提供服务",
       "type": "动词短语",
-      "count": 1
+      "count": 5
     },
     {
-      "en": "new / public / war / food / room / slow / day / care / taxi service",
-      "cn": "新服务 / 公共服务 / 战时服务 / 餐饮服务 / 客房服务 / 服务慢 / 日常服务 / 护理服务 / 出租车服务",
+      "en": "public service",
+      "cn": "公共服务",
       "type": "名词短语",
-      "count": 0
+      "count": 4
+    },
+    {
+      "en": "customer service",
+      "cn": "客户服务",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "in service",
+      "cn": "在服役",
+      "type": "介词短语",
+      "count": 1
     }
   ]
 }

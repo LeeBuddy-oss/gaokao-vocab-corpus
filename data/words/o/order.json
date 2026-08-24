@@ -572,21 +572,33 @@
   ],
   "chunks": [
     {
-      "en": "finishing order",
-      "cn": "完成顺序",
+      "en": "in order",
+      "cn": "整齐",
+      "type": "介词短语",
+      "count": 23
+    },
+    {
+      "en": "in order to",
+      "cn": "为了",
+      "type": "介词短语",
+      "count": 19
+    },
+    {
+      "en": "out of order",
+      "cn": "出故障",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "place an order",
+      "cn": "下单",
       "type": "动词短语",
       "count": 1
     },
     {
-      "en": "order to make / get / help / better / manage / create",
-      "cn": "为了做 / 为了得到 / 为了帮助 / 为了更好 / 为了管理 / 为了创造",
-      "type": "名词短语",
-      "count": 0
-    },
-    {
-      "en": "random / perfect / placing order",
-      "cn": "随机顺序 / 完美秩序 / 下订单",
-      "type": "名词短语",
+      "en": "order sb to do",
+      "cn": "命令某人做",
+      "type": "动词短语",
       "count": 0
     }
   ]

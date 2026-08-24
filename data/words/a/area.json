@@ -555,22 +555,28 @@
   ],
   "chunks": [
     {
-      "en": "areas of city",
-      "cn": "城市的区域",
+      "en": "urban area",
+      "cn": "城市地区",
       "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "rural area",
+      "cn": "农村地区",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "in the area of",
+      "cn": "在…领域",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "urban / rural / public / brain / local / remote / certain area",
-      "cn": "城市的区域 / 乡村的区域 / 公共的区域 / 大脑区域 / 本地的区域 / 偏远的区域 / 确定的区域",
+      "en": "local area",
+      "cn": "当地地区",
       "type": "名词短语",
-      "count": 0
-    },
-    {
-      "en": "hit / about area",
-      "cn": "使突然想起区域 / 区域",
-      "type": "动词短语",
-      "count": 0
+      "count": 1
     }
   ]
 }

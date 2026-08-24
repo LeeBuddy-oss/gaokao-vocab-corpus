@@ -726,15 +726,33 @@
   ],
   "chunks": [
     {
-      "en": "new / sign / local / english / native / nature / different / noting language",
-      "cn": "新语言 / 手语 / 当地语言 / 英语 / 母语 / 自然语言 / 不同语言 / 记录语言",
+      "en": "learn a language",
+      "cn": "学习语言",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "foreign language",
+      "cn": "外语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "spoken language",
+      "cn": "口语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "first language",
+      "cn": "母语",
       "type": "名词短语",
       "count": 0
     },
     {
-      "en": "take / promote language",
-      "cn": "学习语言 / 推广语言",
-      "type": "动词短语",
+      "en": "body language",
+      "cn": "肢体语言",
+      "type": "名词短语",
       "count": 0
     }
   ]
