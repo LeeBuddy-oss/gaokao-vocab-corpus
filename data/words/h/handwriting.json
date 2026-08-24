@@ -1,1 +1,50 @@
-{"meta": {"ph": "ˈhændraɪtɪŋ; NAmE ˈhændraɪtɪŋ", "pos": "noun", "stars": "★★"}, "defs": [{"def": "writing that is done with a pen or pencil, not printed or typed 手写；书写", "ex": [{"s": "Make sure your handwriting is neat.", "src": "2022全国新高考II卷·七选五", "cat": "gaokao", "year": 2022, "t": "确保你的字迹工整。"}]}, {"def": "a person's particular style of writing in this way 笔迹", "ex": [{"s": "Is the handwriting easy to read?", "src": "人教B1 U1", "cat": "renjiao", "t": "字迹容易辨认吗？"}, {"s": "Soon she is going to learn Chinese handwriting too.", "src": "译林选必4 U2", "cat": "yilin", "t": "很快她也要开始学习中文书法了。"}]}]}
+{
+  "meta": {
+    "ph": "ˈhændraɪtɪŋ; NAmE ˈhændraɪtɪŋ",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "writing that is done with a pen or pencil, not printed or typed 手写；书写",
+      "ex": [
+        {
+          "s": "Make sure your handwriting is neat.",
+          "src": "2022全国新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "确保你的字迹工整。"
+        }
+      ]
+    },
+    {
+      "def": "a person's particular style of writing in this way 笔迹",
+      "ex": [
+        {
+          "s": "Is the handwriting easy to read?",
+          "src": "人教B1 U1",
+          "cat": "renjiao",
+          "t": "字迹容易辨认吗？"
+        },
+        {
+          "s": "Soon she is going to learn Chinese handwriting too.",
+          "src": "译林选必4 U2",
+          "cat": "yilin",
+          "t": "很快她也要开始学习中文书法了。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "sure handwriting",
+      "cn": "确信笔迹",
+      "type": "名词词组"
+    },
+    {
+      "en": "chinese handwriting",
+      "cn": "中国人笔迹",
+      "type": "名词词组"
+    }
+  ]
+}

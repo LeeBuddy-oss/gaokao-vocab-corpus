@@ -1,1 +1,80 @@
-{"meta": {"ph": "kaʊ; NAmE kaʊ", "pos": "noun", "stars": ""}, "defs": [{"def": "a large animal kept on farms to produce milk or beef 母牛；奶牛；菜牛；肉牛", "ex": [{"s": "A computer system will analyze the video to determine whether a cow is sick.", "src": "2021新高考II卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "一个计算机系统将分析视频，判断一头牛是否生病。"}, {"s": "Sheep, cows and pigs have been kept at home as sources of food for around 7,000 years.", "src": "外研社B1 U5", "cat": "waiyan", "year": "", "t": "大约七千年来，羊、牛和猪一直被养在家里作为食物来源。"}, {"s": "A “pasture” is a dense forest for cows and horses to eat.", "src": "外研社B6 U6", "cat": "waiyan", "year": "", "t": "“牧场”是供牛马吃草的草地。"}, {"s": "Another case study was the fire-ant programme that killed cows, but not fire ants.", "src": "外研社B6 U6", "cat": "waiyan", "year": "", "t": "另一个案例研究是火蚁项目，它杀死了牛，却没有杀死火蚁。"}, {"s": "Tens of thousands of cows, hundreds of thousands of pigs, and millions of chickens were dead.", "src": "人教B1 U4", "cat": "renjiao", "year": "", "t": "成千上万的牛、数十万头猪和数百万只鸡都死了。"}, {"s": "How else could you describe a creature that has the face of a horse, the hoofs of a cow, the antlers of a red deer, and the tail of a donkey?", "src": "人教B2 U5", "cat": "renjiao", "year": "", "t": "你还能怎样描述一种长着马脸、牛蹄、马鹿角和驴尾巴的生物呢？"}]}, {"def": "the female of the elephant, whale and some other large animals 雌象；雌鲸；某些大型雌性动物", "ex": []}, {"def": "an offensive word for a woman 婆娘；娘儿们", "ex": []}, {"def": "an unpleasant person, thing or situation 讨厌的人（或事物、情况）", "ex": []}]}
+{
+  "meta": {
+    "ph": "kaʊ; NAmE kaʊ",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a large animal kept on farms to produce milk or beef 母牛；奶牛；菜牛；肉牛",
+      "ex": [
+        {
+          "s": "A computer system will analyze the video to determine whether a cow is sick.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "一个计算机系统将分析视频，判断一头牛是否生病。"
+        },
+        {
+          "s": "Sheep, cows and pigs have been kept at home as sources of food for around 7,000 years.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "大约七千年来，羊、牛和猪一直被养在家里作为食物来源。"
+        },
+        {
+          "s": "A “pasture” is a dense forest for cows and horses to eat.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "“牧场”是供牛马吃草的草地。"
+        },
+        {
+          "s": "Another case study was the fire-ant programme that killed cows, but not fire ants.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "另一个案例研究是火蚁项目，它杀死了牛，却没有杀死火蚁。"
+        },
+        {
+          "s": "Tens of thousands of cows, hundreds of thousands of pigs, and millions of chickens were dead.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "year": "",
+          "t": "成千上万的牛、数十万头猪和数百万只鸡都死了。"
+        },
+        {
+          "s": "How else could you describe a creature that has the face of a horse, the hoofs of a cow, the antlers of a red deer, and the tail of a donkey?",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "你还能怎样描述一种长着马脸、牛蹄、马鹿角和驴尾巴的生物呢？"
+        }
+      ]
+    },
+    {
+      "def": "the female of the elephant, whale and some other large animals 雌象；雌鲸；某些大型雌性动物",
+      "ex": []
+    },
+    {
+      "def": "an offensive word for a woman 婆娘；娘儿们",
+      "ex": []
+    },
+    {
+      "def": "an unpleasant person, thing or situation 讨厌的人（或事物、情况）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "sheep cows",
+      "cn": "羊母牛",
+      "type": "名词词组"
+    },
+    {
+      "en": "killed cows",
+      "cn": "杀母牛",
+      "type": "动词词组"
+    }
+  ]
+}

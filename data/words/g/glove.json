@@ -1,1 +1,45 @@
-{"meta": {"ph": "ɡlʌv; NAmE ɡlʌv", "pos": "noun", "stars": ""}, "defs": [{"def": "a covering for the hand, made of wool, leather, etc. with separate parts for each finger and the thumb （分手指的）手套", "ex": [{"s": "\"Hats, sweaters, gloves — I enjoy it all.", "src": "2020天津3月卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "\"帽子、毛衣、手套——我都喜欢。"}, {"s": "Jessie: Well, we can ask for gloves.", "src": "人教选必4 U4", "cat": "renjiao", "t": "杰西：嗯，我们可以要手套。"}, {"s": "Wear gloves and mouth guards in case nothing / something happens.", "src": "北师大B1 U2", "cat": "beishida", "t": "戴上手套和护齿，以防万一发生什么事。"}]}]}
+{
+  "meta": {
+    "ph": "ɡlʌv; NAmE ɡlʌv",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a covering for the hand, made of wool, leather, etc. with separate parts for each finger and the thumb （分手指的）手套",
+      "ex": [
+        {
+          "s": "\"Hats, sweaters, gloves — I enjoy it all.",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"帽子、毛衣、手套——我都喜欢。"
+        },
+        {
+          "s": "Jessie: Well, we can ask for gloves.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "杰西：嗯，我们可以要手套。"
+        },
+        {
+          "s": "Wear gloves and mouth guards in case nothing / something happens.",
+          "src": "北师大B1 U2",
+          "cat": "beishida",
+          "t": "戴上手套和护齿，以防万一发生什么事。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "wear gloves",
+      "cn": "穿分手指的）手套",
+      "type": "动词词组"
+    },
+    {
+      "en": "sweaters gloves",
+      "cn": "毛衣分手指的）手套",
+      "type": "名词词组"
+    }
+  ]
+}

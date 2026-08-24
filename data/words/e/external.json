@@ -1,1 +1,75 @@
-{"meta": {"ph": "ɪkˈstɜːnl; NAmE ɪkˈstɜːrnl", "pos": "adj.", "stars": "★"}, "defs": [{"def": "connected with or located on the outside of sth/sb 外部的；外面的", "ex": [{"s": "They are less exposed to stress caused by external factors.", "src": "2020北京卷·七选五", "cat": "gaokao", "year": 2020, "t": "他们较少受到外部因素造成的压力的影响。"}, {"s": "Internal and external bleeding may also occur at this point.", "src": "外研社B5 U6", "cat": "waiyan", "t": "此时也可能出现内出血和外出血的情况。"}, {"s": "At that moment, I perceived that external beauty isn’t totally worthless.", "src": "外研社B6 U1", "cat": "waiyan", "t": "那一刻，我意识到外在的美并非毫无价值。"}, {"s": "Dr Hart says: It’s true that inner beauty is very important, but external beauty shouldn’t be completely overlooked.", "src": "外研社B6 U1", "cat": "waiyan", "t": "哈特博士说：内在美非常重要，这没错，但外在美也不应该被完全忽视。"}, {"s": "We could also say External beauty is important in our presenting a good image to the world.", "src": "外研社B6 U6", "cat": "waiyan", "t": "我们也可以说 外在美对于我们展现良好的形象很重要。"}, {"s": "The saying “Don’t judge a book by its cover” means that we judge the value of something just based on its external appearance.", "src": "人教B3 U5", "cat": "renjiao", "t": "俗话说“不要以貌取人”，意思是不要仅仅根据外表来判断某样东西的价值。"}]}, {"def": "happening or coming from outside a place, an organization, your particular situation, etc. 外界的；外来的；在外的", "ex": []}, {"def": "coming from or arranged by sb from outside a school, a university or an organization 来自（学校或机构）以外的；外来的", "ex": []}, {"def": "connected with foreign countries 与外国有关的；对外的", "ex": []}]}
+{
+  "meta": {
+    "ph": "ɪkˈstɜːnl; NAmE ɪkˈstɜːrnl",
+    "pos": "adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "connected with or located on the outside of sth/sb 外部的；外面的",
+      "ex": [
+        {
+          "s": "They are less exposed to stress caused by external factors.",
+          "src": "2020北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们较少受到外部因素造成的压力的影响。"
+        },
+        {
+          "s": "Internal and external bleeding may also occur at this point.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "此时也可能出现内出血和外出血的情况。"
+        },
+        {
+          "s": "At that moment, I perceived that external beauty isn’t totally worthless.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "那一刻，我意识到外在的美并非毫无价值。"
+        },
+        {
+          "s": "Dr Hart says: It’s true that inner beauty is very important, but external beauty shouldn’t be completely overlooked.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "哈特博士说：内在美非常重要，这没错，但外在美也不应该被完全忽视。"
+        },
+        {
+          "s": "We could also say External beauty is important in our presenting a good image to the world.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说 外在美对于我们展现良好的形象很重要。"
+        },
+        {
+          "s": "The saying “Don’t judge a book by its cover” means that we judge the value of something just based on its external appearance.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "俗话说“不要以貌取人”，意思是不要仅仅根据外表来判断某样东西的价值。"
+        }
+      ]
+    },
+    {
+      "def": "happening or coming from outside a place, an organization, your particular situation, etc. 外界的；外来的；在外的",
+      "ex": []
+    },
+    {
+      "def": "coming from or arranged by sb from outside a school, a university or an organization 来自（学校或机构）以外的；外来的",
+      "ex": []
+    },
+    {
+      "def": "connected with foreign countries 与外国有关的；对外的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "external factors",
+      "cn": "外部的因素",
+      "type": "形容词词组"
+    },
+    {
+      "en": "say external beauty",
+      "cn": "说外部的美丽",
+      "type": "形容词词组"
+    }
+  ]
+}
