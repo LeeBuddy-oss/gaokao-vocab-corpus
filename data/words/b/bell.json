@@ -1,1 +1,102 @@
-{"meta": {"ph": "bel; NAmE bel", "pos": "noun", "stars": ""}, "defs": [{"def": "a hollow metal object, often shaped like a cup, that makes a ringing sound when hit by a small piece of metal inside it; the sound that it makes 铃（声）；钟（声）", "ex": [{"s": "When the final bell rang in June, I walked away with a yearbook full of messages about writing’s most powerful significance — the ability to connect people, to put us in another’s skin, to teach us what it means to be human.", "src": "2025新高考I卷·阅读理解B", "cat": "gaokao", "year": 2025, "t": "当六月的下课铃响起，我带着一本写满留言的年鉴离开，那些话道出了写作最强大的意义——把人们连接起来、让我们设身处地、教会我们生而为人的含义。"}, {"s": "I really envy youD. that name rings a bell", "src": "2024天津3月卷·一、单项填空", "cat": "gaokao", "year": 2024, "t": "我真羡慕你。D. 那个名字听起来很耳熟。"}, {"s": "Bell then gave the telegraph a voice.", "src": "2022浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "接着贝尔让电报有了声音。"}, {"s": "He gives his harness bells a shake Listen to the poem.", "src": "北师大选必3 U8", "cat": "beishida", "year": "", "t": "他摇了摇马具上的铃铛 听这首诗。"}, {"s": "Spain Spanish people eat one grape each time the bell rings at One grape stands for (3) of the coming year.", "src": "译林B2 U4", "cat": "yilin", "year": "", "t": "西班牙 西班牙人在每次钟声敲响时吃一颗葡萄 一颗葡萄代表着来年的(3)。"}]}, {"def": "an electrical device which makes a ringing sound when a button on it is pushed; the sound that it makes, used as a signal or a warning 电铃（声）", "ex": [{"s": "For example, CT scanning was used to identify two silver coins and a bell.", "src": "外研社B7 U6", "cat": "waiyan", "year": "", "t": "例如，CT扫描被用来识别两枚银币和一个铃铛。"}, {"s": "The film is based on the book The Coming Global Superstorm by Art Bell and Whitley Strieber.", "src": "外研社B5 U6", "cat": "waiyan", "year": "", "t": "这部电影是根据阿特·贝尔和惠特利·斯特里伯的著作《即将来临的全球超级风暴》改编的。"}, {"s": "Then the front door bell rang.", "src": "人教选必4 U1", "cat": "renjiao", "year": "", "t": "然后前门的门铃响了。"}]}]}
+{
+  "meta": {
+    "ph": "bel; NAmE bel",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a hollow metal object, often shaped like a cup, that makes a ringing sound when hit by a small piece of metal inside it; the sound that it makes 铃（声）；钟（声）",
+      "ex": [
+        {
+          "s": "When the final bell rang in June, I walked away with a yearbook full of messages about writing’s most powerful significance — the ability to connect people, to put us in another’s skin, to teach us what it means to be human.",
+          "src": "2025新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "当六月的下课铃响起，我带着一本写满留言的年鉴离开，那些话道出了写作最强大的意义——把人们连接起来、让我们设身处地、教会我们生而为人的含义。"
+        },
+        {
+          "s": "I really envy youD. that name rings a bell",
+          "src": "2024天津3月卷·一、单项填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我真羡慕你。D. 那个名字听起来很耳熟。"
+        },
+        {
+          "s": "Bell then gave the telegraph a voice.",
+          "src": "2022浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "接着贝尔让电报有了声音。"
+        },
+        {
+          "s": "He gives his harness bells a shake Listen to the poem.",
+          "src": "北师大选必3 U8",
+          "cat": "beishida",
+          "year": "",
+          "t": "他摇了摇马具上的铃铛 听这首诗。"
+        },
+        {
+          "s": "Spain Spanish people eat one grape each time the bell rings at One grape stands for (3) of the coming year.",
+          "src": "译林B2 U4",
+          "cat": "yilin",
+          "year": "",
+          "t": "西班牙 西班牙人在每次钟声敲响时吃一颗葡萄 一颗葡萄代表着来年的(3)。"
+        }
+      ]
+    },
+    {
+      "def": "an electrical device which makes a ringing sound when a button on it is pushed; the sound that it makes, used as a signal or a warning 电铃（声）",
+      "ex": [
+        {
+          "s": "For example, CT scanning was used to identify two silver coins and a bell.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "例如，CT扫描被用来识别两枚银币和一个铃铛。"
+        },
+        {
+          "s": "The film is based on the book The Coming Global Superstorm by Art Bell and Whitley Strieber.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这部电影是根据阿特·贝尔和惠特利·斯特里伯的著作《即将来临的全球超级风暴》改编的。"
+        },
+        {
+          "s": "Then the front door bell rang.",
+          "src": "人教选必4 U1",
+          "cat": "renjiao",
+          "year": "",
+          "t": "然后前门的门铃响了。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "art bell",
+      "cn": "艺术铃",
+      "type": "名词词组"
+    },
+    {
+      "en": "door bell",
+      "cn": "门铃",
+      "type": "名词词组"
+    },
+    {
+      "en": "time bell",
+      "cn": "时间铃",
+      "type": "名词词组"
+    },
+    {
+      "en": "rings bell",
+      "cn": "戒指铃",
+      "type": "名词词组"
+    },
+    {
+      "en": "final bell",
+      "cn": "最终的铃",
+      "type": "名词词组"
+    }
+  ]
+}
