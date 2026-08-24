@@ -1606,24 +1606,20 @@ function renderMindMap(word, entry) {
     });
     typeOrder.forEach(tp => {
       if (!byType[tp] || byType[tp].length === 0) return;
-      const hasExample = byType[tp].some(c => c.example);
-      if (hasExample) {
-        // 有例句：逐条展示，每个词块独占一行，例句换行附在下方
-        rightHtml += `<p class="wv-line wv-struct wv-sub"><span class="wv-sub-label">${esc(tp)}</span></p>`;
-        byType[tp].forEach(c => {
-          let html = `<span class="wv-hl">${esc(c.en)}</span> ${esc(c.cn)}`;
-          if (c.example) {
-            html += `<span class="wv-chunk-ex">例：${esc(c.example)}</span>`;
-          }
-          rightHtml += `<p class="wv-chunk-item">${html}</p>`;
-        });
-      } else {
-        // 无例句：紧凑格式（一行多个，顿号分隔）
-        const items = byType[tp].map(c =>
-          `<span class="wv-hl">${esc(c.en)}</span>${esc(c.cn)}`
-        ).join('、');
-        rightHtml += `<p class="wv-line wv-struct wv-sub"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
-      }
+      // 按 count 降序排序（新数据有 count 字段，旧数据无）
+      const sortedChunks = byType[tp].slice().sort((a, b) => {
+        const ac = a.count || 0;
+        const bc = b.count || 0;
+        return bc - ac;
+      });
+      // 紧凑格式：词块连排，用"、"分隔，附频次显示
+      // 格式：<en> (cn, count)、<en> (cn, count) ...
+      const items = sortedChunks.map(c => {
+        const count = c.count != null ? c.count : '';
+        const countPart = count !== '' ? `<span class="wv-num">${count}</span>` : '';
+        return `<span class="wv-hl">${esc(c.en)}</span><span class="wv-cn">(${esc(c.cn)}${count !== '' ? ', ' : ''}${countPart})</span>`;
+      }).join('、');
+      rightHtml += `<p class="wv-line wv-struct wv-sub wv-chunks-list"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
     });
   } else if (topCollocations.length > 0) {
     const sl = topCollocations.map(([ph, c]) =>
