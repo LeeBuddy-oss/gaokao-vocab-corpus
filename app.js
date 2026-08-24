@@ -1596,7 +1596,9 @@ function renderMindMap(word, entry) {
     // 一级标题"真题词组"独立成行，二级按类型各自成行
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span></p>`;
     const byType = {};
-    const typeOrder = ['名词词组', '动词词组', '形容词词组', '副词词组', '介词词组', '其他'];
+    // 兼容新旧类型名：动词短语/名词短语/形容词搭配/副词搭配/介词短语 + 名词词组/动词词组/...
+    const typeOrder = ['动词短语','名词短语','形容词搭配','副词搭配','介词短语',
+                       '名词词组','动词词组','形容词词组','副词词组','介词词组','其他'];
     manualChunks.forEach(c => {
       const tp = c.type || '其他';
       if (!byType[tp]) byType[tp] = [];
@@ -1604,10 +1606,24 @@ function renderMindMap(word, entry) {
     });
     typeOrder.forEach(tp => {
       if (!byType[tp] || byType[tp].length === 0) return;
-      const items = byType[tp].map(c =>
-        `<span class="wv-hl">${esc(c.en)}</span>${esc(c.cn)}`
-      ).join('、');
-      rightHtml += `<p class="wv-line wv-struct wv-sub"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
+      const hasExample = byType[tp].some(c => c.example);
+      if (hasExample) {
+        // 有例句：逐条展示，每个词块独占一行，例句换行附在下方
+        rightHtml += `<p class="wv-line wv-struct wv-sub"><span class="wv-sub-label">${esc(tp)}</span></p>`;
+        byType[tp].forEach(c => {
+          let html = `<span class="wv-hl">${esc(c.en)}</span> ${esc(c.cn)}`;
+          if (c.example) {
+            html += `<span class="wv-chunk-ex">例：${esc(c.example)}</span>`;
+          }
+          rightHtml += `<p class="wv-chunk-item">${html}</p>`;
+        });
+      } else {
+        // 无例句：紧凑格式（一行多个，顿号分隔）
+        const items = byType[tp].map(c =>
+          `<span class="wv-hl">${esc(c.en)}</span>${esc(c.cn)}`
+        ).join('、');
+        rightHtml += `<p class="wv-line wv-struct wv-sub"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
+      }
     });
   } else if (topCollocations.length > 0) {
     const sl = topCollocations.map(([ph, c]) =>

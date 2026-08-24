@@ -407,6 +407,19 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   margin-top: 2px !important;
   line-height: 1.85;
 }
+.wv-chunk-item {             /* 逐条展示的词块条目 */
+  padding-left: 18px;
+  margin-top: 4px !important;
+  line-height: 1.8;
+}
+.wv-chunk-ex {               /* 词块例句 */
+  display: block;
+  font-size: 13px;
+  color: #6b7280;
+  font-style: italic;
+  margin-top: 1px;
+  line-height: 1.6;
+}
 /* wv-genre 已废弃，语篇分布改用 wv-struct 统一格式 */
 
 /* 词汇语义网（真题共现词汇网络图） */
