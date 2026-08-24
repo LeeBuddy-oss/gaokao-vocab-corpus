@@ -1567,14 +1567,38 @@
   ],
   "chunks": [
     {
-      "en": "key / difficult / own / simple / chinese word",
-      "cn": "关键词 / 难词 / 自己的话 / 简单的词 / 中文词",
+      "en": "key word",
+      "cn": "关键词",
       "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "in other words",
+      "cn": "换句话说",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "in a word",
+      "cn": "总之",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "keep one's word",
+      "cn": "守信",
+      "type": "动词短语",
       "count": 0
     },
     {
-      "en": "about / know / read / reading / following word",
-      "cn": "关于单词 / 认识单词 / 读单词 / 以下单词",
+      "en": "word for word",
+      "cn": "逐字地",
+      "type": "副词搭配",
+      "count": 0
+    },
+    {
+      "en": "have a word with",
+      "cn": "与…交谈",
       "type": "动词短语",
       "count": 0
     }

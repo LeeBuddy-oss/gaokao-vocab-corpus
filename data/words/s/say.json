@@ -3037,15 +3037,45 @@
   ],
   "chunks": [
     {
-      "en": "say about restaurant / competition",
-      "cn": "谈论餐厅 / 谈论比赛",
+      "en": "say yes",
+      "cn": "同意",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "say goodbye",
+      "cn": "告别",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "say nothing",
+      "cn": "什么也不说",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "say hello",
+      "cn": "打招呼",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "say sorry",
+      "cn": "道歉",
       "type": "动词短语",
       "count": 0
     },
     {
-      "en": "say well / goodbye / bear / come / though / western / graduate / essential",
-      "cn": "说得好 / 说再见 / 提到熊 / 说来 / 虽说 / 说西方的 / 说毕业生 / 说必要的",
+      "en": "have a say",
+      "cn": "有发言权",
       "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "that is to say",
+      "cn": "也就是说",
+      "type": "介词短语",
       "count": 0
     }
   ]

@@ -1734,20 +1734,38 @@
   ],
   "chunks": [
     {
-      "en": "life on earth",
-      "cn": "地球上的生命",
+      "en": "in life",
+      "cn": "一生中",
+      "type": "介词短语",
+      "count": 33
+    },
+    {
+      "en": "daily life",
+      "cn": "日常生活",
       "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "full of life",
+      "cn": "充满活力",
+      "type": "形容词搭配",
       "count": 2
     },
     {
-      "en": "new / daily / social / everyday / artificial / adult / school life",
-      "cn": "新生活 / 日常生活 / 社交生活 / 每天生活 / 人工生命 / 成年生活 / 学校生活",
+      "en": "way of life",
+      "cn": "生活方式",
       "type": "名词短语",
-      "count": 0
+      "count": 1
     },
     {
-      "en": "later / out life",
-      "cn": "晚年生活 / 生活",
+      "en": "save one's life",
+      "cn": "救命",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "come to life",
+      "cn": "活跃起来",
       "type": "动词短语",
       "count": 0
     }

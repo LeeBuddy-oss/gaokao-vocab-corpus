@@ -1502,16 +1502,46 @@
   ],
   "chunks": [
     {
-      "en": "high / middle / new / primary / home / graduate / hospital / art school",
-      "cn": "高中 / 初中 / 新学校 / 小学 / 在家上学 / 研究生院 / 医院学校 / 艺术学校",
+      "en": "high school",
+      "cn": "高中",
       "type": "名词短语",
-      "count": 0
+      "count": 28
     },
     {
-      "en": "off / cooking school",
-      "cn": "放学 / 烹饪学校",
+      "en": "after school",
+      "cn": "放学后",
+      "type": "介词短语",
+      "count": 8
+    },
+    {
+      "en": "go to school",
+      "cn": "上学",
       "type": "动词短语",
-      "count": 0
+      "count": 6
+    },
+    {
+      "en": "primary school",
+      "cn": "小学",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "school uniform",
+      "cn": "校服",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "school life",
+      "cn": "学校生活",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "graduate from school",
+      "cn": "毕业",
+      "type": "动词短语",
+      "count": 1
     }
   ]
 }

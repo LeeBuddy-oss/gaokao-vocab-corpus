@@ -1614,9 +1614,33 @@
   ],
   "chunks": [
     {
-      "en": "read book / mind / news / words / lot / message / following / frequently / writing",
-      "cn": "读书 / 读心 / 读新闻 / 读单词 / 大量阅读 / 读消息 / 阅读以下 / 频繁阅读 / 读写",
+      "en": "read aloud",
+      "cn": "朗读",
       "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "read about",
+      "cn": "读到关于",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "read a book",
+      "cn": "读书",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "read between the lines",
+      "cn": "体会言外之意",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "widely read",
+      "cn": "阅读广泛的",
+      "type": "形容词搭配",
       "count": 0
     }
   ]
