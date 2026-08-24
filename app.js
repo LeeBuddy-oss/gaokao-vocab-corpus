@@ -1592,14 +1592,16 @@ function renderMindMap(word, entry) {
 
   // 真题词组：优先使用人工标注词块（entry.chunks），无标注时回退到自动提取
   const manualChunks = entry.chunks;
-  if (manualChunks && Array.isArray(manualChunks) && manualChunks.length > 0) {
+  // 过滤掉 count=0 的 chunks（原则：例句有才统计）
+  const filteredManual = (manualChunks || []).filter(c => c.count > 0);
+  if (filteredManual.length > 0) {
     // 一级标题"真题词组"独立成行，二级按类型各自成行
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span></p>`;
     const byType = {};
     // 兼容新旧类型名：动词短语/名词短语/形容词搭配/副词搭配/介词短语 + 名词词组/动词词组/...
     const typeOrder = ['动词短语','名词短语','形容词搭配','副词搭配','介词短语',
                        '名词词组','动词词组','形容词词组','副词词组','介词词组','其他'];
-    manualChunks.forEach(c => {
+    filteredManual.forEach(c => {
       const tp = c.type || '其他';
       if (!byType[tp]) byType[tp] = [];
       byType[tp].push(c);
