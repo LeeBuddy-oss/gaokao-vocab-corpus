@@ -265,15 +265,21 @@
   ],
   "chunks": [
     {
-      "en": "put ring",
-      "cn": "放戒指",
+      "en": "ring up",
+      "cn": "打电话",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "ring a bell",
+      "cn": "敲钟",
       "type": "动词短语",
       "count": 1
     },
     {
-      "en": "name / head / finding / diamond / wedding / phone ring",
-      "cn": "名字戒指 / 头戒指 / 调查发现戒指 / 金刚石戒指 / 婚礼戒指 / 手机戒指",
-      "type": "名词短语",
+      "en": "on the ring",
+      "cn": "在戒指上",
+      "type": "介词短语",
       "count": 0
     }
   ]

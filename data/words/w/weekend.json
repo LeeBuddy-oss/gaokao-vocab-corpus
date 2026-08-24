@@ -210,28 +210,22 @@
   ],
   "chunks": [
     {
-      "en": "great weekend",
-      "cn": "伟大的星期六和星期日",
+      "en": "on the weekend",
+      "cn": "在周末",
+      "type": "介词短语",
+      "count": 4
+    },
+    {
+      "en": "at weekends",
+      "cn": "在周末",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "weekend trip",
+      "cn": "周末旅行",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "weekend after family",
-      "cn": "家庭的星期六和星期日",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "following weekend of hunting",
-      "cn": "跟随星期六和星期日打猎",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "show / cancel / over / spend weekend",
-      "cn": "展示星期六和星期日 / 取消星期六和星期日 / 星期六和星期日 / 花费星期六和星期日",
-      "type": "动词短语",
-      "count": 0
+      "count": 2
     }
   ]
 }

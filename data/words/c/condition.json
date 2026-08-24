@@ -290,15 +290,21 @@
   ],
   "chunks": [
     {
-      "en": "air / living / good / heart / health / planet / terrible condition",
-      "cn": "空调 / 生活条件 / 良好状况 / 心脏病 / 健康状况 / 行星条件 / 非常讨厌的条件",
+      "en": "living conditions",
+      "cn": "生活条件",
       "type": "名词短语",
-      "count": 0
+      "count": 3
     },
     {
-      "en": "make / driving / cooking / be condition",
-      "cn": "做条件 / 驾驶条件 / 烹饪条件 / 被条件",
-      "type": "动词短语",
+      "en": "in good condition",
+      "cn": "状况良好",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "on condition that",
+      "cn": "条件是",
+      "type": "介词短语",
       "count": 0
     }
   ]
