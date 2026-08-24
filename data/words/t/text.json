@@ -813,21 +813,27 @@
   ],
   "chunks": [
     {
-      "en": "humourous text of love",
-      "cn": "关于爱的幽默文本",
+      "en": "text message",
+      "cn": "短信",
       "type": "名词短语",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "digital / understand text",
-      "cn": "数字文本 / 理解文本",
+      "en": "full text",
+      "cn": "全文",
       "type": "名词短语",
       "count": 0
     },
     {
-      "en": "writing / get / print / update / reading / scanning / together text",
-      "cn": "写文本 / 得到文本 / 打印文本 / 更新文本 / 阅读文本 / 扫描文本 / 一起的文本",
-      "type": "动词短语",
+      "en": "original text",
+      "cn": "原文",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "by text",
+      "cn": "通过短信",
+      "type": "介词短语",
       "count": 0
     }
   ]

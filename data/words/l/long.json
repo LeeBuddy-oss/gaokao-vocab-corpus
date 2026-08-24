@@ -1176,22 +1176,34 @@
   ],
   "chunks": [
     {
-      "en": "long as",
+      "en": "no longer",
+      "cn": "不再",
+      "type": "副词搭配",
+      "count": 17
+    },
+    {
+      "en": "as long as",
       "cn": "只要",
-      "type": "名词短语",
-      "count": 8
+      "type": "介词短语",
+      "count": 7
     },
     {
-      "en": "living / minutes / jams / freeing long",
-      "cn": "活得长 / 长达几分钟 / 拥堵很久 / 长久释放",
-      "type": "名词短语",
-      "count": 0
-    },
-    {
-      "en": "run / goes / walked / turn / walk long",
-      "cn": "跑得长 / 持续很久 / 走了很久 / 变长 / 走很久",
+      "en": "long for",
+      "cn": "渴望",
       "type": "动词短语",
-      "count": 0
+      "count": 4
+    },
+    {
+      "en": "before long",
+      "cn": "不久之后",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "in the long run",
+      "cn": "从长远来看",
+      "type": "介词短语",
+      "count": 1
     }
   ]
 }

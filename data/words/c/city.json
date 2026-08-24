@@ -843,15 +843,27 @@
   ],
   "chunks": [
     {
-      "en": "capital / guided / modern / outside / major / walled / schools city",
-      "cn": "首都 / 有导游的城市 / 现代城市 / 城外 / 大城市 / 有城墙的城市 / 学校城市",
+      "en": "capital city",
+      "cn": "首都",
       "type": "名词短语",
-      "count": 0
+      "count": 3
     },
     {
-      "en": "explore / keep city",
-      "cn": "探索城市 / 保持城市",
-      "type": "动词短语",
+      "en": "big city",
+      "cn": "大城市",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "city center",
+      "cn": "市中心",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "inner city",
+      "cn": "市中心贫民区",
+      "type": "名词短语",
       "count": 0
     }
   ]

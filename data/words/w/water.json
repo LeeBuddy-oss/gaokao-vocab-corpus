@@ -874,22 +874,28 @@
   ],
   "chunks": [
     {
-      "en": "water to get",
-      "cn": "要取的水",
+      "en": "drinking water",
+      "cn": "饮用水",
+      "type": "名词短语",
+      "count": 6
+    },
+    {
+      "en": "water sports",
+      "cn": "水上运动",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "water pollution",
+      "cn": "水污染",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "clean / drinking / bottled / pure / dirty / lower water",
-      "cn": "干净的水 / 饮用水 / 瓶装水 / 纯净水 / 脏水 / 降低水位",
-      "type": "名词短语",
-      "count": 0
-    },
-    {
-      "en": "tap / get / about water",
-      "cn": "自来水 / 取水 / 关于水",
-      "type": "动词短语",
-      "count": 0
+      "en": "by water",
+      "cn": "乘船",
+      "type": "介词短语",
+      "count": 1
     }
   ]
 }

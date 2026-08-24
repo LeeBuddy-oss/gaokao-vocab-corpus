@@ -835,9 +835,21 @@
   ],
   "chunks": [
     {
-      "en": "car / small / road / traffic accident",
-      "cn": "车祸 / 小事故 / 交通事故",
+      "en": "by accident",
+      "cn": "偶然",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "traffic accident",
+      "cn": "交通事故",
       "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "have an accident",
+      "cn": "出事故",
+      "type": "动词短语",
       "count": 0
     }
   ]
