@@ -398,15 +398,21 @@
   ],
   "chunks": [
     {
-      "en": "city / group / small / own / good / guided bike",
-      "cn": "城市自行车 / 小组自行车 / 小自行车 / 自己的自行车 / 好自行车 / 有导游的自行车",
-      "type": "名词短语",
-      "count": 0
+      "en": "ride a bike",
+      "cn": "骑自行车",
+      "type": "动词短语",
+      "count": 1
     },
     {
-      "en": "includes / ride / fix / over bike",
-      "cn": "包含自行车 / 骑自行车 / 修理自行车 / 越过自行车",
-      "type": "动词短语",
+      "en": "by bike",
+      "cn": "骑车",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "bike sharing",
+      "cn": "共享单车",
+      "type": "名词短语",
       "count": 0
     }
   ]

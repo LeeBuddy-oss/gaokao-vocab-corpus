@@ -290,15 +290,21 @@
   ],
   "chunks": [
     {
-      "en": "new / road / great / total / major / quality movie",
-      "cn": "新电影 / 公路电影 / 好电影 / 总共电影 / 主要电影 / 优质电影",
+      "en": "go to the movies",
+      "cn": "去看电影",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "movie theatre",
+      "cn": "电影院",
       "type": "名词短语",
       "count": 0
     },
     {
-      "en": "see / make / assume / becoming movie",
-      "cn": "看电影 / 制作电影 / 假设电影 / 成为电影",
-      "type": "动词短语",
+      "en": "action movie",
+      "cn": "动作片",
+      "type": "名词短语",
       "count": 0
     }
   ]

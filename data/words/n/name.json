@@ -428,20 +428,26 @@
   ],
   "chunks": [
     {
-      "en": "be named",
-      "cn": "被名字",
+      "en": "name after",
+      "cn": "以…命名",
       "type": "动词短语",
-      "count": 4
+      "count": 1
     },
     {
-      "en": "boy / pronounce / pen / type / lady / friends / vehicle / purchased name",
-      "cn": "男孩名字 / 发音名字 / 笔名 / 类型名称 / 女士名字 / 朋友名字 / 车辆名字 / 购买名字",
-      "type": "名词短语",
+      "en": "by the name of",
+      "cn": "名叫",
+      "type": "介词短语",
       "count": 0
     },
     {
-      "en": "name of college / authors",
-      "cn": "大学的名字 / 作者的名字",
+      "en": "in the name of",
+      "cn": "以…的名义",
+      "type": "介词短语",
+      "count": 0
+    },
+    {
+      "en": "brand name",
+      "cn": "品牌名",
       "type": "名词短语",
       "count": 0
     }
