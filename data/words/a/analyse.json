@@ -160,19 +160,22 @@
   ],
   "chunks": [
     {
-      "en": "analyse event / films / suggest / interpret / composition",
-      "cn": "分析事件 / 分析电影 / 分析建议 / 分析诠释 / 分析成分",
-      "type": "动词词组"
-    },
-    {
       "en": "analyses of language",
       "cn": "分析语言",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "be analysed",
       "cn": "被分析",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "analyse event / films / suggest / interpret / composition",
+      "cn": "分析事件 / 分析电影 / 分析建议 / 分析诠释 / 分析成分",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

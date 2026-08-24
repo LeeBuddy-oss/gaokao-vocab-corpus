@@ -1069,24 +1069,28 @@
   ],
   "chunks": [
     {
-      "en": "day / cool / afraid / regular / school kid",
-      "cn": "孩子们的日子 / 酷孩子 / 害怕的孩子 / 普通孩子 / 学生",
-      "type": "名词词组"
-    },
-    {
       "en": "kids at fixed",
       "cn": "固定的孩子",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "allowing kids to eat",
       "cn": "让孩子吃",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "day / cool / afraid / regular / school kid",
+      "cn": "孩子们的日子 / 酷孩子 / 害怕的孩子 / 普通孩子 / 学生",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "giving / see / give kid",
       "cn": "给孩子们 / 看到孩子们",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

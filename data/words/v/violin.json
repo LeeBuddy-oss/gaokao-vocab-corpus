@@ -99,29 +99,34 @@
   ],
   "chunks": [
     {
-      "en": "little / thought / beautiful violin",
-      "cn": "小的小提琴 / 想法小提琴 / 美丽的小提琴",
-      "type": "名词词组"
-    },
-    {
       "en": "violin with great",
       "cn": "伟大的小提琴",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "violins in little",
       "cn": "小的小提琴",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "play violin",
       "cn": "玩小提琴",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "up violin to play along",
       "cn": "小提琴向玩沿着",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "little / thought / beautiful violin",
+      "cn": "小的小提琴 / 想法小提琴 / 美丽的小提琴",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

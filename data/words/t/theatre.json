@@ -507,34 +507,22 @@
   ],
   "chunks": [
     {
-      "en": "new theatre",
-      "cn": "新的戏院",
-      "type": "名词词组"
-    },
-    {
       "en": "national theatre of china",
       "cn": "瓷制品的国家的戏院",
-      "type": "名词词组"
-    },
-    {
-      "en": "chinese theatre",
-      "cn": "中国人戏院",
-      "type": "名词词组"
-    },
-    {
-      "en": "best theatre",
-      "cn": "最好的戏院",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "surviving theatre",
       "cn": "生存戏院",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "traditional theatre",
-      "cn": "传统的戏院",
-      "type": "名词词组"
+      "en": "new / chinese / best / traditional theatre",
+      "cn": "新的戏院 / 中国人戏院 / 最好的戏院 / 传统的戏院",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

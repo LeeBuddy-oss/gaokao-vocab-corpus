@@ -131,19 +131,22 @@
   ],
   "chunks": [
     {
-      "en": "local / major / clear / popular / traditional tourist",
-      "cn": "本地旅游者 / 主要的旅游者 / 清晰的旅游者 / 受欢迎的旅游者 / 传统的旅游者",
-      "type": "名词词组"
-    },
-    {
       "en": "ask tourists from around",
       "cn": "询问旅游者周围",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "local / major / clear / popular / traditional tourist",
+      "cn": "本地旅游者 / 主要的旅游者 / 清晰的旅游者 / 受欢迎的旅游者 / 传统的旅游者",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "become / attracts tourist",
       "cn": "成为旅游者 / 吸引旅游者",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

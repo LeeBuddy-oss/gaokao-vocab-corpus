@@ -146,54 +146,28 @@
   ],
   "chunks": [
     {
-      "en": "parents recipes",
-      "cn": "父母食谱",
-      "type": "名词词组"
-    },
-    {
-      "en": "try recipe",
-      "cn": "尝试食谱",
-      "type": "动词词组"
-    },
-    {
-      "en": "get recipe",
-      "cn": "得到食谱",
-      "type": "动词词组"
-    },
-    {
-      "en": "food recipes",
-      "cn": "食物食谱",
-      "type": "名词词组"
-    },
-    {
-      "en": "chinese recipe",
-      "cn": "中文食谱",
-      "type": "名词词组"
-    },
-    {
-      "en": "dentists recipe",
-      "cn": "牙科医生食谱",
-      "type": "名词词组"
-    },
-    {
-      "en": "excellent recipe",
-      "cn": "优秀的食谱",
-      "type": "名词词组"
-    },
-    {
       "en": "old recipes to life",
       "cn": "生活的老的食谱",
-      "type": "名词词组"
-    },
-    {
-      "en": "traditional recipes",
-      "cn": "传统的食谱",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "follow recipe without questioning",
       "cn": "跟随食谱问题",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "parents / food / chinese / dentists / excellent / traditional recipe",
+      "cn": "父母食谱 / 食物食谱 / 中文食谱 / 牙科医生食谱 / 优秀的食谱 / 传统的食谱",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "try / get recipe",
+      "cn": "尝试食谱 / 得到食谱",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

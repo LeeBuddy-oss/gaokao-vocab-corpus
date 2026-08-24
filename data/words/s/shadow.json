@@ -104,19 +104,22 @@
   ],
   "chunks": [
     {
-      "en": "way / light / different shadow",
-      "cn": "方式阴影 / 光阴影 / 不同阴影",
-      "type": "名词词组"
-    },
-    {
       "en": "cast shadow on people",
       "cn": "投阴影人们",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "reaching shadow",
       "cn": "到达阴影",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "way / light / different shadow",
+      "cn": "方式阴影 / 光阴影 / 不同阴影",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

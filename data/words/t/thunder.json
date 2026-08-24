@@ -69,19 +69,22 @@
   ],
   "chunks": [
     {
-      "en": "smoke / bombs thunder",
-      "cn": "烟雷 / 核武器雷",
-      "type": "名词词组"
-    },
-    {
       "en": "train thundered on",
       "cn": "训练雷",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "hear thunder",
       "cn": "听见雷",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "smoke / bombs thunder",
+      "cn": "烟雷 / 核武器雷",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

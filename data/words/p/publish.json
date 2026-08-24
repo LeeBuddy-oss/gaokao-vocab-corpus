@@ -229,69 +229,28 @@
   ],
   "chunks": [
     {
-      "en": "published study",
-      "cn": "出版研究",
-      "type": "动词词组"
-    },
-    {
-      "en": "published artist",
-      "cn": "出版艺术家",
-      "type": "动词词组"
-    },
-    {
-      "en": "published writer",
-      "cn": "出版作家",
-      "type": "动词词组"
-    },
-    {
-      "en": "published in cell",
-      "cn": "出版单间牢房",
-      "type": "动词词组"
-    },
-    {
-      "en": "publishes popular",
-      "cn": "出版受欢迎的",
-      "type": "动词词组"
-    },
-    {
-      "en": "published in high",
-      "cn": "出版高的",
-      "type": "动词词组"
-    },
-    {
-      "en": "published in plant",
-      "cn": "出版植物",
-      "type": "动词词组"
-    },
-    {
-      "en": "published in aimed",
-      "cn": "出版目标",
-      "type": "动词词组"
-    },
-    {
-      "en": "published in showed",
-      "cn": "出版展示",
-      "type": "动词词组"
-    },
-    {
-      "en": "publishing bringing",
-      "cn": "出版带来",
-      "type": "动词词组"
-    },
-    {
-      "en": "be published in",
-      "cn": "在…发表",
-      "type": "动词词组"
-    },
-    {
-      "en": "be published during",
-      "cn": "被出版",
-      "type": "动词词组"
-    },
-    {
       "en": "be published",
       "cn": "被出版",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 7
+    },
+    {
+      "en": "be published in / during",
+      "cn": "在…发表 / 被出版",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "publish in cell / high / plant / aimed / showed",
+      "cn": "出版单间牢房 / 出版高的 / 出版植物 / 出版目标 / 出版展示",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "publish study / artist / writer / popular / bringing",
+      "cn": "出版研究 / 出版艺术家 / 出版作家 / 出版受欢迎的 / 出版带来",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -122,34 +122,40 @@
   ],
   "chunks": [
     {
-      "en": "dozen of titles / polluting",
-      "cn": "书、诗歌、图画、的一打 / 污染的一打",
-      "type": "名词词组"
+      "en": "half dozen",
+      "cn": "一半一打",
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "dozens of plays to find",
       "cn": "玩向找到的一打",
-      "type": "名词词组"
-    },
-    {
-      "en": "half dozen",
-      "cn": "一半一打",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "raise dozens of chicken",
       "cn": "举起一打鸡肉",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "received dozens of awards",
       "cn": "拿到一打奖",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "tried dozen",
       "cn": "尝试一打",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "dozen of titles / polluting",
+      "cn": "书、诗歌、图画、的一打 / 污染的一打",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

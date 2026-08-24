@@ -212,24 +212,28 @@
   ],
   "chunks": [
     {
-      "en": "form generation to generation",
-      "cn": "一代人的形式一代人",
-      "type": "名词词组"
-    },
-    {
       "en": "generations to come",
       "cn": "来的一代人",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "form generation to generation",
+      "cn": "一代人的形式一代人",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "old / new generation",
       "cn": "老的一代人 / 新的一代人",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "work / over generation",
       "cn": "工作一代人 / 一代人",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

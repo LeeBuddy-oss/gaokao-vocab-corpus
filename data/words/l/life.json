@@ -1734,54 +1734,22 @@
   ],
   "chunks": [
     {
-      "en": "new life",
-      "cn": "新生活",
-      "type": "名词词组"
-    },
-    {
-      "en": "daily life",
-      "cn": "日常生活",
-      "type": "名词词组"
-    },
-    {
-      "en": "social life",
-      "cn": "社交生活",
-      "type": "名词词组"
-    },
-    {
-      "en": "everyday life",
-      "cn": "每天生活",
-      "type": "名词词组"
-    },
-    {
-      "en": "artificial life",
-      "cn": "人工生命",
-      "type": "名词词组"
-    },
-    {
-      "en": "adult life",
-      "cn": "成年生活",
-      "type": "名词词组"
-    },
-    {
-      "en": "later life",
-      "cn": "晚年生活",
-      "type": "动词词组"
-    },
-    {
-      "en": "school life",
-      "cn": "学校生活",
-      "type": "名词词组"
-    },
-    {
       "en": "life on earth",
       "cn": "地球上的生命",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "out life",
-      "cn": "生活",
-      "type": "动词词组"
+      "en": "new / daily / social / everyday / artificial / adult / school life",
+      "cn": "新生活 / 日常生活 / 社交生活 / 每天生活 / 人工生命 / 成年生活 / 学校生活",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "later / out life",
+      "cn": "晚年生活 / 生活",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

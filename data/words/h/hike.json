@@ -96,34 +96,40 @@
   ],
   "chunks": [
     {
-      "en": "camping / mountain hike",
-      "cn": "营地远足 / 山远足",
-      "type": "名词词组"
-    },
-    {
       "en": "hike over difficult",
       "cn": "困难的远足",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "pleasant hike in forest",
       "cn": "森林的令人愉快的远足",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "weekend hike in park",
       "cn": "公园的星期六和星期日远足",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be hiking in",
       "cn": "被远足",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "camping / mountain hike",
+      "cn": "营地远足 / 山远足",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "enjoy / riding hike",
       "cn": "享受远足 / 骑远足",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

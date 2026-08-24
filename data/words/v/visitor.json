@@ -204,19 +204,22 @@
   ],
   "chunks": [
     {
-      "en": "visitor to world / see",
-      "cn": "世界的访客 / 看见的访客",
-      "type": "名词词组"
-    },
-    {
       "en": "visitors from",
       "cn": "访客",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "visitor to world / see",
+      "cn": "世界的访客 / 看见的访客",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "teach / suggest visitor",
       "cn": "教访客 / 建议访客",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

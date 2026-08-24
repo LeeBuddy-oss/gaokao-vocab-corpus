@@ -61,29 +61,34 @@
   ],
   "chunks": [
     {
-      "en": "be carved into / out / by",
-      "cn": "被刻",
-      "type": "动词词组"
-    },
-    {
-      "en": "carve paths / things",
-      "cn": "刻路径 / 刻事情",
-      "type": "动词词组"
-    },
-    {
       "en": "carved by ancient",
       "cn": "刻古代的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "carved into small",
       "cn": "刻小的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "carved out of rock",
       "cn": "刻常用在some岩石",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be carved into / out / by",
+      "cn": "被刻",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "carve paths / things",
+      "cn": "刻路径 / 刻事情",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

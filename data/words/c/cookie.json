@@ -84,24 +84,28 @@
   ],
   "chunks": [
     {
+      "en": "fortune cookie",
+      "cn": "大笔的钱网络饼干",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
       "en": "cookies than carrots",
       "cn": "胡萝卜的网络饼干",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "cookies to raise",
       "cn": "举起的网络饼干",
-      "type": "名词词组"
-    },
-    {
-      "en": "fortune cookie",
-      "cn": "大笔的钱网络饼干",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "out / eat / make cookie",
       "cn": "网络饼干 / 吃网络饼干 / 做网络饼干",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

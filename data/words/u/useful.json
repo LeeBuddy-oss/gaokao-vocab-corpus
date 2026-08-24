@@ -201,39 +201,46 @@
   ],
   "chunks": [
     {
-      "en": "be useful for / to / in",
-      "cn": "有用的",
-      "type": "动词词组"
-    },
-    {
       "en": "are useful for detecting",
       "cn": "发现的有用的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "be useful for businesses",
       "cn": "商业的有用的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "be useful to include",
       "cn": "包含的有用的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "been useful to know",
       "cn": "知道的有用的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "useful for people",
       "cn": "人们的有用的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be useful for / to / in",
+      "cn": "有用的",
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "useful informations / tool / items / things",
       "cn": "有用的信息 / 有用的工具 / 有用的物品 / 有用的事情",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

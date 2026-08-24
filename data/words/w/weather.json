@@ -195,19 +195,22 @@
   ],
   "chunks": [
     {
-      "en": "bad / cold / forecast / forecasting weather",
-      "cn": "坏的天气 / 冷的天气 / 预测天气",
-      "type": "名词词组"
-    },
-    {
       "en": "weather like",
       "cn": "天气",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "bad / cold / forecast / forecasting weather",
+      "cn": "坏的天气 / 冷的天气 / 预测天气",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "up / predict / changing weather",
       "cn": "天气 / 预测天气 / 改变天气",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

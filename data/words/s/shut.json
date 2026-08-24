@@ -101,29 +101,34 @@
   ],
   "chunks": [
     {
-      "en": "be shut up",
-      "cn": "被关闭",
-      "type": "动词词组"
-    },
-    {
-      "en": "shut door / twice / inside / behind / together",
-      "cn": "关闭门 / 关闭两次 / 关闭里面 / 关闭 / 关闭一起",
-      "type": "动词词组"
-    },
-    {
       "en": "shut down engine",
       "cn": "关闭发动机",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "shut down nations",
       "cn": "关闭国家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "shut up inside",
       "cn": "关闭里面",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be shut up",
+      "cn": "被关闭",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "shut door / twice / inside / behind / together",
+      "cn": "关闭门 / 关闭两次 / 关闭里面 / 关闭 / 关闭一起",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

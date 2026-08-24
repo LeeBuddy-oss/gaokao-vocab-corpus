@@ -478,29 +478,34 @@
   ],
   "chunks": [
     {
-      "en": "cook at early",
-      "cn": "烹饪早的",
-      "type": "动词词组"
-    },
-    {
       "en": "cook at home",
       "cn": "烹饪家",
-      "type": "动词词组"
-    },
-    {
-      "en": "cook rest / school / methods / helps / life / soup",
-      "cn": "烹饪休息 / 烹饪学校 / 烹饪方法 / 烹饪帮助 / 烹饪生命 / 烹饪汤",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "cooking at home",
       "cn": "烹饪家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "cook at early",
+      "cn": "烹饪早的",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "cooking in own",
       "cn": "烹饪自己的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "cook rest / school / methods / helps / life / soup",
+      "cn": "烹饪休息 / 烹饪学校 / 烹饪方法 / 烹饪帮助 / 烹饪生命 / 烹饪汤",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

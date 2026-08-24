@@ -317,24 +317,28 @@
   ],
   "chunks": [
     {
-      "en": "feeling / serious / meeting note",
-      "cn": "感觉笔记 / 严肃的笔记 / 会议记录",
-      "type": "名词词组"
-    },
-    {
       "en": "note behind",
       "cn": "后面的笔记",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "note to teachers",
       "cn": "给老师的便条",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "make note of page",
       "cn": "记下页码",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "feeling / serious / meeting note",
+      "cn": "感觉笔记 / 严肃的笔记 / 会议记录",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

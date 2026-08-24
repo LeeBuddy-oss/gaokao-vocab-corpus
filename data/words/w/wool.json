@@ -54,19 +54,22 @@
   ],
   "chunks": [
     {
-      "en": "horses wool",
-      "cn": "马羊等的）绒",
-      "type": "名词词组"
-    },
-    {
       "en": "enables wool",
       "cn": "使能够羊等的）绒",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "cotton wool over spot",
       "cn": "斑点的棉织物羊等的）绒",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "horses wool",
+      "cn": "马羊等的）绒",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

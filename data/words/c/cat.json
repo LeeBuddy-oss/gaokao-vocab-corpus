@@ -248,24 +248,28 @@
   ],
   "chunks": [
     {
-      "en": "baby / pet / way / decided / mother / thinking cat",
-      "cn": "小猫 / 宠物猫 / 方式猫 / 决定猫 / 母猫 / 思想猫",
-      "type": "名词词组"
-    },
-    {
       "en": "family cat to make",
       "cn": "做的家庭猫",
-      "type": "名词词组"
-    },
-    {
-      "en": "keep / about cat",
-      "cn": "保持猫 / 猫",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "swing cat in small",
       "cn": "使）摆动猫小的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "baby / pet / way / decided / mother / thinking cat",
+      "cn": "小猫 / 宠物猫 / 方式猫 / 决定猫 / 母猫 / 思想猫",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "keep / about cat",
+      "cn": "保持猫 / 猫",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -492,19 +492,22 @@
   ],
   "chunks": [
     {
-      "en": "root / food / park / soil / reward / garden / earth system",
-      "cn": "根系统 / 食物系统 / 公园系统 / 土壤系统 / 奖励系统 / 花园系统 / 地球系统",
-      "type": "名词词组"
-    },
-    {
       "en": "system to break",
       "cn": "打破的系统",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "root / food / park / soil / reward / garden / earth system",
+      "cn": "根系统 / 食物系统 / 公园系统 / 土壤系统 / 奖励系统 / 花园系统 / 地球系统",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "about / adopt system",
       "cn": "系统 / 采用系统",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

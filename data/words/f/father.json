@@ -656,24 +656,28 @@
   ],
   "chunks": [
     {
-      "en": "father like son",
-      "cn": "有其父必有其子",
-      "type": "名词词组"
-    },
-    {
       "en": "father to visit",
       "cn": "父亲来访",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "father like son",
+      "cn": "有其父必有其子",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "wood / fact / room / office / strict father",
       "cn": "木匠父亲 / 事实上父亲 / 房间里的父亲 / 办公室里的父亲 / 严格的父亲",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "watch / calling / discovered father",
       "cn": "看着父亲 / 给父亲打电话 / 发现的父亲们",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

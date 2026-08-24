@@ -807,29 +807,34 @@
   ],
   "chunks": [
     {
-      "en": "cars in america",
-      "cn": "美国的汽车",
-      "type": "名词词组"
-    },
-    {
       "en": "cars on roads",
       "cn": "路上的汽车",
-      "type": "名词词组"
-    },
-    {
-      "en": "electric / cheap / private car",
-      "cn": "电动汽车 / 廉价汽车 / 私家车",
-      "type": "名词词组"
-    },
-    {
-      "en": "flying / started / repair car",
-      "cn": "飞行汽车 / 发动汽车 / 修车",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "flying car within",
       "cn": "范围内的飞行汽车",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "cars in america",
+      "cn": "美国的汽车",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "electric / cheap / private car",
+      "cn": "电动汽车 / 廉价汽车 / 私家车",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "flying / started / repair car",
+      "cn": "飞行汽车 / 发动汽车 / 修车",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

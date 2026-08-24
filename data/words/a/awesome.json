@@ -67,19 +67,22 @@
   ],
   "chunks": [
     {
-      "en": "are awesome woman",
-      "cn": "很好的",
-      "type": "形容词词组"
-    },
-    {
       "en": "awesome journey",
       "cn": "很好的旅程",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "are awesome woman",
+      "cn": "很好的",
+      "type": "形容词搭配",
+      "count": 0
     },
     {
       "en": "was / pretty awesome",
       "cn": "很好的 / 漂亮的很好的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

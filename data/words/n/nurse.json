@@ -131,19 +131,22 @@
   ],
   "chunks": [
     {
-      "en": "best / loves nurse",
-      "cn": "最好的护士 / 爱护士",
-      "type": "名词词组"
-    },
-    {
       "en": "nurse as",
       "cn": "护士",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "earning nursing",
       "cn": "挣得护士",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "best / loves nurse",
+      "cn": "最好的护士 / 爱护士",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -121,19 +121,22 @@
   ],
   "chunks": [
     {
-      "en": "dining / time / drink option",
-      "cn": "吃饭选项 / 时间选项 / 饮料选项",
-      "type": "名词词组"
-    },
-    {
       "en": "options for future",
       "cn": "未来的选项",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dining / time / drink option",
+      "cn": "吃饭选项 / 时间选项 / 饮料选项",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "up / discuss option",
       "cn": "选项 / 讨论选项",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

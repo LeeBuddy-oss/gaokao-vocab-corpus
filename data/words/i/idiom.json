@@ -45,19 +45,22 @@
   ],
   "chunks": [
     {
-      "en": "english / understand idiom",
-      "cn": "英语习语 / 理解习语",
-      "type": "名词词组"
-    },
-    {
       "en": "idioms idiom",
       "cn": "习语习语",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "english / understand idiom",
+      "cn": "英语习语 / 理解习语",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "use / learning idiom",
       "cn": "使用习语 / 研究习语",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

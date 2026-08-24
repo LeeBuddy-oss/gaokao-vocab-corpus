@@ -142,44 +142,52 @@
   ],
   "chunks": [
     {
-      "en": "animal / drought shelter",
-      "cn": "动物庇护所 / 久旱庇护所",
-      "type": "名词词组"
-    },
-    {
       "en": "bike shelter for neighbourhood",
       "cn": "街区的自行车庇护所",
-      "type": "名词词组"
-    },
-    {
-      "en": "shelter as soon as",
-      "cn": "很快像的庇护所",
-      "type": "名词词组"
-    },
-    {
-      "en": "shelter for various",
-      "cn": "各种各样的庇护所",
-      "type": "名词词组"
-    },
-    {
-      "en": "shelter from rain",
-      "cn": "雨的庇护所",
-      "type": "名词词组"
-    },
-    {
-      "en": "lose shelter in future",
-      "cn": "遗失庇护所未来",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "provided shelter",
       "cn": "提供庇护所",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "shelter as soon as",
+      "cn": "很快像的庇护所",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "shelter for various",
+      "cn": "各种各样的庇护所",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "shelter from rain",
+      "cn": "雨的庇护所",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "lose shelter in future",
+      "cn": "遗失庇护所未来",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "providing shelter for people",
       "cn": "提供庇护所人们",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "animal / drought shelter",
+      "cn": "动物庇护所 / 久旱庇护所",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

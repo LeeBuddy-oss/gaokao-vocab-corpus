@@ -172,29 +172,34 @@
   ],
   "chunks": [
     {
-      "en": "goal / plot / control / social setting",
-      "cn": "目标环境 / 故事情节环境 / 控制环境 / 社会的环境",
-      "type": "名词词组"
-    },
-    {
       "en": "setting out clothes",
       "cn": "衣服的环境",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "setting up new",
       "cn": "新的环境",
-      "type": "名词词组"
-    },
-    {
-      "en": "consider / describe setting",
-      "cn": "考虑环境 / 描述环境",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "creating settings in corn",
       "cn": "创造环境玉米",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "goal / plot / control / social setting",
+      "cn": "目标环境 / 故事情节环境 / 控制环境 / 社会的环境",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "consider / describe setting",
+      "cn": "考虑环境 / 描述环境",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

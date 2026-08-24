@@ -196,24 +196,28 @@
   ],
   "chunks": [
     {
-      "en": "dry / pilot / time / loan / snack / fantastic period",
-      "cn": "干的时期 / 飞行员时期 / 时间时期 / 贷款时期 / 点心时期 / 极好的时期",
-      "type": "名词词组"
-    },
-    {
       "en": "long period of time",
       "cn": "时间的长的时期",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "period of sleep",
       "cn": "睡觉的时期",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dry / pilot / time / loan / snack / fantastic period",
+      "cn": "干的时期 / 飞行员时期 / 时间时期 / 贷款时期 / 点心时期 / 极好的时期",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "over / entered period",
       "cn": "时期 / 进入时期",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

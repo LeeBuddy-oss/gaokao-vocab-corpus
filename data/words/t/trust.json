@@ -167,14 +167,16 @@
   ],
   "chunks": [
     {
-      "en": "likely / friend / national trust",
-      "cn": "可能的信任 / 朋友信任 / 国家的信任",
-      "type": "名词词组"
-    },
-    {
       "en": "be trusted",
       "cn": "被信任",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "likely / friend / national trust",
+      "cn": "可能的信任 / 朋友信任 / 国家的信任",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

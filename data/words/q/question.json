@@ -594,59 +594,40 @@
   ],
   "chunks": [
     {
-      "en": "raise question",
-      "cn": "举起问题",
-      "type": "动词词组"
-    },
-    {
-      "en": "asking questions",
-      "cn": "询问问题",
-      "type": "动词词组"
-    },
-    {
-      "en": "answering questions",
-      "cn": "回答问题",
-      "type": "名词词组"
-    },
-    {
-      "en": "specific questions",
-      "cn": "具体的问题",
-      "type": "名词词组"
-    },
-    {
-      "en": "develop questioning",
-      "cn": "发展问题",
-      "type": "动词词组"
-    },
-    {
       "en": "question about moon",
       "cn": "月球的问题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "question of meaning",
       "cn": "意思的问题",
-      "type": "名词词组"
-    },
-    {
-      "en": "scientific question",
-      "cn": "科学的问题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "questions about films",
       "cn": "电影的问题",
-      "type": "名词词组"
-    },
-    {
-      "en": "conversation question",
-      "cn": "非正式）交谈问题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be questions about",
       "cn": "被问题",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "answering / specific / scientific / conversation question",
+      "cn": "回答问题 / 具体的问题 / 科学的问题 / 非正式）交谈问题",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "raise / asking / develop question",
+      "cn": "举起问题 / 询问问题 / 发展问题",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

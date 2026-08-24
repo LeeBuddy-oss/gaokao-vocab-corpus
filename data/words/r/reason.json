@@ -367,54 +367,40 @@
   ],
   "chunks": [
     {
-      "en": "main reason",
-      "cn": "主要原因",
-      "type": "名词词组"
-    },
-    {
-      "en": "medical reasons",
-      "cn": "医疗原因",
-      "type": "名词词组"
-    },
-    {
-      "en": "about reason",
-      "cn": "关于原因",
-      "type": "动词词组"
-    },
-    {
-      "en": "reason for corn",
-      "cn": "玉米的原因",
-      "type": "名词词组"
-    },
-    {
-      "en": "reason for taking",
-      "cn": "拿的原因",
-      "type": "名词词组"
+      "en": "good reason to doubt",
+      "cn": "怀疑的好理由",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "good reasons to hire",
       "cn": "雇佣的好理由",
-      "type": "名词词组"
-    },
-    {
-      "en": "reasons for decision",
-      "cn": "决定的原因",
-      "type": "名词词组"
-    },
-    {
-      "en": "good reason to doubt",
-      "cn": "怀疑的好理由",
-      "type": "名词词组"
-    },
-    {
-      "en": "understanding reasons",
-      "cn": "理解原因",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "own reasons for learning",
       "cn": "学习的自身原因",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "about reason",
+      "cn": "关于原因",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "main / medical / understanding reason",
+      "cn": "主要原因 / 医疗原因 / 理解原因",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "reason for corn / taking / decision",
+      "cn": "玉米的原因 / 拿的原因 / 决定的原因",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

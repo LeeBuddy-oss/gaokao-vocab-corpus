@@ -819,49 +819,58 @@
   ],
   "chunks": [
     {
-      "en": "be walking by",
-      "cn": "被走",
-      "type": "动词词组"
-    },
-    {
-      "en": "walk duration / long / running",
-      "cn": "步行时长 / 走了很久 / 走和跑",
-      "type": "动词词组"
-    },
-    {
-      "en": "walked down long",
-      "cn": "沿着长路走",
-      "type": "动词词组"
-    },
-    {
-      "en": "walked to car",
-      "cn": "走向汽车",
-      "type": "动词词组"
-    },
-    {
-      "en": "walked to end",
-      "cn": "走到尽头",
-      "type": "动词词组"
-    },
-    {
       "en": "walking along edge",
       "cn": "沿着边缘走",
-      "type": "动词词组"
-    },
-    {
-      "en": "walking by school",
-      "cn": "走过学校",
-      "type": "动词词组"
-    },
-    {
-      "en": "walks into school",
-      "cn": "走进学校",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "walks of life",
       "cn": "各行各业",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "be walking by",
+      "cn": "被走",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walked down long",
+      "cn": "沿着长路走",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walked to car",
+      "cn": "走向汽车",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walked to end",
+      "cn": "走到尽头",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walking by school",
+      "cn": "走过学校",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walks into school",
+      "cn": "走进学校",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walk duration / long / running",
+      "cn": "步行时长 / 走了很久 / 走和跑",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -321,29 +321,34 @@
   ],
   "chunks": [
     {
-      "en": "gentle / back / little / female / morning voice",
-      "cn": "温柔的声音 / 回声 / 小的声音 / 女声 / 早晨的声音",
-      "type": "名词词组"
-    },
-    {
       "en": "loud voice in head",
       "cn": "脑中的大声",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "quiet voice from behind",
       "cn": "从后面的轻声",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "voice in back of head",
       "cn": "脑中的回声",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gentle / back / little / female / morning voice",
+      "cn": "温柔的声音 / 回声 / 小的声音 / 女声 / 早晨的声音",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "leaving / distinguished voice",
       "cn": "离开的声音 / 独特的声音",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

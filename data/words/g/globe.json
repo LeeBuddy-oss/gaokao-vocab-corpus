@@ -86,24 +86,28 @@
   ],
   "chunks": [
     {
-      "en": "total globe",
-      "cn": "全世界",
-      "type": "名词词组"
-    },
-    {
       "en": "across globe for",
       "cn": "地球",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "total globe",
+      "cn": "全世界",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "over globe to enjoy",
       "cn": "地球向享受",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "travel / around globe",
       "cn": "旅行地球 / 地球",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

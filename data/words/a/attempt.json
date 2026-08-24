@@ -148,34 +148,40 @@
   ],
   "chunks": [
     {
-      "en": "applications attempts to create",
-      "cn": "创造的申请企图",
-      "type": "名词词组"
-    },
-    {
-      "en": "attempt to fly / walk / follow / damage / improve / convince",
-      "cn": "企图 / 走的企图 / 跟随的企图 / 损坏的企图 / 改进的企图 / 使确信的企图",
-      "type": "名词词组"
+      "en": "be attempting to",
+      "cn": "被企图",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "attempt to spell out life",
       "cn": "用字母拼外面生活的企图",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "people attempt to climb",
       "cn": "爬的人们企图",
-      "type": "名词词组"
-    },
-    {
-      "en": "be attempting to",
-      "cn": "被企图",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "failed attempts to use",
       "cn": "失败企图使用",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "applications attempts to create",
+      "cn": "创造的申请企图",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "attempt to fly / walk / follow / damage / improve / convince",
+      "cn": "企图 / 走的企图 / 跟随的企图 / 损坏的企图 / 改进的企图 / 使确信的企图",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

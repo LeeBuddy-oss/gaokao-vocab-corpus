@@ -188,34 +188,40 @@
   ],
   "chunks": [
     {
-      "en": "breakfast before exercise",
-      "cn": "锻炼的早餐",
-      "type": "名词词组"
-    },
-    {
       "en": "breakfast in bed",
       "cn": "床的早餐",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "breakfast with family",
       "cn": "家庭的早餐",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "english breakfast of bacon",
-      "cn": "咸猪肉的英语早餐",
-      "type": "名词词组"
-    },
-    {
-      "en": "carried / prepare breakfast",
-      "cn": "携带早餐 / 准备早餐",
-      "type": "动词词组"
+      "en": "breakfast before exercise",
+      "cn": "锻炼的早餐",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "skipped breakfast than",
       "cn": "跳过早餐",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "english breakfast of bacon",
+      "cn": "咸猪肉的英语早餐",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "carried / prepare breakfast",
+      "cn": "携带早餐 / 准备早餐",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

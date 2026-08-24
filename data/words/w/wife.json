@@ -183,19 +183,22 @@
   ],
   "chunks": [
     {
-      "en": "bed / loved / biscuits wife",
-      "cn": "床妻子 / 爱妻子 / 饼干妻子",
-      "type": "名词词组"
-    },
-    {
       "en": "wife to rescue",
       "cn": "救援的妻子",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bed / loved / biscuits wife",
+      "cn": "床妻子 / 爱妻子 / 饼干妻子",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "see / fall / walk wife",
       "cn": "看见妻子 / 减少妻子 / 走妻子",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

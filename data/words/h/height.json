@@ -106,19 +106,22 @@
   ],
   "chunks": [
     {
-      "en": "kids height",
-      "cn": "孩子人或物的）身高",
-      "type": "名词词组"
-    },
-    {
       "en": "stand height",
       "cn": "站立人或物的）身高",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "height of object",
       "cn": "物体的人或物的）身高",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "kids height",
+      "cn": "孩子人或物的）身高",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

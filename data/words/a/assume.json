@@ -185,14 +185,16 @@
   ],
   "chunks": [
     {
-      "en": "assume movie / want / dog / urban / storm / space / human / positive",
-      "cn": "假设电影 / 假设想要 / 假设狗 / 假设城市 / 假设暴风雨 / 假设空间 / 假设人类 / 假设积极的",
-      "type": "动词词组"
-    },
-    {
       "en": "be assumed",
       "cn": "被假设",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "assume movie / want / dog / urban / storm / space / human / positive",
+      "cn": "假设电影 / 假设想要 / 假设狗 / 假设城市 / 假设暴风雨 / 假设空间 / 假设人类 / 假设积极的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

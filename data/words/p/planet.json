@@ -151,34 +151,40 @@
   ],
   "chunks": [
     {
-      "en": "cool / minor / harming / distant planet",
-      "cn": "凉爽的行星 / 较小的行星 / 伤害行星 / 遥远的行星",
-      "type": "名词词组"
-    },
-    {
       "en": "planet as",
       "cn": "行星",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "planet from angle",
       "cn": "斜角的行星",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "planet than plastic",
       "cn": "塑料的行星",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "planets like earth",
       "cn": "地球的行星",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "cool / minor / harming / distant planet",
+      "cn": "凉爽的行星 / 较小的行星 / 伤害行星 / 遥远的行星",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "save / share planet",
       "cn": "节省行星 / 分享行星",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -446,54 +446,46 @@
   ],
   "chunks": [
     {
-      "en": "air quality",
-      "cn": "空气质量",
-      "type": "名词词组"
-    },
-    {
-      "en": "personal qualities",
-      "cn": "个人品质",
-      "type": "名词词组"
-    },
-    {
-      "en": "poor quality",
-      "cn": "低质量",
-      "type": "名词词组"
-    },
-    {
-      "en": "judge quality",
-      "cn": "判断质量",
-      "type": "名词词组"
-    },
-    {
-      "en": "say quality of praise",
-      "cn": "说的赞扬质量",
-      "type": "动词词组"
-    },
-    {
       "en": "decide quality of life",
       "cn": "决定生活质量",
-      "type": "名词词组"
-    },
-    {
-      "en": "improve quality of old",
-      "cn": "改善旧的质量",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "monitor quality of grass",
       "cn": "监控草的质量",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "improve quality of drinks",
       "cn": "改善饮料质量",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "improve quality of old",
+      "cn": "改善旧的质量",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "raise quality of electric",
       "cn": "提高电力质量",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "air / personal / poor / judge quality",
+      "cn": "空气质量 / 个人品质 / 低质量 / 判断质量",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "say quality of praise",
+      "cn": "说的赞扬质量",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

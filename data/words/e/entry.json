@@ -113,24 +113,28 @@
   ],
   "chunks": [
     {
-      "en": "mail / diary / journal entry",
-      "cn": "电子邮件参赛作品 / 日记参赛作品 / 日志参赛作品",
-      "type": "名词词组"
-    },
-    {
       "en": "short entries after partner",
       "cn": "搭档的短的参赛作品",
-      "type": "名词词组"
-    },
-    {
-      "en": "over / marking entry",
-      "cn": "参赛作品 / 标记参赛作品",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "refused entry to university",
       "cn": "拒绝参赛作品",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "mail / diary / journal entry",
+      "cn": "电子邮件参赛作品 / 日记参赛作品 / 日志参赛作品",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "over / marking entry",
+      "cn": "参赛作品 / 标记参赛作品",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

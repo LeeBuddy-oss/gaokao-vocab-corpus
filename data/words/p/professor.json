@@ -265,29 +265,34 @@
   ],
   "chunks": [
     {
-      "en": "email / famous / lecture / question / scientist / university professor",
-      "cn": "给教授发邮件 / 著名教授 / 讲座教授 / 问题教授 / 科学家教授 / 大学教授",
-      "type": "名词词组"
-    },
-    {
       "en": "professor of chemical",
       "cn": "化学教授",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "professor to discuss",
       "cn": "讨论的教授",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "professors to get",
       "cn": "得到的教授",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "thinks professor",
       "cn": "思考教授",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "email / famous / lecture / question / scientist / university professor",
+      "cn": "给教授发邮件 / 著名教授 / 讲座教授 / 问题教授 / 科学家教授 / 大学教授",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

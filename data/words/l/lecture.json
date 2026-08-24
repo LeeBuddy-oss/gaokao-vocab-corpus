@@ -174,44 +174,28 @@
   ],
   "chunks": [
     {
-      "en": "class lecture",
-      "cn": "班级",
-      "type": "名词词组"
-    },
-    {
-      "en": "coming lecture",
-      "cn": "来",
-      "type": "动词词组"
-    },
-    {
-      "en": "watch lectures",
-      "cn": "观看",
-      "type": "动词词组"
-    },
-    {
-      "en": "typical lecture",
-      "cn": "典型的",
-      "type": "名词词组"
-    },
-    {
-      "en": "attending lecture",
-      "cn": "出席",
-      "type": "动词词组"
-    },
-    {
-      "en": "traditional lectures",
-      "cn": "传统的",
-      "type": "名词词组"
-    },
-    {
       "en": "lectures on balanced",
       "cn": "均衡的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "give lecture about poet",
       "cn": "给诗人",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "class / typical / traditional lecture",
+      "cn": "班级 / 典型的 / 传统的",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "coming / watch / attending lecture",
+      "cn": "来 / 观看 / 出席",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

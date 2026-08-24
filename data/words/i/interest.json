@@ -789,24 +789,28 @@
   ],
   "chunks": [
     {
-      "en": "interest in cooking / music / making / drawing / kitchen / purchasing / gardening",
-      "cn": "对烹饪感兴趣 / 对音乐感兴趣 / 对制作感兴趣 / 对画画感兴趣 / 对厨房感兴趣 / 购买兴趣 / 对园艺感兴趣",
-      "type": "名词词组"
-    },
-    {
-      "en": "personal / careers interest",
-      "cn": "个人兴趣 / 职业兴趣",
-      "type": "名词词组"
-    },
-    {
       "en": "be interested in",
       "cn": "对…感兴趣",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 12
     },
     {
       "en": "shared interest",
       "cn": "共同兴趣",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "interest in cooking / music / making / drawing / kitchen / purchasing / gardening",
+      "cn": "对烹饪感兴趣 / 对音乐感兴趣 / 对制作感兴趣 / 对画画感兴趣 / 对厨房感兴趣 / 购买兴趣 / 对园艺感兴趣",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "personal / careers interest",
+      "cn": "个人兴趣 / 职业兴趣",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

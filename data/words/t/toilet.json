@@ -57,19 +57,22 @@
   ],
   "chunks": [
     {
-      "en": "line / smart toilet",
-      "cn": "线厕所 / 聪明的厕所",
-      "type": "名词词组"
-    },
-    {
       "en": "toilets at camps",
       "cn": "营地的厕所",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "choose toilet",
       "cn": "选择厕所",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "line / smart toilet",
+      "cn": "线厕所 / 聪明的厕所",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

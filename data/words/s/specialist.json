@@ -139,24 +139,28 @@
   ],
   "chunks": [
     {
-      "en": "lung / transport specialist",
-      "cn": "肺专家 / 交通专家",
-      "type": "名词词组"
-    },
-    {
       "en": "pure specialist in medicine",
       "cn": "医学的纯的专家",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "specialist at police",
       "cn": "警察、军队等的专家",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "lung / transport specialist",
+      "cn": "肺专家 / 交通专家",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "sleep / become specialist",
       "cn": "睡觉专家 / 成为专家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

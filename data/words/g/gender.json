@@ -110,19 +110,22 @@
   ],
   "chunks": [
     {
-      "en": "age / ages / origin gender",
-      "cn": "年龄性别 / 起源性别",
-      "type": "名词词组"
-    },
-    {
       "en": "removing gender from picture",
       "cn": "移除性别图片",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "age / ages / origin gender",
+      "cn": "年龄性别 / 起源性别",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "see / work / found / assign / assigned gender",
       "cn": "看见性别 / 工作性别 / 创建性别 / 分配性别",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

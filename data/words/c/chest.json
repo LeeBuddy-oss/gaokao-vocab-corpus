@@ -114,19 +114,22 @@
   ],
   "chunks": [
     {
-      "en": "water / pressure chest",
-      "cn": "水构成形容词 / 压力构成形容词",
-      "type": "名词词组"
-    },
-    {
       "en": "beats chest",
       "cn": "beating构成形容词",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "prepare chest for knife",
       "cn": "准备构成形容词刀verb",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "water / pressure chest",
+      "cn": "水构成形容词 / 压力构成形容词",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

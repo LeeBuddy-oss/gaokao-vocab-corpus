@@ -1979,54 +1979,22 @@
   ],
   "chunks": [
     {
-      "en": "feel like",
-      "cn": "想要",
-      "type": "介词词组"
-    },
-    {
-      "en": "like crazy",
-      "cn": "像不理智的",
-      "type": "介词词组"
-    },
-    {
-      "en": "looked like",
-      "cn": "看起来",
-      "type": "介词词组"
-    },
-    {
-      "en": "like car",
-      "cn": "像汽车",
-      "type": "介词词组"
-    },
-    {
-      "en": "look like",
-      "cn": "像看起来",
-      "type": "介词词组"
-    },
-    {
-      "en": "seems like",
-      "cn": "似乎",
-      "type": "介词词组"
-    },
-    {
-      "en": "looks like",
-      "cn": "看起来",
-      "type": "介词词组"
-    },
-    {
-      "en": "like little",
-      "cn": "像小的",
-      "type": "介词词组"
-    },
-    {
-      "en": "running like",
-      "cn": "像跑",
-      "type": "介词词组"
-    },
-    {
       "en": "seemed like century",
       "cn": "像似乎世纪",
-      "type": "介词词组"
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "feel / looked / look / seems / looks / running like",
+      "cn": "想要 / 看起来 / 像看起来 / 似乎 / 像跑",
+      "type": "介词短语",
+      "count": 0
+    },
+    {
+      "en": "like crazy / car / little",
+      "cn": "像不理智的 / 像汽车 / 像小的",
+      "type": "介词短语",
+      "count": 0
     }
   ]
 }

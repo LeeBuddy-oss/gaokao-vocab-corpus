@@ -556,29 +556,34 @@
   ],
   "chunks": [
     {
-      "en": "best / day / study / author explain",
-      "cn": "最好的解释 / 天解释 / 学习解释 / 著者解释",
-      "type": "名词词组"
+      "en": "explain in own",
+      "cn": "自己的的解释",
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "explain by mentioning",
       "cn": "提到的解释",
-      "type": "名词词组"
-    },
-    {
-      "en": "explain in own",
-      "cn": "自己的的解释",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "explaining to kids",
       "cn": "孩子的解释",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "best / day / study / author explain",
+      "cn": "最好的解释 / 天解释 / 学习解释 / 著者解释",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "further / be explain",
       "cn": "进一步的解释 / 被解释",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

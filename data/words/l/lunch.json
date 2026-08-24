@@ -199,39 +199,34 @@
   ],
   "chunks": [
     {
-      "en": "becomes lunch",
-      "cn": "成为午餐",
-      "type": "动词词组"
-    },
-    {
-      "en": "change lunch",
-      "cn": "改变午餐",
-      "type": "动词词组"
-    },
-    {
-      "en": "bagged lunch",
-      "cn": "把…装进袋子午餐",
-      "type": "名词词组"
-    },
-    {
-      "en": "countries lunch",
-      "cn": "国家午餐",
-      "type": "名词词组"
+      "en": "eating lunch on high",
+      "cn": "吃午餐高的",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "eats lunch at desk",
       "cn": "吃午餐书桌",
-      "type": "动词词组"
-    },
-    {
-      "en": "eating lunch on high",
-      "cn": "吃午餐高的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "finishing lunch at bar",
       "cn": "完成午餐酒吧",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bagged / countries lunch",
+      "cn": "把…装进袋子午餐 / 国家午餐",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "becomes / change lunch",
+      "cn": "成为午餐 / 改变午餐",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

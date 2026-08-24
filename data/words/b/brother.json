@@ -191,24 +191,28 @@
   ],
   "chunks": [
     {
-      "en": "big / little brother",
-      "cn": "大的兄弟 / 小的兄弟",
-      "type": "名词词组"
-    },
-    {
       "en": "brothers at home",
       "cn": "家的兄弟",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "missed brother",
       "cn": "未击中兄弟",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "pushed brother over line",
       "cn": "推兄弟线",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "big / little brother",
+      "cn": "大的兄弟 / 小的兄弟",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

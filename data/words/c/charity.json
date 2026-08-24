@@ -85,14 +85,16 @@
   ],
   "chunks": [
     {
-      "en": "local / international charity",
-      "cn": "本地慈善机构 / 慈善机构",
-      "type": "名词词组"
-    },
-    {
       "en": "run charities",
       "cn": "跑慈善机构",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "local / international charity",
+      "cn": "本地慈善机构 / 慈善机构",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

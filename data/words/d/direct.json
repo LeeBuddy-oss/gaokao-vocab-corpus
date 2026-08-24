@@ -349,29 +349,34 @@
   ],
   "chunks": [
     {
-      "en": "be directed by / like / onto / off",
-      "cn": "直接的",
-      "type": "动词词组"
-    },
-    {
       "en": "be directed by national",
       "cn": "由国家指导",
-      "type": "形容词词组"
-    },
-    {
-      "en": "direct path / style / high / sound / contact / evidence / conversation",
-      "cn": "直达路径 / 直接的风格 / 指向高 / 引导声音 / 直接接触 / 直接证据 / 引导对话",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 2
     },
     {
       "en": "is directed like ray",
       "cn": "像光线一样直射",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "need direct",
       "cn": "需要直接",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be directed by / like / onto / off",
+      "cn": "直接的",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "direct path / style / high / sound / contact / evidence / conversation",
+      "cn": "直达路径 / 直接的风格 / 指向高 / 引导声音 / 直接接触 / 直接证据 / 引导对话",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

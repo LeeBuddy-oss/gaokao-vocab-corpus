@@ -791,39 +791,46 @@
   ],
   "chunks": [
     {
-      "en": "begin art / well / writers / thought",
-      "cn": "开始艺术 / 开局不错 / 新手作家 / 初步想法",
-      "type": "动词词组"
-    },
-    {
-      "en": "begin to answer",
-      "cn": "开始回答",
-      "type": "动词词组"
-    },
-    {
       "en": "begin to see",
       "cn": "开始看到",
-      "type": "动词词组"
-    },
-    {
-      "en": "begin to think",
-      "cn": "开始思考",
-      "type": "动词词组"
-    },
-    {
-      "en": "beginning of change",
-      "cn": "变革的开始",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "beginning of text",
       "cn": "文本开头",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "begin to answer",
+      "cn": "开始回答",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "begin to think",
+      "cn": "开始思考",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "beginning of change",
+      "cn": "变革的开始",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "beginning of year",
       "cn": "年初",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "begin art / well / writers / thought",
+      "cn": "开始艺术 / 开局不错 / 新手作家 / 初步想法",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

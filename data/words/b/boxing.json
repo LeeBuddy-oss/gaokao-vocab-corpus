@@ -48,14 +48,16 @@
   ],
   "chunks": [
     {
-      "en": "floor / track / tennis boxing",
-      "cn": "地板拳击 / 轨道拳击 / 网球拳击",
-      "type": "名词词组"
-    },
-    {
       "en": "watches boxing",
       "cn": "观看拳击",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "floor / track / tennis boxing",
+      "cn": "地板拳击 / 轨道拳击 / 网球拳击",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

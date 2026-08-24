@@ -122,39 +122,28 @@
   ],
   "chunks": [
     {
-      "en": "tail length",
-      "cn": "尾长",
-      "type": "名词词组"
-    },
-    {
-      "en": "body length",
-      "cn": "身体长",
-      "type": "名词词组"
-    },
-    {
-      "en": "review length",
-      "cn": "复习长",
-      "type": "名词词组"
-    },
-    {
-      "en": "length of loans",
-      "cn": "贷款的长",
-      "type": "名词词组"
-    },
-    {
-      "en": "length of cooling",
-      "cn": "凉爽的长",
-      "type": "名词词组"
-    },
-    {
       "en": "average length of",
       "cn": "平均的长",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "increased length of green",
       "cn": "增加长绿色",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "length of loans / cooling",
+      "cn": "贷款的长 / 凉爽的长",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "tail / body / review length",
+      "cn": "尾长 / 身体长 / 复习长",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

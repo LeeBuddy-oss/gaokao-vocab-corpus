@@ -109,19 +109,22 @@
   ],
   "chunks": [
     {
-      "en": "best / school / national / football basketball",
-      "cn": "最好的篮球 / 学校篮球 / 国家的篮球 / 足球篮球",
-      "type": "名词词组"
-    },
-    {
       "en": "leave basketball in office",
       "cn": "离开篮球办公室",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "best / school / national / football basketball",
+      "cn": "最好的篮球 / 学校篮球 / 国家的篮球 / 足球篮球",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "off / about basketball",
       "cn": "篮球",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -98,14 +98,16 @@
   ],
   "chunks": [
     {
-      "en": "about ancestors",
-      "cn": "祖宗",
-      "type": "动词词组"
-    },
-    {
       "en": "human ancestors",
       "cn": "人类祖宗",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "about ancestors",
+      "cn": "祖宗",
+      "type": "动词短语",
+      "count": 1
     }
   ]
 }

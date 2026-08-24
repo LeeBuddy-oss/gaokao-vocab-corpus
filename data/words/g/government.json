@@ -234,19 +234,22 @@
   ],
   "chunks": [
     {
-      "en": "city / rise government",
-      "cn": "城市政府 / 上升政府",
-      "type": "名词词组"
-    },
-    {
       "en": "asked government to consider",
       "cn": "询问政府考虑",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "city / rise government",
+      "cn": "城市政府 / 上升政府",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "receives government",
       "cn": "拿到政府",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

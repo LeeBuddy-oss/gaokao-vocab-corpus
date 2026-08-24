@@ -1304,19 +1304,22 @@
   ],
   "chunks": [
     {
-      "en": "new / back / way / own / near / care / nursing home",
-      "cn": "新家 / 回家 / 回家的路 / 自己的家 / 离家近 / 养老院",
-      "type": "名词词组"
-    },
-    {
       "en": "be home to",
       "cn": "被家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "new / back / way / own / near / care / nursing home",
+      "cn": "新家 / 回家 / 回家的路 / 自己的家 / 离家近 / 养老院",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "take / hit / leaving home",
       "cn": "带回家 / 触动人心 / 离家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

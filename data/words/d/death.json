@@ -99,34 +99,40 @@
   ],
   "chunks": [
     {
-      "en": "love death",
-      "cn": "爱死",
-      "type": "名词词组"
-    },
-    {
       "en": "mean death",
       "cn": "死",
-      "type": "动词词组"
-    },
-    {
-      "en": "death on sunny",
-      "cn": "阳光充足的死",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "deaths about people",
       "cn": "人们的死",
-      "type": "名词词组"
-    },
-    {
-      "en": "early deaths from cause",
-      "cn": "导致的早的死",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "widespread death of big",
       "cn": "大的分布广的死",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "love death",
+      "cn": "爱死",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "death on sunny",
+      "cn": "阳光充足的死",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "early deaths from cause",
+      "cn": "导致的早的死",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -172,24 +172,28 @@
   ],
   "chunks": [
     {
-      "en": "former / college graduate",
-      "cn": "前者大学毕业生 / 大学大学毕业生",
-      "type": "名词词组"
-    },
-    {
-      "en": "graduate from high / early / school / typical",
-      "cn": "高的大学毕业生 / 早的大学毕业生 / 学校的大学毕业生 / 典型的大学毕业生",
-      "type": "名词词组"
-    },
-    {
       "en": "university graduate in country",
       "cn": "国家的大学毕业生",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "says graduate",
       "cn": "说大学毕业生",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "former / college graduate",
+      "cn": "前者大学毕业生 / 大学大学毕业生",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "graduate from high / early / school / typical",
+      "cn": "高的大学毕业生 / 早的大学毕业生 / 学校的大学毕业生 / 典型的大学毕业生",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

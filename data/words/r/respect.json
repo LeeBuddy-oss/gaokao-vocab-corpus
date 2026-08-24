@@ -151,29 +151,34 @@
   ],
   "chunks": [
     {
-      "en": "respect by others / humans",
-      "cn": "尊重 / 人类的尊重",
-      "type": "名词词组"
-    },
-    {
       "en": "be respected by",
       "cn": "被尊重",
-      "type": "动词词组"
-    },
-    {
-      "en": "build / become respect",
-      "cn": "建造尊重 / 成为尊重",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "earn respect from others",
       "cn": "挣得尊重另外",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "show respect to animals",
       "cn": "展示尊重动物",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "respect by others / humans",
+      "cn": "尊重 / 人类的尊重",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "build / become respect",
+      "cn": "建造尊重 / 成为尊重",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

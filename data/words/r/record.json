@@ -358,54 +358,40 @@
   ],
   "chunks": [
     {
-      "en": "set record",
-      "cn": "创纪录",
-      "type": "动词词组"
-    },
-    {
-      "en": "says record",
-      "cn": "说记录",
-      "type": "动词词组"
-    },
-    {
-      "en": "track record",
-      "cn": " track 记录",
-      "type": "名词词组"
-    },
-    {
-      "en": "check records",
-      "cn": "检查记录",
-      "type": "动词词组"
-    },
-    {
-      "en": "record to refer",
-      "cn": "供参考的记录",
-      "type": "名词词组"
-    },
-    {
-      "en": "display records",
-      "cn": "展示记录",
-      "type": "动词词组"
-    },
-    {
-      "en": "students record",
-      "cn": "学生记录",
-      "type": "名词词组"
-    },
-    {
-      "en": "records of plants",
-      "cn": "植物的记录",
-      "type": "名词词组"
-    },
-    {
       "en": "record of historic",
       "cn": "历史记录",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "record of terrible",
       "cn": "糟糕的记录",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "record to refer",
+      "cn": "供参考的记录",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "records of plants",
+      "cn": "植物的记录",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "track / students record",
+      "cn": " track 记录 / 学生记录",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "set / says / check / display record",
+      "cn": "创纪录 / 说记录 / 检查记录 / 展示记录",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -62,19 +62,22 @@
   ],
   "chunks": [
     {
-      "en": "become physicians",
-      "cn": "成为医师",
-      "type": "动词词组"
-    },
-    {
       "en": "resident physician",
       "cn": "居民医师",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "become physicians",
+      "cn": "成为医师",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "best physician of time",
       "cn": "时间的最好的医师",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     }
   ]
 }

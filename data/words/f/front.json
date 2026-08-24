@@ -361,19 +361,22 @@
   ],
   "chunks": [
     {
-      "en": "front of list / class / house / others / camera / screens / visitor",
-      "cn": "列表前面 / 班级前面 / 房子前面 / 别人面前 / 镜头前 / 屏幕前 / 访客前",
-      "type": "名词词组"
-    },
-    {
       "en": "lower front",
       "cn": "较低的前面",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "front of list / class / house / others / camera / screens / visitor",
+      "cn": "列表前面 / 班级前面 / 房子前面 / 别人面前 / 镜头前 / 屏幕前 / 访客前",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "use / share front",
       "cn": "使用前面 / 分享前面",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

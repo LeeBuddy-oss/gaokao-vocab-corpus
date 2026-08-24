@@ -358,24 +358,28 @@
   ],
   "chunks": [
     {
-      "en": "job / busy / warm / early summer",
-      "cn": "暑期工作 / 忙碌的夏天 / 温暖的夏天 / 初夏",
-      "type": "名词词组"
-    },
-    {
       "en": "summer as",
       "cn": "夏天",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "summer with head",
       "cn": "头部的夏天",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "job / busy / warm / early summer",
+      "cn": "暑期工作 / 忙碌的夏天 / 温暖的夏天 / 初夏",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "go / find / offer / cooking summer",
       "cn": "去夏天 / 找到夏天 / 提供夏天 / 烹饪夏天",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -152,34 +152,40 @@
   ],
   "chunks": [
     {
-      "en": "be regarded as / with",
-      "cn": "被视为 / 被认为",
-      "type": "动词词组"
-    },
-    {
       "en": "regard as relevant",
       "cn": "认为紧密相关的",
-      "type": "动词词组"
-    },
-    {
-      "en": "regard safe / food / mother / energy",
-      "cn": "认为安全的 / 认为食物 / 认为母亲 / 认为能量",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "regarded as author",
       "cn": "认为著者",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "regarded as hobby",
       "cn": "认为爱好",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "regarded with respect",
       "cn": "认为尊重",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be regarded as / with",
+      "cn": "被视为 / 被认为",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "regard safe / food / mother / energy",
+      "cn": "认为安全的 / 认为食物 / 认为母亲 / 认为能量",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

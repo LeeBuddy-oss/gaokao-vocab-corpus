@@ -152,24 +152,28 @@
   ],
   "chunks": [
     {
-      "en": "data / insurance / valuable / development firm",
-      "cn": "数据公司 / 保险公司 / 很有用的公司 / 发展公司",
-      "type": "名词词组"
-    },
-    {
       "en": "firm in desire to look",
       "cn": "愿望向看的公司",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be firm in",
       "cn": "被公司",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "data / insurance / valuable / development firm",
+      "cn": "数据公司 / 保险公司 / 很有用的公司 / 发展公司",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "give / join firm",
       "cn": "给公司 / 加入公司",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

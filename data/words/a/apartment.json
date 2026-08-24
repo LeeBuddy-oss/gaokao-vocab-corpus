@@ -147,24 +147,28 @@
   ],
   "chunks": [
     {
-      "en": "new / own / destroy apartment",
-      "cn": "新的通常指在同一楼层 / 自己的通常指在同一楼层 / 摧毁通常指在同一楼层",
-      "type": "名词词组"
-    },
-    {
       "en": "rented apartment as soon as",
       "cn": "很快像的租金通常指在同一楼层",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "small apartment with shared",
       "cn": "分享的小的通常指在同一楼层",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "share apartment",
       "cn": "分享通常指在同一楼层",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "new / own / destroy apartment",
+      "cn": "新的通常指在同一楼层 / 自己的通常指在同一楼层 / 摧毁通常指在同一楼层",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

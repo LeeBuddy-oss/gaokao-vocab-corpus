@@ -277,34 +277,40 @@
   ],
   "chunks": [
     {
-      "en": "good / family / ready meal",
-      "cn": "好的一餐 / 家庭餐 / 即食餐",
-      "type": "名词词组"
-    },
-    {
       "en": "meal on way to work",
       "cn": "上班路上的饭",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "meal with friends",
       "cn": "和朋友的餐",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "meals down road",
       "cn": "路上的饭菜",
-      "type": "名词词组"
-    },
-    {
-      "en": "eat / cook / having meal",
-      "cn": "吃饭 / 做饭",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "make meals from fresh",
       "cn": "用新鲜的做饭",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "good / family / ready meal",
+      "cn": "好的一餐 / 家庭餐 / 即食餐",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "eat / cook / having meal",
+      "cn": "吃饭 / 做饭",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

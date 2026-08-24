@@ -155,19 +155,22 @@
   ],
   "chunks": [
     {
-      "en": "high / blood / objects / products / calories sugar",
-      "cn": "高的糖 / 血糖 / 物体糖 / 产品糖 / 大卡糖",
-      "type": "名词词组"
-    },
-    {
       "en": "sugar in soft",
       "cn": "软的糖",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "accepted sugar",
       "cn": "接受糖",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "high / blood / objects / products / calories sugar",
+      "cn": "高的糖 / 血糖 / 物体糖 / 产品糖 / 大卡糖",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

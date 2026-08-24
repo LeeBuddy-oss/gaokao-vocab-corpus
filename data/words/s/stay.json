@@ -514,34 +514,40 @@
   ],
   "chunks": [
     {
-      "en": "stay calm / week / hour / long / warm",
-      "cn": "停留平静的时期 / 停留周 / 停留小时 / 停留长的 / 停留温暖的",
-      "type": "动词词组"
-    },
-    {
-      "en": "stay for week",
-      "cn": "停留周",
-      "type": "动词词组"
-    },
-    {
       "en": "stay in touch",
       "cn": "停留触摸",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "stay with kid",
       "cn": "停留孩子",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "stayed up late",
       "cn": "停留接近末期的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "stay for week",
+      "cn": "停留周",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "stays in homes",
       "cn": "停留家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "stay calm / week / hour / long / warm",
+      "cn": "停留平静的时期 / 停留周 / 停留小时 / 停留长的 / 停留温暖的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

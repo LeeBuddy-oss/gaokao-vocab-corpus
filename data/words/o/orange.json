@@ -84,14 +84,16 @@
   ],
   "chunks": [
     {
-      "en": "want orange",
-      "cn": "想要橙汁",
-      "type": "动词词组"
-    },
-    {
       "en": "buying oranges at local",
       "cn": "买橙汁本地的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "want orange",
+      "cn": "想要橙汁",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

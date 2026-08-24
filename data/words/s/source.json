@@ -114,19 +114,22 @@
   ],
   "chunks": [
     {
-      "en": "original / pollution / information source",
-      "cn": "原来的来源 / 污染来源 / 信息来源",
-      "type": "名词词组"
-    },
-    {
       "en": "sources of food for around",
       "cn": "食物表示对象、用途等周围的来源",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "original / pollution / information source",
+      "cn": "原来的来源 / 污染来源 / 信息来源",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "reading source of knowledge",
       "cn": "阅读来源知识",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

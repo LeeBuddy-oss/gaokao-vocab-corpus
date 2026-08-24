@@ -813,54 +813,22 @@
   ],
   "chunks": [
     {
-      "en": "digital texts",
-      "cn": "数字文本",
-      "type": "名词词组"
-    },
-    {
-      "en": "writing text",
-      "cn": "写文本",
-      "type": "动词词组"
-    },
-    {
-      "en": "understand text",
-      "cn": "理解文本",
-      "type": "名词词组"
-    },
-    {
       "en": "humourous text of love",
       "cn": "关于爱的幽默文本",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "get text",
-      "cn": "得到文本",
-      "type": "动词词组"
+      "en": "digital / understand text",
+      "cn": "数字文本 / 理解文本",
+      "type": "名词短语",
+      "count": 0
     },
     {
-      "en": "print texts",
-      "cn": "打印文本",
-      "type": "动词词组"
-    },
-    {
-      "en": "update texts",
-      "cn": "更新文本",
-      "type": "动词词组"
-    },
-    {
-      "en": "reading texts",
-      "cn": "阅读文本",
-      "type": "动词词组"
-    },
-    {
-      "en": "scanning text",
-      "cn": "扫描文本",
-      "type": "动词词组"
-    },
-    {
-      "en": "together texts",
-      "cn": "一起的文本",
-      "type": "动词词组"
+      "en": "writing / get / print / update / reading / scanning / together text",
+      "cn": "写文本 / 得到文本 / 打印文本 / 更新文本 / 阅读文本 / 扫描文本 / 一起的文本",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

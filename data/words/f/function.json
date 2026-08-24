@@ -191,37 +191,44 @@
     {
       "en": "function in sentence",
       "cn": "句子的功能",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "function like road",
       "cn": "路的功能",
-      "type": "名词词组"
-    },
-    {
-      "en": "function of falling",
-      "cn": "减少的功能",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "function of student",
       "cn": "学生的功能",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "function with own",
       "cn": "自己的功能",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "function of falling",
+      "cn": "减少的功能",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "major / diverse / unusual function",
       "cn": "主要的功能 / 多样的功能 / 不寻常的功能",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "serve / stop function",
       "cn": "功能 / 停止功能",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

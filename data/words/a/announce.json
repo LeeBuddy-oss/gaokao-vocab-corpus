@@ -86,29 +86,34 @@
   ],
   "chunks": [
     {
-      "en": "announce beginning / emergency",
-      "cn": "宣布开始 / 宣布突发事件",
-      "type": "动词词组"
-    },
-    {
       "en": "announced by chinese",
       "cn": "宣布中文",
-      "type": "动词词组"
-    },
-    {
-      "en": "announced in chinese",
-      "cn": "宣布中文",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "announced on website",
       "cn": "宣布网站",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "announce beginning / emergency",
+      "cn": "宣布开始 / 宣布突发事件",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "announced in chinese",
+      "cn": "宣布中文",
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "be announced on / by / in",
       "cn": "在…上宣布 / 由…宣布 / 在…中宣布",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

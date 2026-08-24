@@ -270,24 +270,28 @@
   ],
   "chunks": [
     {
-      "en": "busy / train / own / weekly / trips schedule",
-      "cn": "繁忙的日程 / 火车时刻表 / 自己的日程 / 每周日程 / 旅行安排",
-      "type": "名词词组"
-    },
-    {
       "en": "class schedule during",
       "cn": "班级时间表",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be scheduled to",
       "cn": "被时间表",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "busy / train / own / weekly / trips schedule",
+      "cn": "繁忙的日程 / 火车时刻表 / 自己的日程 / 每周日程 / 旅行安排",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "discuss / get / meet / work schedule",
       "cn": "讨论日程 / 得到日程 / 满足时间表 / 工作日程",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

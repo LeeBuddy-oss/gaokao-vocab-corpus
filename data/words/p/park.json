@@ -544,19 +544,22 @@
   ],
   "chunks": [
     {
-      "en": "car / local / state / new / broad / pocket / canals / national park",
-      "cn": "汽车公园 / 本地的公园 / 状态公园 / 新的公园 / 涉及各种各样的人公园 / 衣袋公园 / 运河公园 / 国家的公园",
-      "type": "名词词组"
-    },
-    {
       "en": "pocket park near where",
       "cn": "在哪里的衣袋公园",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "why park",
       "cn": "用于问句）为什么公园",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "car / local / state / new / broad / pocket / canals / national park",
+      "cn": "汽车公园 / 本地的公园 / 状态公园 / 新的公园 / 涉及各种各样的人公园 / 衣袋公园 / 运河公园 / 国家的公园",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

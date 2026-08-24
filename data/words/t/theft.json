@@ -71,34 +71,22 @@
   ],
   "chunks": [
     {
-      "en": "car thefts",
-      "cn": "汽车偷",
-      "type": "名词词组"
-    },
-    {
-      "en": "cattle theft",
-      "cn": "牛偷",
-      "type": "名词词组"
-    },
-    {
-      "en": "theft of card",
-      "cn": "卡片的偷",
-      "type": "名词词组"
-    },
-    {
-      "en": "theft of bikes",
-      "cn": "自行车的偷",
-      "type": "名词词组"
-    },
-    {
-      "en": "identity theft",
-      "cn": "身份偷",
-      "type": "名词词组"
-    },
-    {
       "en": "discovered theft of mountain",
       "cn": "发现偷山",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "car / cattle / identity theft",
+      "cn": "汽车偷 / 牛偷 / 身份偷",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "theft of card / bikes",
+      "cn": "卡片的偷 / 自行车的偷",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -174,24 +174,28 @@
   ],
   "chunks": [
     {
-      "en": "chinese / significant / magnificent horse",
-      "cn": "中文马 / 有重大意义的马 / 壮丽的马",
-      "type": "名词词组"
-    },
-    {
       "en": "horse as subject",
       "cn": "学科的马",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "horses to today",
       "cn": "今天的马",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "chinese / significant / magnificent horse",
+      "cn": "中文马 / 有重大意义的马 / 壮丽的马",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "take / ride / reports / riding / represented horse",
       "cn": "拿马 / 骑马 / 报告马 / 代表马",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

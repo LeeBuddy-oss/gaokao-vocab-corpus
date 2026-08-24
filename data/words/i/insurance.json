@@ -79,14 +79,16 @@
   ],
   "chunks": [
     {
-      "en": "big / medical insurance",
-      "cn": "大的保险 / 医学的保险",
-      "type": "名词词组"
-    },
-    {
       "en": "letting insurance",
       "cn": "让保险",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "big / medical insurance",
+      "cn": "大的保险 / 医学的保险",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -356,34 +356,40 @@
   ],
   "chunks": [
     {
-      "en": "chemical / nice / open / casual / others conversation",
-      "cn": "化学对话 / 愉快的交谈 / 开始交谈 / 随意的交谈 / 他人的交谈",
-      "type": "名词词组"
-    },
-    {
       "en": "conversations with humans",
       "cn": "与人类的交谈",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "directs conversation to fun",
       "cn": "将谈话引向乐趣",
-      "type": "名词词组"
-    },
-    {
-      "en": "word conversation in paragraph",
-      "cn": "段落中的词语交谈",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "start conversation",
       "cn": "开始交谈",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "turn conversation into topic",
       "cn": "把谈话变成话题",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "chemical / nice / open / casual / others conversation",
+      "cn": "化学对话 / 愉快的交谈 / 开始交谈 / 随意的交谈 / 他人的交谈",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "word conversation in paragraph",
+      "cn": "段落中的词语交谈",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

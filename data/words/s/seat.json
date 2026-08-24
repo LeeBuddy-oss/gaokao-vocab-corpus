@@ -207,34 +207,40 @@
   ],
   "chunks": [
     {
-      "en": "bus / front / passenger / entrances seat",
-      "cn": "公交车座位 / 前面座位 / 乘客座位 / 大门座位",
-      "type": "名词词组"
-    },
-    {
-      "en": "father seated at table",
-      "cn": "桌子的父亲座位",
-      "type": "名词词组"
-    },
-    {
       "en": "seat in community",
       "cn": "社区的座位",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "seat of bike",
       "cn": "自行车的座位",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bus / front / passenger / entrances seat",
+      "cn": "公交车座位 / 前面座位 / 乘客座位 / 大门座位",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "father seated at table",
+      "cn": "桌子的父亲座位",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "realised / removing seat",
       "cn": "意识到座位 / 移除座位",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "reserves seats for seniors",
       "cn": "预订座位",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

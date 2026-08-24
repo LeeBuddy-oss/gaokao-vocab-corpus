@@ -99,24 +99,28 @@
   ],
   "chunks": [
     {
-      "en": "snow / people suspect",
-      "cn": "雪怀疑 / 人们怀疑",
-      "type": "名词词组"
-    },
-    {
       "en": "suspected of drug",
       "cn": "药的怀疑",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "identify suspect",
       "cn": "识别怀疑",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "keeps suspect from hurting",
       "cn": "保持怀疑伤害",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "snow / people suspect",
+      "cn": "雪怀疑 / 人们怀疑",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

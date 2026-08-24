@@ -296,24 +296,28 @@
   ],
   "chunks": [
     {
+      "en": "be experts in",
+      "cn": "被专家",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
       "en": "expert in home / field / fields",
       "cn": "家庭专家 / 领域专家 / 各领域的专家",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "industry / health / nutrition expert",
       "cn": "行业专家 / 健康专家 / 营养专家",
-      "type": "名词词组"
-    },
-    {
-      "en": "be experts in",
-      "cn": "被专家",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "become / quoting / getting / becoming expert",
       "cn": "成为专家 / 引用专家 / 获得专家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

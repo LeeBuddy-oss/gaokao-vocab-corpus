@@ -54,24 +54,22 @@
   ],
   "chunks": [
     {
-      "en": "get purse",
-      "cn": "得到钱包",
-      "type": "动词词组"
-    },
-    {
-      "en": "find purse",
-      "cn": "找到钱包",
-      "type": "动词词组"
-    },
-    {
       "en": "public purse",
       "cn": "公共的钱包",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "purse of woman",
       "cn": "钱包",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "get / find purse",
+      "cn": "得到钱包 / 找到钱包",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

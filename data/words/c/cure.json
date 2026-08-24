@@ -129,19 +129,22 @@
   ],
   "chunks": [
     {
-      "en": "cure mental / diseased",
-      "cn": "治愈精神的 / 治愈疾病",
-      "type": "动词词组"
-    },
-    {
       "en": "cure of anxiety",
       "cn": "治愈焦虑",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "cures for serious",
       "cn": "治愈严肃的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "cure mental / diseased",
+      "cn": "治愈精神的 / 治愈疾病",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

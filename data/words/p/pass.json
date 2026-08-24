@@ -548,29 +548,34 @@
   ],
   "chunks": [
     {
-      "en": "be passed down / out",
-      "cn": "被不知道",
-      "type": "动词词组"
-    },
-    {
       "en": "pass by without",
       "cn": "不经意经过",
-      "type": "动词词组"
-    },
-    {
-      "en": "pass waiting / test / time / ball / issue / years / sessions",
-      "cn": "通过等待 / 通过测试 / 度过时间 / 传球 / 通过问题 / 流逝的岁月 / 通过会议",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "passing out dinners",
       "cn": "分发晚餐",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "passing through hole",
       "cn": "穿过洞",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be passed down / out",
+      "cn": "被不知道",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "pass waiting / test / time / ball / issue / years / sessions",
+      "cn": "通过等待 / 通过测试 / 度过时间 / 传球 / 通过问题 / 流逝的岁月 / 通过会议",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -125,14 +125,16 @@
   ],
   "chunks": [
     {
-      "en": "daily / new / family / animals / exercise routine",
-      "cn": "日常作息 / 新的常规的 / 家庭常规的 / 动物常规的 / 锻炼常规的",
-      "type": "名词词组"
-    },
-    {
       "en": "interrupt routine of resting",
       "cn": "使暂停常规的休息",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "daily / new / family / animals / exercise routine",
+      "cn": "日常作息 / 新的常规的 / 家庭常规的 / 动物常规的 / 锻炼常规的",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

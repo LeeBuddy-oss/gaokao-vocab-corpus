@@ -87,34 +87,40 @@
   ],
   "chunks": [
     {
-      "en": "convey basic / meaning",
-      "cn": "表达基本的 / 表达意思",
-      "type": "动词词组"
-    },
-    {
       "en": "convey in paragraph",
       "cn": "表达段",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "convey in text",
       "cn": "表达文本",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "conveyed in passages",
       "cn": "表达章节",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "conveyed in quotes",
       "cn": "表达这篇文章满篇皆是",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "conveying to wide",
       "cn": "表达宽的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "convey basic / meaning",
+      "cn": "表达基本的 / 表达意思",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

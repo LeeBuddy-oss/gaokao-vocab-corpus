@@ -132,44 +132,34 @@
   ],
   "chunks": [
     {
-      "en": "lock door",
-      "cn": "用锁）锁上门",
-      "type": "动词词组"
-    },
-    {
-      "en": "locked doors",
-      "cn": "用锁）锁上门",
-      "type": "动词词组"
-    },
-    {
-      "en": "lock windows",
-      "cn": "用锁）锁上窗户",
-      "type": "动词词组"
-    },
-    {
-      "en": "lock with key",
-      "cn": "用锁）锁上关键的",
-      "type": "动词词组"
-    },
-    {
-      "en": "locked outside",
-      "cn": "用锁）锁上外面",
-      "type": "动词词组"
-    },
-    {
-      "en": "locked up in plants",
-      "cn": "用锁）锁上在某一点植物",
-      "type": "动词词组"
+      "en": "be locked",
+      "cn": "用锁）锁上",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "be locked up",
       "cn": "用锁）锁上",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
-      "en": "be locked",
-      "cn": "用锁）锁上",
-      "type": "动词词组"
+      "en": "lock with key",
+      "cn": "用锁）锁上关键的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "locked up in plants",
+      "cn": "用锁）锁上在某一点植物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lock door / doors / windows / outside",
+      "cn": "用锁）锁上门 / 用锁）锁上窗户 / 用锁）锁上外面",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

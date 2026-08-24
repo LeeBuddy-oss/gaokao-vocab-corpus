@@ -264,34 +264,40 @@
   ],
   "chunks": [
     {
-      "en": "average / steps / magazine speed",
-      "cn": "平均的速度 / 步骤速度 / 杂志速度",
-      "type": "名词词组"
-    },
-    {
-      "en": "speed of / past",
-      "cn": "速度",
-      "type": "名词词组"
-    },
-    {
       "en": "speed of around",
       "cn": "速度",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be speeding past",
       "cn": "被速度",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "calculate speed as",
       "cn": "计算速度",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "average / steps / magazine speed",
+      "cn": "平均的速度 / 步骤速度 / 杂志速度",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "speed of / past",
+      "cn": "速度",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "enjoy / reduce / reading speed",
       "cn": "享受速度 / 减少速度 / 阅读速度",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

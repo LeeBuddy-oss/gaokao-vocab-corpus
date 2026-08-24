@@ -147,29 +147,34 @@
   ],
   "chunks": [
     {
-      "en": "big / people separate",
-      "cn": "大的分开 / 人们分开",
-      "type": "名词词组"
-    },
-    {
       "en": "separated in time by nearly",
       "cn": "时间靠近几乎的分开",
-      "type": "名词词组"
-    },
-    {
-      "en": "separating separated from friends",
-      "cn": "朋友的分开分开",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be separated in",
       "cn": "被分开",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "big / people separate",
+      "cn": "大的分开 / 人们分开",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "separating separated from friends",
+      "cn": "朋友的分开分开",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "create / up / containing separate",
       "cn": "创造分开 / 分开 / 包含分开",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

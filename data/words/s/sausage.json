@@ -64,19 +64,22 @@
   ],
   "chunks": [
     {
-      "en": "beans / pudding sausage",
-      "cn": "豆香肠 / 热布丁糕香肠",
-      "type": "名词词组"
-    },
-    {
       "en": "sausage for dinner",
       "cn": "晚餐的香肠",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "pulled sausage beyond dog",
       "cn": "拉香肠狗",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "beans / pudding sausage",
+      "cn": "豆香肠 / 热布丁糕香肠",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

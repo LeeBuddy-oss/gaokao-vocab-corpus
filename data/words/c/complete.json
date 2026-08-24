@@ -483,24 +483,28 @@
   ],
   "chunks": [
     {
-      "en": "be complete without",
-      "cn": "被完成",
-      "type": "动词词组"
+      "en": "was complete",
+      "cn": "是完整的",
+      "type": "形容词搭配",
+      "count": 6
     },
     {
       "en": "be completed",
       "cn": "被完成",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "be complete without",
+      "cn": "被完成",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "complete hours / menu / city / tests / highway / volumes / sentence / stranger / volunteer",
       "cn": "完整的小时 / 完整菜单 / 整个城市 / 完成的测试 / 完整的公路 / 完整的卷 / 完整句子 / 完全陌生的人 / 完成的志愿者",
-      "type": "形容词词组"
-    },
-    {
-      "en": "was complete",
-      "cn": "是完整的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

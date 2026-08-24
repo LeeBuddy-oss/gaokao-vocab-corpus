@@ -129,29 +129,34 @@
   ],
   "chunks": [
     {
-      "en": "be wise to",
-      "cn": "明智的",
-      "type": "动词词组"
-    },
-    {
-      "en": "be wise to take / stop / skip",
-      "cn": "拿的明智的 / 停止的明智的 / 跳过的明智的",
-      "type": "形容词词组"
-    },
-    {
       "en": "is wise",
       "cn": "明智的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 4
     },
     {
-      "en": "make / making wise decisions",
-      "cn": "做明智的决定",
-      "type": "形容词词组"
+      "en": "be wise to",
+      "cn": "明智的",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "wise man",
       "cn": "明智的男人",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 2
+    },
+    {
+      "en": "be wise to take / stop / skip",
+      "cn": "拿的明智的 / 停止的明智的 / 跳过的明智的",
+      "type": "形容词搭配",
+      "count": 0
+    },
+    {
+      "en": "make / making wise decisions",
+      "cn": "做明智的决定",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

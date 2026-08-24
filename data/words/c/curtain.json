@@ -116,19 +116,22 @@
   ],
   "chunks": [
     {
-      "en": "bed / long / back curtain",
-      "cn": "床窗帘 / 长的窗帘 / 回原处窗帘",
-      "type": "名词词组"
-    },
-    {
       "en": "curtain to pass",
       "cn": "不知道的窗帘",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "shutting curtains to save",
       "cn": "关闭窗帘节省",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bed / long / back curtain",
+      "cn": "床窗帘 / 长的窗帘 / 回原处窗帘",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

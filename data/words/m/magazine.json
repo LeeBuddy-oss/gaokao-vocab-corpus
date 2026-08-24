@@ -279,44 +279,28 @@
   ],
   "chunks": [
     {
-      "en": "art magazine",
-      "cn": "艺术杂志",
-      "type": "名词词组"
-    },
-    {
-      "en": "old magazines",
-      "cn": "旧杂志",
-      "type": "名词词组"
-    },
-    {
-      "en": "car magazines",
-      "cn": "汽车杂志",
-      "type": "名词词组"
-    },
-    {
       "en": "read magazines",
       "cn": "读杂志",
-      "type": "动词词组"
-    },
-    {
-      "en": "popular magazines",
-      "cn": "流行杂志",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "magazine with gift",
       "cn": "带礼物的杂志",
-      "type": "名词词组"
-    },
-    {
-      "en": "interesting magazine",
-      "cn": "有趣的杂志",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "reading magazines as family",
       "cn": "家庭一起读杂志",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "art / old / car / popular / interesting magazine",
+      "cn": "艺术杂志 / 旧杂志 / 汽车杂志 / 流行杂志 / 有趣的杂志",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

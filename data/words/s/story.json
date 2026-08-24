@@ -954,19 +954,22 @@
   ],
   "chunks": [
     {
-      "en": "short / love / life / personal / horror story",
-      "cn": "短篇小说 / 爱情故事 / 人生故事 / 个人故事 / 恐怖故事",
-      "type": "名词词组"
-    },
-    {
       "en": "story to class",
       "cn": "给全班讲的故事",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "short / love / life / personal / horror story",
+      "cn": "短篇小说 / 爱情故事 / 人生故事 / 个人故事 / 恐怖故事",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "tell / hearing story",
       "cn": "讲故事 / 听故事",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

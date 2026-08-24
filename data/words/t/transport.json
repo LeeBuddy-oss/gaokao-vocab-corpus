@@ -226,24 +226,28 @@
   ],
   "chunks": [
     {
-      "en": "food / tour / pet / global / chinese / account / convenient transport",
-      "cn": "食物交通 / 旅行交通 / 宠物交通 / 全球的交通 / 中文交通 / 账户交通 / 实用的交通",
-      "type": "名词词组"
-    },
-    {
       "en": "transport in china",
       "cn": "瓷制品的交通",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "transported to park",
       "cn": "公园的交通",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "food / tour / pet / global / chinese / account / convenient transport",
+      "cn": "食物交通 / 旅行交通 / 宠物交通 / 全球的交通 / 中文交通 / 账户交通 / 实用的交通",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "help / be transport",
       "cn": "帮助交通 / 被交通",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

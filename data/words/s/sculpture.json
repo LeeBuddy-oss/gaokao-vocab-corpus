@@ -125,14 +125,16 @@
   ],
   "chunks": [
     {
-      "en": "huge / large / animal / massive / frosted / chocolate sculpture",
-      "cn": "巨大的雕塑 / 大的雕塑 / 动物雕塑 / 霜雕塑 / 巧克力雕塑",
-      "type": "名词词组"
-    },
-    {
       "en": "inspiring sculptures",
       "cn": "激励雕塑",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "huge / large / animal / massive / frosted / chocolate sculpture",
+      "cn": "巨大的雕塑 / 大的雕塑 / 动物雕塑 / 霜雕塑 / 巧克力雕塑",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

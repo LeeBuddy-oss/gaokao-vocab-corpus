@@ -332,39 +332,46 @@
   ],
   "chunks": [
     {
-      "en": "abilities to human",
-      "cn": "人类的能力",
-      "type": "名词词组"
-    },
-    {
       "en": "ability in whatever",
       "cn": "任何方面的能力",
-      "type": "名词词组"
-    },
-    {
-      "en": "ability to judge",
-      "cn": "判断的能力",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "ability to see",
       "cn": "看见的能力",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "abilities to human",
+      "cn": "人类的能力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "ability to judge",
+      "cn": "判断的能力",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "ability to wait",
       "cn": "等待的能力",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "thinking / mental / academic ability",
       "cn": "思维能力 / 心智能力 / 学业能力",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "reading / evolving ability",
       "cn": "阅读能力 / 进化的能力",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

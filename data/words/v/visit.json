@@ -467,19 +467,22 @@
   ],
   "chunks": [
     {
-      "en": "visit day / place / friend / poor / shop / local / parents / different",
-      "cn": "访问的那天 / 参观地方 / 拜访朋友 / 拜访贫困的 / 逛商店 / 参观当地 / 看望父母 / 参观不同的",
-      "type": "动词词组"
-    },
-    {
       "en": "visit on weekdays",
       "cn": "工作日参观",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "visit to hall",
       "cn": "参观大厅",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "visit day / place / friend / poor / shop / local / parents / different",
+      "cn": "访问的那天 / 参观地方 / 拜访朋友 / 拜访贫困的 / 逛商店 / 参观当地 / 看望父母 / 参观不同的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -181,19 +181,22 @@
   ],
   "chunks": [
     {
-      "en": "tv / movie / video / own / digital camera",
-      "cn": "电视相机 / 电影相机 / 视频相机 / 自己的相机 / 数字信息系统的相机",
-      "type": "名词词组"
-    },
-    {
       "en": "holding camera to eye",
       "cn": "握住相机眼睛",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "tv / movie / video / own / digital camera",
+      "cn": "电视相机 / 电影相机 / 视频相机 / 自己的相机 / 数字信息系统的相机",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "use / bring camera",
       "cn": "使用相机 / 带来相机",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

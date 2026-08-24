@@ -374,24 +374,28 @@
   ],
   "chunks": [
     {
-      "en": "add new / couple / meaning / error / visual / bonus / special / talented",
-      "cn": "添加新的 / 添加几个 / 添加意义 / 添加错误 / 添加视觉 / 额外好处 / 添加特殊 / 添加有才华的",
-      "type": "动词词组"
-    },
-    {
-      "en": "add to meaning",
-      "cn": "增加意义",
-      "type": "动词词组"
+      "en": "be added to",
+      "cn": "被添加到",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "added in milk",
       "cn": "加进牛奶",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "be added to",
-      "cn": "被添加到",
-      "type": "动词词组"
+      "en": "add to meaning",
+      "cn": "增加意义",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "add new / couple / meaning / error / visual / bonus / special / talented",
+      "cn": "添加新的 / 添加几个 / 添加意义 / 添加错误 / 添加视觉 / 额外好处 / 添加特殊 / 添加有才华的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

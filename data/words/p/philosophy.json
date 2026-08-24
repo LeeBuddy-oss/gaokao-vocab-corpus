@@ -156,19 +156,22 @@
   ],
   "chunks": [
     {
-      "en": "chinese / new / clouds / eastern / confucius / experience philosophy",
-      "cn": "中文哲学 / 新的哲学 / 云哲学 / 东方的哲学 / 孔子哲学 / 经验哲学",
-      "type": "名词词组"
-    },
-    {
       "en": "philosophy for author",
       "cn": "著者的哲学",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "chinese / new / clouds / eastern / confucius / experience philosophy",
+      "cn": "中文哲学 / 新的哲学 / 云哲学 / 东方的哲学 / 孔子哲学 / 经验哲学",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "adopt / adopting / including philosophy",
       "cn": "采用哲学 / 包含哲学",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

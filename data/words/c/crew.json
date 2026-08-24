@@ -98,14 +98,16 @@
   ],
   "chunks": [
     {
-      "en": "human / waves / road crew",
-      "cn": "人类轮船、飞机等上面 / 海浪轮船、飞机等上面 / 路轮船、飞机等上面",
-      "type": "名词词组"
-    },
-    {
       "en": "raise crew",
       "cn": "举起轮船、飞机等上面",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "human / waves / road crew",
+      "cn": "人类轮船、飞机等上面 / 海浪轮船、飞机等上面 / 路轮船、飞机等上面",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

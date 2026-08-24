@@ -660,54 +660,46 @@
   ],
   "chunks": [
     {
-      "en": "whole lot",
-      "cn": "很多",
-      "type": "名词词组"
+      "en": "need lot of words",
+      "cn": "需要很多单词",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "reading lot",
       "cn": "读很多",
-      "type": "动词词组"
-    },
-    {
-      "en": "need lot of words",
-      "cn": "需要很多单词",
-      "type": "动词词组"
-    },
-    {
-      "en": "project lot",
-      "cn": "项目很多",
-      "type": "名词词组"
-    },
-    {
-      "en": "lot of ways",
-      "cn": "很多方式",
-      "type": "名词词组"
-    },
-    {
-      "en": "lot of research",
-      "cn": "大量研究",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "bear lot of fruit",
       "cn": "结出很多果实",
-      "type": "动词词组"
-    },
-    {
-      "en": "lots of financial",
-      "cn": "大量财政支持",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "invest lot in roads",
       "cn": "在路上大量投资",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "require lot of trying",
       "cn": "需要大量尝试",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lot of ways / research / financial",
+      "cn": "很多方式 / 大量研究 / 大量财政支持",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "whole / project lot",
+      "cn": "很多 / 项目很多",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

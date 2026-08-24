@@ -165,19 +165,22 @@
   ],
   "chunks": [
     {
-      "en": "comfort / parking / conflict / wet / death / mild / correct / midnight zone",
-      "cn": "舒服区域 / 停车区域 / 冲突区域 / 潮的区域 / 死区域 / 温和的区域 / 正确的区域 / 半夜12点钟区域",
-      "type": "名词词组"
-    },
-    {
       "en": "zone with snow",
       "cn": "雪的区域",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "assigned zone",
       "cn": "分配区域",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "comfort / parking / conflict / wet / death / mild / correct / midnight zone",
+      "cn": "舒服区域 / 停车区域 / 冲突区域 / 潮的区域 / 死区域 / 温和的区域 / 正确的区域 / 半夜12点钟区域",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -120,19 +120,16 @@
   ],
   "chunks": [
     {
-      "en": "animal quarters",
-      "cn": "动物夸特",
-      "type": "名词词组"
-    },
-    {
-      "en": "crowded quarter",
-      "cn": "人多的夸特",
-      "type": "名词词组"
-    },
-    {
       "en": "quarters of surface",
       "cn": "表面的夸特",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "animal / crowded quarter",
+      "cn": "动物夸特 / 人多的夸特",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -242,29 +242,34 @@
   ],
   "chunks": [
     {
-      "en": "couple of years / hours / days / chat / months",
-      "cn": "年的一对 / 小时的一对 / 天的一对 / 聊天的一对 / 月的一对",
-      "type": "名词词组"
+      "en": "adding couple of points",
+      "cn": "添加一对指出",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "past couple of decades",
       "cn": "一对常用在some十年",
-      "type": "名词词组"
-    },
-    {
-      "en": "year / young couple",
-      "cn": "年一对 / 年轻的一对",
-      "type": "名词词组"
-    },
-    {
-      "en": "adding couple of points",
-      "cn": "添加一对指出",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "including couple",
       "cn": "包含一对",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "couple of years / hours / days / chat / months",
+      "cn": "年的一对 / 小时的一对 / 天的一对 / 聊天的一对 / 月的一对",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "year / young couple",
+      "cn": "年一对 / 年轻的一对",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

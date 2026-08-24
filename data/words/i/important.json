@@ -644,44 +644,52 @@
   ],
   "chunks": [
     {
-      "en": "be important to / for / in / as",
-      "cn": "重要的",
-      "type": "动词词组"
-    },
-    {
       "en": "important for speaker",
       "cn": "对说话者很重要",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "important in convincing",
       "cn": "在说服中很重要",
-      "type": "形容词词组"
-    },
-    {
-      "en": "important thing / part / component / opportunity",
-      "cn": "重要的事情 / 重要部分 / 重要组成部分 / 重要机会",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "important to show",
       "cn": "展示很重要",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "important to visitors",
       "cn": "对访客很重要",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "is important as means",
       "cn": "作为手段很重要",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "is important to take",
       "cn": "拿很重要",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be important to / for / in / as",
+      "cn": "重要的",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "important thing / part / component / opportunity",
+      "cn": "重要的事情 / 重要部分 / 重要组成部分 / 重要机会",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

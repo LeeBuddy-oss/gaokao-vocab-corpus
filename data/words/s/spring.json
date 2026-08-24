@@ -221,24 +221,28 @@
   ],
   "chunks": [
     {
-      "en": "hot / past / magic / silver spring",
-      "cn": "使人感到热的春天 / 春天 / 魔法春天 / 银币春天",
-      "type": "名词词组"
-    },
-    {
       "en": "spring of water",
       "cn": "水的春天",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "thing springs to mind",
       "cn": "头脑的事情春天",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hot / past / magic / silver spring",
+      "cn": "使人感到热的春天 / 春天 / 魔法春天 / 银币春天",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "over / reading / conducting spring",
       "cn": "春天 / 阅读春天 / 组织春天",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

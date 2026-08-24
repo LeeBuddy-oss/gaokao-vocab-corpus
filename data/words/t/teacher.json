@@ -598,54 +598,22 @@
   ],
   "chunks": [
     {
-      "en": "english teacher",
-      "cn": "英语老师",
-      "type": "名词词组"
-    },
-    {
-      "en": "music teacher",
-      "cn": "音乐老师",
-      "type": "名词词组"
-    },
-    {
-      "en": "studies teacher",
-      "cn": "研究课老师",
-      "type": "名词词组"
-    },
-    {
-      "en": "science teachers",
-      "cn": "科学老师",
-      "type": "名词词组"
-    },
-    {
       "en": "education teacher at school",
       "cn": "学校的教导老师",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "think teachers",
-      "cn": "认为老师",
-      "type": "动词词组"
+      "en": "english / music / studies / science / chinese / hospital / students teacher",
+      "cn": "英语老师 / 音乐老师 / 研究课老师 / 科学老师 / 语文老师 / 医院里的老师 / 学生和老师",
+      "type": "名词短语",
+      "count": 0
     },
     {
-      "en": "about teachers",
-      "cn": "关于老师",
-      "type": "动词词组"
-    },
-    {
-      "en": "chinese teacher",
-      "cn": "语文老师",
-      "type": "名词词组"
-    },
-    {
-      "en": "hospital teacher",
-      "cn": "医院里的老师",
-      "type": "名词词组"
-    },
-    {
-      "en": "students teachers",
-      "cn": "学生和老师",
-      "type": "名词词组"
+      "en": "think / about teacher",
+      "cn": "认为老师 / 关于老师",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

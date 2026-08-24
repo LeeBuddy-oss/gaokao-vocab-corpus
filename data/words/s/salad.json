@@ -88,19 +88,22 @@
   ],
   "chunks": [
     {
-      "en": "fruit / vegetable salad",
-      "cn": "水果生吃的）蔬菜色拉 / 蔬菜生吃的）蔬菜色拉",
-      "type": "名词词组"
-    },
-    {
       "en": "salad in packs",
       "cn": "打包的生吃的）蔬菜色拉",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fruit / vegetable salad",
+      "cn": "水果生吃的）蔬菜色拉 / 蔬菜生吃的）蔬菜色拉",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "add / mixing salad",
       "cn": "添加生吃的）蔬菜色拉 / 使）混合生吃的）蔬菜色拉",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -157,19 +157,22 @@
   ],
   "chunks": [
     {
-      "en": "kid / group / clothes score",
-      "cn": "孩子 / 小组 / 衣服",
-      "type": "名词词组"
-    },
-    {
       "en": "score on average in test",
       "cn": "平均的在某一点测试的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "kid / group / clothes score",
+      "cn": "孩子 / 小组 / 衣服",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "pass score",
       "cn": "不知道",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

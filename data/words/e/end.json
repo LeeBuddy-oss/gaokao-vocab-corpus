@@ -713,24 +713,28 @@
   ],
   "chunks": [
     {
-      "en": "end of day / lecture / conversation",
-      "cn": "一天结束 / 讲座结束 / 对话结束",
-      "type": "名词词组"
-    },
-    {
       "en": "end of road for science",
       "cn": "科学的尽头",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "end of day / lecture / conversation",
+      "cn": "一天结束 / 讲座结束 / 对话结束",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "unique / good end",
       "cn": "独特的结局 / 好的结局",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "make / read / writing / creating end",
       "cn": "使收支相抵 / 读结局 / 写结局 / 创造结局",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

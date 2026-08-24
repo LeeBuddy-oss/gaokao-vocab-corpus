@@ -133,19 +133,22 @@
   ],
   "chunks": [
     {
-      "en": "road / slave / dynasty / centres trade",
-      "cn": "路贸易 / 奴隶贸易 / 朝贸易 / 中心点贸易",
-      "type": "名词词组"
-    },
-    {
       "en": "traded for centuries",
       "cn": "世纪的贸易",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "road / slave / dynasty / centres trade",
+      "cn": "路贸易 / 奴隶贸易 / 朝贸易 / 中心点贸易",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "negotiating / be trade",
       "cn": "谈判贸易 / 被贸易",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

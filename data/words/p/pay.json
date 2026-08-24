@@ -525,29 +525,34 @@
   ],
   "chunks": [
     {
-      "en": "pay attention / make / pounds / price / regular / close",
-      "cn": "关注 / 支付做 / 支付磅 / 付出代价 / 支付频繁的 / 支付关闭",
-      "type": "动词词组"
-    },
-    {
       "en": "pay for football",
       "cn": "支付足球",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "pay for others",
       "cn": "支付",
-      "type": "动词词组"
-    },
-    {
-      "en": "pay in effect",
-      "cn": "支付效果",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "pays to put",
       "cn": "支付放",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "pay attention / make / pounds / price / regular / close",
+      "cn": "关注 / 支付做 / 支付磅 / 付出代价 / 支付频繁的 / 支付关闭",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "pay in effect",
+      "cn": "支付效果",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

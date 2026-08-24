@@ -225,54 +225,40 @@
   ],
   "chunks": [
     {
-      "en": "get lessons",
-      "cn": "得到课程",
-      "type": "动词词组"
-    },
-    {
-      "en": "life lessons",
-      "cn": "生活课程",
-      "type": "名词词组"
-    },
-    {
-      "en": "learned lesson",
-      "cn": "研究课程",
-      "type": "动词词组"
-    },
-    {
-      "en": "regular lessons",
-      "cn": "定期的课程",
-      "type": "名词词组"
-    },
-    {
-      "en": "important lesson",
-      "cn": "重要的课程",
-      "type": "名词词组"
-    },
-    {
-      "en": "language lessons",
-      "cn": "语言课程",
-      "type": "名词词组"
-    },
-    {
-      "en": "lessons to attend",
-      "cn": "出席的课程",
-      "type": "名词词组"
-    },
-    {
-      "en": "driving lessons for",
-      "cn": "驾驶课程",
-      "type": "动词词组"
+      "en": "history lesson about trees",
+      "cn": "树的历史课程",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "lessons on meaning of life",
       "cn": "意思常用在some生活的课程",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
-      "en": "history lesson about trees",
-      "cn": "树的历史课程",
-      "type": "名词词组"
+      "en": "lessons to attend",
+      "cn": "出席的课程",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "driving lessons for",
+      "cn": "驾驶课程",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "life / regular / important / language lesson",
+      "cn": "生活课程 / 定期的课程 / 重要的课程 / 语言课程",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "get / learned lesson",
+      "cn": "得到课程 / 研究课程",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

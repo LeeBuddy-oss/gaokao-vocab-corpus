@@ -234,19 +234,22 @@
   ],
   "chunks": [
     {
-      "en": "deep / global / insects sea",
-      "cn": "深的海 / 全球的海 / 昆虫海",
-      "type": "名词词组"
-    },
-    {
       "en": "sea to sea",
       "cn": "海的海",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "deep / global / insects sea",
+      "cn": "深的海 / 全球的海 / 昆虫海",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "mean / forget sea",
       "cn": "海 / 忘记海",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

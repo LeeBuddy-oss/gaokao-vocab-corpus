@@ -133,19 +133,22 @@
   ],
   "chunks": [
     {
-      "en": "correcting / correct / good grammar",
-      "cn": "正确的语法 / 好的语法",
-      "type": "名词词组"
-    },
-    {
       "en": "about grammar",
       "cn": "语法",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "think grammar in unit",
       "cn": "思考语法一）套",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "correcting / correct / good grammar",
+      "cn": "正确的语法 / 好的语法",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

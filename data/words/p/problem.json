@@ -843,19 +843,22 @@
   ],
   "chunks": [
     {
-      "en": "heart / health / physics / address / fundamental problem",
-      "cn": "心脏问题 / 健康问题 / 物理问题 / 解决问题 / 根本问题",
-      "type": "名词词组"
-    },
-    {
       "en": "problem with parents",
       "cn": "与父母的问题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "heart / health / physics / address / fundamental problem",
+      "cn": "心脏问题 / 健康问题 / 物理问题 / 解决问题 / 根本问题",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "solve / yet / prepared / highlight problem",
       "cn": "解决问题 / 尚有问题 / 准备好问题 / 突出问题",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

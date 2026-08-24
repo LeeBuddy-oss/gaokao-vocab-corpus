@@ -110,29 +110,34 @@
   ],
   "chunks": [
     {
-      "en": "final / grade / graded / complete homework",
-      "cn": "最终的学生的）家庭作业 / 年级学生的）家庭作业 / 完成学生的）家庭作业",
-      "type": "名词词组"
-    },
-    {
-      "en": "homework in bed with light",
-      "cn": "床和…在一起光的学生的）家庭作业",
-      "type": "名词词组"
-    },
-    {
       "en": "enter homework into writing",
       "cn": "进入学生的）家庭作业写",
-      "type": "动词词组"
-    },
-    {
-      "en": "work / finish homework",
-      "cn": "工作学生的）家庭作业 / 完成学生的）家庭作业",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "write homework in new",
       "cn": "写学生的）家庭作业新的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "final / grade / graded / complete homework",
+      "cn": "最终的学生的）家庭作业 / 年级学生的）家庭作业 / 完成学生的）家庭作业",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "homework in bed with light",
+      "cn": "床和…在一起光的学生的）家庭作业",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "work / finish homework",
+      "cn": "工作学生的）家庭作业 / 完成学生的）家庭作业",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -421,19 +421,22 @@
   ],
   "chunks": [
     {
-      "en": "home / used / mobile / cell phone",
-      "cn": "家庭电话 / 用过的手机 / 手机",
-      "type": "名词词组"
-    },
-    {
       "en": "phones of drivers",
       "cn": "司机的手机",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "home / used / mobile / cell phone",
+      "cn": "家庭电话 / 用过的手机 / 手机",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "make / put / over / down / arrive phone",
       "cn": "打电话 / 放手机 / 通过电话 / 放下手机 / 到达手机",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

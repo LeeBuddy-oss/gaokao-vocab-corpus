@@ -428,24 +428,28 @@
   ],
   "chunks": [
     {
-      "en": "care of mrs / precious",
-      "cn": "夫人照料 / 宝贵的照料",
-      "type": "名词词组"
-    },
-    {
-      "en": "health / medical / best / extra / special / parents care",
-      "cn": "医疗保健 / 医疗护理 / 最好的护理 / 额外照顾 / 特殊照顾 / 父母关心",
-      "type": "名词词组"
+      "en": "taking care",
+      "cn": "照顾",
+      "type": "动词短语",
+      "count": 9
     },
     {
       "en": "take care of kids",
       "cn": "照顾孩子",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
-      "en": "taking care",
-      "cn": "照顾",
-      "type": "动词词组"
+      "en": "care of mrs / precious",
+      "cn": "夫人照料 / 宝贵的照料",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "health / medical / best / extra / special / parents care",
+      "cn": "医疗保健 / 医疗护理 / 最好的护理 / 额外照顾 / 特殊照顾 / 父母关心",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

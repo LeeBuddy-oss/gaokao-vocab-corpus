@@ -513,34 +513,40 @@
   ],
   "chunks": [
     {
-      "en": "kind of box of spare",
-      "cn": "一盒备件",
-      "type": "名词词组"
-    },
-    {
-      "en": "kind of camera / writing / music / fish / review / humbling",
-      "cn": "相机种类 / 写作类型 / 音乐种类 / 鱼的种类 / 复习类型 / 有点谦卑",
-      "type": "名词词组"
-    },
-    {
-      "en": "new kind of adaptation",
-      "cn": "新的适应类型",
-      "type": "名词词组"
-    },
-    {
       "en": "be kind of",
       "cn": "被种类",
-      "type": "动词词组"
-    },
-    {
-      "en": "found kinds of plants",
-      "cn": "发现的植物种类",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "needed kinds of help",
       "cn": "需要的帮助种类",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "kind of box of spare",
+      "cn": "一盒备件",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "new kind of adaptation",
+      "cn": "新的适应类型",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "kind of camera / writing / music / fish / review / humbling",
+      "cn": "相机种类 / 写作类型 / 音乐种类 / 鱼的种类 / 复习类型 / 有点谦卑",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "found kinds of plants",
+      "cn": "发现的植物种类",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

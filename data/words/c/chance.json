@@ -366,29 +366,34 @@
   ],
   "chunks": [
     {
-      "en": "best / random chance",
-      "cn": "最好的机会 / 随机机会",
-      "type": "名词词组"
-    },
-    {
-      "en": "chance to meet / win / give / rest / relax",
-      "cn": "遇见的机会 / 获胜的机会 / 给予的机会 / 休息的机会 / 放松的机会",
-      "type": "名词词组"
+      "en": "take chance",
+      "cn": "把握机会",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "chance to work with diverse",
       "cn": "与多元群体共事的机会",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "little chance of success",
       "cn": "成功的小机会",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
-      "en": "take chance",
-      "cn": "把握机会",
-      "type": "动词词组"
+      "en": "best / random chance",
+      "cn": "最好的机会 / 随机机会",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "chance to meet / win / give / rest / relax",
+      "cn": "遇见的机会 / 获胜的机会 / 给予的机会 / 休息的机会 / 放松的机会",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

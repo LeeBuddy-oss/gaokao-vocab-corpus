@@ -178,29 +178,34 @@
   ],
   "chunks": [
     {
-      "en": "nut / black / polish / islands shell",
-      "cn": "蛋、坚果、某些种 / 黑色的蛋、坚果、某些种 / 擦光的面蛋、坚果、某些种 / 岛蛋、坚果、某些种",
-      "type": "名词词组"
-    },
-    {
       "en": "shells for money",
       "cn": "钱的蛋、坚果、某些种",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "shells into air",
       "cn": "空气的蛋、坚果、某些种",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "remove shell of egg",
       "cn": "移除蛋、坚果、某些种鸡蛋",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "where shells",
       "cn": "在哪里蛋、坚果、某些种",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "nut / black / polish / islands shell",
+      "cn": "蛋、坚果、某些种 / 黑色的蛋、坚果、某些种 / 擦光的面蛋、坚果、某些种 / 岛蛋、坚果、某些种",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

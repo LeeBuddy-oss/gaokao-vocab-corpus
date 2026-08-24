@@ -70,19 +70,22 @@
   ],
   "chunks": [
     {
-      "en": "low / completing profile",
-      "cn": "低概述 / 完成概述",
-      "type": "名词词组"
-    },
-    {
       "en": "personal profile to join",
       "cn": "加入的个人的概述",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "updated profiles",
       "cn": "使现代化概述",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "low / completing profile",
+      "cn": "低概述 / 完成概述",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

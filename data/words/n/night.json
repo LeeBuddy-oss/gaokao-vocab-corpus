@@ -418,19 +418,22 @@
   ],
   "chunks": [
     {
-      "en": "dark / long / news / cold / nervous / diverse night",
-      "cn": "黑夜 / 漫长的夜 / 新闻之夜 / 寒夜 / 紧张的夜晚 / 多样的夜晚",
-      "type": "名词词组"
-    },
-    {
       "en": "night to get",
       "cn": "得到的夜晚",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dark / long / news / cold / nervous / diverse night",
+      "cn": "黑夜 / 漫长的夜 / 新闻之夜 / 寒夜 / 紧张的夜晚 / 多样的夜晚",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "up / miss / take night",
       "cn": "熬夜 / 错过夜晚 / 度过夜晚",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

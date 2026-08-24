@@ -294,34 +294,40 @@
   ],
   "chunks": [
     {
-      "en": "friend / humans / computer meaning",
-      "cn": "朋友的意义 / 人类的意义 / 电脑意义",
-      "type": "名词词组"
+      "en": "meaning of zero",
+      "cn": "零的意义",
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "meaning as angry",
       "cn": "愤怒的意义",
-      "type": "名词词组"
-    },
-    {
-      "en": "meaning of zero",
-      "cn": "零的意义",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "added meaning in life",
       "cn": "在生活中添加意义",
-      "type": "动词词组"
-    },
-    {
-      "en": "find / guess / assign meaning",
-      "cn": "找到意义 / 猜测意义 / 赋予意义",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "know meaning of word",
       "cn": "知道单词的意思",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "friend / humans / computer meaning",
+      "cn": "朋友的意义 / 人类的意义 / 电脑意义",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "find / guess / assign meaning",
+      "cn": "找到意义 / 猜测意义 / 赋予意义",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

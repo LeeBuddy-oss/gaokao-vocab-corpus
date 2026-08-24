@@ -186,49 +186,46 @@
   ],
   "chunks": [
     {
-      "en": "network links",
-      "cn": "网络联系",
-      "type": "名词词组"
-    },
-    {
-      "en": "linked to steam",
-      "cn": "水蒸气的联系",
-      "type": "名词词组"
-    },
-    {
-      "en": "linked to major",
-      "cn": "主要的联系",
-      "type": "名词词组"
-    },
-    {
-      "en": "communication link",
-      "cn": "表达联系",
-      "type": "名词词组"
-    },
-    {
-      "en": "strong links in food",
-      "cn": "食物的强壮的联系",
-      "type": "名词词组"
-    },
-    {
-      "en": "make link between home",
-      "cn": "做联系家",
-      "type": "动词词组"
-    },
-    {
-      "en": "show link between storms",
-      "cn": "展示联系暴风雨",
-      "type": "动词词组"
+      "en": "be linked",
+      "cn": "被连接",
+      "type": "动词短语",
+      "count": 5
     },
     {
       "en": "be linked to",
       "cn": "被联系",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 3
     },
     {
-      "en": "be linked",
-      "cn": "被连接",
-      "type": "动词词组"
+      "en": "strong links in food",
+      "cn": "食物的强壮的联系",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "make link between home",
+      "cn": "做联系家",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "show link between storms",
+      "cn": "展示联系暴风雨",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "link to steam / major",
+      "cn": "水蒸气的联系 / 主要的联系",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "network / communication link",
+      "cn": "网络联系 / 表达联系",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

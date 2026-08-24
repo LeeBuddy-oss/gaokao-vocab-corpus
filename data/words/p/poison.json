@@ -68,19 +68,22 @@
   ],
   "chunks": [
     {
-      "en": "food / ankle / fires poison",
-      "cn": "食物毒药 / 踝毒药 / 火毒药",
-      "type": "名词词组"
-    },
-    {
       "en": "spread poisons to attack",
       "cn": "传播毒药攻击",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "food / ankle / fires poison",
+      "cn": "食物毒药 / 踝毒药 / 火毒药",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "use / involved poison",
       "cn": "使用毒药 / 涉及毒药",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

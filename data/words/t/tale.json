@@ -70,19 +70,22 @@
   ],
   "chunks": [
     {
-      "en": "folk / legends tale",
-      "cn": "民间音乐 / 传说",
-      "type": "名词词组"
-    },
-    {
       "en": "making tale",
       "cn": "做",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "tells tale of brother",
       "cn": "告诉兄弟",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "folk / legends tale",
+      "cn": "民间音乐 / 传说",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -480,24 +480,28 @@
   ],
   "chunks": [
     {
-      "en": "left / dining / deciding / light / lecture / painting room",
-      "cn": "左边房间 / 吃饭房间 / 决定房间 / 光房间 / 通常指大学里的）房间 / 绘画颜料房间",
-      "type": "名词词组"
-    },
-    {
       "en": "room for new",
       "cn": "新的的房间",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "left / dining / deciding / light / lecture / painting room",
+      "cn": "左边房间 / 吃饭房间 / 决定房间 / 光房间 / 通常指大学里的）房间 / 绘画颜料房间",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "entered room as",
       "cn": "进入房间",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "shared / enters room",
       "cn": "分享房间 / 进入房间",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

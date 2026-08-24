@@ -421,19 +421,22 @@
   ],
   "chunks": [
     {
-      "en": "global / ocean plastic",
-      "cn": "全球塑料 / 海洋塑料",
-      "type": "名词词组"
-    },
-    {
       "en": "plastic to break",
       "cn": "要分解的塑料",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "global / ocean plastic",
+      "cn": "全球塑料 / 海洋塑料",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "make / down / about / making / reduce / discuss / consume plastic",
       "cn": "制造塑料 / 降解塑料 / 关于塑料 / 减少塑料 / 讨论塑料 / 消耗塑料",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

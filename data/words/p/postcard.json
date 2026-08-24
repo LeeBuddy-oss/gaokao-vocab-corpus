@@ -86,19 +86,22 @@
   ],
   "chunks": [
     {
-      "en": "loves / stamps / souvenirs postcard",
-      "cn": "爱 / 邮票 / 纪念物",
-      "type": "名词词组"
-    },
-    {
       "en": "receive postcard",
       "cn": "拿到",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "send postcards to family",
       "cn": "发送家庭",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "loves / stamps / souvenirs postcard",
+      "cn": "爱 / 邮票 / 纪念物",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -84,19 +84,22 @@
   ],
   "chunks": [
     {
-      "en": "average / mountain peak",
-      "cn": "平均的顶峰 / 山顶峰",
-      "type": "名词词组"
-    },
-    {
       "en": "peak of mount",
       "cn": "登上的顶峰",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "reached peak between",
       "cn": "到达顶峰",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "average / mountain peak",
+      "cn": "平均的顶峰 / 山顶峰",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

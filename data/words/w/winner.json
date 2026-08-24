@@ -110,19 +110,22 @@
   ],
   "chunks": [
     {
-      "en": "good / final / prize winner",
-      "cn": "好的获胜的人 / 最终的获胜的人 / 奖获胜的人",
-      "type": "名词词组"
-    },
-    {
       "en": "winners by own",
       "cn": "自己的获胜的人",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "good / final / prize winner",
+      "cn": "好的获胜的人 / 最终的获胜的人 / 奖获胜的人",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "mention / born winner",
       "cn": "提到获胜的人 / 获胜的人",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

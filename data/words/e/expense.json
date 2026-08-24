@@ -130,29 +130,34 @@
   ],
   "chunks": [
     {
-      "en": "daily / living / family / relative / household expense",
-      "cn": "日常的 / 生活方式 / 家庭 / 亲戚",
-      "type": "名词词组"
-    },
-    {
       "en": "expense of fashion",
       "cn": "时尚的",
-      "type": "名词词组"
-    },
-    {
-      "en": "expense of speaking",
-      "cn": "说话的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "expense to obtain",
       "cn": "获得的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "daily / living / family / relative / household expense",
+      "cn": "日常的 / 生活方式 / 家庭 / 亲戚",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "expense of speaking",
+      "cn": "说话的",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "pay / travel expense",
       "cn": "支付 / 旅行",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

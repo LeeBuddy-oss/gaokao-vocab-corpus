@@ -100,24 +100,28 @@
   ],
   "chunks": [
     {
-      "en": "flat / walls / round / pointed roof",
-      "cn": "水平的顶部 / 墙顶部 / 顶部 / 指出顶部",
-      "type": "名词词组"
-    },
-    {
       "en": "roof of father",
       "cn": "父亲的顶部",
-      "type": "名词词组"
-    },
-    {
-      "en": "across roof of world",
-      "cn": "顶部常用在some世界",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "where roof",
       "cn": "在哪里顶部",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "flat / walls / round / pointed roof",
+      "cn": "水平的顶部 / 墙顶部 / 顶部 / 指出顶部",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "across roof of world",
+      "cn": "顶部常用在some世界",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

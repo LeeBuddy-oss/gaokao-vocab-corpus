@@ -160,19 +160,22 @@
   ],
   "chunks": [
     {
-      "en": "chinese / best / water / current / certain / education / agriculture medicine",
-      "cn": "中文医学 / 最好的医学 / 水医学 / 当前的医学 / 确定的医学 / 教育医学 / 医学",
-      "type": "名词词组"
-    },
-    {
       "en": "medicine in remote",
       "cn": "偏远的医学",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "chinese / best / water / current / certain / education / agriculture medicine",
+      "cn": "中文医学 / 最好的医学 / 水医学 / 当前的医学 / 确定的医学 / 教育医学 / 医学",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "think / about medicine",
       "cn": "思考医学 / 医学",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

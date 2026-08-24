@@ -294,34 +294,40 @@
   ],
   "chunks": [
     {
-      "en": "big / grammar / correcting mistake",
-      "cn": "大错误 / 语法错误 / 纠正错误",
-      "type": "名词词组"
-    },
-    {
       "en": "mistake at restaurant",
       "cn": "餐厅的错误",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "mistake to try",
       "cn": "尝试的错误",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "mistakes as natural",
       "cn": "自然的错误",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "mistakes in data",
       "cn": "数据错误",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "big / grammar / correcting mistake",
+      "cn": "大错误 / 语法错误 / 纠正错误",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "make / making / spelling mistake",
       "cn": "犯错 / 拼写错误",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

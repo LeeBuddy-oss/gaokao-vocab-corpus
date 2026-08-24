@@ -120,14 +120,16 @@
   ],
   "chunks": [
     {
-      "en": "per / whole / weekly household",
-      "cn": "家庭 / 整个家庭 / 每周的家庭",
-      "type": "名词词组"
-    },
-    {
       "en": "introduce household",
       "cn": "家庭",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "per / whole / weekly household",
+      "cn": "家庭 / 整个家庭 / 每周的家庭",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

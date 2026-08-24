@@ -131,24 +131,28 @@
   ],
   "chunks": [
     {
-      "en": "little / notice wallet",
-      "cn": "小的放钞票、信用卡的 / 注意到放钞票、信用卡的",
-      "type": "名词词组"
-    },
-    {
       "en": "wallet on bus",
       "cn": "公交车的放钞票、信用卡的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "wallet to nearby",
       "cn": "附近的放钞票、信用卡的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "little / notice wallet",
+      "cn": "小的放钞票、信用卡的 / 注意到放钞票、信用卡的",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "find / take wallet",
       "cn": "找到放钞票、信用卡的 / 拿放钞票、信用卡的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

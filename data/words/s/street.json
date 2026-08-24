@@ -251,19 +251,22 @@
   ],
   "chunks": [
     {
-      "en": "gas / near / city / back / example street",
-      "cn": "气体街道 / 街道 / 城市街道 / 回原处街道 / 例子街道",
-      "type": "名词词组"
-    },
-    {
       "en": "street on left",
       "cn": "左边的街道",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gas / near / city / back / example street",
+      "cn": "气体街道 / 街道 / 城市街道 / 回原处街道 / 例子街道",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "across / down / about / making street",
       "cn": "街道 / 做街道",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

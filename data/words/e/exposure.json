@@ -92,14 +92,16 @@
   ],
   "chunks": [
     {
-      "en": "exposure to high / cold / human / chinese",
-      "cn": "高的暴露 / 冷的暴露 / 人类的暴露 / 中文的暴露",
-      "type": "名词词组"
-    },
-    {
       "en": "limited exposure to english",
       "cn": "英语的有限的暴露",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "exposure to high / cold / human / chinese",
+      "cn": "高的暴露 / 冷的暴露 / 人类的暴露 / 中文的暴露",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

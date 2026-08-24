@@ -84,22 +84,26 @@
     {
       "en": "description of term before correcting",
       "cn": "术语在…以前正确的描写",
-      "type": "名词词组"
-    },
-    {
-      "en": "description of world / environment",
-      "cn": "世界的描写 / 环境的描写",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be descriptions of",
       "cn": "被描写",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "description of world / environment",
+      "cn": "世界的描写 / 环境的描写",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "give / make description",
       "cn": "给描写 / 做描写",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -828,24 +828,28 @@
   ],
   "chunks": [
     {
-      "en": "kids / record parent",
-      "cn": "孩子父母 / 记录父母",
-      "type": "名词词组"
-    },
-    {
       "en": "parents in china",
       "cn": "中国父母",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "parents of boys",
       "cn": "男孩的父母",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "kids / record parent",
+      "cn": "孩子父母 / 记录父母",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "where / help / gives / about / visit / keeping parent",
       "cn": "父母在哪里 / 帮助父母 / 给父母 / 关于父母 / 看望父母 / 让父母保持",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

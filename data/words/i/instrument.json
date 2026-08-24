@@ -134,29 +134,34 @@
   ],
   "chunks": [
     {
-      "en": "heavy / unusual / damage / medical instrument",
-      "cn": "沉重的乐器 / 不寻常的乐器 / 损坏乐器 / 医学的乐器",
-      "type": "名词词组"
-    },
-    {
       "en": "instruments to measure",
       "cn": "测量的乐器",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "new instruments to study",
       "cn": "研究的新的乐器",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "fix instruments",
       "cn": "修理乐器",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "playing instruments on stage",
       "cn": "玩乐器阶段",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "heavy / unusual / damage / medical instrument",
+      "cn": "沉重的乐器 / 不寻常的乐器 / 损坏乐器 / 医学的乐器",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

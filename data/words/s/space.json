@@ -416,34 +416,40 @@
   ],
   "chunks": [
     {
-      "en": "little / green / parking / outside space",
-      "cn": "小空间 / 绿色空间 / 停车位 / 外部空间",
-      "type": "名词词组"
+      "en": "leaves space for future",
+      "cn": "为未来留出空间",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "new space with love",
       "cn": "充满爱的新空间",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "space for school",
       "cn": "学校的空间",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "space to revise",
       "cn": "修改的空间",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "little / green / parking / outside space",
+      "cn": "小空间 / 绿色空间 / 停车位 / 外部空间",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "create / working space",
       "cn": "创造空间 / 工作空间",
-      "type": "动词词组"
-    },
-    {
-      "en": "leaves space for future",
-      "cn": "为未来留出空间",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

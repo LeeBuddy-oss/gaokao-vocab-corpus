@@ -65,24 +65,28 @@
   ],
   "chunks": [
     {
-      "en": "out rubbish",
-      "cn": "垃圾",
-      "type": "动词词组"
-    },
-    {
       "en": "clear rubbish",
       "cn": "清晰的垃圾",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "out rubbish",
+      "cn": "垃圾",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "rubbish from floor",
       "cn": "地板的垃圾",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "rubbish around streets",
       "cn": "街道的垃圾",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     }
   ]
 }

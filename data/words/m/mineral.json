@@ -75,14 +75,16 @@
   ],
   "chunks": [
     {
-      "en": "rock / natural / essential mineral",
-      "cn": "岩石矿物 / 自然的矿物 / 完全必要的矿物",
-      "type": "名词词组"
-    },
-    {
       "en": "discover mineral",
       "cn": "发现矿物",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "rock / natural / essential mineral",
+      "cn": "岩石矿物 / 自然的矿物 / 完全必要的矿物",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

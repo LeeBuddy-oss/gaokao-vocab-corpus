@@ -510,34 +510,40 @@
   ],
   "chunks": [
     {
-      "en": "memories feeling of safety",
-      "cn": "安全的记忆感觉",
-      "type": "名词词组"
-    },
-    {
-      "en": "others / positive / day / home / music feeling",
-      "cn": "感觉 / 积极的感觉 / 天感觉 / 家感觉 / 音乐感觉",
-      "type": "名词词组"
-    },
-    {
-      "en": "value feeling of reward",
-      "cn": "奖励的价值感觉",
-      "type": "名词词组"
-    },
-    {
       "en": "out feeling of success",
       "cn": "感觉常用在 some成功",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "remember feeling",
       "cn": "记住感觉",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "shared feeling of mine",
       "cn": "分享感觉我的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "memories feeling of safety",
+      "cn": "安全的记忆感觉",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "others / positive / day / home / music feeling",
+      "cn": "感觉 / 积极的感觉 / 天感觉 / 家感觉 / 音乐感觉",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "value feeling of reward",
+      "cn": "奖励的价值感觉",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -506,24 +506,28 @@
   ],
   "chunks": [
     {
-      "en": "big / plant / wrong / city / flowers / planted / different tree",
-      "cn": "大的树 / 植物树 / 错误的树 / 城市树 / 花树 / 不同的树",
-      "type": "名词词组"
-    },
-    {
       "en": "tree up ahead",
       "cn": "在前的树",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "trees in new",
       "cn": "新的的树",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "existing trees",
       "cn": "存在树",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "big / plant / wrong / city / flowers / planted / different tree",
+      "cn": "大的树 / 植物树 / 错误的树 / 城市树 / 花树 / 不同的树",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

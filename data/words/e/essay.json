@@ -200,34 +200,40 @@
   ],
   "chunks": [
     {
-      "en": "essay essay",
-      "cn": "文章文章",
-      "type": "名词词组"
-    },
-    {
-      "en": "essay on why",
-      "cn": "用于问句）为什么的文章",
-      "type": "名词词组"
-    },
-    {
       "en": "essay to teacher",
       "cn": "老师的文章",
-      "type": "名词词组"
-    },
-    {
-      "en": "word / course / major / english essay",
-      "cn": "单词文章 / 课程文章 / 主要的文章 / 英语文章",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "read essay to class",
       "cn": "阅读文章班级",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "essay essay",
+      "cn": "文章文章",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "essay on why",
+      "cn": "用于问句）为什么的文章",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "word / course / major / english essay",
+      "cn": "单词文章 / 课程文章 / 主要的文章 / 英语文章",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "submit / writing essay",
       "cn": "提交文章 / 写文章",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

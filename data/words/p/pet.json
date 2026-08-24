@@ -290,19 +290,22 @@
   ],
   "chunks": [
     {
+      "en": "find pet with transport",
+      "cn": "找带交通的宠物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
       "en": "happy / time pet",
       "cn": "快乐的宠物 / 抚摸宠物的时间",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "about / feed / around pet",
       "cn": "关于宠物 / 喂宠物 / 在宠物周围",
-      "type": "动词词组"
-    },
-    {
-      "en": "find pet with transport",
-      "cn": "找带交通的宠物",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

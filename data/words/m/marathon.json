@@ -97,34 +97,16 @@
   ],
   "chunks": [
     {
-      "en": "half marathon",
-      "cn": "一半马拉松赛跑",
-      "type": "名词词组"
-    },
-    {
-      "en": "full marathon",
-      "cn": "满的马拉松赛跑",
-      "type": "名词词组"
-    },
-    {
-      "en": "skiing marathon",
-      "cn": "滑雪板马拉松赛跑",
-      "type": "名词词组"
-    },
-    {
-      "en": "exciting marathon",
-      "cn": "令人激动的马拉松赛跑",
-      "type": "名词词组"
-    },
-    {
-      "en": "international marathon",
-      "cn": "马拉松赛跑",
-      "type": "名词词组"
-    },
-    {
       "en": "run marathons in countries",
       "cn": "跑马拉松赛跑国家",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "half / full / skiing / exciting / international marathon",
+      "cn": "一半马拉松赛跑 / 满的马拉松赛跑 / 滑雪板马拉松赛跑 / 令人激动的马拉松赛跑 / 马拉松赛跑",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

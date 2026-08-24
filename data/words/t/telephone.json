@@ -113,39 +113,22 @@
   ],
   "chunks": [
     {
-      "en": "use telephone",
-      "cn": "使用电话",
-      "type": "动词词组"
-    },
-    {
-      "en": "make telephone",
-      "cn": "做电话",
-      "type": "动词词组"
-    },
-    {
-      "en": "used telephone",
-      "cn": "电话",
-      "type": "名词词组"
-    },
-    {
-      "en": "local telephone",
-      "cn": "本地电话",
-      "type": "名词词组"
-    },
-    {
-      "en": "engine telephone",
-      "cn": "发动机电话",
-      "type": "名词词组"
-    },
-    {
-      "en": "address telephone",
-      "cn": "设法解决电话",
-      "type": "名词词组"
-    },
-    {
       "en": "public telephones near house",
       "cn": "房子的公共的电话",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "used / local / engine / address telephone",
+      "cn": "电话 / 本地电话 / 发动机电话 / 设法解决电话",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "use / make telephone",
+      "cn": "使用电话 / 做电话",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

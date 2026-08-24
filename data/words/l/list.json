@@ -377,54 +377,34 @@
   ],
   "chunks": [
     {
-      "en": "waiting list",
-      "cn": "等候名单",
-      "type": "动词词组"
-    },
-    {
-      "en": "magic list",
-      "cn": "魔法名单",
-      "type": "名词词组"
-    },
-    {
-      "en": "list of dry",
-      "cn": "干燥的清单",
-      "type": "名词词组"
-    },
-    {
-      "en": "holiday list",
-      "cn": "假期清单",
-      "type": "名词词组"
-    },
-    {
-      "en": "reading list",
-      "cn": "阅读清单",
-      "type": "动词词组"
-    },
-    {
       "en": "develop list of",
       "cn": "制定清单",
-      "type": "动词词组"
-    },
-    {
-      "en": "restaurants list",
-      "cn": "餐厅名单",
-      "type": "名词词组"
-    },
-    {
-      "en": "list of strengths",
-      "cn": "优势清单",
-      "type": "名词词组"
-    },
-    {
-      "en": "list of illnesses",
-      "cn": "疾病清单",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "read list with parents",
       "cn": "和父母一起读清单",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "list of dry / strengths / illnesses",
+      "cn": "干燥的清单 / 优势清单 / 疾病清单",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "magic / holiday / restaurants list",
+      "cn": "魔法名单 / 假期清单 / 餐厅名单",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "waiting / reading list",
+      "cn": "等候名单 / 阅读清单",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

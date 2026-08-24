@@ -80,34 +80,22 @@
   ],
   "chunks": [
     {
-      "en": "visual recognition",
-      "cn": "视觉的认出",
-      "type": "名词词组"
-    },
-    {
-      "en": "purchase recognition",
-      "cn": "购买认出",
-      "type": "名词词组"
-    },
-    {
       "en": "gained recognition as",
       "cn": "获得认出",
-      "type": "动词词组"
-    },
-    {
-      "en": "widespread recognition",
-      "cn": "分布广的认出",
-      "type": "名词词组"
-    },
-    {
-      "en": "international recognition",
-      "cn": "认出",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "gained recognition for performance",
       "cn": "获得认出表演",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "visual / purchase / widespread / international recognition",
+      "cn": "视觉的认出 / 购买认出 / 分布广的认出 / 认出",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

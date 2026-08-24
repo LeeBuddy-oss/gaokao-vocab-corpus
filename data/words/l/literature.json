@@ -115,24 +115,22 @@
   ],
   "chunks": [
     {
-      "en": "world literature",
-      "cn": "世界文学",
-      "type": "名词词组"
+      "en": "english literature as",
+      "cn": "英语文学",
+      "type": "名词短语",
+      "count": 1
     },
     {
-      "en": "stories literature",
-      "cn": "故事文学",
-      "type": "名词词组"
+      "en": "world / stories literature",
+      "cn": "世界文学 / 故事文学",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "enjoy literature as",
       "cn": "享受文学",
-      "type": "动词词组"
-    },
-    {
-      "en": "english literature as",
-      "cn": "英语文学",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

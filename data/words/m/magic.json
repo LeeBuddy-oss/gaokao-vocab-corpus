@@ -101,29 +101,22 @@
   ],
   "chunks": [
     {
-      "en": "use magic",
-      "cn": "使用魔法",
-      "type": "动词词组"
-    },
-    {
-      "en": "keep magic",
-      "cn": "保持魔法",
-      "type": "动词词组"
-    },
-    {
-      "en": "create magic",
-      "cn": "创造魔法",
-      "type": "动词词组"
-    },
-    {
       "en": "magic of reading",
       "cn": "阅读的魔法",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "remember magic of father",
       "cn": "记住魔法父亲",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "use / keep / create magic",
+      "cn": "使用魔法 / 保持魔法 / 创造魔法",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

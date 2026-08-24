@@ -55,19 +55,22 @@
   ],
   "chunks": [
     {
-      "en": "achieved summary",
-      "cn": "实现总结性的",
-      "type": "动词词组"
-    },
-    {
       "en": "summary of story",
       "cn": "故事的总结性的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "achieved summary",
+      "cn": "实现总结性的",
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "visitors summaries",
       "cn": "访客总结性的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

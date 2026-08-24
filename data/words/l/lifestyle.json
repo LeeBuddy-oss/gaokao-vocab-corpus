@@ -153,49 +153,28 @@
   ],
   "chunks": [
     {
-      "en": "healthy lifestyles",
-      "cn": "健康的生活方式",
-      "type": "名词词组"
-    },
-    {
-      "en": "own lifestyle",
-      "cn": "自己的生活方式",
-      "type": "名词词组"
-    },
-    {
-      "en": "make lifestyle",
-      "cn": "做生活方式",
-      "type": "动词词组"
-    },
-    {
-      "en": "about lifestyles",
-      "cn": "生活方式",
-      "type": "动词词组"
-    },
-    {
-      "en": "digital lifestyle",
-      "cn": "数字信息系统的生活方式",
-      "type": "名词词组"
-    },
-    {
-      "en": "improve lifestyles",
-      "cn": "改进生活方式",
-      "type": "动词词组"
-    },
-    {
-      "en": "peoples lifestyles",
-      "cn": "人们生活方式",
-      "type": "名词词组"
-    },
-    {
       "en": "lifestyles in different",
       "cn": "不同生活方式",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "waste lifestyle in household",
       "cn": "浪费生活方式家庭",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "healthy / own / digital / peoples lifestyle",
+      "cn": "健康的生活方式 / 自己的生活方式 / 数字信息系统的生活方式 / 人们生活方式",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "make / about / improve lifestyle",
+      "cn": "做生活方式 / 生活方式 / 改进生活方式",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

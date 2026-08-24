@@ -76,14 +76,16 @@
   ],
   "chunks": [
     {
-      "en": "single / writer / romantic poet",
-      "cn": "单一的诗人 / 作家诗人 / 浪漫的诗人",
-      "type": "名词词组"
-    },
-    {
       "en": "about poet",
       "cn": "诗人",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "single / writer / romantic poet",
+      "cn": "单一的诗人 / 作家诗人 / 浪漫的诗人",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -97,24 +97,28 @@
   ],
   "chunks": [
     {
-      "en": "be keen to / on",
-      "cn": "被渴望",
-      "type": "动词词组"
-    },
-    {
       "en": "are keen to see",
       "cn": "看见的渴望",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "is keen on idea",
       "cn": "想法的渴望",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be keen to / on",
+      "cn": "被渴望",
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "keen to share / learn",
       "cn": "分享的渴望 / 研究的渴望",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

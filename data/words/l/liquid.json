@@ -84,24 +84,16 @@
   ],
   "chunks": [
     {
-      "en": "ice liquid",
-      "cn": "冰液体的",
-      "type": "名词词组"
-    },
-    {
-      "en": "salty liquid",
-      "cn": "语言或幽默液体的",
-      "type": "名词词组"
-    },
-    {
-      "en": "special liquids",
-      "cn": "特殊的液体的",
-      "type": "名词词组"
-    },
-    {
       "en": "mixing liquid with paper",
       "cn": "使）混合液体的纸",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "ice / salty / special liquid",
+      "cn": "冰液体的 / 语言或幽默液体的 / 特殊的液体的",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

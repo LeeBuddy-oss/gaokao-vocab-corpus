@@ -111,19 +111,22 @@
   ],
   "chunks": [
     {
-      "en": "new / camping / kitchen / expensive / necessary equipment",
-      "cn": "新的设备 / 营地设备 / 厨房设备 / 昂贵的设备 / 必要的设备",
-      "type": "名词词组"
-    },
-    {
       "en": "examined equipment for safety",
       "cn": "仔细地）检查设备安全",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "prepared equipment",
       "cn": "准备设备",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "new / camping / kitchen / expensive / necessary equipment",
+      "cn": "新的设备 / 营地设备 / 厨房设备 / 昂贵的设备 / 必要的设备",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

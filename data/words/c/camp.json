@@ -409,24 +409,28 @@
   ],
   "chunks": [
     {
-      "en": "base / family / unique / distant / radioed / research camp",
-      "cn": "大本营 / 家庭营地 / 独特的营地 / 遥远的营地 / 无线电营地 / 研究营地",
-      "type": "名词词组"
-    },
-    {
       "en": "camp in time",
       "cn": "时间的营地",
-      "type": "名词词组"
-    },
-    {
-      "en": "wall / day camp for kids",
-      "cn": "孩子的墙营 / 孩子的日间营地",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "broadcasting camp",
       "cn": "广播营地",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "base / family / unique / distant / radioed / research camp",
+      "cn": "大本营 / 家庭营地 / 独特的营地 / 遥远的营地 / 无线电营地 / 研究营地",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "wall / day camp for kids",
+      "cn": "孩子的墙营 / 孩子的日间营地",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

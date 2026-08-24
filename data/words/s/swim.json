@@ -115,14 +115,16 @@
   ],
   "chunks": [
     {
-      "en": "swim meet / team / cycle / coach",
-      "cn": "游泳遇见 / 游泳团队 / 游泳自行车 / 游泳教练",
-      "type": "动词词组"
-    },
-    {
       "en": "swim with dolphins",
       "cn": "游泳海豚",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "swim meet / team / cycle / coach",
+      "cn": "游泳遇见 / 游泳团队 / 游泳自行车 / 游泳教练",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

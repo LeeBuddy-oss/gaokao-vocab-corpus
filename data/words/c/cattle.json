@@ -160,24 +160,28 @@
   ],
   "chunks": [
     {
-      "en": "camels / diseased cattle",
-      "cn": "骆驼牛 / 疾病牛",
-      "type": "名词词组"
+      "en": "move cattle to field",
+      "cn": "移动牛领域",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "cattle to monitor",
       "cn": "监控的牛",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "camels / diseased cattle",
+      "cn": "骆驼牛 / 疾病牛",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "keep / watch / about / check / watching cattle",
       "cn": "保持牛 / 观看牛 / 牛 / 检查牛",
-      "type": "动词词组"
-    },
-    {
-      "en": "move cattle to field",
-      "cn": "移动牛领域",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

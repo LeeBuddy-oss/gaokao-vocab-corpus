@@ -113,24 +113,28 @@
   ],
   "chunks": [
     {
-      "en": "good / high reputation",
-      "cn": "好的名声 / 高的名声",
-      "type": "名词词组"
-    },
-    {
-      "en": "reputation as top / crowded",
-      "cn": "顶部的名声 / 人多的名声",
-      "type": "名词词组"
-    },
-    {
       "en": "gained reputation for raising",
       "cn": "获得名声举起",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "improved reputation of hospital",
       "cn": "改进名声医院",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "good / high reputation",
+      "cn": "好的名声 / 高的名声",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "reputation as top / crowded",
+      "cn": "顶部的名声 / 人多的名声",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

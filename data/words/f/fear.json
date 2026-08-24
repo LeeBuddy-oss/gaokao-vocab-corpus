@@ -192,29 +192,34 @@
   ],
   "chunks": [
     {
-      "en": "anger fear",
-      "cn": "愤怒恐惧",
-      "type": "名词词组"
-    },
-    {
-      "en": "fear of sharks / library / upsetting",
-      "cn": "鲨鱼的恐惧 / 图书馆的恐惧 / 难过的恐惧",
-      "type": "名词词组"
-    },
-    {
-      "en": "parents fear of letting",
-      "cn": "让的父母恐惧",
-      "type": "名词词组"
-    },
-    {
       "en": "strike fear into child",
       "cn": "打击恐惧孩子",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "take fear",
       "cn": "拿恐惧",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "anger fear",
+      "cn": "愤怒恐惧",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "fear of sharks / library / upsetting",
+      "cn": "鲨鱼的恐惧 / 图书馆的恐惧 / 难过的恐惧",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "parents fear of letting",
+      "cn": "让的父母恐惧",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

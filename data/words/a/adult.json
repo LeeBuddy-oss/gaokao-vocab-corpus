@@ -270,24 +270,28 @@
   ],
   "chunks": [
     {
-      "en": "early / young / absent adult",
-      "cn": "早期成年人 / 年轻成年人 / 缺席成年人",
-      "type": "名词词组"
-    },
-    {
       "en": "human adults to produce",
       "cn": "生产的人类成年人",
-      "type": "名词词组"
-    },
-    {
-      "en": "about / develop / becomes / support adult",
-      "cn": "成年人 / 发展成年人 / 成年 / 支持成年人",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "provide adults with critical",
       "cn": "提供成年人关键的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "early / young / absent adult",
+      "cn": "早期成年人 / 年轻成年人 / 缺席成年人",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "about / develop / becomes / support adult",
+      "cn": "成年人 / 发展成年人 / 成年 / 支持成年人",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

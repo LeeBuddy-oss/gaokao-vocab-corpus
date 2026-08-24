@@ -244,29 +244,34 @@
   ],
   "chunks": [
     {
-      "en": "forest / own / book / hand / smooth / lifestyle movement",
-      "cn": "森林 / 自己的 / 书 / 手 / 顺利的 / 生活方式",
-      "type": "名词词组"
-    },
-    {
       "en": "movement in art",
       "cn": "艺术的",
-      "type": "名词词组"
-    },
-    {
-      "en": "movement like",
-      "cn": "身体部位的）运动",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "movements on own",
       "cn": "自己的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "affects movement",
       "cn": "影响运动",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "forest / own / book / hand / smooth / lifestyle movement",
+      "cn": "森林 / 自己的 / 书 / 手 / 顺利的 / 生活方式",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "movement like",
+      "cn": "身体部位的）运动",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

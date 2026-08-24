@@ -167,19 +167,22 @@
   ],
   "chunks": [
     {
-      "en": "human / new speech",
-      "cn": "人类演说 / 新的演说",
-      "type": "名词词组"
-    },
-    {
       "en": "brings speech to nice",
       "cn": "带来演说好的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "human / new speech",
+      "cn": "人类演说 / 新的演说",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "give / making speech",
       "cn": "发表演讲 / 做演说",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

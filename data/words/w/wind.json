@@ -174,29 +174,34 @@
   ],
   "chunks": [
     {
-      "en": "cold / strong wind",
-      "cn": "冷的风 / 强壮的风",
-      "type": "名词词组"
-    },
-    {
       "en": "draft wind from turn",
       "cn": "转动的草稿风",
-      "type": "名词词组"
-    },
-    {
-      "en": "wind up watch / passage",
-      "cn": "观看的风 / 章节的风",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "allow wind to pass",
       "cn": "允许风不知道",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "cold / strong wind",
+      "cn": "冷的风 / 强壮的风",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "wind up watch / passage",
+      "cn": "观看的风 / 章节的风",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "where / contains wind",
       "cn": "在哪里风 / 包含风",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

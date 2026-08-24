@@ -150,39 +150,46 @@
   ],
   "chunks": [
     {
-      "en": "correct definition for others",
-      "cn": "另外的正确的定义",
-      "type": "名词词组"
-    },
-    {
       "en": "correct definitions",
       "cn": "正确的定义",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "definition than",
       "cn": "定义",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "economics definition of budget",
       "cn": "预算的经济的定义",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "improve definition of time",
       "cn": "改进定义时间",
-      "type": "动词词组"
-    },
-    {
-      "en": "make / provide / clarify definition",
-      "cn": "做定义 / 提供定义 / 使更清晰易懂定义",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "read definitions of word",
       "cn": "阅读定义单词",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "correct definition for others",
+      "cn": "另外的正确的定义",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "make / provide / clarify definition",
+      "cn": "做定义 / 提供定义 / 使更清晰易懂定义",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

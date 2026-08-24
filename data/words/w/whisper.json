@@ -85,24 +85,28 @@
   ],
   "chunks": [
     {
-      "en": "whisper word / support",
-      "cn": "耳语单词 / 耳语支持",
-      "type": "动词词组"
-    },
-    {
       "en": "whispered in lion",
       "cn": "耳语狮",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "whispered in tiger",
       "cn": "耳语虎",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "whispered to neighbour",
       "cn": "耳语邻居",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "whisper word / support",
+      "cn": "耳语单词 / 耳语支持",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -298,24 +298,28 @@
   ],
   "chunks": [
     {
-      "en": "awkward / best / shop / long / single / missing moment",
-      "cn": "尴尬的时刻 / 最好的时刻 / 商店时刻 / 漫长的时刻 / 单一时刻 / 错过的时刻",
-      "type": "名词词组"
-    },
-    {
-      "en": "moment of people / success",
-      "cn": "人们的时刻 / 成功的时刻",
-      "type": "名词词组"
-    },
-    {
       "en": "see moments of shared",
       "cn": "看到共享的时刻",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "take moment to see",
       "cn": "花时间看",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "awkward / best / shop / long / single / missing moment",
+      "cn": "尴尬的时刻 / 最好的时刻 / 商店时刻 / 漫长的时刻 / 单一时刻 / 错过的时刻",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "moment of people / success",
+      "cn": "人们的时刻 / 成功的时刻",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

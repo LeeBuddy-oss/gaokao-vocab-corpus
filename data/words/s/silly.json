@@ -65,19 +65,22 @@
   ],
   "chunks": [
     {
-      "en": "be / is silly",
-      "cn": "愚蠢的",
-      "type": "形容词词组"
-    },
-    {
       "en": "silly paper",
       "cn": "愚蠢的纸",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "telling silly jokes",
       "cn": "告诉愚蠢的笑话",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be / is silly",
+      "cn": "愚蠢的",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

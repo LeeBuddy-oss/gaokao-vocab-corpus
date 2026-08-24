@@ -254,29 +254,34 @@
   ],
   "chunks": [
     {
-      "en": "nearby store to small",
-      "cn": "小的附近的商店",
-      "type": "名词词组"
+      "en": "be stored",
+      "cn": "被商店",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "stored until spring",
       "cn": "春天的商店",
-      "type": "名词词组"
-    },
-    {
-      "en": "village / grocery store",
-      "cn": "村庄商店 / 食品杂货店商店",
-      "type": "名词词组"
-    },
-    {
-      "en": "be stored",
-      "cn": "被商店",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be stored until",
       "cn": "被商店",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "nearby store to small",
+      "cn": "小的附近的商店",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "village / grocery store",
+      "cn": "村庄商店 / 食品杂货店商店",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

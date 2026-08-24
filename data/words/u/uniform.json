@@ -129,19 +129,22 @@
   ],
   "chunks": [
     {
-      "en": "new / team / strange / cotton / school / baseball / basketball uniform",
-      "cn": "新的制服 / 团队制服 / 奇怪的制服 / 棉织物制服 / 学校制服 / 棒球制服 / 篮球制服",
-      "type": "名词词组"
-    },
-    {
       "en": "developing uniform",
       "cn": "发展制服",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "wear uniforms at school",
       "cn": "穿制服学校",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "new / team / strange / cotton / school / baseball / basketball uniform",
+      "cn": "新的制服 / 团队制服 / 奇怪的制服 / 棉织物制服 / 学校制服 / 棒球制服 / 篮球制服",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

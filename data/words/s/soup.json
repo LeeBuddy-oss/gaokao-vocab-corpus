@@ -99,19 +99,22 @@
   ],
   "chunks": [
     {
-      "en": "egg / good / best / thick soup",
-      "cn": "鸡蛋汤 / 好的汤 / 最好的汤 / 厚的汤",
-      "type": "名词词组"
-    },
-    {
       "en": "friendship soup like good",
       "cn": "好的友谊汤",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "egg / good / best / thick soup",
+      "cn": "鸡蛋汤 / 好的汤 / 最好的汤 / 厚的汤",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "cooking / including soup",
       "cn": "烹饪汤 / 包含汤",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

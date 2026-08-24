@@ -278,24 +278,28 @@
   ],
   "chunks": [
     {
-      "en": "different / car / thin / colours / education / interaction shape",
-      "cn": "不同形状 / 汽车形状 / 薄的形状 / 颜色形状 / 教育形状 / 互动形状",
-      "type": "名词词组"
-    },
-    {
       "en": "shape during summer",
       "cn": "夏天的形状",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "shape of fish",
       "cn": "鱼的形状",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "different / car / thin / colours / education / interaction shape",
+      "cn": "不同形状 / 汽车形状 / 薄的形状 / 颜色形状 / 教育形状 / 互动形状",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "helped / distinguish shape",
       "cn": "帮助形状 / 区分形状",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

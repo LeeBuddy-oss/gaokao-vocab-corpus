@@ -111,14 +111,16 @@
   ],
   "chunks": [
     {
-      "en": "toys snacks",
-      "cn": "玩具点心",
-      "type": "名词词组"
-    },
-    {
       "en": "taking snacks",
       "cn": "拿点心",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "toys snacks",
+      "cn": "玩具点心",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

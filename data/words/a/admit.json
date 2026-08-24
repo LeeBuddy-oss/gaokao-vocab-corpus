@@ -135,24 +135,28 @@
   ],
   "chunks": [
     {
-      "en": "admit rainbow / free / mistakes",
-      "cn": "承认虹 / 承认自由的 / 承认",
-      "type": "动词词组"
+      "en": "be admitted",
+      "cn": "被承认",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "admitted to hospital",
       "cn": "承认医院",
-      "type": "动词词组"
-    },
-    {
-      "en": "be admitted",
-      "cn": "被承认",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "be admitted to",
       "cn": "被录取",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "admit rainbow / free / mistakes",
+      "cn": "承认虹 / 承认自由的 / 承认",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

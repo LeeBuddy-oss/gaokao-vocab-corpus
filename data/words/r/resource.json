@@ -157,24 +157,28 @@
   ],
   "chunks": [
     {
-      "en": "natural / study / water / career / mineral / sensitive resource",
-      "cn": "自然的资源 / 研究资源 / 水资源 / 职业资源 / 矿物资源 / 须谨慎对待的资源",
-      "type": "名词词组"
-    },
-    {
       "en": "resource in question",
       "cn": "问题的资源",
-      "type": "名词词组"
-    },
-    {
-      "en": "prepared / providing resource",
-      "cn": "准备资源 / 提供资源",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "use resources in library",
       "cn": "使用资源图书馆",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "natural / study / water / career / mineral / sensitive resource",
+      "cn": "自然的资源 / 研究资源 / 水资源 / 职业资源 / 矿物资源 / 须谨慎对待的资源",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "prepared / providing resource",
+      "cn": "准备资源 / 提供资源",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

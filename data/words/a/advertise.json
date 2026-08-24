@@ -79,24 +79,28 @@
   ],
   "chunks": [
     {
-      "en": "advertise lots / animals / better / products / campaign",
-      "cn": "展现 / 展现动物 / 展现更好的 / 展现产品 / 展现运动",
-      "type": "动词词组"
-    },
-    {
-      "en": "advertised as best",
-      "cn": "展现最好的",
-      "type": "动词词组"
-    },
-    {
       "en": "advertised in daily",
       "cn": "展现日常的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "be advertised as",
       "cn": "被宣传为",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "advertise lots / animals / better / products / campaign",
+      "cn": "展现 / 展现动物 / 展现更好的 / 展现产品 / 展现运动",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "advertised as best",
+      "cn": "展现最好的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

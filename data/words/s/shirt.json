@@ -253,14 +253,16 @@
   ],
   "chunks": [
     {
-      "en": "nice / green / identical shirt",
-      "cn": "好看的衬衫 / 绿色衬衫 / 相同的衬衫",
-      "type": "名词词组"
-    },
-    {
       "en": "change shirt",
       "cn": "换衬衫",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "nice / green / identical shirt",
+      "cn": "好看的衬衫 / 绿色衬衫 / 相同的衬衫",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

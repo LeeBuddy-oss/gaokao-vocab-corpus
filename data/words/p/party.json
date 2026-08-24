@@ -238,14 +238,16 @@
   ],
   "chunks": [
     {
-      "en": "dinner / birthday / dance / special / office party",
-      "cn": "晚餐派对 / 生日派对 / 跳舞派对 / 特殊的派对 / 办公室派对",
-      "type": "名词词组"
-    },
-    {
       "en": "missed party",
       "cn": "未击中派对",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "dinner / birthday / dance / special / office party",
+      "cn": "晚餐派对 / 生日派对 / 跳舞派对 / 特殊的派对 / 办公室派对",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -77,19 +77,22 @@
   ],
   "chunks": [
     {
-      "en": "beliefs faiths",
-      "cn": "看法信任",
-      "type": "名词词组"
-    },
-    {
       "en": "faith in human",
       "cn": "人类的信任",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "beliefs faiths",
+      "cn": "看法信任",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "hope / think / reflected faith",
       "cn": "希望信任 / 思考信任 / 反映信任",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

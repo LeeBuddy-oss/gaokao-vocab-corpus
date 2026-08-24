@@ -145,24 +145,28 @@
   ],
   "chunks": [
     {
-      "en": "frame of reference / mind",
-      "cn": "图画、门、玻璃等 / 头脑的图画、门、玻璃等",
-      "type": "名词词组"
-    },
-    {
       "en": "strong frame of old",
       "cn": "老的强壮的图画、门、玻璃等",
-      "type": "名词词组"
-    },
-    {
-      "en": "time / window frame",
-      "cn": "时间图画、门、玻璃等 / 窗户图画、门、玻璃等",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "fixed frame",
       "cn": "修理图画、门、玻璃等",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "frame of reference / mind",
+      "cn": "图画、门、玻璃等 / 头脑的图画、门、玻璃等",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "time / window frame",
+      "cn": "时间图画、门、玻璃等 / 窗户图画、门、玻璃等",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

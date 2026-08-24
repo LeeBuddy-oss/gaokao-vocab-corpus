@@ -168,29 +168,34 @@
   ],
   "chunks": [
     {
-      "en": "birth in occupation at age",
-      "cn": "工作在年龄的出生",
-      "type": "名词词组"
-    },
-    {
       "en": "births per woman",
       "cn": "出生",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "charts birth of wild",
       "cn": "野生的图表出生",
-      "type": "名词词组"
-    },
-    {
-      "en": "declining / high / place / weddings birth",
-      "cn": "减少出生 / 高的出生 / 地方出生 / 婚礼出生",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "remember birth of jazz",
       "cn": "记住出生爵士乐",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "birth in occupation at age",
+      "cn": "工作在年龄的出生",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "declining / high / place / weddings birth",
+      "cn": "减少出生 / 高的出生 / 地方出生 / 婚礼出生",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

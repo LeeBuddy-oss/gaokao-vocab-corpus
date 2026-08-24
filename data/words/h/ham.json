@@ -55,14 +55,16 @@
   ],
   "chunks": [
     {
-      "en": "be ham in",
-      "cn": "被火腿",
-      "type": "动词词组"
-    },
-    {
       "en": "ham in hamburger",
       "cn": "汉堡包的火腿",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "be ham in",
+      "cn": "被火腿",
+      "type": "动词短语",
+      "count": 2
     }
   ]
 }

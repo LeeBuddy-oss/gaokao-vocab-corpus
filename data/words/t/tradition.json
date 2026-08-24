@@ -225,24 +225,28 @@
   ],
   "chunks": [
     {
-      "en": "chinese / fact / family / social / evidence tradition",
-      "cn": "中文传统 / 事实传统 / 家庭传统 / 社会的传统 / 证据传统",
-      "type": "名词词组"
-    },
-    {
       "en": "traditions in city",
       "cn": "城市传统",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "traditions than",
       "cn": "传统",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "chinese / fact / family / social / evidence tradition",
+      "cn": "中文传统 / 事实传统 / 家庭传统 / 社会的传统 / 证据传统",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "seem / think / losing tradition",
       "cn": "似乎传统 / 思考传统 / 遗失传统",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

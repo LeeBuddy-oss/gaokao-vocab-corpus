@@ -1211,54 +1211,28 @@
   ],
   "chunks": [
     {
-      "en": "right thing",
-      "cn": "正确的事",
-      "type": "名词词组"
-    },
-    {
-      "en": "new things",
-      "cn": "新事物",
-      "type": "名词词组"
-    },
-    {
-      "en": "living things",
-      "cn": "生物",
-      "type": "名词词组"
-    },
-    {
-      "en": "get things",
-      "cn": "得到东西",
-      "type": "动词词组"
-    },
-    {
-      "en": "good things",
-      "cn": "好事",
-      "type": "名词词组"
-    },
-    {
-      "en": "break things",
-      "cn": "打破东西",
-      "type": "动词词组"
-    },
-    {
-      "en": "handle things",
-      "cn": "处理事情",
-      "type": "动词词组"
-    },
-    {
-      "en": "important thing",
-      "cn": "重要的事",
-      "type": "名词词组"
+      "en": "different things in field",
+      "cn": "领域里的不同事物",
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "worst things to deal",
       "cn": "最难处理的事",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "different things in field",
-      "cn": "领域里的不同事物",
-      "type": "名词词组"
+      "en": "right / new / living / good / important thing",
+      "cn": "正确的事 / 新事物 / 生物 / 好事 / 重要的事",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "get / break / handle thing",
+      "cn": "得到东西 / 打破东西 / 处理事情",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

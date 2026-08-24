@@ -107,19 +107,22 @@
   ],
   "chunks": [
     {
-      "en": "test / plastic / wide / whole tube",
-      "cn": "测试金属、塑料、橡皮 / 塑料金属、塑料、橡皮 / 宽的金属、塑料、橡皮 / 整个金属、塑料、橡皮",
-      "type": "名词词组"
-    },
-    {
       "en": "invent tube before air",
       "cn": "发明金属、塑料、橡皮空气",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "lay tube in place",
       "cn": "放置金属、塑料、橡皮地方",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "test / plastic / wide / whole tube",
+      "cn": "测试金属、塑料、橡皮 / 塑料金属、塑料、橡皮 / 宽的金属、塑料、橡皮 / 整个金属、塑料、橡皮",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

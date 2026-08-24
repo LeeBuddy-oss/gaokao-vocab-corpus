@@ -346,19 +346,22 @@
   ],
   "chunks": [
     {
-      "en": "camp / near / solid / arctic ground",
-      "cn": "营地地面 / 靠近地面 / 坚实的地面 / 北极的地面",
-      "type": "名词词组"
-    },
-    {
       "en": "ground than",
       "cn": "地面",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "camp / near / solid / arctic ground",
+      "cn": "营地地面 / 靠近地面 / 坚实的地面 / 北极的地面",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "hit / leave / called / touched / improve ground",
       "cn": "撞击地面 / 离开地面 / 叫地面 / 触摸地面 / 改善地面",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

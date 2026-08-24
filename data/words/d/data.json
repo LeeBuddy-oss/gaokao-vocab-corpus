@@ -435,32 +435,38 @@
     {
       "en": "basic data of transition",
       "cn": "过渡的基本数据",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "data on mobile",
       "cn": "移动端数据",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "official data on policy",
       "cn": "关于政策的官方数据",
-      "type": "名词词组"
-    },
-    {
-      "en": "used / visitor / available data",
-      "cn": "使用过的数据 / 访客数据 / 可用的数据",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "collect data for report",
       "cn": "为报告收集数据",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "used / visitor / available data",
+      "cn": "使用过的数据 / 访客数据 / 可用的数据",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "take / well / collected data",
       "cn": "获取数据 / 良好的数据 / 收集的数据",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

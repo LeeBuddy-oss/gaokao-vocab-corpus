@@ -126,19 +126,22 @@
   ],
   "chunks": [
     {
-      "en": "arctic / cooled / western / farming / certain region",
-      "cn": "北极的地区 / 凉爽的地区 / 西方的地区 / 农场地区 / 确定的地区",
-      "type": "名词词组"
-    },
-    {
       "en": "regions of silk",
       "cn": "丝织物的地区",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "developing regions",
       "cn": "发展地区",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "arctic / cooled / western / farming / certain region",
+      "cn": "北极的地区 / 凉爽的地区 / 西方的地区 / 农场地区 / 确定的地区",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

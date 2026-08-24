@@ -472,24 +472,28 @@
   ],
   "chunks": [
     {
-      "en": "human / way / wild / naming / mother nature",
-      "cn": "人性 / 自然的方式 / 野生自然 / 命名自然 / 大自然",
-      "type": "名词词组"
-    },
-    {
       "en": "nature for humans",
       "cn": "对人类而言的自然",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "nature in park",
       "cn": "公园里的自然",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "human / way / wild / naming / mother nature",
+      "cn": "人性 / 自然的方式 / 野生自然 / 命名自然 / 大自然",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "protect / call / observing nature",
       "cn": "保护自然 / 大自然 / 观察自然",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

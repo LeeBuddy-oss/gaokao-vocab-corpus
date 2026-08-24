@@ -483,54 +483,64 @@
   ],
   "chunks": [
     {
-      "en": "be easy to / for",
-      "cn": "容易的",
-      "type": "动词词组"
-    },
-    {
-      "en": "are easy to grow",
-      "cn": "生长的容易的",
-      "type": "形容词词组"
-    },
-    {
-      "en": "are easy to look",
-      "cn": "看的容易的",
-      "type": "形容词词组"
-    },
-    {
-      "en": "are easy to remember",
-      "cn": "记住的容易的",
-      "type": "形容词词组"
-    },
-    {
       "en": "be easy",
       "cn": "容易的",
-      "type": "形容词词组"
-    },
-    {
-      "en": "become easy to notice",
-      "cn": "成为容易的注意到",
-      "type": "形容词词组"
-    },
-    {
-      "en": "been easy to assumptions",
-      "cn": "假定的容易的",
-      "type": "形容词词组"
-    },
-    {
-      "en": "easy to meet / find",
-      "cn": "遇见的容易的 / 找到的容易的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 25
     },
     {
       "en": "easy way",
       "cn": "容易的方式",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 3
+    },
+    {
+      "en": "are easy to grow",
+      "cn": "生长的容易的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "are easy to look",
+      "cn": "看的容易的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "are easy to remember",
+      "cn": "记住的容易的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "become easy to notice",
+      "cn": "成为容易的注意到",
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "is easy to ask",
       "cn": "询问的容易的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be easy to / for",
+      "cn": "容易的",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "been easy to assumptions",
+      "cn": "假定的容易的",
+      "type": "形容词搭配",
+      "count": 0
+    },
+    {
+      "en": "easy to meet / find",
+      "cn": "遇见的容易的 / 找到的容易的",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

@@ -410,29 +410,34 @@
   ],
   "chunks": [
     {
-      "en": "corn / farm / landing / surrounding field",
-      "cn": "玉米地 / 农田 / 机场 / 周围的田野",
-      "type": "名词词组"
-    },
-    {
       "en": "field for nutrition",
       "cn": "营养领域",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "fields of flowers",
       "cn": "花田",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "research field for art",
       "cn": "艺术研究领域",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "corn / farm / landing / surrounding field",
+      "cn": "玉米地 / 农田 / 机场 / 周围的田野",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "keep / down / across field",
       "cn": "保持领域 / 下田 / 穿过田野",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

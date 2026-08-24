@@ -227,24 +227,28 @@
   ],
   "chunks": [
     {
-      "en": "car / train / near / front / baskets / cleaned window",
-      "cn": "汽车窗户 / 训练窗户 / 窗户 / 前面窗户 / 篮窗户 / 干净的窗户",
-      "type": "名词词组"
-    },
-    {
       "en": "open window into house",
       "cn": "房子的打开窗户",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "window to get",
       "cn": "得到的窗户",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "car / train / near / front / baskets / cleaned window",
+      "cn": "汽车窗户 / 训练窗户 / 窗户 / 前面窗户 / 篮窗户 / 干净的窗户",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "fix / about window",
       "cn": "修理窗户 / 窗户",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

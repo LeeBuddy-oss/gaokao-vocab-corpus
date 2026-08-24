@@ -43,19 +43,16 @@
   ],
   "chunks": [
     {
-      "en": "hotel receptionist",
-      "cn": "酒店接待员",
-      "type": "名词词组"
-    },
-    {
-      "en": "clerks receptionists",
-      "cn": "职员接待员",
-      "type": "名词词组"
-    },
-    {
       "en": "receptionist at international",
       "cn": "接待员",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hotel / clerks receptionist",
+      "cn": "酒店接待员 / 职员接待员",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

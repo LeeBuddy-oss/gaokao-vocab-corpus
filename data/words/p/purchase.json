@@ -153,22 +153,14 @@
     {
       "en": "be purchased",
       "cn": "被购买",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
-      "en": "books purchased",
-      "cn": "书购买",
-      "type": "名词词组"
-    },
-    {
-      "en": "annually purchase",
-      "cn": "每年的购买",
-      "type": "名词词组"
-    },
-    {
-      "en": "investment purchase",
-      "cn": "投资购买",
-      "type": "名词词组"
+      "en": "books / annually / investment purchase",
+      "cn": "书购买 / 每年的购买 / 投资购买",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

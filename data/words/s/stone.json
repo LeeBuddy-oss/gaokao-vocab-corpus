@@ -166,14 +166,16 @@
   ],
   "chunks": [
     {
-      "en": "orange / small stone",
-      "cn": "橙汁石头 / 小的石头",
-      "type": "名词词组"
-    },
-    {
       "en": "falling stones",
       "cn": "减少石头",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "orange / small stone",
+      "cn": "橙汁石头 / 小的石头",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

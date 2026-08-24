@@ -697,34 +697,40 @@
   ],
   "chunks": [
     {
-      "en": "duration / half hour",
-      "cn": "持续小时数 / 半小时",
-      "type": "名词词组"
+      "en": "hours per week",
+      "cn": "每周小时数",
+      "type": "名词短语",
+      "count": 4
     },
     {
       "en": "hours of sleep",
       "cn": "睡眠时长",
-      "type": "名词词组"
-    },
-    {
-      "en": "hours per week",
-      "cn": "每周小时数",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "per hour in air",
       "cn": "每小时在空中",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "per hour on road",
       "cn": "每小时在路上",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "duration / half hour",
+      "cn": "持续小时数 / 半小时",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "set / about / spend / working hour",
       "cn": "固定时间 / 大约一小时 / 花几小时 / 工作时间",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

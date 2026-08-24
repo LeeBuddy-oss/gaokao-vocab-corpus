@@ -519,54 +519,22 @@
   ],
   "chunks": [
     {
-      "en": "holiday lights",
-      "cn": "节日灯",
-      "type": "名词词组"
-    },
-    {
-      "en": "way light",
-      "cn": "方式光",
-      "type": "名词词组"
-    },
-    {
-      "en": "new light",
-      "cn": "新的光",
-      "type": "名词词组"
-    },
-    {
-      "en": "faces light",
-      "cn": "面对光",
-      "type": "名词词组"
-    },
-    {
-      "en": "smart lights",
-      "cn": "智能灯",
-      "type": "名词词组"
-    },
-    {
-      "en": "reflect light",
-      "cn": "反射光",
-      "type": "动词词组"
-    },
-    {
-      "en": "safety lights",
-      "cn": "安全灯",
-      "type": "名词词组"
-    },
-    {
-      "en": "getting lights",
-      "cn": "获得灯光",
-      "type": "动词词组"
-    },
-    {
       "en": "light in living",
       "cn": "生活中的光",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
-      "en": "movements lights",
-      "cn": "移动灯光",
-      "type": "名词词组"
+      "en": "holiday / way / new / faces / smart / safety / movements light",
+      "cn": "节日灯 / 方式光 / 新的光 / 面对光 / 智能灯 / 安全灯 / 移动灯光",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "reflect / getting light",
+      "cn": "反射光 / 获得灯光",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

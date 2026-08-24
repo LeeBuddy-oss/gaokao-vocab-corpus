@@ -1369,54 +1369,34 @@
   ],
   "chunks": [
     {
-      "en": "live music",
-      "cn": "现场音乐",
-      "type": "动词词组"
-    },
-    {
-      "en": "live far",
-      "cn": "住得远",
-      "type": "动词词组"
-    },
-    {
-      "en": "live lives",
-      "cn": "过活",
-      "type": "动词词组"
-    },
-    {
       "en": "lived in small",
       "cn": "住在小地方",
-      "type": "动词词组"
-    },
-    {
-      "en": "live in harmony",
-      "cn": "和谐共处",
-      "type": "动词词组"
-    },
-    {
-      "en": "live close",
-      "cn": "住得近",
-      "type": "动词词组"
-    },
-    {
-      "en": "lived door",
-      "cn": "住在隔壁",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "live in city",
       "cn": "住在城市",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "lived artist",
-      "cn": "居住的艺术家",
-      "type": "动词词组"
+      "en": "live in harmony",
+      "cn": "和谐共处",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "lived by words",
       "cn": "靠文字生活",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "live music / far / lives / close / door / artist",
+      "cn": "现场音乐 / 住得远 / 过活 / 住得近 / 住在隔壁 / 居住的艺术家",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

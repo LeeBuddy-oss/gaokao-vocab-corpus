@@ -225,59 +225,22 @@
   ],
   "chunks": [
     {
-      "en": "managed to cross",
-      "cn": "管理穿越",
-      "type": "动词词组"
-    },
-    {
-      "en": "manage time",
-      "cn": "管理时间",
-      "type": "动词词组"
-    },
-    {
-      "en": "managed time",
-      "cn": "管理时间",
-      "type": "动词词组"
-    },
-    {
-      "en": "managed to get",
-      "cn": "管理得到",
-      "type": "动词词组"
-    },
-    {
-      "en": "manages to add",
-      "cn": "管理添加",
-      "type": "动词词组"
-    },
-    {
-      "en": "managed to free",
-      "cn": "管理自由的",
-      "type": "动词词组"
-    },
-    {
-      "en": "managed to leave",
-      "cn": "管理离开",
-      "type": "动词词组"
-    },
-    {
-      "en": "manage to travel",
-      "cn": "管理旅行",
-      "type": "动词词组"
-    },
-    {
-      "en": "managed to secure",
-      "cn": "管理安心的",
-      "type": "动词词组"
-    },
-    {
-      "en": "manage communicate",
-      "cn": "管理与某人）交流信息",
-      "type": "动词词组"
-    },
-    {
       "en": "be managed by",
       "cn": "由…管理",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "manage time / communicate",
+      "cn": "管理时间 / 管理与某人）交流信息",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "manage to cross / get / add / free / leave / travel / secure",
+      "cn": "管理穿越 / 管理得到 / 管理添加 / 管理自由的 / 管理离开 / 管理旅行 / 管理安心的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

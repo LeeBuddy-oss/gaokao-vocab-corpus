@@ -97,24 +97,16 @@
   ],
   "chunks": [
     {
-      "en": "local temperature",
-      "cn": "本地温度",
-      "type": "名词词组"
-    },
-    {
-      "en": "rising temperatures",
-      "cn": "上升温度",
-      "type": "名词词组"
-    },
-    {
-      "en": "surface temperatures",
-      "cn": "表面温度",
-      "type": "名词词组"
-    },
-    {
       "en": "temperatures near greenhouses",
       "cn": "温室的温度",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "local / rising / surface temperature",
+      "cn": "本地温度 / 上升温度 / 表面温度",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

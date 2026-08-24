@@ -207,24 +207,28 @@
   ],
   "chunks": [
     {
-      "en": "expert / divided / personal / professional opinion",
-      "cn": "专家观点 / 使）分开观点 / 个人的观点 / 职业的观点",
-      "type": "名词词组"
-    },
-    {
       "en": "opinion on jazz",
       "cn": "爵士乐的观点",
-      "type": "名词词组"
-    },
-    {
-      "en": "express / know / give / highlight opinion",
-      "cn": "表达观点 / 知道观点 / 给观点 / 突出观点",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "give opinion within",
       "cn": "给观点",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "expert / divided / personal / professional opinion",
+      "cn": "专家观点 / 使）分开观点 / 个人的观点 / 职业的观点",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "express / know / give / highlight opinion",
+      "cn": "表达观点 / 知道观点 / 给观点 / 突出观点",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

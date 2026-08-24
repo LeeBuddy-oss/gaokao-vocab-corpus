@@ -1459,19 +1459,22 @@
   ],
   "chunks": [
     {
-      "en": "former / college / international / degree / fellow / graduate / teachers student",
-      "cn": "往届学生 / 大学生 / 留学生 / 学位生 / 同学 / 研究生 / 师生",
-      "type": "名词词组"
-    },
-    {
       "en": "delivering students to schools",
       "cn": "送学生上学",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "former / college / international / degree / fellow / graduate / teachers student",
+      "cn": "往届学生 / 大学生 / 留学生 / 学位生 / 同学 / 研究生 / 师生",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "help / invite student",
       "cn": "帮助学生 / 邀请学生",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

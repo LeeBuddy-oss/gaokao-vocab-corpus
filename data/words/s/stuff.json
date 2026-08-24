@@ -103,19 +103,22 @@
   ],
   "chunks": [
     {
-      "en": "good / little / biscuits / sausages stuff",
-      "cn": "好的事物名称不详、无 / 小的事物名称不详、无 / 饼干事物名称不详、无 / 香肠事物名称不详、无",
-      "type": "名词词组"
-    },
-    {
       "en": "rolls stuffed with sliced",
       "cn": "切下的食物）薄片的翻滚事物名称不详、无",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be stuffed",
       "cn": "事物名称不详、无",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "good / little / biscuits / sausages stuff",
+      "cn": "好的事物名称不详、无 / 小的事物名称不详、无 / 饼干事物名称不详、无 / 香肠事物名称不详、无",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

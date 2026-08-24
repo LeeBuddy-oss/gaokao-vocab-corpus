@@ -411,24 +411,28 @@
   ],
   "chunks": [
     {
-      "en": "big / top / hard business",
-      "cn": "大企业 / 顶级企业 / 艰难的行业",
-      "type": "名词词组"
-    },
-    {
       "en": "business as usual",
       "cn": "照常营业",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "business of own",
       "cn": "自己的生意",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "big / top / hard business",
+      "cn": "大企业 / 顶级企业 / 艰难的行业",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "run / starting / making / start / managed business",
       "cn": "经营业务 / 创业 / 做生意 / 管理的业务",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -299,24 +299,28 @@
   ],
   "chunks": [
     {
-      "en": "good / low / final / lower / history / possible grade",
-      "cn": "好成绩 / 低分 / 最终成绩 / 较低的年级 / 历史成绩 / 可能的等级",
-      "type": "名词词组"
-    },
-    {
       "en": "grade for course",
       "cn": "课程成绩",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "letter grade for class",
       "cn": "班级的字母等级",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "good / low / final / lower / history / possible grade",
+      "cn": "好成绩 / 低分 / 最终成绩 / 较低的年级 / 历史成绩 / 可能的等级",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "let / fail grade",
       "cn": "让等级 / 不及格",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -355,29 +355,34 @@
   ],
   "chunks": [
     {
-      "en": "brown signs on",
-      "cn": "棕色标志",
-      "type": "名词词组"
-    },
-    {
-      "en": "road / art / waving / section sign",
-      "cn": "路标 / 艺术标志 / 挥舞的标志 / 签署的部分",
-      "type": "名词词组"
-    },
-    {
-      "en": "sign of panic / danger",
-      "cn": "恐慌的迹象 / 危险的迹象",
-      "type": "名词词组"
-    },
-    {
       "en": "sign up",
       "cn": "报名",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "brown signs on",
+      "cn": "棕色标志",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "passed sign",
       "cn": "经过的标志",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "road / art / waving / section sign",
+      "cn": "路标 / 艺术标志 / 挥舞的标志 / 签署的部分",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "sign of panic / danger",
+      "cn": "恐慌的迹象 / 危险的迹象",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

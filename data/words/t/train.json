@@ -628,24 +628,28 @@
   ],
   "chunks": [
     {
-      "en": "hour / main / fast / planes / medical train",
-      "cn": "小时训练 / 主要的训练 / 快的训练 / 计划训练 / 医学的训练",
-      "type": "名词词组"
-    },
-    {
       "en": "trains for decades",
       "cn": "十年的训练",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hour / main / fast / planes / medical train",
+      "cn": "小时训练 / 主要的训练 / 快的训练 / 计划训练 / 医学的训练",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "be trained in / to",
       "cn": "被训练",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "check / make / takes / ensure train",
       "cn": "检查训练 / 做训练 / 乘火车 / 确保训练",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

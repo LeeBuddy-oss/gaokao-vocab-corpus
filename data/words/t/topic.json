@@ -219,29 +219,34 @@
   ],
   "chunks": [
     {
-      "en": "fun / complete / diverse topic",
-      "cn": "享乐话题 / 完成话题 / 多样的话题",
-      "type": "名词词组"
-    },
-    {
       "en": "topic in small",
       "cn": "小的话题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "topic of choice",
       "cn": "选择的话题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "track topics for camp",
       "cn": "营地的轨道话题",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fun / complete / diverse topic",
+      "cn": "享乐话题 / 完成话题 / 多样的话题",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "change / off / submit / introduce topic",
       "cn": "改变话题 / 话题 / 提交话题",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

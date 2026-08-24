@@ -226,24 +226,28 @@
   ],
   "chunks": [
     {
-      "en": "further as time",
-      "cn": "进一步的时间",
-      "type": "动词词组"
-    },
-    {
       "en": "further from where",
       "cn": "进一步的在哪里",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "further as time",
+      "cn": "进一步的时间",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "further research / education / information / decided / explore / training / changing",
       "cn": "进一步的研究 / 进一步的教育 / 进一步的信息 / 进一步的决定 / 进一步的勘探 / 进一步的训练 / 进一步的改变",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "further up weather",
       "cn": "进一步的天气",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

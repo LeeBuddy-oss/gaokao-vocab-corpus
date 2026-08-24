@@ -327,14 +327,16 @@
   ],
   "chunks": [
     {
-      "en": "bus / news / youth / railway / local / train / bank / city / space station",
-      "cn": "公交站 / 新闻台 / 青年站 / 火车站 / 本地站 / 银行站 / 城市站 / 空间站",
-      "type": "名词词组"
-    },
-    {
       "en": "pull stations",
       "cn": "拉站",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "bus / news / youth / railway / local / train / bank / city / space station",
+      "cn": "公交站 / 新闻台 / 青年站 / 火车站 / 本地站 / 银行站 / 城市站 / 空间站",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

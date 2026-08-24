@@ -465,24 +465,28 @@
   ],
   "chunks": [
     {
-      "en": "oil / real / fence paint",
-      "cn": "油画 / 油画颜料 / 真正的颜料 / 栅栏画",
-      "type": "名词词组"
-    },
-    {
       "en": "paint from life",
       "cn": "写生",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "painting to take",
       "cn": "要拿的画",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "oil / real / fence paint",
+      "cn": "油画 / 油画颜料 / 真正的颜料 / 栅栏画",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "see / throwing / develop / enhanced / be paint",
       "cn": "看画 / 泼颜料 / 发展绘画 / 提升的绘画 / 绘画颜料",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

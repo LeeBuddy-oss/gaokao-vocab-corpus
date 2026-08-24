@@ -259,59 +259,28 @@
   ],
   "chunks": [
     {
-      "en": "easy task",
-      "cn": "容易的任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "challenging task",
-      "cn": "挑战性任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "read task",
-      "cn": "阅读任务",
-      "type": "动词词组"
-    },
-    {
-      "en": "basic task",
-      "cn": "基本任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "small tasks",
-      "cn": "小任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "gallery task",
-      "cn": "画廊任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "perform tasks",
-      "cn": "执行任务",
-      "type": "动词词组"
-    },
-    {
       "en": "tasks for age",
       "cn": "年龄的任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "exposure task",
-      "cn": "暴露任务",
-      "type": "名词词组"
-    },
-    {
-      "en": "creative tasks",
-      "cn": "创意任务",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "be tasks for",
       "cn": "被任务",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "easy / challenging / basic / small / gallery / exposure / creative task",
+      "cn": "容易的任务 / 挑战性任务 / 基本任务 / 小任务 / 画廊任务 / 暴露任务 / 创意任务",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "read / perform task",
+      "cn": "阅读任务 / 执行任务",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

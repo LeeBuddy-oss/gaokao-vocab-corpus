@@ -140,34 +140,16 @@
   ],
   "chunks": [
     {
-      "en": "quit job",
-      "cn": "离开工作",
-      "type": "动词词组"
-    },
-    {
-      "en": "quit service",
-      "cn": "离开服务",
-      "type": "动词词组"
-    },
-    {
-      "en": "quit college",
-      "cn": "离开大学",
-      "type": "动词词组"
-    },
-    {
-      "en": "quit delivering",
-      "cn": "离开递送",
-      "type": "动词词组"
-    },
-    {
       "en": "quitting in fact",
       "cn": "离开事实",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
-      "en": "quitting necessary",
-      "cn": "离开必要的",
-      "type": "动词词组"
+      "en": "quit job / service / college / delivering / necessary",
+      "cn": "离开工作 / 离开服务 / 离开大学 / 离开递送 / 离开必要的",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

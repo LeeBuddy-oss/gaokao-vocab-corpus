@@ -124,24 +124,28 @@
   ],
   "chunks": [
     {
-      "en": "called / looked upon",
-      "cn": "被请求 / 被看作",
-      "type": "介词词组"
-    },
-    {
       "en": "feel upon seeing",
       "cn": "在感觉看见上",
-      "type": "介词词组"
+      "type": "介词短语",
+      "count": 1
     },
     {
       "en": "once upon time",
       "cn": "在仅一次时间上",
-      "type": "介词词组"
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "called / looked upon",
+      "cn": "被请求 / 被看作",
+      "type": "介词短语",
+      "count": 0
     },
     {
       "en": "upon request / life / death / uncle / entering / continent",
       "cn": "在正式或礼貌的）要上 / 在生活上 / 在死上 / 在儿童用语上 / 在进入上 / 在大陆上",
-      "type": "介词词组"
+      "type": "介词短语",
+      "count": 0
     }
   ]
 }

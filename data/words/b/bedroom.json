@@ -109,14 +109,16 @@
   ],
   "chunks": [
     {
-      "en": "spare / goodbye / separate / bathroom bedroom",
-      "cn": "空闲的卧室 / 再见卧室 / 分开卧室 / 浴室卧室",
-      "type": "名词词组"
-    },
-    {
       "en": "down bedroom",
       "cn": "卧室",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "spare / goodbye / separate / bathroom bedroom",
+      "cn": "空闲的卧室 / 再见卧室 / 分开卧室 / 浴室卧室",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

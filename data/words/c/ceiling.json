@@ -70,14 +70,16 @@
   ],
   "chunks": [
     {
-      "en": "walls ceilings",
-      "cn": "墙天花板",
-      "type": "名词词组"
-    },
-    {
       "en": "ceiling in room",
       "cn": "房间的天花板",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "walls ceilings",
+      "cn": "墙天花板",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

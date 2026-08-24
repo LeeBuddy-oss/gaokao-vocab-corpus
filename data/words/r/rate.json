@@ -277,54 +277,34 @@
   ],
   "chunks": [
     {
-      "en": "birth rates",
-      "cn": "出生率",
-      "type": "名词词组"
-    },
-    {
       "en": "recycling rate in cities",
       "cn": "回收利用率城市",
-      "type": "动词词组"
-    },
-    {
-      "en": "death rate",
-      "cn": "死率",
-      "type": "名词词组"
-    },
-    {
-      "en": "rate of car",
-      "cn": "汽车的率",
-      "type": "名词词组"
-    },
-    {
-      "en": "heart rates",
-      "cn": "心率",
-      "type": "名词词组"
-    },
-    {
-      "en": "error rates",
-      "cn": "错误率",
-      "type": "名词词组"
-    },
-    {
-      "en": "crime rates",
-      "cn": "犯罪率",
-      "type": "名词词组"
-    },
-    {
-      "en": "success rates",
-      "cn": "成功率",
-      "type": "名词词组"
-    },
-    {
-      "en": "rate than patients",
-      "cn": "病人的率",
-      "type": "名词词组"
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "high rate in getting",
       "cn": "得到的高的率",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rate of car",
+      "cn": "汽车的率",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rate than patients",
+      "cn": "病人的率",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "birth / death / heart / error / crime / success rate",
+      "cn": "出生率 / 死率 / 心率 / 错误率 / 犯罪率 / 成功率",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

@@ -216,54 +216,34 @@
   ],
   "chunks": [
     {
-      "en": "proper technique",
-      "cn": "符合习俗的技巧",
-      "type": "名词词组"
-    },
-    {
-      "en": "simple techniques",
-      "cn": "简单的技巧",
-      "type": "名词词组"
-    },
-    {
-      "en": "cooking techniques",
-      "cn": "烹饪技巧",
-      "type": "动词词组"
-    },
-    {
-      "en": "popular techniques",
-      "cn": "受欢迎的技巧",
-      "type": "名词词组"
-    },
-    {
-      "en": "scanning techniques",
-      "cn": "射线、超声波、电技巧",
-      "type": "动词词组"
-    },
-    {
-      "en": "shooting techniques",
-      "cn": "射击技巧",
-      "type": "动词词组"
-    },
-    {
-      "en": "learning techniques",
-      "cn": "研究技巧",
-      "type": "动词词组"
-    },
-    {
-      "en": "techniques to create",
-      "cn": "创造的技巧",
-      "type": "名词词组"
-    },
-    {
       "en": "imaging technique to see",
       "cn": "看见的图像技巧",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "techniques for collecting",
       "cn": "收集的技巧",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "techniques to create",
+      "cn": "创造的技巧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "proper / simple / popular technique",
+      "cn": "符合习俗的技巧 / 简单的技巧 / 受欢迎的技巧",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "cooking / scanning / shooting / learning technique",
+      "cn": "烹饪技巧 / 射线、超声波、电技巧 / 射击技巧 / 研究技巧",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

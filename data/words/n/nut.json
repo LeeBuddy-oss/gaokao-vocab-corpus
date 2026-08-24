@@ -86,19 +86,22 @@
   ],
   "chunks": [
     {
-      "en": "fish / fruit nut",
-      "cn": "鱼 / 水果",
-      "type": "名词词组"
-    },
-    {
       "en": "nut in shell",
       "cn": "蛋、坚果、某些种的",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "out nut",
       "cn": "常构成复合词",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "fish / fruit nut",
+      "cn": "鱼 / 水果",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

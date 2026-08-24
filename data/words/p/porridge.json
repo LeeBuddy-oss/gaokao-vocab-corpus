@@ -104,19 +104,22 @@
   ],
   "chunks": [
     {
-      "en": "minute / chicken porridge",
-      "cn": "分钟面糊 / 鸡肉面糊",
-      "type": "名词词组"
-    },
-    {
       "en": "porridge into pieces for meals",
       "cn": "表示对象、用途等一餐的面糊",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "minute / chicken porridge",
+      "cn": "分钟面糊 / 鸡肉面糊",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "boil / eat / serving porridge",
       "cn": "煮沸面糊 / 吃面糊 / 面糊",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

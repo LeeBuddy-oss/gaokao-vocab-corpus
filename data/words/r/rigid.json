@@ -40,19 +40,22 @@
   ],
   "chunks": [
     {
-      "en": "rigid demanding",
-      "cn": "规则、方法等需求",
-      "type": "形容词词组"
-    },
-    {
       "en": "rigid about rules",
       "cn": "规则的规则、方法等",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "follow rigid rules",
       "cn": "跟随规则、方法等规则",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "rigid demanding",
+      "cn": "规则、方法等需求",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

@@ -177,19 +177,22 @@
   ],
   "chunks": [
     {
-      "en": "dry / low / wet / high / rainy / holiday season",
-      "cn": "干的季 / 低季 / 潮的季 / 高的季 / 阴雨的季 / 假期季",
-      "type": "名词词组"
-    },
-    {
       "en": "new season of show",
       "cn": "展示的新的季",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "season as",
       "cn": "季",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "dry / low / wet / high / rainy / holiday season",
+      "cn": "干的季 / 低季 / 潮的季 / 高的季 / 阴雨的季 / 假期季",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

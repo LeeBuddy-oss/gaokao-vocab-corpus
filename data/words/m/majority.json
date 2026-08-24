@@ -84,24 +84,16 @@
   ],
   "chunks": [
     {
-      "en": "majority of people",
-      "cn": "人们的大部分",
-      "type": "名词词组"
-    },
-    {
       "en": "vast majority",
       "cn": "辽阔的大部分",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
-      "en": "majority of city",
-      "cn": "城市大部分",
-      "type": "名词词组"
-    },
-    {
-      "en": "majority of western",
-      "cn": "西方的大部分",
-      "type": "名词词组"
+      "en": "majority of people / city / western",
+      "cn": "人们的大部分 / 城市大部分 / 西方的大部分",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

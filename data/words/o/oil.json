@@ -130,24 +130,28 @@
   ],
   "chunks": [
     {
-      "en": "huge / present / supplement oil",
-      "cn": "巨大的油 / 呈现油 / 增补油",
-      "type": "名词词组"
-    },
-    {
       "en": "oil on burns",
       "cn": "燃烧的油",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "avoided oil",
       "cn": "避免油",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "poured oil into pan",
       "cn": "倒油一锅的量",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "huge / present / supplement oil",
+      "cn": "巨大的油 / 呈现油 / 增补油",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

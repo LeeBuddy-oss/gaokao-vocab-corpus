@@ -158,24 +158,28 @@
   ],
   "chunks": [
     {
-      "en": "days / horses / real brush",
-      "cn": "天刷 / 马刷 / 真实的刷",
-      "type": "名词词组"
-    },
-    {
       "en": "about brushes before visitor",
       "cn": "刷在…以前访客",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "be brushed off",
       "cn": "被刷",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "days / horses / real brush",
+      "cn": "天刷 / 马刷 / 真实的刷",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "up / make brush",
       "cn": "刷 / 做刷",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -120,34 +120,40 @@
   ],
   "chunks": [
     {
-      "en": "be concluded about / from",
-      "cn": "不用于进行时",
-      "type": "动词词组"
-    },
-    {
       "en": "conclude from passage",
       "cn": "章节",
-      "type": "动词词组"
-    },
-    {
-      "en": "conclude joke / city / problem / boiling",
-      "cn": "笑话 / 城市 / 问题 / 煮沸",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "concludes by introducing",
       "cn": "不用于进行时把 … 介绍",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "concludes by reviewing",
       "cn": "复习",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "concludes with collection",
       "cn": "常指同类的）收集",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be concluded about / from",
+      "cn": "不用于进行时",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "conclude joke / city / problem / boiling",
+      "cn": "笑话 / 城市 / 问题 / 煮沸",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

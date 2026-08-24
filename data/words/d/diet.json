@@ -122,19 +122,22 @@
   ],
   "chunks": [
     {
-      "en": "new / poor / daily / human / healthy / traditional diet",
-      "cn": "新的饮食 / 贫穷的饮食 / 日常饮食 / 人类饮食 / 健康的饮食 / 传统的饮食",
-      "type": "名词词组"
-    },
-    {
       "en": "introduce diet of special",
       "cn": "饮食特殊的",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "new / poor / daily / human / healthy / traditional diet",
+      "cn": "新的饮食 / 贫穷的饮食 / 日常饮食 / 人类饮食 / 健康的饮食 / 传统的饮食",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "make / including diet",
       "cn": "做饮食 / 包含饮食",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

@@ -1428,59 +1428,22 @@
   ],
   "chunks": [
     {
-      "en": "looked around",
-      "cn": "环顾四周",
-      "type": "动词词组"
-    },
-    {
-      "en": "looking for new",
-      "cn": "寻找新的",
-      "type": "动词词组"
-    },
-    {
-      "en": "looked like",
-      "cn": "看起来像",
-      "type": "动词词组"
-    },
-    {
-      "en": "look troubled",
-      "cn": "看起来苦恼",
-      "type": "动词词组"
-    },
-    {
-      "en": "look like",
-      "cn": "看起来像",
-      "type": "动词词组"
-    },
-    {
-      "en": "looks like",
-      "cn": "看起来像",
-      "type": "动词词组"
-    },
-    {
-      "en": "looked upon",
-      "cn": "被看作",
-      "type": "动词词组"
-    },
-    {
-      "en": "looking for man",
-      "cn": "寻找男人",
-      "type": "动词词组"
-    },
-    {
-      "en": "looked confused",
-      "cn": "看起来困惑",
-      "type": "动词词组"
-    },
-    {
-      "en": "looking for place",
-      "cn": "寻找地方",
-      "type": "动词词组"
-    },
-    {
       "en": "be looking for",
       "cn": "被看",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 9
+    },
+    {
+      "en": "look around / like / troubled / upon / confused",
+      "cn": "环顾四周 / 看起来像 / 看起来苦恼 / 被看作 / 看起来困惑",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "look for new / man / place",
+      "cn": "寻找新的 / 寻找男人 / 寻找地方",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

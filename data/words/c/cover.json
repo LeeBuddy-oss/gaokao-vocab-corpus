@@ -323,24 +323,28 @@
   ],
   "chunks": [
     {
-      "en": "be covered in / with",
-      "cn": "被覆盖 / 覆盖着",
-      "type": "动词词组"
-    },
-    {
-      "en": "cover hole / lot / vast / tall / block / things / head / forests",
-      "cn": "覆盖洞 / 覆盖 / 覆盖辽阔的 / 覆盖用以表示或询问高 / 覆盖阻挡 / 覆盖事情 / 覆盖头 / 覆盖森林",
-      "type": "动词词组"
-    },
-    {
       "en": "cover up holes",
       "cn": "覆盖洞",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "covered in snow",
       "cn": "覆盖雪",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be covered in / with",
+      "cn": "被覆盖 / 覆盖着",
+      "type": "动词短语",
+      "count": 0
+    },
+    {
+      "en": "cover hole / lot / vast / tall / block / things / head / forests",
+      "cn": "覆盖洞 / 覆盖 / 覆盖辽阔的 / 覆盖用以表示或询问高 / 覆盖阻挡 / 覆盖事情 / 覆盖头 / 覆盖森林",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

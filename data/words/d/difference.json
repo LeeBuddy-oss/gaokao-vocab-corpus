@@ -243,39 +243,46 @@
   ],
   "chunks": [
     {
-      "en": "age / huge / gender difference",
-      "cn": "年龄差异 / 巨大的差异 / 性别差异",
-      "type": "名词词组"
-    },
-    {
       "en": "difference in child",
       "cn": "孩子的差异",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "differences between print",
       "cn": "打印的差异",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "differences between weak",
       "cn": "弱的差异",
-      "type": "名词词组"
-    },
-    {
-      "en": "accept / observe difference",
-      "cn": "接受差异 / 观察差异",
-      "type": "动词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "make difference in world",
       "cn": "做差异世界",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "tell difference between humans",
       "cn": "告诉差异人类",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "age / huge / gender difference",
+      "cn": "年龄差异 / 巨大的差异 / 性别差异",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "accept / observe difference",
+      "cn": "接受差异 / 观察差异",
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }

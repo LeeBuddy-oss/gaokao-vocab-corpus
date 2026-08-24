@@ -99,24 +99,28 @@
   ],
   "chunks": [
     {
-      "en": "big / new / fashion brand",
-      "cn": "大的品牌 / 新的品牌 / 时尚品牌",
-      "type": "名词词组"
-    },
-    {
       "en": "special brand of modern",
       "cn": "现代的特殊的品牌",
-      "type": "名词词组"
-    },
-    {
-      "en": "sugar brands like classic",
-      "cn": "书、电影或歌曲的糖品牌",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "unique brand of humour",
       "cn": "幽默的独特的品牌",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "big / new / fashion brand",
+      "cn": "大的品牌 / 新的品牌 / 时尚品牌",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "sugar brands like classic",
+      "cn": "书、电影或歌曲的糖品牌",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

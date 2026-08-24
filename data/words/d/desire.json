@@ -246,29 +246,34 @@
   ],
   "chunks": [
     {
-      "en": "desire to read / give / explore",
-      "cn": "阅读的愿望 / 给的愿望 / 勘探的愿望",
-      "type": "名词词组"
-    },
-    {
       "en": "inner desire to make",
       "cn": "做的感情等愿望",
-      "type": "名词词组"
-    },
-    {
-      "en": "real / crowd / personal / achievements desire",
-      "cn": "真实的愿望 / 人群愿望 / 个人的愿望 / 成就愿望",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "dismiss desire",
       "cn": "不予考虑愿望",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "growing desire to know",
       "cn": "生长愿望知道",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "desire to read / give / explore",
+      "cn": "阅读的愿望 / 给的愿望 / 勘探的愿望",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "real / crowd / personal / achievements desire",
+      "cn": "真实的愿望 / 人群愿望 / 个人的愿望 / 成就愿望",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

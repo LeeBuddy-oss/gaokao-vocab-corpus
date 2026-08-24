@@ -62,24 +62,28 @@
   ],
   "chunks": [
     {
-      "en": "be / is complicated",
-      "cn": "复杂的",
-      "type": "形容词词组"
-    },
-    {
       "en": "complicated than",
       "cn": "复杂的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "complicated to explain",
       "cn": "解释的复杂的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "print complicated chocolate",
       "cn": "打印复杂的巧克力",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be / is complicated",
+      "cn": "复杂的",
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

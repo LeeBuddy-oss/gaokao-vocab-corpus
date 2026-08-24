@@ -79,29 +79,34 @@
   ],
   "chunks": [
     {
-      "en": "good / dogs / others / different intention",
-      "cn": "好的打算 / 狗打算 / 打算 / 不同打算",
-      "type": "名词词组"
-    },
-    {
       "en": "intention of following in parents",
       "cn": "跟随在某一点父母的打算",
-      "type": "名词词组"
-    },
-    {
-      "en": "intention of giving / adaptations",
-      "cn": "给的打算 / 适应的打算",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "intention to point out central",
       "cn": "指出外面中心的打算",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "stated intention of buying",
       "cn": "买的状态打算",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "good / dogs / others / different intention",
+      "cn": "好的打算 / 狗打算 / 打算 / 不同打算",
+      "type": "名词短语",
+      "count": 0
+    },
+    {
+      "en": "intention of giving / adaptations",
+      "cn": "给的打算 / 适应的打算",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

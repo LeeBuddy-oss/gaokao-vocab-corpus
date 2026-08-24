@@ -184,19 +184,22 @@
   ],
   "chunks": [
     {
-      "en": "favourite food / books / sport / subject",
-      "cn": "最喜欢的食物 / 最喜欢的书 / 最喜欢的运动 / 最喜欢的学科",
-      "type": "形容词词组"
-    },
-    {
       "en": "favourite from among",
       "cn": "最喜欢的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "favourite food / books / sport / subject",
+      "cn": "最喜欢的食物 / 最喜欢的书 / 最喜欢的运动 / 最喜欢的学科",
+      "type": "形容词搭配",
+      "count": 0
     },
     {
       "en": "favourites to remind",
       "cn": "提醒的最喜欢的",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

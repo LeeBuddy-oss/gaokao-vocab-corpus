@@ -67,14 +67,16 @@
   ],
   "chunks": [
     {
-      "en": "sheep cows",
-      "cn": "羊母牛",
-      "type": "名词词组"
-    },
-    {
       "en": "killed cows",
       "cn": "杀母牛",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "sheep cows",
+      "cn": "羊母牛",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

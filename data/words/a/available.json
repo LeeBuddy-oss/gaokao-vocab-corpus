@@ -403,49 +403,58 @@
   ],
   "chunks": [
     {
-      "en": "be available for / to / in / at",
-      "cn": "可用的",
-      "type": "动词词组"
-    },
-    {
-      "en": "available in print",
-      "cn": "有印刷版",
-      "type": "形容词词组"
-    },
-    {
-      "en": "available on phones",
-      "cn": "手机上可用",
-      "type": "形容词词组"
-    },
-    {
-      "en": "available projects",
-      "cn": "可用项目",
-      "type": "形容词词组"
-    },
-    {
-      "en": "available to former",
-      "cn": "前者可用",
-      "type": "形容词词组"
-    },
-    {
       "en": "available to students",
       "cn": "学生可用",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 2
     },
     {
       "en": "available to talk",
       "cn": "可以谈话",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 2
+    },
+    {
+      "en": "available in print",
+      "cn": "有印刷版",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "available on phones",
+      "cn": "手机上可用",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "available projects",
+      "cn": "可用项目",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "available to former",
+      "cn": "前者可用",
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "available to young",
       "cn": "年轻人可用",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "be available for / to / in / at",
+      "cn": "可用的",
+      "type": "动词短语",
+      "count": 0
     },
     {
       "en": "is / be / becomes available",
       "cn": "是可用的 / 被可用 / 变得可用",
-      "type": "形容词词组"
+      "type": "形容词搭配",
+      "count": 0
     }
   ]
 }

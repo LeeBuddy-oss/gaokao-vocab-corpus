@@ -360,29 +360,34 @@
   ],
   "chunks": [
     {
-      "en": "book / negative / trust / judges / positive / enthusiastic review",
-      "cn": "书评 / 差评 / 信任评论 / 评委评论 / 好评 / 热情的评论",
-      "type": "名词词组"
-    },
-    {
       "en": "business review of product",
       "cn": "产品的商业评论",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "negative review of hotel",
       "cn": "酒店的差评",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "review of modern",
       "cn": "现代评论",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "criticise review",
       "cn": "批评评论",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "book / negative / trust / judges / positive / enthusiastic review",
+      "cn": "书评 / 差评 / 信任评论 / 评委评论 / 好评 / 热情的评论",
+      "type": "名词短语",
+      "count": 0
     }
   ]
 }

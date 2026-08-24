@@ -262,24 +262,28 @@
   ],
   "chunks": [
     {
-      "en": "free / small ice",
-      "cn": "自由的冰 / 小的冰",
-      "type": "名词词组"
-    },
-    {
       "en": "solid ice within",
       "cn": "结实的冰",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "storing ice for future",
       "cn": "未来的商店冰",
-      "type": "名词词组"
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "free / small ice",
+      "cn": "自由的冰 / 小的冰",
+      "type": "名词短语",
+      "count": 0
     },
     {
       "en": "fat / try / watching / over ice",
       "cn": "脂肪冰 / 尝试冰 / 观看冰 / 冰",
-      "type": "动词词组"
+      "type": "动词短语",
+      "count": 0
     }
   ]
 }
