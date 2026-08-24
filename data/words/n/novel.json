@@ -302,48 +302,8 @@
   ],
   "chunks": [
     {
-      "en": "crime novels",
-      "cn": "犯罪小说",
-      "type": "名词词组"
-    },
-    {
-      "en": "writing novels",
-      "cn": "写小说",
-      "type": "动词词组"
-    },
-    {
-      "en": "read novel",
-      "cn": "读小说",
-      "type": "动词词组"
-    },
-    {
-      "en": "opening novel",
-      "cn": "翻开小说",
-      "type": "名词词组"
-    },
-    {
-      "en": "fantasy novel",
-      "cn": "奇幻小说",
-      "type": "名词词组"
-    },
-    {
-      "en": "develop novel",
-      "cn": "发展小说",
-      "type": "动词词组"
-    },
-    {
-      "en": "discuss novel",
-      "cn": "讨论小说",
-      "type": "动词词组"
-    },
-    {
-      "en": "reading novels",
-      "cn": "阅读小说",
-      "type": "动词词组"
-    },
-    {
-      "en": "purchase novels",
-      "cn": "购买小说",
+      "en": "crime / opening / fantasy / purchase novel",
+      "cn": "犯罪小说 / 翻开小说 / 奇幻小说 / 购买小说",
       "type": "名词词组"
     },
     {
@@ -354,6 +314,11 @@
     {
       "en": "be novel in",
       "cn": "被小说",
+      "type": "动词词组"
+    },
+    {
+      "en": "writing / read / develop / discuss / reading novel",
+      "cn": "写小说 / 读小说 / 发展小说 / 讨论小说 / 阅读小说",
       "type": "动词词组"
     }
   ]

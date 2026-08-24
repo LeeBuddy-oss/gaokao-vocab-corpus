@@ -308,54 +308,24 @@
   ],
   "chunks": [
     {
-      "en": "front door",
-      "cn": "前门",
-      "type": "名词词组"
-    },
-    {
-      "en": "open doors",
-      "cn": "开门",
-      "type": "名词词组"
-    },
-    {
       "en": "door to office",
       "cn": "办公室的门",
       "type": "名词词组"
     },
     {
-      "en": "classroom door",
-      "cn": "教室门",
-      "type": "名词词组"
-    },
-    {
-      "en": "glass door",
-      "cn": "玻璃门",
-      "type": "名词词组"
-    },
-    {
-      "en": "closing door",
-      "cn": "关门",
-      "type": "动词词组"
-    },
-    {
-      "en": "fridge doors",
-      "cn": "冰箱门",
-      "type": "名词词组"
-    },
-    {
-      "en": "locked doors",
-      "cn": "锁上的门",
-      "type": "动词词组"
-    },
-    {
-      "en": "station doors",
-      "cn": "车站门",
+      "en": "front / open / classroom / glass / fridge / station door",
+      "cn": "前门 / 开门 / 教室门 / 玻璃门 / 冰箱门 / 车站门",
       "type": "名词词组"
     },
     {
       "en": "opened doors to visitors",
       "cn": "向访客开门",
       "type": "名词词组"
+    },
+    {
+      "en": "closing / locked door",
+      "cn": "关门 / 锁上的门",
+      "type": "动词词组"
     }
   ]
 }

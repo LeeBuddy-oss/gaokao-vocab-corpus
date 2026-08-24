@@ -555,54 +555,19 @@
   ],
   "chunks": [
     {
-      "en": "urban areas",
-      "cn": "城市的区域",
-      "type": "名词词组"
-    },
-    {
-      "en": "rural areas",
-      "cn": "乡村的区域",
-      "type": "名词词组"
-    },
-    {
-      "en": "public area",
-      "cn": "公共的区域",
-      "type": "名词词组"
-    },
-    {
-      "en": "brain areas",
-      "cn": "大脑区域",
-      "type": "名词词组"
-    },
-    {
-      "en": "hit area",
-      "cn": "使突然想起区域",
-      "type": "动词词组"
-    },
-    {
-      "en": "local areas",
-      "cn": "本地的区域",
-      "type": "名词词组"
-    },
-    {
-      "en": "about areas",
-      "cn": "区域",
-      "type": "动词词组"
-    },
-    {
-      "en": "remote areas",
-      "cn": "偏远的区域",
-      "type": "名词词组"
-    },
-    {
       "en": "areas of city",
       "cn": "城市的区域",
       "type": "名词词组"
     },
     {
-      "en": "certain areas",
-      "cn": "确定的区域",
+      "en": "urban / rural / public / brain / local / remote / certain area",
+      "cn": "城市的区域 / 乡村的区域 / 公共的区域 / 大脑区域 / 本地的区域 / 偏远的区域 / 确定的区域",
       "type": "名词词组"
+    },
+    {
+      "en": "hit / about area",
+      "cn": "使突然想起区域 / 区域",
+      "type": "动词词组"
     }
   ]
 }

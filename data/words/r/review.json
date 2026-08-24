@@ -360,43 +360,13 @@
   ],
   "chunks": [
     {
-      "en": "book review",
-      "cn": "书评",
+      "en": "book / negative / trust / judges / positive / enthusiastic review",
+      "cn": "书评 / 差评 / 信任评论 / 评委评论 / 好评 / 热情的评论",
       "type": "名词词组"
     },
     {
-      "en": "negative reviews",
-      "cn": "差评",
-      "type": "名词词组"
-    },
-    {
-      "en": "trust reviews",
-      "cn": "信任评论",
-      "type": "名词词组"
-    },
-    {
-      "en": "judges review",
-      "cn": "评委评论",
-      "type": "名词词组"
-    },
-    {
-      "en": "review of modern",
-      "cn": "现代评论",
-      "type": "名词词组"
-    },
-    {
-      "en": "positive reviews",
-      "cn": "好评",
-      "type": "名词词组"
-    },
-    {
-      "en": "criticise review",
-      "cn": "批评评论",
-      "type": "动词词组"
-    },
-    {
-      "en": "enthusiastic reviews",
-      "cn": "热情的评论",
+      "en": "business review of product",
+      "cn": "产品的商业评论",
       "type": "名词词组"
     },
     {
@@ -405,9 +375,14 @@
       "type": "名词词组"
     },
     {
-      "en": "business review of product",
-      "cn": "产品的商业评论",
+      "en": "review of modern",
+      "cn": "现代评论",
       "type": "名词词组"
+    },
+    {
+      "en": "criticise review",
+      "cn": "批评评论",
+      "type": "动词词组"
     }
   ]
 }

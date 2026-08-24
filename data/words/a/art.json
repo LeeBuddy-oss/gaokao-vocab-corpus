@@ -686,53 +686,18 @@
   ],
   "chunks": [
     {
-      "en": "public art",
-      "cn": "公共艺术",
-      "type": "名词词组"
-    },
-    {
-      "en": "modern art",
-      "cn": "现代艺术",
-      "type": "名词词组"
-    },
-    {
-      "en": "contemporary art",
-      "cn": "当代艺术",
-      "type": "名词词组"
-    },
-    {
-      "en": "hall art",
-      "cn": "展厅艺术",
-      "type": "名词词组"
-    },
-    {
-      "en": "ancient art",
-      "cn": "古代艺术",
-      "type": "名词词组"
-    },
-    {
-      "en": "performing arts",
-      "cn": "表演艺术",
-      "type": "动词词组"
-    },
-    {
-      "en": "school art",
-      "cn": "学校艺术",
-      "type": "名词词组"
-    },
-    {
-      "en": "museum art",
-      "cn": "博物馆艺术",
-      "type": "名词词组"
-    },
-    {
       "en": "art in own",
       "cn": "自己的艺术",
       "type": "名词词组"
     },
     {
-      "en": "about arts",
-      "cn": "关于艺术",
+      "en": "public / modern / contemporary / hall / ancient / school / museum art",
+      "cn": "公共艺术 / 现代艺术 / 当代艺术 / 展厅艺术 / 古代艺术 / 学校艺术 / 博物馆艺术",
+      "type": "名词词组"
+    },
+    {
+      "en": "performing / about art",
+      "cn": "表演艺术 / 关于艺术",
       "type": "动词词组"
     }
   ]

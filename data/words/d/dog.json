@@ -613,54 +613,19 @@
   ],
   "chunks": [
     {
-      "en": "about dog",
-      "cn": "狗",
-      "type": "动词词组"
-    },
-    {
-      "en": "wet dog",
-      "cn": "潮的狗",
-      "type": "名词词组"
-    },
-    {
-      "en": "why dogs",
-      "cn": "用于问句）为什么狗",
-      "type": "动词词组"
-    },
-    {
-      "en": "out dogs",
-      "cn": "狗",
-      "type": "动词词组"
-    },
-    {
-      "en": "eased dog",
-      "cn": "使）宽慰狗",
-      "type": "名词词组"
-    },
-    {
-      "en": "found dogs",
-      "cn": "创建狗",
-      "type": "动词词组"
-    },
-    {
-      "en": "feeding dog",
-      "cn": "给食物狗",
-      "type": "动词词组"
-    },
-    {
-      "en": "tested dogs",
-      "cn": "测试狗",
-      "type": "名词词组"
-    },
-    {
-      "en": "involved dog",
-      "cn": "涉及狗",
-      "type": "动词词组"
-    },
-    {
       "en": "dogs of study",
       "cn": "学习的狗",
       "type": "名词词组"
+    },
+    {
+      "en": "wet / eased / tested dog",
+      "cn": "潮的狗 / 使）宽慰狗 / 测试狗",
+      "type": "名词词组"
+    },
+    {
+      "en": "about / why / out / found / feeding / involved dog",
+      "cn": "狗 / 用于问句）为什么狗 / 创建狗 / 给食物狗 / 涉及狗",
+      "type": "动词词组"
     }
   ]
 }

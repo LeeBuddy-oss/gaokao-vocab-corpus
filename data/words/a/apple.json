@@ -62,29 +62,14 @@
   ],
   "chunks": [
     {
-      "en": "eat apple",
-      "cn": "吃苹果",
-      "type": "动词词组"
-    },
-    {
-      "en": "about apple",
-      "cn": "苹果",
-      "type": "动词词组"
-    },
-    {
-      "en": "enjoy apples",
-      "cn": "享受苹果",
-      "type": "动词词组"
-    },
-    {
-      "en": "falling apple",
-      "cn": "减少苹果",
-      "type": "动词词组"
-    },
-    {
       "en": "strawberry apple",
       "cn": "草莓苹果",
       "type": "名词词组"
+    },
+    {
+      "en": "eat / about / enjoy / falling apple",
+      "cn": "吃苹果 / 苹果 / 享受苹果 / 减少苹果",
+      "type": "动词词组"
     }
   ]
 }

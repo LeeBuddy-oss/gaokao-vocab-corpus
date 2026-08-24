@@ -485,44 +485,9 @@
   ],
   "chunks": [
     {
-      "en": "sudden heart",
-      "cn": "突发心脏病",
+      "en": "heart in mouth",
+      "cn": "心提到嗓子眼",
       "type": "名词词组"
-    },
-    {
-      "en": "purple heart",
-      "cn": "紫心勋章",
-      "type": "名词词组"
-    },
-    {
-      "en": "serious heart",
-      "cn": "严重的心脏病",
-      "type": "名词词组"
-    },
-    {
-      "en": "put heart",
-      "cn": "放心",
-      "type": "动词词组"
-    },
-    {
-      "en": "nights heart",
-      "cn": "夜间的心脏",
-      "type": "名词词组"
-    },
-    {
-      "en": "maximum heart",
-      "cn": "最大心率",
-      "type": "名词词组"
-    },
-    {
-      "en": "beating heart",
-      "cn": "跳动的心脏",
-      "type": "动词词组"
-    },
-    {
-      "en": "touched heart",
-      "cn": "触动心灵",
-      "type": "动词词组"
     },
     {
       "en": "heart of child",
@@ -530,9 +495,14 @@
       "type": "名词词组"
     },
     {
-      "en": "heart in mouth",
-      "cn": "心提到嗓子眼",
+      "en": "sudden / purple / serious / nights / maximum heart",
+      "cn": "突发心脏病 / 紫心勋章 / 严重的心脏病 / 夜间的心脏 / 最大心率",
       "type": "名词词组"
+    },
+    {
+      "en": "put / beating / touched heart",
+      "cn": "放心 / 跳动的心脏 / 触动心灵",
+      "type": "动词词组"
     }
   ]
 }

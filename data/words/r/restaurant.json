@@ -344,54 +344,19 @@
   ],
   "chunks": [
     {
-      "en": "about restaurant",
-      "cn": "关于餐厅",
-      "type": "动词词组"
-    },
-    {
-      "en": "hill restaurant",
-      "cn": "山丘餐厅",
-      "type": "名词词组"
-    },
-    {
-      "en": "leave restaurant",
-      "cn": "离开餐厅",
-      "type": "动词词组"
-    },
-    {
-      "en": "best restaurants",
-      "cn": "最好的餐厅",
-      "type": "名词词组"
-    },
-    {
-      "en": "food restaurants",
-      "cn": "食品餐厅",
-      "type": "名词词组"
-    },
-    {
-      "en": "famous restaurant",
-      "cn": "著名餐厅",
-      "type": "名词词组"
-    },
-    {
-      "en": "asking restaurants",
-      "cn": "询问餐厅",
-      "type": "动词词组"
-    },
-    {
-      "en": "hospital restaurant",
-      "cn": "医院餐厅",
-      "type": "名词词组"
-    },
-    {
-      "en": "atmosphere restaurant",
-      "cn": "氛围餐厅",
-      "type": "名词词组"
-    },
-    {
       "en": "chinese restaurants around",
       "cn": "周围的中餐馆",
       "type": "名词词组"
+    },
+    {
+      "en": "hill / best / food / famous / hospital / atmosphere restaurant",
+      "cn": "山丘餐厅 / 最好的餐厅 / 食品餐厅 / 著名餐厅 / 医院餐厅 / 氛围餐厅",
+      "type": "名词词组"
+    },
+    {
+      "en": "about / leave / asking restaurant",
+      "cn": "关于餐厅 / 离开餐厅 / 询问餐厅",
+      "type": "动词词组"
     }
   ]
 }

@@ -189,33 +189,8 @@
   ],
   "chunks": [
     {
-      "en": "serve function",
-      "cn": "功能",
-      "type": "动词词组"
-    },
-    {
-      "en": "major functions",
-      "cn": "主要的功能",
-      "type": "名词词组"
-    },
-    {
-      "en": "stop functioning",
-      "cn": "停止功能",
-      "type": "动词词组"
-    },
-    {
-      "en": "function with own",
-      "cn": "自己的功能",
-      "type": "名词词组"
-    },
-    {
-      "en": "diverse functions",
-      "cn": "多样的功能",
-      "type": "名词词组"
-    },
-    {
-      "en": "unusual functions",
-      "cn": "不寻常的功能",
+      "en": "function in sentence",
+      "cn": "句子的功能",
       "type": "名词词组"
     },
     {
@@ -234,9 +209,19 @@
       "type": "名词词组"
     },
     {
-      "en": "function in sentence",
-      "cn": "句子的功能",
+      "en": "function with own",
+      "cn": "自己的功能",
       "type": "名词词组"
+    },
+    {
+      "en": "major / diverse / unusual function",
+      "cn": "主要的功能 / 多样的功能 / 不寻常的功能",
+      "type": "名词词组"
+    },
+    {
+      "en": "serve / stop function",
+      "cn": "功能 / 停止功能",
+      "type": "动词词组"
     }
   ]
 }

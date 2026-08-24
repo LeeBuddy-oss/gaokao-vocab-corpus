@@ -299,43 +299,8 @@
   ],
   "chunks": [
     {
-      "en": "good grades",
-      "cn": "好成绩",
-      "type": "名词词组"
-    },
-    {
-      "en": "let grade",
-      "cn": "让等级",
-      "type": "动词词组"
-    },
-    {
-      "en": "low grade",
-      "cn": "低分",
-      "type": "名词词组"
-    },
-    {
-      "en": "fail grade",
-      "cn": "不及格",
-      "type": "动词词组"
-    },
-    {
-      "en": "final grade",
-      "cn": "最终成绩",
-      "type": "名词词组"
-    },
-    {
-      "en": "lower grades",
-      "cn": "较低的年级",
-      "type": "名词词组"
-    },
-    {
-      "en": "history grade",
-      "cn": "历史成绩",
-      "type": "名词词组"
-    },
-    {
-      "en": "possible grade",
-      "cn": "可能的等级",
+      "en": "good / low / final / lower / history / possible grade",
+      "cn": "好成绩 / 低分 / 最终成绩 / 较低的年级 / 历史成绩 / 可能的等级",
       "type": "名词词组"
     },
     {
@@ -347,6 +312,11 @@
       "en": "letter grade for class",
       "cn": "班级的字母等级",
       "type": "名词词组"
+    },
+    {
+      "en": "let / fail grade",
+      "cn": "让等级 / 不及格",
+      "type": "动词词组"
     }
   ]
 }

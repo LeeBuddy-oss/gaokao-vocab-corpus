@@ -226,43 +226,8 @@
   ],
   "chunks": [
     {
-      "en": "earn degree",
-      "cn": "挣得学位",
-      "type": "动词词组"
-    },
-    {
-      "en": "take degree",
-      "cn": "拿学位",
-      "type": "动词词组"
-    },
-    {
-      "en": "earned degree",
-      "cn": "挣得学位",
-      "type": "动词词组"
-    },
-    {
-      "en": "reach degrees",
-      "cn": "到达学位",
-      "type": "动词词组"
-    },
-    {
-      "en": "medical degree",
-      "cn": "医学的学位",
-      "type": "名词词组"
-    },
-    {
-      "en": "business degree",
-      "cn": "商业学位",
-      "type": "名词词组"
-    },
-    {
-      "en": "degree of doubt",
-      "cn": "怀疑的学位",
-      "type": "名词词组"
-    },
-    {
-      "en": "training degrees",
-      "cn": "训练学位",
+      "en": "degree in education",
+      "cn": "教育的学位",
       "type": "名词词组"
     },
     {
@@ -271,9 +236,19 @@
       "type": "名词词组"
     },
     {
-      "en": "degree in education",
-      "cn": "教育的学位",
+      "en": "degree of doubt",
+      "cn": "怀疑的学位",
       "type": "名词词组"
+    },
+    {
+      "en": "medical / business / training degree",
+      "cn": "医学的学位 / 商业学位 / 训练学位",
+      "type": "名词词组"
+    },
+    {
+      "en": "earn / take / earned / reach degree",
+      "cn": "挣得学位 / 拿学位 / 到达学位",
+      "type": "动词词组"
     }
   ]
 }

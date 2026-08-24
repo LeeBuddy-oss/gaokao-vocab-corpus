@@ -95,29 +95,9 @@
   ],
   "chunks": [
     {
-      "en": "certain mood",
-      "cn": "确定的情绪",
+      "en": "certain / bad / good / positive mood",
+      "cn": "确定的情绪 / 坏的情绪 / 好的情绪 / 积极的情绪",
       "type": "名词词组"
-    },
-    {
-      "en": "bad mood",
-      "cn": "坏的情绪",
-      "type": "名词词组"
-    },
-    {
-      "en": "good mood",
-      "cn": "好的情绪",
-      "type": "名词词组"
-    },
-    {
-      "en": "lift mood",
-      "cn": "被）提起情绪",
-      "type": "动词词组"
-    },
-    {
-      "en": "boost mood",
-      "cn": "促进情绪",
-      "type": "动词词组"
     },
     {
       "en": "mood of poem",
@@ -125,9 +105,9 @@
       "type": "名词词组"
     },
     {
-      "en": "positive mood",
-      "cn": "积极的情绪",
-      "type": "名词词组"
+      "en": "lift / boost mood",
+      "cn": "被）提起情绪 / 促进情绪",
+      "type": "动词词组"
     }
   ]
 }

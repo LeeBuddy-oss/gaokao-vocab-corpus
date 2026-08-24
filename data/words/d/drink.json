@@ -370,54 +370,19 @@
   ],
   "chunks": [
     {
-      "en": "soft drinks",
-      "cn": "软饮料",
-      "type": "名词词组"
-    },
-    {
-      "en": "man drinks",
-      "cn": "男人喝",
-      "type": "名词词组"
-    },
-    {
-      "en": "up drinks",
-      "cn": "饮料",
-      "type": "动词词组"
-    },
-    {
-      "en": "once drink",
-      "cn": "曾经喝",
-      "type": "动词词组"
-    },
-    {
-      "en": "cold drink",
-      "cn": "冷饮",
-      "type": "名词词组"
-    },
-    {
-      "en": "take drinks",
-      "cn": "拿饮料",
-      "type": "动词词组"
-    },
-    {
-      "en": "better drink",
-      "cn": "更好的饮料",
-      "type": "名词词组"
-    },
-    {
-      "en": "safe drinking",
-      "cn": "安全饮用",
-      "type": "名词词组"
-    },
-    {
-      "en": "enjoyed drink",
-      "cn": "享受饮料",
-      "type": "动词词组"
-    },
-    {
       "en": "drinks to share",
       "cn": "分享的饮料",
       "type": "名词词组"
+    },
+    {
+      "en": "soft / man / cold / better / safe drink",
+      "cn": "软饮料 / 男人喝 / 冷饮 / 更好的饮料 / 安全饮用",
+      "type": "名词词组"
+    },
+    {
+      "en": "up / once / take / enjoyed drink",
+      "cn": "饮料 / 曾经喝 / 拿饮料 / 享受饮料",
+      "type": "动词词组"
     }
   ]
 }

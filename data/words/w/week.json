@@ -765,39 +765,9 @@
   ],
   "chunks": [
     {
-      "en": "days week",
-      "cn": "天周",
+      "en": "days / per / hours / single / book / family week",
+      "cn": "天周 / 每周 / 小时周 / 单周 / 读书周 / 家庭周",
       "type": "名词词组"
-    },
-    {
-      "en": "per week",
-      "cn": "每周",
-      "type": "名词词组"
-    },
-    {
-      "en": "work week",
-      "cn": "工作周",
-      "type": "动词词组"
-    },
-    {
-      "en": "hours week",
-      "cn": "小时周",
-      "type": "名词词组"
-    },
-    {
-      "en": "single week",
-      "cn": "单周",
-      "type": "名词词组"
-    },
-    {
-      "en": "welcome week",
-      "cn": "欢迎周",
-      "type": "动词词组"
-    },
-    {
-      "en": "following week",
-      "cn": "下周",
-      "type": "动词词组"
     },
     {
       "en": "later week at new",
@@ -805,14 +775,9 @@
       "type": "动词词组"
     },
     {
-      "en": "book week",
-      "cn": "读书周",
-      "type": "名词词组"
-    },
-    {
-      "en": "family week",
-      "cn": "家庭周",
-      "type": "名词词组"
+      "en": "work / welcome / following week",
+      "cn": "工作周 / 欢迎周 / 下周",
+      "type": "动词词组"
     }
   ]
 }

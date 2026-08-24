@@ -215,43 +215,8 @@
   ],
   "chunks": [
     {
-      "en": "want ticket",
-      "cn": "想要票",
-      "type": "动词词组"
-    },
-    {
-      "en": "get ticket",
-      "cn": "得到票",
-      "type": "动词词组"
-    },
-    {
-      "en": "air tickets",
-      "cn": "空气票",
-      "type": "名词词组"
-    },
-    {
-      "en": "extra ticket",
-      "cn": "额外的事物票",
-      "type": "名词词组"
-    },
-    {
-      "en": "movie tickets",
-      "cn": "电影票",
-      "type": "名词词组"
-    },
-    {
-      "en": "plane tickets",
-      "cn": "飞机票",
-      "type": "名词词组"
-    },
-    {
-      "en": "see ticket",
-      "cn": "看见票",
-      "type": "动词词组"
-    },
-    {
-      "en": "cinema ticket",
-      "cn": "电影院票",
+      "en": "air / extra / movie / plane / cinema ticket",
+      "cn": "空气票 / 额外的事物票 / 电影票 / 飞机票 / 电影院票",
       "type": "名词词组"
     },
     {
@@ -263,6 +228,11 @@
       "en": "tickets per session",
       "cn": "一场的票",
       "type": "名词词组"
+    },
+    {
+      "en": "want / get / see ticket",
+      "cn": "想要票 / 得到票 / 看见票",
+      "type": "动词词组"
     }
   ]
 }

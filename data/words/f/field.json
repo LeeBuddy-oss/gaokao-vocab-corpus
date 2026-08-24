@@ -410,43 +410,8 @@
   ],
   "chunks": [
     {
-      "en": "keep field",
-      "cn": "保持领域",
-      "type": "动词词组"
-    },
-    {
-      "en": "down field",
-      "cn": "下田",
-      "type": "动词词组"
-    },
-    {
-      "en": "corn fields",
-      "cn": "玉米地",
-      "type": "名词词组"
-    },
-    {
-      "en": "farm fields",
-      "cn": "农田",
-      "type": "名词词组"
-    },
-    {
-      "en": "across field",
-      "cn": "穿过田野",
-      "type": "动词词组"
-    },
-    {
-      "en": "landing field",
-      "cn": "机场",
-      "type": "名词词组"
-    },
-    {
-      "en": "fields of flowers",
-      "cn": "花田",
-      "type": "名词词组"
-    },
-    {
-      "en": "surrounding fields",
-      "cn": "周围的田野",
+      "en": "corn / farm / landing / surrounding field",
+      "cn": "玉米地 / 农田 / 机场 / 周围的田野",
       "type": "名词词组"
     },
     {
@@ -455,9 +420,19 @@
       "type": "名词词组"
     },
     {
+      "en": "fields of flowers",
+      "cn": "花田",
+      "type": "名词词组"
+    },
+    {
       "en": "research field for art",
       "cn": "艺术研究领域",
       "type": "名词词组"
+    },
+    {
+      "en": "keep / down / across field",
+      "cn": "保持领域 / 下田 / 穿过田野",
+      "type": "动词词组"
     }
   ]
 }

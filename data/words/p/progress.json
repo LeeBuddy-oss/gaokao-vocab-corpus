@@ -179,43 +179,8 @@
   ],
   "chunks": [
     {
-      "en": "up progress",
-      "cn": "进步",
-      "type": "动词词组"
-    },
-    {
-      "en": "know progress",
-      "cn": "知道进步",
-      "type": "动词词组"
-    },
-    {
-      "en": "human progress",
-      "cn": "人类进步",
-      "type": "名词词组"
-    },
-    {
-      "en": "weekly progress",
-      "cn": "每周的进步",
-      "type": "名词词组"
-    },
-    {
-      "en": "record progress",
-      "cn": "记录进步",
-      "type": "名词词组"
-    },
-    {
-      "en": "measure progress",
-      "cn": "测量进步",
-      "type": "动词词组"
-    },
-    {
-      "en": "training progress",
-      "cn": "训练进步",
-      "type": "名词词组"
-    },
-    {
-      "en": "progress to benefit",
-      "cn": "益处的进步",
+      "en": "human / weekly / record / training / scientific progress",
+      "cn": "人类进步 / 每周的进步 / 记录进步 / 训练进步 / 科学的进步",
       "type": "名词词组"
     },
     {
@@ -224,9 +189,14 @@
       "type": "名词词组"
     },
     {
-      "en": "scientific progress",
-      "cn": "科学的进步",
+      "en": "progress to benefit",
+      "cn": "益处的进步",
       "type": "名词词组"
+    },
+    {
+      "en": "up / know / measure progress",
+      "cn": "进步 / 知道进步 / 测量进步",
+      "type": "动词词组"
     }
   ]
 }

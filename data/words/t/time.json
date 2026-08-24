@@ -2803,58 +2803,18 @@
   ],
   "chunks": [
     {
-      "en": "long time",
-      "cn": "很长时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "date time",
-      "cn": "日期时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "over time",
-      "cn": "随着时间推移",
-      "type": "动词词组"
-    },
-    {
-      "en": "spare time",
-      "cn": "空闲时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "screen time",
-      "cn": "屏幕时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "save time",
-      "cn": "节省时间",
-      "type": "动词词组"
-    },
-    {
-      "en": "free time",
-      "cn": "空闲时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "river time",
-      "cn": "河流时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "story time",
-      "cn": "故事时间",
-      "type": "名词词组"
-    },
-    {
-      "en": "meal timing",
-      "cn": "用餐时间",
+      "en": "long / date / spare / screen / free / river / story / meal time",
+      "cn": "很长时间 / 日期时间 / 空闲时间 / 屏幕时间 / 河流时间 / 故事时间 / 用餐时间",
       "type": "名词词组"
     },
     {
       "en": "be time to",
       "cn": "被时间",
+      "type": "动词词组"
+    },
+    {
+      "en": "over / save time",
+      "cn": "随着时间推移 / 节省时间",
       "type": "动词词组"
     }
   ]

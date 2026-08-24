@@ -486,39 +486,9 @@
   ],
   "chunks": [
     {
-      "en": "fire control",
-      "cn": "消防",
-      "type": "名词词组"
-    },
-    {
-      "en": "waste control",
-      "cn": "废物控制",
-      "type": "动词词组"
-    },
-    {
-      "en": "voice control",
-      "cn": "语音控制",
-      "type": "名词词组"
-    },
-    {
-      "en": "brain controls",
-      "cn": "大脑控制",
-      "type": "名词词组"
-    },
-    {
       "en": "control over own",
       "cn": "对自己的控制",
       "type": "名词词组"
-    },
-    {
-      "en": "giants controlling",
-      "cn": "巨头控制",
-      "type": "名词词组"
-    },
-    {
-      "en": "take control of own",
-      "cn": "掌控自己的",
-      "type": "动词词组"
     },
     {
       "en": "controlled by humans",
@@ -531,6 +501,11 @@
       "type": "名词词组"
     },
     {
+      "en": "fire / voice / brain / giants control",
+      "cn": "消防 / 语音控制 / 大脑控制 / 巨头控制",
+      "type": "名词词组"
+    },
+    {
       "en": "giants control of data",
       "cn": "数据巨头控制",
       "type": "名词词组"
@@ -538,6 +513,16 @@
     {
       "en": "be controlled by",
       "cn": "被…控制",
+      "type": "动词词组"
+    },
+    {
+      "en": "take control of own",
+      "cn": "掌控自己的",
+      "type": "动词词组"
+    },
+    {
+      "en": "waste control",
+      "cn": "废物控制",
       "type": "动词词组"
     }
   ]

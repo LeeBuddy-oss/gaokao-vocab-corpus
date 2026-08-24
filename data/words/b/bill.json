@@ -271,26 +271,6 @@
   ],
   "chunks": [
     {
-      "en": "suggest bill",
-      "cn": "建议账单",
-      "type": "动词词组"
-    },
-    {
-      "en": "get bill",
-      "cn": "得到账单",
-      "type": "动词词组"
-    },
-    {
-      "en": "cover bills",
-      "cn": "覆盖账单",
-      "type": "动词词组"
-    },
-    {
-      "en": "dollar bills",
-      "cn": "美元账单",
-      "type": "名词词组"
-    },
-    {
       "en": "bill for son",
       "cn": "儿子的账单",
       "type": "名词词组"
@@ -301,9 +281,14 @@
       "type": "名词词组"
     },
     {
-      "en": "household bills",
-      "cn": "家庭账单",
+      "en": "dollar / household bill",
+      "cn": "美元账单 / 家庭账单",
       "type": "名词词组"
+    },
+    {
+      "en": "suggest / get / cover bill",
+      "cn": "建议账单 / 得到账单 / 覆盖账单",
+      "type": "动词词组"
     }
   ]
 }

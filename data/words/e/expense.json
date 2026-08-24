@@ -130,43 +130,8 @@
   ],
   "chunks": [
     {
-      "en": "pay expenses",
-      "cn": "支付",
-      "type": "动词词组"
-    },
-    {
-      "en": "daily expenses",
-      "cn": "日常的",
-      "type": "名词词组"
-    },
-    {
-      "en": "living expenses",
-      "cn": "生活方式",
-      "type": "名词词组"
-    },
-    {
-      "en": "family expenses",
-      "cn": "家庭",
-      "type": "名词词组"
-    },
-    {
-      "en": "travel expenses",
-      "cn": "旅行",
-      "type": "动词词组"
-    },
-    {
-      "en": "relative expense",
-      "cn": "亲戚",
-      "type": "名词词组"
-    },
-    {
-      "en": "household expense",
-      "cn": "家庭",
-      "type": "名词词组"
-    },
-    {
-      "en": "expense to obtain",
-      "cn": "获得的",
+      "en": "daily / living / family / relative / household expense",
+      "cn": "日常的 / 生活方式 / 家庭 / 亲戚",
       "type": "名词词组"
     },
     {
@@ -178,6 +143,16 @@
       "en": "expense of speaking",
       "cn": "说话的",
       "type": "名词词组"
+    },
+    {
+      "en": "expense to obtain",
+      "cn": "获得的",
+      "type": "名词词组"
+    },
+    {
+      "en": "pay / travel expense",
+      "cn": "支付 / 旅行",
+      "type": "动词词组"
     }
   ]
 }

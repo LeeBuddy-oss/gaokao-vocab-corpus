@@ -152,33 +152,8 @@
   ],
   "chunks": [
     {
-      "en": "give firm",
-      "cn": "给公司",
-      "type": "动词词组"
-    },
-    {
-      "en": "join firm",
-      "cn": "加入公司",
-      "type": "动词词组"
-    },
-    {
-      "en": "data firms",
-      "cn": "数据公司",
-      "type": "名词词组"
-    },
-    {
-      "en": "insurance firm",
-      "cn": "保险公司",
-      "type": "名词词组"
-    },
-    {
-      "en": "valuable firms",
-      "cn": "很有用的公司",
-      "type": "名词词组"
-    },
-    {
-      "en": "development firm",
-      "cn": "发展公司",
+      "en": "data / insurance / valuable / development firm",
+      "cn": "数据公司 / 保险公司 / 很有用的公司 / 发展公司",
       "type": "名词词组"
     },
     {
@@ -189,6 +164,11 @@
     {
       "en": "be firm in",
       "cn": "被公司",
+      "type": "动词词组"
+    },
+    {
+      "en": "give / join firm",
+      "cn": "给公司 / 加入公司",
       "type": "动词词组"
     }
   ]

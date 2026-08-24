@@ -330,38 +330,8 @@
   ],
   "chunks": [
     {
-      "en": "clay objects",
-      "cn": "黏土物体",
-      "type": "名词词组"
-    },
-    {
-      "en": "everyday objects",
-      "cn": "日常物品",
-      "type": "名词词组"
-    },
-    {
-      "en": "grab objects",
-      "cn": "抓物体",
-      "type": "动词词组"
-    },
-    {
-      "en": "handle objects",
-      "cn": "处理物体",
-      "type": "动词词组"
-    },
-    {
-      "en": "random objects",
-      "cn": "随机物体",
-      "type": "名词词组"
-    },
-    {
-      "en": "falling objects",
-      "cn": "掉落的物体",
-      "type": "动词词组"
-    },
-    {
-      "en": "familiar objects",
-      "cn": "熟悉的物体",
+      "en": "clay / everyday / random / familiar / treasured object",
+      "cn": "黏土物体 / 日常物品 / 随机物体 / 熟悉的物体 / 珍贵的物品",
       "type": "名词词组"
     },
     {
@@ -370,9 +340,9 @@
       "type": "名词词组"
     },
     {
-      "en": "treasured objects",
-      "cn": "珍贵的物品",
-      "type": "名词词组"
+      "en": "grab / handle / falling object",
+      "cn": "抓物体 / 处理物体 / 掉落的物体",
+      "type": "动词词组"
     },
     {
       "en": "moving objects in space",

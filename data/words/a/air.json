@@ -477,44 +477,9 @@
   ],
   "chunks": [
     {
-      "en": "fresh air",
-      "cn": "新鲜的空气",
-      "type": "名词词组"
-    },
-    {
-      "en": "use air",
-      "cn": "使用空气",
-      "type": "动词词组"
-    },
-    {
-      "en": "make air",
-      "cn": "制造空气",
-      "type": "动词词组"
-    },
-    {
-      "en": "reduce air",
-      "cn": "减少空气",
-      "type": "动词词组"
-    },
-    {
-      "en": "warming air",
-      "cn": "加热的空气",
-      "type": "名词词组"
-    },
-    {
-      "en": "improve air",
-      "cn": "改善空气",
-      "type": "动词词组"
-    },
-    {
       "en": "air at times",
       "cn": "有时的空气",
       "type": "名词词组"
-    },
-    {
-      "en": "polluted air",
-      "cn": "污染的空气",
-      "type": "动词词组"
     },
     {
       "en": "air with health",
@@ -522,9 +487,14 @@
       "type": "名词词组"
     },
     {
-      "en": "conventional air",
-      "cn": "常规空气",
+      "en": "fresh / warming / conventional air",
+      "cn": "新鲜的空气 / 加热的空气 / 常规空气",
       "type": "名词词组"
+    },
+    {
+      "en": "use / make / reduce / improve / polluted air",
+      "cn": "使用空气 / 制造空气 / 减少空气 / 改善空气 / 污染的空气",
+      "type": "动词词组"
     }
   ]
 }

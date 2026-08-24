@@ -432,43 +432,13 @@
   ],
   "chunks": [
     {
-      "en": "near future",
-      "cn": "不远的将来",
-      "type": "名词词组"
-    },
-    {
-      "en": "about future",
-      "cn": "关于未来",
-      "type": "动词词组"
-    },
-    {
-      "en": "well future",
-      "cn": "美好的未来",
-      "type": "动词词组"
-    },
-    {
-      "en": "want future",
-      "cn": "想要的未来",
-      "type": "动词词组"
-    },
-    {
       "en": "future of man",
       "cn": "人类的未来",
       "type": "名词词组"
     },
     {
-      "en": "bright future",
-      "cn": "光明的未来",
-      "type": "名词词组"
-    },
-    {
-      "en": "imagine future",
-      "cn": "想象未来",
-      "type": "动词词组"
-    },
-    {
-      "en": "troubling future",
-      "cn": "令人担忧的未来",
+      "en": "future of science",
+      "cn": "科学的未来",
       "type": "名词词组"
     },
     {
@@ -477,9 +447,14 @@
       "type": "名词词组"
     },
     {
-      "en": "future of science",
-      "cn": "科学的未来",
+      "en": "near / bright / troubling future",
+      "cn": "不远的将来 / 光明的未来 / 令人担忧的未来",
       "type": "名词词组"
+    },
+    {
+      "en": "about / well / want / imagine future",
+      "cn": "关于未来 / 美好的未来 / 想要的未来 / 想象未来",
+      "type": "动词词组"
     }
   ]
 }

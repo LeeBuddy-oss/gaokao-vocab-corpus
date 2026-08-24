@@ -720,48 +720,8 @@
   ],
   "chunks": [
     {
-      "en": "language skills",
-      "cn": "语言技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "communication skills",
-      "cn": "交际技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "new skills",
-      "cn": "新技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "life skills",
-      "cn": "生活技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "hand skills",
-      "cn": "手工技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "social skills",
-      "cn": "社交技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "driving skills",
-      "cn": "驾驶技能",
-      "type": "动词词组"
-    },
-    {
-      "en": "speaking skills",
-      "cn": "口语技能",
-      "type": "名词词组"
-    },
-    {
-      "en": "thinking skills",
-      "cn": "思维技能",
+      "en": "language / communication / new / life / hand / social / speaking / thinking skill",
+      "cn": "语言技能 / 交际技能 / 新技能 / 生活技能 / 手工技能 / 社交技能 / 口语技能 / 思维技能",
       "type": "名词词组"
     },
     {
@@ -772,6 +732,11 @@
     {
       "en": "be skilled at",
       "cn": "被技能",
+      "type": "动词词组"
+    },
+    {
+      "en": "driving skills",
+      "cn": "驾驶技能",
       "type": "动词词组"
     }
   ]

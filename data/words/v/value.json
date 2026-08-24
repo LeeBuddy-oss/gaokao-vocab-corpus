@@ -337,33 +337,8 @@
   ],
   "chunks": [
     {
-      "en": "scientific value",
-      "cn": "科学价值",
-      "type": "名词词组"
-    },
-    {
-      "en": "low value",
-      "cn": "低价值",
-      "type": "名词词组"
-    },
-    {
-      "en": "feel valued",
-      "cn": "感到被重视",
-      "type": "动词词组"
-    },
-    {
-      "en": "learned value",
-      "cn": "学到的价值",
-      "type": "动词词组"
-    },
-    {
-      "en": "values of hand",
-      "cn": "手的价值",
-      "type": "名词词组"
-    },
-    {
-      "en": "commercial value",
-      "cn": "商业价值",
+      "en": "scientific / low / commercial value",
+      "cn": "科学价值 / 低价值 / 商业价值",
       "type": "名词词组"
     },
     {
@@ -372,8 +347,8 @@
       "type": "名词词组"
     },
     {
-      "en": "valued in hiring",
-      "cn": "雇佣时受重视",
+      "en": "value of professional",
+      "cn": "职业的价值",
       "type": "名词词组"
     },
     {
@@ -382,9 +357,19 @@
       "type": "名词词组"
     },
     {
-      "en": "value of professional",
-      "cn": "职业的价值",
+      "en": "valued in hiring",
+      "cn": "雇佣时受重视",
       "type": "名词词组"
+    },
+    {
+      "en": "values of hand",
+      "cn": "手的价值",
+      "type": "名词词组"
+    },
+    {
+      "en": "feel / learned value",
+      "cn": "感到被重视 / 学到的价值",
+      "type": "动词词组"
     }
   ]
 }

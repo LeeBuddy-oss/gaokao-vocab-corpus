@@ -276,44 +276,19 @@
   ],
   "chunks": [
     {
-      "en": "about hotel",
-      "cn": "关于酒店",
-      "type": "动词词组"
-    },
-    {
-      "en": "airport hotel",
-      "cn": "机场酒店",
-      "type": "名词词组"
-    },
-    {
-      "en": "new hotel",
-      "cn": "新酒店",
-      "type": "名词词组"
-    },
-    {
-      "en": "book hotels",
-      "cn": "预订酒店",
-      "type": "名词词组"
-    },
-    {
-      "en": "holiday hotel",
-      "cn": "假日酒店",
-      "type": "名词词组"
-    },
-    {
-      "en": "tickets hotel",
-      "cn": "票务酒店",
-      "type": "名词词组"
-    },
-    {
-      "en": "reviews hotels",
-      "cn": "评论酒店",
+      "en": "airport / new / book / holiday / tickets / reviews hotel",
+      "cn": "机场酒店 / 新酒店 / 预订酒店 / 假日酒店 / 票务酒店 / 评论酒店",
       "type": "名词词组"
     },
     {
       "en": "hotel after fantastic",
       "cn": "极好的酒店后",
       "type": "名词词组"
+    },
+    {
+      "en": "about hotel",
+      "cn": "关于酒店",
+      "type": "动词词组"
     }
   ]
 }
