@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825n';
+const WORDS_URL = 'data/words.json?v=20260825o';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825n';
+const STATS_URL = 'data/stats.json?v=20260825o';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825n'), fetch(WORDS_BASE + 'manifest.json?v=20260825n')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825o'), fetch(WORDS_BASE + 'manifest.json?v=20260825o')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825n'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825o'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -672,17 +672,23 @@ function _detectGenres(sources) {
   const typeCount = {};
   sources.forEach(src => {
     let t = '其他';
-    if (/阅读理解|七选五/.test(src)) t = '阅读理解';
+    if (!src) t = '其他';
+    else if (/阅读理解|七选五/.test(src)) t = '阅读理解';
     else if (/语法填空|完形填空/.test(src)) t = '填空/完形';
-    else if (/书面表达|写作|作文/.test(src)) t = '写作';
+    else if (/书面表达|写作|作文|读后续写/.test(src)) t = '写作';
     else if (/听力/.test(src)) t = '听力';
+    else if (/短文改错|改错/.test(src)) t = '改错';
+    else if (/(外研社|北师大|人教版|人教|译林|教材|必修|选修|Unit|U\d)/.test(src)) t = '教材';
+    else if (/卷/.test(src)) t = '高考真题';
     typeCount[t] = (typeCount[t] || 0) + 1;
     genres.count++;
   });
-  // 排序：按出现次数降序，但「其他」始终排在最后
+  // 排序：具体题型优先，未细分（高考真题/教材/其他）垫后；同组内按出现次数降序
+  const SPECIFIC = new Set(['阅读理解','填空/完形','写作','听力','改错']);
   genres.types = Object.entries(typeCount).sort(([ta, a], [tb, b]) => {
-    if (ta === '其他' && tb !== '其他') return 1;
-    if (tb === '其他' && ta !== '其他') return -1;
+    const sa = SPECIFIC.has(ta), sb = SPECIFIC.has(tb);
+    if (sa && !sb) return -1;
+    if (!sa && sb) return 1;
     return b - a;
   }).map(([t,c]) => ({ t, c }));
   return genres;
@@ -1629,12 +1635,12 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span>${sl}</p>`;
   }
 
-  // 语篇分布（按例句计数，非去重来源）
+  // 语篇分布（按例句计数，非去重来源，覆盖全部例句）
   const genres = _detectGenres(srcList);
   if (genres.types.length > 0 && totalGaokao >= 3) {
-    const gl = genres.types.slice(0, 3).map(({ t, c }) =>
+    const gl = genres.types.map(({ t, c }) =>
       `<span class="wv-hl">${esc(t)}</span><span class="wv-num">(${c}次)</span>`).join('、');
-    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}</p>`;
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}（共${genres.count}次）</p>`;
   }
 
   // ---- 左侧：词汇语义网（真题共现词汇网络图）----
