@@ -761,21 +761,51 @@
   "chunks": [
     {
       "en": "real world",
-      "cn": "现实世界",
+      "cn": "真实的 世界",
+      "type": "动词短语",
+      "count": 7
+    },
+    {
+      "en": "the real world",
+      "cn": "该 真实的 世界",
       "type": "名词短语",
       "count": 7
     },
     {
-      "en": "real life",
-      "cn": "现实生活",
-      "type": "名词短语",
-      "count": 1
+      "en": "real whodunit",
+      "cn": "真实的",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "for real",
-      "cn": "认真的",
-      "type": "介词短语",
-      "count": 1
+      "en": "a real whodunit",
+      "cn": "一个 真实的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "it's a real",
+      "cn": "它的 一个 真实的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "real museum",
+      "cn": "真实的 博物馆",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "the real museum",
+      "cn": "该 真实的 博物馆",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "real apes",
+      "cn": "真实的",
+      "type": "动词短语",
+      "count": 2
     }
   ]
 }

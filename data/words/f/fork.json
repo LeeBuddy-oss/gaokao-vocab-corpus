@@ -1,1 +1,100 @@
-{"meta": {"ph": "fɔːk; NAmE fɔːrk", "pos": "noun;noun;noun;noun;noun;verb;verb;verb", "stars": ""}, "defs": [{"def": "a tool with a handle and three or four sharp points (called prongs ), used for picking up and eating food 餐叉", "ex": []}, {"def": "a garden tool with a long or short handle and three or four sharp metal points, used for digging 叉（挖掘用的园艺工具）", "ex": [{"s": "Knives and forks are used for most Western food.", "src": "外研社B1 U6", "cat": "waiyan", "t": "大多数西餐都使用刀叉。"}]}, {"def": "a place where a road, river, etc. divides into two parts; either of these two parts （道路、河流等的）分岔处，分流处，岔口，岔路", "ex": []}, {"def": "a thing shaped like a fork, with two or more long parts 叉状物", "ex": []}, {"def": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted （自行车或摩托车的）车叉子", "ex": [{"s": "People in Thailand generally use their forks only to push food onto their spoons.", "src": "2022全国甲卷", "cat": "gaokao", "year": 2022, "t": "泰国人通常只用叉子把食物拨到勺子上。"}, {"s": "After failing to pick up any food with a fork for five minutes, I decided to use my hands.", "src": "外研社B4 U2", "cat": "waiyan", "t": "用叉子夹了五分钟食物都没夹起来之后，我决定用手。"}]}, {"def": "to divide into two parts that lead in different directions 不用于进行时", "ex": []}, {"def": "to turn left or right where a road, etc. divides into two 不用于进行时", "ex": []}, {"def": "to move, carry or dig sth using a fork 叉运；叉掘", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "fɔːk; NAmE fɔːrk",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a tool with a handle and three or four sharp points (called prongs ), used for picking up and eating food 餐叉",
+      "ex": []
+    },
+    {
+      "def": "a garden tool with a long or short handle and three or four sharp metal points, used for digging 叉（挖掘用的园艺工具）",
+      "ex": [
+        {
+          "s": "Knives and forks are used for most Western food.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "大多数西餐都使用刀叉。"
+        }
+      ]
+    },
+    {
+      "def": "a place where a road, river, etc. divides into two parts; either of these two parts （道路、河流等的）分岔处，分流处，岔口，岔路",
+      "ex": []
+    },
+    {
+      "def": "a thing shaped like a fork, with two or more long parts 叉状物",
+      "ex": []
+    },
+    {
+      "def": "either of two metal supporting pieces into which a wheel on a bicycle or motorcycle is fitted （自行车或摩托车的）车叉子",
+      "ex": [
+        {
+          "s": "People in Thailand generally use their forks only to push food onto their spoons.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "泰国人通常只用叉子把食物拨到勺子上。"
+        },
+        {
+          "s": "After failing to pick up any food with a fork for five minutes, I decided to use my hands.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "用叉子夹了五分钟食物都没夹起来之后，我决定用手。"
+        }
+      ]
+    },
+    {
+      "def": "to divide into two parts that lead in different directions 不用于进行时",
+      "ex": []
+    },
+    {
+      "def": "to turn left or right where a road, etc. divides into two 不用于进行时",
+      "ex": []
+    },
+    {
+      "def": "to move, carry or dig sth using a fork 叉运；叉掘",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "forks are used",
+      "cn": "餐叉 是 习惯于",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "knives and forks",
+      "cn": "与 餐叉",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "their forks",
+      "cn": "他们的 餐叉",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "use their forks",
+      "cn": "使用 他们的 餐叉",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "forks only to push",
+      "cn": "餐叉 仅 去 推动",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "fork for five",
+      "cn": "餐叉 为了",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

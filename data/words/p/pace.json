@@ -1,1 +1,161 @@
-{"meta":{"ph":"peɪs; NAmE peɪs","pos":"noun;noun;noun;noun;verb;verb;verb;verb;verb","stars":"★★"},"defs":[{"def":"the speed at which sb/sth walks, runs or moves （移动的）速度；步速","ex":[]},{"def":"the speed at which sth happens 发生的速度；步伐；节奏","ex":[{"s":"Parenting sets the pace of a child’s growth.","src":"2026北京卷·阅读理解B","cat":"gaokao","year":2026,"t":"养育子女决定了儿童成长的速度。"},{"s":"If we see the elderly trying to catch their planes but walking at a snail’s pace, we find a wheelchair for them immediately.","src":"2022天津4月卷·阅读理解B","cat":"gaokao","year":2022,"t":"如果我们看到老人试图赶飞机却以蜗牛般的速度行走，我们会立刻为他们找来轮椅。"},{"s":"C take pride inD. keep pace with","src":"2023天津3月卷·单项选择","cat":"gaokao","year":2023,"t":"C. 以……为荣 D. 与……并驾齐驱"},{"s":"It should keep pace with the procedure.","src":"2021天津3月卷·阅读理解C","cat":"gaokao","year":2021,"t":"它应该跟上程序的节奏。"},{"s":"Zhang Daqian (picture 4) Adopt the pace of nature: her secret is patience.","src":"外研社B6 U5","cat":"waiyan","year":"","t":"张大千（图4 ）走大自然的步伐：她的秘诀就是耐心。"},{"s":"Life is queer with its twists and turns, As every one of us sometimes learns, And many a failure turns about, When he might have won had he stuck it out; Don't give up though the pace seems slow - You may succeed with another blow.","src":"外研社B4 U2","cat":"waiyan","year":"","t":"生活充满了曲折，我们每个人有时都会体会到，多少次的失败本可转为成功，只要他们当初坚持下去；即使步伐似乎缓慢，也千万不要放弃——你或许下一次努力就会成功。"},{"s":"Masters of Time In the quiet courtyards of Xi San Suo, behind the high walls of the Forbidden City, time ticks at its own pace.","src":"外研社B6 U2","cat":"waiyan","year":"","t":"时间的大师：在紫禁城高墙后面西三所的宁静庭院里，时间以它自己的节奏滴答作响。"}]},{"def":"an act of stepping once when walking or running; the distance travelled when doing this （走或跑时）迈出的一步，一步的距离；步幅","ex":[]},{"def":"the fact of sth happening, changing, etc. quickly 迅速出现（或变化等）；快节奏","ex":[]},{"def":"to do sth at a particular speed or to a particular standard so that other people are then forced to copy it if they want to be successful 确定速度；确立标准；领先","ex":[{"s":"He seized Tom by the jaw, and pulled open his mouth to inspect his teeth; made him strip up his sleeve, to show his muscle; turned him round, made him jump and spring, to show his paces.","src":"外研社B5 U6","cat":"waiyan","year":"","t":"他抓住汤姆的下巴，扒开他的嘴检查牙齿；让他卷起袖子展示肌肉；让他转圈、跳跃，展示他的步态。"},{"s":"In today’s fast-paced world, the saying that “time waits for no man” has never seemed more apt.","src":"外研社B6 U2","cat":"waiyan","year":"","t":"在当今快节奏的世界里，＂时不我待＂这句谚语似乎从未如此贴切。"}]},{"def":"to run faster than the other people taking part, at a speed that they then try to copy 跑步比赛","ex":[]},{"def":"to walk up and down in a small area many times, especially because you are feeling nervous or angry 来回踱步；走来走去","ex":[]},{"def":"to set the speed at which sth happens or develops 确定速度；调整节奏","ex":[]},{"def":"to find the right speed or rhythm for your work or an activity so that you have enough energy to do what you have to do 调整自己的工作（或活动）节奏","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "peɪs; NAmE peɪs",
+    "pos": "noun;noun;noun;noun;verb;verb;verb;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the speed at which sb/sth walks, runs or moves （移动的）速度；步速",
+      "ex": []
+    },
+    {
+      "def": "the speed at which sth happens 发生的速度；步伐；节奏",
+      "ex": [
+        {
+          "s": "Parenting sets the pace of a child’s growth.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "养育子女决定了儿童成长的速度。"
+        },
+        {
+          "s": "If we see the elderly trying to catch their planes but walking at a snail’s pace, we find a wheelchair for them immediately.",
+          "src": "2022天津4月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "如果我们看到老人试图赶飞机却以蜗牛般的速度行走，我们会立刻为他们找来轮椅。"
+        },
+        {
+          "s": "C take pride inD. keep pace with",
+          "src": "2023天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "C. 以……为荣 D. 与……并驾齐驱"
+        },
+        {
+          "s": "It should keep pace with the procedure.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "它应该跟上程序的节奏。"
+        },
+        {
+          "s": "Zhang Daqian (picture 4) Adopt the pace of nature: her secret is patience.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "张大千（图4 ）走大自然的步伐：她的秘诀就是耐心。"
+        },
+        {
+          "s": "Life is queer with its twists and turns, As every one of us sometimes learns, And many a failure turns about, When he might have won had he stuck it out; Don't give up though the pace seems slow - You may succeed with another blow.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "生活充满了曲折，我们每个人有时都会体会到，多少次的失败本可转为成功，只要他们当初坚持下去；即使步伐似乎缓慢，也千万不要放弃——你或许下一次努力就会成功。"
+        },
+        {
+          "s": "Masters of Time In the quiet courtyards of Xi San Suo, behind the high walls of the Forbidden City, time ticks at its own pace.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "时间的大师：在紫禁城高墙后面西三所的宁静庭院里，时间以它自己的节奏滴答作响。"
+        }
+      ]
+    },
+    {
+      "def": "an act of stepping once when walking or running; the distance travelled when doing this （走或跑时）迈出的一步，一步的距离；步幅",
+      "ex": []
+    },
+    {
+      "def": "the fact of sth happening, changing, etc. quickly 迅速出现（或变化等）；快节奏",
+      "ex": [
+        {
+          "s": "In today’s fast-paced world, the saying that “time waits for no man” has never seemed more apt.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "在当今快节奏的世界里，＂时不我待＂这句谚语似乎从未如此贴切。"
+        }
+      ]
+    },
+    {
+      "def": "to do sth at a particular speed or to a particular standard so that other people are then forced to copy it if they want to be successful 确定速度；确立标准；领先",
+      "ex": [
+        {
+          "s": "He seized Tom by the jaw, and pulled open his mouth to inspect his teeth; made him strip up his sleeve, to show his muscle; turned him round, made him jump and spring, to show his paces.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "他抓住汤姆的下巴，扒开他的嘴检查牙齿；让他卷起袖子展示肌肉；让他转圈、跳跃，展示他的步态。"
+        }
+      ]
+    },
+    {
+      "def": "to run faster than the other people taking part, at a speed that they then try to copy 跑步比赛",
+      "ex": []
+    },
+    {
+      "def": "to walk up and down in a small area many times, especially because you are feeling nervous or angry 来回踱步；走来走去",
+      "ex": []
+    },
+    {
+      "def": "to set the speed at which sth happens or develops 确定速度；调整节奏",
+      "ex": []
+    },
+    {
+      "def": "to find the right speed or rhythm for your work or an activity so that you have enough energy to do what you have to do 调整自己的工作（或活动）节奏",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "keep pace",
+      "cn": "保持 速度",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "sets the pace",
+      "cn": "放 该 速度",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pace of a child",
+      "cn": "速度 的 一个 儿童",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "pace we",
+      "cn": "速度 我们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "s pace we",
+      "cn": "速度 我们",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "snail s pace",
+      "cn": "速度",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "ind keep pace",
+      "cn": "保持 速度",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "should keep pace",
+      "cn": "应 保持 速度",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

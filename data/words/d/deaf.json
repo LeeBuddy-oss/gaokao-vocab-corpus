@@ -1,1 +1,132 @@
-{"meta": {"ph": "def; NAmE def", "pos": "adj.", "stars": ""}, "defs": [{"def": "unable to hear anything or unable to hear very well 聋的", "ex": [{"s": "Three Days to See 1 I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life.", "src": "外研社B4 U2", "cat": "waiyan", "t": "《假如给我三天光明》1 我常常想，如果在每个人成年初期，都能突然失明失聪几天，那将是一种福分。"}, {"s": "Hear the music of voices, the song of a bird, the mighty strains of an orchestra, as if you would be stricken deaf tomorrow.", "src": "外研社B4 U2", "cat": "waiyan", "t": "聆听人声的音乐、鸟儿的歌唱、管弦乐队雄浑的乐章，就好像明天你会失去听觉一样。"}, {"s": "I have often thought that if everyone became blind and deaf for a few days at some time when they are young, it would be a good thing.", "src": "外研社B4 U6", "cat": "waiyan", "t": "我常想，如果每个人在年轻时的某段时间都能失明失聪几天，那将是好事。"}, {"s": "During this same period, he slowly became deaf.", "src": "人教B2 U5", "cat": "renjiao", "t": "在同一时期，他逐渐失聪。"}]}, {"def": "people who cannot hear 耳聋的人；聋子", "ex": [{"s": "The professor was deaf and any talking was   57   .", "src": "2017全国I卷·完形填空", "cat": "gaokao", "year": 2017, "t": "教授耳聋，任何交谈都____57____。"}, {"s": "Yes, I am deaf, that is the way I am made.", "src": "外研社B6 U1", "cat": "waiyan", "t": "是的，我耳聋，我生来如此。"}, {"s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL, Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.", "src": "2017全国II卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"}, {"s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL,Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.", "src": "2017重庆卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"}]}, {"def": "not willing to listen or pay attention to sth 不愿听；不去注意", "ex": [{"s": "My parents urged me to get out of this so-called unhealthy habit, but their repeated requests fell on deaf ears.", "src": "2026新高考II卷·读后续写", "cat": "gaokao", "year": 2026, "t": "父母劝我改掉这个所谓不健康的习惯，但他们的一再要求都被我当成了耳旁风。"}]}], "chunks": [{"en": "deaf to", "cn": "对…充耳不闻", "type": "形容词搭配", "count": 2}]}
+{
+  "meta": {
+    "ph": "def; NAmE def",
+    "pos": "adj.",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "unable to hear anything or unable to hear very well 聋的",
+      "ex": [
+        {
+          "s": "Three Days to See 1 I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "《假如给我三天光明》1 我常常想，如果在每个人成年初期，都能突然失明失聪几天，那将是一种福分。"
+        },
+        {
+          "s": "Hear the music of voices, the song of a bird, the mighty strains of an orchestra, as if you would be stricken deaf tomorrow.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "聆听人声的音乐、鸟儿的歌唱、管弦乐队雄浑的乐章，就好像明天你会失去听觉一样。"
+        },
+        {
+          "s": "I have often thought that if everyone became blind and deaf for a few days at some time when they are young, it would be a good thing.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "我常想，如果每个人在年轻时的某段时间都能失明失聪几天，那将是好事。"
+        },
+        {
+          "s": "During this same period, he slowly became deaf.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "在同一时期，他逐渐失聪。"
+        }
+      ]
+    },
+    {
+      "def": "people who cannot hear 耳聋的人；聋子",
+      "ex": [
+        {
+          "s": "The professor was deaf and any talking was   57   .",
+          "src": "2017全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "教授耳聋，任何交谈都____57____。"
+        },
+        {
+          "s": "Yes, I am deaf, that is the way I am made.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "是的，我耳聋，我生来如此。"
+        },
+        {
+          "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL, Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
+          "src": "2017全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
+        },
+        {
+          "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL,Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
+          "src": "2017重庆卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
+        }
+      ]
+    },
+    {
+      "def": "not willing to listen or pay attention to sth 不愿听；不去注意",
+      "ex": [
+        {
+          "s": "My parents urged me to get out of this so-called unhealthy habit, but their repeated requests fell on deaf ears.",
+          "src": "2026新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "父母劝我改掉这个所谓不健康的习惯，但他们的一再要求都被我当成了耳旁风。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "blind and deaf",
+      "cn": "瞎的 与 聋的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "deaf and hearing",
+      "cn": "聋的 与 不用于进行时",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "bridge between deaf",
+      "cn": "桥 在…之间 聋的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "deaf tomorrow",
+      "cn": "聋的 明天",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "stricken deaf",
+      "cn": "聋的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "be stricken deaf",
+      "cn": "是 聋的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "became deaf",
+      "cn": "聋的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "slowly became deaf",
+      "cn": "聋的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

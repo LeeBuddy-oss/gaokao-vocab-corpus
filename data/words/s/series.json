@@ -1,1 +1,149 @@
-{"meta": {"ph": "ˈsɪəriːz; NAmE ˈsɪriːz", "pos": "noun", "stars": "★"}, "defs": [{"def": "several events or things of a similar kind that happen one after the other 一系列；连续；接连", "ex": [{"s": "The City of Burlington public art program is presenting a series of temporary public art signs at the Beachway in conjunction with the Ontario Culture Days.", "src": "2026浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2026, "t": "Burlington市公共艺术项目正与安大略文化节合作，在Beachway展出一系列临时公共艺术标识。"}, {"s": "As a result, the first four years of my postgraduate career were defined by a series of failures.", "src": "2024北京卷·书面表达", "cat": "gaokao", "year": 2024, "t": "结果，我研究生生涯的头四年被一系列的失败所定义。"}, {"s": "First, he constructed a series of clear fiberglass tanks connected to each other.", "src": "2023新课标I卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "首先，他建造了一系列相互连接的透明玻璃纤维水箱。"}, {"s": "Looking back, I now see that this would be the first in a series of timely opportunities that my old self would have let pass, but that this new and more confident Alice enthusiastically seized.", "src": "2022北京卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "回想起来，我现在看到，这将是我以前的自我本来会放弃的一系列及时机会中的第一个机会，但是这个新的和更加自信的爱丽丝却热情地抓住了机会。"}, {"s": "What comes next is the endless series of steps.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "接下来是无尽的台阶。"}, {"s": "A series of events and characters.", "src": "2023天津6月卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "友好的动物更容易获得食物。"}, {"s": "Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences.", "src": "外研社B1 U6", "cat": "waiyan", "t": "安杰卢以她的七部自传系列最为知名，这些自传聚焦于她的童年和成年早期经历。"}, {"s": "The World Triathlon Series is held by the International Triathlon Union.", "src": "外研社B1 U6", "cat": "waiyan", "t": "世界Triathlon系列赛由国际Triathlon联盟举办。"}, {"s": "It is an annual series of triathlon events, and athletes compete for a chance to be World Champion.", "src": "外研社B1 U6", "cat": "waiyan", "t": "这是一年一度的铁人三项系列赛，运动员争夺成为世界冠军的机会。"}, {"s": "Interestingly, audiences have in recent years turned to television series such as Sherlock or Mad Men, which can have many characters and gradual plot development.", "src": "外研社B2 U6", "cat": "waiyan", "t": "有趣的是，近年来观众们转向了电视连续剧如夏洛克或疯人院，这些连续剧可以有很多人物和逐渐的情节发展。"}]}, {"def": "a set of radio or television programmes that deal with the same subject or that have the same characters （广播或电视上题材或角色相同的）系列节目", "ex": [{"s": "Interestingly,audiences have in recent years turned to television series such as Sherlock or Mad Men, which can have many characters and gradual plot development.", "src": "外研社B2 U4", "cat": "waiyan", "t": "有趣的是，近年来观众转向了像《神探夏洛克》或《广告狂人》这样的电视剧集，这些剧集可以有众多角色和渐进的剧情发展。"}]}, {"def": "a set of sports games played between the same two teams （两队之间的）系列比赛", "ex": []}, {"def": "an electrical circuit in which the current passes through all the parts in the correct order 串联", "ex": []}], "chunks": [{"en": "series of", "cn": "一系列的", "type": "名词短语", "count": 8}]}
+{
+  "meta": {
+    "ph": "ˈsɪəriːz; NAmE ˈsɪriːz",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "several events or things of a similar kind that happen one after the other 一系列；连续；接连",
+      "ex": [
+        {
+          "s": "The City of Burlington public art program is presenting a series of temporary public art signs at the Beachway in conjunction with the Ontario Culture Days.",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "Burlington市公共艺术项目正与安大略文化节合作，在Beachway展出一系列临时公共艺术标识。"
+        },
+        {
+          "s": "As a result, the first four years of my postgraduate career were defined by a series of failures.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "结果，我研究生生涯的头四年被一系列的失败所定义。"
+        },
+        {
+          "s": "First, he constructed a series of clear fiberglass tanks connected to each other.",
+          "src": "2023新课标I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "首先，他建造了一系列相互连接的透明玻璃纤维水箱。"
+        },
+        {
+          "s": "Looking back, I now see that this would be the first in a series of timely opportunities that my old self would have let pass, but that this new and more confident Alice enthusiastically seized.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "回想起来，我现在看到，这将是我以前的自我本来会放弃的一系列及时机会中的第一个机会，但是这个新的和更加自信的爱丽丝却热情地抓住了机会。"
+        },
+        {
+          "s": "What comes next is the endless series of steps.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "接下来是无尽的台阶。"
+        },
+        {
+          "s": "A series of events and characters.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "友好的动物更容易获得食物。"
+        },
+        {
+          "s": "Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "安杰卢以她的七部自传系列最为知名，这些自传聚焦于她的童年和成年早期经历。"
+        },
+        {
+          "s": "The World Triathlon Series is held by the International Triathlon Union.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "世界Triathlon系列赛由国际Triathlon联盟举办。"
+        },
+        {
+          "s": "It is an annual series of triathlon events, and athletes compete for a chance to be World Champion.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这是一年一度的铁人三项系列赛，运动员争夺成为世界冠军的机会。"
+        },
+        {
+          "s": "Interestingly, audiences have in recent years turned to television series such as Sherlock or Mad Men, which can have many characters and gradual plot development.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "有趣的是，近年来观众们转向了电视连续剧如夏洛克或疯人院，这些连续剧可以有很多人物和逐渐的情节发展。"
+        }
+      ]
+    },
+    {
+      "def": "a set of radio or television programmes that deal with the same subject or that have the same characters （广播或电视上题材或角色相同的）系列节目",
+      "ex": [
+        {
+          "s": "Interestingly,audiences have in recent years turned to television series such as Sherlock or Mad Men, which can have many characters and gradual plot development.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "有趣的是，近年来观众转向了像《神探夏洛克》或《广告狂人》这样的电视剧集，这些剧集可以有众多角色和渐进的剧情发展。"
+        }
+      ]
+    },
+    {
+      "def": "a set of sports games played between the same two teams （两队之间的）系列比赛",
+      "ex": []
+    },
+    {
+      "def": "an electrical circuit in which the current passes through all the parts in the correct order 串联",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "television series",
+      "cn": "一系列",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "to television series",
+      "cn": "去 一系列",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "series such as sherlock",
+      "cn": "一系列 这样的 作为",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "series of temporary",
+      "cn": "一系列 的 短暂的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "presenting a series",
+      "cn": "现存的 一个 一系列",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "series of failures",
+      "cn": "一系列 的 失败",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "series of clear",
+      "cn": "一系列 的 清晰易懂的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "constructed a series",
+      "cn": "一个 一系列",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

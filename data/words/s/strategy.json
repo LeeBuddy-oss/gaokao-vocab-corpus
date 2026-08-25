@@ -1,1 +1,138 @@
-{"meta":{"ph":"ˈstrætədʒi; NAmE ˈstrætədʒi","pos":"noun","stars":"★"},"defs":[{"def":"a plan that is intended to achieve a particular purpose 策略；计策；行动计划","ex":[{"s":"Rereading because you did not understand is a reasonable fix-up strategy.","src":"2026浙江1月卷·七选五","cat":"gaokao","year":2026,"t":"因为没读懂而重读，是一种合理的补救策略。"},{"s":"I’ve been trying out these strategies and I’ve found that when I’m less restrictive, they do make better decisions.","src":"2025浙江1月卷·阅读理解B","cat":"gaokao","year":2025,"t":"我一直在尝试这些策略，并且发现当我少加限制时，他们确实会做出更好的决定。"},{"s":"What does the author think of the strategies she has been following?","src":"2025浙江1月卷·阅读理解B","cat":"gaokao","year":2025,"t":"作者如何看待她一直在采用的策略？"},{"s":"You’ll hear these participants’ stories and learn what strategies worked well for them, and what traps they encountered that you should avoid.","src":"2023新课标I卷·阅读理解C","cat":"gaokao","year":2023,"t":"你将听到这些参与者的故事，了解哪些策略对他们有效，以及他们遇到了哪些你应当避免的陷阱。"},{"s":"Campers who sign up for the 2-week secret agent camp can get to know about the life of real secret agents by learning strategies and military skills on the paintball field.","src":"2020全国新高考II卷·阅读理解A","cat":"gaokao","year":2020,"t":"报名两周秘密特工营的营员，可以通过在彩弹场上学习策略与军事技能，了解真实特工的生活。"},{"s":"Do you think “understanding cause and effect” was a useful strategy?","src":"人教选必2 U3","cat":"renjiao","t":"你认为“理解因果”是一种有用的策略吗？"},{"s":"Again, your strategy is clear communication.","src":"外研社B3 U1","cat":"waiyan","t":"同样，您的策略是清晰的沟通。"},{"s":"Do you have any effective marketing strategies?","src":"人教B2 U5","cat":"renjiao","t":"你有有效的营销策略吗？"}]},{"def":"the process of planning sth or putting a plan into operation in a skilful way 策划；规划；部署；统筹安排","ex":[]},{"def":"the skill of planning the movements of armies in a battle or war; an example of doing this 战略；战略部署","ex":[{"s":"Do you think the “asking questions” strategy was useful in understanding the texts?","src":"人教选必2 U1","cat":"renjiao","t":"你认为“提问”战略有助于理解案文吗？"},{"s":"Global development strategies help to make connections between China and the rest of the world.","src":"人教选必2 U2","cat":"renjiao","t":"全球发展战略有助于中国与世界其他地区建立联系。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈstrætədʒi; NAmE ˈstrætədʒi",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a plan that is intended to achieve a particular purpose 策略；计策；行动计划",
+      "ex": [
+        {
+          "s": "Rereading because you did not understand is a reasonable fix-up strategy.",
+          "src": "2026浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "因为没读懂而重读，是一种合理的补救策略。"
+        },
+        {
+          "s": "I’ve been trying out these strategies and I’ve found that when I’m less restrictive, they do make better decisions.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我一直在尝试这些策略，并且发现当我少加限制时，他们确实会做出更好的决定。"
+        },
+        {
+          "s": "What does the author think of the strategies she has been following?",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "作者如何看待她一直在采用的策略？"
+        },
+        {
+          "s": "You’ll hear these participants’ stories and learn what strategies worked well for them, and what traps they encountered that you should avoid.",
+          "src": "2023新课标I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "你将听到这些参与者的故事，了解哪些策略对他们有效，以及他们遇到了哪些你应当避免的陷阱。"
+        },
+        {
+          "s": "Campers who sign up for the 2-week secret agent camp can get to know about the life of real secret agents by learning strategies and military skills on the paintball field.",
+          "src": "2020全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "报名两周秘密特工营的营员，可以通过在彩弹场上学习策略与军事技能，了解真实特工的生活。"
+        },
+        {
+          "s": "Do you think “understanding cause and effect” was a useful strategy?",
+          "src": "人教选必2 U3",
+          "cat": "renjiao",
+          "t": "你认为“理解因果”是一种有用的策略吗？"
+        },
+        {
+          "s": "Again, your strategy is clear communication.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "同样，您的策略是清晰的沟通。"
+        },
+        {
+          "s": "Do you have any effective marketing strategies?",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "你有有效的营销策略吗？"
+        }
+      ]
+    },
+    {
+      "def": "the process of planning sth or putting a plan into operation in a skilful way 策划；规划；部署；统筹安排",
+      "ex": []
+    },
+    {
+      "def": "the skill of planning the movements of armies in a battle or war; an example of doing this 战略；战略部署",
+      "ex": [
+        {
+          "s": "Do you think the “asking questions” strategy was useful in understanding the texts?",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "t": "你认为“提问”战略有助于理解案文吗？"
+        },
+        {
+          "s": "Global development strategies help to make connections between China and the rest of the world.",
+          "src": "人教选必2 U2",
+          "cat": "renjiao",
+          "t": "全球发展战略有助于中国与世界其他地区建立联系。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "fix-up strategy",
+      "cn": "策略",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "reasonable fix-up strategy",
+      "cn": "策略",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "strategies and i ve",
+      "cn": "策略 与 我",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "strategies she",
+      "cn": "策略 她",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the strategies she",
+      "cn": "该 策略 她",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "strategies worked",
+      "cn": "策略 工作",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "what strategies worked",
+      "cn": "什么 策略 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "learn what strategies",
+      "cn": "学 什么 策略",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

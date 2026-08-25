@@ -1,1 +1,92 @@
-{"meta":{"ph":"ˈdræɡən; NAmE ˈdræɡən","pos":"noun","stars":""},"defs":[{"def":"(in stories) a large aggressive animal with wings and a long tail, that can breathe out fire （传说中的）龙","ex":[{"s":"Traditional sports in China Student A You are a sports journalist and are about to interview a member of a dragon boat team.","src":"外研社B2 U6","cat":"waiyan","t":"中国的传统体育 学生A：你是一名体育记者，即将采访一位龙舟队队员。"},{"s":"You are a member of a dragon boat team and are about to be interviewed by a sports journalist.","src":"外研社B2 U6","cat":"waiyan","t":"你是一名龙舟队队员，即将接受一位体育记者的采访。"},{"s":"You once missed a national dragon boat race because of injuries.","src":"外研社B2 U6","cat":"waiyan","t":"你曾因为受伤错过了一次全国龙舟赛。"},{"s":"You hope to spread the Chinese dragon boat culture to the world.","src":"外研社B2 U6","cat":"waiyan","t":"你希望将中国的龙舟文化传播到全世界。"}]},{"def":"a woman who behaves in an aggressive and frightening way 悍妇；母夜叉","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈdræɡən; NAmE ˈdræɡən",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "(in stories) a large aggressive animal with wings and a long tail, that can breathe out fire （传说中的）龙",
+      "ex": [
+        {
+          "s": "Traditional sports in China Student A You are a sports journalist and are about to interview a member of a dragon boat team.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "中国的传统体育 学生A：你是一名体育记者，即将采访一位龙舟队队员。"
+        },
+        {
+          "s": "You are a member of a dragon boat team and are about to be interviewed by a sports journalist.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "你是一名龙舟队队员，即将接受一位体育记者的采访。"
+        },
+        {
+          "s": "You once missed a national dragon boat race because of injuries.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "你曾因为受伤错过了一次全国龙舟赛。"
+        },
+        {
+          "s": "You hope to spread the Chinese dragon boat culture to the world.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "你希望将中国的龙舟文化传播到全世界。"
+        }
+      ]
+    },
+    {
+      "def": "a woman who behaves in an aggressive and frightening way 悍妇；母夜叉",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "dragon boat",
+      "cn": "龙 小船",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "dragon boat team",
+      "cn": "龙 小船 队",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "a dragon boat",
+      "cn": "一个 龙 小船",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "dragon boat team and",
+      "cn": "龙 小船 队 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "national dragon",
+      "cn": "国家的 龙",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dragon boat race",
+      "cn": "龙 小船 赛跑",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a national dragon",
+      "cn": "一个 国家的 龙",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "chinese dragon",
+      "cn": "中国人 龙",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,91 @@
-{"meta": {"ph": "ˈɡrænsʌn; NAmE ˈɡrænsʌn", "pos": "noun", "stars": "★"}, "defs": [{"def": "a son of your son or daughter 孙子；外孙", "ex": [{"s": "This hit home for me as I was sitting with my 2-year-old grandson on a sofa over the Spring Festival holiday.", "src": "2022全国新高考II卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "今年春节假期，当我抱着两岁的孙子坐在沙发上时，这一点让我深有感触。"}, {"s": "Picture this: my grandson sitting on my lap as I hold the book in front so he can see the pictures.", "src": "2022全国新高考II卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "想象一下：我的孙子坐在我腿上，我把书举在他面前让他看到图片。"}, {"s": "But I will make sure my 2-year-old grandson sees it on his tablet.", "src": "2022全国新高考II卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "但我会确保我两岁的孙子在他的平板电脑上看到它。"}, {"s": "I got my grandson to show me how to send an email and search the web,whichI now love.", "src": "北师大B3 U9", "cat": "beishida", "t": "我让孙子教我怎么发电子邮件和上网搜索，我现在非常喜欢这些。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈɡrænsʌn; NAmE ˈɡrænsʌn",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a son of your son or daughter 孙子；外孙",
+      "ex": [
+        {
+          "s": "This hit home for me as I was sitting with my 2-year-old grandson on a sofa over the Spring Festival holiday.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "今年春节假期，当我抱着两岁的孙子坐在沙发上时，这一点让我深有感触。"
+        },
+        {
+          "s": "Picture this: my grandson sitting on my lap as I hold the book in front so he can see the pictures.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "想象一下：我的孙子坐在我腿上，我把书举在他面前让他看到图片。"
+        },
+        {
+          "s": "But I will make sure my 2-year-old grandson sees it on his tablet.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "但我会确保我两岁的孙子在他的平板电脑上看到它。"
+        },
+        {
+          "s": "I got my grandson to show me how to send an email and search the web,whichI now love.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "t": "我让孙子教我怎么发电子邮件和上网搜索，我现在非常喜欢这些。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "2-year-old grandson",
+      "cn": "孙子",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "my 2-year-old grandson",
+      "cn": "我的 孙子",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "my grandson",
+      "cn": "我的 孙子",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "2-year-old grandson on",
+      "cn": "孙子 在…上",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "grandson on a sofa",
+      "cn": "孙子 在…上 一个 长沙发",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "grandson sitting",
+      "cn": "孙子 坐",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "my grandson sitting",
+      "cn": "我的 孙子 坐",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "this my grandson",
+      "cn": "这个 我的 孙子",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

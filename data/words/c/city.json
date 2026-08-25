@@ -843,22 +843,52 @@
   ],
   "chunks": [
     {
-      "en": "capital city",
-      "cn": "首都",
+      "en": "york city",
+      "cn": "都市",
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "new york city",
+      "cn": "刚出现的 都市",
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "our cities",
+      "cn": "我们的 都市",
       "type": "名词短语",
       "count": 3
     },
     {
-      "en": "big city",
-      "cn": "大城市",
+      "en": "explore the city",
+      "cn": "勘探 该 都市",
       "type": "名词短语",
-      "count": 2
+      "count": 3
     },
     {
-      "en": "city center",
-      "cn": "市中心",
+      "en": "city bike",
+      "cn": "都市 自行车",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "capital city",
+      "cn": "首都 都市",
       "type": "名词短语",
-      "count": 1
+      "count": 3
+    },
+    {
+      "en": "city wall",
+      "cn": "都市 城墙",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "modern city",
+      "cn": "现代的 都市",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

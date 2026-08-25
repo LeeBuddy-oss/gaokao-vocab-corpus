@@ -1,1 +1,159 @@
-{"meta":{"ph":"iːst; NAmE iːst","pos":"noun","stars":""},"defs":[{"def":"the direction that you look towards to see the sun rise; one of the four main points of the compass 东；东方","ex":[{"s":"In tonight’s Easter special they come to the aid of a family in need of some delicious inspiration on a budget.","src":"2018全国I卷·阅读理解B","cat":"gaokao","year":2018,"t":"在今晚的复活节特别节目中，他们帮助一个需要一些经济实惠的美味灵感的家庭。"},{"s":"There are now 700 elderly people looking after hens in 20 care homes in the North East, and the charity has been given financial support to roll it out countrywide.","src":"2022全国新高考I卷·阅读理解C","cat":"gaokao","year":2022,"t":"如今英格兰东北部20家养老院里有700名老人在照料母鸡，该慈善机构已获得财政支持，计划在全国范围内推广。"},{"s":"New York City is located in the north-east of the US and was already a big city by then.","src":"外研社B1 U6","cat":"waiyan","t":"纽约市位于美国东北部，当时已经是一个大城市。"},{"s":"The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.","src":"2024全国甲卷·阅读理解C","cat":"gaokao","year":2024,"t":"政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。"},{"s":"The balance of East and West","src":"2018全国III卷·阅读理解C","cat":"gaokao","year":2018,"t":"东西方之间的平衡。"}]},{"def":"the eastern part of a country, region or city 东部；东边","ex":[{"s":"When the weather gets cold, it migrates to east-central China.","src":"外研社B1 U5","cat":"waiyan","t":"天气转冷时，它迁徙到中国中东部。"}]},{"def":"the countries of Asia, especially China, Japan and India 亚洲国家，东方国家（尤指中国、日本和印度）","ex":[{"s":"In India and the Middle East, it’s considered very rude to eat with your left hand.","src":"2022全国甲卷","cat":"gaokao","year":2022,"t":"在印度和中东，用左手吃饭被认为是非常粗鲁的。"},{"s":"Bamboo Family: grass Varieties: Over 1,000 species Size: from a few centimetres to over 30 metres Distribution: Bamboos can be found mostly in East and South-east Asia and on islands of the Indian Ocean and Pacific Ocean.","src":"外研社B1 U6","cat":"waiyan","t":"竹子：科——草本科；品种——超过1000种；尺寸——从几厘米到超过30米；分布——竹子主要分布在东亚和东南亚以及印度洋和太平洋的岛屿上。"},{"s":"His initial journey to India opened up the sea route from Western Europe to the east by way of the Cape of Good Hope.","src":"外研社B3 U5","cat":"waiyan","t":"他对印度的最初航行开辟了从西欧经好望角通往东方的海上航线。"},{"s":"In China, it spends the warmer months in the rivers and wetlands in the north-east.","src":"外研社B1 U5","cat":"waiyan","t":"在中国，它在较温暖的月份生活在东北的河流和湿地中。"}]},{"def":"(in the past) the Communist countries of Central and Eastern Europe （旧时）中欧和东欧共产主义国家","ex":[]},{"def":"in or towards the east 东方的；向东的；东部的","ex":[{"s":"“Basically, the provincial government is letting the insurance companies protect the Calgary-Edmonton urban area from hail,” Mr Stienwand says, “but they’re increasing drought risk as far east as Saskatchewan.”","src":"2024浙江1月卷·阅读理解C","cat":"gaokao","year":2024,"t":"“基本上，省政府是在让保险公司保护卡尔加里-埃德蒙顿城区免受冰雹侵害，”斯坦万德先生说，“但他们正在向东远至萨斯喀彻温省增加干旱风险。”"}]},{"def":"an east wind blows from the east 东风的；东方吹来的","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "iːst; NAmE iːst",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "the direction that you look towards to see the sun rise; one of the four main points of the compass 东；东方",
+      "ex": [
+        {
+          "s": "In tonight’s Easter special they come to the aid of a family in need of some delicious inspiration on a budget.",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在今晚的复活节特别节目中，他们帮助一个需要一些经济实惠的美味灵感的家庭。"
+        },
+        {
+          "s": "There are now 700 elderly people looking after hens in 20 care homes in the North East, and the charity has been given financial support to roll it out countrywide.",
+          "src": "2022全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "如今英格兰东北部20家养老院里有700名老人在照料母鸡，该慈善机构已获得财政支持，计划在全国范围内推广。"
+        },
+        {
+          "s": "New York City is located in the north-east of the US and was already a big city by then.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "纽约市位于美国东北部，当时已经是一个大城市。"
+        },
+        {
+          "s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.",
+          "src": "2024全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。"
+        },
+        {
+          "s": "The balance of East and West",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "东西方之间的平衡。"
+        }
+      ]
+    },
+    {
+      "def": "the eastern part of a country, region or city 东部；东边",
+      "ex": [
+        {
+          "s": "When the weather gets cold, it migrates to east-central China.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "天气转冷时，它迁徙到中国中东部。"
+        }
+      ]
+    },
+    {
+      "def": "the countries of Asia, especially China, Japan and India 亚洲国家，东方国家（尤指中国、日本和印度）",
+      "ex": [
+        {
+          "s": "In India and the Middle East, it’s considered very rude to eat with your left hand.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在印度和中东，用左手吃饭被认为是非常粗鲁的。"
+        },
+        {
+          "s": "Bamboo Family: grass Varieties: Over 1,000 species Size: from a few centimetres to over 30 metres Distribution: Bamboos can be found mostly in East and South-east Asia and on islands of the Indian Ocean and Pacific Ocean.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "竹子：科——草本科；品种——超过1000种；尺寸——从几厘米到超过30米；分布——竹子主要分布在东亚和东南亚以及印度洋和太平洋的岛屿上。"
+        },
+        {
+          "s": "His initial journey to India opened up the sea route from Western Europe to the east by way of the Cape of Good Hope.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "他对印度的最初航行开辟了从西欧经好望角通往东方的海上航线。"
+        },
+        {
+          "s": "In China, it spends the warmer months in the rivers and wetlands in the north-east.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "在中国，它在较温暖的月份生活在东北的河流和湿地中。"
+        }
+      ]
+    },
+    {
+      "def": "(in the past) the Communist countries of Central and Eastern Europe （旧时）中欧和东欧共产主义国家",
+      "ex": []
+    },
+    {
+      "def": "in or towards the east 东方的；向东的；东部的",
+      "ex": [
+        {
+          "s": "“Basically, the provincial government is letting the insurance companies protect the Calgary-Edmonton urban area from hail,” Mr Stienwand says, “but they’re increasing drought risk as far east as Saskatchewan.”",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "“基本上，省政府是在让保险公司保护卡尔加里-埃德蒙顿城区免受冰雹侵害，”斯坦万德先生说，“但他们正在向东远至萨斯喀彻温省增加干旱风险。”"
+        }
+      ]
+    },
+    {
+      "def": "an east wind blows from the east 东风的；东方吹来的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "easter special",
+      "cn": "特殊的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "s easter special",
+      "cn": "特殊的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tonight s easter",
+      "cn": "在今夜",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "north east",
+      "cn": "北 东",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the north east",
+      "cn": "该 北 东",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "east and the charity",
+      "cn": "东 与 该 慈善机构",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "areas east",
+      "cn": "地区 东",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rural areas east",
+      "cn": "乡村的 地区 东",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

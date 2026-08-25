@@ -1348,5 +1348,54 @@
       ]
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "paragraph mainly",
+      "cn": "段",
+      "type": "动词短语",
+      "count": 20
+    },
+    {
+      "en": "paragraph refer",
+      "cn": "段 描述",
+      "type": "动词短语",
+      "count": 19
+    },
+    {
+      "en": "in paragraph refer",
+      "cn": "在…里 段 描述",
+      "type": "名词短语",
+      "count": 17
+    },
+    {
+      "en": "according to paragraph",
+      "cn": "去 段",
+      "type": "名词短语",
+      "count": 16
+    },
+    {
+      "en": "paragraph mean",
+      "cn": "段 不用于进行时",
+      "type": "动词短语",
+      "count": 12
+    },
+    {
+      "en": "in paragraph mean",
+      "cn": "在…里 段 不用于进行时",
+      "type": "名词短语",
+      "count": 11
+    },
+    {
+      "en": "paragraph mainly about",
+      "cn": "段 大约",
+      "type": "动词短语",
+      "count": 11
+    },
+    {
+      "en": "paragraph probably",
+      "cn": "段 几乎肯定",
+      "type": "动词短语",
+      "count": 11
+    }
+  ]
 }

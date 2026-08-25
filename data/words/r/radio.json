@@ -1,1 +1,158 @@
-{"meta": {"ph": "ˈreɪdiəʊ; NAmE ˈreɪdioʊ", "pos": "noun", "stars": ""}, "defs": [{"def": "the activity of broadcasting programmes for people to listen to; the programmes that are broadcast 无线电广播；无线电广播节目", "ex": [{"s": "As I grew older, my interest in radio grew.", "src": "外研社B1 U6", "cat": "waiyan", "t": "随着年龄增长，我对广播的兴趣也在增长。"}, {"s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.", "src": "2022全国新高考II卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "然而，我在新媒体经验中有一个明显的空白：我很少出现在镜头前，因为我有一张适合做广播的脸。"}, {"s": "Hosting a radio program.", "src": "2019全国I卷", "cat": "gaokao", "year": 2019, "t": "主持一档广播节目。"}, {"s": "Hosting a radio program.", "src": "2019浙江卷", "cat": "gaokao", "year": 2019, "t": "主持一档广播节目。"}, {"s": "“Jazz seems like it’s not really a part of the American appetite,” Moran tells National Public Radio’s reporter Neal Conan.", "src": "2017全国I卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "“爵士乐似乎并不真正属于美国人的胃口，”莫兰对国家公共广播电台记者尼尔·科南说。"}, {"s": "Hosting a radio program.", "src": "2017浙江卷", "cat": "gaokao", "year": 2017, "t": "主持一档广播节目。"}, {"s": "I radioed the camp manager for help.", "src": "2020浙江7月卷·读后续写", "cat": "gaokao", "year": 2020, "t": "他告诉我直升机正在路上但要30分钟后才能到达。"}]}, {"def": "a piece of equipment used for listening to programmes that are broadcast to the public 收音机", "ex": [{"s": "When I was four years old, I sat close to the radio in the living room.", "src": "外研社B1 U6", "cat": "waiyan", "t": "四岁时，我坐在客厅的收音机旁。"}, {"s": "Then there were the great Western inventions: the steam engine, the telephone and the radio.", "src": "外研社B3 U3", "cat": "waiyan", "t": "然后还有那些伟大的西方发明：蒸汽机、电话和收音机。"}, {"s": "How about listening to the radio?", "src": "外研社B1 U6", "cat": "waiyan", "t": "听收音机怎么样？"}]}, {"def": "the process of sending and receiving messages through the air using electromagnetic waves 无线电传送；无线电通信", "ex": [{"s": "Because the moon’s body blocks direct radio communication with a probe, China first had to put a satellite in orbit above the moon in a spot   63   it could send signals to the spacecraft and to Earth.", "src": "2020全国I卷·完形填空", "cat": "gaokao", "year": 2020, "t": "由于月球本体阻挡了与探测器的直接无线电通信，中国必须先在月球上方轨道上的一个___63___能将信号发往航天器和地球的位置部署一颗卫星。"}]}, {"def": "a piece of equipment, for example on ships or planes, for sending and receiving radio signals 无线电收发报机", "ex": [{"s": "This was how my first real job in radio began.", "src": "外研社B1 U6", "cat": "waiyan", "t": "我的第一份真正的电台工作就是这样开始的。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈreɪdiəʊ; NAmE ˈreɪdioʊ",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "the activity of broadcasting programmes for people to listen to; the programmes that are broadcast 无线电广播；无线电广播节目",
+      "ex": [
+        {
+          "s": "As I grew older, my interest in radio grew.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "随着年龄增长，我对广播的兴趣也在增长。"
+        },
+        {
+          "s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "然而，我在新媒体经验中有一个明显的空白：我很少出现在镜头前，因为我有一张适合做广播的脸。"
+        },
+        {
+          "s": "Hosting a radio program.",
+          "src": "2019全国I卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "主持一档广播节目。"
+        },
+        {
+          "s": "Hosting a radio program.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "主持一档广播节目。"
+        },
+        {
+          "s": "“Jazz seems like it’s not really a part of the American appetite,” Moran tells National Public Radio’s reporter Neal Conan.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“爵士乐似乎并不真正属于美国人的胃口，”莫兰对国家公共广播电台记者尼尔·科南说。"
+        },
+        {
+          "s": "Hosting a radio program.",
+          "src": "2017浙江卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "主持一档广播节目。"
+        },
+        {
+          "s": "I radioed the camp manager for help.",
+          "src": "2020浙江7月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他告诉我直升机正在路上但要30分钟后才能到达。"
+        }
+      ]
+    },
+    {
+      "def": "a piece of equipment used for listening to programmes that are broadcast to the public 收音机",
+      "ex": [
+        {
+          "s": "When I was four years old, I sat close to the radio in the living room.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "四岁时，我坐在客厅的收音机旁。"
+        },
+        {
+          "s": "Then there were the great Western inventions: the steam engine, the telephone and the radio.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "然后还有那些伟大的西方发明：蒸汽机、电话和收音机。"
+        },
+        {
+          "s": "How about listening to the radio?",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "听收音机怎么样？"
+        }
+      ]
+    },
+    {
+      "def": "the process of sending and receiving messages through the air using electromagnetic waves 无线电传送；无线电通信",
+      "ex": [
+        {
+          "s": "Because the moon’s body blocks direct radio communication with a probe, China first had to put a satellite in orbit above the moon in a spot   63   it could send signals to the spacecraft and to Earth.",
+          "src": "2020全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "由于月球本体阻挡了与探测器的直接无线电通信，中国必须先在月球上方轨道上的一个___63___能将信号发往航天器和地球的位置部署一颗卫星。"
+        }
+      ]
+    },
+    {
+      "def": "a piece of equipment, for example on ships or planes, for sending and receiving radio signals 无线电收发报机",
+      "ex": [
+        {
+          "s": "This was how my first real job in radio began.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我的第一份真正的电台工作就是这样开始的。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "radio program",
+      "cn": "无线电广播",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "a radio program",
+      "cn": "一个 无线电广播",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "hosting a radio",
+      "cn": "一个 无线电广播",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "radio grew",
+      "cn": "无线电广播",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "in radio grew",
+      "cn": "在…里 无线电广播",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "interest in radio",
+      "cn": "兴趣 在…里 无线电广播",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "made for radio",
+      "cn": "为了 无线电广播",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "public radio",
+      "cn": "平民的 无线电广播",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,130 @@
-{"meta": {"ph": "ˌdɪsəˈpɔɪntɪd; NAmE ˌdɪsəˈpɔɪntɪd", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "upset because sth you hoped for has not happened or been as good, successful, etc. as you expected 失望的；沮丧的；失意的", "ex": [{"s": "He felt disappointed.", "src": "2021全国甲卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "他感到失望。"}, {"s": "They are disappointed with Bradford.", "src": "2017全国III卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "他们对布拉德福德感到失望。"}, {"s": "You must have had some moments when you were disappointed.", "src": "外研社B1 U1", "cat": "waiyan", "t": "你一定有过失望的时刻。"}, {"s": "This is something that even the highly successful Harry Potter movies can’t escape from, with fans of the books disappointed not to see some of their favourite characters in the movie versions.", "src": "外研社B2 U4", "cat": "waiyan", "t": "这甚至是极为成功的《哈利\\u00b7波特》电影也无法逃脱的，书迷们因为在电影中没有看到一些他们最喜欢的角色而感到失望。"}, {"s": "Disappointed by his behaviour, I said all this to my best friend.", "src": "外研社B3 U1", "cat": "waiyan", "t": "我对他的行为感到失望，就把这一切告诉了我最好的朋友。"}, {"s": "And they feel very disappointed when they come to that final sentence.", "src": "外研社B4 U6", "cat": "waiyan", "t": "当他们读到最后一句话时，感到非常失望。"}, {"s": "conflictedD. disappointed", "src": "2026北京卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "conflicted D. 失望的"}, {"s": "having disappointedD. disappointed", "src": "2024天津3月卷·一、单项填空", "cat": "gaokao", "year": 2024, "t": "having disappointed D. 失望的"}, {"s": "For the first few days, Kynan was always a bit disappointed that the cubs weren't there.", "src": "2021新高考II卷·阅读理解B", "cat": "gaokao", "year": 2021, "t": "在最初的几天里，Kynan总是有点失望，因为幼崽不在那里。"}, {"s": "The city was crowded with disappointed people with no interest in settling down, and when they heard there were new gold discoveries in Alaska, they left Dawson City as quickly as they had come.", "src": "2018全国III卷·B源", "cat": "gaokao", "year": 2018, "t": "这座城市挤满了失望的人们，他们无意定居，当听说阿拉斯加有新的金矿发现时，他们以当初来的速度离开了道森城。"}]}], "chunks": [{"en": "be disappointed with", "cn": "对…失望", "type": "形容词搭配", "count": 1}, {"en": "be disappointed by", "cn": "因…而失望", "type": "形容词搭配", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˌdɪsəˈpɔɪntɪd; NAmE ˌdɪsəˈpɔɪntɪd",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "upset because sth you hoped for has not happened or been as good, successful, etc. as you expected 失望的；沮丧的；失意的",
+      "ex": [
+        {
+          "s": "He felt disappointed.",
+          "src": "2021全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他感到失望。"
+        },
+        {
+          "s": "They are disappointed with Bradford.",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "他们对布拉德福德感到失望。"
+        },
+        {
+          "s": "You must have had some moments when you were disappointed.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "你一定有过失望的时刻。"
+        },
+        {
+          "s": "This is something that even the highly successful Harry Potter movies can’t escape from, with fans of the books disappointed not to see some of their favourite characters in the movie versions.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "这甚至是极为成功的《哈利\\u00b7波特》电影也无法逃脱的，书迷们因为在电影中没有看到一些他们最喜欢的角色而感到失望。"
+        },
+        {
+          "s": "Disappointed by his behaviour, I said all this to my best friend.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "我对他的行为感到失望，就把这一切告诉了我最好的朋友。"
+        },
+        {
+          "s": "And they feel very disappointed when they come to that final sentence.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "当他们读到最后一句话时，感到非常失望。"
+        },
+        {
+          "s": "conflictedD. disappointed",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "conflicted D. 失望的"
+        },
+        {
+          "s": "having disappointedD. disappointed",
+          "src": "2024天津3月卷·一、单项填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "having disappointed D. 失望的"
+        },
+        {
+          "s": "For the first few days, Kynan was always a bit disappointed that the cubs weren't there.",
+          "src": "2021新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "在最初的几天里，Kynan总是有点失望，因为幼崽不在那里。"
+        },
+        {
+          "s": "The city was crowded with disappointed people with no interest in settling down, and when they heard there were new gold discoveries in Alaska, they left Dawson City as quickly as they had come.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "这座城市挤满了失望的人们，他们无意定居，当听说阿拉斯加有新的金矿发现时，他们以当初来的速度离开了道森城。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "felt disappointed",
+      "cn": "失望的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "he felt disappointed",
+      "cn": "他 失望的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "disappointed with bradford",
+      "cn": "失望的 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "they are disappointed",
+      "cn": "他们 是 失望的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "you were disappointed",
+      "cn": "你 是 失望的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "books disappointed",
+      "cn": "书 失望的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the books disappointed",
+      "cn": "该 书 失望的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "disappointed not to see",
+      "cn": "失望的 不 去 看见",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

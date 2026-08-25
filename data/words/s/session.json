@@ -220,15 +220,51 @@
   ],
   "chunks": [
     {
-      "en": "in session",
-      "cn": "在开会",
-      "type": "介词短语",
+      "en": "taster session",
+      "cn": "一场",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "session is full",
+      "cn": "一场 是 满的",
+      "type": "动词短语",
       "count": 2
     },
     {
-      "en": "training session",
-      "cn": "训练课",
+      "en": "sessions in a row",
+      "cn": "一场 在…里 一个 一排",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "the taster session",
+      "cn": "该 一场",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "per session",
+      "cn": "百分之 …adjecti 一场",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "hands-on sessions",
+      "cn": "一场",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "attend hands-on sessions",
+      "cn": "出席 一场",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sessions per",
+      "cn": "一场 百分之 …adjecti",
+      "type": "动词短语",
       "count": 1
     }
   ]

@@ -1,1 +1,112 @@
-{"meta": {"ph": "kɑːv; NAmE kɑːrv", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to make objects, patterns, etc. by cutting away material from wood or stone 雕刻", "ex": [{"s": "He was enjoying carving things in his workshop一but he wanted to create something with more purpose.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "他喜欢在工作坊里雕刻东西——但他想创作更有意义的东西。"}]}, {"def": "to write sth on a surface by cutting into it 刻", "ex": [{"s": "Chinese characters are carved into small squares of stone and stamped onto paper with ink.", "src": "外研社B3 U4", "cat": "waiyan", "year": "", "t": "汉字被刻在小块方石上，再用墨拓印到纸上。"}, {"s": "They were called “cloud runners” because it looked like they were floating on a brown cloud of dust as they carved paths through the surrounding fields.", "src": "外研社B4 U6", "cat": "waiyan", "year": "", "t": "他们被称为“云跑者”，因为当他们穿过周围的田野开辟道路时，看起来就像漂浮在一片棕色的尘土云上。"}, {"s": "Known as the Mogao Grottoes these ancient caves were carved out of the rock over a period of 1,000 years.", "src": "外研社B7 U3", "cat": "waiyan", "year": "", "t": "这些被称为莫高窟的古老洞窟，是在一千年的时间里从岩石中开凿出来的。"}, {"s": "It dates back several thousand years to the use of longgu—animal bones and shells on which symbols were carved by ancient Chinese people.", "src": "人教B1 U5", "cat": "renjiao", "year": "", "t": "它可以追溯到几千年前对龙骨——即刻有符号的兽骨和龟甲——的使用。"}]}, {"def": "to cut a large piece of cooked meat into smaller pieces for eating 把（熟肉）切成块", "ex": []}, {"def": "to work hard in order to have a successful career, reputation, etc. 艰苦创业；奋斗取得（事业、名声等）", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "kɑːv; NAmE kɑːrv",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to make objects, patterns, etc. by cutting away material from wood or stone 雕刻",
+      "ex": [
+        {
+          "s": "He was enjoying carving things in his workshop一but he wanted to create something with more purpose.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他喜欢在工作坊里雕刻东西——但他想创作更有意义的东西。"
+        }
+      ]
+    },
+    {
+      "def": "to write sth on a surface by cutting into it 刻",
+      "ex": [
+        {
+          "s": "Chinese characters are carved into small squares of stone and stamped onto paper with ink.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "汉字被刻在小块方石上，再用墨拓印到纸上。"
+        },
+        {
+          "s": "They were called “cloud runners” because it looked like they were floating on a brown cloud of dust as they carved paths through the surrounding fields.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "他们被称为“云跑者”，因为当他们穿过周围的田野开辟道路时，看起来就像漂浮在一片棕色的尘土云上。"
+        },
+        {
+          "s": "Known as the Mogao Grottoes these ancient caves were carved out of the rock over a period of 1,000 years.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这些被称为莫高窟的古老洞窟，是在一千年的时间里从岩石中开凿出来的。"
+        },
+        {
+          "s": "It dates back several thousand years to the use of longgu—animal bones and shells on which symbols were carved by ancient Chinese people.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "它可以追溯到几千年前对龙骨——即刻有符号的兽骨和龟甲——的使用。"
+        }
+      ]
+    },
+    {
+      "def": "to cut a large piece of cooked meat into smaller pieces for eating 把（熟肉）切成块",
+      "ex": []
+    },
+    {
+      "def": "to work hard in order to have a successful career, reputation, etc. 艰苦创业；奋斗取得（事业、名声等）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "carved into small",
+      "cn": "雕刻 进入 小的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "characters are carved",
+      "cn": "品质 是 雕刻",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "carved paths",
+      "cn": "雕刻 小路",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "they carved",
+      "cn": "他们 雕刻",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "as they carved",
+      "cn": "作为 他们 雕刻",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "caves were carved",
+      "cn": "山洞 是 雕刻",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "carved by ancient",
+      "cn": "雕刻 通过 古代的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "symbols were carved",
+      "cn": "象征 是 雕刻",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,160 @@
-{"meta": {"ph": "ˌsætɪsˈfækʃn; NAmE ˌsætɪsˈfækʃn", "pos": "noun; adj.; verb; adj.; noun", "stars": "★"}, "defs": [{"def": "the good feeling that you have when you have achieved sth or when sth that you wanted to happen does happen; sth that gives you this feeling 满足；满意；欣慰；令人满意（或欣慰）的事", "ex": [{"s": "Helping strangers can leave you with a deep sense of satisfaction, but you’ve likely also felt the stress of showing up for others when you’re already stretched thin.", "src": "2026北京卷·七选五", "cat": "gaokao", "year": 2026, "t": "帮助陌生人会给你一种深深的满足感，但你也可能体会过在自己已经分身乏术时还要为他人付出的压力。"}, {"s": "“People who live in plant-rich environments report a higher life satisfaction rating, ” she says.", "src": "2025新高考II卷·阅读理解C", "cat": "gaokao", "year": 2025, "t": "“生活在植物丰富环境中的人，报告了更高的生活满意度，”她说。"}, {"s": "Therefore, they do not feel the satisfaction of being academically challenged.", "src": "2025北京卷·阅读理解B", "cat": "gaokao", "year": 2025, "t": "因此，他们感受不到学业挑战带来的满足感。"}, {"s": "Such people show greater overall life satisfaction, too.", "src": "2025北京卷·阅读理解D", "cat": "gaokao", "year": 2025, "t": "这样的人也表现出更高的整体生活满足感。"}, {"s": "We are tempted by sugary treats because our ancestors lived in a calorie-poor world, and our brains developed a response mechanism to these treats that reflected their value — a feeling of reward and satisfaction.", "src": "2024浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "我们会被含糖零食诱惑，因为我们的祖先生活在热量匮乏的世界里，而我们的大脑形成了一种对这些零食的响应机制，反映出它们的价值——一种奖励和满足感。"}, {"s": "People’s hesitancy to delay satisfaction is the most obvious example, but there are others.", "src": "2023北京卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "人们不愿意延迟满足是最明显的例子，但还有其他例子。"}, {"s": "So, when people do things to increase their life satisfaction, they also make themselves more effective at work.”", "src": "2022浙江6月卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "因此，当人们做一些能提高生活满意度的事情时，他们也使自己工作效率更高。\""}, {"s": "Content with what he had, his greatest satisfaction was in his work and in inspiring those around him to take pleasure in learning.", "src": "外研社B6 U6", "cat": "waiyan", "t": "他最满意的是他的工作和激励周围的人在学习中享受乐趣。"}, {"s": "Moreover, (C) music gave me hope and a sense of satisfaction.", "src": "人教B2 U5", "cat": "renjiao", "t": "此外,(C)音乐给了我希望和满足感。"}, {"s": "Sam completed the final year of his career with great satisfaction.", "src": "人教B2 U5", "cat": "renjiao", "t": "萨姆以极大的满意完成了职业生涯的最后一年。"}, {"s": "I actually wanted to drop the class at one point, but stopped short because I didn't want to give him the satisfaction of my chickening out.", "src": "2022浙江1月卷·读后续写", "cat": "gaokao", "year": 2022, "t": "我有一次其实想退掉这门课，但没退成，因为我不想让他因我的退缩而得逞。"}, {"s": "It will bring you more satisfaction and help contribute to your future.", "src": "人教选必4 U5", "cat": "renjiao", "t": "它会给你带来更多的满足 并有助于为你的未来做出贡献。"}]}, {"def": "the act of fulfilling a need or desire （需要或欲望的）满足，达到", "ex": []}, {"def": "an acceptable way of dealing with a complaint, a debt, an injury, etc. （抗议、投诉等的）妥善处理；（债务的）清偿；（伤害的）赔偿", "ex": []}, {"def": "使某人满意", "ex": []}, {"def": "使某人确信（或信服）", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˌsætɪsˈfækʃn; NAmE ˌsætɪsˈfækʃn",
+    "pos": "noun; adj.; verb; adj.; noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the good feeling that you have when you have achieved sth or when sth that you wanted to happen does happen; sth that gives you this feeling 满足；满意；欣慰；令人满意（或欣慰）的事",
+      "ex": [
+        {
+          "s": "Helping strangers can leave you with a deep sense of satisfaction, but you’ve likely also felt the stress of showing up for others when you’re already stretched thin.",
+          "src": "2026北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "帮助陌生人会给你一种深深的满足感，但你也可能体会过在自己已经分身乏术时还要为他人付出的压力。"
+        },
+        {
+          "s": "“People who live in plant-rich environments report a higher life satisfaction rating, ” she says.",
+          "src": "2025新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“生活在植物丰富环境中的人，报告了更高的生活满意度，”她说。"
+        },
+        {
+          "s": "Therefore, they do not feel the satisfaction of being academically challenged.",
+          "src": "2025北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "因此，他们感受不到学业挑战带来的满足感。"
+        },
+        {
+          "s": "Such people show greater overall life satisfaction, too.",
+          "src": "2025北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这样的人也表现出更高的整体生活满足感。"
+        },
+        {
+          "s": "We are tempted by sugary treats because our ancestors lived in a calorie-poor world, and our brains developed a response mechanism to these treats that reflected their value — a feeling of reward and satisfaction.",
+          "src": "2024浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我们会被含糖零食诱惑，因为我们的祖先生活在热量匮乏的世界里，而我们的大脑形成了一种对这些零食的响应机制，反映出它们的价值——一种奖励和满足感。"
+        },
+        {
+          "s": "People’s hesitancy to delay satisfaction is the most obvious example, but there are others.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "人们不愿意延迟满足是最明显的例子，但还有其他例子。"
+        },
+        {
+          "s": "So, when people do things to increase their life satisfaction, they also make themselves more effective at work.”",
+          "src": "2022浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "因此，当人们做一些能提高生活满意度的事情时，他们也使自己工作效率更高。\""
+        },
+        {
+          "s": "Content with what he had, his greatest satisfaction was in his work and in inspiring those around him to take pleasure in learning.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "他最满意的是他的工作和激励周围的人在学习中享受乐趣。"
+        },
+        {
+          "s": "Moreover, (C) music gave me hope and a sense of satisfaction.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "此外,(C)音乐给了我希望和满足感。"
+        },
+        {
+          "s": "Sam completed the final year of his career with great satisfaction.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "萨姆以极大的满意完成了职业生涯的最后一年。"
+        },
+        {
+          "s": "I actually wanted to drop the class at one point, but stopped short because I didn't want to give him the satisfaction of my chickening out.",
+          "src": "2022浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我有一次其实想退掉这门课，但没退成，因为我不想让他因我的退缩而得逞。"
+        },
+        {
+          "s": "It will bring you more satisfaction and help contribute to your future.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "它会给你带来更多的满足 并有助于为你的未来做出贡献。"
+        }
+      ]
+    },
+    {
+      "def": "the act of fulfilling a need or desire （需要或欲望的）满足，达到",
+      "ex": []
+    },
+    {
+      "def": "an acceptable way of dealing with a complaint, a debt, an injury, etc. （抗议、投诉等的）妥善处理；（债务的）清偿；（伤害的）赔偿",
+      "ex": []
+    },
+    {
+      "def": "使某人满意",
+      "ex": []
+    },
+    {
+      "def": "使某人确信（或信服）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "life satisfaction",
+      "cn": "生命 满足",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "sense of satisfaction",
+      "cn": "感觉官能 的 满足",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "satisfaction but you",
+      "cn": "满足 但 你",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "satisfaction rating",
+      "cn": "满足 等级",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "life satisfaction rating",
+      "cn": "生命 满足 等级",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "higher life satisfaction",
+      "cn": "生命 满足",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "feel the satisfaction",
+      "cn": "觉得 该 满足",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "satisfaction of being academically",
+      "cn": "满足 的 是",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

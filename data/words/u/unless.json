@@ -1,1 +1,126 @@
-{"meta":{"ph":"ənˈles; NAmE ənˈles","pos":"conj.","stars":""},"defs":[{"def":"除非；除非在 … 情况下","ex":[{"s":"Unless I have to be out of town, each week I take my mother to do her   36   and visit the doctor, providing   37   and transportation.","src":"2021浙江6月卷·完形填空","cat":"gaokao","year":2021,"t":"除非我必须出城否则每周我都会带母亲去   36   并看医生提供   37   和交通服务。"},{"s":"So, don’t stop speaking when you make a mistake unless it’s a truly serious one.","src":"2020全国新高考I卷·七选五","cat":"gaokao","year":2020,"t":"所以，除非犯了真正严重的错误，否则说错时不要停下来。"},{"s":"After that I poured oil into a pan and turned off the stove, I waited patiently unless the oil was hot.","src":"2020全国I卷·短文改错","cat":"gaokao","year":2020,"t":"之后我把油倒进锅里并关了火，我耐心地等着，直到油热。"},{"s":"Some argue that humans and machines can coexist as long as they work in teams—yet that is not possible unless machines share the goals of humans.","src":"2017北京卷·阅读理解D","cat":"gaokao","year":2017,"t":"有人认为人类和机器可以共存，只要他们团队合作——但除非机器分享人类的目标，否则这是不可能的。"},{"s":"For unless we do listen to Rachel Carson’s warning, one day we may wake up to the strange and quiet horror of another silent spring.","src":"外研社B6 U6","cat":"waiyan","t":"因为除非我们确实倾听了蕾切尔·卡森的警告，否则有一天我们可能会醒来，面对另一个寂静春天的奇异而寂静的恐怖。"},{"s":"Sally Don’t print out documents unless really necessary.","src":"人教选必3 U3","cat":"renjiao","t":"Sally 除非确实有必要,"},{"s":"Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!","src":"人教选必4 U2","cat":"renjiao","t":"不过，在高峰季节要小心不要去受欢迎的岛屿，除非你想(摔跤)与其他游客一起！"},{"s":"People aren't really themselves unless you talk with them face to face.","src":"北师大选必1 U1","cat":"beishida","t":"人不是真正的自己，除非你和他们面对面交谈。"},{"s":"Do not drive anywhere unless you really have tothe roads might be blocked.","src":"译林B3 U4","cat":"yilin","t":"不要开车任何地方 除非你真的有 到道路可能会被封锁。"}]},{"def":"若非；如果不","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ənˈles; NAmE ənˈles",
+    "pos": "conj.",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "除非；除非在 … 情况下",
+      "ex": [
+        {
+          "s": "Unless I have to be out of town, each week I take my mother to do her   36   and visit the doctor, providing   37   and transportation.",
+          "src": "2021浙江6月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "除非我必须出城否则每周我都会带母亲去   36   并看医生提供   37   和交通服务。"
+        },
+        {
+          "s": "So, don’t stop speaking when you make a mistake unless it’s a truly serious one.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "所以，除非犯了真正严重的错误，否则说错时不要停下来。"
+        },
+        {
+          "s": "After that I poured oil into a pan and turned off the stove, I waited patiently unless the oil was hot.",
+          "src": "2020全国I卷·短文改错",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "之后我把油倒进锅里并关了火，我耐心地等着，直到油热。"
+        },
+        {
+          "s": "Some argue that humans and machines can coexist as long as they work in teams—yet that is not possible unless machines share the goals of humans.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "有人认为人类和机器可以共存，只要他们团队合作——但除非机器分享人类的目标，否则这是不可能的。"
+        },
+        {
+          "s": "For unless we do listen to Rachel Carson’s warning, one day we may wake up to the strange and quiet horror of another silent spring.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "因为除非我们确实倾听了蕾切尔·卡森的警告，否则有一天我们可能会醒来，面对另一个寂静春天的奇异而寂静的恐怖。"
+        },
+        {
+          "s": "Sally Don’t print out documents unless really necessary.",
+          "src": "人教选必3 U3",
+          "cat": "renjiao",
+          "t": "Sally 除非确实有必要,"
+        },
+        {
+          "s": "Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!",
+          "src": "人教选必4 U2",
+          "cat": "renjiao",
+          "t": "不过，在高峰季节要小心不要去受欢迎的岛屿，除非你想(摔跤)与其他游客一起！"
+        },
+        {
+          "s": "People aren't really themselves unless you talk with them face to face.",
+          "src": "北师大选必1 U1",
+          "cat": "beishida",
+          "t": "人不是真正的自己，除非你和他们面对面交谈。"
+        },
+        {
+          "s": "Do not drive anywhere unless you really have tothe roads might be blocked.",
+          "src": "译林B3 U4",
+          "cat": "yilin",
+          "t": "不要开车任何地方 除非你真的有 到道路可能会被封锁。"
+        }
+      ]
+    },
+    {
+      "def": "若非；如果不",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "unless you",
+      "cn": "除非 你",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "mistake unless",
+      "cn": "错误 除非",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a mistake unless",
+      "cn": "一个 错误 除非",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "patiently unless",
+      "cn": "除非",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "unless the oil",
+      "cn": "除非 该 石油",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "waited patiently unless",
+      "cn": "等 除非",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "unless machines",
+      "cn": "除非 常构成复合词",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "possible unless",
+      "cn": "可能 除非",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

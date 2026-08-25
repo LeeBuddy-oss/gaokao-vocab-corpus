@@ -1,1 +1,86 @@
-{"meta":{"ph":"ˈbeɪkəri; NAmE ˈbeɪkəri","pos":"noun","stars":"★★"},"defs":[{"def":"a place where bread and cakes are made and/or sold 面包（糕饼）店；面包（糕饼）烘房；面包厂","ex":[{"s":"Butcher shops, greengrocers, bakeries, and cheese shops line the town square.","src":"2025新高考II卷·阅读理解A","cat":"gaokao","year":2025,"t":"肉铺、果蔬店、面包店和奶酪店排列在小镇广场周围。"},{"s":"Now it’s a tourist area with lots of shops, restaurants, and bakeries.","src":"人教B3 U5","cat":"renjiao","year":"","t":"如今这里成了旅游区，遍布商店、餐厅和面包店。"},{"s":"Bakeries, fast-food joints, butcher shops, cafes, and restaurants everywhere provide some of the premier food experiences in the world.","src":"人教选必4 U2","cat":"renjiao","year":"","t":"各地的面包店、快餐店、肉铺、咖啡馆和餐厅，提供了世界上一些顶级的饮食体验。"},{"s":"I first tried it about two years ago, when I visited a bakery with my parents.","src":"译林选必1 U1","cat":"yilin","year":"","t":"我大约两年前第一次尝试它，那时我和父母去了一家面包店。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈbeɪkəri; NAmE ˈbeɪkəri",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a place where bread and cakes are made and/or sold 面包（糕饼）店；面包（糕饼）烘房；面包厂",
+      "ex": [
+        {
+          "s": "Butcher shops, greengrocers, bakeries, and cheese shops line the town square.",
+          "src": "2025新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "肉铺、果蔬店、面包店和奶酪店排列在小镇广场周围。"
+        },
+        {
+          "s": "Now it’s a tourist area with lots of shops, restaurants, and bakeries.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "如今这里成了旅游区，遍布商店、餐厅和面包店。"
+        },
+        {
+          "s": "Bakeries, fast-food joints, butcher shops, cafes, and restaurants everywhere provide some of the premier food experiences in the world.",
+          "src": "人教选必4 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "各地的面包店、快餐店、肉铺、咖啡馆和餐厅，提供了世界上一些顶级的饮食体验。"
+        },
+        {
+          "s": "I first tried it about two years ago, when I visited a bakery with my parents.",
+          "src": "译林选必1 U1",
+          "cat": "yilin",
+          "year": "",
+          "t": "我大约两年前第一次尝试它，那时我和父母去了一家面包店。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "greengrocers bakeries",
+      "cn": "面包店",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bakeries and cheese",
+      "cn": "面包店 与 干酪",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "shops greengrocers bakeries",
+      "cn": "商店 面包店",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "restaurants and bakeries",
+      "cn": "餐馆 与 面包店",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bakeries fast-food",
+      "cn": "面包店",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bakery with my",
+      "cn": "面包店 与 我的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "visited a bakery",
+      "cn": "访问 一个 面包店",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

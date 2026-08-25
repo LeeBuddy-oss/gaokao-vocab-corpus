@@ -1,1 +1,137 @@
-{"meta":{"ph":"ˈhɑːvɪst; NAmE ˈhɑːrvɪst","pos":"noun;noun;verb;verb","stars":"★★"},"defs":[{"def":"the time of year when the crops are gathered in on a farm, etc; the act of cutting and gathering crops 收获季节；收割；收获","ex":[{"s":"Turning soil, pulling weeds, and harvesting cabbage sound like tough work for middle and high school kids.","src":"2023新课标II卷·阅读理解B","cat":"gaokao","t":"翻土、拔草和收卷心菜，对中学生和高中生来说听起来像是艰苦的劳动。","year":2023},{"s":"In ancient Egypt, the harvest festival was celebrated during the springtime—the Egyptian harvest season.","src":"人教B3 U1","cat":"renjiao","t":"在古埃及，丰收节在春季——埃及的收获季节——庆祝。"},{"s":"Thanksgiving and the Mid-Autumn Festival are harvest festivals when people and celebrate what they are for.","src":"人教B3 U5","cat":"renjiao","t":"感恩节和中秋节是丰收的节日，人们在节日中庆祝他们感恩的事物。"},{"s":"Machines have largely taken over planting, watering and harvesting crops such as com and wheat, but the monitoring of cattle has gone through fewer changes.","src":"2021新高考II卷·阅读理解D","cat":"gaokao","t":"机器已经在很大程度上接管了玉米和小麦等作物的种植、灌溉和收割，但对牛群的监测所经历的变化却少得多。","year":2021}]},{"def":"the crops, or the amount of crops, cut and gathered 收成；收获量","ex":[{"s":"Traditionally, it was a chance to give thanks for a good harvest.","src":"外研社B2 U2","cat":"waiyan","t":"传统上，这是一个感谢丰收的机会。"},{"s":"Of all the traditional festivals, the harvest festival can be found in almost every culture.","src":"人教B3 U1","cat":"renjiao","t":"在所有传统节日中，丰收节几乎在每种文化中都能找到。"}]},{"def":"to cut and gather a crop; to catch a number of animals or fish to eat 收割（庄稼）；捕猎（动物、鱼）","ex":[{"s":"You will harvest the rewards of an artistic life.","src":"2023新课标II卷·七选五","cat":"gaokao","t":"你将收获艺术生活的回报。","year":2023},{"s":"And that’s not all — the algae inside the panels can be harvested and used to produce fuel.","src":"外研社B6 U5","cat":"waiyan","t":"这还不是全部——面板内的藻类可以被收获并用来生产燃料。"}]},{"def":"to collect cells or tissue from sb's body for use in medical experiments or operations 采集（人体的细胞或组织，以供医学实验等）","ex":[{"s":"They made a living as divers, spearfishing or harvesting shellfish.","src":"2020全国III卷·阅读理解D","cat":"gaokao","t":"他们以潜水捕鱼或用鱼叉捕鱼、采集贝类为生。","year":2020}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈhɑːvɪst; NAmE ˈhɑːrvɪst",
+    "pos": "noun;noun;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the time of year when the crops are gathered in on a farm, etc; the act of cutting and gathering crops 收获季节；收割；收获",
+      "ex": [
+        {
+          "s": "Turning soil, pulling weeds, and harvesting cabbage sound like tough work for middle and high school kids.",
+          "src": "2023新课标II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "翻土、拔草和收卷心菜，对中学生和高中生来说听起来像是艰苦的劳动。",
+          "year": 2023
+        },
+        {
+          "s": "In ancient Egypt, the harvest festival was celebrated during the springtime—the Egyptian harvest season.",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "在古埃及，丰收节在春季——埃及的收获季节——庆祝。"
+        },
+        {
+          "s": "Thanksgiving and the Mid-Autumn Festival are harvest festivals when people and celebrate what they are for.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "感恩节和中秋节是丰收的节日，人们在节日中庆祝他们感恩的事物。"
+        },
+        {
+          "s": "Machines have largely taken over planting, watering and harvesting crops such as com and wheat, but the monitoring of cattle has gone through fewer changes.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "机器已经在很大程度上接管了玉米和小麦等作物的种植、灌溉和收割，但对牛群的监测所经历的变化却少得多。",
+          "year": 2021
+        },
+        {
+          "s": "And that’s not all — the algae inside the panels can be harvested and used to produce fuel.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "这还不是全部——面板内的藻类可以被收获并用来生产燃料。"
+        }
+      ]
+    },
+    {
+      "def": "the crops, or the amount of crops, cut and gathered 收成；收获量",
+      "ex": [
+        {
+          "s": "Traditionally, it was a chance to give thanks for a good harvest.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "传统上，这是一个感谢丰收的机会。"
+        },
+        {
+          "s": "Of all the traditional festivals, the harvest festival can be found in almost every culture.",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "在所有传统节日中，丰收节几乎在每种文化中都能找到。"
+        }
+      ]
+    },
+    {
+      "def": "to cut and gather a crop; to catch a number of animals or fish to eat 收割（庄稼）；捕猎（动物、鱼）",
+      "ex": [
+        {
+          "s": "You will harvest the rewards of an artistic life.",
+          "src": "2023新课标II卷·七选五",
+          "cat": "gaokao",
+          "t": "你将收获艺术生活的回报。",
+          "year": 2023
+        }
+      ]
+    },
+    {
+      "def": "to collect cells or tissue from sb's body for use in medical experiments or operations 采集（人体的细胞或组织，以供医学实验等）",
+      "ex": [
+        {
+          "s": "They made a living as divers, spearfishing or harvesting shellfish.",
+          "src": "2020全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "他们以潜水捕鱼或用鱼叉捕鱼、采集贝类为生。",
+          "year": 2020
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "harvest festival",
+      "cn": "收获季节 会演",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "the harvest festival",
+      "cn": "该 收获季节 会演",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "harvesting cabbage",
+      "cn": "收获季节 甘蓝",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and harvesting cabbage",
+      "cn": "与 收获季节 甘蓝",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "weeds and harvesting",
+      "cn": "杂草 与 收获季节",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "harvest festival was",
+      "cn": "收获季节 会演 是",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "egypt the harvest",
+      "cn": "该 收获季节",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "harvest season",
+      "cn": "收获季节 季",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

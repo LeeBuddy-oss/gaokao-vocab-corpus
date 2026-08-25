@@ -1,1 +1,102 @@
-{"meta":{"ph":"ˌɒkjuˈpeɪʃn; NAmE ˌɑːkjuˈpeɪʃn","pos":"noun","stars":"★★"},"defs":[{"def":"a job or profession 工作；职业","ex":[{"s":"This requires commitment to a particular occupation, branch of study or research.","src":"2021天津3月卷·阅读理解D","cat":"gaokao","year":2021,"t":"这需要对某一特定职业、学科或研究领域的投入。"},{"s":"Name: Age: Nationality: Occupation: Questions: • What made you decide to come to China?","src":"外研社B7 U6","cat":"waiyan","t":"姓名： 年龄： 国籍： 职业： 问题：• 是什么让你决定来中国？"},{"s":"Born: Nationality: Education: Occupation: Notable works: 1 “Auld Lang Syne”, written in ROBERT BURNS 1 Read the text and answer the questions.","src":"人教选必3 U5","cat":"renjiao","t":"出生： 国籍： 教育： 职业： 著名作品： 1《友谊地久天长》，罗伯特·彭斯 1 阅读课文并回答问题。"}]},{"def":"the way in which you spend your time, especially when you are not working 消遣；业余活动","ex":[]},{"def":"the act of moving into a country, town, etc. and taking control of it using military force; the period of time during which a country, town, etc. is controlled in this way 侵占；占领；占领期","ex":[{"s":"Code-named “Operation Overlord”, it was the largest combined sea, air and land operation in history, the aim being to free north-west Europe from German occupation.","src":"外研社B6 U3","cat":"waiyan","t":"代号＂霸王行动＂，这是历史上最大规模的海陆空联合作战，目的是将西北欧从德国占领下解放出来。"}]},{"def":"the act of living in or using a building, room, piece of land, etc. （土地、房屋、建筑等的）使用，居住，占用","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˌɒkjuˈpeɪʃn; NAmE ˌɑːkjuˈpeɪʃn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a job or profession 工作；职业",
+      "ex": [
+        {
+          "s": "This requires commitment to a particular occupation, branch of study or research.",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这需要对某一特定职业、学科或研究领域的投入。"
+        },
+        {
+          "s": "Name: Age: Nationality: Occupation: Questions: • What made you decide to come to China?",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "姓名： 年龄： 国籍： 职业： 问题：• 是什么让你决定来中国？"
+        },
+        {
+          "s": "Born: Nationality: Education: Occupation: Notable works: 1 “Auld Lang Syne”, written in ROBERT BURNS 1 Read the text and answer the questions.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "出生： 国籍： 教育： 职业： 著名作品： 1《友谊地久天长》，罗伯特·彭斯 1 阅读课文并回答问题。"
+        }
+      ]
+    },
+    {
+      "def": "the way in which you spend your time, especially when you are not working 消遣；业余活动",
+      "ex": []
+    },
+    {
+      "def": "the act of moving into a country, town, etc. and taking control of it using military force; the period of time during which a country, town, etc. is controlled in this way 侵占；占领；占领期",
+      "ex": [
+        {
+          "s": "Code-named “Operation Overlord”, it was the largest combined sea, air and land operation in history, the aim being to free north-west Europe from German occupation.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "代号＂霸王行动＂，这是历史上最大规模的海陆空联合作战，目的是将西北欧从德国占领下解放出来。"
+        }
+      ]
+    },
+    {
+      "def": "the act of living in or using a building, room, piece of land, etc. （土地、房屋、建筑等的）使用，居住，占用",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "occupation branch",
+      "cn": "工作 树枝",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "particular occupation",
+      "cn": "专指的 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a particular occupation",
+      "cn": "一个 专指的 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "occupation questions",
+      "cn": "工作 问题",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "nationality occupation",
+      "cn": "国籍 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "age nationality occupation",
+      "cn": "年龄 国籍 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "occupation notable",
+      "cn": "工作",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "education occupation",
+      "cn": "教育 工作",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

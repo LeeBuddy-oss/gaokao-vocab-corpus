@@ -1,1 +1,107 @@
-{"meta":{"ph":"ˈfiːvə(r); NAmE ˈfiːvər","pos":"noun","stars":""},"defs":[{"def":"a medical condition in which a person has a temperature that is higher than normal 发烧；发热","ex":[{"s":"Symptoms usually start two days to three weeks following infection, and include fever, sore throat, muscular pain and headaches.","src":"外研社B5 U6","cat":"waiyan","t":"症状通常在感染后两天到三周开始出现，包括发热、咽喉痛、肌肉疼痛和头痛。"},{"s":"One medical text from the fourth century suggested using the extract from sweet wormwood to treat a fever.","src":"人教选必1 U1","cat":"renjiao","t":"第四世纪的一本医学文献建议用青蒿提取物来治疗发热。"},{"s":"I was so caught up in the party fever that I hardly noticed five hours fly by!","src":"译林B2 U3","cat":"yilin","t":"我太沉浸在派对的热烈气氛中，几乎没注意到五个小时飞逝而过！"},{"s":"BCE 6 Alexander came down with a fever and died.","src":"译林选必3 U4","cat":"yilin","t":"公元前6年，亚历山大发烧后死亡。"}]},{"def":"a particular type of disease in which sb has a high temperature 主要用于构成复合词","ex":[{"s":"People suffer from high fever, serious vomiting and terrible headaches when they have the disease.","src":"北师大B2 U6","cat":"beishida","t":"患者得病时会发高烧、严重呕吐和剧烈头痛。"}]},{"def":"a state of nervous excitement 激动不安；兴奋紧张","ex":[]},{"def":"great interest or excitement about sth 尤用于构成复合词","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈfiːvə(r); NAmE ˈfiːvər",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a medical condition in which a person has a temperature that is higher than normal 发烧；发热",
+      "ex": [
+        {
+          "s": "Symptoms usually start two days to three weeks following infection, and include fever, sore throat, muscular pain and headaches.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "症状通常在感染后两天到三周开始出现，包括发热、咽喉痛、肌肉疼痛和头痛。"
+        },
+        {
+          "s": "One medical text from the fourth century suggested using the extract from sweet wormwood to treat a fever.",
+          "src": "人教选必1 U1",
+          "cat": "renjiao",
+          "t": "第四世纪的一本医学文献建议用青蒿提取物来治疗发热。"
+        },
+        {
+          "s": "I was so caught up in the party fever that I hardly noticed five hours fly by!",
+          "src": "译林B2 U3",
+          "cat": "yilin",
+          "t": "我太沉浸在派对的热烈气氛中，几乎没注意到五个小时飞逝而过！"
+        },
+        {
+          "s": "BCE 6 Alexander came down with a fever and died.",
+          "src": "译林选必3 U4",
+          "cat": "yilin",
+          "t": "公元前6年，亚历山大发烧后死亡。"
+        }
+      ]
+    },
+    {
+      "def": "a particular type of disease in which sb has a high temperature 主要用于构成复合词",
+      "ex": [
+        {
+          "s": "People suffer from high fever, serious vomiting and terrible headaches when they have the disease.",
+          "src": "北师大B2 U6",
+          "cat": "beishida",
+          "t": "患者得病时会发高烧、严重呕吐和剧烈头痛。"
+        }
+      ]
+    },
+    {
+      "def": "a state of nervous excitement 激动不安；兴奋紧张",
+      "ex": []
+    },
+    {
+      "def": "great interest or excitement about sth 尤用于构成复合词",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "fever sore",
+      "cn": "发烧 疼痛的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "include fever",
+      "cn": "不用于进行时 发烧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and include fever",
+      "cn": "与 不用于进行时 发烧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "treat a fever",
+      "cn": "以 … 态度对待 一个 发烧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "party fever",
+      "cn": "政党 发烧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the party fever",
+      "cn": "该 政党 发烧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fever that i hardly",
+      "cn": "发烧 那个 我 几乎不",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "fever and died",
+      "cn": "发烧 与",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

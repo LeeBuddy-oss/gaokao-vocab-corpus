@@ -1,1 +1,118 @@
-{"meta": {"ph": "ɡæp; NAmE ɡæp", "pos": "noun", "stars": "★"}, "defs": [{"def": "a space between two things or in the middle of sth, especially because there is a part missing 开口；豁口；缺口；裂口", "ex": [{"s": "To survive in the forest, animals must climb, jump or fly across the gaps.", "src": "2020全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。"}, {"s": "If I’m talking to a close friend, I can use short requests, like “Open the window”—our relationship is close and we’re equals, so I only need a few words to bridge the gap between us.", "src": "人教B1 U5", "cat": "renjiao", "t": "如果我跟亲密的朋友说话，可以用简短的请求，比如“开窗”——我们关系亲近、彼此平等，所以我只需几个词就能拉近我们之间的距离。"}]}, {"def": "a period of time when sth stops, or between two events 间断；间隔；间隙", "ex": [{"s": "When a bridge in Austin, Texas was repaired, engineers added small gaps running along the length of its bottom.", "src": "人教B2 U5", "cat": "renjiao", "t": "当德克萨斯州奥斯汀的一座桥被修复时，工程师们沿着桥底增加了小缝隙。"}]}, {"def": "a difference that separates people, or their opinions, situation, etc. 分歧；隔阂；差距", "ex": [{"s": "The gap between teachers’ and students’ hobbies.", "src": "2026浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "老师与学生爱好之间的差距。"}]}, {"def": "a space where sth is missing 缺口；空白；漏洞", "ex": [{"s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.", "src": "2022全国新高考II卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "然而，我在新媒体经验中有一个明显的空白：我很少出现在镜头前，因为我有一张适合做广播的脸。"}, {"s": "Choose the correct sentence (A–D) to fill each gap.", "src": "人教B3 U4", "cat": "renjiao", "t": "选择正确的句子（A-D）填入每个空白处。"}]}], "chunks": [{"en": "gap between", "cn": "…之间的差距", "type": "名词短语", "count": 2}, {"en": "small gaps", "cn": "小的开口", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ɡæp; NAmE ɡæp",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a space between two things or in the middle of sth, especially because there is a part missing 开口；豁口；缺口；裂口",
+      "ex": [
+        {
+          "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。"
+        },
+        {
+          "s": "If I’m talking to a close friend, I can use short requests, like “Open the window”—our relationship is close and we’re equals, so I only need a few words to bridge the gap between us.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "如果我跟亲密的朋友说话，可以用简短的请求，比如“开窗”——我们关系亲近、彼此平等，所以我只需几个词就能拉近我们之间的距离。"
+        }
+      ]
+    },
+    {
+      "def": "a period of time when sth stops, or between two events 间断；间隔；间隙",
+      "ex": [
+        {
+          "s": "When a bridge in Austin, Texas was repaired, engineers added small gaps running along the length of its bottom.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "当德克萨斯州奥斯汀的一座桥被修复时，工程师们沿着桥底增加了小缝隙。"
+        }
+      ]
+    },
+    {
+      "def": "a difference that separates people, or their opinions, situation, etc. 分歧；隔阂；差距",
+      "ex": [
+        {
+          "s": "The gap between teachers’ and students’ hobbies.",
+          "src": "2026浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "老师与学生爱好之间的差距。"
+        }
+      ]
+    },
+    {
+      "def": "a space where sth is missing 缺口；空白；漏洞",
+      "ex": [
+        {
+          "s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "然而，我在新媒体经验中有一个明显的空白：我很少出现在镜头前，因为我有一张适合做广播的脸。"
+        },
+        {
+          "s": "Choose the correct sentence (A–D) to fill each gap.",
+          "src": "人教B3 U4",
+          "cat": "renjiao",
+          "t": "选择正确的句子（A-D）填入每个空白处。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "gap between us",
+      "cn": "开口 在…之间 我们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bridge the gap",
+      "cn": "桥 该 开口",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gaps running",
+      "cn": "开口 跑",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "small gaps",
+      "cn": "小的 开口",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "added small gaps",
+      "cn": "增加 小的 开口",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gap between teachers",
+      "cn": "开口 在…之间 教师",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "notable gap",
+      "cn": "开口",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gap in my",
+      "cn": "开口 在…里 我的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

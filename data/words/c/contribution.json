@@ -1,1 +1,151 @@
-{"meta": {"ph": "ˌkɒntrɪˈbjuːʃn; NAmE ˌkɑːntrɪˈbjuːʃn", "pos": "noun", "stars": "★"}, "defs": [{"def": "a sum of money that is given to a person or an organization in order to help pay for sth 捐款；捐资", "ex": [{"s": "The group asked for contributions from different departments and raised funds within the international community.", "src": "人教B2 U1", "cat": "renjiao", "t": "该小组向各部门征集捐款，并在国际社会筹集资金。", "year": ""}]}, {"def": "a sum of money that you pay regularly to your employer or the government in order to pay for benefits such as health insurance, a pension, etc. （给雇主或政府用作医疗保险、养老金等津贴的）定期缴款", "ex": []}, {"def": "an action or a service that helps to cause or increase sth 贡献；促成作用", "ex": [{"s": "Contributions they can make.", "src": "2021全国甲卷", "cat": "gaokao", "t": "他们可以做出的贡献。", "year": 2021}, {"s": "When contributions were made by geniuses outside the club—women, or people of a different color or belief—they were unacknowledged and rejected by others.", "src": "2021全国甲卷·阅读理解D", "cat": "gaokao", "t": "当俱乐部之外的天才——女性，或不同肤色或信仰的人——做出贡献时，他们的贡献不被承认，反而被他人拒绝。", "year": 2021}, {"s": "Contributions they can make.", "src": "2021全国乙卷", "cat": "gaokao", "t": "他们可以做出的贡献。", "year": 2021}, {"s": "Greater contributions to the neighborhood.", "src": "2020浙江卷", "cat": "gaokao", "t": "对社区的贡献更大。", "year": 2020}, {"s": "Among the writers of the plays in this collection, Paul Green, Susan Glaspell, Maxwell Anderson, Thornton Wilder, William Saroyan, and Tennessee Williams have all received Pulitzer Prizes for their contributions to the theater.", "src": "2020浙江7月卷·阅读理解A", "cat": "gaokao", "t": "在本剧本集的作家中，保罗·格林、苏珊·格拉斯佩尔、麦克斯韦尔·安德森、桑顿·怀尔德、威廉·萨罗扬和田纳西·威廉姆斯都因其对戏剧的贡献而获得普利策奖。", "year": 2020}, {"s": "Of those, 23 were awarded for their extraordinary contributions.", "src": "外研社B6 U2", "cat": "waiyan", "t": "其中，23人因其卓越贡献而获奖。", "year": ""}, {"s": "C Tu Youyou’s important contributions other than the discovery of artemisinin.", "src": "人教选必1 U1", "cat": "renjiao", "t": "屠呦呦除发现青蒿素之外的重要贡献。", "year": ""}, {"s": "I found a book about Liang Sicheng’s contribution to protecting China’s cultural heritage in it.", "src": "人教B2 U5", "cat": "renjiao", "t": "我在里面找到了一本关于梁思成对中国文化遗产保护贡献的书。", "year": ""}, {"s": "More than eighty years on, the priceless contribution of Lianda still needs to be reaffirmed.", "src": "外研社B6 U3", "cat": "waiyan", "t": "八十多年过去了，联大的无价贡献仍然值得肯定。", "year": ""}]}, {"def": "an item that forms part of a book, magazine, broadcast, discussion, etc. （书、杂志、广播、讨论等部分内容的）一则，一条，稿件", "ex": []}, {"def": "the act of giving sth, especially money, to help a person or an organization 捐赠；捐助；（尤指）捐款", "ex": []}], "chunks": [{"en": "contribution to", "cn": "对…的贡献", "type": "名词短语", "count": 4}]}
+{
+  "meta": {
+    "ph": "ˌkɒntrɪˈbjuːʃn; NAmE ˌkɑːntrɪˈbjuːʃn",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a sum of money that is given to a person or an organization in order to help pay for sth 捐款；捐资",
+      "ex": [
+        {
+          "s": "The group asked for contributions from different departments and raised funds within the international community.",
+          "src": "人教B2 U1",
+          "cat": "renjiao",
+          "t": "该小组向各部门征集捐款，并在国际社会筹集资金。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "a sum of money that you pay regularly to your employer or the government in order to pay for benefits such as health insurance, a pension, etc. （给雇主或政府用作医疗保险、养老金等津贴的）定期缴款",
+      "ex": []
+    },
+    {
+      "def": "an action or a service that helps to cause or increase sth 贡献；促成作用",
+      "ex": [
+        {
+          "s": "Contributions they can make.",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "t": "他们可以做出的贡献。",
+          "year": 2021
+        },
+        {
+          "s": "When contributions were made by geniuses outside the club—women, or people of a different color or belief—they were unacknowledged and rejected by others.",
+          "src": "2021全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "当俱乐部之外的天才——女性，或不同肤色或信仰的人——做出贡献时，他们的贡献不被承认，反而被他人拒绝。",
+          "year": 2021
+        },
+        {
+          "s": "Contributions they can make.",
+          "src": "2021全国乙卷",
+          "cat": "gaokao",
+          "t": "他们可以做出的贡献。",
+          "year": 2021
+        },
+        {
+          "s": "Greater contributions to the neighborhood.",
+          "src": "2020浙江卷",
+          "cat": "gaokao",
+          "t": "对社区的贡献更大。",
+          "year": 2020
+        },
+        {
+          "s": "Among the writers of the plays in this collection, Paul Green, Susan Glaspell, Maxwell Anderson, Thornton Wilder, William Saroyan, and Tennessee Williams have all received Pulitzer Prizes for their contributions to the theater.",
+          "src": "2020浙江7月卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "在本剧本集的作家中，保罗·格林、苏珊·格拉斯佩尔、麦克斯韦尔·安德森、桑顿·怀尔德、威廉·萨罗扬和田纳西·威廉姆斯都因其对戏剧的贡献而获得普利策奖。",
+          "year": 2020
+        },
+        {
+          "s": "Of those, 23 were awarded for their extraordinary contributions.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "其中，23人因其卓越贡献而获奖。",
+          "year": ""
+        },
+        {
+          "s": "C Tu Youyou’s important contributions other than the discovery of artemisinin.",
+          "src": "人教选必1 U1",
+          "cat": "renjiao",
+          "t": "屠呦呦除发现青蒿素之外的重要贡献。",
+          "year": ""
+        },
+        {
+          "s": "I found a book about Liang Sicheng’s contribution to protecting China’s cultural heritage in it.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "我在里面找到了一本关于梁思成对中国文化遗产保护贡献的书。",
+          "year": ""
+        },
+        {
+          "s": "More than eighty years on, the priceless contribution of Lianda still needs to be reaffirmed.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "八十多年过去了，联大的无价贡献仍然值得肯定。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "an item that forms part of a book, magazine, broadcast, discussion, etc. （书、杂志、广播、讨论等部分内容的）一则，一条，稿件",
+      "ex": []
+    },
+    {
+      "def": "the act of giving sth, especially money, to help a person or an organization 捐赠；捐助；（尤指）捐款",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "contributions they",
+      "cn": "捐款 他们",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "contributions from different",
+      "cn": "捐款 从 不同的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "asked for contributions",
+      "cn": "问 为了 捐款",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "contributions were made",
+      "cn": "捐款 是",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "greater contributions",
+      "cn": "捐款",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "contributions to the neighborhood",
+      "cn": "捐款 去 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "their contributions",
+      "cn": "他们的 捐款",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "for their contributions",
+      "cn": "为了 他们的 捐款",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

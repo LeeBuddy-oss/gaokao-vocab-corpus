@@ -1,1 +1,80 @@
-{"meta":{"ph":"ˈiːɡl; NAmE ˈiːɡl","pos":"noun","stars":""},"defs":[{"def":"a large bird of prey (= a bird that kills other creatures for food) with a sharp curved beak and very good sight 雕","ex":[{"s":"An eagle flew over the snow-capped mountains, which were reflected in the still lake below.","src":"外研社B1 U5","cat":"waiyan","t":"一只鹰飞越白雪皑皑的山峰，山峰倒映在下方平静的湖水中。"},{"s":"We could also say An eagle flew over the mountains, whose tops were covered in snow.","src":"外研社B1 U6","cat":"waiyan","t":"我们也可以说：一只鹰飞过群山，山顶被雪覆盖着。"},{"s":"I was hoping to see a bear or even an eagle, but all I saw was a small group of deer.","src":"外研社B2 U5","cat":"waiyan","t":"我希望能看到一只熊甚至一只鹰，但我只看到了一小群鹿。"},{"s":"After singing some songs, the competitors danced onto the green field, waving their arms in the air as if they were eagles.","src":"人教B3 U1","cat":"renjiao","t":"唱完几首歌后，选手们跳着舞进入绿茵场，在空中挥舞着手臂，好像他们是雄鹰一样。"},{"s":"In addition to seeing spectacular mountain peaks and forests, one highlight of their trip was being able to see many different creatures, including deer, mountain goats, and even a grizzly bear and an eagle.","src":"人教选必2 U4","cat":"renjiao","t":"除了看到壮观的山峰和森林，他们旅途中的一个亮点是能看到许多不同的动物，包括鹿、山羊，甚至一只灰熊和一只鹰。"}]},{"def":"a score of two strokes less than the standard score for a hole (= two under par) 高尔夫球","ex":[]}],"chunks":[{"en":"say eagle","cn":"说雕","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "ˈiːɡl; NAmE ˈiːɡl",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a large bird of prey (= a bird that kills other creatures for food) with a sharp curved beak and very good sight 雕",
+      "ex": [
+        {
+          "s": "An eagle flew over the snow-capped mountains, which were reflected in the still lake below.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "一只鹰飞越白雪皑皑的山峰，山峰倒映在下方平静的湖水中。"
+        },
+        {
+          "s": "We could also say An eagle flew over the mountains, whose tops were covered in snow.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说：一只鹰飞过群山，山顶被雪覆盖着。"
+        },
+        {
+          "s": "I was hoping to see a bear or even an eagle, but all I saw was a small group of deer.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "我希望能看到一只熊甚至一只鹰，但我只看到了一小群鹿。"
+        },
+        {
+          "s": "After singing some songs, the competitors danced onto the green field, waving their arms in the air as if they were eagles.",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "唱完几首歌后，选手们跳着舞进入绿茵场，在空中挥舞着手臂，好像他们是雄鹰一样。"
+        },
+        {
+          "s": "In addition to seeing spectacular mountain peaks and forests, one highlight of their trip was being able to see many different creatures, including deer, mountain goats, and even a grizzly bear and an eagle.",
+          "src": "人教选必2 U4",
+          "cat": "renjiao",
+          "t": "除了看到壮观的山峰和森林，他们旅途中的一个亮点是能看到许多不同的动物，包括鹿、山羊，甚至一只灰熊和一只鹰。"
+        }
+      ]
+    },
+    {
+      "def": "a score of two strokes less than the standard score for a hole (= two under par) 高尔夫球",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "eagle flew",
+      "cn": "雕",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "an eagle flew",
+      "cn": "一个 雕",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "say an eagle",
+      "cn": "说 一个 雕",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "even an eagle",
+      "cn": "甚至 一个 雕",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "they were eagles",
+      "cn": "他们 是 雕",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,123 @@
-{"meta":{"ph":"ˈdeɪtəbeɪs; NAmE ˈdeɪtəbeɪs","pos":"noun","stars":"★★"},"defs":[{"def":"an organized set of data that is stored in a computer and can be looked at and used in various ways （贮存在计算机中的）数据库，资料库","ex":[{"s":"Analyses of a language database also confirmed that there was a global change in the sound of world languages after the Neolithic age, with the use of “f” and “v” increasing remarkably during the last few thousand years.","src":"2022全国新高考I卷·阅读理解D","cat":"gaokao","year":2022,"t":"对一个语言数据库的分析也证实，新石器时代之后世界语言的声音发生了全球性的变化，\"f\"和\"v\"的使用在近几千年显著增加。"},{"s":"Your application will be accessed by UNESCO managers and will stay in our database for six months．We do not respond to every candidate．If selected，you will be contacted by a manager．If you do not receive any update within six months，it means that your application has not been successful．","src":"2021北京卷·阅读理解A","cat":"gaokao","year":2021,"t":"你的申请将由联合国教科文组织的经理审阅，并在我们的数据库中保留六个月。我们不会回复每一位候选人。如果被选中，会有经理与你联系。如果六个月内未收到任何更新，则意味着你的申请未获成功。"},{"s":"Get access to the database．","src":"2021北京卷·阅读理解A","cat":"gaokao","year":2021,"t":"获取数据库访问权限．"},{"s":"Set up powerful databases.","src":"2020北京卷·阅读理解D","cat":"gaokao","year":2020,"t":"建立强大的数据库。"},{"s":"aim at victims precisely     B. damage databases easily","src":"2019北京卷·阅读理解C","cat":"gaokao","year":2019,"t":"精确瞄准受害者 B. 容易破坏数据库"},{"s":"We can get the most updated information from large databases.","src":"人教B2 U3","cat":"renjiao","t":"我们可以从大型数据库获取最新信息。"},{"s":"Later, we created a database of their fins and locations.","src":"人教选必4 U3","cat":"renjiao","t":"后来，我们建立了一个关于它们鳍和位置的数据库。"},{"s":"It has been one of the key weapons for unsolved cases.The DNAis stored in a database, where policemen can find the same orsimilarDNAtotrackdownsuspectsand victims.","src":"北师大选必3 U9","cat":"beishida","t":"它一直是侦破悬案的关键武器之一。DNA 储存在数据库中，警察可在其中找到相同或相似的DNA来追踪嫌疑人和受害者。"},{"s":"It works by comparing the facial features of given images with those in a database.","src":"译林选必2 U4","cat":"yilin","t":"它的工作原理是将给定图像的人脸特征与数据库中的特征进行比对。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈdeɪtəbeɪs; NAmE ˈdeɪtəbeɪs",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "an organized set of data that is stored in a computer and can be looked at and used in various ways （贮存在计算机中的）数据库，资料库",
+      "ex": [
+        {
+          "s": "Analyses of a language database also confirmed that there was a global change in the sound of world languages after the Neolithic age, with the use of “f” and “v” increasing remarkably during the last few thousand years.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "对一个语言数据库的分析也证实，新石器时代之后世界语言的声音发生了全球性的变化，\"f\"和\"v\"的使用在近几千年显著增加。"
+        },
+        {
+          "s": "Your application will be accessed by UNESCO managers and will stay in our database for six months．We do not respond to every candidate．If selected，you will be contacted by a manager．If you do not receive any update within six months，it means that your application has not been successful．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你的申请将由联合国教科文组织的经理审阅，并在我们的数据库中保留六个月。我们不会回复每一位候选人。如果被选中，会有经理与你联系。如果六个月内未收到任何更新，则意味着你的申请未获成功。"
+        },
+        {
+          "s": "Get access to the database．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "获取数据库访问权限．"
+        },
+        {
+          "s": "Set up powerful databases.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "建立强大的数据库。"
+        },
+        {
+          "s": "aim at victims precisely     B. damage databases easily",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "精确瞄准受害者 B. 容易破坏数据库"
+        },
+        {
+          "s": "We can get the most updated information from large databases.",
+          "src": "人教B2 U3",
+          "cat": "renjiao",
+          "t": "我们可以从大型数据库获取最新信息。"
+        },
+        {
+          "s": "Later, we created a database of their fins and locations.",
+          "src": "人教选必4 U3",
+          "cat": "renjiao",
+          "t": "后来，我们建立了一个关于它们鳍和位置的数据库。"
+        },
+        {
+          "s": "It has been one of the key weapons for unsolved cases.The DNAis stored in a database, where policemen can find the same orsimilarDNAtotrackdownsuspectsand victims.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "它一直是侦破悬案的关键武器之一。DNA 储存在数据库中，警察可在其中找到相同或相似的DNA来追踪嫌疑人和受害者。"
+        },
+        {
+          "s": "It works by comparing the facial features of given images with those in a database.",
+          "src": "译林选必2 U4",
+          "cat": "yilin",
+          "t": "它的工作原理是将给定图像的人脸特征与数据库中的特征进行比对。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "language database",
+      "cn": "语言 数据库",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "database also confirmed",
+      "cn": "数据库 也 证实",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a language database",
+      "cn": "一个 语言 数据库",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "our database",
+      "cn": "我们的 数据库",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "database for six",
+      "cn": "数据库 为了",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "in our database",
+      "cn": "在…里 我们的 数据库",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "powerful databases",
+      "cn": "数据库",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "up powerful databases",
+      "cn": "上 数据库",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

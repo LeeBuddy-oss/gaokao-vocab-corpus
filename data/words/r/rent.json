@@ -1,1 +1,195 @@
-{"meta": {"ph": "rent; NAmE rent", "pos": "noun;noun;verb;verb;verb;verb", "stars": "★★"}, "defs": [{"def": "an amount of money that you regularly pay so that you can use a house, etc. 租金", "ex": [{"s": "How much do you pay for renting a bike with hand brake and three gears for two days?", "src": "2023新课标I卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "租一辆带手刹和三挡的自行车两天要付多少钱？"}, {"s": "By splitting the rent with a roommate.", "src": "2023全国甲卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "通过与室友分摊房租。"}, {"s": "Which is included in the rent？", "src": "2020全国I卷", "cat": "gaokao", "year": 2020, "t": "租金中包含哪一项？"}]}, {"def": "a torn place in a piece of material or clothing 破裂处；裂口；撕裂", "ex": []}, {"def": "to regularly pay money to sb so that you can use sth that they own, such as a house, some land, a machine, etc. 租用，租借（房屋、土地、机器等）", "ex": [{"s": "After Lincoln was elected President of the US in 1861, they rented the house and   65   （sell）most of their furniture.", "src": "2021浙江6月卷·语法填空", "cat": "gaokao", "year": 2021, "t": "1861年林肯当选美国总统后，他们租了房子并____65____（sell）了大部分家具。"}, {"s": "Those without outside space can rent small pieces of land on which to grow things.", "src": "外研社B1 U6", "cat": "waiyan", "t": "那些没有户外空间的人可以租用小块土地来种植东西。"}, {"s": "Some people have experienced damage to their properties whilst renting out their homes and others have found themselves victims of theft or attack while sharing rides.", "src": "外研社B7 U4", "cat": "waiyan", "t": "有些人在出租房屋时遭到了财产损失，还有一些人在共享乘车时发现自己成了盗窃或袭击的受害者。"}, {"s": "Pushchairs and wheelchairs are available to rent at the Information Desk and Denny Way entrance.", "src": "2017全国I卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "婴儿车和轮椅可在问讯台和 Denny Way 入口处租用。"}]}, {"def": "to allow sb to use sth that you own such as a house or some land in exchange for regular payments 出租；将 … 租给", "ex": [{"s": "How did Terri avoid losing the deposit on the house she rented?", "src": "2023全国甲卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "Terri是怎么避免她租房子的押金丢失的？"}, {"s": "rent a house for the family", "src": "2026北京卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "为家庭租一套房子"}, {"s": "The state also cleared the way for companies to sell or rent out self-driving cars, and for companies to operate driverless taxi services.", "src": "2018北京卷·阅读理解D", "cat": "gaokao", "year": 2018, "t": "政策制定者现在应该开始思考如何确保自动驾驶汽车的出现不会延续我们当前受控于汽车的交通系统中最糟糕的方面。"}]}, {"def": "to pay money to sb so that you can use sth for a short period of time （短期）租用，租借", "ex": [{"s": "Another time, we rented a boat in Vallecito Lake.", "src": "2022全国新高考I卷·完形填空", "cat": "gaokao", "year": 2022, "t": "另一次，我们在瓦列西托湖租了一条船。"}, {"s": "There we rented a motor home and drove to any places at any time we liked.", "src": "外研社B2 U6", "cat": "waiyan", "t": "在那里我们租了一辆房车，随时想去哪就去哪。"}, {"s": "He said that one of the boxes generated around $13,500 in revenue a month and cost only about $400 to rent.", "src": "2020江苏卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"}]}, {"def": "to be available for sb to use if they pay a particular amount of money 以 … 出租；租金为", "ex": [{"s": "36     So the first thing we did was rent a fantastically expensive sixth-floor apartment the size of a cupboard.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "36 所以我们做的第一件事是租了一套贵得离谱、只有橱柜大小的六楼公寓。"}, {"s": "I assumed I’d already have a well-paid job and that I’d be moving into a rented apartment as soon as I turned 18, but how wrong I was!", "src": "外研社B5 U1", "cat": "waiyan", "t": "我以为自己早就有一份高薪工作，而且一到18岁就会搬进租来的公寓，但我错得多么离谱！"}, {"s": "Whether it’s an online shop where we can hire designer clothes at rock-bottom prices, or a platform from which we can rent out our flats for a couple of days, it’s out there.", "src": "外研社B7 U4", "cat": "waiyan", "t": "无论是在网上商店我们可以以极低的价格租用设计师服装，还是一个我们可以把公寓出租几天的平台，它都已经存在了。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "rent; NAmE rent",
+    "pos": "noun;noun;verb;verb;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "an amount of money that you regularly pay so that you can use a house, etc. 租金",
+      "ex": [
+        {
+          "s": "How much do you pay for renting a bike with hand brake and three gears for two days?",
+          "src": "2023新课标I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "租一辆带手刹和三挡的自行车两天要付多少钱？"
+        },
+        {
+          "s": "By splitting the rent with a roommate.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "通过与室友分摊房租。"
+        },
+        {
+          "s": "Which is included in the rent？",
+          "src": "2020全国I卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "租金中包含哪一项？"
+        }
+      ]
+    },
+    {
+      "def": "a torn place in a piece of material or clothing 破裂处；裂口；撕裂",
+      "ex": []
+    },
+    {
+      "def": "to regularly pay money to sb so that you can use sth that they own, such as a house, some land, a machine, etc. 租用，租借（房屋、土地、机器等）",
+      "ex": [
+        {
+          "s": "After Lincoln was elected President of the US in 1861, they rented the house and   65   （sell）most of their furniture.",
+          "src": "2021浙江6月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "1861年林肯当选美国总统后，他们租了房子并____65____（sell）了大部分家具。"
+        },
+        {
+          "s": "Those without outside space can rent small pieces of land on which to grow things.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "那些没有户外空间的人可以租用小块土地来种植东西。"
+        },
+        {
+          "s": "Some people have experienced damage to their properties whilst renting out their homes and others have found themselves victims of theft or attack while sharing rides.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "有些人在出租房屋时遭到了财产损失，还有一些人在共享乘车时发现自己成了盗窃或袭击的受害者。"
+        },
+        {
+          "s": "Pushchairs and wheelchairs are available to rent at the Information Desk and Denny Way entrance.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "婴儿车和轮椅可在问讯台和 Denny Way 入口处租用。"
+        }
+      ]
+    },
+    {
+      "def": "to allow sb to use sth that you own such as a house or some land in exchange for regular payments 出租；将 … 租给",
+      "ex": [
+        {
+          "s": "How did Terri avoid losing the deposit on the house she rented?",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "Terri是怎么避免她租房子的押金丢失的？"
+        },
+        {
+          "s": "rent a house for the family",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "为家庭租一套房子"
+        },
+        {
+          "s": "The state also cleared the way for companies to sell or rent out self-driving cars, and for companies to operate driverless taxi services.",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "政策制定者现在应该开始思考如何确保自动驾驶汽车的出现不会延续我们当前受控于汽车的交通系统中最糟糕的方面。"
+        }
+      ]
+    },
+    {
+      "def": "to pay money to sb so that you can use sth for a short period of time （短期）租用，租借",
+      "ex": [
+        {
+          "s": "Another time, we rented a boat in Vallecito Lake.",
+          "src": "2022全国新高考I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "另一次，我们在瓦列西托湖租了一条船。"
+        },
+        {
+          "s": "There we rented a motor home and drove to any places at any time we liked.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "在那里我们租了一辆房车，随时想去哪就去哪。"
+        },
+        {
+          "s": "He said that one of the boxes generated around $13,500 in revenue a month and cost only about $400 to rent.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"
+        }
+      ]
+    },
+    {
+      "def": "to be available for sb to use if they pay a particular amount of money 以 … 出租；租金为",
+      "ex": [
+        {
+          "s": "36     So the first thing we did was rent a fantastically expensive sixth-floor apartment the size of a cupboard.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "36 所以我们做的第一件事是租了一套贵得离谱、只有橱柜大小的六楼公寓。"
+        },
+        {
+          "s": "I assumed I’d already have a well-paid job and that I’d be moving into a rented apartment as soon as I turned 18, but how wrong I was!",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "我以为自己早就有一份高薪工作，而且一到18岁就会搬进租来的公寓，但我错得多么离谱！"
+        },
+        {
+          "s": "Whether it’s an online shop where we can hire designer clothes at rock-bottom prices, or a platform from which we can rent out our flats for a couple of days, it’s out there.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "无论是在网上商店我们可以以极低的价格租用设计师服装，还是一个我们可以把公寓出租几天的平台，它都已经存在了。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "we rented",
+      "cn": "我们 租金",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "renting a bike",
+      "cn": "租金 一个 自行车",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "pay for renting",
+      "cn": "付费 为了 租金",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "splitting the rent",
+      "cn": "分裂 该 租金",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rent with a roommate",
+      "cn": "租金 与 一个",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "they rented",
+      "cn": "他们 租金",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rented the house",
+      "cn": "租金 该 房屋",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "in they rented",
+      "cn": "在…里 他们 租金",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

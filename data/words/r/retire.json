@@ -1,1 +1,185 @@
-{"meta": {"ph": "rɪˈtaɪə(r); NAmE rɪˈtaɪər", "pos": "verb", "stars": "★"}, "defs": [{"def": "to stop doing your job, especially because you have reached a particular age or because you are ill/sick; to tell sb they must stop doing their job （令）退职；（使）退休", "ex": [{"s": "Current students, teachers (including retired) and staff can request items through ILL.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "在校学生、教师（含退休）和员工可通过ILL申请物品。"}, {"s": "One doubter about the safety of cloud seeding is Chuck Doswell, a research scientist who just retired from the University of Oklahoma.", "src": "2024浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "对人工降雨安全性持怀疑态度的人之一是查克·多斯韦尔，他是一名刚从俄克拉荷马大学退休的研究科学家。"}, {"s": "When she retired from dancing and her sons eventually flew the nest, she decided it was time to take the plunge.", "src": "2022全国甲卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "当她从舞蹈事业退休，儿子们最终离巢后，她决定是时候迈出这一步了。"}, {"s": "Mike Sullivan, a former construction worker, took up woodworking after he and his wife, Judy, retired.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "迈克·沙利文是一名前建筑工人，他和妻子朱迪退休后开始从事木工。"}, {"s": "He never stopped working, never retired.", "src": "2021浙江6月卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "他从不停下工作，从不退休。"}, {"s": "Researchers from the University of Leipzig in Germany gathered more than 1, 000 retired workers who were over age 75 and assessed the volunteers’ memory and thinking skills through a battery of tests.", "src": "2020浙江7月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "德国莱比锡大学的研究人员召集了1000多名75岁以上的退休工人，通过一系列测试评估志愿者的记忆力和思维能力。"}, {"s": "Retired Workers Can Pick Up New Skills", "src": "2020浙江7月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "退休工人可以掌握新技能"}, {"s": "He's not ready to retire, but he's found a new hobby to keep his hands skillful in the years to come.", "src": "2020天津3月卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "他还没准备退休，但已找到一项新爱好，让他的双手在未来岁月里保持灵巧。"}, {"s": "Picking up her“Lifetime Achievement”award，proud Irene   64  （declare） she had no plans   65   （retire） from her 36-year-old business.", "src": "2019全国II卷·语法填空", "cat": "gaokao", "year": 2019, "t": "捧起她的\"终身成就奖\"，自豪的艾琳宣布她没有退休的计划，不想离开她经营了36年的企业。"}, {"s": "A retired engineer, 76-year-old Wilson has been   11   free rides to college students for the past eight years.", "src": "2019北京卷·完形填空", "cat": "gaokao", "year": 2019, "t": "76岁的退休工程师威尔逊，过去八年一直在给大学生___11___免费搭载。"}, {"s": "Liu Yonghui, retired teacher 1 Eating out is a good choice and it has nothing to do with loss of traditions.", "src": "外研社B2 U2", "cat": "waiyan", "t": "刘永辉，退休教师 1 外出就餐是一个不错的选择，这与传统的丧失无关。"}, {"s": "Lu retired from teaching only two years before passing away in 2016.", "src": "外研社B6 U6", "cat": "waiyan", "t": "陆老师在2016年去世前仅仅退休了两年。"}, {"s": "You know we’ll have a good time then.” Verse 4 I’ve long since retired, my son’s moved away.", "src": "人教B2 U5", "cat": "renjiao", "t": "你知道我们会玩得很开心。\" 第四节 我早已退休，儿子也已搬走。"}, {"s": "Dr Lin did not retire until the day she died, 22 April 1983.", "src": "人教B3 U2", "cat": "renjiao", "t": "林医生直到1983年4月22日去世那天才退休。"}]}, {"def": "to stop competing during a game, race, etc., usually because you are injured （因伤）退出（比赛等）", "ex": [{"s": "Shankly retired from Liverpool in 1974.", "src": "外研社B2 U6", "cat": "waiyan", "t": "香克利于1974年从利物浦退役。"}]}, {"def": "to leave a place, especially to go somewhere quieter or more private 离开（尤指去僻静处）", "ex": []}, {"def": "to move back from a battle in order to organize your soldiers in a different way 撤离，撤退（以进行休整）", "ex": []}, {"def": "to go to bed 睡觉；就寝", "ex": []}, {"def": "to make a player or team have to stop their turn at batting 使（击球员、击球方）出局", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "rɪˈtaɪə(r); NAmE rɪˈtaɪər",
+    "pos": "verb",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "to stop doing your job, especially because you have reached a particular age or because you are ill/sick; to tell sb they must stop doing their job （令）退职；（使）退休",
+      "ex": [
+        {
+          "s": "Current students, teachers (including retired) and staff can request items through ILL.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在校学生、教师（含退休）和员工可通过ILL申请物品。"
+        },
+        {
+          "s": "One doubter about the safety of cloud seeding is Chuck Doswell, a research scientist who just retired from the University of Oklahoma.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "对人工降雨安全性持怀疑态度的人之一是查克·多斯韦尔，他是一名刚从俄克拉荷马大学退休的研究科学家。"
+        },
+        {
+          "s": "When she retired from dancing and her sons eventually flew the nest, she decided it was time to take the plunge.",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "当她从舞蹈事业退休，儿子们最终离巢后，她决定是时候迈出这一步了。"
+        },
+        {
+          "s": "Mike Sullivan, a former construction worker, took up woodworking after he and his wife, Judy, retired.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "迈克·沙利文是一名前建筑工人，他和妻子朱迪退休后开始从事木工。"
+        },
+        {
+          "s": "He never stopped working, never retired.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他从不停下工作，从不退休。"
+        },
+        {
+          "s": "Researchers from the University of Leipzig in Germany gathered more than 1, 000 retired workers who were over age 75 and assessed the volunteers’ memory and thinking skills through a battery of tests.",
+          "src": "2020浙江7月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "德国莱比锡大学的研究人员召集了1000多名75岁以上的退休工人，通过一系列测试评估志愿者的记忆力和思维能力。"
+        },
+        {
+          "s": "Retired Workers Can Pick Up New Skills",
+          "src": "2020浙江7月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "退休工人可以掌握新技能"
+        },
+        {
+          "s": "He's not ready to retire, but he's found a new hobby to keep his hands skillful in the years to come.",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他还没准备退休，但已找到一项新爱好，让他的双手在未来岁月里保持灵巧。"
+        },
+        {
+          "s": "Picking up her“Lifetime Achievement”award，proud Irene   64  （declare） she had no plans   65   （retire） from her 36-year-old business.",
+          "src": "2019全国II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "捧起她的\"终身成就奖\"，自豪的艾琳宣布她没有退休的计划，不想离开她经营了36年的企业。"
+        },
+        {
+          "s": "A retired engineer, 76-year-old Wilson has been   11   free rides to college students for the past eight years.",
+          "src": "2019北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "76岁的退休工程师威尔逊，过去八年一直在给大学生___11___免费搭载。"
+        },
+        {
+          "s": "Liu Yonghui, retired teacher 1 Eating out is a good choice and it has nothing to do with loss of traditions.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "刘永辉，退休教师 1 外出就餐是一个不错的选择，这与传统的丧失无关。"
+        },
+        {
+          "s": "Lu retired from teaching only two years before passing away in 2016.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "陆老师在2016年去世前仅仅退休了两年。"
+        },
+        {
+          "s": "You know we’ll have a good time then.” Verse 4 I’ve long since retired, my son’s moved away.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "你知道我们会玩得很开心。\" 第四节 我早已退休，儿子也已搬走。"
+        },
+        {
+          "s": "Dr Lin did not retire until the day she died, 22 April 1983.",
+          "src": "人教B3 U2",
+          "cat": "renjiao",
+          "t": "林医生直到1983年4月22日去世那天才退休。"
+        }
+      ]
+    },
+    {
+      "def": "to stop competing during a game, race, etc., usually because you are injured （因伤）退出（比赛等）",
+      "ex": [
+        {
+          "s": "Shankly retired from Liverpool in 1974.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "香克利于1974年从利物浦退役。"
+        }
+      ]
+    },
+    {
+      "def": "to leave a place, especially to go somewhere quieter or more private 离开（尤指去僻静处）",
+      "ex": []
+    },
+    {
+      "def": "to move back from a battle in order to organize your soldiers in a different way 撤离，撤退（以进行休整）",
+      "ex": []
+    },
+    {
+      "def": "to go to bed 睡觉；就寝",
+      "ex": []
+    },
+    {
+      "def": "to make a player or team have to stop their turn at batting 使（击球员、击球方）出局",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "retired workers",
+      "cn": "退职 常构成复合词",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "including retired",
+      "cn": "不用于进行时 退职",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "retired and staff",
+      "cn": "退职 与 全体职工",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "teachers including retired",
+      "cn": "教师 不用于进行时 退职",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "just retired",
+      "cn": "正好 退职",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "who just retired",
+      "cn": "谁 正好 退职",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "retired from the university",
+      "cn": "退职 从 该 大学",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "she retired",
+      "cn": "她 退职",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

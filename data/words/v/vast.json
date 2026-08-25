@@ -1,1 +1,136 @@
-{"meta": {"ph": "vɑːst; NAmE væst", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "extremely large in area, size, amount, etc. 辽阔的；巨大的；庞大的；大量的noun", "ex": [{"s": "Art is deeply personal, because when two people see the same artwork, our perception can create vastly different experiences of meaning.", "src": "2023天津3月卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "艺术是非常个人的，因为当两个人看到同一件艺术品时，我们的感知可以创造出截然不同的意义体验。"}, {"s": "But using machine learning and artificial intelligence, some scientists propose that human diets consist of at least 26,000 biochemicals—and that the vast majority are not known.This shows that we have some way to travel before achieving the first objective of systems t hinking - which,in this example, is to identify more constituent parts of the nutrition system.", "src": "2022北京卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "但是，利用机器学习和人工智能，一些科学家提出人类饮食至少由26000种生化物质组成——而且绝大多数是未知的。这表明在实现系统思考的第一个目标之前，我们还有一段路要走——在这个例子中，就是识别营养系统的更多组成部分。"}, {"s": "Rainforests are the lungs of the planet-storing vast quantities of carbon dioxide and producing a significant amount of the world's oxygen.", "src": "2020全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "令人惊奇的是，这些树的生长方式使得它们的叶子和枝条虽然紧密相邻，却从不真正接触另一棵树的叶子和枝条。"}, {"s": "They cover a vast area.", "src": "2020全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "它们覆盖着广袤的区域。"}, {"s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.", "src": "2020全国II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"}, {"s": "In Juan’s world. the unknown and undiscovered was vast and marvelous.", "src": "2020江苏卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "在 Juan 的世界里，未知和未被发现的事物广阔而奇妙。"}, {"s": "Almost all of its surface is covered by a vast ice sheet.", "src": "外研社B4 U6", "cat": "waiyan", "t": "几乎所有的表面都覆盖着巨大的冰盖。"}, {"s": "The vast range in altitude results in a great variation in climatic conditions.", "src": "外研社B5 U5", "cat": "waiyan", "t": "巨大的海拔范围导致了气候条件的极大差异。"}, {"s": "I believe most of the value of AI lies in its capacity to analyse and interpret vast amounts of data, which means it can even solve problems that are too challenging for human experts.", "src": "外研社B6 U4", "cat": "waiyan", "t": "我相信人工智能的大部分价值在于它分析和解释大量数据的能力，这意味着它甚至可以解决对人类专家来说过于具有挑战性的问题。"}, {"s": "The scrolls are so detailed that they describe the vast range of goods that were imported and exported from Dunhuang, such as ceramics, medicine, perfumes and fruit, to name just a few.", "src": "外研社B7 U3", "cat": "waiyan", "t": "这些卷轴极其详细，描述了从敦煌进出口的琳琅满目的商品，例如陶瓷、药品、香水和水果，不胜枚举。"}, {"s": "However, we are only beginning to overcome the challenges of pressure, darkness and extreme cold at vast depths.", "src": "外研社B7 U5", "cat": "waiyan", "t": "然而，我们才刚刚开始克服在极深处所面临的压力、黑暗和极度寒冷等挑战。"}]}], "chunks": [{"en": "be vast", "cn": "辽阔的", "type": "形容词搭配", "count": 2}]}
+{
+  "meta": {
+    "ph": "vɑːst; NAmE væst",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "extremely large in area, size, amount, etc. 辽阔的；巨大的；庞大的；大量的noun",
+      "ex": [
+        {
+          "s": "Art is deeply personal, because when two people see the same artwork, our perception can create vastly different experiences of meaning.",
+          "src": "2023天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "艺术是非常个人的，因为当两个人看到同一件艺术品时，我们的感知可以创造出截然不同的意义体验。"
+        },
+        {
+          "s": "But using machine learning and artificial intelligence, some scientists propose that human diets consist of at least 26,000 biochemicals—and that the vast majority are not known.This shows that we have some way to travel before achieving the first objective of systems t hinking - which,in this example, is to identify more constituent parts of the nutrition system.",
+          "src": "2022北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "但是，利用机器学习和人工智能，一些科学家提出人类饮食至少由26000种生化物质组成——而且绝大多数是未知的。这表明在实现系统思考的第一个目标之前，我们还有一段路要走——在这个例子中，就是识别营养系统的更多组成部分。"
+        },
+        {
+          "s": "Rainforests are the lungs of the planet-storing vast quantities of carbon dioxide and producing a significant amount of the world's oxygen.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "令人惊奇的是，这些树的生长方式使得它们的叶子和枝条虽然紧密相邻，却从不真正接触另一棵树的叶子和枝条。"
+        },
+        {
+          "s": "They cover a vast area.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它们覆盖着广袤的区域。"
+        },
+        {
+          "s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"
+        },
+        {
+          "s": "In Juan’s world. the unknown and undiscovered was vast and marvelous.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在 Juan 的世界里，未知和未被发现的事物广阔而奇妙。"
+        },
+        {
+          "s": "Almost all of its surface is covered by a vast ice sheet.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "几乎所有的表面都覆盖着巨大的冰盖。"
+        },
+        {
+          "s": "The vast range in altitude results in a great variation in climatic conditions.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "巨大的海拔范围导致了气候条件的极大差异。"
+        },
+        {
+          "s": "I believe most of the value of AI lies in its capacity to analyse and interpret vast amounts of data, which means it can even solve problems that are too challenging for human experts.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "我相信人工智能的大部分价值在于它分析和解释大量数据的能力，这意味着它甚至可以解决对人类专家来说过于具有挑战性的问题。"
+        },
+        {
+          "s": "The scrolls are so detailed that they describe the vast range of goods that were imported and exported from Dunhuang, such as ceramics, medicine, perfumes and fruit, to name just a few.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "这些卷轴极其详细，描述了从敦煌进出口的琳琅满目的商品，例如陶瓷、药品、香水和水果，不胜枚举。"
+        },
+        {
+          "s": "However, we are only beginning to overcome the challenges of pressure, darkness and extreme cold at vast depths.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "然而，我们才刚刚开始克服在极深处所面临的压力、黑暗和极度寒冷等挑战。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "vast range",
+      "cn": "辽阔的 一系列",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "the vast range",
+      "cn": "该 辽阔的 一系列",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "vast majority",
+      "cn": "辽阔的 大部分",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the vast majority",
+      "cn": "该 辽阔的 大部分",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "vast quantities",
+      "cn": "辽阔的 数量",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "planet-storing vast",
+      "cn": "辽阔的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the planet-storing vast",
+      "cn": "该 辽阔的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "vast area",
+      "cn": "辽阔的 地区",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

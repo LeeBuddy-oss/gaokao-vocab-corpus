@@ -1,1 +1,125 @@
-{"meta": {"ph": "praɪˈɒrəti; NAmE praɪˈɔːrəti", "pos": "noun", "stars": "★★"}, "defs": [{"def": "something that you think is more important than other things and should be dealt with first 优先事项；最重要的事；首要事情", "ex": [{"s": "Disruption should be given priority in social development.", "src": "2026北京卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "我们大多数人都体验过做好事的美好感受，也体会过做正确之事有多难。"}, {"s": "Physical health and mental health are the priority.", "src": "2025新高考II卷·阅读理解B", "cat": "gaokao", "year": 2025, "t": "对作家来说很难，因为结局承载着读者的太多期望。"}, {"s": "give priority to economic rewards", "src": "2022天津4月卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "把经济回报放在首位"}, {"s": "Moreover，the older you are，the more likely you will come to a resolution after an argument．This may be because more life experience usually leads to more defined priorities．You are more likely to distinguish between what matters and what does not．", "src": "2021北京卷·书面表达", "cat": "gaokao", "year": 2021, "t": "此外，你年纪越大，争执后越可能达成和解。这也许是因为更多的生活阅历通常会带来更明确的是非轻重。你更有可能区分什么重要、什么不重要。"}, {"s": "If there is a fire, your first priority is getting everyone out of the house safely, and then calling for help.", "src": "人教选必2 U5", "cat": "renjiao", "t": "如果发生火灾，你的首要任务是让每个人安全撤离房子，然后求救。"}, {"s": "I have been captain of my school table tennis team for two years, so I know how to lead and decide on priorities.", "src": "人教选必4 U5", "cat": "renjiao", "t": "我担任学校乒乓球队的队长已有两年，所以我知道如何带领团队并确定优先事项。"}, {"s": "It deserves to be a huge priority.", "src": "北师大B3 U8", "cat": "beishida", "t": "它值得是最优先的事项。"}]}, {"def": "the most important place among various things that have to be done or among a group of people 优先；优先权；重点", "ex": [{"s": "The top priority goes to those in the most serious and immediate danger.", "src": "外研社B5 U4", "cat": "waiyan", "t": "最优先考虑的是那些处于最严重和最紧迫危险中的人。"}]}, {"def": "the right of a vehicle to go before other traffic at a particular place on a road （车辆的）优先通行权", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "praɪˈɒrəti; NAmE praɪˈɔːrəti",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "something that you think is more important than other things and should be dealt with first 优先事项；最重要的事；首要事情",
+      "ex": [
+        {
+          "s": "Disruption should be given priority in social development.",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我们大多数人都体验过做好事的美好感受，也体会过做正确之事有多难。"
+        },
+        {
+          "s": "Physical health and mental health are the priority.",
+          "src": "2025新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "对作家来说很难，因为结局承载着读者的太多期望。"
+        },
+        {
+          "s": "give priority to economic rewards",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "把经济回报放在首位"
+        },
+        {
+          "s": "Moreover，the older you are，the more likely you will come to a resolution after an argument．This may be because more life experience usually leads to more defined priorities．You are more likely to distinguish between what matters and what does not．",
+          "src": "2021北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "此外，你年纪越大，争执后越可能达成和解。这也许是因为更多的生活阅历通常会带来更明确的是非轻重。你更有可能区分什么重要、什么不重要。"
+        },
+        {
+          "s": "If there is a fire, your first priority is getting everyone out of the house safely, and then calling for help.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "如果发生火灾，你的首要任务是让每个人安全撤离房子，然后求救。"
+        },
+        {
+          "s": "I have been captain of my school table tennis team for two years, so I know how to lead and decide on priorities.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "我担任学校乒乓球队的队长已有两年，所以我知道如何带领团队并确定优先事项。"
+        },
+        {
+          "s": "It deserves to be a huge priority.",
+          "src": "北师大B3 U8",
+          "cat": "beishida",
+          "t": "它值得是最优先的事项。"
+        }
+      ]
+    },
+    {
+      "def": "the most important place among various things that have to be done or among a group of people 优先；优先权；重点",
+      "ex": [
+        {
+          "s": "The top priority goes to those in the most serious and immediate danger.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "最优先考虑的是那些处于最严重和最紧迫危险中的人。"
+        }
+      ]
+    },
+    {
+      "def": "the right of a vehicle to go before other traffic at a particular place on a road （车辆的）优先通行权",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "given priority",
+      "cn": "优先事项",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "priority in social",
+      "cn": "优先事项 在…里 社会的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "be given priority",
+      "cn": "是 优先事项",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "give priority",
+      "cn": "给 优先事项",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "priority to economic",
+      "cn": "优先事项 去 经济的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "priorities you",
+      "cn": "优先事项 你",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "defined priorities",
+      "cn": "优先事项",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "more defined priorities",
+      "cn": "更多 优先事项",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

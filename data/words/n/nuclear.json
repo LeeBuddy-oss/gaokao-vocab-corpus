@@ -1,1 +1,103 @@
-{"meta":{"ph":"ˈnjuːkliə(r); NAmE ˈnuːkliər","pos":"adj.","stars":"★★"},"defs":[{"def":"using, producing or resulting from nuclear energy 原子能的；核能的","ex":[{"s":"The capsule is powered by a small nuclear plant.","src":"外研社B5 U6","cat":"waiyan","t":"这个舱由一座小型核装置提供动力。"},{"s":"One of the 23 scientists was Deng Jiaxian, who was among the founders of China’s nuclear programme.","src":"外研社B6 U2","cat":"waiyan","t":"这23位科学家中就有邓稼先，他是中国核计划的奠基人之一。"},{"s":"After the successful development of the atomic bomb, he worked closely with Yu Min, another leading scientist at the cutting edge of nuclear technology.","src":"外研社B6 U2","cat":"waiyan","t":"原子弹研制成功后，他与另一位处于核技术前沿的顶尖科学家于敏密切合作。"}]},{"def":"connected with weapons that use nuclear energy 核武器的","ex":[{"s":"In the 1960s and 1970s, the greatest fear was that the human race, and possibly all advanced life forms on the planet, could be wiped out by nuclear missiles, just at the push of a button.","src":"外研社B5 U6","cat":"waiyan","t":"在1960年代和1970年代，最大的恐惧是人类，甚至可能是地球上所有的先进生命形式，都会被核导弹只需按一下按钮就彻底消灭。"},{"s":"Einstein participated in the programme that developed the nuclear bomb.","src":"北师大选必4 U12","cat":"beishida","t":"爱因斯坦参加了研发核弹的项目。"}]},{"def":"of the nucleus (= central part) of an atom 核子的；原子核的","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈnjuːkliə(r); NAmE ˈnuːkliər",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "using, producing or resulting from nuclear energy 原子能的；核能的",
+      "ex": [
+        {
+          "s": "The capsule is powered by a small nuclear plant.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "这个舱由一座小型核装置提供动力。"
+        },
+        {
+          "s": "One of the 23 scientists was Deng Jiaxian, who was among the founders of China’s nuclear programme.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "这23位科学家中就有邓稼先，他是中国核计划的奠基人之一。"
+        },
+        {
+          "s": "After the successful development of the atomic bomb, he worked closely with Yu Min, another leading scientist at the cutting edge of nuclear technology.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "原子弹研制成功后，他与另一位处于核技术前沿的顶尖科学家于敏密切合作。"
+        }
+      ]
+    },
+    {
+      "def": "connected with weapons that use nuclear energy 核武器的",
+      "ex": [
+        {
+          "s": "In the 1960s and 1970s, the greatest fear was that the human race, and possibly all advanced life forms on the planet, could be wiped out by nuclear missiles, just at the push of a button.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "在1960年代和1970年代，最大的恐惧是人类，甚至可能是地球上所有的先进生命形式，都会被核导弹只需按一下按钮就彻底消灭。"
+        },
+        {
+          "s": "Einstein participated in the programme that developed the nuclear bomb.",
+          "src": "北师大选必4 U12",
+          "cat": "beishida",
+          "t": "爱因斯坦参加了研发核弹的项目。"
+        }
+      ]
+    },
+    {
+      "def": "of the nucleus (= central part) of an atom 核子的；原子核的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "nuclear plant",
+      "cn": "原子能的 植物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "small nuclear",
+      "cn": "小的 原子能的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a small nuclear",
+      "cn": "一个 小的 原子能的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "nuclear programme",
+      "cn": "原子能的 计划",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "s nuclear programme",
+      "cn": "原子能的 计划",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "china s nuclear",
+      "cn": "瓷 原子能的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "nuclear technology",
+      "cn": "原子能的 科技",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "of nuclear technology",
+      "cn": "的 原子能的 科技",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

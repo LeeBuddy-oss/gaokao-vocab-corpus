@@ -1,1 +1,167 @@
-{"meta":{"ph":"ɡræb; NAmE ɡræb","pos":"verb;verb;verb;verb;verb;verb;noun;noun;noun","stars":"★★"},"defs":[{"def":"to take or hold sb/sth with your hand suddenly, firmly or roughly 抓住；攫取","ex":[{"s":"With his heart in his mouth, Kevin grabbed Mrs Hill’s home phone and called the police.","src":"2025浙江1月卷·读后续写","cat":"gaokao","year":2025,"t":"凯文紧张得心都提到了嗓子眼，他抓起希尔太太家的电话报了警。"},{"s":"Grabbing a branch from a cut-down tree, he jumped in through the window.","src":"2025浙江1月卷·读后续写","cat":"gaokao","year":2025,"t":"他从一棵砍倒的树上折下一根树枝，从窗户跳了进去。"},{"s":"When at last my hand would grab the edge of the pool, he would always be there with a warm, dry towel, telling me how proud he was of my desperate efforts.","src":"2023天津6月卷·阅读理解B","cat":"gaokao","year":2023,"t":"当我终于用手抓住池边时，他总会拿着一条温暖干燥的毛巾在那里，告诉我他为我拼尽全力的努力感到多么骄傲。"},{"s":"Two hours before my husband came back home from another job interview, my daughter climbed up to grab a glass vase from a high shelf.","src":"2021天津3月卷·阅读理解B","cat":"gaokao","year":2021,"t":"在我丈夫又一次面试回家前两小时，我女儿爬上去够高处架子上的一个玻璃花瓶。"},{"s":"I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．","src":"2019天津卷·18．","cat":"gaokao","year":2019,"t":"我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"},{"s":"If they’re flying low, grab your umbrella.","src":"外研社B3 U6","cat":"waiyan","t":"如果它们飞得很低，就带上你的雨伞。"}]},{"def":"to try to take hold of sth （试图）抓住，夺得","ex":[]},{"def":"to take advantage of an opportunity to do or have sth 利用，抓住（机会）","ex":[{"s":"The researchers believe that the findings could help technology companies develop better machines that use air to do their jobs, as suction has long been used in robotics to grab objects.","src":"2022天津4月卷·阅读理解C","cat":"gaokao","year":2022,"t":"研究人员认为这些发现可以帮助技术公司开发更好的利用空气工作的机器，因为吸力长期以来一直被用于机器人技术来抓取物体。"},{"s":"They say good things come to those who wait; I say: grab every opportunity with everything you have and be impatient.","src":"2022北京卷·阅读理解B","cat":"gaokao","year":2022,"t":"他们说好事会降临在懂得等待的人身上；我说：用你拥有的一切抓住每个机会，并且要迫不及待。"}]},{"def":"to have or take sth quickly, especially because you are in a hurry （尤指匆忙地）取，拿，吃，喝","ex":[{"s":"An actor hired by the researchers grabbed her food first.","src":"2020全国新高考I卷·阅读理解D","cat":"gaokao","year":2020,"t":"研究人员雇来的一名演员先拿了她的食物。"}]},{"def":"to take sth for yourself, especially in a selfish or greedy way （尤指自私、贪婪地）捞取，赚取，抢占","ex":[]},{"def":"to get sb's attention 引人注意；吸引","ex":[{"s":"You could use a rhetorical question or a well-known saying to grab the reader's attention.","src":"译林选必3 U3","cat":"yilin","t":"你可以用一个反问句或一个众所周知的谚语来吸引读者的注意力。"}]},{"def":"a sudden attempt to take or hold sb/sth 猛然的抓取；突然的抢夺","ex":[]},{"def":"a picture taken from a television or video film, stored as an image on a computer 抓取（或截获、采集）的图像","ex":[]},{"def":"a piece of equipment which lifts and holds goods, for example the equipment that hangs from a crane 抓具；抓斗","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ɡræb; NAmE ɡræb",
+    "pos": "verb;verb;verb;verb;verb;verb;noun;noun;noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to take or hold sb/sth with your hand suddenly, firmly or roughly 抓住；攫取",
+      "ex": [
+        {
+          "s": "With his heart in his mouth, Kevin grabbed Mrs Hill’s home phone and called the police.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "凯文紧张得心都提到了嗓子眼，他抓起希尔太太家的电话报了警。"
+        },
+        {
+          "s": "Grabbing a branch from a cut-down tree, he jumped in through the window.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "他从一棵砍倒的树上折下一根树枝，从窗户跳了进去。"
+        },
+        {
+          "s": "When at last my hand would grab the edge of the pool, he would always be there with a warm, dry towel, telling me how proud he was of my desperate efforts.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "当我终于用手抓住池边时，他总会拿着一条温暖干燥的毛巾在那里，告诉我他为我拼尽全力的努力感到多么骄傲。"
+        },
+        {
+          "s": "Two hours before my husband came back home from another job interview, my daughter climbed up to grab a glass vase from a high shelf.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "在我丈夫又一次面试回家前两小时，我女儿爬上去够高处架子上的一个玻璃花瓶。"
+        },
+        {
+          "s": "I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"
+        },
+        {
+          "s": "If they’re flying low, grab your umbrella.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "如果它们飞得很低，就带上你的雨伞。"
+        }
+      ]
+    },
+    {
+      "def": "to try to take hold of sth （试图）抓住，夺得",
+      "ex": []
+    },
+    {
+      "def": "to take advantage of an opportunity to do or have sth 利用，抓住（机会）",
+      "ex": [
+        {
+          "s": "The researchers believe that the findings could help technology companies develop better machines that use air to do their jobs, as suction has long been used in robotics to grab objects.",
+          "src": "2022天津4月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "研究人员认为这些发现可以帮助技术公司开发更好的利用空气工作的机器，因为吸力长期以来一直被用于机器人技术来抓取物体。"
+        },
+        {
+          "s": "They say good things come to those who wait; I say: grab every opportunity with everything you have and be impatient.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他们说好事会降临在懂得等待的人身上；我说：用你拥有的一切抓住每个机会，并且要迫不及待。"
+        }
+      ]
+    },
+    {
+      "def": "to have or take sth quickly, especially because you are in a hurry （尤指匆忙地）取，拿，吃，喝",
+      "ex": [
+        {
+          "s": "An actor hired by the researchers grabbed her food first.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "研究人员雇来的一名演员先拿了她的食物。"
+        }
+      ]
+    },
+    {
+      "def": "to take sth for yourself, especially in a selfish or greedy way （尤指自私、贪婪地）捞取，赚取，抢占",
+      "ex": []
+    },
+    {
+      "def": "to get sb's attention 引人注意；吸引",
+      "ex": [
+        {
+          "s": "You could use a rhetorical question or a well-known saying to grab the reader's attention.",
+          "src": "译林选必3 U3",
+          "cat": "yilin",
+          "t": "你可以用一个反问句或一个众所周知的谚语来吸引读者的注意力。"
+        }
+      ]
+    },
+    {
+      "def": "a sudden attempt to take or hold sb/sth 猛然的抓取；突然的抢夺",
+      "ex": []
+    },
+    {
+      "def": "a picture taken from a television or video film, stored as an image on a computer 抓取（或截获、采集）的图像",
+      "ex": []
+    },
+    {
+      "def": "a piece of equipment which lifts and holds goods, for example the equipment that hangs from a crane 抓具；抓斗",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "grab the edge",
+      "cn": "抓住 该 边",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "hand would grab",
+      "cn": "手 将 抓住",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "grab a glass",
+      "cn": "抓住 一个 玻璃",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "want to grab",
+      "cn": "要 去 抓住",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "grab your",
+      "cn": "抓住 你的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "low grab",
+      "cn": "低的 抓住",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "flying low grab",
+      "cn": "飞 低的 抓住",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "grab objects",
+      "cn": "抓住 物体",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

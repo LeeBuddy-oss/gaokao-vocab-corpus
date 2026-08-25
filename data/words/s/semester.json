@@ -1,1 +1,78 @@
-{"meta":{"ph":"sɪˈmestə(r); NAmE sɪˈmestər","pos":"noun","stars":"★★"},"defs":[{"def":"one of the two periods that the school or college year is divided into 学期（一学年分两个学期）","ex":[{"s":"20 hours per week during the semester.","src":"2023天津3月卷·阅读理解A","cat":"gaokao","year":2023,"t":"学期期间每周20小时。"},{"s":"A fire drill will be conducted in your residence hall every semester． During a fire drill，please do the following：","src":"2018天津卷·阅读理解A","cat":"gaokao","year":2018,"t":"每学期都会在宿舍楼进行消防演习。消防演习期间，请遵守以下事项：•在宿舍楼外集合等待进一步指示。"},{"s":"I failed in all my school subjects this semester.","src":"人教选必3 U2","cat":"renjiao","t":"这学期我所有课程都失败了"},{"s":"You may check by the end of the semester to find out whether you havestucktoyourplan.","src":"北师大B1 U3","cat":"beishida","t":"你可以在学期结束时检查一下 你是否已经踏上了计划"}]}],"chunks":[{"en":"subjects semester","cn":"学科学期","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "sɪˈmestə(r); NAmE sɪˈmestər",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "one of the two periods that the school or college year is divided into 学期（一学年分两个学期）",
+      "ex": [
+        {
+          "s": "20 hours per week during the semester.",
+          "src": "2023天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "学期期间每周20小时。"
+        },
+        {
+          "s": "A fire drill will be conducted in your residence hall every semester． During a fire drill，please do the following：",
+          "src": "2018天津卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "每学期都会在宿舍楼进行消防演习。消防演习期间，请遵守以下事项：•在宿舍楼外集合等待进一步指示。"
+        },
+        {
+          "s": "I failed in all my school subjects this semester.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "这学期我所有课程都失败了"
+        },
+        {
+          "s": "You may check by the end of the semester to find out whether you havestucktoyourplan.",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "你可以在学期结束时检查一下 你是否已经踏上了计划"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "during the semester",
+      "cn": "在 … 期间 该 学期",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "semester during",
+      "cn": "学期 在 … 期间",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "every semester during",
+      "cn": "每 学期 在 … 期间",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hall every semester",
+      "cn": "门厅 每 学期",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "subjects this semester",
+      "cn": "主题 这个 学期",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "semester to find",
+      "cn": "学期 去 发现",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

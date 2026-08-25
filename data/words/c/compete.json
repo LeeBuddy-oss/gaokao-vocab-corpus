@@ -1,1 +1,153 @@
-{"meta": {"ph": "kəmˈpiːt; NAmE kəmˈpiːt", "pos": "verb", "stars": ""}, "defs": [{"def": "to try to be more successful or better than sb else who is trying to do the same as you 竞争；对抗", "ex": [{"s": "We’re not competing.", "src": "2026北京卷·完形填空", "cat": "gaokao", "t": "我们不是在竞争。", "year": 2026}, {"s": "You’ll compete with fewer tourists, save money, experience a different side of a popular place, and boost the economy when tourism is traditionally slower.", "src": "2024新高考II卷·七选五", "cat": "gaokao", "t": "你会与更少的游客竞争、省钱、体验热门地点的不同一面，并在传统淡季提振当地经济。", "year": 2024}, {"s": "If two people are competing", "src": "2021全国甲卷·Swap, Don’t shop!", "cat": "gaokao", "t": "如果两个人在竞争。", "year": 2021}, {"s": "Museums must compete     45    people’s spare time and money with other amusements.", "src": "2020全国新高考I卷·语法填空", "cat": "gaokao", "t": "博物馆必须与其他娱乐活动竞争45个人的空余时间和金钱。", "year": 2020}, {"s": "These activities involve goal management and planning along with the ability to focus while competing on a team.", "src": "2018上海卷·Becoming an Attractive Employee", "cat": "gaokao", "t": "这些活动涉及目标管理和规划，以及在团队竞争中专注的能力。", "year": 2018}, {"s": "Bradford said that large modern theaters in the city made it impossible for the Plaza to compete.", "src": "2017全国III卷·阅读理解B", "cat": "gaokao", "t": "布拉德福德说城里的大型现代剧院使得广场影院无法与之竞争。", "year": 2017}, {"s": "I’m so pleased to see that everything I wanted it to offer to the community is still here.” 1 Traditional bookstores can’t compete with large bookstore chains.", "src": "外研社B5 U3", "cat": "waiyan", "t": "我很高兴看到我想为社区提供的一切依然存在。」1 传统书店无法与大型连锁书店竞争。", "year": ""}, {"s": "They are not afraid to compete with other people.", "src": "人教B1 U5", "cat": "renjiao", "t": "他们不怕与他人竞争。", "year": ""}]}, {"def": "to take part in a contest or game 参加比赛（或竞赛）", "ex": [{"s": "On Oct 11, hundreds of runners competed in a cross-country race in Minnesota.", "src": "2023新高考I卷·完形填空", "cat": "gaokao", "t": "10月11日，数百名跑步者在明尼苏达州参加了一场越野赛。", "year": 2023}, {"s": "It is an annual series of triathlon events, and athletes compete for a chance to be World Champion.", "src": "外研社B1 U6", "cat": "waiyan", "t": "这是一年一度的铁人三项系列赛，运动员争夺成为世界冠军的机会。", "year": ""}, {"s": "Before the contest, he competed against a girl at school.", "src": "外研社B4 U2", "cat": "waiyan", "t": "比赛前，他在学校里和一个女孩比赛。", "year": ""}, {"s": "Luckily, she was later given a chance to compete in the final.", "src": "外研社B4 U3", "cat": "waiyan", "t": "幸运的是，她后来有机会参加决赛。", "year": ""}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "kəmˈpiːt; NAmE kəmˈpiːt",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to try to be more successful or better than sb else who is trying to do the same as you 竞争；对抗",
+      "ex": [
+        {
+          "s": "We’re not competing.",
+          "src": "2026北京卷·完形填空",
+          "cat": "gaokao",
+          "t": "我们不是在竞争。",
+          "year": 2026
+        },
+        {
+          "s": "You’ll compete with fewer tourists, save money, experience a different side of a popular place, and boost the economy when tourism is traditionally slower.",
+          "src": "2024新高考II卷·七选五",
+          "cat": "gaokao",
+          "t": "你会与更少的游客竞争、省钱、体验热门地点的不同一面，并在传统淡季提振当地经济。",
+          "year": 2024
+        },
+        {
+          "s": "If two people are competing",
+          "src": "2021全国甲卷·Swap, Don’t shop!",
+          "cat": "gaokao",
+          "t": "如果两个人在竞争。",
+          "year": 2021
+        },
+        {
+          "s": "Museums must compete     45    people’s spare time and money with other amusements.",
+          "src": "2020全国新高考I卷·语法填空",
+          "cat": "gaokao",
+          "t": "博物馆必须与其他娱乐活动竞争45个人的空余时间和金钱。",
+          "year": 2020
+        },
+        {
+          "s": "These activities involve goal management and planning along with the ability to focus while competing on a team.",
+          "src": "2018上海卷·Becoming an Attractive Employee",
+          "cat": "gaokao",
+          "t": "这些活动涉及目标管理和规划，以及在团队竞争中专注的能力。",
+          "year": 2018
+        },
+        {
+          "s": "Bradford said that large modern theaters in the city made it impossible for the Plaza to compete.",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "布拉德福德说城里的大型现代剧院使得广场影院无法与之竞争。",
+          "year": 2017
+        },
+        {
+          "s": "I’m so pleased to see that everything I wanted it to offer to the community is still here.” 1 Traditional bookstores can’t compete with large bookstore chains.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "我很高兴看到我想为社区提供的一切依然存在。」1 传统书店无法与大型连锁书店竞争。",
+          "year": ""
+        },
+        {
+          "s": "They are not afraid to compete with other people.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "他们不怕与他人竞争。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "to take part in a contest or game 参加比赛（或竞赛）",
+      "ex": [
+        {
+          "s": "On Oct 11, hundreds of runners competed in a cross-country race in Minnesota.",
+          "src": "2023新高考I卷·完形填空",
+          "cat": "gaokao",
+          "t": "10月11日，数百名跑步者在明尼苏达州参加了一场越野赛。",
+          "year": 2023
+        },
+        {
+          "s": "It is an annual series of triathlon events, and athletes compete for a chance to be World Champion.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这是一年一度的铁人三项系列赛，运动员争夺成为世界冠军的机会。",
+          "year": ""
+        },
+        {
+          "s": "Before the contest, he competed against a girl at school.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "比赛前，他在学校里和一个女孩比赛。",
+          "year": ""
+        },
+        {
+          "s": "Luckily, she was later given a chance to compete in the final.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "幸运的是，她后来有机会参加决赛。",
+          "year": ""
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "ll compete",
+      "cn": "竞争",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "compete with fewer",
+      "cn": "竞争 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "you ll compete",
+      "cn": "你 竞争",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "compete people",
+      "cn": "竞争 人",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "must compete people",
+      "cn": "必须 竞争 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "museums must compete",
+      "cn": "博物馆 必须 竞争",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "plaza to compete",
+      "cn": "去 竞争",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "compete with large",
+      "cn": "竞争 与 大的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

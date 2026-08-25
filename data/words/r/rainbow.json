@@ -1,1 +1,101 @@
-{"meta": {"ph": "ˈreɪnbəʊ; NAmE ˈreɪnboʊ", "pos": "noun", "stars": ""}, "defs": [{"def": "a curved band of different colours that appears in the sky when the sun shines through rain 虹；彩虹", "ex": [{"s": "These sculptures were painted a rainbow of striking colours.", "src": "2020北京卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "这些雕塑被涂成了彩虹般鲜艳的各种颜色。"}, {"s": "Lisa: Looking back on my high school life, the most important advice I'd give is these wonderful words from the writer Maya Angelou, She said, \"Be a rainbow in somebody else's cloud.\" So, give your friends a hand when they need it.", "src": "外研社B1 U1", "cat": "waiyan", "t": "丽莎：回顾我的高中生活，我能给出的最重要的建议是作家玛雅·安杰卢这些精彩的话，她说：\"成为别人乌云中的一道彩虹。\"所以，当朋友需要帮助时，伸出你的手。"}, {"s": "She said, \"Be a rainbow in somebody else's cloud.\" So, give your friends a hand when they need it.", "src": "外研社B1 U6", "cat": "waiyan", "t": "她说： “做别人云端的彩虹。“所以，当你的朋友需要的时候，帮帮忙。"}, {"s": "Maya Angelou explained she first heard the \"rainbow in the clouds\" metaphor in a 19th-century African-American song.", "src": "外研社B1 U6", "cat": "waiyan", "t": "玛雅·安吉罗解释说，她第一次听到“云中彩虹”这个比喻，是在一首 19 世纪的非洲裔美国人的歌曲中。"}, {"s": "She said, \"I've had a lot of clouds, but I've had so many rainbows,\" and that she always carried the \"rainbows\" with her to her speeches and classes.", "src": "外研社B1 U6", "cat": "waiyan", "t": "她说：“我遇到过很多阴云，但也有许多彩虹，”而且她总把那些“彩虹”带在身边，带去她的演讲和课堂。"}, {"s": "The \"rainbow in the clouds\" philosophy has encouraged a lot of people.", "src": "外研社B1 U6", "cat": "waiyan", "t": "“云中彩虹”的理念鼓励了很多人。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈreɪnbəʊ; NAmE ˈreɪnboʊ",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a curved band of different colours that appears in the sky when the sun shines through rain 虹；彩虹",
+      "ex": [
+        {
+          "s": "These sculptures were painted a rainbow of striking colours.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这些雕塑被涂成了彩虹般鲜艳的各种颜色。"
+        },
+        {
+          "s": "Lisa: Looking back on my high school life, the most important advice I'd give is these wonderful words from the writer Maya Angelou, She said, \"Be a rainbow in somebody else's cloud.\" So, give your friends a hand when they need it.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "丽莎：回顾我的高中生活，我能给出的最重要的建议是作家玛雅·安杰卢这些精彩的话，她说：\"成为别人乌云中的一道彩虹。\"所以，当朋友需要帮助时，伸出你的手。"
+        },
+        {
+          "s": "She said, \"Be a rainbow in somebody else's cloud.\" So, give your friends a hand when they need it.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "她说： “做别人云端的彩虹。“所以，当你的朋友需要的时候，帮帮忙。"
+        },
+        {
+          "s": "Maya Angelou explained she first heard the \"rainbow in the clouds\" metaphor in a 19th-century African-American song.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "玛雅·安吉罗解释说，她第一次听到“云中彩虹”这个比喻，是在一首 19 世纪的非洲裔美国人的歌曲中。"
+        },
+        {
+          "s": "She said, \"I've had a lot of clouds, but I've had so many rainbows,\" and that she always carried the \"rainbows\" with her to her speeches and classes.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "她说：“我遇到过很多阴云，但也有许多彩虹，”而且她总把那些“彩虹”带在身边，带去她的演讲和课堂。"
+        },
+        {
+          "s": "The \"rainbow in the clouds\" philosophy has encouraged a lot of people.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "“云中彩虹”的理念鼓励了很多人。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "rainbow in somebody",
+      "cn": "虹 在…里",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "rainbow in the clouds",
+      "cn": "虹 在…里 该 云",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "rainbow of striking",
+      "cn": "虹 的 撞",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "painted a rainbow",
+      "cn": "油漆 一个 虹",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "heard the rainbow",
+      "cn": "该 虹",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rainbows and that she",
+      "cn": "虹 与 那个 她",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "rainbows with her",
+      "cn": "虹 与 她的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "carried the rainbows",
+      "cn": "拿 该 虹",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

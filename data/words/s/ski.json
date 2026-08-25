@@ -1,1 +1,104 @@
-{"meta":{"ph":"skiː; NAmE skiː","pos":"noun","stars":""},"defs":[{"def":"one of a pair of long narrow pieces of wood, metal or plastic that you attach to boots so that you can move smoothly over snow 滑雪板","ex":[{"s":"Meanwhile, thousands more were journeying across the English Channel to Normandy, protected by fighter planes in the skies above them.","src":"外研社B6 U3","cat":"waiyan","t":"与此同时，成千上万的人在英吉利海峡上空的战斗机保护下，穿越英吉利海峡前往诺曼底。"},{"s":"The weather just perfect, The skies never gray The bugs always buzzing And the trees seem to sway.","src":"人教B1 U5","cat":"renjiao","t":"天气非常好，天空永远不会变灰，虫子总是嗡嗡作响，树木似乎在摇曳。"}]},{"def":"to move over snow on skis, especially as a sport 滑雪（运动）","ex":[{"s":"Ski Race: Zhangjiakou, a beautiful city in northern China, will host the Youth Ski Race in December.","src":"人教B1 U3","cat":"renjiao","t":"滑雪比赛：中国北方美丽的城市张家口将于12月举办青年滑雪比赛。"},{"s":"He skied over 1,150 km in the process.","src":"人教B1 U5","cat":"renjiao","t":"在这个过程中，他滑雪了1150多公里。"}]},{"def":"to spend time skiing for pleasure 滑雪（作为娱乐）","ex":[{"s":"As a photographer I love the bright light and amazing colours: red rocks, green plants blue-green waters and blue skies.","src":"外研社B2 U5","cat":"waiyan","t":"作为一名摄影师，我喜爱明亮的光线和惊人的色彩：红色的岩石、绿色的植物、蓝绿色的水和蓝天。"}]}],"chunks":[{"en":"youth ski","cn":"青春滑雪板","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "skiː; NAmE skiː",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "one of a pair of long narrow pieces of wood, metal or plastic that you attach to boots so that you can move smoothly over snow 滑雪板",
+      "ex": [
+        {
+          "s": "Meanwhile, thousands more were journeying across the English Channel to Normandy, protected by fighter planes in the skies above them.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "与此同时，成千上万的人在英吉利海峡上空的战斗机保护下，穿越英吉利海峡前往诺曼底。"
+        },
+        {
+          "s": "The weather just perfect, The skies never gray The bugs always buzzing And the trees seem to sway.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "天气非常好，天空永远不会变灰，虫子总是嗡嗡作响，树木似乎在摇曳。"
+        }
+      ]
+    },
+    {
+      "def": "to move over snow on skis, especially as a sport 滑雪（运动）",
+      "ex": [
+        {
+          "s": "Ski Race: Zhangjiakou, a beautiful city in northern China, will host the Youth Ski Race in December.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "滑雪比赛：中国北方美丽的城市张家口将于12月举办青年滑雪比赛。"
+        },
+        {
+          "s": "He skied over 1,150 km in the process.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "在这个过程中，他滑雪了1150多公里。"
+        }
+      ]
+    },
+    {
+      "def": "to spend time skiing for pleasure 滑雪（作为娱乐）",
+      "ex": [
+        {
+          "s": "As a photographer I love the bright light and amazing colours: red rocks, green plants blue-green waters and blue skies.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "作为一名摄影师，我喜爱明亮的光线和惊人的色彩：红色的岩石、绿色的植物、蓝绿色的水和蓝天。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "ski race",
+      "cn": "滑雪板 赛跑",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "skies above",
+      "cn": "天 在… 上面",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the skies above",
+      "cn": "该 天 在… 上面",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "skies never",
+      "cn": "天 从不",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the skies never",
+      "cn": "该 天 从不",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "perfect the skies",
+      "cn": "完备的 该 天",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "ski race zhangjiakou",
+      "cn": "滑雪板 赛跑",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "youth ski",
+      "cn": "青年时期 滑雪板",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

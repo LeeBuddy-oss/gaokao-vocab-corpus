@@ -1,1 +1,150 @@
-{"meta": {"ph": "dʒiːn; NAmE dʒiːn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a unit inside a cell which controls a particular quality in a living thing that has been passed on from its parents 基因", "ex": [{"s": "This allows the Salk team to determine what genes are most beneficial to their plant designs.", "src": "2026浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "这使 Salk 团队能够确定哪些基因对他们的植物设计最有益。"}, {"s": "Identify genes for desirable plant roots.", "src": "2026浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "识别理想植物根系所需的基因。"}, {"s": "Preserve the genes of endangered plants.", "src": "2026浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "保护濒危植物的基因。"}, {"s": "She also said there were likely a number of other genes that help the Bajau dive.", "src": "2020全国III卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "她还说，可能还有若干其他基因帮助巴瑶族潜水。"}, {"s": "Multiple genes behaved differently, depending on whether someone had eaten or not before walking.", "src": "2020江苏卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "多个基因的表现因人是否在步行前进食而有所不同。"}, {"s": "These genes were much more active when the men had fasted before exercise than when they had breakfasted.", "src": "2020江苏卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "这些基因在男性运动前禁食时比吃早餐时活跃得多。"}, {"s": "A workout after breakfast improves gene performances.", "src": "2020江苏卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "早餐后锻炼能改善基因表现。"}, {"s": "It depending on NASA HUNCH high school class, like the one science teachers Gene Gordon and Donna Himmelberg lead at Fairport High School in Fairport, New York.", "src": "2019全国II卷·阅读理解D", "cat": "gaokao", "year": 2019, "t": "这依赖于NASA HUNCH高中课程，比如纽约州费尔波特费尔波特高中科学教师吉恩·戈登和多娜·希梅尔伯格所带领的那个班级。"}, {"s": "In fact, good friends can share up to 1% of the same genes - as much as we might share with our great-great-great grandparents!", "src": "外研社B1 U4", "cat": "waiyan", "t": "事实上，好朋友可以共享多达1%的相同基因——和我们与曾曾曾祖父母共享的基因一样多！"}, {"s": "The nucleus of this cell contains all the genes needed to produce a new sheep.", "src": "人教选必1 U5", "cat": "renjiao", "t": "这个细胞的细胞核包含所有繁育一只新羊所需的基因。"}, {"s": "Longevity is one of the modern world's great successes and science is beginning to find evidence that our genes have a lot to do with whether we will live a longer life.", "src": "北师大选必3 U9", "cat": "beishida", "t": "长寿是现代社会的一大成功，科学开始发现证据表明，我们的基因在很大程度上决定了我们是否能活得更长。"}, {"s": "Researchers at Harvard Medical School intheUS areconvinced theyhavefound aso called \"longevity gene\" and are testing whether the addition of this gene to mice extends their lives.", "src": "北师大选必3 U9", "cat": "beishida", "t": "美国哈佛医学院的研究人员确信他们已经找到了所谓的\"长寿基因\"，并正在测试将这种基因添加到老鼠体内是否能延长它们的寿命。"}, {"s": "The long-term aim is to find a way of manipulating the gene to add an extra decade or two to human life with gene therapy.", "src": "北师大选必3 U9", "cat": "beishida", "t": "长期目标是找到操纵这种基因的方法，通过基因疗法为人类寿命增加十年或二十年。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "dʒiːn; NAmE dʒiːn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a unit inside a cell which controls a particular quality in a living thing that has been passed on from its parents 基因",
+      "ex": [
+        {
+          "s": "This allows the Salk team to determine what genes are most beneficial to their plant designs.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这使 Salk 团队能够确定哪些基因对他们的植物设计最有益。"
+        },
+        {
+          "s": "Identify genes for desirable plant roots.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "识别理想植物根系所需的基因。"
+        },
+        {
+          "s": "Preserve the genes of endangered plants.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "保护濒危植物的基因。"
+        },
+        {
+          "s": "She also said there were likely a number of other genes that help the Bajau dive.",
+          "src": "2020全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "她还说，可能还有若干其他基因帮助巴瑶族潜水。"
+        },
+        {
+          "s": "Multiple genes behaved differently, depending on whether someone had eaten or not before walking.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "多个基因的表现因人是否在步行前进食而有所不同。"
+        },
+        {
+          "s": "These genes were much more active when the men had fasted before exercise than when they had breakfasted.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这些基因在男性运动前禁食时比吃早餐时活跃得多。"
+        },
+        {
+          "s": "A workout after breakfast improves gene performances.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "早餐后锻炼能改善基因表现。"
+        },
+        {
+          "s": "It depending on NASA HUNCH high school class, like the one science teachers Gene Gordon and Donna Himmelberg lead at Fairport High School in Fairport, New York.",
+          "src": "2019全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这依赖于NASA HUNCH高中课程，比如纽约州费尔波特费尔波特高中科学教师吉恩·戈登和多娜·希梅尔伯格所带领的那个班级。"
+        },
+        {
+          "s": "In fact, good friends can share up to 1% of the same genes - as much as we might share with our great-great-great grandparents!",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "事实上，好朋友可以共享多达1%的相同基因——和我们与曾曾曾祖父母共享的基因一样多！"
+        },
+        {
+          "s": "The nucleus of this cell contains all the genes needed to produce a new sheep.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "这个细胞的细胞核包含所有繁育一只新羊所需的基因。"
+        },
+        {
+          "s": "Longevity is one of the modern world's great successes and science is beginning to find evidence that our genes have a lot to do with whether we will live a longer life.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "长寿是现代社会的一大成功，科学开始发现证据表明，我们的基因在很大程度上决定了我们是否能活得更长。"
+        },
+        {
+          "s": "Researchers at Harvard Medical School intheUS areconvinced theyhavefound aso called \"longevity gene\" and are testing whether the addition of this gene to mice extends their lives.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "美国哈佛医学院的研究人员确信他们已经找到了所谓的\"长寿基因\"，并正在测试将这种基因添加到老鼠体内是否能延长它们的寿命。"
+        },
+        {
+          "s": "The long-term aim is to find a way of manipulating the gene to add an extra decade or two to human life with gene therapy.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "长期目标是找到操纵这种基因的方法，通过基因疗法为人类寿命增加十年或二十年。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "determine what genes",
+      "cn": "查明 什么 基因",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "genes are most beneficial",
+      "cn": "基因 是 最多",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "identify genes",
+      "cn": "确认 基因",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "genes for desirable",
+      "cn": "基因 为了",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "genes of endangered",
+      "cn": "基因 的 濒危的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "preserve the genes",
+      "cn": "保护 该 基因",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "genes that help",
+      "cn": "基因 那个 帮助",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "genes behaved",
+      "cn": "基因 表现",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

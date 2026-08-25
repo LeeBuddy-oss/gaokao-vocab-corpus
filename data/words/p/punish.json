@@ -1,1 +1,90 @@
-{"meta": {"ph": "ˈpʌnɪʃ; NAmE ˈpʌnɪʃ", "pos": "verb", "stars": ""}, "defs": [{"def": "to make sb suffer because they have broken the law or done sth wrong 处罚；惩罚", "ex": [{"s": "You have forgotten an unfortunate person who attempted to kidnap you one night, this same person to whom you showed kindness when he was being punished.", "src": "外研社B6 U1", "cat": "waiyan", "t": "毕竟，如果我们不照顾好我们的世界，它就不会持续很久。"}, {"s": "We could also say You have forgotten an unfortunate person who tried to take you away one night, but you showed kindness to this same person when he was being punished.", "src": "外研社B6 U6", "cat": "waiyan", "t": "我们也可以说：你忘记了一个不幸的人，他曾在一夜之间企图把你带走，但当同一个人受到惩罚时，你却对他施以了仁慈。"}, {"s": "Please don't think I am writing this letter to punish you or to nag you.", "src": "北师大选必2 U6", "cat": "beishida", "t": "请不要以为我写这封信是为了惩罚你或唠叨你。"}, {"s": "DUKE: He will do this, or he will be punished with death.", "src": "北师大选必4 U10", "cat": "beishida", "t": "公爵：他必须这样做，否则将被处以死刑。"}, {"s": "He sat there, 4 He was punished by his teacher, because he had not finished his homework , he was punished by his teacher.", "src": "译林B3 U4", "cat": "yilin", "t": "他坐在那里，他因为没有完成作业而被老师惩罚了，他被老师惩罚了。"}]}, {"def": "to set the punishment for a particular crime 对 … 判罪；判定 … 的处罚方式", "ex": []}, {"def": "to blame yourself for sth that has happened 责怪（自己）；自责", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈpʌnɪʃ; NAmE ˈpʌnɪʃ",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to make sb suffer because they have broken the law or done sth wrong 处罚；惩罚",
+      "ex": [
+        {
+          "s": "You have forgotten an unfortunate person who attempted to kidnap you one night, this same person to whom you showed kindness when he was being punished.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "毕竟，如果我们不照顾好我们的世界，它就不会持续很久。"
+        },
+        {
+          "s": "We could also say You have forgotten an unfortunate person who tried to take you away one night, but you showed kindness to this same person when he was being punished.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说：你忘记了一个不幸的人，他曾在一夜之间企图把你带走，但当同一个人受到惩罚时，你却对他施以了仁慈。"
+        },
+        {
+          "s": "Please don't think I am writing this letter to punish you or to nag you.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "t": "请不要以为我写这封信是为了惩罚你或唠叨你。"
+        },
+        {
+          "s": "DUKE: He will do this, or he will be punished with death.",
+          "src": "北师大选必4 U10",
+          "cat": "beishida",
+          "t": "公爵：他必须这样做，否则将被处以死刑。"
+        },
+        {
+          "s": "He sat there, 4 He was punished by his teacher, because he had not finished his homework , he was punished by his teacher.",
+          "src": "译林B3 U4",
+          "cat": "yilin",
+          "t": "他坐在那里，他因为没有完成作业而被老师惩罚了，他被老师惩罚了。"
+        }
+      ]
+    },
+    {
+      "def": "to set the punishment for a particular crime 对 … 判罪；判定 … 的处罚方式",
+      "ex": []
+    },
+    {
+      "def": "to blame yourself for sth that has happened 责怪（自己）；自责",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "punished by his",
+      "cn": "处罚 通过 他的",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "he was punished",
+      "cn": "他 是 处罚",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "punish you",
+      "cn": "处罚 你",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to punish you",
+      "cn": "去 处罚 你",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "letter to punish",
+      "cn": "信 去 处罚",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "punished with death",
+      "cn": "处罚 与 死",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

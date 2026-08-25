@@ -291,5 +291,54 @@
       "ex": []
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "someone else",
+      "cn": "其他的",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "anything else",
+      "cn": "任何东西 其他的",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "anyone else",
+      "cn": "其他的",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "everyone else",
+      "cn": "其他的",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "something else",
+      "cn": "某事 其他的",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "everything else",
+      "cn": "每件事 其他的",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "when everyone else",
+      "cn": "当 其他的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "anywhere else",
+      "cn": "在任何地方 其他的",
+      "type": "名词短语",
+      "count": 2
+    }
+  ]
 }

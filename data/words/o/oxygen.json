@@ -1,1 +1,136 @@
-{"meta": {"ph": "ˈɒksɪdʒən; NAmE ˈɑːksɪdʒən", "pos": "noun", "stars": "★"}, "defs": [{"def": "a chemical element. Oxygen is a gas that is present in air and water and is necessary for people, animals and plants to live. 氧；氧气", "ex": [{"s": "As we age, even if we're healthy, the heart just isn't as efficient in processing oxygen as it used to be.", "src": "2022全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "随着年龄增长，即使我们身体健康，心脏在处理氧气时也不如从前那么高效了。"}, {"s": "Rainforests are the lungs of the planet-storing vast quantities of carbon dioxide and producing a significant amount of the world's oxygen.", "src": "2020全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "令人惊奇的是，这些树的生长方式使得它们的叶子和枝条虽然紧密相邻，却从不真正接触另一棵树的叶子和枝条。"}, {"s": "They produce oxygen.", "src": "2020全国新高考II卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "它们覆盖广阔的区域。"}, {"s": "37      If the air you’re breathing is clean-which it would be if you’re away from the smog of cities-then the air is filled with life-giving，energizing oxygen.", "src": "2019全国I卷·Is Fresh Air Really Good for You?", "cat": "gaokao", "year": 2019, "t": "37      如果你呼吸的空气是干净的——当你远离城市的烟雾时确实如此——那么空气中充满了赋予生命、充满活力的氧气。"}, {"s": "To do CPR, you press on the sick person’s chest so that blood moves through the body and takes oxygen to organs.", "src": "2017北京卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "做心肺复苏时，你按压病人的胸部，让血液流经全身，把氧气输送到各个器官。"}, {"s": "Without oxygen the brain is damaging quickly.", "src": "2017北京卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "没有氧气，大脑会迅速受损。"}, {"s": "Not only do they provide us with food, clothes and oxygen to breathe, but they also make our surroundings more beautiful.", "src": "外研社B1 U6", "cat": "waiyan", "t": "它们不仅为我们提供食物、衣物和呼吸所需的氧气，还使我们周围的环境更加美丽。"}, {"s": "The South-east Ridge Route on Qomolangma SUMMIT: 8,844m DEATH ZONE 8,000 m above sea level Only 30% as much oxygen as available at sea level.", "src": "外研社B3 U5", "cat": "waiyan", "t": "珠峰东南山脊路线 顶峰：8844米 死亡地带 海拔8000米 只有海平面含氧量的30%。"}, {"s": "To make sure we stayed healthy, several oxygen-making stations were constructed.", "src": "外研社B4 U6", "cat": "waiyan", "t": "为了确保我们保持健康，建起了几个制氧站。"}, {"s": "The “closed” concept meant that the space was designed to function with its own oxygen, food and water, needing nothing from the outside world.", "src": "外研社B5 U6", "cat": "waiyan", "t": "\"封闭\"的概念意味着这个空间被设计为依靠自身的氧气、食物和水来运作，无需外部世界的任何供给。"}, {"s": "Water and oxygen were my biggest worries at first, but I’ve discovered an underground ice deposit nearby.", "src": "外研社B5 U6", "cat": "waiyan", "t": "水和氧气最初是我最大的担忧，但我已经在附近发现了一处地下冰层。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈɒksɪdʒən; NAmE ˈɑːksɪdʒən",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a chemical element. Oxygen is a gas that is present in air and water and is necessary for people, animals and plants to live. 氧；氧气",
+      "ex": [
+        {
+          "s": "As we age, even if we're healthy, the heart just isn't as efficient in processing oxygen as it used to be.",
+          "src": "2022全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "随着年龄增长，即使我们身体健康，心脏在处理氧气时也不如从前那么高效了。"
+        },
+        {
+          "s": "Rainforests are the lungs of the planet-storing vast quantities of carbon dioxide and producing a significant amount of the world's oxygen.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "令人惊奇的是，这些树的生长方式使得它们的叶子和枝条虽然紧密相邻，却从不真正接触另一棵树的叶子和枝条。"
+        },
+        {
+          "s": "They produce oxygen.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它们覆盖广阔的区域。"
+        },
+        {
+          "s": "37      If the air you’re breathing is clean-which it would be if you’re away from the smog of cities-then the air is filled with life-giving，energizing oxygen.",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "37      如果你呼吸的空气是干净的——当你远离城市的烟雾时确实如此——那么空气中充满了赋予生命、充满活力的氧气。"
+        },
+        {
+          "s": "To do CPR, you press on the sick person’s chest so that blood moves through the body and takes oxygen to organs.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "做心肺复苏时，你按压病人的胸部，让血液流经全身，把氧气输送到各个器官。"
+        },
+        {
+          "s": "Without oxygen the brain is damaging quickly.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "没有氧气，大脑会迅速受损。"
+        },
+        {
+          "s": "Not only do they provide us with food, clothes and oxygen to breathe, but they also make our surroundings more beautiful.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "它们不仅为我们提供食物、衣物和呼吸所需的氧气，还使我们周围的环境更加美丽。"
+        },
+        {
+          "s": "The South-east Ridge Route on Qomolangma SUMMIT: 8,844m DEATH ZONE 8,000 m above sea level Only 30% as much oxygen as available at sea level.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "珠峰东南山脊路线 顶峰：8844米 死亡地带 海拔8000米 只有海平面含氧量的30%。"
+        },
+        {
+          "s": "To make sure we stayed healthy, several oxygen-making stations were constructed.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "为了确保我们保持健康，建起了几个制氧站。"
+        },
+        {
+          "s": "The “closed” concept meant that the space was designed to function with its own oxygen, food and water, needing nothing from the outside world.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "\"封闭\"的概念意味着这个空间被设计为依靠自身的氧气、食物和水来运作，无需外部世界的任何供给。"
+        },
+        {
+          "s": "Water and oxygen were my biggest worries at first, but I’ve discovered an underground ice deposit nearby.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "水和氧气最初是我最大的担忧，但我已经在附近发现了一处地下冰层。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "processing oxygen",
+      "cn": "过程 氧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "in processing oxygen",
+      "cn": "在…里 过程 氧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "oxygen as it used",
+      "cn": "氧 作为 它 习惯于",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "world's oxygen",
+      "cn": "世界 氧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the world's oxygen",
+      "cn": "该 世界 氧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "produce oxygen",
+      "cn": "生产 氧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "they produce oxygen",
+      "cn": "他们 生产 氧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "energizing oxygen",
+      "cn": "氧",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

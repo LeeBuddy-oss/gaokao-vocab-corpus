@@ -1,1 +1,92 @@
-{"meta": {"ph": "ɪnˈkredəbl; NAmE ɪnˈkredəbl", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "impossible or very difficult to believe 不能相信的；难以置信的", "ex": [{"s": "Incredible photography of them in the wild.", "src": "外研社B2 U4", "cat": "waiyan", "t": "令人难以置信的野生动物摄影。"}, {"s": "People who travel aboard the Bernina Express have the chance to see incredible views.", "src": "外研社B2 U5", "cat": "waiyan", "t": "乘坐伯尔尼纳快车旅行的人们有机会看到令人难以置信的景色。"}, {"s": "But what remains important is that we have an incredible desire to think and create, and that’s the real spirit of invention.", "src": "外研社B3 U3", "cat": "waiyan", "t": "但依然重要的是，我们有一种令人难以置信的思考和创造的欲望，这才是真正的发明精神。"}, {"s": "The skill of the sculptor is just incredible.", "src": "外研社B3 U4", "cat": "waiyan", "t": "雕刻师的技术简直令人难以置信。"}]}, {"def": "extremely good or extremely large 极好的；极大的", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ɪnˈkredəbl; NAmE ɪnˈkredəbl",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "impossible or very difficult to believe 不能相信的；难以置信的",
+      "ex": [
+        {
+          "s": "Incredible photography of them in the wild.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "令人难以置信的野生动物摄影。"
+        },
+        {
+          "s": "People who travel aboard the Bernina Express have the chance to see incredible views.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "乘坐伯尔尼纳快车旅行的人们有机会看到令人难以置信的景色。"
+        },
+        {
+          "s": "But what remains important is that we have an incredible desire to think and create, and that’s the real spirit of invention.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "但依然重要的是，我们有一种令人难以置信的思考和创造的欲望，这才是真正的发明精神。"
+        },
+        {
+          "s": "The skill of the sculptor is just incredible.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "雕刻师的技术简直令人难以置信。"
+        }
+      ]
+    },
+    {
+      "def": "extremely good or extremely large 极好的；极大的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "incredible photography",
+      "cn": "不能相信的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "incredible views",
+      "cn": "不能相信的 看法",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "see incredible",
+      "cn": "看见 不能相信的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "to see incredible",
+      "cn": "去 看见 不能相信的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "incredible desire",
+      "cn": "不能相信的 愿望",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "an incredible desire",
+      "cn": "一个 不能相信的 愿望",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "just incredible",
+      "cn": "正好 不能相信的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "is just incredible",
+      "cn": "是 正好 不能相信的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

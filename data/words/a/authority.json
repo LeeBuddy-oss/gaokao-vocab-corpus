@@ -1,1 +1,134 @@
-{"meta":{"ph":"ɔːˈθɒrəti; NAmE əˈθɔːrəti","pos":"noun","stars":"★"},"defs":[{"def":"the power to give orders to people 权力；威权；当权（地位）","ex":[]},{"def":"the power or right to do sth 权；职权","ex":[]},{"def":"official permission to do sth 批准；授权","ex":[]},{"def":"the people or an organization who have the power to make decisions or who have a particular area of responsibility in a country or region 当局；官方；当权者","ex":[{"s":"The authorities closed access to the bridge and tens of thousands of people made their way back to land.","src":"2020全国新高考II卷·阅读理解C","cat":"gaokao","t":"当局关闭了通往桥梁的通道，数万人返回了陆地。","year":2020},{"s":"The environmental challenges are   48   but the efforts made by the Tanzania National Park Authority seem to be   49  .","src":"2019全国I卷·完形填空","cat":"gaokao","t":"环境挑战为48个，但坦桑尼亚国家公园管理局的努力似乎为49个。","year":2019},{"s":"The first is that antitrust authorities need to move from the industrial age into the 21st century.","src":"2017江苏卷·阅读理解C","cat":"gaokao","t":"第一个是反垄断机构需要从工业时代迈入21世纪。","year":2017},{"s":"B: The authorities are under pressure to build elephant parks and tell people not to buy elephant products.","src":"人教B2 U2","cat":"renjiao","t":"当局面临压力，要建大象公园，并告诉人们不要购买大象制品。","year":""}]},{"def":"the power to influence people because they respect your knowledge or official position 权威；威信；影响力","ex":[{"s":"Creativity results from challenging authority.","src":"2020天津6月卷·阅读理解D","cat":"gaokao","t":"创造力源于对权威的挑战。","year":2020},{"s":"These measures aim to give stability to conflict zones and allow governments to reestablish authority.","src":"外研社B6 U3","cat":"waiyan","t":"这些措施旨在为冲突地区带来稳定，并让政府重新确立权威。","year":""},{"s":"In the headmaster’s office, my father listened attentively, and then spoke with quiet authority: “I trust my son.","src":"2025北京卷·完形填空","cat":"gaokao","t":"在校长办公室里，父亲专注地听着，然后以沉静的威严说道：“我相信我的儿子。”","year":2025}]},{"def":"a person with special knowledge 专家；学术权威；泰斗","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ɔːˈθɒrəti; NAmE əˈθɔːrəti",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the power to give orders to people 权力；威权；当权（地位）",
+      "ex": []
+    },
+    {
+      "def": "the power or right to do sth 权；职权",
+      "ex": []
+    },
+    {
+      "def": "official permission to do sth 批准；授权",
+      "ex": []
+    },
+    {
+      "def": "the people or an organization who have the power to make decisions or who have a particular area of responsibility in a country or region 当局；官方；当权者",
+      "ex": [
+        {
+          "s": "The authorities closed access to the bridge and tens of thousands of people made their way back to land.",
+          "src": "2020全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "当局关闭了通往桥梁的通道，数万人返回了陆地。",
+          "year": 2020
+        },
+        {
+          "s": "The environmental challenges are   48   but the efforts made by the Tanzania National Park Authority seem to be   49  .",
+          "src": "2019全国I卷·完形填空",
+          "cat": "gaokao",
+          "t": "环境挑战为48个，但坦桑尼亚国家公园管理局的努力似乎为49个。",
+          "year": 2019
+        },
+        {
+          "s": "The first is that antitrust authorities need to move from the industrial age into the 21st century.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "第一个是反垄断机构需要从工业时代迈入21世纪。",
+          "year": 2017
+        },
+        {
+          "s": "B: The authorities are under pressure to build elephant parks and tell people not to buy elephant products.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "当局面临压力，要建大象公园，并告诉人们不要购买大象制品。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "the power to influence people because they respect your knowledge or official position 权威；威信；影响力",
+      "ex": [
+        {
+          "s": "Creativity results from challenging authority.",
+          "src": "2020天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "创造力源于对权威的挑战。",
+          "year": 2020
+        },
+        {
+          "s": "These measures aim to give stability to conflict zones and allow governments to reestablish authority.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "这些措施旨在为冲突地区带来稳定，并让政府重新确立权威。",
+          "year": ""
+        },
+        {
+          "s": "In the headmaster’s office, my father listened attentively, and then spoke with quiet authority: “I trust my son.",
+          "src": "2025北京卷·完形填空",
+          "cat": "gaokao",
+          "t": "在校长办公室里，父亲专注地听着，然后以沉静的威严说道：“我相信我的儿子。”",
+          "year": 2025
+        }
+      ]
+    },
+    {
+      "def": "a person with special knowledge 专家；学术权威；泰斗",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "authorities closed",
+      "cn": "权力 关",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the authorities closed",
+      "cn": "该 权力 关",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "authority seem",
+      "cn": "权力 不用于进行时",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "park authority",
+      "cn": "公园 权力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "national park authority",
+      "cn": "国家的 公园 权力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "authorities need",
+      "cn": "权力 需要",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "antitrust authorities",
+      "cn": "权力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "that antitrust authorities",
+      "cn": "那个 权力",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

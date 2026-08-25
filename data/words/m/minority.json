@@ -1,1 +1,103 @@
-{"meta":{"ph":"maɪˈnɒrəti; NAmE maɪˈnɔːrəti","pos":"noun","stars":"★★"},"defs":[{"def":"the smaller part of a group; less than half of the people or things in a large group 少数；少数派；少数人","ex":[{"s":"According to the “2017 Hollywood Diversity Report”, to get roles in American film and television is no longer quite so difficult for women and minorities.","src":"外研社B5 U4","cat":"waiyan","t":"根据《2017年好莱坞多样性报告》，对女性和少数族裔来说，在美国影视中获取角色不再那么困难。"},{"s":"The report analysed 200 films released in 2015 and 1,206 TV shows from 2014 to 2015, and discovered that to become a leading actor in Hollywood is now a more realistic hope for minority actors.","src":"外研社B5 U4","cat":"waiyan","t":"该报告分析了2015年发行的200部电影和2014至2015年的1206部电视剧，发现如今对少数族裔演员来说，成为好莱坞主角已是更现实的希望。"}]},{"def":"a small group within a community or country that is different because of race, religion, language, etc. 少数派；少数民族；少数群体","ex":[{"s":"Time: On the third day of the third month of the Chinese lunar year Place: In the Guangxi Zhuang Autonomous Region Ethnic minority group: The Zhuang people Festival activities: Sing songs, ...","src":"人教B3 U1","cat":"renjiao","t":"时间：中国农历三月初三　地点：广西壮族自治区　少数民族：壮族　节日活动：唱山歌……"},{"s":"Apart from being the kingdom of flowers, it is home to many ethnic minority groups.","src":"人教B3 U3","cat":"renjiao","t":"除了是花之王国，它也是许多少数民族的家园。"},{"s":"Linlin: And I strongly recommend the ethnic minority villages.","src":"人教B3 U3","cat":"renjiao","t":"琳琳：我强烈推荐少数民族村寨。"}]},{"def":"the state of being under the age at which you are legally an adult 未成年","ex":[]}],"chunks":[{"en":"ethnic minority","cn":"民族的少数派","type":"名词短语","count":3}]}
+{
+  "meta": {
+    "ph": "maɪˈnɒrəti; NAmE maɪˈnɔːrəti",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the smaller part of a group; less than half of the people or things in a large group 少数；少数派；少数人",
+      "ex": [
+        {
+          "s": "According to the “2017 Hollywood Diversity Report”, to get roles in American film and television is no longer quite so difficult for women and minorities.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "根据《2017年好莱坞多样性报告》，对女性和少数族裔来说，在美国影视中获取角色不再那么困难。"
+        },
+        {
+          "s": "The report analysed 200 films released in 2015 and 1,206 TV shows from 2014 to 2015, and discovered that to become a leading actor in Hollywood is now a more realistic hope for minority actors.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "该报告分析了2015年发行的200部电影和2014至2015年的1206部电视剧，发现如今对少数族裔演员来说，成为好莱坞主角已是更现实的希望。"
+        }
+      ]
+    },
+    {
+      "def": "a small group within a community or country that is different because of race, religion, language, etc. 少数派；少数民族；少数群体",
+      "ex": [
+        {
+          "s": "Time: On the third day of the third month of the Chinese lunar year Place: In the Guangxi Zhuang Autonomous Region Ethnic minority group: The Zhuang people Festival activities: Sing songs, ...",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "时间：中国农历三月初三　地点：广西壮族自治区　少数民族：壮族　节日活动：唱山歌……"
+        },
+        {
+          "s": "Apart from being the kingdom of flowers, it is home to many ethnic minority groups.",
+          "src": "人教B3 U3",
+          "cat": "renjiao",
+          "t": "除了是花之王国，它也是许多少数民族的家园。"
+        },
+        {
+          "s": "Linlin: And I strongly recommend the ethnic minority villages.",
+          "src": "人教B3 U3",
+          "cat": "renjiao",
+          "t": "琳琳：我强烈推荐少数民族村寨。"
+        }
+      ]
+    },
+    {
+      "def": "the state of being under the age at which you are legally an adult 未成年",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "ethnic minority",
+      "cn": "民族的 少数",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "women and minorities",
+      "cn": "与 少数",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "minority actors",
+      "cn": "少数",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "for minority actors",
+      "cn": "为了 少数",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hope for minority",
+      "cn": "希望 为了 少数",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "minority group",
+      "cn": "少数 组",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "ethnic minority group",
+      "cn": "民族的 少数 组",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "region ethnic minority",
+      "cn": "地区 民族的 少数",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

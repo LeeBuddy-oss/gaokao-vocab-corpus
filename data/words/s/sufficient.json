@@ -1,1 +1,101 @@
-{"meta": {"ph": "səˈfɪʃnt; NAmE səˈfɪʃnt", "pos": "adj.", "stars": "★"}, "defs": [{"def": "enough for a particular purpose; as much as you need 足够的；充足的adv.", "ex": [{"s": "Scientific research is guaranteed by sufficient lab facilities.", "src": "2024天津3月卷·Passage 4", "cat": "gaokao", "year": 2024, "t": "充足的实验室设施保障了科学研究的开展。"}, {"s": "Make sure you have sufficient food, water, medicine and batteries for electrical appliances.", "src": "外研社B3 U6", "cat": "waiyan", "t": "确保你有充足的食物、水、药品以及电器用的电池。"}, {"s": "Will scientists figure out a way (store) sufficient food and water for the long journey?", "src": "人教B3 U4", "cat": "renjiao", "t": "科学家们会想出一种方法(储存) 足够的食物和水来进行漫长的旅程吗？"}, {"s": "Therefore, there is still a long way to find a suitable solution that puts sufficient food on the dinner table while keeping people and the environment as healthy as possible.", "src": "人教选必1 U5", "cat": "renjiao", "t": "因此，仍然有很长的路要走，才能找到一个合适的解决办法，把足够的食物放在餐桌上，同时使人们和环境尽可能健康。"}, {"s": "Although her husband's income is sufficient for their needs, Mathilde still dreams of being wealthy.", "src": "北师大选必1 U3", "cat": "beishida", "t": "虽然她丈夫的收入足以满足他们的需要，但玛蒂尔德仍然梦想着富有。"}, {"s": "The trials on patients were likely to be postponed because they did not have sufficient safety data.", "src": "译林B3 U4", "cat": "yilin", "t": "对患者的试验可能会被推迟，因为他们没有足够的安全数据。"}]}], "chunks": [{"en": "be sufficient for", "cn": "足够的", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "səˈfɪʃnt; NAmE səˈfɪʃnt",
+    "pos": "adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "enough for a particular purpose; as much as you need 足够的；充足的adv.",
+      "ex": [
+        {
+          "s": "Scientific research is guaranteed by sufficient lab facilities.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "充足的实验室设施保障了科学研究的开展。"
+        },
+        {
+          "s": "Make sure you have sufficient food, water, medicine and batteries for electrical appliances.",
+          "src": "外研社B3 U6",
+          "cat": "waiyan",
+          "t": "确保你有充足的食物、水、药品以及电器用的电池。"
+        },
+        {
+          "s": "Will scientists figure out a way (store) sufficient food and water for the long journey?",
+          "src": "人教B3 U4",
+          "cat": "renjiao",
+          "t": "科学家们会想出一种方法(储存) 足够的食物和水来进行漫长的旅程吗？"
+        },
+        {
+          "s": "Therefore, there is still a long way to find a suitable solution that puts sufficient food on the dinner table while keeping people and the environment as healthy as possible.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "因此，仍然有很长的路要走，才能找到一个合适的解决办法，把足够的食物放在餐桌上，同时使人们和环境尽可能健康。"
+        },
+        {
+          "s": "Although her husband's income is sufficient for their needs, Mathilde still dreams of being wealthy.",
+          "src": "北师大选必1 U3",
+          "cat": "beishida",
+          "t": "虽然她丈夫的收入足以满足他们的需要，但玛蒂尔德仍然梦想着富有。"
+        },
+        {
+          "s": "The trials on patients were likely to be postponed because they did not have sufficient safety data.",
+          "src": "译林B3 U4",
+          "cat": "yilin",
+          "t": "对患者的试验可能会被推迟，因为他们没有足够的安全数据。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "sufficient food",
+      "cn": "足够的 食物",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "sufficient lab",
+      "cn": "足够的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "by sufficient lab",
+      "cn": "通过 足够的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "guaranteed by sufficient",
+      "cn": "保证 通过 足够的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sufficient food water",
+      "cn": "足够的 食物 水",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "have sufficient food",
+      "cn": "有 足够的 食物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "you have sufficient",
+      "cn": "你 有 足够的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "store sufficient",
+      "cn": "百货商店 足够的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

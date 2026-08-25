@@ -1,1 +1,142 @@
-{"meta": {"ph": "əˈpɔɪntmənt; NAmE əˈpɔɪntmənt", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a formal arrangement to meet or visit sb at a particular time, especially for a reason connected with their work 约会；预约；约定", "ex": [{"s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.", "src": "2024全国甲卷·阅读理解C", "cat": "gaokao", "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。", "year": 2024}, {"s": "You can also make appointments to meet with a career coach, access career resources, and explore careers that interest you.", "src": "2023天津3月卷·阅读理解A", "cat": "gaokao", "t": "你还可以预约与职业教练见面、获取职业资源，并探索你感兴趣的职业。", "year": 2023}, {"s": "To make an appointment.", "src": "2022新高考I卷", "cat": "gaokao", "t": "为了预约。", "year": 2022}, {"s": "To make an appointment.", "src": "2022浙江卷", "cat": "gaokao", "t": "为了预约。", "year": 2022}, {"s": "They take their driverless car to an appointment and set the empty vehicle to circle the building to avoid paying for parking.", "src": "2018北京卷·阅读理解D", "cat": "gaokao", "t": "他们开自动驾驶汽车赴约，让空车绕楼转圈以逃避停车费。", "year": 2018}, {"s": "She had an appointment to paint her nails, then she went into an expensive clothes shop.", "src": "人教选必4 U1", "cat": "renjiao", "t": "她预约了油漆指甲，然后去了一家昂贵的服装店。", "year": ""}, {"s": "I can't even imagine going without social networking for a 45 week - think of all the important appointments, invitations and news updates you would miss!", "src": "北师大选必1 U1", "cat": "beishida", "t": "我甚至无法想象45周没有社交网络-想想您会错过的所有重要约会，邀请和新闻更新！", "year": ""}, {"s": "It's an appointment made twenty years ago.", "src": "译林选必4 U1", "cat": "yilin", "t": "这是20年前的一次约会。", "year": ""}, {"s": "Bye, officer.\" The man who had come a thousand miles to keep an appointment with the friend of his youth smoked his cigar and waited.", "src": "译林选必4 U1", "cat": "yilin", "t": "再见，警官。”那个来千里之外和他年轻时朋友约会的人抽着雪茄等着。", "year": ""}, {"s": "Let's put off our appointment until next Monday, when we will be available.", "src": "译林选必4 U4", "cat": "yilin", "t": "让我们将预约推迟到下周一，届时我们将有空。", "year": ""}]}, {"def": "the act of choosing a person for a job or position of responsibility; the fact of being chosen for a job, etc. 任命；委任", "ex": []}, {"def": "a job or position of responsibility 职务；职位", "ex": []}], "chunks": [{"en": "make appointment", "cn": "做约会", "type": "动词短语", "count": 3}, {"en": "off appointment until", "cn": "约会", "type": "动词短语", "count": 1}, {"en": "appointment with", "cn": "与…的约会", "type": "名词短语", "count": 2}, {"en": "important appointments", "cn": "重要的约会", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "əˈpɔɪntmənt; NAmE əˈpɔɪntmənt",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a formal arrangement to meet or visit sb at a particular time, especially for a reason connected with their work 约会；预约；约定",
+      "ex": [
+        {
+          "s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.",
+          "src": "2024全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。",
+          "year": 2024
+        },
+        {
+          "s": "You can also make appointments to meet with a career coach, access career resources, and explore careers that interest you.",
+          "src": "2023天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "你还可以预约与职业教练见面、获取职业资源，并探索你感兴趣的职业。",
+          "year": 2023
+        },
+        {
+          "s": "To make an appointment.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "t": "为了预约。",
+          "year": 2022
+        },
+        {
+          "s": "To make an appointment.",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "t": "为了预约。",
+          "year": 2022
+        },
+        {
+          "s": "They take their driverless car to an appointment and set the empty vehicle to circle the building to avoid paying for parking.",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "他们开自动驾驶汽车赴约，让空车绕楼转圈以逃避停车费。",
+          "year": 2018
+        },
+        {
+          "s": "She had an appointment to paint her nails, then she went into an expensive clothes shop.",
+          "src": "人教选必4 U1",
+          "cat": "renjiao",
+          "t": "她预约了油漆指甲，然后去了一家昂贵的服装店。",
+          "year": ""
+        },
+        {
+          "s": "I can't even imagine going without social networking for a 45 week - think of all the important appointments, invitations and news updates you would miss!",
+          "src": "北师大选必1 U1",
+          "cat": "beishida",
+          "t": "我甚至无法想象45周没有社交网络-想想您会错过的所有重要约会，邀请和新闻更新！",
+          "year": ""
+        },
+        {
+          "s": "It's an appointment made twenty years ago.",
+          "src": "译林选必4 U1",
+          "cat": "yilin",
+          "t": "这是20年前的一次约会。",
+          "year": ""
+        },
+        {
+          "s": "Bye, officer.\" The man who had come a thousand miles to keep an appointment with the friend of his youth smoked his cigar and waited.",
+          "src": "译林选必4 U1",
+          "cat": "yilin",
+          "t": "再见，警官。”那个来千里之外和他年轻时朋友约会的人抽着雪茄等着。",
+          "year": ""
+        },
+        {
+          "s": "Let's put off our appointment until next Monday, when we will be available.",
+          "src": "译林选必4 U4",
+          "cat": "yilin",
+          "t": "让我们将预约推迟到下周一，届时我们将有空。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "the act of choosing a person for a job or position of responsibility; the fact of being chosen for a job, etc. 任命；委任",
+      "ex": []
+    },
+    {
+      "def": "a job or position of responsibility 职务；职位",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "make an appointment",
+      "cn": "制造 一个 约会",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "appointments by video",
+      "cn": "约会 通过 录像带",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "doctor s appointments",
+      "cn": "医生 约会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "make appointments",
+      "cn": "制造 约会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "appointments to meet",
+      "cn": "约会 去 相遇",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "also make appointments",
+      "cn": "也 制造 约会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "appointment and set",
+      "cn": "约会 与 放",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "appointment to paint",
+      "cn": "约会 去 油漆",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

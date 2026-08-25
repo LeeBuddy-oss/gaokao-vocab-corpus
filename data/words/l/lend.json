@@ -1,1 +1,171 @@
-{"meta": {"ph": "lend; NAmE lend", "pos": "verb", "stars": ""}, "defs": [{"def": "to give sth to sb or allow them to use sth that belongs to you, which they have to return to you later 借给；借出", "ex": [{"s": "Loan periods are established by the lending library.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "一切都感觉自由而轻松。", "_matched": true}, {"s": "Borrowed items are subject to recall by the lending library.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "成为一名成功的画家需要果断。", "_matched": true}, {"s": "Any restrictions established by the lending library will be indicated on the label.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "我意识到我一直害怕有太多的渴望。", "_matched": true}, {"s": "Pick it up at the lending library.", "src": "2025浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "我们可能永远无法知道它是否真实。", "_matched": true}, {"s": "Do not lose your card or lend it to others.", "src": "2020天津3月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "不要丢失你的卡或借给他人。"}, {"s": "Lend her some money.", "src": "2017重庆卷", "cat": "gaokao", "year": 2017, "t": "学生将要做的实验。", "_matched": true}, {"s": "The lady would get a call from a stranger every morning who   20   made her believe that he was her friend, and then she lent him about £3I,000 Jones was  21 when she said that she didn't actually   22   being cheated, “Otherwise, I would never speak to another person for weeks on end,” she said.", "src": "2020天津6月卷·书面表达", "cat": "gaokao", "year": 2020, "t": "这位女士每天早上会接到一个陌生人的电话，对方____让她相信他是她的朋友，于是她借给了他大约3.1万英镑。琼斯说她其实并不____被骗时，表示“否则我会连续几周都不跟任何人说话。”", "_matched": true}, {"s": "The money-lender must have total justice.", "src": "北师大选必4 U10", "cat": "beishida", "t": "放债人必须完全公正。"}, {"s": "You’re actually going to lend him money again?", "src": "外研社B1 U6", "cat": "waiyan", "t": "你真的要再借给他钱？"}]}, {"def": "to give money to sb on condition that they pay it back over a period of time and pay interest on it 银行或金融机构", "ex": []}, {"def": "to give a particular quality to a person or a situation 给 … 增加，增添（特色）", "ex": [{"s": "So if someone you know is feeling low, lend them an ear and try to cheer them up.", "src": "外研社B4 U2", "cat": "waiyan", "t": "因此，如果您认识的人情绪低落，请给他们一只耳朵，试着让他们振作起来。"}]}, {"def": "to give or provide help, support, etc. 给予，提供（帮助、支持等）", "ex": [{"s": "For most of this history, lenders relied mainly on their subjective judgement when deciding whether or not a borrower was creditworthy.", "src": "外研社B7 U4", "cat": "waiyan", "t": "在这段历史的大部分时间里，放贷人主要依赖主观判断来决定借款人是否值得授信。"}, {"s": "Whether we’re a lender or borrower, it’s a win-win situation; everyone makes or saves money.", "src": "外研社B7 U4", "cat": "waiyan", "t": "无论我们是贷款人还是借款人，这都是双赢局面；每个人都赚到钱或省下钱。"}]}, {"def": "to let it be known in public that you support or agree with sth 公开表示支持", "ex": []}, {"def": "to have a place named after you 以 … 的名字命名（某地方）", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "lend; NAmE lend",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to give sth to sb or allow them to use sth that belongs to you, which they have to return to you later 借给；借出",
+      "ex": [
+        {
+          "s": "Loan periods are established by the lending library.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "一切都感觉自由而轻松。",
+          "_matched": true
+        },
+        {
+          "s": "Borrowed items are subject to recall by the lending library.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "成为一名成功的画家需要果断。",
+          "_matched": true
+        },
+        {
+          "s": "Any restrictions established by the lending library will be indicated on the label.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我意识到我一直害怕有太多的渴望。",
+          "_matched": true
+        },
+        {
+          "s": "Pick it up at the lending library.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我们可能永远无法知道它是否真实。",
+          "_matched": true
+        },
+        {
+          "s": "Do not lose your card or lend it to others.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "不要丢失你的卡或借给他人。"
+        },
+        {
+          "s": "Lend her some money.",
+          "src": "2017重庆卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "学生将要做的实验。",
+          "_matched": true
+        },
+        {
+          "s": "The lady would get a call from a stranger every morning who   20   made her believe that he was her friend, and then she lent him about £3I,000 Jones was  21 when she said that she didn't actually   22   being cheated, “Otherwise, I would never speak to another person for weeks on end,” she said.",
+          "src": "2020天津6月卷·书面表达",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这位女士每天早上会接到一个陌生人的电话，对方____让她相信他是她的朋友，于是她借给了他大约3.1万英镑。琼斯说她其实并不____被骗时，表示“否则我会连续几周都不跟任何人说话。”",
+          "_matched": true
+        },
+        {
+          "s": "The money-lender must have total justice.",
+          "src": "北师大选必4 U10",
+          "cat": "beishida",
+          "t": "放债人必须完全公正。"
+        },
+        {
+          "s": "You’re actually going to lend him money again?",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "你真的要再借给他钱？"
+        }
+      ]
+    },
+    {
+      "def": "to give money to sb on condition that they pay it back over a period of time and pay interest on it 银行或金融机构",
+      "ex": []
+    },
+    {
+      "def": "to give a particular quality to a person or a situation 给 … 增加，增添（特色）",
+      "ex": [
+        {
+          "s": "So if someone you know is feeling low, lend them an ear and try to cheer them up.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "因此，如果您认识的人情绪低落，请给他们一只耳朵，试着让他们振作起来。"
+        }
+      ]
+    },
+    {
+      "def": "to give or provide help, support, etc. 给予，提供（帮助、支持等）",
+      "ex": [
+        {
+          "s": "For most of this history, lenders relied mainly on their subjective judgement when deciding whether or not a borrower was creditworthy.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "在这段历史的大部分时间里，放贷人主要依赖主观判断来决定借款人是否值得授信。"
+        },
+        {
+          "s": "Whether we’re a lender or borrower, it’s a win-win situation; everyone makes or saves money.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "无论我们是贷款人还是借款人，这都是双赢局面；每个人都赚到钱或省下钱。"
+        }
+      ]
+    },
+    {
+      "def": "to let it be known in public that you support or agree with sth 公开表示支持",
+      "ex": []
+    },
+    {
+      "def": "to have a place named after you 以 … 的名字命名（某地方）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "lending library",
+      "cn": "借给 图书馆",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "the lending library",
+      "cn": "该 借给 图书馆",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "lending library will",
+      "cn": "借给 图书馆 将",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "card or lend",
+      "cn": "卡片纸 或 借给",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "lend it to others",
+      "cn": "借给 它 去 另外",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lend her",
+      "cn": "借给 她的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lend him",
+      "cn": "借给 他",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to lend him",
+      "cn": "去 借给 他",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,172 @@
-{"meta": {"ph": "ɡes; NAmE ɡes", "pos": "verb", "stars": ""}, "defs": [{"def": "to try and give an answer or make a judgement about sth without being sure of all the facts 猜测；估计", "ex": [{"s": "Guess from the context.", "src": "2026新高考I卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "根据上下文猜测。"}, {"s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.", "src": "2021新高考II卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。"}, {"s": "They enjoy guessing callers’ identity.", "src": "2021全国乙卷·阅读理解B", "cat": "gaokao", "year": 2021, "t": "他们喜欢猜来电者的身份。"}, {"s": "Try to work out what type of word it is (noun, adjective, verb, etc), then use the words before and after it to help you guess the meaning.", "src": "外研社B1 U5", "cat": "waiyan", "t": "尝试确定它是什么类型的词(名词，形容词，动词等),然后使用它前后的词来帮助你猜测意义。"}, {"s": "It is impossible to know the meaning of every word, but knowing about word formation can help us guess their meanings.", "src": "外研社B1 U2", "cat": "waiyan", "t": "不可能知道每个单词的意思，但了解构词法可以帮助我们猜测词义。"}]}, {"def": "to find the right answer to a question or the truth without knowing all the facts 猜对；猜中；猜到", "ex": []}, {"def": "to suppose that sth is true or likely 想；以为", "ex": [{"s": "But that’s progress, I guess.”", "src": "2022全国甲卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "但这就是进步吧，我想。\""}, {"s": "“I guess this is it,” he said.", "src": "2020浙江1月卷·读后续写", "cat": "gaokao", "year": 2020, "t": "“我想就是这样了，”他说。"}, {"s": "（1分）﹣I guess you want to go play tennis．", "src": "2019天津卷", "cat": "gaokao", "year": 2019, "t": "1.（1分）——我猜你想去打网球。"}, {"s": "That way, you’ll make the most your time at senior high.” People say, “Well begun, half done.” I guess this was a good beginning to my new school life.", "src": "外研社B1 U1", "cat": "waiyan", "t": "那样的话，你就会充分利用你的高中时光。\"人们说：\"好的开始是成功的一半。\"我想这是我对新学校生活的一个良好开端。"}, {"s": "I guess love is indeed a magical ingredient.", "src": "外研社B1 U3", "cat": "waiyan", "t": "我想爱确实是一种神奇的成分。"}, {"s": "I guess I was better than the others, for Miss Chevalier asked a while later, “Addie, I was wondering if you would recite the whole poem to the Saturday evening’s club.” She said a famous professor was going to give a lecture about the poet, and a presentation of that poem would be a fresh way to start.", "src": "2024天津3月卷·阅读Passage 3", "cat": "gaokao", "year": 2024, "t": "我想我比其他人强一些，因为谢瓦利埃小姐过了一会儿问道：\"艾迪，我在想你是否愿意在周六晚上的读书会上把整首诗背诵出来。\"她说一位著名教授将要做一个关于这位诗人的讲座，而朗诵那首诗会是一个新颖的开场方式。"}, {"s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.", "src": "2021全国乙卷·阅读理解B", "cat": "gaokao", "year": 2021, "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"}]}, {"def": "（引出令人惊奇或激动的事）你猜", "ex": [{"s": "I guess that there's probably some demanding work schedule, or social anxiety around stepping up to help for an unknown sport.", "src": "2019全国II卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "我猜大概是有些苛刻的工作安排，或是对于为一个不熟悉的运动挺身相助的社会焦虑。"}, {"s": "And guess what almost half of the surveyed kids said they do before bedtime?", "src": "2017浙江6月卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "而且，你猜近一半受访的孩子说他们睡前会做什么？"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ɡes; NAmE ɡes",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to try and give an answer or make a judgement about sth without being sure of all the facts 猜测；估计",
+      "ex": [
+        {
+          "s": "Guess from the context.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "根据上下文猜测。"
+        },
+        {
+          "s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.",
+          "src": "2021新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。"
+        },
+        {
+          "s": "They enjoy guessing callers’ identity.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他们喜欢猜来电者的身份。"
+        },
+        {
+          "s": "Try to work out what type of word it is (noun, adjective, verb, etc), then use the words before and after it to help you guess the meaning.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "尝试确定它是什么类型的词(名词，形容词，动词等),然后使用它前后的词来帮助你猜测意义。"
+        },
+        {
+          "s": "It is impossible to know the meaning of every word, but knowing about word formation can help us guess their meanings.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "不可能知道每个单词的意思，但了解构词法可以帮助我们猜测词义。"
+        }
+      ]
+    },
+    {
+      "def": "to find the right answer to a question or the truth without knowing all the facts 猜对；猜中；猜到",
+      "ex": []
+    },
+    {
+      "def": "to suppose that sth is true or likely 想；以为",
+      "ex": [
+        {
+          "s": "But that’s progress, I guess.”",
+          "src": "2022全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "但这就是进步吧，我想。\""
+        },
+        {
+          "s": "“I guess this is it,” he said.",
+          "src": "2020浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“我想就是这样了，”他说。"
+        },
+        {
+          "s": "（1分）﹣I guess you want to go play tennis．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "1.（1分）——我猜你想去打网球。"
+        },
+        {
+          "s": "That way, you’ll make the most your time at senior high.” People say, “Well begun, half done.” I guess this was a good beginning to my new school life.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "那样的话，你就会充分利用你的高中时光。\"人们说：\"好的开始是成功的一半。\"我想这是我对新学校生活的一个良好开端。"
+        },
+        {
+          "s": "I guess love is indeed a magical ingredient.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我想爱确实是一种神奇的成分。"
+        },
+        {
+          "s": "I guess I was better than the others, for Miss Chevalier asked a while later, “Addie, I was wondering if you would recite the whole poem to the Saturday evening’s club.” She said a famous professor was going to give a lecture about the poet, and a presentation of that poem would be a fresh way to start.",
+          "src": "2024天津3月卷·阅读Passage 3",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我想我比其他人强一些，因为谢瓦利埃小姐过了一会儿问道：\"艾迪，我在想你是否愿意在周六晚上的读书会上把整首诗背诵出来。\"她说一位著名教授将要做一个关于这位诗人的讲座，而朗诵那首诗会是一个新颖的开场方式。"
+        },
+        {
+          "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
+        }
+      ]
+    },
+    {
+      "def": "（引出令人惊奇或激动的事）你猜",
+      "ex": [
+        {
+          "s": "I guess that there's probably some demanding work schedule, or social anxiety around stepping up to help for an unknown sport.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我猜大概是有些苛刻的工作安排，或是对于为一个不熟悉的运动挺身相助的社会焦虑。"
+        },
+        {
+          "s": "And guess what almost half of the surveyed kids said they do before bedtime?",
+          "src": "2017浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "而且，你猜近一半受访的孩子说他们睡前会做什么？"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "guess from the context",
+      "cn": "猜测 从 该 背景",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "cake guess",
+      "cn": "糕饼 猜测",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "guess which juice",
+      "cn": "猜测 哪个 果汁",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a cake guess",
+      "cn": "一个 糕饼 猜测",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "guessing callers",
+      "cn": "猜测",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "enjoy guessing",
+      "cn": "享受 … 的乐趣 猜测",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "they enjoy guessing",
+      "cn": "他们 享受 … 的乐趣 猜测",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "you guess",
+      "cn": "你 猜测",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

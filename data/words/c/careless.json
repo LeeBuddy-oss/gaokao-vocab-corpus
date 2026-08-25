@@ -1,1 +1,97 @@
-{"meta": {"ph": "ˈkeələs; NAmE ˈkerləs", "pos": "adj.", "stars": ""}, "defs": [{"def": "not giving enough attention and thought to what you are doing, so that you make mistakes 不小心的；不仔细的；粗心的", "ex": [{"s": "B this beautiful countryside is being spoiled by careless visitors C paper and plastic bags are still being thrown away by many tour groups D How can we make visitors more aware of the damage that is being done to the environment?", "src": "人教B2 U5", "cat": "renjiao", "year": "", "t": "B 这片美丽的乡村正被粗心的游客破坏　C 许多旅游团仍在乱扔纸袋和塑料袋　D 我们如何让游客更多地意识到对环境的破坏？"}, {"s": "Besides being brilliant, he was brave, though sometimes careless in what he said or did.", "src": "人教选必2 U1", "cat": "renjiao", "year": "", "t": "除了才华出众，他还很勇敢，尽管有时言行粗心。"}, {"s": "A ship without an anchor is at the mercy of the waves and winds; likewise, a person who has no sense of responsibility is at the mercy of their own careless and thoughtless behaviour.", "src": "译林选必4 U1", "cat": "yilin", "year": "", "t": "没有锚的船任凭风浪摆布；同理，没有责任感的人任凭自己粗心轻率的行为摆布。"}]}, {"def": "resulting from a lack of attention and thought 粗心造成的；疏忽引起的", "ex": []}, {"def": "not at all worried about sth 不担忧的；无忧无虑的", "ex": []}, {"def": "not showing interest or effort 淡漠的；不关心的；漫不经心的", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈkeələs; NAmE ˈkerləs",
+    "pos": "adj.",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "not giving enough attention and thought to what you are doing, so that you make mistakes 不小心的；不仔细的；粗心的",
+      "ex": [
+        {
+          "s": "B this beautiful countryside is being spoiled by careless visitors C paper and plastic bags are still being thrown away by many tour groups D How can we make visitors more aware of the damage that is being done to the environment?",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "B 这片美丽的乡村正被粗心的游客破坏　C 许多旅游团仍在乱扔纸袋和塑料袋　D 我们如何让游客更多地意识到对环境的破坏？"
+        },
+        {
+          "s": "Besides being brilliant, he was brave, though sometimes careless in what he said or did.",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "year": "",
+          "t": "除了才华出众，他还很勇敢，尽管有时言行粗心。"
+        },
+        {
+          "s": "A ship without an anchor is at the mercy of the waves and winds; likewise, a person who has no sense of responsibility is at the mercy of their own careless and thoughtless behaviour.",
+          "src": "译林选必4 U1",
+          "cat": "yilin",
+          "year": "",
+          "t": "没有锚的船任凭风浪摆布；同理，没有责任感的人任凭自己粗心轻率的行为摆布。"
+        }
+      ]
+    },
+    {
+      "def": "resulting from a lack of attention and thought 粗心造成的；疏忽引起的",
+      "ex": []
+    },
+    {
+      "def": "not at all worried about sth 不担忧的；无忧无虑的",
+      "ex": []
+    },
+    {
+      "def": "not showing interest or effort 淡漠的；不关心的；漫不经心的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "careless visitors",
+      "cn": "不小心的 来访者",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "by careless visitors",
+      "cn": "通过 不小心的 来访者",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "spoiled by careless",
+      "cn": "通过 不小心的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sometimes careless",
+      "cn": "有时 不小心的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "though sometimes careless",
+      "cn": "虽然 有时 不小心的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "careless in what he",
+      "cn": "不小心的 在…里 什么 他",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "careless and thoughtless",
+      "cn": "不小心的 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "their own careless",
+      "cn": "他们的 自己的 不小心的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

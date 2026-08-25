@@ -1,1 +1,95 @@
-{"meta": {"ph": "ˈsliːpi; NAmE ˈsliːpi", "pos": "adj.", "stars": "★"}, "defs": [{"def": "needing sleep; ready to go to sleep 困倦的；瞌睡的", "ex": [{"s": "Keep the room cool rather than warm to avoid feeling sleepy.", "src": "2021新高考II卷·七选五", "cat": "gaokao", "year": 2021, "t": "保持房间凉爽而不是温暖，以避免犯困。"}, {"s": "I often felt sleepy and dizzy, and lacked passion.", "src": "人教选必3 U2", "cat": "renjiao", "t": "我经常感到困倦和头晕，缺乏热情。"}, {"s": "Even if you have been studying for a long time and feeling sleepy and bored, laughingcanmakeyoufeel7 as if you had just had a nap!", "src": "北师大选必2 U4", "cat": "beishida", "t": "即使你已经学习了很长时间，感到困倦和无聊，大笑也能让你感觉7 好像刚刚打了个盹！"}]}, {"def": "quiet and where nothing much happens 地方", "ex": [{"s": "He is a star actor of Children’s Theatre, having played leading roles in “The Legend of Sleepy Hollow” and “The Wizard of Oz,” and is fresh from Jersey Production “Ragtime.”", "src": "2024浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2024, "t": "他是儿童剧院的明星演员，曾在《沉睡谷传奇》和《绿野仙踪》中担任主角，刚从Jersey制作《Ragtime》中走出。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈsliːpi; NAmE ˈsliːpi",
+    "pos": "adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "needing sleep; ready to go to sleep 困倦的；瞌睡的",
+      "ex": [
+        {
+          "s": "Keep the room cool rather than warm to avoid feeling sleepy.",
+          "src": "2021新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "保持房间凉爽而不是温暖，以避免犯困。"
+        },
+        {
+          "s": "I often felt sleepy and dizzy, and lacked passion.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "我经常感到困倦和头晕，缺乏热情。"
+        },
+        {
+          "s": "Even if you have been studying for a long time and feeling sleepy and bored, laughingcanmakeyoufeel7 as if you had just had a nap!",
+          "src": "北师大选必2 U4",
+          "cat": "beishida",
+          "t": "即使你已经学习了很长时间，感到困倦和无聊，大笑也能让你感觉7 好像刚刚打了个盹！"
+        }
+      ]
+    },
+    {
+      "def": "quiet and where nothing much happens 地方",
+      "ex": [
+        {
+          "s": "He is a star actor of Children’s Theatre, having played leading roles in “The Legend of Sleepy Hollow” and “The Wizard of Oz,” and is fresh from Jersey Production “Ragtime.”",
+          "src": "2024浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他是儿童剧院的明星演员，曾在《沉睡谷传奇》和《绿野仙踪》中担任主角，刚从Jersey制作《Ragtime》中走出。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "feeling sleepy",
+      "cn": "感觉 困倦的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "avoid feeling sleepy",
+      "cn": "避免 感觉 困倦的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "felt sleepy",
+      "cn": "困倦的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sleepy and dizzy",
+      "cn": "困倦的 与 头晕目眩的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "often felt sleepy",
+      "cn": "时常 困倦的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sleepy and bored",
+      "cn": "困倦的 与 厌倦的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "feeling sleepy and",
+      "cn": "感觉 困倦的 与",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and feeling sleepy",
+      "cn": "与 感觉 困倦的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

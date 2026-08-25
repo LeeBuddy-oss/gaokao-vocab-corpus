@@ -697,22 +697,52 @@
   ],
   "chunks": [
     {
-      "en": "for hours",
-      "cn": "数小时",
-      "type": "介词短语",
-      "count": 8
+      "en": "duration hours",
+      "cn": "持续时间 小时",
+      "type": "名词短语",
+      "count": 6
     },
     {
-      "en": "per hour",
-      "cn": "每小时",
-      "type": "介词短语",
+      "en": "hours per",
+      "cn": "小时 百分之 …adjecti",
+      "type": "动词短语",
       "count": 5
     },
     {
-      "en": "rush hour",
-      "cn": "高峰时段",
+      "en": "hours a day",
+      "cn": "小时 一个 一天",
+      "type": "动词短语",
+      "count": 5
+    },
+    {
+      "en": "per hour",
+      "cn": "百分之 …adjecti 小时",
       "type": "名词短语",
-      "count": 1
+      "count": 5
+    },
+    {
+      "en": "walk duration hours",
+      "cn": "走 持续时间 小时",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "hours per week",
+      "cn": "小时 百分之 …adjecti 周",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "hours later",
+      "cn": "小时 后来",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "hour and a half",
+      "cn": "小时 与 一个 一半",
+      "type": "动词短语",
+      "count": 4
     }
   ]
 }

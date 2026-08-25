@@ -1,1 +1,159 @@
-{"meta":{"ph":"ˈtreʒə(r); NAmE ˈtreʒər","pos":"noun","stars":""},"defs":[{"def":"a collection of valuable things such as gold, silver and jewellery 金银财宝；珠宝；财富","ex":[{"s":"Past experiences should be treasured.","src":"2021天津3月卷·阅读理解B","cat":"gaokao","year":2021,"t":"过去的经历应该珍惜。"},{"s":"treasure their freedom","src":"2021天津3月卷·阅读理解D","cat":"gaokao","year":2021,"t":"珍惜他们的自由"},{"s":"What made Adeline treasure the Purple Heart?","src":"2019浙江卷","cat":"gaokao","year":2019,"t":"是什么让阿德琳珍视这枚紫心勋章？"},{"s":"This delicious tour goes through the city on its way to Treasure Island where we will stop at the famous Winery SF.","src":"2017全国III卷·阅读理解A","cat":"gaokao","year":2017,"t":"这个美味的巡演在前往宝岛的途中穿过这座城市，在那里我们将停靠著名的Winery SF."},{"s":"Go to Treasure Island.","src":"2017全国III卷·阅读理解A","cat":"gaokao","year":2017,"t":"去金银岛。"}]},{"def":"a highly valued object 极贵重的物品；珍宝；宝物；珍品","ex":[{"s":"What's more, reconstructions might be the only way to know what treasures looked like before time wore them down.","src":"2020北京卷·阅读理解C","cat":"gaokao","year":2020,"t":"更重要的是，重建可能是了解这些珍宝在岁月侵蚀之前是什么样子的唯一方法。"},{"s":"Before the wide use of the printing press, books were treasured objects and could be works of art in their own right.","src":"2023新课标II卷·阅读理解C","cat":"gaokao","year":2023,"t":"在印刷术广泛使用之前，书籍是珍贵的物品，其本身就可以是艺术品。"},{"s":"Like many military medals, the one Zac’s mother had found was a family treasure.\" This medal was very precious to my parents.","src":"2019浙江卷","cat":"gaokao","year":2019,"t":"像许多军事奖章一样，扎克的母亲找到的那枚是家族珍宝。“这枚奖章对我父母非常珍贵。”"},{"s":"Today we’re going to find out about some of the Louvre’s most amazing treasures.","src":"外研社B3 U4","cat":"waiyan","t":"今天我们将了解卢浮宫的一些最神奇的宝藏。"},{"s":"With their remarkable skills, innovation, diligence and humility, the Lei family leave behind their buildings and the legacy that true craftwork is a treasure that can last beyond a lifetime.","src":"外研社B6 U2","cat":"waiyan","t":"凭借他们卓越的技能、创新、勤奋和谦逊，雷氏家族留下的不仅是建筑，还有这样一种遗产：真正的工艺是一种超越一生的宝藏。"},{"s":"Dating from 405 AD to 1002 AD, these hidden treasures give us a picture of Dunhuang when it was at the very centre of the Silk Road trade.","src":"外研社B7 U3","cat":"waiyan","t":"从公元405年到公元1002年，这些隐藏的宝藏为我们提供了敦煌在丝绸之路贸易中心的照片。"},{"s":"The 15th century: Zheng He sailed to South-east Asia, South Asia, West Asia, and East Africa Some of his voyages comprised as many as sixty treasure ships.","src":"外研社B7 U3","cat":"waiyan","t":"15世纪：郑和航行于东南亚、南亚、西亚、东非等地。他的一些航行包括多达60艘宝船。"},{"s":"My dad and I are both looking forward to going to the Shaanxi History Museum, because my dad loves history and I have heard that this museum is known as a “Chinese treasure house”!","src":"人教B1 U2","cat":"renjiao","t":"我和爸爸都期待着去陕西历史博物馆，因为我爸爸热爱历史，我听说这个博物馆被称为\"中国宝库\"!"}]},{"def":"a person who is much loved or valued 备受宠爱（或珍爱）的人；心肝宝贝儿","ex":[]}],"chunks":[{"en":"be treasured","cn":"极贵重的物品","type":"动词短语","count":2}]}
+{
+  "meta": {
+    "ph": "ˈtreʒə(r); NAmE ˈtreʒər",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a collection of valuable things such as gold, silver and jewellery 金银财宝；珠宝；财富",
+      "ex": [
+        {
+          "s": "Past experiences should be treasured.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "过去的经历应该珍惜。"
+        },
+        {
+          "s": "treasure their freedom",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "珍惜他们的自由"
+        },
+        {
+          "s": "What made Adeline treasure the Purple Heart?",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "是什么让阿德琳珍视这枚紫心勋章？"
+        },
+        {
+          "s": "This delicious tour goes through the city on its way to Treasure Island where we will stop at the famous Winery SF.",
+          "src": "2017全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这个美味的巡演在前往宝岛的途中穿过这座城市，在那里我们将停靠著名的Winery SF."
+        },
+        {
+          "s": "Go to Treasure Island.",
+          "src": "2017全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "去金银岛。"
+        }
+      ]
+    },
+    {
+      "def": "a highly valued object 极贵重的物品；珍宝；宝物；珍品",
+      "ex": [
+        {
+          "s": "What's more, reconstructions might be the only way to know what treasures looked like before time wore them down.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "更重要的是，重建可能是了解这些珍宝在岁月侵蚀之前是什么样子的唯一方法。"
+        },
+        {
+          "s": "Before the wide use of the printing press, books were treasured objects and could be works of art in their own right.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在印刷术广泛使用之前，书籍是珍贵的物品，其本身就可以是艺术品。"
+        },
+        {
+          "s": "Like many military medals, the one Zac’s mother had found was a family treasure.\" This medal was very precious to my parents.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "像许多军事奖章一样，扎克的母亲找到的那枚是家族珍宝。“这枚奖章对我父母非常珍贵。”"
+        },
+        {
+          "s": "Today we’re going to find out about some of the Louvre’s most amazing treasures.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "今天我们将了解卢浮宫的一些最神奇的宝藏。"
+        },
+        {
+          "s": "With their remarkable skills, innovation, diligence and humility, the Lei family leave behind their buildings and the legacy that true craftwork is a treasure that can last beyond a lifetime.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "凭借他们卓越的技能、创新、勤奋和谦逊，雷氏家族留下的不仅是建筑，还有这样一种遗产：真正的工艺是一种超越一生的宝藏。"
+        },
+        {
+          "s": "Dating from 405 AD to 1002 AD, these hidden treasures give us a picture of Dunhuang when it was at the very centre of the Silk Road trade.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "从公元405年到公元1002年，这些隐藏的宝藏为我们提供了敦煌在丝绸之路贸易中心的照片。"
+        },
+        {
+          "s": "The 15th century: Zheng He sailed to South-east Asia, South Asia, West Asia, and East Africa Some of his voyages comprised as many as sixty treasure ships.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "15世纪：郑和航行于东南亚、南亚、西亚、东非等地。他的一些航行包括多达60艘宝船。"
+        },
+        {
+          "s": "My dad and I are both looking forward to going to the Shaanxi History Museum, because my dad loves history and I have heard that this museum is known as a “Chinese treasure house”!",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "我和爸爸都期待着去陕西历史博物馆，因为我爸爸热爱历史，我听说这个博物馆被称为\"中国宝库\"!"
+        }
+      ]
+    },
+    {
+      "def": "a person who is much loved or valued 备受宠爱（或珍爱）的人；心肝宝贝儿",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "treasure island",
+      "cn": "金银财宝 岛",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "to treasure island",
+      "cn": "去 金银财宝 岛",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "treasure their",
+      "cn": "金银财宝 他们的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "adeline treasure",
+      "cn": "金银财宝",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "treasure the purple",
+      "cn": "金银财宝 该 紫色的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "made adeline treasure",
+      "cn": "金银财宝",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "treasure island where",
+      "cn": "金银财宝 岛 哪里",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "way to treasure",
+      "cn": "方法 去 金银财宝",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

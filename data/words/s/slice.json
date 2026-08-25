@@ -1,1 +1,162 @@
-{"meta":{"ph":"slaɪs; NAmE slaɪs","pos":"noun;noun;noun;noun;verb;verb;verb;verb;verb","stars":"★★"},"defs":[{"def":"a thin flat piece of food that has been cut off a larger piece （切下的食物）薄片，片","ex":[{"s":"If you eat two slices, you eat two sixths or one third.","src":"人教B1 U5","cat":"renjiao","t":"若食二片，则食六分之二或三分之一。"},{"s":"Jenna threw the burnt piece into the sink and put in the other slice of bread.","src":"2021卷","cat":"gaokao","year":2021,"t":"詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"},{"s":"Jenna threw the burnt piece into the  sink and put in the other slice of bread.","src":"2021新高考II卷·A MOTHER’S DAY SURPRISE","cat":"gaokao","year":2021,"t":"詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"},{"s":"Jenna found the bread and put two slices into the egg mixture.","src":"2021卷","cat":"gaokao","year":2021,"t":"珍娜找到了面包，把两片放进鸡蛋混合物里。"},{"s":"When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.","src":"2018全国II卷·阅读理解B","cat":"gaokao","year":2018,"t":"当与浆果或其他水果切片结合时，冰冻的香蕉为厚、冷却的水果摇摆和低脂“冰淇淋”提供了极佳的基础。"},{"s":"Slices of garlic can be used to create teeth.","src":"译林选必1 U3","cat":"yilin","t":"大蒜的切片可以用来制造牙齿。"},{"s":"Served plain in thin, white slices, the meat is juicy and salty.","src":"译林选必1 U1","cat":"yilin","t":"服务平原为薄，白色切片，肉质多汁，咸。"}]},{"def":"a part or share of sth 部分；份额","ex":[]},{"def":"a kitchen utensil (= tool) that you use to lift and serve pieces of food 锅铲；（餐桌用）小铲","ex":[]},{"def":"a stroke that makes the ball spin to one side rather than going straight ahead 高尔夫球、网球等","ex":[]},{"def":"to cut sth into slices 把 … 切成（薄）片","ex":[{"s":"Handing out sliced oranges to bloodthirsty kids can be as exciting as watching your own kid score a goal.","src":"2019全国II卷·阅读理解B","cat":"gaokao","year":2019,"t":"给那些“嗜血”的孩子们分发橙子片，可能和看自家孩子进球一样令人兴奋。"},{"s":"Later, I learnt that the most famous food in Shandong is pancake rolls stuffed with sliced Chinese green onions.","src":"人教选必2 U3","cat":"renjiao","t":"后来，我了解到山东最有名的食物是煎饼卷大葱。"},{"s":"If you have a juicer, you can simply feed in frozen bananas and some berries or sliced fruit.","src":"2018全国II卷·阅读理解B","cat":"gaokao","year":2018,"t":"如果你有一个果汁机，你可以简单地在冰冻的香蕉和一些浆果或切片的水果中觅食。"}]},{"def":"to cut sth easily with or as if with a sharp blade 切；割；划","ex":[]},{"def":"to hit a ball so that it spins and does not move in the expected direction 削（球）；斜切打","ex":[]},{"def":"to hit the ball so that it flies away in a curve, when you do not mean to 高尔夫球","ex":[]},{"def":"to reduce sth by a large amount 大幅度削减；大量降低","ex":[]}],"chunks":[{"en":"out sliced","cn":"切下的食物）薄片","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "slaɪs; NAmE slaɪs",
+    "pos": "noun;noun;noun;noun;verb;verb;verb;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a thin flat piece of food that has been cut off a larger piece （切下的食物）薄片，片",
+      "ex": [
+        {
+          "s": "Handing out sliced oranges to bloodthirsty kids can be as exciting as watching your own kid score a goal.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "给那些“嗜血”的孩子们分发橙子片，可能和看自家孩子进球一样令人兴奋。"
+        },
+        {
+          "s": "Later, I learnt that the most famous food in Shandong is pancake rolls stuffed with sliced Chinese green onions.",
+          "src": "人教选必2 U3",
+          "cat": "renjiao",
+          "t": "后来，我了解到山东最有名的食物是煎饼卷大葱。"
+        },
+        {
+          "s": "If you have a juicer, you can simply feed in frozen bananas and some berries or sliced fruit.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果你有一个果汁机，你可以简单地在冰冻的香蕉和一些浆果或切片的水果中觅食。"
+        },
+        {
+          "s": "If you eat two slices, you eat two sixths or one third.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "若食二片，则食六分之二或三分之一。"
+        },
+        {
+          "s": "Jenna threw the burnt piece into the sink and put in the other slice of bread.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
+        },
+        {
+          "s": "Jenna threw the burnt piece into the  sink and put in the other slice of bread.",
+          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
+        },
+        {
+          "s": "Jenna found the bread and put two slices into the egg mixture.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
+        },
+        {
+          "s": "When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "当与浆果或其他水果切片结合时，冰冻的香蕉为厚、冷却的水果摇摆和低脂“冰淇淋”提供了极佳的基础。"
+        },
+        {
+          "s": "Slices of garlic can be used to create teeth.",
+          "src": "译林选必1 U3",
+          "cat": "yilin",
+          "t": "大蒜的切片可以用来制造牙齿。"
+        },
+        {
+          "s": "Served plain in thin, white slices, the meat is juicy and salty.",
+          "src": "译林选必1 U1",
+          "cat": "yilin",
+          "t": "服务平原为薄，白色切片，肉质多汁，咸。"
+        }
+      ]
+    },
+    {
+      "def": "a part or share of sth 部分；份额",
+      "ex": []
+    },
+    {
+      "def": "a kitchen utensil (= tool) that you use to lift and serve pieces of food 锅铲；（餐桌用）小铲",
+      "ex": []
+    },
+    {
+      "def": "a stroke that makes the ball spin to one side rather than going straight ahead 高尔夫球、网球等",
+      "ex": []
+    },
+    {
+      "def": "to cut sth into slices 把 … 切成（薄）片",
+      "ex": []
+    },
+    {
+      "def": "to cut sth easily with or as if with a sharp blade 切；割；划",
+      "ex": []
+    },
+    {
+      "def": "to hit a ball so that it spins and does not move in the expected direction 削（球）；斜切打",
+      "ex": []
+    },
+    {
+      "def": "to hit the ball so that it flies away in a curve, when you do not mean to 高尔夫球",
+      "ex": []
+    },
+    {
+      "def": "to reduce sth by a large amount 大幅度削减；大量降低",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "slice of bread",
+      "cn": "薄片 的 面包",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "sliced oranges",
+      "cn": "薄片 橙子",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "out sliced oranges",
+      "cn": "出 薄片 橙子",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "handing out sliced",
+      "cn": "手 出 薄片",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sliced chinese",
+      "cn": "薄片 中国人",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "with sliced chinese",
+      "cn": "与 薄片 中国人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "stuffed with sliced",
+      "cn": "东西 与 薄片",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sliced fruit",
+      "cn": "薄片 水果",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

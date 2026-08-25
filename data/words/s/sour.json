@@ -1,1 +1,93 @@
-{"meta": {"ph": "ˈsaʊə(r); NAmE ˈsaʊər", "pos": "adjective", "stars": "★★"}, "defs": [{"def": "having a taste like that of a lemon or of fruit that is not ready to eat 酸的；有酸味的", "ex": [{"s": "The combination of spicy, salty, sweet and sour flavours makes Gong Bao Chicken hard to resist.", "src": "外研社B2 U1", "cat": "waiyan", "t": "辛辣、咸味、甜味和酸味的结合使公宝鸡难以抗拒。"}, {"s": "For example, this morning my breakfast is flat bread warmed over a fire, dried reindeer meat, and some sweet and sour berries that I found growing near my tent.", "src": "人教选必1 U3", "cat": "renjiao", "t": "例如，今天上午，我的早餐是平面面包，在一片大火、干驯鹿肉和一些甜酸的浆果中温暖起来，我发现这些浆果是在帐篷附近生长的。"}]}, {"def": "having an unpleasant taste or smell because it is not fresh 尤指牛奶", "ex": [{"s": "It smells too strong and it tastes a bit sour.", "src": "外研社B1 U6", "cat": "waiyan", "t": "闻起来太浓了，味道有点酸。"}]}, {"def": "not cheerful; bad-tempered and unpleasant 人", "ex": []}, {"def": "to change so that they become less pleasant or friendly than before; to make sth do this 关系、态度、人等", "ex": []}, {"def": "if milk sours or if sth sours it, it becomes sour and has an unpleasant taste or smell （牛奶等）变味，酸腐；使变酸腐", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈsaʊə(r); NAmE ˈsaʊər",
+    "pos": "adjective",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "having a taste like that of a lemon or of fruit that is not ready to eat 酸的；有酸味的",
+      "ex": [
+        {
+          "s": "The combination of spicy, salty, sweet and sour flavours makes Gong Bao Chicken hard to resist.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "辛辣、咸味、甜味和酸味的结合使公宝鸡难以抗拒。"
+        },
+        {
+          "s": "For example, this morning my breakfast is flat bread warmed over a fire, dried reindeer meat, and some sweet and sour berries that I found growing near my tent.",
+          "src": "人教选必1 U3",
+          "cat": "renjiao",
+          "t": "例如，今天上午，我的早餐是平面面包，在一片大火、干驯鹿肉和一些甜酸的浆果中温暖起来，我发现这些浆果是在帐篷附近生长的。"
+        }
+      ]
+    },
+    {
+      "def": "having an unpleasant taste or smell because it is not fresh 尤指牛奶",
+      "ex": [
+        {
+          "s": "It smells too strong and it tastes a bit sour.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "闻起来太浓了，味道有点酸。"
+        }
+      ]
+    },
+    {
+      "def": "not cheerful; bad-tempered and unpleasant 人",
+      "ex": []
+    },
+    {
+      "def": "to change so that they become less pleasant or friendly than before; to make sth do this 关系、态度、人等",
+      "ex": []
+    },
+    {
+      "def": "if milk sours or if sth sours it, it becomes sour and has an unpleasant taste or smell （牛奶等）变味，酸腐；使变酸腐",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "sweet and sour",
+      "cn": "含糖的 与 酸的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "sour flavours",
+      "cn": "酸的 味道",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and sour flavours",
+      "cn": "与 酸的 味道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sour berries",
+      "cn": "酸的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and sour berries",
+      "cn": "与 酸的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bit sour",
+      "cn": "用作副词 酸的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a bit sour",
+      "cn": "一个 用作副词 酸的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

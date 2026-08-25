@@ -1,1 +1,135 @@
-{"meta": {"ph": "piːk; NAmE piːk", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the point when sb/sth is best, most successful, strongest, etc. 顶峰；高峰", "ex": [{"s": "The average peak workload was measured at 103 watts.", "src": "2022浙江1月卷·阅读理解C", "cat": "gaokao", "t": "平均峰值工作负荷测量值为103瓦特。", "year": 2022}, {"s": "A total of 92 women were in the medium fitness category; and 59 women were in the low fitness category, defined as a peak workload of 80 watts or less, or having their exercise tests stopped because of high blood pressure, chest pain or other cardiovascular problems.", "src": "2022浙江1月卷·阅读理解C", "cat": "gaokao", "t": "共有92名女性属于中等健康水平；59名属于低健康水平，定义为峰值负荷80瓦或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。", "year": 2022}, {"s": "The painting of Apsaras reached a peak during the Tang Dynasty; these images are full of life, reflecting the confidence and optimism of people from that time.", "src": "外研社B7 U3", "cat": "waiyan", "t": "飞天画像在唐代达到了顶峰；这些形象充满生机，反映了那个时代人们的自信和乐观。"}, {"s": "Background information The Ancient Maya civilisation reached its peak between 250 AD and 900 AD.", "src": "外研社B7 U6", "cat": "waiyan", "t": "背景信息 古代玛雅文明在公元250年至公元900年间达到顶峰。"}, {"s": "By 700 AD, Maya civilisation was at its peak.", "src": "外研社B7 U5", "cat": "waiyan", "t": "到公元700年，玛雅文明达到了顶峰。"}, {"s": "Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!", "src": "人教选必4 U2", "cat": "renjiao", "t": "不过，在高峰季节要小心不要去受欢迎的岛屿，除非你想(摔跤)与其他游客一起！"}]}, {"def": "the pointed top of a mountain; a mountain with a pointed top 山峰；峰峦", "ex": [{"s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.", "src": "2017江苏卷·阅读理解D", "cat": "gaokao", "t": "在秘鲁，一座山峰的冰川已成为气候变化的牺牲品，周围的当地农民开始把整个山顶漆成白色，希望增加的反射率能恢复那赋予生命的冰。", "year": 2017}, {"s": "In addition to seeing spectacular mountain peaks and forests, one highlight of their trip was being able to see many different creatures, including deer, mountain goats, and even a grizzly bear and an eagle.", "src": "人教选必2 U4", "cat": "renjiao", "t": "除了看到壮观的山峰和森林，他们旅途中的一个亮点是能看到许多不同的动物，包括鹿、山羊，甚至一只灰熊和一只鹰。"}, {"s": "The peak of Mount Qomolangma, 8,849 meters above sea level.", "src": "2026新高考II卷·阅读理解C", "cat": "gaokao", "t": "科莫朗格马山峰，海拔8,849米。", "year": 2026}]}, {"def": "any narrow and pointed shape, edge, etc. 尖形；尖端；尖头", "ex": []}, {"def": "the stiff front part of a cap that sticks out above your eyes 帽舌；帽檐", "ex": []}], "chunks": [{"en": "reached peak between", "cn": "到达顶峰", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "piːk; NAmE piːk",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the point when sb/sth is best, most successful, strongest, etc. 顶峰；高峰",
+      "ex": [
+        {
+          "s": "The average peak workload was measured at 103 watts.",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "平均峰值工作负荷测量值为103瓦特。",
+          "year": 2022
+        },
+        {
+          "s": "A total of 92 women were in the medium fitness category; and 59 women were in the low fitness category, defined as a peak workload of 80 watts or less, or having their exercise tests stopped because of high blood pressure, chest pain or other cardiovascular problems.",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "共有92名女性属于中等健康水平；59名属于低健康水平，定义为峰值负荷80瓦或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。",
+          "year": 2022
+        },
+        {
+          "s": "The painting of Apsaras reached a peak during the Tang Dynasty; these images are full of life, reflecting the confidence and optimism of people from that time.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "飞天画像在唐代达到了顶峰；这些形象充满生机，反映了那个时代人们的自信和乐观。"
+        },
+        {
+          "s": "Background information The Ancient Maya civilisation reached its peak between 250 AD and 900 AD.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "背景信息 古代玛雅文明在公元250年至公元900年间达到顶峰。"
+        },
+        {
+          "s": "By 700 AD, Maya civilisation was at its peak.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "到公元700年，玛雅文明达到了顶峰。"
+        },
+        {
+          "s": "Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!",
+          "src": "人教选必4 U2",
+          "cat": "renjiao",
+          "t": "不过，在高峰季节要小心不要去受欢迎的岛屿，除非你想(摔跤)与其他游客一起！"
+        }
+      ]
+    },
+    {
+      "def": "the pointed top of a mountain; a mountain with a pointed top 山峰；峰峦",
+      "ex": [
+        {
+          "s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "在秘鲁，一座山峰的冰川已成为气候变化的牺牲品，周围的当地农民开始把整个山顶漆成白色，希望增加的反射率能恢复那赋予生命的冰。",
+          "year": 2017
+        },
+        {
+          "s": "In addition to seeing spectacular mountain peaks and forests, one highlight of their trip was being able to see many different creatures, including deer, mountain goats, and even a grizzly bear and an eagle.",
+          "src": "人教选必2 U4",
+          "cat": "renjiao",
+          "t": "除了看到壮观的山峰和森林，他们旅途中的一个亮点是能看到许多不同的动物，包括鹿、山羊，甚至一只灰熊和一只鹰。"
+        },
+        {
+          "s": "The peak of Mount Qomolangma, 8,849 meters above sea level.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "科莫朗格马山峰，海拔8,849米。",
+          "year": 2026
+        }
+      ]
+    },
+    {
+      "def": "any narrow and pointed shape, edge, etc. 尖形；尖端；尖头",
+      "ex": []
+    },
+    {
+      "def": "the stiff front part of a cap that sticks out above your eyes 帽舌；帽檐",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "peak workload",
+      "cn": "顶峰",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "average peak",
+      "cn": "平均的 顶峰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "peak workload was",
+      "cn": "顶峰 是",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the average peak",
+      "cn": "该 平均的 顶峰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "peak workload of",
+      "cn": "顶峰 的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a peak workload",
+      "cn": "一个 顶峰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "peak during",
+      "cn": "顶峰 在 … 期间",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a peak during",
+      "cn": "一个 顶峰 在 … 期间",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

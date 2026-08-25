@@ -1,1 +1,161 @@
-{"meta":{"ph":"təˈmɒrəʊ; NAmE təˈmɔːroʊ","pos":"adverb","stars":""},"defs":[{"def":"the day after today 明天；明日","ex":[{"s":"Optimism lights the path for tomorrow.","src":"2026北京卷·阅读理解B","cat":"gaokao","year":2026,"t":"乐观照亮通往明天的道路。"},{"s":"What will Helen do tomorrow morning?","src":"2022新高考I卷","cat":"gaokao","year":2022,"t":"Helen明天早上要做什么？"},{"s":"What will Jeff take to school tomorrow?","src":"2022浙江卷","cat":"gaokao","year":2022,"t":"Jim这个周末可能会做什么？"},{"s":"What will Helen do tomorrow morning?","src":"2022浙江卷","cat":"gaokao","year":2022,"t":"Helen明天早上要做什么？"},{"s":"What time is Michael leaving his place tomorrow morning?","src":"2021新高考II卷","cat":"gaokao","year":2021,"t":"约翰和莎拉之间可能是什么关系？"},{"s":"What time is Michael leaving his place tomorrow morning?","src":"2021浙江卷","cat":"gaokao","year":2021,"t":"约翰和莎拉之间可能是什么关系？"},{"s":"What will James do tomorrow?","src":"2018浙江卷","cat":"gaokao","year":2018,"t":"詹姆斯明天要做什么？"},{"s":"What will the speakers do tomorrow evening?","src":"2018浙江卷","cat":"gaokao","year":2018,"t":"说话者明天晚上要做什么？"},{"s":"What will the speakers do tomorrow?","src":"2017重庆卷","cat":"gaokao","year":2017,"t":"说话者们明天要做什么？"},{"s":"May I come and get it early tomorrow morning?","src":"外研社B1 U3","cat":"waiyan","t":"我可以明天一大早来取吗？"},{"s":"Tomorrow we’re going to visit the famous old town of Lijiang.","src":"外研社B2 U5","cat":"waiyan","t":"明天我们将访问丽江这个著名的老城。"},{"s":"Hear the music of voices, the song of a bird, the mighty strains of an orchestra, as if you would be stricken deaf tomorrow.","src":"外研社B4 U2","cat":"waiyan","t":"聆听人声的音乐、鸟儿的歌唱、管弦乐队雄浑的乐章，就好像明天你会失去听觉一样。"},{"s":"Touch each object you want to touch as if tomorrow your tactile sense would fail.","src":"外研社B4 U2","cat":"waiyan","t":"触摸你想触摸的每个物体，就好像明天你的触觉就会失灵一样。"},{"s":"Smell the perfume of flowers, taste with relish each morsel, as if tomorrow you could never smell and taste again.","src":"外研社B4 U2","cat":"waiyan","t":"闻一闻花香，津津有味地品尝每一口食物，就好像明天你再也无法闻和品尝一样。"}]},{"def":"the future 未来；将来；来日","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "təˈmɒrəʊ; NAmE təˈmɔːroʊ",
+    "pos": "adverb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "the day after today 明天；明日",
+      "ex": [
+        {
+          "s": "Optimism lights the path for tomorrow.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "乐观照亮通往明天的道路。"
+        },
+        {
+          "s": "What will Helen do tomorrow morning?",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Helen明天早上要做什么？"
+        },
+        {
+          "s": "What will Jeff take to school tomorrow?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Jim这个周末可能会做什么？"
+        },
+        {
+          "s": "What will Helen do tomorrow morning?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Helen明天早上要做什么？"
+        },
+        {
+          "s": "What time is Michael leaving his place tomorrow morning?",
+          "src": "2021新高考II卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "约翰和莎拉之间可能是什么关系？"
+        },
+        {
+          "s": "What time is Michael leaving his place tomorrow morning?",
+          "src": "2021浙江卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "约翰和莎拉之间可能是什么关系？"
+        },
+        {
+          "s": "What will James do tomorrow?",
+          "src": "2018浙江卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "詹姆斯明天要做什么？"
+        },
+        {
+          "s": "What will the speakers do tomorrow evening?",
+          "src": "2018浙江卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "说话者明天晚上要做什么？"
+        },
+        {
+          "s": "What will the speakers do tomorrow?",
+          "src": "2017重庆卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "说话者们明天要做什么？"
+        },
+        {
+          "s": "May I come and get it early tomorrow morning?",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我可以明天一大早来取吗？"
+        },
+        {
+          "s": "Tomorrow we’re going to visit the famous old town of Lijiang.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "明天我们将访问丽江这个著名的老城。"
+        },
+        {
+          "s": "Hear the music of voices, the song of a bird, the mighty strains of an orchestra, as if you would be stricken deaf tomorrow.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "聆听人声的音乐、鸟儿的歌唱、管弦乐队雄浑的乐章，就好像明天你会失去听觉一样。"
+        },
+        {
+          "s": "Touch each object you want to touch as if tomorrow your tactile sense would fail.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "触摸你想触摸的每个物体，就好像明天你的触觉就会失灵一样。"
+        },
+        {
+          "s": "Smell the perfume of flowers, taste with relish each morsel, as if tomorrow you could never smell and taste again.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "闻一闻花香，津津有味地品尝每一口食物，就好像明天你再也无法闻和品尝一样。"
+        }
+      ]
+    },
+    {
+      "def": "the future 未来；将来；来日",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "tomorrow morning",
+      "cn": "明天 早晨",
+      "type": "动词短语",
+      "count": 5
+    },
+    {
+      "en": "do tomorrow morning",
+      "cn": "做 明天 早晨",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "helen do tomorrow",
+      "cn": "做 明天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "place tomorrow",
+      "cn": "位置 明天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "his place tomorrow",
+      "cn": "他的 位置 明天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "speakers do tomorrow",
+      "cn": "发言者 做 明天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "path for tomorrow",
+      "cn": "小路 为了 明天",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "school tomorrow",
+      "cn": "学校 明天",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

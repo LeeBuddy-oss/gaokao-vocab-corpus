@@ -1,1 +1,115 @@
-{"meta":{"ph":"peɪl; NAmE peɪl","pos":"adjective","stars":""},"defs":[{"def":"having skin that is almost white; having skin that is whiter than usual because of illness, a strong emotion, etc. 人、面孔等","ex":[{"s":"My classmates ranged from those kids with pale skin and large blue eyes to those with rich brown skin and dark hair.","src":"2022浙江6月卷·阅读理解A","cat":"gaokao","year":2022,"t":"我的同学从皮肤苍白、蓝眼睛的孩子到深棕色皮肤、黑头发的孩子都有。"},{"s":"In his thirties, he was quite thin and pale, and he had red, bushy hair.","src":"外研社B1 U3","cat":"waiyan","year":"","t":"他三十多岁时相当瘦削苍白，有一头浓密的红发。"},{"s":"She looked well and happy but as I kissed her lips, they became pale, as if she were dead.","src":"外研社B6 U6","cat":"waiyan","year":"","t":"她看起来安好快乐，但当我亲吻她的嘴唇时，它们变得苍白，仿佛她已经死了。"},{"s":"Cuona Lake is so close to the railway that I want to reach out and touch its pale blue mirror-like surface.","src":"外研社B4 U6","cat":"waiyan","year":"","t":"措那湖离铁路如此之近，以至于我伸出手就能碰到它淡蓝色镜子般的湖面。"}]},{"def":"light in colour; containing a lot of white 浅色的；淡色的","ex":[{"s":"Todd cried out in shock and waved his arm at the pale blue screen hovering above the breakfast table.","src":"外研社B6 U4","cat":"waiyan","year":"","t":"托德震惊地叫出声，对着悬在早餐桌上方的淡蓝色屏幕挥动手臂。"},{"s":"When I got up this morning the world was a cold place of dead white and pale blues.","src":"外研社B6 U6","cat":"waiyan","year":"","t":"今天早晨我起床时，世界是一片死白和淡蓝的寒冷之地。"}]},{"def":"not strong or bright 光线","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "peɪl; NAmE peɪl",
+    "pos": "adjective",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "having skin that is almost white; having skin that is whiter than usual because of illness, a strong emotion, etc. 人、面孔等",
+      "ex": [
+        {
+          "s": "My classmates ranged from those kids with pale skin and large blue eyes to those with rich brown skin and dark hair.",
+          "src": "2022浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我的同学从皮肤苍白、蓝眼睛的孩子到深棕色皮肤、黑头发的孩子都有。"
+        },
+        {
+          "s": "In his thirties, he was quite thin and pale, and he had red, bushy hair.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "他三十多岁时相当瘦削苍白，有一头浓密的红发。"
+        },
+        {
+          "s": "She looked well and happy but as I kissed her lips, they became pale, as if she were dead.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "她看起来安好快乐，但当我亲吻她的嘴唇时，它们变得苍白，仿佛她已经死了。"
+        },
+        {
+          "s": "Cuona Lake is so close to the railway that I want to reach out and touch its pale blue mirror-like surface.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "措那湖离铁路如此之近，以至于我伸出手就能碰到它淡蓝色镜子般的湖面。"
+        }
+      ]
+    },
+    {
+      "def": "light in colour; containing a lot of white 浅色的；淡色的",
+      "ex": [
+        {
+          "s": "Todd cried out in shock and waved his arm at the pale blue screen hovering above the breakfast table.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "托德震惊地叫出声，对着悬在早餐桌上方的淡蓝色屏幕挥动手臂。"
+        },
+        {
+          "s": "When I got up this morning the world was a cold place of dead white and pale blues.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "今天早晨我起床时，世界是一片死白和淡蓝的寒冷之地。"
+        }
+      ]
+    },
+    {
+      "def": "not strong or bright 光线",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "pale blue",
+      "cn": "人 蓝色的",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "pale skin",
+      "cn": "人 皮",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "with pale skin",
+      "cn": "与 人 皮",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "kids with pale",
+      "cn": "小孩 与 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pale and he",
+      "cn": "人 与 他",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "thin and pale",
+      "cn": "薄的 与 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "became pale",
+      "cn": "人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "they became pale",
+      "cn": "他们 人",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

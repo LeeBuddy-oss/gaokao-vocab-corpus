@@ -1,1 +1,101 @@
-{"meta":{"ph":"fluː; NAmE fluː","pos":"noun","stars":""},"defs":[{"def":"an infectious disease like a very bad cold, that causes fever, pains and weakness 流行性感冒；流感","ex":[{"s":"After a serious flu outbreak wipes out 99.4% of the world's population, a battle unfolds between good and evil among those let.","src":"2019全国II卷·阅读理解A","cat":"gaokao","year":2019,"t":"一场严重的流感消灭了全球99.4%的人口后，在幸存者中展开了一场善与恶的战斗。"},{"s":"Doctors battle new disease Doctors are flying to an island off the coast of West Africa after an outbreak of a new disease caused by a flu virus.","src":"外研社B5 U6","cat":"waiyan","t":"医生与新疾病作斗争 在一种由流感病毒引起的新型疾病爆发后，医生们正飞往西非海岸附近的一个岛屿。"},{"s":"You see my new job’s a hassle and the kids have the flu, But it’s sure nice talking to you, Dad.","src":"人教B2 U5","cat":"renjiao","t":"你看，我的新工作很麻烦，孩子们得了流感，但能和你聊聊真好，爸爸。"},{"s":"Most worrying, though, I got the flu easily and experienced many toothaches, too.","src":"人教选必3 U2","cat":"renjiao","t":"不过最令人担心的是我很容易得流感，也经历了许多牙痛。"},{"s":"I no longer suffer from a flu virus or toothaches either.","src":"人教选必3 U2","cat":"renjiao","t":"我也不再患流感病毒或牙痛了。"},{"s":"So a very rare disease will have a low baseline and just a fewcases of it in one place will be classified as an epidemic; as opposed to more common diseases, such as the flu, that have a higher baseline.","src":"北师大选必3 U9","cat":"beishida","t":"因此，一种非常罕见的疾病的基线很低，在一个地方出现几个病例就会被归类为流行病；而像流感这样更常见的疾病则有更高的基线。"}]}],"chunks":[{"en":"serious flu","cn":"严肃的流行性感冒","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "fluː; NAmE fluː",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "an infectious disease like a very bad cold, that causes fever, pains and weakness 流行性感冒；流感",
+      "ex": [
+        {
+          "s": "After a serious flu outbreak wipes out 99.4% of the world's population, a battle unfolds between good and evil among those let.",
+          "src": "2019全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "一场严重的流感消灭了全球99.4%的人口后，在幸存者中展开了一场善与恶的战斗。"
+        },
+        {
+          "s": "Doctors battle new disease Doctors are flying to an island off the coast of West Africa after an outbreak of a new disease caused by a flu virus.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "医生与新疾病作斗争 在一种由流感病毒引起的新型疾病爆发后，医生们正飞往西非海岸附近的一个岛屿。"
+        },
+        {
+          "s": "You see my new job’s a hassle and the kids have the flu, But it’s sure nice talking to you, Dad.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "你看，我的新工作很麻烦，孩子们得了流感，但能和你聊聊真好，爸爸。"
+        },
+        {
+          "s": "Most worrying, though, I got the flu easily and experienced many toothaches, too.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "不过最令人担心的是我很容易得流感，也经历了许多牙痛。"
+        },
+        {
+          "s": "I no longer suffer from a flu virus or toothaches either.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "我也不再患流感病毒或牙痛了。"
+        },
+        {
+          "s": "So a very rare disease will have a low baseline and just a fewcases of it in one place will be classified as an epidemic; as opposed to more common diseases, such as the flu, that have a higher baseline.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "因此，一种非常罕见的疾病的基线很低，在一个地方出现几个病例就会被归类为流行病；而像流感这样更常见的疾病则有更高的基线。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "flu virus",
+      "cn": "流行性感冒 病毒",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "a flu virus",
+      "cn": "一个 流行性感冒 病毒",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "flu outbreak",
+      "cn": "流行性感冒",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "serious flu",
+      "cn": "不好的 流行性感冒",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a serious flu",
+      "cn": "一个 不好的 流行性感冒",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "flu easily",
+      "cn": "流行性感冒",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the flu easily",
+      "cn": "该 流行性感冒",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "got the flu",
+      "cn": "该 流行性感冒",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

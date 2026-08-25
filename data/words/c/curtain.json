@@ -1,1 +1,167 @@
-{"meta": {"ph": "ˈkɜːtn; NAmE ˈkɜːrtn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a piece of cloth that is hung to cover a window 窗帘", "ex": [{"s": "The trailer even has matching carpet and curtains.", "src": "2017全国I卷·七选五", "cat": "gaokao", "year": 2017, "t": "这辆拖车甚至配有相配的地毯和窗帘。"}, {"s": "The next morning, Johnsy woke and asked for the curtains to be opened.", "src": "北师大选必3 U8", "cat": "beishida", "year": "", "t": "第二天早上，琼西醒来，要求把窗帘拉开。"}, {"s": "Some common things people will put on a gift registry include kitchen tools like knives and things like curtains.", "src": "2020全国III卷·七选五", "cat": "gaokao", "year": 2020, "t": "人们会列在礼物登记单上的常见物品包括像刀之类的厨房用具，以及像窗帘之类的东西。"}, {"s": "When they woke up the next morning and pulled back the curtains, they could see the wide stretch of Lake Huron—one of the four Great Lakes on Ontario’s southern border.", "src": "人教选必2 U4", "cat": "renjiao", "year": "", "t": "第二天早上他们醒来拉开窗帘，便能看到休伦湖辽阔的水面——安大略省南部边界上五大湖之一。"}, {"s": "Long curtains had been pulled around my bed,  16  me from the other patients.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "长窗帘已经被拉到我的床边，16 把我和其他病人隔开。"}, {"s": "Meg went to tidy the living room, hiding the litter under the sofa and shutting the curtains to save her the trouble of dusting.", "src": "人教选必3 U5", "cat": "renjiao", "year": "", "t": "梅格去收拾客厅，把垃圾藏在沙发下面，拉上窗帘，省得费力打扫灰尘。"}, {"s": "As soon as the curtain rose, I was absorbed.", "src": "外研社B2 U4", "cat": "waiyan", "year": "", "t": "窗帘一升起，我就全神贯注了。"}]}, {"def": "a very thin piece of cloth that you hang at a window, which allows light to enter but stops people outside from being able to see inside 网眼帘子；纱帘", "ex": [{"s": "Days later when the curtain was drawn, I saw this  31  old man for the first time.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "几天后当帘子拉开时，我第一次看到了这位31 老人。"}, {"s": "We talked endlessly through the curtain to pass the time, without seeing each other.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "我们隔着帘子不停地聊天来消磨时间，彼此看不见对方。"}]}, {"def": "a piece of cloth that is hung up as a screen in a room or around a bed, for example 帘；幔；（遮隔房间的）帷幔；床帷", "ex": [{"s": "On the other side of my bed curtain, I heard a patient cheerfully  18  every nurse as they entered the room, as if welcoming each into his home.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "在我的床帘另一边，我听到一位病人愉快地18 每一位进来的护士，仿佛欢迎她们来到他的家中。"}, {"s": "The  23  of the room was soon broken by a quiet voice from behind the curtain.", "src": "2022天津4月卷", "cat": "gaokao", "year": 2022, "t": "房间里的23 很快被帘子后面一个平静的声音打破。"}]}, {"def": "a piece of thick, heavy cloth that hangs in front of the stage in the theatre （舞台上的）幕，幕布，帷幕", "ex": [{"s": "The curtains are about to open, and in a few minutes the action and dialogue will tell you the story.", "src": "2020浙江7月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "幕布即将拉开，几分钟内的动作与对白将为你讲述这个故事。"}]}, {"def": "a thing that covers, hides or protects sth 覆盖物；隐蔽物；防护物", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈkɜːtn; NAmE ˈkɜːrtn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a piece of cloth that is hung to cover a window 窗帘",
+      "ex": [
+        {
+          "s": "The trailer even has matching carpet and curtains.",
+          "src": "2017全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这辆拖车甚至配有相配的地毯和窗帘。"
+        },
+        {
+          "s": "The next morning, Johnsy woke and asked for the curtains to be opened.",
+          "src": "北师大选必3 U8",
+          "cat": "beishida",
+          "year": "",
+          "t": "第二天早上，琼西醒来，要求把窗帘拉开。"
+        },
+        {
+          "s": "Some common things people will put on a gift registry include kitchen tools like knives and things like curtains.",
+          "src": "2020全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "人们会列在礼物登记单上的常见物品包括像刀之类的厨房用具，以及像窗帘之类的东西。"
+        },
+        {
+          "s": "When they woke up the next morning and pulled back the curtains, they could see the wide stretch of Lake Huron—one of the four Great Lakes on Ontario’s southern border.",
+          "src": "人教选必2 U4",
+          "cat": "renjiao",
+          "year": "",
+          "t": "第二天早上他们醒来拉开窗帘，便能看到休伦湖辽阔的水面——安大略省南部边界上五大湖之一。"
+        },
+        {
+          "s": "Long curtains had been pulled around my bed,  16  me from the other patients.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "长窗帘已经被拉到我的床边，16 把我和其他病人隔开。"
+        },
+        {
+          "s": "Meg went to tidy the living room, hiding the litter under the sofa and shutting the curtains to save her the trouble of dusting.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "梅格去收拾客厅，把垃圾藏在沙发下面，拉上窗帘，省得费力打扫灰尘。"
+        },
+        {
+          "s": "As soon as the curtain rose, I was absorbed.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "窗帘一升起，我就全神贯注了。"
+        }
+      ]
+    },
+    {
+      "def": "a very thin piece of cloth that you hang at a window, which allows light to enter but stops people outside from being able to see inside 网眼帘子；纱帘",
+      "ex": [
+        {
+          "s": "Days later when the curtain was drawn, I saw this  31  old man for the first time.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "几天后当帘子拉开时，我第一次看到了这位31 老人。"
+        },
+        {
+          "s": "We talked endlessly through the curtain to pass the time, without seeing each other.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我们隔着帘子不停地聊天来消磨时间，彼此看不见对方。"
+        }
+      ]
+    },
+    {
+      "def": "a piece of cloth that is hung up as a screen in a room or around a bed, for example 帘；幔；（遮隔房间的）帷幔；床帷",
+      "ex": [
+        {
+          "s": "On the other side of my bed curtain, I heard a patient cheerfully  18  every nurse as they entered the room, as if welcoming each into his home.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在我的床帘另一边，我听到一位病人愉快地18 每一位进来的护士，仿佛欢迎她们来到他的家中。"
+        },
+        {
+          "s": "The  23  of the room was soon broken by a quiet voice from behind the curtain.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "房间里的23 很快被帘子后面一个平静的声音打破。"
+        }
+      ]
+    },
+    {
+      "def": "a piece of thick, heavy cloth that hangs in front of the stage in the theatre （舞台上的）幕，幕布，帷幕",
+      "ex": [
+        {
+          "s": "The curtains are about to open, and in a few minutes the action and dialogue will tell you the story.",
+          "src": "2020浙江7月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "幕布即将拉开，几分钟内的动作与对白将为你讲述这个故事。"
+        }
+      ]
+    },
+    {
+      "def": "a thing that covers, hides or protects sth 覆盖物；隐蔽物；防护物",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "carpet and curtains",
+      "cn": "地毯 与 窗帘",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "curtains to be opened",
+      "cn": "窗帘 去 是 开放的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "things like curtains",
+      "cn": "东西 像 窗帘",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "curtains they",
+      "cn": "窗帘 他们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the curtains they",
+      "cn": "该 窗帘 他们",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "back the curtains",
+      "cn": "背部 该 窗帘",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "long curtains",
+      "cn": "长的 窗帘",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "curtains had been pulled",
+      "cn": "窗帘 有 是 拉",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

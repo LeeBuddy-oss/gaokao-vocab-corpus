@@ -1,1 +1,151 @@
-{"meta":{"ph":"plɒt; NAmE plɑːt","pos":"noun;noun;noun;verb;verb;verb;verb;verb","stars":"★★"},"defs":[{"def":"the series of events that form the story of a novel, play, film/movie, etc. 故事情节；布局","ex":[{"s":"But they usually have some elements in common: rather than a list of dry facts, stories have plots and they introduce characters.","src":"2023天津6月卷·阅读理解D","cat":"gaokao","t":"但它们通常有一些共同要素：故事不是干巴巴的事实罗列，而是有情节，并且会介绍人物。","year":2023},{"s":"It has a plot, settings, characters and actions, as well as dialogue between characters.","src":"外研社B1 U3","cat":"waiyan","t":"它有情节、场景、人物和动作，以及人物之间的对话。"},{"s":"This means that great books can lose plot details and characters when they move to the big screen.","src":"外研社B2 U4","cat":"waiyan","t":"这意味着伟大的书籍在搬上大银幕时可能会丢失情节细节和人物。"},{"s":"Interestingly,audiences have in recent years turned to television series such as Sherlock or Mad Men, which can have many characters and gradual plot development.","src":"外研社B2 U4","cat":"waiyan","t":"有趣的是，近年来观众转向了像《神探夏洛克》或《广告狂人》这样的电视剧集，这些剧集可以有众多角色和渐进的剧情发展。"},{"s":"If the plot, characters, or word usage is confusing for you, likely won’t be able to remember what you read.","src":"2017浙江11月卷·七选五","cat":"gaokao","t":"如果情节、人物或用词让你困惑，你很可能记不住读过什么。","year":2017},{"s":"I also enjoy the creative plot and settings.","src":"外研社B2 U4","cat":"waiyan","t":"我也喜欢富有创意的情节和场景。"},{"s":"Characters' actions, or their behaviors, not only tell your readers what kind of people they are, but also drive the plot forward and create a particular atmosphere.","src":"外研社B1 U4","cat":"waiyan","t":"人物的行为，或者他们的行为，不仅告诉你的读者他们是什么样的人，而且还推动情节向前发展，营造出特定的氛围。"}]},{"def":"a secret plan made by a group of people to do sth wrong or illegal 阴谋；密谋","ex":[]},{"def":"a small piece of land that is used or intended for a special purpose （专用的）小块土地","ex":[{"s":"Compared to traditional garden plots, they increase carbon absorption, reduce stormwater runoff and boost habitat and biodiversity significantly.","src":"2025浙江1月卷·阅读理解C","cat":"gaokao","t":"与传统的小块园地相比，它们增加了碳吸收，减少了雨水径流，并显著提升了栖息地和生物多样性。","year":2025},{"s":"Old garden plots work WONDERS","src":"2025浙江1月卷·阅读理解C","cat":"gaokao","t":"传统花园地块创造奇迹","year":2025}]},{"def":"to make a secret plan to harm sb, especially a government or its leader 密谋；暗中策划","ex":[]},{"def":"to mark sth on a map, for example the position or course of sth （在地图上）画出，标出","ex":[]},{"def":"to make a diagram or chart from some information 绘制（图表）","ex":[]},{"def":"to mark points on a graph and draw a line or curve connecting them 绘制（图表的曲线）","ex":[]},{"def":"to write the plot of a novel, play, etc. （为小说、戏剧等）设计情节，布局","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "plɒt; NAmE plɑːt",
+    "pos": "noun;noun;noun;verb;verb;verb;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the series of events that form the story of a novel, play, film/movie, etc. 故事情节；布局",
+      "ex": [
+        {
+          "s": "But they usually have some elements in common: rather than a list of dry facts, stories have plots and they introduce characters.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "但它们通常有一些共同要素：故事不是干巴巴的事实罗列，而是有情节，并且会介绍人物。",
+          "year": 2023
+        },
+        {
+          "s": "It has a plot, settings, characters and actions, as well as dialogue between characters.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "它有情节、场景、人物和动作，以及人物之间的对话。"
+        },
+        {
+          "s": "This means that great books can lose plot details and characters when they move to the big screen.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "这意味着伟大的书籍在搬上大银幕时可能会丢失情节细节和人物。"
+        },
+        {
+          "s": "Interestingly,audiences have in recent years turned to television series such as Sherlock or Mad Men, which can have many characters and gradual plot development.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "有趣的是，近年来观众转向了像《神探夏洛克》或《广告狂人》这样的电视剧集，这些剧集可以有众多角色和渐进的剧情发展。"
+        },
+        {
+          "s": "If the plot, characters, or word usage is confusing for you, likely won’t be able to remember what you read.",
+          "src": "2017浙江11月卷·七选五",
+          "cat": "gaokao",
+          "t": "如果情节、人物或用词让你困惑，你很可能记不住读过什么。",
+          "year": 2017
+        },
+        {
+          "s": "I also enjoy the creative plot and settings.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "我也喜欢富有创意的情节和场景。"
+        },
+        {
+          "s": "Characters' actions, or their behaviors, not only tell your readers what kind of people they are, but also drive the plot forward and create a particular atmosphere.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "人物的行为，或者他们的行为，不仅告诉你的读者他们是什么样的人，而且还推动情节向前发展，营造出特定的氛围。"
+        }
+      ]
+    },
+    {
+      "def": "a secret plan made by a group of people to do sth wrong or illegal 阴谋；密谋",
+      "ex": []
+    },
+    {
+      "def": "a small piece of land that is used or intended for a special purpose （专用的）小块土地",
+      "ex": [
+        {
+          "s": "Compared to traditional garden plots, they increase carbon absorption, reduce stormwater runoff and boost habitat and biodiversity significantly.",
+          "src": "2025浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "与传统的小块园地相比，它们增加了碳吸收，减少了雨水径流，并显著提升了栖息地和生物多样性。",
+          "year": 2025
+        },
+        {
+          "s": "Old garden plots work WONDERS",
+          "src": "2025浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "传统花园地块创造奇迹",
+          "year": 2025
+        }
+      ]
+    },
+    {
+      "def": "to make a secret plan to harm sb, especially a government or its leader 密谋；暗中策划",
+      "ex": []
+    },
+    {
+      "def": "to mark sth on a map, for example the position or course of sth （在地图上）画出，标出",
+      "ex": []
+    },
+    {
+      "def": "to make a diagram or chart from some information 绘制（图表）",
+      "ex": []
+    },
+    {
+      "def": "to mark points on a graph and draw a line or curve connecting them 绘制（图表的曲线）",
+      "ex": []
+    },
+    {
+      "def": "to write the plot of a novel, play, etc. （为小说、戏剧等）设计情节，布局",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "garden plots",
+      "cn": "庭园 故事情节",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "plots and they",
+      "cn": "故事情节 与 他们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "stories have plots",
+      "cn": "故事 有 故事情节",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "plot settings",
+      "cn": "故事情节 环境",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a plot settings",
+      "cn": "一个 故事情节 环境",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "plot details",
+      "cn": "故事情节 细微之处",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lose plot",
+      "cn": "遗失 故事情节",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "can lose plot",
+      "cn": "能 遗失 故事情节",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

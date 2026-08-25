@@ -1,1 +1,139 @@
-{"meta": {"ph": "bɪˈsaɪd; NAmE bɪˈsaɪd", "pos": "prep.", "stars": ""}, "defs": [{"def": "next to or at the side of sb/sth 在旁边（或附近）", "ex": [{"s": "In his spare time though he goes on stage beside pianist Maria Raspopova — not as a musician but as her page turner.", "src": "2021卷", "cat": "gaokao", "t": "但在空闲时间，他登上舞台，站在钢琴家玛丽亚·拉斯波波娃身旁——不是作为音乐家，而是作为她的翻谱员。", "year": 2021}, {"s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.", "src": "2021卷", "cat": "gaokao", "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。", "year": 2021}, {"s": "It fell and crashed beside the cake.", "src": "2021天津3月卷·阅读理解B", "cat": "gaokao", "t": "它掉下来在蛋糕旁摔碎了。", "year": 2021}, {"s": "My dog Don always sits beside me in the passenger scat.", "src": "2020浙江7月卷·完形填空", "cat": "gaokao", "t": "我的狗Don总是坐在副驾驶座上我旁边。", "year": 2020}, {"s": "Beside, they often get some useful informations from the internet.", "src": "2017全国II卷·短文改错", "cat": "gaokao", "t": "此外，他们经常从网上获取一些有用的信息。", "year": 2017}, {"s": "Beside, they often get some useful informations from the internet.", "src": "2017重庆卷·短文改错", "cat": "gaokao", "t": "此外，他们经常从网上获取一些有用的信息。", "year": 2017}, {"s": "I don't think it should be… Besides, … Are you serious?!", "src": "外研社B4 U3", "cat": "waiyan", "t": "我觉得不应该是…… 此外，…… 你是认真的吗？！", "year": ""}, {"s": "Besides, it would cost a lot of money to send her to a school in another country.", "src": "人教B1 U5", "cat": "renjiao", "t": "此外，把她送到另一个国家的学校读书要花很多钱。", "year": ""}, {"s": "Besides drip irrigation and hydroponics, scientists have made impressive innovations in agricultural machinery.", "src": "人教选必1 U5", "cat": "renjiao", "t": "除了滴灌和水培技术，科学家们还在农业机械方面取得了令人瞩目的创新。", "year": ""}]}, {"def": "compared with sb/sth 与 … 相比", "ex": [{"s": "Besides performing and modeling, Hannah travels the world given/giving presentations and talks, getting more people involved/involving in the conservation of ocean life.", "src": "外研社B2 U6", "cat": "waiyan", "t": "除了表演和模特工作，汉娜还在世界各地做演讲和讲座，让更多人参与到海洋生物保护中来。", "year": ""}]}], "chunks": [{"en": "beside cake", "cn": "糕饼", "type": "介词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "bɪˈsaɪd; NAmE bɪˈsaɪd",
+    "pos": "prep.",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "next to or at the side of sb/sth 在旁边（或附近）",
+      "ex": [
+        {
+          "s": "In his spare time though he goes on stage beside pianist Maria Raspopova — not as a musician but as her page turner.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "t": "但在空闲时间，他登上舞台，站在钢琴家玛丽亚·拉斯波波娃身旁——不是作为音乐家，而是作为她的翻谱员。",
+          "year": 2021
+        },
+        {
+          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。",
+          "year": 2021
+        },
+        {
+          "s": "It fell and crashed beside the cake.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "它掉下来在蛋糕旁摔碎了。",
+          "year": 2021
+        },
+        {
+          "s": "My dog Don always sits beside me in the passenger scat.",
+          "src": "2020浙江7月卷·完形填空",
+          "cat": "gaokao",
+          "t": "我的狗Don总是坐在副驾驶座上我旁边。",
+          "year": 2020
+        },
+        {
+          "s": "Beside, they often get some useful informations from the internet.",
+          "src": "2017全国II卷·短文改错",
+          "cat": "gaokao",
+          "t": "此外，他们经常从网上获取一些有用的信息。",
+          "year": 2017
+        },
+        {
+          "s": "Beside, they often get some useful informations from the internet.",
+          "src": "2017重庆卷·短文改错",
+          "cat": "gaokao",
+          "t": "此外，他们经常从网上获取一些有用的信息。",
+          "year": 2017
+        },
+        {
+          "s": "I don't think it should be… Besides, … Are you serious?!",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "我觉得不应该是…… 此外，…… 你是认真的吗？！",
+          "year": ""
+        },
+        {
+          "s": "Besides, it would cost a lot of money to send her to a school in another country.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "此外，把她送到另一个国家的学校读书要花很多钱。",
+          "year": ""
+        },
+        {
+          "s": "Besides drip irrigation and hydroponics, scientists have made impressive innovations in agricultural machinery.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "除了滴灌和水培技术，科学家们还在农业机械方面取得了令人瞩目的创新。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "compared with sb/sth 与 … 相比",
+      "ex": [
+        {
+          "s": "Besides performing and modeling, Hannah travels the world given/giving presentations and talks, getting more people involved/involving in the conservation of ocean life.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "除了表演和模特工作，汉娜还在世界各地做演讲和讲座，让更多人参与到海洋生物保护中来。",
+          "year": ""
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "beside they",
+      "cn": "在旁边 他们",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "beside pianist",
+      "cn": "在旁边",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "stage beside",
+      "cn": "时期 在旁边",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "on stage beside",
+      "cn": "在…上 时期 在旁边",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sit beside",
+      "cn": "坐 在旁边",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "beside the pianist",
+      "cn": "在旁边 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to sit beside",
+      "cn": "去 坐 在旁边",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "crashed beside",
+      "cn": "撞车 在旁边",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,143 @@
-{"meta": {"ph": "plʌɡ; NAmE plʌɡ", "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb", "stars": "★★"}, "defs": [{"def": "a small plastic object with two or three metal pins, that connects a piece of electrical equipment to the main supply of electricity 插头", "ex": [{"s": "To make sure your appliance is in fact off, remove the plug from its power supply.", "src": "外研社B2 U6", "cat": "waiyan", "t": "为了确保你的电器确实关闭了，请拔掉电源插头。"}]}, {"def": "a small opening in a wall, by which you connect a piece of electrical equipment to the main supply of electricity （电源）插座", "ex": []}, {"def": "a small object that connects a wire from one piece of electrical equipment to an opening in another 连接插头", "ex": []}, {"def": "a thick round piece of plastic, rubber or metal that you put in the hole in a bath/ bathtub or a sink to stop the water flowing out 塞子", "ex": []}, {"def": "a round piece of material that fits into a hole and blocks it 堵塞物；塞子", "ex": []}, {"def": "a small plastic tube that you put into a hole in a wall so that it will hold a screw 螺钉楔子，螺钉塞栓（塞入洞中用来固定螺丝的小塑料管）", "ex": []}, {"def": "praise or attention that sb gives to a new book, film/movie, etc. in order to encourage people to buy or see it 推销；宣传", "ex": []}, {"def": "to fill a hole with a substance or piece of material that fits tightly into it 堵塞；封堵", "ex": []}, {"def": "to provide sth that has been missing from a particular situation and is needed in order to improve it 补足；补充；供给", "ex": [{"s": "On the other hand, partners can help plug the knowledge or skill gaps.", "src": "译林选必4 U3", "cat": "yilin", "t": "另一方面，合作伙伴可以帮助填补知识或技能上的缺口。"}]}, {"def": "to give praise or attention to a new book, film/movie, etc. in order to encourage people to buy it or see it 推广；宣传", "ex": []}, {"def": "to shoot sb 射击；射杀", "ex": []}, {"def": "to connect a computer to a computer system 把（计算机）联网", "ex": []}, {"def": "to be able to be connected to the main supply of electricity or to another piece of electrical equipment 电器", "ex": [{"s": "THE BATHROOM • Don’t plug in an electrical appliance or use one while standing in water.", "src": "人教选必2 U5", "cat": "renjiao", "t": "浴室•不要在水中站立时插上或使用电器。"}, {"s": "“I am pleasantly surprised, because I am always looking for where to plug it in,” Espinoza said before catching the subway in a working-class area of southern Barcelona.", "src": "2026新高考II卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "“我感到惊喜，因为我一直在找哪里能给车充电，”Espinoza在南巴塞罗那一个工人阶层社区赶地铁前说道。"}]}, {"def": "to become involved with a particular activity or group of people 参与；加入", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "plʌɡ; NAmE plʌɡ",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a small plastic object with two or three metal pins, that connects a piece of electrical equipment to the main supply of electricity 插头",
+      "ex": [
+        {
+          "s": "To make sure your appliance is in fact off, remove the plug from its power supply.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "为了确保你的电器确实关闭了，请拔掉电源插头。"
+        }
+      ]
+    },
+    {
+      "def": "a small opening in a wall, by which you connect a piece of electrical equipment to the main supply of electricity （电源）插座",
+      "ex": []
+    },
+    {
+      "def": "a small object that connects a wire from one piece of electrical equipment to an opening in another 连接插头",
+      "ex": []
+    },
+    {
+      "def": "a thick round piece of plastic, rubber or metal that you put in the hole in a bath/ bathtub or a sink to stop the water flowing out 塞子",
+      "ex": []
+    },
+    {
+      "def": "a round piece of material that fits into a hole and blocks it 堵塞物；塞子",
+      "ex": []
+    },
+    {
+      "def": "a small plastic tube that you put into a hole in a wall so that it will hold a screw 螺钉楔子，螺钉塞栓（塞入洞中用来固定螺丝的小塑料管）",
+      "ex": []
+    },
+    {
+      "def": "praise or attention that sb gives to a new book, film/movie, etc. in order to encourage people to buy or see it 推销；宣传",
+      "ex": []
+    },
+    {
+      "def": "to fill a hole with a substance or piece of material that fits tightly into it 堵塞；封堵",
+      "ex": []
+    },
+    {
+      "def": "to provide sth that has been missing from a particular situation and is needed in order to improve it 补足；补充；供给",
+      "ex": [
+        {
+          "s": "On the other hand, partners can help plug the knowledge or skill gaps.",
+          "src": "译林选必4 U3",
+          "cat": "yilin",
+          "t": "另一方面，合作伙伴可以帮助填补知识或技能上的缺口。"
+        }
+      ]
+    },
+    {
+      "def": "to give praise or attention to a new book, film/movie, etc. in order to encourage people to buy it or see it 推广；宣传",
+      "ex": []
+    },
+    {
+      "def": "to shoot sb 射击；射杀",
+      "ex": []
+    },
+    {
+      "def": "to connect a computer to a computer system 把（计算机）联网",
+      "ex": []
+    },
+    {
+      "def": "to be able to be connected to the main supply of electricity or to another piece of electrical equipment 电器",
+      "ex": [
+        {
+          "s": "THE BATHROOM • Don’t plug in an electrical appliance or use one while standing in water.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "浴室•不要在水中站立时插上或使用电器。"
+        },
+        {
+          "s": "“I am pleasantly surprised, because I am always looking for where to plug it in,” Espinoza said before catching the subway in a working-class area of southern Barcelona.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“我感到惊喜，因为我一直在找哪里能给车充电，”Espinoza在南巴塞罗那一个工人阶层社区赶地铁前说道。"
+        }
+      ]
+    },
+    {
+      "def": "to become involved with a particular activity or group of people 参与；加入",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "remove the plug",
+      "cn": "移开 该 插头",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "plug from its power",
+      "cn": "插头 从 它的 控制力",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "help plug",
+      "cn": "帮助 插头",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "plug the knowledge",
+      "cn": "插头 该 知识",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "can help plug",
+      "cn": "能 帮助 插头",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "don t plug",
+      "cn": "插头",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "plug in an electrical",
+      "cn": "插头 在…里 一个",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "plug it in espinoza",
+      "cn": "插头 它 在…里",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

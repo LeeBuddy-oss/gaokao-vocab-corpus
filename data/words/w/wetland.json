@@ -1,1 +1,122 @@
-{"meta": {"ph": "ˈwetlənd; NAmE ˈwetlənd", "pos": "noun", "stars": "★"}, "defs": [{"def": "an area of wet land 湿地；沼泽地adj.", "ex": [{"s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"}, {"s": "Loss of wetlands.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "湿地的丧失。"}, {"s": "The village lay near some wetlands which became his second   21   .", "src": "2020全国新高考I卷·完型填空个", "cat": "gaokao", "year": 2020, "t": "这个村庄位于一些湿地附近，那里成了他的第二个____21____。"}, {"s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.", "src": "2020全国II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"}, {"s": "In China, it spends the warmer months in the rivers and wetlands in the north-east.", "src": "外研社B1 U5", "cat": "waiyan", "t": "在中国，它在较温暖的月份生活在东北的河流和湿地中。"}, {"s": "Lin Feng: In recent years, we have seen large areas of wetland that were damaged by human activity.", "src": "外研社B2 U6", "cat": "waiyan", "t": "林峰：近年来，我们看到大片湿地被人类活动破坏。"}, {"s": "We even moved 140,000 square metres of wetland to a new area in order to protect its distinct ecosystem.", "src": "外研社B4 U6", "cat": "waiyan", "t": "我们甚至将14万平方米的湿地迁移到新区域，以保护其独特的生态系统。"}, {"s": "They had turned wetlands into fields for growing grains, and had dug huge canal systems.", "src": "外研社B7 U5", "cat": "waiyan", "t": "他们把湿地变成了种植谷物的田地，并挖掘了巨大的运河系统。"}, {"s": "Report an ongoing event 3 Liu Tao would like to express his concern over the wetland in his hometown.", "src": "人教B2 U2", "cat": "renjiao", "t": "报道一件正在发生的事 3 刘涛想表达他对家乡湿地的关切。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈwetlənd; NAmE ˈwetlənd",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "an area of wet land 湿地；沼泽地adj.",
+      "ex": [
+        {
+          "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
+        },
+        {
+          "s": "Loss of wetlands.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "湿地的丧失。"
+        },
+        {
+          "s": "The village lay near some wetlands which became his second   21   .",
+          "src": "2020全国新高考I卷·完型填空个",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这个村庄位于一些湿地附近，那里成了他的第二个____21____。"
+        },
+        {
+          "s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"
+        },
+        {
+          "s": "In China, it spends the warmer months in the rivers and wetlands in the north-east.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "在中国，它在较温暖的月份生活在东北的河流和湿地中。"
+        },
+        {
+          "s": "Lin Feng: In recent years, we have seen large areas of wetland that were damaged by human activity.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "林峰：近年来，我们看到大片湿地被人类活动破坏。"
+        },
+        {
+          "s": "We even moved 140,000 square metres of wetland to a new area in order to protect its distinct ecosystem.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "我们甚至将14万平方米的湿地迁移到新区域，以保护其独特的生态系统。"
+        },
+        {
+          "s": "They had turned wetlands into fields for growing grains, and had dug huge canal systems.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "他们把湿地变成了种植谷物的田地，并挖掘了巨大的运河系统。"
+        },
+        {
+          "s": "Report an ongoing event 3 Liu Tao would like to express his concern over the wetland in his hometown.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "报道一件正在发生的事 3 刘涛想表达他对家乡湿地的关切。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "purchase wetlands",
+      "cn": "购买 湿地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wetlands and wildlife",
+      "cn": "湿地 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to purchase wetlands",
+      "cn": "去 购买 湿地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "loss of wetlands",
+      "cn": "丧失 的 湿地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wetlands which became",
+      "cn": "湿地 哪个",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "vast wetlands",
+      "cn": "辽阔的 湿地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wetlands every year",
+      "cn": "湿地 每 年",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "destroying vast wetlands",
+      "cn": "摧毁 辽阔的 湿地",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

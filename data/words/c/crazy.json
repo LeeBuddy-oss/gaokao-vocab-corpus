@@ -1,1 +1,180 @@
-{"meta": {"ph": "ˈkreɪzi; NAmE ˈkreɪzi", "pos": "adjective", "stars": ""}, "defs": [{"def": "not sensible; stupid 不理智的；疯狂的；愚蠢的；傻的", "ex": [{"s": "They went crazy with the purple quartz rock.", "src": "2023全国乙卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "他们为紫色石英岩而疯狂。"}, {"s": "What puzzles Lily's friends is                   she always has so many crazy ideas.", "src": "2021天津3月卷·单项选择", "cat": "gaokao", "year": 2021, "t": "让莉莉的朋友们困惑的是                   她总是有那么多疯狂的想法。"}, {"s": "It will drive us crazy.", "src": "2020全国I卷·完形填空", "cat": "gaokao", "year": 2020, "t": "孩子们显然知道   44  。"}, {"s": "“I have an idea, but it might be a little crazy,” smiled Mom.", "src": "2020浙江1月卷·读后续写", "cat": "gaokao", "year": 2020, "t": "“我有个主意，但可能有点疯狂，”妈妈笑着说。"}, {"s": "This got me thinking how English can be a crazy language to learn.", "src": "外研社B1 U2", "cat": "waiyan", "year": "", "t": "这让我想到，英语学起来可真是一门疯狂的语言。"}, {"s": "Oh, why are people so crazy?", "src": "外研社B6 U6", "cat": "waiyan", "year": "", "t": "哦，为什么人们这么疯狂？"}, {"s": "English is a crazy language.", "src": "人教B1 U5", "cat": "renjiao", "year": "", "t": "英语是一门疯狂的语言。"}, {"s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.", "src": "2020全国II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"}, {"s": "The fur trade kept nutria check for decades，but when the market for nutria collapsed in the late 1980s，the cat-sized animals multiplied like crazy.", "src": "2020全国II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "皮草贸易使海狸鼠的数量得到控制了几十年，但20世纪80年代末海狸鼠市场崩溃后，这种猫大小的动物疯狂繁殖。"}, {"s": "(Student B) My Crazy Family.", "src": "外研社B4 U1", "cat": "waiyan", "year": "", "t": "我的疯狂家庭。"}]}, {"def": "very angry 非常气愤", "ex": []}, {"def": "very enthusiastic or excited about sth 常构成复合词", "ex": [{"s": "I’m crazy about basketball, and pretty good at it too, which is probably why I was so mad when we lost our last match.", "src": "外研社B3 U1", "cat": "waiyan", "year": "", "t": "我痴迷于篮球，而且打得相当好，这可能就是为什么上次比赛我们输了时我那么生气。"}]}, {"def": "liking sb very much; in love with sb 迷恋的；爱上的", "ex": []}, {"def": "mentally ill; insane 患精神病的；精神失常（或错乱）的", "ex": [{"s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.", "src": "2024新高考I卷·读后续写", "cat": "gaokao", "year": 2024, "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"}, {"s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.", "src": "2024新高考II卷·读后续写", "cat": "gaokao", "year": 2024, "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"}, {"s": "He hums it over and over again, and you are about to go crazy.", "src": "2020天津6月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "对于那些渴望一些安宁和宁静的人来说，声音现在可以创造寂静。"}]}], "chunks": [{"en": "go crazy", "cn": "发疯", "type": "形容词搭配", "count": 2}, {"en": "crazy about", "cn": "痴迷于", "type": "形容词搭配", "count": 2}]}
+{
+  "meta": {
+    "ph": "ˈkreɪzi; NAmE ˈkreɪzi",
+    "pos": "adjective",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "not sensible; stupid 不理智的；疯狂的；愚蠢的；傻的",
+      "ex": [
+        {
+          "s": "They went crazy with the purple quartz rock.",
+          "src": "2023全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他们为紫色石英岩而疯狂。"
+        },
+        {
+          "s": "What puzzles Lily's friends is                   she always has so many crazy ideas.",
+          "src": "2021天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "让莉莉的朋友们困惑的是                   她总是有那么多疯狂的想法。"
+        },
+        {
+          "s": "It will drive us crazy.",
+          "src": "2020全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "孩子们显然知道   44  。"
+        },
+        {
+          "s": "“I have an idea, but it might be a little crazy,” smiled Mom.",
+          "src": "2020浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“我有个主意，但可能有点疯狂，”妈妈笑着说。"
+        },
+        {
+          "s": "This got me thinking how English can be a crazy language to learn.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这让我想到，英语学起来可真是一门疯狂的语言。"
+        },
+        {
+          "s": "Oh, why are people so crazy?",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "哦，为什么人们这么疯狂？"
+        },
+        {
+          "s": "English is a crazy language.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "英语是一门疯狂的语言。"
+        },
+        {
+          "s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"
+        },
+        {
+          "s": "The fur trade kept nutria check for decades，but when the market for nutria collapsed in the late 1980s，the cat-sized animals multiplied like crazy.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "皮草贸易使海狸鼠的数量得到控制了几十年，但20世纪80年代末海狸鼠市场崩溃后，这种猫大小的动物疯狂繁殖。"
+        },
+        {
+          "s": "(Student B) My Crazy Family.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我的疯狂家庭。"
+        }
+      ]
+    },
+    {
+      "def": "very angry 非常气愤",
+      "ex": []
+    },
+    {
+      "def": "very enthusiastic or excited about sth 常构成复合词",
+      "ex": [
+        {
+          "s": "I’m crazy about basketball, and pretty good at it too, which is probably why I was so mad when we lost our last match.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我痴迷于篮球，而且打得相当好，这可能就是为什么上次比赛我们输了时我那么生气。"
+        }
+      ]
+    },
+    {
+      "def": "liking sb very much; in love with sb 迷恋的；爱上的",
+      "ex": []
+    },
+    {
+      "def": "mentally ill; insane 患精神病的；精神失常（或错乱）的",
+      "ex": [
+        {
+          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
+          "src": "2024新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
+        },
+        {
+          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
+          "src": "2024新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
+        },
+        {
+          "s": "He hums it over and over again, and you are about to go crazy.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对于那些渴望一些安宁和宁静的人来说，声音现在可以创造寂静。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "crazy language",
+      "cn": "不理智的 语言",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "a crazy language",
+      "cn": "一个 不理智的 语言",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "ran like crazy",
+      "cn": "像 不理智的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "crazy through the airport",
+      "cn": "不理智的 通过 该 航空站",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "went crazy",
+      "cn": "不理智的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "they went crazy",
+      "cn": "他们 不理智的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "crazy with the purple",
+      "cn": "不理智的 与 该 紫色的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "crazy ideas",
+      "cn": "不理智的 想法",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

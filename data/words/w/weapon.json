@@ -1,1 +1,106 @@
-{"meta":{"ph":"ˈwepən; NAmE ˈwepən","pos":"noun","stars":"★★"},"defs":[{"def":"an object such as a knife, gun, bomb, etc. that is used for fighting or attacking sb 武器；兵器；凶器","ex":[{"s":"They work to disarm combatants and to secure weapons and ammunition, removing them from use.","src":"外研社B6 U3","cat":"waiyan","t":"他们努力解除战斗人员的武装，确保武器和弹药的安全，使其不再使用。"},{"s":"At any moment, it seemed, a body of horsemen might be seen breaking out from the black trees, so many weapons might be heard and some distant spot of snow be reddened.","src":"外研社B6 U6","cat":"waiyan","t":"在任何时刻，似乎都可能看到一队骑手从黑黢黢的树林中冲出，如此多的兵刃铿锵声可闻，远处某个雪点可能会被染红。"},{"s":"War is fought with terrifying and dreadful weapons.","src":"外研社B6 U6","cat":"waiyan","t":"战争是用令人恐惧而可怕的武器进行的。"},{"s":"Perhaps I only had a better weapon.","src":"人教选必3 U5","cat":"renjiao","t":"或许我只不过拥有更好的武器。"}]},{"def":"something such as knowledge, words, actions, etc. that can be used to attack or fight against sb/sth 武器，手段，工具（指用作攻击或斗争的知识、言语、行动等）","ex":[{"s":"Sound can be used as a weapon.","src":"2020天津6月卷·阅读理解C","cat":"gaokao","year":2020,"t":"声音可以用作武器。"},{"s":"And yet some people say the greatest weapon of all is the power of human speech.","src":"外研社B6 U6","cat":"waiyan","t":"然而有些人说，最强大的武器莫过于人类言语的力量。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈwepən; NAmE ˈwepən",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "an object such as a knife, gun, bomb, etc. that is used for fighting or attacking sb 武器；兵器；凶器",
+      "ex": [
+        {
+          "s": "They work to disarm combatants and to secure weapons and ammunition, removing them from use.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "他们努力解除战斗人员的武装，确保武器和弹药的安全，使其不再使用。"
+        },
+        {
+          "s": "At any moment, it seemed, a body of horsemen might be seen breaking out from the black trees, so many weapons might be heard and some distant spot of snow be reddened.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "在任何时刻，似乎都可能看到一队骑手从黑黢黢的树林中冲出，如此多的兵刃铿锵声可闻，远处某个雪点可能会被染红。"
+        },
+        {
+          "s": "War is fought with terrifying and dreadful weapons.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "战争是用令人恐惧而可怕的武器进行的。"
+        },
+        {
+          "s": "Perhaps I only had a better weapon.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "或许我只不过拥有更好的武器。"
+        }
+      ]
+    },
+    {
+      "def": "something such as knowledge, words, actions, etc. that can be used to attack or fight against sb/sth 武器，手段，工具（指用作攻击或斗争的知识、言语、行动等）",
+      "ex": [
+        {
+          "s": "Sound can be used as a weapon.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "声音可以用作武器。"
+        },
+        {
+          "s": "And yet some people say the greatest weapon of all is the power of human speech.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "然而有些人说，最强大的武器莫过于人类言语的力量。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "secure weapons",
+      "cn": "安心的 武器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "weapons and ammunition",
+      "cn": "武器 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to secure weapons",
+      "cn": "去 安心的 武器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "weapons might be heard",
+      "cn": "武器 可能 是",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "dreadful weapons",
+      "cn": "武器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and dreadful weapons",
+      "cn": "与 武器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "better weapon",
+      "cn": "较好的 武器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a better weapon",
+      "cn": "一个 较好的 武器",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

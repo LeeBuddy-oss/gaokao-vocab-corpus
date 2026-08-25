@@ -1,1 +1,143 @@
-{"meta": {"ph": "əˈweə(r); NAmE əˈwer", "pos": "adj.", "stars": ""}, "defs": [{"def": "knowing or realizing sth 知道；意识到；明白", "ex": [{"s": "To make the public aware of food waste.", "src": "2025新高考II卷·阅读理解D", "cat": "gaokao", "t": "让公众意识到食物浪费问题。", "year": 2025}, {"s": "People develop countless habits as they explore the world, whether they are aware of them or not.", "src": "2023北京卷", "cat": "gaokao", "t": "人们在探索世界的过程中养成无数的习惯，无论他们是否意识到这一点。", "year": 2023}, {"s": "is fully aware of his talent and ability", "src": "2021天津3月卷·阅读理解D", "cat": "gaokao", "t": "完全清楚自己的才能和能力", "year": 2021}, {"s": "Everybody can buy takeaway food, but sometimes we’re not aware how cheaply we can make this food ourselves.”", "src": "2018全国I卷·阅读理解B", "cat": "gaokao", "t": "每个人都可以买外卖食物，但有时我们没有意识到自己做饭有多便宜。\"", "year": 2018}, {"s": "If I can do something to make others aware of the problem, then that's part of the solution.", "src": "外研社B2 U5", "cat": "waiyan", "t": "如果我能做点什么让别人意识到这个问题，那么那也是解决办法的一部分。", "year": ""}, {"s": "Most of us are aware that we must take care of the environment, and the majority of us take steps to save energy and reduce waste and pollution.", "src": "外研社B2 U6", "cat": "waiyan", "t": "我们大多数人都意识到必须爱护环境，并且我们中多数人都在采取措施节约能源、减少浪费和污染。", "year": ""}, {"s": "Try to be aware of where and when to pause during a conversation.", "src": "外研社B3 U4", "cat": "waiyan", "t": "试着留意在对话中何时何地该停顿。", "year": ""}, {"s": "However, I still left the restaurant feeling hungry, though I was much more aware of the challenges that blind people face.", "src": "外研社B4 U2", "cat": "waiyan", "t": "然而，我离开餐厅时仍然觉得饿，尽管我比以前更清楚地意识到盲人所面临的挑战。", "year": ""}]}, {"def": "noticing that sth is present, or that sth is happening 察觉到；发觉；发现", "ex": [{"s": "Please be aware that you will not receive this smart card during Welcome Week if you do not upload your image online by 4 September 2020.", "src": "2020天津3月卷·阅读理解A", "cat": "gaokao", "t": "请注意如果你不在2020年9月4日之前在线上传你的照片你在迎新周期间将不会收到这张智能卡。", "year": 2020}, {"s": "We could also say The butterfly is aware of the time of day and the position of the sun in the sky, so it can use these two pieces of information to find out which way to go.", "src": "外研社B1 U6", "cat": "waiyan", "t": "我们也可以说，蝴蝶能察觉一天中的时间和太阳在天空中的位置，从而利用这两点信息来判断该往哪个方向飞。", "year": ""}]}, {"def": "interested in and knowing about sth, and thinking it is important 与副词连用", "ex": []}], "chunks": [{"en": "fully aware", "cn": "充分意识到的", "type": "形容词搭配", "count": 1}, {"en": "be aware of", "cn": "意识到", "type": "形容词搭配", "count": 4}]}
+{
+  "meta": {
+    "ph": "əˈweə(r); NAmE əˈwer",
+    "pos": "adj.",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "knowing or realizing sth 知道；意识到；明白",
+      "ex": [
+        {
+          "s": "To make the public aware of food waste.",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "让公众意识到食物浪费问题。",
+          "year": 2025
+        },
+        {
+          "s": "People develop countless habits as they explore the world, whether they are aware of them or not.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "t": "人们在探索世界的过程中养成无数的习惯，无论他们是否意识到这一点。",
+          "year": 2023
+        },
+        {
+          "s": "is fully aware of his talent and ability",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "完全清楚自己的才能和能力",
+          "year": 2021
+        },
+        {
+          "s": "Everybody can buy takeaway food, but sometimes we’re not aware how cheaply we can make this food ourselves.”",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "每个人都可以买外卖食物，但有时我们没有意识到自己做饭有多便宜。\"",
+          "year": 2018
+        },
+        {
+          "s": "If I can do something to make others aware of the problem, then that's part of the solution.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "如果我能做点什么让别人意识到这个问题，那么那也是解决办法的一部分。",
+          "year": ""
+        },
+        {
+          "s": "Most of us are aware that we must take care of the environment, and the majority of us take steps to save energy and reduce waste and pollution.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "我们大多数人都意识到必须爱护环境，并且我们中多数人都在采取措施节约能源、减少浪费和污染。",
+          "year": ""
+        },
+        {
+          "s": "Try to be aware of where and when to pause during a conversation.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "试着留意在对话中何时何地该停顿。",
+          "year": ""
+        },
+        {
+          "s": "However, I still left the restaurant feeling hungry, though I was much more aware of the challenges that blind people face.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "然而，我离开餐厅时仍然觉得饿，尽管我比以前更清楚地意识到盲人所面临的挑战。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "noticing that sth is present, or that sth is happening 察觉到；发觉；发现",
+      "ex": [
+        {
+          "s": "Please be aware that you will not receive this smart card during Welcome Week if you do not upload your image online by 4 September 2020.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "请注意如果你不在2020年9月4日之前在线上传你的照片你在迎新周期间将不会收到这张智能卡。",
+          "year": 2020
+        },
+        {
+          "s": "We could also say The butterfly is aware of the time of day and the position of the sun in the sky, so it can use these two pieces of information to find out which way to go.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说，蝴蝶能察觉一天中的时间和太阳在天空中的位置，从而利用这两点信息来判断该往哪个方向飞。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "interested in and knowing about sth, and thinking it is important 与副词连用",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "public aware",
+      "cn": "平民的 知道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "aware of food",
+      "cn": "知道 的 食物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the public aware",
+      "cn": "该 平民的 知道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "aware of them",
+      "cn": "知道 的 他们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "they are aware",
+      "cn": "他们 是 知道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fully aware",
+      "cn": "知道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "aware of his",
+      "cn": "知道 的 他的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "is fully aware",
+      "cn": "是 知道",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

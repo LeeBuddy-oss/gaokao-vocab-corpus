@@ -265,16 +265,52 @@
   ],
   "chunks": [
     {
-      "en": "traffic jam",
-      "cn": "交通堵塞",
+      "en": "stuck in traffic",
+      "cn": "在…里 路上行驶的车辆",
       "type": "名词短语",
+      "count": 6
+    },
+    {
+      "en": "traffic jams",
+      "cn": "路上行驶的车辆 果酱",
+      "type": "动词短语",
       "count": 5
     },
     {
-      "en": "traffic accident",
-      "cn": "交通事故",
+      "en": "traffic rules",
+      "cn": "路上行驶的车辆 规则",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "causes traffic",
+      "cn": "原因 路上行驶的车辆",
       "type": "名词短语",
-      "count": 1
+      "count": 2
+    },
+    {
+      "en": "it causes traffic",
+      "cn": "它 原因 路上行驶的车辆",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "traffic signals",
+      "cn": "路上行驶的车辆 信号",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "traffic police",
+      "cn": "路上行驶的车辆 警察",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "the traffic police",
+      "cn": "该 路上行驶的车辆 警察",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

@@ -1,1 +1,108 @@
-{"meta": {"ph": "mʌd; NAmE mʌd", "pos": "noun", "stars": "★★"}, "defs": [{"def": "wet earth that is soft and sticky 泥；淤泥；泥浆", "ex": [{"s": "In spring, the snow was replaced by mud over ice.", "src": "2022全国乙卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "在Wickenden的书中，她详细描述了西部的历史，也谈到了女权主义，这当然影响了女孩们去Elkhead的决定。"}, {"s": "Though Smith did get her hands on the best sand, doing things the old-fashioned way isn't just about playing around with French mud.", "src": "2020北京卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "虽然史密斯确实得到了她的手 最好的沙子，做一些事情 旧式的方式 不只是玩弄法国泥。"}, {"s": "The park sits on a supervolcano, and visitors can see colourful hot springs, bubbling pots of mud and geysers.", "src": "外研社B1 U6", "cat": "waiyan", "t": "这个公园坐落在一座超级火山上，游客可以看到五颜六色的温泉、冒泡的泥潭和间歇泉。"}, {"s": "There is a large pool of mud, and a group of young people are jumping into it and swimming around.", "src": "人教选必2 U5", "cat": "renjiao", "t": "有一个大泥浆池，一群年轻人正在跳进去四处游着。"}, {"s": "Soon, like my new friends, I am covered in gray mud from head to toe.", "src": "人教选必2 U5", "cat": "renjiao", "t": "很快，就像我的新朋友们一样，我从头到脚都沾满了灰色的泥浆。"}, {"s": "And I wonder, when Xu Xiake came here nearly five hundred years ago, did he examine the mud like a scientist?", "src": "人教选必2 U5", "cat": "renjiao", "t": "我在想，将近五百年前徐霞客来到这里时，他是否像科学家一样审视过这些泥土？"}, {"s": "I was sitting in the rain in some mud next to the machine.", "src": "人教选必4 U1", "cat": "renjiao", "t": "我坐在雨中机器旁边的泥浆里。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "mʌd; NAmE mʌd",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "wet earth that is soft and sticky 泥；淤泥；泥浆",
+      "ex": [
+        {
+          "s": "In spring, the snow was replaced by mud over ice.",
+          "src": "2022全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在Wickenden的书中，她详细描述了西部的历史，也谈到了女权主义，这当然影响了女孩们去Elkhead的决定。"
+        },
+        {
+          "s": "Though Smith did get her hands on the best sand, doing things the old-fashioned way isn't just about playing around with French mud.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "虽然史密斯确实得到了她的手 最好的沙子，做一些事情 旧式的方式 不只是玩弄法国泥。"
+        },
+        {
+          "s": "The park sits on a supervolcano, and visitors can see colourful hot springs, bubbling pots of mud and geysers.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这个公园坐落在一座超级火山上，游客可以看到五颜六色的温泉、冒泡的泥潭和间歇泉。"
+        },
+        {
+          "s": "There is a large pool of mud, and a group of young people are jumping into it and swimming around.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "有一个大泥浆池，一群年轻人正在跳进去四处游着。"
+        },
+        {
+          "s": "Soon, like my new friends, I am covered in gray mud from head to toe.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "很快，就像我的新朋友们一样，我从头到脚都沾满了灰色的泥浆。"
+        },
+        {
+          "s": "And I wonder, when Xu Xiake came here nearly five hundred years ago, did he examine the mud like a scientist?",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "我在想，将近五百年前徐霞客来到这里时，他是否像科学家一样审视过这些泥土？"
+        },
+        {
+          "s": "I was sitting in the rain in some mud next to the machine.",
+          "src": "人教选必4 U1",
+          "cat": "renjiao",
+          "t": "我坐在雨中机器旁边的泥浆里。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "mud over ice",
+      "cn": "泥 超过 冰",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "replaced by mud",
+      "cn": "代替 通过 泥",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "french mud",
+      "cn": "泥",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "with french mud",
+      "cn": "与 泥",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mud and geysers",
+      "cn": "泥 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "pots of mud",
+      "cn": "锅 的 泥",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pool of mud",
+      "cn": "这家旅馆有没有游泳池？ 的 泥",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mud and a group",
+      "cn": "泥 与 一个 组",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

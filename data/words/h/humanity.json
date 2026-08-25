@@ -1,1 +1,156 @@
-{"meta": {"ph": "hjuːˈmænəti; NAmE hjuːˈmænəti", "pos": "noun", "stars": "★★"}, "defs": [{"def": "people in general （统称）人；人类", "ex": [{"s": "Hundreds of scientists, writers and academics sounded a warning to humanity in an open letter published last December: Policymakers and the rest of us must engage openly with the risk of global collapse.", "src": "2021北京卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "数百名科学家、作家和学者去年12月在发表的一封公开信中向人类发出警告：政策制定者和我们所有人都必须公开面对全球崩溃的风险。"}, {"s": "With the current footprint of humanity, “it seems that global collapse is certain to happen in some form, possibly within a decade, certainly within this century,” Johnson said in an email.", "src": "2021北京卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "约翰逊在电子邮件中说，以人类目前的足迹来看，“全球崩溃似乎注定会以某种形式发生，可能在本十年内，肯定在本世纪内”。"}, {"s": "Among the many horrors inflicted on humanity by the Second World War was the massive bombing of civilians, often referred to as “terror bombing”.", "src": "外研社B6 U3", "cat": "waiyan", "t": "在第二次世界大战给人类带来的诸多恐怖之中，对平民的大规模轰炸——常被称为\"恐怖轰炸\"——是其中之一。"}, {"s": "In the words of Professor Stephen Hawking, Artificial Intelligence will be “either the best, or the worst thing, ever to happen to humanity”.", "src": "外研社B6 U4", "cat": "waiyan", "t": "用斯蒂芬·霍金教授的话说，人工智能将是\"要么是最好的，要么是最坏的，有史以来发生在人类身上的事情\"。"}, {"s": "And until all of humanity, without exception, undergoes a metamorphosis, wars will continue to be waged, and everything that has been carefully built up, cultivated and grown will be cut down and destroyed, only to start all over again!", "src": "外研社B6 U6", "cat": "waiyan", "t": "直到全人类无一例外地经历蜕变，战争将继续进行，一切被精心建立、培育和成长的东西都将被砍伐和摧毁，只为了重新开始这一切！"}, {"s": "The memory of those seven will live forever, written in the stars, inspiring us to join them in humanity’s greatest journey of exploration and discovery.", "src": "外研社B7 U6", "cat": "waiyan", "t": "这七个人的记忆将永远长存，写在星星中，激励我们加入他们，踏上人类最伟大的探索和发现之旅。"}, {"s": "Read the quotes and answer the questions The sole meaning of life is to serve humanity.", "src": "外研社B7 U6", "cat": "waiyan", "t": "阅读下面的名言并回答问题：生命的唯一意义是服务人类。"}, {"s": "She explains we are at a “tipping point” in history and must act now to prevent an extinction-level event for humanity.", "src": "2024新高考II卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "她解释说，我们正处于历史上的一个“临界点”，必须立刻行动，以防人类遭遇灭绝级事件。"}, {"s": "If you want to tell the history of the whole world, a history that does not privilege one part of humanity, you cannot do it through texts alone, because only some of the world has ever had texts, while most of the world, for most of the time, has not.", "src": "2023全国乙卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "如果你想讲述整个世界的历史，一部不偏袒任何一部分人类的历史，你就不能只依靠文字文献，因为世界上只有一部分地区曾经有过文字，而世界上大部分地区在大部分时间里都没有。"}, {"s": "What humanity is concerned about.", "src": "2023全国乙卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "人类所关注的事物。"}, {"s": "In artists’ representations of books and reading, we see moments of shared humanity that go beyond culture and time.", "src": "2023新课标II卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"}]}, {"def": "the state of being a person rather than a god, an animal or a machine 人性", "ex": []}, {"def": "the quality of being kind to people and animals by making sure that they do not suffer more than is necessary; the quality of being humane 人道；仁慈", "ex": []}, {"def": "the subjects of study that are concerned with the way people think and behave, for example literature, language, history and philosophy 人文学科", "ex": [{"s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.", "src": "2024新高考I卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "hjuːˈmænəti; NAmE hjuːˈmænəti",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "people in general （统称）人；人类",
+      "ex": [
+        {
+          "s": "Hundreds of scientists, writers and academics sounded a warning to humanity in an open letter published last December: Policymakers and the rest of us must engage openly with the risk of global collapse.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "数百名科学家、作家和学者去年12月在发表的一封公开信中向人类发出警告：政策制定者和我们所有人都必须公开面对全球崩溃的风险。"
+        },
+        {
+          "s": "With the current footprint of humanity, “it seems that global collapse is certain to happen in some form, possibly within a decade, certainly within this century,” Johnson said in an email.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "约翰逊在电子邮件中说，以人类目前的足迹来看，“全球崩溃似乎注定会以某种形式发生，可能在本十年内，肯定在本世纪内”。"
+        },
+        {
+          "s": "Among the many horrors inflicted on humanity by the Second World War was the massive bombing of civilians, often referred to as “terror bombing”.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "在第二次世界大战给人类带来的诸多恐怖之中，对平民的大规模轰炸——常被称为\"恐怖轰炸\"——是其中之一。"
+        },
+        {
+          "s": "In the words of Professor Stephen Hawking, Artificial Intelligence will be “either the best, or the worst thing, ever to happen to humanity”.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "用斯蒂芬·霍金教授的话说，人工智能将是\"要么是最好的，要么是最坏的，有史以来发生在人类身上的事情\"。"
+        },
+        {
+          "s": "And until all of humanity, without exception, undergoes a metamorphosis, wars will continue to be waged, and everything that has been carefully built up, cultivated and grown will be cut down and destroyed, only to start all over again!",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "直到全人类无一例外地经历蜕变，战争将继续进行，一切被精心建立、培育和成长的东西都将被砍伐和摧毁，只为了重新开始这一切！"
+        },
+        {
+          "s": "The memory of those seven will live forever, written in the stars, inspiring us to join them in humanity’s greatest journey of exploration and discovery.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "这七个人的记忆将永远长存，写在星星中，激励我们加入他们，踏上人类最伟大的探索和发现之旅。"
+        },
+        {
+          "s": "Read the quotes and answer the questions The sole meaning of life is to serve humanity.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "阅读下面的名言并回答问题：生命的唯一意义是服务人类。"
+        },
+        {
+          "s": "She explains we are at a “tipping point” in history and must act now to prevent an extinction-level event for humanity.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "她解释说，我们正处于历史上的一个“临界点”，必须立刻行动，以防人类遭遇灭绝级事件。"
+        },
+        {
+          "s": "If you want to tell the history of the whole world, a history that does not privilege one part of humanity, you cannot do it through texts alone, because only some of the world has ever had texts, while most of the world, for most of the time, has not.",
+          "src": "2023全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果你想讲述整个世界的历史，一部不偏袒任何一部分人类的历史，你就不能只依靠文字文献，因为世界上只有一部分地区曾经有过文字，而世界上大部分地区在大部分时间里都没有。"
+        },
+        {
+          "s": "What humanity is concerned about.",
+          "src": "2023全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "人类所关注的事物。"
+        },
+        {
+          "s": "In artists’ representations of books and reading, we see moments of shared humanity that go beyond culture and time.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"
+        }
+      ]
+    },
+    {
+      "def": "the state of being a person rather than a god, an animal or a machine 人性",
+      "ex": []
+    },
+    {
+      "def": "the quality of being kind to people and animals by making sure that they do not suffer more than is necessary; the quality of being humane 人道；仁慈",
+      "ex": []
+    },
+    {
+      "def": "the subjects of study that are concerned with the way people think and behave, for example literature, language, history and philosophy 人文学科",
+      "ex": [
+        {
+          "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "warning to humanity",
+      "cn": "警告 去 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "humanity in an open",
+      "cn": "人 在…里 一个 开放的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "humanity it seems",
+      "cn": "人 它 不用于进行时",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "footprint of humanity",
+      "cn": "的 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "inflicted on humanity",
+      "cn": "在…上 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "happen to humanity",
+      "cn": "发生 去 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "humanity without exception",
+      "cn": "人 没有",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "humanity s greatest",
+      "cn": "人",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

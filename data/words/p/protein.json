@@ -1,1 +1,96 @@
-{"meta":{"ph":"ˈprəʊtiːn; NAmE ˈproʊtiːn","pos":"noun","stars":"★★"},"defs":[{"def":"a natural substance found in meat, eggs, fish, some vegetables, etc. There are many different proteins and they are an essential part of what humans and animals eat to help them grow and stay healthy. 蛋白质","ex":[{"s":"He then handed it to my father, who was trying to manage with the protein bar.","src":"2023天津6月卷·二、完型填空","cat":"gaokao","year":2023,"t":"\"这真的是一种了不起的方式，不仅让我学会了家族的食谱，还了解了家族的故事。\""},{"s":"They contain protein.","src":"2018全国II卷·阅读理解B","cat":"gaokao","year":2018,"t":"它们含有蛋白质。"},{"s":"It blocks a key protein in the body’s cells that is to for the spread of cold-causing virus.","src":"人教选必2 U1","cat":"renjiao","t":"它阻断了人体细胞中对感冒病毒传播起关键作用的一种蛋白质。"},{"s":"Besides this, it is also important to have some meat, beans, or dairy products in your diet, as they provide the necessary protein for strong bones and muscle growth.","src":"人教选必2 U3","cat":"renjiao","t":"除此之外，饮食中含有一些肉类、豆类或奶制品也很重要，因为它们为强健骨骼和肌肉生长提供了必需的蛋白质。"},{"s":"To help your muscles recover and repair themselves after exercise, you need to eat foods rich in protein, such as fish, eggs and milk products.","src":"译林B2 U2","cat":"yilin","t":"为了帮助肌肉在运动后恢复和修复，你需要吃富含蛋白质的食物，如鱼、鸡蛋和奶制品。"}]}],"chunks":[{"en":"contain protein","cn":"包含蛋白质","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "ˈprəʊtiːn; NAmE ˈproʊtiːn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a natural substance found in meat, eggs, fish, some vegetables, etc. There are many different proteins and they are an essential part of what humans and animals eat to help them grow and stay healthy. 蛋白质",
+      "ex": [
+        {
+          "s": "He then handed it to my father, who was trying to manage with the protein bar.",
+          "src": "2023天津6月卷·二、完型填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "\"这真的是一种了不起的方式，不仅让我学会了家族的食谱，还了解了家族的故事。\""
+        },
+        {
+          "s": "They contain protein.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "它们含有蛋白质。"
+        },
+        {
+          "s": "It blocks a key protein in the body’s cells that is to for the spread of cold-causing virus.",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "t": "它阻断了人体细胞中对感冒病毒传播起关键作用的一种蛋白质。"
+        },
+        {
+          "s": "Besides this, it is also important to have some meat, beans, or dairy products in your diet, as they provide the necessary protein for strong bones and muscle growth.",
+          "src": "人教选必2 U3",
+          "cat": "renjiao",
+          "t": "除此之外，饮食中含有一些肉类、豆类或奶制品也很重要，因为它们为强健骨骼和肌肉生长提供了必需的蛋白质。"
+        },
+        {
+          "s": "To help your muscles recover and repair themselves after exercise, you need to eat foods rich in protein, such as fish, eggs and milk products.",
+          "src": "译林B2 U2",
+          "cat": "yilin",
+          "t": "为了帮助肌肉在运动后恢复和修复，你需要吃富含蛋白质的食物，如鱼、鸡蛋和奶制品。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "protein bar",
+      "cn": "蛋白质 酒吧",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the protein bar",
+      "cn": "该 蛋白质 酒吧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "contain protein",
+      "cn": "包含 蛋白质",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "they contain protein",
+      "cn": "他们 包含 蛋白质",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "key protein",
+      "cn": "钥匙 蛋白质",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a key protein",
+      "cn": "一个 钥匙 蛋白质",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "protein in the body",
+      "cn": "蛋白质 在…里 该 身体",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "necessary protein",
+      "cn": "必需的 蛋白质",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

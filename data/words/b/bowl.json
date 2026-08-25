@@ -1,1 +1,157 @@
-{"meta": {"ph": "bəʊl; NAmE boʊl", "pos": "noun; noun; noun; noun; noun; noun; noun; verb; verb; verb; verb; verb; verb", "stars": ""}, "defs": [{"def": "a deep round dish with a wide open top, used especially for holding food or liquid 尤用于构成复合词", "ex": [{"s": "B: Should we put out bowls of food for them?", "src": "人教B2 U2", "cat": "renjiao", "year": "", "t": "B：我们要不要给他们摆几碗食物？"}, {"s": "Next I broke the eggs into a bowl and beat them quickly with chopstick.", "src": "2020全国I卷·短文改错", "cat": "gaokao", "year": 2020, "t": "接着我把鸡蛋打进碗里，用筷子快速打散。"}]}, {"def": "the amount contained in a bowl 一碗，一钵，一盆（的量）", "ex": [{"s": "For example, every morning, my dad has to have the bowl of egg soup while I had to eat an apple.", "src": "2020全国III卷·短文改错", "cat": "gaokao", "year": 2020, "t": "例如，每天早上，我爸爸都要喝那碗蛋花汤，而我必须吃一个苹果。"}, {"s": "I reached down, expecting rice and vegetables, but instead stuck my hand into a bowl of warm, thick soup.", "src": "外研社B4 U2", "cat": "waiyan", "year": "", "t": "我伸手下去，本以为是米饭和蔬菜，却把手伸进了一碗温热浓稠的汤里。"}]}, {"def": "the part of some objects that is shaped like a bowl 物体的碗状部分", "ex": []}, {"def": "a large round theatre without a roof, used for concerts, etc. outdoors 构成名称", "ex": []}, {"def": "a heavy wooden ball that is used in the games of bowls and bowling （草地滚球和保龄球中用的）木球", "ex": [{"s": "For the second test, in one case the thin actor took two pieces of candy from the snack bowls.", "src": "2020全国新高考I卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "第二项测试中，一种情况是瘦演员从零食碗里拿了两块糖。"}]}, {"def": "a game played on an area of very smooth grass, in which players take turns to roll bowls as near as possible to a small ball 草地滚球", "ex": []}, {"def": "a game of American football played after the main season between the best teams 构成名称", "ex": []}, {"def": "to roll a ball in the games of bowls and bowling （草地滚球或保龄球中）滚球，投球", "ex": []}, {"def": "to throw a ball to the batsman (= the person who hits the ball) 把（球）投给击球员", "ex": [{"s": "Our waiter advised us to lift the plates and bowls close to our faces.", "src": "外研社B4 U2", "cat": "waiyan", "year": "", "t": "我们的服务员建议我们把盘子和碗举到靠近脸的地方。"}]}, {"def": "to make the batsman have to leave the field by throwing a ball that hits the wicket 击中三柱门把（击球员）杀出局", "ex": []}, {"def": "to move quickly in a particular direction, especially in a vehicle （向某处）迅速移动；（尤指）快速行驶", "ex": []}, {"def": "to run into sb and knock them down 把某人撞倒", "ex": []}, {"def": "to surprise or impress sb a lot 使某人惊叹；让某人印象深刻", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "bəʊl; NAmE boʊl",
+    "pos": "noun; noun; noun; noun; noun; noun; noun; verb; verb; verb; verb; verb; verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a deep round dish with a wide open top, used especially for holding food or liquid 尤用于构成复合词",
+      "ex": [
+        {
+          "s": "B: Should we put out bowls of food for them?",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "B：我们要不要给他们摆几碗食物？"
+        },
+        {
+          "s": "Next I broke the eggs into a bowl and beat them quickly with chopstick.",
+          "src": "2020全国I卷·短文改错",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "接着我把鸡蛋打进碗里，用筷子快速打散。"
+        }
+      ]
+    },
+    {
+      "def": "the amount contained in a bowl 一碗，一钵，一盆（的量）",
+      "ex": [
+        {
+          "s": "For example, every morning, my dad has to have the bowl of egg soup while I had to eat an apple.",
+          "src": "2020全国III卷·短文改错",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "例如，每天早上，我爸爸都要喝那碗蛋花汤，而我必须吃一个苹果。"
+        },
+        {
+          "s": "I reached down, expecting rice and vegetables, but instead stuck my hand into a bowl of warm, thick soup.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我伸手下去，本以为是米饭和蔬菜，却把手伸进了一碗温热浓稠的汤里。"
+        }
+      ]
+    },
+    {
+      "def": "the part of some objects that is shaped like a bowl 物体的碗状部分",
+      "ex": []
+    },
+    {
+      "def": "a large round theatre without a roof, used for concerts, etc. outdoors 构成名称",
+      "ex": []
+    },
+    {
+      "def": "a heavy wooden ball that is used in the games of bowls and bowling （草地滚球和保龄球中用的）木球",
+      "ex": [
+        {
+          "s": "For the second test, in one case the thin actor took two pieces of candy from the snack bowls.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "第二项测试中，一种情况是瘦演员从零食碗里拿了两块糖。"
+        }
+      ]
+    },
+    {
+      "def": "a game played on an area of very smooth grass, in which players take turns to roll bowls as near as possible to a small ball 草地滚球",
+      "ex": []
+    },
+    {
+      "def": "a game of American football played after the main season between the best teams 构成名称",
+      "ex": []
+    },
+    {
+      "def": "to roll a ball in the games of bowls and bowling （草地滚球或保龄球中）滚球，投球",
+      "ex": []
+    },
+    {
+      "def": "to throw a ball to the batsman (= the person who hits the ball) 把（球）投给击球员",
+      "ex": [
+        {
+          "s": "Our waiter advised us to lift the plates and bowls close to our faces.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我们的服务员建议我们把盘子和碗举到靠近脸的地方。"
+        }
+      ]
+    },
+    {
+      "def": "to make the batsman have to leave the field by throwing a ball that hits the wicket 击中三柱门把（击球员）杀出局",
+      "ex": []
+    },
+    {
+      "def": "to move quickly in a particular direction, especially in a vehicle （向某处）迅速移动；（尤指）快速行驶",
+      "ex": []
+    },
+    {
+      "def": "to run into sb and knock them down 把某人撞倒",
+      "ex": []
+    },
+    {
+      "def": "to surprise or impress sb a lot 使某人惊叹；让某人印象深刻",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "bowls of food",
+      "cn": "尤用于构成复合词 的 食物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "put out bowls",
+      "cn": "放 出 尤用于构成复合词",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bowl and beat",
+      "cn": "尤用于构成复合词 与 赢",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bowl of egg",
+      "cn": "尤用于构成复合词 的 蛋",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bowl of warm",
+      "cn": "尤用于构成复合词 的 温暖的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "snack bowls",
+      "cn": "点心 尤用于构成复合词",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the snack bowls",
+      "cn": "该 点心 尤用于构成复合词",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bowls close",
+      "cn": "尤用于构成复合词 关",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

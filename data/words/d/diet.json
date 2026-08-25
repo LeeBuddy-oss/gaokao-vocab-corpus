@@ -1,1 +1,173 @@
-{"meta":{"ph":"ˈdaɪət; NAmE ˈdaɪət","pos":"noun; noun; noun","stars":""},"defs":[{"def":"the food that you eat and drink regularly 日常饮食；日常食物","ex":[{"s":"Balancing Our Daily Diet","src":"2018全国I卷·阅读理解B","cat":"gaokao","year":2018,"t":"平衡我们的日常饮食"},{"s":"You will stick to your diet.","src":"2018全国II卷·七选五","cat":"gaokao","year":2018,"t":"你会坚持你的饮食。"},{"s":"Diets have changed in China – and so too has its top crop.","src":"2018全国II卷·语法填空","cat":"gaokao","year":2018,"t":"中国的饮食发生了变化——它最主要的作物也随之改变。"},{"s":"To introduce the diet of a special worm.","src":"2018北京卷·阅读理解C","cat":"gaokao","year":2018,"t":"为了介绍一种特殊蠕虫的食谱。"},{"s":"Fat and salt are very important parts of a diet.","src":"2017全国I卷·语法填空","cat":"gaokao","year":2017,"t":"脂肪和盐是饮食中非常重要的组成部分。"},{"s":"67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.","src":"2017全国I卷·语法填空","cat":"gaokao","year":2017,"t":"67   （充满）脂肪和盐；通过   68   （吃）更多快餐，人们会摄入超过饮食所需的盐和脂肪。"},{"s":"Nobody is quite sure, but poor diet and above all long-time alcoholism have much to do with it.","src":"2017江苏卷·Population Change","cat":"gaokao","year":2017,"t":"没有人相当肯定，但糟糕的饮食，最重要的是长期酗酒与它有关。"},{"s":"Let them be your only diet, drink and botanical medicines.","src":"外研社B6 U5","cat":"waiyan","t":"让它们成为你唯一的食物、饮品和草本药物。"}]},{"def":"a limited variety or amount of food that you eat for medical reasons or because you want to lose weight; a time when you only eat this limited variety or amount 规定饮食（为健康或减肥等目的）；规定饮食的时期","ex":[{"s":"Make diet decisions on their own.","src":"2025浙江1月卷·阅读理解B","cat":"gaokao","year":2025,"t":"自己做出饮食方面的决定。"},{"s":"It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way.","src":"2023全国乙卷·阅读理解C","cat":"gaokao","year":2023,"t":"最近有报道称，坚持传统饮食的人数正在缓慢下降，约一半英国消费者想以某种方式改变或改善自己的烹饪。"},{"s":"But using machine learning and artificial intelligence, some scientists propose that human diets consist of at least 26,000 biochemicals—and that the vast majority are not known.This shows that we have some way to travel before achieving the first objective of systems t hinking - which,in this example, is to identify more constituent parts of the nutrition system.","src":"2022北京卷·阅读理解C","cat":"gaokao","year":2022,"t":"但是，利用机器学习和人工智能，一些科学家提出人类饮食至少包含26,000种生化物质——而且绝大多数是未知的。这表明在实现系统思维的第一目标之前，我们还有一段路要走——在这个例子中，就是识别营养系统的更多组成部分。"},{"s":"It will also give you suggestions on a healthier diet and how to sleep better.","src":"人教选必1 U2","cat":"renjiao","t":"它还会为你提供关于更健康饮食和如何改善睡眠的建议。"},{"s":"Ordering food Paying the bill There is much debate nowadays as to what makes up a healthy diet.","src":"人教选必2 U3","cat":"renjiao","t":"点餐 付账 如今，关于什么构成健康饮食存在很多争论。"},{"s":"My anxiety drove me to try every means possible to lose weight, including dieting and weight-loss pills, but this brought me nothing but pain and poor health.","src":"外研社B6 U1","cat":"waiyan","t":"我的焦虑驱使我尝试各种可能的减肥方法，包括节食和减肥药，但这只给我带来了疼痛和健康状况不佳。"},{"s":"I worried about my weight and tried every new diet I read about online.","src":"人教B1 U3","cat":"renjiao","t":"我担心自己的体重，尝试了网上读到的每一种新节食方法。"}]},{"def":"a large amount of a restricted range of activities 大量单调的活动；大量单一的东西","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈdaɪət; NAmE ˈdaɪət",
+    "pos": "noun; noun; noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "the food that you eat and drink regularly 日常饮食；日常食物",
+      "ex": [
+        {
+          "s": "Balancing Our Daily Diet",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "平衡我们的日常饮食"
+        },
+        {
+          "s": "You will stick to your diet.",
+          "src": "2018全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "你会坚持你的饮食。"
+        },
+        {
+          "s": "Diets have changed in China – and so too has its top crop.",
+          "src": "2018全国II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "中国的饮食发生了变化——它最主要的作物也随之改变。"
+        },
+        {
+          "s": "To introduce the diet of a special worm.",
+          "src": "2018北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "为了介绍一种特殊蠕虫的食谱。"
+        },
+        {
+          "s": "Fat and salt are very important parts of a diet.",
+          "src": "2017全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "脂肪和盐是饮食中非常重要的组成部分。"
+        },
+        {
+          "s": "67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.",
+          "src": "2017全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "67   （充满）脂肪和盐；通过   68   （吃）更多快餐，人们会摄入超过饮食所需的盐和脂肪。"
+        },
+        {
+          "s": "Nobody is quite sure, but poor diet and above all long-time alcoholism have much to do with it.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "没有人相当肯定，但糟糕的饮食，最重要的是长期酗酒与它有关。"
+        },
+        {
+          "s": "Let them be your only diet, drink and botanical medicines.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "让它们成为你唯一的食物、饮品和草本药物。"
+        }
+      ]
+    },
+    {
+      "def": "a limited variety or amount of food that you eat for medical reasons or because you want to lose weight; a time when you only eat this limited variety or amount 规定饮食（为健康或减肥等目的）；规定饮食的时期",
+      "ex": [
+        {
+          "s": "Make diet decisions on their own.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "自己做出饮食方面的决定。"
+        },
+        {
+          "s": "It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way.",
+          "src": "2023全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "最近有报道称，坚持传统饮食的人数正在缓慢下降，约一半英国消费者想以某种方式改变或改善自己的烹饪。"
+        },
+        {
+          "s": "But using machine learning and artificial intelligence, some scientists propose that human diets consist of at least 26,000 biochemicals—and that the vast majority are not known.This shows that we have some way to travel before achieving the first objective of systems t hinking - which,in this example, is to identify more constituent parts of the nutrition system.",
+          "src": "2022北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "但是，利用机器学习和人工智能，一些科学家提出人类饮食至少包含26,000种生化物质——而且绝大多数是未知的。这表明在实现系统思维的第一目标之前，我们还有一段路要走——在这个例子中，就是识别营养系统的更多组成部分。"
+        },
+        {
+          "s": "It will also give you suggestions on a healthier diet and how to sleep better.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "它还会为你提供关于更健康饮食和如何改善睡眠的建议。"
+        },
+        {
+          "s": "Ordering food Paying the bill There is much debate nowadays as to what makes up a healthy diet.",
+          "src": "人教选必2 U3",
+          "cat": "renjiao",
+          "t": "点餐 付账 如今，关于什么构成健康饮食存在很多争论。"
+        },
+        {
+          "s": "My anxiety drove me to try every means possible to lose weight, including dieting and weight-loss pills, but this brought me nothing but pain and poor health.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "我的焦虑驱使我尝试各种可能的减肥方法，包括节食和减肥药，但这只给我带来了疼痛和健康状况不佳。"
+        },
+        {
+          "s": "I worried about my weight and tried every new diet I read about online.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "我担心自己的体重，尝试了网上读到的每一种新节食方法。"
+        }
+      ]
+    },
+    {
+      "def": "a large amount of a restricted range of activities 大量单调的活动；大量单一的东西",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "daily diet",
+      "cn": "每日的 日常饮食",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "our daily diet",
+      "cn": "我们的 每日的 日常饮食",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "your diet",
+      "cn": "你的 日常饮食",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "to your diet",
+      "cn": "去 你的 日常饮食",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "diets have changed",
+      "cn": "日常饮食 有 改变",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "introduce the diet",
+      "cn": "把 … 介绍 该 日常饮食",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "diet of a special",
+      "cn": "日常饮食 的 一个 特殊的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "their diet",
+      "cn": "他们的 日常饮食",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

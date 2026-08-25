@@ -1,1 +1,169 @@
-{"meta": {"ph": "ˈæŋkʃəs; NAmE ˈæŋkʃəs", "pos": "adj.", "stars": "★"}, "defs": [{"def": "feeling worried or nervous 焦虑；忧虑；担心", "ex": [{"s": "And I applied with the same anxious excitement as before.", "src": "2023北京卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "我带着和以前一样既焦虑又兴奋的心情提交了申请。"}, {"s": "All kinds of human emotions are on display: sad (tearful goodbyes), happy (family get-togethers), anxious (waiting in a long line) and upset (missing a flight).", "src": "2022天津4月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "各种各样的人类情感都在展现：悲伤（含泪的告别）、快乐（家庭团聚）、焦虑（排长队等候）和沮丧（误了航班）。"}, {"s": "are anxious about missing their flights", "src": "2022天津4月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "担心错过航班"}, {"s": "She was anxious to know what had happened．", "src": "2019天津卷·18．", "cat": "gaokao", "year": 2019, "t": "B．她急切地想知道发生了什么。"}, {"s": "Some of us were confident and eager take part in the class activity, others were nervous and anxious.", "src": "2018全国III卷·短文改错", "cat": "gaokao", "year": 2018, "t": "我们中有些人自信而渴望参加班级活动，其他人则紧张焦虑。"}, {"s": "anxious to do wonders", "src": "2018天津卷·阅读理解D", "cat": "gaokao", "year": 2018, "t": "A．急于创造奇迹"}, {"s": "So she called Zac back and apologized.", "src": "2019浙江卷", "cat": "gaokao", "year": 2019, "t": "所以她又给扎克回电话道歉。"}, {"s": "Feeling very anxious, I prepared the equipment that would give life to the thing that lay at my feet.", "src": "外研社B6 U6", "cat": "waiyan", "year": "", "t": "我感到非常焦虑，我准备了能给脚下的东西带来生命的装备。"}, {"s": "It can be quite stressful at times, though, which in turn makes me feel anxious.", "src": "外研社B2 U3", "cat": "waiyan", "year": "", "t": "不过，有时它可能会相当紧张，这反过来又让我感到焦虑。"}]}, {"def": "causing anxiety; showing anxiety 令人焦虑的；流露出忧虑的", "ex": [{"s": "Anxious parents do what they can to comfort nervous and crying children.", "src": "外研社B4 U1", "cat": "waiyan", "year": "", "t": "焦虑的父母尽其所能安慰紧张和哭泣的孩子。"}, {"s": "Although she is clearly still in some pain, her scared and anxious look has been replaced —first by a small smile, and then by loud laughter as I \"magically\" produce her sock from out of my pocket.", "src": "外研社B4 U1", "cat": "waiyan", "year": "", "t": "虽然她显然仍然有些痛苦，但她害怕和焦虑的样子已经被取代了--首先是一个小小的微笑，然后是大声的笑声，因为我“神奇地”从口袋里掏出她的袜子。"}]}, {"def": "wanting sth very much 渴望；非常希望", "ex": []}, {"def": "apologise (apologize) ★", "ex": [{"s": "Why does the man apologize?", "src": "2023卷", "cat": "gaokao", "year": 2023, "t": "男士为什么道歉？"}, {"s": "You don’t need to apologize for a minor slip.", "src": "2020全国新高考I卷·七选五", "cat": "gaokao", "year": 2020, "t": "你不必为小小的口误道歉。"}]}], "chunks": [{"en": "feel anxious", "cn": "感觉焦虑", "type": "形容词搭配", "count": 2}, {"en": "anxious about", "cn": "焦虑于", "type": "形容词搭配", "count": 1}, {"en": "be anxious about", "cn": "焦虑于", "type": "形容词搭配", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈæŋkʃəs; NAmE ˈæŋkʃəs",
+    "pos": "adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "feeling worried or nervous 焦虑；忧虑；担心",
+      "ex": [
+        {
+          "s": "And I applied with the same anxious excitement as before.",
+          "src": "2023北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我带着和以前一样既焦虑又兴奋的心情提交了申请。"
+        },
+        {
+          "s": "All kinds of human emotions are on display: sad (tearful goodbyes), happy (family get-togethers), anxious (waiting in a long line) and upset (missing a flight).",
+          "src": "2022天津4月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "各种各样的人类情感都在展现：悲伤（含泪的告别）、快乐（家庭团聚）、焦虑（排长队等候）和沮丧（误了航班）。"
+        },
+        {
+          "s": "are anxious about missing their flights",
+          "src": "2022天津4月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "担心错过航班"
+        },
+        {
+          "s": "She was anxious to know what had happened．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "B．她急切地想知道发生了什么。"
+        },
+        {
+          "s": "Some of us were confident and eager take part in the class activity, others were nervous and anxious.",
+          "src": "2018全国III卷·短文改错",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我们中有些人自信而渴望参加班级活动，其他人则紧张焦虑。"
+        },
+        {
+          "s": "anxious to do wonders",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "A．急于创造奇迹"
+        },
+        {
+          "s": "So she called Zac back and apologized.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "所以她又给扎克回电话道歉。"
+        },
+        {
+          "s": "Feeling very anxious, I prepared the equipment that would give life to the thing that lay at my feet.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我感到非常焦虑，我准备了能给脚下的东西带来生命的装备。"
+        },
+        {
+          "s": "It can be quite stressful at times, though, which in turn makes me feel anxious.",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "不过，有时它可能会相当紧张，这反过来又让我感到焦虑。"
+        }
+      ]
+    },
+    {
+      "def": "causing anxiety; showing anxiety 令人焦虑的；流露出忧虑的",
+      "ex": [
+        {
+          "s": "Anxious parents do what they can to comfort nervous and crying children.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "焦虑的父母尽其所能安慰紧张和哭泣的孩子。"
+        },
+        {
+          "s": "Although she is clearly still in some pain, her scared and anxious look has been replaced —first by a small smile, and then by loud laughter as I \"magically\" produce her sock from out of my pocket.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "虽然她显然仍然有些痛苦，但她害怕和焦虑的样子已经被取代了--首先是一个小小的微笑，然后是大声的笑声，因为我“神奇地”从口袋里掏出她的袜子。"
+        }
+      ]
+    },
+    {
+      "def": "wanting sth very much 渴望；非常希望",
+      "ex": []
+    },
+    {
+      "def": "apologise (apologize) ★",
+      "ex": [
+        {
+          "s": "Why does the man apologize?",
+          "src": "2023卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "男士为什么道歉？"
+        },
+        {
+          "s": "You don’t need to apologize for a minor slip.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你不必为小小的口误道歉。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "anxious excitement",
+      "cn": "焦虑",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "same anxious excitement",
+      "cn": "相同 焦虑",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "anxious waiting",
+      "cn": "焦虑 等",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "get-togethers anxious",
+      "cn": "焦虑",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "family get-togethers anxious",
+      "cn": "家 焦虑",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "anxious about missing",
+      "cn": "焦虑 大约 找不到的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "anxious to know",
+      "cn": "焦虑 去 知道",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "she was anxious",
+      "cn": "她 是 焦虑",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,166 @@
-{"meta": {"ph": "ˈɪləstreɪt; NAmE ˈɪləstreɪt", "pos": "verb", "stars": "★"}, "defs": [{"def": "to use pictures, photographs, diagrams, etc. in a book, etc. 加插图于；给（书等）做图表", "ex": [{"s": "What does the author try to illustrate by mentioning bottled water in paragraph 4?", "src": "2025新高考I卷·阅读理解D", "cat": "gaokao", "year": 2025, "t": "作者在第4段提到瓶装水是为了说明什么？"}, {"s": "To illustrate the development of big hailstorms.", "src": "2024浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "为了说明大冰雹的发展过程。"}, {"s": "On March 7, 1907, the English statistician Francis Galton published a paper which illustrated what has come to be known as the “wisdom of crowds” effect.", "src": "2023新课标I卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "1907年3月7日，英国统计学家弗朗西斯·高尔顿发表了一篇论文，阐述了后来被称为\"群体智慧\"效应的现象。"}, {"s": "The Little Prince BOOK REVIEW The Little Prince was written and illustrated by the French writer Antoine de Saint-Exupéry during World War II.", "src": "外研社B5 U1", "cat": "waiyan", "t": "《小王子》书评：《小王子》由法国作家安托万·德·圣埃克苏佩里在第二次世界大战期间创作并绘制插图。"}]}, {"def": "to make the meaning of sth clearer by using examples, pictures, etc. （用示例、图画等）说明，解释", "ex": [{"s": "Illustrate an argument.", "src": "2024北京卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "阐明一个论点。"}, {"s": "illustrate an argumentB. highlight an opinion", "src": "2022北京卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "阐明一个论点 B. 突出一个观点"}, {"s": "To illustrate a scientific concept.", "src": "2026浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "为了阐明一个科学概念。"}, {"s": "illustrate a pointB. contrast approaches", "src": "2026北京卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "阐明一个观点B. 对比不同方法"}, {"s": "To illustrate an idea.", "src": "2022天津4月卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "为了阐明一个观点。"}, {"s": "Illustrate an approach.", "src": "2025北京卷·阅读理解D", "cat": "gaokao", "year": 2025, "t": "阐释一种方法。"}, {"s": "It vividly illustrated a dragon playing with a ball.", "src": "外研社B3 U4", "cat": "waiyan", "t": "它生动地描绘了一条龙在玩一个球。"}, {"s": "You may include: • a general introduction to the island • survival tips with items from the ship and natural resources on the island 2 Look for or create visuals to illustrate your survival guide.", "src": "外研社B5 U6", "cat": "waiyan", "t": "你可以包括：• 对岛屿的总体介绍 • 利用船上的物品和岛上的自然资源提供生存技巧 2 寻找或创建图像来说明你的生存指南。"}, {"s": "Nowhere is this better illustrated than in the beautiful Lingering Garden of Suzhou.", "src": "外研社B6 U5", "cat": "waiyan", "t": "没有什么比苏州美丽的留园更能说明这一点了。"}, {"s": "For example, in the butterfly story, the struggle of the butterfly illustrates life’s struggles.", "src": "外研社B6 U5", "cat": "waiyan", "t": "例如，在蝴蝶的故事中，蝴蝶的挣扎说明了人生的奋斗。"}]}, {"def": "to show that sth is true or that a situation exists 表明 … 真实；显示 … 存在", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈɪləstreɪt; NAmE ˈɪləstreɪt",
+    "pos": "verb",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "to use pictures, photographs, diagrams, etc. in a book, etc. 加插图于；给（书等）做图表",
+      "ex": [
+        {
+          "s": "What does the author try to illustrate by mentioning bottled water in paragraph 4?",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "作者在第4段提到瓶装水是为了说明什么？"
+        },
+        {
+          "s": "To illustrate the development of big hailstorms.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "为了说明大冰雹的发展过程。"
+        },
+        {
+          "s": "On March 7, 1907, the English statistician Francis Galton published a paper which illustrated what has come to be known as the “wisdom of crowds” effect.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "1907年3月7日，英国统计学家弗朗西斯·高尔顿发表了一篇论文，阐述了后来被称为\"群体智慧\"效应的现象。"
+        },
+        {
+          "s": "The Little Prince BOOK REVIEW The Little Prince was written and illustrated by the French writer Antoine de Saint-Exupéry during World War II.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "《小王子》书评：《小王子》由法国作家安托万·德·圣埃克苏佩里在第二次世界大战期间创作并绘制插图。"
+        }
+      ]
+    },
+    {
+      "def": "to make the meaning of sth clearer by using examples, pictures, etc. （用示例、图画等）说明，解释",
+      "ex": [
+        {
+          "s": "Illustrate an argument.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "阐明一个论点。"
+        },
+        {
+          "s": "illustrate an argumentB. highlight an opinion",
+          "src": "2022北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "阐明一个论点 B. 突出一个观点"
+        },
+        {
+          "s": "To illustrate a scientific concept.",
+          "src": "2026浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "为了阐明一个科学概念。"
+        },
+        {
+          "s": "illustrate a pointB. contrast approaches",
+          "src": "2026北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "阐明一个观点B. 对比不同方法"
+        },
+        {
+          "s": "To illustrate an idea.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "为了阐明一个观点。"
+        },
+        {
+          "s": "Illustrate an approach.",
+          "src": "2025北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "阐释一种方法。"
+        },
+        {
+          "s": "It vividly illustrated a dragon playing with a ball.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "它生动地描绘了一条龙在玩一个球。"
+        },
+        {
+          "s": "You may include: • a general introduction to the island • survival tips with items from the ship and natural resources on the island 2 Look for or create visuals to illustrate your survival guide.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "你可以包括：• 对岛屿的总体介绍 • 利用船上的物品和岛上的自然资源提供生存技巧 2 寻找或创建图像来说明你的生存指南。"
+        },
+        {
+          "s": "Nowhere is this better illustrated than in the beautiful Lingering Garden of Suzhou.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "没有什么比苏州美丽的留园更能说明这一点了。"
+        },
+        {
+          "s": "For example, in the butterfly story, the struggle of the butterfly illustrates life’s struggles.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "t": "例如，在蝴蝶的故事中，蝴蝶的挣扎说明了人生的奋斗。"
+        }
+      ]
+    },
+    {
+      "def": "to show that sth is true or that a situation exists 表明 … 真实；显示 … 存在",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "illustrate by mentioning",
+      "cn": "加插图于 通过 提到",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "try to illustrate",
+      "cn": "试图 去 加插图于",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "illustrate the development",
+      "cn": "加插图于 该 发展",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "paper which illustrated",
+      "cn": "常构成复合词 哪个 加插图于",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "illustrated what has come",
+      "cn": "加插图于 什么 有 来",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "written and illustrated",
+      "cn": "与 加插图于",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "illustrated by the french",
+      "cn": "加插图于 通过 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "illustrate an argument",
+      "cn": "加插图于 一个",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

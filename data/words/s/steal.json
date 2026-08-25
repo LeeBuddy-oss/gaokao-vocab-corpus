@@ -1,1 +1,167 @@
-{"meta":{"ph":"stiːl; NAmE stiːl","pos":"verb","stars":""},"defs":[{"def":"to take sth from a person, shop/store, etc. without permission and without intending to return it or pay for it 偷；窃取","ex":[{"s":"I felt a small pain in my chest The dictionary was stolen at the end of my freshman year of college.","src":"2026新高考I卷·阅读理解B","cat":"gaokao","year":2026,"t":"我感到胸口隐隐作痛。那本词典在我大学一年级结束时被偷了。"},{"s":"The following day, called to the headmaster’s office, I found myself accused of stealing the missing parts.","src":"2025北京卷·完形填空","cat":"gaokao","year":2025,"t":"第二天，我被叫到校长办公室，发现自己被指控偷了那些丢失的零件。"},{"s":"Keep cattle from being stolen.","src":"2021新高考II卷·阅读理解D","cat":"gaokao","year":2021,"t":"防止牛被盗。"},{"s":"In the 1990s, a group of thieves often sold stolen goods with the help of some beggars.","src":"2021新高考II卷·完形填空","cat":"gaokao","year":2021,"t":"1990年代，一群盗贼经常在一些乞丐的帮助下出售赃物。"},{"s":"For Pruitt, a keen bicyclist, the first thing to do was 19    his stolen bike.","src":"2021天津3月卷·完形填空","cat":"gaokao","year":2021,"t":"对热衷骑车的普鲁伊特来说，要做的第一件事是19___他被偷的自行车。"},{"s":"They’ll come rushing in,   42  their handbag’s been stolen.","src":"2020全国III卷·完形填空","cat":"gaokao","year":2020,"t":"他们会冲进来，   42  说她们的手提包被偷了。"},{"s":"To think he is sleeping on the streets tonight    26    he could have stolen the money and paid for a place to stay in.","src":"2018北京卷·The Homeless Hero","cat":"gaokao","year":2018,"t":"想到他今晚睡在街上    26    他本可以偷了那笔钱来付住处的费用。"},{"s":"Someone might use the information to steal your identity.","src":"人教B2 U3","cat":"renjiao","t":"有人可能利用这些信息来窃取你的身份。"},{"s":"Unlike other information, this information is completely safe from people who may want to steal it.","src":"人教B3 U5","cat":"renjiao","t":"与其他信息不同的是，这种信息是完全安全的，不会被那些可能想要窃取它的人所窃取。"},{"s":"You think that stealing some money or food would help you, but you should not do so.","src":"人教B3 U5","cat":"renjiao","t":"你认为偷钱或食物会帮你，但你不应该这样做。"},{"s":"For most people, having things stolen feels like an offence.","src":"2021天津3月卷·完形填空","cat":"gaokao","year":2021,"t":"对大多数人来说，东西被偷感觉像是一种冒犯。"},{"s":"Plants can steal food from each other, or spread poisons to attack other plants.","src":"外研社B4 U5","cat":"waiyan","t":"植物可以相互偷取养分，或者传播毒素来攻击其他植物。"}]},{"def":"to move secretly and quietly so that other people do not notice you 偷偷地（或悄悄地）移动","ex":[{"s":"Yak Diversiform-leaved poplar Siberian tiger Dawn redwood Peacock (picture 1) (picture 2) (picture 3) □attack □move □breathe □speak □eat □steal □sleep □think [Now talk about what else you think plants can do and give examples.","src":"外研社B4 U5","cat":"waiyan","t":"牦牛　胡杨　东北虎　水杉　孔雀（图1）（图2）（图3）□攻击　□移动　□呼吸　□说话　□吃　□偷　□睡　□思考　[现在谈谈你认为植物还能做什么，并举例。"}]},{"def":"to run to the next base before another player from your team hits the ball, so that you are closer to scoring 棒球","ex":[{"s":"If your card has been reported to the Police as stolen, please also call into the SAC to request a replacement, bringing with you a copy of your Police Crime Report paperwork.","src":"2020天津3月卷·阅读理解A","cat":"gaokao","year":2020,"t":"如果你的卡已被报警称被盗，请也到SAC申请补发，并带上一份警方报案文件的复印件。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "stiːl; NAmE stiːl",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to take sth from a person, shop/store, etc. without permission and without intending to return it or pay for it 偷；窃取",
+      "ex": [
+        {
+          "s": "I felt a small pain in my chest The dictionary was stolen at the end of my freshman year of college.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我感到胸口隐隐作痛。那本词典在我大学一年级结束时被偷了。"
+        },
+        {
+          "s": "The following day, called to the headmaster’s office, I found myself accused of stealing the missing parts.",
+          "src": "2025北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "第二天，我被叫到校长办公室，发现自己被指控偷了那些丢失的零件。"
+        },
+        {
+          "s": "Keep cattle from being stolen.",
+          "src": "2021新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "防止牛被盗。"
+        },
+        {
+          "s": "In the 1990s, a group of thieves often sold stolen goods with the help of some beggars.",
+          "src": "2021新高考II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "1990年代，一群盗贼经常在一些乞丐的帮助下出售赃物。"
+        },
+        {
+          "s": "For Pruitt, a keen bicyclist, the first thing to do was 19    his stolen bike.",
+          "src": "2021天津3月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "对热衷骑车的普鲁伊特来说，要做的第一件事是19___他被偷的自行车。"
+        },
+        {
+          "s": "They’ll come rushing in,   42  their handbag’s been stolen.",
+          "src": "2020全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们会冲进来，   42  说她们的手提包被偷了。"
+        },
+        {
+          "s": "To think he is sleeping on the streets tonight    26    he could have stolen the money and paid for a place to stay in.",
+          "src": "2018北京卷·The Homeless Hero",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "想到他今晚睡在街上    26    他本可以偷了那笔钱来付住处的费用。"
+        },
+        {
+          "s": "Someone might use the information to steal your identity.",
+          "src": "人教B2 U3",
+          "cat": "renjiao",
+          "t": "有人可能利用这些信息来窃取你的身份。"
+        },
+        {
+          "s": "Unlike other information, this information is completely safe from people who may want to steal it.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "与其他信息不同的是，这种信息是完全安全的，不会被那些可能想要窃取它的人所窃取。"
+        },
+        {
+          "s": "You think that stealing some money or food would help you, but you should not do so.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "你认为偷钱或食物会帮你，但你不应该这样做。"
+        },
+        {
+          "s": "For most people, having things stolen feels like an offence.",
+          "src": "2021天津3月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "对大多数人来说，东西被偷感觉像是一种冒犯。"
+        },
+        {
+          "s": "Plants can steal food from each other, or spread poisons to attack other plants.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "植物可以相互偷取养分，或者传播毒素来攻击其他植物。"
+        }
+      ]
+    },
+    {
+      "def": "to move secretly and quietly so that other people do not notice you 偷偷地（或悄悄地）移动",
+      "ex": [
+        {
+          "s": "Yak Diversiform-leaved poplar Siberian tiger Dawn redwood Peacock (picture 1) (picture 2) (picture 3) □attack □move □breathe □speak □eat □steal □sleep □think [Now talk about what else you think plants can do and give examples.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "牦牛　胡杨　东北虎　水杉　孔雀（图1）（图2）（图3）□攻击　□移动　□呼吸　□说话　□吃　□偷　□睡　□思考　[现在谈谈你认为植物还能做什么，并举例。"
+        }
+      ]
+    },
+    {
+      "def": "to run to the next base before another player from your team hits the ball, so that you are closer to scoring 棒球",
+      "ex": [
+        {
+          "s": "If your card has been reported to the Police as stolen, please also call into the SAC to request a replacement, bringing with you a copy of your Police Crime Report paperwork.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果你的卡已被报警称被盗，请也到SAC申请补发，并带上一份警方报案文件的复印件。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "stealing the missing",
+      "cn": "偷 该 找不到的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "accused of stealing",
+      "cn": "控告 的 偷",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "steal your",
+      "cn": "偷 你的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to steal your",
+      "cn": "去 偷 你的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "information to steal",
+      "cn": "信息 去 偷",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "want to steal",
+      "cn": "要 去 偷",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "stealing some money",
+      "cn": "偷 一些 钱",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "think that stealing",
+      "cn": "不用于进行时 那个 偷",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

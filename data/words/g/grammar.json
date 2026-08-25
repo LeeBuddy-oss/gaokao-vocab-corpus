@@ -1,1 +1,184 @@
-{"meta":{"ph":"ˈɡræmə(r); NAmE ˈɡræmər","pos":"noun","stars":""},"defs":[{"def":"the rules in a language for changing the form of words and joining them into sentences 语法；文法","ex":[{"s":"That means good grammar and no spelling mistakes.","src":"2024新高考I卷·七选五","cat":"gaokao","year":2024,"t":"这意味着语法正确、没有拼写错误。"},{"s":"I asked my older sister to correct my grammar.","src":"2023新课标I卷·书面表达","cat":"gaokao","year":2023,"t":"我请姐姐帮我改正语法。"},{"s":"I asked my older sister to correct my grammar.","src":"2023新课标II卷·书面表达","cat":"gaokao","year":2023,"t":"我请姐姐帮我改正语法。"},{"s":"37   Don't worry about grammar or spelling.","src":"2022全国新高考II卷·七选五","cat":"gaokao","year":2022,"t":"37   别担心语法或拼写。"},{"s":"By correcting grammar mistakes.","src":"2020全国II卷","cat":"gaokao","year":2020,"t":"纠正语法错误。"},{"s":"By correcting grammar mistakes.","src":"2020全国卷","cat":"gaokao","year":2020,"t":"纠正语法错误。"},{"s":"By correcting grammar mistakes.","src":"2020江苏卷","cat":"gaokao","year":2020,"t":"纠正语法错误。"},{"s":"Grammar and Vocabulary","src":"2018上海卷","cat":"gaokao","year":2018,"t":"语法与词汇"},{"s":"You should focus on getting the main idea, not on single words or grammar.","src":"人教B1 U2","cat":"renjiao","t":"你应该专注于获取大意，而不是单个单词或语法。"},{"s":"Are there any grammar or spelling errors?","src":"人教B1 U3","cat":"renjiao","t":"有没有语法或拼写错误？"},{"s":"Do you think the grammar in this unit is more useful in spoken or written English?","src":"人教B1 U3","cat":"renjiao","t":"你认为本单元的语法在口语还是书面英语中更有用？"},{"s":"The words felt strange on my tongue, and the grammar would not stay in my head.","src":"人教B1 U5","cat":"renjiao","t":"这些词在我舌头上感觉很奇怪，语法怎么也记不住。"},{"s":"Are there any grammar mistakes?","src":"人教B1 U5","cat":"renjiao","t":"有没有语法错误？"},{"s":"Lancom is the only product to offer courses tailored to your native language, building on grammar and words you already know.","src":"2020北京卷·阅读理解A","cat":"gaokao","year":2020,"t":"Lancom是唯一提供根据母语量身定制课程的产品，在你已掌握的语法和词汇基础上进行构建。"},{"s":"Pour it into a pot an mix it with five grams of smiles.","src":"外研社B1 U4","cat":"waiyan","t":"把它倒进锅里，与五克微笑混合。"}]},{"def":"a person's knowledge and use of a language （人的）语言知识及运用能力","ex":[]},{"def":"a book containing a description of the rules of a language 语法书","ex":[{"s":"Baby kangaroos weigh only two grammes at birth.","src":"人教选必4 U2","cat":"renjiao","t":"袋鼠宝宝出生时只有两克重。"},{"s":"Dumplings Main ingredients Dos 500 grams of meat, Chinese Before mixing, salt the Chinese cabbage, dumpling wrappers cabbage, let it rest for 15 minutes and press out extra Instructions water.","src":"译林选必1 U1","cat":"yilin","t":"饺子　主料　用量：500克肉、大白菜、饺子皮　做法：混合前，先给大白菜加盐，静置15分钟，挤掉多余水分。"}]}],"chunks":[{"en":"about grammar","cn":"语法","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "ˈɡræmə(r); NAmE ˈɡræmər",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "the rules in a language for changing the form of words and joining them into sentences 语法；文法",
+      "ex": [
+        {
+          "s": "That means good grammar and no spelling mistakes.",
+          "src": "2024新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这意味着语法正确、没有拼写错误。"
+        },
+        {
+          "s": "I asked my older sister to correct my grammar.",
+          "src": "2023新课标I卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我请姐姐帮我改正语法。"
+        },
+        {
+          "s": "I asked my older sister to correct my grammar.",
+          "src": "2023新课标II卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我请姐姐帮我改正语法。"
+        },
+        {
+          "s": "37   Don't worry about grammar or spelling.",
+          "src": "2022全国新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "37   别担心语法或拼写。"
+        },
+        {
+          "s": "By correcting grammar mistakes.",
+          "src": "2020全国II卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "纠正语法错误。"
+        },
+        {
+          "s": "By correcting grammar mistakes.",
+          "src": "2020全国卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "纠正语法错误。"
+        },
+        {
+          "s": "By correcting grammar mistakes.",
+          "src": "2020江苏卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "纠正语法错误。"
+        },
+        {
+          "s": "Grammar and Vocabulary",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "语法与词汇"
+        },
+        {
+          "s": "You should focus on getting the main idea, not on single words or grammar.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "你应该专注于获取大意，而不是单个单词或语法。"
+        },
+        {
+          "s": "Are there any grammar or spelling errors?",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "有没有语法或拼写错误？"
+        },
+        {
+          "s": "Do you think the grammar in this unit is more useful in spoken or written English?",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "你认为本单元的语法在口语还是书面英语中更有用？"
+        },
+        {
+          "s": "The words felt strange on my tongue, and the grammar would not stay in my head.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "这些词在我舌头上感觉很奇怪，语法怎么也记不住。"
+        },
+        {
+          "s": "Are there any grammar mistakes?",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "有没有语法错误？"
+        },
+        {
+          "s": "Lancom is the only product to offer courses tailored to your native language, building on grammar and words you already know.",
+          "src": "2020北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "Lancom是唯一提供根据母语量身定制课程的产品，在你已掌握的语法和词汇基础上进行构建。"
+        },
+        {
+          "s": "Pour it into a pot an mix it with five grams of smiles.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "把它倒进锅里，与五克微笑混合。"
+        }
+      ]
+    },
+    {
+      "def": "a person's knowledge and use of a language （人的）语言知识及运用能力",
+      "ex": []
+    },
+    {
+      "def": "a book containing a description of the rules of a language 语法书",
+      "ex": [
+        {
+          "s": "Baby kangaroos weigh only two grammes at birth.",
+          "src": "人教选必4 U2",
+          "cat": "renjiao",
+          "t": "袋鼠宝宝出生时只有两克重。"
+        },
+        {
+          "s": "Dumplings Main ingredients Dos 500 grams of meat, Chinese Before mixing, salt the Chinese cabbage, dumpling wrappers cabbage, let it rest for 15 minutes and press out extra Instructions water.",
+          "src": "译林选必1 U1",
+          "cat": "yilin",
+          "t": "饺子　主料　用量：500克肉、大白菜、饺子皮　做法：混合前，先给大白菜加盐，静置15分钟，挤掉多余水分。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "grammar mistakes",
+      "cn": "语法 错误",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "correcting grammar",
+      "cn": "准确无误的 语法",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "by correcting grammar",
+      "cn": "通过 准确无误的 语法",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "my grammar",
+      "cn": "我的 语法",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "correct my grammar",
+      "cn": "准确无误的 我的 语法",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "grammar or spelling",
+      "cn": "语法 或 用字母拼",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "good grammar",
+      "cn": "好的 语法",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "means good grammar",
+      "cn": "方式 好的 语法",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

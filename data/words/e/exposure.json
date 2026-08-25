@@ -1,1 +1,143 @@
-{"meta": {"ph": "ɪkˈspəʊʒə(r); NAmE ɪkˈspoʊʒər", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the state of being in a place or situation where there is no protection from sth harmful or unpleasant 面临，遭受（危险或不快）", "ex": [{"s": "I’ll get more exposure to Chinese culture, too.", "src": "人教选必2 U5", "cat": "renjiao", "t": "我也会更多地接触中国文化。"}, {"s": "What’s more, my spacesuit keeps me safe from exposure to the Martian surface for up to several hours at a time.", "src": "外研社B5 U6", "cat": "waiyan", "t": "更重要的是，我的太空服让我免受火星表面的辐射影响，每次可长达数小时。"}]}, {"def": "the state of having the true facts about sb/sth told after they have been hidden because they are bad, immoral or illegal 揭露", "ex": [{"s": "\"Many people in China have limited exposure to English.", "src": "2021浙江6月卷·阅读理解C", "cat": "gaokao", "t": "‘许多中国人接触英语的机会有限。’", "year": 2021}]}, {"def": "the fact of being discussed or mentioned on television, in newspapers, etc. （在电视、报纸等上的）亮相，被报道", "ex": []}, {"def": "a medical condition caused by being out in very cold weather for too long without protection 挨冻；受寒", "ex": [{"s": "First, we put on our spacesuits, which allow us to breathe in space and protect us from exposure to the cold and radiation.", "src": "译林选必3 U2", "cat": "yilin", "t": "首先，我们穿上太空服，它让我们能在太空中呼吸，并保护我们免受低温和辐射的侵扰。"}]}, {"def": "a length of film in a camera that is used to take a photograph （照一张照片的）软片，底片，胶片", "ex": [{"s": "\"To us, the most likely explanation appears to be that the basis lies in their living with humans, which gives them a lot of exposure to human facial expressions,\" and this exposure has provided them with many chances to learn to distinguish between them, Muller said.", "src": "2021浙江6月卷·阅读理解C", "cat": "gaokao", "t": "“对我们来说，最可能的解释似乎是，基础在于它们与人类生活在一起，这让它们有大量机会接触人类面部表情，”Muller说，而这种接触为它们提供了许多学习区分它们的机会。", "year": 2021}]}, {"def": "the length of time for which light is allowed to reach the film when taking a photograph 曝光时间", "ex": []}, {"def": "the act of showing sth that is usually hidden 暴露；显露", "ex": [{"s": "Still, the findings show a potential path forward for reducing microplastic exposure — a task that’s becoming increasingly difficult.", "src": "2025新高考I卷·阅读理解D", "cat": "gaokao", "t": "尽管如此，这些发现为减少微塑料摄入指明了一条可行的路径——这是一项正变得愈发困难的任务。", "year": 2025}, {"s": "Exposure to high levels of radiation may increase the risks of contracting cancer and other diseases.", "src": "译林选必3 U2", "cat": "yilin", "t": "暴露在高水平的辐射中可能会增加患癌症和其他疾病的风险。"}, {"s": "Weston is no safer in the long run than outright exposure.", "src": "人教选必1 U5", "cat": "renjiao", "t": "从长远来看，韦斯顿并不比完全暴露更安全。"}]}], "chunks": [{"en": "exposure to", "cn": "暴露于", "type": "名词短语", "count": 6}]}
+{
+  "meta": {
+    "ph": "ɪkˈspəʊʒə(r); NAmE ɪkˈspoʊʒər",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the state of being in a place or situation where there is no protection from sth harmful or unpleasant 面临，遭受（危险或不快）",
+      "ex": [
+        {
+          "s": "I’ll get more exposure to Chinese culture, too.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "我也会更多地接触中国文化。"
+        },
+        {
+          "s": "What’s more, my spacesuit keeps me safe from exposure to the Martian surface for up to several hours at a time.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "更重要的是，我的太空服让我免受火星表面的辐射影响，每次可长达数小时。"
+        }
+      ]
+    },
+    {
+      "def": "the state of having the true facts about sb/sth told after they have been hidden because they are bad, immoral or illegal 揭露",
+      "ex": [
+        {
+          "s": "\"Many people in China have limited exposure to English.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "‘许多中国人接触英语的机会有限。’",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "def": "the fact of being discussed or mentioned on television, in newspapers, etc. （在电视、报纸等上的）亮相，被报道",
+      "ex": []
+    },
+    {
+      "def": "a medical condition caused by being out in very cold weather for too long without protection 挨冻；受寒",
+      "ex": [
+        {
+          "s": "First, we put on our spacesuits, which allow us to breathe in space and protect us from exposure to the cold and radiation.",
+          "src": "译林选必3 U2",
+          "cat": "yilin",
+          "t": "首先，我们穿上太空服，它让我们能在太空中呼吸，并保护我们免受低温和辐射的侵扰。"
+        }
+      ]
+    },
+    {
+      "def": "a length of film in a camera that is used to take a photograph （照一张照片的）软片，底片，胶片",
+      "ex": [
+        {
+          "s": "\"To us, the most likely explanation appears to be that the basis lies in their living with humans, which gives them a lot of exposure to human facial expressions,\" and this exposure has provided them with many chances to learn to distinguish between them, Muller said.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "“对我们来说，最可能的解释似乎是，基础在于它们与人类生活在一起，这让它们有大量机会接触人类面部表情，”Muller说，而这种接触为它们提供了许多学习区分它们的机会。",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "def": "the length of time for which light is allowed to reach the film when taking a photograph 曝光时间",
+      "ex": []
+    },
+    {
+      "def": "the act of showing sth that is usually hidden 暴露；显露",
+      "ex": [
+        {
+          "s": "Still, the findings show a potential path forward for reducing microplastic exposure — a task that’s becoming increasingly difficult.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "尽管如此，这些发现为减少微塑料摄入指明了一条可行的路径——这是一项正变得愈发困难的任务。",
+          "year": 2025
+        },
+        {
+          "s": "Exposure to high levels of radiation may increase the risks of contracting cancer and other diseases.",
+          "src": "译林选必3 U2",
+          "cat": "yilin",
+          "t": "暴露在高水平的辐射中可能会增加患癌症和其他疾病的风险。"
+        },
+        {
+          "s": "Weston is no safer in the long run than outright exposure.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "从长远来看，韦斯顿并不比完全暴露更安全。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "exposure to chinese",
+      "cn": "面临 去 中国人",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "get more exposure",
+      "cn": "收到 更多 面临",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "safe from exposure",
+      "cn": "处境安全 从 面临",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "exposure to the martian",
+      "cn": "面临 去 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "limited exposure",
+      "cn": "有限的 面临",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "exposure to english",
+      "cn": "面临 去 英语",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "have limited exposure",
+      "cn": "有 有限的 面临",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "us from exposure",
+      "cn": "我们 从 面临",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

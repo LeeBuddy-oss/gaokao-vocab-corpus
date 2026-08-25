@@ -1,1 +1,152 @@
-{"meta": {"ph": "kɔːt; NAmE kɔːrt", "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;noun;verb", "stars": "★"}, "defs": [{"def": "the place where legal trials take place and where crimes, etc. are judged 法院；法庭；审判庭", "ex": [{"s": "I want to work in a studio, not a court.", "src": "外研社B1 U3", "cat": "waiyan", "year": "", "t": "我想在工作室工作，不是在法庭上。"}]}, {"def": "the people in a court, especially those who make the decisions, such as the judge and jury 全体出庭人员；（尤指）全体审判人员", "ex": [{"s": "Gong Bao Chicken (also known as Kung Pao Chicken) was originally a family dish of Ding Baozhen, or Ding Gongbao, a high-ranking court official of the Qing Dynasty who helped reconstruct the Dujiangyan Irrigation System in Chengdu, Sichuan.", "src": "外研社B2 U1", "cat": "waiyan", "year": "", "t": "宫保鸡丁（又名Kung Pao Chicken）原本是丁宝桢（又名丁宫保）的家常菜，他是清朝的一位高级官员，曾帮助重建四川成都的都江堰水利工程。"}]}, {"def": "a place where games such as tennis are played （网球等的）球场", "ex": [{"s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.", "src": "2022浙江6月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"}, {"s": "The point guard is a key player, but it was like he wasn’t even on the court!", "src": "外研社B3 U1", "cat": "waiyan", "year": "", "t": "控球后卫是关键球员，但他好像根本不在场上！"}, {"s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.", "src": "外研社B4 U3", "cat": "waiyan", "year": "", "t": "与全国篮球协会（ NBA ）的明亮灯光和闪亮球场相去甚远，正是在这条路上，斯蒂芬的祖父通过将一块塑料连接到电线杆上，建造了一个简单的篮子。"}, {"s": "It was very different from the bright lights and shiny courts of the National Basketball Association (NBA).", "src": "外研社B4 U6", "cat": "waiyan", "year": "", "t": "这与NBA那明亮的灯光和闪亮的球场截然不同。"}]}, {"def": "the official place where kings and queens live 王宫；宫殿；宫廷", "ex": []}, {"def": "the king or queen, their family, and the people who work for them and/or give advice to them 王室人员；王宫人员", "ex": []}, {"def": "（用于套房、公寓或某些短街区的名称）公寓大楼，短街；（英国用于某些大型宅第的名称）宅第，邸宅", "ex": []}, {"def": "a large open section of a building, often with a glass roof 建筑物的开阔部分（常有玻璃房顶）；大厅；馆", "ex": []}, {"def": "to try to please sb in order to get sth you want, especially the support of a person, an organization, etc. （为有所求，尤指寻求支持而）试图取悦，讨好，争取", "ex": []}, {"def": "to try to obtain sth 试图获得；博得", "ex": []}, {"def": "to do sth that might result in sth unpleasant happening 招致，酿成，导致（不愉快的事）", "ex": []}, {"def": "if a man courts a woman, he spends time with her and tries to make her love him, so that they can get married （向女子）求爱，求婚", "ex": []}, {"def": "to have a romantic relationship before getting married 男女", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "kɔːt; NAmE kɔːrt",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;noun;verb",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "the place where legal trials take place and where crimes, etc. are judged 法院；法庭；审判庭",
+      "ex": [
+        {
+          "s": "I want to work in a studio, not a court.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我想在工作室工作，不是在法庭上。"
+        }
+      ]
+    },
+    {
+      "def": "the people in a court, especially those who make the decisions, such as the judge and jury 全体出庭人员；（尤指）全体审判人员",
+      "ex": [
+        {
+          "s": "Gong Bao Chicken (also known as Kung Pao Chicken) was originally a family dish of Ding Baozhen, or Ding Gongbao, a high-ranking court official of the Qing Dynasty who helped reconstruct the Dujiangyan Irrigation System in Chengdu, Sichuan.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "宫保鸡丁（又名Kung Pao Chicken）原本是丁宝桢（又名丁宫保）的家常菜，他是清朝的一位高级官员，曾帮助重建四川成都的都江堰水利工程。"
+        }
+      ]
+    },
+    {
+      "def": "a place where games such as tennis are played （网球等的）球场",
+      "ex": [
+        {
+          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+          "src": "2022浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
+        },
+        {
+          "s": "The point guard is a key player, but it was like he wasn’t even on the court!",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "控球后卫是关键球员，但他好像根本不在场上！"
+        },
+        {
+          "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "与全国篮球协会（ NBA ）的明亮灯光和闪亮球场相去甚远，正是在这条路上，斯蒂芬的祖父通过将一块塑料连接到电线杆上，建造了一个简单的篮子。"
+        },
+        {
+          "s": "It was very different from the bright lights and shiny courts of the National Basketball Association (NBA).",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这与NBA那明亮的灯光和闪亮的球场截然不同。"
+        }
+      ]
+    },
+    {
+      "def": "the official place where kings and queens live 王宫；宫殿；宫廷",
+      "ex": []
+    },
+    {
+      "def": "the king or queen, their family, and the people who work for them and/or give advice to them 王室人员；王宫人员",
+      "ex": []
+    },
+    {
+      "def": "（用于套房、公寓或某些短街区的名称）公寓大楼，短街；（英国用于某些大型宅第的名称）宅第，邸宅",
+      "ex": []
+    },
+    {
+      "def": "a large open section of a building, often with a glass roof 建筑物的开阔部分（常有玻璃房顶）；大厅；馆",
+      "ex": []
+    },
+    {
+      "def": "to try to please sb in order to get sth you want, especially the support of a person, an organization, etc. （为有所求，尤指寻求支持而）试图取悦，讨好，争取",
+      "ex": []
+    },
+    {
+      "def": "to try to obtain sth 试图获得；博得",
+      "ex": []
+    },
+    {
+      "def": "to do sth that might result in sth unpleasant happening 招致，酿成，导致（不愉快的事）",
+      "ex": []
+    },
+    {
+      "def": "if a man courts a woman, he spends time with her and tries to make her love him, so that they can get married （向女子）求爱，求婚",
+      "ex": []
+    },
+    {
+      "def": "to have a romantic relationship before getting married 男女",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "shiny courts",
+      "cn": "法院",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "and shiny courts",
+      "cn": "与 法院",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "courts of the national",
+      "cn": "法院 的 该 国家的",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "court official",
+      "cn": "法院 公务的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "high-ranking court",
+      "cn": "法院",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a high-ranking court",
+      "cn": "一个 法院",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tennis courts",
+      "cn": "网球 法院",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "courts are appearing",
+      "cn": "法院 是 不用于进行时",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

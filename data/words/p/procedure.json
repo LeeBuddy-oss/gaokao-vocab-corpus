@@ -1,1 +1,202 @@
-{"meta": {"ph": "prəˈsiːdʒə(r); NAmE prəˈsiːdʒər", "pos": "noun", "stars": "★"}, "defs": [{"def": "a way of doing sth, especially the usual or correct way （正常）程序，手续，步骤", "ex": [{"s": "In a study published in Plant Phenomics, Busch and Pereira establish a new procedure for using SLEAP to analyze plant root phenotypes — how deep and wide they grow, how massive their root systems become, and other physical qualities.", "src": "2026浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "在发表于《Plant Phenomics》的一项研究中，Busch和Pereira建立了一种使用SLEAP分析植物根表型的新流程——包括它们长得有多深多宽、根系变得多庞大，以及其他物理特征。"}, {"s": "If you choose to drop a course you must follow the UCLA procedures for removing it from your schedule.", "src": "2023天津6月卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "如果你选择退一门课，你必须遵循UCLA将其从你的课表中移除的程序。"}, {"s": "have completed UCLA’s registration procedures", "src": "2023天津6月卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "完成加州大学洛杉矶分校的注册手续"}, {"s": "Go through the procedures to drop it.", "src": "2023天津6月卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "按照程序办理退课。"}, {"s": "In all, 80 examinations were conducted for the project between January and September, 2019, focusing on the imaging procedures that would cause anxiety.", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "总共在2019年1月至9月间该项目进行了80次检查重点关注会引起焦虑的成像程序。"}, {"s": "The technologist will guide the patient to this modified state—an imaginary world that will disassociate itself more and more from the procedure that follows.", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "技师会引导患者进入这种改变后的状态——一个想象中的世界，它将越来越脱离随后的操作过程。"}, {"s": "We establish a subject that we will discuss throughout the procedure.\"", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "我们建立了一个主题，我们将在整个程序中讨论。\""}, {"s": "The procedure appealed to the staff a lot when it was introduced in January. fc6It spread like wildfire that someone from France was here to train the technologists,\" Ms L'Ecuyer said.", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "这套程序今年一月推出时很受员工欢迎。“有个法国人来这里培训技术员的消息像野火一样传开了，”勒库耶女士说。"}, {"s": "learn about the procedure", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "了解这个流程"}, {"s": "What can we learn about the story used in the procedure?", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "关于该流程中使用的故事我们能了解到什么？"}, {"s": "It should keep pace with the procedure.", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "它应该跟上程序的节奏。"}, {"s": "The procedure was received among the staff with                 .", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "该程序在员工中受到                 的欢迎。"}, {"s": "making the checkout procedures diverse", "src": "2020天津6月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "将需要的书送到附近的图书馆分馆"}, {"s": "The sheep cloning procedure works like this: • Female sheep A provides an egg cell.", "src": "人教选必1 U5", "cat": "renjiao", "t": "绵羊克隆的过程是这样的：• 母羊A提供一个卵细胞。"}, {"s": "How to do it (idea, procedure, meaning, etc.)?", "src": "北师大B3 U9", "cat": "beishida", "t": "怎么做（想法、步骤、意义等）？"}, {"s": "Things you need Seashells A piece of cardboard Glue Procedures Step 1: Collect a bag of seashells from the beach.", "src": "译林选必1 U3", "cat": "yilin", "t": "所需材料：贝壳、一块纸板、胶水。步骤1：从海滩上收集一袋贝壳。"}, {"s": "Expressions Describing procedures first/firstly/to begin with/to start with as soon as .: it is followed by .../the next step is ..", "src": "译林选必1 U3", "cat": "yilin", "t": "表达 描述步骤 首先/第一/开始/一开始 一……就…… 接着是……/下一步是……"}, {"s": "The use of hypnosis in medical-imaging procedures.", "src": "2021天津3月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "医学成像程序中催眠的使用。"}]}, {"def": "the official or formal order or way of doing sth, especially in business, law or politics （商业、法律或政治上的）程序", "ex": []}, {"def": "a medical operation 手术", "ex": [{"s": "The hospital school is free of parents, doctors, and medical procedures.", "src": "2025新高考II卷·阅读理解B", "cat": "gaokao", "year": 2025, "t": "这对我来说是一个恍然大悟的时刻，从此我再也不会以同样的方式看待结局了。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "prəˈsiːdʒə(r); NAmE prəˈsiːdʒər",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a way of doing sth, especially the usual or correct way （正常）程序，手续，步骤",
+      "ex": [
+        {
+          "s": "In a study published in Plant Phenomics, Busch and Pereira establish a new procedure for using SLEAP to analyze plant root phenotypes — how deep and wide they grow, how massive their root systems become, and other physical qualities.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在发表于《Plant Phenomics》的一项研究中，Busch和Pereira建立了一种使用SLEAP分析植物根表型的新流程——包括它们长得有多深多宽、根系变得多庞大，以及其他物理特征。"
+        },
+        {
+          "s": "If you choose to drop a course you must follow the UCLA procedures for removing it from your schedule.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果你选择退一门课，你必须遵循UCLA将其从你的课表中移除的程序。"
+        },
+        {
+          "s": "have completed UCLA’s registration procedures",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "完成加州大学洛杉矶分校的注册手续"
+        },
+        {
+          "s": "Go through the procedures to drop it.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "按照程序办理退课。"
+        },
+        {
+          "s": "In all, 80 examinations were conducted for the project between January and September, 2019, focusing on the imaging procedures that would cause anxiety.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "总共在2019年1月至9月间该项目进行了80次检查重点关注会引起焦虑的成像程序。"
+        },
+        {
+          "s": "The technologist will guide the patient to this modified state—an imaginary world that will disassociate itself more and more from the procedure that follows.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "技师会引导患者进入这种改变后的状态——一个想象中的世界，它将越来越脱离随后的操作过程。"
+        },
+        {
+          "s": "We establish a subject that we will discuss throughout the procedure.\"",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我们建立了一个主题，我们将在整个程序中讨论。\""
+        },
+        {
+          "s": "The procedure appealed to the staff a lot when it was introduced in January. fc6It spread like wildfire that someone from France was here to train the technologists,\" Ms L'Ecuyer said.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这套程序今年一月推出时很受员工欢迎。“有个法国人来这里培训技术员的消息像野火一样传开了，”勒库耶女士说。"
+        },
+        {
+          "s": "learn about the procedure",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "了解这个流程"
+        },
+        {
+          "s": "What can we learn about the story used in the procedure?",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "关于该流程中使用的故事我们能了解到什么？"
+        },
+        {
+          "s": "It should keep pace with the procedure.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "它应该跟上程序的节奏。"
+        },
+        {
+          "s": "The procedure was received among the staff with                 .",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "该程序在员工中受到                 的欢迎。"
+        },
+        {
+          "s": "making the checkout procedures diverse",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "将需要的书送到附近的图书馆分馆"
+        },
+        {
+          "s": "The sheep cloning procedure works like this: • Female sheep A provides an egg cell.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "绵羊克隆的过程是这样的：• 母羊A提供一个卵细胞。"
+        },
+        {
+          "s": "How to do it (idea, procedure, meaning, etc.)?",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "t": "怎么做（想法、步骤、意义等）？"
+        },
+        {
+          "s": "Things you need Seashells A piece of cardboard Glue Procedures Step 1: Collect a bag of seashells from the beach.",
+          "src": "译林选必1 U3",
+          "cat": "yilin",
+          "t": "所需材料：贝壳、一块纸板、胶水。步骤1：从海滩上收集一袋贝壳。"
+        },
+        {
+          "s": "Expressions Describing procedures first/firstly/to begin with/to start with as soon as .: it is followed by .../the next step is ..",
+          "src": "译林选必1 U3",
+          "cat": "yilin",
+          "t": "表达 描述步骤 首先/第一/开始/一开始 一……就…… 接着是……/下一步是……"
+        },
+        {
+          "s": "The use of hypnosis in medical-imaging procedures.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "医学成像程序中催眠的使用。"
+        }
+      ]
+    },
+    {
+      "def": "the official or formal order or way of doing sth, especially in business, law or politics （商业、法律或政治上的）程序",
+      "ex": []
+    },
+    {
+      "def": "a medical operation 手术",
+      "ex": [
+        {
+          "s": "The hospital school is free of parents, doctors, and medical procedures.",
+          "src": "2025新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这对我来说是一个恍然大悟的时刻，从此我再也不会以同样的方式看待结局了。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "new procedure",
+      "cn": "刚出现的 程序",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "procedure for using",
+      "cn": "程序 为了",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a new procedure",
+      "cn": "一个 刚出现的 程序",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "ucla procedures",
+      "cn": "程序",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "procedures for removing",
+      "cn": "程序 为了 移开",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the ucla procedures",
+      "cn": "该 程序",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "registration procedures",
+      "cn": "程序",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "s registration procedures",
+      "cn": "程序",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

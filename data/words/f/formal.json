@@ -1,1 +1,140 @@
-{"meta":{"ph":"ˈfɔːml; NAmE ˈfɔːrml","pos":"adj.","stars":"★"},"defs":[{"def":"very correct and suitable for official or important occasions 穿着、言语、行为等","ex":[]},{"def":"official; following an agreed or official way of doing things 正式的；合乎规矩的","ex":[{"s":"As it turns out, however, this same concept-one that most consumers make many times each day with reflecting on it-is the basis of the more formal budget line concept in economics , which is explained below.","src":"2018上海卷","cat":"gaokao","year":2018,"t":"然而，事实证明，同一个概念——大多数消费者每天都会做出许多次、却不去反思的概念——是经济学中更正式的预算线概念的基础，下文将作解释。"},{"s":"Even a formal email can seem cold and unfriendly","src":"2020全国II卷·阅读理解D","cat":"gaokao","year":2020,"t":"即使是正式的邮件也可能显得冷淡而不友好"},{"s":"It matters as much as formal talk.","src":"2018全国II卷·阅读理解D","cat":"gaokao","year":2018,"t":"它和正式谈话一样重要。"},{"s":"The more formal economics term for these two items is budget set.","src":"2018上海卷","cat":"gaokao","year":2018,"t":"这两个项目的更正式的经济学术语是预算集。"},{"s":"Invitation Traditionally, people send written invitations for formal events such as weddings.","src":"外研社B2 U2","cat":"waiyan","t":"邀请函 传统上，对于婚礼等正式活动，人们会发送书面邀请函。"},{"s":"Is the email formal or informal?","src":"北师大B1 U1","cat":"beishida","t":"这封邮件是正式的还是非正式的？"},{"s":"What do people do at formal and informal parties?What are the differences?","src":"北师大B1 U3","cat":"beishida","t":"在正式和非正式聚会上人们会做什么？有什么区别？"},{"s":"A formal invitation letter may use either the third person or first person “we” with the place and date often spelt out The wording and tone should be formal rather than conversational.","src":"外研社B4 U4","cat":"waiyan","t":"正式邀请函可以使用第三人称或第一人称\"我们\"，地点和日期通常要完整拼写出来。措辞和语气应该是正式的，而不是随意的。"}]},{"def":"received in a school, college or university, with lessons, exams, etc., rather than gained just through practical experience 学校教育或培训","ex":[{"s":"She had formal education.","src":"2023全国乙卷·阅读理解A","cat":"gaokao","year":2023,"t":"她受过正规教育。"}]},{"def":"concerned with the way sth is done rather than what is done 方式上的；做法上的；形式上的","ex":[]},{"def":"arranged in a regular manner, according to a clear, exact plan 花园、房间、建筑物","ex":[]}],"chunks":[{"en":"be formal","cn":"正式的","type":"形容词搭配","count":1}]}
+{
+  "meta": {
+    "ph": "ˈfɔːml; NAmE ˈfɔːrml",
+    "pos": "adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "very correct and suitable for official or important occasions 穿着、言语、行为等",
+      "ex": []
+    },
+    {
+      "def": "official; following an agreed or official way of doing things 正式的；合乎规矩的",
+      "ex": [
+        {
+          "s": "As it turns out, however, this same concept-one that most consumers make many times each day with reflecting on it-is the basis of the more formal budget line concept in economics , which is explained below.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "然而，事实证明，同一个概念——大多数消费者每天都会做出许多次、却不去反思的概念——是经济学中更正式的预算线概念的基础，下文将作解释。"
+        },
+        {
+          "s": "Even a formal email can seem cold and unfriendly",
+          "src": "2020全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "即使是正式的邮件也可能显得冷淡而不友好"
+        },
+        {
+          "s": "It matters as much as formal talk.",
+          "src": "2018全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "它和正式谈话一样重要。"
+        },
+        {
+          "s": "The more formal economics term for these two items is budget set.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "这两个项目的更正式的经济学术语是预算集。"
+        },
+        {
+          "s": "Invitation Traditionally, people send written invitations for formal events such as weddings.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "邀请函 传统上，对于婚礼等正式活动，人们会发送书面邀请函。"
+        },
+        {
+          "s": "Is the email formal or informal?",
+          "src": "北师大B1 U1",
+          "cat": "beishida",
+          "t": "这封邮件是正式的还是非正式的？"
+        },
+        {
+          "s": "What do people do at formal and informal parties?What are the differences?",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "在正式和非正式聚会上人们会做什么？有什么区别？"
+        },
+        {
+          "s": "A formal invitation letter may use either the third person or first person “we” with the place and date often spelt out The wording and tone should be formal rather than conversational.",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "t": "正式邀请函可以使用第三人称或第一人称\"我们\"，地点和日期通常要完整拼写出来。措辞和语气应该是正式的，而不是随意的。"
+        }
+      ]
+    },
+    {
+      "def": "received in a school, college or university, with lessons, exams, etc., rather than gained just through practical experience 学校教育或培训",
+      "ex": [
+        {
+          "s": "She had formal education.",
+          "src": "2023全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她受过正规教育。"
+        }
+      ]
+    },
+    {
+      "def": "concerned with the way sth is done rather than what is done 方式上的；做法上的；形式上的",
+      "ex": []
+    },
+    {
+      "def": "arranged in a regular manner, according to a clear, exact plan 花园、房间、建筑物",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "formal budget",
+      "cn": "穿着 预算",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "more formal budget",
+      "cn": "更多 穿着 预算",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "formal email",
+      "cn": "穿着 电子邮件",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a formal email",
+      "cn": "一个 穿着 电子邮件",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "even a formal",
+      "cn": "甚至 一个 穿着",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "formal talk",
+      "cn": "穿着 说话",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "as formal talk",
+      "cn": "作为 穿着 说话",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "formal economics",
+      "cn": "穿着 经济的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

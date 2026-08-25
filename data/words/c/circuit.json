@@ -1,1 +1,107 @@
-{"meta": {"ph": "ˈsɜːkɪt; NAmE ˈsɜːrkɪt", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a line, route, or journey around a place 环行；环行路线", "ex": []}, {"def": "the complete path of wires and equipment along which an electric current flows 电路；线路", "ex": [{"s": "Morse invented a code for sending messages over an electromagnetic circuit.", "src": "2022浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "Morse发明了一种通过电磁电路发送信息的编码。"}, {"s": "These included lessons (4) focused on topics like electrical circuits.", "src": "译林选必4 U4", "cat": "yilin", "year": "", "t": "其中包括侧重于电路等主题的课程（4）。"}, {"s": "With 18,000 tubes, thousands of circuits and 6,000 switches, it used so much energy that when it was turned on, the lights in the local town went iano With the development of computers, people expected to get more things done efficiently.", "src": "北师大选必4 U12", "cat": "beishida", "year": "", "t": "它有 18,000 个电子管、数千个电路和 6,000 个开关，耗电量如此之大，以至于开机时当地城镇的灯都暗了下去。随着计算机的发展，人们期望能更高效地完成更多工作。"}]}, {"def": "a series of games or matches in which the same players regularly take part 体育运动", "ex": []}, {"def": "a track for cars or motorcycles to race around 赛车道", "ex": []}, {"def": "a series of places or events of a particular kind at which the same people appear or take part 巡回；巡游", "ex": [{"s": "My mother also does a circuit of the rural villages to provide medical treatment, help those with disabilities, and provide consultation and training for local doctors.", "src": "人教选必4 U4", "cat": "renjiao", "year": "", "t": "我母亲还在乡村间巡回，提供医疗服务，帮助残障人士，并为当地医生提供咨询和培训。"}]}, {"def": "a regular journey made by a judge to hear court cases in each of the courts of law in a particular area （法官的）巡回审判", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈsɜːkɪt; NAmE ˈsɜːrkɪt",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a line, route, or journey around a place 环行；环行路线",
+      "ex": []
+    },
+    {
+      "def": "the complete path of wires and equipment along which an electric current flows 电路；线路",
+      "ex": [
+        {
+          "s": "Morse invented a code for sending messages over an electromagnetic circuit.",
+          "src": "2022浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Morse发明了一种通过电磁电路发送信息的编码。"
+        },
+        {
+          "s": "These included lessons (4) focused on topics like electrical circuits.",
+          "src": "译林选必4 U4",
+          "cat": "yilin",
+          "year": "",
+          "t": "其中包括侧重于电路等主题的课程（4）。"
+        },
+        {
+          "s": "With 18,000 tubes, thousands of circuits and 6,000 switches, it used so much energy that when it was turned on, the lights in the local town went iano With the development of computers, people expected to get more things done efficiently.",
+          "src": "北师大选必4 U12",
+          "cat": "beishida",
+          "year": "",
+          "t": "它有 18,000 个电子管、数千个电路和 6,000 个开关，耗电量如此之大，以至于开机时当地城镇的灯都暗了下去。随着计算机的发展，人们期望能更高效地完成更多工作。"
+        }
+      ]
+    },
+    {
+      "def": "a series of games or matches in which the same players regularly take part 体育运动",
+      "ex": []
+    },
+    {
+      "def": "a track for cars or motorcycles to race around 赛车道",
+      "ex": []
+    },
+    {
+      "def": "a series of places or events of a particular kind at which the same people appear or take part 巡回；巡游",
+      "ex": [
+        {
+          "s": "My mother also does a circuit of the rural villages to provide medical treatment, help those with disabilities, and provide consultation and training for local doctors.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "year": "",
+          "t": "我母亲还在乡村间巡回，提供医疗服务，帮助残障人士，并为当地医生提供咨询和培训。"
+        }
+      ]
+    },
+    {
+      "def": "a regular journey made by a judge to hear court cases in each of the courts of law in a particular area （法官的）巡回审判",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "electromagnetic circuit",
+      "cn": "环行",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "an electromagnetic circuit",
+      "cn": "一个 环行",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "electrical circuits",
+      "cn": "环行",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "like electrical circuits",
+      "cn": "像 环行",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "circuits and switches",
+      "cn": "环行 与 开关",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "thousands of circuits",
+      "cn": "的 环行",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "circuit of the rural",
+      "cn": "环行 的 该 乡村的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

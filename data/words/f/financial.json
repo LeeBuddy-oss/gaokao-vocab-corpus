@@ -1,1 +1,183 @@
-{"meta": {"ph": "faɪˈnænʃl; NAmE faɪˈnænʃl", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "connected with money and finance 财政的；财务的；金融的", "ex": [{"s": "It got lots of financial support.", "src": "2025新高考II卷·阅读理解C", "cat": "gaokao", "year": 2025, "t": "它获得了大量的财政支持。"}, {"s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.", "src": "2024全国甲卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。"}, {"s": "There are now 700 elderly people looking after hens in 20 care homes in the North East, and the charity has been given financial support to roll it out countrywide.", "src": "2022全国新高考I卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "如今英格兰东北部20家养老院里有700名老人在照料母鸡，该慈善机构已获得财政支持，计划在全国范围内推广。"}, {"s": "That movie led him into the second half of his career where his comedic presence alone could make a movie a financial success even when movie reviewers would not rate it highly.", "src": "2021浙江6月卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "那部电影将他带入了职业生涯的下半场，在那个阶段，仅凭他的喜剧魅力就能让一部电影在商业上获得成功，即使影评人评价不高。"}, {"s": "Financial support for travel．", "src": "2021北京卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "旅费资助．"}, {"s": "Young couples needed financial assistance.", "src": "2019浙江卷", "cat": "gaokao", "year": 2019, "t": "年轻夫妇需要经济援助。"}, {"s": "The 2008 financial crisis created an unstable job market.", "src": "2018上海卷·Becoming an Attractive Employee", "cat": "gaokao", "year": 2018, "t": "2008年金融危机造成了不稳定的就业市场。"}, {"s": "We supported each other financially and by showing up at events.", "src": "2017全国II卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "我们在经济上相互支持，并且出席彼此的活动。"}, {"s": "However, these plans were abandoned because of financial problems.", "src": "2017全国III卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "然而，由于资金问题，这些计划被放弃了。"}, {"s": "lead to financial difficulties        D. put pressure on schools", "src": "2017浙江6月卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "导致经济困难        D. 给学校带来压力"}, {"s": "We supported each other financially and by showing up at events.", "src": "2017重庆卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "我们在经济上相互支持，并且出席彼此的活动。"}, {"s": "Governments could relieve their financial pressure.", "src": "2017江苏卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "政府可以缓解财政压力。"}, {"s": "The ability to manage money and budgets is always useful, so work on developing good 7 fanatical / financial skills too.", "src": "北师大选必3 U9", "cat": "beishida", "t": "管理金钱和预算的能力总是有用的，所以要努力培养良好的理财技能。"}]}, {"def": "having money 有钱的", "ex": [{"s": "To help these young people with their bright and innovative ideas, the government is providing financial help.", "src": "人教选必1 U5", "cat": "renjiao", "t": "为了帮助这些有光明创新想法的年轻人，政府正在提供资金帮助。"}, {"s": "Over the years of his performing and writing, it was clear that Mozart was far more gifted and talented than others in his field, although at times, he found that people showed 5 (hesitate) to support him financially.", "src": "北师大B3 U9", "cat": "beishida", "t": "在他多年的表演和创作中，很明显莫扎特比同领域的其他人更有天赋和才华，尽管有时他发现人们对他经济上的支持表现出犹豫。"}, {"s": "In family situations, people can be in conflict about many things, some personal and some financial.", "src": "北师大选必4 U12", "cat": "beishida", "t": "在家庭情境中，人们可能因许多事情产生冲突，有些是个人因素，有些是经济因素。"}, {"s": "After continuous attempts, he received financial support from the King and Queen of Spain.", "src": "译林选必3 U3", "cat": "yilin", "t": "经过不断的尝试，他获得了西班牙国王和王后的资金支持。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "faɪˈnænʃl; NAmE faɪˈnænʃl",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "connected with money and finance 财政的；财务的；金融的",
+      "ex": [
+        {
+          "s": "It got lots of financial support.",
+          "src": "2025新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "它获得了大量的财政支持。"
+        },
+        {
+          "s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.",
+          "src": "2024全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。"
+        },
+        {
+          "s": "There are now 700 elderly people looking after hens in 20 care homes in the North East, and the charity has been given financial support to roll it out countrywide.",
+          "src": "2022全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "如今英格兰东北部20家养老院里有700名老人在照料母鸡，该慈善机构已获得财政支持，计划在全国范围内推广。"
+        },
+        {
+          "s": "That movie led him into the second half of his career where his comedic presence alone could make a movie a financial success even when movie reviewers would not rate it highly.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "那部电影将他带入了职业生涯的下半场，在那个阶段，仅凭他的喜剧魅力就能让一部电影在商业上获得成功，即使影评人评价不高。"
+        },
+        {
+          "s": "Financial support for travel．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "旅费资助．"
+        },
+        {
+          "s": "Young couples needed financial assistance.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "年轻夫妇需要经济援助。"
+        },
+        {
+          "s": "The 2008 financial crisis created an unstable job market.",
+          "src": "2018上海卷·Becoming an Attractive Employee",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "2008年金融危机造成了不稳定的就业市场。"
+        },
+        {
+          "s": "We supported each other financially and by showing up at events.",
+          "src": "2017全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "我们在经济上相互支持，并且出席彼此的活动。"
+        },
+        {
+          "s": "However, these plans were abandoned because of financial problems.",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "然而，由于资金问题，这些计划被放弃了。"
+        },
+        {
+          "s": "lead to financial difficulties        D. put pressure on schools",
+          "src": "2017浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "导致经济困难        D. 给学校带来压力"
+        },
+        {
+          "s": "We supported each other financially and by showing up at events.",
+          "src": "2017重庆卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "我们在经济上相互支持，并且出席彼此的活动。"
+        },
+        {
+          "s": "Governments could relieve their financial pressure.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "政府可以缓解财政压力。"
+        },
+        {
+          "s": "The ability to manage money and budgets is always useful, so work on developing good 7 fanatical / financial skills too.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "管理金钱和预算的能力总是有用的，所以要努力培养良好的理财技能。"
+        }
+      ]
+    },
+    {
+      "def": "having money 有钱的",
+      "ex": [
+        {
+          "s": "To help these young people with their bright and innovative ideas, the government is providing financial help.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "为了帮助这些有光明创新想法的年轻人，政府正在提供资金帮助。"
+        },
+        {
+          "s": "Over the years of his performing and writing, it was clear that Mozart was far more gifted and talented than others in his field, although at times, he found that people showed 5 (hesitate) to support him financially.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "t": "在他多年的表演和创作中，很明显莫扎特比同领域的其他人更有天赋和才华，尽管有时他发现人们对他经济上的支持表现出犹豫。"
+        },
+        {
+          "s": "In family situations, people can be in conflict about many things, some personal and some financial.",
+          "src": "北师大选必4 U12",
+          "cat": "beishida",
+          "t": "在家庭情境中，人们可能因许多事情产生冲突，有些是个人因素，有些是经济因素。"
+        },
+        {
+          "s": "After continuous attempts, he received financial support from the King and Queen of Spain.",
+          "src": "译林选必3 U3",
+          "cat": "yilin",
+          "t": "经过不断的尝试，他获得了西班牙国王和王后的资金支持。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "financial support",
+      "cn": "财政的 支持",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "of financial support",
+      "cn": "的 财政的 支持",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "lots of financial",
+      "cn": "很 的 财政的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "financial aid",
+      "cn": "财政的 援助",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "expanding financial",
+      "cn": "扩大 财政的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and expanding financial",
+      "cn": "与 扩大 财政的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "given financial",
+      "cn": "财政的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "financial support to",
+      "cn": "财政的 支持 去",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

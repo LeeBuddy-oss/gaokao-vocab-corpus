@@ -1,1 +1,174 @@
-{"meta": {"ph": "tæks; NAmE tæks", "pos": "noun", "stars": "★★"}, "defs": [{"def": "to put a tax on sb/sth; to make sb pay tax 对 … 征税；课税；使纳税", "ex": [{"s": "The Government's sugar tax on soft drinks has brought in half as much money as Ministers first predicted it would generate, the first official data on the policy has shown.", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "据信今天的儿童和青少年摄入的糖分是推荐水平的三倍，使他们面临更高的患病风险。"}, {"s": "Initially the sugar tax was expected to make £520m a year for the Treasury.", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "最初，糖税预计每年为财政部带来5.2亿英镑的收入。"}, {"s": "However, some high sugar brands, like Classic Coca Cola, have accepted the sugar tax and are refusing to change for fear of upsetting consumers.", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "然而，一些高糖品牌，如经典可口可乐，已经接受了糖税，并且因为担心让消费者不满而拒绝改变。"}, {"s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"}, {"s": "Why was the sugar tax introduced?", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "为什么开始征收糖税？"}, {"s": "From which of the following is the sugar tax collected?", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "糖税是从以下哪一项中征收的？"}, {"s": "What can be inferred about the adoption of the sugar tax policy?", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "关于糖税政策的采纳能推断出什么？"}, {"s": "There are plenty of other benefits, too; it doesn’t charge city tax; it has both air conditioning and a heater for the rooms; it also has free Wi-Fi in every room.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "还有很多其他好处：不收城市税；房间里有空调和暖气；每个房间还有免费Wi-Fi。"}, {"s": "But keep two things in mind: make sure that it doesn’t interfere with your studies, and pay any tax as required by law.", "src": "外研社B7 U4", "cat": "waiyan", "t": "但记住两点：确保不干扰你的学习,"}, {"s": "Robert Burns began working as a tax collector.", "src": "译林选必1 U4", "cat": "yilin", "t": "罗伯特·伯恩斯开始担任税务员。"}, {"s": "A reason why people are against the idea is that making the products creates jobs and brings in large amounts of tax.However,surelythis is afalse argument.", "src": "北师大选必4 U11", "cat": "beishida", "t": "人们之所以反对这个想法，是因为制造这些产品创造了工作机会，并带来了大量税收。 但毫无疑问，这是虚假的争论。"}]}, {"def": "to pay tax on a vehicle so that you may use it on the roads 缴纳车辆牌照税", "ex": [{"s": "Surely, if you’re old enough to earn a wage and pay taxes, you should be allowed to have a say on how the government spends them!", "src": "外研社B5 U1", "cat": "waiyan", "t": "如果你已经够大，挣工资和交税,"}, {"s": "It turns out that pet transporting pays quite well at about $30, 000 per year before tax.", "src": "2022浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2022, "t": "事实证明宠物运输报酬相当可观，税前每年约30,000美元。"}]}, {"def": "to need a great amount of physical or mental effort 使负重担；使受压力；使大伤脑筋", "ex": [{"s": "How did some drinks companies respond to the sugar tax?", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "一些饮料公司如何回应糖税？"}, {"s": "We also need to introduce new taxes and other means to encourage for their products.", "src": "北师大B2 U6", "cat": "beishida", "t": "我们还需要引进新的税收和其他手段，鼓励他们的产品。"}]}], "chunks": [{"en": "pay taxes", "cn": "支付税", "type": "动词短语", "count": 2}]}
+{
+  "meta": {
+    "ph": "tæks; NAmE tæks",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to put a tax on sb/sth; to make sb pay tax 对 … 征税；课税；使纳税",
+      "ex": [
+        {
+          "s": "The Government's sugar tax on soft drinks has brought in half as much money as Ministers first predicted it would generate, the first official data on the policy has shown.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "据信今天的儿童和青少年摄入的糖分是推荐水平的三倍，使他们面临更高的患病风险。"
+        },
+        {
+          "s": "Initially the sugar tax was expected to make £520m a year for the Treasury.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "最初，糖税预计每年为财政部带来5.2亿英镑的收入。"
+        },
+        {
+          "s": "However, some high sugar brands, like Classic Coca Cola, have accepted the sugar tax and are refusing to change for fear of upsetting consumers.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "然而，一些高糖品牌，如经典可口可乐，已经接受了糖税，并且因为担心让消费者不满而拒绝改变。"
+        },
+        {
+          "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
+        },
+        {
+          "s": "Why was the sugar tax introduced?",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "为什么开始征收糖税？"
+        },
+        {
+          "s": "From which of the following is the sugar tax collected?",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "糖税是从以下哪一项中征收的？"
+        },
+        {
+          "s": "What can be inferred about the adoption of the sugar tax policy?",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "关于糖税政策的采纳能推断出什么？"
+        },
+        {
+          "s": "There are plenty of other benefits, too; it doesn’t charge city tax; it has both air conditioning and a heater for the rooms; it also has free Wi-Fi in every room.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "还有很多其他好处：不收城市税；房间里有空调和暖气；每个房间还有免费Wi-Fi。"
+        },
+        {
+          "s": "But keep two things in mind: make sure that it doesn’t interfere with your studies, and pay any tax as required by law.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "但记住两点：确保不干扰你的学习,"
+        },
+        {
+          "s": "Robert Burns began working as a tax collector.",
+          "src": "译林选必1 U4",
+          "cat": "yilin",
+          "t": "罗伯特·伯恩斯开始担任税务员。"
+        },
+        {
+          "s": "A reason why people are against the idea is that making the products creates jobs and brings in large amounts of tax.However,surelythis is afalse argument.",
+          "src": "北师大选必4 U11",
+          "cat": "beishida",
+          "t": "人们之所以反对这个想法，是因为制造这些产品创造了工作机会，并带来了大量税收。 但毫无疑问，这是虚假的争论。"
+        }
+      ]
+    },
+    {
+      "def": "to pay tax on a vehicle so that you may use it on the roads 缴纳车辆牌照税",
+      "ex": [
+        {
+          "s": "Surely, if you’re old enough to earn a wage and pay taxes, you should be allowed to have a say on how the government spends them!",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "如果你已经够大，挣工资和交税,"
+        },
+        {
+          "s": "It turns out that pet transporting pays quite well at about $30, 000 per year before tax.",
+          "src": "2022浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "事实证明宠物运输报酬相当可观，税前每年约30,000美元。"
+        }
+      ]
+    },
+    {
+      "def": "to need a great amount of physical or mental effort 使负重担；使受压力；使大伤脑筋",
+      "ex": [
+        {
+          "s": "How did some drinks companies respond to the sugar tax?",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "一些饮料公司如何回应糖税？"
+        },
+        {
+          "s": "We also need to introduce new taxes and other means to encourage for their products.",
+          "src": "北师大B2 U6",
+          "cat": "beishida",
+          "t": "我们还需要引进新的税收和其他手段，鼓励他们的产品。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "sugar tax",
+      "cn": "食糖 对 … 征税",
+      "type": "名词短语",
+      "count": 7
+    },
+    {
+      "en": "the sugar tax",
+      "cn": "该 食糖 对 … 征税",
+      "type": "名词短语",
+      "count": 6
+    },
+    {
+      "en": "tax on soft",
+      "cn": "对 … 征税 在…上 软的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "sugar tax on",
+      "cn": "食糖 对 … 征税 在…上",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "government's sugar tax",
+      "cn": "政府 食糖 对 … 征税",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tax was expected",
+      "cn": "对 … 征税 是 预料",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "sugar tax was",
+      "cn": "食糖 对 … 征税 是",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sugar tax and",
+      "cn": "食糖 对 … 征税 与",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,149 @@
-{"meta":{"ph":"kruː; NAmE kruː","pos":"noun","stars":"★★"},"defs":[{"def":"all the people working on a ship, plane, etc. （轮船、飞机等上面的）全体工作人员","ex":[{"s":"To earn profits for the crews.","src":"2022全国乙卷·阅读理解C","cat":"gaokao","t":"为全体员工赚取利润。","year":2022},{"s":"But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.","src":"2020浙江1月卷·阅读理解B","cat":"gaokao","t":"但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。","year":2020},{"s":"What did the crew members have to do?","src":"人教选必3 U4","cat":"renjiao","t":"机组成员必须做什么？","year":""},{"s":"To help raise the crew's pay.","src":"2022新高考I卷","cat":"gaokao","t":"帮助提高剧组人员的薪酬。","year":2022},{"s":"To help raise the crew’s pay.","src":"2022浙江卷","cat":"gaokao","t":"帮助提高剧组人员的薪酬。","year":2022}]},{"def":"all the people working on a ship, plane etc. except the officers who are in charge （轮船、飞机等上面不包括高级职员的）全体船员，全体乘务员","ex":[{"s":"Thousands of metres beneath the waves, its crew took incredible photos and videos and collected important samples from the ocean floor for research in oceanography.","src":"外研社B7 U6","cat":"waiyan","t":"在海浪下数千米处，其船员拍摄了令人难以置信的照片和视频，并为海洋学研究从海底收集了重要样本。","year":""},{"s":"No one who was present could hold back the tears – even the captain and crew, who were all men of iron.","src":"外研社B7 U6","cat":"waiyan","t":"在场的人无不热泪盈眶——连船长和船员这些铁打的汉子也是如此。","year":""},{"s":"The organisation believes that its project is giving people worldwide the chance to be part of the first human crew ever to live on Mars for good.","src":"人教B3 U5","cat":"renjiao","t":"该组织相信，他们的项目正在让全世界的人有机会成为第一批永久生活在火星上的人类船员的一部分。","year":""}]},{"def":"a group of people with special skills working together 技术人员团队；专业团队","ex":[{"s":"That can be dangerous work that could be avoided with drones assisting the crews’ efforts.","src":"2022全国乙卷·阅读理解C","cat":"gaokao","t":"通过使用最新技术，无人机还可以开始为铁路提供更高价值的服务，在铁轨或道岔造成安全问题之前检测故障。","year":2022}]},{"def":"a group of people 一群（或一帮、一伙）人","ex":[]},{"def":"a team of people who row boats in races （赛船的）划船队员，划船队","ex":[]},{"def":"the sport of rowing with other people in a boat 赛艇运动","ex":[]}],"chunks":[{"en":"raise crew","cn":"举起轮船、飞机等上面","type":"动词短语","count":2}]}
+{
+  "meta": {
+    "ph": "kruː; NAmE kruː",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "all the people working on a ship, plane, etc. （轮船、飞机等上面的）全体工作人员",
+      "ex": [
+        {
+          "s": "To earn profits for the crews.",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "为全体员工赚取利润。",
+          "year": 2022
+        },
+        {
+          "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
+          "src": "2020浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。",
+          "year": 2020
+        },
+        {
+          "s": "What did the crew members have to do?",
+          "src": "人教选必3 U4",
+          "cat": "renjiao",
+          "t": "机组成员必须做什么？",
+          "year": ""
+        },
+        {
+          "s": "To help raise the crew's pay.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "t": "帮助提高剧组人员的薪酬。",
+          "year": 2022
+        },
+        {
+          "s": "To help raise the crew’s pay.",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "t": "帮助提高剧组人员的薪酬。",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "def": "all the people working on a ship, plane etc. except the officers who are in charge （轮船、飞机等上面不包括高级职员的）全体船员，全体乘务员",
+      "ex": [
+        {
+          "s": "Thousands of metres beneath the waves, its crew took incredible photos and videos and collected important samples from the ocean floor for research in oceanography.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "在海浪下数千米处，其船员拍摄了令人难以置信的照片和视频，并为海洋学研究从海底收集了重要样本。",
+          "year": ""
+        },
+        {
+          "s": "No one who was present could hold back the tears – even the captain and crew, who were all men of iron.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "在场的人无不热泪盈眶——连船长和船员这些铁打的汉子也是如此。",
+          "year": ""
+        },
+        {
+          "s": "The organisation believes that its project is giving people worldwide the chance to be part of the first human crew ever to live on Mars for good.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "该组织相信，他们的项目正在让全世界的人有机会成为第一批永久生活在火星上的人类船员的一部分。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "a group of people with special skills working together 技术人员团队；专业团队",
+      "ex": [
+        {
+          "s": "That can be dangerous work that could be avoided with drones assisting the crews’ efforts.",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "通过使用最新技术，无人机还可以开始为铁路提供更高价值的服务，在铁轨或道岔造成安全问题之前检测故障。",
+          "year": 2022
+        }
+      ]
+    },
+    {
+      "def": "a group of people 一群（或一帮、一伙）人",
+      "ex": []
+    },
+    {
+      "def": "a team of people who row boats in races （赛船的）划船队员，划船队",
+      "ex": []
+    },
+    {
+      "def": "the sport of rowing with other people in a boat 赛艇运动",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "crews spread",
+      "cn": "全体工作人员 展开",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "road crews",
+      "cn": "路 全体工作人员",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "food road crews",
+      "cn": "食物 路 全体工作人员",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "crew members",
+      "cn": "全体工作人员 成员",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the crew members",
+      "cn": "该 全体工作人员 成员",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "crew s pay",
+      "cn": "全体工作人员 付费",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "raise the crew",
+      "cn": "提升 该 全体工作人员",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "crew took",
+      "cn": "全体工作人员",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,136 @@
-{"meta":{"ph":"dɪˈvəʊt; NAmE dɪˈvoʊt","pos":"verb","stars":"★★"},"defs":[{"def":"","ex":[{"s":"He is devoted to health education.","src":"2026新高考II卷·阅读理解B","cat":"gaokao","year":2026,"t":"他致力于健康教育。"},{"s":"According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.","src":"2024新高考I卷·阅读理解C","cat":"gaokao","year":2024,"t":"根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"},{"s":"They are devoted to community service.","src":"2024新高考II卷·阅读理解C","cat":"gaokao","year":2024,"t":"他们热心社区服务。"},{"s":"Ms Young has also devoted herself to supporting the restaurants in Chinatown.","src":"2023天津3月卷·阅读表达","cat":"gaokao","year":2023,"t":"毕竟，如果不偶尔犯错，任何事都不可能有进步。"},{"s":"devoted himself more to art than to medicine","src":"2020天津3月卷·阅读理解B","cat":"gaokao","year":2020,"t":"投身于艺术多于医学"},{"s":"For the past five years, Paula Smith, a historian of science, has devoted herself to re-creating long-forgotten techniques.","src":"2020北京卷·阅读理解C","cat":"gaokao","year":2020,"t":"在过去的五年里，科学史家 Paula Smith 一直致力于重现早已被遗忘的技术。"},{"s":"Now, she is a model and performance artist devoted/devoting to ocean conservation.","src":"外研社B2 U6","cat":"waiyan","t":"以下是我们对这次事故了解的有吸引力的东西，我们已经安装了新技术。"},{"s":"After coming back from the US, Deng devoted himself whole-heartedly to the development of the “two bombs”.","src":"外研社B6 U2","cat":"waiyan","t":"从美国回来后，邓稼先全身心投入到“两弹”的研制中。"},{"s":"VS Ivy I admire those people who devote their whole lives to one thing.","src":"外研社B6 U2","cat":"waiyan","t":"VS Ivy：我钦佩那些将一生奉献给一件事的人。"},{"s":"Having devoted himself to a third edition of The English-Chinese Dictionary after his retirement, Lu continued to edit the dictionary on the dining table of his modest Shanghai apartment.","src":"外研社B6 U6","cat":"waiyan","t":"退休后，陆谷孙全身心投入《英汉大词典》第三版的编纂，在他上海简陋公寓的餐桌上继续编辑词典。"},{"s":"After Sherlock Holmes made him a household name, Doyle gave up medicine and devoted himself entirely to writing.","src":"外研社B7 U1","cat":"waiyan","t":"在夏洛克·福尔摩斯让他家喻户晓之后，道尔放弃了医学，全身心投入写作。"}]}],"chunks":[{"en":"be devoted to","cn":"致力于","type":"动词短语","count":2}]}
+{
+  "meta": {
+    "ph": "dɪˈvəʊt; NAmE dɪˈvoʊt",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "",
+      "ex": [
+        {
+          "s": "He is devoted to health education.",
+          "src": "2026新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "他致力于健康教育。"
+        },
+        {
+          "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
+        },
+        {
+          "s": "They are devoted to community service.",
+          "src": "2024新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他们热心社区服务。"
+        },
+        {
+          "s": "Ms Young has also devoted herself to supporting the restaurants in Chinatown.",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "毕竟，如果不偶尔犯错，任何事都不可能有进步。"
+        },
+        {
+          "s": "devoted himself more to art than to medicine",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "投身于艺术多于医学"
+        },
+        {
+          "s": "For the past five years, Paula Smith, a historian of science, has devoted herself to re-creating long-forgotten techniques.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在过去的五年里，科学史家 Paula Smith 一直致力于重现早已被遗忘的技术。"
+        },
+        {
+          "s": "Now, she is a model and performance artist devoted/devoting to ocean conservation.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "以下是我们对这次事故了解的有吸引力的东西，我们已经安装了新技术。"
+        },
+        {
+          "s": "After coming back from the US, Deng devoted himself whole-heartedly to the development of the “two bombs”.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "从美国回来后，邓稼先全身心投入到“两弹”的研制中。"
+        },
+        {
+          "s": "VS Ivy I admire those people who devote their whole lives to one thing.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "VS Ivy：我钦佩那些将一生奉献给一件事的人。"
+        },
+        {
+          "s": "Having devoted himself to a third edition of The English-Chinese Dictionary after his retirement, Lu continued to edit the dictionary on the dining table of his modest Shanghai apartment.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "退休后，陆谷孙全身心投入《英汉大词典》第三版的编纂，在他上海简陋公寓的餐桌上继续编辑词典。"
+        },
+        {
+          "s": "After Sherlock Holmes made him a household name, Doyle gave up medicine and devoted himself entirely to writing.",
+          "src": "外研社B7 U1",
+          "cat": "waiyan",
+          "t": "在夏洛克·福尔摩斯让他家喻户晓之后，道尔放弃了医学，全身心投入写作。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "devoted himself",
+      "cn": "的反身形式",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "devoted herself",
+      "cn": "的反身形式",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "devoted to health",
+      "cn": "去 人的身体状况",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "he is devoted",
+      "cn": "他 是",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "devote less mental",
+      "cn": "更少 思想的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "serious and devote",
+      "cn": "不好的 与",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "devoted to community",
+      "cn": "去 社区",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "they are devoted",
+      "cn": "他们 是",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

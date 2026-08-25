@@ -1,1 +1,129 @@
-{"meta": {"ph": "ˈliːɡl; NAmE ˈliːɡl", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "connected with the law 与法律有关的；法律的", "ex": [{"s": "I was born legally blind.", "src": "2020浙江1月卷·完形填空", "cat": "gaokao", "year": 2020, "t": "我天生是法定盲人。", "_matched": true}, {"s": "Money not legally made.", "src": "2019浙江卷", "cat": "gaokao", "year": 2019, "t": "非法获得的钱。"}, {"s": "For example, England, Wales, Scotland, and Northern Ireland all have different education systems and legal systems.", "src": "人教B2 U4", "cat": "renjiao", "t": "例如，英格兰、威尔士、苏格兰和北爱尔兰都有不同的教育体系和法律体系。"}, {"s": "They had castles built all around England, and made changes to the legal system.", "src": "人教B2 U4", "cat": "renjiao", "t": "他们在英格兰各地修建城堡，并对法律制度作了改动。"}, {"s": "What are the legal consequences of breaking a contract?", "src": "人教选必4 U5", "cat": "renjiao", "t": "违约的法律后果是什么？"}, {"s": "I try to help before they take legal action and go to court.", "src": "北师大选必4 U12", "cat": "beishida", "t": "我会在他们采取法律行动和上法庭之前尽力帮忙。"}]}, {"def": "allowed or required by law 法律允许的；合法的；法律要求的", "ex": [{"s": "Hence, private climate engineering can proceed in relative legal safety.", "src": "2024浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "因此，私人气候工程可以在相对合法的安全状态下进行。", "_matched": true}, {"s": "Today, there are about 2,000 or more grizzly bears in the US Their recovery has been so successful that the US Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted.", "src": "2023全国甲卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "如今，美国大约有2000只或更多的灰熊。它们的恢复如此成功，以至于美国鱼类和野生动物管理局曾两次试图将灰熊从保护名录中移除，这将放松法律保护并允许捕猎它们。"}, {"s": "As an ambulance driver, she’s seen a lot of car accidents involving teenagers and thinks the legal age for getting a driving licence should be 21.", "src": "外研社B5 U1", "cat": "waiyan", "t": "作为救护车司机，她见过很多涉及青少年的车祸，认为拿驾照的法定年龄应为21岁。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈliːɡl; NAmE ˈliːɡl",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "connected with the law 与法律有关的；法律的",
+      "ex": [
+        {
+          "s": "I was born legally blind.",
+          "src": "2020浙江1月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我天生是法定盲人。",
+          "_matched": true
+        },
+        {
+          "s": "Money not legally made.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "非法获得的钱。"
+        },
+        {
+          "s": "For example, England, Wales, Scotland, and Northern Ireland all have different education systems and legal systems.",
+          "src": "人教B2 U4",
+          "cat": "renjiao",
+          "t": "例如，英格兰、威尔士、苏格兰和北爱尔兰都有不同的教育体系和法律体系。"
+        },
+        {
+          "s": "They had castles built all around England, and made changes to the legal system.",
+          "src": "人教B2 U4",
+          "cat": "renjiao",
+          "t": "他们在英格兰各地修建城堡，并对法律制度作了改动。"
+        },
+        {
+          "s": "What are the legal consequences of breaking a contract?",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "违约的法律后果是什么？"
+        },
+        {
+          "s": "I try to help before they take legal action and go to court.",
+          "src": "北师大选必4 U12",
+          "cat": "beishida",
+          "t": "我会在他们采取法律行动和上法庭之前尽力帮忙。"
+        }
+      ]
+    },
+    {
+      "def": "allowed or required by law 法律允许的；合法的；法律要求的",
+      "ex": [
+        {
+          "s": "Hence, private climate engineering can proceed in relative legal safety.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "因此，私人气候工程可以在相对合法的安全状态下进行。",
+          "_matched": true
+        },
+        {
+          "s": "Today, there are about 2,000 or more grizzly bears in the US Their recovery has been so successful that the US Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如今，美国大约有2000只或更多的灰熊。它们的恢复如此成功，以至于美国鱼类和野生动物管理局曾两次试图将灰熊从保护名录中移除，这将放松法律保护并允许捕猎它们。"
+        },
+        {
+          "s": "As an ambulance driver, she’s seen a lot of car accidents involving teenagers and thinks the legal age for getting a driving licence should be 21.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "作为救护车司机，她见过很多涉及青少年的车祸，认为拿驾照的法定年龄应为21岁。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "legal systems",
+      "cn": "与法律有关的 体系",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and legal systems",
+      "cn": "与 与法律有关的 体系",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "systems and legal",
+      "cn": "体系 与 与法律有关的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "legal system",
+      "cn": "与法律有关的 体系",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the legal system",
+      "cn": "该 与法律有关的 体系",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "legal consequences",
+      "cn": "与法律有关的 结果",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the legal consequences",
+      "cn": "该 与法律有关的 结果",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "legal action",
+      "cn": "与法律有关的 行动",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

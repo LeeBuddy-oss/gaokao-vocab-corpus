@@ -1,1 +1,100 @@
-{"meta": {"ph": "ˈkʌvərɪdʒ; NAmE ˈkʌvərɪdʒ", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the reporting of news and sport in newspapers and on the radio and television 新闻报道", "ex": [{"s": "When the journey ended, Zac’s adventure received widespread media coverage.", "src": "人教选必4 U3", "cat": "renjiao", "year": "", "t": "旅程结束后，扎克的冒险经历得到了媒体的广泛报道。"}, {"s": "Zealand, it is coverage of a sports event.", "src": "北师大选必2 U6", "cat": "beishida", "year": "", "t": "这是对一项体育赛事的报道。"}]}, {"def": "the range or quality of information that is included in a book or course of study, on television, etc. （书、课程学习、电视等的）信息范围，信息质量", "ex": []}, {"def": "the amount of sth that sth provides; the amount or way that sth covers an area 提供的数量；覆盖范围（或方式）", "ex": [{"s": "Their study revealed that the large number of observation-only records did not lead to better global coverage.", "src": "2024新高考I卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "他们的研究表明，大量仅基于观察的记录并没有带来更好的全球覆盖。"}]}, {"def": "protection that an insurance company provides by promising to pay you money if a particular event happens （保险公司的）保险", "ex": [{"s": "Limited medical insurance coverage．", "src": "2021北京卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "有限的医疗保险。"}]}], "chunks": [{"en": "be coverage of", "cn": "新闻报道", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈkʌvərɪdʒ; NAmE ˈkʌvərɪdʒ",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the reporting of news and sport in newspapers and on the radio and television 新闻报道",
+      "ex": [
+        {
+          "s": "When the journey ended, Zac’s adventure received widespread media coverage.",
+          "src": "人教选必4 U3",
+          "cat": "renjiao",
+          "year": "",
+          "t": "旅程结束后，扎克的冒险经历得到了媒体的广泛报道。"
+        },
+        {
+          "s": "Zealand, it is coverage of a sports event.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "year": "",
+          "t": "这是对一项体育赛事的报道。"
+        }
+      ]
+    },
+    {
+      "def": "the range or quality of information that is included in a book or course of study, on television, etc. （书、课程学习、电视等的）信息范围，信息质量",
+      "ex": []
+    },
+    {
+      "def": "the amount of sth that sth provides; the amount or way that sth covers an area 提供的数量；覆盖范围（或方式）",
+      "ex": [
+        {
+          "s": "Their study revealed that the large number of observation-only records did not lead to better global coverage.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他们的研究表明，大量仅基于观察的记录并没有带来更好的全球覆盖。"
+        }
+      ]
+    },
+    {
+      "def": "protection that an insurance company provides by promising to pay you money if a particular event happens （保险公司的）保险",
+      "ex": [
+        {
+          "s": "Limited medical insurance coverage．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "有限的医疗保险。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "media coverage",
+      "cn": "新闻报道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "widespread media coverage",
+      "cn": "分布广的 新闻报道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "coverage of a sports",
+      "cn": "新闻报道 的 一个 体育运动",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "global coverage",
+      "cn": "全球的 新闻报道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "better global coverage",
+      "cn": "较好的 全球的 新闻报道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "insurance coverage",
+      "cn": "保险 新闻报道",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "medical insurance coverage",
+      "cn": "伤病的 保险 新闻报道",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,85 @@
-{"meta": {"ph": "ˈrɪdʒɪd; NAmE ˈrɪdʒɪd", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "very strict and difficult to change 规则、方法等", "ex": [{"s": "Authoritative parenting is not authoritarian: rigid, demanding or controlling.", "src": "2020浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "权威型育儿不是专制型育儿：不是僵化、苛求或控制。"}, {"s": "It’s important not to be too rigid about rules here, too.", "src": "人教选必4 U4", "cat": "renjiao", "t": "在这里，对规则也不要过于死板，这很重要。"}, {"s": "The aim of the Romantics was to break with the ideals of the 18th century: they refused to follow rigid rules; instead, they put emphasis on the importance of imagination and feeling, the love of nature and a return to the past.", "src": "译林选必1 U4", "cat": "yilin", "t": "浪漫主义者的目标是打破18世纪的理想：他们拒绝遵循僵化的规则；相反，他们强调想象力和情感的重要性、对自然的热爱以及回归过去。"}]}, {"def": "not willing to change their ideas or behaviour 人", "ex": []}, {"def": "stiff and difficult to move or bend 物体或物质", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈrɪdʒɪd; NAmE ˈrɪdʒɪd",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "very strict and difficult to change 规则、方法等",
+      "ex": [
+        {
+          "s": "Authoritative parenting is not authoritarian: rigid, demanding or controlling.",
+          "src": "2020浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "权威型育儿不是专制型育儿：不是僵化、苛求或控制。"
+        },
+        {
+          "s": "It’s important not to be too rigid about rules here, too.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "在这里，对规则也不要过于死板，这很重要。"
+        },
+        {
+          "s": "The aim of the Romantics was to break with the ideals of the 18th century: they refused to follow rigid rules; instead, they put emphasis on the importance of imagination and feeling, the love of nature and a return to the past.",
+          "src": "译林选必1 U4",
+          "cat": "yilin",
+          "t": "浪漫主义者的目标是打破18世纪的理想：他们拒绝遵循僵化的规则；相反，他们强调想象力和情感的重要性、对自然的热爱以及回归过去。"
+        }
+      ]
+    },
+    {
+      "def": "not willing to change their ideas or behaviour 人",
+      "ex": []
+    },
+    {
+      "def": "stiff and difficult to move or bend 物体或物质",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "rigid demanding",
+      "cn": "规则 要求",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "authoritarian rigid",
+      "cn": "规则",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "not authoritarian rigid",
+      "cn": "不 规则",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rigid about rules",
+      "cn": "规则 大约 规则",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "rigid rules",
+      "cn": "规则 规则",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "follow rigid",
+      "cn": "跟随 规则",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "to follow rigid",
+      "cn": "去 跟随 规则",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

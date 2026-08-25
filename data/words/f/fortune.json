@@ -57,14 +57,50 @@
   ],
   "chunks": [
     {
-      "en": "make fortune",
-      "cn": "做大笔的钱",
+      "en": "his fortune",
+      "cn": "他的 机会",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "fortune cookie",
+      "cn": "机会 曲奇饼",
       "type": "动词短语",
-      "count": 3
+      "count": 1
     },
     {
       "en": "hamburger fortune",
-      "cn": "汉堡包大笔的钱",
+      "cn": "汉堡包 机会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "f hamburger fortune",
+      "cn": "汉堡包 机会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "my fortune",
+      "cn": "我的 机会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "make my fortune",
+      "cn": "制造 我的 机会",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "his fortune in",
+      "cn": "他的 机会 在…里",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "making his fortune",
+      "cn": "制造 他的 机会",
       "type": "名词短语",
       "count": 1
     }

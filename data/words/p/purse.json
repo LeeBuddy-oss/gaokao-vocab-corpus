@@ -1,1 +1,105 @@
-{"meta": {"ph": "pɜːs; NAmE pɜːrs", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a small bag made of leather, plastic, etc. for carrying coins and often also paper money, cards, etc., used especially by women 钱包，皮夹子（尤指女用的）", "ex": [{"s": "（1分）I can't find my purse． I                     it in the supermarket yesterday， but I'm not sure．（  ）", "src": "2018天津卷", "cat": "gaokao", "year": 2018, "t": "11．（1分）鲍勃原以为他不能参加聚会，因为他要写一份报告，但他最后______去了。（ ）"}, {"s": "We bravely drove off again two hours later after we’d returned home to get the purse and traveler’s checks Mom had forgotten.", "src": "2017浙江11月卷·读后续写", "cat": "gaokao", "year": 2017, "t": "第2段： 我们穿过几个州，沿途看到了很多美景。"}, {"s": "If I have $20 in my purse, I can only spend up to that amount.", "src": "外研社B7 U4", "cat": "waiyan", "t": "如果我的钱包里有20美元，我只能花那么多。"}, {"s": "He becomes so desperate in the end that he even hides some inside the purse of a woman sitting near him and throws some down the trousers of the restaurant's violinist!", "src": "北师大选必2 U4", "cat": "beishida", "t": "最后他变得如此绝望，甚至把一些藏在坐在他旁边一位女士的钱包里，还把一些扔进了餐厅小提琴手的裤子里！"}]}, {"def": "the amount of money that is available to a person, an organization or a government to spend 资金；财源；备用款", "ex": [{"s": "Some people believe that while space exploration expands our understanding of the universe, it is a waste of the public purse and does nothing to enhance the quality of our lives here on the Earth.", "src": "译林选必3 U2", "cat": "yilin", "t": "有些人认为，虽然太空探索扩大了我们对宇宙的理解，但它浪费了公共资金，对提高我们在地球上的生活质量毫无帮助。"}]}, {"def": "a sum of money given as a prize in a boxing match （拳击赛的）奖金", "ex": []}], "chunks": [{"en": "public purse", "cn": "公共的钱包", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "pɜːs; NAmE pɜːrs",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a small bag made of leather, plastic, etc. for carrying coins and often also paper money, cards, etc., used especially by women 钱包，皮夹子（尤指女用的）",
+      "ex": [
+        {
+          "s": "（1分）I can't find my purse． I                     it in the supermarket yesterday， but I'm not sure．（  ）",
+          "src": "2018天津卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "11．（1分）鲍勃原以为他不能参加聚会，因为他要写一份报告，但他最后______去了。（ ）"
+        },
+        {
+          "s": "We bravely drove off again two hours later after we’d returned home to get the purse and traveler’s checks Mom had forgotten.",
+          "src": "2017浙江11月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "第2段： 我们穿过几个州，沿途看到了很多美景。"
+        },
+        {
+          "s": "If I have $20 in my purse, I can only spend up to that amount.",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "如果我的钱包里有20美元，我只能花那么多。"
+        },
+        {
+          "s": "He becomes so desperate in the end that he even hides some inside the purse of a woman sitting near him and throws some down the trousers of the restaurant's violinist!",
+          "src": "北师大选必2 U4",
+          "cat": "beishida",
+          "t": "最后他变得如此绝望，甚至把一些藏在坐在他旁边一位女士的钱包里，还把一些扔进了餐厅小提琴手的裤子里！"
+        }
+      ]
+    },
+    {
+      "def": "the amount of money that is available to a person, an organization or a government to spend 资金；财源；备用款",
+      "ex": [
+        {
+          "s": "Some people believe that while space exploration expands our understanding of the universe, it is a waste of the public purse and does nothing to enhance the quality of our lives here on the Earth.",
+          "src": "译林选必3 U2",
+          "cat": "yilin",
+          "t": "有些人认为，虽然太空探索扩大了我们对宇宙的理解，但它浪费了公共资金，对提高我们在地球上的生活质量毫无帮助。"
+        }
+      ]
+    },
+    {
+      "def": "a sum of money given as a prize in a boxing match （拳击赛的）奖金",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "my purse",
+      "cn": "我的 钱包",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "find my purse",
+      "cn": "发现 我的 钱包",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "purse and traveler",
+      "cn": "钱包 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "get the purse",
+      "cn": "收到 该 钱包",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "in my purse",
+      "cn": "在…里 我的 钱包",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "inside the purse",
+      "cn": "在… 内 该 钱包",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "purse of a woman",
+      "cn": "钱包 的 一个 成年女子",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "public purse",
+      "cn": "平民的 钱包",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,152 @@
-{"meta":{"ph":"ˈpænl; NAmE ˈpænl","pos":"noun","stars":"★★"},"defs":[{"def":"a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall （门、墙等上面的）嵌板，镶板，方格板块","ex":[{"s":"Solar developers want to put up panels as quickly and cheaply as possible, so they haven’t given much thought to what they put under them.","src":"2023浙江1月卷·阅读理解D","cat":"gaokao","year":2023,"t":"太阳能开发商希望尽可能快速廉价地安装电池板，所以他们没有过多考虑电池板下面放置什么。"},{"s":"The negative impact of installing solar panels.","src":"2023浙江1月卷·阅读理解D","cat":"gaokao","year":2023,"t":"安装太阳能电池板的负面影响。"},{"s":"The surface of the apartment building is covered in panels that contain algae.","src":"外研社B6 U5","cat":"waiyan","year":"","t":"公寓楼的表面覆盖着含有藻类的面板。"},{"s":"The panels also capture heat from the sun and convert it into energy that powers the building.","src":"外研社B6 U5","cat":"waiyan","year":"","t":"这些面板还捕获来自太阳的热量，并将其转化为给建筑供电的能量。"},{"s":"And that’s not all — the algae inside the panels can be harvested and used to produce fuel.","src":"外研社B6 U5","cat":"waiyan","year":"","t":"这还不是全部——面板内的藻类可以被收获并用来生产燃料。"},{"s":"But all of that growth will take up a lot of space, and though more and more people accept the concept of solar energy, few like large solar panels to be installed near them.","src":"2023浙江1月卷·阅读理解D","cat":"gaokao","year":2023,"t":"但所有这些增长都会占用大量空间，而且尽管越来越多的人接受太阳能的概念，却很少有人喜欢附近安装大型太阳能板。"},{"s":"It is made with local materials, has a flat roof, wood paneling, concrete floors and custom-made furniture.","src":"2026新高考II卷·阅读理解B","cat":"gaokao","year":2026,"t":"它使用当地材料建造，有平屋顶、木镶板、混凝土地面和定制家具。"}]},{"def":"a piece of metal that forms part of the outer frame of a vehicle （车身的）金属板，板金","ex":[]},{"def":"a piece of cloth that forms part of a piece of clothing （衣服上的）镶条，嵌条，饰片","ex":[]},{"def":"a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio 专家咨询组；（广播、电视上的）讨论小组","ex":[{"s":"Over the past few years, many solar farm developers have transformed the space under their solar panels into a shelter for various kinds of pollinators, resulting in soil improvement and carbon reduction.","src":"2023浙江1月卷·阅读理解D","cat":"gaokao","year":2023,"t":"过去几年里，许多太阳能农场开发商把太阳能板下的空间改造成了各种传粉昆虫的庇护所，从而改善了土壤并减少了碳排放。"},{"s":"Youth Panel on 18 July.","src":"2025北京卷·阅读理解A","cat":"gaokao","year":2025,"t":"7月18日的青年座谈会。"}]},{"def":"a flat board in a vehicle or on a piece of machinery where the controls and instruments are fixed （汽车或其他机械的）控制板，仪表盘","ex":[{"s":"His not-for-profit organization runs 100 river boats that serve as floating libraries, schools, and health clinics, and are equipped with solar panels and other communicating facilities.","src":"2017江苏卷·阅读理解D","cat":"gaokao","year":2017,"t":"他的非营利组织运营着100艘河船，这些船作为流动图书馆、学校和诊所运营，并配备太阳能板和其他通讯设施。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈpænl; NAmE ˈpænl",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a square or rectangular piece of wood, glass or metal that forms part of a larger surface such as a door or wall （门、墙等上面的）嵌板，镶板，方格板块",
+      "ex": [
+        {
+          "s": "Solar developers want to put up panels as quickly and cheaply as possible, so they haven’t given much thought to what they put under them.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "太阳能开发商希望尽可能快速廉价地安装电池板，所以他们没有过多考虑电池板下面放置什么。"
+        },
+        {
+          "s": "The negative impact of installing solar panels.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "安装太阳能电池板的负面影响。"
+        },
+        {
+          "s": "The surface of the apartment building is covered in panels that contain algae.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "公寓楼的表面覆盖着含有藻类的面板。"
+        },
+        {
+          "s": "The panels also capture heat from the sun and convert it into energy that powers the building.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这些面板还捕获来自太阳的热量，并将其转化为给建筑供电的能量。"
+        },
+        {
+          "s": "And that’s not all — the algae inside the panels can be harvested and used to produce fuel.",
+          "src": "外研社B6 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "这还不是全部——面板内的藻类可以被收获并用来生产燃料。"
+        },
+        {
+          "s": "But all of that growth will take up a lot of space, and though more and more people accept the concept of solar energy, few like large solar panels to be installed near them.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "但所有这些增长都会占用大量空间，而且尽管越来越多的人接受太阳能的概念，却很少有人喜欢附近安装大型太阳能板。"
+        },
+        {
+          "s": "It is made with local materials, has a flat roof, wood paneling, concrete floors and custom-made furniture.",
+          "src": "2026新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "它使用当地材料建造，有平屋顶、木镶板、混凝土地面和定制家具。"
+        }
+      ]
+    },
+    {
+      "def": "a piece of metal that forms part of the outer frame of a vehicle （车身的）金属板，板金",
+      "ex": []
+    },
+    {
+      "def": "a piece of cloth that forms part of a piece of clothing （衣服上的）镶条，嵌条，饰片",
+      "ex": []
+    },
+    {
+      "def": "a group of specialists who give their advice or opinion about sth; a group of people who discuss topics of interest on television or radio 专家咨询组；（广播、电视上的）讨论小组",
+      "ex": [
+        {
+          "s": "Over the past few years, many solar farm developers have transformed the space under their solar panels into a shelter for various kinds of pollinators, resulting in soil improvement and carbon reduction.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "过去几年里，许多太阳能农场开发商把太阳能板下的空间改造成了各种传粉昆虫的庇护所，从而改善了土壤并减少了碳排放。"
+        },
+        {
+          "s": "Youth Panel on 18 July.",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "7月18日的青年座谈会。"
+        }
+      ]
+    },
+    {
+      "def": "a flat board in a vehicle or on a piece of machinery where the controls and instruments are fixed （汽车或其他机械的）控制板，仪表盘",
+      "ex": [
+        {
+          "s": "His not-for-profit organization runs 100 river boats that serve as floating libraries, schools, and health clinics, and are equipped with solar panels and other communicating facilities.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "他的非营利组织运营着100艘河船，这些船作为流动图书馆、学校和诊所运营，并配备太阳能板和其他通讯设施。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "solar panels",
+      "cn": "太阳的 嵌板",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "panels as quickly",
+      "cn": "嵌板 作为",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "put up panels",
+      "cn": "放 上 嵌板",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "installing solar panels",
+      "cn": "太阳的 嵌板",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "panels that contain",
+      "cn": "嵌板 那个 包含",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "covered in panels",
+      "cn": "掩蔽 在…里 嵌板",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "panels also capture",
+      "cn": "嵌板 也 俘虏",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "inside the panels",
+      "cn": "在… 内 该 嵌板",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

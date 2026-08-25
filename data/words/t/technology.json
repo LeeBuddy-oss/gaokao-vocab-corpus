@@ -482,16 +482,52 @@
   ],
   "chunks": [
     {
-      "en": "modern technology",
-      "cn": "现代技术",
+      "en": "new technology",
+      "cn": "刚出现的 科技",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "new technologies",
+      "cn": "刚出现的 科技",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "technology has changed",
+      "cn": "科技 有 改变",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "on new technology",
+      "cn": "在…上 刚出现的 科技",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "information technology",
-      "cn": "信息技术",
+      "en": "medical-imaging technology",
+      "cn": "科技",
       "type": "名词短语",
-      "count": 1
+      "count": 2
+    },
+    {
+      "en": "institute of technology",
+      "cn": "机构 的 科技",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "advances in technology",
+      "cn": "前进 在…里 科技",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "sound technology",
+      "cn": "声音 科技",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

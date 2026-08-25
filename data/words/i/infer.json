@@ -318,5 +318,54 @@
       "ex": []
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "we infer",
+      "cn": "我们 推断",
+      "type": "名词短语",
+      "count": 18
+    },
+    {
+      "en": "can we infer",
+      "cn": "能 我们 推断",
+      "type": "名词短语",
+      "count": 18
+    },
+    {
+      "en": "we infer about",
+      "cn": "我们 推断 大约",
+      "type": "名词短语",
+      "count": 9
+    },
+    {
+      "en": "we infer from",
+      "cn": "我们 推断 从",
+      "type": "名词短语",
+      "count": 8
+    },
+    {
+      "en": "infer about the author",
+      "cn": "推断 大约 该 著者",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "infer from this passage",
+      "cn": "推断 从 这个 通道",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "infer from paragraph",
+      "cn": "推断 从 段",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "infer from the author",
+      "cn": "推断 从 该 著者",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
 }

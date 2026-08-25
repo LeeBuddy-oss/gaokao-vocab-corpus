@@ -1,1 +1,112 @@
-{"meta":{"ph":"ˈsekəndri; NAmE ˈsekənderi","pos":"adj.","stars":"★★"},"defs":[{"def":"less important than sth else 次要的；从属的；辅助的","ex":[{"s":"Evidence can come from primary sources, such as original documents and interviews, or secondary sources, such as books and magazines.","src":"外研社B5 U3","cat":"waiyan","t":"证据可以来自一手资料，如原始文件和采访，或来自二手资料，如书籍和杂志。"}]},{"def":"happening as a result of sth else 间接引发的；继发性的；次生的","ex":[{"s":"Secondary consumers prey on primary consumers, as well as eating other animal matter.","src":"外研社B5 U5","cat":"waiyan","t":"次级消费者捕食初级消费者，也吃其他动物物质。"},{"s":"Text Builder W Life Choices I'm a new senior Personal Feelings secondary school exciting, interesting, stressful, boring, challenging student.","src":"北师大B1 U1","cat":"beishida","t":"文字构建者W生活选择 我是一个新的高级个人感觉 中学令人兴奋，有趣，压力，无聊，挑战性的学生。"}]},{"def":"connected with teaching children of 11-18 years 中等教育的；中学的","ex":[{"s":"In secondary school, art was my favourite subject.","src":"2024北京卷·阅读理解B","cat":"gaokao","year":2024,"t":"在中学里，美术是我最喜欢的科目。"},{"s":"Pupils at about 90 percent of British secondary schools wear uniforms.","src":"2019浙江卷","cat":"gaokao","year":2019,"t":"约90%的英国中学生就读的学校要求学生穿校服。"},{"s":"My secondary school is a bush school.","src":"人教选必4 U4","cat":"renjiao","t":"我的中学是一所灌木学校。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈsekəndri; NAmE ˈsekənderi",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "less important than sth else 次要的；从属的；辅助的",
+      "ex": [
+        {
+          "s": "Evidence can come from primary sources, such as original documents and interviews, or secondary sources, such as books and magazines.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "证据可以来自一手资料，如原始文件和采访，或来自二手资料，如书籍和杂志。"
+        }
+      ]
+    },
+    {
+      "def": "happening as a result of sth else 间接引发的；继发性的；次生的",
+      "ex": [
+        {
+          "s": "Secondary consumers prey on primary consumers, as well as eating other animal matter.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "次级消费者捕食初级消费者，也吃其他动物物质。"
+        },
+        {
+          "s": "Text Builder W Life Choices I'm a new senior Personal Feelings secondary school exciting, interesting, stressful, boring, challenging student.",
+          "src": "北师大B1 U1",
+          "cat": "beishida",
+          "t": "文字构建者W生活选择 我是一个新的高级个人感觉 中学令人兴奋，有趣，压力，无聊，挑战性的学生。"
+        }
+      ]
+    },
+    {
+      "def": "connected with teaching children of 11-18 years 中等教育的；中学的",
+      "ex": [
+        {
+          "s": "In secondary school, art was my favourite subject.",
+          "src": "2024北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在中学里，美术是我最喜欢的科目。"
+        },
+        {
+          "s": "Pupils at about 90 percent of British secondary schools wear uniforms.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "约90%的英国中学生就读的学校要求学生穿校服。"
+        },
+        {
+          "s": "My secondary school is a bush school.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "我的中学是一所灌木学校。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "secondary school",
+      "cn": "次要的 学校",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "secondary sources",
+      "cn": "次要的 来源",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "or secondary sources",
+      "cn": "或 次要的 来源",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "interviews or secondary",
+      "cn": "面试 或 次要的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "secondary consumers",
+      "cn": "次要的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "feelings secondary",
+      "cn": "感觉 次要的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "secondary school exciting",
+      "cn": "次要的 学校 令人激动的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "personal feelings secondary",
+      "cn": "个人的 感觉 次要的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

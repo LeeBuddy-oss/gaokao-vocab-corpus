@@ -1,1 +1,130 @@
-{"meta": {"ph": "neɪl; NAmE neɪl", "pos": "noun;noun;verb;verb;verb;verb;verb;verb;verb;verb", "stars": "★★"}, "defs": [{"def": "thin hard layer covering the outer tip of the fingers or toes 指甲；趾甲", "ex": []}, {"def": "a small thin pointed piece of metal with a flat head, used for hanging things on a wall or for joining pieces of wood together 钉；钉子", "ex": [{"s": "He told his father, who said that now the boy should pull out one nail for each day that he was able to hold his temper.", "src": "外研社B5 U2", "cat": "waiyan", "t": "他告诉了他父亲，父亲说现在男孩每能控制住脾气一天就应该拔出一颗钉子。"}, {"s": "His father gave him a bag of nails and told him that every time he lost his temper, he must hammer a nail into the back of the fence.", "src": "外研社B5 U2", "cat": "waiyan", "t": "他的父亲给了他一袋钉子，告诉他每次发脾气时，他必须在篱笆背面钉一根钉子。"}, {"s": "The first day, the boy hammered so many nails into the fence that his father had to give him a whole new bag.", "src": "外研社B5 U2", "cat": "waiyan", "t": "第一天，男孩在篱笆上钉了那么多钉子，他父亲只好又给了他一整袋新钉子。"}, {"s": "Over the next few weeks, as he learnt to control his anger, he hammered fewer and fewer nails into the fence each day.", "src": "外研社B5 U2", "cat": "waiyan", "t": "在接下来的几周里，当他学会控制自己的愤怒时，他每天钉在篱笆上的钉子越来越少。"}, {"s": "He had learnt that it was easier to hold his temper than to hammer nails into the fence.", "src": "外研社B5 U2", "cat": "waiyan", "t": "他学会了控制脾气比往篱笆上钉钉子更容易。"}]}, {"def": "to fasten sth to sth with a nail or nails （用钉子）钉牢，固定", "ex": []}, {"def": "to catch sb and prove they are guilty of a crime or of doing sth bad 抓获并证明有罪；抓住", "ex": []}, {"def": "to prove that sth is not true 证明 … 不属实；揭露；揭发", "ex": []}, {"def": "to achieve sth or do sth right, especially in sport （尤指体育运动中）获得，赢得，击中", "ex": []}, {"def": "to fasten sth down with a nail or nails （用钉子）将 … 钉牢，将 … 固定", "ex": []}, {"def": "to reach an agreement or a decision, usually after a lot of discussion 达成一致；作出决定", "ex": []}, {"def": "to fasten sth to a wall, post, etc. with a nail or nails 用钉子将 … 固定到（墙上、柱子上等）", "ex": []}, {"def": "to put nails into a door or window so that it cannot be opened 用钉子封住，封死（门或窗）", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "neɪl; NAmE neɪl",
+    "pos": "noun;noun;verb;verb;verb;verb;verb;verb;verb;verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "thin hard layer covering the outer tip of the fingers or toes 指甲；趾甲",
+      "ex": []
+    },
+    {
+      "def": "a small thin pointed piece of metal with a flat head, used for hanging things on a wall or for joining pieces of wood together 钉；钉子",
+      "ex": [
+        {
+          "s": "He told his father, who said that now the boy should pull out one nail for each day that he was able to hold his temper.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "他告诉了他父亲，父亲说现在男孩每能控制住脾气一天就应该拔出一颗钉子。"
+        },
+        {
+          "s": "His father gave him a bag of nails and told him that every time he lost his temper, he must hammer a nail into the back of the fence.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "他的父亲给了他一袋钉子，告诉他每次发脾气时，他必须在篱笆背面钉一根钉子。"
+        },
+        {
+          "s": "The first day, the boy hammered so many nails into the fence that his father had to give him a whole new bag.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "第一天，男孩在篱笆上钉了那么多钉子，他父亲只好又给了他一整袋新钉子。"
+        },
+        {
+          "s": "Over the next few weeks, as he learnt to control his anger, he hammered fewer and fewer nails into the fence each day.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "在接下来的几周里，当他学会控制自己的愤怒时，他每天钉在篱笆上的钉子越来越少。"
+        },
+        {
+          "s": "He had learnt that it was easier to hold his temper than to hammer nails into the fence.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "他学会了控制脾气比往篱笆上钉钉子更容易。"
+        }
+      ]
+    },
+    {
+      "def": "to fasten sth to sth with a nail or nails （用钉子）钉牢，固定",
+      "ex": []
+    },
+    {
+      "def": "to catch sb and prove they are guilty of a crime or of doing sth bad 抓获并证明有罪；抓住",
+      "ex": []
+    },
+    {
+      "def": "to prove that sth is not true 证明 … 不属实；揭露；揭发",
+      "ex": []
+    },
+    {
+      "def": "to achieve sth or do sth right, especially in sport （尤指体育运动中）获得，赢得，击中",
+      "ex": []
+    },
+    {
+      "def": "to fasten sth down with a nail or nails （用钉子）将 … 钉牢，将 … 固定",
+      "ex": []
+    },
+    {
+      "def": "to reach an agreement or a decision, usually after a lot of discussion 达成一致；作出决定",
+      "ex": []
+    },
+    {
+      "def": "to fasten sth to a wall, post, etc. with a nail or nails 用钉子将 … 固定到（墙上、柱子上等）",
+      "ex": []
+    },
+    {
+      "def": "to put nails into a door or window so that it cannot be opened 用钉子封住，封死（门或窗）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "nails into the fence",
+      "cn": "指甲 进入 该 栅栏",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "nail for each day",
+      "cn": "指甲 为了 每个 一天",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "nails and told",
+      "cn": "指甲 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bag of nails",
+      "cn": "常构成复合词 的 指甲",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hammer a nail",
+      "cn": "一个 指甲",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "nail into the back",
+      "cn": "指甲 进入 该 背部",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "fewer nails",
+      "cn": "指甲",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and fewer nails",
+      "cn": "与 指甲",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,167 @@
-{"meta": {"ph": "əˈses; NAmE əˈses", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to make a judgement about the nature or quality of sb/sth 评估，评定（性质、质量）", "ex": [{"s": "They use their noses to assess their environment and look out for any signs of danger.", "src": "2024全国甲卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "它们用鼻子来评估周围环境，并留意任何危险的迹象。"}, {"s": "How does a pet cat assess different situations?", "src": "2024全国甲卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "宠物猫如何评估不同的情况？"}, {"s": "To assess their cardiovascular capacity", "src": "2022浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "评估他们的心血管能力"}, {"s": "The researchers analyzed video recordings of 53 child-parent pairs during everyday activities at home and found children who play with puzzles between 26 and 46 months of age have better spatial skills when assessed at 54 months of age.", "src": "2020全国II卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "研究者分析了53对亲子在家日常活动中的录像，发现26至46个月大时玩拼图的孩子，在54个月大评估时空间技能更好。"}, {"s": "Researchers from the University of Leipzig in Germany gathered more than 1, 000 retired workers who were over age 75 and assessed the volunteers’ memory and thinking skills through a battery of tests.", "src": "2020浙江7月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "德国莱比锡大学的研究人员召集了1000多名75岁以上的退休工人，通过一系列测试评估志愿者的记忆力和思维能力。"}, {"s": "To assess their health status.", "src": "2020浙江7月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "评估他们的健康状况。"}, {"s": "assess students’ public speaking skills", "src": "2019全国I卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "评估学生的公共演讲技能"}, {"s": "To assess the consequences of ocean colour changes", "src": "2019北京卷·阅读理解D", "cat": "gaokao", "year": 2019, "t": "评估海洋颜色变化的后果。"}, {"s": "Before the heavy lifting began, the team assessed the root system and dug a five-foot-deep cylinder , measuring 40 feet in diameter, around the trunk to protect all essential roots.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "在重型吊装开始前，团队先评估了根系，并在树干周围挖了一个深五英尺、直径40英尺的圆柱形坑，以保护所有重要的根部。"}, {"s": "Assess each other’s work according to the checklist.", "src": "人教B1 U2", "cat": "renjiao", "year": "", "t": "根据清单互相评估作品。"}, {"s": "Bobby was assessed and his talents was / were revealed to be mostly scientific: a 66% chance of success in chemistry and 54% in physics was / were shown.", "src": "外研社B6 U4", "cat": "waiyan", "year": "", "t": "对Bobby进行了评估，发现他的才能主要是科学的：在化学方面有66%的成功机会，在物理方面有54%的成功机会。"}]}, {"def": "to calculate the amount or value of sth 估算，估定，核定（数量、价值）", "ex": [{"s": "Assess and find out what’s going wrong and draw up a plan of action.", "src": "外研社B5 U6", "cat": "waiyan", "year": "", "t": "正如一条评论所说，\"微笑是每个人都能理解的通用语言。\""}, {"s": "Whatever it is, I know I need to inquire and assess what is going on.", "src": "人教选必1 U4", "cat": "renjiao", "year": "", "t": "这本书旨在解释好的身体姿势和健康的骨骼结构的重要性。"}, {"s": "Use this checklist to help you assess your partner’s draft.", "src": "人教选必2 U4", "cat": "renjiao", "year": "", "t": "他快步走到教室，发现学生们/已经……"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "əˈses; NAmE əˈses",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to make a judgement about the nature or quality of sb/sth 评估，评定（性质、质量）",
+      "ex": [
+        {
+          "s": "They use their noses to assess their environment and look out for any signs of danger.",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它们用鼻子来评估周围环境，并留意任何危险的迹象。"
+        },
+        {
+          "s": "How does a pet cat assess different situations?",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "宠物猫如何评估不同的情况？"
+        },
+        {
+          "s": "To assess their cardiovascular capacity",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "评估他们的心血管能力"
+        },
+        {
+          "s": "The researchers analyzed video recordings of 53 child-parent pairs during everyday activities at home and found children who play with puzzles between 26 and 46 months of age have better spatial skills when assessed at 54 months of age.",
+          "src": "2020全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "研究者分析了53对亲子在家日常活动中的录像，发现26至46个月大时玩拼图的孩子，在54个月大评估时空间技能更好。"
+        },
+        {
+          "s": "Researchers from the University of Leipzig in Germany gathered more than 1, 000 retired workers who were over age 75 and assessed the volunteers’ memory and thinking skills through a battery of tests.",
+          "src": "2020浙江7月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "德国莱比锡大学的研究人员召集了1000多名75岁以上的退休工人，通过一系列测试评估志愿者的记忆力和思维能力。"
+        },
+        {
+          "s": "To assess their health status.",
+          "src": "2020浙江7月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "评估他们的健康状况。"
+        },
+        {
+          "s": "assess students’ public speaking skills",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "评估学生的公共演讲技能"
+        },
+        {
+          "s": "To assess the consequences of ocean colour changes",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "评估海洋颜色变化的后果。"
+        },
+        {
+          "s": "Before the heavy lifting began, the team assessed the root system and dug a five-foot-deep cylinder , measuring 40 feet in diameter, around the trunk to protect all essential roots.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在重型吊装开始前，团队先评估了根系，并在树干周围挖了一个深五英尺、直径40英尺的圆柱形坑，以保护所有重要的根部。"
+        },
+        {
+          "s": "Assess each other’s work according to the checklist.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "根据清单互相评估作品。"
+        },
+        {
+          "s": "Bobby was assessed and his talents was / were revealed to be mostly scientific: a 66% chance of success in chemistry and 54% in physics was / were shown.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "year": "",
+          "t": "对Bobby进行了评估，发现他的才能主要是科学的：在化学方面有66%的成功机会，在物理方面有54%的成功机会。"
+        }
+      ]
+    },
+    {
+      "def": "to calculate the amount or value of sth 估算，估定，核定（数量、价值）",
+      "ex": [
+        {
+          "s": "Assess and find out what’s going wrong and draw up a plan of action.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "正如一条评论所说，\"微笑是每个人都能理解的通用语言。\""
+        },
+        {
+          "s": "Whatever it is, I know I need to inquire and assess what is going on.",
+          "src": "人教选必1 U4",
+          "cat": "renjiao",
+          "year": "",
+          "t": "这本书旨在解释好的身体姿势和健康的骨骼结构的重要性。"
+        },
+        {
+          "s": "Use this checklist to help you assess your partner’s draft.",
+          "src": "人教选必2 U4",
+          "cat": "renjiao",
+          "year": "",
+          "t": "他快步走到教室，发现学生们/已经……"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "assess their",
+      "cn": "评估 他们的",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "to assess their",
+      "cn": "去 评估 他们的",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "assess their environment",
+      "cn": "评估 他们的 环境",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "noses to assess",
+      "cn": "鼻 去 评估",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "assess different",
+      "cn": "评估 不同的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "cat assess",
+      "cn": "猫 评估",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pet cat assess",
+      "cn": "宠物 猫 评估",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "assess their cardiovascular",
+      "cn": "评估 他们的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

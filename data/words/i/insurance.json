@@ -1,1 +1,130 @@
-{"meta":{"ph":"ɪnˈʃʊərəns; NAmE ɪnˈʃʊrəns","pos":"noun","stars":"★★"},"defs":[{"def":"an arrangement with a company in which you pay them regular amounts of money and they agree to pay the costs, for example, if you die or are ill/sick, or if you lose or damage sth 保险","ex":[{"s":"As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.","src":"2024浙江1月卷·阅读理解C","cat":"gaokao","t":"因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。","year":2024},{"s":"“Basically, the provincial government is letting the insurance companies protect the Calgary-Edmonton urban area from hail,” Mr Stienwand says, “but they’re increasing drought risk as far east as Saskatchewan.”","src":"2024浙江1月卷·阅读理解C","cat":"gaokao","t":"“基本上，省政府是在让保险公司保护卡尔加里-埃德蒙顿城区免受冰雹侵害，”斯坦万德先生说，“但他们正在向东远至萨斯喀彻温省增加干旱风险。”","year":2024},{"s":"Passport and Insurance Certificate.","src":"2023天津3月卷·阅读理解A","cat":"gaokao","t":"护照和保险证明。","year":2023},{"s":"At 21, I landed a job at a big insurance company out of my business degree.","src":"2021天津3月卷","cat":"gaokao","t":"21岁时，凭借商科学位，我在一家大型保险公司谋得一份工作。","year":2021},{"s":"Limited medical insurance coverage．","src":"2021北京卷·阅读理解A","cat":"gaokao","t":"有限的医疗保险。","year":2021},{"s":"Bill: Working as a clerk at my dad's insurance firm?","src":"外研社B7 U1","cat":"waiyan","t":"比尔：在我爸爸的保险公司当职员？"},{"s":"As it became clearer that fashion was what I wanted to do full time, the reality of my day-to-day work at the insurance company became harder.","src":"2021天津3月卷","cat":"gaokao","t":"随着情况越来越清楚时尚是我想要全职从事的现实中日复一日在保险公司的工作变得越来越难熬。","year":2021},{"s":"An insurance salesman who is about to reach his annual sales target, only for the company to make the target higher, could rightly complain about the company moving the goalposts.","src":"译林选必2 U2","cat":"yilin","t":"一个即将达到年度销售目标的保险推销员，发现公司把目标提高了，他完全有权抱怨公司在改变游戏规则。"}]},{"def":"the business of providing people with insurance 保险业","ex":[]},{"def":"money paid by or to an insurance company 保险费；保费","ex":[]},{"def":"something you do to protect yourself against sth bad happening in the future （防备不测的）保障措施，安全保证","ex":[]}],"chunks":[{"en":"letting insurance","cn":"让保险","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "ɪnˈʃʊərəns; NAmE ɪnˈʃʊrəns",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "an arrangement with a company in which you pay them regular amounts of money and they agree to pay the costs, for example, if you die or are ill/sick, or if you lose or damage sth 保险",
+      "ex": [
+        {
+          "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。",
+          "year": 2024
+        },
+        {
+          "s": "“Basically, the provincial government is letting the insurance companies protect the Calgary-Edmonton urban area from hail,” Mr Stienwand says, “but they’re increasing drought risk as far east as Saskatchewan.”",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "“基本上，省政府是在让保险公司保护卡尔加里-埃德蒙顿城区免受冰雹侵害，”斯坦万德先生说，“但他们正在向东远至萨斯喀彻温省增加干旱风险。”",
+          "year": 2024
+        },
+        {
+          "s": "Passport and Insurance Certificate.",
+          "src": "2023天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "护照和保险证明。",
+          "year": 2023
+        },
+        {
+          "s": "At 21, I landed a job at a big insurance company out of my business degree.",
+          "src": "2021天津3月卷",
+          "cat": "gaokao",
+          "t": "21岁时，凭借商科学位，我在一家大型保险公司谋得一份工作。",
+          "year": 2021
+        },
+        {
+          "s": "Limited medical insurance coverage．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "有限的医疗保险。",
+          "year": 2021
+        },
+        {
+          "s": "Bill: Working as a clerk at my dad's insurance firm?",
+          "src": "外研社B7 U1",
+          "cat": "waiyan",
+          "t": "比尔：在我爸爸的保险公司当职员？"
+        },
+        {
+          "s": "As it became clearer that fashion was what I wanted to do full time, the reality of my day-to-day work at the insurance company became harder.",
+          "src": "2021天津3月卷",
+          "cat": "gaokao",
+          "t": "随着情况越来越清楚时尚是我想要全职从事的现实中日复一日在保险公司的工作变得越来越难熬。",
+          "year": 2021
+        },
+        {
+          "s": "An insurance salesman who is about to reach his annual sales target, only for the company to make the target higher, could rightly complain about the company moving the goalposts.",
+          "src": "译林选必2 U2",
+          "cat": "yilin",
+          "t": "一个即将达到年度销售目标的保险推销员，发现公司把目标提高了，他完全有权抱怨公司在改变游戏规则。"
+        }
+      ]
+    },
+    {
+      "def": "the business of providing people with insurance 保险业",
+      "ex": []
+    },
+    {
+      "def": "money paid by or to an insurance company 保险费；保费",
+      "ex": []
+    },
+    {
+      "def": "something you do to protect yourself against sth bad happening in the future （防备不测的）保障措施，安全保证",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "insurance companies",
+      "cn": "保险 常用于名称",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "insurance company",
+      "cn": "保险 常用于名称",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "insurance companies have",
+      "cn": "保险 常用于名称 有",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "of insurance companies",
+      "cn": "的 保险 常用于名称",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "group of insurance",
+      "cn": "组 的 保险",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "insurance companies protect",
+      "cn": "保险 常用于名称 保护",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the insurance companies",
+      "cn": "该 保险 常用于名称",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "letting the insurance",
+      "cn": "允许 该 保险",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

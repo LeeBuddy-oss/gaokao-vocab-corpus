@@ -459,27 +459,51 @@
   "chunks": [
     {
       "en": "health care",
-      "cn": "医疗保健",
-      "type": "名词短语",
+      "cn": "人的身体状况 照料",
+      "type": "动词短语",
       "count": 7
     },
     {
       "en": "mental health",
-      "cn": "心理健康",
+      "cn": "思想的 人的身体状况",
       "type": "名词短语",
       "count": 5
     },
     {
-      "en": "in good health",
-      "cn": "身体健康",
-      "type": "介词短语",
-      "count": 3
+      "en": "good health",
+      "cn": "好的 人的身体状况",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "physical health",
+      "cn": "人的身体状况",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "health benefits",
+      "cn": "人的身体状况 优势",
+      "type": "动词短语",
+      "count": 4
     },
     {
       "en": "public health",
-      "cn": "公共卫生",
+      "cn": "平民的 人的身体状况",
       "type": "名词短语",
       "count": 3
+    },
+    {
+      "en": "and mental health",
+      "cn": "与 思想的 人的身体状况",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "physical health benefits",
+      "cn": "人的身体状况 优势",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

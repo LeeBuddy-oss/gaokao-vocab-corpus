@@ -1,1 +1,138 @@
-{"meta":{"ph":"lɔːntʃ; NAmE lɔːntʃ","pos":"verb;verb;verb;verb;verb;verb;noun;noun","stars":"★★"},"defs":[{"def":"to start an activity, especially an organized one 开始从事，发起，发动（尤指有组织的活动）","ex":[{"s":"Which shuttle followed the Challenger, and when was it launched?","src":"外研社B7 U6","cat":"waiyan","t":"挑战者号之后哪架航天飞机，何时发射？"}]},{"def":"to make a product available to the public for the first time （首次）上市，发行","ex":[]},{"def":"to put a ship or boat into the water, especially one that has just been built 使（船，尤指新船）下水","ex":[]},{"def":"to send sth such as a spacecraft, weapon, etc. into space, into the sky or through water 发射；把（航天器、武器等）发射上天；水中发射","ex":[]},{"def":"to jump forwards with a lot of force 猛扑向前","ex":[]},{"def":"to start a computer program 启动（计算机程序）","ex":[{"s":"Why does Barcelona launch the MetroCharge project?","src":"2026新高考II卷·阅读理解D","cat":"gaokao","year":2026,"t":"巴塞罗那为什么启动MetroCharge项目？"},{"s":"Riders have printed nearly 20,000 short stories and poems since the program was launched last March.","src":"2024新高考II卷·阅读理解B","cat":"gaokao","year":2024,"t":"自去年3月该项目启动以来，乘客已打印了近两万篇短篇故事和诗歌。"}]},{"def":"the action of launching sth; an event at which sth is launched （航天器的）发射；（船的）下水；（产品的）上市；（事件的）发起","ex":[{"s":"But there was never any doubt that manned flights would continue, and on 29 September 1988, the space shuttle programme resumed with the successful launch of Discovery.","src":"外研社B7 U6","cat":"waiyan","t":"但载人飞行会继续这一点从未有过任何疑问，1988年9月29日，航天飞机计划随着发现号的成功发射而恢复。"},{"s":"We didn’t have much patience waiting for the launch.","src":"外研社B7 U6","cat":"waiyan","t":"我们没有太多耐心等待发射。"},{"s":"If you want to have a business of your own, your local library can become a launch space for it.","src":"2020天津6月卷·阅读理解A","cat":"gaokao","year":2020,"t":"如果你想有自己的业务，你的本地图书馆可以成为它的发射空间。"},{"s":"Silent Spring was therefore regarded as a milestone in the launch of the green movement in the Western world.","src":"外研社B6 U6","cat":"waiyan","t":"《寂静的春天》因此被视为西方世界绿色运动启动的里程碑。"}]},{"def":"a large boat with a motor 大型汽艇；机动大舢板；交通艇","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "lɔːntʃ; NAmE lɔːntʃ",
+    "pos": "verb;verb;verb;verb;verb;verb;noun;noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to start an activity, especially an organized one 开始从事，发起，发动（尤指有组织的活动）",
+      "ex": []
+    },
+    {
+      "def": "to make a product available to the public for the first time （首次）上市，发行",
+      "ex": []
+    },
+    {
+      "def": "to put a ship or boat into the water, especially one that has just been built 使（船，尤指新船）下水",
+      "ex": []
+    },
+    {
+      "def": "to send sth such as a spacecraft, weapon, etc. into space, into the sky or through water 发射；把（航天器、武器等）发射上天；水中发射",
+      "ex": []
+    },
+    {
+      "def": "to jump forwards with a lot of force 猛扑向前",
+      "ex": []
+    },
+    {
+      "def": "to start a computer program 启动（计算机程序）",
+      "ex": [
+        {
+          "s": "Why does Barcelona launch the MetroCharge project?",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "巴塞罗那为什么启动MetroCharge项目？"
+        },
+        {
+          "s": "Riders have printed nearly 20,000 short stories and poems since the program was launched last March.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "自去年3月该项目启动以来，乘客已打印了近两万篇短篇故事和诗歌。"
+        }
+      ]
+    },
+    {
+      "def": "the action of launching sth; an event at which sth is launched （航天器的）发射；（船的）下水；（产品的）上市；（事件的）发起",
+      "ex": [
+        {
+          "s": "Which shuttle followed the Challenger, and when was it launched?",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "挑战者号之后哪架航天飞机，何时发射？"
+        },
+        {
+          "s": "But there was never any doubt that manned flights would continue, and on 29 September 1988, the space shuttle programme resumed with the successful launch of Discovery.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "但载人飞行会继续这一点从未有过任何疑问，1988年9月29日，航天飞机计划随着发现号的成功发射而恢复。"
+        },
+        {
+          "s": "We didn’t have much patience waiting for the launch.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "我们没有太多耐心等待发射。"
+        },
+        {
+          "s": "If you want to have a business of your own, your local library can become a launch space for it.",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果你想有自己的业务，你的本地图书馆可以成为它的发射空间。"
+        },
+        {
+          "s": "Silent Spring was therefore regarded as a milestone in the launch of the green movement in the Western world.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "《寂静的春天》因此被视为西方世界绿色运动启动的里程碑。"
+        }
+      ]
+    },
+    {
+      "def": "a large boat with a motor 大型汽艇；机动大舢板；交通艇",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "barcelona launch",
+      "cn": "开始从事",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "launch the metrocharge",
+      "cn": "开始从事 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "does barcelona launch",
+      "cn": "做 开始从事",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "launched last march",
+      "cn": "开始从事 最后的 齐步走",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "program was launched",
+      "cn": "是 开始从事",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "successful launch",
+      "cn": "达到目的的 开始从事",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "launch of discovery",
+      "cn": "开始从事 的 发现",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the successful launch",
+      "cn": "该 达到目的的 开始从事",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

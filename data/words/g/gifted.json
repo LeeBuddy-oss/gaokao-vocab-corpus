@@ -1,1 +1,92 @@
-{"meta": {"ph": "ˈɡɪftɪd; NAmE ˈɡɪftɪd", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "having a lot of natural ability or intelligence 有天才的；有天赋的；天资聪慧的", "ex": [{"s": "Few of us will ever be as gifted and intelligent as da Vinci.", "src": "人教选必2 U5", "cat": "renjiao", "t": "我们中很少有人能像达芬奇那样有天赋和聪明。"}, {"s": "The Poet Su Shi As one of the most popular Song Dynasty poets, Su Shi was not only gifted in poetry, but also made great contributions to other fields such as painting and calligraphy.", "src": "人教选必3 U5", "cat": "renjiao", "t": "诗人苏轼：作为宋代最受欢迎的诗人之一，苏轼不仅在诗歌方面有天赋，而且在绘画和书法等其他领域也做出了巨大贡献。"}, {"s": "Mozart was very gifted as a child and by theageof five he had2 (compose) a piece of music.", "src": "北师大B3 U9", "cat": "beishida", "t": "莫扎特从小就非常有天赋，五岁时就已经创作了一首乐曲。"}, {"s": "Over the years of his performing and writing, it was clear that Mozart was far more gifted and talented than others in his field, although at times, he found that people showed 5 (hesitate) to support him financially.", "src": "北师大B3 U9", "cat": "beishida", "t": "在他多年的表演和创作中，很明显莫扎特比同领域的其他人更有天赋和才华，尽管有时他发现人们对他经济上的支持表现出犹豫。"}, {"s": "As a child, he was gifted in the areas of maths and science.", "src": "北师大选必4 U12", "cat": "beishida", "t": "小时候，他在数学和科学方面有天赋。"}]}, {"def": "having sth pleasant 具有（令人愉快的东西）", "ex": []}], "chunks": [{"en": "be gifted in", "cn": "在…方面有天赋", "type": "形容词搭配", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈɡɪftɪd; NAmE ˈɡɪftɪd",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "having a lot of natural ability or intelligence 有天才的；有天赋的；天资聪慧的",
+      "ex": [
+        {
+          "s": "Few of us will ever be as gifted and intelligent as da Vinci.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "我们中很少有人能像达芬奇那样有天赋和聪明。"
+        },
+        {
+          "s": "The Poet Su Shi As one of the most popular Song Dynasty poets, Su Shi was not only gifted in poetry, but also made great contributions to other fields such as painting and calligraphy.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "诗人苏轼：作为宋代最受欢迎的诗人之一，苏轼不仅在诗歌方面有天赋，而且在绘画和书法等其他领域也做出了巨大贡献。"
+        },
+        {
+          "s": "Mozart was very gifted as a child and by theageof five he had2 (compose) a piece of music.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "t": "莫扎特从小就非常有天赋，五岁时就已经创作了一首乐曲。"
+        },
+        {
+          "s": "Over the years of his performing and writing, it was clear that Mozart was far more gifted and talented than others in his field, although at times, he found that people showed 5 (hesitate) to support him financially.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "t": "在他多年的表演和创作中，很明显莫扎特比同领域的其他人更有天赋和才华，尽管有时他发现人们对他经济上的支持表现出犹豫。"
+        },
+        {
+          "s": "As a child, he was gifted in the areas of maths and science.",
+          "src": "北师大选必4 U12",
+          "cat": "beishida",
+          "t": "小时候，他在数学和科学方面有天赋。"
+        }
+      ]
+    },
+    {
+      "def": "having sth pleasant 具有（令人愉快的东西）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "gifted and intelligent",
+      "cn": "有天才的 与 有才智的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "gifted in poetry",
+      "cn": "有天才的 在…里 诗集",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "gifted as a child",
+      "cn": "有天才的 作为 一个 儿童",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "gifted and talented",
+      "cn": "有天才的 与 天才",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "far more gifted",
+      "cn": "远 更多 有天才的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "he was gifted",
+      "cn": "他 是 有天才的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gifted in the areas",
+      "cn": "有天才的 在…里 该 地区",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

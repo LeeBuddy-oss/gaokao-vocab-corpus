@@ -1,1 +1,115 @@
-{"meta": {"ph": "əʊ; NAmE oʊ", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to have to pay sb for sth that you have already received or return money that you have borrowed 欠（债）；欠（账）", "ex": [{"s": "You owe it to yourselves to stay longer.", "src": "人教选必2 U4", "cat": "renjiao", "t": "你们应该多待一会儿。"}, {"s": "PORTIA: You will only have what is owed you according to the guarantee.", "src": "北师大选必4 U10", "cat": "beishida", "t": "鲍西娅：你只能根据担保获得应属于你的东西。"}]}, {"def": "to feel that you ought to do sth for sb or give them sth, especially because they have done sth for you 欠（情）", "ex": [{"s": "This intervention is a long, much delayed ending to a sad story, but we humans owe it to the island to give it a happy ending.", "src": "外研社B5 U5", "cat": "waiyan", "t": "这种干预是一个漫长、被大大拖延的悲伤故事的结局，但我们人类欠这座岛一个快乐结局。"}, {"s": "He’s avoiding his family in Havre because he owes them money.", "src": "人教B3 U5", "cat": "renjiao", "t": "他在躲避勒阿弗尔的家人，因为他欠他们钱。"}]}, {"def": "to exist or be successful because of the help or influence of sb/sth 归因于；归功于；起源于", "ex": [{"s": "A man owes his success to his family support.", "src": "2018北京卷·阅读理解A", "cat": "gaokao", "year": 2018, "t": "一个男人把成功归功于家庭支持。"}, {"s": "Mother's Day, as we now know it, instead owes its origin to the efforts of Ann and Anna Jarvis Like Julia Ward Howe, Ann Jarvis wanted to improve health care and help the poor.", "src": "译林B2 U4", "cat": "yilin", "t": "我们现在所知的母亲节，其起源其实归功于安\\u00b7贾维斯和安娜\\u00b7贾维斯的努力。像朱莉娅\\u00b7沃德\\u00b7豪一样，安\\u00b7贾维斯想要改善医疗保健和帮助穷人。"}]}, {"def": "to have to obey or be loyal to sb who is in a position of authority or power （对位高权重者）忠诚，服从", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "əʊ; NAmE oʊ",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to have to pay sb for sth that you have already received or return money that you have borrowed 欠（债）；欠（账）",
+      "ex": [
+        {
+          "s": "You owe it to yourselves to stay longer.",
+          "src": "人教选必2 U4",
+          "cat": "renjiao",
+          "t": "你们应该多待一会儿。"
+        },
+        {
+          "s": "PORTIA: You will only have what is owed you according to the guarantee.",
+          "src": "北师大选必4 U10",
+          "cat": "beishida",
+          "t": "鲍西娅：你只能根据担保获得应属于你的东西。"
+        }
+      ]
+    },
+    {
+      "def": "to feel that you ought to do sth for sb or give them sth, especially because they have done sth for you 欠（情）",
+      "ex": [
+        {
+          "s": "This intervention is a long, much delayed ending to a sad story, but we humans owe it to the island to give it a happy ending.",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "这种干预是一个漫长、被大大拖延的悲伤故事的结局，但我们人类欠这座岛一个快乐结局。"
+        },
+        {
+          "s": "He’s avoiding his family in Havre because he owes them money.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "他在躲避勒阿弗尔的家人，因为他欠他们钱。"
+        }
+      ]
+    },
+    {
+      "def": "to exist or be successful because of the help or influence of sb/sth 归因于；归功于；起源于",
+      "ex": [
+        {
+          "s": "A man owes his success to his family support.",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一个男人把成功归功于家庭支持。"
+        },
+        {
+          "s": "Mother's Day, as we now know it, instead owes its origin to the efforts of Ann and Anna Jarvis Like Julia Ward Howe, Ann Jarvis wanted to improve health care and help the poor.",
+          "src": "译林B2 U4",
+          "cat": "yilin",
+          "t": "我们现在所知的母亲节，其起源其实归功于安\\u00b7贾维斯和安娜\\u00b7贾维斯的努力。像朱莉娅\\u00b7沃德\\u00b7豪一样，安\\u00b7贾维斯想要改善医疗保健和帮助穷人。"
+        }
+      ]
+    },
+    {
+      "def": "to have to obey or be loyal to sb who is in a position of authority or power （对位高权重者）忠诚，服从",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "you owe",
+      "cn": "你 欠",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "owe it to yourselves",
+      "cn": "欠 它 去",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "owed you",
+      "cn": "你",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "is owed you",
+      "cn": "是 你",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "humans owe",
+      "cn": "人的 欠",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "we humans owe",
+      "cn": "我们 人的 欠",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "owes them",
+      "cn": "欠 他们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "he owes",
+      "cn": "他 欠",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

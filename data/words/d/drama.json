@@ -1,1 +1,121 @@
-{"meta":{"ph":"ˈdrɑːmə; NAmE ˈdrɑːmə","pos":"noun","stars":""},"defs":[{"def":"a play for the theatre, television or radio 戏；剧","ex":[{"s":"Mad Men is an American television drama series.","src":"外研社B2 U6","cat":"waiyan","t":"《广告狂人》是一个美国电视剧系列。"},{"s":"Background information Sherlock is a crime drama series based on Sir Arthur Conan Doyle’s Sherlock Holmes detective stories.","src":"外研社B2 U6","cat":"waiyan","t":"背景信息：《神探夏洛克》是一部基于阿瑟·柯南·道尔的福尔摩斯侦探故事改编的犯罪剧集。"}]},{"def":"plays considered as a form of literature 戏剧文学；戏剧艺术；戏剧","ex":[{"s":"The New Theatre has been the home of quality drama, musicals, dance and children’s shows for more than 100 years.","src":"2022全国甲卷·阅读理解A","cat":"gaokao","year":2022,"t":"100多年来，新剧院一直是优质戏剧、音乐剧、舞蹈和儿童表演的所在地。"},{"s":"These include comedy, satire, poignant drama, historical and regional drama.","src":"2020浙江7月卷·阅读理解A","cat":"gaokao","year":2020,"t":"这些包括喜剧、讽刺、感人至深的戏剧、历史剧和地域剧。"},{"s":"(It's open from 9 am to 6 pm.) ·Take part in the English club drama day.","src":"外研社B1 U6","cat":"waiyan","t":"（开放时间是上午9点到下午6点。）·参加英语俱乐部戏剧日。"},{"s":"So, if you want to see a show that combines music, singing, drama, poetry and costume design with explosive effect, The Revenge of Prince Zidan ticks all the right boxes!","src":"外研社B2 U4","cat":"waiyan","t":"所以，如果你想看一场将音乐、歌唱、戏剧、诗歌和服装设计与震撼效果相结合的演出，《子丹王子复仇记》绝对符合你的所有期待！"},{"s":"Broadway is famous for its big theaters, showing Shakespeare, modern drama, dance shows or musicals – take your pick!","src":"外研社B7 U3","cat":"waiyan","t":"百老汇以大剧院闻名，上演莎士比亚、现代戏剧、舞蹈表演或音乐剧——任你挑选！"}]},{"def":"an exciting event 戏剧性事件；戏剧性情节","ex":[]},{"def":"the fact of being exciting 激动；兴奋；刺激","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈdrɑːmə; NAmE ˈdrɑːmə",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a play for the theatre, television or radio 戏；剧",
+      "ex": [
+        {
+          "s": "Mad Men is an American television drama series.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "《广告狂人》是一个美国电视剧系列。"
+        },
+        {
+          "s": "Background information Sherlock is a crime drama series based on Sir Arthur Conan Doyle’s Sherlock Holmes detective stories.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "背景信息：《神探夏洛克》是一部基于阿瑟·柯南·道尔的福尔摩斯侦探故事改编的犯罪剧集。"
+        }
+      ]
+    },
+    {
+      "def": "plays considered as a form of literature 戏剧文学；戏剧艺术；戏剧",
+      "ex": [
+        {
+          "s": "The New Theatre has been the home of quality drama, musicals, dance and children’s shows for more than 100 years.",
+          "src": "2022全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "100多年来，新剧院一直是优质戏剧、音乐剧、舞蹈和儿童表演的所在地。"
+        },
+        {
+          "s": "These include comedy, satire, poignant drama, historical and regional drama.",
+          "src": "2020浙江7月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这些包括喜剧、讽刺、感人至深的戏剧、历史剧和地域剧。"
+        },
+        {
+          "s": "(It's open from 9 am to 6 pm.) ·Take part in the English club drama day.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "（开放时间是上午9点到下午6点。）·参加英语俱乐部戏剧日。"
+        },
+        {
+          "s": "So, if you want to see a show that combines music, singing, drama, poetry and costume design with explosive effect, The Revenge of Prince Zidan ticks all the right boxes!",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "所以，如果你想看一场将音乐、歌唱、戏剧、诗歌和服装设计与震撼效果相结合的演出，《子丹王子复仇记》绝对符合你的所有期待！"
+        },
+        {
+          "s": "Broadway is famous for its big theaters, showing Shakespeare, modern drama, dance shows or musicals – take your pick!",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "百老汇以大剧院闻名，上演莎士比亚、现代戏剧、舞蹈表演或音乐剧——任你挑选！"
+        }
+      ]
+    },
+    {
+      "def": "an exciting event 戏剧性事件；戏剧性情节",
+      "ex": []
+    },
+    {
+      "def": "the fact of being exciting 激动；兴奋；刺激",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "drama series",
+      "cn": "戏 一系列",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "television drama",
+      "cn": "戏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "american television drama",
+      "cn": "戏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "crime drama",
+      "cn": "犯罪活动 戏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "drama series based",
+      "cn": "戏 一系列 根基",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a crime drama",
+      "cn": "一个 犯罪活动 戏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "drama musicals",
+      "cn": "戏",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "quality drama",
+      "cn": "质量 戏",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,101 @@
-{"meta":{"ph":"mænˈkaɪnd; NAmE mænˈkaɪnd","pos":"noun","stars":"★★"},"defs":[{"def":"all humans, thought about as one large group; the human race 人类","ex":[{"s":"Instead, I agree with Oxford University philosopher Nick Bostrom, who believes that the heaviest risks from A GI do not come from a decision to turn against mankind but rather from a dogged pursuit of set objectives at the expense of everything else.","src":"2020北京卷·阅读理解D","cat":"gaokao","year":2020,"t":"相反，我同意牛津大学哲学家尼克·博斯特罗姆的观点，他相信GI带来的最重风险并非来自对全人类的背叛，而是来自于以牺牲其他一切为代价，对既定目标的顽强追求。"},{"s":"In the words of Mark Twain, “Humor is mankind’s greatest blessing”.","src":"外研社B4 U1","cat":"waiyan","t":"用马克·吐温的话说：“幽默是人类最大的福分。”"},{"s":"We call on the people of all countries to work together to build a community with a shared future for mankind, to build an open, inclusive, clean, and beautiful world that enjoys lasting peace, universal security, and common prosperity.","src":"外研社B5 U4","cat":"waiyan","t":"我们呼吁各国人民共同努力，构建人类命运共同体，建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。"},{"s":"From Xi Jinping’s report at the 19th CPC National Congress 1 What is your understanding of “a community with a shared future for mankind”?","src":"外研社B5 U4","cat":"waiyan","t":"摘自习近平在中共十九大上的报告。你对构建人类命运共同体有什么理解？"},{"s":"They encounter numerous characters such as their departed grandparents, trees that hate mankind, the greedy and ugly Luxuries, and children waiting to be born.","src":"外研社B7 U2","cat":"waiyan","t":"他们遇到了无数的人物，比如他们已故的祖父母、憎恨人类的树、贪婪丑陋的奢侈享乐，以及等待出生的孩子们。"},{"s":"With Armstrong’s now famous words “That’s one small step for man, one giant leap for mankind”, what had once been considered impossible had now been achieved.","src":"外研社B7 U6","cat":"waiyan","t":"伴随着阿姆斯特朗现在著名的话这对一个人来说是一小步，对人类来说却是一大步，曾经被认为不可能的事现在已经被实现了。"}]}],"chunks":[{"en":"hate mankind","cn":"厌恶人类","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "mænˈkaɪnd; NAmE mænˈkaɪnd",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "all humans, thought about as one large group; the human race 人类",
+      "ex": [
+        {
+          "s": "Instead, I agree with Oxford University philosopher Nick Bostrom, who believes that the heaviest risks from A GI do not come from a decision to turn against mankind but rather from a dogged pursuit of set objectives at the expense of everything else.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "相反，我同意牛津大学哲学家尼克·博斯特罗姆的观点，他相信GI带来的最重风险并非来自对全人类的背叛，而是来自于以牺牲其他一切为代价，对既定目标的顽强追求。"
+        },
+        {
+          "s": "In the words of Mark Twain, “Humor is mankind’s greatest blessing”.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "用马克·吐温的话说：“幽默是人类最大的福分。”"
+        },
+        {
+          "s": "We call on the people of all countries to work together to build a community with a shared future for mankind, to build an open, inclusive, clean, and beautiful world that enjoys lasting peace, universal security, and common prosperity.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "我们呼吁各国人民共同努力，构建人类命运共同体，建设持久和平、普遍安全、共同繁荣、开放包容、清洁美丽的世界。"
+        },
+        {
+          "s": "From Xi Jinping’s report at the 19th CPC National Congress 1 What is your understanding of “a community with a shared future for mankind”?",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "摘自习近平在中共十九大上的报告。你对构建人类命运共同体有什么理解？"
+        },
+        {
+          "s": "They encounter numerous characters such as their departed grandparents, trees that hate mankind, the greedy and ugly Luxuries, and children waiting to be born.",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "他们遇到了无数的人物，比如他们已故的祖父母、憎恨人类的树、贪婪丑陋的奢侈享乐，以及等待出生的孩子们。"
+        },
+        {
+          "s": "With Armstrong’s now famous words “That’s one small step for man, one giant leap for mankind”, what had once been considered impossible had now been achieved.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "伴随着阿姆斯特朗现在著名的话这对一个人来说是一小步，对人类来说却是一大步，曾经被认为不可能的事现在已经被实现了。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "future for mankind",
+      "cn": "将来 为了 人类",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "mankind but rather",
+      "cn": "人类 但 相当",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "turn against mankind",
+      "cn": "转动 反对 人类",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mankind s greatest",
+      "cn": "人类",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "humor is mankind",
+      "cn": "是 人类",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mankind to build",
+      "cn": "人类 去 建筑",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "hate mankind",
+      "cn": "厌恶 人类",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mankind the greedy",
+      "cn": "人类 该 贪婪的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

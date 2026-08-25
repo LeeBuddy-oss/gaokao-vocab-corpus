@@ -1,1 +1,166 @@
-{"meta": {"ph": "pəˈsjuː; NAmE pərˈsuː", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to do sth or try to achieve sth over a period of time 追求；致力于；执行；贯彻", "ex": [{"s": "They pursued and arrested the man.", "src": "2025浙江1月卷·读后续写", "cat": "gaokao", "year": 2025, "t": "他们追捕并逮捕了那个人。"}, {"s": "When I decided to pursue a postgraduate degree, I wanted to develop a novel research programme and quickly establish myself as an independent scientist.", "src": "2024北京卷·书面表达", "cat": "gaokao", "year": 2024, "t": "当我决定攻读研究生学位时，我想开发一个新颖的研究项目，并迅速确立自己作为独立科学家的地位。"}, {"s": "In the end, I had a new scientific interest to pursue.", "src": "2023北京卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "最终，我有了一个新的科学兴趣去追求。"}, {"s": "You may pursue training, degrees, or increasing levels of responsibility at work.", "src": "2021天津3月卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "你可以在工作中追求培训、学位或不断提高的责任层级。"}, {"s": "Jennifer Mauer has needed more willpower than the typical college student to pursue her goal of earning a nursing degree.", "src": "2020全国新高考I卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "Jennifer Mauer比典型的大学生更需要意志力来追求她获得护理学位的目标。"}, {"s": "She chose the UW-Eau Claire program at Ministry Saint Joseph’s Hospital in Marshfield because she was able to pursue her four-year degree close to home.", "src": "2020全国新高考I卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "她选择了位于马什菲尔德的明斯特圣约瑟夫医院的UW-Eau Claire项目，因为她能在离家近的地方攻读四年制学位。"}, {"s": "I had never pursued them.", "src": "2020天津6月卷", "cat": "gaokao", "year": 2020, "t": "所以我从未追求过这些兴趣。"}, {"s": "To suggest a way of pursuing excellence in our lifelong career．", "src": "2019天津卷·20．", "cat": "gaokao", "year": 2019, "t": "D．为我们终身职业追求卓越提出一种方法。"}, {"s": "They have the freedom (pursue) their own ideas and interests rather than (follow) a curriculum.", "src": "人教选必3 U5", "cat": "renjiao", "t": "他们有自由（追求）自己的想法和兴趣，而不是（遵循）一套课程。"}, {"s": "Instead of retreating to their caves, some of our ancestors chose to subdue their fears and pursue the unknown – and this curiosity led them to, for instance, discover the use of fire.", "src": "外研社B7 U5", "cat": "waiyan", "t": "我们的一些祖先没有撤退到他们的洞穴，而是选择克服恐惧，追求未知--这种好奇心使他们发现了火的使用。"}]}, {"def": "to continue to discuss, find out about or be involved in sth 继续探讨（或追究、从事）", "ex": [{"s": "I jumped at the chance, and a few weeks later I was equally shocked—and overjoyed—when she invited me to talk with her about potential projects I could pursue in her lab.", "src": "2023北京卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "我毫不犹豫地抓住了这个机会，几周后，当她邀请我与她讨论我可以在她的实验室里开展的潜在项目时，我同样震惊——而且欣喜若狂。"}, {"s": "His parents wanted him to pursue a career in science or medicine.", "src": "人教选必1 U5", "cat": "renjiao", "t": "他的父母希望他从事科学或医学方面的职业。"}, {"s": "Qian went to the United States in 1935 to pursue his graduate studies.", "src": "人教选必2 U1", "cat": "renjiao", "t": "钱于1935年前往美国攻读研究生。"}, {"s": "I hope everyone gets the opportunity to pursue further studies abroad and to an understanding of different cultures, too.", "src": "人教选必2 U5", "cat": "renjiao", "t": "我希望每个人都有机会出国深造，并______对不同文化的理解。"}]}, {"def": "to follow or chase sb/sth, especially in order to catch them 追逐；跟踪；追赶", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "pəˈsjuː; NAmE pərˈsuː",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to do sth or try to achieve sth over a period of time 追求；致力于；执行；贯彻",
+      "ex": [
+        {
+          "s": "They pursued and arrested the man.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "他们追捕并逮捕了那个人。"
+        },
+        {
+          "s": "When I decided to pursue a postgraduate degree, I wanted to develop a novel research programme and quickly establish myself as an independent scientist.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当我决定攻读研究生学位时，我想开发一个新颖的研究项目，并迅速确立自己作为独立科学家的地位。"
+        },
+        {
+          "s": "In the end, I had a new scientific interest to pursue.",
+          "src": "2023北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "最终，我有了一个新的科学兴趣去追求。"
+        },
+        {
+          "s": "You may pursue training, degrees, or increasing levels of responsibility at work.",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你可以在工作中追求培训、学位或不断提高的责任层级。"
+        },
+        {
+          "s": "Jennifer Mauer has needed more willpower than the typical college student to pursue her goal of earning a nursing degree.",
+          "src": "2020全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "Jennifer Mauer比典型的大学生更需要意志力来追求她获得护理学位的目标。"
+        },
+        {
+          "s": "She chose the UW-Eau Claire program at Ministry Saint Joseph’s Hospital in Marshfield because she was able to pursue her four-year degree close to home.",
+          "src": "2020全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "她选择了位于马什菲尔德的明斯特圣约瑟夫医院的UW-Eau Claire项目，因为她能在离家近的地方攻读四年制学位。"
+        },
+        {
+          "s": "I had never pursued them.",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "所以我从未追求过这些兴趣。"
+        },
+        {
+          "s": "To suggest a way of pursuing excellence in our lifelong career．",
+          "src": "2019天津卷·20．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "D．为我们终身职业追求卓越提出一种方法。"
+        },
+        {
+          "s": "They have the freedom (pursue) their own ideas and interests rather than (follow) a curriculum.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "他们有自由（追求）自己的想法和兴趣，而不是（遵循）一套课程。"
+        },
+        {
+          "s": "Instead of retreating to their caves, some of our ancestors chose to subdue their fears and pursue the unknown – and this curiosity led them to, for instance, discover the use of fire.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "我们的一些祖先没有撤退到他们的洞穴，而是选择克服恐惧，追求未知--这种好奇心使他们发现了火的使用。"
+        }
+      ]
+    },
+    {
+      "def": "to continue to discuss, find out about or be involved in sth 继续探讨（或追究、从事）",
+      "ex": [
+        {
+          "s": "I jumped at the chance, and a few weeks later I was equally shocked—and overjoyed—when she invited me to talk with her about potential projects I could pursue in her lab.",
+          "src": "2023北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我毫不犹豫地抓住了这个机会，几周后，当她邀请我与她讨论我可以在她的实验室里开展的潜在项目时，我同样震惊——而且欣喜若狂。"
+        },
+        {
+          "s": "His parents wanted him to pursue a career in science or medicine.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "他的父母希望他从事科学或医学方面的职业。"
+        },
+        {
+          "s": "Qian went to the United States in 1935 to pursue his graduate studies.",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "t": "钱于1935年前往美国攻读研究生。"
+        },
+        {
+          "s": "I hope everyone gets the opportunity to pursue further studies abroad and to an understanding of different cultures, too.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "我希望每个人都有机会出国深造，并______对不同文化的理解。"
+        }
+      ]
+    },
+    {
+      "def": "to follow or chase sb/sth, especially in order to catch them 追逐；跟踪；追赶",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "pursue her",
+      "cn": "追求 她的",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "to pursue her",
+      "cn": "去 追求 她的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "they pursued",
+      "cn": "他们 追求",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pursued and arrested",
+      "cn": "追求 与 逮捕",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "pursue a postgraduate",
+      "cn": "追求 一个",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "decided to pursue",
+      "cn": "对 … 作出抉择 去 追求",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "interest to pursue",
+      "cn": "兴趣 去 追求",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pursue training",
+      "cn": "追求 训练",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

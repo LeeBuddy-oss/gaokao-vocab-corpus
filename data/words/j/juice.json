@@ -1,1 +1,143 @@
-{"meta": {"ph": "dʒuːs; NAmE dʒuːs", "pos": "noun", "stars": ""}, "defs": [{"def": "the liquid that comes from fruit or vegetables; a drink made from this 果汁；菜汁；果汁（或菜汁）饮料", "ex": [{"s": "For two weeks in March, Greenwich Village’s Blue Hill restaurant was renamed wastED, and served items like fried skate cartilage, a juice pulp burger, and a dumpster diver’s vegetable salad.", "src": "2025新高考II卷·阅读理解D", "cat": "gaokao", "t": "三月的头两周，格林尼治村的蓝山餐厅改名为wastED，供应诸如炸鳐鱼软骨、果汁渣汉堡和垃圾箱潜水者蔬菜沙拉之类的菜品。", "year": 2025}, {"s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.", "src": "2022全国乙卷·阅读理解D", "cat": "gaokao", "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。", "year": 2022, "_matched": true}, {"s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.", "src": "2021新高考II卷·阅读理解A", "cat": "gaokao", "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。", "year": 2021, "_matched": true}, {"s": "Why is fresh lemon juice used in freezing bananas?", "src": "2018全国II卷·阅读理解B", "cat": "gaokao", "t": "为什么冷冻香蕉时要使用新鲜柠檬汁？", "year": 2018}, {"s": "He paused a moment before Dolph; then spitting a discharge of tobacco-juice on his well-blacked boots, and giving a contemptuous umph, he walked on.", "src": "外研社B5 U6", "cat": "waiyan", "t": "他在多尔夫面前停了片刻；然后朝他擦得锃亮的靴子上吐了一口烟汁，轻蔑地哼了一声，便走开了。"}, {"s": "This is because the juice from tomatoes is really good for making surfaces clean!", "src": "人教B3 U1", "cat": "renjiao", "t": "这是因为番茄汁对于清洁表面非常有效！"}, {"s": "(I want) Orange juice, please.", "src": "人教B3 U5", "cat": "renjiao", "t": "请给我橙汁。"}]}, {"def": "the liquid that comes out of a piece of meat when it is cooked 肉汁", "ex": [{"s": "Then, he goes tothe bar and 4 (order) an orange juice when he hears a voice, \"That's a nice tie.\" Theman5 (look) around but nobody is near him.", "src": "北师大选必2 U4", "cat": "beishida", "t": "然后，他去酒吧点了杯橙汁，这时听到一个声音说：这领带不错。那人环顾四周，但身边没有人。"}]}, {"def": "the liquid in the stomach that helps you to digest food 胃液；消化液", "ex": [{"s": "If you like, a squeeze of fresh lemon juice on the bananas will prevent them turning brown.", "src": "2018全国II卷·阅读理解B", "cat": "gaokao", "t": "如果你愿意，在香蕉上挤一点鲜柠檬汁可以防止它们变褐。", "year": 2018}]}, {"def": "petrol/gas 汽油", "ex": []}, {"def": "electricity 电", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "dʒuːs; NAmE dʒuːs",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "the liquid that comes from fruit or vegetables; a drink made from this 果汁；菜汁；果汁（或菜汁）饮料",
+      "ex": [
+        {
+          "s": "For two weeks in March, Greenwich Village’s Blue Hill restaurant was renamed wastED, and served items like fried skate cartilage, a juice pulp burger, and a dumpster diver’s vegetable salad.",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "三月的头两周，格林尼治村的蓝山餐厅改名为wastED，供应诸如炸鳐鱼软骨、果汁渣汉堡和垃圾箱潜水者蔬菜沙拉之类的菜品。",
+          "year": 2025
+        },
+        {
+          "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。",
+          "year": 2022,
+          "_matched": true
+        },
+        {
+          "s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.",
+          "src": "2021新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。",
+          "year": 2021,
+          "_matched": true
+        },
+        {
+          "s": "Why is fresh lemon juice used in freezing bananas?",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "为什么冷冻香蕉时要使用新鲜柠檬汁？",
+          "year": 2018
+        },
+        {
+          "s": "He paused a moment before Dolph; then spitting a discharge of tobacco-juice on his well-blacked boots, and giving a contemptuous umph, he walked on.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "他在多尔夫面前停了片刻；然后朝他擦得锃亮的靴子上吐了一口烟汁，轻蔑地哼了一声，便走开了。"
+        },
+        {
+          "s": "This is because the juice from tomatoes is really good for making surfaces clean!",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "这是因为番茄汁对于清洁表面非常有效！"
+        },
+        {
+          "s": "(I want) Orange juice, please.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "请给我橙汁。"
+        }
+      ]
+    },
+    {
+      "def": "the liquid that comes out of a piece of meat when it is cooked 肉汁",
+      "ex": [
+        {
+          "s": "Then, he goes tothe bar and 4 (order) an orange juice when he hears a voice, \"That's a nice tie.\" Theman5 (look) around but nobody is near him.",
+          "src": "北师大选必2 U4",
+          "cat": "beishida",
+          "t": "然后，他去酒吧点了杯橙汁，这时听到一个声音说：这领带不错。那人环顾四周，但身边没有人。"
+        }
+      ]
+    },
+    {
+      "def": "the liquid in the stomach that helps you to digest food 胃液；消化液",
+      "ex": [
+        {
+          "s": "If you like, a squeeze of fresh lemon juice on the bananas will prevent them turning brown.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "如果你愿意，在香蕉上挤一点鲜柠檬汁可以防止它们变褐。",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "def": "petrol/gas 汽油",
+      "ex": []
+    },
+    {
+      "def": "electricity 电",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "lemon juice",
+      "cn": "柠檬 果汁",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "fresh lemon juice",
+      "cn": "通常指食物 柠檬 果汁",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "orange juice",
+      "cn": "橙子 果汁",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "juice pulp",
+      "cn": "果汁",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a juice pulp",
+      "cn": "一个 果汁",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "cartilage a juice",
+      "cn": "一个 果汁",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "juices milk-based",
+      "cn": "果汁",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "fruit juices",
+      "cn": "水果 果汁",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

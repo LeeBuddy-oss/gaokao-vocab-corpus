@@ -1,1 +1,151 @@
-{"meta":{"ph":"ˌəʊvəˈkʌm; NAmE ˌoʊvərˈkʌm","pos":"verb","stars":"★★"},"defs":[{"def":"to succeed in dealing with or controlling a problem that has been preventing you from achieving sth 克服；解决","ex":[{"s":"It really messed up my relationship with food — something that took me years to overcome.","src":"2025浙江1月卷·阅读理解B","cat":"gaokao","year":2025,"t":"它确实弄糟了我与食物的关系——这是我花了多年才克服的。"},{"s":"It is encouraging to discover that by readily accepting our errors and wisely placing ourselves in the way of being wrong, we can in fact overcome weaknesses and rise stronger.","src":"2023天津3月卷·阅读理解D","cat":"gaokao","year":2023,"t":"令人鼓舞的是，我们发现，通过欣然接受错误、明智地让自己处于可能犯错的位置，我们事实上能克服弱点、变得更强。"},{"s":"What did the man say helped him overcome the problem?","src":"2020全国I卷","cat":"gaokao","year":2020,"t":"他说什么来帮助他克服问题？"},{"s":"the kid to overcome reading difficulties","src":"2020天津6月卷·阅读理解A","cat":"gaokao","year":2020,"t":"帮助孩子克服阅读困难"},{"s":"How is NASA overcoming this very tiny big problem?","src":"2019全国II卷·阅读理解D","cat":"gaokao","year":2019,"t":"NASA是如何克服这个微小但重大的问题的？"},{"s":"You will surely need to overcome some difficulties, some planned, but most unplanned.","src":"2019全国II卷·七选五","cat":"gaokao","year":2019,"t":"你肯定需要克服一些困难，有些是计划内的，但大多数是计划外的。"},{"s":"You cannot overcome them without ample motivation.","src":"2019全国II卷·七选五","cat":"gaokao","year":2019,"t":"没有充足的动力你无法克服它们。"},{"s":"Taking years to complete, the Qinghai-Tibet Railway is a record of all of our efforts to overcome the most difficult engineering challenges.","src":"外研社B4 U6","cat":"waiyan","t":"耗时多年才完成的青藏铁路，是我们克服最艰巨工程挑战的所有努力的记录。"},{"s":"Cultural exchange helps us to be more inclusive and to overcome culture shock.","src":"外研社B5 U4","cat":"waiyan","t":"文化交流有助于我们更加包容并克服文化冲击。"},{"s":"Talk about another phenomenon of the global village using the expressions in this section.] Now think about any difficulties you encountered during your discussion and what you did to overcome them.","src":"外研社B5 U4","cat":"waiyan","t":"用这一部分的表达方式谈谈地球村的另一个现象。] 现在想想你在讨论中遇到的任何困难以及你是如何克服它们的。"},{"s":"How do they overcome those difficulties?","src":"外研社B5 U6","cat":"waiyan","t":"他们是怎样克服这些困难的？"},{"s":"How did they overcome them?","src":"外研社B6 U2","cat":"waiyan","t":"他们是怎样克服它们的？"}]},{"def":"to defeat sb 战胜","ex":[]},{"def":"to be extremely strongly affected by sth 受到 … 的极大影响","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˌəʊvəˈkʌm; NAmE ˌoʊvərˈkʌm",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to succeed in dealing with or controlling a problem that has been preventing you from achieving sth 克服；解决",
+      "ex": [
+        {
+          "s": "It really messed up my relationship with food — something that took me years to overcome.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "它确实弄糟了我与食物的关系——这是我花了多年才克服的。"
+        },
+        {
+          "s": "It is encouraging to discover that by readily accepting our errors and wisely placing ourselves in the way of being wrong, we can in fact overcome weaknesses and rise stronger.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "令人鼓舞的是，我们发现，通过欣然接受错误、明智地让自己处于可能犯错的位置，我们事实上能克服弱点、变得更强。"
+        },
+        {
+          "s": "What did the man say helped him overcome the problem?",
+          "src": "2020全国I卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他说什么来帮助他克服问题？"
+        },
+        {
+          "s": "the kid to overcome reading difficulties",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "帮助孩子克服阅读困难"
+        },
+        {
+          "s": "How is NASA overcoming this very tiny big problem?",
+          "src": "2019全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "NASA是如何克服这个微小但重大的问题的？"
+        },
+        {
+          "s": "You will surely need to overcome some difficulties, some planned, but most unplanned.",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "你肯定需要克服一些困难，有些是计划内的，但大多数是计划外的。"
+        },
+        {
+          "s": "You cannot overcome them without ample motivation.",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "没有充足的动力你无法克服它们。"
+        },
+        {
+          "s": "Taking years to complete, the Qinghai-Tibet Railway is a record of all of our efforts to overcome the most difficult engineering challenges.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "耗时多年才完成的青藏铁路，是我们克服最艰巨工程挑战的所有努力的记录。"
+        },
+        {
+          "s": "Cultural exchange helps us to be more inclusive and to overcome culture shock.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "文化交流有助于我们更加包容并克服文化冲击。"
+        },
+        {
+          "s": "Talk about another phenomenon of the global village using the expressions in this section.] Now think about any difficulties you encountered during your discussion and what you did to overcome them.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "用这一部分的表达方式谈谈地球村的另一个现象。] 现在想想你在讨论中遇到的任何困难以及你是如何克服它们的。"
+        },
+        {
+          "s": "How do they overcome those difficulties?",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "他们是怎样克服这些困难的？"
+        },
+        {
+          "s": "How did they overcome them?",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "他们是怎样克服它们的？"
+        }
+      ]
+    },
+    {
+      "def": "to defeat sb 战胜",
+      "ex": []
+    },
+    {
+      "def": "to be extremely strongly affected by sth 受到 … 的极大影响",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "overcome them",
+      "cn": "克服 他们",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "they overcome",
+      "cn": "他们 克服",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "years to overcome",
+      "cn": "年 去 克服",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "overcome weaknesses",
+      "cn": "克服",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "fact overcome",
+      "cn": "现实 克服",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "in fact overcome",
+      "cn": "在…里 现实 克服",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "him overcome",
+      "cn": "他 克服",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "overcome the problem",
+      "cn": "克服 该 棘手的问题",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

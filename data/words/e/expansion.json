@@ -1,1 +1,103 @@
-{"meta": {"ph": "ɪkˈspænʃn; NAmE ɪkˈspænʃn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "an act of increasing or making sth increase in size, amount or importance 扩张；扩展；扩大；膨胀", "ex": [{"s": "B The expansion of bears’ range.", "src": "2023全国甲卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "B 熊类活动范围的扩大。"}, {"s": "These expansions into new worlds help us by giving us new perspectives.", "src": "2021天津3月卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "这些向新领域的拓展帮助我们获得新的视角。"}, {"s": "Because it blocks local hospital expansion plans.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "因为它阻碍了当地医院的扩建计划。"}, {"s": "This was near the end of America's Westward Expansion, which started in the early 1800 During the expansion, many people went to the West to make money.", "src": "外研社B1 U6", "cat": "waiyan", "t": "这发生在美国西进运动接近尾声的时候，该运动始于 19 世纪初。在扩张期间，许多人前往西部赚钱。"}, {"s": "Even though Buddhism entered China much earlier, it did not really begin to show expansion until the seventh century.", "src": "人教选必3 U1", "cat": "renjiao", "t": "尽管佛教传入中国的时间要早得多，但直到七世纪才真正开始显示出扩展的势头。"}, {"s": "All of these activities contributed to a great age of expansion as trade and cultural exchanges gave people access to new goods, knowledge and ideas.", "src": "译林选必3 U4", "cat": "yilin", "t": "所有这些活动促成了一个伟大的扩张时代，因为贸易和文化交流让人们接触到了新的商品、知识和思想。"}]}], "chunks": [{"en": "hospital expansion", "cn": "医院扩张", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ɪkˈspænʃn; NAmE ɪkˈspænʃn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "an act of increasing or making sth increase in size, amount or importance 扩张；扩展；扩大；膨胀",
+      "ex": [
+        {
+          "s": "B The expansion of bears’ range.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "B 熊类活动范围的扩大。"
+        },
+        {
+          "s": "These expansions into new worlds help us by giving us new perspectives.",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这些向新领域的拓展帮助我们获得新的视角。"
+        },
+        {
+          "s": "Because it blocks local hospital expansion plans.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "因为它阻碍了当地医院的扩建计划。"
+        },
+        {
+          "s": "This was near the end of America's Westward Expansion, which started in the early 1800 During the expansion, many people went to the West to make money.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这发生在美国西进运动接近尾声的时候，该运动始于 19 世纪初。在扩张期间，许多人前往西部赚钱。"
+        },
+        {
+          "s": "Even though Buddhism entered China much earlier, it did not really begin to show expansion until the seventh century.",
+          "src": "人教选必3 U1",
+          "cat": "renjiao",
+          "t": "尽管佛教传入中国的时间要早得多，但直到七世纪才真正开始显示出扩展的势头。"
+        },
+        {
+          "s": "All of these activities contributed to a great age of expansion as trade and cultural exchanges gave people access to new goods, knowledge and ideas.",
+          "src": "译林选必3 U4",
+          "cat": "yilin",
+          "t": "所有这些活动促成了一个伟大的扩张时代，因为贸易和文化交流让人们接触到了新的商品、知识和思想。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "expansion of bears",
+      "cn": "扩张 的 在否定句和疑问句中与 c",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "expansions into new",
+      "cn": "扩张 进入 刚出现的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "expansion plans",
+      "cn": "扩张 计划",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "hospital expansion",
+      "cn": "医院： 扩张",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "local hospital expansion",
+      "cn": "地方的 医院： 扩张",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "westward expansion",
+      "cn": "扩张",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "expansion which started",
+      "cn": "扩张 哪个 开始",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "america's westward expansion",
+      "cn": "美国 扩张",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,166 @@
-{"meta": {"ph": "fləʊ; NAmE floʊ", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the steady and continuous movement of sth/sb in one direction 流；流动", "ex": [{"s": "Turner wisely said that “doing well” psychologically is being able to roll with the flow of emotions, manage them, communicate clearly and well with others, and master various skills.", "src": "2025北京卷·七选五", "cat": "gaokao", "year": 2025, "t": "特纳明智地说，“从心理上讲”“做得好”是能够顺应情绪的流动，管理情绪，与他人清晰良好地沟通，并掌握各种技能。“"}, {"s": "Smooth traffic flow on the road.", "src": "2020浙江7月卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "道路交通顺畅。"}, {"s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．", "src": "2021北京卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"}, {"s": "A dirty stream, for example, often became clear after flowing through plants and along rocks where tiny creatures lived.", "src": "2023新课标I卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "例如，一条污浊的小溪在流经植物和栖息着微小生物的岩石后，常常变得清澈。"}]}, {"def": "the continuous production or supply of sth 持续生产；不断供应", "ex": []}, {"def": "continuous talk by sb 滔滔不绝", "ex": []}, {"def": "the way that words and ideas are linked together in speech or writing 连贯；流畅", "ex": [{"s": "It made the sweetest sound I'd ever heard!My heart was dancing along with its flowing tune.", "src": "2023天津6月卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "它发出了我听到过的最悦耳的声音！我的心随着它流畅的旋律翩翩起舞。"}, {"s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"}, {"s": "Many scientists shared the commonsense expectation that as permafrost melted, lakes would at first expand with meltwater flowing into them.", "src": "2024天津3月卷·Passage 4", "cat": "gaokao", "year": 2024, "t": "我受邀去华盛顿西部一位老朋友的农场参加烧烤聚会。"}]}, {"def": "the movement of the sea towards the land 涨潮", "ex": []}, {"def": "to move steadily and continuously in one direction 液体、气体或电", "ex": []}, {"def": "to move or pass continuously from one place or person to another, especially in large numbers or amounts 人或事物", "ex": []}, {"def": "to develop or be produced in an easy and natural way 流畅", "ex": []}, {"def": "to be available easily and in large amounts 有的是；大量供应", "ex": []}, {"def": "to be felt strongly by sb 强烈感到", "ex": []}, {"def": "to hang loosely and freely 飘垂；飘拂", "ex": [{"s": "Seconds later, our lizard emerged from its tank with its old skin flowing behind it.", "src": "2021天津3月卷·阅读理解B", "cat": "gaokao", "year": 2021, "t": "几秒钟后我们的蜥蜴从箱子里钻了出来旧皮跟在身后飘动。"}]}, {"def": "to come in towards the land 海潮", "ex": []}], "chunks": [{"en": "total flow", "cn": "总计流", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "fləʊ; NAmE floʊ",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the steady and continuous movement of sth/sb in one direction 流；流动",
+      "ex": [
+        {
+          "s": "Turner wisely said that “doing well” psychologically is being able to roll with the flow of emotions, manage them, communicate clearly and well with others, and master various skills.",
+          "src": "2025北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "特纳明智地说，“从心理上讲”“做得好”是能够顺应情绪的流动，管理情绪，与他人清晰良好地沟通，并掌握各种技能。“"
+        },
+        {
+          "s": "Smooth traffic flow on the road.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "道路交通顺畅。"
+        },
+        {
+          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+        },
+        {
+          "s": "A dirty stream, for example, often became clear after flowing through plants and along rocks where tiny creatures lived.",
+          "src": "2023新课标I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "例如，一条污浊的小溪在流经植物和栖息着微小生物的岩石后，常常变得清澈。"
+        }
+      ]
+    },
+    {
+      "def": "the continuous production or supply of sth 持续生产；不断供应",
+      "ex": []
+    },
+    {
+      "def": "continuous talk by sb 滔滔不绝",
+      "ex": []
+    },
+    {
+      "def": "the way that words and ideas are linked together in speech or writing 连贯；流畅",
+      "ex": [
+        {
+          "s": "It made the sweetest sound I'd ever heard!My heart was dancing along with its flowing tune.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "它发出了我听到过的最悦耳的声音！我的心随着它流畅的旋律翩翩起舞。"
+        },
+        {
+          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
+        },
+        {
+          "s": "Many scientists shared the commonsense expectation that as permafrost melted, lakes would at first expand with meltwater flowing into them.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我受邀去华盛顿西部一位老朋友的农场参加烧烤聚会。"
+        }
+      ]
+    },
+    {
+      "def": "the movement of the sea towards the land 涨潮",
+      "ex": []
+    },
+    {
+      "def": "to move steadily and continuously in one direction 液体、气体或电",
+      "ex": []
+    },
+    {
+      "def": "to move or pass continuously from one place or person to another, especially in large numbers or amounts 人或事物",
+      "ex": []
+    },
+    {
+      "def": "to develop or be produced in an easy and natural way 流畅",
+      "ex": []
+    },
+    {
+      "def": "to be available easily and in large amounts 有的是；大量供应",
+      "ex": []
+    },
+    {
+      "def": "to be felt strongly by sb 强烈感到",
+      "ex": []
+    },
+    {
+      "def": "to hang loosely and freely 飘垂；飘拂",
+      "ex": [
+        {
+          "s": "Seconds later, our lizard emerged from its tank with its old skin flowing behind it.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "几秒钟后我们的蜥蜴从箱子里钻了出来旧皮跟在身后飘动。"
+        }
+      ]
+    },
+    {
+      "def": "to come in towards the land 海潮",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "flow of emotions",
+      "cn": "流 的 强烈的感情",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "traffic flow",
+      "cn": "路上行驶的车辆 流",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "smooth traffic flow",
+      "cn": "平整的 路上行驶的车辆 流",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "flow on the road",
+      "cn": "流 在…上 该 路",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "total flow",
+      "cn": "总的 流",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "flow of several",
+      "cn": "流 的 几个",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the total flow",
+      "cn": "该 总的 流",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "flow at their",
+      "cn": "流 在 他们的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

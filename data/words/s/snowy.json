@@ -1,1 +1,103 @@
-{"meta":{"ph":"ˈsnəʊi; NAmE ˈsnoʊi","pos":"adj.","stars":"★"},"defs":[{"def":"covered with snow 被雪覆盖的","ex":[{"s":"The landscape that lines the route is beautiful and dramatic, with snowy mountains and green valleys.","src":"外研社B2 U5","cat":"waiyan","t":"沿途的风景美丽而壮观，有雪山和翠绿的山谷。"},{"s":"There were forests, mountains with snowy tops and masses of ice.","src":"外研社B2 U5","cat":"waiyan","t":"有森林、有雪顶的高山和大量的冰块。"},{"s":"Among Frost’s best-known poems are The Road Not Taken, Fire and Ice, Stopping by Woods on a Snowy Evening and Birches.","src":"外研社B7 U1","cat":"waiyan","t":"弗罗斯特最著名的诗歌包括《未选择的路》《火与冰》《雪夜林边小驻》和《桦树》。"},{"s":"However, during the winter, it is difficult to attract the animals to cameras hidden in snowy forests.","src":"人教B2 U2","cat":"renjiao","t":"然而，在冬天，很难吸引动物到藏在雪林中的相机前。"}]},{"def":"when a lot of snow falls 一段时间","ex":[{"s":"It is the first fall we have had here this winter, and last year I was out of the country, sweating in a hot climate, during the snowy season, so that it really does seem an age since saw the ground so fantastically carpeted.","src":"外研社B6 U6","cat":"waiyan","t":"这是我们今年冬天这里下的第一场雪，去年冬天我出国了，在炎热的气候里汗流浃背，错过了下雪的季节，所以看起来真的好像很多年没有见过大地铺满如此美妙的雪毯了。"}]},{"def":"very white, like new snow 雪白的","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈsnəʊi; NAmE ˈsnoʊi",
+    "pos": "adj.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "covered with snow 被雪覆盖的",
+      "ex": [
+        {
+          "s": "The landscape that lines the route is beautiful and dramatic, with snowy mountains and green valleys.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "沿途的风景美丽而壮观，有雪山和翠绿的山谷。"
+        },
+        {
+          "s": "There were forests, mountains with snowy tops and masses of ice.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "有森林、有雪顶的高山和大量的冰块。"
+        },
+        {
+          "s": "Among Frost’s best-known poems are The Road Not Taken, Fire and Ice, Stopping by Woods on a Snowy Evening and Birches.",
+          "src": "外研社B7 U1",
+          "cat": "waiyan",
+          "t": "弗罗斯特最著名的诗歌包括《未选择的路》《火与冰》《雪夜林边小驻》和《桦树》。"
+        },
+        {
+          "s": "However, during the winter, it is difficult to attract the animals to cameras hidden in snowy forests.",
+          "src": "人教B2 U2",
+          "cat": "renjiao",
+          "t": "然而，在冬天，很难吸引动物到藏在雪林中的相机前。"
+        }
+      ]
+    },
+    {
+      "def": "when a lot of snow falls 一段时间",
+      "ex": [
+        {
+          "s": "It is the first fall we have had here this winter, and last year I was out of the country, sweating in a hot climate, during the snowy season, so that it really does seem an age since saw the ground so fantastically carpeted.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "这是我们今年冬天这里下的第一场雪，去年冬天我出国了，在炎热的气候里汗流浃背，错过了下雪的季节，所以看起来真的好像很多年没有见过大地铺满如此美妙的雪毯了。"
+        }
+      ]
+    },
+    {
+      "def": "very white, like new snow 雪白的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "snowy mountains",
+      "cn": "被雪覆盖的 高山",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "with snowy mountains",
+      "cn": "与 被雪覆盖的 高山",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dramatic with snowy",
+      "cn": "变化 与 被雪覆盖的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "snowy tops",
+      "cn": "被雪覆盖的 顶",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "with snowy tops",
+      "cn": "与 被雪覆盖的 顶",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mountains with snowy",
+      "cn": "高山 与 被雪覆盖的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "snowy evening",
+      "cn": "被雪覆盖的 晚上",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a snowy evening",
+      "cn": "一个 被雪覆盖的 晚上",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

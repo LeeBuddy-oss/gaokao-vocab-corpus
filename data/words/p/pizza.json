@@ -1,1 +1,89 @@
-{"meta": {"ph": "ˈpiːtsə; NAmE ˈpiːtsə", "pos": "noun", "stars": ""}, "defs": [{"def": "an Italian dish consisting of a flat round bread base with cheese, tomatoes, vegetables, meat, etc. on top 比萨饼；意大利饼", "ex": [{"s": "Pasta and pizza were on everyone’s lunch menu in my native land of Italy.", "src": "2022浙江6月卷·阅读理解A", "cat": "gaokao", "year": 2022, "t": "在我的祖国意大利，意大利面和披萨是每个人午餐菜单上的食物。"}, {"s": "I ordered a large vegetarian pizza, but it was tiny!", "src": "外研社B2 U1", "cat": "waiyan", "t": "我点了一份大份的素食披萨，但它好小！"}, {"s": "I love sushi, but Jason wants pizza.", "src": "外研社B5 U3", "cat": "waiyan", "t": "我喜欢寿司，但杰森想吃披萨。"}, {"s": "The Australian hamburger for lunch, and pizza for dinner.", "src": "北师大B3 U9", "cat": "beishida", "t": "午餐吃澳大利亚汉堡，晚餐吃披萨。"}]}], "chunks": [{"en": "wants pizza", "cn": "想要比萨饼", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈpiːtsə; NAmE ˈpiːtsə",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "an Italian dish consisting of a flat round bread base with cheese, tomatoes, vegetables, meat, etc. on top 比萨饼；意大利饼",
+      "ex": [
+        {
+          "s": "Pasta and pizza were on everyone’s lunch menu in my native land of Italy.",
+          "src": "2022浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在我的祖国意大利，意大利面和披萨是每个人午餐菜单上的食物。"
+        },
+        {
+          "s": "I ordered a large vegetarian pizza, but it was tiny!",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "我点了一份大份的素食披萨，但它好小！"
+        },
+        {
+          "s": "I love sushi, but Jason wants pizza.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "我喜欢寿司，但杰森想吃披萨。"
+        },
+        {
+          "s": "The Australian hamburger for lunch, and pizza for dinner.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "t": "午餐吃澳大利亚汉堡，晚餐吃披萨。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "pasta and pizza",
+      "cn": "与 比萨饼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pizza were on everyone",
+      "cn": "比萨饼 是 在…上",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "vegetarian pizza",
+      "cn": "比萨饼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "large vegetarian pizza",
+      "cn": "大的 比萨饼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wants pizza",
+      "cn": "要 比萨饼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "jason wants pizza",
+      "cn": "要 比萨饼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pizza for dinner",
+      "cn": "比萨饼 为了 正餐",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lunch and pizza",
+      "cn": "午餐 与 比萨饼",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

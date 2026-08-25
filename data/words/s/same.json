@@ -600,5 +600,54 @@
       ]
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "same thing",
+      "cn": "相同 东西",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "the same thing",
+      "cn": "该 相同 东西",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "same time",
+      "cn": "相同 时间",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "the same time",
+      "cn": "该 相同 时间",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "same age",
+      "cn": "相同 年龄",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "the same age",
+      "cn": "该 相同 年龄",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "same way",
+      "cn": "相同 方法",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "the same way",
+      "cn": "该 相同 方法",
+      "type": "名词短语",
+      "count": 3
+    }
+  ]
 }

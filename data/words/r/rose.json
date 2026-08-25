@@ -1,1 +1,152 @@
-{"meta": {"ph": "rəʊz; NAmE roʊz", "pos": "noun", "stars": ""}, "defs": [{"def": "a flower with a sweet smell that grows on a bush with thorns (= sharp points) on its stems 玫瑰（花）；蔷薇（花）", "ex": [{"s": "I began practicing the violin with great passion, and rose quickly in ability.", "src": "2023天津6月卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "我开始充满热情地练习小提琴，能力迅速提升。"}, {"s": "Then a full moon rose.", "src": "2022全国乙卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "接着，一轮满月升起。"}, {"s": "The United States rose to global power on the strength of its technology, and the lifeblood that technology has long been electricity.", "src": "2022浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "美国凭借其技术实力崛起为全球强国，而技术长期以来的命脉是电力。"}, {"s": "They rose in the ranks not by being friendly but by smoking cigarettes, breaking rules and playing jokes on others, among whom I soon found myself.", "src": "2019全国I卷·阅读理解D", "cat": "gaokao", "year": 2019, "t": "他们在队伍中的崛起不是因为友好，而是因为抽烟、违反规则和取笑别人，我很快就发现自己就在别人中间。"}, {"s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.", "src": "2018全国I卷·阅读理解D", "cat": "gaokao", "year": 2018, "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"}, {"s": "Expert gardeners know just the right corner for roses, and others spend hours trying to grow perfect vegetables to enter into competitions.", "src": "外研社B1 U6", "cat": "waiyan", "t": "专业园丁最清楚玫瑰适合种在哪个角落，而其他人则花上好几个小时试图种出完美的蔬菜去参加比赛。"}, {"s": "And if you're in any doubt about this, take a moment to reflect on this line from The Secret Garden: \"Where you tend a rose...", "src": "外研社B1 U6", "cat": "waiyan", "t": "如果你对此有任何疑问，花点时间思考一下《秘密花园》中的这句话：\"你在哪里照顾一朵玫瑰……"}, {"s": "As soon as the curtain rose, I was absorbed.", "src": "外研社B2 U4", "cat": "waiyan", "t": "窗帘一升起，我就全神贯注了。"}, {"s": "A shocked Winton watched as the majority of people rose to their feet.", "src": "外研社B3 U2", "cat": "waiyan", "t": "震惊的温顿看着大多数人站了起来。"}, {"s": "Hours later, the waves rose up over our ship, breaking it into two and throwing us overboard.", "src": "外研社B3 U5", "cat": "waiyan", "t": "数小时后，海浪掀翻了我们的船，把它打成两半，将我们抛入海中。"}]}, {"def": "a pink colour 粉红色", "ex": []}, {"def": "a piece of metal or plastic with small holes in it that is attached to the end of a pipe or watering can so that the water comes out in a fine spray when you are watering plants （水管或喷壶的）莲蓬式喷嘴", "ex": [{"s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.", "src": "2026新高考II卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"}, {"s": "“I remember the first time I saw a humpback whale; it just rose out of the water like some prehistoric creature and I thought it was smiling at us.", "src": "2022全国甲卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "“我记得第一次看到座头鲸的时候，它就像某种史前生物一样从水中升起，我觉得它在对着我们微笑。"}]}], "chunks": [{"en": "tend rose", "cn": "趋向玫瑰", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "rəʊz; NAmE roʊz",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a flower with a sweet smell that grows on a bush with thorns (= sharp points) on its stems 玫瑰（花）；蔷薇（花）",
+      "ex": [
+        {
+          "s": "I began practicing the violin with great passion, and rose quickly in ability.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我开始充满热情地练习小提琴，能力迅速提升。"
+        },
+        {
+          "s": "Then a full moon rose.",
+          "src": "2022全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "接着，一轮满月升起。"
+        },
+        {
+          "s": "The United States rose to global power on the strength of its technology, and the lifeblood that technology has long been electricity.",
+          "src": "2022浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "美国凭借其技术实力崛起为全球强国，而技术长期以来的命脉是电力。"
+        },
+        {
+          "s": "They rose in the ranks not by being friendly but by smoking cigarettes, breaking rules and playing jokes on others, among whom I soon found myself.",
+          "src": "2019全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "他们在队伍中的崛起不是因为友好，而是因为抽烟、违反规则和取笑别人，我很快就发现自己就在别人中间。"
+        },
+        {
+          "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
+        },
+        {
+          "s": "Expert gardeners know just the right corner for roses, and others spend hours trying to grow perfect vegetables to enter into competitions.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "专业园丁最清楚玫瑰适合种在哪个角落，而其他人则花上好几个小时试图种出完美的蔬菜去参加比赛。"
+        },
+        {
+          "s": "And if you're in any doubt about this, take a moment to reflect on this line from The Secret Garden: \"Where you tend a rose...",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "如果你对此有任何疑问，花点时间思考一下《秘密花园》中的这句话：\"你在哪里照顾一朵玫瑰……"
+        },
+        {
+          "s": "As soon as the curtain rose, I was absorbed.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "窗帘一升起，我就全神贯注了。"
+        },
+        {
+          "s": "A shocked Winton watched as the majority of people rose to their feet.",
+          "src": "外研社B3 U2",
+          "cat": "waiyan",
+          "t": "震惊的温顿看着大多数人站了起来。"
+        },
+        {
+          "s": "Hours later, the waves rose up over our ship, breaking it into two and throwing us overboard.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "数小时后，海浪掀翻了我们的船，把它打成两半，将我们抛入海中。"
+        }
+      ]
+    },
+    {
+      "def": "a pink colour 粉红色",
+      "ex": []
+    },
+    {
+      "def": "a piece of metal or plastic with small holes in it that is attached to the end of a pipe or watering can so that the water comes out in a fine spray when you are watering plants （水管或喷壶的）莲蓬式喷嘴",
+      "ex": [
+        {
+          "s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"
+        },
+        {
+          "s": "“I remember the first time I saw a humpback whale; it just rose out of the water like some prehistoric creature and I thought it was smiling at us.",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "“我记得第一次看到座头鲸的时候，它就像某种史前生物一样从水中升起，我觉得它在对着我们微笑。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "rose quickly",
+      "cn": "玫瑰",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and rose quickly",
+      "cn": "与 玫瑰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "passion and rose",
+      "cn": "强烈情感 与 玫瑰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "moon rose",
+      "cn": "月球 玫瑰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "full moon rose",
+      "cn": "满的 月球 玫瑰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "states rose",
+      "cn": "状态 玫瑰",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rose to global",
+      "cn": "玫瑰 去 全球的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "united states rose",
+      "cn": "单独的事物 状态 玫瑰",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

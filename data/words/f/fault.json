@@ -1,1 +1,133 @@
-{"meta":{"ph":"fɔːlt; NAmE fɔːlt","pos":"noun","stars":"★★"},"defs":[{"def":"the responsibility for sth wrong that has happened or been done 责任；过错；过失","ex":[{"s":"I realized it was me who was at fault.","src":"2025新高考I卷·读后续写","cat":"gaokao","year":2025,"t":"我意识到犯错的是我自己。"},{"s":"But I have to say that it’s partly your fault, isn’t it?","src":"外研社B3 U1","cat":"waiyan","t":"但我不得不说，这在一定程度上是你的错，对吧？"}]},{"def":"a bad or weak aspect of sb's character 弱点；缺点","ex":[{"s":"Sometimes they achieve this by using animal characters with human faults and weaknesses.","src":"外研社B4 U6","cat":"waiyan","t":"有时，他们通过使用带有人的缺点和弱点的动物角色来做到这一点。"},{"s":"If you see no reason for giving thanks, the fault lies in yourself.","src":"人教B3 U2","cat":"renjiao","t":"如果你找不到感恩的理由，问题在于你自己。"},{"s":"Above all, Hawking was willing to admit his faults.","src":"人教选必2 U1","cat":"renjiao","t":"最重要的是，霍金愿意承认自己的错误。"},{"s":"The film does, however, have its faults.The voice of the Beast is rather strange, and the lovers flying at the end is a bit silly.","src":"北师大选必2 U6","cat":"beishida","t":"然而，这部电影确实有它的缺点。野兽的声音有点奇怪，最后恋人们飞起来的场景也有点傻。"}]},{"def":"something that is wrong or not perfect; something that is wrong with a machine or system that stops it from working correctly 缺陷；毛病；故障","ex":[{"s":"By using the latest technologies, drones could also start providing higher-value services for railways, detecting faults in the rail or switches, before they can cause any safety problems.","src":"2022全国乙卷·阅读理解C","cat":"gaokao","year":2022,"t":"通过使用最新技术，无人机还可以开始为铁路提供更高价值的服务，在铁轨或道岔出现故障造成安全问题之前进行检测。"},{"s":"What Faults Can Be Detected with Drones","src":"2022全国乙卷·阅读理解C","cat":"gaokao","year":2022,"t":"用无人机可以检测哪些故障"}]},{"def":"a mistake made when serving 发球失误","ex":[]},{"def":"a place where there is a break that is longer than usual in the layers of rock in the earth's crust （地壳岩层的）断层","ex":[]}],"chunks":[{"en":"human faults","cn":"人类弱点","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "fɔːlt; NAmE fɔːlt",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the responsibility for sth wrong that has happened or been done 责任；过错；过失",
+      "ex": [
+        {
+          "s": "I realized it was me who was at fault.",
+          "src": "2025新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我意识到犯错的是我自己。"
+        },
+        {
+          "s": "But I have to say that it’s partly your fault, isn’t it?",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "但我不得不说，这在一定程度上是你的错，对吧？"
+        }
+      ]
+    },
+    {
+      "def": "a bad or weak aspect of sb's character 弱点；缺点",
+      "ex": [
+        {
+          "s": "Sometimes they achieve this by using animal characters with human faults and weaknesses.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "有时，他们通过使用带有人的缺点和弱点的动物角色来做到这一点。"
+        },
+        {
+          "s": "If you see no reason for giving thanks, the fault lies in yourself.",
+          "src": "人教B3 U2",
+          "cat": "renjiao",
+          "t": "如果你找不到感恩的理由，问题在于你自己。"
+        },
+        {
+          "s": "Above all, Hawking was willing to admit his faults.",
+          "src": "人教选必2 U1",
+          "cat": "renjiao",
+          "t": "最重要的是，霍金愿意承认自己的错误。"
+        },
+        {
+          "s": "The film does, however, have its faults.The voice of the Beast is rather strange, and the lovers flying at the end is a bit silly.",
+          "src": "北师大选必2 U6",
+          "cat": "beishida",
+          "t": "然而，这部电影确实有它的缺点。野兽的声音有点奇怪，最后恋人们飞起来的场景也有点傻。"
+        }
+      ]
+    },
+    {
+      "def": "something that is wrong or not perfect; something that is wrong with a machine or system that stops it from working correctly 缺陷；毛病；故障",
+      "ex": [
+        {
+          "s": "By using the latest technologies, drones could also start providing higher-value services for railways, detecting faults in the rail or switches, before they can cause any safety problems.",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "通过使用最新技术，无人机还可以开始为铁路提供更高价值的服务，在铁轨或道岔出现故障造成安全问题之前进行检测。"
+        },
+        {
+          "s": "What Faults Can Be Detected with Drones",
+          "src": "2022全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "用无人机可以检测哪些故障"
+        }
+      ]
+    },
+    {
+      "def": "a mistake made when serving 发球失误",
+      "ex": []
+    },
+    {
+      "def": "a place where there is a break that is longer than usual in the layers of rock in the earth's crust （地壳岩层的）断层",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "fault isn",
+      "cn": "责任",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "your fault",
+      "cn": "你的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "partly your fault",
+      "cn": "你的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "human faults",
+      "cn": "人的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "faults and weaknesses",
+      "cn": "责任 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "with human faults",
+      "cn": "与 人的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fault lies",
+      "cn": "责任 人或动物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the fault lies",
+      "cn": "该 责任 人或动物",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

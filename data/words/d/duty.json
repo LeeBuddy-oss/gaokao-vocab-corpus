@@ -1,1 +1,143 @@
-{"meta": {"ph": "ˈdjuːti; NAmE ˈduːti", "pos": "noun", "stars": ""}, "defs": [{"def": "something that you feel you have to do because it is your moral or legal responsibility 责任；义务；本分", "ex": [{"s": "It gives her a sense of duty.", "src": "2019全国II卷·阅读理解B", "cat": "gaokao", "year": 2019, "t": "这给了她一种责任感。"}, {"s": "The parents had done their duty and would probably continue to do so.", "src": "2017全国I卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "父母已经尽了他们的责任，而且可能会继续这么做。"}, {"s": "But others do double duty.", "src": "2017全国II卷·阅读理解D", "cat": "gaokao", "year": 2017, "t": "但有些植物则身兼二职。"}, {"s": "When I saw the tragic scenes on the news, I felt it was my duty as a doctor to go there and offer my help.", "src": "外研社B5 U4", "cat": "waiyan", "t": "当我在新闻上看到那些悲惨的场景时，我觉得作为一名医生，我有责任去那里提供帮助。"}, {"s": "I have full confidence in your courage, devotion to duty and skill in battle.", "src": "外研社B6 U3", "cat": "waiyan", "t": "我对你们的勇气、忠于职守和作战技能充满信心。"}]}, {"def": "the work that is your job 上班；值班", "ex": [{"s": "I speak with the on-duty nurse, who tells me that Lara's parents rushed her to the hospital after she fell off her bicycle.", "src": "外研社B4 U1", "cat": "waiyan", "t": "我和值班护士交谈，她告诉我劳拉的父母在她从自行车上摔下来后急忙把她送到了医院。"}]}, {"def": "tasks that are part of your job 职责；任务", "ex": [{"s": "Some plants pump out smelly chemicals to keep insects away.But others do double duty .They pump out perfumes designed to attract different insects who are natural enemies to the attackers.Once they arrive,the tables are turned .The attacker who was lunching now becomes lunch.", "src": "2017重庆卷·阅读理解D", "cat": "gaokao", "year": 2017, "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"}, {"s": "（1）What is the main duty of the fire prevention professionals？", "src": "2018天津卷·阅读理解A", "cat": "gaokao", "year": 2018, "t": "（1）消防预防专业人员的主要职责是什么？"}, {"s": "Sadness wants to do her duty but by accident causes the loss of Riley’s happy core memories with Joy.", "src": "外研社B3 U1", "cat": "waiyan", "t": "悲伤想履行她的职责，却意外导致莱莉的快乐核心记忆与乐乐一起丢失。"}, {"s": "Key duties include exploring the islands of the reef and finding out what the area has to offer.", "src": "外研社B4 U6", "cat": "waiyan", "t": "主要职责包括探索珊瑚礁的岛屿并了解该地区有哪些资源。"}]}, {"def": "a tax that you pay on things that you buy, especially those that you bring into a country 税；（尤指进口货品）关税", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈdjuːti; NAmE ˈduːti",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "something that you feel you have to do because it is your moral or legal responsibility 责任；义务；本分",
+      "ex": [
+        {
+          "s": "It gives her a sense of duty.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这给了她一种责任感。"
+        },
+        {
+          "s": "The parents had done their duty and would probably continue to do so.",
+          "src": "2017全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "父母已经尽了他们的责任，而且可能会继续这么做。"
+        },
+        {
+          "s": "But others do double duty.",
+          "src": "2017全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "但有些植物则身兼二职。"
+        },
+        {
+          "s": "When I saw the tragic scenes on the news, I felt it was my duty as a doctor to go there and offer my help.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "当我在新闻上看到那些悲惨的场景时，我觉得作为一名医生，我有责任去那里提供帮助。"
+        },
+        {
+          "s": "I have full confidence in your courage, devotion to duty and skill in battle.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "我对你们的勇气、忠于职守和作战技能充满信心。"
+        }
+      ]
+    },
+    {
+      "def": "the work that is your job 上班；值班",
+      "ex": [
+        {
+          "s": "I speak with the on-duty nurse, who tells me that Lara's parents rushed her to the hospital after she fell off her bicycle.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "我和值班护士交谈，她告诉我劳拉的父母在她从自行车上摔下来后急忙把她送到了医院。"
+        }
+      ]
+    },
+    {
+      "def": "tasks that are part of your job 职责；任务",
+      "ex": [
+        {
+          "s": "Some plants pump out smelly chemicals to keep insects away.But others do double duty .They pump out perfumes designed to attract different insects who are natural enemies to the attackers.Once they arrive,the tables are turned .The attacker who was lunching now becomes lunch.",
+          "src": "2017重庆卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"
+        },
+        {
+          "s": "（1）What is the main duty of the fire prevention professionals？",
+          "src": "2018天津卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "（1）消防预防专业人员的主要职责是什么？"
+        },
+        {
+          "s": "Sadness wants to do her duty but by accident causes the loss of Riley’s happy core memories with Joy.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "悲伤想履行她的职责，却意外导致莱莉的快乐核心记忆与乐乐一起丢失。"
+        },
+        {
+          "s": "Key duties include exploring the islands of the reef and finding out what the area has to offer.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "主要职责包括探索珊瑚礁的岛屿并了解该地区有哪些资源。"
+        }
+      ]
+    },
+    {
+      "def": "a tax that you pay on things that you buy, especially those that you bring into a country 税；（尤指进口货品）关税",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "double duty",
+      "cn": "两倍的 责任",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "do double duty",
+      "cn": "做 两倍的 责任",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "sense of duty",
+      "cn": "感觉官能 的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "their duty",
+      "cn": "他们的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "done their duty",
+      "cn": "做 他们的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "duty and would probably",
+      "cn": "责任 与 将 几乎肯定",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "my duty",
+      "cn": "我的 责任",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "was my duty",
+      "cn": "是 我的 责任",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

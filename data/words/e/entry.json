@@ -1,1 +1,164 @@
-{"meta":{"ph":"ˈentri; NAmE ˈentri","pos":"noun","stars":"★★"},"defs":[{"def":"an act of going into or getting into a place 进入（指行动）","ex":[]},{"def":"the right or opportunity to enter a place 进入（指权利、机会）","ex":[{"s":"My marks plummet; I do badly in my examinations; I am refused entry to university.","src":"外研社B7 U6","cat":"waiyan","t":"我的成绩一落千丈；我考试考得很差；我被大学拒之门外。"}]},{"def":"the right or opportunity to take part in sth or become a member of a group 参与，加入（指权利、机会）","ex":[]},{"def":"something that you do, write or make to take part in a competition, for example answering a set of questions 参赛作品；竞赛答题","ex":[{"s":"■Mail your entry to us by October 31 this year.","src":"2020全国新高考I卷·阅读理解A","cat":"gaokao","year":2020,"t":"■在今年10月31日前将你的参赛作品邮寄给我们。"},{"s":"Mailing your entry on October 30.","src":"2020全国新高考I卷·阅读理解A","cat":"gaokao","year":2020,"t":"在10月30日邮寄参赛作品。"},{"s":"We have received over 500 entries and have been amazed by your imaginations!","src":"外研社B6 U4","cat":"waiyan","t":"我们收到了 500 多份参赛作品，你们的想象力令我们惊叹不已！"},{"s":"Write about your festival experience 1 Read the diary entry and answer the questions.","src":"人教B3 U1","cat":"renjiao","t":"写下你的节日经历 1 阅读这篇日记，并回答问题。"}]},{"def":"the act of taking part in a competition, race, etc. 参赛","ex":[]},{"def":"the total number of people who are taking part in a competition, race, etc. 参赛人数","ex":[]},{"def":"an item, for example a piece of information, that is written or printed in a dictionary, an account book, a diary, etc. 项目；条目；词条；账目；记录","ex":[{"s":"What you did on the spacecraft: How you felt: What you enjoyed most/least: Now write your journal entry.","src":"外研社B7 U6","cat":"waiyan","t":"你在宇宙飞船上的行动： 你的感受： 你最喜欢/最不喜欢什么： 现在写下你的日志条目。"},{"s":"I decided that I wanted to learn as many words as I could and started marking every entry I looked up with a pencil to measure my progress.","src":"2026新高考I卷·阅读理解B","cat":"gaokao","year":2026,"t":"那时我决心要尽可能多地学单词，并开始用铅笔标记每一个查过的词条，以此来衡量自己的进步。"},{"s":"Students record short entries after each partner meeting noting the language skills practised and the topics discussed.","src":"2024北京卷·阅读理解A","cat":"gaokao","year":2024,"t":"学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"},{"s":"Here is an entry from a commonly used dictionary.","src":"人教B1 U5","cat":"renjiao","t":"这是一本常用词典里的一个词条。"}]},{"def":"the act of recording information in a computer, book, etc. 登记；登录；录入","ex":[]},{"def":"a door, gate or passage where you enter a building; an entrance hall 大门；入口处；通道；门厅","ex":[{"s":"Stories are an entry point to understanding a different experience of the world.","src":"2023天津6月卷·阅读理解D","cat":"gaokao","year":2023,"t":"故事是理解不同世界体验的入口。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈentri; NAmE ˈentri",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "an act of going into or getting into a place 进入（指行动）",
+      "ex": []
+    },
+    {
+      "def": "the right or opportunity to enter a place 进入（指权利、机会）",
+      "ex": [
+        {
+          "s": "My marks plummet; I do badly in my examinations; I am refused entry to university.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "我的成绩一落千丈；我考试考得很差；我被大学拒之门外。"
+        }
+      ]
+    },
+    {
+      "def": "the right or opportunity to take part in sth or become a member of a group 参与，加入（指权利、机会）",
+      "ex": []
+    },
+    {
+      "def": "something that you do, write or make to take part in a competition, for example answering a set of questions 参赛作品；竞赛答题",
+      "ex": [
+        {
+          "s": "■Mail your entry to us by October 31 this year.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "■在今年10月31日前将你的参赛作品邮寄给我们。"
+        },
+        {
+          "s": "Mailing your entry on October 30.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在10月30日邮寄参赛作品。"
+        },
+        {
+          "s": "We have received over 500 entries and have been amazed by your imaginations!",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "我们收到了 500 多份参赛作品，你们的想象力令我们惊叹不已！"
+        },
+        {
+          "s": "Write about your festival experience 1 Read the diary entry and answer the questions.",
+          "src": "人教B3 U1",
+          "cat": "renjiao",
+          "t": "写下你的节日经历 1 阅读这篇日记，并回答问题。"
+        }
+      ]
+    },
+    {
+      "def": "the act of taking part in a competition, race, etc. 参赛",
+      "ex": []
+    },
+    {
+      "def": "the total number of people who are taking part in a competition, race, etc. 参赛人数",
+      "ex": []
+    },
+    {
+      "def": "an item, for example a piece of information, that is written or printed in a dictionary, an account book, a diary, etc. 项目；条目；词条；账目；记录",
+      "ex": [
+        {
+          "s": "What you did on the spacecraft: How you felt: What you enjoyed most/least: Now write your journal entry.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "你在宇宙飞船上的行动： 你的感受： 你最喜欢/最不喜欢什么： 现在写下你的日志条目。"
+        },
+        {
+          "s": "I decided that I wanted to learn as many words as I could and started marking every entry I looked up with a pencil to measure my progress.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "那时我决心要尽可能多地学单词，并开始用铅笔标记每一个查过的词条，以此来衡量自己的进步。"
+        },
+        {
+          "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
+          "src": "2024北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
+        },
+        {
+          "s": "Here is an entry from a commonly used dictionary.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "这是一本常用词典里的一个词条。"
+        }
+      ]
+    },
+    {
+      "def": "the act of recording information in a computer, book, etc. 登记；登录；录入",
+      "ex": []
+    },
+    {
+      "def": "a door, gate or passage where you enter a building; an entrance hall 大门；入口处；通道；门厅",
+      "ex": [
+        {
+          "s": "Stories are an entry point to understanding a different experience of the world.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "故事是理解不同世界体验的入口。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "your entry",
+      "cn": "你的 进入",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "refused entry",
+      "cn": "拒绝 进入",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "entry to university",
+      "cn": "进入 去 大学",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "am refused entry",
+      "cn": "是 拒绝 进入",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "entry to us",
+      "cn": "进入 去 我们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "your entry to",
+      "cn": "你的 进入 去",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mail your entry",
+      "cn": "邮政 你的 进入",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "entry on october",
+      "cn": "进入 在…上",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

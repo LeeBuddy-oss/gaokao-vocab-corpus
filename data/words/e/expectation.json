@@ -1,1 +1,125 @@
-{"meta": {"ph": "ˌekspekˈteɪʃn; NAmE ˌekspekˈteɪʃn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a belief that sth will happen because it is likely 预料；预期；期待", "ex": [{"s": "Many scientists shared the commonsense expectation that as permafrost melted, lakes would at first expand with meltwater flowing into them.", "src": "2024天津3月卷·Passage 4", "cat": "gaokao", "year": 2024, "t": "我受邀去华盛顿西部一位老朋友的农场参加烧烤聚会。"}, {"s": "Expectations for future studies.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "对未来研究的展望。"}, {"s": "created a large number of works beyond his expectations", "src": "2020天津3月卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "创作了大量超出他预期的作品"}, {"s": "He performed beyond everyone's expectations with his accurate shooting and continuous efforts.", "src": "外研社B4 U3", "cat": "waiyan", "t": "他凭借精准的投篮和持续的努力，打出了超出所有人预期的表现。"}]}, {"def": "a hope that sth good will happen 希望；盼望", "ex": []}, {"def": "a strong belief about the way sth should happen or how sb should behave 期望；指望", "ex": [{"s": "This often appears at the beginning of a story, or a chapter, and helps the reader develop expectations about the coming events in a story.", "src": "外研社B6 U4", "cat": "waiyan", "t": "这通常出现在故事的开头或章节中，帮助读者对故事中即将发生的事件产生期望。"}, {"s": "Second, if other factors such as technology remain constant, economic growth and material expectations will fall well below recent standards and this could invite trouble.", "src": "2017江苏卷·Population Change", "cat": "gaokao", "year": 2017, "t": "其次，如果技术等其他因素保持不变，经济增长和物质期望将远低于近期标准，这可能引发麻烦。"}, {"s": "Whatever the reasons, they come with expectations.", "src": "外研社B7 U6", "cat": "waiyan", "t": "不管是什么原因，他们都是带着期望来的。"}, {"s": "So, living to 150 might be a realistic expectation for is a certain amount of destiny with the genes you are born and healthy for longer.", "src": "北师大选必3 U9", "cat": "beishida", "t": "所以，活到 150 岁可能是一个现实的期望，因为你与生俱来的基因和……健康地活更久，有一定程度的命运因素。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˌekspekˈteɪʃn; NAmE ˌekspekˈteɪʃn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a belief that sth will happen because it is likely 预料；预期；期待",
+      "ex": [
+        {
+          "s": "Many scientists shared the commonsense expectation that as permafrost melted, lakes would at first expand with meltwater flowing into them.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我受邀去华盛顿西部一位老朋友的农场参加烧烤聚会。"
+        },
+        {
+          "s": "Expectations for future studies.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "对未来研究的展望。"
+        },
+        {
+          "s": "created a large number of works beyond his expectations",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "创作了大量超出他预期的作品"
+        },
+        {
+          "s": "He performed beyond everyone's expectations with his accurate shooting and continuous efforts.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "他凭借精准的投篮和持续的努力，打出了超出所有人预期的表现。"
+        }
+      ]
+    },
+    {
+      "def": "a hope that sth good will happen 希望；盼望",
+      "ex": []
+    },
+    {
+      "def": "a strong belief about the way sth should happen or how sb should behave 期望；指望",
+      "ex": [
+        {
+          "s": "This often appears at the beginning of a story, or a chapter, and helps the reader develop expectations about the coming events in a story.",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "这通常出现在故事的开头或章节中，帮助读者对故事中即将发生的事件产生期望。"
+        },
+        {
+          "s": "Second, if other factors such as technology remain constant, economic growth and material expectations will fall well below recent standards and this could invite trouble.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "其次，如果技术等其他因素保持不变，经济增长和物质期望将远低于近期标准，这可能引发麻烦。"
+        },
+        {
+          "s": "Whatever the reasons, they come with expectations.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "不管是什么原因，他们都是带着期望来的。"
+        },
+        {
+          "s": "So, living to 150 might be a realistic expectation for is a certain amount of destiny with the genes you are born and healthy for longer.",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "所以，活到 150 岁可能是一个现实的期望，因为你与生俱来的基因和……健康地活更久，有一定程度的命运因素。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "commonsense expectation",
+      "cn": "预料",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the commonsense expectation",
+      "cn": "该 预料",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "expectation that as permafrost",
+      "cn": "预料 那个 作为",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "expectations for future",
+      "cn": "预料 为了 将来",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "his expectations",
+      "cn": "他的 预料",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "beyond his expectations",
+      "cn": "超出 他的 预料",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "everyone's expectations",
+      "cn": "预料",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "expectations with his",
+      "cn": "预料 与 他的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

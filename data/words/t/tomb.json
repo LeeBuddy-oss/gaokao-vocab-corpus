@@ -1,1 +1,101 @@
-{"meta": {"ph": "tuːm; NAmE tuːm", "pos": "noun", "stars": "★"}, "defs": [{"def": "a large grave, especially one built of stone above or below the ground 坟墓；冢", "ex": [{"s": "The house seemed quiet as a tomb without the boy living there.", "src": "2020浙江1月卷·读后续写", "cat": "gaokao", "year": 2020, "t": "没有男孩住在那里，房子安静得像座坟墓。"}, {"s": "Your friend, Richard Come and see the Terracotta Army: more than 8,000 statues were made in the third century BCE to guard the tomb of the Chinese Emperor Qinshihuang!", "src": "人教B1 U2", "cat": "renjiao", "t": "你的朋友理查德来看Terracotta军团：在3世纪BCE制造了8000多尊雕像，以守卫中国皇帝秦庄公墓!."}, {"s": "The statues fill only one part of the emperor’s huge tomb, which still has not been completely unearthed.", "src": "人教B1 U2", "cat": "renjiao", "t": "雕像仅填补了皇帝庞大墓穴的一部分，至今尚未完全发掘。"}, {"s": "More than 700,000 people worked for nearly 40 years to build this tomb.", "src": "人教B1 U2", "cat": "renjiao", "t": "70多万人在将近40年的时间里为建造这座坟墓而工作。"}, {"s": "However, no one in modern times knew about the tomb or the terracotta statues until 1974, when some farmers discovered the tomb while they were digging a well!", "src": "人教B1 U2", "cat": "renjiao", "t": "然而，直到 1974 年，现代人才知道这座陵墓和兵马俑的存在，当时一些农民在挖井时发现了这座陵墓！"}, {"s": "The relics were found in the tomb of Haihunhou, where experts have been digging since 2011.", "src": "人教B2 U5", "cat": "renjiao", "t": "文物发现于海洪侯墓,2011年起专家在此进行发掘。"}]}], "chunks": [{"en": "huge tomb", "cn": "巨大的坟墓", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "tuːm; NAmE tuːm",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a large grave, especially one built of stone above or below the ground 坟墓；冢",
+      "ex": [
+        {
+          "s": "The house seemed quiet as a tomb without the boy living there.",
+          "src": "2020浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "没有男孩住在那里，房子安静得像座坟墓。"
+        },
+        {
+          "s": "Your friend, Richard Come and see the Terracotta Army: more than 8,000 statues were made in the third century BCE to guard the tomb of the Chinese Emperor Qinshihuang!",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "你的朋友理查德来看Terracotta军团：在3世纪BCE制造了8000多尊雕像，以守卫中国皇帝秦庄公墓!."
+        },
+        {
+          "s": "The statues fill only one part of the emperor’s huge tomb, which still has not been completely unearthed.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "雕像仅填补了皇帝庞大墓穴的一部分，至今尚未完全发掘。"
+        },
+        {
+          "s": "More than 700,000 people worked for nearly 40 years to build this tomb.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "70多万人在将近40年的时间里为建造这座坟墓而工作。"
+        },
+        {
+          "s": "However, no one in modern times knew about the tomb or the terracotta statues until 1974, when some farmers discovered the tomb while they were digging a well!",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "然而，直到 1974 年，现代人才知道这座陵墓和兵马俑的存在，当时一些农民在挖井时发现了这座陵墓！"
+        },
+        {
+          "s": "The relics were found in the tomb of Haihunhou, where experts have been digging since 2011.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "文物发现于海洪侯墓,2011年起专家在此进行发掘。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "tomb without the boy",
+      "cn": "坟墓 没有 该 男孩",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "guard the tomb",
+      "cn": "卫兵 该 坟墓",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tomb of the chinese",
+      "cn": "坟墓 的 该 中国人",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "huge tomb",
+      "cn": "巨大的 坟墓",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tomb which still",
+      "cn": "坟墓 哪个 还",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "s huge tomb",
+      "cn": "巨大的 坟墓",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "build this tomb",
+      "cn": "建筑 这个 坟墓",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tomb or the terracotta",
+      "cn": "坟墓 或 该",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

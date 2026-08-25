@@ -1,1 +1,125 @@
-{"meta": {"ph": "ˈpraɪə(r); NAmE ˈpraɪər", "pos": "adjective", "stars": "★★"}, "defs": [{"def": "happening or existing before sth else or before a particular time 先前的；较早的；在前的", "ex": [{"s": "Learn from prior experience to slow it down.", "src": "2024新高考II卷·阅读理解D", "cat": "gaokao", "year": 2024, "t": "Taylor迅速的行动帮助队友冷静下来。"}, {"s": "George: Nora: Pitt: Use your prior knowledge If you come across a topic you are familiar with, you can think about what you already know about it before you listen.", "src": "人教选必3 U5", "cat": "renjiao", "t": "运用你先前的知识 如果你碰到一个你熟悉的话题，在你听之前可以想想你已经知道的关于它的内容。"}, {"s": "Using prior knowledge will make it easier for you to predict what you will hear.", "src": "人教选必3 U5", "cat": "renjiao", "t": "运用先前的知识将使你更容易预测你将听到的内容。"}]}, {"def": "already existing and therefore more important 优先的；占先的；较重要的", "ex": []}, {"def": "before sth 在 … 前面的", "ex": [{"s": "Prior to SLEAP, tracking the physical characteristics of both plants and animals required a lot of labor that slowed the scientific process.", "src": "2026浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "在SLEAP出现之前，追踪动植物物理特征需要大量人工，拖慢了科研进程。"}, {"s": "Prior to that, the only great historical works I had been exposed to were Homer’s epic poems.", "src": "外研社B7 U3", "cat": "waiyan", "t": "在那之前，我接触过的仅有的一些伟大历史著作是荷马的史诗。"}, {"s": "Prior to coming to China, my only experience with Chinese cooking was in America, with Chinese food that had been changed to suit American tastes.", "src": "人教选必2 U3", "cat": "renjiao", "t": "来中国之前，我对中国烹饪的唯一体验是在美国，吃的都是已经改得适合美国口味的中国菜。"}, {"s": "Prior to modern food processing and storage techniques and the use of greenhouses, most food was essentially seasonal in nature.", "src": "人教选必2 U5", "cat": "renjiao", "t": "在现代食品加工、储存技术和温室使用之前，大多数食物本质上是季节性的。"}]}, {"def": "a person who is in charge of a group of monks or nuns living in a priory （小隐修院）上司", "ex": []}, {"def": "(in an abbey) a person next in rank below an abbot or abbess （隐修院）会长，副院长", "ex": []}], "chunks": [{"en": "prior to", "cn": "先于", "type": "形容词搭配", "count": 5}, {"en": "be prior to", "cn": "先于", "type": "形容词搭配", "count": 4}]}
+{
+  "meta": {
+    "ph": "ˈpraɪə(r); NAmE ˈpraɪər",
+    "pos": "adjective",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "happening or existing before sth else or before a particular time 先前的；较早的；在前的",
+      "ex": [
+        {
+          "s": "Learn from prior experience to slow it down.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "Taylor迅速的行动帮助队友冷静下来。"
+        },
+        {
+          "s": "George: Nora: Pitt: Use your prior knowledge If you come across a topic you are familiar with, you can think about what you already know about it before you listen.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "运用你先前的知识 如果你碰到一个你熟悉的话题，在你听之前可以想想你已经知道的关于它的内容。"
+        },
+        {
+          "s": "Using prior knowledge will make it easier for you to predict what you will hear.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "运用先前的知识将使你更容易预测你将听到的内容。"
+        }
+      ]
+    },
+    {
+      "def": "already existing and therefore more important 优先的；占先的；较重要的",
+      "ex": []
+    },
+    {
+      "def": "before sth 在 … 前面的",
+      "ex": [
+        {
+          "s": "Prior to SLEAP, tracking the physical characteristics of both plants and animals required a lot of labor that slowed the scientific process.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在SLEAP出现之前，追踪动植物物理特征需要大量人工，拖慢了科研进程。"
+        },
+        {
+          "s": "Prior to that, the only great historical works I had been exposed to were Homer’s epic poems.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "在那之前，我接触过的仅有的一些伟大历史著作是荷马的史诗。"
+        },
+        {
+          "s": "Prior to coming to China, my only experience with Chinese cooking was in America, with Chinese food that had been changed to suit American tastes.",
+          "src": "人教选必2 U3",
+          "cat": "renjiao",
+          "t": "来中国之前，我对中国烹饪的唯一体验是在美国，吃的都是已经改得适合美国口味的中国菜。"
+        },
+        {
+          "s": "Prior to modern food processing and storage techniques and the use of greenhouses, most food was essentially seasonal in nature.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "在现代食品加工、储存技术和温室使用之前，大多数食物本质上是季节性的。"
+        }
+      ]
+    },
+    {
+      "def": "a person who is in charge of a group of monks or nuns living in a priory （小隐修院）上司",
+      "ex": []
+    },
+    {
+      "def": "(in an abbey) a person next in rank below an abbot or abbess （隐修院）会长，副院长",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "prior knowledge",
+      "cn": "先前的 知识",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "prior experience",
+      "cn": "先前的 经验",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "from prior experience",
+      "cn": "从 先前的 经验",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "learn from prior",
+      "cn": "学 从 先前的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "your prior",
+      "cn": "你的 先前的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "prior knowledge if",
+      "cn": "先前的 知识 如果",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "use your prior",
+      "cn": "使用 你的 先前的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "using prior",
+      "cn": "先前的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

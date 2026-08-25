@@ -1,1 +1,100 @@
-{"meta":{"ph":"steɪk; NAmE steɪk","pos":"noun","stars":"★★"},"defs":[{"def":"a thick slice of good quality beef 牛排","ex":[{"s":"The origin of “hamburger” was a hard beef steak called “Hamburg steak”, eaten without bread.","src":"外研社B1 U2","cat":"waiyan","t":"\"汉堡\"的起源是一种叫做\"汉堡牛排\"的硬牛肉饼，吃的时候不加面包。"},{"s":"A fellow diner at the restaurant, Zhang Tao, was choking on some steak.","src":"人教选必2 U5","cat":"renjiao","t":"餐厅的一位同事张涛 被牛排窒息了"},{"s":"I was starving and rushed to put a steak on the barbecue.","src":"译林选必3 U1","cat":"yilin","t":"我饿得要忙着把牛排放在烤肉上"},{"s":"Then he ordersadishcalled\"steaktartare\".When the dish arrives, he is shocked to discover that \"steak tartare\" is actually raw hamburger.","src":"北师大选必2 U4","cat":"beishida","t":"然后他点了一道叫＂鞑靼牛排＂的菜。当菜端上来时，他震惊地发现＂鞑靼牛排＂其实就是生汉堡肉。"}]},{"def":"a thick slice of any type of meat 肉排；肉块","ex":[]},{"def":"beef that is not of the best quality, often sold in small pieces and used in pies, stews, etc. 常构成复合词","ex":[]},{"def":"a large thick piece of fish 鱼排；鱼块","ex":[]}],"chunks":[{"en":"beef steak","cn":"牛肉牛排","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "steɪk; NAmE steɪk",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a thick slice of good quality beef 牛排",
+      "ex": [
+        {
+          "s": "The origin of “hamburger” was a hard beef steak called “Hamburg steak”, eaten without bread.",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "\"汉堡\"的起源是一种叫做\"汉堡牛排\"的硬牛肉饼，吃的时候不加面包。"
+        },
+        {
+          "s": "A fellow diner at the restaurant, Zhang Tao, was choking on some steak.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "餐厅的一位同事张涛 被牛排窒息了"
+        },
+        {
+          "s": "I was starving and rushed to put a steak on the barbecue.",
+          "src": "译林选必3 U1",
+          "cat": "yilin",
+          "t": "我饿得要忙着把牛排放在烤肉上"
+        },
+        {
+          "s": "Then he ordersadishcalled\"steaktartare\".When the dish arrives, he is shocked to discover that \"steak tartare\" is actually raw hamburger.",
+          "src": "北师大选必2 U4",
+          "cat": "beishida",
+          "t": "然后他点了一道叫＂鞑靼牛排＂的菜。当菜端上来时，他震惊地发现＂鞑靼牛排＂其实就是生汉堡肉。"
+        }
+      ]
+    },
+    {
+      "def": "a thick slice of any type of meat 肉排；肉块",
+      "ex": []
+    },
+    {
+      "def": "beef that is not of the best quality, often sold in small pieces and used in pies, stews, etc. 常构成复合词",
+      "ex": []
+    },
+    {
+      "def": "a large thick piece of fish 鱼排；鱼块",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "steak called",
+      "cn": "牛排 给 … 命名",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "beef steak",
+      "cn": "牛肉 牛排",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hard beef steak",
+      "cn": "坚固的 牛肉 牛排",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "steak eaten",
+      "cn": "牛排",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "hamburg steak",
+      "cn": "牛排",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "called hamburg steak",
+      "cn": "给 … 命名 牛排",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "put a steak",
+      "cn": "放 一个 牛排",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "steak on the barbecue",
+      "cn": "牛排 在…上 该 烤架",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

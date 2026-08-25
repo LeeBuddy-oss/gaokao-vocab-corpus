@@ -1,1 +1,122 @@
-{"meta": {"ph": "səˈraʊndɪŋ; NAmE səˈraʊndɪŋ", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "that is near or around sth 周围的；附近的", "ex": [{"s": "If you’re among the groups of people who are enjoying the mental and physical health benefits of surrounding yourself with plants, don’t beat yourself up if one (or a few!) doesn’t make it.", "src": "2025新高考II卷·阅读理解C", "cat": "gaokao", "year": 2025, "t": "如果你属于那些享受与植物为伴带来的身心健康益处的人群，不要因为一两棵植物没养活而自责。"}, {"s": "In addition, there’s no need for pesticides and other chemicals that pollute traditional farms and the surrounding environment.", "src": "2024新高考II卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "此外，还不需要杀虫剂和其他污染传统农场及周边环境的化学品。"}, {"s": "（4）Why do the hikers take no notice of the surroundings during the journey？", "src": "2018天津卷·阅读理解D", "cat": "gaokao", "year": 2018, "t": "（4）为什么徒步者在旅途期间对周围的环境毫不在意？"}, {"s": "Soil surrounding the sequoia in its original location was relocated as well, because trees are more likely to survive a transplant when they move with their original soil.", "src": "2018上海卷", "cat": "gaokao", "year": 2018, "t": "红杉原址周围的土壤也一并迁移，因为带着原土移植，树更可能存活。"}, {"s": "Settings: time, location and descriptions of the environment or surroundings help your readers picture the scene.", "src": "外研社B1 U4", "cat": "waiyan", "t": "设置：时间、地点以及对环境或周围环境的描述有助于你的读者在脑海中构想出场景。"}, {"s": "Not only do they provide us with food, clothes and oxygen to breathe, but they also make our surroundings more beautiful.", "src": "外研社B1 U6", "cat": "waiyan", "t": "它们不仅为我们提供食物、衣物和呼吸所需的氧气，还使我们周围的环境更加美丽。"}, {"s": "When Riley moves to a new city, she has a hard time adjusting to her new surroundings.", "src": "外研社B3 U1", "cat": "waiyan", "t": "当莱利搬到一个新的城市时，她很难适应新的环境。"}, {"s": "He did field research across China and studied more than a thousand rivers and streams, along with the landscape, history and culture of the surrounding areas.", "src": "外研社B3 U3", "cat": "waiyan", "t": "他在中国各地进行了实地研究，研究了1000多条河流和溪流，同时研究了周边地区的景观，历史和文化。"}, {"s": "Three -dimensional (3D) animation means that viewers can see the characters move around and interact with their surroundings.", "src": "外研社B4 U4", "cat": "waiyan", "t": "三维(3D)动画意味着观众可以看到角色在周围移动并与周围环境互动。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "səˈraʊndɪŋ; NAmE səˈraʊndɪŋ",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "that is near or around sth 周围的；附近的",
+      "ex": [
+        {
+          "s": "If you’re among the groups of people who are enjoying the mental and physical health benefits of surrounding yourself with plants, don’t beat yourself up if one (or a few!) doesn’t make it.",
+          "src": "2025新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "如果你属于那些享受与植物为伴带来的身心健康益处的人群，不要因为一两棵植物没养活而自责。"
+        },
+        {
+          "s": "In addition, there’s no need for pesticides and other chemicals that pollute traditional farms and the surrounding environment.",
+          "src": "2024新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "此外，还不需要杀虫剂和其他污染传统农场及周边环境的化学品。"
+        },
+        {
+          "s": "（4）Why do the hikers take no notice of the surroundings during the journey？",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "（4）为什么徒步者在旅途期间对周围的环境毫不在意？"
+        },
+        {
+          "s": "Soil surrounding the sequoia in its original location was relocated as well, because trees are more likely to survive a transplant when they move with their original soil.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "红杉原址周围的土壤也一并迁移，因为带着原土移植，树更可能存活。"
+        },
+        {
+          "s": "Settings: time, location and descriptions of the environment or surroundings help your readers picture the scene.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "设置：时间、地点以及对环境或周围环境的描述有助于你的读者在脑海中构想出场景。"
+        },
+        {
+          "s": "Not only do they provide us with food, clothes and oxygen to breathe, but they also make our surroundings more beautiful.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "它们不仅为我们提供食物、衣物和呼吸所需的氧气，还使我们周围的环境更加美丽。"
+        },
+        {
+          "s": "When Riley moves to a new city, she has a hard time adjusting to her new surroundings.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "当莱利搬到一个新的城市时，她很难适应新的环境。"
+        },
+        {
+          "s": "He did field research across China and studied more than a thousand rivers and streams, along with the landscape, history and culture of the surrounding areas.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "他在中国各地进行了实地研究，研究了1000多条河流和溪流，同时研究了周边地区的景观，历史和文化。"
+        },
+        {
+          "s": "Three -dimensional (3D) animation means that viewers can see the characters move around and interact with their surroundings.",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "t": "三维(3D)动画意味着观众可以看到角色在周围移动并与周围环境互动。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "surrounding yourself",
+      "cn": "周围的 的反身形式",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "of surrounding yourself",
+      "cn": "的 周围的 的反身形式",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "benefits of surrounding",
+      "cn": "优势 的 周围的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "surrounding environment",
+      "cn": "周围的 环境",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the surrounding environment",
+      "cn": "该 周围的 环境",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "surroundings during",
+      "cn": "周围的 在 … 期间",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the surroundings during",
+      "cn": "该 周围的 在 … 期间",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "soil surrounding",
+      "cn": "土壤 周围的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

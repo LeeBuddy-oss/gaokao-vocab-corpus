@@ -1,1 +1,150 @@
-{"meta": {"ph": "əˈlɪmpɪk; NAmE əˈlɪmpɪk", "pos": "adj.", "stars": ""}, "defs": [{"def": "connected with the Olympic Games 奥林匹克运动会的", "ex": [{"s": "A swimmer training to win an Olympic medal.", "src": "2024天津3月卷·阅读Passage 1", "cat": "gaokao", "year": 2024, "t": "一名为赢得奥运奖牌而训练的游泳运动员。"}, {"s": "Junior Ranger Wildlife Olympics (June 5 to August 21)", "src": "2023新课标II卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "少年游侠野生动物奥运会(6月5日至8月21日)"}, {"s": "Junior Ranger Wildlife Olympics.", "src": "2023新课标II卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "少年护林员野生动物奥运会。"}, {"s": "The International Olympic Committee(IOC)Young Leaders programme empowers talents to make a positive difference in their communities through sport.", "src": "2023北京卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "国际奥委会（IOC）青年领袖项目赋能人才通过体育在社区产生积极影响。"}, {"s": "They promote the Olympic values, spreading the message of sport for good.", "src": "2023北京卷·阅读理解A", "cat": "gaokao", "year": 2023, "t": "他们推广奥林匹克价值观，传播\"体育向善\"的信息。"}, {"s": "Why was the 2016 Olympics important for the speaker?", "src": "2022全国甲卷", "cat": "gaokao", "year": 2022, "t": "为什么2016年奥运会对说话者很重要？"}, {"s": "The longest track and field event at the Summer Olympics is the 50-kilometer race walk, which is about five miles longer than the marathon.", "src": "2020全国I卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "夏季奥运会最长的田径项目是50公里竞走，比马拉松长约5英里。"}, {"s": "It’s more popular at the Olympics.", "src": "2020全国I卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "它在奥运会上更受欢迎。"}, {"s": "He is the 2012 and 2016 Olympic gold medalist in the triathlon.", "src": "外研社B1 U6", "cat": "waiyan", "t": "他是2012年和2016年奥运会铁人三项金牌得主。"}, {"s": "He won the 2012 World Championship, placed third in the 2012 Olympics and second in the 2016 Olympics.", "src": "外研社B1 U6", "cat": "waiyan", "t": "他曾获得2012年世界锦标赛冠军,2012年奥运排名第三,2016年奥运排名第二。"}, {"s": "Take the Underground to the Olympic Sports Centre.", "src": "外研社B1 U6", "cat": "waiyan", "t": "乘地铁去奥林匹克体育中心。"}, {"s": "If China wins this point, they will walk out of the stadium with an Olympic gold medal.", "src": "外研社B4 U3", "cat": "waiyan", "t": "如果中国赢了这一分，他们将带着奥运金牌走出体育场。"}, {"s": "The Chinese women's volleyball team is Olympic champion once again!” 2 The Chinese women's volleyball team holds a very special place in the nation's heart.", "src": "外研社B4 U3", "cat": "waiyan", "t": "中国女排再次成为奥运冠军！ ”2中国女排在国家心中占有非常特殊的地位。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "əˈlɪmpɪk; NAmE əˈlɪmpɪk",
+    "pos": "adj.",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "connected with the Olympic Games 奥林匹克运动会的",
+      "ex": [
+        {
+          "s": "A swimmer training to win an Olympic medal.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "一名为赢得奥运奖牌而训练的游泳运动员。"
+        },
+        {
+          "s": "Junior Ranger Wildlife Olympics (June 5 to August 21)",
+          "src": "2023新课标II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "少年游侠野生动物奥运会(6月5日至8月21日)"
+        },
+        {
+          "s": "Junior Ranger Wildlife Olympics.",
+          "src": "2023新课标II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "少年护林员野生动物奥运会。"
+        },
+        {
+          "s": "The International Olympic Committee(IOC)Young Leaders programme empowers talents to make a positive difference in their communities through sport.",
+          "src": "2023北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "国际奥委会（IOC）青年领袖项目赋能人才通过体育在社区产生积极影响。"
+        },
+        {
+          "s": "They promote the Olympic values, spreading the message of sport for good.",
+          "src": "2023北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他们推广奥林匹克价值观，传播\"体育向善\"的信息。"
+        },
+        {
+          "s": "Why was the 2016 Olympics important for the speaker?",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "为什么2016年奥运会对说话者很重要？"
+        },
+        {
+          "s": "The longest track and field event at the Summer Olympics is the 50-kilometer race walk, which is about five miles longer than the marathon.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "夏季奥运会最长的田径项目是50公里竞走，比马拉松长约5英里。"
+        },
+        {
+          "s": "It’s more popular at the Olympics.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它在奥运会上更受欢迎。"
+        },
+        {
+          "s": "He is the 2012 and 2016 Olympic gold medalist in the triathlon.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "他是2012年和2016年奥运会铁人三项金牌得主。"
+        },
+        {
+          "s": "He won the 2012 World Championship, placed third in the 2012 Olympics and second in the 2016 Olympics.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "他曾获得2012年世界锦标赛冠军,2012年奥运排名第三,2016年奥运排名第二。"
+        },
+        {
+          "s": "Take the Underground to the Olympic Sports Centre.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "乘地铁去奥林匹克体育中心。"
+        },
+        {
+          "s": "If China wins this point, they will walk out of the stadium with an Olympic gold medal.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "如果中国赢了这一分，他们将带着奥运金牌走出体育场。"
+        },
+        {
+          "s": "The Chinese women's volleyball team is Olympic champion once again!” 2 The Chinese women's volleyball team holds a very special place in the nation's heart.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "中国女排再次成为奥运冠军！ ”2中国女排在国家心中占有非常特殊的地位。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "wildlife olympics",
+      "cn": "奥林匹克运动会的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "ranger wildlife olympics",
+      "cn": "奥林匹克运动会的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "olympic gold",
+      "cn": "奥林匹克运动会的 金",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "olympic medal",
+      "cn": "奥林匹克运动会的 奖章",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "an olympic medal",
+      "cn": "一个 奥林匹克运动会的 奖章",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "win an olympic",
+      "cn": "获胜 一个 奥林匹克运动会的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "olympics june",
+      "cn": "奥林匹克运动会的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "wildlife olympics june",
+      "cn": "奥林匹克运动会的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

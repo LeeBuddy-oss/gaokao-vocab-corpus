@@ -1,1 +1,142 @@
-{"meta":{"ph":"ədˈvaɪz; NAmE ədˈvaɪz","pos":"verb","stars":""},"defs":[{"def":"to tell sb what you think they should do in a particular situation 劝告；忠告；建议","ex":[{"s":"work on a sport-based projectD. coach and advise their peers","src":"2023北京卷·阅读理解A","cat":"gaokao","t":"实施一个基于体育的项目 D. 指导并建议同伴","year":2023},{"s":"I’m certainly not going to advise my friend or anyone else to invest in quantum computers.","src":"2022北京卷·阅读理解D","cat":"gaokao","t":"我当然不会建议我的朋友或任何人投资量子计算机。","year":2022},{"s":"8 What does the man advise Mrs White to do?","src":"2021全国甲卷","cat":"gaokao","t":"8 男士建议怀特太太做什么？","year":2021},{"s":"What does the man advise MrsWhite to do?","src":"2021全国乙卷","cat":"gaokao","t":"男士建议怀特太太做什么？","year":2021},{"s":"Anger is rarely looked upon as a beneficial character trait, and is usually advised to reduce it.","src":"2018北京卷·Why Do We Get Angry?","cat":"gaokao","t":"愤怒很少被视为一种有益的性格特质，通常人们会被建议要减少愤怒。","year":2018},{"s":"What are the elderly advised to do?","src":"2017浙江卷","cat":"gaokao","t":"老年人被建议做什么？","year":2017},{"s":"What are the elderly advised to do?","src":"2017江苏卷","cat":"gaokao","t":"老年人被建议做什么？","year":2017},{"s":"Father: But in the end, you just advised me to think carefully.","src":"外研社B1 U3","cat":"waiyan","t":"父亲：但到最后，你只是建议我仔细考虑一下。","year":""},{"s":"Our waiter advised us to lift the plates and bowls close to our faces.","src":"外研社B4 U2","cat":"waiyan","t":"我们的服务员建议我们把盘子和碗举到靠近脸的地方。","year":""},{"s":"They advise people to stay indoors and avoid exercise.","src":"外研社B5 U6","cat":"waiyan","t":"他们建议人们待在室内，避免运动。","year":""}]},{"def":"to give sb help and information on a subject that you know a lot about 出主意；提出建议；提供咨询","ex":[]},{"def":"to officially tell sb sth 通知；正式告知","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ədˈvaɪz; NAmE ədˈvaɪz",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to tell sb what you think they should do in a particular situation 劝告；忠告；建议",
+      "ex": [
+        {
+          "s": "work on a sport-based projectD. coach and advise their peers",
+          "src": "2023北京卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "实施一个基于体育的项目 D. 指导并建议同伴",
+          "year": 2023
+        },
+        {
+          "s": "I’m certainly not going to advise my friend or anyone else to invest in quantum computers.",
+          "src": "2022北京卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "我当然不会建议我的朋友或任何人投资量子计算机。",
+          "year": 2022
+        },
+        {
+          "s": "8 What does the man advise Mrs White to do?",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "t": "8 男士建议怀特太太做什么？",
+          "year": 2021
+        },
+        {
+          "s": "What does the man advise MrsWhite to do?",
+          "src": "2021全国乙卷",
+          "cat": "gaokao",
+          "t": "男士建议怀特太太做什么？",
+          "year": 2021
+        },
+        {
+          "s": "Anger is rarely looked upon as a beneficial character trait, and is usually advised to reduce it.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "t": "愤怒很少被视为一种有益的性格特质，通常人们会被建议要减少愤怒。",
+          "year": 2018
+        },
+        {
+          "s": "What are the elderly advised to do?",
+          "src": "2017浙江卷",
+          "cat": "gaokao",
+          "t": "老年人被建议做什么？",
+          "year": 2017
+        },
+        {
+          "s": "What are the elderly advised to do?",
+          "src": "2017江苏卷",
+          "cat": "gaokao",
+          "t": "老年人被建议做什么？",
+          "year": 2017
+        },
+        {
+          "s": "Father: But in the end, you just advised me to think carefully.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "父亲：但到最后，你只是建议我仔细考虑一下。",
+          "year": ""
+        },
+        {
+          "s": "Our waiter advised us to lift the plates and bowls close to our faces.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "我们的服务员建议我们把盘子和碗举到靠近脸的地方。",
+          "year": ""
+        },
+        {
+          "s": "They advise people to stay indoors and avoid exercise.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "他们建议人们待在室内，避免运动。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "to give sb help and information on a subject that you know a lot about 出主意；提出建议；提供咨询",
+      "ex": []
+    },
+    {
+      "def": "to officially tell sb sth 通知；正式告知",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "man advise",
+      "cn": "成年男子 劝告",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "the man advise",
+      "cn": "该 成年男子 劝告",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "elderly advised",
+      "cn": "人 劝告",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "the elderly advised",
+      "cn": "该 人 劝告",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "advise their",
+      "cn": "劝告 他们的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and advise their",
+      "cn": "与 劝告 他们的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "coach and advise",
+      "cn": "教练 与 劝告",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "advise my",
+      "cn": "劝告 我的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

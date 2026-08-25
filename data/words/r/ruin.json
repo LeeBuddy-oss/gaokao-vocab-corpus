@@ -1,1 +1,159 @@
-{"meta": {"ph": "ˈruːɪn; NAmE ˈruːɪn", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to damage sth so badly that it loses all its value, pleasure, etc; to spoil sth 毁坏；破坏；糟蹋", "ex": [{"s": "In the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined.", "src": "2026新高考I卷·读后续写", "cat": "gaokao", "year": 2026, "t": "在咖啡馆里，那对夫妇给 Emily 买了一杯热巧克力，并耐心地听她解释自己绝望的处境：她离目的地约有一百英里，车完全陷住了，整个假期计划可能毁于一旦。"}, {"s": "I realized that if I didn’t stop, the entire lecture would be ruined.", "src": "2025新高考II卷·读后续写", "cat": "gaokao", "year": 2025, "t": "我意识到如果我不停下来，整场讲座就会被毁掉。"}, {"s": "Little did I realize that single moment would ruin everything.", "src": "2025北京卷·完形填空", "cat": "gaokao", "year": 2025, "t": "如果你想要过上更可持续的生活方式，很有可能你身边的人并不会立刻加入你的行列。"}, {"s": "The birthday cake was ruined.", "src": "2021天津3月卷·阅读理解B", "cat": "gaokao", "year": 2021, "t": "生日蛋糕毁了。"}, {"s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.", "src": "2020浙江7月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"}, {"s": "Does Kilimanjaro   60   its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace？I found the opposite to be true.", "src": "2019全国I卷·完形填空", "cat": "gaokao", "year": 2019, "t": "乞力马扎罗山___60___它作为一座拥挤、游客排成长队破坏宁静氛围的山之名声了吗？我发现事实恰恰相反。"}]}, {"def": "to make sb/sth lose all their money, their position, etc. 使破产（或失去地位等）；毁灭", "ex": [{"s": "Who would want to ruin their good workout by eating junk food?", "src": "2018全国II卷·七选五", "cat": "gaokao", "year": 2018, "t": "谁会想通过吃垃圾食品来毁掉自己好好的锻炼成果呢？"}]}, {"def": "the state or process of being destroyed or severely damaged 毁坏；破坏；毁灭", "ex": []}, {"def": "the fact of having no money, of having lost your job, position, etc. 破产；一无所有；失去工作（或地位等）", "ex": []}, {"def": "something that causes a person, company, etc. to lose all their money, job, position, etc. 破产（或丢掉工作等）的根源；祸根", "ex": []}, {"def": "the parts of a building that remain after it has been destroyed or severely damaged 残垣断壁；废墟", "ex": [{"s": "Its once-great cities fell into ruin, leaving various mysteries for later people to solve.", "src": "外研社B7 U5", "cat": "waiyan", "t": "它曾经伟大的城市沦为废墟，留下各种谜团供后人去解开。"}, {"s": "Believed to have been buried underwater by a tsunami in the fourth century AD, the ruins of Neápolis are almost 2,000 years old.", "src": "外研社B7 U5", "cat": "waiyan", "t": "据信在公元四世纪被海啸淹没在水下，Neapolis的遗址已有近2000年的历史。"}, {"s": "In less than one minute, a large city lay in ruins.", "src": "人教B1 U4", "cat": "renjiao", "t": "不到一分钟，一座大城市就成了一片废墟。"}, {"s": "Everywhere survivors looked, there was nothing but ruins.", "src": "人教B1 U4", "cat": "renjiao", "t": "幸存者所到之处，除了废墟什么也没有。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈruːɪn; NAmE ˈruːɪn",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to damage sth so badly that it loses all its value, pleasure, etc; to spoil sth 毁坏；破坏；糟蹋",
+      "ex": [
+        {
+          "s": "In the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在咖啡馆里，那对夫妇给 Emily 买了一杯热巧克力，并耐心地听她解释自己绝望的处境：她离目的地约有一百英里，车完全陷住了，整个假期计划可能毁于一旦。"
+        },
+        {
+          "s": "I realized that if I didn’t stop, the entire lecture would be ruined.",
+          "src": "2025新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我意识到如果我不停下来，整场讲座就会被毁掉。"
+        },
+        {
+          "s": "Little did I realize that single moment would ruin everything.",
+          "src": "2025北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "如果你想要过上更可持续的生活方式，很有可能你身边的人并不会立刻加入你的行列。"
+        },
+        {
+          "s": "The birthday cake was ruined.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "生日蛋糕毁了。"
+        },
+        {
+          "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
+          "src": "2020浙江7月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
+        },
+        {
+          "s": "Does Kilimanjaro   60   its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace？I found the opposite to be true.",
+          "src": "2019全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "乞力马扎罗山___60___它作为一座拥挤、游客排成长队破坏宁静氛围的山之名声了吗？我发现事实恰恰相反。"
+        }
+      ]
+    },
+    {
+      "def": "to make sb/sth lose all their money, their position, etc. 使破产（或失去地位等）；毁灭",
+      "ex": [
+        {
+          "s": "Who would want to ruin their good workout by eating junk food?",
+          "src": "2018全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "谁会想通过吃垃圾食品来毁掉自己好好的锻炼成果呢？"
+        }
+      ]
+    },
+    {
+      "def": "the state or process of being destroyed or severely damaged 毁坏；破坏；毁灭",
+      "ex": []
+    },
+    {
+      "def": "the fact of having no money, of having lost your job, position, etc. 破产；一无所有；失去工作（或地位等）",
+      "ex": []
+    },
+    {
+      "def": "something that causes a person, company, etc. to lose all their money, job, position, etc. 破产（或丢掉工作等）的根源；祸根",
+      "ex": []
+    },
+    {
+      "def": "the parts of a building that remain after it has been destroyed or severely damaged 残垣断壁；废墟",
+      "ex": [
+        {
+          "s": "Its once-great cities fell into ruin, leaving various mysteries for later people to solve.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "它曾经伟大的城市沦为废墟，留下各种谜团供后人去解开。"
+        },
+        {
+          "s": "Believed to have been buried underwater by a tsunami in the fourth century AD, the ruins of Neápolis are almost 2,000 years old.",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "据信在公元四世纪被海啸淹没在水下，Neapolis的遗址已有近2000年的历史。"
+        },
+        {
+          "s": "In less than one minute, a large city lay in ruins.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "t": "不到一分钟，一座大城市就成了一片废墟。"
+        },
+        {
+          "s": "Everywhere survivors looked, there was nothing but ruins.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "t": "幸存者所到之处，除了废墟什么也没有。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "ruin everything",
+      "cn": "毁坏 每件事",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "would ruin everything",
+      "cn": "将 毁坏 每件事",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "moment would ruin",
+      "cn": "片刻 将 毁坏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "cake was ruined",
+      "cn": "糕饼 是 毁坏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "indeed ruin",
+      "cn": "真正地 毁坏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "ruin the pleasure",
+      "cn": "毁坏 该 高兴",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "would indeed ruin",
+      "cn": "将 真正地 毁坏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "tourists ruining",
+      "cn": "旅游者 毁坏",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

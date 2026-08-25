@@ -1,1 +1,181 @@
-{"meta": {"ph": "əˈsʌmpʃn; NAmE əˈsʌmpʃn", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a belief or feeling that sth is true or that sth will happen, although there is no proof 假定；假设", "ex": [{"s": "We tend to forget that sea level is a product of technically and culturally determined assumptions.", "src": "2026新高考II卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "我们往往忘记，海平面其实是由技术和文化因素决定的一系列假设的产物。"}, {"s": "In this book, I tell a story of these assumptions.", "src": "2026新高考II卷·阅读理解C", "cat": "gaokao", "year": 2026, "t": "在这本书里，我讲述了这些预设的故事。"}, {"s": "Students’ false assumptions about learning.", "src": "2026浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "学生对学习的错误假设。"}, {"s": "Still, sometimes our assumptions are incorrect, and scientific findings surprise researchers, along with the rest of us.", "src": "2024天津3月卷·Passage 4", "cat": "gaokao", "year": 2024, "t": "尽管如此，有时候我们的假设是不正确的，科学发现会让研究人员和我们其他人感到惊讶。"}, {"s": "Commonsense assumptions can sometimes prove wrong.", "src": "2024天津3月卷·Passage 4", "cat": "gaokao", "year": 2024, "t": "他们承诺会修理窗户。"}, {"s": "Research findings should be built on popular assumptions.", "src": "2024天津3月卷·Passage 4", "cat": "gaokao", "year": 2024, "t": "研究发现应建立在普遍假设的基础上。"}, {"s": "Make an assumption.", "src": "2024北京卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "做一个假设。"}, {"s": "a theoretical assumption", "src": "2023天津3月卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "一个理论假设"}, {"s": "present an assumptionB. evaluate an argument", "src": "2021北京卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "提出一个假设B. 评价一个论点"}, {"s": "That / How others are feeling is not something that we should make assumptions about, because it’s not always obvious who is truly happy.", "src": "外研社B6 U1", "cat": "waiyan", "year": "", "t": "他人的感受不是我们应该妄加假设的事情，因为谁真正快乐并不总是显而易见的。"}, {"s": "The common assumption then was that it could not be done.", "src": "人教选必1 U5", "cat": "renjiao", "year": "", "t": "当时普遍的假设是这不可能做到。"}, {"s": "People make the assumption that if someone important and respected says that something is right, then it scientists and philosophers after him, he was wrong at times.And Galilei also made mistakes.", "src": "北师大选必2 U5", "cat": "beishida", "year": "", "t": "人们有一种假设：如果一位重要且受人尊敬的人说某件事是对的，那么它就是对的。在他之后的科学家和哲学家也有犯错的时候。伽利略也犯过错。"}, {"s": "Jobs in the past: Wrong assumptions Reasons You should working in the same field or industry for a long time Jobs in the future How to succeed in a 21st century career.", "src": "北师大选必3 U7", "cat": "beishida", "year": "", "t": "过去的工作：错误的假设 理由 你应该在同一领域或行业工作很长时间 未来的工作 如何在21世纪的职业生涯中取得成功。"}, {"s": "A systems approach to creating change is also built on the assumption that everyone in the system has equal power.", "src": "2022北京卷·阅读理解C", "cat": "gaokao", "year": 2022, "t": "创造变革的系统方法还建立在一种假设之上，即系统中的每个人都有平等的权力。"}, {"s": "It would have been easy to   51   my assumptions about this highway builder who had never been more than a few hundred miles from home.", "src": "2024浙江1月卷·完形填空", "cat": "gaokao", "year": 2024, "t": "我本可以轻易地____51____我对这个从未离家超过几百英里的公路建筑工人的假设。"}]}, {"def": "the act of taking or beginning to have power or responsibility （责任的）承担；担任；（权力的）获得", "ex": [{"s": "In paragraphs 2-4, the writer discusses some of the wrong assumptions.Why does the writer do this?", "src": "北师大选必3 U7", "cat": "beishida", "year": "", "t": "在第2-4段中，作者讨论了一些错误的假设。作者为什么这样做？"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "əˈsʌmpʃn; NAmE əˈsʌmpʃn",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a belief or feeling that sth is true or that sth will happen, although there is no proof 假定；假设",
+      "ex": [
+        {
+          "s": "We tend to forget that sea level is a product of technically and culturally determined assumptions.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我们往往忘记，海平面其实是由技术和文化因素决定的一系列假设的产物。"
+        },
+        {
+          "s": "In this book, I tell a story of these assumptions.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在这本书里，我讲述了这些预设的故事。"
+        },
+        {
+          "s": "Students’ false assumptions about learning.",
+          "src": "2026浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "学生对学习的错误假设。"
+        },
+        {
+          "s": "Still, sometimes our assumptions are incorrect, and scientific findings surprise researchers, along with the rest of us.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "尽管如此，有时候我们的假设是不正确的，科学发现会让研究人员和我们其他人感到惊讶。"
+        },
+        {
+          "s": "Commonsense assumptions can sometimes prove wrong.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他们承诺会修理窗户。"
+        },
+        {
+          "s": "Research findings should be built on popular assumptions.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "研究发现应建立在普遍假设的基础上。"
+        },
+        {
+          "s": "Make an assumption.",
+          "src": "2024北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "做一个假设。"
+        },
+        {
+          "s": "a theoretical assumption",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "一个理论假设"
+        },
+        {
+          "s": "present an assumptionB. evaluate an argument",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "提出一个假设B. 评价一个论点"
+        },
+        {
+          "s": "That / How others are feeling is not something that we should make assumptions about, because it’s not always obvious who is truly happy.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "他人的感受不是我们应该妄加假设的事情，因为谁真正快乐并不总是显而易见的。"
+        },
+        {
+          "s": "The common assumption then was that it could not be done.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "当时普遍的假设是这不可能做到。"
+        },
+        {
+          "s": "People make the assumption that if someone important and respected says that something is right, then it scientists and philosophers after him, he was wrong at times.And Galilei also made mistakes.",
+          "src": "北师大选必2 U5",
+          "cat": "beishida",
+          "year": "",
+          "t": "人们有一种假设：如果一位重要且受人尊敬的人说某件事是对的，那么它就是对的。在他之后的科学家和哲学家也有犯错的时候。伽利略也犯过错。"
+        },
+        {
+          "s": "Jobs in the past: Wrong assumptions Reasons You should working in the same field or industry for a long time Jobs in the future How to succeed in a 21st century career.",
+          "src": "北师大选必3 U7",
+          "cat": "beishida",
+          "year": "",
+          "t": "过去的工作：错误的假设 理由 你应该在同一领域或行业工作很长时间 未来的工作 如何在21世纪的职业生涯中取得成功。"
+        },
+        {
+          "s": "A systems approach to creating change is also built on the assumption that everyone in the system has equal power.",
+          "src": "2022北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "创造变革的系统方法还建立在一种假设之上，即系统中的每个人都有平等的权力。"
+        },
+        {
+          "s": "It would have been easy to   51   my assumptions about this highway builder who had never been more than a few hundred miles from home.",
+          "src": "2024浙江1月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我本可以轻易地____51____我对这个从未离家超过几百英里的公路建筑工人的假设。"
+        }
+      ]
+    },
+    {
+      "def": "the act of taking or beginning to have power or responsibility （责任的）承担；担任；（权力的）获得",
+      "ex": [
+        {
+          "s": "In paragraphs 2-4, the writer discusses some of the wrong assumptions.Why does the writer do this?",
+          "src": "北师大选必3 U7",
+          "cat": "beishida",
+          "year": "",
+          "t": "在第2-4段中，作者讨论了一些错误的假设。作者为什么这样做？"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "wrong assumptions",
+      "cn": "错误的 假定",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "determined assumptions",
+      "cn": "查明 假定",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "culturally determined assumptions",
+      "cn": "查明 假定",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "false assumptions",
+      "cn": "错误的 假定",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "assumptions about learning",
+      "cn": "假定 大约 学",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "students false assumptions",
+      "cn": "大学生 错误的 假定",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "our assumptions",
+      "cn": "我们的 假定",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "assumptions are incorrect",
+      "cn": "假定 是",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

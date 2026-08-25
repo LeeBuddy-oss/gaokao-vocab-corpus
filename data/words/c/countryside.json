@@ -1,1 +1,134 @@
-{"meta": {"ph": "ˈkʌntrisaɪd; NAmE ˈkʌntrisaɪd", "pos": "noun", "stars": ""}, "defs": [{"def": "land outside towns and cities, with fields, woods, etc. 乡村；农村", "ex": [{"s": "I tend to travel with a few of my friends to state parks or to the countryside to go on adventures and take photos along the way.", "src": "2023全国乙卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "我倾向于和几个朋友去州立公园或乡村冒险，沿途拍照。"}, {"s": "By shooting in the countryside or state parks.", "src": "2023全国乙卷·阅读理解B", "cat": "gaokao", "year": 2023, "t": "通过在乡村或州立公园拍摄。"}, {"s": "It will spread to the countryside.", "src": "2022浙江6月卷·阅读理解B", "cat": "gaokao", "year": 2022, "t": "它将扩展到农村地区。"}, {"s": "Journey through the beautiful countryside of Provence，France，with Prof Ori Z.", "src": "2020全国III卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "与Ori Z教授一起穿越法国普罗旺斯美丽的乡村。"}, {"s": "During my last winter holiday, I went to countryside with my father to visit my grandparents.", "src": "2018全国I卷·短文改错", "cat": "gaokao", "year": 2018, "t": "去年寒假期间，我和父亲一起回乡下看望祖父母。"}, {"s": "A group of men are sent into the French countryside to try to find the fourth brother.", "src": "外研社B6 U3", "cat": "waiyan", "year": "", "t": "一群人被派到法国乡下去寻找第四个兄弟。"}, {"s": "It was as if our kindly countryside, close to the very heart of England, had been turned into a cruel grassland.", "src": "外研社B6 U6", "cat": "waiyan", "year": "", "t": "就好像我们那可爱的、紧挨着英格兰心脏地带的乡村，变成了一片残酷的草原。"}, {"s": "When reading The Road Not Taken, one cannot help but see in one’s mind images of a peaceful wood deep within the countryside.", "src": "外研社B7 U1", "cat": "waiyan", "year": "", "t": "读《未选择的路》时，人们不禁会在脑海中浮现出一片宁静的深林，坐落在乡村深处。"}, {"s": "Cusco Tour Enjoy the beautiful countryside as you spend a day driving along the new highway connecting Cusco to Lake Titicaca.", "src": "人教B1 U2", "cat": "renjiao", "year": "", "t": "库斯科之旅：沿着连接库斯科和的的喀喀湖的新公路驱车一整天，欣赏美丽的乡村风光。"}, {"s": "The mountains, the sky, the lakes— the photos I’ve seen of China’s countryside are wonderful.", "src": "人教B1 U2", "cat": "renjiao", "year": "", "t": "群山、天空、湖泊——我看到的中国乡村的照片太美了。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈkʌntrisaɪd; NAmE ˈkʌntrisaɪd",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "land outside towns and cities, with fields, woods, etc. 乡村；农村",
+      "ex": [
+        {
+          "s": "I tend to travel with a few of my friends to state parks or to the countryside to go on adventures and take photos along the way.",
+          "src": "2023全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我倾向于和几个朋友去州立公园或乡村冒险，沿途拍照。"
+        },
+        {
+          "s": "By shooting in the countryside or state parks.",
+          "src": "2023全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "通过在乡村或州立公园拍摄。"
+        },
+        {
+          "s": "It will spread to the countryside.",
+          "src": "2022浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它将扩展到农村地区。"
+        },
+        {
+          "s": "Journey through the beautiful countryside of Provence，France，with Prof Ori Z.",
+          "src": "2020全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "与Ori Z教授一起穿越法国普罗旺斯美丽的乡村。"
+        },
+        {
+          "s": "During my last winter holiday, I went to countryside with my father to visit my grandparents.",
+          "src": "2018全国I卷·短文改错",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "去年寒假期间，我和父亲一起回乡下看望祖父母。"
+        },
+        {
+          "s": "A group of men are sent into the French countryside to try to find the fourth brother.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "一群人被派到法国乡下去寻找第四个兄弟。"
+        },
+        {
+          "s": "It was as if our kindly countryside, close to the very heart of England, had been turned into a cruel grassland.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "就好像我们那可爱的、紧挨着英格兰心脏地带的乡村，变成了一片残酷的草原。"
+        },
+        {
+          "s": "When reading The Road Not Taken, one cannot help but see in one’s mind images of a peaceful wood deep within the countryside.",
+          "src": "外研社B7 U1",
+          "cat": "waiyan",
+          "year": "",
+          "t": "读《未选择的路》时，人们不禁会在脑海中浮现出一片宁静的深林，坐落在乡村深处。"
+        },
+        {
+          "s": "Cusco Tour Enjoy the beautiful countryside as you spend a day driving along the new highway connecting Cusco to Lake Titicaca.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "库斯科之旅：沿着连接库斯科和的的喀喀湖的新公路驱车一整天，欣赏美丽的乡村风光。"
+        },
+        {
+          "s": "The mountains, the sky, the lakes— the photos I’ve seen of China’s countryside are wonderful.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "群山、天空、湖泊——我看到的中国乡村的照片太美了。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "beautiful countryside",
+      "cn": "美丽的 乡村",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "the beautiful countryside",
+      "cn": "该 美丽的 乡村",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "countryside to go",
+      "cn": "乡村 去 去",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "countryside or state",
+      "cn": "乡村 或 状态",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "countryside of provence",
+      "cn": "乡村 的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "beautiful countryside of",
+      "cn": "美丽的 乡村 的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "countryside with my",
+      "cn": "乡村 与 我的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "went to countryside",
+      "cn": "去 乡村",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

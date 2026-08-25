@@ -1,1 +1,171 @@
-{"meta": {"ph": "ˈkwɔːtə(r); NAmE ˈkwɔːrtər", "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb", "stars": ""}, "defs": [{"def": "one of four equal parts of sth 四等份之一", "ex": []}, {"def": "a period of 15 minutes either before or after every hour （正点之前或之后的）15 分钟，一刻钟", "ex": [{"s": "On Wednesday morning at a quarter past five came the earthquake.", "src": "人教B1 U5", "cat": "renjiao", "t": "周三早上五点一刻，地震来了。"}]}, {"def": "a period of three months, used especially as a period for which bills are paid or a company's income is calculated 三个月时间；季度；季", "ex": [{"s": "Instead, all that matters is next quarter’s profit, or satisfying some other near-term desires.", "src": "2023北京卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "相反，重要的只是下个季度的利润，或满足某些其他近期欲望。"}]}, {"def": "a district or part of a town 城镇的区（或一部分）", "ex": [{"s": "The only objects moving anywhere in sight in that densely built and crowded quarter were a man in a horse and cart behind me, and a street car going slowly up the street.", "src": "外研社B5 U6", "cat": "waiyan", "t": "在那片建筑密集、拥挤的区域，视线内唯一移动的物体是我身后马车上的一个男人和一辆缓缓沿街行驶的有轨电车。"}]}, {"def": "a person or group of people, especially as a source of help, information or a reaction （尤指能提供帮助、信息或作出反应的）个人，群体", "ex": []}, {"def": "a coin of the US and Canada worth 25 cents （美国和加拿大的）25 分硬币", "ex": []}, {"def": "rooms that are provided for soldiers, servants, etc. to live in （供士兵、仆人等居住的）营房，宿舍，住房", "ex": [{"s": "Putting electric fencing around chicken houses and other farm animal quarters is also highly effective at getting grizzlies away.", "src": "2023全国甲卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "在鸡舍和其他家畜栏舍周围安装电围栏，对驱赶灰熊也非常有效。"}]}, {"def": "the period of time twice a month when we can see a quarter of the moon 半圆的月相；上弦（或下弦）月", "ex": []}, {"def": "one of the four periods of time into which a game of American football is divided （美式足球的）一节，一局", "ex": []}, {"def": "a unit for measuring weight, a quarter of a pound; 4 ounces 夸特（重量单位，¼ 磅； 4 盎司）", "ex": []}, {"def": "a unit for measuring weight, 28 pounds in the UK or 25 pounds in the US; a quarter of a hundredweight 夸特（重量单位，英国为 28 磅，美国为 25 磅；四分之一英担）", "ex": [{"s": "As the world races to decarbonize everything, it faces particular problems with transportation — which accounts for about a quarter of our energy-related greenhouse gas emissions.", "src": "2025新高考I卷·阅读理解A", "cat": "gaokao", "year": 2025, "t": "随着全球竞相为一切去碳化，交通面临着特殊难题——它约占我们与能源相关的温室气体排放的四分之一。"}, {"s": "They defeated the defending champion Brazil in the quarter-finals.", "src": "外研社B4 U6", "cat": "waiyan", "t": "他们在四分之一决赛中击败了卫冕冠军巴西。"}, {"s": "Surface 75% land 25% sea Land 20% Arable land 10% Desert 50% Forest 20% Residential area People From other plants 20% From Earth 30% Original residents 50% Three quarters of the surface is made up of land, ...", "src": "外研社B6 U4", "cat": "waiyan", "t": "表面75%陆地25%海洋 陆地20%耕地10%沙漠50%森林20%居住区 人口来自其他星球20%来自地球30%原住民50% 四分之三的表面由陆地构成，……"}, {"s": "The water was white where his tail beat it and three-quarters of his body was clear above the water when the rope came taut, shivered, and then snapped.", "src": "外研社B7 U6", "cat": "waiyan", "t": "他的尾巴拍打的地方水花泛白，当绳子绷紧、颤抖然后断开时，他四分之三的身体已经露出水面。"}]}, {"def": "pity that sb shows towards an enemy or opponent who is in their power （对掌控中的敌人或对手的）慈悲，同情", "ex": []}, {"def": "to cut or divide sth into four parts 把 … 切成（或分成）四部分", "ex": []}, {"def": "to provide sb with a place to eat and sleep 给 … 提供食宿", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈkwɔːtə(r); NAmE ˈkwɔːrtər",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "one of four equal parts of sth 四等份之一",
+      "ex": []
+    },
+    {
+      "def": "a period of 15 minutes either before or after every hour （正点之前或之后的）15 分钟，一刻钟",
+      "ex": [
+        {
+          "s": "On Wednesday morning at a quarter past five came the earthquake.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "周三早上五点一刻，地震来了。"
+        }
+      ]
+    },
+    {
+      "def": "a period of three months, used especially as a period for which bills are paid or a company's income is calculated 三个月时间；季度；季",
+      "ex": [
+        {
+          "s": "Instead, all that matters is next quarter’s profit, or satisfying some other near-term desires.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "相反，重要的只是下个季度的利润，或满足某些其他近期欲望。"
+        }
+      ]
+    },
+    {
+      "def": "a district or part of a town 城镇的区（或一部分）",
+      "ex": [
+        {
+          "s": "The only objects moving anywhere in sight in that densely built and crowded quarter were a man in a horse and cart behind me, and a street car going slowly up the street.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "在那片建筑密集、拥挤的区域，视线内唯一移动的物体是我身后马车上的一个男人和一辆缓缓沿街行驶的有轨电车。"
+        }
+      ]
+    },
+    {
+      "def": "a person or group of people, especially as a source of help, information or a reaction （尤指能提供帮助、信息或作出反应的）个人，群体",
+      "ex": []
+    },
+    {
+      "def": "a coin of the US and Canada worth 25 cents （美国和加拿大的）25 分硬币",
+      "ex": []
+    },
+    {
+      "def": "rooms that are provided for soldiers, servants, etc. to live in （供士兵、仆人等居住的）营房，宿舍，住房",
+      "ex": [
+        {
+          "s": "Putting electric fencing around chicken houses and other farm animal quarters is also highly effective at getting grizzlies away.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在鸡舍和其他家畜栏舍周围安装电围栏，对驱赶灰熊也非常有效。"
+        }
+      ]
+    },
+    {
+      "def": "the period of time twice a month when we can see a quarter of the moon 半圆的月相；上弦（或下弦）月",
+      "ex": []
+    },
+    {
+      "def": "one of the four periods of time into which a game of American football is divided （美式足球的）一节，一局",
+      "ex": []
+    },
+    {
+      "def": "a unit for measuring weight, a quarter of a pound; 4 ounces 夸特（重量单位，¼ 磅； 4 盎司）",
+      "ex": []
+    },
+    {
+      "def": "a unit for measuring weight, 28 pounds in the UK or 25 pounds in the US; a quarter of a hundredweight 夸特（重量单位，英国为 28 磅，美国为 25 磅；四分之一英担）",
+      "ex": [
+        {
+          "s": "As the world races to decarbonize everything, it faces particular problems with transportation — which accounts for about a quarter of our energy-related greenhouse gas emissions.",
+          "src": "2025新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "随着全球竞相为一切去碳化，交通面临着特殊难题——它约占我们与能源相关的温室气体排放的四分之一。"
+        },
+        {
+          "s": "They defeated the defending champion Brazil in the quarter-finals.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "他们在四分之一决赛中击败了卫冕冠军巴西。"
+        },
+        {
+          "s": "Surface 75% land 25% sea Land 20% Arable land 10% Desert 50% Forest 20% Residential area People From other plants 20% From Earth 30% Original residents 50% Three quarters of the surface is made up of land, ...",
+          "src": "外研社B6 U4",
+          "cat": "waiyan",
+          "t": "表面75%陆地25%海洋 陆地20%耕地10%沙漠50%森林20%居住区 人口来自其他星球20%来自地球30%原住民50% 四分之三的表面由陆地构成，……"
+        },
+        {
+          "s": "The water was white where his tail beat it and three-quarters of his body was clear above the water when the rope came taut, shivered, and then snapped.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "他的尾巴拍打的地方水花泛白，当绳子绷紧、颤抖然后断开时，他四分之三的身体已经露出水面。"
+        }
+      ]
+    },
+    {
+      "def": "pity that sb shows towards an enemy or opponent who is in their power （对掌控中的敌人或对手的）慈悲，同情",
+      "ex": []
+    },
+    {
+      "def": "to cut or divide sth into four parts 把 … 切成（或分成）四部分",
+      "ex": []
+    },
+    {
+      "def": "to provide sb with a place to eat and sleep 给 … 提供食宿",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "quarter past",
+      "cn": "四等份之一 过去的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a quarter past",
+      "cn": "一个 四等份之一 过去的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "quarter s profit",
+      "cn": "四等份之一 利润",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "crowded quarter",
+      "cn": "人多的 四等份之一",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and crowded quarter",
+      "cn": "与 人多的 四等份之一",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "quarter were a man",
+      "cn": "四等份之一 是 一个 成年男子",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "animal quarters",
+      "cn": "兽 四等份之一",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "farm animal quarters",
+      "cn": "农场 兽 四等份之一",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

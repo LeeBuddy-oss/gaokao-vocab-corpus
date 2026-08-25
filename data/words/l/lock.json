@@ -1,1 +1,183 @@
-{"meta": {"ph": "lɒk; NAmE lɑːk", "pos": "verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;verb;noun;noun;noun;noun;verb", "stars": ""}, "defs": [{"def": "to fasten sth with a lock; to be fastened with a lock （用锁）锁上；被锁住", "ex": [{"s": "If a typhoon is approaching, close and lock all windows and doors, and tie down large outdoor objects so that they do not blow away.", "src": "译林B3 U2", "cat": "yilin", "t": "如果台风逼近，关闭并锁上所有窗户和门，并把大型户外物品系牢，以免被风吹走。"}, {"s": "However, in the nottoo-distant future, we will be living in smart homes that will lock the door for us when we are away and remember to switch off the TV when we forget.", "src": "人教选必1 U2", "cat": "renjiao", "t": "然而，在不太遥远的将来，我们将生活在智能家居中，这些家居会在我们外出时为我们锁上门，并在我们忘记时记得关掉电视。"}, {"s": "As a result, most of the forest's nutrients are locked up in the plants themselves, (8) allowing them to grow at an unbelievable speed.", "src": "译林B3 U1", "cat": "yilin", "t": "因此，森林的大部分养分被锁在植物本身中，使它们以不可思议的速度生长。"}, {"s": "Suddenly I was locked outside.", "src": "2024浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "突然我被锁在了外面。"}]}, {"def": "to put sth in a safe place and lock it 把 … 锁起来", "ex": [{"s": "They are places to be treasured—places where the country locks away the very best it has to offer for everyone to enjoy.", "src": "人教选必1 U5", "cat": "renjiao", "t": "它们是值得被珍藏的地方——是国家把自己最好的东西锁起来供所有人享受的地方。"}]}, {"def": "to become or make sth become fixed in one position and unable to move （使）固定，卡住，塞住", "ex": []}, {"def": "to be involved in a difficult situation, an argument, a disagreement, etc. 陷入，卷入（困境、争论、争执等）", "ex": []}, {"def": "to be held very tightly by sb 被紧紧抓住（或抱住）", "ex": []}, {"def": "to prevent computer data from being changed or looked at by sb without permission 加锁；锁（定、紧）；封闭", "ex": [{"s": "Identify purpose and audience Have you ever forgotten to lock the door of your house?", "src": "人教选必1 U2", "cat": "renjiao", "t": "确定目的和读者：你有没有忘记锁房子门的时候？"}, {"s": "The theater audience said good-bye as Bradford locked the doors for the last time.", "src": "2017全国III卷·阅读理解B", "cat": "gaokao", "year": 2017, "t": "当布拉德福德最后一次锁门时，剧院观众告别了。"}]}, {"def": "to put sth in a safe place that can be locked 把 … 收好并锁起来", "ex": []}, {"def": "to put money into an investment that you cannot easily turn into cash 把（钱）搁死（成为不易兑现的资本）", "ex": []}, {"def": "a device that keeps a door, window, lid, etc. shut, usually needing a key to open it 锁", "ex": [{"s": "“It’s possible to open that lock with another key,” I said.", "src": "2025北京卷·完形填空", "cat": "gaokao", "year": 2025, "t": "“用另一把钥匙也有可能打开那把锁，”我说。", "_matched": true}]}, {"def": "a device with a key that prevents a vehicle or machine from being used 车锁；制动器；锁定器；制轮楔", "ex": []}, {"def": "a state in which the parts of a machine, etc. do not move （机器部件等的）锁定", "ex": []}, {"def": "the amount that the front wheels can be turned in one direction or the other in order to turn the vehicle 汽车等", "ex": []}, {"def": "a section of canal or river with a gate at either end, in which the water level can be changed so that boats can move from one level of the canal or river to another （运河或河流的）闸，船闸", "ex": []}, {"def": "a few hairs that hang or lie together on your head 一绺（或一缕）头发", "ex": []}, {"def": "a person's hair 头发", "ex": []}, {"def": "a player in the second row of the scrum 橄榄球", "ex": []}, {"def": "total control of sth （对某物的）完全控制", "ex": []}], "chunks": [{"en": "be locked up", "cn": "用锁）锁上", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "lɒk; NAmE lɑːk",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;verb;noun;noun;noun;noun;verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to fasten sth with a lock; to be fastened with a lock （用锁）锁上；被锁住",
+      "ex": [
+        {
+          "s": "If a typhoon is approaching, close and lock all windows and doors, and tie down large outdoor objects so that they do not blow away.",
+          "src": "译林B3 U2",
+          "cat": "yilin",
+          "t": "如果台风逼近，关闭并锁上所有窗户和门，并把大型户外物品系牢，以免被风吹走。"
+        },
+        {
+          "s": "However, in the nottoo-distant future, we will be living in smart homes that will lock the door for us when we are away and remember to switch off the TV when we forget.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "然而，在不太遥远的将来，我们将生活在智能家居中，这些家居会在我们外出时为我们锁上门，并在我们忘记时记得关掉电视。"
+        },
+        {
+          "s": "As a result, most of the forest's nutrients are locked up in the plants themselves, (8) allowing them to grow at an unbelievable speed.",
+          "src": "译林B3 U1",
+          "cat": "yilin",
+          "t": "因此，森林的大部分养分被锁在植物本身中，使它们以不可思议的速度生长。"
+        },
+        {
+          "s": "Suddenly I was locked outside.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "突然我被锁在了外面。"
+        }
+      ]
+    },
+    {
+      "def": "to put sth in a safe place and lock it 把 … 锁起来",
+      "ex": [
+        {
+          "s": "They are places to be treasured—places where the country locks away the very best it has to offer for everyone to enjoy.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "它们是值得被珍藏的地方——是国家把自己最好的东西锁起来供所有人享受的地方。"
+        }
+      ]
+    },
+    {
+      "def": "to become or make sth become fixed in one position and unable to move （使）固定，卡住，塞住",
+      "ex": []
+    },
+    {
+      "def": "to be involved in a difficult situation, an argument, a disagreement, etc. 陷入，卷入（困境、争论、争执等）",
+      "ex": []
+    },
+    {
+      "def": "to be held very tightly by sb 被紧紧抓住（或抱住）",
+      "ex": []
+    },
+    {
+      "def": "to prevent computer data from being changed or looked at by sb without permission 加锁；锁（定、紧）；封闭",
+      "ex": [
+        {
+          "s": "Identify purpose and audience Have you ever forgotten to lock the door of your house?",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "确定目的和读者：你有没有忘记锁房子门的时候？"
+        },
+        {
+          "s": "The theater audience said good-bye as Bradford locked the doors for the last time.",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当布拉德福德最后一次锁门时，剧院观众告别了。"
+        }
+      ]
+    },
+    {
+      "def": "to put sth in a safe place that can be locked 把 … 收好并锁起来",
+      "ex": []
+    },
+    {
+      "def": "to put money into an investment that you cannot easily turn into cash 把（钱）搁死（成为不易兑现的资本）",
+      "ex": []
+    },
+    {
+      "def": "a device that keeps a door, window, lid, etc. shut, usually needing a key to open it 锁",
+      "ex": [
+        {
+          "s": "“It’s possible to open that lock with another key,” I said.",
+          "src": "2025北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“用另一把钥匙也有可能打开那把锁，”我说。",
+          "_matched": true
+        }
+      ]
+    },
+    {
+      "def": "a device with a key that prevents a vehicle or machine from being used 车锁；制动器；锁定器；制轮楔",
+      "ex": []
+    },
+    {
+      "def": "a state in which the parts of a machine, etc. do not move （机器部件等的）锁定",
+      "ex": []
+    },
+    {
+      "def": "the amount that the front wheels can be turned in one direction or the other in order to turn the vehicle 汽车等",
+      "ex": []
+    },
+    {
+      "def": "a section of canal or river with a gate at either end, in which the water level can be changed so that boats can move from one level of the canal or river to another （运河或河流的）闸，船闸",
+      "ex": []
+    },
+    {
+      "def": "a few hairs that hang or lie together on your head 一绺（或一缕）头发",
+      "ex": []
+    },
+    {
+      "def": "a person's hair 头发",
+      "ex": []
+    },
+    {
+      "def": "a player in the second row of the scrum 橄榄球",
+      "ex": []
+    },
+    {
+      "def": "total control of sth （对某物的）完全控制",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "lock the door",
+      "cn": "锁上 该 门",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "lock all windows",
+      "cn": "锁上 所有 窗",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "close and lock",
+      "cn": "关 与 锁上",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "lock the door for",
+      "cn": "锁上 该 门 为了",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "nutrients are locked",
+      "cn": "是 锁上",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "locked outside",
+      "cn": "锁上 外部",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "was locked outside",
+      "cn": "是 锁上 外部",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "locks away",
+      "cn": "锁上 离开",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

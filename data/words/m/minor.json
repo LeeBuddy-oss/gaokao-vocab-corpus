@@ -1,1 +1,115 @@
-{"meta":{"ph":"ˈmaɪnə(r); NAmE ˈmaɪnər","pos":"adjective","stars":"★★"},"defs":[{"def":"not very large, important or serious 较小的；次要的；轻微的","ex":[{"s":"We could also say AI might see us as a minor annoyance standing in the way of the solution to a bigger problem.","src":"外研社B6 U6","cat":"waiyan","t":"我们也可以说：人工智能可能把我们看作一个小小的麻烦，挡在解决更大问题的路上。"},{"s":"Examples include mild sunburn and burns caused by other minor household incidents.","src":"人教选必2 U5","cat":"renjiao","t":"例子包括轻微的晒伤和其他轻微家庭事故造成的烧伤。"},{"s":"You don’t need to apologize for a minor slip.","src":"2020全国新高考I卷·七选五","cat":"gaokao","year":2020,"t":"你不必为小小的口误道歉。"}]},{"def":"based on a scale in which the third note is a semitone/half tone higher than the second note 小调的；小音阶的","ex":[{"s":"He is supposed to have lived sometime between the 9th and 8th centuries BC, possibly on the coast of Asia Minor.","src":"外研社B2 U6","cat":"waiyan","t":"他应该生活在公元前9世纪到8世纪之间的某个时候，可能在小亚细亚海岸。"}]},{"def":"a person who is under the age at which you legally become an adult and are responsible for your actions 未成年人","ex":[{"s":"A mountain on the Moon and a minor planet are named after him.","src":"外研社B3 U3","cat":"waiyan","t":"月球上的一座山和一颗小行星以他的名字命名。"},{"s":"It is when a person is no longer considered to be a minor and is expected to become responsible for their own actions and decisions, instead of that responsibility belonging to their parents or guardians.","src":"外研社B5 U6","cat":"waiyan","t":"这是指一个人不再被视为未成年人，并被期望对自己的行为和决定负责，而不再由其父母或监护人负责。"}]},{"def":"a subject that you study at university in addition to your major 辅修科目；辅修课程","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈmaɪnə(r); NAmE ˈmaɪnər",
+    "pos": "adjective",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "not very large, important or serious 较小的；次要的；轻微的",
+      "ex": [
+        {
+          "s": "We could also say AI might see us as a minor annoyance standing in the way of the solution to a bigger problem.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说：人工智能可能把我们看作一个小小的麻烦，挡在解决更大问题的路上。"
+        },
+        {
+          "s": "Examples include mild sunburn and burns caused by other minor household incidents.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "例子包括轻微的晒伤和其他轻微家庭事故造成的烧伤。"
+        },
+        {
+          "s": "You don’t need to apologize for a minor slip.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你不必为小小的口误道歉。"
+        }
+      ]
+    },
+    {
+      "def": "based on a scale in which the third note is a semitone/half tone higher than the second note 小调的；小音阶的",
+      "ex": [
+        {
+          "s": "He is supposed to have lived sometime between the 9th and 8th centuries BC, possibly on the coast of Asia Minor.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他应该生活在公元前9世纪到8世纪之间的某个时候，可能在小亚细亚海岸。"
+        }
+      ]
+    },
+    {
+      "def": "a person who is under the age at which you legally become an adult and are responsible for your actions 未成年人",
+      "ex": [
+        {
+          "s": "A mountain on the Moon and a minor planet are named after him.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "月球上的一座山和一颗小行星以他的名字命名。"
+        },
+        {
+          "s": "It is when a person is no longer considered to be a minor and is expected to become responsible for their own actions and decisions, instead of that responsibility belonging to their parents or guardians.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "这是指一个人不再被视为未成年人，并被期望对自己的行为和决定负责，而不再由其父母或监护人负责。"
+        }
+      ]
+    },
+    {
+      "def": "a subject that you study at university in addition to your major 辅修科目；辅修课程",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "minor annoyance",
+      "cn": "较小的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a minor annoyance",
+      "cn": "一个 较小的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "minor household",
+      "cn": "较小的 一家人",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "other minor household",
+      "cn": "其他 较小的 一家人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "minor slip",
+      "cn": "较小的 滑倒",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a minor slip",
+      "cn": "一个 较小的 滑倒",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "asia minor",
+      "cn": "亚洲 较小的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "of asia minor",
+      "cn": "的 亚洲 较小的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

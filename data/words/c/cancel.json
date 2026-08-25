@@ -1,1 +1,143 @@
-{"meta": {"ph": "ˈkænsl; NAmE ˈkænsl", "pos": "verb", "stars": ""}, "defs": [{"def": "to decide that sth that has been arranged will not now take place 取消；撤销；终止", "ex": [{"s": "When enough of these errors are averaged together, they cancel each other out, resulting in a more accurate estimate.", "src": "2023新课标I卷·阅读理解D", "cat": "gaokao", "t": "当足够多的这类误差被平均在一起时，它们会相互抵消，从而得到更准确的估计。", "year": 2023}, {"s": "If people are similar and tend to make the same errors, then their errors won’t cancel each other out.", "src": "2023新课标I卷·阅读理解D", "cat": "gaokao", "t": "如果人们彼此相似并倾向于犯同样的错误，那么他们的错误就不会相互抵消。", "year": 2023}, {"s": "To cancel a weekend trip.", "src": "2022新高考I卷", "cat": "gaokao", "t": "为了取消周末旅行。", "year": 2022}, {"s": "To cancel a weekend trip.", "src": "2022浙江卷", "cat": "gaokao", "t": "为了取消周末旅行。", "year": 2022}, {"s": "The two sets of waves cancel each other out.", "src": "2020天津6月卷·阅读理解C", "cat": "gaokao", "t": "嗯，它的工作原理是分析传入声波并产生第二组传出声波。", "year": 2020}, {"s": "To cancel a flight.", "src": "2017重庆卷", "cat": "gaokao", "t": "取消一个航班。", "year": 2017}]}, {"def": "to say that you no longer want to continue with an agreement, especially one that has been legally arranged 撤销，取消，废除（具有法律效力的协议）", "ex": [{"s": "On which of the following dates can you cancel your registration with a full refund?", "src": "2023浙江1月卷·阅读理解A", "cat": "gaokao", "t": "在以下哪个日期你可以取消注册并获得全额退款？", "year": 2023}, {"s": "By cancelling the rental agreement.", "src": "2023全国甲卷·阅读理解B", "cat": "gaokao", "t": "通过取消租房协议。", "year": 2023}, {"s": "The stronger a reusable bag is, the longer its life and the more plastic-bag use it cancels out.", "src": "2018浙江6月卷·阅读理解B", "cat": "gaokao", "t": "可重复使用袋子越结实，使用寿命越长，抵消掉的塑料袋使用就越多。", "year": 2018}, {"s": "Refund Policy—the subscription can be canceled within 28 days and you can get your money back.", "src": "2017北京卷·阅读理解B", "cat": "gaokao", "t": "退款政策——订阅可在 28 天内取消，你可以拿回款项。", "year": 2017}]}, {"def": "to mark a ticket or stamp so that it cannot be used again 盖销，注销（票或邮票）", "ex": []}], "chunks": [{"en": "be canceled within", "cn": "被取消", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈkænsl; NAmE ˈkænsl",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to decide that sth that has been arranged will not now take place 取消；撤销；终止",
+      "ex": [
+        {
+          "s": "When enough of these errors are averaged together, they cancel each other out, resulting in a more accurate estimate.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "当足够多的这类误差被平均在一起时，它们会相互抵消，从而得到更准确的估计。",
+          "year": 2023
+        },
+        {
+          "s": "If people are similar and tend to make the same errors, then their errors won’t cancel each other out.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "如果人们彼此相似并倾向于犯同样的错误，那么他们的错误就不会相互抵消。",
+          "year": 2023
+        },
+        {
+          "s": "To cancel a weekend trip.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "t": "为了取消周末旅行。",
+          "year": 2022
+        },
+        {
+          "s": "To cancel a weekend trip.",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "t": "为了取消周末旅行。",
+          "year": 2022
+        },
+        {
+          "s": "The two sets of waves cancel each other out.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "嗯，它的工作原理是分析传入声波并产生第二组传出声波。",
+          "year": 2020
+        },
+        {
+          "s": "To cancel a flight.",
+          "src": "2017重庆卷",
+          "cat": "gaokao",
+          "t": "取消一个航班。",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "def": "to say that you no longer want to continue with an agreement, especially one that has been legally arranged 撤销，取消，废除（具有法律效力的协议）",
+      "ex": [
+        {
+          "s": "On which of the following dates can you cancel your registration with a full refund?",
+          "src": "2023浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "在以下哪个日期你可以取消注册并获得全额退款？",
+          "year": 2023
+        },
+        {
+          "s": "By cancelling the rental agreement.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "通过取消租房协议。",
+          "year": 2023
+        },
+        {
+          "s": "The stronger a reusable bag is, the longer its life and the more plastic-bag use it cancels out.",
+          "src": "2018浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "可重复使用袋子越结实，使用寿命越长，抵消掉的塑料袋使用就越多。",
+          "year": 2018
+        },
+        {
+          "s": "Refund Policy—the subscription can be canceled within 28 days and you can get your money back.",
+          "src": "2017北京卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "退款政策——订阅可在 28 天内取消，你可以拿回款项。",
+          "year": 2017
+        }
+      ]
+    },
+    {
+      "def": "to mark a ticket or stamp so that it cannot be used again 盖销，注销（票或邮票）",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "cancel a weekend",
+      "cn": "取消 一个 星期六和星期日",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "they cancel",
+      "cn": "他们 取消",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "together they cancel",
+      "cn": "在一起 他们 取消",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "won t cancel",
+      "cn": "取消",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "waves cancel",
+      "cn": "海浪 取消",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "of waves cancel",
+      "cn": "的 海浪 取消",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "cancel a flight",
+      "cn": "取消 一个 空中航行",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "cancel your",
+      "cn": "取消 你的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,190 @@
-{"meta": {"ph": "stretʃ; NAmE stretʃ", "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun", "stars": "★★"}, "defs": [{"def": "to make sth longer, wider or looser, for example by pulling it; to become longer, etc. in this way 拉长；拽宽；撑大；抻松", "ex": [{"s": "However, when a cat is looking for affection, they tend to produce stretched and soft meows.", "src": "2024全国甲卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "然而，当猫在寻求亲近时，它们往往发出拉长的、轻柔的喵叫。"}]}, {"def": "to become bigger or longer when you pull it and return to its original shape when you stop 织物", "ex": [{"s": "Helping strangers can leave you with a deep sense of satisfaction, but you’ve likely also felt the stress of showing up for others when you’re already stretched thin.", "src": "2026北京卷·七选五", "cat": "gaokao", "year": 2026, "t": "帮助陌生人会给你一种深深的满足感，但你也可能体会过在自己已经分身乏术时还要为他人付出的压力。"}]}, {"def": "to pull sth so that it is smooth and tight 拉紧；拉直；绷紧", "ex": []}, {"def": "to put your arms or legs out straight and contract your muscles 伸展；舒展", "ex": []}, {"def": "to put out an arm or a leg in order to reach sth 伸出，伸长（胳膊、腿）", "ex": [{"s": "She goes down from the block, stops, looks wistfully back,–her daughter stretches her hands towards her.", "src": "外研社B5 U6", "cat": "waiyan", "t": "她从断头台走下，停下，怅然回望——她的女儿向她伸出双手。"}, {"s": "After staying in the sleeping bag the whole night, I really needed to stretch my legs.", "src": "人教选必1 U4", "cat": "renjiao", "t": "在睡袋里待了一整夜后 我真的需要伸长腿"}]}, {"def": "to spread over an area of land 延伸；绵延", "ex": [{"s": "On each floor, hallways stretched in four directions, leading to classrooms, laboratories, and teachers’ offices.", "src": "2024浙江1月卷·书面表达", "cat": "gaokao", "year": 2024, "t": "每层楼的走廊向四个方向延伸，通向教室、实验室和教师办公室。"}, {"s": "Is it its forests that stretch on and on like great green seas?", "src": "外研社B5 U5", "cat": "waiyan", "t": "它的森林像大绿海一样绵延吗？"}, {"s": "Stretching over 2,300 kilometres, the Great Barrier Reef is considered one of the natural wonders of the world.", "src": "人教选必1 U5", "cat": "renjiao", "t": "大堡礁绵延2300多公里，被认为是世界自然奇迹之一。"}, {"s": "Continuous as the stars that shine And twinkle on the milky way, They stretched in never-ending line Along the margin of a bay: Ten thousand saw I at a glance, Tossing their heads in sprightly dance.", "src": "外研社B6 U6", "cat": "waiyan", "t": "像银河中闪耀闪烁的星星连绵不断，它们沿着海湾的边缘排成无尽的行列：我一眼就看到成千上万朵，在欢快的舞蹈中摇动着它们的头。"}]}, {"def": "to continue over a period of time 延续", "ex": []}, {"def": "to be enough to buy or pay for sth 用于否定句和疑问句，指一笔钱", "ex": []}, {"def": "to make use of a lot of your money, supplies, time, etc. （大量地）使用，消耗", "ex": []}, {"def": "to make use of all sb's skill, intelligence, etc. 使竭尽所能；使全力以赴；使发挥出全部本领", "ex": []}, {"def": "to use sth in a way that would not normally be considered fair, acceptable, etc. 滥用；随意歪曲", "ex": []}, {"def": "an area of land or water, especially a long one 一片；一泓；一段", "ex": [{"s": "While Emily was driving on a narrow stretch of road, her car slid into a ditch (沟).", "src": "2026新高考I卷·读后续写", "cat": "gaokao", "year": 2026, "t": "当Emily在一段狭窄的道路上行驶时，她的车滑进了沟里。"}]}, {"def": "a continuous period of time （连续的）一段时间", "ex": []}, {"def": "a period of time that sb spends in prison 服刑期", "ex": []}, {"def": "an act of stretching out your arms or legs or your body and contracting the muscles; the state of being stretched 伸展；舒展", "ex": []}, {"def": "the ability to be made longer or wider without breaking or tearing 弹性；伸缩性", "ex": []}, {"def": "a straight part at the end of a racing track （终点）直道", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "stretʃ; NAmE stretʃ",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to make sth longer, wider or looser, for example by pulling it; to become longer, etc. in this way 拉长；拽宽；撑大；抻松",
+      "ex": [
+        {
+          "s": "However, when a cat is looking for affection, they tend to produce stretched and soft meows.",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "然而，当猫在寻求亲近时，它们往往发出拉长的、轻柔的喵叫。"
+        }
+      ]
+    },
+    {
+      "def": "to become bigger or longer when you pull it and return to its original shape when you stop 织物",
+      "ex": [
+        {
+          "s": "Helping strangers can leave you with a deep sense of satisfaction, but you’ve likely also felt the stress of showing up for others when you’re already stretched thin.",
+          "src": "2026北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "帮助陌生人会给你一种深深的满足感，但你也可能体会过在自己已经分身乏术时还要为他人付出的压力。"
+        }
+      ]
+    },
+    {
+      "def": "to pull sth so that it is smooth and tight 拉紧；拉直；绷紧",
+      "ex": []
+    },
+    {
+      "def": "to put your arms or legs out straight and contract your muscles 伸展；舒展",
+      "ex": []
+    },
+    {
+      "def": "to put out an arm or a leg in order to reach sth 伸出，伸长（胳膊、腿）",
+      "ex": [
+        {
+          "s": "She goes down from the block, stops, looks wistfully back,–her daughter stretches her hands towards her.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "她从断头台走下，停下，怅然回望——她的女儿向她伸出双手。"
+        },
+        {
+          "s": "After staying in the sleeping bag the whole night, I really needed to stretch my legs.",
+          "src": "人教选必1 U4",
+          "cat": "renjiao",
+          "t": "在睡袋里待了一整夜后 我真的需要伸长腿"
+        }
+      ]
+    },
+    {
+      "def": "to spread over an area of land 延伸；绵延",
+      "ex": [
+        {
+          "s": "On each floor, hallways stretched in four directions, leading to classrooms, laboratories, and teachers’ offices.",
+          "src": "2024浙江1月卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "每层楼的走廊向四个方向延伸，通向教室、实验室和教师办公室。"
+        },
+        {
+          "s": "Is it its forests that stretch on and on like great green seas?",
+          "src": "外研社B5 U5",
+          "cat": "waiyan",
+          "t": "它的森林像大绿海一样绵延吗？"
+        },
+        {
+          "s": "Stretching over 2,300 kilometres, the Great Barrier Reef is considered one of the natural wonders of the world.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "大堡礁绵延2300多公里，被认为是世界自然奇迹之一。"
+        },
+        {
+          "s": "Continuous as the stars that shine And twinkle on the milky way, They stretched in never-ending line Along the margin of a bay: Ten thousand saw I at a glance, Tossing their heads in sprightly dance.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "像银河中闪耀闪烁的星星连绵不断，它们沿着海湾的边缘排成无尽的行列：我一眼就看到成千上万朵，在欢快的舞蹈中摇动着它们的头。"
+        }
+      ]
+    },
+    {
+      "def": "to continue over a period of time 延续",
+      "ex": []
+    },
+    {
+      "def": "to be enough to buy or pay for sth 用于否定句和疑问句，指一笔钱",
+      "ex": []
+    },
+    {
+      "def": "to make use of a lot of your money, supplies, time, etc. （大量地）使用，消耗",
+      "ex": []
+    },
+    {
+      "def": "to make use of all sb's skill, intelligence, etc. 使竭尽所能；使全力以赴；使发挥出全部本领",
+      "ex": []
+    },
+    {
+      "def": "to use sth in a way that would not normally be considered fair, acceptable, etc. 滥用；随意歪曲",
+      "ex": []
+    },
+    {
+      "def": "an area of land or water, especially a long one 一片；一泓；一段",
+      "ex": [
+        {
+          "s": "While Emily was driving on a narrow stretch of road, her car slid into a ditch (沟).",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "当Emily在一段狭窄的道路上行驶时，她的车滑进了沟里。"
+        }
+      ]
+    },
+    {
+      "def": "a continuous period of time （连续的）一段时间",
+      "ex": []
+    },
+    {
+      "def": "a period of time that sb spends in prison 服刑期",
+      "ex": []
+    },
+    {
+      "def": "an act of stretching out your arms or legs or your body and contracting the muscles; the state of being stretched 伸展；舒展",
+      "ex": []
+    },
+    {
+      "def": "the ability to be made longer or wider without breaking or tearing 弹性；伸缩性",
+      "ex": []
+    },
+    {
+      "def": "a straight part at the end of a racing track （终点）直道",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "produce stretched",
+      "cn": "生产 拉长",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "stretched and soft",
+      "cn": "拉长 与 软的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to produce stretched",
+      "cn": "去 生产 拉长",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "stretched thin",
+      "cn": "拉长 薄的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "already stretched",
+      "cn": "已经 拉长",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "re already stretched",
+      "cn": "已经 拉长",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "stretches her",
+      "cn": "拉长 她的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "daughter stretches",
+      "cn": "女儿 拉长",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

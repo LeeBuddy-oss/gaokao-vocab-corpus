@@ -1,1 +1,108 @@
-{"meta": {"ph": "ˈtɔɪlət; NAmE ˈtɔɪlət", "pos": "noun", "stars": ""}, "defs": [{"def": "a large bowl attached to a pipe that you sit on or stand over when you get rid of waste matter from your body 坐便器；抽水马桶", "ex": [{"s": "Speaking of “dirty”, do you know that there are more germs on a coin than on a toilet seat?!", "src": "外研社B7 U4", "cat": "waiyan", "t": "说到“肮脏”,你知道硬币上的细菌比马桶座位上的细菌还要多吗？"}]}, {"def": "a room containing a toilet 厕所；卫生间；盥洗室", "ex": [{"s": "I find a   47   mountain, with toilets at camps and along the paths.", "src": "2019全国I卷·完形填空", "cat": "gaokao", "year": 2019, "t": "我发现一座___47___的山，营地和小径旁都有厕所。"}, {"s": "Smart toilets will be keeping constant track of your health as well.", "src": "人教选必1 U2", "cat": "renjiao", "t": "聪明的厕所也会不断跟踪你的健康状况"}, {"s": "When we handed the list to our nine-year-old daughter, we expected her to choose a toilet or a sewing machine or something similar.", "src": "人教选必4 U5", "cat": "renjiao", "t": "当我们把名单交给我们9岁的女儿时，我们期望她选择一个厕所或缝纫机或类似的东西。"}, {"s": "Find words in American English in the story which mean the same as these: garden (line 1), toilet (line 52), tap (line 53) Replace the British expressions in the text with the American expressions below.", "src": "北师大选必4 U10", "cat": "beishida", "t": "在故事中查找美国英语中的单词，意思与这些单词相同：花园(1号线),厕所(52号线),水龙头(53号线) 将文字中的英国表达语替换为下面的美国表达语。"}]}, {"def": "a room or small building containing several toilets, each in a separate smaller room （有几个分隔坐便器的）厕所间，厕所", "ex": []}, {"def": "the process of washing and dressing yourself, arranging your hair, etc. 梳洗；打扮", "ex": []}], "chunks": [{"en": "choose toilet", "cn": "选择厕所", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈtɔɪlət; NAmE ˈtɔɪlət",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a large bowl attached to a pipe that you sit on or stand over when you get rid of waste matter from your body 坐便器；抽水马桶",
+      "ex": [
+        {
+          "s": "Speaking of “dirty”, do you know that there are more germs on a coin than on a toilet seat?!",
+          "src": "外研社B7 U4",
+          "cat": "waiyan",
+          "t": "说到“肮脏”,你知道硬币上的细菌比马桶座位上的细菌还要多吗？"
+        }
+      ]
+    },
+    {
+      "def": "a room containing a toilet 厕所；卫生间；盥洗室",
+      "ex": [
+        {
+          "s": "I find a   47   mountain, with toilets at camps and along the paths.",
+          "src": "2019全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我发现一座___47___的山，营地和小径旁都有厕所。"
+        },
+        {
+          "s": "Smart toilets will be keeping constant track of your health as well.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "聪明的厕所也会不断跟踪你的健康状况"
+        },
+        {
+          "s": "When we handed the list to our nine-year-old daughter, we expected her to choose a toilet or a sewing machine or something similar.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "当我们把名单交给我们9岁的女儿时，我们期望她选择一个厕所或缝纫机或类似的东西。"
+        },
+        {
+          "s": "Find words in American English in the story which mean the same as these: garden (line 1), toilet (line 52), tap (line 53) Replace the British expressions in the text with the American expressions below.",
+          "src": "北师大选必4 U10",
+          "cat": "beishida",
+          "t": "在故事中查找美国英语中的单词，意思与这些单词相同：花园(1号线),厕所(52号线),水龙头(53号线) 将文字中的英国表达语替换为下面的美国表达语。"
+        }
+      ]
+    },
+    {
+      "def": "a room or small building containing several toilets, each in a separate smaller room （有几个分隔坐便器的）厕所间，厕所",
+      "ex": []
+    },
+    {
+      "def": "the process of washing and dressing yourself, arranging your hair, etc. 梳洗；打扮",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "toilet seat",
+      "cn": "坐便器 座位",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a toilet seat",
+      "cn": "一个 坐便器 座位",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "toilets at camps",
+      "cn": "坐便器 在 营地",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "mountain with toilets",
+      "cn": "高山 与 坐便器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "smart toilets",
+      "cn": "人 坐便器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "toilets will be keeping",
+      "cn": "坐便器 将 是 保持",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "choose a toilet",
+      "cn": "选择 一个 坐便器",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "toilet or a sewing",
+      "cn": "坐便器 或 一个 缝",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

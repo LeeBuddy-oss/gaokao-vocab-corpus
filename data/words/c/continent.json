@@ -1,1 +1,125 @@
-{"meta": {"ph": "ˈkɒntɪnənt; NAmE ˈkɑːntɪnənt", "pos": "noun", "stars": "★"}, "defs": [{"def": "one of the large land masses of the earth such as Europe, Asia or Africa 大陆；陆地；洲", "ex": [{"s": "There are no more continents and no more moons to search for, little left to discover.", "src": "2020江苏卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "已经没有更多的大洲和卫星可以寻找了，几乎没有什么留待发现的了。"}, {"s": "My family and I have managed to cross the North American continent, from western to eastern Canada, in two weeks!", "src": "外研社B2 U5", "cat": "waiyan", "year": "", "t": "我和家人已经成功穿越了北美大陆，从加拿大西部到东部，只用了两周时间！"}, {"s": "As the name suggests, it is located on the west of the continent, and takes up about one-third of the continent’s landmass.", "src": "外研社B2 U6", "cat": "waiyan", "year": "", "t": "顾名思义，它位于大陆的西部，约占大陆面积的三分之一。"}, {"s": "Shackleton’s goal was to become the first person to cross the frozen continent of Antarctica.", "src": "外研社B4 U6", "cat": "waiyan", "year": "", "t": "沙克尔顿的目标是成为第一个穿越南极洲冰冻大陆的人。"}, {"s": "Antarctica: the Last Continent Antarctica is the coldest place on Earth.", "src": "外研社B4 U6", "cat": "waiyan", "year": "", "t": "南极洲：最后的大陆南极洲是地球上最冷的地方。"}, {"s": "Covering about 14 million square kilometres around the South Pole, it is the fifth largest continent in the world.", "src": "外研社B4 U6", "cat": "waiyan", "year": "", "t": "它覆盖南极点周围约1400万平方公里，是世界第五大洲。"}, {"s": "When the explorers first set foot upon the continent of North American, the skies and lands were alive with an astonishing variety of wildlife.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "当探险者首次踏上北美大陆时，天空和大地充满了惊人多样的野生动物。"}]}, {"def": "the main part of the continent of Europe, not including Britain or Ireland 欧洲大陆（不包括英国和爱尔兰）", "ex": [{"s": "Familiar examples include Earth as the center of the universe and the stability of continents.", "src": "2022天津4月卷·阅读理解D", "cat": "gaokao", "year": 2022, "t": "熟悉的例子包括地球是宇宙中心以及大陆稳定不变的观点。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈkɒntɪnənt; NAmE ˈkɑːntɪnənt",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "one of the large land masses of the earth such as Europe, Asia or Africa 大陆；陆地；洲",
+      "ex": [
+        {
+          "s": "There are no more continents and no more moons to search for, little left to discover.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "已经没有更多的大洲和卫星可以寻找了，几乎没有什么留待发现的了。"
+        },
+        {
+          "s": "My family and I have managed to cross the North American continent, from western to eastern Canada, in two weeks!",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我和家人已经成功穿越了北美大陆，从加拿大西部到东部，只用了两周时间！"
+        },
+        {
+          "s": "As the name suggests, it is located on the west of the continent, and takes up about one-third of the continent’s landmass.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "顾名思义，它位于大陆的西部，约占大陆面积的三分之一。"
+        },
+        {
+          "s": "Shackleton’s goal was to become the first person to cross the frozen continent of Antarctica.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "沙克尔顿的目标是成为第一个穿越南极洲冰冻大陆的人。"
+        },
+        {
+          "s": "Antarctica: the Last Continent Antarctica is the coldest place on Earth.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "南极洲：最后的大陆南极洲是地球上最冷的地方。"
+        },
+        {
+          "s": "Covering about 14 million square kilometres around the South Pole, it is the fifth largest continent in the world.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "它覆盖南极点周围约1400万平方公里，是世界第五大洲。"
+        },
+        {
+          "s": "When the explorers first set foot upon the continent of North American, the skies and lands were alive with an astonishing variety of wildlife.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "当探险者首次踏上北美大陆时，天空和大地充满了惊人多样的野生动物。"
+        }
+      ]
+    },
+    {
+      "def": "the main part of the continent of Europe, not including Britain or Ireland 欧洲大陆（不包括英国和爱尔兰）",
+      "ex": [
+        {
+          "s": "Familiar examples include Earth as the center of the universe and the stability of continents.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "熟悉的例子包括地球是宇宙中心以及大陆稳定不变的观点。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "american continent",
+      "cn": "大陆",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "continent from western",
+      "cn": "大陆 从 西方的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "north american continent",
+      "cn": "北 大陆",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "continent and takes",
+      "cn": "大陆 与 携带",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "continent s landmass",
+      "cn": "大陆",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "frozen continent",
+      "cn": "大陆",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "continent of antarctica",
+      "cn": "大陆 的 南极洲",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the frozen continent",
+      "cn": "该 大陆",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

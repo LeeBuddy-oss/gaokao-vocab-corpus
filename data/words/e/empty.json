@@ -1,1 +1,181 @@
-{"meta": {"ph": "ˈempti; NAmE ˈempti", "pos": "adjective", "stars": ""}, "defs": [{"def": "with no people or things inside 空的", "ex": [{"s": "It was then that I realised her seat was empty!", "src": "外研社B2 U5", "cat": "waiyan", "t": "就在那时，我意识到她的座位是空的！"}]}, {"def": "with no meaning; not meaning what is said 言语或行动", "ex": [{"s": "Mum voiced what we were all thinking: It was strange to see the place so empty.", "src": "2026北京卷·阅读理解B", "cat": "gaokao", "year": 2026, "t": "妈妈说出了我们所有人的想法：看到这个地方如此空荡荡，感觉很奇怪。"}]}, {"def": "unhappy because life does not seem to have a purpose, usually after sth sad has happened 人或其生活", "ex": [{"s": "（10分）Haze Mabry， who has worked as a school keeper for thirteen years， walks into the school building every day and empties garbage cans， wipes down bathrooms and mops wet messes in the hallways．", "src": "2019天津卷", "cat": "gaokao", "year": 2019, "t": "21．（10分）Haze Mabry 在学校做了十三年保洁工，每天走进教学楼，清空垃圾桶，擦拭卫生间，拖干走廊上的湿污。"}]}, {"def": "without a quality that you would expect to be there 没有；缺乏；无", "ex": [{"s": "Otherwise, the recreation of traditions would be artificial and empty, he said.", "src": "2018全国III卷·阅读理解C", "cat": "gaokao", "year": 2018, "t": "这对他来说完全足够了。"}]}, {"def": "to remove everything that is in a container, etc. 倒空；腾空；掏空", "ex": []}, {"def": "to become empty 变空", "ex": [{"s": "To reduce our impact, we can take simple steps: empty the fridge before heading out, and choose sustainable dining options.", "src": "2025北京卷·语法填空", "cat": "gaokao", "year": 2025, "t": "为了减少我们的影响，我们可以采取简单的步骤：出门前清空冰箱，并选择可持续的就餐选择。"}, {"s": "As I rushed outdoors to empty the wastepaper baskets, the door swung shut behind me.", "src": "2024浙江1月卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "当我匆忙跑到户外去倒废纸篓时，门在我身后砰地关上了。"}, {"s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.", "src": "2020江苏卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"}, {"s": "They take their driverless car to an appointment and set the empty vehicle to circle the building to avoid paying for parking.", "src": "2018北京卷·阅读理解D", "cat": "gaokao", "year": 2018, "t": "他们开自动驾驶汽车赴约，让空车绕楼转圈以逃避停车费。"}, {"s": "Each empty can of its food weighs 40g.", "src": "2017浙江11月卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "它的食物每个空罐头重40克。"}, {"s": "My fridge is usually half empty and I’m often too tired to eat much anyway.", "src": "外研社B2 U1", "cat": "waiyan", "t": "我的冰箱通常半空着，而且我常常累得吃不下多少东西。"}, {"s": "It as an empty subject a But it is vital not to take any chances.", "src": "外研社B5 U4", "cat": "waiyan", "t": "it 作形式主语 a 但绝不能心存侥幸，这一点至关重要。"}]}, {"def": "to take out the contents of sth and put them somewhere else 把 … 移出，把 … 腾出（置于别处）", "ex": [{"s": "Then, in 2015, cleaners in an Italian gallery threw away an art piece after mistaking the pile of empty bottles, cigarette ends and pieces of coloured paper for rubbish!", "src": "外研社B3 U4", "cat": "waiyan", "t": "然后，在 2015 年，一家意大利画廊的清洁工误把一堆空瓶子、烟头和彩色纸片当成垃圾，扔掉了一件艺术品！"}]}, {"def": "to make sure that everyone leaves a room, building, etc. （把 … ）撤出，撤离；撤空", "ex": []}, {"def": "to flow or move out from one place to another 流入；涌进", "ex": []}], "chunks": [{"en": "be empty", "cn": "变空", "type": "形容词搭配", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈempti; NAmE ˈempti",
+    "pos": "adjective",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "with no people or things inside 空的",
+      "ex": [
+        {
+          "s": "It was then that I realised her seat was empty!",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "就在那时，我意识到她的座位是空的！"
+        }
+      ]
+    },
+    {
+      "def": "with no meaning; not meaning what is said 言语或行动",
+      "ex": [
+        {
+          "s": "Mum voiced what we were all thinking: It was strange to see the place so empty.",
+          "src": "2026北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "妈妈说出了我们所有人的想法：看到这个地方如此空荡荡，感觉很奇怪。"
+        }
+      ]
+    },
+    {
+      "def": "unhappy because life does not seem to have a purpose, usually after sth sad has happened 人或其生活",
+      "ex": [
+        {
+          "s": "（10分）Haze Mabry， who has worked as a school keeper for thirteen years， walks into the school building every day and empties garbage cans， wipes down bathrooms and mops wet messes in the hallways．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "21．（10分）Haze Mabry 在学校做了十三年保洁工，每天走进教学楼，清空垃圾桶，擦拭卫生间，拖干走廊上的湿污。"
+        }
+      ]
+    },
+    {
+      "def": "without a quality that you would expect to be there 没有；缺乏；无",
+      "ex": [
+        {
+          "s": "Otherwise, the recreation of traditions would be artificial and empty, he said.",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "这对他来说完全足够了。"
+        }
+      ]
+    },
+    {
+      "def": "to remove everything that is in a container, etc. 倒空；腾空；掏空",
+      "ex": []
+    },
+    {
+      "def": "to become empty 变空",
+      "ex": [
+        {
+          "s": "To reduce our impact, we can take simple steps: empty the fridge before heading out, and choose sustainable dining options.",
+          "src": "2025北京卷·语法填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "为了减少我们的影响，我们可以采取简单的步骤：出门前清空冰箱，并选择可持续的就餐选择。"
+        },
+        {
+          "s": "As I rushed outdoors to empty the wastepaper baskets, the door swung shut behind me.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当我匆忙跑到户外去倒废纸篓时，门在我身后砰地关上了。"
+        },
+        {
+          "s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"
+        },
+        {
+          "s": "They take their driverless car to an appointment and set the empty vehicle to circle the building to avoid paying for parking.",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们开自动驾驶汽车赴约，让空车绕楼转圈以逃避停车费。"
+        },
+        {
+          "s": "Each empty can of its food weighs 40g.",
+          "src": "2017浙江11月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它的食物每个空罐头重40克。"
+        },
+        {
+          "s": "My fridge is usually half empty and I’m often too tired to eat much anyway.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "我的冰箱通常半空着，而且我常常累得吃不下多少东西。"
+        },
+        {
+          "s": "It as an empty subject a But it is vital not to take any chances.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "it 作形式主语 a 但绝不能心存侥幸，这一点至关重要。"
+        }
+      ]
+    },
+    {
+      "def": "to take out the contents of sth and put them somewhere else 把 … 移出，把 … 腾出（置于别处）",
+      "ex": [
+        {
+          "s": "Then, in 2015, cleaners in an Italian gallery threw away an art piece after mistaking the pile of empty bottles, cigarette ends and pieces of coloured paper for rubbish!",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "然后，在 2015 年，一家意大利画廊的清洁工误把一堆空瓶子、烟头和彩色纸片当成垃圾，扔掉了一件艺术品！"
+        }
+      ]
+    },
+    {
+      "def": "to make sure that everyone leaves a room, building, etc. （把 … ）撤出，撤离；撤空",
+      "ex": []
+    },
+    {
+      "def": "to flow or move out from one place to another 流入；涌进",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "seat was empty",
+      "cn": "座位 是 空的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "place so empty",
+      "cn": "位置 如此 空的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "empties garbage",
+      "cn": "空的 垃圾",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and empties garbage",
+      "cn": "与 空的 垃圾",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "day and empties",
+      "cn": "一天 与 空的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "empty he",
+      "cn": "空的 他",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and empty he",
+      "cn": "与 空的 他",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "artificial and empty",
+      "cn": "人工的 与 空的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

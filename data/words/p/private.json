@@ -1,1 +1,181 @@
-{"meta": {"ph": "ˈpraɪvət; NAmE ˈpraɪvət", "pos": "adjective", "stars": ""}, "defs": [{"def": "belonging to or for the use of a particular person or group; not for public use 私有的；私用的；自用的", "ex": [{"s": "Private climate engineering is illegal in Canada.", "src": "2024浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "私人气候工程在加拿大是非法的。"}]}, {"def": "intended for or involving a particular person or group of people, not for people in general or for others to know about 为一部分人的；私人的；秘密的", "ex": [{"s": "Hence, private climate engineering can proceed in relative legal safety.", "src": "2024浙江1月卷·阅读理解C", "cat": "gaokao", "year": 2024, "t": "因此，私人气候工程可以在相对合法的安全状态下进行。"}, {"s": "Barcelona has put together a package of clean energy technologies to help public transportation go greener, while also doing its part to tackle climate change and aid Europe’s difficult shift to the privately owned electric vehicle market.", "src": "2026新高考II卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "巴塞罗那已经汇集了一整套清洁能源技术，以帮助公共交通走向绿色，同时也在应对气候变化并帮助欧洲艰难地转向私人拥有的电动车辆市场方面尽了自己的职责。"}, {"s": "And in contrast to our increasingly networked lives where the information we consume is monitored and tracked, a printed book still offers the chance of a wholly private, “off-line” activity.", "src": "2023新课标II卷·阅读理解C", "cat": "gaokao", "year": 2023, "t": "与我们日益网络化的生活——我们所消费的信息被监控和追踪——形成对比的是，印刷书仍提供一种完全私密、\"离线\"活动的机会。"}, {"s": "They collect enormous private data.", "src": "2017江苏卷·阅读理解C", "cat": "gaokao", "year": 2017, "t": "它们收集大量私人数据。"}, {"s": "After achieving literary fame from the publication of The Catcher in the Rye in 1951, Salinger lived a very private life until his death in 2010.", "src": "外研社B4 U6", "cat": "waiyan", "t": "自从1951年《麦田里的守望者》出版获得文学声誉后，塞林格过着非常私密的生活，直到2010年去世。"}, {"s": "Saving Private Ryan is a film directed by Steven Spielberg.", "src": "外研社B6 U3", "cat": "waiyan", "t": "《拯救大兵瑞恩》是一部由史蒂文\\u00b7斯皮尔伯格导演的电影。"}]}, {"def": "that you do not want other people to know about 内心的；隐秘的；私下的", "ex": []}, {"def": "owned or managed by an individual person or an independent company rather than by the state 私立的；私营的；民营的", "ex": [{"s": "Running is for rich kids in private schools in the big city, not for us poor farm boys.", "src": "外研社B4 U6", "cat": "waiyan", "t": "跑步是大城市私立学校富家子弟的事，不是我们这些穷农家孩子的事。"}]}, {"def": "working or acting for yourself rather than for the state or for a group or company, especially in health or education 个体的，独立的，私人的（尤指医疗或教育）", "ex": []}, {"def": "not connected with your work or official position 与工作（或官职）无关的；个人的；私人的", "ex": [{"s": "Pablo Picasso □ childhood □ family and friends □ books and films □ other artists □ history □ travel □ nature □ social issues □ private feelings □ culture and traditions □ imagination ＜R＞ What inspires you?", "src": "外研社B4 U4", "cat": "waiyan", "t": "巴勃罗·毕加索（ Pablo Picasso ）□童年□家庭和朋友□书籍和电影□其他艺术家□历史□旅行□自然□社会问题□私人感情□文化和传统□想象力＜ R ＞是什么启发了您？"}]}, {"def": "where you are not likely to be disturbed; quiet 僻静的；不受打扰的", "ex": []}, {"def": "not wanting to share thoughts and feelings with other people 不愿吐露心思的；内向的；不爱交流思想感情的", "ex": []}, {"def": "given by a teacher, etc. to one person or a small group of people for payment 私人教授的；个别传授的", "ex": [{"s": "One recent idea has been to turn rooftops and walls into private gardens.", "src": "外研社B1 U6", "cat": "waiyan", "t": "最近的一个想法是把屋顶和墙壁变成私人花园。"}]}, {"def": "that you receive from property or other sources but do not have to earn 由财产增溢的；间接收入的；非劳动所得的", "ex": []}, {"def": "a soldier of the lowest rank in the army 二等兵，列兵（级别最低的士兵）", "ex": [{"s": "From which date were private cars allowed to go out of Wuhan?", "src": "2020江苏卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "从哪一天起私家车被允许离开武汉？"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈpraɪvət; NAmE ˈpraɪvət",
+    "pos": "adjective",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "belonging to or for the use of a particular person or group; not for public use 私有的；私用的；自用的",
+      "ex": [
+        {
+          "s": "Private climate engineering is illegal in Canada.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "私人气候工程在加拿大是非法的。"
+        }
+      ]
+    },
+    {
+      "def": "intended for or involving a particular person or group of people, not for people in general or for others to know about 为一部分人的；私人的；秘密的",
+      "ex": [
+        {
+          "s": "Hence, private climate engineering can proceed in relative legal safety.",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "因此，私人气候工程可以在相对合法的安全状态下进行。"
+        },
+        {
+          "s": "Barcelona has put together a package of clean energy technologies to help public transportation go greener, while also doing its part to tackle climate change and aid Europe’s difficult shift to the privately owned electric vehicle market.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "巴塞罗那已经汇集了一整套清洁能源技术，以帮助公共交通走向绿色，同时也在应对气候变化并帮助欧洲艰难地转向私人拥有的电动车辆市场方面尽了自己的职责。"
+        },
+        {
+          "s": "And in contrast to our increasingly networked lives where the information we consume is monitored and tracked, a printed book still offers the chance of a wholly private, “off-line” activity.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "与我们日益网络化的生活——我们所消费的信息被监控和追踪——形成对比的是，印刷书仍提供一种完全私密、\"离线\"活动的机会。"
+        },
+        {
+          "s": "They collect enormous private data.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它们收集大量私人数据。"
+        },
+        {
+          "s": "After achieving literary fame from the publication of The Catcher in the Rye in 1951, Salinger lived a very private life until his death in 2010.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "自从1951年《麦田里的守望者》出版获得文学声誉后，塞林格过着非常私密的生活，直到2010年去世。"
+        },
+        {
+          "s": "Saving Private Ryan is a film directed by Steven Spielberg.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "《拯救大兵瑞恩》是一部由史蒂文\\u00b7斯皮尔伯格导演的电影。"
+        }
+      ]
+    },
+    {
+      "def": "that you do not want other people to know about 内心的；隐秘的；私下的",
+      "ex": []
+    },
+    {
+      "def": "owned or managed by an individual person or an independent company rather than by the state 私立的；私营的；民营的",
+      "ex": [
+        {
+          "s": "Running is for rich kids in private schools in the big city, not for us poor farm boys.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "跑步是大城市私立学校富家子弟的事，不是我们这些穷农家孩子的事。"
+        }
+      ]
+    },
+    {
+      "def": "working or acting for yourself rather than for the state or for a group or company, especially in health or education 个体的，独立的，私人的（尤指医疗或教育）",
+      "ex": []
+    },
+    {
+      "def": "not connected with your work or official position 与工作（或官职）无关的；个人的；私人的",
+      "ex": [
+        {
+          "s": "Pablo Picasso □ childhood □ family and friends □ books and films □ other artists □ history □ travel □ nature □ social issues □ private feelings □ culture and traditions □ imagination ＜R＞ What inspires you?",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "t": "巴勃罗·毕加索（ Pablo Picasso ）□童年□家庭和朋友□书籍和电影□其他艺术家□历史□旅行□自然□社会问题□私人感情□文化和传统□想象力＜ R ＞是什么启发了您？"
+        }
+      ]
+    },
+    {
+      "def": "where you are not likely to be disturbed; quiet 僻静的；不受打扰的",
+      "ex": []
+    },
+    {
+      "def": "not wanting to share thoughts and feelings with other people 不愿吐露心思的；内向的；不爱交流思想感情的",
+      "ex": []
+    },
+    {
+      "def": "given by a teacher, etc. to one person or a small group of people for payment 私人教授的；个别传授的",
+      "ex": [
+        {
+          "s": "One recent idea has been to turn rooftops and walls into private gardens.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "最近的一个想法是把屋顶和墙壁变成私人花园。"
+        }
+      ]
+    },
+    {
+      "def": "that you receive from property or other sources but do not have to earn 由财产增溢的；间接收入的；非劳动所得的",
+      "ex": []
+    },
+    {
+      "def": "a soldier of the lowest rank in the army 二等兵，列兵（级别最低的士兵）",
+      "ex": [
+        {
+          "s": "From which date were private cars allowed to go out of Wuhan?",
+          "src": "2020江苏卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "从哪一天起私家车被允许离开武汉？"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "private climate",
+      "cn": "私有的 气候",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "private climate engineering is",
+      "cn": "私有的 气候 工程师 是",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "hence private",
+      "cn": "因此 私有的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "private climate engineering can",
+      "cn": "私有的 气候 工程师 能",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "private off-line",
+      "cn": "私有的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "wholly private",
+      "cn": "私有的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a wholly private",
+      "cn": "一个 私有的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "private data",
+      "cn": "私有的 数据",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

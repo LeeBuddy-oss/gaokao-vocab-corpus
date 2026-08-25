@@ -1,1 +1,216 @@
-{"meta": {"ph": "ˈmɑːstə(r); NAmE ˈmæstər", "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;noun;noun", "stars": ""}, "defs": [{"def": "a man who has people working for him, often as servants in his home （男）主人，雇主", "ex": []}, {"def": "a person who is able to control sth 主宰；主人；有控制力的人", "ex": [{"s": "Christopher Parker No man is free who is not master of himself.", "src": "外研社B5 U2", "cat": "waiyan", "t": "克里斯托弗·帕克：不能掌控自己的人不是自由的人。"}, {"s": "Christopher Parker c No man is free who is not master of himself.", "src": "外研社B5 U2", "cat": "waiyan", "t": "克里斯托弗·帕克 c 不能掌控自己的人不是自由的人。"}]}, {"def": "a person who is skilled at sth 能手；擅长 … 者", "ex": []}, {"def": "the male owner of a dog 狗的男主人", "ex": []}, {"def": "a male teacher at a school, especially a private school （尤指私立学校的）男教师", "ex": []}, {"def": "a second university degree, or, in Scotland, a first university degree, such as an MA 硕士学位（大学的中级学位；在苏格兰指初级学位）", "ex": []}, {"def": "a person who has a master's degree 硕士；有硕士学位的人", "ex": [{"s": "You are studying in a graduate program for a master's degree．", "src": "2021北京卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "你正在攻读硕士学位的研究生项目中学习。"}, {"s": "hold a master's degree in science", "src": "2021北京卷·阅读理解A", "cat": "gaokao", "year": 2021, "t": "持有理学硕士学位"}]}, {"def": "the captain of a ship that transports goods （货船的）船长", "ex": []}, {"def": "a famous painter who lived in the past （已故）著名画家，绘画大师", "ex": [{"s": "Wang Wei decided to sponsor the young man to study painting and recommended him to a master.", "src": "外研社B3 U4", "cat": "waiyan", "t": "王维决定资助这位年轻人学习绘画，并把他推荐给了一位大师。"}]}, {"def": "a version of a record, tape, film/movie, etc. from which copies are made 常用作形容词", "ex": []}, {"def": "a title used when speaking to or about a boy who is too young to be called Mr (also used in front of the name on an envelope, etc.) （对年龄小而不便称作“先生”的男孩的称谓；也用在信封等处的人名前）少爷，君", "ex": []}, {"def": "(in Britain) the title of the head of some schools and university colleges （英国）校长，院长", "ex": []}, {"def": "a title used for speaking to or about some religious teachers or leaders （对宗教导师或领袖的称谓）大师，师傅", "ex": [{"s": "Masters of Time In the quiet courtyards of Xi San Suo, behind the high walls of the Forbidden City, time ticks at its own pace.", "src": "外研社B6 U2", "cat": "waiyan", "t": "时间的大师：在紫禁城高墙后面西三所的宁静庭院里，时间以它自己的节奏滴答作响。"}, {"s": "If it hadn’t been for a three-episode documentary, outsiders would never have known that the plainly-dressed people working here are masters of their craft, who have spent their lives restoring precious antiques.", "src": "外研社B6 U2", "cat": "waiyan", "t": "如果没有三集纪录片，外人永远不会知道在这里工作的穿着朴素的人是他们的手艺大师，他们一生都在修复珍贵的古董。"}]}, {"def": "to learn or understand sth completely 精通；掌握", "ex": [{"s": "That is the only French phrase I mastered, and it’s a shame I don’t have much use for it.", "src": "2021卷", "cat": "gaokao", "year": 2021, "t": "那是我唯一掌握的法语短语，遗憾的是我没什么机会用到它。"}, {"s": "master the use of paints", "src": "2017浙江6月卷·阅读理解A", "cat": "gaokao", "year": 2017, "t": "掌握颜料的使用。"}, {"s": "Here are some principles you must master.", "src": "2020全国新高考I卷·七选五", "cat": "gaokao", "year": 2020, "t": "这里有一些你必须掌握的原则。"}, {"s": "There is a great deal of pressure to master one's field.", "src": "2021天津3月卷·阅读理解D", "cat": "gaokao", "year": 2021, "t": "要精通自己的领域，压力非常大。"}]}, {"def": "to manage to control an emotion 控制（情绪）", "ex": [{"s": "Turner wisely said that “doing well” psychologically is being able to roll with the flow of emotions, manage them, communicate clearly and well with others, and master various skills.", "src": "2025北京卷·七选五", "cat": "gaokao", "year": 2025, "t": "特纳明智地说，“从心理上讲”“做得好”是能够顺应情绪的流动，管理情绪，与他人清晰良好地沟通，并掌握各种技能。“"}]}, {"def": "to gain control of an animal or a person 控制（动物或人）", "ex": []}, {"def": "（描述精于某职业的人）熟练的，灵巧的，有技能的", "ex": []}, {"def": "the largest and/or most important 最大的；最重要的", "ex": []}], "chunks": [{"en": "be masters of", "cn": "被精通", "type": "动词短语", "count": 3}]}
+{
+  "meta": {
+    "ph": "ˈmɑːstə(r); NAmE ˈmæstər",
+    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;noun;noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a man who has people working for him, often as servants in his home （男）主人，雇主",
+      "ex": []
+    },
+    {
+      "def": "a person who is able to control sth 主宰；主人；有控制力的人",
+      "ex": [
+        {
+          "s": "Christopher Parker No man is free who is not master of himself.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "克里斯托弗·帕克：不能掌控自己的人不是自由的人。"
+        },
+        {
+          "s": "Christopher Parker c No man is free who is not master of himself.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "克里斯托弗·帕克 c 不能掌控自己的人不是自由的人。"
+        }
+      ]
+    },
+    {
+      "def": "a person who is skilled at sth 能手；擅长 … 者",
+      "ex": []
+    },
+    {
+      "def": "the male owner of a dog 狗的男主人",
+      "ex": []
+    },
+    {
+      "def": "a male teacher at a school, especially a private school （尤指私立学校的）男教师",
+      "ex": []
+    },
+    {
+      "def": "a second university degree, or, in Scotland, a first university degree, such as an MA 硕士学位（大学的中级学位；在苏格兰指初级学位）",
+      "ex": []
+    },
+    {
+      "def": "a person who has a master's degree 硕士；有硕士学位的人",
+      "ex": [
+        {
+          "s": "You are studying in a graduate program for a master's degree．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你正在攻读硕士学位的研究生项目中学习。"
+        },
+        {
+          "s": "hold a master's degree in science",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "持有理学硕士学位"
+        }
+      ]
+    },
+    {
+      "def": "the captain of a ship that transports goods （货船的）船长",
+      "ex": []
+    },
+    {
+      "def": "a famous painter who lived in the past （已故）著名画家，绘画大师",
+      "ex": [
+        {
+          "s": "Wang Wei decided to sponsor the young man to study painting and recommended him to a master.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "王维决定资助这位年轻人学习绘画，并把他推荐给了一位大师。"
+        }
+      ]
+    },
+    {
+      "def": "a version of a record, tape, film/movie, etc. from which copies are made 常用作形容词",
+      "ex": []
+    },
+    {
+      "def": "a title used when speaking to or about a boy who is too young to be called Mr (also used in front of the name on an envelope, etc.) （对年龄小而不便称作“先生”的男孩的称谓；也用在信封等处的人名前）少爷，君",
+      "ex": []
+    },
+    {
+      "def": "(in Britain) the title of the head of some schools and university colleges （英国）校长，院长",
+      "ex": []
+    },
+    {
+      "def": "a title used for speaking to or about some religious teachers or leaders （对宗教导师或领袖的称谓）大师，师傅",
+      "ex": [
+        {
+          "s": "Masters of Time In the quiet courtyards of Xi San Suo, behind the high walls of the Forbidden City, time ticks at its own pace.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "时间的大师：在紫禁城高墙后面西三所的宁静庭院里，时间以它自己的节奏滴答作响。"
+        },
+        {
+          "s": "If it hadn’t been for a three-episode documentary, outsiders would never have known that the plainly-dressed people working here are masters of their craft, who have spent their lives restoring precious antiques.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "如果没有三集纪录片，外人永远不会知道在这里工作的穿着朴素的人是他们的手艺大师，他们一生都在修复珍贵的古董。"
+        }
+      ]
+    },
+    {
+      "def": "to learn or understand sth completely 精通；掌握",
+      "ex": [
+        {
+          "s": "That is the only French phrase I mastered, and it’s a shame I don’t have much use for it.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "那是我唯一掌握的法语短语，遗憾的是我没什么机会用到它。"
+        },
+        {
+          "s": "master the use of paints",
+          "src": "2017浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "掌握颜料的使用。"
+        },
+        {
+          "s": "Here are some principles you must master.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这里有一些你必须掌握的原则。"
+        },
+        {
+          "s": "There is a great deal of pressure to master one's field.",
+          "src": "2021天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "要精通自己的领域，压力非常大。"
+        }
+      ]
+    },
+    {
+      "def": "to manage to control an emotion 控制（情绪）",
+      "ex": [
+        {
+          "s": "Turner wisely said that “doing well” psychologically is being able to roll with the flow of emotions, manage them, communicate clearly and well with others, and master various skills.",
+          "src": "2025北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "特纳明智地说，“从心理上讲”“做得好”是能够顺应情绪的流动，管理情绪，与他人清晰良好地沟通，并掌握各种技能。“"
+        }
+      ]
+    },
+    {
+      "def": "to gain control of an animal or a person 控制（动物或人）",
+      "ex": []
+    },
+    {
+      "def": "（描述精于某职业的人）熟练的，灵巧的，有技能的",
+      "ex": []
+    },
+    {
+      "def": "the largest and/or most important 最大的；最重要的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "master of himself",
+      "cn": "主人 的 的反身形式",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "masters of time",
+      "cn": "主人 的 时间",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "masters of their",
+      "cn": "主人 的 他们的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "phrase i mastered",
+      "cn": "短语 我 主人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "master the use",
+      "cn": "主人 该 使用",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "you must master",
+      "cn": "你 必须 主人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "master one's",
+      "cn": "主人 在 … 上",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to master one's",
+      "cn": "去 主人 在 … 上",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,162 @@
-{"meta":{"ph":"ˈkætəɡəri; NAmE ˈkætəɡɔːri","pos":"noun","stars":"★★"},"defs":[{"def":"a group of people or things with particular features in common （人或事物的）类别，种类","ex":[{"s":"For example, one participant’s experience of “We sat and listened to the waves at the beach for a while” was assigned the categories “sitting at beach” and “listening to waves.”","src":"2023新课标II卷·阅读理解D","cat":"gaokao","year":2023,"t":"例如，一位参与者\"我们坐在海滩上听了一会儿海浪\"的体验被归入\"坐在海滩\"和\"听海浪\"两类。"},{"s":"Across the 320 submissions, a pattern of categories the researchers call a “nature language” began to emerge.","src":"2023新课标II卷·阅读理解D","cat":"gaokao","year":2023,"t":"在320份提交材料中，一种被研究人员称为“自然语言”的类别模式开始显现。"},{"s":"After the coding of all submissions, half a dozen categories were noted most often as important to visitors.","src":"2023新课标II卷·阅读理解D","cat":"gaokao","year":2023,"t":"在对所有提交内容编码后，有六个类别最常被注意到对游客很重要。"},{"s":"Why did the researchers code participant submissions into categories?","src":"2023新课标II卷·阅读理解D","cat":"gaokao","year":2023,"t":"研究人员为什么把参与者的提交材料编码分类？"},{"s":"A total of 92 women were in the medium fitness category; and 59 women were in the low fitness category, defined as a peak workload of 80 watts or less, or having their exercise tests stopped because of high blood pressure, chest pain or other cardiovascular problems.","src":"2022浙江1月卷·阅读理解C","cat":"gaokao","year":2022,"t":"共有92名女性属于中等健康水平；59名属于低健康水平，定义为峰值负荷80瓦或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。"},{"s":"I think my home falls into that category.","src":"2021全国乙卷·阅读理解B","cat":"gaokao","year":2021,"t":"年龄不是唯一的因素；我想这也与你家庭的构成有关。"},{"s":"Mitch Prinstein, a professor of clinical psychology sorts the popular into two categories: the likable and the status seekers.","src":"2019全国I卷·阅读理解D","cat":"gaokao","year":2019,"t":"临床心理学教授米奇·普林斯坦将受欢迎的人分为两类：讨人喜欢的和追求地位的人。"},{"s":"Individuals or groups may enter one of the following categories：","src":"2019天津卷·History Fair Competition","cat":"gaokao","year":2019,"t":"个人或团体可以参加以下类别之一："},{"s":"（4）What would a participant have to do with an essay of 1，500 words to meet the category requirement？","src":"2019天津卷·History Fair Competition","cat":"gaokao","year":2019,"t":"（4）参赛者要让一篇1500词的作文符合类别要求，需要做什么？"},{"s":"They come in different categories, such as faces and people, plants and animals, and food and drink.","src":"外研社B5 U3","cat":"waiyan","year":"","t":"它们有不同类别，比如人脸与人、植物与动物、食物与饮料。"},{"s":"Categories My achievements My family My friends My travel experiences Things to put in my portfolio 1 Use the table to prepare documents for your portfolio.","src":"外研社B5 U6","cat":"waiyan","year":"","t":"类别　我的成就　我的家庭　我的朋友　我的旅行经历　放入作品集的东西　1 用表格为你的作品集准备材料。"},{"s":"Make sure to organise them into categories.","src":"外研社B5 U6","cat":"waiyan","year":"","t":"务必把它们分门别类整理好。"},{"s":"Sound Colour Action Shape Sensation Now think of more words in each category and add them to the boxes.","src":"外研社B6 U6","cat":"waiyan","year":"","t":"声音　颜色　动作　形状　感觉　现在在每个类别中想出更多词，加到方框里。"},{"s":"Boy579 Amy HOME PAGES CATEGORIES GALLERY CONTACT Search this blog Write a blog post 1 Read the blog post and answer the questions.","src":"人教B2 U3","cat":"renjiao","year":"","t":"博伊579　艾米　首页　页面　分类　图库　联系　搜索此博客　写篇博文　1 阅读这篇博文并回答问题。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈkætəɡəri; NAmE ˈkætəɡɔːri",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a group of people or things with particular features in common （人或事物的）类别，种类",
+      "ex": [
+        {
+          "s": "For example, one participant’s experience of “We sat and listened to the waves at the beach for a while” was assigned the categories “sitting at beach” and “listening to waves.”",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "例如，一位参与者\"我们坐在海滩上听了一会儿海浪\"的体验被归入\"坐在海滩\"和\"听海浪\"两类。"
+        },
+        {
+          "s": "Across the 320 submissions, a pattern of categories the researchers call a “nature language” began to emerge.",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在320份提交材料中，一种被研究人员称为“自然语言”的类别模式开始显现。"
+        },
+        {
+          "s": "After the coding of all submissions, half a dozen categories were noted most often as important to visitors.",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在对所有提交内容编码后，有六个类别最常被注意到对游客很重要。"
+        },
+        {
+          "s": "Why did the researchers code participant submissions into categories?",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "研究人员为什么把参与者的提交材料编码分类？"
+        },
+        {
+          "s": "A total of 92 women were in the medium fitness category; and 59 women were in the low fitness category, defined as a peak workload of 80 watts or less, or having their exercise tests stopped because of high blood pressure, chest pain or other cardiovascular problems.",
+          "src": "2022浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "共有92名女性属于中等健康水平；59名属于低健康水平，定义为峰值负荷80瓦或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。"
+        },
+        {
+          "s": "I think my home falls into that category.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "年龄不是唯一的因素；我想这也与你家庭的构成有关。"
+        },
+        {
+          "s": "Mitch Prinstein, a professor of clinical psychology sorts the popular into two categories: the likable and the status seekers.",
+          "src": "2019全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "临床心理学教授米奇·普林斯坦将受欢迎的人分为两类：讨人喜欢的和追求地位的人。"
+        },
+        {
+          "s": "Individuals or groups may enter one of the following categories：",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "个人或团体可以参加以下类别之一："
+        },
+        {
+          "s": "（4）What would a participant have to do with an essay of 1，500 words to meet the category requirement？",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "（4）参赛者要让一篇1500词的作文符合类别要求，需要做什么？"
+        },
+        {
+          "s": "They come in different categories, such as faces and people, plants and animals, and food and drink.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "year": "",
+          "t": "它们有不同类别，比如人脸与人、植物与动物、食物与饮料。"
+        },
+        {
+          "s": "Categories My achievements My family My friends My travel experiences Things to put in my portfolio 1 Use the table to prepare documents for your portfolio.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "类别　我的成就　我的家庭　我的朋友　我的旅行经历　放入作品集的东西　1 用表格为你的作品集准备材料。"
+        },
+        {
+          "s": "Make sure to organise them into categories.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "务必把它们分门别类整理好。"
+        },
+        {
+          "s": "Sound Colour Action Shape Sensation Now think of more words in each category and add them to the boxes.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "year": "",
+          "t": "声音　颜色　动作　形状　感觉　现在在每个类别中想出更多词，加到方框里。"
+        },
+        {
+          "s": "Boy579 Amy HOME PAGES CATEGORIES GALLERY CONTACT Search this blog Write a blog post 1 Read the blog post and answer the questions.",
+          "src": "人教B2 U3",
+          "cat": "renjiao",
+          "year": "",
+          "t": "博伊579　艾米　首页　页面　分类　图库　联系　搜索此博客　写篇博文　1 阅读这篇博文并回答问题。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "fitness category",
+      "cn": "类别",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "categories sitting",
+      "cn": "类别 坐",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the categories sitting",
+      "cn": "该 类别 坐",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "assigned the categories",
+      "cn": "分配 该 类别",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "categories the researchers",
+      "cn": "类别 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "pattern of categories",
+      "cn": "模式 的 类别",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dozen categories",
+      "cn": "打 类别",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "categories were noted",
+      "cn": "类别 是 不",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

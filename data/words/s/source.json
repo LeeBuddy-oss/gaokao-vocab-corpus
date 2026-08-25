@@ -1,1 +1,165 @@
-{"meta":{"ph":"sɔːs; NAmE sɔːrs","pos":"noun","stars":"★"},"defs":[{"def":"a place, person or thing that you get sth from 来源；出处","ex":[{"s":"Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.","src":"2025新高考I卷·阅读理解D","cat":"gaokao","year":2025,"t":"微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"},{"s":"Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”","src":"2025北京卷·阅读理解C","cat":"gaokao","year":2025,"t":"把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"},{"s":"Reading: A Source of Knowledge","src":"2020全国II卷·阅读理解D","cat":"gaokao","year":2020,"t":"阅读：知识的源泉"},{"s":"To find out pollution sources.","src":"2020北京卷·阅读理解B","cat":"gaokao","year":2020,"t":"证明巴吉的能力。"},{"s":"Pessimists, on the contrary, tend to perceive problems as a source of additional stress.","src":"2020北京卷·七选五","cat":"gaokao","year":2020,"t":"相反，悲观主义者倾向于把问题视为额外压力的来源。"},{"s":"It uses renewable materials as sources of food．","src":"2018天津卷·阅读理解C","cat":"gaokao","year":2018,"t":"D．它使用可再生材料作为食物来源。"},{"s":"find out the source of the enzyme","src":"2018北京卷·阅读理解C","cat":"gaokao","year":2018,"t":"找出酶的来源"},{"s":"Sheep, cows and pigs have been kept at home as sources of food for around 7,000 years.","src":"外研社B1 U5","cat":"waiyan","t":"大约七千年来，羊、牛和猪一直被养在家里作为食物来源。"},{"s":"Fun facts: ·It is the main source of food for giant pandas.","src":"外研社B1 U6","cat":"waiyan","t":"有趣的事实：它是大熊猫的主要食物来源。"},{"s":"Of them all, one ever-lasting source of inspiration is war and peace.","src":"外研社B4 U4","cat":"waiyan","t":"其中，一个永恒的灵感源泉是战争与和平。"}]},{"def":"a person, book or document that provides information, especially for study, a piece of written work or news 信息来源；原始资料","ex":[{"s":"With this in mind, perhaps we should judge a movie in its own right, and not against its original source.","src":"外研社B2 U4","cat":"waiyan","t":"考虑到这一点，也许我们应该独立判断一部电影，而不是根据其原始来源。"},{"s":"Use diverse information sources.","src":"2024浙江1月卷·阅读理解D","cat":"gaokao","year":2024,"t":"使用多样化的信息来源。"}]},{"def":"a person or thing that causes sth, especially a problem 起源；根源；原因","ex":[]},{"def":"the place where a river or stream starts 源头；发源地","ex":[{"s":"54    Sometimes even routine occurrences become sources of pre-anger, or anger itself.","src":"2018北京卷·Why Do We Get Angry?","cat":"gaokao","year":2018,"t":"54 有时，即使是日常琐事也会成为前愤怒或愤怒本身的源头。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "sɔːs; NAmE sɔːrs",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a place, person or thing that you get sth from 来源；出处",
+      "ex": [
+        {
+          "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
+        },
+        {
+          "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
+          "src": "2025北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
+        },
+        {
+          "s": "Reading: A Source of Knowledge",
+          "src": "2020全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "阅读：知识的源泉"
+        },
+        {
+          "s": "To find out pollution sources.",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "证明巴吉的能力。"
+        },
+        {
+          "s": "Pessimists, on the contrary, tend to perceive problems as a source of additional stress.",
+          "src": "2020北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "相反，悲观主义者倾向于把问题视为额外压力的来源。"
+        },
+        {
+          "s": "It uses renewable materials as sources of food．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "D．它使用可再生材料作为食物来源。"
+        },
+        {
+          "s": "find out the source of the enzyme",
+          "src": "2018北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "找出酶的来源"
+        },
+        {
+          "s": "Sheep, cows and pigs have been kept at home as sources of food for around 7,000 years.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "大约七千年来，羊、牛和猪一直被养在家里作为食物来源。"
+        },
+        {
+          "s": "Fun facts: ·It is the main source of food for giant pandas.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "有趣的事实：它是大熊猫的主要食物来源。"
+        },
+        {
+          "s": "Of them all, one ever-lasting source of inspiration is war and peace.",
+          "src": "外研社B4 U4",
+          "cat": "waiyan",
+          "t": "其中，一个永恒的灵感源泉是战争与和平。"
+        }
+      ]
+    },
+    {
+      "def": "a person, book or document that provides information, especially for study, a piece of written work or news 信息来源；原始资料",
+      "ex": [
+        {
+          "s": "With this in mind, perhaps we should judge a movie in its own right, and not against its original source.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "考虑到这一点，也许我们应该独立判断一部电影，而不是根据其原始来源。"
+        },
+        {
+          "s": "Use diverse information sources.",
+          "src": "2024浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "使用多样化的信息来源。"
+        }
+      ]
+    },
+    {
+      "def": "a person or thing that causes sth, especially a problem 起源；根源；原因",
+      "ex": []
+    },
+    {
+      "def": "the place where a river or stream starts 源头；发源地",
+      "ex": [
+        {
+          "s": "54    Sometimes even routine occurrences become sources of pre-anger, or anger itself.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "54 有时，即使是日常琐事也会成为前愤怒或愤怒本身的源头。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "sources of food",
+      "cn": "来源 的 食物",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "common source",
+      "cn": "常见的 来源",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "source of pollution",
+      "cn": "来源 的 污染",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a common source",
+      "cn": "一个 常见的 来源",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "source of motivation",
+      "cn": "来源 的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "source of knowledge",
+      "cn": "来源 的 知识",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "reading a source",
+      "cn": "不用于进行时 一个 来源",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pollution sources",
+      "cn": "污染 来源",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

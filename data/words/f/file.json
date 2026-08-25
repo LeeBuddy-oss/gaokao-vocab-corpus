@@ -1,1 +1,147 @@
-{"meta": {"ph": "faɪl; NAmE faɪl", "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb", "stars": "★"}, "defs": [{"def": "a box or folded piece of card for keeping loose papers together and in order 文件夹；卷宗", "ex": []}, {"def": "a collection of information stored together in a computer, under a particular name （计算机的）文件，（台）档案", "ex": [{"s": "The office allows users to share files and software, and to use a central printer.", "src": "人教选必1 U2", "cat": "renjiao", "t": "该办公室允许用户共享文件和软件，并使用中央打印机。"}, {"s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package", "src": "2026浙江1月卷·阅读理解A", "cat": "gaokao", "year": 2026, "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"}, {"s": "This should be a .jpg file with a size of no more than 1 MB.", "src": "2020天津3月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "这应是一个不超过1 MB的.jpg文件。"}, {"s": "REFLECTING In this project, you are going to make a presentation using a poster or presentation file about one of these topics: 1 In groups, discuss these questions.", "src": "人教B2 U5", "cat": "renjiao", "t": "反思：在这个项目中，你将要使用海报或演示文件就以下主题之一进行演示。分组讨论这些问题。"}]}, {"def": "a file and the information it contains, for example about a particular person or subject 档案", "ex": [{"s": "Writing an animal fact file (2 pictures) picture a picture b The red-crowned crane is one of the largest cranes in the world, standing at about 150 cm tall.", "src": "外研社B1 U5", "cat": "waiyan", "t": "写一份动物档案：丹顶鹤是世界上最高的鹤之一，站立时约150厘米高。"}, {"s": "CREATINGASPORTFACTFILE Brainstorm You are going to create a fact file of a sport and present it in class.", "src": "北师大B1 U3", "cat": "beishida", "t": "创建一份体育档案：头脑风暴。你将创建一份体育档案并在课堂上展示。"}]}, {"def": "a metal tool with a rough surface for cutting or shaping hard substances or for making them smooth 锉；锉刀", "ex": []}, {"def": "a line of people or things, one behind the other 排成一行的人（或物）", "ex": []}, {"def": "to put and keep documents, etc. in a particular place and in a particular order so that you can find them easily; to put a document into a file 把（文件等）归档", "ex": [{"s": "an image saved as a PDF file", "src": "2020天津3月卷·阅读理解A", "cat": "gaokao", "year": 2020, "t": "保存为PDF格式的图像"}]}, {"def": "to present sth so that it can be officially recorded and dealt with 提起（诉讼）；提出（申请）；送交（备案）", "ex": []}, {"def": "to send a report or a story to your employer 记者", "ex": []}, {"def": "to walk in a line of people, one after the other, in a particular direction 排成一行行走", "ex": []}, {"def": "to cut or shape sth or make sth smooth using a file 锉平；锉去；锉薄；锉光滑", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "faɪl; NAmE faɪl",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a box or folded piece of card for keeping loose papers together and in order 文件夹；卷宗",
+      "ex": []
+    },
+    {
+      "def": "a collection of information stored together in a computer, under a particular name （计算机的）文件，（台）档案",
+      "ex": [
+        {
+          "s": "The office allows users to share files and software, and to use a central printer.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "该办公室允许用户共享文件和软件，并使用中央打印机。"
+        },
+        {
+          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
+        },
+        {
+          "s": "This should be a .jpg file with a size of no more than 1 MB.",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这应是一个不超过1 MB的.jpg文件。"
+        },
+        {
+          "s": "REFLECTING In this project, you are going to make a presentation using a poster or presentation file about one of these topics: 1 In groups, discuss these questions.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "t": "反思：在这个项目中，你将要使用海报或演示文件就以下主题之一进行演示。分组讨论这些问题。"
+        }
+      ]
+    },
+    {
+      "def": "a file and the information it contains, for example about a particular person or subject 档案",
+      "ex": [
+        {
+          "s": "Writing an animal fact file (2 pictures) picture a picture b The red-crowned crane is one of the largest cranes in the world, standing at about 150 cm tall.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "写一份动物档案：丹顶鹤是世界上最高的鹤之一，站立时约150厘米高。"
+        },
+        {
+          "s": "CREATINGASPORTFACTFILE Brainstorm You are going to create a fact file of a sport and present it in class.",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "创建一份体育档案：头脑风暴。你将创建一份体育档案并在课堂上展示。"
+        }
+      ]
+    },
+    {
+      "def": "a metal tool with a rough surface for cutting or shaping hard substances or for making them smooth 锉；锉刀",
+      "ex": []
+    },
+    {
+      "def": "a line of people or things, one behind the other 排成一行的人（或物）",
+      "ex": []
+    },
+    {
+      "def": "to put and keep documents, etc. in a particular place and in a particular order so that you can find them easily; to put a document into a file 把（文件等）归档",
+      "ex": [
+        {
+          "s": "an image saved as a PDF file",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "保存为PDF格式的图像"
+        }
+      ]
+    },
+    {
+      "def": "to present sth so that it can be officially recorded and dealt with 提起（诉讼）；提出（申请）；送交（备案）",
+      "ex": []
+    },
+    {
+      "def": "to send a report or a story to your employer 记者",
+      "ex": []
+    },
+    {
+      "def": "to walk in a line of people, one after the other, in a particular direction 排成一行行走",
+      "ex": []
+    },
+    {
+      "def": "to cut or shape sth or make sth smooth using a file 锉平；锉去；锉薄；锉光滑",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "fact file",
+      "cn": "现实 文件夹",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "share files",
+      "cn": "共有 文件夹",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "files and software",
+      "cn": "文件夹 与 软件",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to share files",
+      "cn": "去 共有 文件夹",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "files dueseptember",
+      "cn": "文件夹",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "artwork files",
+      "cn": "文件夹",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "6final artwork files",
+      "cn": "文件夹",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "jpg file",
+      "cn": "文件夹",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

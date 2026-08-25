@@ -686,28 +686,52 @@
   ],
   "chunks": [
     {
-      "en": "art of",
-      "cn": "…的艺术",
+      "en": "piece of art",
+      "cn": "尤与 of 和不可数名词 的 艺术",
       "type": "名词短语",
       "count": 4
     },
     {
-      "en": "work of art",
-      "cn": "艺术品",
+      "en": "art gallery",
+      "cn": "艺术 陈列室",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "works of art",
+      "cn": "工作 的 艺术",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "modern art",
+      "cn": "现代的 艺术",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "contemporary art",
+      "cn": "属同时期的 艺术",
       "type": "名词短语",
       "count": 3
     },
     {
       "en": "public art",
-      "cn": "公共艺术",
+      "cn": "平民的 艺术",
       "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "arts education",
+      "cn": "艺术 教育",
+      "type": "动词短语",
       "count": 2
     },
     {
-      "en": "art exhibition",
-      "cn": "艺术展",
-      "type": "名词短语",
-      "count": 1
+      "en": "art class",
+      "cn": "艺术 班",
+      "type": "动词短语",
+      "count": 2
     }
   ]
 }

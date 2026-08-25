@@ -668,5 +668,54 @@
       ]
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "very small",
+      "cn": "非常 小的",
+      "type": "动词短语",
+      "count": 5
+    },
+    {
+      "en": "very expensive",
+      "cn": "非常 昂贵的",
+      "type": "动词短语",
+      "count": 5
+    },
+    {
+      "en": "very important",
+      "cn": "非常 重要的",
+      "type": "动词短语",
+      "count": 5
+    },
+    {
+      "en": "very good",
+      "cn": "非常 好的",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "her very",
+      "cn": "她的 非常",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "is very expensive",
+      "cn": "是 非常 昂贵的",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "very important in",
+      "cn": "非常 重要的 在…里",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "very long",
+      "cn": "非常 长的",
+      "type": "动词短语",
+      "count": 3
+    }
+  ]
 }

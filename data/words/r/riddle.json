@@ -1,1 +1,81 @@
-{"meta":{"ph":"ˈrɪdl; NAmE ˈrɪdl","pos":"noun","stars":"★★"},"defs":[{"def":"a question that is difficult to understand, and that has a surprising answer, that you ask sb as a game 谜；谜语","ex":[{"s":"Here’s a riddle: What do traffic jams, long lines and waiting for a vacation to start all have in common?","src":"2023全国甲卷·阅读理解D","cat":"gaokao","year":2023,"t":"来猜个谜语：交通堵塞、排长队和等待假期开始，这三者的共同点是什么？"},{"s":"We’ll hold a lantern riddles competition, too.","src":"外研社B2 U2","cat":"waiyan","t":"我们也会举办灯笼谜比赛。"},{"s":"Besides the Lantern Show,people can also enjoy many other activities, including traditional operas and lantern riddle guessing games.","src":"北师大B1 U3","cat":"beishida","t":"除了灯展，人们还可以欣赏许多其他活动，包括传统戏曲和猜灯谜游戏。"}]},{"def":"a mysterious event or situation that you cannot explain 神秘事件；无法解释的情况","ex":[]}],"chunks":[{"en":"lantern riddles","cn":"灯笼谜","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "ˈrɪdl; NAmE ˈrɪdl",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a question that is difficult to understand, and that has a surprising answer, that you ask sb as a game 谜；谜语",
+      "ex": [
+        {
+          "s": "Here’s a riddle: What do traffic jams, long lines and waiting for a vacation to start all have in common?",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "来猜个谜语：交通堵塞、排长队和等待假期开始，这三者的共同点是什么？"
+        },
+        {
+          "s": "We’ll hold a lantern riddles competition, too.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "我们也会举办灯笼谜比赛。"
+        },
+        {
+          "s": "Besides the Lantern Show,people can also enjoy many other activities, including traditional operas and lantern riddle guessing games.",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "除了灯展，人们还可以欣赏许多其他活动，包括传统戏曲和猜灯谜游戏。"
+        }
+      ]
+    },
+    {
+      "def": "a mysterious event or situation that you cannot explain 神秘事件；无法解释的情况",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "riddle what do traffic",
+      "cn": "谜 什么 做 路上行驶的车辆",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "riddles competition",
+      "cn": "谜 竞争",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lantern riddles",
+      "cn": "灯笼 谜",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a lantern riddles",
+      "cn": "一个 灯笼 谜",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "riddle guessing",
+      "cn": "谜 猜测",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "lantern riddle",
+      "cn": "灯笼 谜",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and lantern riddle",
+      "cn": "与 灯笼 谜",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

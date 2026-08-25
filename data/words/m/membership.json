@@ -1,1 +1,101 @@
-{"meta": {"ph": "ˈmembəʃɪp; NAmE ˈmembərʃɪp", "pos": "noun", "stars": "★★"}, "defs": [{"def": "the state of being a member of a group, a club, an organization, etc. 会员资格；成员资格", "ex": [{"s": "Membership in sports or social club and participation as a volunteer are good examples of this.", "src": "2018上海卷·Becoming an Attractive Employee", "cat": "gaokao", "year": 2018, "t": "加入体育或社团俱乐部、以志愿者身份参与，都是这方面的好例子。"}, {"s": "The sports club there doesn't ask for membership.", "src": "外研社B4 U3", "cat": "waiyan", "t": "那里的体育俱乐部不需要会员资格。"}]}, {"def": "the members, or the number of members, of a group, a club, an organization, etc. （统称）会员，成员；会员人数；成员数", "ex": [{"s": "Farber is certain that the holistic approach will grow more popular with time, and if the past is any indication, he may be right: Since 1982, membership in the American Holistic Veterinary Medical Association has grown from 30 to over 700.", "src": "2024新高考I卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "法伯确信整体疗法会随时间越来越受欢迎，如果过去可以作为参照的话，他可能是对的：自1982年以来，美国整体兽医学协会的会员已从30人增加到700多人。"}, {"s": "It is a great sport for beginners -you do not need a gym membership or any There is also no better way to know yourself and to see what you are capable of.", "src": "北师大B1 U2", "cat": "beishida", "t": "对初学者来说，这是一项很棒的运动——你不需要健身房会员或任何特别的设备。也没有比这更好的方式来认识自己，看看自己有多大的潜力。"}, {"s": "Nowadays there are hundreds of thousands of news apps and official news media accounts on social media, with a total membership of over 7oO million in China.", "src": "译林选必2 U1", "cat": "yilin", "t": "如今，社交平台上有数十万个新闻应用和官方新闻媒体账号，在中国的总用户数超过7亿。"}]}], "chunks": [{"en": "gym membership", "cn": "健身房统称）会员", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈmembəʃɪp; NAmE ˈmembərʃɪp",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "the state of being a member of a group, a club, an organization, etc. 会员资格；成员资格",
+      "ex": [
+        {
+          "s": "Membership in sports or social club and participation as a volunteer are good examples of this.",
+          "src": "2018上海卷·Becoming an Attractive Employee",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "加入体育或社团俱乐部、以志愿者身份参与，都是这方面的好例子。"
+        },
+        {
+          "s": "The sports club there doesn't ask for membership.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "那里的体育俱乐部不需要会员资格。"
+        }
+      ]
+    },
+    {
+      "def": "the members, or the number of members, of a group, a club, an organization, etc. （统称）会员，成员；会员人数；成员数",
+      "ex": [
+        {
+          "s": "Farber is certain that the holistic approach will grow more popular with time, and if the past is any indication, he may be right: Since 1982, membership in the American Holistic Veterinary Medical Association has grown from 30 to over 700.",
+          "src": "2024新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "法伯确信整体疗法会随时间越来越受欢迎，如果过去可以作为参照的话，他可能是对的：自1982年以来，美国整体兽医学协会的会员已从30人增加到700多人。"
+        },
+        {
+          "s": "It is a great sport for beginners -you do not need a gym membership or any There is also no better way to know yourself and to see what you are capable of.",
+          "src": "北师大B1 U2",
+          "cat": "beishida",
+          "t": "对初学者来说，这是一项很棒的运动——你不需要健身房会员或任何特别的设备。也没有比这更好的方式来认识自己，看看自己有多大的潜力。"
+        },
+        {
+          "s": "Nowadays there are hundreds of thousands of news apps and official news media accounts on social media, with a total membership of over 7oO million in China.",
+          "src": "译林选必2 U1",
+          "cat": "yilin",
+          "t": "如今，社交平台上有数十万个新闻应用和官方新闻媒体账号，在中国的总用户数超过7亿。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "membership in sports",
+      "cn": "会员资格 在…里 体育运动",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "ask for membership",
+      "cn": "问 为了 会员资格",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "right since membership",
+      "cn": "正当 与现在完成时或过去完成时 会员资格",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "membership in the american",
+      "cn": "会员资格 在…里 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "gym membership",
+      "cn": "健身房 会员资格",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a gym membership",
+      "cn": "一个 健身房 会员资格",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "total membership",
+      "cn": "总的 会员资格",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a total membership",
+      "cn": "一个 总的 会员资格",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

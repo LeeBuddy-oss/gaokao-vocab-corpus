@@ -1,1 +1,163 @@
-{"meta": {"ph": "ʌnˈjuːʒuəl; NAmE ʌnˈjuːʒuəl", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "different from what is usual or normal 特别的；不寻常的；罕见的", "ex": [{"s": "“I am ahead of my time.” If he seems a little defensive, it might be because even some of his coworkers occasionally laugh at his unusual methods.", "src": "2024新高考I卷·阅读理解B", "cat": "gaokao", "year": 2024, "t": "我走在时代前面。”如果他显得有点戒备，或许是因为连他的一些同事偶尔也会嘲笑他那不寻常的方法。"}, {"s": "If you’re lucky, there might be a pocket park near where you live, but it’s unusual to find places in a city that are relatively wild.", "src": "2023新课标II卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "如果幸运，你住的地方附近可能有一个袖珍公园，但在城市里找到相对野生的地方是不寻常的。"}, {"s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.", "src": "2022全国新高考I卷·读后续写", "cat": "gaokao", "year": 2022, "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"}, {"s": "It might sound like one long, expensive   42  , but the couple has an unusual way to make their travel   43  .", "src": "2022全国新高考II卷·完形填空", "cat": "gaokao", "year": 2022, "t": "这听起来像是一次漫长而昂贵的   42  ，但这夫妇有一种不同寻常的方式来使他们的旅行   43  。"}, {"s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.", "src": "2022全国新高考II卷·读后续写", "cat": "gaokao", "year": 2022, "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"}, {"s": "The engineers at the Massachusetts Institute of Technology（MIT）have taken it a step further changing the actual composition of plants in order to get them to perform diverse，even unusual functions.", "src": "2020全国I卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "麻省理工学院（MIT）的工程师们更进一步，改变植物的实际构成，让它们执行多样甚至不寻常的功能。"}, {"s": "Unusual fashion shows in New Orleans and Brooklyn have(showcased)nutria fur made into clothes in different styles.", "src": "2020全国II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "新奥尔良（ New Orleans ）和布鲁克林（ Brooklyn ）不寻常的时装秀（展示）了制作成不同风格服装的营养皮草。"}, {"s": "Zachariah Fike has an unusual hobby.", "src": "2019浙江卷", "cat": "gaokao", "year": 2019, "t": "扎卡赖亚·法伊克有个不同寻常的爱好。"}, {"s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．", "src": "2018天津卷·阅读理解B", "cat": "gaokao", "year": 2018, "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"}, {"s": "The digital age also enables us to find people who share our interests, such as collecting model cars or playing an unusual instrument.", "src": "外研社B1 U4", "cat": "waiyan", "t": "数字时代也使我们能够找到与我们有共同兴趣的人，例如收集模型汽车或演奏不寻常的乐器。"}, {"s": "However, recent years have seen more and more unusual flavours come onto the market.", "src": "外研社B1 U6", "cat": "waiyan", "t": "然而，近年来，市场上出现了越来越多不寻常的口味。"}, {"s": "We could also say In the digital age, we are able to find people who have the same interests as we do, such as collecting model cars or playing an unusual instrument.", "src": "外研社B1 U6", "cat": "waiyan", "t": "我们还可以说，在数字时代，我们能够找到与我们有着相同兴趣的人，比如收集模范汽车或者演奏一种不寻常的乐器。"}, {"s": "Adventure tourism: tavellers explore unusual or remote destinations, often engaging in risky activities.", "src": "外研社B2 U5", "cat": "waiyan", "t": "探险旅游：小吃商探索不寻常或偏远的目的地，经常从事危险活动。"}]}, {"def": "different from other similar things and therefore interesting and attractive 独特的；与众不同的；别致的", "ex": [{"s": "Then there’s Righteous Fur and its unusual fashion.", "src": "2020全国II卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "还有Righteous Fur及其独特的时尚。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ʌnˈjuːʒuəl; NAmE ʌnˈjuːʒuəl",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "different from what is usual or normal 特别的；不寻常的；罕见的",
+      "ex": [
+        {
+          "s": "“I am ahead of my time.” If he seems a little defensive, it might be because even some of his coworkers occasionally laugh at his unusual methods.",
+          "src": "2024新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我走在时代前面。”如果他显得有点戒备，或许是因为连他的一些同事偶尔也会嘲笑他那不寻常的方法。"
+        },
+        {
+          "s": "If you’re lucky, there might be a pocket park near where you live, but it’s unusual to find places in a city that are relatively wild.",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果幸运，你住的地方附近可能有一个袖珍公园，但在城市里找到相对野生的地方是不寻常的。"
+        },
+        {
+          "s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.",
+          "src": "2022全国新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"
+        },
+        {
+          "s": "It might sound like one long, expensive   42  , but the couple has an unusual way to make their travel   43  .",
+          "src": "2022全国新高考II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这听起来像是一次漫长而昂贵的   42  ，但这夫妇有一种不同寻常的方式来使他们的旅行   43  。"
+        },
+        {
+          "s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.",
+          "src": "2022全国新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"
+        },
+        {
+          "s": "The engineers at the Massachusetts Institute of Technology（MIT）have taken it a step further changing the actual composition of plants in order to get them to perform diverse，even unusual functions.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "麻省理工学院（MIT）的工程师们更进一步，改变植物的实际构成，让它们执行多样甚至不寻常的功能。"
+        },
+        {
+          "s": "Unusual fashion shows in New Orleans and Brooklyn have(showcased)nutria fur made into clothes in different styles.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "新奥尔良（ New Orleans ）和布鲁克林（ Brooklyn ）不寻常的时装秀（展示）了制作成不同风格服装的营养皮草。"
+        },
+        {
+          "s": "Zachariah Fike has an unusual hobby.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "扎卡赖亚·法伊克有个不同寻常的爱好。"
+        },
+        {
+          "s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．",
+          "src": "2018天津卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"
+        },
+        {
+          "s": "The digital age also enables us to find people who share our interests, such as collecting model cars or playing an unusual instrument.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "数字时代也使我们能够找到与我们有共同兴趣的人，例如收集模型汽车或演奏不寻常的乐器。"
+        },
+        {
+          "s": "However, recent years have seen more and more unusual flavours come onto the market.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "然而，近年来，市场上出现了越来越多不寻常的口味。"
+        },
+        {
+          "s": "We could also say In the digital age, we are able to find people who have the same interests as we do, such as collecting model cars or playing an unusual instrument.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们还可以说，在数字时代，我们能够找到与我们有着相同兴趣的人，比如收集模范汽车或者演奏一种不寻常的乐器。"
+        },
+        {
+          "s": "Adventure tourism: tavellers explore unusual or remote destinations, often engaging in risky activities.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "探险旅游：小吃商探索不寻常或偏远的目的地，经常从事危险活动。"
+        }
+      ]
+    },
+    {
+      "def": "different from other similar things and therefore interesting and attractive 独特的；与众不同的；别致的",
+      "ex": [
+        {
+          "s": "Then there’s Righteous Fur and its unusual fashion.",
+          "src": "2020全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "还有Righteous Fur及其独特的时尚。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "unusual that david",
+      "cn": "特别的 那个",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "thought it unusual",
+      "cn": "想法 它 特别的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "unusual fashion",
+      "cn": "特别的 流行款式",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "unusual instrument",
+      "cn": "特别的 器械",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "an unusual instrument",
+      "cn": "一个 特别的 器械",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "playing an unusual",
+      "cn": "玩耍 一个 特别的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "unusual methods",
+      "cn": "特别的 方法",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "his unusual",
+      "cn": "他的 特别的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

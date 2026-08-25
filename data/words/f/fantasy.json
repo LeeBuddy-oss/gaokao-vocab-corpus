@@ -1,1 +1,131 @@
-{"meta":{"ph":"ˈfæntəsi; NAmE ˈfæntəsi","pos":"noun","stars":"★★"},"defs":[{"def":"a pleasant situation that you imagine but that is unlikely to happen 幻想；想像","ex":[{"s":"Perhaps the first thing that springs to mind when you think of storytelling is the fantasy land that took shape in your mind while Mom or Dad told you stories about princes, castles and monsters, with a unique voice for each character.","src":"2023天津6月卷·阅读理解D","cat":"gaokao","t":"想到讲故事，你脑海中浮现的第一件事，或许是爸妈用各自的嗓音为你讲王子、城堡和怪兽的故事时，你心中形成的幻想世界。","year":2023},{"s":"explore a fantasy land","src":"2019天津卷·18．","cat":"gaokao","t":"A．探索奇幻之地","year":2019},{"s":"It tells the story of a girl named Alice, who falls through a rabbit hole into a fantasy world where she has some highly illogical adventures with the peculiar characters that live there.","src":"外研社B2 U6","cat":"waiyan","t":"它讲述了一个名叫爱丽丝的女孩，掉进兔子洞进入一个奇幻世界的故事，在那里她与住在那里的奇特角色经历了许多非常不合逻辑的冒险。"},{"s":"It is a children’s fantasy book, but it is also enjoyed by adults.","src":"外研社B5 U1","cat":"waiyan","t":"这是一本儿童奇幻书，但也深受成年人的喜爱。"},{"s":"The rest, they say, is either coincidence or fantasy 1 Why is the 30th parallel north mysterious?","src":"外研社B7 U5","cat":"waiyan","t":"他们说，其余的部分要么是巧合，要么是幻想 1 为什么北纬 30 度线很神秘？"}]},{"def":"a product of your imagination 想像产物；幻想作品","ex":[{"s":"Thirteen-year-old Sally Carter loved reading fantasy books.","src":"2025北京卷·七选五","cat":"gaokao","t":"13岁的Sally Carter喜欢读奇幻小说。","year":2025},{"s":"This is an excellent fantasy novel from one of the best storytellers around.","src":"2019全国II卷·阅读理解A","cat":"gaokao","t":"这是当代最出色讲故事人之一创作的优秀奇幻小说。","year":2019},{"s":"Tolkien (1892-1973) was an English writer, poet and university professor, best known as the author of some of the world’s most popular high-fantasy novels.","src":"外研社B2 U2","cat":"waiyan","t":"托尔金（1892-1973）是一位英国作家、诗人和大学教授，最以创作了全球最受欢迎的一些高阶奇幻小说而闻名。"},{"s":"Background information The Lord of the Rings is an epic high-fantasy novel written by J.","src":"外研社B2 U6","cat":"waiyan","t":"背景信息 《指环王》是 J. 托尔金创作的一部史诗级高阶奇幻小说。"}]},{"def":"the act of imagining things; a person's imagination 幻想；想像","ex":[]}],"chunks":[{"en":"excellent fantasy","cn":"优秀的幻想","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "ˈfæntəsi; NAmE ˈfæntəsi",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a pleasant situation that you imagine but that is unlikely to happen 幻想；想像",
+      "ex": [
+        {
+          "s": "Perhaps the first thing that springs to mind when you think of storytelling is the fantasy land that took shape in your mind while Mom or Dad told you stories about princes, castles and monsters, with a unique voice for each character.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "t": "想到讲故事，你脑海中浮现的第一件事，或许是爸妈用各自的嗓音为你讲王子、城堡和怪兽的故事时，你心中形成的幻想世界。",
+          "year": 2023
+        },
+        {
+          "s": "explore a fantasy land",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "t": "A．探索奇幻之地",
+          "year": 2019
+        },
+        {
+          "s": "It tells the story of a girl named Alice, who falls through a rabbit hole into a fantasy world where she has some highly illogical adventures with the peculiar characters that live there.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它讲述了一个名叫爱丽丝的女孩，掉进兔子洞进入一个奇幻世界的故事，在那里她与住在那里的奇特角色经历了许多非常不合逻辑的冒险。"
+        },
+        {
+          "s": "It is a children’s fantasy book, but it is also enjoyed by adults.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "这是一本儿童奇幻书，但也深受成年人的喜爱。"
+        },
+        {
+          "s": "The rest, they say, is either coincidence or fantasy 1 Why is the 30th parallel north mysterious?",
+          "src": "外研社B7 U5",
+          "cat": "waiyan",
+          "t": "他们说，其余的部分要么是巧合，要么是幻想 1 为什么北纬 30 度线很神秘？"
+        }
+      ]
+    },
+    {
+      "def": "a product of your imagination 想像产物；幻想作品",
+      "ex": [
+        {
+          "s": "Thirteen-year-old Sally Carter loved reading fantasy books.",
+          "src": "2025北京卷·七选五",
+          "cat": "gaokao",
+          "t": "13岁的Sally Carter喜欢读奇幻小说。",
+          "year": 2025
+        },
+        {
+          "s": "This is an excellent fantasy novel from one of the best storytellers around.",
+          "src": "2019全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "这是当代最出色讲故事人之一创作的优秀奇幻小说。",
+          "year": 2019
+        },
+        {
+          "s": "Tolkien (1892-1973) was an English writer, poet and university professor, best known as the author of some of the world’s most popular high-fantasy novels.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "托尔金（1892-1973）是一位英国作家、诗人和大学教授，最以创作了全球最受欢迎的一些高阶奇幻小说而闻名。"
+        },
+        {
+          "s": "Background information The Lord of the Rings is an epic high-fantasy novel written by J.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "背景信息 《指环王》是 J. 托尔金创作的一部史诗级高阶奇幻小说。"
+        }
+      ]
+    },
+    {
+      "def": "the act of imagining things; a person's imagination 幻想；想像",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "fantasy land",
+      "cn": "幻想 陆地",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "fantasy land that",
+      "cn": "幻想 陆地 那个",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "the fantasy land",
+      "cn": "该 幻想 陆地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a fantasy land",
+      "cn": "一个 幻想 陆地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "explore a fantasy",
+      "cn": "勘探 一个 幻想",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fantasy world",
+      "cn": "幻想 世界",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a fantasy world",
+      "cn": "一个 幻想 世界",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fantasy book",
+      "cn": "幻想 书",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

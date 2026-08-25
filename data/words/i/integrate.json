@@ -1,1 +1,99 @@
-{"meta": {"ph": "ˈɪntɪɡreɪt; NAmE ˈɪntɪɡreɪt", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to combine two or more things so that they work together; to combine with sth else in this way （使）合并，成为一体", "ex": [{"s": "B: I’m writing an on how to integrate individuals’ values and society’s needs.", "src": "人教选必1 U2", "cat": "renjiao", "t": "B：我正在写关于如何将个人价值观与社会需求相结合的文章。"}, {"s": "The distinctive characteristics of poetry often include economical use of words, descriptive and vivid language, integrated imagery, literary devices such as similes and metaphors, and arrangement of words, lines, rhymes, and rhythm.", "src": "人教选必3 U5", "cat": "renjiao", "t": "诗歌的独特特征通常包括用词精炼、描述生动、意象融合、修辞手法如明喻和隐喻，以及词语、行、韵律和节奏的编排。"}, {"s": "There is great potential for future advances if these two kinds of wisdom can be fully integrated\".", "src": "北师大B2 U6", "cat": "beishida", "t": "如果这两种智慧能够完全融合，未来的进步就有巨大的潜力。"}, {"s": "Because so much of our daily life will be integrated with computers, virtual reality will become an actual, real reality for many of us.", "src": "人教选必1 U5", "cat": "renjiao", "t": "因为我们的日常生活将与计算机如此深度集成，虚拟现实对我们许多人来说将成为真正的现实。"}]}, {"def": "to become or make sb become accepted as a member of a social group, especially when they come from a different culture （使）加入，融入群体", "ex": [{"s": "The future home will use integrated sensors to tell when you leave home each morning, and then go into an energy-efficient mode all by itself.", "src": "人教选必1 U2", "cat": "renjiao", "t": "未来的家将使用集成传感器，在你每天早上离开时检测到，然后自动进入节能模式。"}]}], "chunks": [{"en": "be integrated with", "cn": "使）合并", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈɪntɪɡreɪt; NAmE ˈɪntɪɡreɪt",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to combine two or more things so that they work together; to combine with sth else in this way （使）合并，成为一体",
+      "ex": [
+        {
+          "s": "B: I’m writing an on how to integrate individuals’ values and society’s needs.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "B：我正在写关于如何将个人价值观与社会需求相结合的文章。"
+        },
+        {
+          "s": "The distinctive characteristics of poetry often include economical use of words, descriptive and vivid language, integrated imagery, literary devices such as similes and metaphors, and arrangement of words, lines, rhymes, and rhythm.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "诗歌的独特特征通常包括用词精炼、描述生动、意象融合、修辞手法如明喻和隐喻，以及词语、行、韵律和节奏的编排。"
+        },
+        {
+          "s": "There is great potential for future advances if these two kinds of wisdom can be fully integrated\".",
+          "src": "北师大B2 U6",
+          "cat": "beishida",
+          "t": "如果这两种智慧能够完全融合，未来的进步就有巨大的潜力。"
+        },
+        {
+          "s": "Because so much of our daily life will be integrated with computers, virtual reality will become an actual, real reality for many of us.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "t": "因为我们的日常生活将与计算机如此深度集成，虚拟现实对我们许多人来说将成为真正的现实。"
+        }
+      ]
+    },
+    {
+      "def": "to become or make sb become accepted as a member of a social group, especially when they come from a different culture （使）加入，融入群体",
+      "ex": [
+        {
+          "s": "The future home will use integrated sensors to tell when you leave home each morning, and then go into an energy-efficient mode all by itself.",
+          "src": "人教选必1 U2",
+          "cat": "renjiao",
+          "t": "未来的家将使用集成传感器，在你每天早上离开时检测到，然后自动进入节能模式。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "integrate individuals",
+      "cn": "合并 常用于 each 之后",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to integrate individuals",
+      "cn": "去 合并 常用于 each 之后",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "integrated imagery",
+      "cn": "合并",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "language integrated",
+      "cn": "语言 合并",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "vivid language integrated",
+      "cn": "记忆 语言 合并",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fully integrated",
+      "cn": "合并",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "be fully integrated",
+      "cn": "是 合并",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "integrated with computers",
+      "cn": "合并 与 计算机",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

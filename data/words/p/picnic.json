@@ -1,1 +1,103 @@
-{"meta": {"ph": "ˈpɪknɪk; NAmE ˈpɪknɪk", "pos": "noun", "stars": ""}, "defs": [{"def": "an occasion when people pack a meal and take it to eat outdoors, especially in the countryside 野餐", "ex": [{"s": "We have picnics, read books under big trees, and listen to the birds singing in the branches.", "src": "人教B3 U5", "cat": "renjiao", "year": "", "t": "我们野餐、在大树下读书，听鸟儿在枝头歌唱。"}, {"s": "Some of the best family holidays involve things like picnics, camping, hikes, and forest walks.", "src": "人教选必1 U5", "cat": "renjiao", "year": "", "t": "一些最好的家庭假期包括野餐、露营、远足和森林漫步等活动。"}, {"s": "We went on nature walks, had picnics on beautiful beaches and drank hot chocolate underthestars.", "src": "北师大B1 U1", "cat": "beishida", "year": "", "t": "我们去大自然散步，在美丽的海滩上野餐，在星空下喝热巧克力。"}, {"s": "00 P．M．  Awards ceremony and picnic", "src": "2019天津卷·History Fair Competition", "cat": "gaokao", "year": 2019, "t": "晚上7:00　颁奖典礼与野餐。"}, {"s": "B: Well, it’s going to be sunny in the morning and not very windy, so I’m having a picnic with my friends.", "src": "人教B1 U2", "cat": "renjiao", "year": "", "t": "B:嗯，明天早上会很晴朗，但风力不强，所以我要和我的朋友们一起野餐。"}]}, {"def": "the meal, usually consisting of sandwiches, salad and fruit, etc. that you take with you when you go on a picnic 野餐食物", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈpɪknɪk; NAmE ˈpɪknɪk",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "an occasion when people pack a meal and take it to eat outdoors, especially in the countryside 野餐",
+      "ex": [
+        {
+          "s": "We have picnics, read books under big trees, and listen to the birds singing in the branches.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "我们野餐、在大树下读书，听鸟儿在枝头歌唱。"
+        },
+        {
+          "s": "Some of the best family holidays involve things like picnics, camping, hikes, and forest walks.",
+          "src": "人教选必1 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "一些最好的家庭假期包括野餐、露营、远足和森林漫步等活动。"
+        },
+        {
+          "s": "We went on nature walks, had picnics on beautiful beaches and drank hot chocolate underthestars.",
+          "src": "北师大B1 U1",
+          "cat": "beishida",
+          "year": "",
+          "t": "我们去大自然散步，在美丽的海滩上野餐，在星空下喝热巧克力。"
+        },
+        {
+          "s": "00 P．M．  Awards ceremony and picnic",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "晚上7:00　颁奖典礼与野餐。"
+        },
+        {
+          "s": "B: Well, it’s going to be sunny in the morning and not very windy, so I’m having a picnic with my friends.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "year": "",
+          "t": "B:嗯，明天早上会很晴朗，但风力不强，所以我要和我的朋友们一起野餐。"
+        }
+      ]
+    },
+    {
+      "def": "the meal, usually consisting of sandwiches, salad and fruit, etc. that you take with you when you go on a picnic 野餐食物",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "picnics read",
+      "cn": "野餐 不用于进行时",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "have picnics read",
+      "cn": "有 野餐 不用于进行时",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "we have picnics",
+      "cn": "我们 有 野餐",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "picnics camping",
+      "cn": "野餐 营地",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "like picnics camping",
+      "cn": "像 野餐 营地",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "things like picnics",
+      "cn": "东西 像 野餐",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "picnics on beautiful",
+      "cn": "野餐 在…上 美丽的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "walks had picnics",
+      "cn": "走 有 野餐",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

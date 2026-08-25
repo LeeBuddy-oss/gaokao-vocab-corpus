@@ -1,1 +1,106 @@
-{"meta": {"ph": "ˈdaɪəri; NAmE ˈdaɪəri", "pos": "noun", "stars": ""}, "defs": [{"def": "a book with spaces for each day of the year in which you can write down things you have to do in the future （工作日程）记事簿", "ex": [{"s": "Simply keeping a diary that keeps track of friends’ birthdays and other important dates will make sure nothing slips by you.", "src": "2022全国乙卷·七选五", "cat": "gaokao", "year": 2022, "t": "只要坚持写一本记录朋友生日和其他重要日期的记事簿，就能确保你不会漏掉任何事。"}]}, {"def": "a book in which you can write down the experiences you have each day, your private thoughts, etc. 日记；日记簿", "ex": [{"s": "The Princess Diaries Viewer reviews What an interesting movie 2 March | by Jane The princess Diaries is a movie about a teenager named Mia Thermopolis.", "src": "外研社B2 U4", "cat": "waiyan", "t": "《公主日记》 观众评论 多有趣的电影 3月2日 | by Jane 《公主日记》是一部关于一个名叫 Mia Thermopolis 的少女的电影。"}, {"s": "The Princess Diaries is an interesting movie.", "src": "外研社B2 U4", "cat": "waiyan", "t": "《公主日记》是一部有趣的电影。"}, {"s": "You'll need to report back via weekly blogs, photo diaries and video updates.", "src": "外研社B4 U6", "cat": "waiyan", "t": "你需要通过每周的博客、摄影日记和视频更新来汇报。"}, {"s": "The Diary of a Young Girl WEDNESDAY, 3 MAY 1944 Dearest Kitty, For the last two weeks we’ve been eating lunch at eleven-thirty on Saturdays; in the mornings we have to make do with a cup of cereal.", "src": "外研社B6 U6", "cat": "waiyan", "t": "《一个年轻女孩的日记》：1944年5月3日，星期三。最亲爱的凯蒂，最近两个星期六我们都在十一点半吃午饭；早上我们只能凑合着喝一杯麦片粥。"}, {"s": "I look upon our life in hiding as an interesting adventure, full of danger and romance, and every privation as an amusing addition to my diary.", "src": "外研社B6 U6", "cat": "waiyan", "t": "我视我们躲藏中的生活为一段有趣的冒险，充满危险和浪漫，而每一种匮乏都看作是我日记里有趣的一笔。"}]}], "chunks": [{"en": "keeping diary", "cn": "记日记", "type": "动词短语", "count": 1}, {"en": "photo diaries", "cn": "照片日记", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈdaɪəri; NAmE ˈdaɪəri",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a book with spaces for each day of the year in which you can write down things you have to do in the future （工作日程）记事簿",
+      "ex": [
+        {
+          "s": "Simply keeping a diary that keeps track of friends’ birthdays and other important dates will make sure nothing slips by you.",
+          "src": "2022全国乙卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "只要坚持写一本记录朋友生日和其他重要日期的记事簿，就能确保你不会漏掉任何事。"
+        }
+      ]
+    },
+    {
+      "def": "a book in which you can write down the experiences you have each day, your private thoughts, etc. 日记；日记簿",
+      "ex": [
+        {
+          "s": "The Princess Diaries Viewer reviews What an interesting movie 2 March | by Jane The princess Diaries is a movie about a teenager named Mia Thermopolis.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "《公主日记》 观众评论 多有趣的电影 3月2日 | by Jane 《公主日记》是一部关于一个名叫 Mia Thermopolis 的少女的电影。"
+        },
+        {
+          "s": "The Princess Diaries is an interesting movie.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "《公主日记》是一部有趣的电影。"
+        },
+        {
+          "s": "You'll need to report back via weekly blogs, photo diaries and video updates.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "你需要通过每周的博客、摄影日记和视频更新来汇报。"
+        },
+        {
+          "s": "The Diary of a Young Girl WEDNESDAY, 3 MAY 1944 Dearest Kitty, For the last two weeks we’ve been eating lunch at eleven-thirty on Saturdays; in the mornings we have to make do with a cup of cereal.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "《一个年轻女孩的日记》：1944年5月3日，星期三。最亲爱的凯蒂，最近两个星期六我们都在十一点半吃午饭；早上我们只能凑合着喝一杯麦片粥。"
+        },
+        {
+          "s": "I look upon our life in hiding as an interesting adventure, full of danger and romance, and every privation as an amusing addition to my diary.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "我视我们躲藏中的生活为一段有趣的冒险，充满危险和浪漫，而每一种匮乏都看作是我日记里有趣的一笔。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "princess diaries",
+      "cn": "记事簿",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "the princess diaries",
+      "cn": "该 记事簿",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "princess diaries is",
+      "cn": "记事簿 是",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "diary that keeps",
+      "cn": "记事簿 那个 保持",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "keeping a diary",
+      "cn": "保持 一个 记事簿",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "diaries viewer",
+      "cn": "记事簿",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "princess diaries viewer",
+      "cn": "记事簿",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "diaries is a movie",
+      "cn": "记事簿 是 一个 电影",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

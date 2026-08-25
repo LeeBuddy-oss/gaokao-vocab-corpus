@@ -1,1 +1,156 @@
-{"meta": {"ph": "kəmˈbaɪn; NAmE kəmˈbaɪn", "pos": "verb;verb;verb;verb;noun;noun", "stars": "★★"}, "defs": [{"def": "to come together to form a single thing or group; to join two or more things or groups together to form a single one （使）结合，组合，联合，混合", "ex": [{"s": "The menu in this beautiful colonial house includes traditional Thai cuisine combined with modern cooking methods.", "src": "2023全国甲卷·阅读理解A", "cat": "gaokao", "t": "这座美丽的殖民风格宅邸里的菜单包括传统泰国菜与现代烹饪方法的结合。", "year": 2023}, {"s": "Your four major essays will combine to form the main part of the grade for this course: Essay 1 = 10%; Essay 2 = 15%; Essay 3 = 15%; Essay 4 = 20%.", "src": "2022全国新高考I卷·阅读理解A", "cat": "gaokao", "t": "你的四篇主要作文将构成本课程成绩的主要部分：作文1 = 10%；作文2 = 15%；作文3 = 15%；作文4 = 20%。", "year": 2022}, {"s": "When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.", "src": "2018全国II卷·阅读理解B", "cat": "gaokao", "t": "当与浆果或其他水果切片结合时，冰冻的香蕉为厚、冷却的水果摇摆和低脂“冰淇淋”提供了极佳的基础。", "year": 2018}, {"s": "The study of traditions should be combined with practice.", "src": "2018全国III卷·阅读理解C", "cat": "gaokao", "t": "我们来回传球，他试着把它放进嘴里，试着拍打它、滚动它、坐在上面、扔出去。", "year": 2018}, {"s": "It combines fun with complex concepts.", "src": "2017北京卷·阅读理解B", "cat": "gaokao", "t": "它将趣味与复杂的概念结合在一起。", "year": 2017}, {"s": "So, if you want to see a show that combines music, singing, drama, poetry and costume design with explosive effect, The Revenge of Prince Zidan ticks all the right boxes!", "src": "外研社B2 U4", "cat": "waiyan", "t": "所以，如果你想看一场将音乐、歌唱、戏剧、诗歌和服装设计与震撼效果相结合的演出，《子丹王子复仇记》绝对符合你的所有期待！", "year": ""}, {"s": "As working from home becomes              common, people are finding it easier to combine parenthood with a full-time career.", "src": "2021天津3月卷·单项选择", "cat": "gaokao", "t": "随着在家工作变得              常见人们发现更容易将育儿与全职事业结合起来。", "year": 2021}]}, {"def": "to have two or more different features or characteristics; to put two or more different things, features or qualities together 兼有；兼备；使融合（或并存）", "ex": [{"s": "Tan Dun’s music combines Chinese musical traditions and Western influences.", "src": "外研社B4 U6", "cat": "waiyan", "t": "谭盾的音乐融合了中国音乐传统和西方影响。", "year": ""}]}, {"def": "to do two or more things at the same time 同时做（两件或以上的事）；兼做；兼办", "ex": []}, {"def": "to come together in order to work or act together; to put two things or groups together so that they work or act together 合并；协力", "ex": [{"s": "Combine your activities.", "src": "2022浙江1月卷·七选五", "cat": "gaokao", "t": "合并你的活动。", "year": 2022}, {"s": "But, despite the combined work of several generations of masters, it seems unlikely that the restoration of the clocks will ever be complete.", "src": "外研社B6 U2", "cat": "waiyan", "t": "但是，尽管几代大师共同努力，时钟的修复似乎不太可能完成。", "year": ""}]}, {"def": "a large farm machine which cuts a crop and separates the grains from the rest of the plant 联合收割机", "ex": []}, {"def": "a group of people or organizations acting together in business 集团；联合企业", "ex": []}], "chunks": [{"en": "be combined with", "cn": "与…结合", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "kəmˈbaɪn; NAmE kəmˈbaɪn",
+    "pos": "verb;verb;verb;verb;noun;noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to come together to form a single thing or group; to join two or more things or groups together to form a single one （使）结合，组合，联合，混合",
+      "ex": [
+        {
+          "s": "The menu in this beautiful colonial house includes traditional Thai cuisine combined with modern cooking methods.",
+          "src": "2023全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "这座美丽的殖民风格宅邸里的菜单包括传统泰国菜与现代烹饪方法的结合。",
+          "year": 2023
+        },
+        {
+          "s": "Your four major essays will combine to form the main part of the grade for this course: Essay 1 = 10%; Essay 2 = 15%; Essay 3 = 15%; Essay 4 = 20%.",
+          "src": "2022全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "t": "你的四篇主要作文将构成本课程成绩的主要部分：作文1 = 10%；作文2 = 15%；作文3 = 15%；作文4 = 20%。",
+          "year": 2022
+        },
+        {
+          "s": "When combined with berries or slices of other fruits, frozen bananas make an excellent base for thick, cooling fruit shakes and low fat “ice cream”.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "当与浆果或其他水果切片结合时，冰冻的香蕉为厚、冷却的水果摇摆和低脂“冰淇淋”提供了极佳的基础。",
+          "year": 2018
+        },
+        {
+          "s": "The study of traditions should be combined with practice.",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "我们来回传球，他试着把它放进嘴里，试着拍打它、滚动它、坐在上面、扔出去。",
+          "year": 2018
+        },
+        {
+          "s": "It combines fun with complex concepts.",
+          "src": "2017北京卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "它将趣味与复杂的概念结合在一起。",
+          "year": 2017
+        },
+        {
+          "s": "So, if you want to see a show that combines music, singing, drama, poetry and costume design with explosive effect, The Revenge of Prince Zidan ticks all the right boxes!",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "所以，如果你想看一场将音乐、歌唱、戏剧、诗歌和服装设计与震撼效果相结合的演出，《子丹王子复仇记》绝对符合你的所有期待！",
+          "year": ""
+        },
+        {
+          "s": "As working from home becomes              common, people are finding it easier to combine parenthood with a full-time career.",
+          "src": "2021天津3月卷·单项选择",
+          "cat": "gaokao",
+          "t": "随着在家工作变得              常见人们发现更容易将育儿与全职事业结合起来。",
+          "year": 2021
+        }
+      ]
+    },
+    {
+      "def": "to have two or more different features or characteristics; to put two or more different things, features or qualities together 兼有；兼备；使融合（或并存）",
+      "ex": [
+        {
+          "s": "Tan Dun’s music combines Chinese musical traditions and Western influences.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "谭盾的音乐融合了中国音乐传统和西方影响。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "to do two or more things at the same time 同时做（两件或以上的事）；兼做；兼办",
+      "ex": []
+    },
+    {
+      "def": "to come together in order to work or act together; to put two things or groups together so that they work or act together 合并；协力",
+      "ex": [
+        {
+          "s": "Combine your activities.",
+          "src": "2022浙江1月卷·七选五",
+          "cat": "gaokao",
+          "t": "合并你的活动。",
+          "year": 2022
+        },
+        {
+          "s": "But, despite the combined work of several generations of masters, it seems unlikely that the restoration of the clocks will ever be complete.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "但是，尽管几代大师共同努力，时钟的修复似乎不太可能完成。",
+          "year": ""
+        }
+      ]
+    },
+    {
+      "def": "a large farm machine which cuts a crop and separates the grains from the rest of the plant 联合收割机",
+      "ex": []
+    },
+    {
+      "def": "a group of people or organizations acting together in business 集团；联合企业",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "cuisine combined",
+      "cn": "烹饪 结合",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "combined with modern",
+      "cn": "结合 与 现代的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "thai cuisine combined",
+      "cn": "烹饪 结合",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "combine to form",
+      "cn": "结合 去 类型",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "essays will combine",
+      "cn": "文章 将 结合",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "combined with berries",
+      "cn": "结合 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "combined with practice",
+      "cn": "结合 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "combines fun",
+      "cn": "结合 享乐",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

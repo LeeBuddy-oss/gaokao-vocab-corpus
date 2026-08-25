@@ -1,1 +1,144 @@
-{"meta": {"ph": "səˈpəʊz; NAmE səˈpoʊz", "pos": "verb", "stars": ""}, "defs": [{"def": "to think or believe that sth is true or possible (based on the knowledge that you have) （根据所知）认为，推断，料想", "ex": [{"s": "Suppose I am an intelligent student with good marks.", "src": "外研社B7 U6", "cat": "waiyan", "t": "如果我是一个聪明的学生 有良好的标记。"}]}, {"def": "to pretend that sth is true; to imagine what would happen if sth were true 假定；假设；设想", "ex": [{"s": "Suppose it’s been there a long time, and was put there for some purpose.", "src": "2026北京卷·阅读理解D", "cat": "gaokao", "year": 2026, "t": "假设它已经在那里很久了，并且当初是为某个目的而立的。"}, {"s": "And unlike what we suppose, storytelling is not just a form of entertainment, but a form of learning as well.", "src": "2023天津6月卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "而且与我们设想的不同，讲故事不仅是一种娱乐形式，也是一种学习形式。"}, {"s": "Suppose you are in charge of the Shy and Mighty Society, what will you do to help other shy people?", "src": "2020天津3月卷", "cat": "gaokao", "year": 2020, "t": "假设你是“害羞者与强者协会”的负责人，你会做什么来帮助其他害羞的人？"}, {"s": "Then I would try to remember the different possessions I supposedly had taken away—since I seldom actually kept them.", "src": "2020全国新高考II卷·阅读理解B", "cat": "gaokao", "year": 2020, "t": "然后我会试着记起我假想中被拿走的不同财物——因为我其实很少真的留下它们。"}]}, {"def": "（婉转表达）我看，要我说，要不", "ex": [{"s": "I arrived early at Byron Bay where we were supposed to   44  .", "src": "2018全国II卷·完形填空", "cat": "gaokao", "year": 2018, "t": "我早早到了拜伦湾，我们原计划在那里会合。"}]}, {"def": "to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. （按规定、习惯、安排等）应当，应，该，须", "ex": [{"s": "（1分）﹣Wasn't Joan supposed to be here by now？", "src": "2018天津卷", "cat": "gaokao", "year": 2018, "t": "1．（1分）—琼现在不是应该已经到了吗？"}, {"s": "He is supposed to have lived sometime between the 9th and 8th centuries BC, possibly on the coast of Asia Minor.", "src": "外研社B2 U6", "cat": "waiyan", "t": "他应该生活在公元前9世纪到8世纪之间的某个时候，可能在小亚细亚海岸。"}]}, {"def": "to be generally believed or expected to be/do sth 一般认为；人们普遍觉得会", "ex": [{"s": "We don’t really buy fresh food, and I suppose the fridge could be kind of cleaner...", "src": "外研社B2 U1", "cat": "waiyan", "t": "我们其实不怎么买新鲜食物，而且我觉得冰箱本可以再干净点……"}]}], "chunks": [{"en": "be supposed to", "cn": "应该", "type": "动词短语", "count": 2}]}
+{
+  "meta": {
+    "ph": "səˈpəʊz; NAmE səˈpoʊz",
+    "pos": "verb",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to think or believe that sth is true or possible (based on the knowledge that you have) （根据所知）认为，推断，料想",
+      "ex": [
+        {
+          "s": "Suppose I am an intelligent student with good marks.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "如果我是一个聪明的学生 有良好的标记。"
+        }
+      ]
+    },
+    {
+      "def": "to pretend that sth is true; to imagine what would happen if sth were true 假定；假设；设想",
+      "ex": [
+        {
+          "s": "Suppose it’s been there a long time, and was put there for some purpose.",
+          "src": "2026北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "假设它已经在那里很久了，并且当初是为某个目的而立的。"
+        },
+        {
+          "s": "And unlike what we suppose, storytelling is not just a form of entertainment, but a form of learning as well.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "而且与我们设想的不同，讲故事不仅是一种娱乐形式，也是一种学习形式。"
+        },
+        {
+          "s": "Suppose you are in charge of the Shy and Mighty Society, what will you do to help other shy people?",
+          "src": "2020天津3月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "假设你是“害羞者与强者协会”的负责人，你会做什么来帮助其他害羞的人？"
+        },
+        {
+          "s": "Then I would try to remember the different possessions I supposedly had taken away—since I seldom actually kept them.",
+          "src": "2020全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "然后我会试着记起我假想中被拿走的不同财物——因为我其实很少真的留下它们。"
+        }
+      ]
+    },
+    {
+      "def": "（婉转表达）我看，要我说，要不",
+      "ex": [
+        {
+          "s": "I arrived early at Byron Bay where we were supposed to   44  .",
+          "src": "2018全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我早早到了拜伦湾，我们原计划在那里会合。"
+        }
+      ]
+    },
+    {
+      "def": "to be expected or required to do/be sth according to a rule, a custom, an arrangement, etc. （按规定、习惯、安排等）应当，应，该，须",
+      "ex": [
+        {
+          "s": "（1分）﹣Wasn't Joan supposed to be here by now？",
+          "src": "2018天津卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "1．（1分）—琼现在不是应该已经到了吗？"
+        },
+        {
+          "s": "He is supposed to have lived sometime between the 9th and 8th centuries BC, possibly on the coast of Asia Minor.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他应该生活在公元前9世纪到8世纪之间的某个时候，可能在小亚细亚海岸。"
+        }
+      ]
+    },
+    {
+      "def": "to be generally believed or expected to be/do sth 一般认为；人们普遍觉得会",
+      "ex": [
+        {
+          "s": "We don’t really buy fresh food, and I suppose the fridge could be kind of cleaner...",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "我们其实不怎么买新鲜食物，而且我觉得冰箱本可以再干净点……"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "suppose storytelling",
+      "cn": "认为",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "we suppose",
+      "cn": "我们 认为",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "what we suppose",
+      "cn": "什么 我们 认为",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "suppose you",
+      "cn": "认为 你",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "we were supposed",
+      "cn": "我们 是 认为",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "joan supposed",
+      "cn": "认为",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wasn't joan supposed",
+      "cn": "认为",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "he is supposed",
+      "cn": "他 是 认为",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

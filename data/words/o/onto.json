@@ -1,1 +1,164 @@
-{"meta": {"ph": "ˈɒntə; NAmE ˈɑːntə", "pos": "prep.", "stars": "★"}, "defs": [{"def": "（与动词连用，表示朝某处或某位置运动）向，朝", "ex": [{"s": "He pushed a chair onto the balcony, and climbed up   59   （see）them.", "src": "2022全国新高考II卷·语法填空", "cat": "gaokao", "year": 2022, "t": "他把一把椅子推到阳台上，爬上去（第59空，see）他们。"}, {"s": "People in Thailand generally use their forks only to push food onto their spoons.", "src": "2022全国甲卷", "cat": "gaokao", "year": 2022, "t": "泰国人通常只用叉子把食物拨到勺子上。"}, {"s": "The boy lifted the last bag onto his shoulder, and flashed a bright smile.", "src": "2020浙江1月卷·读后续写", "cat": "gaokao", "year": 2020, "t": "男孩把最后一个袋子扛到肩上，露出了灿烂的笑容。"}, {"s": "They can be directed onto a specific area.", "src": "2020天津6月卷·阅读理解C", "cat": "gaokao", "year": 2020, "t": "它们可以被导向特定区域。"}, {"s": "This forms clouds from which rain falls down onto the mountain terraces once again.", "src": "外研社B1 U6", "cat": "waiyan", "t": "这形成了云层，雨水再次落在山台上。"}, {"s": "However, recent years have seen more and more unusual flavours come onto the market.", "src": "外研社B1 U6", "cat": "waiyan", "t": "然而，近年来，市场上出现了越来越多不寻常的口味。"}, {"s": "Chinese characters are carved into small squares of stone and stamped onto paper with ink.", "src": "外研社B3 U4", "cat": "waiyan", "t": "汉字被刻在小块方石上，再用墨拓印到纸上。"}, {"s": "In the 1980s, the team burst onto the international volleyball scene with several major world titles, and an amazing three-set victory over the United States in the final of the 1984 Los Angeles Olympics.", "src": "外研社B4 U3", "cat": "waiyan", "t": "20世纪80年代，这支球队突然在国际排坛崭露头角，赢得了几个重要的世界冠军，并在1984年洛杉矶奥运会决赛中以惊人的三比零战胜美国。"}, {"s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.", "src": "外研社B1 U3", "cat": "waiyan", "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"}]}, {"def": "used to show that sth faces in a particular direction 朝向，面向（某个方向）", "ex": [{"s": "These qualities, in turn, are mapped onto products that have been assigned a gender.", "src": "2025浙江1月卷·阅读理解D", "cat": "gaokao", "year": 2025, "t": "最有效的生活方式是努力成为那种罕见的混合体——狐狸式刺猍。"}, {"s": "in the future，the team hopes to develop a version of the technology that can be sprayed onto plant leaves in a one-off treatment that would last the plant’s lifetime.", "src": "2020全国I卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "未来，该团队希望开发一种技术版本，可以一次性喷洒到植物叶片上，效果持续植物一生。"}, {"s": "If you ever get the impression that your dog can \"tell\" whether you look content or annoyed, you may be onto something.", "src": "2021浙江6月卷·阅读理解C", "cat": "gaokao", "year": 2021, "t": "如果你得到的印象是 你的狗可以\"说\" 无论你看起来满足或烦恼，你可能会在的东西。"}]}, {"def": "to know about what sb has done wrong 发现（某人做了坏事）", "ex": [{"s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.", "src": "2020全国I卷·阅读理解D", "cat": "gaokao", "year": 2020, "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"}]}, {"def": "to be talking to sb, usually in order to ask or tell them sth 与 … 谈话；询问", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈɒntə; NAmE ˈɑːntə",
+    "pos": "prep.",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "（与动词连用，表示朝某处或某位置运动）向，朝",
+      "ex": [
+        {
+          "s": "He pushed a chair onto the balcony, and climbed up   59   （see）them.",
+          "src": "2022全国新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他把一把椅子推到阳台上，爬上去（第59空，see）他们。"
+        },
+        {
+          "s": "People in Thailand generally use their forks only to push food onto their spoons.",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "泰国人通常只用叉子把食物拨到勺子上。"
+        },
+        {
+          "s": "The boy lifted the last bag onto his shoulder, and flashed a bright smile.",
+          "src": "2020浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "男孩把最后一个袋子扛到肩上，露出了灿烂的笑容。"
+        },
+        {
+          "s": "They can be directed onto a specific area.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它们可以被导向特定区域。"
+        },
+        {
+          "s": "This forms clouds from which rain falls down onto the mountain terraces once again.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "这形成了云层，雨水再次落在山台上。"
+        },
+        {
+          "s": "However, recent years have seen more and more unusual flavours come onto the market.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "然而，近年来，市场上出现了越来越多不寻常的口味。"
+        },
+        {
+          "s": "Chinese characters are carved into small squares of stone and stamped onto paper with ink.",
+          "src": "外研社B3 U4",
+          "cat": "waiyan",
+          "t": "汉字被刻在小块方石上，再用墨拓印到纸上。"
+        },
+        {
+          "s": "In the 1980s, the team burst onto the international volleyball scene with several major world titles, and an amazing three-set victory over the United States in the final of the 1984 Los Angeles Olympics.",
+          "src": "外研社B4 U3",
+          "cat": "waiyan",
+          "t": "20世纪80年代，这支球队突然在国际排坛崭露头角，赢得了几个重要的世界冠军，并在1984年洛杉矶奥运会决赛中以惊人的三比零战胜美国。"
+        },
+        {
+          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
+        }
+      ]
+    },
+    {
+      "def": "used to show that sth faces in a particular direction 朝向，面向（某个方向）",
+      "ex": [
+        {
+          "s": "These qualities, in turn, are mapped onto products that have been assigned a gender.",
+          "src": "2025浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "最有效的生活方式是努力成为那种罕见的混合体——狐狸式刺猍。"
+        },
+        {
+          "s": "in the future，the team hopes to develop a version of the technology that can be sprayed onto plant leaves in a one-off treatment that would last the plant’s lifetime.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "未来，该团队希望开发一种技术版本，可以一次性喷洒到植物叶片上，效果持续植物一生。"
+        },
+        {
+          "s": "If you ever get the impression that your dog can \"tell\" whether you look content or annoyed, you may be onto something.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如果你得到的印象是 你的狗可以\"说\" 无论你看起来满足或烦恼，你可能会在的东西。"
+        }
+      ]
+    },
+    {
+      "def": "to know about what sb has done wrong 发现（某人做了坏事）",
+      "ex": [
+        {
+          "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
+        }
+      ]
+    },
+    {
+      "def": "to be talking to sb, usually in order to ask or tell them sth 与 … 谈话；询问",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "onto their",
+      "cn": "向 他们的",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "chair onto",
+      "cn": "椅子 向",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "onto the balcony",
+      "cn": "向 该",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a chair onto",
+      "cn": "一个 椅子 向",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "food onto",
+      "cn": "食物 向",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "onto their spoons",
+      "cn": "向 他们的 勺",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "push food onto",
+      "cn": "推动 食物 向",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "onto his",
+      "cn": "向 他的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

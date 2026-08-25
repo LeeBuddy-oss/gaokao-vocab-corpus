@@ -1,1 +1,93 @@
-{"meta": {"ph": "ˈdɔːmətri; NAmE ˈdɔːrmətɔːri", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a room for several people to sleep in, especially in a school or other institution 宿舍；学生宿舍", "ex": [{"s": "I’m staying in a hostel dormitory right now, but I’ve put an ad online to find a friendly Chinese family for a homestay.", "src": "人教选必2 U5", "cat": "renjiao", "t": "我现在住在青年旅舍的宿舍里，但我已经在网上发布广告，想找一个友好的中国家庭做寄宿家庭。"}, {"s": "Today he lives in a small dormitory room with only second-hand 15 furniture.", "src": "北师大选必1 U2", "cat": "beishida", "t": "今天他住在一间小宿舍里，只有二手15件家具。"}, {"s": "Anxious parents and excited students were talking in small groups, carrying suitcases or walking in and out of dormitory buildings.", "src": "译林选必4 U4", "cat": "yilin", "t": "焦虑的家长和兴奋的学生们在三五成群地交谈，提着行李箱或进出宿舍楼。"}]}, {"def": "a building for university or college students to live in （大学）学生宿舍", "ex": [{"s": "When I first moved into my dormitory at college, this made my roommates quite confused as they saw me in the same clothes day after day.", "src": "外研社B6 U1", "cat": "waiyan", "t": "当我刚搬进大学宿舍时，这让我的室友们相当困惑，因为他们看到我日复一日穿着同样的衣服。"}]}], "chunks": [{"en": "small dormitory", "cn": "小的宿舍", "type": "名词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "ˈdɔːmətri; NAmE ˈdɔːrmətɔːri",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a room for several people to sleep in, especially in a school or other institution 宿舍；学生宿舍",
+      "ex": [
+        {
+          "s": "I’m staying in a hostel dormitory right now, but I’ve put an ad online to find a friendly Chinese family for a homestay.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "我现在住在青年旅舍的宿舍里，但我已经在网上发布广告，想找一个友好的中国家庭做寄宿家庭。"
+        },
+        {
+          "s": "Today he lives in a small dormitory room with only second-hand 15 furniture.",
+          "src": "北师大选必1 U2",
+          "cat": "beishida",
+          "t": "今天他住在一间小宿舍里，只有二手15件家具。"
+        },
+        {
+          "s": "Anxious parents and excited students were talking in small groups, carrying suitcases or walking in and out of dormitory buildings.",
+          "src": "译林选必4 U4",
+          "cat": "yilin",
+          "t": "焦虑的家长和兴奋的学生们在三五成群地交谈，提着行李箱或进出宿舍楼。"
+        }
+      ]
+    },
+    {
+      "def": "a building for university or college students to live in （大学）学生宿舍",
+      "ex": [
+        {
+          "s": "When I first moved into my dormitory at college, this made my roommates quite confused as they saw me in the same clothes day after day.",
+          "src": "外研社B6 U1",
+          "cat": "waiyan",
+          "t": "当我刚搬进大学宿舍时，这让我的室友们相当困惑，因为他们看到我日复一日穿着同样的衣服。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "dormitory right",
+      "cn": "宿舍 正当",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "hostel dormitory",
+      "cn": "宿舍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a hostel dormitory",
+      "cn": "一个 宿舍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dormitory room",
+      "cn": "宿舍 房间",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "small dormitory",
+      "cn": "小的 宿舍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a small dormitory",
+      "cn": "一个 小的 宿舍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dormitory buildings",
+      "cn": "宿舍 建筑物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "of dormitory buildings",
+      "cn": "的 宿舍 建筑物",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,80 @@
-{"meta":{"ph":"ˈresl; NAmE ˈresl","pos":"verb","stars":"★★"},"defs":[{"def":"to fight sb by holding them and trying to throw or force them to the ground, sometimes as a sport 摔跤","ex":[{"s":"As islands wrestle with rising sea levels, what is to be done?","src":"外研社B5 U6","cat":"waiyan","t":"面对不断上升的海平面，这些岛屿该如何应对，又该做些什么？"},{"s":"Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!","src":"人教选必4 U2","cat":"renjiao","t":"不过，在高峰季节要小心不要去受欢迎的岛屿，除非你想(摔跤)与其他游客一起！"},{"s":"Philosophers, geneticists and government officials have all started to wrestle with such moral issues.","src":"译林选必2 U3","cat":"yilin","t":"哲学家、遗传学家和政府官员都已开始认真应对此类道德问题。"}]},{"def":"to struggle to deal with sth that is difficult 奋力对付；努力处理；全力解决","ex":[]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈresl; NAmE ˈresl",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to fight sb by holding them and trying to throw or force them to the ground, sometimes as a sport 摔跤",
+      "ex": [
+        {
+          "s": "As islands wrestle with rising sea levels, what is to be done?",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "面对不断上升的海平面，这些岛屿该如何应对，又该做些什么？"
+        },
+        {
+          "s": "Be careful, however, not to go to popular islands during peak season, unless you want to (wrestle) with other tourists!",
+          "src": "人教选必4 U2",
+          "cat": "renjiao",
+          "t": "不过，在高峰季节要小心不要去受欢迎的岛屿，除非你想(摔跤)与其他游客一起！"
+        },
+        {
+          "s": "Philosophers, geneticists and government officials have all started to wrestle with such moral issues.",
+          "src": "译林选必2 U3",
+          "cat": "yilin",
+          "t": "哲学家、遗传学家和政府官员都已开始认真应对此类道德问题。"
+        }
+      ]
+    },
+    {
+      "def": "to struggle to deal with sth that is difficult 奋力对付；努力处理；全力解决",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "islands wrestle",
+      "cn": "岛 摔跤",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wrestle with rising",
+      "cn": "摔跤 与 增加",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "as islands wrestle",
+      "cn": "作为 岛 摔跤",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "want to wrestle",
+      "cn": "要 去 摔跤",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wrestle with other tourists",
+      "cn": "摔跤 与 其他 旅游者",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "started to wrestle",
+      "cn": "开始 去 摔跤",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "wrestle with such moral",
+      "cn": "摔跤 与 这样的 道德的",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}

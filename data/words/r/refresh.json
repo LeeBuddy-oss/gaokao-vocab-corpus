@@ -1,1 +1,116 @@
-{"meta": {"ph": "rɪˈfreʃ; NAmE rɪˈfreʃ", "pos": "verb", "stars": "★★"}, "defs": [{"def": "to make sb feel less tired or less hot 使恢复精力；使凉爽", "ex": [{"s": "Being in nature refreshes us.", "src": "2019全国I卷·Is Fresh Air Really Good for You?", "cat": "gaokao", "year": 2019, "t": "身处大自然使我们精神焕发。"}, {"s": "If you can find something else to concentrate for a while, you will most certainly feel much more refreshed later on.", "src": "人教选必3 U2", "cat": "renjiao", "t": "如果你能找到别的事情专注一会儿，之后你肯定会感到精神好了很多。"}]}, {"def": "to fill sb's glass or cup again 重新斟满", "ex": []}, {"def": "to remind yourself/sb of sth, especially with the help of sth that can be seen or heard 提醒；提示；使想起", "ex": [{"s": "At worst, you will have refreshed and deepened your knowledge of the rules you normally apply, so that you can be even more effective next time.", "src": "2023天津3月卷·阅读理解D", "cat": "gaokao", "year": 2023, "t": "最坏的情况是，你复习并加深了对通常所运用规则的理解，以便下次能更加高效。"}, {"s": "It is refreshing to think that there was once such a person who did not just speak wise words to live by, but who also put those words into practice during his own life.", "src": "人教选必3 U5", "cat": "renjiao", "t": "令人耳目一新的是，想到曾经有一个人，他不仅说出智慧的格言让人遵循，而且在自己的一生中也将这些话付诸实践。"}]}, {"def": "to get the most recent information, for example on an Internet page, by clicking on a button on the screen 刷新；更新；重新整理", "ex": [{"s": "I get refreshed through climbing, spend more time with my dad, and get to meet new friends.", "src": "人教选必3 U2", "cat": "renjiao", "t": "通过攀岩我得到了放松，花了更多时间陪我爸爸，还能认识新朋友。"}, {"s": "Potential benefits Moral concerns will lead to cures for various has refreshed the technical possibility of diseases cloning of other species Read the last paragraph.What does Einstein's quote mean?", "src": "北师大选必3 U9", "cat": "beishida", "t": "潜在益处 道德担忧 将带来各种疾病的治疗方法 已经刷新了其他物种克隆的技术可能性 读最后一段。爱因斯坦的名言是什么意思？"}]}], "chunks": [{"en": "be refreshing to", "cn": "使恢复精力", "type": "动词短语", "count": 1}]}
+{
+  "meta": {
+    "ph": "rɪˈfreʃ; NAmE rɪˈfreʃ",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to make sb feel less tired or less hot 使恢复精力；使凉爽",
+      "ex": [
+        {
+          "s": "Being in nature refreshes us.",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "身处大自然使我们精神焕发。"
+        },
+        {
+          "s": "If you can find something else to concentrate for a while, you will most certainly feel much more refreshed later on.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "如果你能找到别的事情专注一会儿，之后你肯定会感到精神好了很多。"
+        }
+      ]
+    },
+    {
+      "def": "to fill sb's glass or cup again 重新斟满",
+      "ex": []
+    },
+    {
+      "def": "to remind yourself/sb of sth, especially with the help of sth that can be seen or heard 提醒；提示；使想起",
+      "ex": [
+        {
+          "s": "At worst, you will have refreshed and deepened your knowledge of the rules you normally apply, so that you can be even more effective next time.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "最坏的情况是，你复习并加深了对通常所运用规则的理解，以便下次能更加高效。"
+        },
+        {
+          "s": "It is refreshing to think that there was once such a person who did not just speak wise words to live by, but who also put those words into practice during his own life.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "令人耳目一新的是，想到曾经有一个人，他不仅说出智慧的格言让人遵循，而且在自己的一生中也将这些话付诸实践。"
+        }
+      ]
+    },
+    {
+      "def": "to get the most recent information, for example on an Internet page, by clicking on a button on the screen 刷新；更新；重新整理",
+      "ex": [
+        {
+          "s": "I get refreshed through climbing, spend more time with my dad, and get to meet new friends.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "通过攀岩我得到了放松，花了更多时间陪我爸爸，还能认识新朋友。"
+        },
+        {
+          "s": "Potential benefits Moral concerns will lead to cures for various has refreshed the technical possibility of diseases cloning of other species Read the last paragraph.What does Einstein's quote mean?",
+          "src": "北师大选必3 U9",
+          "cat": "beishida",
+          "t": "潜在益处 道德担忧 将带来各种疾病的治疗方法 已经刷新了其他物种克隆的技术可能性 读最后一段。爱因斯坦的名言是什么意思？"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "refreshes us",
+      "cn": "使恢复精力 我们",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "nature refreshes",
+      "cn": "宇宙中的万物 使恢复精力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "in nature refreshes",
+      "cn": "在…里 宇宙中的万物 使恢复精力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "refreshed later",
+      "cn": "使恢复精力 后来",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "more refreshed later",
+      "cn": "更多 使恢复精力 后来",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "refreshed and deepened",
+      "cn": "使恢复精力 与",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "refreshing to think",
+      "cn": "使恢复精力 去 不用于进行时",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "get refreshed",
+      "cn": "收到 使恢复精力",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

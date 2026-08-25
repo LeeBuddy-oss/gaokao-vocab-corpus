@@ -1,1 +1,164 @@
-{"meta":{"ph":"ˈdʒenəreɪt; NAmE ˈdʒenəreɪt","pos":"verb","stars":"★★"},"defs":[{"def":"to produce or create sth 产生；引起","ex":[{"s":"It generates jobs for the locals.","src":"2026新高考II卷·阅读理解D","cat":"gaokao","year":2026,"t":"它为当地人创造了就业机会。"},{"s":"To generate plant images.","src":"2026浙江1月卷·阅读理解D","cat":"gaokao","year":2026,"t":"为了生成植物图像。"},{"s":"“We’re trying to generate a language that helps bring the human-nature interactions back into our daily lives.","src":"2023新课标II卷·阅读理解D","cat":"gaokao","year":2023,"t":"我们正试图创造一种语言，帮助把人与自然的互动带回到我们的日常生活中。"},{"s":"Undefined and uncontrolled, ALife drives its followers to repurpose old ideas and generated novelty.","src":"2023北京卷·阅读理解D","cat":"gaokao","year":2023,"t":"未定义且不受控制的ALife推动其追随者重新利用旧思想并生成新事物。"},{"s":"The Government's sugar tax on soft drinks has brought in half as much money as Ministers first predicted it would generate, the first official data on the policy has shown.","src":"2022全国乙卷·阅读理解D","cat":"gaokao","year":2022,"t":"据信今天的儿童和青少年摄入的糖分是推荐水平的三倍，使他们面临更高的患病风险。"},{"s":"At present it is expected to generate £240m for the year ending in April 2019, which will go to school sports.","src":"2022全国乙卷·阅读理解D","cat":"gaokao","year":2022,"t":"目前预计到2019年4月截止的财政年度将产生2.4亿英镑的收入，这笔资金将用于学校体育。"},{"s":"Many fish perform suction feeding that requires specialised body parts to quickly generate air pressure that can draw nearby food into their mouths.","src":"2022天津4月卷·阅读理解C","cat":"gaokao","year":2022,"t":"许多鱼类进行吸食式进食，这需要特殊的身体部位快速产生气压，将附近的食物吸入嘴里。"},{"s":"Rainforests can generate 75%of their own rain.","src":"2020全国新高考II卷·阅读理解D","cat":"gaokao","year":2020,"t":"雨林可以产生自身降雨量的75%。"},{"s":"He said that one of the boxes generated around $13,500 in revenue a month and cost only about $400 to rent.","src":"2020江苏卷·阅读理解B","cat":"gaokao","year":2020,"t":"他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"},{"s":"To state the importance of generating motivation for learning．","src":"2019天津卷·20．","cat":"gaokao","year":2019,"t":"C．一个人应该努力满足周围的人。"},{"s":"Students need to generate ideas, offer examples, apply concepts, and raise questions, as well as give presentations.","src":"人教选必2 U2","cat":"renjiao","t":"学生们需要提出想法、举例、应用概念和提出问题，以及进行演示。"},{"s":"Today, heat from below the earth’s surface heats water into steam that turns turbines to generate electricity.","src":"人教选必3 U5","cat":"renjiao","t":"今天，来自地下的热量将水加热成蒸汽，驱动涡轮机来发电。"},{"s":"The USA has the largest capacity, with over 80% generated in California.","src":"人教选必3 U5","cat":"renjiao","t":"美国装机容量最大，其中超过80%在加利福尼亚州发电。"},{"s":"This code is then used to generate a list of career suggestions.","src":"人教选必4 U5","cat":"renjiao","t":"然后将这个代码用于生成职业建议列表。"},{"s":"Thorne provided the correct mathematics for the special effects team to generate the fantastic computer simulations that are seen in the film.","src":"人教选必4 U5","cat":"renjiao","t":"索恩为特效团队提供了正确的数学公式，以生成电影中看到的那些梦幻般的计算机模拟效果。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ˈdʒenəreɪt; NAmE ˈdʒenəreɪt",
+    "pos": "verb",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "to produce or create sth 产生；引起",
+      "ex": [
+        {
+          "s": "It generates jobs for the locals.",
+          "src": "2026新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "它为当地人创造了就业机会。"
+        },
+        {
+          "s": "To generate plant images.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "为了生成植物图像。"
+        },
+        {
+          "s": "“We’re trying to generate a language that helps bring the human-nature interactions back into our daily lives.",
+          "src": "2023新课标II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我们正试图创造一种语言，帮助把人与自然的互动带回到我们的日常生活中。"
+        },
+        {
+          "s": "Undefined and uncontrolled, ALife drives its followers to repurpose old ideas and generated novelty.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "未定义且不受控制的ALife推动其追随者重新利用旧思想并生成新事物。"
+        },
+        {
+          "s": "The Government's sugar tax on soft drinks has brought in half as much money as Ministers first predicted it would generate, the first official data on the policy has shown.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "据信今天的儿童和青少年摄入的糖分是推荐水平的三倍，使他们面临更高的患病风险。"
+        },
+        {
+          "s": "At present it is expected to generate £240m for the year ending in April 2019, which will go to school sports.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "目前预计到2019年4月截止的财政年度将产生2.4亿英镑的收入，这笔资金将用于学校体育。"
+        },
+        {
+          "s": "Many fish perform suction feeding that requires specialised body parts to quickly generate air pressure that can draw nearby food into their mouths.",
+          "src": "2022天津4月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "许多鱼类进行吸食式进食，这需要特殊的身体部位快速产生气压，将附近的食物吸入嘴里。"
+        },
+        {
+          "s": "Rainforests can generate 75%of their own rain.",
+          "src": "2020全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "雨林可以产生自身降雨量的75%。"
+        },
+        {
+          "s": "He said that one of the boxes generated around $13,500 in revenue a month and cost only about $400 to rent.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他说，其中一个电话亭每月产生约13,500美元的收入，而租金仅需约400美元。"
+        },
+        {
+          "s": "To state the importance of generating motivation for learning．",
+          "src": "2019天津卷·20．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "C．一个人应该努力满足周围的人。"
+        },
+        {
+          "s": "Students need to generate ideas, offer examples, apply concepts, and raise questions, as well as give presentations.",
+          "src": "人教选必2 U2",
+          "cat": "renjiao",
+          "t": "学生们需要提出想法、举例、应用概念和提出问题，以及进行演示。"
+        },
+        {
+          "s": "Today, heat from below the earth’s surface heats water into steam that turns turbines to generate electricity.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "今天，来自地下的热量将水加热成蒸汽，驱动涡轮机来发电。"
+        },
+        {
+          "s": "The USA has the largest capacity, with over 80% generated in California.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "美国装机容量最大，其中超过80%在加利福尼亚州发电。"
+        },
+        {
+          "s": "This code is then used to generate a list of career suggestions.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "然后将这个代码用于生成职业建议列表。"
+        },
+        {
+          "s": "Thorne provided the correct mathematics for the special effects team to generate the fantastic computer simulations that are seen in the film.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "索恩为特效团队提供了正确的数学公式，以生成电影中看到的那些梦幻般的计算机模拟效果。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "generates jobs",
+      "cn": "产生 工作",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "it generates jobs",
+      "cn": "它 产生 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "generate plant",
+      "cn": "产生 植物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "to generate plant",
+      "cn": "去 产生 植物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "generate a language",
+      "cn": "产生 一个 语言",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "trying to generate",
+      "cn": "试图 去 产生",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "generated novelty",
+      "cn": "产生",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "and generated novelty",
+      "cn": "与 产生",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -1,1 +1,171 @@
-{"meta":{"ph":"ɪɡˈzæm; NAmE ɪɡˈzæm","pos":"noun","stars":""},"defs":[{"def":"a formal written, spoken or practical test, especially at school or college, to see how much you know about a subject, or what you can do （笔头、口头或实习）考试","ex":[{"s":"Better examination results.","src":"2026浙江1月卷·阅读理解B","cat":"gaokao","year":2026,"t":"更好的考试成绩。"},{"s":"Take an examination alone.","src":"2024浙江1月卷·阅读理解D","cat":"gaokao","year":2024,"t":"独自参加考试。"},{"s":"For the art O-level exam I had to present an oil painting.","src":"2024北京卷·阅读理解B","cat":"gaokao","year":2024,"t":"为了艺术O-level考试，我必须提交一幅油画。"},{"s":"How did the author feel about the result of the art exam?","src":"2024北京卷·阅读理解B","cat":"gaokao","year":2024,"t":"作者对美术考试结果的感受如何？"},{"s":"During my second year, I failed my comprehensive exam because my proposal was unclear.","src":"2024北京卷·书面表达","cat":"gaokao","year":2024,"t":"在第二年，我的综合考试不及格，因为我的提案不清楚。"},{"s":"These exams, which students commonly use for practice, can give you an idea of how instructors ask questions and what they regard as relevant material.","src":"2023天津6月卷·阅读理解A","cat":"gaokao","year":2023,"t":"这些学生常用来练习的考试，能让你了解老师如何提问，以及他们认为相关的材料是什么。"},{"s":"You can also access the exams online.","src":"2023天津6月卷·阅读理解A","cat":"gaokao","year":2023,"t":"你也可以在线访问这些考试。"},{"s":"How long we stay on the clock and how we spend that time are under careful examination in many workplaces.","src":"2022浙江6月卷·阅读理解C","cat":"gaokao","year":2022,"t":"我们坚持时间有多长，我们花费的时间如何在许多工作场所受到认真审查。"},{"s":"“Some nights my heart was breaking to have to pick between my kids and studying for exams or papers,” she says.","src":"2020全国新高考I卷·阅读理解B","cat":"gaokao","year":2020,"t":"\"有些晚上要在孩子和学习考试或论文之间做选择我的心都要碎了，\"她说。"},{"s":"A: I didn’t do very well in the exam.","src":"外研社B3 U1","cat":"waiyan","t":"A：我考试考得不太好。"},{"s":"As students, it’s likely that those moments are mainly about school life, such as sitting a major exam, giving a presentation, or becoming a boarder for the first time.","src":"外研社B5 U1","cat":"waiyan","t":"作为学生，那些时刻很可能主要与学校生活有关，比如参加一次重要的考试、做一次演讲，或者第一次成为寄宿生。"},{"s":"To begin with, the school introduced an activity called the “unsupervised examination” for some of the classes.","src":"外研社B5 U2","cat":"waiyan","t":"首先，学校为部分班级引入了一项名为“无人监考考试”的活动。"}]},{"def":"a medical test of a particular part of the body （对身体特定部位进行的）检查；体检","ex":[{"s":"“During the examination children don't move.","src":"2021天津3月卷·阅读理解C","cat":"gaokao","year":2021,"t":"\"检查过程中孩子们不动。"},{"s":"In all, 80 examinations were conducted for the project between January and September, 2019, focusing on the imaging procedures that would cause anxiety.","src":"2021天津3月卷·阅读理解C","cat":"gaokao","year":2021,"t":"总共在2019年1月至9月间该项目进行了80次检查重点关注会引起焦虑的成像程序。"},{"s":"In part one, I describe the philosophical foundations of digital minimalism, starting with an examination of the forces that are making so many people’s digital lives increasingly intolerable, before moving on to a detailed discussion of the digital minimalism philosophy.","src":"2023新课标I卷·阅读理解C","cat":"gaokao","year":2023,"t":"在第一部分，我阐述了数字极简主义的哲学基础，先审视那些让许多人的数字生活越来越难以忍受的力量，接着详细讨论数字极简主义理念。"}]}],"chunks":[]}
+{
+  "meta": {
+    "ph": "ɪɡˈzæm; NAmE ɪɡˈzæm",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a formal written, spoken or practical test, especially at school or college, to see how much you know about a subject, or what you can do （笔头、口头或实习）考试",
+      "ex": [
+        {
+          "s": "Better examination results.",
+          "src": "2026浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "更好的考试成绩。"
+        },
+        {
+          "s": "Take an examination alone.",
+          "src": "2024浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "独自参加考试。"
+        },
+        {
+          "s": "For the art O-level exam I had to present an oil painting.",
+          "src": "2024北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "为了艺术O-level考试，我必须提交一幅油画。"
+        },
+        {
+          "s": "How did the author feel about the result of the art exam?",
+          "src": "2024北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "作者对美术考试结果的感受如何？"
+        },
+        {
+          "s": "During my second year, I failed my comprehensive exam because my proposal was unclear.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在第二年，我的综合考试不及格，因为我的提案不清楚。"
+        },
+        {
+          "s": "These exams, which students commonly use for practice, can give you an idea of how instructors ask questions and what they regard as relevant material.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这些学生常用来练习的考试，能让你了解老师如何提问，以及他们认为相关的材料是什么。"
+        },
+        {
+          "s": "You can also access the exams online.",
+          "src": "2023天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "你也可以在线访问这些考试。"
+        },
+        {
+          "s": "How long we stay on the clock and how we spend that time are under careful examination in many workplaces.",
+          "src": "2022浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我们坚持时间有多长，我们花费的时间如何在许多工作场所受到认真审查。"
+        },
+        {
+          "s": "“Some nights my heart was breaking to have to pick between my kids and studying for exams or papers,” she says.",
+          "src": "2020全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"有些晚上要在孩子和学习考试或论文之间做选择我的心都要碎了，\"她说。"
+        },
+        {
+          "s": "A: I didn’t do very well in the exam.",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "A：我考试考得不太好。"
+        },
+        {
+          "s": "As students, it’s likely that those moments are mainly about school life, such as sitting a major exam, giving a presentation, or becoming a boarder for the first time.",
+          "src": "外研社B5 U1",
+          "cat": "waiyan",
+          "t": "作为学生，那些时刻很可能主要与学校生活有关，比如参加一次重要的考试、做一次演讲，或者第一次成为寄宿生。"
+        },
+        {
+          "s": "To begin with, the school introduced an activity called the “unsupervised examination” for some of the classes.",
+          "src": "外研社B5 U2",
+          "cat": "waiyan",
+          "t": "首先，学校为部分班级引入了一项名为“无人监考考试”的活动。"
+        }
+      ]
+    },
+    {
+      "def": "a medical test of a particular part of the body （对身体特定部位进行的）检查；体检",
+      "ex": [
+        {
+          "s": "“During the examination children don't move.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "\"检查过程中孩子们不动。"
+        },
+        {
+          "s": "In all, 80 examinations were conducted for the project between January and September, 2019, focusing on the imaging procedures that would cause anxiety.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "总共在2019年1月至9月间该项目进行了80次检查重点关注会引起焦虑的成像程序。"
+        },
+        {
+          "s": "In part one, I describe the philosophical foundations of digital minimalism, starting with an examination of the forces that are making so many people’s digital lives increasingly intolerable, before moving on to a detailed discussion of the digital minimalism philosophy.",
+          "src": "2023新课标I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在第一部分，我阐述了数字极简主义的哲学基础，先审视那些让许多人的数字生活越来越难以忍受的力量，接着详细讨论数字极简主义理念。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "o-level exam",
+      "cn": "考试",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "art o-level exam",
+      "cn": "艺术 考试",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "art exam",
+      "cn": "艺术 考试",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the art exam",
+      "cn": "该 艺术 考试",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "comprehensive exam",
+      "cn": "全部的 考试",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "exam because my",
+      "cn": "考试 因为prep. 我的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "my comprehensive exam",
+      "cn": "我的 全部的 考试",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "exams which students",
+      "cn": "考试 哪个 大学生",
+      "type": "动词短语",
+      "count": 1
+    }
+  ]
+}
