@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825cc';
+const WORDS_URL = 'data/words.json?v=20260825ee';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825cc';
+const STATS_URL = 'data/stats.json?v=20260825ee';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825cc'), fetch(WORDS_BASE + 'manifest.json?v=20260825cc')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825ee'), fetch(WORDS_BASE + 'manifest.json?v=20260825ee')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825cc'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825ee'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -2968,8 +2968,8 @@ function renderMindMap(word, entry) {
 
   // 真题词组：优先使用人工标注词块（entry.chunks），无标注时回退到自动提取
   const manualChunks = entry.chunks;
-  // 过滤掉 count=0 的 chunks（原则：例句有才统计）
-  const filteredManual = (manualChunks || []).filter(c => c.count > 0);
+  // 过滤掉 count=0 的 chunks（原则：例句有才统计），且必须有真中文翻译（cn 不为空、不等于 en）
+  const filteredManual = (manualChunks || []).filter(c => c.count > 0 && c.cn && c.cn.trim() !== '' && c.cn.trim().toLowerCase() !== (c.en || '').trim().toLowerCase());
   if (filteredManual.length > 0) {
     // 一级标题"真题词组"独立成行，二级按类型各自成行
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span></p>`;
@@ -3010,7 +3010,7 @@ function renderMindMap(word, entry) {
   if (genres.types.length > 0 && totalGaokao >= 3) {
     const gl = genres.types.map(({ t, c }) =>
       `<span class="wv-hl">${esc(t)}</span><span class="wv-num">(${c}次)</span>`).join('、');
-    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}（共${genres.count}次）</p>`;
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}</p>`;
   }
 
   // ---- 左侧：主题词汇语义网（查询词属任一主题→渲染该主题3层网络，否则回退真题共现辐射网）----
