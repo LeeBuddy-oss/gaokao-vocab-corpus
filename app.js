@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825r';
+const WORDS_URL = 'data/words.json?v=20260825s';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825r';
+const STATS_URL = 'data/stats.json?v=20260825s';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825r'), fetch(WORDS_BASE + 'manifest.json?v=20260825r')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825s'), fetch(WORDS_BASE + 'manifest.json?v=20260825s')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825r'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825s'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1496,6 +1496,57 @@ function _extractCloudWords(defs, word) {
     }));
 }
 
+/* ========== 主题词汇语义网（科技与创新）========== */
+const TECH_THEME = {
+  name: '科技与创新',
+  center: 'technology',
+  branches: [
+    { branch: '科技发展', items: ['future','power','development','create','design','system','device','digital','machine','screen'] },
+    { branch: '技术应用', items: ['company','service','area','control','apply','remove','require','allow','explain','share'] },
+    { branch: '社会影响', items: ['change','problem','cause','cost','rise','history','idea','focus','turn','live'] }
+  ]
+};
+const TECH_THEME_WORDS = new Set([TECH_THEME.center, ...TECH_THEME.branches.flatMap(b => b.items)]);
+
+function _renderThemeNet(hw) {
+  const W = 320, H = 472;
+  const bx = [55, 160, 265];
+  const by = 92;
+  const ws = 128;
+  const rh = 28;
+  const elliRx = (w) => Math.max(w.length * 3.2 + 9, 25);
+  const isHi = (w) => w.toLowerCase() === hw;
+  let s = `<svg viewBox="0 0 ${W} ${H}" class="wv-net" xmlns="http://www.w3.org/2000/svg">`;
+  // 第1层：中心节点
+  const cHi = isHi(TECH_THEME.center);
+  s += `<ellipse cx="160" cy="40" rx="52" ry="18" fill="${cHi ? '#dc2626' : '#1f2937'}" stroke="#1f2937" stroke-width="1"/>`;
+  s += `<text x="160" y="40" text-anchor="middle" dominant-baseline="central" fill="#fff" font-size="13" font-weight="700">${esc(TECH_THEME.center)}</text>`;
+  TECH_THEME.branches.forEach((br, i) => {
+    const x = bx[i];
+    // 中心→分支连线
+    s += `<line x1="160" y1="58" x2="${x}" y2="${by - 16}" stroke="#9ca3af" stroke-width="1" stroke-opacity="0.5"/>`;
+    // 第2层：分支节点
+    s += `<ellipse cx="${x}" cy="${by}" rx="48" ry="16" fill="#e5e7eb" stroke="#9ca3af" stroke-width="0.8"/>`;
+    s += `<text x="${x}" y="${by}" text-anchor="middle" dominant-baseline="central" fill="#1f2937" font-size="11" font-weight="600">${esc(br.branch)}</text>`;
+    // 第3层：课标词（查询词红色，其他黑色，词在椭圆内居中）
+    br.items.forEach((w, j) => {
+      const wy = ws + j * rh;
+      const h = isHi(w);
+      const rx = elliRx(w);
+      if (j === 0) s += `<line x1="${x}" y1="${by + 16}" x2="${x}" y2="${wy - 12}" stroke="#d1d5db" stroke-width="0.5" stroke-opacity="0.5"/>`;
+      else s += `<line x1="${x}" y1="${wy - rh + 12}" x2="${x}" y2="${wy - 12}" stroke="#d1d5db" stroke-width="0.5" stroke-opacity="0.4"/>`;
+      if (h) {
+        s += `<ellipse cx="${x}" cy="${wy}" rx="${rx}" ry="12" fill="#fee2e2" stroke="#dc2626" stroke-width="1.3"/>`;
+        s += `<text x="${x}" y="${wy}" text-anchor="middle" dominant-baseline="central" fill="#dc2626" font-size="10" font-weight="700">${esc(w)}</text>`;
+      } else {
+        s += `<ellipse cx="${x}" cy="${wy}" rx="${rx}" ry="12" fill="#f9fafb" stroke="#d1d5db" stroke-width="0.6"/>`;
+        s += `<text x="${x}" y="${wy}" text-anchor="middle" dominant-baseline="central" fill="#374151" font-size="10">${esc(w)}</text>`;
+      }
+    });
+  });
+  s += `</svg>`;
+  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(TECH_THEME.name)} · 主题词汇语义网</div>${s}</div>`;
+}
 function renderMindMap(word, entry) {
   const meta = entry.meta || {};
   const defs = entry.defs || [];
@@ -1646,68 +1697,36 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}（共${genres.count}次）</p>`;
   }
 
-  // ---- 左侧：词汇语义网（真题共现词汇网络图）----
-  // 以目标词为中心节点，共现课标词为外围节点，线段表示共现关系
-  // 节点大小 / 线条粗细 ∝ 词频；颜色按词性：名词=蓝  动词=红  形容词=紫
-  const cloudWords = _extractCloudWords(defs, word);
+  // ---- 左侧：主题词汇语义网（查询词属"科技与创新"主题则渲染3层网络，否则回退真题共现辐射网）----
   let netHtml = '';
-  if (cloudWords.length >= 3) {
-    const top = cloudWords.slice(0, 18);
-    const maxC = top[0].c;
-    const minC = top[top.length - 1].c;
-    const logMax = Math.log(maxC);
-    const logMin = Math.log(Math.max(minC, 1));
-    const logRange = logMax - logMin || 1;
-    const colorMap = { noun: '#2563eb', verb: '#dc2626', adj: '#7c3aed', other: '#6b7280' };
-
-    const W = 300, H = 380;
-    const cx = 150, cy = 188;
-    const r = 112;
-    const n = top.length;
-
-    const nodes = top.map((cw, i) => {
-      const angle = (2 * Math.PI * i / n) - Math.PI / 2;
-      const ratio = (Math.log(cw.c) - logMin) / logRange;
-      return {
-        w: cw.w, c: cw.c, pos: cw.pos,
-        x: cx + r * Math.cos(angle),
-        y: cy + r * Math.sin(angle),
-        nr: 3.5 + ratio * 5,        // node radius 3.5–8.5
-        lw: 0.5 + ratio * 2.2,      // line width 0.5–2.7
-        angle
-      };
-    });
-
-    let svg = `<svg viewBox="0 0 ${W} ${H}" class="wv-net" xmlns="http://www.w3.org/2000/svg">`;
-
-    // 连接线（先画线，再画节点，确保线在节点下方）
-    nodes.forEach(nd => {
-      svg += `<line x1="${cx}" y1="${cy}" x2="${nd.x.toFixed(1)}" y2="${nd.y.toFixed(1)}" ` +
-             `stroke="${colorMap[nd.pos]}" stroke-width="${nd.lw.toFixed(1)}" stroke-opacity="0.3"/>`;
-    });
-
-    // 中心节点（目标词）
-    svg += `<circle cx="${cx}" cy="${cy}" r="24" fill="#1f2937"/>`;
-    svg += `<text x="${cx}" y="${cy + 5}" text-anchor="middle" fill="#fff" ` +
-           `font-size="14" font-weight="700">${esc(word)}</text>`;
-
-    // 外围节点 + 标签
-    nodes.forEach(nd => {
-      const color = colorMap[nd.pos];
-      svg += `<circle cx="${nd.x.toFixed(1)}" cy="${nd.y.toFixed(1)}" r="${nd.nr.toFixed(1)}" ` +
-             `fill="${color}" fill-opacity="0.82" stroke="#fff" stroke-width="1.2"/>`;
-      // 标签：沿径向外移，根据角度选对齐方式
-      const lo = nd.nr + 5;
-      const lx = nd.x + lo * Math.cos(nd.angle);
-      const ly = nd.y + lo * Math.sin(nd.angle) + 3.5;
-      const cosA = Math.cos(nd.angle);
-      const anchor = cosA > 0.15 ? 'start' : cosA < -0.15 ? 'end' : 'middle';
-      svg += `<text x="${lx.toFixed(1)}" y="${ly.toFixed(1)}" text-anchor="${anchor}" ` +
-             `fill="${color}" font-size="10.5" font-weight="600">${esc(nd.w)}</text>`;
-    });
-
-    svg += `</svg>`;
-    netHtml = `<div class="wv-net-wrap"><div class="wv-net-title">真题词汇语义网</div>${svg}</div>`;
+  if (TECH_THEME_WORDS.has(word.toLowerCase())) {
+    netHtml = _renderThemeNet(word.toLowerCase());
+  } else {
+    const cloudWords = _extractCloudWords(defs, word);
+    if (cloudWords.length >= 3) {
+      const top = cloudWords.slice(0, 18);
+      const maxC = top[0].c;
+      const minC = top[top.length - 1].c;
+      const logMax = Math.log(maxC);
+      const logMin = Math.log(Math.max(minC, 1));
+      const logRange = logMax - logMin || 1;
+      const colorMap = { noun: '#2563eb', verb: '#dc2626', adj: '#7c3aed', other: '#6b7280' };
+      const W = 300, H = 380;
+      const cx = 150, cy = 188;
+      const r = 112;
+      const n = top.length;
+      const nodes = top.map((cw, i) => {
+        const angle = (2 * Math.PI * i / n) - Math.PI / 2;
+        const ratio = (Math.log(cw.c) - logMin) / logRange;
+        return { w: cw.w, c: cw.c, pos: cw.pos, x: cx + r * Math.cos(angle), y: cy + r * Math.sin(angle), nr: 3.5 + ratio * 5, lw: 0.5 + ratio * 2.2, angle };
+      });
+      let svg = `<svg viewBox="0 0 ${W} ${H}" class="wv-net" xmlns="http://www.w3.org/2000/svg">`;
+      nodes.forEach(nd => { svg += `<line x1="${cx}" y1="${cy}" x2="${nd.x.toFixed(1)}" y2="${nd.y.toFixed(1)}" stroke="${colorMap[nd.pos]}" stroke-width="${nd.lw.toFixed(1)}" stroke-opacity="0.3"/>`; });
+      svg += `<circle cx="${cx}" cy="${cy}" r="24" fill="#1f2937"/><text x="${cx}" y="${cy + 5}" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">${esc(word)}</text>`;
+      nodes.forEach(nd => { const color = colorMap[nd.pos]; svg += `<circle cx="${nd.x.toFixed(1)}" cy="${nd.y.toFixed(1)}" r="${nd.nr.toFixed(1)}" fill="${color}" fill-opacity="0.82" stroke="#fff" stroke-width="1.2"/>`; const lo = nd.nr + 5; const lx = nd.x + lo * Math.cos(nd.angle); const ly = nd.y + lo * Math.sin(nd.angle) + 3.5; const cosA = Math.cos(nd.angle); const anchor = cosA > 0.15 ? 'start' : cosA < -0.15 ? 'end' : 'middle'; svg += `<text x="${lx.toFixed(1)}" y="${ly.toFixed(1)}" text-anchor="${anchor}" fill="${color}" font-size="10.5" font-weight="600">${esc(nd.w)}</text>`; });
+      svg += `</svg>`;
+      netHtml = `<div class="wv-net-wrap"><div class="wv-net-title">真题词汇语义网</div>${svg}</div>`;
+    }
   }
 
   return `<div class="wv-wrap">
