@@ -1446,52 +1446,40 @@
   ],
   "chunks": [
     {
-      "en": "author think",
-      "cn": "著者 不用于进行时",
-      "type": "动词短语",
+      "en": "about the author",
+      "cn": "关于作者",
+      "type": "介词短语",
       "count": 10
     },
     {
-      "en": "the author think",
-      "cn": "该 著者 不用于进行时",
-      "type": "名词短语",
-      "count": 10
-    },
-    {
-      "en": "author feel",
-      "cn": "著者 觉得",
-      "type": "动词短语",
-      "count": 10
-    },
-    {
-      "en": "the author feel",
-      "cn": "该 著者 觉得",
-      "type": "名词短语",
-      "count": 10
-    },
-    {
-      "en": "author think of",
-      "cn": "著者 不用于进行时 的",
-      "type": "动词短语",
-      "count": 9
-    },
-    {
-      "en": "author s purpose",
-      "cn": "著者 意图",
-      "type": "动词短语",
-      "count": 9
-    },
-    {
-      "en": "author mention",
-      "cn": "著者 提到",
-      "type": "动词短语",
+      "en": "according to the author",
+      "cn": "根据作者",
+      "type": "介词短语",
       "count": 8
     },
     {
-      "en": "the author mention",
-      "cn": "该 著者 提到",
+      "en": "author of the study",
+      "cn": "研究的作者",
       "type": "名词短语",
-      "count": 8
+      "count": 4
+    },
+    {
+      "en": "infer about the author",
+      "cn": "推断作者",
+      "type": "动词短语",
+      "count": 4
+    },
+    {
+      "en": "author's purpose",
+      "cn": "作者意图",
+      "type": "名词短语",
+      "count": 9
+    },
+    {
+      "en": "author's attitude",
+      "cn": "作者态度",
+      "type": "名词短语",
+      "count": 4
     }
   ]
 }
