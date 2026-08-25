@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825w';
+const WORDS_URL = 'data/words.json?v=20260825x';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825w';
+const STATS_URL = 'data/stats.json?v=20260825x';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825w'), fetch(WORDS_BASE + 'manifest.json?v=20260825w')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825x'), fetch(WORDS_BASE + 'manifest.json?v=20260825x')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825w'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825x'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1499,10 +1499,12 @@ function _extractCloudWords(defs, word) {
 /* ========== 主题词汇语义网（10 主题）========== */
 /* ========== 主题词汇语义网（100 主题 31 词不交叉，k-medoids 数据驱动）========== */
 /* ========== 主题词汇语义网（100 主题 31 词不交叉，k-medoids 数据驱动）========== */
+/* ========== 主题词汇语义网（100 主题 31 词不交叉，每主题专属 3 中文子主题）========== */
 const THEME_NETS = [
   {
     name: "require",
     center: "require",
+    subthemes: ["资源与形象", "要求与原则", "探索与训练"],
     branches: [
       { branch: "resource", items: ["resource", "visual", "youth", "security", "appeal", "weak", "favour", "position", "royal", "profile"] },
       { branch: "require", items: ["require", "pressure", "vision", "exam", "conclude", "sharp", "hire", "principle", "devote", "diagram"] },
@@ -1512,6 +1514,7 @@ const THEME_NETS = [
   {
     name: "conflict",
     center: "conflict",
+    subthemes: ["国家与传统", "奉献与关系", "探索与边界"],
     branches: [
       { branch: "capital", items: ["capital", "polite", "dead", "kingdom", "soldier", "debate", "tradition", "champion", "comprise", "core", "spy"] },
       { branch: "dedicate", items: ["dedicate", "ward", "brave", "mutual", "blood", "influential", "nation", "foreign", "extent", "recite", "wound"] },
@@ -1521,6 +1524,7 @@ const THEME_NETS = [
   {
     name: "reduce",
     center: "reduce",
+    subthemes: ["污染与消费", "气候与碳排", "讨论与对抗"],
     branches: [
       { branch: "reduce", items: ["reduce", "plastic", "garbage", "pollute", "electricity", "product", "consumption", "agency", "apart", "impact"] },
       { branch: "pollution", items: ["pollution", "climate", "waste", "carbon", "cut", "amount", "by", "affect", "plant", "this"] },
@@ -1530,6 +1534,7 @@ const THEME_NETS = [
   {
     name: "stand",
     center: "stand",
+    subthemes: ["位置与观察", "环境与人群", "空间与时间"],
     branches: [
       { branch: "police", items: ["police", "hole", "although", "watch", "noise", "kilometre", "know", "side", "stay", "make"] },
       { branch: "cloth", items: ["cloth", "mountain", "but", "both", "great", "crowd", "own", "happen", "eye", "somebody_someone"] },
@@ -1539,6 +1544,7 @@ const THEME_NETS = [
   {
     name: "simple",
     center: "simple",
+    subthemes: ["人物与学习", "标准与态度", "概念与使用"],
     branches: [
       { branch: "hero", items: ["hero", "author", "ball", "digital", "seem", "learn", "diverse", "well", "their", "fable"] },
       { branch: "pole", items: ["pole", "keen", "appropriate", "king", "deserve", "zero", "flexible", "excuse", "complain", "formal"] },
@@ -1548,6 +1554,7 @@ const THEME_NETS = [
   {
     name: "replace",
     center: "replace",
+    subthemes: ["物品与情感", "特征与表现", "现代与媒介"],
     branches: [
       { branch: "complicated", items: ["complicated", "bless", "candle", "banana", "throw", "lay", "defend", "shelf", "up", "just"] },
       { branch: "rhyme", items: ["rhyme", "gesture", "diamond", "pale", "tight", "nose", "aside", "gentle", "brand", "shine", "politician"] },
@@ -1557,6 +1564,7 @@ const THEME_NETS = [
   {
     name: "convince",
     center: "convince",
+    subthemes: ["资源与劳作", "食物与发明", "行动与贸易"],
     branches: [
       { branch: "coal", items: ["coal", "sow", "slave", "lamb", "potato", "format", "capacity", "lift", "worth", "weigh", "variation"] },
       { branch: "barbecue", items: ["barbecue", "hybrid", "grain", "wheat", "amateur", "pagoda", "patent", "nest", "arrow", "attain", "patriotism"] },
@@ -1566,6 +1574,7 @@ const THEME_NETS = [
   {
     name: "buy",
     center: "buy",
+    subthemes: ["声明与时间", "购物与支付", "消费与工作"],
     branches: [
       { branch: "declare", items: ["declare", "take", "vegetable", "he", "time", "spend", "some", "man", "ask", "purpose"] },
       { branch: "shop", items: ["shop", "why", "pass", "want", "meet", "big", "much", "cook", "secret", "pay"] },
@@ -1575,6 +1584,7 @@ const THEME_NETS = [
   {
     name: "moment",
     center: "moment",
+    subthemes: ["时刻与精神", "日常与情感", "性格与表达"],
     branches: [
       { branch: "moment", items: ["moment", "touch", "behind", "dark", "positive", "strength", "thin", "spirit", "everyday", "instant"] },
       { branch: "bus", items: ["bus", "corn", "cold", "corner", "jump", "happy", "not", "stress", "real", "again"] },
@@ -1584,6 +1594,7 @@ const THEME_NETS = [
   {
     name: "business",
     center: "business",
+    subthemes: ["机构与服务", "渠道与教育", "问题与项目"],
     branches: [
       { branch: "station", items: ["station", "bank", "earn", "fork", "out", "disability", "service", "decision", "now", "relationship"] },
       { branch: "channel", items: ["channel", "allow", "near", "leave", "catch", "college", "run", "dollar", "desk", "international"] },
@@ -1593,6 +1604,7 @@ const THEME_NETS = [
   {
     name: "per",
     center: "per",
+    subthemes: ["范围与水平", "资源与成就", "数据与分布"],
     branches: [
       { branch: "throughout", items: ["throughout", "show", "air", "cause", "group", "below", "low", "lower", "need", "level"] },
       { branch: "per", items: ["per", "material", "government", "advantage", "fee", "basis", "nearly", "achievement", "farm", "wander"] },
@@ -1602,6 +1614,7 @@ const THEME_NETS = [
   {
     name: "hour",
     center: "hour",
+    subthemes: ["场所与时间", "动作与时段", "地点与兴趣"],
     branches: [
       { branch: "washroom", items: ["washroom", "park", "light", "if", "available", "welcome", "until", "city", "other", "week"] },
       { branch: "fly", items: ["fly", "try", "left", "later", "evening", "less", "area", "activity", "half", "most"] },
@@ -1611,6 +1624,7 @@ const THEME_NETS = [
   {
     name: "art",
     center: "art",
+    subthemes: ["艺术场馆", "艺术形式", "欣赏与时代"],
     branches: [
       { branch: "gallery", items: ["gallery", "artist", "museum", "paint", "contemporary", "festival", "view", "discover", "piece", "beauty"] },
       { branch: "art", items: ["art", "exhibition", "prince_princess", "creative", "display", "appreciate", "culture", "maths", "dance", "decorate"] },
@@ -1620,6 +1634,7 @@ const THEME_NETS = [
   {
     name: "no",
     center: "no",
+    subthemes: ["认知与表达", "动作与状态", "否定与故事"],
     branches: [
       { branch: "extraordinary", items: ["extraordinary", "could", "me", "begin", "understand", "word", "reason", "something", "us", "few"] },
       { branch: "apparently", items: ["apparently", "walk", "during", "many", "thought", "start", "course", "continue", "any", "free"] },
@@ -1629,6 +1644,7 @@ const THEME_NETS = [
   {
     name: "choose",
     center: "choose",
+    subthemes: ["决定与文件", "选择与行动", "问候与日常"],
     branches: [
       { branch: "shall", items: ["shall", "whose", "finish", "lawyer", "agree", "paper", "fail", "receive", "choice", "online"] },
       { branch: "choose", items: ["choose", "aim", "event", "middle", "parent", "table", "swim", "move", "enter", "discuss"] },
@@ -1638,6 +1654,7 @@ const THEME_NETS = [
   {
     name: "talk",
     center: "talk",
+    subthemes: ["支持与事故", "对话与会议", "物品与人物"],
     branches: [
       { branch: "than", items: ["than", "support", "accident", "place", "between", "busy", "end", "difficult", "may", "hear"] },
       { branch: "speaker", items: ["speaker", "conversation", "mistake", "meeting", "tomorrow", "movie", "trouble", "mrs", "extra", "deal"] },
@@ -1647,6 +1664,7 @@ const THEME_NETS = [
   {
     name: "together",
     center: "together",
+    subthemes: ["物品与意义", "季节与艺术", "交流与改进"],
     branches: [
       { branch: "rope", items: ["rope", "meaning", "sun", "month", "famous", "tend", "adventure", "same", "novel", "tool"] },
       { branch: "theatre", items: ["theatre", "summer", "rainbow", "mark", "significant", "winter", "return", "director", "string", "actually"] },
@@ -1656,6 +1674,7 @@ const THEME_NETS = [
   {
     name: "scientist",
     center: "scientist",
+    subthemes: ["生物与保护", "科学与质疑", "实验与证明"],
     branches: [
       { branch: "protect", items: ["protect", "insect", "animal", "kill", "bird", "species", "exercise", "lab", "science", "result"] },
       { branch: "scientist", items: ["scientist", "effect", "against", "concern", "sample", "green", "publish", "doubt", "vast", "warn"] },
@@ -1665,6 +1684,7 @@ const THEME_NETS = [
   {
     name: "mention",
     center: "mention",
+    subthemes: ["提及与对象", "形式与组合", "文化与古老"],
     branches: [
       { branch: "mention", items: ["mention", "treasure", "object", "pair", "specialist", "transform", "seldom", "issue", "foot", "quote"] },
       { branch: "symphony", items: ["symphony", "example", "independent", "shape", "association", "surrounding", "heart", "somewhere", "include", "invest", "protest"] },
@@ -1674,6 +1694,7 @@ const THEME_NETS = [
   {
     name: "remember",
     center: "remember",
+    subthemes: ["记忆与声音", "人物与情感", "状态与完成"],
     branches: [
       { branch: "remember", items: ["remember", "voice", "page", "style", "friendship", "listen", "forget", "wonderful", "ourselves", "lovely"] },
       { branch: "guy", items: ["guy", "music", "desire", "brother", "plot", "bit", "else", "myself", "really", "carry"] },
@@ -1683,6 +1704,7 @@ const THEME_NETS = [
   {
     name: "provide",
     center: "provide",
+    subthemes: ["物品与系统", "区域与保护", "提供与适应"],
     branches: [
       { branch: "item", items: ["item", "prefer", "computer", "under", "system", "special", "major", "apply", "common", "type"] },
       { branch: "province", items: ["province", "conservation", "cover", "today", "form", "limited", "period", "adult", "explore", "point"] },
@@ -1692,6 +1714,7 @@ const THEME_NETS = [
   {
     name: "school",
     center: "school",
+    subthemes: ["教育与人物", "学习与活动", "学校与情感"],
     branches: [
       { branch: "doll", items: ["doll", "teacher", "student", "teach", "class", "off", "education", "soon", "garden", "sister"] },
       { branch: "present", items: ["present", "practise", "classroom", "girl", "classmate", "head", "sudden", "essay", "almost", "break"] },
@@ -1701,6 +1724,7 @@ const THEME_NETS = [
   {
     name: "quick",
     center: "quick",
+    subthemes: ["动作与情境", "挑战与状态", "力量与感受"],
     branches: [
       { branch: "scream", items: ["scream", "calm", "shake", "pick", "himself", "milk", "hot", "situation", "mr", "labour"] },
       { branch: "quick", items: ["quick", "challenge", "heat", "within", "burn", "rice", "wolf", "luck", "building", "usual"] },
@@ -1710,6 +1734,7 @@ const THEME_NETS = [
   {
     name: "bring",
     center: "bring",
+    subthemes: ["坚持与旅行", "带来与社区", "联合与文学"],
     branches: [
       { branch: "insist", items: ["insist", "habitat", "trip", "sport", "public", "join", "enable", "tiny", "produce", "pot", "rival"] },
       { branch: "bring", items: ["bring", "sight", "doctor", "ensure", "community", "soft", "flavour", "language", "industry", "wife"] },
@@ -1719,6 +1744,7 @@ const THEME_NETS = [
   {
     name: "must",
     center: "must",
+    subthemes: ["场所与选择", "运动与学术", "最终与竞赛"],
     branches: [
       { branch: "cafeteria", items: ["cafeteria", "direct", "travel", "select", "sentence", "introduction", "ground", "perfect", "autumn", "indicate", "packet"] },
       { branch: "athlete", items: ["athlete", "spring", "academic", "collection", "wait", "application", "lake", "humanity", "master", "image"] },
@@ -1728,6 +1754,7 @@ const THEME_NETS = [
   {
     name: "increase",
     center: "increase",
+    subthemes: ["环境与农业", "发展与联系", "状态与传承"],
     branches: [
       { branch: "increase", items: ["increase", "environment", "particular", "agriculture", "decline", "general", "length", "percentage", "drown", "ecology"] },
       { branch: "rise", items: ["rise", "university", "approach", "north", "whether", "soil", "development", "farmer", "promote", "connect"] },
@@ -1737,6 +1764,7 @@ const THEME_NETS = [
   {
     name: "grow",
     center: "grow",
+    subthemes: ["工具与方法", "生长与健康", "城市与特征"],
     branches: [
       { branch: "telephone", items: ["telephone", "method", "dry", "top", "cloud", "fast", "wall", "grass", "imagine", "succeed"] },
       { branch: "grow", items: ["grow", "disease", "trend", "hospital", "forest", "solution", "further", "degree", "praise", "root"] },
@@ -1746,6 +1774,7 @@ const THEME_NETS = [
   {
     name: "sit",
     center: "sit",
+    subthemes: ["动作与日常", "位置与情感", "安静与传递"],
     branches: [
       { branch: "bend", items: ["bend", "tea", "unusual", "maybe", "lunch", "cry", "alive", "daily", "nod", "poor"] },
       { branch: "sit", items: ["sit", "toy", "living", "goodbye", "customer", "excited", "pain", "instrument", "attention", "town"] },
@@ -1755,6 +1784,7 @@ const THEME_NETS = [
   {
     name: "global",
     center: "global",
+    subthemes: ["全球与标准", "供应与后果", "现状与潜力"],
     branches: [
       { branch: "global", items: ["global", "absolutely", "standard", "essential", "calorie", "invent", "obviously", "delight", "fair", "upper"] },
       { branch: "meanwhile", items: ["meanwhile", "shortage", "consequence", "bias", "instance", "supply", "racial", "record", "reflect", "region"] },
@@ -1764,6 +1794,7 @@ const THEME_NETS = [
   {
     name: "research",
     center: "research",
+    subthemes: ["研究与数据", "发现与认知", "特征与存在"],
     branches: [
       { branch: "research", items: ["research", "data", "scientific", "gain", "base", "indeed", "personal", "speed", "encounter", "normal"] },
       { branch: "finding", items: ["finding", "professor", "evolve", "expect", "mental", "confirm", "engineer", "identify", "unique", "sea"] },
@@ -1773,6 +1804,7 @@ const THEME_NETS = [
   {
     name: "outside",
     center: "outside",
+    subthemes: ["外部与边界", "边缘与维持", "接触与生物"],
     branches: [
       { branch: "outside", items: ["outside", "fun", "window", "shock", "chart", "wire", "stare", "hen", "bear", "dam"] },
       { branch: "edge", items: ["edge", "gather", "maintain", "soup", "contact", "creature", "breathe", "above", "correspond", "expansion"] },
@@ -1782,6 +1814,7 @@ const THEME_NETS = [
   {
     name: "hold",
     center: "hold",
+    subthemes: ["物品与游戏", "官方与会话", "中央与流动"],
     branches: [
       { branch: "skirt", items: ["skirt", "game", "writer", "attend", "host_hostess", "ultimately", "session", "date", "musician", "official"] },
       { branch: "paragraph", items: ["paragraph", "black", "central", "player", "charge", "kitchen", "party", "card", "therefore", "press"] },
@@ -1791,6 +1824,7 @@ const THEME_NETS = [
   {
     name: "control",
     center: "control",
+    subthemes: ["控制与条件", "反应与资金", "具体与行动"],
     branches: [
       { branch: "control", items: ["control", "condition", "careful", "damage", "compare", "grocery", "weed", "monitor", "match", "crazy"] },
       { branch: "nail", items: ["nail", "persuade", "reaction", "fund", "eager", "switch", "valuable", "vary", "specific", "transport", "principal"] },
@@ -1800,6 +1834,7 @@ const THEME_NETS = [
   {
     name: "process",
     center: "process",
+    subthemes: ["包含与奖励", "复杂与组成", "过程与反应"],
     branches: [
       { branch: "contain", items: ["contain", "reward", "individual", "lie", "complex", "divide", "case", "blue", "source", "original"] },
       { branch: "process", items: ["process", "copy", "consist", "smart", "fit", "involve", "dish", "factor", "survive", "aware"] },
@@ -1809,6 +1844,7 @@ const THEME_NETS = [
   {
     name: "people",
     center: "people",
+    subthemes: ["近期与自身", "身份与手段", "信念与挣扎"],
     branches: [
       { branch: "recent", items: ["recent", "yourself", "short", "list", "road", "confident", "rather", "identity", "front", "means"] },
       { branch: "evaluate", items: ["evaluate", "habit", "task", "already", "goal", "suffer", "fix", "believe", "drink", "national"] },
@@ -1818,6 +1854,7 @@ const THEME_NETS = [
   {
     name: "china_8a7d7b",
     center: "china_8a7d7b",
+    subthemes: ["中国与公民", "数据与统计", "东方与革命"],
     branches: [
       { branch: "email", items: ["email", "chinese", "south", "citizen", "combine", "globe", "translate", "pig", "camera", "angry"] },
       { branch: "introduce", items: ["introduce", "drop", "emperor_empress", "exposure", "statistic", "snow", "settle", "bat", "comedy", "deaf"] },
@@ -1827,6 +1864,7 @@ const THEME_NETS = [
   {
     name: "my",
     center: "my",
+    subthemes: ["情绪与梦境", "家庭与日常", "自信与快乐"],
     branches: [
       { branch: "depress", items: ["depress", "son", "dream", "shout", "tired", "anything", "loud", "news", "hair", "spare"] },
       { branch: "night", items: ["night", "birthday", "reply", "push", "daughter", "upset", "joke", "personality", "ring", "office"] },
@@ -1836,6 +1874,7 @@ const THEME_NETS = [
   {
     name: "his",
     center: "his",
+    subthemes: ["变化与担忧", "寻找与阶段", "天气与休养"],
     branches: [
       { branch: "his", items: ["his", "become", "worry", "pull", "afternoon", "stage", "search", "quit", "sale", "cure"] },
       { branch: "tv", items: ["tv", "boy", "motivate", "beyond", "sleep", "weather", "save", "mess", "beach", "climb"] },
@@ -1845,6 +1884,7 @@ const THEME_NETS = [
   {
     name: "she",
     center: "she",
+    subthemes: ["关系与医学", "愿望与方向", "穿着与生活方式"],
     branches: [
       { branch: "she", items: ["she", "her", "husband", "medicine", "born", "wish", "yes", "medical", "guess", "grandmother"] },
       { branch: "anxiety", items: ["anxiety", "notice", "direction", "sweet", "patient", "trial", "graduate", "bag", "wear", "grandfather", "watermelon"] },
@@ -1854,6 +1894,7 @@ const THEME_NETS = [
   {
     name: "lost",
     center: "lost",
+    subthemes: ["海岸与岛屿", "失去与颜色", "南方与珍贵"],
     branches: [
       { branch: "coast", items: ["coast", "island", "whale", "hobby", "western", "bike", "boat", "transfer", "ok", "sail"] },
       { branch: "lost", items: ["lost", "lose", "eventually", "despite", "colour", "southern", "empty", "passenger", "ship", "chalk"] },
@@ -1863,6 +1904,7 @@ const THEME_NETS = [
   {
     name: "pure",
     center: "pure",
+    subthemes: ["干预与职业", "权力与领导", "工具与策略"],
     branches: [
       { branch: "intervention", items: ["intervention", "careless", "stomach", "occupation", "pub", "depth", "drug", "odd", "boil", "republic"] },
       { branch: "passive", items: ["passive", "sand", "tale", "wake", "authority", "beer", "commitment", "leadership", "queen", "blackboard", "reinforce"] },
@@ -1872,6 +1914,7 @@ const THEME_NETS = [
   {
     name: "success",
     center: "success",
+    subthemes: ["成功与拒绝", "财富与追求", "尊重与典型"],
     branches: [
       { branch: "success", items: ["success", "editor", "single", "acknowledge", "refuse", "prize", "failure", "delete", "lecture", "recognition"] },
       { branch: "career", items: ["career", "emphasis", "sell", "pursue", "film", "freedom", "dragon", "fog", "lightning", "respect"] },
@@ -1881,6 +1924,7 @@ const THEME_NETS = [
   {
     name: "technology",
     center: "technology",
+    subthemes: ["科技与设备", "能源与经济", "目标与发明"],
     branches: [
       { branch: "technology", items: ["technology", "power", "device", "electric", "app", "energy", "wide", "economy", "target", "market"] },
       { branch: "ambulance", items: ["ambulance", "remove", "nobody", "crime", "operate", "pen", "rabbit", "establish", "familiar", "represent"] },
@@ -1890,6 +1934,7 @@ const THEME_NETS = [
   {
     name: "family",
     center: "family",
+    subthemes: ["家庭与房屋", "新鲜与引导", "成员与周末"],
     branches: [
       { branch: "eliminate", items: ["eliminate", "tonight", "household", "straight", "website", "bedroom", "baby", "fresh", "guide", "marry", "tropical"] },
       { branch: "post", items: ["post", "housework", "pretty", "airport", "grammar", "section", "wood", "club", "tough", "celebrate"] },
@@ -1899,6 +1944,7 @@ const THEME_NETS = [
   {
     name: "home",
     center: "home",
+    subthemes: ["邻居与法律", "家具与陪伴", "安全与欢呼"],
     branches: [
       { branch: "sum", items: ["sum", "neighbour", "law", "basket", "village", "beautiful", "accompany", "chef", "demand", "furniture", "poverty"] },
       { branch: "house", items: ["house", "frequently", "homework", "lively", "annoy", "scare", "charity", "whatever", "cheap", "hill"] },
@@ -1908,6 +1954,7 @@ const THEME_NETS = [
   {
     name: "think",
     center: "think",
+    subthemes: ["思考与关心", "发展与态度", "专业与拒绝"],
     branches: [
       { branch: "think", items: ["think", "care", "develop", "usually", "anybody_anyone", "phone", "attitude", "interview", "yet", "perform"] },
       { branch: "ce", items: ["ce", "satisfy", "sad", "spell", "comment", "expand", "reject", "ignore", "professional", "term"] },
@@ -1917,6 +1964,7 @@ const THEME_NETS = [
   {
     name: "money",
     center: "money",
+    subthemes: ["政策与储蓄", "运动与竞争", "货币与创新"],
     branches: [
       { branch: "let", items: ["let", "policy", "saving", "bar", "silver", "football", "heavy", "cancel", "score", "series"] },
       { branch: "money", items: ["money", "wi_fi", "classic", "yesterday", "active", "tennis", "vote", "chicken", "compete", "distinguish"] },
@@ -1926,6 +1974,7 @@ const THEME_NETS = [
   {
     name: "open",
     center: "open",
+    subthemes: ["调查与历史", "选项与背景", "开放与目的地"],
     branches: [
       { branch: "survey", items: ["survey", "historic", "interrupt", "certainly", "register", "fantastic", "option", "primary", "sheet", "glass"] },
       { branch: "shame", items: ["shame", "architect", "urge", "aspect", "cross", "menu", "volleyball", "voluntary", "background", "chair", "turkey"] },
@@ -1935,6 +1984,7 @@ const THEME_NETS = [
   {
     name: "instead",
     center: "instead",
+    subthemes: ["清洁与治疗", "交通与情绪", "行为与舒适"],
     branches: [
       { branch: "instead", items: ["instead", "clean", "treat", "supermarket", "lesson", "fear", "traffic", "box", "huge", "strike"] },
       { branch: "delicious", items: ["delicious", "emotion", "shower", "behaviour", "cycle", "native", "context", "motor", "sink", "exactly"] },
@@ -1944,6 +1994,7 @@ const THEME_NETS = [
   {
     name: "programme",
     center: "programme",
+    subthemes: ["节目与现代化", "访问与志愿", "领袖与观众"],
     branches: [
       { branch: "astronaut", items: ["astronaut", "concert", "modernization", "weekly", "participate", "remote", "access", "volunteer", "software", "absorb", "sore"] },
       { branch: "change", items: ["change", "leader", "jam", "manager", "gym", "procedure", "war", "audience", "setting", "error"] },
@@ -1953,6 +2004,7 @@ const THEME_NETS = [
   {
     name: "blanket",
     center: "blanket",
+    subthemes: ["恐慌与 aboard", "解决与计算", "包裹与绝望"],
     branches: [
       { branch: "blanket", items: ["blanket", "panic", "aboard", "resolve", "calculate", "delay", "blind", "chip", "punish", "decent"] },
       { branch: "qualification", items: ["qualification", "wrap", "noble", "pants", "theirs", "awake", "mud", "poison", "butter", "cupboard"] },
@@ -1962,6 +2014,7 @@ const THEME_NETS = [
   {
     name: "uniform",
     center: "uniform",
+    subthemes: ["运动与化学", "婚姻与咨询", "交通与金融"],
     branches: [
       { branch: "baseball", items: ["baseball", "chemistry", "bride_bridegroom", "circuit", "consultant", "fireman", "housing", "navy", "compass", "pray", "volcano"] },
       { branch: "bakery", items: ["bakery", "tube", "secondary", "sweep", "dessert", "consultation", "mechanic", "port", "imply", "dirty", "prosperity"] },
@@ -1971,6 +2024,7 @@ const THEME_NETS = [
   {
     name: "plan",
     center: "plan",
+    subthemes: ["物品与处理", "信用与死亡", "讨论与常规"],
     branches: [
       { branch: "log", items: ["log", "plate", "handle", "credit", "duck", "teamwork", "journey", "death", "review", "wet"] },
       { branch: "plan", items: ["plan", "committee", "mad", "olympic", "pan", "discussion", "parking", "regular", "knock", "message"] },
@@ -1980,6 +2034,7 @@ const THEME_NETS = [
   {
     name: "ability",
     center: "ability",
+    subthemes: ["能力与惊奇", "知识与力量", "刺激与构造"],
     branches: [
       { branch: "ability", items: ["ability", "wonder", "brain", "memory", "knowledge", "force", "sky", "weight", "fence", "stimulate"] },
       { branch: "truth", items: ["truth", "vivid", "fault", "perspective", "pretend", "exciting", "brush", "construction", "magic", "wetland"] },
@@ -1989,6 +2044,7 @@ const THEME_NETS = [
   {
     name: "clear",
     center: "clear",
+    subthemes: ["清除与起源", "适应与加强", "网络与增加"],
     branches: [
       { branch: "litter", items: ["litter", "origin", "adaptation", "flood", "strengthen", "mix", "confused", "dear", "gap", "monkey"] },
       { branch: "shoe", items: ["shoe", "wheel", "network", "besides", "bored", "dig", "fox", "journalist", "ray", "slightly"] },
@@ -1998,6 +2054,7 @@ const THEME_NETS = [
   {
     name: "face",
     center: "face",
+    subthemes: ["持续与危险", "解释与象征", "智能与承诺"],
     branches: [
       { branch: "constant", items: ["constant", "dangerous", "freeze", "sir", "butterfly", "interpret", "leg", "somehow", "suppose", "pronunciation"] },
       { branch: "face", items: ["face", "intelligent", "railway", "arm", "symbol", "precisely", "plane", "promise", "brown", "empathy"] },
@@ -2007,6 +2064,7 @@ const THEME_NETS = [
   {
     name: "explain",
     center: "explain",
+    subthemes: ["评估与现象", "保存与负责", "哲学与演示"],
     branches: [
       { branch: "pool", items: ["pool", "false", "assess", "notebook", "phenomenon", "preserve", "responsible", "random", "surround", "clarify", "suburb"] },
       { branch: "towards", items: ["towards", "philosophy", "carrot", "offend", "intend", "biology", "bond", "president", "wallet", "proposal"] },
@@ -2016,6 +2074,7 @@ const THEME_NETS = [
   {
     name: "duration",
     center: "duration",
+    subthemes: ["布料与预期", "休闲与纪念", "几何与暂时"],
     branches: [
       { branch: "fabric", items: ["fabric", "anticipate", "mall", "receipt", "recreation", "drill", "memorial", "cotton", "proceed", "breast", "mushroom"] },
       { branch: "goat", items: ["goat", "dizzy", "geometry", "temporary", "hike", "beard", "bowling", "communist", "competence", "cooperate", "windy"] },
@@ -2025,6 +2084,7 @@ const THEME_NETS = [
   {
     name: "book",
     center: "book",
+    subthemes: ["书籍与历史", "文章与规则", "场景与文学"],
     branches: [
       { branch: "book", items: ["book", "history", "library", "article", "custom", "rule", "opinion", "relax", "chapter", "ticket"] },
       { branch: "express", items: ["express", "bother", "magazine", "grand", "literature", "occur", "terrible", "brilliant", "librarian", "novelist"] },
@@ -2034,6 +2094,7 @@ const THEME_NETS = [
   {
     name: "question",
     center: "question",
+    subthemes: ["答案与发现", "比较与主张", "问题与主题"],
     branches: [
       { branch: "answer", items: ["answer", "discovery", "nor", "comparison", "claim", "physics", "regardless", "universe", "description", "ideal"] },
       { branch: "objective", items: ["objective", "assumption", "blame", "screen", "comprehension", "continent", "defence", "elephant", "genius", "illness"] },
@@ -2043,6 +2104,7 @@ const THEME_NETS = [
   {
     name: "earth",
     center: "earth",
+    subthemes: ["地球与行星", "河流与建议", "日历与月亮"],
     branches: [
       { branch: "earth", items: ["earth", "planet", "shift", "river", "suggestion", "collect", "missing", "pond", "bottle", "calendar"] },
       { branch: "moon", items: ["moon", "apple", "incredible", "flat", "bitter", "bacteria", "fool", "satellite", "solar", "disaster"] },
@@ -2052,6 +2114,7 @@ const THEME_NETS = [
   {
     name: "multiple",
     center: "multiple",
+    subthemes: ["缝纫与纪律", "基因与指控", "症状与感染"],
     branches: [
       { branch: "sew", items: ["sew", "discipline", "gene", "accuse", "ethical", "monthly", "educator", "prison", "automatic", "proof", "resign"] },
       { branch: "symptom", items: ["symptom", "infection", "arrest", "flu", "alert", "announce", "pear", "sneeze", "astronomer", "noon", "missile"] },
@@ -2061,6 +2124,7 @@ const THEME_NETS = [
   {
     name: "train",
     center: "train",
+    subthemes: ["食物与幸运", "校园与平台", "治疗与入口"],
     branches: [
       { branch: "bug", items: ["bug", "strawberry", "chocolate", "fortunately", "certificate", "semester", "smooth", "campus", "platform", "treatment", "nephew"] },
       { branch: "train", items: ["train", "entrance", "launch", "rubber", "superior", "valid", "fry", "enhance", "expense", "fuel"] },
@@ -2070,6 +2134,7 @@ const THEME_NETS = [
   {
     name: "since",
     center: "since",
+    subthemes: ["现在与事务", "饥饿与更新", "位置与药片"],
     branches: [
       { branch: "nowadays", items: ["nowadays", "affair", "hungry", "update", "chain", "jaw", "riddle", "scarf", "ingredient", "overall"] },
       { branch: "dust", items: ["dust", "retire", "juice", "march", "danger", "oil", "quantity", "ton", "bay", "cell", "plus"] },
@@ -2079,6 +2144,7 @@ const THEME_NETS = [
   {
     name: "such",
     center: "such",
+    subthemes: ["少年与联系", "营养与小组", "期待与责任"],
     branches: [
       { branch: "teenage", items: ["teenage", "link", "nutrition", "panel", "rely", "reliable", "composition", "senior", "convenient", "expectation"] },
       { branch: "bone", items: ["bone", "passion", "dolphin", "commercial", "warning", "elsewhere", "solid", "yours", "examine", "glad"] },
@@ -2088,6 +2154,7 @@ const THEME_NETS = [
   {
     name: "dismiss",
     center: "dismiss",
+    subthemes: ["神秘与雷声", "议程与暂停", "输出与统治"],
     branches: [
       { branch: "mystery", items: ["mystery", "thunder", "agenda", "suspend", "canal", "subsequent", "division", "primitive", "super", "equator"] },
       { branch: "leather", items: ["leather", "hers", "enormous", "manner", "basin", "handkerchief", "humble", "integrity", "millimetre", "output", "surgeon"] },
@@ -2097,6 +2164,7 @@ const THEME_NETS = [
   {
     name: "text",
     center: "text",
+    subthemes: ["计数与风景", "安排与崩溃", "类别与框架"],
     branches: [
       { branch: "count", items: ["count", "landscape", "arrangement", "wave", "crash", "snack", "advocate", "differ", "geography", "absence"] },
       { branch: "cheese", items: ["cheese", "dramatic", "smoke", "wing", "ad", "category", "cup", "frame", "psychology", "trick", "strait"] },
@@ -2106,6 +2174,7 @@ const THEME_NETS = [
   {
     name: "stability",
     center: "stability",
+    subthemes: ["稳定与僵化", "税收与混合", "暴力与拖动"],
     branches: [
       { branch: "stability", items: ["stability", "rigid", "tax", "ripe", "mist", "mixture", "ms", "stair", "stamp", "twin"] },
       { branch: "chorus", items: ["chorus", "bomb", "clay", "violence", "drag", "flour", "glove", "piano", "relay", "bamboo", "wage"] },
@@ -2115,6 +2184,7 @@ const THEME_NETS = [
   {
     name: "various",
     center: "various",
+    subthemes: ["发音与点击", "灭绝与祖先", "同情与地下"],
     branches: [
       { branch: "pronounce", items: ["pronounce", "click", "extinction", "ancestor", "centimetre", "military", "arctic", "sympathy", "underground", "myth", "rhythm"] },
       { branch: "various", items: ["various", "sugar", "critical", "detect", "bean", "folk", "fountain", "grape", "newspaper", "rainy"] },
@@ -2124,6 +2194,7 @@ const THEME_NETS = [
   {
     name: "feel",
     center: "feel",
+    subthemes: ["言语与衣物", "感知与孤独", "名声与胃口"],
     branches: [
       { branch: "saying", items: ["saying", "clothes", "perceive", "lonely", "convey", "salary", "lucky", "steal", "awesome", "contrary"] },
       { branch: "its", items: ["its", "journal", "admit", "reputation", "appetite", "frightened", "ease", "handbag", "skateboard", "abstract"] },
@@ -2133,6 +2204,7 @@ const THEME_NETS = [
   {
     name: "number",
     center: "number",
+    subthemes: ["文件与出生", "媒介与平原", "运动与竞选"],
     branches: [
       { branch: "document", items: ["document", "birth", "medium", "plain", "pilot", "twice", "bonus", "boost", "fist", "permit"] },
       { branch: "number", items: ["number", "cost", "population", "photo", "relative", "campaign", "gas", "widespread", "europe", "bce"] },
@@ -2142,6 +2214,7 @@ const THEME_NETS = [
   {
     name: "right",
     center: "right",
+    subthemes: ["对错与准备", "街道与酒店", "效率与保证"],
     branches: [
       { branch: "right", items: ["right", "wrong", "prepare", "hurry", "street", "hotel", "technique", "horse", "ought", "rock"] },
       { branch: "main", items: ["main", "oxygen", "efficient", "guarantee", "ride", "lean", "purple", "swing", "organ", "pattern"] },
@@ -2151,6 +2224,7 @@ const THEME_NETS = [
   {
     name: "win",
     center: "win",
+    subthemes: ["优雅与智慧", "丛林与手术", "结果与平衡"],
     branches: [
       { branch: "graceful", items: ["graceful", "wisdom", "jungle", "policeman_policewoman", "brick", "cave", "surgery", "outcome", "balance", "winner", "sincerely"] },
       { branch: "neat", items: ["neat", "circle", "fiction", "slide", "tackle", "equipment", "fortune", "handwriting", "premier", "spacecraft"] },
@@ -2160,6 +2234,7 @@ const THEME_NETS = [
   {
     name: "high",
     center: "high",
+    subthemes: ["孔子与缓解", "承诺与和谐", "心情与高峰"],
     branches: [
       { branch: "confucius", items: ["confucius", "relieve", "commit", "envelope", "harmony", "mood", "peak", "maximum", "profit", "emerge"] },
       { branch: "and", items: ["and", "initial", "broadcast", "rating", "zone", "cast", "district", "mount", "pity", "shadow"] },
@@ -2169,6 +2244,7 @@ const THEME_NETS = [
   {
     name: "popular",
     center: "popular",
+    subthemes: ["酸与操场", "饼干与周年", "国内与陷阱"],
     branches: [
       { branch: "sour", items: ["sour", "playground", "cookie", "anniversary", "domestic", "trap", "cautious", "honey", "impress", "irrigation", "pardon"] },
       { branch: "song", items: ["song", "spicy", "entertainment", "clue", "dynamic", "horrible", "kung", "lip", "monument", "pizza"] },
@@ -2178,6 +2254,7 @@ const THEME_NETS = [
   {
     name: "build",
     center: "build",
+    subthemes: ["传奇与预测", "废弃与屋顶", "职业与城堡"],
     branches: [
       { branch: "legend", items: ["legend", "predict", "highlight", "abandon", "roof", "profession", "anywhere", "generous", "castle", "deadline", "telescope"] },
       { branch: "build", items: ["build", "justify", "muscle", "ceremony", "departure", "hug", "label", "remarkable", "seize", "tolerate"] },
@@ -2187,6 +2264,7 @@ const THEME_NETS = [
   {
     name: "fall",
     center: "fall",
+    subthemes: ["娱乐与附近", "灯与禁止", "对话与面包"],
     branches: [
       { branch: "amuse", items: ["amuse", "nearby", "lamp", "prohibit", "chief", "dialogue", "beside", "bread", "resident", "stretch", "mouse"] },
       { branch: "fall", items: ["fall", "adjust", "cheat", "crowded", "gradually", "garlic", "humour", "pudding", "collar", "detective"] },
@@ -2196,6 +2274,7 @@ const THEME_NETS = [
   {
     name: "strange",
     center: "strange",
+    subthemes: ["陌生与陌生人", "比赛与假期", "微妙与隐藏"],
     branches: [
       { branch: "strange", items: ["strange", "stranger", "race", "holiday", "chat", "sigh", "purse", "delicate", "hide", "superb"] },
       { branch: "throat", items: ["throat", "lady", "afford", "neither", "egg", "pace", "relief", "enthusiastic", "blow", "breath", "radiation"] },
@@ -2205,6 +2284,7 @@ const THEME_NETS = [
   {
     name: "the",
     center: "the",
+    subthemes: ["众多与回应", "正确与产生", "紧急与财产"],
     branches: [
       { branch: "numerous", items: ["numerous", "respond", "proper", "generate", "broad", "obtain", "emergency", "fat", "firm", "recording", "receptionist"] },
       { branch: "the", items: ["the", "agreement", "blank", "ill", "property", "rescue", "whenever", "accurate", "aloud", "severe"] },
@@ -2224,6 +2304,7 @@ const THEME_NETS = [
   {
     name: "a_an",
     center: "a_an",
+    subthemes: ["勇气与优雅", "判断与乡村", "元素与意图"],
     branches: [
       { branch: "courage", items: ["courage", "elegant", "judge", "countryside", "database", "element", "hat", "hence", "honest", "intention", "supplement"] },
       { branch: "chest", items: ["chest", "nevertheless", "priority", "shut", "slice", "stadium", "bowl", "component", "mail", "virtue"] },
@@ -2233,6 +2314,7 @@ const THEME_NETS = [
   {
     name: "to",
     center: "to",
+    subthemes: ["颜色与招呼", "运动与恢复", "事件与幼儿园"],
     branches: [
       { branch: "pink", items: ["pink", "hi", "soccer", "react", "restore", "row", "seed", "stuff", "theft", "unless"] },
       { branch: "look", items: ["look", "burst", "candidate", "collapse", "discrimination", "drawer", "extend", "float", "incident", "kindergarten"] },
@@ -2242,6 +2324,7 @@ const THEME_NETS = [
   {
     name: "in",
     center: "in",
+    subthemes: ["和平与摄影", "原始与帐篷", "能力与收入"],
     branches: [
       { branch: "peace", items: ["peace", "photographer", "raw", "tent", "ugly", "zoo", "thirsty", "venue", "advertise", "balloon"] },
       { branch: "we", items: ["we", "bounce", "capable", "concrete", "consistent", "faith", "grandparent", "honour", "income", "joint"] },
@@ -2251,6 +2334,7 @@ const THEME_NETS = [
   {
     name: "of",
     center: "of",
+    subthemes: ["我们的与上方", "部分与小", "享受与锁"],
     branches: [
       { branch: "of", items: ["of", "our", "over", "often", "part", "call", "little", "small", "play", "enjoy"] },
       { branch: "can", items: ["can", "gate", "lock", "merely", "ours", "preference", "realistic", "shoulder", "shy", "straightforward"] },
@@ -2260,6 +2344,7 @@ const THEME_NETS = [
   {
     name: "and",
     center: "and",
+    subthemes: ["日与同时", "居住与保持", "通过与更好"],
     branches: [
       { branch: "and", items: ["day", "while", "live", "keep", "through", "too", "better", "friend", "very", "truck"] },
       { branch: "all", items: ["all", "organic", "behave", "oppose", "quarter", "recall", "salt", "status", "tendency", "wine"] },
@@ -2269,6 +2354,7 @@ const THEME_NETS = [
   {
     name: "for",
     center: "for",
+    subthemes: ["之后与看见", "给予与长", "每个与孩子"],
     branches: [
       { branch: "for", items: ["for", "after", "see", "give", "long", "each", "child", "being", "old", "love"] },
       { branch: "will", items: ["will", "bell", "hometown", "cartoon", "coat", "elder", "glance", "membership", "niece", "pepper"] },
@@ -2278,6 +2364,7 @@ const THEME_NETS = [
   {
     name: "it",
     center: "it",
+    subthemes: ["年轻与想法", "另一个与从不", "心灵与足够"],
     branches: [
       { branch: "it", items: ["it", "young", "idea", "another", "never", "mind", "without", "enough", "report", "sense"] },
       { branch: "good", items: ["good", "beneath", "disturb", "protein", "comprehensive", "contract", "crisis", "cruel", "distinct", "finance"] },
@@ -2287,6 +2374,7 @@ const THEME_NETS = [
   {
     name: "that",
     center: "that",
+    subthemes: ["生命与那时", "这些与意思", "世界与因为"],
     branches: [
       { branch: "that", items: ["that", "life", "then", "these", "mean", "world", "because", "back", "still", "however"] },
       { branch: "would", items: ["would", "ceiling", "guideline", "prior", "somewhat", "starve", "sweat", "tower", "valley", "withdraw"] },
@@ -2296,6 +2384,7 @@ const THEME_NETS = [
   {
     name: "what",
     center: "what",
+    subthemes: ["本地与能力", "设计与种类", "鼓励与信息"],
     branches: [
       { branch: "what", items: ["what", "local", "able", "design", "kind", "encourage", "information", "likely", "send", "describe"] },
       { branch: "where", items: ["where", "physician", "firework", "weep", "minimum", "nowhere", "optimistic", "pencil", "permanent", "petrol"] },
@@ -2305,6 +2394,7 @@ const THEME_NETS = [
   {
     name: "do",
     center: "do",
+    subthemes: ["应当与经验", "建议与避免", "质量与增加"],
     branches: [
       { branch: "do", items: ["do", "should", "experience", "suggest", "avoid", "quality", "add", "sometimes", "key", "act"] },
       { branch: "way", items: ["way", "rubbish", "rude", "drone", "alcohol", "captain", "client", "needle", "resistance", "rocket"] },
@@ -2314,6 +2404,7 @@ const THEME_NETS = [
   {
     name: "with",
     center: "with",
+    subthemes: ["大与近", "田野与线", "自然与极端"],
     branches: [
       { branch: "with", items: ["with", "large", "close", "field", "line", "natural", "extremely", "pack", "forward", "spot"] },
       { branch: "share", items: ["share", "initiative", "violin", "collaborate", "shore", "tomato", "fancy", "ink", "inspection", "knife"] },
@@ -2323,6 +2414,7 @@ const THEME_NETS = [
   {
     name: "on",
     center: "on",
+    subthemes: ["驾驶与聚焦", "到达与缓慢", "启发与检查"],
     branches: [
       { branch: "on", items: ["on", "drive", "focus", "arrive", "slow", "inspire", "check", "expert", "bite", "depend"] },
       { branch: "minute", items: ["minute", "occasion", "operation", "sustain", "tension", "typhoon", "wool", "autonomous", "backward", "carve"] },
@@ -2332,6 +2424,7 @@ const THEME_NETS = [
   {
     name: "from",
     center: "from",
+    subthemes: ["离开与绘画", "自然与某些", "内部与有用"],
     branches: [
       { branch: "from", items: ["from", "away", "draw", "nature", "certain", "inside", "useful", "perhaps", "traditional", "performance", "x_ray"] },
       { branch: "used", items: ["used", "minister", "pie", "plug", "steak", "visible", "approve", "border", "downstairs", "embarrassed", "wrist"] },
@@ -2341,6 +2434,7 @@ const THEME_NETS = [
   {
     name: "about",
     center: "about",
+    subthemes: ["以前与事实", "说话与一切", "风险与机器"],
     branches: [
       { branch: "about", items: ["about", "ago", "fact", "speak", "everything", "risk", "machine", "manage", "invite", "flight", "t_shirt"] },
       { branch: "centre", items: ["centre", "merry", "pipe", "proportion", "religion", "revise", "romantic", "salty", "sandwich", "souvenir", "stomachache"] },
@@ -2350,6 +2444,7 @@ const THEME_NETS = [
   {
     name: "as",
     center: "as",
+    subthemes: ["努力与沿着", "曾经与几个", "思念与考虑"],
     branches: [
       { branch: "as", items: ["as", "effort", "along", "ever", "several", "miss", "consider", "whole", "warm", "possible", "shorts"] },
       { branch: "past", items: ["past", "motion", "picnic", "restrict", "biscuit", "camel", "command", "exhaust", "forehead", "frank", "sex"] },
@@ -2359,6 +2454,7 @@ const THEME_NETS = [
   {
     name: "at",
     center: "at",
+    subthemes: ["创造与房间", "至少与空间", "成功与晚宴"],
     branches: [
       { branch: "at", items: ["at", "create", "room", "least", "space", "alone", "successful", "dinner", "wild", "driver", "schoolbag"] },
       { branch: "reach", items: ["reach", "respective", "scan", "debt", "energetic", "faint", "liberty", "minor", "noodle", "polish", "salesman_saleswoman"] },
@@ -2368,6 +2464,7 @@ const THEME_NETS = [
   {
     name: "food",
     center: "food",
+    subthemes: ["食物与苗条", "脖子与羊", "钢铁与之后"],
     branches: [
       { branch: "food", items: ["food", "slim", "neck", "sheep", "steel", "afterward", "america", "antarctica", "anyhow", "apologise", "rejuvenate"] },
       { branch: "restaurant", items: ["restaurant", "applaud", "arch", "asia", "atlantic", "a_m_", "bacon", "bark", "behalf", "belt", "recognise"] },
@@ -2377,6 +2474,7 @@ const THEME_NETS = [
   {
     name: "lead",
     center: "lead",
+    subthemes: ["价值与风筝", "欺凌与咖啡馆", "名人与筷子"],
     branches: [
       { branch: "value", items: ["value", "kite", "bully", "cafe", "canteen", "cap", "celebrity", "chopsticks", "cinema", "cite", "radium"] },
       { branch: "sacrifice", items: ["sacrifice", "civilisation", "clap", "clerk", "clone", "cloudy", "column", "comic", "compose", "confucianism", "postman"] },
@@ -2386,6 +2484,7 @@ const THEME_NETS = [
   {
     name: "fill",
     center: "fill",
+    subthemes: ["工作日与袜子", "剃须与领土", "尊严与餐饮"],
     branches: [
       { branch: "weekday", items: ["weekday", "sock", "shave", "territory", "damp", "dignity", "dining", "disc", "domain", "dormitory", "ping_pong"] },
       { branch: "silent", items: ["silent", "due_to", "election", "endangered", "enterprise", "episode", "eraser", "fertile", "fever", "flame", "p_m_"] },
@@ -2395,6 +2494,7 @@ const THEME_NETS = [
   {
     name: "have",
     center: "have",
+    subthemes: ["之前与学习", "转动与建立", "晚与放"],
     branches: [
       { branch: "have", items: ["have", "before", "study", "turn", "found", "late", "put", "every", "might", "hard", "organisation"] },
       { branch: "last", items: ["last", "prejudice", "headline", "hydrogen", "i", "inquire", "internet", "jacket", "jeans", "jog", "o_clock"] },
