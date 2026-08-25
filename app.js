@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825bb';
+const WORDS_URL = 'data/words.json?v=20260825cc';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825bb';
+const STATS_URL = 'data/stats.json?v=20260825cc';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825bb'), fetch(WORDS_BASE + 'manifest.json?v=20260825bb')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825cc'), fetch(WORDS_BASE + 'manifest.json?v=20260825cc')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825bb'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825cc'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1503,6 +1503,7 @@ function _extractCloudWords(defs, word) {
 const THEME_NETS = [
   {
     name: "family",
+    title: "家庭生活",
     center: "family",
     topic_group: "生活与学习",
     subtopic: "个人、家庭、社区及学校生活",
@@ -1515,6 +1516,7 @@ const THEME_NETS = [
   },
   {
     name: "school",
+    title: "学校教育",
     center: "school",
     topic_group: "生活与学习",
     subtopic: "个人、家庭、社区及学校生活",
@@ -1527,6 +1529,7 @@ const THEME_NETS = [
   },
   {
     name: "healthy",
+    title: "健康医疗",
     center: "healthy",
     topic_group: "生活与学习",
     subtopic: "健康的生活方式、个人安全与自救",
@@ -1539,6 +1542,7 @@ const THEME_NETS = [
   },
   {
     name: "sport",
+    title: "体育与运动",
     center: "sport",
     topic_group: "生活与学习",
     subtopic: "运动与健身",
@@ -1551,6 +1555,7 @@ const THEME_NETS = [
   },
   {
     name: "food",
+    title: "饮食与营养",
     center: "food",
     topic_group: "生活与学习",
     subtopic: "饮食与营养",
@@ -1563,6 +1568,7 @@ const THEME_NETS = [
   },
   {
     name: "daily",
+    title: "日常生活",
     center: "daily",
     topic_group: "生活与学习",
     subtopic: "日常生活与作息",
@@ -1575,6 +1581,7 @@ const THEME_NETS = [
   },
   {
     name: "dress",
+    title: "仪表穿着",
     center: "dress",
     topic_group: "生活与学习",
     subtopic: "个人仪表与穿着",
@@ -1587,6 +1594,7 @@ const THEME_NETS = [
   },
   {
     name: "transport",
+    title: "交通出行",
     center: "transport",
     topic_group: "生活与学习",
     subtopic: "出行与交通",
@@ -1599,6 +1607,7 @@ const THEME_NETS = [
   },
   {
     name: "rest",
+    title: "休息休闲",
     center: "rest",
     topic_group: "生活与学习",
     subtopic: "休息与休闲",
@@ -1611,6 +1620,7 @@ const THEME_NETS = [
   },
   {
     name: "habit",
+    title: "习惯自律",
     center: "habit",
     topic_group: "生活与学习",
     subtopic: "良好习惯与自律",
@@ -1623,6 +1633,7 @@ const THEME_NETS = [
   },
   {
     name: "character",
+    title: "品格修养",
     center: "character",
     topic_group: "做人与做事",
     subtopic: "优秀品行与道德品质",
@@ -1635,6 +1646,7 @@ const THEME_NETS = [
   },
   {
     name: "emotion",
+    title: "情感心理",
     center: "emotion",
     topic_group: "做人与做事",
     subtopic: "情绪与心理",
@@ -1647,6 +1659,7 @@ const THEME_NETS = [
   },
   {
     name: "effort",
+    title: "努力坚持",
     center: "effort",
     topic_group: "做人与做事",
     subtopic: "努力与坚持",
@@ -1659,6 +1672,7 @@ const THEME_NETS = [
   },
   {
     name: "success",
+    title: "成功成就",
     center: "success",
     topic_group: "做人与做事",
     subtopic: "成功与成就",
@@ -1671,6 +1685,7 @@ const THEME_NETS = [
   },
   {
     name: "failure",
+    title: "挫折振作",
     center: "failure",
     topic_group: "做人与做事",
     subtopic: "挫折与失败",
@@ -1683,6 +1698,7 @@ const THEME_NETS = [
   },
   {
     name: "decision",
+    title: "决策选择",
     center: "decision",
     topic_group: "做人与做事",
     subtopic: "选择与决定",
@@ -1695,6 +1711,7 @@ const THEME_NETS = [
   },
   {
     name: "responsibility",
+    title: "责任担当",
     center: "responsibility",
     topic_group: "做人与做事",
     subtopic: "责任与担当",
@@ -1707,6 +1724,7 @@ const THEME_NETS = [
   },
   {
     name: "value",
+    title: "价值观",
     center: "value",
     topic_group: "做人与做事",
     subtopic: "价值观与人生意义",
@@ -1719,6 +1737,7 @@ const THEME_NETS = [
   },
   {
     name: "belief",
+    title: "信念信仰",
     center: "belief",
     topic_group: "做人与做事",
     subtopic: "信念与信任",
@@ -1731,6 +1750,7 @@ const THEME_NETS = [
   },
   {
     name: "change",
+    title: "改变成长",
     center: "change",
     topic_group: "做人与做事",
     subtopic: "改变与成长",
@@ -1743,6 +1763,7 @@ const THEME_NETS = [
   },
   {
     name: "communication",
+    title: "人际沟通",
     center: "communication",
     topic_group: "社会服务与人际沟通",
     subtopic: "人际沟通与交流",
@@ -1755,6 +1776,7 @@ const THEME_NETS = [
   },
   {
     name: "friendship",
+    title: "友谊关系",
     center: "friendship",
     topic_group: "社会服务与人际沟通",
     subtopic: "友谊与人际关系",
@@ -1767,6 +1789,7 @@ const THEME_NETS = [
   },
   {
     name: "help",
+    title: "互助关爱",
     center: "help",
     topic_group: "社会服务与人际沟通",
     subtopic: "互助与关爱",
@@ -1779,6 +1802,7 @@ const THEME_NETS = [
   },
   {
     name: "community",
+    title: "社区社会",
     center: "community",
     topic_group: "社会服务与人际沟通",
     subtopic: "社区与社会参与",
@@ -1791,6 +1815,7 @@ const THEME_NETS = [
   },
   {
     name: "service",
+    title: "服务职业",
     center: "service",
     topic_group: "社会服务与人际沟通",
     subtopic: "服务行业与职业",
@@ -1803,6 +1828,7 @@ const THEME_NETS = [
   },
   {
     name: "travel",
+    title: "旅行见闻",
     center: "travel",
     topic_group: "社会服务与人际沟通",
     subtopic: "旅行与见闻",
@@ -1815,6 +1841,7 @@ const THEME_NETS = [
   },
   {
     name: "city",
+    title: "城市生活",
     center: "city",
     topic_group: "社会服务与人际沟通",
     subtopic: "城市生活",
@@ -1827,6 +1854,7 @@ const THEME_NETS = [
   },
   {
     name: "country",
+    title: "国家公民",
     center: "country",
     topic_group: "社会服务与人际沟通",
     subtopic: "国家与公民",
@@ -1839,6 +1867,7 @@ const THEME_NETS = [
   },
   {
     name: "law",
+    title: "法律规则",
     center: "law",
     topic_group: "社会服务与人际沟通",
     subtopic: "法律与规则",
@@ -1851,6 +1880,7 @@ const THEME_NETS = [
   },
   {
     name: "money",
+    title: "经济消费",
     center: "money",
     topic_group: "社会服务与人际沟通",
     subtopic: "经济与消费",
@@ -1863,6 +1893,7 @@ const THEME_NETS = [
   },
   {
     name: "art",
+    title: "艺术殿堂",
     center: "art",
     topic_group: "文学艺术与体育",
     subtopic: "绘画、建筑等领域的代表作品和人物",
@@ -1875,6 +1906,7 @@ const THEME_NETS = [
   },
   {
     name: "music",
+    title: "音乐之声",
     center: "music",
     topic_group: "文学艺术与体育",
     subtopic: "音乐与表演",
@@ -1887,6 +1919,7 @@ const THEME_NETS = [
   },
   {
     name: "literature",
+    title: "文学写作",
     center: "literature",
     topic_group: "文学艺术与体育",
     subtopic: "文学与写作",
@@ -1899,6 +1932,7 @@ const THEME_NETS = [
   },
   {
     name: "competition",
+    title: "竞技体育",
     center: "competition",
     topic_group: "文学艺术与体育",
     subtopic: "竞技体育与赛事",
@@ -1911,6 +1945,7 @@ const THEME_NETS = [
   },
   {
     name: "performance",
+    title: "戏剧表演",
     center: "performance",
     topic_group: "文学艺术与体育",
     subtopic: "戏剧与表演",
@@ -1923,6 +1958,7 @@ const THEME_NETS = [
   },
   {
     name: "film",
+    title: "电影影像",
     center: "film",
     topic_group: "文学艺术与体育",
     subtopic: "电影与影像",
@@ -1935,6 +1971,7 @@ const THEME_NETS = [
   },
   {
     name: "dance",
+    title: "舞蹈韵律",
     center: "dance",
     topic_group: "文学艺术与体育",
     subtopic: "舞蹈与韵律",
@@ -1947,6 +1984,7 @@ const THEME_NETS = [
   },
   {
     name: "festival",
+    title: "节日庆典",
     center: "festival",
     topic_group: "文学艺术与体育",
     subtopic: "节日与庆典",
@@ -1959,6 +1997,7 @@ const THEME_NETS = [
   },
   {
     name: "craft",
+    title: "手工艺",
     center: "craft",
     topic_group: "文学艺术与体育",
     subtopic: "手工艺与创造",
@@ -1971,6 +2010,7 @@ const THEME_NETS = [
   },
   {
     name: "photo",
+    title: "摄影影像",
     center: "photo",
     topic_group: "文学艺术与体育",
     subtopic: "摄影与记录",
@@ -1983,6 +2023,7 @@ const THEME_NETS = [
   },
   {
     name: "history",
+    title: "历史古迹",
     center: "history",
     topic_group: "历史社会与文化",
     subtopic: "历史事件与人物",
@@ -1995,6 +2036,7 @@ const THEME_NETS = [
   },
   {
     name: "culture",
+    title: "文化遗产",
     center: "culture",
     topic_group: "历史社会与文化",
     subtopic: "文化传统与习俗",
@@ -2007,6 +2049,7 @@ const THEME_NETS = [
   },
   {
     name: "religion",
+    title: "宗教信仰",
     center: "religion",
     topic_group: "历史社会与文化",
     subtopic: "宗教与信仰",
@@ -2019,6 +2062,7 @@ const THEME_NETS = [
   },
   {
     name: "war",
+    title: "战争和平",
     center: "war",
     topic_group: "历史社会与文化",
     subtopic: "战争与和平",
@@ -2031,6 +2075,7 @@ const THEME_NETS = [
   },
   {
     name: "leader",
+    title: "领袖政治",
     center: "leader",
     topic_group: "历史社会与文化",
     subtopic: "领袖与政治",
@@ -2043,6 +2088,7 @@ const THEME_NETS = [
   },
   {
     name: "nation",
+    title: "民族国家",
     center: "nation",
     topic_group: "历史社会与文化",
     subtopic: "民族与国家",
@@ -2055,6 +2101,7 @@ const THEME_NETS = [
   },
   {
     name: "language",
+    title: "语言文化",
     center: "language",
     topic_group: "历史社会与文化",
     subtopic: "语言与文化",
@@ -2067,6 +2114,7 @@ const THEME_NETS = [
   },
   {
     name: "tradition",
+    title: "传统现代",
     center: "tradition",
     topic_group: "历史社会与文化",
     subtopic: "传统与现代",
@@ -2079,6 +2127,7 @@ const THEME_NETS = [
   },
   {
     name: "heritage",
+    title: "遗产保护",
     center: "heritage",
     topic_group: "历史社会与文化",
     subtopic: "文化遗产与保护",
@@ -2091,6 +2140,7 @@ const THEME_NETS = [
   },
   {
     name: "ancient",
+    title: "古代文明",
     center: "ancient",
     topic_group: "历史社会与文化",
     subtopic: "古代文明",
@@ -2103,6 +2153,7 @@ const THEME_NETS = [
   },
   {
     name: "technology",
+    title: "科技与创新",
     center: "technology",
     topic_group: "科学与技术",
     subtopic: "科技发展与信息技术创新、科学精神",
@@ -2115,6 +2166,7 @@ const THEME_NETS = [
   },
   {
     name: "scientist",
+    title: "科学探索",
     center: "scientist",
     topic_group: "科学与技术",
     subtopic: "科学精神、科学探究",
@@ -2127,6 +2179,7 @@ const THEME_NETS = [
   },
   {
     name: "medicine",
+    title: "医学药研",
     center: "medicine",
     topic_group: "科学与技术",
     subtopic: "医学与健康科学",
@@ -2139,6 +2192,7 @@ const THEME_NETS = [
   },
   {
     name: "engineer",
+    title: "工程建造",
     center: "engineer",
     topic_group: "科学与技术",
     subtopic: "工程与建造",
@@ -2151,6 +2205,7 @@ const THEME_NETS = [
   },
   {
     name: "maths",
+    title: "数学逻辑",
     center: "maths",
     topic_group: "科学与技术",
     subtopic: "数学与逻辑",
@@ -2163,6 +2218,7 @@ const THEME_NETS = [
   },
   {
     name: "internet",
+    title: "网络信息",
     center: "internet",
     topic_group: "科学与技术",
     subtopic: "网络与信息",
@@ -2175,6 +2231,7 @@ const THEME_NETS = [
   },
   {
     name: "invention",
+    title: "发明创造",
     center: "invention",
     topic_group: "科学与技术",
     subtopic: "发明与创造",
@@ -2187,6 +2244,7 @@ const THEME_NETS = [
   },
   {
     name: "data",
+    title: "数据统计",
     center: "data",
     topic_group: "科学与技术",
     subtopic: "数据与统计",
@@ -2199,6 +2257,7 @@ const THEME_NETS = [
   },
   {
     name: "robot",
+    title: "人工智能",
     center: "robot",
     topic_group: "科学与技术",
     subtopic: "人工智能与机器人",
@@ -2211,6 +2270,7 @@ const THEME_NETS = [
   },
   {
     name: "biology",
+    title: "生命科学",
     center: "biology",
     topic_group: "科学与技术",
     subtopic: "生物与生命科学",
@@ -2223,6 +2283,7 @@ const THEME_NETS = [
   },
   {
     name: "nature",
+    title: "自然生态",
     center: "nature",
     topic_group: "自然生态",
     subtopic: "自然与荒野",
@@ -2235,6 +2296,7 @@ const THEME_NETS = [
   },
   {
     name: "animal",
+    title: "动物世界",
     center: "animal",
     topic_group: "自然生态",
     subtopic: "动物世界",
@@ -2247,6 +2309,7 @@ const THEME_NETS = [
   },
   {
     name: "plant",
+    title: "植物农业",
     center: "plant",
     topic_group: "自然生态",
     subtopic: "植物与农业",
@@ -2259,6 +2322,7 @@ const THEME_NETS = [
   },
   {
     name: "weather",
+    title: "天气气候",
     center: "weather",
     topic_group: "自然生态",
     subtopic: "天气与气候",
@@ -2271,6 +2335,7 @@ const THEME_NETS = [
   },
   {
     name: "season",
+    title: "四季节令",
     center: "season",
     topic_group: "自然生态",
     subtopic: "四季与节令",
@@ -2283,6 +2348,7 @@ const THEME_NETS = [
   },
   {
     name: "geography",
+    title: "地理地貌",
     center: "geography",
     topic_group: "自然生态",
     subtopic: "地理与地貌",
@@ -2295,6 +2361,7 @@ const THEME_NETS = [
   },
   {
     name: "ocean",
+    title: "江河湖海",
     center: "ocean",
     topic_group: "自然生态",
     subtopic: "海洋与河流",
@@ -2307,6 +2374,7 @@ const THEME_NETS = [
   },
   {
     name: "forest",
+    title: "森林生态",
     center: "forest",
     topic_group: "自然生态",
     subtopic: "森林与生态",
@@ -2319,6 +2387,7 @@ const THEME_NETS = [
   },
   {
     name: "mountain",
+    title: "山川山地",
     center: "mountain",
     topic_group: "自然生态",
     subtopic: "山川与地形",
@@ -2331,6 +2400,7 @@ const THEME_NETS = [
   },
   {
     name: "sky",
+    title: "天空气象",
     center: "sky",
     topic_group: "自然生态",
     subtopic: "天空与气象",
@@ -2343,6 +2413,7 @@ const THEME_NETS = [
   },
   {
     name: "environment",
+    title: "环境保护",
     center: "environment",
     topic_group: "环境保护",
     subtopic: "环境问题与保护",
@@ -2355,6 +2426,7 @@ const THEME_NETS = [
   },
   {
     name: "pollution",
+    title: "污染治理",
     center: "pollution",
     topic_group: "环境保护",
     subtopic: "污染与治理",
@@ -2367,6 +2439,7 @@ const THEME_NETS = [
   },
   {
     name: "recycle",
+    title: "循环利用",
     center: "recycle",
     topic_group: "环境保护",
     subtopic: "循环利用与节约",
@@ -2379,6 +2452,7 @@ const THEME_NETS = [
   },
   {
     name: "energy",
+    title: "能源利用",
     center: "energy",
     topic_group: "环境保护",
     subtopic: "能源与可再生",
@@ -2391,6 +2465,7 @@ const THEME_NETS = [
   },
   {
     name: "climate",
+    title: "气候变化",
     center: "climate",
     topic_group: "环境保护",
     subtopic: "气候变化",
@@ -2403,6 +2478,7 @@ const THEME_NETS = [
   },
   {
     name: "conservation",
+    title: "生态保护",
     center: "conservation",
     topic_group: "环境保护",
     subtopic: "生态保护",
@@ -2415,6 +2491,7 @@ const THEME_NETS = [
   },
   {
     name: "waste",
+    title: "垃圾处理",
     center: "waste",
     topic_group: "环境保护",
     subtopic: "废物与处理",
@@ -2427,6 +2504,7 @@ const THEME_NETS = [
   },
   {
     name: "carbon",
+    title: "碳排放",
     center: "carbon",
     topic_group: "环境保护",
     subtopic: "碳排放与减排",
@@ -2439,6 +2517,7 @@ const THEME_NETS = [
   },
   {
     name: "sustain",
+    title: "可持续发展",
     center: "sustain",
     topic_group: "环境保护",
     subtopic: "可持续发展",
@@ -2451,6 +2530,7 @@ const THEME_NETS = [
   },
   {
     name: "green",
+    title: "绿色生活",
     center: "green",
     topic_group: "环境保护",
     subtopic: "绿色生活",
@@ -2463,6 +2543,7 @@ const THEME_NETS = [
   },
   {
     name: "disaster",
+    title: "灾害应对",
     center: "disaster",
     topic_group: "灾害防范",
     subtopic: "灾害与应对",
@@ -2475,6 +2556,7 @@ const THEME_NETS = [
   },
   {
     name: "earthquake",
+    title: "地震防范",
     center: "earthquake",
     topic_group: "灾害防范",
     subtopic: "地震与自救",
@@ -2487,6 +2569,7 @@ const THEME_NETS = [
   },
   {
     name: "flood",
+    title: "洪水防范",
     center: "flood",
     topic_group: "灾害防范",
     subtopic: "洪水与防范",
@@ -2499,6 +2582,7 @@ const THEME_NETS = [
   },
   {
     name: "fire",
+    title: "火灾安全",
     center: "fire",
     topic_group: "灾害防范",
     subtopic: "火灾与安全",
@@ -2511,6 +2595,7 @@ const THEME_NETS = [
   },
   {
     name: "storm",
+    title: "风暴防范",
     center: "storm",
     topic_group: "灾害防范",
     subtopic: "风暴与极端天气",
@@ -2523,6 +2608,7 @@ const THEME_NETS = [
   },
   {
     name: "danger",
+    title: "危险防范",
     center: "danger",
     topic_group: "灾害防范",
     subtopic: "危险与逃生",
@@ -2535,6 +2621,7 @@ const THEME_NETS = [
   },
   {
     name: "rescue",
+    title: "应急救援",
     center: "rescue",
     topic_group: "灾害防范",
     subtopic: "救援与急救",
@@ -2547,6 +2634,7 @@ const THEME_NETS = [
   },
   {
     name: "safety",
+    title: "安全预防",
     center: "safety",
     topic_group: "灾害防范",
     subtopic: "安全与预防",
@@ -2559,6 +2647,7 @@ const THEME_NETS = [
   },
   {
     name: "damage",
+    title: "损害评估",
     center: "damage",
     topic_group: "灾害防范",
     subtopic: "损害与评估",
@@ -2571,6 +2660,7 @@ const THEME_NETS = [
   },
   {
     name: "emergency",
+    title: "紧急应对",
     center: "emergency",
     topic_group: "灾害防范",
     subtopic: "紧急应对",
@@ -2583,6 +2673,7 @@ const THEME_NETS = [
   },
   {
     name: "space",
+    title: "太空宇宙",
     center: "space",
     topic_group: "宇宙探索",
     subtopic: "太空与宇宙",
@@ -2595,6 +2686,7 @@ const THEME_NETS = [
   },
   {
     name: "star",
+    title: "星辰天体",
     center: "star",
     topic_group: "宇宙探索",
     subtopic: "星辰与天体",
@@ -2607,6 +2699,7 @@ const THEME_NETS = [
   },
   {
     name: "planet",
+    title: "行星探索",
     center: "planet",
     topic_group: "宇宙探索",
     subtopic: "行星与地球",
@@ -2619,6 +2712,7 @@ const THEME_NETS = [
   },
   {
     name: "astronaut",
+    title: "航天探索",
     center: "astronaut",
     topic_group: "宇宙探索",
     subtopic: "宇航员与航天",
@@ -2631,6 +2725,7 @@ const THEME_NETS = [
   },
   {
     name: "rocket",
+    title: "火箭发射",
     center: "rocket",
     topic_group: "宇宙探索",
     subtopic: "火箭与发射",
@@ -2643,6 +2738,7 @@ const THEME_NETS = [
   },
   {
     name: "explore",
+    title: "探索发现",
     center: "explore",
     topic_group: "宇宙探索",
     subtopic: "探索与发现",
@@ -2655,6 +2751,7 @@ const THEME_NETS = [
   },
   {
     name: "future",
+    title: "未来展望",
     center: "future",
     topic_group: "宇宙探索",
     subtopic: "未来与展望",
@@ -2667,6 +2764,7 @@ const THEME_NETS = [
   },
   {
     name: "universe",
+    title: "宇宙奥秘",
     center: "universe",
     topic_group: "宇宙探索",
     subtopic: "宇宙与起源",
@@ -2679,6 +2777,7 @@ const THEME_NETS = [
   },
   {
     name: "telescope",
+    title: "天文观测",
     center: "telescope",
     topic_group: "宇宙探索",
     subtopic: "望远镜与观测",
@@ -2691,6 +2790,7 @@ const THEME_NETS = [
   },
   {
     name: "gravity",
+    title: "引力物理",
     center: "gravity",
     topic_group: "宇宙探索",
     subtopic: "引力与物理",
@@ -2761,7 +2861,7 @@ function _renderThemeNet(theme, hw) {
     });
   });
   s += `</svg>`;
-  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(theme.name)} · 词汇语义网络</div>${s}</div>`;
+  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(theme.title || theme.name)} · 主题词汇语义网</div>${s}</div>`;
 }
 function renderMindMap(word, entry) {
   const meta = entry.meta || {};
