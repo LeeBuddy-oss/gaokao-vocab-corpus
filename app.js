@@ -1,8 +1,9 @@
-const WORDS_URL = 'data/words.json?v=20260825ff';
+const WORDS_URL = 'data/words.json?v=20260825gg';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825ff';
+const STATS_URL = 'data/stats.json?v=20260825gg';
+const DICT_URL = 'data/en_cn_dict.json?v=20260825gg';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -15,6 +16,7 @@ const CATS = [
 let WORDS = [];
 let WORD_FILES = null;   // 小写/原词 -> "<letter>/<file>.json"（manifest）
 let FAMILY_INDEX = null; // 小写形式 -> { seq,cn,verb,noun,adj,adv }（词性变换）
+let EN_CN_DICT = null;  // 课标词简短中文翻译（用于真题词组回退翻译）
 const mmCache = {};      // letter -> { word: mindmap }
 let activeIdx = -1;      // suggestion highlight index
 
@@ -257,9 +259,14 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825ff'), fetch(WORDS_BASE + 'manifest.json?v=20260825ff')]);
+    const [wr, mr, dr] = await Promise.all([
+      fetch(WORDS_URL + '?v=20260825gg'),
+      fetch(WORDS_BASE + 'manifest.json?v=20260825gg'),
+      fetch(DICT_URL)
+    ]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
+    EN_CN_DICT = dr.ok ? await dr.json() : null;
   } catch (e) {
     console.error('加载词表失败', e);
   }
@@ -468,7 +475,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825ff'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825gg'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -712,6 +719,51 @@ function _extractCnFromDef(defText) {
   const cnIdx = defText.search(/[\u4e00-\u9fff]/);
   if (cnIdx === -1) return defText.slice(0, 20);
   return defText.slice(cnIdx).trim();
+}
+
+// 功能词中文翻译（词典对功能词翻译可能怪异，此表优先；用于真题词组逐词翻译）
+const FN_WORD_CN = {
+  a: '一个', an: '一个', the: '该',
+  am: '是', is: '是', are: '是', was: '是', were: '是', be: '是', been: '是', being: '是',
+  do: '做', does: '做', did: '做', done: '做', doing: '做',
+  have: '有', has: '有', had: '有', having: '有',
+  will: '将', would: '将', shall: '将',
+  can: '能', could: '能', may: '可能', might: '可能', must: '必须', should: '应',
+  to: '去', of: '的', in: '在…里', on: '在…上', at: '在', by: '通过',
+  for: '为了', with: '与', from: '从', into: '进入', through: '通过',
+  over: '超过', under: '在…下', after: '在…后', before: '在…前',
+  like: '像', near: '近', across: '横跨', along: '沿着', behind: '在…后',
+  beyond: '超出', down: '下', off: '离开', up: '上', out: '出',
+  as: '作为', than: '比', between: '在…之间', among: '在…之中',
+  within: '在…内', without: '没有', against: '反对', upon: '在…上',
+  and: '与', or: '或', but: '但', that: '那个', this: '这个',
+  these: '这些', those: '那些', it: '它', its: '它的',
+  not: '不', no: '无', so: '如此', if: '如果',
+  when: '当', where: '哪里', why: '为何', how: '如何',
+  who: '谁', whom: '谁', which: '哪个', what: '什么',
+  there: '那里', here: '这里', now: '现在', then: '那时',
+  all: '所有', some: '一些', any: '任何', each: '每个', every: '每',
+  both: '两者', either: '任一', neither: '两者都不',
+  more: '更多', most: '最多', less: '更少', least: '最少',
+  very: '非常', too: '太', also: '也', only: '仅',
+};
+
+// 真题词组逐词翻译（topCollocations 回退路径提供基础中文释义）
+function _translatePhrase(ph) {
+  if (!ph) return '';
+  const ws = ph.split(/\s+/).filter(Boolean);
+  const parts = [];
+  for (let raw of ws) {
+    const lw = raw.toLowerCase().replace(/[^a-z']/g, '');
+    if (!lw) continue;
+    let cn = FN_WORD_CN[lw];
+    if (!cn) {
+      const lemma = _lemmaOf(lw) || lw;
+      cn = (EN_CN_DICT && EN_CN_DICT[lemma]) || FN_WORD_CN[lemma] || '';
+    }
+    if (cn) parts.push(cn);
+  }
+  return parts.join(' ');
 }
 
 // ====== 结构签名：把零散 n-gram 合并为语法结构 ======
@@ -2999,8 +3051,14 @@ function renderMindMap(word, entry) {
       }).join('、');
       rightHtml += `<p class="wv-line wv-struct wv-sub wv-chunks-list"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
     });
+  } else if (topCollocations.length > 0) {
+    const sl = topCollocations.map(([ph, c]) => {
+      const cn = _translatePhrase(ph);
+      const cnStr = cn ? `${esc(cn)}, ` : '';
+      return `<span class="wv-hl">${esc(ph)}</span><span class="wv-cn">(${cnStr}${c}次)</span>`;
+    }).join('、');
+    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span>${sl}</p>`;
   }
-  // 已移除 topCollocations 回退路径（无中文翻译的自动提取词组不再显示）
 
   // 语篇分布（按例句计数，非去重来源，覆盖全部例句）
   const genres = _detectGenres(srcList);

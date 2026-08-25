@@ -450,6 +450,8 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   width: 100%;
   height: auto;
   overflow: visible;
+  text-rendering: geometricPrecision;
+  shape-rendering: geometricPrecision;
 }
 
 /* 响应式：窄屏上下堆叠 */
