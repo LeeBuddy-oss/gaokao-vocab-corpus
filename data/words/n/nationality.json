@@ -55,8 +55,26 @@
   ],
   "chunks": [
     {
+      "en": "age nationality",
+      "cn": "年龄 国籍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
       "en": "ages and nationalities",
       "cn": "年龄 与 国籍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "all ages and nationalities",
+      "cn": "所有 年龄 与 国籍",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "born nationality",
+      "cn": "出生 国籍",
       "type": "名词短语",
       "count": 1
     },
@@ -67,38 +85,20 @@
       "count": 1
     },
     {
-      "en": "took british nationality",
-      "cn": "国籍",
+      "en": "by many other nationalities",
+      "cn": "通过 许多 另外 国籍",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "country has many nationalities",
+      "cn": "国 有 许多 国籍",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "nationality occupation",
-      "cn": "国籍 工作",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "age nationality",
-      "cn": "年龄 国籍",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "name age nationality",
-      "cn": "名字 年龄 国籍",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "nationality education",
-      "cn": "国籍 教育",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "born nationality",
-      "cn": "出生 国籍",
+      "en": "has many nationalities",
+      "cn": "有 许多 国籍",
       "type": "名词短语",
       "count": 1
     }

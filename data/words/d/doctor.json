@@ -293,21 +293,9 @@
   ],
   "chunks": [
     {
-      "en": "your doctor",
-      "cn": "你的 医生",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
-      "en": "with your doctor",
-      "cn": "与 你的 医生",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "doctor says",
       "cn": "医生 说",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -317,27 +305,39 @@
       "count": 2
     },
     {
-      "en": "parents doctors",
-      "cn": "父亲 医生",
+      "en": "with your doctor",
+      "cn": "与 你的 医生",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "a doctor i know",
+      "cn": "一个 医生 我 知道",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "doctors and medical",
-      "cn": "医生 与 伤病的",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "of parents doctors",
-      "cn": "的 父亲 医生",
+      "en": "a doctor tells",
+      "cn": "一个 医生 人",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "doctors practice",
-      "cn": "医生",
-      "type": "动词短语",
+      "en": "a doctor to find",
+      "cn": "一个 医生 去 发现",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "a medical doctor",
+      "cn": "一个 伤病的 医生",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a superior doctor",
+      "cn": "一个 更好的 医生",
+      "type": "名词短语",
       "count": 1
     }
   ]

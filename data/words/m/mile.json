@@ -295,32 +295,38 @@
   ],
   "chunks": [
     {
-      "en": "miles per",
-      "cn": "英里 百分之 …adjecti",
-      "type": "动词短语",
+      "en": "miles from",
+      "cn": "英里 从",
+      "type": "介词短语",
       "count": 5
     },
     {
-      "en": "miles per hour",
-      "cn": "英里 百分之 …adjecti 小时",
-      "type": "动词短语",
+      "en": "miles per",
+      "cn": "英里 百分之 …adjecti",
+      "type": "介词短语",
+      "count": 5
+    },
+    {
+      "en": "one mile",
+      "cn": "英里",
+      "type": "名词短语",
       "count": 3
     },
     {
-      "en": "hundred miles",
-      "cn": "英里",
+      "en": "about miles",
+      "cn": "大约 英里",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "around miles",
+      "cn": "大约 英里",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "miles from her",
-      "cn": "英里 从 她的",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "hundreds of miles",
-      "cn": "的 英里",
+      "en": "can reach around miles",
+      "cn": "能 到达 大约 英里",
       "type": "名词短语",
       "count": 2
     },
@@ -331,14 +337,8 @@
       "count": 2
     },
     {
-      "en": "miles per gallon",
-      "cn": "英里 百分之 …adjecti",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "it gets miles",
-      "cn": "它 收到 英里",
+      "en": "ground it gets miles",
+      "cn": "地 它 收到 英里",
       "type": "名词短语",
       "count": 2
     }

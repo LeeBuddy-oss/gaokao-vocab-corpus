@@ -61,45 +61,51 @@
   ],
   "chunks": [
     {
-      "en": "clerk at my",
-      "cn": "职员 在 我的",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "clerk the bank",
-      "cn": "职员 该 银行",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "gives the clerk",
-      "cn": "给 该 职员",
+      "en": "a clerk a man",
+      "cn": "一个 职员 一个 成年男子",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "clerk drops",
-      "cn": "职员 落下",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the clerk drops",
-      "cn": "该 职员 落下",
-      "type": "名词短语",
+      "en": "a clerk at my",
+      "cn": "一个 职员 在 我的",
+      "type": "介词短语",
       "count": 1
     },
     {
       "en": "clerk a man",
       "cn": "职员 一个 成年男子",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "clerk at my",
+      "cn": "职员 在 我的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "clerk drops",
+      "cn": "职员 落下",
+      "type": "名词短语",
       "count": 1
     },
     {
       "en": "clerk in the swiss",
       "cn": "职员 在…里 该",
       "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "clerk the bank",
+      "cn": "职员 该 银行",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "gives the clerk",
+      "cn": "给 该 职员",
+      "type": "名词短语",
       "count": 1
     }
   ]

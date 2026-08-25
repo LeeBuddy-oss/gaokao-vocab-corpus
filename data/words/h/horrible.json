@@ -52,14 +52,20 @@
   ],
   "chunks": [
     {
-      "en": "horrible grey",
-      "cn": "极坏的 灰色的",
-      "type": "动词短语",
+      "en": "a horrible grey",
+      "cn": "一个 极坏的 灰色的",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "a horrible grey",
-      "cn": "一个 极坏的 灰色的",
+      "en": "horrible grey",
+      "cn": "极坏的 灰色的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "stinky tofu a horrible",
+      "cn": "豆腐 一个 极坏的",
       "type": "名词短语",
       "count": 2
     },
@@ -70,33 +76,27 @@
       "count": 2
     },
     {
-      "en": "horrible scene",
-      "cn": "极坏的 地点",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the horrible scene",
-      "cn": "该 极坏的 地点",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "watched the horrible",
-      "cn": "看 该 极坏的",
-      "type": "名词短语",
+      "en": "afraid of the horrible",
+      "cn": "害怕 的 该 极坏的",
+      "type": "介词短语",
       "count": 1
     },
     {
       "en": "horrible creature",
       "cn": "极坏的 生物",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "the horrible creature",
-      "cn": "该 极坏的 生物",
+      "en": "horrible scene",
+      "cn": "极坏的 地点",
       "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "of the horrible creature",
+      "cn": "的 该 极坏的 生物",
+      "type": "介词短语",
       "count": 1
     }
   ]

@@ -576,20 +576,8 @@
   ],
   "chunks": [
     {
-      "en": "improve their",
-      "cn": "改进 他们的",
-      "type": "动词短语",
-      "count": 8
-    },
-    {
-      "en": "improve your",
-      "cn": "改进 你的",
-      "type": "动词短语",
-      "count": 7
-    },
-    {
       "en": "help improve",
-      "cn": "帮助 改进",
+      "cn": "帮助改善",
       "type": "名词短语",
       "count": 5
     },
@@ -600,16 +588,28 @@
       "count": 4
     },
     {
-      "en": "to improve their",
-      "cn": "去 改进 他们的",
-      "type": "名词短语",
+      "en": "to improve the quality",
+      "cn": "去 改进 该 质量",
+      "type": "介词短语",
       "count": 4
     },
     {
-      "en": "improve his",
-      "cn": "改进 他的",
-      "type": "动词短语",
+      "en": "to improve their",
+      "cn": "去 改进 他们的",
+      "type": "介词短语",
       "count": 4
+    },
+    {
+      "en": "can the man improve",
+      "cn": "能 该 成年男子 改进",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "improve his article",
+      "cn": "改进 他的 文章",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "man improve",
@@ -618,9 +618,9 @@
       "count": 3
     },
     {
-      "en": "improve his article",
-      "cn": "改进 他的 文章",
-      "type": "动词短语",
+      "en": "the man improve",
+      "cn": "该 成年男子 改进",
+      "type": "名词短语",
       "count": 3
     }
   ]

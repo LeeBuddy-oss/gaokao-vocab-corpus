@@ -628,21 +628,9 @@
   ],
   "chunks": [
     {
-      "en": "train station",
-      "cn": "火车 火车站",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "train schedule",
-      "cn": "火车 工作计划",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "the train schedule",
-      "cn": "该 火车 工作计划",
-      "type": "名词短语",
+      "en": "ahead of the train",
+      "cn": "向前面 的 该 火车",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -652,27 +640,39 @@
       "count": 2
     },
     {
-      "en": "personal trainer",
-      "cn": "个人的",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "trains run",
-      "cn": "火车 跑",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
       "en": "during training",
       "cn": "在 … 期间 训练",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "the train schedule",
+      "cn": "该 火车 工作计划",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "train your",
-      "cn": "火车 你的",
-      "type": "动词短语",
+      "en": "to train your",
+      "cn": "去 火车 你的",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "train schedule",
+      "cn": "火车 工作计划",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "train station",
+      "cn": "火车 火车站",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "train your brain",
+      "cn": "火车 你的 脑",
+      "type": "名词短语",
       "count": 2
     }
   ]

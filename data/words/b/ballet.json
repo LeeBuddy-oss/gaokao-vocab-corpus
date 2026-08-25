@@ -57,45 +57,51 @@
   ],
   "chunks": [
     {
-      "en": "opinion about ballet",
-      "cn": "意见 大约 芭蕾舞",
+      "en": "about ballet",
+      "cn": "大约 芭蕾舞",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "ballet club",
+      "cn": "芭蕾舞 尤用于构成复合词",
       "type": "名词短语",
       "count": 1
     },
     {
       "en": "ballet the peony",
       "cn": "芭蕾舞 该",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "watch the ballet",
-      "cn": "看 该 芭蕾舞",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "thought ballet",
-      "cn": "想法 芭蕾舞",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "i thought ballet",
-      "cn": "我 想法 芭蕾舞",
       "type": "名词短语",
       "count": 1
     },
     {
       "en": "ballet was clear",
       "cn": "芭蕾舞 是 清晰易懂的",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "ballet club",
-      "cn": "芭蕾舞 尤用于构成复合词",
-      "type": "动词短语",
+      "en": "influence on the ballet",
+      "cn": "影响 在…上 该 芭蕾舞",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "opinion about ballet",
+      "cn": "意见 大约 芭蕾舞",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "the ballet the peony",
+      "cn": "该 芭蕾舞 该",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the ballet was clear",
+      "cn": "该 芭蕾舞 是 清晰易懂的",
+      "type": "名词短语",
       "count": 1
     }
   ]

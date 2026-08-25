@@ -68,8 +68,14 @@
   ],
   "chunks": [
     {
-      "en": "team defeated",
-      "cn": "队 击败",
+      "en": "acknowledge defeat",
+      "cn": "承认 击败",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "chinese team defeated",
+      "cn": "中国人 队 击败",
       "type": "名词短语",
       "count": 2
     },
@@ -80,14 +86,14 @@
       "count": 2
     },
     {
-      "en": "chinese team defeated",
-      "cn": "中国人 队 击败",
+      "en": "team defeated",
+      "cn": "队 击败",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "acknowledge defeat",
-      "cn": "承认 击败",
+      "en": "the chinese team defeated",
+      "cn": "该 中国人 队 击败",
       "type": "名词短语",
       "count": 2
     },
@@ -98,21 +104,15 @@
       "count": 1
     },
     {
-      "en": "we were defeated",
-      "cn": "我们 是 击败",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "they defeated",
-      "cn": "他们 击败",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "defeated the defending",
       "cn": "击败 该 防御",
       "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "disappointment we were defeated",
+      "cn": "我们 是 击败",
+      "type": "名词短语",
       "count": 1
     }
   ]

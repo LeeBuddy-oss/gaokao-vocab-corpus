@@ -156,6 +156,12 @@
   ],
   "chunks": [
     {
+      "en": "got off the plane",
+      "cn": "离开 该 飞机",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
       "en": "larger planes",
       "cn": "计划",
       "type": "名词短语",
@@ -164,44 +170,38 @@
     {
       "en": "of larger planes",
       "cn": "的 计划",
-      "type": "名词短语",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "off the plane",
+      "cn": "离开 该 飞机",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "pilots of larger planes",
+      "cn": "飞行员 的 计划",
+      "type": "介词短语",
       "count": 2
     },
     {
       "en": "plane i ran",
       "cn": "飞机 我",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "his plane",
-      "cn": "他的 飞机",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "plane tickets",
       "cn": "飞机 票",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "the plane tickets",
-      "cn": "该 飞机 票",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "planes trains",
-      "cn": "计划 火车",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "of planes trains",
-      "cn": "的 计划 火车",
+      "en": "the plane i ran",
+      "cn": "该 飞机 我",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }

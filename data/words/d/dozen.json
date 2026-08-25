@@ -122,9 +122,21 @@
   ],
   "chunks": [
     {
+      "en": "a half dozen",
+      "cn": "一个 一半 打",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
       "en": "dozen books",
       "cn": "打 书",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "dozens of plays",
+      "cn": "打 的 玩耍",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -134,22 +146,10 @@
       "count": 2
     },
     {
-      "en": "a half dozen",
-      "cn": "一个 一半 打",
-      "type": "名词短语",
+      "en": "out a half dozen",
+      "cn": "出 一个 一半 打",
+      "type": "介词短语",
       "count": 2
-    },
-    {
-      "en": "dozens of plays",
-      "cn": "打 的 玩耍",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "dozen categories",
-      "cn": "打 类别",
-      "type": "动词短语",
-      "count": 1
     },
     {
       "en": "a dozen categories",
@@ -158,15 +158,15 @@
       "count": 1
     },
     {
-      "en": "half a dozen",
-      "cn": "一半 一个 打",
+      "en": "a dozen times",
+      "cn": "一个 打 时间",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "dozens of nameless",
-      "cn": "打 的",
-      "type": "动词短语",
+      "en": "a dozen yards",
+      "cn": "一个 打 院子",
+      "type": "名词短语",
       "count": 1
     }
   ]

@@ -1,1 +1,76 @@
-{"meta":{"ph":"kɜːv; NAmE kɜːrv","pos":"noun","stars":"★"},"defs":[{"def":"a line or surface that bends gradually; a smooth bend 曲线；弧线；曲面；弯曲","ex":[{"s":"In 1885,Hermann Ebbinghaus published a book Memory called Memory and presented a famous forgetting curve.","src":"北师大B3 U9","cat":"beishida","year":"","t":"1885年，赫尔曼·艾宾浩斯出版了一本名为《记忆》的书，并提出了著名的遗忘曲线。"},{"s":"Timeremembered (days) TheForgetting Curve 4 I'm 16, but I sometimes forget things.","src":"北师大B3 U9","cat":"beishida","year":"","t":"记忆保持天数：遗忘曲线。我16岁了，但有时会忘记事情。"}]},{"def":"a ball that moves in a curve when it is thrown to the batter 棒球","ex":[]}],"chunks":[{"en":"forgetting curve","cn":"忘记曲线","type":"动词短语","count":1}]}
+{
+  "meta": {
+    "ph": "kɜːv; NAmE kɜːrv",
+    "pos": "noun",
+    "stars": "★"
+  },
+  "defs": [
+    {
+      "def": "a line or surface that bends gradually; a smooth bend 曲线；弧线；曲面；弯曲",
+      "ex": [
+        {
+          "s": "In 1885,Hermann Ebbinghaus published a book Memory called Memory and presented a famous forgetting curve.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "year": "",
+          "t": "1885年，赫尔曼·艾宾浩斯出版了一本名为《记忆》的书，并提出了著名的遗忘曲线。"
+        },
+        {
+          "s": "Timeremembered (days) TheForgetting Curve 4 I'm 16, but I sometimes forget things.",
+          "src": "北师大B3 U9",
+          "cat": "beishida",
+          "year": "",
+          "t": "记忆保持天数：遗忘曲线。我16岁了，但有时会忘记事情。"
+        }
+      ]
+    },
+    {
+      "def": "a ball that moves in a curve when it is thrown to the batter 棒球",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "a famous forgetting curve",
+      "cn": "一个 著名的 通常不用于进行时 曲线",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "curve i'm",
+      "cn": "曲线",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "days theforgetting curve",
+      "cn": "一天 曲线",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "famous forgetting curve",
+      "cn": "著名的 通常不用于进行时 曲线",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "forgetting curve",
+      "cn": "通常不用于进行时 曲线",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "theforgetting curve",
+      "cn": "曲线",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "timeremembered days theforgetting curve",
+      "cn": "一天 曲线",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

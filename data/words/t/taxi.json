@@ -90,9 +90,21 @@
   ],
   "chunks": [
     {
-      "en": "taxi on the rank",
-      "cn": "出租汽车 在…上 该 地位",
-      "type": "动词短语",
+      "en": "first taxi",
+      "cn": "出租汽车",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "gunter parked the taxi",
+      "cn": "公园 该 出租汽车",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "into the first taxi",
+      "cn": "进入 该 出租汽车",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -102,40 +114,28 @@
       "count": 2
     },
     {
-      "en": "taxi behind the bus",
-      "cn": "出租汽车 在…后 该 公共汽车",
+      "en": "taxi behind",
+      "cn": "出租汽车 在…后",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "taxi on the rank",
+      "cn": "出租汽车 在…上 该 地位",
       "type": "动词短语",
       "count": 2
     },
     {
-      "en": "taxi for sarah",
-      "cn": "出租汽车 为了",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "order a taxi",
-      "cn": "顺序 一个 出租汽车",
+      "en": "the first taxi",
+      "cn": "该 出租汽车",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "taxi driver",
-      "cn": "出租汽车 驾驶员",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "a taxi driver",
-      "cn": "一个 出租汽车 驾驶员",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "taxi services",
-      "cn": "出租汽车 公共服务系统",
-      "type": "动词短语",
-      "count": 1
+      "en": "the taxi behind",
+      "cn": "该 出租汽车 在…后",
+      "type": "介词短语",
+      "count": 2
     }
   ]
 }

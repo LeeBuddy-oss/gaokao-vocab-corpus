@@ -50,8 +50,14 @@
   ],
   "chunks": [
     {
-      "en": "farming sheep",
-      "cn": "农场 羊",
+      "en": "and cattle and sheep",
+      "cn": "与 牛 与 羊",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "and sheep wandering",
+      "cn": "与 羊 闲逛",
       "type": "名词短语",
       "count": 1
     },
@@ -62,26 +68,8 @@
       "count": 1
     },
     {
-      "en": "sheep on a hillside",
-      "cn": "羊 在…上 一个",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sheep cows",
-      "cn": "羊 母牛",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sheep wandering",
-      "cn": "羊 闲逛",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "and sheep wandering",
-      "cn": "与 羊 闲逛",
+      "en": "black sheep",
+      "cn": "黑的 羊",
       "type": "名词短语",
       "count": 1
     },
@@ -92,9 +80,21 @@
       "count": 1
     },
     {
-      "en": "sheep and cattle",
-      "cn": "羊 与 牛",
-      "type": "动词短语",
+      "en": "dolly the sheep",
+      "cn": "该 羊",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dotted with sheep",
+      "cn": "与 羊",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "farming sheep",
+      "cn": "农场 羊",
+      "type": "名词短语",
       "count": 1
     }
   ]

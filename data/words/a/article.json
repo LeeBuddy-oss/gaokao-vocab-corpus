@@ -222,10 +222,10 @@
   ],
   "chunks": [
     {
-      "en": "his article",
-      "cn": "他的 文章",
-      "type": "名词短语",
-      "count": 3
+      "en": "article about",
+      "cn": "文章 大约",
+      "type": "介词短语",
+      "count": 4
     },
     {
       "en": "improve his article",
@@ -234,9 +234,27 @@
       "count": 3
     },
     {
-      "en": "newspaper articles",
-      "cn": "报纸 文章",
+      "en": "man improve his article",
+      "cn": "成年男子 改进 他的 文章",
       "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "an article about",
+      "cn": "一个 文章 大约",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "article without",
+      "cn": "文章 没有",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "articles about",
+      "cn": "文章 大约",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -246,28 +264,10 @@
       "count": 2
     },
     {
-      "en": "magazine articles",
-      "cn": "杂志 文章",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "magazine article",
       "cn": "杂志 文章",
       "type": "名词短语",
       "count": 2
-    },
-    {
-      "en": "articles and book",
-      "cn": "文章 与 书",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "copies of articles",
-      "cn": "复印件 的 文章",
-      "type": "名词短语",
-      "count": 1
     }
   ]
 }

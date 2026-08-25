@@ -55,22 +55,22 @@
   ],
   "chunks": [
     {
-      "en": "vivid portrait",
-      "cn": "记忆 肖像",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "most vivid portrait",
       "cn": "最多 记忆 肖像",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "portrait photograph",
-      "cn": "肖像",
-      "type": "动词短语",
-      "count": 1
+      "en": "the most vivid portrait",
+      "cn": "该 最多 记忆 肖像",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "vivid portrait",
+      "cn": "记忆 肖像",
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "a portrait photograph",
@@ -79,15 +79,21 @@
       "count": 1
     },
     {
-      "en": "portrait of the team's",
+      "en": "portrait of the team",
       "cn": "肖像 的 该 队",
-      "type": "动词短语",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "portrait of the team",
+      "en": "portrait of the team's",
       "cn": "肖像 的 该 队",
-      "type": "动词短语",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "portrait photograph",
+      "cn": "肖像",
+      "type": "名词短语",
       "count": 1
     }
   ]

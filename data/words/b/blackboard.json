@@ -1,1 +1,72 @@
-{"meta": {"ph": "ˈblækbɔːd; NAmE ˈblækbɔːrd", "pos": "noun", "stars": ""}, "defs": [{"def": "a large board with a smooth black or dark green surface that teachers write on with a piece of chalk 黑板", "ex": [{"s": "All the assignments will be submitted by the assigned date through Blackboard, our online learning and course management system.", "src": "2022全国新高考I卷·阅读理解A", "cat": "gaokao", "year": 2022, "t": "所有作业必须在指定日期前通过Blackboard提交，这是我们的在线学习和课程管理系统。"}, {"s": "The schools have tablets and touchscreens instead of books and blackboards in the classrooms.", "src": "人教B2 U5", "cat": "renjiao", "year": "", "t": "这些学校的教室里用平板电脑和触摸屏取代了书本和黑板。"}]}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈblækbɔːd; NAmE ˈblækbɔːrd",
+    "pos": "noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "a large board with a smooth black or dark green surface that teachers write on with a piece of chalk 黑板",
+      "ex": [
+        {
+          "s": "All the assignments will be submitted by the assigned date through Blackboard, our online learning and course management system.",
+          "src": "2022全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "所有作业必须在指定日期前通过Blackboard提交，这是我们的在线学习和课程管理系统。"
+        },
+        {
+          "s": "The schools have tablets and touchscreens instead of books and blackboards in the classrooms.",
+          "src": "人教B2 U5",
+          "cat": "renjiao",
+          "year": "",
+          "t": "这些学校的教室里用平板电脑和触摸屏取代了书本和黑板。"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "en": "assigned date through blackboard",
+      "cn": "分配 日期 通过 黑板",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "blackboard our online",
+      "cn": "黑板 我们的 在线的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "blackboards in the classrooms",
+      "cn": "黑板 在…里 该 教室",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "books and blackboards",
+      "cn": "书 与 黑板",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "date through blackboard",
+      "cn": "日期 通过 黑板",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "of books and blackboards",
+      "cn": "的 书 与 黑板",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "through blackboard",
+      "cn": "通过 黑板",
+      "type": "介词短语",
+      "count": 1
+    }
+  ]
+}

@@ -149,9 +149,21 @@
   ],
   "chunks": [
     {
-      "en": "drowning sprained",
-      "cn": "淹死",
-      "type": "动词短语",
+      "en": "a drowning victim",
+      "cn": "一个 淹死 受害者",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a girl from drowning",
+      "cn": "一个 女孩 从 淹死",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "and men drowned",
+      "cn": "与 淹死",
+      "type": "名词短语",
       "count": 1
     },
     {
@@ -161,21 +173,9 @@
       "count": 1
     },
     {
-      "en": "heart attack drowning",
-      "cn": "心 袭击 淹死",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "drown first help",
-      "cn": "淹死 帮助",
+      "en": "drown first",
+      "cn": "淹死",
       "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "girl from drowning",
-      "cn": "女孩 从 淹死",
-      "type": "名词短语",
       "count": 1
     },
     {
@@ -185,15 +185,15 @@
       "count": 1
     },
     {
-      "en": "men drowned",
+      "en": "drowning sprained",
       "cn": "淹死",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "and men drowned",
-      "cn": "与 淹死",
-      "type": "名词短语",
+      "en": "drowning victim",
+      "cn": "淹死 受害者",
+      "type": "动词短语",
       "count": 1
     }
   ]

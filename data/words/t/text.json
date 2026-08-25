@@ -813,10 +813,10 @@
   ],
   "chunks": [
     {
-      "en": "text mainly",
-      "cn": "正文",
-      "type": "动词短语",
-      "count": 10
+      "en": "title for the text",
+      "cn": "名称 为了 该 正文",
+      "type": "介词短语",
+      "count": 33
     },
     {
       "en": "the text mainly",
@@ -827,8 +827,14 @@
     {
       "en": "text mainly about",
       "cn": "正文 大约",
-      "type": "动词短语",
+      "type": "介词短语",
       "count": 9
+    },
+    {
+      "en": "is the text mainly",
+      "cn": "是 该 正文",
+      "type": "名词短语",
+      "count": 8
     },
     {
       "en": "digital texts",
@@ -837,9 +843,9 @@
       "count": 6
     },
     {
-      "en": "text probably",
-      "cn": "正文 几乎肯定",
-      "type": "动词短语",
+      "en": "in writing the text",
+      "cn": "在…里 书写 该 正文",
+      "type": "介词短语",
       "count": 3
     },
     {
@@ -849,15 +855,9 @@
       "count": 3
     },
     {
-      "en": "digital texts are",
-      "cn": "数字信息系统的 正文 是",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "reading the text",
-      "cn": "不用于进行时 该 正文",
-      "type": "名词短语",
+      "en": "according to the text",
+      "cn": "去 该 正文",
+      "type": "介词短语",
       "count": 2
     }
   ]

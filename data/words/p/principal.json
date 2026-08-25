@@ -60,33 +60,39 @@
   ],
   "chunks": [
     {
-      "en": "principal even",
-      "cn": "大学校长 甚至",
-      "type": "动词短语",
+      "en": "accepted by the principal",
+      "cn": "收受 通过 该 大学校长",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "my principal",
-      "cn": "我的 大学校长",
+      "en": "by their principal",
+      "cn": "通过 他们的 大学校长",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "principal even",
+      "cn": "大学校长 甚至",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "principal will talk",
-      "cn": "大学校长 将 说话",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "think the principal",
-      "cn": "不用于进行时 该 大学校长",
+      "en": "principal mr",
+      "cn": "大学校长 先生",
       "type": "名词短语",
       "count": 1
     },
     {
       "en": "principal ms",
       "cn": "大学校长 女士",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "principal will talk",
+      "cn": "大学校长 将 说话",
+      "type": "名词短语",
       "count": 1
     },
     {
@@ -96,15 +102,9 @@
       "count": 1
     },
     {
-      "en": "principal mr",
-      "cn": "大学校长 先生",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "their principal",
-      "cn": "他们的 大学校长",
-      "type": "名词短语",
+      "en": "students by their principal",
+      "cn": "大学生 通过 他们的 大学校长",
+      "type": "介词短语",
       "count": 1
     }
   ]

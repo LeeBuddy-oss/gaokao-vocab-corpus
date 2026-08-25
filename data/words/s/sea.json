@@ -236,30 +236,24 @@
     {
       "en": "sea level",
       "cn": "海 数量",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 7
     },
     {
       "en": "sea creatures",
       "cn": "海 生物",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 3
-    },
-    {
-      "en": "aral sea",
-      "cn": "海",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "the aral sea",
-      "cn": "该 海",
-      "type": "名词短语",
-      "count": 2
     },
     {
       "en": "above sea",
       "cn": "在… 上面 海",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "aral sea",
+      "cn": "海",
       "type": "名词短语",
       "count": 2
     },
@@ -272,14 +266,20 @@
     {
       "en": "of sea level",
       "cn": "的 海 数量",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "the aral sea",
+      "cn": "该 海",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "seas ups",
-      "cn": "海",
-      "type": "动词短语",
-      "count": 1
+      "en": "under the sea",
+      "cn": "在…下 该 海",
+      "type": "介词短语",
+      "count": 2
     }
   ]
 }

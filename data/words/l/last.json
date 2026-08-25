@@ -1177,8 +1177,8 @@
   "chunks": [
     {
       "en": "last paragraph",
-      "cn": "最后的 段",
-      "type": "动词短语",
+      "cn": "最后一段",
+      "type": "名词短语",
       "count": 26
     },
     {
@@ -1188,40 +1188,40 @@
       "count": 26
     },
     {
-      "en": "last year",
-      "cn": "最后的 年",
-      "type": "动词短语",
-      "count": 12
+      "en": "from the last",
+      "cn": "从 该 最后的",
+      "type": "介词短语",
+      "count": 15
     },
     {
-      "en": "last week",
-      "cn": "最后的 周",
-      "type": "动词短语",
-      "count": 10
+      "en": "last year",
+      "cn": "最后的 年",
+      "type": "名词短语",
+      "count": 12
     },
     {
       "en": "last time",
       "cn": "最后的 时间",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 10
+    },
+    {
+      "en": "last week",
+      "cn": "最后的 周",
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "in the last paragraph",
+      "cn": "在…里 该 最后的 段",
+      "type": "介词短语",
+      "count": 7
     },
     {
       "en": "last month",
       "cn": "最后的 月",
-      "type": "动词短语",
-      "count": 6
-    },
-    {
-      "en": "the last time",
-      "cn": "该 最后的 时间",
       "type": "名词短语",
       "count": 6
-    },
-    {
-      "en": "last friday",
-      "cn": "最后的",
-      "type": "动词短语",
-      "count": 5
     }
   ]
 }

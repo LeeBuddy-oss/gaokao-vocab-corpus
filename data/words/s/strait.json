@@ -1,1 +1,62 @@
-{"meta": {"ph": "streɪt; NAmE streɪt", "pos": "noun", "stars": "★★"}, "defs": [{"def": "a narrow passage of water that connects two seas or large areas of water 尤用于地名", "ex": [{"s": "Scientists believe that these settlers crossed the Bering Strait by a land bridge which existed in prehistoric times.", "src": "人教B3 U3", "cat": "renjiao", "t": "科学家认为，这些定居者通过史前存在的一座陆地桥梁跨越白令海峡。"}, {"s": "Some of Canada's earliest settlers, who are thought to be ancestors of the indigenous peoples, crossed the Bering Strait by means of a land bridge from a place now known as Siberia.", "src": "译林选必3 U1", "cat": "yilin", "t": "部分加拿大最早的定居者被认为是原住民的祖先，他们通过一座从现在被称为西伯利亚的地方出发的陆桥穿过白令海峡。"}]}, {"def": "a very difficult situation especially because of lack of money （尤指经济拮据引起的）困境，境况窘迫", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "streɪt; NAmE streɪt",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a narrow passage of water that connects two seas or large areas of water 尤用于地名",
+      "ex": [
+        {
+          "s": "Scientists believe that these settlers crossed the Bering Strait by a land bridge which existed in prehistoric times.",
+          "src": "人教B3 U3",
+          "cat": "renjiao",
+          "t": "科学家认为，这些定居者通过史前存在的一座陆地桥梁跨越白令海峡。"
+        },
+        {
+          "s": "Some of Canada's earliest settlers, who are thought to be ancestors of the indigenous peoples, crossed the Bering Strait by means of a land bridge from a place now known as Siberia.",
+          "src": "译林选必3 U1",
+          "cat": "yilin",
+          "t": "部分加拿大最早的定居者被认为是原住民的祖先，他们通过一座从现在被称为西伯利亚的地方出发的陆桥穿过白令海峡。"
+        }
+      ]
+    },
+    {
+      "def": "a very difficult situation especially because of lack of money （尤指经济拮据引起的）困境，境况窘迫",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "bering strait",
+      "cn": "尤用于地名",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "crossed the bering strait",
+      "cn": "叉字形记号 该 尤用于地名",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "the bering strait",
+      "cn": "该 尤用于地名",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "strait by a land",
+      "cn": "尤用于地名 通过 一个 陆地",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "strait by means",
+      "cn": "尤用于地名 通过 方式",
+      "type": "介词短语",
+      "count": 1
+    }
+  ]
+}

@@ -257,15 +257,21 @@
   ],
   "chunks": [
     {
-      "en": "you listen",
-      "cn": "你 听",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
       "en": "anyone listening",
       "cn": "听",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "but is anyone listening",
+      "cn": "但 是 听",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "have listened to their",
+      "cn": "有 听 去 他们的",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -281,9 +287,9 @@
       "count": 2
     },
     {
-      "en": "you listen to",
-      "cn": "你 听 去",
-      "type": "名词短语",
+      "en": "listened to their",
+      "cn": "听 去 他们的",
+      "type": "动词短语",
       "count": 2
     },
     {
@@ -296,12 +302,6 @@
       "en": "sit and listen",
       "cn": "坐 与 听",
       "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "listened to their",
-      "cn": "听 去 他们的",
-      "type": "动词短语",
       "count": 2
     }
   ]

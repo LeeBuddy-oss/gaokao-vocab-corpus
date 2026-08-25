@@ -184,16 +184,22 @@
   ],
   "chunks": [
     {
+      "en": "the underlined phrase",
+      "cn": "该 短语",
+      "type": "名词短语",
+      "count": 9
+    },
+    {
       "en": "underlined phrase",
       "cn": "短语",
       "type": "名词短语",
       "count": 9
     },
     {
-      "en": "the underlined phrase",
-      "cn": "该 短语",
+      "en": "does the underlined phrase",
+      "cn": "做 该 短语",
       "type": "名词短语",
-      "count": 9
+      "count": 7
     },
     {
       "en": "words and phrases",
@@ -202,32 +208,26 @@
       "count": 2
     },
     {
-      "en": "phrase oblivious",
-      "cn": "短语",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "underlined phrase oblivious",
-      "cn": "短语",
+      "en": "a short phrase",
+      "cn": "一个 短的 短语",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "phrase there are children",
-      "cn": "短语 那里 是",
-      "type": "动词短语",
+      "en": "a word phrase",
+      "cn": "一个 单词 短语",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "phrase shine",
-      "cn": "短语 发光",
-      "type": "动词短语",
+      "en": "and phrases and topic",
+      "cn": "与 短语 与 话题",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "underlined phrase shine",
-      "cn": "短语 发光",
+      "en": "and phrases help",
+      "cn": "与 短语 帮助",
       "type": "名词短语",
       "count": 1
     }

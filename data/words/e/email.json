@@ -216,21 +216,27 @@
   ],
   "chunks": [
     {
-      "en": "your email",
-      "cn": "你的 电子邮件",
+      "en": "be notified by email",
+      "cn": "是 通过 电子邮件",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "email in error email",
+      "cn": "电子邮件 在…里 错误 电子邮件",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "email sender",
+      "cn": "电子邮件",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "notified by email",
       "cn": "通过 电子邮件",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "email sender",
-      "cn": "电子邮件",
-      "type": "动词短语",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -240,26 +246,20 @@
       "count": 2
     },
     {
-      "en": "email you",
-      "cn": "电子邮件 你",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
       "en": "will email you",
       "cn": "将 电子邮件 你",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "we will email",
-      "cn": "我们 将 电子邮件",
+      "en": "a complete the email",
+      "cn": "一个 完全的 该 电子邮件",
       "type": "名词短语",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "texted emailed",
-      "cn": "正文 电子邮件",
+      "en": "a confirmation email",
+      "cn": "一个 电子邮件",
       "type": "名词短语",
       "count": 1
     }

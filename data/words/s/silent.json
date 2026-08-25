@@ -96,21 +96,27 @@
   ],
   "chunks": [
     {
+      "en": "everyone was silent",
+      "cn": "是 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "films were silent",
+      "cn": "电影 是 人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
       "en": "goes silent",
       "cn": "去 人",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "voice goes silent",
-      "cn": "嗓音 去 人",
+      "en": "internal voice goes silent",
+      "cn": "内部的 嗓音 去 人",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "silent maybe",
-      "cn": "人 大概",
-      "type": "动词短语",
       "count": 1
     },
     {
@@ -120,26 +126,20 @@
       "count": 1
     },
     {
-      "en": "she kept silent",
-      "cn": "她 人",
+      "en": "of the silent cinema",
+      "cn": "的 该 人 电影院",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "otherwise all was silent",
+      "cn": "否则 所有 是 人",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "silent wait",
-      "cn": "人 等",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "was silent wait",
-      "cn": "是 人 等",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "everyone was silent",
-      "cn": "是 人",
+      "en": "silent and empty",
+      "cn": "人 与 空的",
       "type": "名词短语",
       "count": 1
     }

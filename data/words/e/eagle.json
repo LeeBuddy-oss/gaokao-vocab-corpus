@@ -47,20 +47,26 @@
   ],
   "chunks": [
     {
-      "en": "eagle flew",
-      "cn": "雕",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
       "en": "an eagle flew",
       "cn": "一个 雕",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "say an eagle",
-      "cn": "说 一个 雕",
+      "en": "eagle flew",
+      "cn": "雕",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "also say an eagle",
+      "cn": "也 说 一个 雕",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bear and an eagle",
+      "cn": "在否定句和疑问句中与 c 与 一个 雕",
       "type": "名词短语",
       "count": 1
     },
@@ -71,8 +77,14 @@
       "count": 1
     },
     {
-      "en": "they were eagles",
-      "cn": "他们 是 雕",
+      "en": "or even an eagle",
+      "cn": "或 甚至 一个 雕",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "say an eagle",
+      "cn": "说 一个 雕",
       "type": "名词短语",
       "count": 1
     }

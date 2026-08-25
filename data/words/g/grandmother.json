@@ -178,32 +178,26 @@
   ],
   "chunks": [
     {
-      "en": "my grandmother",
-      "cn": "我的 祖母",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
       "en": "at my grandmother",
       "cn": "在 我的 祖母",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "grandmother and great grandmother",
+      "cn": "祖母 与 大的 祖母",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "author s grandmother",
-      "cn": "著者 祖母",
+      "en": "a responsible grandmother",
+      "cn": "一个 有责任 祖母",
       "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "grandmother ran",
-      "cn": "祖母",
-      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "my grandmother ran",
-      "cn": "我的 祖母",
+      "en": "and great grandmother",
+      "cn": "与 大的 祖母",
       "type": "名词短语",
       "count": 1
     },
@@ -214,14 +208,20 @@
       "count": 1
     },
     {
-      "en": "grandmother was born",
-      "cn": "祖母 是 出生",
-      "type": "动词短语",
+      "en": "even at my grandmother",
+      "cn": "甚至 在 我的 祖母",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "my grandmother was",
-      "cn": "我的 祖母 是",
+      "en": "from the overjoyed grandmother",
+      "cn": "从 该 祖母",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "grandmother and great",
+      "cn": "祖母 与 大的",
       "type": "名词短语",
       "count": 1
     }

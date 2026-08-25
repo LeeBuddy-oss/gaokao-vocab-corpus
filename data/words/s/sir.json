@@ -99,21 +99,33 @@
   ],
   "chunks": [
     {
-      "en": "sir she",
-      "cn": "先生 她",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
       "en": "yes sir",
       "cn": "哦 先生",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "sir madam",
-      "cn": "先生 夫人",
-      "type": "动词短语",
+      "en": "based on sir",
+      "cn": "根基 在…上 先生",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "best loved painter sir",
+      "cn": "最好的 爱 先生",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "by sir hans",
+      "cn": "通过 先生",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "collected by sir",
+      "cn": "收集 通过 先生",
+      "type": "介词短语",
       "count": 1
     },
     {
@@ -123,27 +135,15 @@
       "count": 1
     },
     {
-      "en": "sir she replied",
-      "cn": "先生 她 回答",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "yes sir she",
-      "cn": "哦 先生 她",
+      "en": "excuse me sir",
+      "cn": "借口 我noun 先生",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "weak sir",
-      "cn": "虚弱的 先生",
+      "en": "historian sir",
+      "cn": "先生",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "sir she defended",
-      "cn": "先生 她 防御",
-      "type": "动词短语",
       "count": 1
     }
   ]

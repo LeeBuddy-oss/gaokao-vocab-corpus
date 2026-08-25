@@ -604,16 +604,22 @@
   ],
   "chunks": [
     {
-      "en": "handed me",
-      "cn": "手 我noun",
-      "type": "动词短语",
-      "count": 6
+      "en": "on the other hand",
+      "cn": "在…上 该 另外 手",
+      "type": "介词短语",
+      "count": 5
     },
     {
-      "en": "handed me a",
-      "cn": "手 我noun 一个",
-      "type": "动词短语",
-      "count": 3
+      "en": "other hand",
+      "cn": "另外 手",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "the other hand",
+      "cn": "该 另外 手",
+      "type": "名词短语",
+      "count": 5
     },
     {
       "en": "and handed me",
@@ -622,8 +628,8 @@
       "count": 3
     },
     {
-      "en": "his hands",
-      "cn": "他的 手",
+      "en": "handed me a",
+      "cn": "手 我noun 一个",
       "type": "名词短语",
       "count": 3
     },
@@ -634,20 +640,14 @@
       "count": 3
     },
     {
-      "en": "handed him",
-      "cn": "手 他",
-      "type": "动词短语",
+      "en": "a dab hand",
+      "cn": "一个 手",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "handed me an",
-      "cn": "手 我noun 一个",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "interruption and handed",
-      "cn": "与 手",
+      "en": "a helping hand",
+      "cn": "一个 帮助 手",
       "type": "名词短语",
       "count": 2
     }

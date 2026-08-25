@@ -646,10 +646,16 @@
   ],
   "chunks": [
     {
-      "en": "you understand",
-      "cn": "你 懂",
-      "type": "名词短语",
+      "en": "understand each other",
+      "cn": "懂 每个 另外",
+      "type": "动词短语",
       "count": 4
+    },
+    {
+      "en": "can understand each other",
+      "cn": "能 懂 每个 另外",
+      "type": "名词短语",
+      "count": 3
     },
     {
       "en": "understanding history",
@@ -658,26 +664,14 @@
       "count": 3
     },
     {
-      "en": "couldn't understand",
-      "cn": "懂",
+      "en": "an informal consumer understanding",
+      "cn": "一个 懂",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "understand the underlined",
-      "cn": "懂 该",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "you understand the",
-      "cn": "你 懂 该",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "do you understand",
-      "cn": "做 你 懂",
+      "en": "better understand",
+      "cn": "较好的 懂",
       "type": "名词短语",
       "count": 2
     },
@@ -688,8 +682,14 @@
       "count": 2
     },
     {
-      "en": "informal consumer understanding",
+      "en": "couldn't understand",
       "cn": "懂",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "do you understand",
+      "cn": "做 你 懂",
       "type": "名词短语",
       "count": 2
     }

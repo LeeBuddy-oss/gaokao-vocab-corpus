@@ -218,9 +218,15 @@
   ],
   "chunks": [
     {
-      "en": "attackers get attacked",
-      "cn": "收到 袭击",
-      "type": "动词短语",
+      "en": "is under attack",
+      "cn": "是 在…下 袭击",
+      "type": "介词短语",
+      "count": 4
+    },
+    {
+      "en": "under attack",
+      "cn": "在…下 袭击",
+      "type": "介词短语",
       "count": 4
     },
     {
@@ -230,32 +236,26 @@
       "count": 3
     },
     {
-      "en": "directly attack",
-      "cn": "袭击",
+      "en": "a heart attack",
+      "cn": "一个 心 袭击",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "attack it doesn",
       "cn": "袭击 它",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "attacker who was lunching",
-      "cn": "谁 是 午餐",
-      "type": "动词短语",
+      "en": "attackers get attacked",
+      "cn": "收到 袭击",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "attackers get",
-      "cn": "收到",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "the attackers get",
-      "cn": "该 收到",
+      "en": "directly attack",
+      "cn": "袭击",
       "type": "名词短语",
       "count": 2
     },

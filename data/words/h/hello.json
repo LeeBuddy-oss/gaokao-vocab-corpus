@@ -60,26 +60,38 @@
   ],
   "chunks": [
     {
-      "en": "meant hello",
+      "en": "from saying hello",
+      "cn": "从 谚语 哈罗",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "hello everyone",
       "cn": "哈罗",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "it meant hello",
-      "cn": "它 哈罗",
+      "en": "hello from",
+      "cn": "哈罗 从",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "hello my speech",
+      "cn": "哈罗 我的 演说",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "saying hello",
-      "cn": "谚语 哈罗",
+      "en": "hi paul hello",
+      "cn": "喂 哈罗",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "from saying hello",
-      "cn": "从 谚语 哈罗",
+      "en": "meant hello",
+      "cn": "哈罗",
       "type": "名词短语",
       "count": 1
     },
@@ -90,21 +102,9 @@
       "count": 1
     },
     {
-      "en": "hello from our",
-      "cn": "哈罗 从 我们的",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "hi paul hello",
+      "en": "paul hi paul hello",
       "cn": "喂 哈罗",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "hello is that john",
-      "cn": "哈罗 是 那个",
-      "type": "动词短语",
       "count": 1
     }
   ]

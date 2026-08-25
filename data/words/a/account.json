@@ -252,14 +252,26 @@
   ],
   "chunks": [
     {
-      "en": "bank account",
-      "cn": "银行 账户",
+      "en": "accounts for about",
+      "cn": "账户 为了 大约",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "into account",
+      "cn": "进入 账户",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "a brief account",
+      "cn": "一个 短时间的 账户",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "taken into account",
-      "cn": "进入 账户",
+      "en": "bank account",
+      "cn": "银行 账户",
       "type": "名词短语",
       "count": 2
     },
@@ -270,33 +282,21 @@
       "count": 2
     },
     {
-      "en": "a brief account",
-      "cn": "一个 短时间的 账户",
-      "type": "名词短语",
+      "en": "taken into account",
+      "cn": "进入 账户",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "takes no account",
-      "cn": "携带 无 账户",
+      "en": "a handshake account",
+      "cn": "一个 账户",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "account of the context",
-      "cn": "账户 的 该 背景",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "card bank account",
-      "cn": "卡片纸 银行 账户",
+      "en": "a new email account",
+      "cn": "一个 刚出现的 电子邮件 账户",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "account and letter",
-      "cn": "账户 与 信",
-      "type": "动词短语",
       "count": 1
     }
   ]

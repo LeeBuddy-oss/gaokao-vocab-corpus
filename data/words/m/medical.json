@@ -237,25 +237,31 @@
   ],
   "chunks": [
     {
-      "en": "medical certificate",
-      "cn": "伤病的 证明",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
       "en": "medical care",
       "cn": "伤病的 照料",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 3
     },
     {
-      "en": "medical association",
-      "cn": "伤病的 协会",
-      "type": "动词短语",
+      "en": "medical certificate",
+      "cn": "伤病的 证明",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "a medical certificate",
+      "cn": "一个 伤病的 证明",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "veterinary medical",
+      "en": "a medical report",
+      "cn": "一个 伤病的 汇报",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "american holistic veterinary medical",
       "cn": "伤病的",
       "type": "名词短语",
       "count": 2
@@ -267,20 +273,14 @@
       "count": 2
     },
     {
-      "en": "medical support",
-      "cn": "伤病的 支持",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "of medical support",
-      "cn": "的 伤病的 支持",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "lack of medical",
       "cn": "缺乏 的 伤病的",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "limited medical",
+      "cn": "有限的 伤病的",
       "type": "名词短语",
       "count": 2
     }

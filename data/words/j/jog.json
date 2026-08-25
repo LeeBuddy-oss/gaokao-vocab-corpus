@@ -1,1 +1,76 @@
-{"meta": {"ph": "dʒɒɡ; NAmE dʒɑːɡ", "pos": "verb;verb;noun;noun", "stars": ""}, "defs": [{"def": "to run slowly and steadily for a long time, especially for exercise 慢跑，慢步长跑（尤指锻炼）", "ex": [{"s": "Look and discuss 1 Do you jog often?", "src": "人教B1 U3", "cat": "renjiao", "t": "看看并讨论：你经常慢跑吗？"}, {"s": "After a long run, you should jog slowly for ten minutes, then walk for five minutes.Suchkind of warm-down relaxes your body after exercise.", "src": "北师大B1 U2", "cat": "beishida", "t": "长跑后，你应该慢跑10分钟，然后走5分钟。这种放松运动让你的身体在运动后得到放松。"}]}, {"def": "to hit sth lightly and by accident （偶然地）轻击，轻撞，轻碰", "ex": []}, {"def": "a slow run, especially one done for physical exercise 慢跑（尤指锻炼）", "ex": []}, {"def": "a light push or knock 轻推；轻碰；轻击", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "dʒɒɡ; NAmE dʒɑːɡ",
+    "pos": "verb;verb;noun;noun",
+    "stars": ""
+  },
+  "defs": [
+    {
+      "def": "to run slowly and steadily for a long time, especially for exercise 慢跑，慢步长跑（尤指锻炼）",
+      "ex": [
+        {
+          "s": "Look and discuss 1 Do you jog often?",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "看看并讨论：你经常慢跑吗？"
+        },
+        {
+          "s": "After a long run, you should jog slowly for ten minutes, then walk for five minutes.Suchkind of warm-down relaxes your body after exercise.",
+          "src": "北师大B1 U2",
+          "cat": "beishida",
+          "t": "长跑后，你应该慢跑10分钟，然后走5分钟。这种放松运动让你的身体在运动后得到放松。"
+        }
+      ]
+    },
+    {
+      "def": "to hit sth lightly and by accident （偶然地）轻击，轻撞，轻碰",
+      "ex": []
+    },
+    {
+      "def": "a slow run, especially one done for physical exercise 慢跑（尤指锻炼）",
+      "ex": []
+    },
+    {
+      "def": "a light push or knock 轻推；轻碰；轻击",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "discuss do you jog",
+      "cn": "讨论 做 你 慢跑",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "do you jog",
+      "cn": "做 你 慢跑",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "jog often",
+      "cn": "慢跑 时常",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "jog slowly for",
+      "cn": "慢跑 为了",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "run you should jog",
+      "cn": "跑 你 应 慢跑",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "should jog slowly",
+      "cn": "应 慢跑",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

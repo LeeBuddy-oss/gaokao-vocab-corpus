@@ -253,7 +253,7 @@
   "chunks": [
     {
       "en": "family member",
-      "cn": "家 成员",
+      "cn": "家庭成员",
       "type": "名词短语",
       "count": 5
     },
@@ -270,12 +270,6 @@
       "count": 2
     },
     {
-      "en": "members of all ages",
-      "cn": "成员 的 所有 年龄",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
       "en": "each family member",
       "cn": "每个 家 成员",
       "type": "名词短语",
@@ -284,18 +278,24 @@
     {
       "en": "member of the school",
       "cn": "成员 的 该 学校",
-      "type": "动词短语",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "community members of",
-      "cn": "社区 成员 的",
+      "en": "members of all ages",
+      "cn": "成员 的 所有 年龄",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "a family member",
+      "cn": "一个 家 成员",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and community members",
-      "cn": "与 社区 成员",
+      "en": "a few members",
+      "cn": "一个 不多 成员",
       "type": "名词短语",
       "count": 1
     }

@@ -153,9 +153,15 @@
   ],
   "chunks": [
     {
+      "en": "airport building",
+      "cn": "航空站 建筑物",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
       "en": "airport hotel",
       "cn": "航空站 旅馆",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -165,15 +171,27 @@
       "count": 2
     },
     {
+      "en": "crazy through the airport",
+      "cn": "不理智的 通过 该 航空站",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "from the airport",
+      "cn": "从 该 航空站",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
       "en": "los angeles airport",
       "cn": "航空站",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "airport building",
-      "cn": "航空站 建筑物",
-      "type": "动词短语",
+      "en": "renaissance los angeles airport",
+      "cn": "航空站",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -181,24 +199,6 @@
       "cn": "该 航空站 建筑物",
       "type": "名词短语",
       "count": 2
-    },
-    {
-      "en": "airport hotel is",
-      "cn": "航空站 旅馆 是",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "airport pickup",
-      "cn": "航空站",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "get airport",
-      "cn": "收到 航空站",
-      "type": "名词短语",
-      "count": 1
     }
   ]
 }

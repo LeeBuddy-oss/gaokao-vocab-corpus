@@ -319,9 +319,21 @@
   ],
   "chunks": [
     {
-      "en": "boys and girls",
-      "cn": "男孩 与 女孩",
-      "type": "动词短语",
+      "en": "little boy",
+      "cn": "小的 男孩",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "and their little boy",
+      "cn": "与 他们的 小的 男孩",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "boy his name",
+      "cn": "男孩 他的 名字",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -331,39 +343,27 @@
       "count": 2
     },
     {
-      "en": "their little boy",
-      "cn": "他们的 小的 男孩",
+      "en": "boys and girls",
+      "cn": "男孩 与 女孩",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "boy his",
-      "cn": "男孩 他的",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "little boy his",
-      "cn": "小的 男孩 他的",
+      "en": "the little boy",
+      "cn": "该 小的 男孩",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "my boys",
-      "cn": "我的 男孩",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "small boys",
-      "cn": "小的 男孩",
+      "en": "a boy walking",
+      "cn": "一个 男孩 走",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "boys and my",
-      "cn": "男孩 与 我的",
-      "type": "动词短语",
+      "en": "a good boy",
+      "cn": "一个 好的 男孩",
+      "type": "名词短语",
       "count": 1
     }
   ]

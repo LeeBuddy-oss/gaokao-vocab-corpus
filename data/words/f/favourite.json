@@ -184,18 +184,6 @@
   ],
   "chunks": [
     {
-      "en": "my favourite",
-      "cn": "我的 故乡的骄子",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "your favourite",
-      "cn": "你的 故乡的骄子",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "b my favourite",
       "cn": "我的 故乡的骄子",
       "type": "名词短语",
@@ -204,12 +192,24 @@
     {
       "en": "favourite tv",
       "cn": "故乡的骄子 电视",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "your favourite from",
-      "cn": "你的 故乡的骄子 从",
+      "en": "a what's your favourite",
+      "cn": "一个 什么 你的 故乡的骄子",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "all-time favourite",
+      "cn": "故乡的骄子",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "art was my favourite",
+      "cn": "艺术 是 我的 故乡的骄子",
       "type": "名词短语",
       "count": 1
     },
@@ -220,14 +220,14 @@
       "count": 1
     },
     {
-      "en": "favourite subject",
-      "cn": "故乡的骄子 主题",
-      "type": "动词短语",
+      "en": "favourite books",
+      "cn": "故乡的骄子 书",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "my favourite subject",
-      "cn": "我的 故乡的骄子 主题",
+      "en": "favourite food",
+      "cn": "故乡的骄子 食物",
       "type": "名词短语",
       "count": 1
     }

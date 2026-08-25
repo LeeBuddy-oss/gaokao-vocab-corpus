@@ -632,33 +632,27 @@
   ],
   "chunks": [
     {
-      "en": "test paper",
-      "cn": "测验 常构成复合词",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "the test paper",
-      "cn": "该 测验 常构成复合词",
+      "en": "a language test",
+      "cn": "一个 语言 测验",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "placement test",
-      "cn": "测验",
+      "en": "a test and complete",
+      "cn": "一个 测验 与 完全的",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "writing the test",
-      "cn": "书写 该 测验",
+      "en": "an iq test",
+      "cn": "一个 测验",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "tested the dogs",
-      "cn": "测验 该 狗",
-      "type": "动词短语",
+      "en": "by an iq test",
+      "cn": "通过 一个 测验",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -668,14 +662,20 @@
       "count": 2
     },
     {
-      "en": "tests to make",
-      "cn": "测验 去 制造",
-      "type": "动词短语",
+      "en": "going through crash tests",
+      "cn": "通过 撞车 测验",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "through crash tests",
-      "cn": "通过 撞车 测验",
+      "en": "in writing the test",
+      "cn": "在…里 书写 该 测验",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "iq test",
+      "cn": "测验",
       "type": "名词短语",
       "count": 2
     }

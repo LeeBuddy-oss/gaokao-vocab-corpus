@@ -110,26 +110,38 @@
   ],
   "chunks": [
     {
-      "en": "milk or cheese",
-      "cn": "奶 或 干酪",
-      "type": "动词短语",
+      "en": "added in some milk",
+      "cn": "增加 在…里 一些 奶",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "tea with milk",
-      "cn": "茶叶 与 奶",
+      "en": "any milk or cheese",
+      "cn": "任何 奶 或 干酪",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "meat and any milk",
+      "cn": "肉类 与 任何 奶",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "milk or cheese",
+      "cn": "奶 或 干酪",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "a milk base",
+      "cn": "一个 奶 根基",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "milk deliveries",
-      "cn": "奶",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "morning milk",
-      "cn": "早晨 奶",
+      "en": "a milking house",
+      "cn": "一个 奶 房屋",
       "type": "名词短语",
       "count": 1
     },
@@ -140,21 +152,9 @@
       "count": 1
     },
     {
-      "en": "milk base",
-      "cn": "奶 根基",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "a milk base",
-      "cn": "一个 奶 根基",
+      "en": "bad milk",
+      "cn": "令人不快的 奶",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "milk using",
-      "cn": "奶",
-      "type": "动词短语",
       "count": 1
     }
   ]

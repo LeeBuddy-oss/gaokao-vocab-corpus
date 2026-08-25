@@ -172,21 +172,21 @@
   ],
   "chunks": [
     {
-      "en": "graduate student",
-      "cn": "大学毕业生 大学生",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "graduated from university",
-      "cn": "大学毕业生 从 大学",
-      "type": "动词短语",
-      "count": 2
+      "en": "graduated from",
+      "cn": "大学毕业生 从",
+      "type": "介词短语",
+      "count": 8
     },
     {
       "en": "graduate school",
       "cn": "大学毕业生 学校",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "graduate student",
+      "cn": "大学毕业生 大学生",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -196,27 +196,27 @@
       "count": 2
     },
     {
-      "en": "says graduate",
-      "cn": "说 大学毕业生",
+      "en": "a first-generation graduate",
+      "cn": "一个 大学毕业生",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "graduate student amanda",
-      "cn": "大学毕业生 大学生",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "schedule says graduate",
-      "cn": "工作计划 说 大学毕业生",
+      "en": "a former graduate",
+      "cn": "一个 以前的 大学毕业生",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "graduate student in",
-      "cn": "大学毕业生 大学生 在…里",
-      "type": "动词短语",
+      "en": "a graduate of colorado",
+      "cn": "一个 大学毕业生 的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "a graduate program",
+      "cn": "一个 大学毕业生",
+      "type": "名词短语",
       "count": 1
     }
   ]

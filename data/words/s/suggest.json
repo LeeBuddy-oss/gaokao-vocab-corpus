@@ -554,8 +554,8 @@
   ],
   "chunks": [
     {
-      "en": "woman suggest",
-      "cn": "成年女子 建议",
+      "en": "does the woman suggest",
+      "cn": "做 该 成年女子 建议",
       "type": "名词短语",
       "count": 5
     },
@@ -566,8 +566,20 @@
       "count": 5
     },
     {
+      "en": "woman suggest",
+      "cn": "成年女子 建议",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
       "en": "author suggest",
       "cn": "著者 建议",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "does the author suggest",
+      "cn": "做 该 著者 建议",
       "type": "名词短语",
       "count": 4
     },
@@ -578,26 +590,14 @@
       "count": 4
     },
     {
-      "en": "suggest readers",
-      "cn": "建议",
-      "type": "动词短语",
+      "en": "seem to suggest",
+      "cn": "不用于进行时 去 建议",
+      "type": "介词短语",
       "count": 3
     },
     {
-      "en": "author suggest readers",
-      "cn": "著者 建议",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "suggest they",
-      "cn": "建议 他们",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "suggest people",
-      "cn": "建议 人",
+      "en": "suggest bill",
+      "cn": "建议 账单",
       "type": "动词短语",
       "count": 3
     }

@@ -49,32 +49,20 @@
   ],
   "chunks": [
     {
-      "en": "steak called",
-      "cn": "牛排 给 … 命名",
-      "type": "动词短语",
+      "en": "steak called hamburg steak",
+      "cn": "牛排 给 … 命名 牛排",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "a hard beef steak",
+      "cn": "一个 坚固的 牛肉 牛排",
+      "type": "名词短语",
       "count": 1
     },
     {
       "en": "beef steak",
       "cn": "牛肉 牛排",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "hard beef steak",
-      "cn": "坚固的 牛肉 牛排",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "steak eaten",
-      "cn": "牛排",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "hamburg steak",
-      "cn": "牛排",
       "type": "名词短语",
       "count": 1
     },
@@ -85,15 +73,27 @@
       "count": 1
     },
     {
-      "en": "put a steak",
-      "cn": "放 一个 牛排",
+      "en": "choking on some steak",
+      "cn": "窒息 在…上 一些 牛排",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "hamburg steak",
+      "cn": "牛排",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "steak on the barbecue",
-      "cn": "牛排 在…上 该 烤架",
-      "type": "动词短语",
+      "en": "hard beef steak",
+      "cn": "坚固的 牛肉 牛排",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "put a steak",
+      "cn": "放 一个 牛排",
+      "type": "名词短语",
       "count": 1
     }
   ]

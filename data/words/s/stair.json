@@ -75,9 +75,21 @@
   ],
   "chunks": [
     {
-      "en": "stairs quietly",
-      "cn": "楼梯",
-      "type": "动词短语",
+      "en": "down the stairs",
+      "cn": "下 该 楼梯",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "went down the stairs",
+      "cn": "下 该 楼梯",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "stairs quietly to",
+      "cn": "楼梯 去",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -87,39 +99,27 @@
       "count": 2
     },
     {
-      "en": "stairs to the mountain",
-      "cn": "楼梯 去 该 高山",
-      "type": "动词短语",
+      "en": "a set of stairs",
+      "cn": "一个 放 的 楼梯",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "stairs can you",
-      "cn": "楼梯 能 你",
-      "type": "动词短语",
+      "en": "by taking the stairs",
+      "cn": "通过 携带 该 楼梯",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "stairs instead",
-      "cn": "楼梯 代替",
-      "type": "动词短语",
+      "en": "climb up the stairs",
+      "cn": "攀登 上 该 楼梯",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "the stairs instead",
-      "cn": "该 楼梯 代替",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "taking the stairs",
-      "cn": "携带 该 楼梯",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "stairs and rushed",
-      "cn": "楼梯 与 迅速移动",
-      "type": "动词短语",
+      "en": "down some stairs",
+      "cn": "下 一些 楼梯",
+      "type": "介词短语",
       "count": 1
     }
   ]

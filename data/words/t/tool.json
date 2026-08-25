@@ -212,6 +212,12 @@
   ],
   "chunks": [
     {
+      "en": "for some gardening tools",
+      "cn": "为了 一些 庭园 工具",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
       "en": "gardening tools",
       "cn": "庭园 工具",
       "type": "名词短语",
@@ -226,20 +232,8 @@
     {
       "en": "tools available",
       "cn": "工具 东西",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "tool called",
-      "cn": "工具 给 … 命名",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "research tool",
-      "cn": "研究 工具",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
       "en": "a research tool",
@@ -248,15 +242,21 @@
       "count": 1
     },
     {
-      "en": "tool to limit",
-      "cn": "工具 去 限度",
-      "type": "动词短语",
+      "en": "a tool to limit",
+      "cn": "一个 工具 去 限度",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "training and tools",
-      "cn": "训练 与 工具",
+      "en": "a useful tool",
+      "cn": "一个 有用的 工具",
       "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a variety of tools",
+      "cn": "一个 不同种类 的 工具",
+      "type": "介词短语",
       "count": 1
     }
   ]

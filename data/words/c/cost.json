@@ -325,26 +325,14 @@
   ],
   "chunks": [
     {
-      "en": "movie costs",
-      "cn": "电影 费用",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "each movie costs",
-      "cn": "每个 电影 费用",
+      "en": "cost article chapter cost",
+      "cn": "费用 文章 章 费用",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "costs and each crime",
       "cn": "费用 与 每个 犯罪活动",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "novel costs",
-      "cn": "小说adjective 费用",
       "type": "名词短语",
       "count": 2
     },
@@ -355,22 +343,34 @@
       "count": 2
     },
     {
-      "en": "they cost",
-      "cn": "他们 费用",
+      "en": "each crime novel costs",
+      "cn": "每个 犯罪活动 小说adjective 费用",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "each movie costs",
+      "cn": "每个 电影 费用",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "expected to cost",
       "cn": "预料 去 费用",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "movie costs",
+      "cn": "电影 费用",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "cost article",
-      "cn": "费用 文章",
-      "type": "动词短语",
-      "count": 1
+      "en": "novel costs",
+      "cn": "小说adjective 费用",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

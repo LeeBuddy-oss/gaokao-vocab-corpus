@@ -329,6 +329,24 @@
   ],
   "chunks": [
     {
+      "en": "little girl",
+      "cn": "小的 女孩",
+      "type": "名词短语",
+      "count": 11
+    },
+    {
+      "en": "a little girl",
+      "cn": "一个 小的 女孩",
+      "type": "名词短语",
+      "count": 8
+    },
+    {
+      "en": "was a little girl",
+      "cn": "是 一个 小的 女孩",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
       "en": "boys and girls",
       "cn": "男孩 与 女孩",
       "type": "名词短语",
@@ -337,7 +355,13 @@
     {
       "en": "girl called",
       "cn": "女孩 给 … 命名",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "girls from",
+      "cn": "女孩 从",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -347,34 +371,10 @@
       "count": 2
     },
     {
-      "en": "shy girl",
-      "cn": "人 女孩",
+      "en": "the little girl",
+      "cn": "该 小的 女孩",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a shy girl",
-      "cn": "一个 人 女孩",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "girl tell",
-      "cn": "女孩 人",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the girl tell",
-      "cn": "该 女孩 人",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "polite girl",
-      "cn": "有礼貌的 女孩",
-      "type": "名词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }

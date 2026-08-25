@@ -167,39 +167,39 @@
   ],
   "chunks": [
     {
-      "en": "my classmates",
-      "cn": "我的 同班同学",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "her classmates",
-      "cn": "她的 同班同学",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
       "en": "of her classmates",
       "cn": "的 她的 同班同学",
-      "type": "名词短语",
+      "type": "介词短语",
       "count": 3
     },
     {
-      "en": "his classmates",
-      "cn": "他的 同班同学",
-      "type": "名词短语",
-      "count": 3
+      "en": "at school his classmates",
+      "cn": "在 学校 他的 同班同学",
+      "type": "介词短语",
+      "count": 2
     },
     {
       "en": "classmates thought",
       "cn": "同班同学 想法",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "his classmates thought",
-      "cn": "他的 同班同学 想法",
+      "en": "old classmates",
+      "cn": "具体年龄 同班同学",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "on old classmates",
+      "cn": "在…上 具体年龄 同班同学",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "provide on old classmates",
+      "cn": "提供 在…上 具体年龄 同班同学",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -209,10 +209,10 @@
       "count": 2
     },
     {
-      "en": "old classmates",
-      "cn": "具体年龄 同班同学",
-      "type": "名词短语",
-      "count": 2
+      "en": "attention of her classmates",
+      "cn": "注意 的 她的 同班同学",
+      "type": "介词短语",
+      "count": 1
     }
   ]
 }

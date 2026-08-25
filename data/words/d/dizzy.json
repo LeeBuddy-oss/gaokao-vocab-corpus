@@ -1,1 +1,78 @@
-{"meta": {"ph": "ˈdɪzi; NAmE ˈdɪzi", "pos": "adj.", "stars": "★★"}, "defs": [{"def": "feeling as if everything is spinning around you and that you are not able to balance 头晕目眩的；眩晕的", "ex": [{"s": "I often felt sleepy and dizzy, and lacked passion.", "src": "人教选必3 U2", "cat": "renjiao", "t": "我经常感到困倦和头晕，缺乏热情。"}, {"s": "The next day I felt dizzy and started coughing and sneezing.", "src": "译林选必4 U4", "cat": "yilin", "t": "第二天我感到头晕，开始咳嗽和打喷嚏。"}]}, {"def": "making you feel dizzy; making you feel that a situation is changing very fast 使人眩晕的；使人头昏眼花的；使人感到变化太快的", "ex": []}, {"def": "silly or stupid 愚蠢的；笨的", "ex": []}], "chunks": []}
+{
+  "meta": {
+    "ph": "ˈdɪzi; NAmE ˈdɪzi",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "feeling as if everything is spinning around you and that you are not able to balance 头晕目眩的；眩晕的",
+      "ex": [
+        {
+          "s": "I often felt sleepy and dizzy, and lacked passion.",
+          "src": "人教选必3 U2",
+          "cat": "renjiao",
+          "t": "我经常感到困倦和头晕，缺乏热情。"
+        },
+        {
+          "s": "The next day I felt dizzy and started coughing and sneezing.",
+          "src": "译林选必4 U4",
+          "cat": "yilin",
+          "t": "第二天我感到头晕，开始咳嗽和打喷嚏。"
+        }
+      ]
+    },
+    {
+      "def": "making you feel dizzy; making you feel that a situation is changing very fast 使人眩晕的；使人头昏眼花的；使人感到变化太快的",
+      "ex": []
+    },
+    {
+      "def": "silly or stupid 愚蠢的；笨的",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "and dizzy and lacked",
+      "cn": "与 头晕目眩的 与 缺乏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "day i felt dizzy",
+      "cn": "一天 我 头晕目眩的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dizzy and lacked",
+      "cn": "头晕目眩的 与 缺乏",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dizzy and started",
+      "cn": "头晕目眩的 与 开始",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "felt dizzy",
+      "cn": "头晕目眩的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "felt sleepy and dizzy",
+      "cn": "困倦的 与 头晕目眩的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sleepy and dizzy",
+      "cn": "困倦的 与 头晕目眩的",
+      "type": "名词短语",
+      "count": 1
+    }
+  ]
+}

@@ -132,9 +132,15 @@
   ],
   "chunks": [
     {
-      "en": "underlined sentence",
-      "cn": "句子",
+      "en": "a topic sentence",
+      "cn": "一个 话题 句子",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "sentences into",
+      "cn": "句子 进入",
+      "type": "动词短语",
       "count": 2
     },
     {
@@ -150,33 +156,27 @@
       "count": 2
     },
     {
-      "en": "a topic sentence",
-      "cn": "一个 话题 句子",
+      "en": "underlined sentence",
+      "cn": "句子",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "reread sentences",
-      "cn": "句子",
+      "en": "a proper sentence",
+      "cn": "一个 正确的 句子",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "sentences or paragraphs",
-      "cn": "句子 或 段",
-      "type": "动词短语",
+      "en": "also found sentences",
+      "cn": "也 创建 句子",
+      "type": "名词短语",
       "count": 1
     },
     {
       "en": "and reread sentences",
       "cn": "与 句子",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "sentences underlined",
-      "cn": "句子",
-      "type": "动词短语",
       "count": 1
     }
   ]

@@ -271,9 +271,15 @@
   ],
   "chunks": [
     {
-      "en": "entered the room",
-      "cn": "通常不用于被动语态 该 房间",
+      "en": "enter into",
+      "cn": "通常不用于被动语态 进入",
       "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "asked me to enter",
+      "cn": "问 我noun 去 通常不用于被动语态",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -283,39 +289,33 @@
       "count": 2
     },
     {
-      "en": "me to enter",
-      "cn": "我noun 去 通常不用于被动语态",
-      "type": "名词短语",
+      "en": "enter through",
+      "cn": "通常不用于被动语态 通过",
+      "type": "动词短语",
       "count": 2
     },
     {
-      "en": "selected enter",
-      "cn": "选择 通常不用于被动语态",
-      "type": "名词短语",
-      "count": 1
+      "en": "entered the room",
+      "cn": "通常不用于被动语态 该 房间",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "artists selected enter",
+      "en": "to enter a writing",
+      "cn": "去 通常不用于被动语态 一个 书写",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "12successful artists selected enter",
       "cn": "艺术家 选择 通常不用于被动语态",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "enter into a contract",
-      "cn": "通常不用于被动语态 进入 一个 合同",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "they entered",
-      "cn": "他们 通常不用于被动语态",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "as they entered",
-      "cn": "作为 他们 通常不用于被动语态",
-      "type": "名词短语",
+      "en": "able to enter",
+      "cn": "能够 去 通常不用于被动语态",
+      "type": "介词短语",
       "count": 1
     }
   ]

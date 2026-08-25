@@ -307,9 +307,9 @@
   ],
   "chunks": [
     {
-      "en": "population has dropped",
-      "cn": "人口 有 落下",
-      "type": "动词短语",
+      "en": "coyote populations",
+      "cn": "人口",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -319,9 +319,21 @@
       "count": 2
     },
     {
-      "en": "world's population",
-      "cn": "世界 人口",
+      "en": "of the world's population",
+      "cn": "的 该 世界 人口",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "population has dropped",
+      "cn": "人口 有 落下",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "populations of other",
+      "cn": "人口 的 另外",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -331,26 +343,14 @@
       "count": 2
     },
     {
-      "en": "populations of other species",
-      "cn": "人口 的 其他 种",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "coyote populations",
-      "cn": "人口",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "world s population",
-      "cn": "世界 人口",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "working-age population",
       "cn": "人口",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "world's population",
+      "cn": "世界 人口",
       "type": "名词短语",
       "count": 2
     }

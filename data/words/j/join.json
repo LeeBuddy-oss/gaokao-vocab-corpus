@@ -332,18 +332,6 @@
   ],
   "chunks": [
     {
-      "en": "join us",
-      "cn": "连接 我们",
-      "type": "动词短语",
-      "count": 8
-    },
-    {
-      "en": "join us for",
-      "cn": "连接 我们 为了",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
       "en": "and join us",
       "cn": "与 连接 我们",
       "type": "名词短语",
@@ -358,8 +346,26 @@
     {
       "en": "decided to join",
       "cn": "对 … 作出抉择 去 连接",
-      "type": "名词短语",
+      "type": "介词短语",
       "count": 3
+    },
+    {
+      "en": "join us for",
+      "cn": "连接 我们 为了",
+      "type": "动词短语",
+      "count": 3
+    },
+    {
+      "en": "about joining",
+      "cn": "大约 连接",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "had decided to join",
+      "cn": "有 对 … 作出抉择 去 连接",
+      "type": "介词短语",
+      "count": 2
     },
     {
       "en": "join the cross-country",
@@ -368,16 +374,10 @@
       "count": 2
     },
     {
-      "en": "joining the habitat",
-      "cn": "连接 该 生活环境",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "limit for joining",
-      "cn": "限度 为了 连接",
+      "en": "please come and join",
+      "cn": "请 来 与 连接",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }

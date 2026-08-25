@@ -1494,13 +1494,19 @@
     {
       "en": "study published",
       "cn": "学习 出版",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 5
     },
     {
       "en": "a study published",
       "cn": "一个 学习 出版",
       "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "author of the study",
+      "cn": "研究的作者",
+      "type": "介词短语",
       "count": 4
     },
     {
@@ -1512,20 +1518,14 @@
     {
       "en": "studies show",
       "cn": "学习 表明",
-      "type": "动词短语",
-      "count": 4
-    },
-    {
-      "en": "their studies",
-      "cn": "他们的 学习",
       "type": "名词短语",
       "count": 4
     },
     {
-      "en": "the new study",
-      "cn": "该 刚出现的 学习",
-      "type": "名词短语",
-      "count": 3
+      "en": "study from",
+      "cn": "学习 从",
+      "type": "介词短语",
+      "count": 4
     }
   ]
 }

@@ -55,9 +55,15 @@
   ],
   "chunks": [
     {
-      "en": "sunny saturday",
-      "cn": "阳光充足的",
-      "type": "动词短语",
+      "en": "a cosy bedroom sunny",
+      "cn": "一个 卧室 阳光充足的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a sunny but cool",
+      "cn": "一个 阳光充足的 但 凉的",
+      "type": "名词短语",
       "count": 1
     },
     {
@@ -67,39 +73,33 @@
       "count": 1
     },
     {
-      "en": "sunny but cool",
-      "cn": "阳光充足的 但 凉的",
-      "type": "动词短语",
+      "en": "back to my sunny",
+      "cn": "背部 去 我的 阳光充足的",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "sunny in the morning",
-      "cn": "阳光充足的 在…里 该 早晨",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sunny weather",
-      "cn": "阳光充足的 天气",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the sunny weather",
-      "cn": "该 阳光充足的 天气",
+      "en": "bedroom sunny",
+      "cn": "卧室 阳光充足的",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "sunny childhood",
-      "cn": "阳光充足的 童年",
-      "type": "动词短语",
+      "en": "cosy bedroom sunny",
+      "cn": "卧室 阳光充足的",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "my sunny",
-      "cn": "我的 阳光充足的",
-      "type": "名词短语",
+      "en": "death on a sunny",
+      "cn": "死 在…上 一个 阳光充足的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "going to be sunny",
+      "cn": "去 是 阳光充足的",
+      "type": "介词短语",
       "count": 1
     }
   ]

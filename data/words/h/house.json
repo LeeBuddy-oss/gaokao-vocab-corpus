@@ -738,30 +738,6 @@
   ],
   "chunks": [
     {
-      "en": "my house",
-      "cn": "我的 房屋",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "their house",
-      "cn": "他们的 房屋",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "his house",
-      "cn": "他的 房屋",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "of their house",
-      "cn": "的 他们的 房屋",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
       "en": "buy a house",
       "cn": "买 一个 房屋",
       "type": "名词短语",
@@ -770,19 +746,43 @@
     {
       "en": "house museum",
       "cn": "房屋 博物馆",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 3
     },
     {
-      "en": "house sitters",
-      "cn": "房屋",
-      "type": "动词短语",
+      "en": "of their house",
+      "cn": "的 他们的 房屋",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "to buy a house",
+      "cn": "去 买 一个 房屋",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "and white house",
+      "cn": "与 白的 房屋",
+      "type": "名词短语",
       "count": 2
     },
     {
       "en": "around the house",
       "cn": "大约 该 房屋",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "black and white house",
+      "cn": "黑的 与 白的 房屋",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "house in bristol",
+      "cn": "房屋 在…里",
+      "type": "动词短语",
       "count": 2
     }
   ]

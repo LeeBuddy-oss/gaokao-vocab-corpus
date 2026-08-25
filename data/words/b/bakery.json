@@ -41,20 +41,38 @@
   ],
   "chunks": [
     {
-      "en": "greengrocers bakeries",
-      "cn": "面包店",
-      "type": "名词短语",
+      "en": "a bakery with my",
+      "cn": "一个 面包店 与 我的",
+      "type": "介词短语",
       "count": 1
     },
     {
       "en": "bakeries and cheese",
       "cn": "面包店 与 干酪",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "shops greengrocers bakeries",
-      "cn": "商店 面包店",
+      "en": "bakeries fast-food",
+      "cn": "面包店",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "bakery with my",
+      "cn": "面包店 与 我的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "butcher shops greengrocers bakeries",
+      "cn": "屠夫 商店 面包店",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "greengrocers bakeries",
+      "cn": "面包店",
       "type": "名词短语",
       "count": 1
     },
@@ -65,20 +83,8 @@
       "count": 1
     },
     {
-      "en": "bakeries fast-food",
-      "cn": "面包店",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "bakery with my",
-      "cn": "面包店 与 我的",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "visited a bakery",
-      "cn": "访问 一个 面包店",
+      "en": "shops greengrocers bakeries",
+      "cn": "商店 面包店",
       "type": "名词短语",
       "count": 1
     }

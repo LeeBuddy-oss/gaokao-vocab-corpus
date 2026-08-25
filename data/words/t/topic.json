@@ -219,18 +219,6 @@
   ],
   "chunks": [
     {
-      "en": "frequent topic",
-      "cn": "话题",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "topic in small",
-      "cn": "话题 在…里 小的",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
       "en": "a frequent topic",
       "cn": "一个 话题",
       "type": "名词短语",
@@ -243,28 +231,40 @@
       "count": 3
     },
     {
-      "en": "to change topics",
-      "cn": "去 改变 话题",
+      "en": "free to change topics",
+      "cn": "能随自己意愿的 去 改变 话题",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "frequent topic",
+      "cn": "话题",
       "type": "名词短语",
       "count": 3
     },
     {
-      "en": "topic sentence",
-      "cn": "话题 句子",
+      "en": "is a frequent topic",
+      "cn": "是 一个 话题",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "to change topics",
+      "cn": "去 改变 话题",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "topic in small",
+      "cn": "话题 在…里 小的",
       "type": "动词短语",
-      "count": 2
+      "count": 3
     },
     {
       "en": "a topic sentence",
       "cn": "一个 话题 句子",
       "type": "名词短语",
       "count": 2
-    },
-    {
-      "en": "health-related topic",
-      "cn": "话题",
-      "type": "名词短语",
-      "count": 1
     }
   ]
 }

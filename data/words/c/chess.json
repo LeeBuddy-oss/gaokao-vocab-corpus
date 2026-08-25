@@ -90,12 +90,6 @@
   ],
   "chunks": [
     {
-      "en": "playing chess",
-      "cn": "玩耍 国际象棋",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "are playing chess",
       "cn": "是 玩耍 国际象棋",
       "type": "名词短语",
@@ -108,15 +102,21 @@
       "count": 2
     },
     {
-      "en": "you at chess",
-      "cn": "你 在 国际象棋",
+      "en": "playing chess",
+      "cn": "玩耍 国际象棋",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "thinking chess",
-      "cn": "思想 国际象棋",
+      "en": "table are playing chess",
+      "cn": "桌子 是 玩耍 国际象棋",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "beat you at chess",
+      "cn": "赢 你 在 国际象棋",
+      "type": "介词短语",
       "count": 1
     },
     {
@@ -126,14 +126,14 @@
       "count": 1
     },
     {
-      "en": "chess for three credits",
-      "cn": "国际象棋 为了 赊购",
-      "type": "动词短语",
+      "en": "chess and even",
+      "cn": "国际象棋 与 甚至",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "learn chess",
-      "cn": "学 国际象棋",
+      "en": "chess and people",
+      "cn": "国际象棋 与 人",
       "type": "名词短语",
       "count": 1
     }

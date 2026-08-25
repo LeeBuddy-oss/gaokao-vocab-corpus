@@ -261,15 +261,9 @@
   "chunks": [
     {
       "en": "job interview",
-      "cn": "工作 面试",
+      "cn": "求职面试",
       "type": "名词短语",
       "count": 4
-    },
-    {
-      "en": "group interview",
-      "cn": "组 面试",
-      "type": "名词短语",
-      "count": 3
     },
     {
       "en": "a job interview",
@@ -278,34 +272,40 @@
       "count": 3
     },
     {
+      "en": "group interview",
+      "cn": "组 面试",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "conducting a job interview",
+      "cn": "组织 一个 工作 面试",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
       "en": "first group interview",
       "cn": "组 面试",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "takes the interview",
-      "cn": "携带 该 面试",
-      "type": "名词短语",
+      "en": "from interview to interview",
+      "cn": "从 面试 去 面试",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "interview to interview you",
+      "cn": "面试 去 面试 你",
+      "type": "介词短语",
       "count": 2
     },
     {
       "en": "number of interviews",
       "cn": "数字 的 面试",
-      "type": "名词短语",
+      "type": "介词短语",
       "count": 2
-    },
-    {
-      "en": "group interview for",
-      "cn": "组 面试 为了",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "interview for a leadership",
-      "cn": "面试 为了 一个 领导",
-      "type": "动词短语",
-      "count": 1
     }
   ]
 }

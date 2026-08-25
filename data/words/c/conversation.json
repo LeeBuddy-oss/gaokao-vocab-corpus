@@ -356,9 +356,15 @@
   ],
   "chunks": [
     {
-      "en": "conversation probably",
-      "cn": "交谈 几乎肯定",
-      "type": "动词短语",
+      "en": "conversation probably take",
+      "cn": "交谈 几乎肯定 携带",
+      "type": "名词短语",
+      "count": 9
+    },
+    {
+      "en": "does the conversation probably",
+      "cn": "做 该 交谈 几乎肯定",
+      "type": "名词短语",
       "count": 9
     },
     {
@@ -370,20 +376,8 @@
     {
       "en": "conversation take",
       "cn": "交谈 携带",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "this conversation take",
-      "cn": "这个 交谈 携带",
       "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "conversations help",
-      "cn": "交谈 帮助",
-      "type": "动词短语",
-      "count": 2
+      "count": 3
     },
     {
       "en": "chemical conversations",
@@ -392,16 +386,22 @@
       "count": 2
     },
     {
-      "en": "these chemical conversations",
-      "cn": "这些 与化学有关的 交谈",
+      "en": "conversations help",
+      "cn": "交谈 帮助",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "conversations became",
-      "cn": "交谈",
-      "type": "动词短语",
-      "count": 1
+      "en": "does this conversation take",
+      "cn": "做 这个 交谈 携带",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "mentioned in the conversation",
+      "cn": "提到 在…里 该 交谈",
+      "type": "介词短语",
+      "count": 2
     }
   ]
 }

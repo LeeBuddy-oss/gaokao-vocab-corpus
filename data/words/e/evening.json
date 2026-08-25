@@ -174,8 +174,14 @@
   ],
   "chunks": [
     {
-      "en": "unforgettable evening",
+      "en": "amazonian evening",
       "cn": "晚上",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "and unforgettable evening",
+      "cn": "与 晚上",
       "type": "名词短语",
       "count": 2
     },
@@ -186,27 +192,9 @@
       "count": 2
     },
     {
-      "en": "and unforgettable evening",
-      "cn": "与 晚上",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "amazonian evening",
-      "cn": "晚上",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "saturday evening",
       "cn": "晚上",
       "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "evening s club",
-      "cn": "晚上 尤用于构成复合词",
-      "type": "动词短语",
       "count": 2
     },
     {
@@ -216,10 +204,22 @@
       "count": 2
     },
     {
-      "en": "evening shift",
-      "cn": "晚上 转移",
-      "type": "动词短语",
-      "count": 1
+      "en": "to the saturday evening",
+      "cn": "去 该 晚上",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "unforgettable evening",
+      "cn": "晚上",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "wet and unforgettable evening",
+      "cn": "潮的 与 晚上",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

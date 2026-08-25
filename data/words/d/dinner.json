@@ -237,21 +237,27 @@
   ],
   "chunks": [
     {
-      "en": "dinner party",
-      "cn": "正餐 政党",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
       "en": "a dinner party",
       "cn": "一个 正餐 政党",
       "type": "名词短语",
       "count": 3
     },
     {
-      "en": "family dinner",
-      "cn": "家 正餐",
+      "en": "dinner party",
+      "cn": "正餐 政党",
       "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "a celebration dinner",
+      "cn": "一个 正餐",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "at a dinner party",
+      "cn": "在 一个 正餐 政党",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -261,28 +267,22 @@
       "count": 2
     },
     {
-      "en": "a celebration dinner",
-      "cn": "一个 正餐",
+      "en": "family dinner",
+      "cn": "家 正餐",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "dinner that evening",
-      "cn": "正餐 那个 晚上",
-      "type": "动词短语",
-      "count": 1
+      "en": "had a celebration dinner",
+      "cn": "有 一个 正餐",
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "meat dinner",
-      "cn": "肉类 正餐",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "big meat dinner",
-      "cn": "大的 肉类 正餐",
-      "type": "名词短语",
-      "count": 1
+      "en": "interesting at a dinner",
+      "cn": "有趣的 在 一个 正餐",
+      "type": "介词短语",
+      "count": 2
     }
   ]
 }

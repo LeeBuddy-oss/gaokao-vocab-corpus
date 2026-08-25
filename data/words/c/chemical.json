@@ -249,37 +249,43 @@
   ],
   "chunks": [
     {
-      "en": "chemicals come",
-      "cn": "与化学有关的 来",
-      "type": "动词短语",
+      "en": "chemicals from",
+      "cn": "与化学有关的 从",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "a mixture of chemicals",
+      "cn": "一个 混合 的 与化学有关的",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "these chemicals come",
-      "cn": "这些 与化学有关的 来",
+      "en": "body chemicals",
+      "cn": "身体 与化学有关的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "certain chemicals",
+      "cn": "确实 与化学有关的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "chemical conversations",
+      "cn": "与化学有关的 交谈",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "chemicals come",
+      "cn": "与化学有关的 来",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "chemicals known",
-      "cn": "与化学有关的",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "of chemicals known",
-      "cn": "的 与化学有关的",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "mixture of chemicals",
-      "cn": "混合 的 与化学有关的",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "smelly chemicals",
       "cn": "与化学有关的",
       "type": "名词短语",
       "count": 2
@@ -287,13 +293,7 @@
     {
       "en": "chemicals to keep",
       "cn": "与化学有关的 去 保持",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "out smelly chemicals",
-      "cn": "出 与化学有关的",
-      "type": "名词短语",
+      "type": "介词短语",
       "count": 2
     }
   ]

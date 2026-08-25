@@ -683,37 +683,31 @@
     {
       "en": "local farmers",
       "cn": "地方的 农场主",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 4
     },
     {
       "en": "local library",
       "cn": "地方的 图书馆",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 4
     },
     {
       "en": "local people",
       "cn": "地方的 人",
-      "type": "动词短语",
-      "count": 4
-    },
-    {
-      "en": "local park",
-      "cn": "地方的 公园",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "your local",
-      "cn": "你的 地方的",
       "type": "名词短语",
-      "count": 3
+      "count": 4
     },
     {
       "en": "local language",
       "cn": "地方的 语言",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "local park",
+      "cn": "地方的 公园",
+      "type": "名词短语",
       "count": 3
     },
     {
@@ -723,9 +717,15 @@
       "count": 3
     },
     {
-      "en": "local materials",
-      "cn": "地方的 布料",
-      "type": "动词短语",
+      "en": "from local",
+      "cn": "从 地方的",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "local cultures",
+      "cn": "地方的 文化",
+      "type": "名词短语",
       "count": 2
     }
   ]

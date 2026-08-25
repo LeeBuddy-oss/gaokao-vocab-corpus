@@ -273,13 +273,31 @@
     {
       "en": "bill look",
       "cn": "账单 看",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "bill often",
+      "cn": "账单 时常",
+      "type": "名词短语",
       "count": 3
     },
     {
       "en": "does bill look",
       "cn": "做 账单 看",
       "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "does bill often",
+      "cn": "做 账单 时常",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "seem to suggest bill",
+      "cn": "不用于进行时 去 建议 账单",
+      "type": "介词短语",
       "count": 3
     },
     {
@@ -291,32 +309,14 @@
     {
       "en": "to suggest bill",
       "cn": "去 建议 账单",
-      "type": "名词短语",
+      "type": "介词短语",
       "count": 3
     },
     {
-      "en": "bill often",
-      "cn": "账单 时常",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "does bill often",
-      "cn": "做 账单 时常",
+      "en": "why does bill",
+      "cn": "为何 做 账单",
       "type": "名词短语",
       "count": 3
-    },
-    {
-      "en": "paper bills",
-      "cn": "常构成复合词 账单",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "or paper bills",
-      "cn": "或 常构成复合词 账单",
-      "type": "名词短语",
-      "count": 2
     }
   ]
 }

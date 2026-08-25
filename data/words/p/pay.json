@@ -525,20 +525,8 @@
   ],
   "chunks": [
     {
-      "en": "you pay",
-      "cn": "你 付费",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
       "en": "man pay",
       "cn": "成年男子 付费",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "the man pay",
-      "cn": "该 成年男子 付费",
       "type": "名词短语",
       "count": 4
     },
@@ -549,10 +537,16 @@
       "count": 4
     },
     {
-      "en": "we pay",
-      "cn": "我们 付费",
+      "en": "the man pay",
+      "cn": "该 成年男子 付费",
       "type": "名词短语",
       "count": 4
+    },
+    {
+      "en": "pay for the second",
+      "cn": "付费 为了 该",
+      "type": "动词短语",
+      "count": 3
     },
     {
       "en": "pay most attention",
@@ -561,16 +555,22 @@
       "count": 3
     },
     {
-      "en": "you pay most",
-      "cn": "你 付费 最多",
+      "en": "would the man pay",
+      "cn": "将 该 成年男子 付费",
       "type": "名词短语",
       "count": 3
     },
     {
-      "en": "man pay for",
-      "cn": "成年男子 付费 为了",
+      "en": "did gomez pay",
+      "cn": "做 付费",
       "type": "名词短语",
-      "count": 3
+      "count": 2
+    },
+    {
+      "en": "do you pay",
+      "cn": "做 你 付费",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

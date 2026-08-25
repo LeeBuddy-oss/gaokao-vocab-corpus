@@ -159,21 +159,27 @@
   ],
   "chunks": [
     {
-      "en": "your cup",
-      "cn": "你的 杯子",
+      "en": "a cup of cereal",
+      "cn": "一个 杯子 的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "a cup of chinese",
+      "cn": "一个 杯子 的 中国人",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "a drinking cup",
+      "cn": "一个 饮料 杯子",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "place your cup",
-      "cn": "位置 你的 杯子",
+      "en": "a fine china cup",
+      "cn": "一个 高质量的 瓷 杯子",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "cup in the deepest",
-      "cn": "杯子 在…里 该",
-      "type": "动词短语",
       "count": 1
     },
     {
@@ -183,27 +189,21 @@
       "count": 1
     },
     {
-      "en": "cup form",
-      "cn": "杯子 类型",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the cup form",
-      "cn": "该 杯子 类型",
+      "en": "and gathering coke cups",
+      "cn": "与 聚集 杯子",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "cup and the rest",
-      "cn": "杯子 与 该 剩余部分",
-      "type": "动词短语",
+      "en": "bird in my cupped",
+      "cn": "鸟 在…里 我的 杯子",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "cup of chinese",
-      "cn": "杯子 的 中国人",
-      "type": "动词短语",
+      "en": "biscuits and a cup",
+      "cn": "饼干 与 一个 杯子",
+      "type": "名词短语",
       "count": 1
     }
   ]

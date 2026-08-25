@@ -184,16 +184,28 @@
   ],
   "chunks": [
     {
+      "en": "a new leaf",
+      "cn": "一个 刚出现的 叶",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
       "en": "new leaf",
       "cn": "刚出现的 叶",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "a new leaf",
-      "cn": "一个 刚出现的 叶",
-      "type": "名词短语",
+      "en": "over a new leaf",
+      "cn": "超过 一个 刚出现的 叶",
+      "type": "介词短语",
       "count": 2
+    },
+    {
+      "en": "a leaf out",
+      "cn": "一个 叶 出",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "blackberry leaf",
@@ -202,9 +214,9 @@
       "count": 1
     },
     {
-      "en": "leaf and dandelion",
-      "cn": "叶 与",
-      "type": "动词短语",
+      "en": "encounter take a leaf",
+      "cn": "遭遇 携带 一个 叶",
+      "type": "名词短语",
       "count": 1
     },
     {
@@ -214,21 +226,9 @@
       "count": 1
     },
     {
-      "en": "take a leaf",
-      "cn": "携带 一个 叶",
+      "en": "leaf and dandelion",
+      "cn": "叶 与",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "new leaf i",
-      "cn": "刚出现的 叶 我",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "leaf i had always",
-      "cn": "叶 我 有 总是",
-      "type": "动词短语",
       "count": 1
     }
   ]

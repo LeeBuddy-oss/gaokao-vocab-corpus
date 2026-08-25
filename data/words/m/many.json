@@ -1519,27 +1519,15 @@
   "chunks": [
     {
       "en": "many people",
-      "cn": "许多 人",
-      "type": "动词短语",
+      "cn": "许多人",
+      "type": "名词短语",
       "count": 34
     },
     {
       "en": "many of us",
       "cn": "许多 的 我们",
-      "type": "动词短语",
+      "type": "介词短语",
       "count": 7
-    },
-    {
-      "en": "many years",
-      "cn": "许多 年",
-      "type": "动词短语",
-      "count": 6
-    },
-    {
-      "en": "many times",
-      "cn": "许多 时间",
-      "type": "动词短语",
-      "count": 6
     },
     {
       "en": "how many people",
@@ -1548,21 +1536,33 @@
       "count": 6
     },
     {
+      "en": "many times",
+      "cn": "许多 时间",
+      "type": "名词短语",
+      "count": 6
+    },
+    {
+      "en": "many years",
+      "cn": "许多 年",
+      "type": "名词短语",
+      "count": 6
+    },
+    {
+      "en": "many young",
+      "cn": "许多 幼小的",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
       "en": "so many people",
       "cn": "如此 许多 人",
       "type": "名词短语",
       "count": 5
     },
     {
-      "en": "many young",
-      "cn": "许多 幼小的",
-      "type": "动词短语",
-      "count": 5
-    },
-    {
-      "en": "many hours",
-      "cn": "许多 小时",
-      "type": "动词短语",
+      "en": "for many people",
+      "cn": "为了 许多 人",
+      "type": "介词短语",
       "count": 4
     }
   ]

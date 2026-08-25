@@ -843,20 +843,38 @@
   ],
   "chunks": [
     {
-      "en": "york city",
-      "cn": "都市",
-      "type": "名词短语",
-      "count": 10
-    },
-    {
       "en": "new york city",
       "cn": "刚出现的 都市",
       "type": "名词短语",
       "count": 10
     },
     {
-      "en": "our cities",
-      "cn": "我们的 都市",
+      "en": "york city",
+      "cn": "都市",
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "in new york city",
+      "cn": "在…里 刚出现的 都市",
+      "type": "介词短语",
+      "count": 6
+    },
+    {
+      "en": "capital city",
+      "cn": "首都 都市",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "city bike",
+      "cn": "都市 自行车",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "city wall",
+      "cn": "都市 城墙",
       "type": "名词短语",
       "count": 3
     },
@@ -867,28 +885,10 @@
       "count": 3
     },
     {
-      "en": "city bike",
-      "cn": "都市 自行车",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "capital city",
-      "cn": "首都 都市",
+      "en": "other cities",
+      "cn": "另外 都市",
       "type": "名词短语",
       "count": 3
-    },
-    {
-      "en": "city wall",
-      "cn": "都市 城墙",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "modern city",
-      "cn": "现代的 都市",
-      "type": "名词短语",
-      "count": 2
     }
   ]
 }

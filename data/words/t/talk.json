@@ -1119,10 +1119,28 @@
   ],
   "chunks": [
     {
+      "en": "talking about",
+      "cn": "说话 大约",
+      "type": "动词短语",
+      "count": 30
+    },
+    {
+      "en": "talk about",
+      "cn": "说话 大约",
+      "type": "动词短语",
+      "count": 29
+    },
+    {
       "en": "small talk",
       "cn": "小的 说话",
       "type": "名词短语",
       "count": 21
+    },
+    {
+      "en": "are the speakers talking",
+      "cn": "是 该 发言者 说话",
+      "type": "名词短语",
+      "count": 15
     },
     {
       "en": "speakers talking",
@@ -1147,24 +1165,6 @@
       "cn": "说话",
       "type": "名词短语",
       "count": 6
-    },
-    {
-      "en": "paragraph mainly talk",
-      "cn": "段 说话",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
-      "en": "speakers mainly talking",
-      "cn": "发言者 说话",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "speaker mainly talk",
-      "cn": "发言者 说话",
-      "type": "名词短语",
-      "count": 5
     }
   ]
 }

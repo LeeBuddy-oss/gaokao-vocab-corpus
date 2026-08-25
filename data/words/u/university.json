@@ -400,9 +400,21 @@
   ],
   "chunks": [
     {
-      "en": "university of chicago",
-      "cn": "大学 的",
-      "type": "动词短语",
+      "en": "from the university",
+      "cn": "从 该 大学",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "from university",
+      "cn": "从 大学",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "go to university",
+      "cn": "去 去 大学",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -412,39 +424,27 @@
       "count": 2
     },
     {
+      "en": "the university of texas",
+      "cn": "该 大学 的",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "university of chicago",
+      "cn": "大学 的",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
       "en": "university of texas",
       "cn": "大学 的",
-      "type": "动词短语",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "go to university",
-      "cn": "去 去 大学",
+      "en": "a top university",
+      "cn": "一个 顶 大学",
       "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "university blvd",
-      "cn": "大学",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "loyola university",
-      "cn": "大学",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "of loyola university",
-      "cn": "的 大学",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "university of chicago and",
-      "cn": "大学 的 与",
-      "type": "动词短语",
       "count": 1
     }
   ]

@@ -47,32 +47,20 @@
   ],
   "chunks": [
     {
-      "en": "mouse and rat",
-      "cn": "老鼠 与",
-      "type": "动词短语",
+      "en": "cat and mouse",
+      "cn": "猫 与 老鼠",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "eye on the mouse",
+      "cn": "眼睛 在…上 该 老鼠",
+      "type": "介词短语",
       "count": 1
     },
     {
       "en": "island the mouse",
       "cn": "岛 该 老鼠",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "rat mouse",
-      "cn": "老鼠",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "mouse and rabbit",
-      "cn": "老鼠 与 兔",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the rat mouse",
-      "cn": "该 老鼠",
       "type": "名词短语",
       "count": 1
     },
@@ -83,8 +71,14 @@
       "count": 1
     },
     {
-      "en": "or mickey mouse",
-      "cn": "或 老鼠",
+      "en": "mouse and rabbit",
+      "cn": "老鼠 与 兔",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "mouse and rat",
+      "cn": "老鼠 与",
       "type": "名词短语",
       "count": 1
     },
@@ -92,6 +86,12 @@
       "en": "mouse in a parade",
       "cn": "老鼠 在…里 一个",
       "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "of cat and mouse",
+      "cn": "的 猫 与 老鼠",
+      "type": "介词短语",
       "count": 1
     }
   ]

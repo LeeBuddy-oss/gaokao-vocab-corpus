@@ -955,9 +955,15 @@
   "chunks": [
     {
       "en": "high school",
-      "cn": "高的 学校",
-      "type": "动词短语",
+      "cn": "高中",
+      "type": "名词短语",
       "count": 28
+    },
+    {
+      "en": "of high school",
+      "cn": "的 高的 学校",
+      "type": "介词短语",
+      "count": 4
     },
     {
       "en": "senior high",
@@ -966,39 +972,33 @@
       "count": 4
     },
     {
-      "en": "of high school",
-      "cn": "的 高的 学校",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
       "en": "at senior high",
       "cn": "在 级别高的 高的",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "from high",
+      "cn": "从 高的",
+      "type": "介词短语",
+      "count": 3
+    },
+    {
+      "en": "a high fitness",
+      "cn": "一个 高的",
       "type": "名词短语",
-      "count": 3
+      "count": 2
     },
     {
-      "en": "high school and",
-      "cn": "高的 学校 与",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "my high",
-      "cn": "我的 高的",
+      "en": "and high school",
+      "cn": "与 高的 学校",
       "type": "名词短语",
-      "count": 3
+      "count": 2
     },
     {
-      "en": "from high school",
-      "cn": "从 高的 学校",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "high spirits",
-      "cn": "高的 精神",
-      "type": "动词短语",
+      "en": "at high altitudes",
+      "cn": "在 高的",
+      "type": "介词短语",
       "count": 2
     }
   ]

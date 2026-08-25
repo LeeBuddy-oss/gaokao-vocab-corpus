@@ -339,15 +339,9 @@
   "chunks": [
     {
       "en": "healthy food",
-      "cn": "健康的 食物",
-      "type": "动词短语",
+      "cn": "健康食品",
+      "type": "名词短语",
       "count": 6
-    },
-    {
-      "en": "healthy habit",
-      "cn": "健康的 习惯",
-      "type": "动词短语",
-      "count": 3
     },
     {
       "en": "a healthy habit",
@@ -356,33 +350,39 @@
       "count": 3
     },
     {
-      "en": "healthy living",
-      "cn": "健康的 活着的",
-      "type": "动词短语",
-      "count": 2
+      "en": "healthy habit",
+      "cn": "健康的 习惯",
+      "type": "名词短语",
+      "count": 3
     },
     {
-      "en": "healthy lifestyles",
-      "cn": "健康的 生活方式",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "healthy meals",
-      "cn": "健康的 早餐",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "otherwise healthy",
-      "cn": "否则 健康的",
+      "en": "healthy alternatives",
+      "cn": "健康的 可供替代的",
       "type": "名词短语",
       "count": 2
     },
     {
       "en": "healthy and active",
       "cn": "健康的 与 忙碌的",
-      "type": "动词短语",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "healthy lifestyles",
+      "cn": "健康的 生活方式",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "healthy living",
+      "cn": "健康的 活着的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "healthy meals",
+      "cn": "健康的 早餐",
+      "type": "名词短语",
       "count": 2
     }
   ]

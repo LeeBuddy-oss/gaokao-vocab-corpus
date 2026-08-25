@@ -1,27 +1,61 @@
-{"meta":{"ph":"əˈdɔːrəbl; NAmE əˈdɔːrəbl","pos":"adj.","stars":"★★"},"defs":[{"def":"ery attractive and easy to feel love for 可爱的；讨人喜爱的adv.","ex":[{"s":"These adorable little hunters are just doing something that it's been in their nature since the beginning of time.","src":"2024全国甲卷·阅读理解B","cat":"gaokao","year":2024,"t":"这些可爱的小猎手只是在做一件自远古起就刻在他们天性里的事。"},{"s":"The adorable female calf is the second black rhino born this year at the reserve, but it is too early to tell if the calves will make good candidates to be returned to protected areas of the wild.","src":"2021全国甲卷·阅读理解B","cat":"gaokao","year":2021,"t":"这只可爱的雌性幼崽是今年该保护区出生的第二头黑犀牛，但现在判断这些幼崽是否适合被放归野外保护区还为时过早。"},{"s":"Travelling through space, visiting a pirate ship, or meeting an adorable fairytale or cartoon character are all possible at Disneyland.","src":"人教选必1 U3","cat":"renjiao","year":"","t":"在迪士尼乐园，穿越太空、参观海盗船，或是遇见可爱的童话或卡通人物，都有可能实现。"},{"s":"When she places them on the table, they look adorable-small, round and shiny golden-brown.","src":"译林选必1 U1","cat":"yilin","year":"","t":"当她把它们放在桌上时，它们看起来很可爱——小巧、圆润，闪着金棕色的光泽。"}]}],
+{
+  "meta": {
+    "ph": "əˈdɔːrəbl; NAmE əˈdɔːrəbl",
+    "pos": "adj.",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "ery attractive and easy to feel love for 可爱的；讨人喜爱的adv.",
+      "ex": [
+        {
+          "s": "These adorable little hunters are just doing something that it's been in their nature since the beginning of time.",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这些可爱的小猎手只是在做一件自远古起就刻在他们天性里的事。"
+        },
+        {
+          "s": "The adorable female calf is the second black rhino born this year at the reserve, but it is too early to tell if the calves will make good candidates to be returned to protected areas of the wild.",
+          "src": "2021全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这只可爱的雌性幼崽是今年该保护区出生的第二头黑犀牛，但现在判断这些幼崽是否适合被放归野外保护区还为时过早。"
+        },
+        {
+          "s": "Travelling through space, visiting a pirate ship, or meeting an adorable fairytale or cartoon character are all possible at Disneyland.",
+          "src": "人教选必1 U3",
+          "cat": "renjiao",
+          "year": "",
+          "t": "在迪士尼乐园，穿越太空、参观海盗船，或是遇见可爱的童话或卡通人物，都有可能实现。"
+        },
+        {
+          "s": "When she places them on the table, they look adorable-small, round and shiny golden-brown.",
+          "src": "译林选必1 U1",
+          "cat": "yilin",
+          "year": "",
+          "t": "当她把它们放在桌上时，它们看起来很可爱——小巧、圆润，闪着金棕色的光泽。"
+        }
+      ]
+    }
+  ],
   "chunks": [
     {
-      "en": "adorable little hunters",
-      "cn": "可爱的 小的",
-      "type": "动词短语",
+      "en": "adorable fairytale",
+      "cn": "可爱的",
+      "type": "名词短语",
       "count": 1
     },
     {
       "en": "adorable female",
       "cn": "可爱的 女的",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "the adorable female",
-      "cn": "该 可爱的 女的",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "adorable fairytale",
-      "cn": "可爱的",
-      "type": "动词短语",
+      "en": "adorable little",
+      "cn": "可爱的 小的",
+      "type": "名词短语",
       "count": 1
     },
     {
@@ -33,6 +67,24 @@
     {
       "en": "meeting an adorable",
       "cn": "会议 一个 可爱的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "or meeting an adorable",
+      "cn": "或 会议 一个 可爱的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "the adorable female",
+      "cn": "该 可爱的 女的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "these adorable little",
+      "cn": "这些 可爱的 小的",
       "type": "名词短语",
       "count": 1
     }

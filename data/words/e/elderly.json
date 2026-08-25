@@ -141,31 +141,19 @@
   "chunks": [
     {
       "en": "elderly people",
-      "cn": "人 人",
-      "type": "动词短语",
+      "cn": "老年人",
+      "type": "名词短语",
       "count": 4
     },
     {
-      "en": "elderly advised",
-      "cn": "人 劝告",
-      "type": "动词短语",
+      "en": "about next concerning elderly",
+      "cn": "大约 通常与 the 连用 影响 人",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "the elderly advised",
-      "cn": "该 人 劝告",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "elderly americans",
-      "cn": "人",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "many elderly americans",
-      "cn": "许多 人",
+      "en": "are the elderly advised",
+      "cn": "是 该 人 劝告",
       "type": "名词短语",
       "count": 2
     },
@@ -176,16 +164,28 @@
       "count": 2
     },
     {
-      "en": "next concerning elderly",
-      "cn": "通常与 the 连用 影响 人",
+      "en": "elderly advised",
+      "cn": "人 劝告",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "elderly relatives",
-      "cn": "人 相比较而言的",
-      "type": "动词短语",
-      "count": 1
+      "en": "elderly americans",
+      "cn": "人",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "many elderly",
+      "cn": "许多 人",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "mean to many elderly",
+      "cn": "不用于进行时 去 许多 人",
+      "type": "介词短语",
+      "count": 2
     }
   ]
 }

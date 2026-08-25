@@ -1,1 +1,80 @@
-{"meta":{"ph":"mɪθ; NAmE mɪθ","pos":"noun","stars":"★★"},"defs":[{"def":"a story from ancient times, especially one that was told to explain natural events or to describe the early history of a people; this type of story 神话；神话故事","ex":[{"s":"The Secret Language of Plants 1 Talking plants have long been a thing of myths and legends.","src":"外研社B4 U5","cat":"waiyan","t":"植物的秘密语言 1 会说话的植物早就是神话传说里的事了。"},{"s":"Sea serpents and lake monsters: legends, myths or reality?","src":"外研社B7 U6","cat":"waiyan","t":"海蛇和湖怪：传说、神话还是现实？"}]},{"def":"something that many people believe but that does not exist or is false 虚构的东西；荒诞的说法；不真实的事","ex":[]}],"chunks":[{"en":"legends myths","cn":"传说神话","type":"名词短语","count":1}]}
+{
+  "meta": {
+    "ph": "mɪθ; NAmE mɪθ",
+    "pos": "noun",
+    "stars": "★★"
+  },
+  "defs": [
+    {
+      "def": "a story from ancient times, especially one that was told to explain natural events or to describe the early history of a people; this type of story 神话；神话故事",
+      "ex": [
+        {
+          "s": "The Secret Language of Plants 1 Talking plants have long been a thing of myths and legends.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "植物的秘密语言 1 会说话的植物早就是神话传说里的事了。"
+        },
+        {
+          "s": "Sea serpents and lake monsters: legends, myths or reality?",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "海蛇和湖怪：传说、神话还是现实？"
+        }
+      ]
+    },
+    {
+      "def": "something that many people believe but that does not exist or is false 虚构的东西；荒诞的说法；不真实的事",
+      "ex": []
+    }
+  ],
+  "chunks": [
+    {
+      "en": "a thing of myths",
+      "cn": "一个 东西 的 神话",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "lake monsters legends myths",
+      "cn": "湖 传说 神话",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "legends myths",
+      "cn": "传说 神话",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "monsters legends myths",
+      "cn": "传说 神话",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "myths and legends",
+      "cn": "神话 与 传说",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "myths or reality",
+      "cn": "神话 或 现实",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "of myths and legends",
+      "cn": "的 神话 与 传说",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "thing of myths",
+      "cn": "东西 的 神话",
+      "type": "介词短语",
+      "count": 1
+    }
+  ]
+}
