@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825y';
+const WORDS_URL = 'data/words.json?v=20260825z';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825y';
+const STATS_URL = 'data/stats.json?v=20260825z';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825y'), fetch(WORDS_BASE + 'manifest.json?v=20260825y')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825z'), fetch(WORDS_BASE + 'manifest.json?v=20260825z')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825y'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825z'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1624,11 +1624,13 @@ const THEME_NETS = [
   {
     name: "art",
     center: "art",
-    subthemes: ["艺术场馆", "艺术形式", "欣赏与时代"],
+    topic_group: "文学艺术与体育",
+    subtopic: "绘画、建筑等领域的代表作品和人物",
+    subthemes: ["绘画艺术", "建筑艺术", "艺术活动"],
     branches: [
-      { branch: "gallery", items: ["gallery", "artist", "museum", "paint", "contemporary", "festival", "view", "discover", "piece", "beauty"] },
-      { branch: "art", items: ["art", "exhibition", "prince_princess", "creative", "display", "appreciate", "culture", "maths", "dance", "decorate"] },
-      { branch: "admire", items: ["admire", "century", "eastern", "once", "talent", "sculpture", "modern", "visitor", "thing", "antique"] },
+      { branch: "painting", items: ["painting", "paint", "picture", "frame", "canvas", "gallery", "museum", "exhibition", "artist", "portrait"] },
+      { branch: "architecture", items: ["architecture", "building", "design", "structure", "monument", "temple", "palace", "castle", "tower", "bridge"] },
+      { branch: "activity", items: ["art", "create", "draw", "sketch", "color", "brush", "beauty", "appreciate", "admire", "display"] }
     ]
   },
   {
@@ -1674,11 +1676,13 @@ const THEME_NETS = [
   {
     name: "scientist",
     center: "scientist",
-    subthemes: ["生物与保护", "科学与质疑", "实验与证明"],
+    topic_group: "科学与技术",
+    subtopic: "科学精神、科学探究",
+    subthemes: ["科学方法", "实验研究", "科学发现"],
     branches: [
-      { branch: "protect", items: ["protect", "insect", "animal", "kill", "bird", "species", "exercise", "lab", "science", "result"] },
-      { branch: "scientist", items: ["scientist", "effect", "against", "concern", "sample", "green", "publish", "doubt", "vast", "warn"] },
-      { branch: "chemical", items: ["chemical", "experiment", "lack", "rain", "variety", "worse", "prove", "achieve", "enemy", "radio"] },
+      { branch: "method", items: ["research", "experiment", "observe", "analyze", "conclude", "theory", "hypothesis", "evidence", "data", "result"] },
+      { branch: "lab", items: ["laboratory", "microscope", "instrument", "sample", "chemical", "biology", "physics", "chemistry", "measure", "calculate"] },
+      { branch: "discovery", items: ["discover", "invent", "develop", "innovate", "breakthrough", "achievement", "contribution", "genius", "inspire", "progress"] }
     ]
   },
   {
@@ -1714,11 +1718,13 @@ const THEME_NETS = [
   {
     name: "school",
     center: "school",
-    subthemes: ["教育与人物", "学习与活动", "学校与情感"],
+    topic_group: "生活与学习",
+    subtopic: "个人、家庭、社区及学校生活",
+    subthemes: ["教育主体", "学习活动", "校园场景"],
     branches: [
-      { branch: "doll", items: ["doll", "teacher", "student", "teach", "class", "off", "education", "soon", "garden", "sister"] },
-      { branch: "present", items: ["present", "practise", "classroom", "girl", "classmate", "head", "sudden", "essay", "almost", "break"] },
-      { branch: "school", items: ["school", "coach", "grade", "herself", "store", "surprise", "afraid", "laugh", "proud", "fruit"] },
+      { branch: "people", items: ["teacher", "student", "classmate", "parent", "professor", "coach", "master", "guide", "monitor", "principal"] },
+      { branch: "learning", items: ["learn", "study", "read", "write", "think", "practice", "teach", "class", "education", "knowledge"] },
+      { branch: "place", items: ["classroom", "library", "lab", "playground", "gym", "hall", "campus", "building", "room", "lecture"] }
     ]
   },
   {
@@ -1924,11 +1930,13 @@ const THEME_NETS = [
   {
     name: "technology",
     center: "technology",
-    subthemes: ["科技与设备", "能源与经济", "目标与发明"],
+    topic_group: "科学与技术",
+    subtopic: "科技发展与信息技术创新、科学精神",
+    subthemes: ["能源与设备", "发明与创新", "数字信息"],
     branches: [
-      { branch: "technology", items: ["technology", "power", "device", "electric", "app", "energy", "wide", "economy", "target", "market"] },
-      { branch: "ambulance", items: ["ambulance", "remove", "nobody", "crime", "operate", "pen", "rabbit", "establish", "familiar", "represent"] },
-      { branch: "address", items: ["address", "worst", "invention", "robot", "onto", "economic", "recycle", "spread", "unit", "letter"] },
+      { branch: "energy", items: ["energy", "power", "electricity", "battery", "device", "machine", "engine", "electric", "solar", "wind"] },
+      { branch: "invention", items: ["invention", "design", "create", "develop", "invent", "discover", "build", "construct", "establish", "tool"] },
+      { branch: "digital", items: ["computer", "digital", "online", "internet", "software", "data", "system", "program", "network", "information"] }
     ]
   },
   {
