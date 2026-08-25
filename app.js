@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825s';
+const WORDS_URL = 'data/words.json?v=20260825t';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825s';
+const STATS_URL = 'data/stats.json?v=20260825t';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825s'), fetch(WORDS_BASE + 'manifest.json?v=20260825s')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825t'), fetch(WORDS_BASE + 'manifest.json?v=20260825t')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825s'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825t'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1496,19 +1496,308 @@ function _extractCloudWords(defs, word) {
     }));
 }
 
-/* ========== 主题词汇语义网（科技与创新）========== */
-const TECH_THEME = {
-  name: '科技与创新',
-  center: 'technology',
-  branches: [
-    { branch: '科技发展', items: ['future','power','development','create','design','system','device','digital','machine','screen'] },
-    { branch: '技术应用', items: ['company','service','area','control','apply','remove','require','allow','explain','share'] },
-    { branch: '社会影响', items: ['change','problem','cause','cost','rise','history','idea','focus','turn','live'] }
-  ]
-};
-const TECH_THEME_WORDS = new Set([TECH_THEME.center, ...TECH_THEME.branches.flatMap(b => b.items)]);
+/* ========== 主题词汇语义网（10 主题）========== */
+const THEME_NETS = [
+  {
+    name: "学校与教育",
+    center: "school",
+    branches: [
+      { branch: "课程与学习", items: ["student", "class", "study", "skill", "experience", "interest", "problem", "explain", "practise", "teach"] },
+      { branch: "校园生活", items: ["play", "friend", "week", "talk", "walk", "offer", "leave", "stop", "keep", "show"] },
+      { branch: "师生成长", items: ["teacher", "parent", "kid", "follow", "decide", "begin", "bring", "grow", "become", "live"] },
+    ]
+  },
+  {
+    name: "家庭与亲情",
+    center: "family",
+    branches: [
+      { branch: "家庭成员", items: ["mother", "father", "parent", "kid", "home", "relative", "generation", "sister", "brother", "son"] },
+      { branch: "家庭生活", items: ["visit", "spend", "move", "enjoy", "together", "week", "offer", "meet", "change", "live"] },
+      { branch: "亲情情感", items: ["love", "idea", "experience", "interest", "talk", "friend", "grow", "become", "decide", "follow"] },
+    ]
+  },
+  {
+    name: "科研与探索",
+    center: "research",
+    branches: [
+      { branch: "科研主体", items: ["scientist", "university", "team", "study", "finding", "test", "experiment", "data", "evidence", "theory"] },
+      { branch: "研究过程", items: ["suggest", "explain", "affect", "allow", "require", "raise", "follow", "grow", "become", "live"] },
+      { branch: "科研影响", items: ["benefit", "effect", "level", "purpose", "idea", "share", "understand", "problem", "change", "human"] },
+    ]
+  },
+  {
+    name: "阅读与文学",
+    center: "book",
+    branches: [
+      { branch: "阅读写作", items: ["read", "write", "story", "character", "author", "page", "chapter", "library", "publish", "poem"] },
+      { branch: "文学要素", items: ["history", "thought", "idea", "view", "share", "understand", "interest", "love", "change", "meet"] },
+      { branch: "文学传播", items: ["encourage", "recommend", "avoid", "bring", "enjoy", "teach", "remember", "offer", "talk", "follow"] },
+    ]
+  },
+  {
+    name: "饮食与健康",
+    center: "food",
+    branches: [
+      { branch: "饮食行为", items: ["eat", "cook", "grow", "water", "buy", "plan", "meet", "taste", "restaurant", "menu"] },
+      { branch: "健康影响", items: ["health", "body", "energy", "nutrition", "habit", "medicine", "care", "benefit", "effect", "level"] },
+      { branch: "饮食语境", items: ["research", "study", "test", "local", "human", "family", "school", "talk", "offer", "change"] },
+    ]
+  },
+  {
+    name: "科技与创新",
+    center: "technology",
+    branches: [
+      { branch: "科技发展", items: ["future", "power", "development", "create", "design", "system", "device", "digital", "machine", "screen"] },
+      { branch: "技术应用", items: ["company", "service", "area", "control", "apply", "remove", "require", "allow", "explain", "share"] },
+      { branch: "社会影响", items: ["change", "problem", "cause", "cost", "rise", "history", "idea", "focus", "turn", "live"] },
+    ]
+  },
+  {
+    name: "旅行与见闻",
+    center: "travel",
+    branches: [
+      { branch: "旅行方式", items: ["trip", "visit", "train", "car", "journey", "tour", "passenger", "station", "ticket", "flight"] },
+      { branch: "目的地见闻", items: ["city", "area", "home", "family", "friend", "service", "food", "week", "run", "field"] },
+      { branch: "旅行体验", items: ["experience", "chance", "meet", "interest", "love", "offer", "move", "change", "decide", "enjoy"] },
+    ]
+  },
+  {
+    name: "工作与职业",
+    center: "job",
+    branches: [
+      { branch: "职业技能", items: ["skill", "ability", "experience", "knowledge", "training", "exercise", "course", "college", "programme", "class"] },
+      { branch: "工作生活", items: ["career", "profession", "office", "company", "manager", "staff", "student", "decide", "require", "teach"] },
+      { branch: "经济收支", items: ["money", "pay", "buy", "spend", "earn", "cost", "price", "sell", "market", "business"] },
+    ]
+  },
+  {
+    name: "环境与自然",
+    center: "environment",
+    branches: [
+      { branch: "生态保护", items: ["protect", "natural", "community", "effort", "approach", "benefit", "reduce", "replace", "serve", "share"] },
+      { branch: "资源能源", items: ["energy", "water", "plant", "waste", "recycle", "animal", "species", "forest", "ocean", "carbon"] },
+      { branch: "人与自然", items: ["human", "modern", "important", "local", "large", "past", "future", "change", "research", "study"] },
+    ]
+  },
+  {
+    name: "艺术与文化",
+    center: "art",
+    branches: [
+      { branch: "艺术创作", items: ["artist", "paint", "create", "creative", "design", "inspire", "piece", "view", "museum", "exhibition"] },
+      { branch: "文化场所", items: ["gallery", "theatre", "history", "century", "public", "school", "activity", "focus", "present", "offer"] },
+      { branch: "艺术传承", items: ["music", "dance", "culture", "story", "book", "read", "write", "encourage", "teach", "discover"] },
+    ]
+  },
+];
 
-function _renderThemeNet(hw) {
+// 词→主题 index 列表（一词可属多主题，按 THEME_NETS 顺序；查询时取首个命中）
+const WORD_TO_THEME = (() => {
+  const m = new Map();
+  m.set("school", [0, 4, 9]);
+  m.set("student", [0, 7]);
+  m.set("class", [0, 7]);
+  m.set("study", [0, 2, 4, 8]);
+  m.set("skill", [0, 7]);
+  m.set("experience", [0, 1, 6, 7]);
+  m.set("interest", [0, 1, 3, 6]);
+  m.set("problem", [0, 2, 5]);
+  m.set("explain", [0, 2, 5]);
+  m.set("practise", [0]);
+  m.set("teach", [0, 3, 7, 9]);
+  m.set("play", [0]);
+  m.set("friend", [0, 1, 6]);
+  m.set("week", [0, 1, 6]);
+  m.set("talk", [0, 1, 3, 4]);
+  m.set("walk", [0]);
+  m.set("offer", [0, 1, 3, 4, 6, 9]);
+  m.set("leave", [0]);
+  m.set("stop", [0]);
+  m.set("keep", [0]);
+  m.set("show", [0]);
+  m.set("teacher", [0]);
+  m.set("parent", [0, 1]);
+  m.set("kid", [0, 1]);
+  m.set("follow", [0, 1, 2, 3]);
+  m.set("decide", [0, 1, 6, 7]);
+  m.set("begin", [0]);
+  m.set("bring", [0, 3]);
+  m.set("grow", [0, 1, 2, 4]);
+  m.set("become", [0, 1, 2]);
+  m.set("live", [0, 1, 2, 5]);
+  m.set("family", [1, 4, 6]);
+  m.set("mother", [1]);
+  m.set("father", [1]);
+  m.set("home", [1, 6]);
+  m.set("relative", [1]);
+  m.set("generation", [1]);
+  m.set("sister", [1]);
+  m.set("brother", [1]);
+  m.set("son", [1]);
+  m.set("visit", [1, 6]);
+  m.set("spend", [1, 7]);
+  m.set("move", [1, 6]);
+  m.set("enjoy", [1, 3, 6]);
+  m.set("together", [1]);
+  m.set("meet", [1, 3, 4, 6]);
+  m.set("change", [1, 2, 3, 4, 5, 6, 8]);
+  m.set("love", [1, 3, 6]);
+  m.set("idea", [1, 2, 3, 5]);
+  m.set("research", [2, 4, 8]);
+  m.set("scientist", [2]);
+  m.set("university", [2]);
+  m.set("team", [2]);
+  m.set("finding", [2]);
+  m.set("test", [2, 4]);
+  m.set("experiment", [2]);
+  m.set("data", [2]);
+  m.set("evidence", [2]);
+  m.set("theory", [2]);
+  m.set("suggest", [2]);
+  m.set("affect", [2]);
+  m.set("allow", [2, 5]);
+  m.set("require", [2, 5, 7]);
+  m.set("raise", [2]);
+  m.set("benefit", [2, 4, 8]);
+  m.set("effect", [2, 4]);
+  m.set("level", [2, 4]);
+  m.set("purpose", [2]);
+  m.set("share", [2, 3, 5, 8]);
+  m.set("understand", [2, 3]);
+  m.set("human", [2, 4, 8]);
+  m.set("book", [3, 9]);
+  m.set("read", [3, 9]);
+  m.set("write", [3, 9]);
+  m.set("story", [3, 9]);
+  m.set("character", [3]);
+  m.set("author", [3]);
+  m.set("page", [3]);
+  m.set("chapter", [3]);
+  m.set("library", [3]);
+  m.set("publish", [3]);
+  m.set("poem", [3]);
+  m.set("history", [3, 5, 9]);
+  m.set("thought", [3]);
+  m.set("view", [3, 9]);
+  m.set("encourage", [3, 9]);
+  m.set("recommend", [3]);
+  m.set("avoid", [3]);
+  m.set("remember", [3]);
+  m.set("food", [4, 6]);
+  m.set("eat", [4]);
+  m.set("cook", [4]);
+  m.set("water", [4, 8]);
+  m.set("buy", [4, 7]);
+  m.set("plan", [4]);
+  m.set("taste", [4]);
+  m.set("restaurant", [4]);
+  m.set("menu", [4]);
+  m.set("health", [4]);
+  m.set("body", [4]);
+  m.set("energy", [4, 8]);
+  m.set("nutrition", [4]);
+  m.set("habit", [4]);
+  m.set("medicine", [4]);
+  m.set("care", [4]);
+  m.set("local", [4, 8]);
+  m.set("technology", [5]);
+  m.set("future", [5, 8]);
+  m.set("power", [5]);
+  m.set("development", [5]);
+  m.set("create", [5, 9]);
+  m.set("design", [5, 9]);
+  m.set("system", [5]);
+  m.set("device", [5]);
+  m.set("digital", [5]);
+  m.set("machine", [5]);
+  m.set("screen", [5]);
+  m.set("company", [5, 7]);
+  m.set("service", [5, 6]);
+  m.set("area", [5, 6]);
+  m.set("control", [5]);
+  m.set("apply", [5]);
+  m.set("remove", [5]);
+  m.set("cause", [5]);
+  m.set("cost", [5, 7]);
+  m.set("rise", [5]);
+  m.set("focus", [5, 9]);
+  m.set("turn", [5]);
+  m.set("travel", [6]);
+  m.set("trip", [6]);
+  m.set("train", [6]);
+  m.set("car", [6]);
+  m.set("journey", [6]);
+  m.set("tour", [6]);
+  m.set("passenger", [6]);
+  m.set("station", [6]);
+  m.set("ticket", [6]);
+  m.set("flight", [6]);
+  m.set("city", [6]);
+  m.set("run", [6]);
+  m.set("field", [6]);
+  m.set("chance", [6]);
+  m.set("job", [7]);
+  m.set("ability", [7]);
+  m.set("knowledge", [7]);
+  m.set("training", [7]);
+  m.set("exercise", [7]);
+  m.set("course", [7]);
+  m.set("college", [7]);
+  m.set("programme", [7]);
+  m.set("career", [7]);
+  m.set("profession", [7]);
+  m.set("office", [7]);
+  m.set("manager", [7]);
+  m.set("staff", [7]);
+  m.set("money", [7]);
+  m.set("pay", [7]);
+  m.set("earn", [7]);
+  m.set("price", [7]);
+  m.set("sell", [7]);
+  m.set("market", [7]);
+  m.set("business", [7]);
+  m.set("environment", [8]);
+  m.set("protect", [8]);
+  m.set("natural", [8]);
+  m.set("community", [8]);
+  m.set("effort", [8]);
+  m.set("approach", [8]);
+  m.set("reduce", [8]);
+  m.set("replace", [8]);
+  m.set("serve", [8]);
+  m.set("plant", [8]);
+  m.set("waste", [8]);
+  m.set("recycle", [8]);
+  m.set("animal", [8]);
+  m.set("species", [8]);
+  m.set("forest", [8]);
+  m.set("ocean", [8]);
+  m.set("carbon", [8]);
+  m.set("modern", [8]);
+  m.set("important", [8]);
+  m.set("large", [8]);
+  m.set("past", [8]);
+  m.set("art", [9]);
+  m.set("artist", [9]);
+  m.set("paint", [9]);
+  m.set("creative", [9]);
+  m.set("inspire", [9]);
+  m.set("piece", [9]);
+  m.set("museum", [9]);
+  m.set("exhibition", [9]);
+  m.set("gallery", [9]);
+  m.set("theatre", [9]);
+  m.set("century", [9]);
+  m.set("public", [9]);
+  m.set("activity", [9]);
+  m.set("present", [9]);
+  m.set("music", [9]);
+  m.set("dance", [9]);
+  m.set("culture", [9]);
+  m.set("discover", [9]);
+  return m;
+})();
+
+function _renderThemeNet(theme, hw) {
   const W = 320, H = 472;
   const bx = [55, 160, 265];
   const by = 92;
@@ -1518,10 +1807,10 @@ function _renderThemeNet(hw) {
   const isHi = (w) => w.toLowerCase() === hw;
   let s = `<svg viewBox="0 0 ${W} ${H}" class="wv-net" xmlns="http://www.w3.org/2000/svg">`;
   // 第1层：中心节点
-  const cHi = isHi(TECH_THEME.center);
+  const cHi = isHi(theme.center);
   s += `<ellipse cx="160" cy="40" rx="52" ry="18" fill="${cHi ? '#dc2626' : '#1f2937'}" stroke="#1f2937" stroke-width="1"/>`;
-  s += `<text x="160" y="40" text-anchor="middle" dominant-baseline="central" fill="#fff" font-size="13" font-weight="700">${esc(TECH_THEME.center)}</text>`;
-  TECH_THEME.branches.forEach((br, i) => {
+  s += `<text x="160" y="40" text-anchor="middle" dominant-baseline="central" fill="#fff" font-size="13" font-weight="700">${esc(theme.center)}</text>`;
+  theme.branches.forEach((br, i) => {
     const x = bx[i];
     // 中心→分支连线
     s += `<line x1="160" y1="58" x2="${x}" y2="${by - 16}" stroke="#9ca3af" stroke-width="1" stroke-opacity="0.5"/>`;
@@ -1545,7 +1834,7 @@ function _renderThemeNet(hw) {
     });
   });
   s += `</svg>`;
-  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(TECH_THEME.name)} · 主题词汇语义网</div>${s}</div>`;
+  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(theme.name)} · 主题词汇语义网</div>${s}</div>`;
 }
 function renderMindMap(word, entry) {
   const meta = entry.meta || {};
@@ -1697,10 +1986,12 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">语篇分布</span>${gl}（共${genres.count}次）</p>`;
   }
 
-  // ---- 左侧：主题词汇语义网（查询词属"科技与创新"主题则渲染3层网络，否则回退真题共现辐射网）----
+  // ---- 左侧：主题词汇语义网（查询词属任一主题→渲染该主题3层网络，否则回退真题共现辐射网）----
   let netHtml = '';
-  if (TECH_THEME_WORDS.has(word.toLowerCase())) {
-    netHtml = _renderThemeNet(word.toLowerCase());
+  const _wl = word.toLowerCase();
+  const _ti = WORD_TO_THEME.get(_wl);
+  if (_ti && _ti.length) {
+    netHtml = _renderThemeNet(THEME_NETS[_ti[0]], _wl);
   } else {
     const cloudWords = _extractCloudWords(defs, word);
     if (cloudWords.length >= 3) {
