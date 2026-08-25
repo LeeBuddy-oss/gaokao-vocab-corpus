@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825x';
+const WORDS_URL = 'data/words.json?v=20260825y';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825x';
+const STATS_URL = 'data/stats.json?v=20260825y';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825x'), fetch(WORDS_BASE + 'manifest.json?v=20260825x')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825y'), fetch(WORDS_BASE + 'manifest.json?v=20260825y')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825x'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825y'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1934,11 +1934,13 @@ const THEME_NETS = [
   {
     name: "family",
     center: "family",
-    subthemes: ["家庭与房屋", "新鲜与引导", "成员与周末"],
+    topic_group: "生活与学习",
+    subtopic: "个人、家庭、社区及学校生活",
+    subthemes: ["家庭成员", "家庭生活", "家庭场景"],
     branches: [
-      { branch: "eliminate", items: ["eliminate", "tonight", "household", "straight", "website", "bedroom", "baby", "fresh", "guide", "marry", "tropical"] },
-      { branch: "post", items: ["post", "housework", "pretty", "airport", "grammar", "section", "wood", "club", "tough", "celebrate"] },
-      { branch: "family", items: ["family", "member", "weekend", "elderly", "teenager", "fire", "clock", "flower", "license", "nurse"] },
+      { branch: "member", items: ["member", "parent", "child", "baby", "elderly", "husband", "wife", "brother", "sister", "son"] },
+      { branch: "life", items: ["dinner", "breakfast", "weekend", "holiday", "party", "share", "celebrate", "prepare", "fresh", "marry"] },
+      { branch: "place", items: ["bedroom", "kitchen", "garden", "table", "bed", "wall", "room", "home", "house", "door"] }
     ]
   },
   {
