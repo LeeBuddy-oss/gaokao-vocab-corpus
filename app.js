@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825p';
+const WORDS_URL = 'data/words.json?v=20260825q';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825p';
+const STATS_URL = 'data/stats.json?v=20260825q';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825p'), fetch(WORDS_BASE + 'manifest.json?v=20260825p')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825q'), fetch(WORDS_BASE + 'manifest.json?v=20260825q')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825p'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825q'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -679,16 +679,19 @@ function _detectGenres(sources) {
     else if (/听力/.test(src)) t = '听力';
     else if (/短文改错|改错/.test(src)) t = '改错';
     else if (/(外研社|北师大|人教版|人教|译林|教材|必修|选修|Unit|U\d)/.test(src)) t = '教材';
-    else if (/卷/.test(src)) t = '高考真题';
+    // 其余含“卷”但不含具体题型的来源统一归入“其他”
     typeCount[t] = (typeCount[t] || 0) + 1;
     genres.count++;
   });
-  // 排序：具体题型优先，未细分（高考真题/教材/其他）垫后；同组内按出现次数降序
+  // 排序：具体题型优先；教材其次；“其他”始终垫后；同组内按出现次数降序
   const SPECIFIC = new Set(['阅读理解','填空/完形','写作','听力','改错']);
   genres.types = Object.entries(typeCount).sort(([ta, a], [tb, b]) => {
     const sa = SPECIFIC.has(ta), sb = SPECIFIC.has(tb);
     if (sa && !sb) return -1;
     if (!sa && sb) return 1;
+    // 在非具体题型中，“其他”始终放最后
+    if (ta === '其他') return 1;
+    if (tb === '其他') return -1;
     return b - a;
   }).map(([t,c]) => ({ t, c }));
   return genres;
