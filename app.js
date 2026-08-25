@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825v';
+const WORDS_URL = 'data/words.json?v=20260825w';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825v';
+const STATS_URL = 'data/stats.json?v=20260825w';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825v'), fetch(WORDS_BASE + 'manifest.json?v=20260825v')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825w'), fetch(WORDS_BASE + 'manifest.json?v=20260825w')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825v'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825w'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -2214,6 +2214,7 @@ const THEME_NETS = [
   {
     name: "be",
     center: "be",
+    subthemes: ["对象与状态", "行为与属性", "结构与关系"],
     branches: [
       { branch: "set", items: ["set", "shade", "alongside", "applicant", "duty", "era", "mass", "pride", "urgent", "anger"] },
       { branch: "yield", items: ["yield", "chore", "lunar", "butcher", "identical", "court", "sufficient", "pile", "ambition", "crew", "neutral"] },
@@ -5513,15 +5514,19 @@ function _renderThemeNet(theme, hw) {
   const elliRx = (w) => Math.max(w.length * 3.2 + 9, 25);
   const isHi = (w) => w.toLowerCase() === hw;
   let s = `<svg viewBox="0 0 ${W} ${H}" class="wv-net" xmlns="http://www.w3.org/2000/svg">`;
-  // 第1层：中心节点（蓝色#2563eb对齐"常见结构"wv-tag标签样式；查询词=中心则红色高亮）
+  // 第1层：中心节点（深灰色#374151对齐参考图"technology"；查询词=中心则红色高亮）
   const cHi = isHi(theme.center);
-  s += `<ellipse cx="160" cy="40" rx="52" ry="18" fill="${cHi ? '#dc2626' : '#2563eb'}" stroke="#1e40af" stroke-width="1"/>`;
+  s += `<ellipse cx="160" cy="40" rx="52" ry="18" fill="${cHi ? '#dc2626' : '#374151'}" stroke="#1f2937" stroke-width="1"/>`;
   s += `<text x="160" y="40" text-anchor="middle" dominant-baseline="central" fill="#fff" font-size="13" font-weight="700">${esc(theme.center)}</text>`;
   theme.branches.forEach((br, i) => {
     const x = bx[i];
+    // 第2层：主题语境（中文，每主题专属；fallback 到 br.branch）
+    const subLabel = (theme.subthemes && theme.subthemes[i]) || br.branch;
     s += `<line x1="160" y1="58" x2="${x}" y2="${by - 16}" stroke="#9ca3af" stroke-width="1" stroke-opacity="0.5"/>`;
-    s += `<ellipse cx="${x}" cy="${by}" rx="48" ry="16" fill="#e5e7eb" stroke="#9ca3af" stroke-width="0.8"/>`;
-    s += `<text x="${x}" y="${by}" text-anchor="middle" dominant-baseline="central" fill="#1f2937" font-size="11" font-weight="600">${esc(br.branch)}</text>`;
+    // 第2层：中文比英文宽，rx 自适应（每字 5.5px + padding 12）
+    const subRx = Math.max(subLabel.length * 5.5 + 12, 50);
+    s += `<ellipse cx="${x}" cy="${by}" rx="${subRx}" ry="16" fill="#e5e7eb" stroke="#9ca3af" stroke-width="0.8"/>`;
+    s += `<text x="${x}" y="${by}" text-anchor="middle" dominant-baseline="central" fill="#1f2937" font-size="11" font-weight="600">${esc(subLabel)}</text>`;
     br.items.forEach((w, j) => {
       const wy = ws + j * rh;
       const h = isHi(w);
@@ -5538,7 +5543,7 @@ function _renderThemeNet(theme, hw) {
     });
   });
   s += `</svg>`;
-  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(theme.name)} · 主题词汇语义网</div>${s}</div>`;
+  return `<div class="wv-net-wrap"><div class="wv-net-title">${esc(theme.name)} · 词汇语义网络</div>${s}</div>`;
 }
 function renderMindMap(word, entry) {
   const meta = entry.meta || {};
