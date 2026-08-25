@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825ee';
+const WORDS_URL = 'data/words.json?v=20260825ff';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825ee';
+const STATS_URL = 'data/stats.json?v=20260825ff';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825ee'), fetch(WORDS_BASE + 'manifest.json?v=20260825ee')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825ff'), fetch(WORDS_BASE + 'manifest.json?v=20260825ff')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825ee'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825ff'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -2999,11 +2999,8 @@ function renderMindMap(word, entry) {
       }).join('、');
       rightHtml += `<p class="wv-line wv-struct wv-sub wv-chunks-list"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
     });
-  } else if (topCollocations.length > 0) {
-    const sl = topCollocations.map(([ph, c]) =>
-      `<span class="wv-hl">${esc(ph)}</span><span class="wv-num">(${c}次)</span>`).join('、');
-    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span>${sl}</p>`;
   }
+  // 已移除 topCollocations 回退路径（无中文翻译的自动提取词组不再显示）
 
   // 语篇分布（按例句计数，非去重来源，覆盖全部例句）
   const genres = _detectGenres(srcList);
