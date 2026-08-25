@@ -1,8 +1,8 @@
-const WORDS_URL = 'data/words.json?v=20260825aa';
+const WORDS_URL = 'data/words.json?v=20260825bb';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260825aa';
+const STATS_URL = 'data/stats.json?v=20260825bb';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -257,7 +257,7 @@ async function init() {
   initGate(); // 访问码门槛（本机已通过则直接进入）
   loadStats();
   try {
-    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825aa'), fetch(WORDS_BASE + 'manifest.json?v=20260825aa')]);
+    const [wr, mr] = await Promise.all([fetch(WORDS_URL + '?v=20260825bb'), fetch(WORDS_BASE + 'manifest.json?v=20260825bb')]);
     WORDS = wr.ok ? await wr.json() : [];
     WORD_FILES = mr.ok ? await mr.json() : null;
   } catch (e) {
@@ -468,7 +468,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825aa'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260825bb'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -1502,123 +1502,363 @@ function _extractCloudWords(defs, word) {
 /* ========== 主题词汇语义网（100 主题 31 词不交叉，每主题专属 3 中文子主题）========== */
 const THEME_NETS = [
   {
-    name: "require",
-    center: "require",
-    subthemes: ["资源与形象", "要求与原则", "探索与训练"],
+    name: "family",
+    center: "family",
+    topic_group: "生活与学习",
+    subtopic: "个人、家庭、社区及学校生活",
+    subthemes: ["家庭成员", "家庭生活", "家庭场景"],
     branches: [
-      { branch: "resource", items: ["resource", "visual", "youth", "security", "appeal", "weak", "favour", "position", "royal", "profile"] },
-      { branch: "require", items: ["require", "pressure", "vision", "exam", "conclude", "sharp", "hire", "principle", "devote", "diagram"] },
-      { branch: "migration", items: ["migration", "button", "bee", "cancer", "seek", "measure", "draft", "capture", "observe", "training", "servant"] },
+      { branch: "member", items: ["member", "parent", "child", "baby", "elderly", "husband", "wife", "brother", "sister", "son"] },
+      { branch: "life", items: ["dinner", "breakfast", "weekend", "holiday", "party", "share", "celebrate", "prepare", "fresh", "marry"] },
+      { branch: "place", items: ["bedroom", "kitchen", "garden", "table", "bed", "wall", "room", "home", "house", "door"] },
     ]
   },
   {
-    name: "conflict",
-    center: "conflict",
-    subthemes: ["国家与传统", "奉献与关系", "探索与边界"],
+    name: "school",
+    center: "school",
+    topic_group: "生活与学习",
+    subtopic: "个人、家庭、社区及学校生活",
+    subthemes: ["教育主体", "学习活动", "校园场景"],
     branches: [
-      { branch: "capital", items: ["capital", "polite", "dead", "kingdom", "soldier", "debate", "tradition", "champion", "comprise", "core", "spy"] },
-      { branch: "dedicate", items: ["dedicate", "ward", "brave", "mutual", "blood", "influential", "nation", "foreign", "extent", "recite", "wound"] },
-      { branch: "voyage", items: ["voyage", "ashamed", "boundary", "desert", "drama", "marine", "poet", "poster", "threat", "solve"] },
+      { branch: "people", items: ["teacher", "student", "classmate", "professor", "coach", "master", "guide", "monitor", "principal", "car"] },
+      { branch: "learning", items: ["learn", "study", "read", "write", "think", "practice", "teach", "class", "education", "knowledge"] },
+      { branch: "place", items: ["classroom", "library", "lab", "playground", "gym", "hall", "campus", "building", "lecture", "hard"] },
     ]
   },
   {
-    name: "reduce",
-    center: "reduce",
-    subthemes: ["污染与消费", "气候与碳排", "讨论与对抗"],
+    name: "healthy",
+    center: "healthy",
+    topic_group: "生活与学习",
+    subtopic: "健康的生活方式、个人安全与自救",
+    subthemes: ["健康状况", "医疗护理", "身心保健"],
     branches: [
-      { branch: "reduce", items: ["reduce", "plastic", "garbage", "pollute", "electricity", "product", "consumption", "agency", "apart", "impact"] },
-      { branch: "pollution", items: ["pollution", "climate", "waste", "carbon", "cut", "amount", "by", "affect", "plant", "this"] },
-      { branch: "account", items: ["account", "help", "conduct", "argue", "also", "so", "they", "new", "fight", "surface"] },
+      { branch: "status", items: ["headache", "mother", "doctor", "ill", "pain", "treatment", "after", "inquire", "him", "enough"] },
+      { branch: "medical", items: ["disease", "drink", "nurse", "introduction", "hospital", "health", "side", "ms", "cure", "sick"] },
+      { branch: "care", items: ["brief", "magic", "serious", "fever", "dentist", "body", "stomachache", "worry", "cookie", "bill"] },
     ]
   },
   {
-    name: "stand",
-    center: "stand",
-    subthemes: ["位置与观察", "环境与人群", "空间与时间"],
+    name: "sport",
+    center: "sport",
+    topic_group: "生活与学习",
+    subtopic: "运动与健身",
+    subthemes: ["运动项目", "竞技比赛", "锻炼健身"],
     branches: [
-      { branch: "police", items: ["police", "hole", "although", "watch", "noise", "kilometre", "know", "side", "stay", "make"] },
-      { branch: "cloth", items: ["cloth", "mountain", "but", "both", "great", "crowd", "own", "happen", "eye", "somebody_someone"] },
-      { branch: "giant", items: ["giant", "path", "tall", "metre", "fan", "forever", "speech", "exchange", "west", "annual"] },
+      { branch: "event", items: ["exercise", "race", "age", "best", "asia", "other", "football", "want", "athlete", "good"] },
+      { branch: "competition", items: ["run", "watch", "continue", "compete", "game", "basketball", "not", "point", "such", "everybody_everyone"] },
+      { branch: "exercise", items: ["tennis", "swim", "play", "marathon", "player", "match", "soccer", "team", "better", "badminton"] },
     ]
   },
   {
-    name: "simple",
-    center: "simple",
-    subthemes: ["人物与学习", "标准与态度", "概念与使用"],
+    name: "food",
+    center: "food",
+    topic_group: "生活与学习",
+    subtopic: "饮食与营养",
+    subthemes: ["食材与饮品", "烹饪与用餐", "营养与健康"],
     branches: [
-      { branch: "hero", items: ["hero", "author", "ball", "digital", "seem", "learn", "diverse", "well", "their", "fable"] },
-      { branch: "pole", items: ["pole", "keen", "appropriate", "king", "deserve", "zero", "flexible", "excuse", "complain", "formal"] },
-      { branch: "diary", items: ["diary", "human", "even", "use", "print", "work", "best", "total", "concept", "your"] },
+      { branch: "ingredient", items: ["cook", "cake", "vegetable", "bread", "lunch", "milk", "tea", "in", "fruit", "and"] },
+      { branch: "cooking", items: ["up", "while", "salt", "to", "more", "have", "rice", "meal", "america", "be"] },
+      { branch: "nutrition", items: ["sugar", "like", "than", "some", "they", "eat", "coffee", "delicious", "a_an", "meat"] },
     ]
   },
   {
-    name: "replace",
-    center: "replace",
-    subthemes: ["物品与情感", "特征与表现", "现代与媒介"],
+    name: "daily",
+    center: "daily",
+    topic_group: "生活与学习",
+    subtopic: "日常生活与作息",
+    subthemes: ["日常作息", "时间管理", "生活节奏"],
     branches: [
-      { branch: "complicated", items: ["complicated", "bless", "candle", "banana", "throw", "lay", "defend", "shelf", "up", "just"] },
-      { branch: "rhyme", items: ["rhyme", "gesture", "diamond", "pale", "tight", "nose", "aside", "gentle", "brand", "shine", "politician"] },
-      { branch: "investment", items: ["investment", "blog", "keyboard", "livestock", "dictionary", "year", "borrow", "assume", "interesting", "mobile", "socialist"] },
+      { branch: "routine", items: ["a_m_", "take", "what", "his", "the", "do", "minute", "with", "early", "my"] },
+      { branch: "time", items: ["from", "night", "time", "on", "yesterday", "schedule", "evening", "for", "it", "afternoon"] },
+      { branch: "rhythm", items: ["day", "week", "morning", "tomorrow", "month", "of", "hour", "year", "today", "late"] },
     ]
   },
   {
-    name: "convince",
-    center: "convince",
-    subthemes: ["资源与劳作", "食物与发明", "行动与贸易"],
+    name: "dress",
+    center: "dress",
+    topic_group: "生活与学习",
+    subtopic: "个人仪表与穿着",
+    subthemes: ["服装类型", "穿着搭配", "服饰配件"],
     branches: [
-      { branch: "coal", items: ["coal", "sow", "slave", "lamb", "potato", "format", "capacity", "lift", "worth", "weigh", "variation"] },
-      { branch: "barbecue", items: ["barbecue", "hybrid", "grain", "wheat", "amateur", "pagoda", "patent", "nest", "arrow", "attain", "patriotism"] },
-      { branch: "intense", items: ["intense", "attempt", "choke", "entitle", "exceed", "integrate", "negative", "trade", "bow", "artificial"] },
+      { branch: "clothing", items: ["trousers", "shoe", "roast", "coat", "black", "worker", "sock", "uniform", "clothes", "wear"] },
+      { branch: "wearing", items: ["fabric", "pocket", "style", "barbecue", "recognise", "jacket", "skirt", "ce", "button", "sweater"] },
+      { branch: "accessory", items: ["cotton", "hat", "either", "unusual", "fashion", "glove", "shirt", "wool", "silk", "replace"] },
     ]
   },
   {
-    name: "buy",
-    center: "buy",
-    subthemes: ["声明与时间", "购物与支付", "消费与工作"],
+    name: "transport",
+    center: "transport",
+    topic_group: "生活与学习",
+    subtopic: "出行与交通",
+    subthemes: ["交通方式", "出行场景", "交通规则"],
     branches: [
-      { branch: "declare", items: ["declare", "take", "vegetable", "he", "time", "spend", "some", "man", "ask", "purpose"] },
-      { branch: "shop", items: ["shop", "why", "pass", "want", "meet", "big", "much", "cook", "secret", "pay"] },
-      { branch: "budget", items: ["budget", "purchase", "job", "meal", "offer", "rent", "eat", "map", "advice", "company"] },
+      { branch: "vehicle", items: ["street", "walk", "passport", "taxi", "drive", "traffic", "when", "road", "there", "train"] },
+      { branch: "travel", items: ["all", "ride", "ticket", "how", "find", "ask", "her", "bus", "into", "journey"] },
+      { branch: "rule", items: ["airport", "controversial", "plane", "park", "station", "bike", "just", "get", "found", "go"] },
     ]
   },
   {
-    name: "moment",
-    center: "moment",
-    subthemes: ["时刻与精神", "日常与情感", "性格与表达"],
+    name: "rest",
+    center: "rest",
+    topic_group: "生活与学习",
+    subtopic: "休息与休闲",
+    subthemes: ["睡眠休息", "休闲活动", "放松方式"],
     branches: [
-      { branch: "moment", items: ["moment", "touch", "behind", "dark", "positive", "strength", "thin", "spirit", "everyday", "instant"] },
-      { branch: "bus", items: ["bus", "corn", "cold", "corner", "jump", "happy", "not", "stress", "real", "again"] },
-      { branch: "nervous", items: ["nervous", "character", "tell", "suit", "say", "ready", "down", "skin", "him", "hand"] },
+      { branch: "sleep", items: ["your", "relax", "tired", "hit", "so", "now", "world", "quiet", "driver", "easy"] },
+      { branch: "leisure", items: ["let", "peace", "involve", "sleep", "comfortable", "sound", "moment", "refresh", "wake", "break"] },
+      { branch: "relax", items: ["probably", "noon", "p_m_", "lazy", "dream", "vacation", "those", "calm", "fantasy", "keep"] },
     ]
   },
   {
-    name: "business",
-    center: "business",
-    subthemes: ["机构与服务", "渠道与教育", "问题与项目"],
+    name: "habit",
+    center: "habit",
+    topic_group: "生活与学习",
+    subtopic: "良好习惯与自律",
+    subthemes: ["行为习惯", "自我管理", "习惯养成"],
     branches: [
-      { branch: "station", items: ["station", "bank", "earn", "fork", "out", "disability", "service", "decision", "now", "relationship"] },
-      { branch: "channel", items: ["channel", "allow", "near", "leave", "catch", "college", "run", "dollar", "desk", "international"] },
-      { branch: "business", items: ["business", "bad", "overcome", "problem", "generation", "schedule", "next", "project", "ordinary", "sick"] },
+      { branch: "behavior", items: ["behaviour", "manage", "follow", "manner", "response", "order", "guess", "bad", "aloud", "control"] },
+      { branch: "manage", items: ["sense", "plan", "itself", "repeat", "truck", "steady", "ourselves", "behave", "discipline", "thinking"] },
+      { branch: "develop", items: ["egg", "maintain", "consistent", "regular", "i", "organise", "ear", "credit", "menu", "custom"] },
     ]
   },
   {
-    name: "per",
-    center: "per",
-    subthemes: ["范围与水平", "资源与成就", "数据与分布"],
+    name: "character",
+    center: "character",
+    topic_group: "做人与做事",
+    subtopic: "优秀品行与道德品质",
+    subthemes: ["品格特质", "道德修养", "人格魅力"],
     branches: [
-      { branch: "throughout", items: ["throughout", "show", "air", "cause", "group", "below", "low", "lower", "need", "level"] },
-      { branch: "per", items: ["per", "material", "government", "advantage", "fee", "basis", "nearly", "achievement", "farm", "wander"] },
-      { branch: "transition", items: ["transition", "million", "which", "only", "average", "among", "country", "follow", "test", "come"] },
+      { branch: "trait", items: ["infer", "honest", "brave", "honour", "adorable", "loyal", "integrity", "satisfy", "noble", "moral"] },
+      { branch: "moral", items: ["respect", "dignity", "confirm", "antarctica", "individual", "preference", "delicate", "literally", "virtue", "advise"] },
+      { branch: "personality", items: ["whose", "aside", "kind", "courage", "wise", "neat", "optimistic", "dear", "humble", "principle"] },
     ]
   },
   {
-    name: "hour",
-    center: "hour",
-    subthemes: ["场所与时间", "动作与时段", "地点与兴趣"],
+    name: "emotion",
+    center: "emotion",
+    topic_group: "做人与做事",
+    subtopic: "情绪与心理",
+    subthemes: ["积极情感", "消极情感", "情感表达"],
     branches: [
-      { branch: "washroom", items: ["washroom", "park", "light", "if", "available", "welcome", "until", "city", "other", "week"] },
-      { branch: "fly", items: ["fly", "try", "left", "later", "evening", "less", "area", "activity", "half", "most"] },
-      { branch: "square", items: ["square", "decide", "early", "into", "couple", "tree", "tour", "morning", "water", "interest"] },
+      { branch: "positive", items: ["realise", "delight", "feeling", "sorrow", "hate", "sad", "happy", "proud", "would", "hope"] },
+      { branch: "negative", items: ["very", "fear", "their", "anxious", "too", "excited", "myself", "really", "real", "angry"] },
+      { branch: "express", items: ["able", "kid", "always", "love", "much", "feel", "lonely", "grateful", "afraid", "nervous"] },
+    ]
+  },
+  {
+    name: "effort",
+    center: "effort",
+    topic_group: "做人与做事",
+    subtopic: "努力与坚持",
+    subthemes: ["勤奋努力", "坚持不懈", "克服困难"],
+    branches: [
+      { branch: "diligent", items: ["course", "as", "difficult", "fight", "apologise", "begin", "also", "solid", "try", "give"] },
+      { branch: "persist", items: ["might", "still", "strong", "overcome", "without", "sometimes", "push", "strength", "often", "leave"] },
+      { branch: "overcome", items: ["challenge", "reward", "our", "tough", "both", "labour", "work", "look", "firm", "struggle"] },
+    ]
+  },
+  {
+    name: "success",
+    center: "success",
+    topic_group: "做人与做事",
+    subtopic: "成功与成就",
+    subthemes: ["追求目标", "取得成就", "走向成功"],
+    branches: [
+      { branch: "goal", items: ["praise", "emphasis", "degree", "award", "attain", "declare", "knock", "single", "pleasure", "goal"] },
+      { branch: "achieve", items: ["deserve", "succeed", "fertile", "achieve", "victory", "huge", "gain", "applicant", "vase", "teamwork"] },
+      { branch: "triumph", items: ["worst", "earn", "himself", "win", "surprise", "prize", "champion", "medal", "chance", "march"] },
+    ]
+  },
+  {
+    name: "failure",
+    center: "failure",
+    topic_group: "做人与做事",
+    subtopic: "挫折与失败",
+    subthemes: ["遭遇挫折", "面对失败", "重新振作"],
+    branches: [
+      { branch: "setback", items: ["regret", "thought", "native", "quick", "nothing", "gramme", "wrong", "disappoint", "arrangement", "choice"] },
+      { branch: "face", items: ["hear", "true", "rush", "lose", "fail", "fact", "lost", "low", "eventually", "mistake"] },
+      { branch: "recover", items: ["loss", "hurt", "crisis", "error", "suffer", "extra", "defeat", "chest", "definition", "something"] },
+    ]
+  },
+  {
+    name: "decision",
+    center: "decision",
+    topic_group: "做人与做事",
+    subtopic: "选择与决定",
+    subthemes: ["权衡选择", "做出决定", "承担后果"],
+    branches: [
+      { branch: "weigh", items: ["choose", "determine", "that", "judge", "influence", "simple", "passage", "question", "pet", "person"] },
+      { branch: "decide", items: ["situation", "decide", "test", "pick", "consider", "themselves", "weigh", "resolve", "people", "activity"] },
+      { branch: "consequence", items: ["balance", "alone", "prefer", "outcome", "consequence", "t_shirt", "alternative", "option", "session", "affect"] },
+    ]
+  },
+  {
+    name: "responsibility",
+    center: "responsibility",
+    topic_group: "做人与做事",
+    subtopic: "责任与担当",
+    subthemes: ["承担义务", "履行职责", "尽职尽责"],
+    branches: [
+      { branch: "duty", items: ["anybody_anyone", "possible", "lift", "charge", "protect", "entrance", "shoulder", "ensure", "shorts", "shy"] },
+      { branch: "obligation", items: ["distinct", "stranger", "commit", "task", "minister", "defend", "relieve", "duty", "guarantee", "laugh"] },
+      { branch: "fulfill", items: ["secure", "responsible", "memory", "mission", "promise", "housework", "emperor_empress", "minimum", "guard", "secret"] },
+    ]
+  },
+  {
+    name: "value",
+    center: "value",
+    topic_group: "做人与做事",
+    subtopic: "价值观与人生意义",
+    subthemes: ["价值判断", "人生追求", "意义探寻"],
+    branches: [
+      { branch: "judge", items: ["stimulate", "yourself", "great", "famous", "perfect", "apply", "discussion", "treasure", "behind", "successful"] },
+      { branch: "pursue", items: ["kung_fu", "lesson", "important", "worth", "sight", "opportunity", "excellent", "object", "worthy", "splendid"] },
+      { branch: "meaning", items: ["cream", "shell", "superb", "precious", "newspaper", "lie", "lot", "thing", "ideal", "purpose"] },
+    ]
+  },
+  {
+    name: "belief",
+    center: "belief",
+    topic_group: "做人与做事",
+    subtopic: "信念与信任",
+    subthemes: ["坚定信念", "信任他人", "理想信仰"],
+    branches: [
+      { branch: "faith", items: ["negative", "freedom", "sure", "tend", "ward", "believe", "quite", "choke", "depend", "devote"] },
+      { branch: "trust", items: ["ever", "tolerate", "trust", "certain", "humour", "suit", "confident", "passenger", "rely", "dedicate"] },
+      { branch: "ideal", items: ["convince", "pretend", "seize", "impossible", "wide", "faith", "pretty", "phase", "persuade", "cafeteria"] },
+    ]
+  },
+  {
+    name: "change",
+    center: "change",
+    topic_group: "做人与做事",
+    subtopic: "改变与成长",
+    subthemes: ["转变方向", "成长蜕变", "适应变化"],
+    branches: [
+      { branch: "transform", items: ["improve", "vary", "modify", "idea", "advance", "require", "evolve", "shift", "grow", "instead"] },
+      { branch: "grow", items: ["almost", "adjust", "ping_pong", "least", "reform", "slow", "even", "expert", "old", "though"] },
+      { branch: "adapt", items: ["diverse", "adapt", "nutrition", "speech", "significant", "university", "reason", "turn", "become", "complete"] },
+    ]
+  },
+  {
+    name: "communication",
+    center: "communication",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "人际沟通与交流",
+    subthemes: ["语言沟通", "交流方式", "信息传递"],
+    branches: [
+      { branch: "speak", items: ["voice", "text", "dialogue", "contact", "phrase", "tell", "discuss", "being", "livestock", "message"] },
+      { branch: "exchange", items: ["speak", "here", "mean", "express", "pronounce", "stay", "exactly", "talk", "respond", "speaker"] },
+      { branch: "convey", items: ["allow", "smile", "way", "chat", "say", "convey", "conversation", "communicate", "reply", "signal"] },
+    ]
+  },
+  {
+    name: "friendship",
+    center: "friendship",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "友谊与人际关系",
+    subthemes: ["友谊建立", "相处之道", "关系维护"],
+    branches: [
+      { branch: "bond", items: ["short", "another", "ordinary", "together", "friendly", "theme", "who", "company", "warm", "big"] },
+      { branch: "relate", items: ["own", "project", "support", "solve", "show", "else", "practise", "sausage", "skill", "fellow"] },
+      { branch: "maintain", items: ["club", "man", "partner", "neighbour", "human", "social", "mind", "likely", "phone", "friend"] },
+    ]
+  },
+  {
+    name: "help",
+    center: "help",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "互助与关爱",
+    subthemes: ["伸出援手", "志愿服务", "关爱他人"],
+    branches: [
+      { branch: "assist", items: ["kindergarten", "toy", "aid", "busy", "stare", "manager", "encourage", "part", "mercy", "platform"] },
+      { branch: "volunteer", items: ["unique", "charity", "engage", "save", "adult", "heavy", "circumstance", "perhaps", "seek", "east"] },
+      { branch: "care", items: ["afford", "benefit", "cheer", "voluntary", "view", "comfort", "professional", "donate", "district", "volunteer"] },
+    ]
+  },
+  {
+    name: "community",
+    center: "community",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "社区与社会参与",
+    subthemes: ["社区生活", "社会参与", "公共服务"],
+    branches: [
+      { branch: "local", items: ["promote", "society", "across", "about", "register", "less", "meet", "association", "programme", "welfare"] },
+      { branch: "social", items: ["village", "provide", "citizen", "any", "council", "interest", "small", "young", "committee", "resident"] },
+      { branch: "public", items: ["public", "group", "town", "since", "neighbourhood", "around", "meeting", "local", "see", "organisation"] },
+    ]
+  },
+  {
+    name: "service",
+    center: "service",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "服务行业与职业",
+    subthemes: ["服务提供", "行业类型", "职业素养"],
+    branches: [
+      { branch: "provide", items: ["receptionist", "shop", "grocery", "care", "trade", "ambition", "recent", "line", "receive", "career"] },
+      { branch: "industry", items: ["profession", "employ", "development", "attempt", "staff", "industry", "content", "store", "occupation", "crazy"] },
+      { branch: "profession", items: ["upset", "market", "client", "job", "range", "check", "window", "business", "customer", "hire"] },
+    ]
+  },
+  {
+    name: "travel",
+    center: "travel",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "旅行与见闻",
+    subthemes: ["旅行准备", "旅途见闻", "目的地"],
+    branches: [
+      { branch: "prepare", items: ["countryside", "bite", "invite", "central", "subject", "visit", "destination", "where", "south", "bit"] },
+      { branch: "journey", items: ["centre", "among", "trip", "lovely", "abroad", "novelist", "many", "landscape", "goodbye", "various"] },
+      { branch: "destination", items: ["foreign", "tourist", "hotel", "pacific", "souvenir", "remote", "agency", "wander", "adventure", "tour"] },
+    ]
+  },
+  {
+    name: "city",
+    center: "city",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "城市生活",
+    subthemes: ["城市设施", "都市生活", "城市交通"],
+    branches: [
+      { branch: "facility", items: ["several", "mall", "stop", "favourite", "cafe", "decline", "name", "restaurant", "visitor", "block"] },
+      { branch: "urban", items: ["square", "downtown", "beautiful", "cinema", "chocolate", "outside", "free", "apartment", "live", "cheese"] },
+      { branch: "transit", items: ["office", "at", "present", "arrive", "urban", "close", "suburb", "large", "theatre", "through"] },
+    ]
+  },
+  {
+    name: "country",
+    center: "country",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "国家与公民",
+    subthemes: ["国家构成", "公民权利", "社会制度"],
+    branches: [
+      { branch: "nation", items: ["constitution", "far", "billion", "motivate", "generate", "chief", "government", "crowded", "county", "president"] },
+      { branch: "citizen", items: ["right", "state", "ethnic", "wish", "official", "population", "before", "nearly", "figure", "flag"] },
+      { branch: "system", items: ["authority", "republic", "boundary", "mr", "tax", "national", "instance", "patriotism", "pound", "indeed"] },
+    ]
+  },
+  {
+    name: "law",
+    center: "law",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "法律与规则",
+    subthemes: ["法律体系", "司法程序", "遵纪守法"],
+    branches: [
+      { branch: "legal", items: ["court", "mail", "justice", "prison", "arrest", "usual", "assume", "officer", "police", "legal"] },
+      { branch: "court", items: ["crime", "truth", "spicy", "innocent", "maximum", "request", "please", "frequently", "biscuit", "lawyer"] },
+      { branch: "comply", items: ["external", "yes", "case", "fair", "detective", "witness", "trial", "guilty", "conduct", "wallet"] },
+    ]
+  },
+  {
+    name: "money",
+    center: "money",
+    topic_group: "社会服务与人际沟通",
+    subtopic: "经济与消费",
+    subthemes: ["货币与收入", "消费支出", "经济活动"],
+    branches: [
+      { branch: "income", items: ["account", "salary", "purchase", "debt", "wealth", "same", "available", "raise", "goods", "example"] },
+      { branch: "spend", items: ["price", "pay", "under", "buy", "loan", "rich", "budget", "cost", "date", "card"] },
+      { branch: "economy", items: ["spend", "poor", "income", "sell", "offer", "bank", "wage", "she", "however", "article"] },
     ]
   },
   {
@@ -1629,302 +1869,236 @@ const THEME_NETS = [
     subthemes: ["绘画艺术", "建筑艺术", "艺术活动"],
     branches: [
       { branch: "painting", items: ["painting", "paint", "picture", "frame", "canvas", "gallery", "museum", "exhibition", "artist", "portrait"] },
-      { branch: "architecture", items: ["architecture", "building", "design", "structure", "monument", "temple", "palace", "castle", "tower", "bridge"] },
-      { branch: "activity", items: ["art", "create", "draw", "sketch", "color", "brush", "beauty", "appreciate", "admire", "display"] }
+      { branch: "architecture", items: ["architecture", "design", "structure", "monument", "temple", "palace", "castle", "tower", "bridge", "demand"] },
+      { branch: "activity", items: ["create", "draw", "sketch", "color", "brush", "beauty", "appreciate", "admire", "display", "insist"] },
     ]
   },
   {
-    name: "no",
-    center: "no",
-    subthemes: ["认知与表达", "动作与状态", "否定与故事"],
+    name: "music",
+    center: "music",
+    topic_group: "文学艺术与体育",
+    subtopic: "音乐与表演",
+    subthemes: ["乐器演奏", "音乐类型", "音乐活动"],
     branches: [
-      { branch: "extraordinary", items: ["extraordinary", "could", "me", "begin", "understand", "word", "reason", "something", "us", "few"] },
-      { branch: "apparently", items: ["apparently", "walk", "during", "many", "thought", "start", "course", "continue", "any", "free"] },
-      { branch: "no", items: ["no", "far", "story", "important", "please", "always", "kid", "read", "passage", "though"] },
+      { branch: "instrument", items: ["entertainment", "collect", "context", "guitar", "piano", "despite", "opera", "musician", "seat", "sing"] },
+      { branch: "genre", items: ["deaf", "enable", "satisfaction", "symphony", "chorus", "pencil", "song", "jazz", "band", "tune"] },
+      { branch: "perform", items: ["listen", "trick", "minority", "string", "orchestra", "note", "concert", "violin", "fond", "rhythm"] },
     ]
   },
   {
-    name: "choose",
-    center: "choose",
-    subthemes: ["决定与文件", "选择与行动", "问候与日常"],
+    name: "literature",
+    center: "literature",
+    topic_group: "文学艺术与体育",
+    subtopic: "文学与写作",
+    subthemes: ["文学体裁", "创作写作", "阅读欣赏"],
     branches: [
-      { branch: "shall", items: ["shall", "whose", "finish", "lawyer", "agree", "paper", "fail", "receive", "choice", "online"] },
-      { branch: "choose", items: ["choose", "aim", "event", "middle", "parent", "table", "swim", "move", "enter", "discuss"] },
-      { branch: "greet", items: ["greet", "breakfast", "joy", "mouth", "track", "dog", "staff", "contest", "sound", "door"] },
+      { branch: "genre", items: ["journal", "out", "fable", "writer", "which", "sentence", "well", "novel", "need", "poem"] },
+      { branch: "write", items: ["this", "author", "story", "each", "you", "start", "most", "essay", "new", "book"] },
+      { branch: "read", items: ["life", "fiction", "may", "page", "he", "tale", "poetry", "chapter", "know", "paragraph"] },
     ]
   },
   {
-    name: "talk",
-    center: "talk",
-    subthemes: ["支持与事故", "对话与会议", "物品与人物"],
+    name: "competition",
+    center: "competition",
+    topic_group: "文学艺术与体育",
+    subtopic: "竞技体育与赛事",
+    subthemes: ["赛事类型", "竞技精神", "荣誉奖励"],
     branches: [
-      { branch: "than", items: ["than", "support", "accident", "place", "between", "busy", "end", "difficult", "may", "hear"] },
-      { branch: "speaker", items: ["speaker", "conversation", "mistake", "meeting", "tomorrow", "movie", "trouble", "mrs", "extra", "deal"] },
-      { branch: "shirt", items: ["shirt", "woman", "bill", "recommend", "advise", "season", "northern", "saucer", "father", "benefit"] },
+      { branch: "event", items: ["flow", "track", "basis", "tournament", "debate", "moreover", "rival", "annual", "initial", "stadium"] },
+      { branch: "spirit", items: ["recite", "fan", "training", "toilet", "olympic", "opponent", "international", "contest", "pink", "gold"] },
+      { branch: "award", items: ["score", "winner", "baseball", "enter", "volleyball", "mad", "concentrate", "amazing", "boxing", "field"] },
     ]
   },
   {
-    name: "together",
-    center: "together",
-    subthemes: ["物品与意义", "季节与艺术", "交流与改进"],
+    name: "performance",
+    center: "performance",
+    topic_group: "文学艺术与体育",
+    subtopic: "戏剧与表演",
+    subthemes: ["舞台表演", "戏剧艺术", "演员技艺"],
     branches: [
-      { branch: "rope", items: ["rope", "meaning", "sun", "month", "famous", "tend", "adventure", "same", "novel", "tool"] },
-      { branch: "theatre", items: ["theatre", "summer", "rainbow", "mark", "significant", "winter", "return", "director", "string", "actually"] },
-      { branch: "together", items: ["together", "bright", "visit", "around", "wind", "note", "improve", "age", "communicate", "humourous"] },
+      { branch: "stage", items: ["drama", "sink", "curtain", "burst", "active", "costume", "applaud", "luxury", "desperate", "between"] },
+      { branch: "drama", items: ["major", "bet", "arch", "tight", "audience", "junior", "west", "forever", "role", "stage"] },
+      { branch: "act", items: ["scene", "rugby", "sofa", "director", "act", "luck", "comic", "comedy", "pressure", "perform"] },
     ]
   },
   {
-    name: "scientist",
-    center: "scientist",
-    topic_group: "科学与技术",
-    subtopic: "科学精神、科学探究",
-    subthemes: ["科学方法", "实验研究", "科学发现"],
+    name: "film",
+    center: "film",
+    topic_group: "文学艺术与体育",
+    subtopic: "电影与影像",
+    subthemes: ["电影类型", "制作过程", "观影体验"],
     branches: [
-      { branch: "method", items: ["research", "experiment", "observe", "analyze", "conclude", "theory", "hypothesis", "evidence", "data", "result"] },
-      { branch: "lab", items: ["laboratory", "microscope", "instrument", "sample", "chemical", "biology", "physics", "chemistry", "measure", "calculate"] },
-      { branch: "discovery", items: ["discover", "invent", "develop", "innovate", "breakthrough", "achievement", "contribution", "genius", "inspire", "progress"] }
+      { branch: "genre", items: ["setting", "prince_princess", "bond", "detail", "review", "effect", "illustrate", "screen", "jaw", "base"] },
+      { branch: "produce", items: ["special", "advocate", "magazine", "although", "box", "tv", "blank", "uncle", "camera", "somebody_someone"] },
+      { branch: "watch", items: ["couple", "wonderful", "doubt", "teenager", "plot", "upon", "woman", "teapot", "movie", "welcome"] },
     ]
   },
   {
-    name: "mention",
-    center: "mention",
-    subthemes: ["提及与对象", "形式与组合", "文化与古老"],
+    name: "dance",
+    center: "dance",
+    topic_group: "文学艺术与体育",
+    subtopic: "舞蹈与韵律",
+    subthemes: ["舞蹈类型", "舞步技巧", "表演呈现"],
     branches: [
-      { branch: "mention", items: ["mention", "treasure", "object", "pair", "specialist", "transform", "seldom", "issue", "foot", "quote"] },
-      { branch: "symphony", items: ["symphony", "example", "independent", "shape", "association", "surrounding", "heart", "somewhere", "include", "invest", "protest"] },
-      { branch: "ballet", items: ["ballet", "vocabulary", "loss", "society", "calligraphy", "stone", "digest", "ancient", "childhood", "difficulty"] },
+      { branch: "style", items: ["genuine", "tofu", "candidate", "toast", "forward", "pack", "sorry", "eastern", "step", "composition"] },
+      { branch: "technique", items: ["addition", "broad", "mix", "movement", "move", "remember", "similar", "occur", "leap", "graceful"] },
+      { branch: "perform", items: ["pull", "elegant", "ballet", "accompany", "flexible", "accommodation", "borrow", "lady", "asleep", "interesting"] },
     ]
   },
   {
-    name: "remember",
-    center: "remember",
-    subthemes: ["记忆与声音", "人物与情感", "状态与完成"],
+    name: "festival",
+    center: "festival",
+    topic_group: "文学艺术与体育",
+    subtopic: "节日与庆典",
+    subthemes: ["传统节日", "庆祝活动", "节日文化"],
     branches: [
-      { branch: "remember", items: ["remember", "voice", "page", "style", "friendship", "listen", "forget", "wonderful", "ourselves", "lovely"] },
-      { branch: "guy", items: ["guy", "music", "desire", "brother", "plot", "bit", "else", "myself", "really", "carry"] },
-      { branch: "serious", items: ["serious", "complete", "finally", "camp", "board", "stop", "easy", "true", "everybody_everyone", "bed"] },
+      { branch: "traditional", items: ["wedding", "joy", "lantern", "roof", "eve", "dessert", "merry", "decorate", "dish", "attach"] },
+      { branch: "celebrate", items: ["sandwich", "balloon", "pudding", "alive", "firework", "grandson", "gather", "birthday", "traditional", "overseas"] },
+      { branch: "culture", items: ["envelope", "anniversary", "europe", "poster", "pleasant", "christmas", "ceremony", "journalist", "meanwhile", "senior"] },
     ]
   },
   {
-    name: "provide",
-    center: "provide",
-    subthemes: ["物品与系统", "区域与保护", "提供与适应"],
+    name: "craft",
+    center: "craft",
+    topic_group: "文学艺术与体育",
+    subtopic: "手工艺与创造",
+    subthemes: ["手工技艺", "创造过程", "作品展示"],
     branches: [
-      { branch: "item", items: ["item", "prefer", "computer", "under", "system", "special", "major", "apply", "common", "type"] },
-      { branch: "province", items: ["province", "conservation", "cover", "today", "form", "limited", "period", "adult", "explore", "point"] },
-      { branch: "provide", items: ["provide", "limit", "opportunity", "advance", "vital", "request", "adopt", "adapt", "reserve", "institution"] },
+      { branch: "skill", items: ["colour", "category", "host_hostess", "basket", "glad", "supermarket", "psychology", "news", "slice", "technique"] },
+      { branch: "create", items: ["candle", "grandmother", "relative", "substance", "make", "fundamental", "comparison", "complicated", "attend", "sculpture"] },
+      { branch: "display", items: ["nice", "attitude", "calligraphy", "item", "aspect", "statue", "thick", "feed", "sew", "carve"] },
     ]
   },
   {
-    name: "school",
-    center: "school",
-    topic_group: "生活与学习",
-    subtopic: "个人、家庭、社区及学校生活",
-    subthemes: ["教育主体", "学习活动", "校园场景"],
+    name: "photo",
+    center: "photo",
+    topic_group: "文学艺术与体育",
+    subtopic: "摄影与记录",
+    subthemes: ["摄影技术", "拍摄主题", "影像呈现"],
     branches: [
-      { branch: "people", items: ["teacher", "student", "classmate", "parent", "professor", "coach", "master", "guide", "monitor", "principal"] },
-      { branch: "learning", items: ["learn", "study", "read", "write", "think", "practice", "teach", "class", "education", "knowledge"] },
-      { branch: "place", items: ["classroom", "library", "lab", "playground", "gym", "hall", "campus", "building", "room", "lecture"] }
+      { branch: "technique", items: ["capture", "file", "investment", "yard", "angle", "guideline", "flash", "pity", "focus", "clap"] },
+      { branch: "subject", items: ["funny", "bring", "touch", "yield", "mood", "educator", "shoot", "cease", "shave", "random"] },
+      { branch: "present", items: ["cattle", "vivid", "image", "indicate", "handsome", "fee", "within", "clay", "confused", "notebook"] },
     ]
   },
   {
-    name: "quick",
-    center: "quick",
-    subthemes: ["动作与情境", "挑战与状态", "力量与感受"],
+    name: "history",
+    center: "history",
+    topic_group: "历史社会与文化",
+    subtopic: "历史事件与人物",
+    subthemes: ["历史纪元", "历史人物", "历史遗迹"],
     branches: [
-      { branch: "scream", items: ["scream", "calm", "shake", "pick", "himself", "milk", "hot", "situation", "mr", "labour"] },
-      { branch: "quick", items: ["quick", "challenge", "heat", "within", "burn", "rice", "wolf", "luck", "building", "usual"] },
-      { branch: "attack", items: ["attack", "land", "strong", "smile", "nice", "across", "disappointed", "serve", "body", "taste"] },
+      { branch: "era", items: ["insight", "ancestor", "recording", "revolution", "finally", "miss", "born", "century", "department", "otherwise"] },
+      { branch: "figure", items: ["historic", "rank", "missing", "middle", "dynasty", "element", "kingdom", "assign", "collection", "king"] },
+      { branch: "ruin", items: ["academic", "hero", "ruin", "argue", "imagine", "battle", "kung", "past", "voyage", "fun"] },
     ]
   },
   {
-    name: "bring",
-    center: "bring",
-    subthemes: ["坚持与旅行", "带来与社区", "联合与文学"],
+    name: "culture",
+    center: "culture",
+    topic_group: "历史社会与文化",
+    subtopic: "文化传统与习俗",
+    subthemes: ["文化传承", "民俗风情", "文化交融"],
     branches: [
-      { branch: "insist", items: ["insist", "habitat", "trip", "sport", "public", "join", "enable", "tiny", "produce", "pot", "rival"] },
-      { branch: "bring", items: ["bring", "sight", "doctor", "ensure", "community", "soft", "flavour", "language", "industry", "wife"] },
-      { branch: "conflict", items: ["union", "chess", "deep", "iron", "summary", "literary", "ache", "drought", "leak", "miracle"] },
+      { branch: "heritage", items: ["app", "approve", "exam", "lifestyle", "conflict", "tie", "chess", "hamburger", "steal", "astonish"] },
+      { branch: "folk", items: ["sauce", "folk", "confucius", "editor", "dragon", "civilisation", "pride", "relevant", "niece", "spread"] },
+      { branch: "blend", items: ["pizza", "philosophy", "politics", "contract", "trunk", "porridge", "subsequent", "identity", "lamb", "confucianism"] },
     ]
   },
   {
-    name: "must",
-    center: "must",
-    subthemes: ["场所与选择", "运动与学术", "最终与竞赛"],
+    name: "religion",
+    center: "religion",
+    topic_group: "历史社会与文化",
+    subtopic: "宗教与信仰",
+    subthemes: ["宗教信仰", "宗教场所", "精神世界"],
     branches: [
-      { branch: "cafeteria", items: ["cafeteria", "direct", "travel", "select", "sentence", "introduction", "ground", "perfect", "autumn", "indicate", "packet"] },
-      { branch: "athlete", items: ["athlete", "spring", "academic", "collection", "wait", "application", "lake", "humanity", "master", "image"] },
-      { branch: "final", items: ["final", "poem", "rush", "nothing", "mineral", "recently", "full", "beat", "competition", "english"] },
+      { branch: "faith", items: ["pagoda", "god", "pray", "soul", "church", "belong", "impression", "reinforce", "accent", "sore"] },
+      { branch: "temple", items: ["gratitude", "captain", "polite", "primitive", "qualify", "spirit", "gender", "ham", "receipt", "keen"] },
+      { branch: "spirit", items: ["rhyme", "cite", "gesture", "bless", "guidance", "directory", "enormous", "reveal", "pe", "jeans"] },
     ]
   },
   {
-    name: "increase",
-    center: "increase",
-    subthemes: ["环境与农业", "发展与联系", "状态与传承"],
+    name: "war",
+    center: "war",
+    topic_group: "历史社会与文化",
+    subtopic: "战争与和平",
+    subthemes: ["战争冲突", "军事力量", "和平追求"],
     branches: [
-      { branch: "increase", items: ["increase", "environment", "particular", "agriculture", "decline", "general", "length", "percentage", "drown", "ecology"] },
-      { branch: "rise", items: ["rise", "university", "approach", "north", "whether", "soil", "development", "farmer", "promote", "connect"] },
-      { branch: "harm", items: ["harm", "remain", "state", "infer", "crop", "temperature", "opposite", "heritage", "similar", "role"] },
+      { branch: "conflict", items: ["blow", "bomb", "racial", "intervention", "navy", "wing", "presentation", "mankind", "army", "negotiate"] },
+      { branch: "military", items: ["agreement", "attack", "missile", "dawn", "chaos", "purple", "acknowledge", "barely", "soldier", "liberation"] },
+      { branch: "peace", items: ["claim", "military", "jam", "commitment", "prejudice", "explode", "enemy", "pure", "gun", "weapon"] },
     ]
   },
   {
-    name: "grow",
-    center: "grow",
-    subthemes: ["工具与方法", "生长与健康", "城市与特征"],
+    name: "leader",
+    center: "leader",
+    topic_group: "历史社会与文化",
+    subtopic: "领袖与政治",
+    subthemes: ["领导才能", "政治权力", "历史影响"],
     branches: [
-      { branch: "telephone", items: ["telephone", "method", "dry", "top", "cloud", "fast", "wall", "grass", "imagine", "succeed"] },
-      { branch: "grow", items: ["grow", "disease", "trend", "hospital", "forest", "solution", "further", "degree", "praise", "root"] },
-      { branch: "urban", items: ["urban", "soul", "characteristic", "attract", "tooth", "everywhere", "floor", "barrier", "mine", "ruin"] },
+      { branch: "ability", items: ["leadership", "command", "visual", "cheat", "wisdom", "direct", "reference", "mild", "stability", "political"] },
+      { branch: "power", items: ["bitter", "sincerely", "discrimination", "bias", "definitely", "girl", "opposite", "queen", "loose", "zone"] },
+      { branch: "legacy", items: ["helicopter", "critical", "celebrity", "vote", "lead", "mine", "ignore", "rule", "yours", "difficulty"] },
     ]
   },
   {
-    name: "sit",
-    center: "sit",
-    subthemes: ["动作与日常", "位置与情感", "安静与传递"],
+    name: "nation",
+    center: "nation",
+    topic_group: "历史社会与文化",
+    subtopic: "民族与国家",
+    subthemes: ["民族认同", "国家发展", "国际关系"],
     branches: [
-      { branch: "bend", items: ["bend", "tea", "unusual", "maybe", "lunch", "cry", "alive", "daily", "nod", "poor"] },
-      { branch: "sit", items: ["sit", "toy", "living", "goodbye", "customer", "excited", "pain", "instrument", "attention", "town"] },
-      { branch: "quiet", items: ["quiet", "upon", "star", "phrase", "picture", "alarm", "deliver", "friendly", "plenty", "branch"] },
+      { branch: "identity", items: ["cry", "herb", "fluent", "thin", "document", "zoo", "panda", "nationality", "civil", "personality"] },
+      { branch: "develop", items: ["proceed", "bother", "border", "cent", "sweat", "southern", "behalf", "intellectual", "union", "territory"] },
+      { branch: "relation", items: ["graduate", "except", "justify", "imply", "strengthen", "ban", "collar", "lock", "rapid", "socialist"] },
     ]
   },
   {
-    name: "global",
-    center: "global",
-    subthemes: ["全球与标准", "供应与后果", "现状与潜力"],
+    name: "language",
+    center: "language",
+    topic_group: "历史社会与文化",
+    subtopic: "语言与文化",
+    subthemes: ["语言学习", "语言交流", "语言文化"],
     branches: [
-      { branch: "global", items: ["global", "absolutely", "standard", "essential", "calorie", "invent", "obviously", "delight", "fair", "upper"] },
-      { branch: "meanwhile", items: ["meanwhile", "shortage", "consequence", "bias", "instance", "supply", "racial", "record", "reflect", "region"] },
-      { branch: "current", items: ["current", "potential", "belief", "engine", "rose", "structure", "analyse", "army", "disappear", "polar"] },
+      { branch: "learn", items: ["few", "direction", "especially", "chinese", "vocabulary", "dictionary", "whole", "idiom", "pronunciation", "entry"] },
+      { branch: "communicate", items: ["word", "english", "translate", "thank", "grammar", "wonder", "spell", "hand", "common", "limited"] },
+      { branch: "culture", items: ["letter", "fill", "only", "reach", "once", "weep", "mark", "explain", "twice", "red"] },
     ]
   },
   {
-    name: "research",
-    center: "research",
-    subthemes: ["研究与数据", "发现与认知", "特征与存在"],
+    name: "tradition",
+    center: "tradition",
+    topic_group: "历史社会与文化",
+    subtopic: "传统与现代",
+    subthemes: ["传统传承", "现代变革", "古今交融"],
     branches: [
-      { branch: "research", items: ["research", "data", "scientific", "gain", "base", "indeed", "personal", "speed", "encounter", "normal"] },
-      { branch: "finding", items: ["finding", "professor", "evolve", "expect", "mental", "confirm", "engineer", "identify", "unique", "sea"] },
-      { branch: "determine", items: ["determine", "feature", "feed", "fish", "ai", "consume", "theory", "exist", "movement", "size"] },
+      { branch: "inherit", items: ["reject", "classic", "election", "botanical", "independent", "laptop", "sympathy", "section", "brand", "tablet"] },
+      { branch: "modernize", items: ["combine", "resolution", "north", "poet", "contemporary", "beef", "hen", "abstract", "innovation", "strict"] },
+      { branch: "blend", items: ["perceive", "origin", "pace", "remain", "adopt", "wheel", "riddle", "original", "modern", "postcard"] },
     ]
   },
   {
-    name: "outside",
-    center: "outside",
-    subthemes: ["外部与边界", "边缘与维持", "接触与生物"],
+    name: "heritage",
+    center: "heritage",
+    topic_group: "历史社会与文化",
+    subtopic: "文化遗产与保护",
+    subthemes: ["遗产类型", "保护传承", "文化价值"],
     branches: [
-      { branch: "outside", items: ["outside", "fun", "window", "shock", "chart", "wire", "stare", "hen", "bear", "dam"] },
-      { branch: "edge", items: ["edge", "gather", "maintain", "soup", "contact", "creature", "breathe", "above", "correspond", "expansion"] },
-      { branch: "fine", items: ["fine", "subject", "dynasty", "ham", "panda", "favourite", "cat", "meat", "pose", "shallow"] },
+      { branch: "type", items: ["proposal", "policeman_policewoman", "swing", "hello", "zero", "status", "antique", "merely", "wrinkle", "title"] },
+      { branch: "preserve", items: ["memorial", "tank", "glue", "liberty", "joke", "predict", "competence", "entitle", "domain", "gate"] },
+      { branch: "value", items: ["restore", "scan", "grandfather", "former", "duration", "preserve", "conference", "site", "proportion", "outstanding"] },
     ]
   },
   {
-    name: "hold",
-    center: "hold",
-    subthemes: ["物品与游戏", "官方与会话", "中央与流动"],
+    name: "ancient",
+    center: "ancient",
+    topic_group: "历史社会与文化",
+    subtopic: "古代文明",
+    subthemes: ["古文明遗址", "古代社会", "文明起源"],
     branches: [
-      { branch: "skirt", items: ["skirt", "game", "writer", "attend", "host_hostess", "ultimately", "session", "date", "musician", "official"] },
-      { branch: "paragraph", items: ["paragraph", "black", "central", "player", "charge", "kitchen", "party", "card", "therefore", "press"] },
-      { branch: "junior", items: ["junior", "flow", "model", "bath", "definitely", "distance", "frost", "impression", "private", "resolution"] },
-    ]
-  },
-  {
-    name: "control",
-    center: "control",
-    subthemes: ["控制与条件", "反应与资金", "具体与行动"],
-    branches: [
-      { branch: "control", items: ["control", "condition", "careful", "damage", "compare", "grocery", "weed", "monitor", "match", "crazy"] },
-      { branch: "nail", items: ["nail", "persuade", "reaction", "fund", "eager", "switch", "valuable", "vary", "specific", "transport", "principal"] },
-      { branch: "decade", items: ["decade", "practical", "regard", "repeat", "lazy", "prevent", "price", "hang", "action", "tie"] },
-    ]
-  },
-  {
-    name: "process",
-    center: "process",
-    subthemes: ["包含与奖励", "复杂与组成", "过程与反应"],
-    branches: [
-      { branch: "contain", items: ["contain", "reward", "individual", "lie", "complex", "divide", "case", "blue", "source", "original"] },
-      { branch: "process", items: ["process", "copy", "consist", "smart", "fit", "involve", "dish", "factor", "survive", "aware"] },
-      { branch: "roast", items: ["roast", "facility", "ocean", "wedding", "accept", "content", "evidence", "response", "abroad", "factory"] },
-    ]
-  },
-  {
-    name: "people",
-    center: "people",
-    subthemes: ["近期与自身", "身份与手段", "信念与挣扎"],
-    branches: [
-      { branch: "recent", items: ["recent", "yourself", "short", "list", "road", "confident", "rather", "identity", "front", "means"] },
-      { branch: "evaluate", items: ["evaluate", "habit", "task", "already", "goal", "suffer", "fix", "believe", "drink", "national"] },
-      { branch: "person", items: ["person", "lot", "social", "name", "function", "itself", "struggle", "necessary", "stick", "step"] },
-    ]
-  },
-  {
-    name: "china_8a7d7b",
-    center: "china_8a7d7b",
-    subthemes: ["中国与公民", "数据与统计", "东方与革命"],
-    branches: [
-      { branch: "email", items: ["email", "chinese", "south", "citizen", "combine", "globe", "translate", "pig", "camera", "angry"] },
-      { branch: "introduce", items: ["introduce", "drop", "emperor_empress", "exposure", "statistic", "snow", "settle", "bat", "comedy", "deaf"] },
-      { branch: "china", items: ["china", "grandson", "hit", "idiom", "negotiate", "revolution", "white", "east", "finger", "harmful"] },
-    ]
-  },
-  {
-    name: "my",
-    center: "my",
-    subthemes: ["情绪与梦境", "家庭与日常", "自信与快乐"],
-    branches: [
-      { branch: "depress", items: ["depress", "son", "dream", "shout", "tired", "anything", "loud", "news", "hair", "spare"] },
-      { branch: "night", items: ["night", "birthday", "reply", "push", "daughter", "upset", "joke", "personality", "ring", "office"] },
-      { branch: "my", items: ["my", "hardly", "roll", "cool", "confidence", "funny", "immediately", "pleasure", "pet", "shoot"] },
-    ]
-  },
-  {
-    name: "his",
-    center: "his",
-    subthemes: ["变化与担忧", "寻找与阶段", "天气与休养"],
-    branches: [
-      { branch: "his", items: ["his", "become", "worry", "pull", "afternoon", "stage", "search", "quit", "sale", "cure"] },
-      { branch: "tv", items: ["tv", "boy", "motivate", "beyond", "sleep", "weather", "save", "mess", "beach", "climb"] },
-      { branch: "those", items: ["those", "ear", "thank", "regret", "uncle", "attach", "department", "neighbourhood", "repair", "vacation"] },
-    ]
-  },
-  {
-    name: "she",
-    center: "she",
-    subthemes: ["关系与医学", "愿望与方向", "穿着与生活方式"],
-    branches: [
-      { branch: "she", items: ["she", "her", "husband", "medicine", "born", "wish", "yes", "medical", "guess", "grandmother"] },
-      { branch: "anxiety", items: ["anxiety", "notice", "direction", "sweet", "patient", "trial", "graduate", "bag", "wear", "grandfather", "watermelon"] },
-      { branch: "mother", items: ["mother", "rest", "fashion", "red", "dress", "hurt", "lifestyle", "sing", "sign", "amazing"] },
-    ]
-  },
-  {
-    name: "lost",
-    center: "lost",
-    subthemes: ["海岸与岛屿", "失去与颜色", "南方与珍贵"],
-    branches: [
-      { branch: "coast", items: ["coast", "island", "whale", "hobby", "western", "bike", "boat", "transfer", "ok", "sail"] },
-      { branch: "lost", items: ["lost", "lose", "eventually", "despite", "colour", "southern", "empty", "passenger", "ship", "chalk"] },
-      { branch: "bottom", items: ["bottom", "mile", "ice", "destroy", "basketball", "medal", "bridge", "gold", "precious", "remind"] },
-    ]
-  },
-  {
-    name: "pure",
-    center: "pure",
-    subthemes: ["干预与职业", "权力与领导", "工具与策略"],
-    branches: [
-      { branch: "intervention", items: ["intervention", "careless", "stomach", "occupation", "pub", "depth", "drug", "odd", "boil", "republic"] },
-      { branch: "passive", items: ["passive", "sand", "tale", "wake", "authority", "beer", "commitment", "leadership", "queen", "blackboard", "reinforce"] },
-      { branch: "teapot", items: ["teapot", "friction", "microscope", "outstanding", "suspect", "tank", "tap", "asleep", "insight", "strategy"] },
-    ]
-  },
-  {
-    name: "success",
-    center: "success",
-    subthemes: ["成功与拒绝", "财富与追求", "尊重与典型"],
-    branches: [
-      { branch: "success", items: ["success", "editor", "single", "acknowledge", "refuse", "prize", "failure", "delete", "lecture", "recognition"] },
-      { branch: "career", items: ["career", "emphasis", "sell", "pursue", "film", "freedom", "dragon", "fog", "lightning", "respect"] },
-      { branch: "curious", items: ["curious", "steam", "correct", "rich", "narrow", "secure", "die", "typical", "institute", "satisfaction"] },
+      { branch: "ruin", items: ["pear", "bce", "belt", "apart", "initiative", "tomb", "twin", "premier", "humourous", "lend"] },
+      { branch: "society", items: ["pessimistic", "granddaughter", "irrigation", "elder", "pyramid", "bride_bridegroom", "arm", "volume", "era", "bacon"] },
+      { branch: "origin", items: ["stone", "jog", "dismiss", "politician", "circus", "physician", "prosperity", "hurry", "ink", "rigid"] },
     ]
   },
   {
@@ -1935,580 +2109,596 @@ const THEME_NETS = [
     subthemes: ["能源与设备", "发明与创新", "数字信息"],
     branches: [
       { branch: "energy", items: ["energy", "power", "electricity", "battery", "device", "machine", "engine", "electric", "solar", "wind"] },
-      { branch: "invention", items: ["invention", "design", "create", "develop", "invent", "discover", "build", "construct", "establish", "tool"] },
-      { branch: "digital", items: ["computer", "digital", "online", "internet", "software", "data", "system", "program", "network", "information"] }
+      { branch: "invention", items: ["invention", "develop", "invent", "discover", "build", "construct", "establish", "tool", "generous", "link"] },
+      { branch: "digital", items: ["computer", "digital", "online", "internet", "software", "data", "system", "program", "network", "information"] },
     ]
   },
   {
-    name: "family",
-    center: "family",
-    topic_group: "生活与学习",
-    subtopic: "个人、家庭、社区及学校生活",
-    subthemes: ["家庭成员", "家庭生活", "家庭场景"],
+    name: "scientist",
+    center: "scientist",
+    topic_group: "科学与技术",
+    subtopic: "科学精神、科学探究",
+    subthemes: ["科学方法", "实验研究", "科学发现"],
     branches: [
-      { branch: "member", items: ["member", "parent", "child", "baby", "elderly", "husband", "wife", "brother", "sister", "son"] },
-      { branch: "life", items: ["dinner", "breakfast", "weekend", "holiday", "party", "share", "celebrate", "prepare", "fresh", "marry"] },
-      { branch: "place", items: ["bedroom", "kitchen", "garden", "table", "bed", "wall", "room", "home", "house", "door"] }
+      { branch: "method", items: ["research", "experiment", "observe", "analyze", "conclude", "theory", "hypothesis", "evidence", "result", "grade"] },
+      { branch: "lab", items: ["laboratory", "microscope", "instrument", "sample", "chemical", "biology", "physics", "chemistry", "measure", "calculate"] },
+      { branch: "discovery", items: ["innovate", "breakthrough", "achievement", "contribution", "genius", "inspire", "progress", "anywhere", "ashamed", "meaning"] },
     ]
   },
   {
-    name: "home",
-    center: "home",
-    subthemes: ["邻居与法律", "家具与陪伴", "安全与欢呼"],
+    name: "medicine",
+    center: "medicine",
+    topic_group: "科学与技术",
+    subtopic: "医学与健康科学",
+    subthemes: ["医疗技术", "药物研发", "疾病防治"],
     branches: [
-      { branch: "sum", items: ["sum", "neighbour", "law", "basket", "village", "beautiful", "accompany", "chef", "demand", "furniture", "poverty"] },
-      { branch: "house", items: ["house", "frequently", "homework", "lively", "annoy", "scare", "charity", "whatever", "cheap", "hill"] },
-      { branch: "home", items: ["home", "goods", "grey", "salad", "safe", "witness", "figure", "cheer", "impossible", "dive"] },
+      { branch: "tech", items: ["prevent", "wash", "admit", "equal", "medical", "surgery", "obstacle", "flu", "capsule", "anxiety"] },
+      { branch: "drug", items: ["clinic", "drug", "import", "infection", "pill", "treat", "fortunately", "surgeon", "virus", "calorie"] },
+      { branch: "prevent", items: ["symptom", "kill", "abnormal", "procedure", "whom", "rural", "circuit", "plus", "anything", "ought"] },
     ]
   },
   {
-    name: "think",
-    center: "think",
-    subthemes: ["思考与关心", "发展与态度", "专业与拒绝"],
+    name: "engineer",
+    center: "engineer",
+    topic_group: "科学与技术",
+    subtopic: "工程与建造",
+    subthemes: ["工程设计", "建造施工", "基础设施"],
     branches: [
-      { branch: "think", items: ["think", "care", "develop", "usually", "anybody_anyone", "phone", "attitude", "interview", "yet", "perform"] },
-      { branch: "ce", items: ["ce", "satisfy", "sad", "spell", "comment", "expand", "reject", "ignore", "professional", "term"] },
-      { branch: "thinking", items: ["thinking", "dozen", "detail", "healthy", "donate", "expose", "none", "round", "leaf", "reality"] },
+      { branch: "design", items: ["steel", "aim", "puzzle", "summary", "crew", "foundation", "shelf", "awake", "tunnel", "refer"] },
+      { branch: "build", items: ["expectation", "representative", "architect", "concrete", "material", "factor", "retire", "sharp", "dam", "construction"] },
+      { branch: "infrastructure", items: ["fountain", "function", "load", "railway", "hide", "possession", "soft", "empathy", "canal", "subway"] },
     ]
   },
   {
-    name: "money",
-    center: "money",
-    subthemes: ["政策与储蓄", "运动与竞争", "货币与创新"],
+    name: "maths",
+    center: "maths",
+    topic_group: "科学与技术",
+    subtopic: "数学与逻辑",
+    subthemes: ["数学运算", "几何图形", "逻辑推理"],
     branches: [
-      { branch: "let", items: ["let", "policy", "saving", "bar", "silver", "football", "heavy", "cancel", "score", "series"] },
-      { branch: "money", items: ["money", "wi_fi", "classic", "yesterday", "active", "tennis", "vote", "chicken", "compete", "distinguish"] },
-      { branch: "gift", items: ["gift", "recipe", "smell", "wash", "cent", "coin", "currency", "distribution", "flag", "innovation"] },
+      { branch: "calculate", items: ["accurate", "superior", "copy", "add", "exchange", "description", "geometry", "fetch", "count", "distance"] },
+      { branch: "geometry", items: ["mile", "height", "number", "western", "convenient", "scream", "divide", "butcher", "centimetre", "commercial"] },
+      { branch: "logic", items: ["circle", "metre", "appeal", "suitable", "beat", "rare", "bakery", "comprehensive", "kilometre", "tube"] },
     ]
   },
   {
-    name: "open",
-    center: "open",
-    subthemes: ["调查与历史", "选项与背景", "开放与目的地"],
+    name: "internet",
+    center: "internet",
+    topic_group: "科学与技术",
+    subtopic: "网络与信息",
+    subthemes: ["网络技术", "在线交流", "信息安全"],
     branches: [
-      { branch: "survey", items: ["survey", "historic", "interrupt", "certainly", "register", "fantastic", "option", "primary", "sheet", "glass"] },
-      { branch: "shame", items: ["shame", "architect", "urge", "aspect", "cross", "menu", "volleyball", "voluntary", "background", "chair", "turkey"] },
-      { branch: "open", items: ["open", "destination", "patience", "pleasant", "tunnel", "wealth", "rare", "block", "hate", "tear"] },
+      { branch: "web", items: ["mobile", "website", "access", "web", "parking", "video", "obtain", "download", "database", "blog"] },
+      { branch: "online", items: ["round", "feature", "lack", "surf", "seldom", "click", "hobby", "update", "cash", "email"] },
+      { branch: "security", items: ["underground", "keyboard", "addict", "pass", "whenever", "ago", "economy", "channel", "usually", "post"] },
     ]
   },
   {
-    name: "instead",
-    center: "instead",
-    subthemes: ["清洁与治疗", "交通与情绪", "行为与舒适"],
+    name: "invention",
+    center: "invention",
+    topic_group: "科学与技术",
+    subtopic: "发明与创造",
+    subthemes: ["发明历程", "创新思维", "改变世界"],
     branches: [
-      { branch: "instead", items: ["instead", "clean", "treat", "supermarket", "lesson", "fear", "traffic", "box", "huge", "strike"] },
-      { branch: "delicious", items: ["delicious", "emotion", "shower", "behaviour", "cycle", "native", "context", "motor", "sink", "exactly"] },
-      { branch: "smog", items: ["smog", "loose", "pe", "mostly", "awful", "fantasy", "toast", "yellow", "comfortable", "aunt"] },
+      { branch: "process", items: ["airline", "multiple", "pioneer", "connect", "mineral", "creative", "floor", "yet", "flight", "below"] },
+      { branch: "creative", items: ["stress", "absolutely", "diagram", "clerk", "output", "silence", "selfish", "harmonious", "differ", "intelligent"] },
+      { branch: "impact", items: ["join", "shallow", "boil", "license", "product", "photographer", "pursue", "incredible", "virtual", "reliable"] },
     ]
   },
   {
-    name: "programme",
-    center: "programme",
-    subthemes: ["节目与现代化", "访问与志愿", "领袖与观众"],
+    name: "data",
+    center: "data",
+    topic_group: "科学与技术",
+    subtopic: "数据与统计",
+    subthemes: ["数据收集", "数据分析", "统计应用"],
     branches: [
-      { branch: "astronaut", items: ["astronaut", "concert", "modernization", "weekly", "participate", "remote", "access", "volunteer", "software", "absorb", "sore"] },
-      { branch: "change", items: ["change", "leader", "jam", "manager", "gym", "procedure", "war", "audience", "setting", "error"] },
-      { branch: "band", items: ["band", "astonish", "relevant", "ahead", "seat", "anxious", "female", "guest", "partner", "basic"] },
+      { branch: "collect", items: ["per", "prove", "compare", "statistic", "type", "extremely", "birth", "contain", "answer", "report"] },
+      { branch: "analyze", items: ["chart", "electronic", "quality", "analyse", "record", "weekly", "difference", "popular", "percentage", "conclusion"] },
+      { branch: "apply", items: ["position", "positive", "key", "target", "total", "average", "survey", "clock", "useful", "recently"] },
     ]
   },
   {
-    name: "blanket",
-    center: "blanket",
-    subthemes: ["恐慌与 aboard", "解决与计算", "包裹与绝望"],
+    name: "robot",
+    center: "robot",
+    topic_group: "科学与技术",
+    subtopic: "人工智能与机器人",
+    subthemes: ["智能技术", "机器人应用", "未来展望"],
     branches: [
-      { branch: "blanket", items: ["blanket", "panic", "aboard", "resolve", "calculate", "delay", "blind", "chip", "punish", "decent"] },
-      { branch: "qualification", items: ["qualification", "wrap", "noble", "pants", "theirs", "awake", "mud", "poison", "butter", "cupboard"] },
-      { branch: "church", items: ["church", "genuine", "package", "badminton", "grateful", "operator", "oven", "parcel", "headache", "desperate", "trousers"] },
+      { branch: "ai", items: ["autonomous", "automatic", "librarian", "prospect", "reality", "female", "domestic", "consist", "agree", "practical"] },
+      { branch: "application", items: ["artificial", "diet", "conventional", "regardless", "deal", "relate", "male", "action", "vast", "current"] },
+      { branch: "future", items: ["potential", "switch", "majority", "ai", "smart", "motor", "blind", "drone", "print", "expect"] },
     ]
   },
   {
-    name: "uniform",
-    center: "uniform",
-    subthemes: ["运动与化学", "婚姻与咨询", "交通与金融"],
+    name: "biology",
+    center: "biology",
+    topic_group: "科学与技术",
+    subtopic: "生物与生命科学",
+    subthemes: ["生命结构", "生物分类", "生命过程"],
     branches: [
-      { branch: "baseball", items: ["baseball", "chemistry", "bride_bridegroom", "circuit", "consultant", "fireman", "housing", "navy", "compass", "pray", "volcano"] },
-      { branch: "bakery", items: ["bakery", "tube", "secondary", "sweep", "dessert", "consultation", "mechanic", "port", "imply", "dirty", "prosperity"] },
-      { branch: "elevator", items: ["elevator", "nuclear", "kettle", "subway", "fibre", "legal", "financial", "loan", "cake", "strict", "phase"] },
+      { branch: "structure", items: ["brain", "leg", "digest", "gene", "fit", "skin", "publish", "cell", "double", "organ"] },
+      { branch: "classify", items: ["corporate", "tissue", "lung", "dozen", "resign", "heart", "bell", "fat", "breathe", "bacteria"] },
+      { branch: "process", items: ["blame", "blood", "annoy", "protein", "drawer", "mouth", "greet", "variation", "bone", "muscle"] },
     ]
   },
   {
-    name: "plan",
-    center: "plan",
-    subthemes: ["物品与处理", "信用与死亡", "讨论与常规"],
+    name: "nature",
+    center: "nature",
+    topic_group: "自然生态",
+    subtopic: "自然与荒野",
+    subthemes: ["自然景观", "野生动植物", "生态系统"],
     branches: [
-      { branch: "log", items: ["log", "plate", "handle", "credit", "duck", "teamwork", "journey", "death", "review", "wet"] },
-      { branch: "plan", items: ["plan", "committee", "mad", "olympic", "pan", "discussion", "parking", "regular", "knock", "message"] },
-      { branch: "sorry", items: ["sorry", "brochure", "comfort", "porridge", "angle", "escape", "hunt", "majority", "taxi", "contribution"] },
+      { branch: "landscape", items: ["gift", "rain", "near", "appear", "enhance", "but", "sun", "lake", "its", "or"] },
+      { branch: "wildlife", items: ["area", "piece", "high", "tiny", "by", "threaten", "talent", "smell", "crowd", "moon"] },
+      { branch: "ecosystem", items: ["wait", "complex", "reflect", "wild", "particular", "head", "natural", "cloud", "send", "river"] },
     ]
   },
   {
-    name: "ability",
-    center: "ability",
-    subthemes: ["能力与惊奇", "知识与力量", "刺激与构造"],
+    name: "animal",
+    center: "animal",
+    topic_group: "自然生态",
+    subtopic: "动物世界",
+    subthemes: ["哺乳动物", "鸟类与鱼", "昆虫与爬行"],
     branches: [
-      { branch: "ability", items: ["ability", "wonder", "brain", "memory", "knowledge", "force", "sky", "weight", "fence", "stimulate"] },
-      { branch: "truth", items: ["truth", "vivid", "fault", "perspective", "pretend", "exciting", "brush", "construction", "magic", "wetland"] },
-      { branch: "poetry", items: ["poetry", "corporate", "defeat", "magnificent", "palace", "portrait", "range", "alternative", "conclusion", "employ"] },
+      { branch: "mammal", items: ["dolphin", "bear", "sheep", "butter", "goat", "whisper", "eagle", "dog", "lion", "diamond"] },
+      { branch: "bird_fish", items: ["length", "horse", "sweet", "fish", "cow", "tiger", "sour", "monkey", "catch", "bird"] },
+      { branch: "insect", items: ["daughter", "hungry", "elephant", "whale", "cat", "away", "wolf", "pig", "snake", "chicken"] },
     ]
   },
   {
-    name: "clear",
-    center: "clear",
-    subthemes: ["清除与起源", "适应与加强", "网络与增加"],
+    name: "plant",
+    center: "plant",
+    topic_group: "自然生态",
+    subtopic: "植物与农业",
+    subthemes: ["农作物种植", "园艺植物", "野生植物"],
     branches: [
-      { branch: "litter", items: ["litter", "origin", "adaptation", "flood", "strengthen", "mix", "confused", "dear", "gap", "monkey"] },
-      { branch: "shoe", items: ["shoe", "wheel", "network", "besides", "bored", "dig", "fox", "journalist", "ray", "slightly"] },
-      { branch: "greenhouse", items: ["greenhouse", "addition", "curtain", "deny", "dimension", "dinosaur", "inch", "opera", "release", "rough"] },
+      { branch: "crop", items: ["cabbage", "bark", "flower", "root", "wheat", "taste", "apple", "chip", "grain", "ball"] },
+      { branch: "garden", items: ["bowl", "grass", "corn", "bamboo", "juice", "fibre", "jump", "noodle", "seed", "potato"] },
+      { branch: "wild", items: ["leaf", "salad", "tomato", "strawberry", "orange", "banana", "tree", "stomach", "grape", "variety"] },
     ]
   },
   {
-    name: "face",
-    center: "face",
-    subthemes: ["持续与危险", "解释与象征", "智能与承诺"],
+    name: "weather",
+    center: "weather",
+    topic_group: "自然生态",
+    subtopic: "天气与气候",
+    subthemes: ["天气现象", "气候变化", "气象预报"],
     branches: [
-      { branch: "constant", items: ["constant", "dangerous", "freeze", "sir", "butterfly", "interpret", "leg", "somehow", "suppose", "pronunciation"] },
-      { branch: "face", items: ["face", "intelligent", "railway", "arm", "symbol", "precisely", "plane", "promise", "brown", "empathy"] },
-      { branch: "future", items: ["future", "storm", "conference", "flash", "clinic", "cow", "inner", "kick", "pound", "hesitate"] },
+      { branch: "phenomenon", items: ["cloudy", "snow", "delay", "hot", "inch", "spring", "dry", "rainy", "path", "herself"] },
+      { branch: "climate", items: ["cover", "thunder", "stand", "condition", "charm", "mud", "summer", "frost", "fog", "carpet"] },
+      { branch: "forecast", items: ["freeze", "winter", "hang", "fox", "windy", "sunny", "snowy", "autumn", "temperature", "lightning"] },
     ]
   },
   {
-    name: "explain",
-    center: "explain",
-    subthemes: ["评估与现象", "保存与负责", "哲学与演示"],
+    name: "season",
+    center: "season",
+    topic_group: "自然生态",
+    subtopic: "四季与节令",
+    subthemes: ["春夏秋冬", "节气时令", "季节活动"],
     branches: [
-      { branch: "pool", items: ["pool", "false", "assess", "notebook", "phenomenon", "preserve", "responsible", "random", "surround", "clarify", "suburb"] },
-      { branch: "towards", items: ["towards", "philosophy", "carrot", "offend", "intend", "biology", "bond", "president", "wallet", "proposal"] },
-      { branch: "tip", items: ["tip", "aid", "coffee", "demonstrate", "theme", "version", "helpful", "previous", "worker", "christmas"] },
+      { branch: "cycle", items: ["until", "sit", "calendar", "boy", "return", "harvest", "strange", "happen", "father", "during"] },
+      { branch: "calendar", items: ["come", "must", "back", "later", "end", "us", "little", "next", "again", "event"] },
+      { branch: "activity", items: ["then", "every", "me", "enjoy", "why", "experience", "list", "last", "set", "over"] },
     ]
   },
   {
-    name: "duration",
-    center: "duration",
-    subthemes: ["布料与预期", "休闲与纪念", "几何与暂时"],
+    name: "geography",
+    center: "geography",
+    topic_group: "自然生态",
+    subtopic: "地理与地貌",
+    subthemes: ["地形地貌", "河流海洋", "山川平原"],
     branches: [
-      { branch: "fabric", items: ["fabric", "anticipate", "mall", "receipt", "recreation", "drill", "memorial", "cotton", "proceed", "breast", "mushroom"] },
-      { branch: "goat", items: ["goat", "dizzy", "geometry", "temporary", "hike", "beard", "bowling", "communist", "competence", "cooperate", "windy"] },
-      { branch: "frequency", items: ["frequency", "cucumber", "estate", "extension", "gentleman", "horror", "intellectual", "obstacle", "subscribe", "tournament", "wrestle"] },
+      { branch: "terrain", items: ["desert", "hill", "plain", "starve", "sea", "wine", "island", "stuff", "magnificent", "dead"] },
+      { branch: "water", items: ["continent", "size", "china_8a7d7b", "coast", "pond", "horrible", "volcano", "rope", "exceptional", "cave"] },
+      { branch: "mountain", items: ["cross", "valley", "left", "edge", "overall", "ship", "china", "foot", "along", "above"] },
     ]
   },
   {
-    name: "book",
-    center: "book",
-    subthemes: ["书籍与历史", "文章与规则", "场景与文学"],
+    name: "ocean",
+    center: "ocean",
+    topic_group: "自然生态",
+    subtopic: "海洋与河流",
+    subthemes: ["海洋生态", "河流水系", "水资源"],
     branches: [
-      { branch: "book", items: ["book", "history", "library", "article", "custom", "rule", "opinion", "relax", "chapter", "ticket"] },
-      { branch: "express", items: ["express", "bother", "magazine", "grand", "literature", "occur", "terrible", "brilliant", "librarian", "novelist"] },
-      { branch: "write", items: ["write", "progress", "belong", "scene", "discount", "electronic", "entry", "lend", "candy", "dare"] },
+      { branch: "marine", items: ["arise", "mention", "shore", "water", "frog", "shape", "hunt", "fisherman", "stream", "dive"] },
+      { branch: "river", items: ["alongside", "sail", "highway", "core", "lay", "wave", "boat", "bay", "nearby", "off"] },
+      { branch: "resource", items: ["rose", "silent", "phenomenon", "creature", "flour", "pour", "beach", "nut", "strait", "participate"] },
     ]
   },
   {
-    name: "question",
-    center: "question",
-    subthemes: ["答案与发现", "比较与主张", "问题与主题"],
+    name: "forest",
+    center: "forest",
+    topic_group: "自然生态",
+    subtopic: "森林与生态",
+    subthemes: ["森林生态", "树木植被", "森林动物"],
     branches: [
-      { branch: "answer", items: ["answer", "discovery", "nor", "comparison", "claim", "physics", "regardless", "universe", "description", "ideal"] },
-      { branch: "objective", items: ["objective", "assumption", "blame", "screen", "comprehension", "continent", "defence", "elephant", "genius", "illness"] },
-      { branch: "question", items: ["question", "especially", "themselves", "topic", "either", "video", "relate", "definition", "entirely", "instruction"] },
+      { branch: "ecology", items: ["expensive", "lamp", "garlic", "somewhere", "deliver", "mushroom", "wood", "cup", "pole", "comprehension"] },
+      { branch: "vegetation", items: ["midnight", "nose", "highlight", "bottom", "duck", "habitat", "bar", "tail", "distinguish", "grab"] },
+      { branch: "fauna", items: ["branch", "tendency", "shadow", "deer", "stamp", "wire", "roll", "picnic", "instant", "grey"] },
     ]
   },
   {
-    name: "earth",
-    center: "earth",
-    subthemes: ["地球与行星", "河流与建议", "日历与月亮"],
+    name: "mountain",
+    center: "mountain",
+    topic_group: "自然生态",
+    subtopic: "山川与地形",
+    subthemes: ["山地地形", "登山探险", "山地生态"],
     branches: [
-      { branch: "earth", items: ["earth", "planet", "shift", "river", "suggestion", "collect", "missing", "pond", "bottle", "calendar"] },
-      { branch: "moon", items: ["moon", "apple", "incredible", "flat", "bitter", "bacteria", "fool", "satellite", "solar", "disaster"] },
-      { branch: "illustrate", items: ["illustrate", "fundamental", "pour", "site", "stream", "virtual", "battle", "mirror", "assistant", "atmosphere"] },
+      { branch: "terrain", items: ["influential", "sheet", "onto", "tear", "helpful", "white", "corner", "neck", "inside", "hike"] },
+      { branch: "climb", items: ["mount", "bath", "medium", "rock", "map", "scare", "camp", "blanket", "fly", "knee"] },
+      { branch: "ecology", items: ["surround", "top", "ice", "skate", "climb", "disappear", "peak", "compass", "suspect", "bend"] },
     ]
   },
   {
-    name: "multiple",
-    center: "multiple",
-    subthemes: ["缝纫与纪律", "基因与指控", "症状与感染"],
+    name: "sky",
+    center: "sky",
+    topic_group: "自然生态",
+    subtopic: "天空与气象",
+    subthemes: ["天空景象", "气象变化", "天文观测"],
     branches: [
-      { branch: "sew", items: ["sew", "discipline", "gene", "accuse", "ethical", "monthly", "educator", "prison", "automatic", "proof", "resign"] },
-      { branch: "symptom", items: ["symptom", "infection", "arrest", "flu", "alert", "announce", "pear", "sneeze", "astronomer", "noon", "missile"] },
-      { branch: "toothache", items: ["toothache", "pill", "abuse", "sleepy", "pessimistic", "nut", "skip", "refresh", "dentist", "lung", "subjective"] },
+      { branch: "scene", items: ["mist", "acid", "chair", "smooth", "silver", "finger", "metaphor", "kettle", "rainbow", "intense"] },
+      { branch: "weather", items: ["basin", "component", "chew", "buffet", "panic", "slightly", "division", "atmosphere", "qualification", "hair"] },
+      { branch: "astronomy", items: ["brown", "clear", "abandon", "blue", "campaign", "advice", "loud", "series", "spoon", "sleepy"] },
     ]
   },
   {
-    name: "train",
-    center: "train",
-    subthemes: ["食物与幸运", "校园与平台", "治疗与入口"],
+    name: "environment",
+    center: "environment",
+    topic_group: "环境保护",
+    subtopic: "环境问题与保护",
+    subthemes: ["环境现状", "保护行动", "生态意识"],
     branches: [
-      { branch: "bug", items: ["bug", "strawberry", "chocolate", "fortunately", "certificate", "semester", "smooth", "campus", "platform", "treatment", "nephew"] },
-      { branch: "train", items: ["train", "entrance", "launch", "rubber", "superior", "valid", "fry", "enhance", "expense", "fuel"] },
-      { branch: "apartment", items: ["apartment", "insurance", "stupid", "hall", "signal", "tourist", "conventional", "exit", "political", "qualify"] },
+      { branch: "issue", items: ["no", "die", "notice", "increase", "soon", "characteristic", "ecology", "vital", "these", "against"] },
+      { branch: "action", items: ["absorb", "encounter", "contrast", "global", "stick", "model", "full", "harm", "remind", "living"] },
+      { branch: "awareness", items: ["fund", "application", "call", "species", "different", "butterfly", "deep", "beyond", "sensitive", "insect"] },
     ]
   },
   {
-    name: "since",
-    center: "since",
-    subthemes: ["现在与事务", "饥饿与更新", "位置与药片"],
+    name: "pollution",
+    center: "pollution",
+    topic_group: "环境保护",
+    subtopic: "污染与治理",
+    subthemes: ["污染类型", "污染来源", "治理措施"],
     branches: [
-      { branch: "nowadays", items: ["nowadays", "affair", "hungry", "update", "chain", "jaw", "riddle", "scarf", "ingredient", "overall"] },
-      { branch: "dust", items: ["dust", "retire", "juice", "march", "danger", "oil", "quantity", "ton", "bay", "cell", "plus"] },
-      { branch: "since", items: ["since", "location", "yard", "tablet", "actor_actress", "brief", "massive", "import", "postcard", "anyway"] },
+      { branch: "type", items: ["garbage", "smog", "exhaust", "dirty", "ugly", "million", "enthusiastic", "attention", "rubbish", "regard"] },
+      { branch: "source", items: ["mess", "hold", "kick", "policy", "poison", "harmful", "clean", "hug", "plastic", "fix"] },
+      { branch: "solution", items: ["pollute", "necessary", "massive", "gas", "problem", "ground", "remove", "factory", "concern", "relationship"] },
     ]
   },
   {
-    name: "such",
-    center: "such",
-    subthemes: ["少年与联系", "营养与小组", "期待与责任"],
+    name: "recycle",
+    center: "recycle",
+    topic_group: "环境保护",
+    subtopic: "循环利用与节约",
+    subthemes: ["废物回收", "资源节约", "绿色消费"],
     branches: [
-      { branch: "teenage", items: ["teenage", "link", "nutrition", "panel", "rely", "reliable", "composition", "senior", "convenient", "expectation"] },
-      { branch: "bone", items: ["bone", "passion", "dolphin", "commercial", "warning", "elsewhere", "solid", "yours", "examine", "glad"] },
-      { branch: "such", items: ["such", "moral", "rapid", "responsibility", "awkward", "silence", "cream", "file", "outline", "passport"] },
+      { branch: "recover", items: ["bin", "avoid", "represent", "package", "tip", "pile", "bottle", "glass", "efficient", "household"] },
+      { branch: "save", items: ["aware", "frightened", "bag", "telephone", "canteen", "sort", "therefore", "reduce", "hole", "chef"] },
+      { branch: "consume", items: ["paper", "neither", "throw", "limit", "pen", "silly", "empty", "cigarette", "pub", "metal"] },
     ]
   },
   {
-    name: "dismiss",
-    center: "dismiss",
-    subthemes: ["神秘与雷声", "议程与暂停", "输出与统治"],
+    name: "energy",
+    center: "energy",
+    topic_group: "环境保护",
+    subtopic: "能源与可再生",
+    subthemes: ["传统能源", "清洁能源", "节能技术"],
     branches: [
-      { branch: "mystery", items: ["mystery", "thunder", "agenda", "suspend", "canal", "subsequent", "division", "primitive", "super", "equator"] },
-      { branch: "leather", items: ["leather", "hers", "enormous", "manner", "basin", "handkerchief", "humble", "integrity", "millimetre", "output", "surgeon"] },
-      { branch: "dismiss", items: ["dismiss", "pyramid", "fetch", "ruler", "load", "orchestra", "hatch", "steady", "bury", "chaos"] },
+      { branch: "traditional", items: ["consumption", "petrol", "pot", "scale", "valuable", "fuel", "leak", "produce", "transition", "use"] },
+      { branch: "clean", items: ["agriculture", "specific", "consume", "quarter", "pepper", "used", "oil", "shortage", "towards", "steam"] },
+      { branch: "efficient", items: ["arctic", "mode", "coal", "panel", "unit", "cheap", "operate", "farm", "air", "put"] },
     ]
   },
   {
-    name: "text",
-    center: "text",
-    subthemes: ["计数与风景", "安排与崩溃", "类别与框架"],
+    name: "climate",
+    center: "climate",
+    topic_group: "环境保护",
+    subtopic: "气候变化",
+    subthemes: ["气候现状", "全球变暖", "应对策略"],
     branches: [
-      { branch: "count", items: ["count", "landscape", "arrangement", "wave", "crash", "snack", "advocate", "differ", "geography", "absence"] },
-      { branch: "cheese", items: ["cheese", "dramatic", "smoke", "wing", "ad", "category", "cup", "frame", "psychology", "trick", "strait"] },
-      { branch: "title", items: ["title", "suitable", "hope", "refer", "sort", "influence", "safety", "expensive", "skate", "deer"] },
+      { branch: "status", items: ["face", "dust", "rise", "throughout", "dramatic", "everything", "greenhouse", "pattern", "level", "issue"] },
+      { branch: "warming", items: ["drought", "means", "mental", "facilitate", "form", "cold", "cause", "search", "half", "adaptation"] },
+      { branch: "response", items: ["accident", "period", "place", "process", "assumption", "affair", "impact", "crucial", "forget", "entirely"] },
     ]
   },
   {
-    name: "stability",
-    center: "stability",
-    subthemes: ["稳定与僵化", "税收与混合", "暴力与拖动"],
+    name: "conservation",
+    center: "conservation",
+    topic_group: "环境保护",
+    subtopic: "生态保护",
+    subthemes: ["物种保护", "栖息地保护", "生态平衡"],
     branches: [
-      { branch: "stability", items: ["stability", "rigid", "tax", "ripe", "mist", "mixture", "ms", "stair", "stamp", "twin"] },
-      { branch: "chorus", items: ["chorus", "bomb", "clay", "violence", "drag", "flour", "glove", "piano", "relay", "bamboo", "wage"] },
-      { branch: "loyal", items: ["loyal", "cage", "capsule", "chairman_chairwoman", "chemist", "civil", "criterion", "guitar", "metaphor", "onion", "ski"] },
+      { branch: "species", items: ["chain", "ad", "humanity", "sponsor", "elsewhere", "honey", "endangered", "ingredient", "marriage", "beside"] },
+      { branch: "habitat", items: ["scholarship", "identify", "cough", "occasion", "exist", "furniture", "equator", "dormitory", "grand", "extinction"] },
+      { branch: "balance", items: ["membership", "reserve", "wetland", "besides", "mostly", "nephew", "correspond", "recognition", "previous", "penguin"] },
     ]
   },
   {
-    name: "various",
-    center: "various",
-    subthemes: ["发音与点击", "灭绝与祖先", "同情与地下"],
+    name: "waste",
+    center: "waste",
+    topic_group: "环境保护",
+    subtopic: "废物与处理",
+    subthemes: ["废物分类", "垃圾处理", "减量行动"],
     branches: [
-      { branch: "pronounce", items: ["pronounce", "click", "extinction", "ancestor", "centimetre", "military", "arctic", "sympathy", "underground", "myth", "rhythm"] },
-      { branch: "various", items: ["various", "sugar", "critical", "detect", "bean", "folk", "fountain", "grape", "newspaper", "rainy"] },
-      { branch: "find", items: ["find", "studio", "wise", "trust", "ethnic", "herb", "lemon", "lion", "tofu", "weapon"] },
+      { branch: "sort", items: ["weak", "throat", "illness", "comment", "headline", "brochure", "province", "intend", "carrot", "burn"] },
+      { branch: "dispose", items: ["odd", "madam", "skateboard", "everywhere", "extent", "tap", "appropriate", "bowling", "dare", "cruel"] },
+      { branch: "reduce", items: ["litter", "bury", "cuisine", "log", "ton", "gradually", "mutual", "somewhat", "numerous", "careless"] },
     ]
   },
   {
-    name: "feel",
-    center: "feel",
-    subthemes: ["言语与衣物", "感知与孤独", "名声与胃口"],
+    name: "carbon",
+    center: "carbon",
+    topic_group: "环境保护",
+    subtopic: "碳排放与减排",
+    subthemes: ["碳排来源", "减排措施", "低碳生活"],
     branches: [
-      { branch: "saying", items: ["saying", "clothes", "perceive", "lonely", "convey", "salary", "lucky", "steal", "awesome", "contrary"] },
-      { branch: "its", items: ["its", "journal", "admit", "reputation", "appetite", "frightened", "ease", "handbag", "skateboard", "abstract"] },
-      { branch: "feeling", items: ["feeling", "ambitious", "except", "fond", "routine", "otherwise", "recover", "presentation", "boss", "distant"] },
+      { branch: "source", items: ["pan", "obviously", "permit", "dinosaur", "rating", "vehicle", "decrease", "substantial", "mechanic", "nowadays"] },
+      { branch: "reduce", items: ["neutral", "shade", "disc", "advertise", "currency", "private", "cut", "gifted", "lower", "fridge"] },
+      { branch: "lifestyle", items: ["restrict", "announce", "spare", "integrate", "drill", "supplement", "route", "liquid", "onion", "illegal"] },
     ]
   },
   {
-    name: "number",
-    center: "number",
-    subthemes: ["文件与出生", "媒介与平原", "运动与竞选"],
+    name: "sustain",
+    center: "sustain",
+    topic_group: "环境保护",
+    subtopic: "可持续发展",
+    subthemes: ["发展理念", "资源利用", "未来保障"],
     branches: [
-      { branch: "document", items: ["document", "birth", "medium", "plain", "pilot", "twice", "bonus", "boost", "fist", "permit"] },
-      { branch: "number", items: ["number", "cost", "population", "photo", "relative", "campaign", "gas", "widespread", "europe", "bce"] },
-      { branch: "granddaughter", items: ["granddaughter", "snake", "separate", "fold", "orange", "airline", "bathroom", "cuisine", "pioneer", "thick"] },
+      { branch: "concept", items: ["myth", "eager", "stretch", "cap", "chemist", "nor", "worthwhile", "resource", "essential", "anticipate"] },
+      { branch: "resource", items: ["suppose", "criterion", "harmony", "extend", "long", "objective", "nod", "youth", "noisy", "profit"] },
+      { branch: "future", items: ["royal", "finish", "ring", "term", "acquire", "sacrifice", "generation", "excuse", "polish", "front"] },
     ]
   },
   {
-    name: "right",
-    center: "right",
-    subthemes: ["对错与准备", "街道与酒店", "效率与保证"],
+    name: "green",
+    center: "green",
+    topic_group: "环境保护",
+    subtopic: "绿色生活",
+    subthemes: ["环保理念", "绿色行动", "生态友好"],
     branches: [
-      { branch: "right", items: ["right", "wrong", "prepare", "hurry", "street", "hotel", "technique", "horse", "ought", "rock"] },
-      { branch: "main", items: ["main", "oxygen", "efficient", "guarantee", "ride", "lean", "purple", "swing", "organ", "pattern"] },
-      { branch: "or", items: ["or", "circumstance", "highway", "clever", "county", "foundation", "trunk", "interaction", "bunch", "charm"] },
+      { branch: "concept", items: ["nowhere", "organic", "altogether", "thirsty", "respective", "carry", "bean", "weed", "actor_actress", "if"] },
+      { branch: "action", items: ["maybe", "export", "soil", "umbrella", "backward", "mixture", "settle", "include", "them", "fast"] },
+      { branch: "friendly", items: ["sale", "solution", "lucky", "seem", "candy", "fry", "decent", "fold", "sufficient", "row"] },
     ]
   },
   {
-    name: "win",
-    center: "win",
-    subthemes: ["优雅与智慧", "丛林与手术", "结果与平衡"],
+    name: "disaster",
+    center: "disaster",
+    topic_group: "灾害防范",
+    subtopic: "灾害与应对",
+    subthemes: ["灾害类型", "应急预案", "灾后重建"],
     branches: [
-      { branch: "graceful", items: ["graceful", "wisdom", "jungle", "policeman_policewoman", "brick", "cave", "surgery", "outcome", "balance", "winner", "sincerely"] },
-      { branch: "neat", items: ["neat", "circle", "fiction", "slide", "tackle", "equipment", "fortune", "handwriting", "premier", "spacecraft"] },
-      { branch: "award", items: ["award", "sweater", "ant", "cigarette", "envy", "forecast", "gratitude", "guard", "harmonious", "jazz"] },
+      { branch: "type", items: ["survive", "delete", "whatever", "farmer", "facility", "destroy", "victim", "cancer", "operator", "outline"] },
+      { branch: "plan", items: ["owe", "tackle", "bored", "cycle", "clue", "recover", "plug", "disabled", "precisely", "address"] },
+      { branch: "rebuild", items: ["tonight", "financial", "relief", "scarf", "location", "consultant", "refuse", "distribution", "appointment", "opinion"] },
     ]
   },
   {
-    name: "high",
-    center: "high",
-    subthemes: ["孔子与缓解", "承诺与和谐", "心情与高峰"],
+    name: "earthquake",
+    center: "earthquake",
+    topic_group: "灾害防范",
+    subtopic: "地震与自救",
+    subthemes: ["地震成因", "防震措施", "震后救援"],
     branches: [
-      { branch: "confucius", items: ["confucius", "relieve", "commit", "envelope", "harmony", "mood", "peak", "maximum", "profit", "emerge"] },
-      { branch: "and", items: ["and", "initial", "broadcast", "rating", "zone", "cast", "district", "mount", "pity", "shadow"] },
-      { branch: "murder", items: ["murder", "shark", "whom", "directory", "route", "pocket", "former", "rate", "rank", "assign", "snowy"] },
+      { branch: "cause", items: ["desk", "alarm", "certainly", "shelter", "joint", "episode", "hatch", "background", "intention", "tailor"] },
+      { branch: "prevent", items: ["brick", "sow", "confidence", "leisure", "ours", "shock", "erupt", "exceed", "quit", "shake"] },
+      { branch: "rescue", items: ["fortune", "injury", "tall", "terrible", "friction", "finance", "wound", "further", "escape", "collapse"] },
     ]
   },
   {
-    name: "popular",
-    center: "popular",
-    subthemes: ["酸与操场", "饼干与周年", "国内与陷阱"],
+    name: "flood",
+    center: "flood",
+    topic_group: "灾害防范",
+    subtopic: "洪水与防范",
+    subthemes: ["洪水成因", "防洪措施", "洪灾应对"],
     branches: [
-      { branch: "sour", items: ["sour", "playground", "cookie", "anniversary", "domestic", "trap", "cautious", "honey", "impress", "irrigation", "pardon"] },
-      { branch: "song", items: ["song", "spicy", "entertainment", "clue", "dynamic", "horrible", "kung", "lip", "monument", "pizza"] },
-      { branch: "excellent", items: ["excellent", "sauce", "acid", "addict", "cousin", "download", "eagle", "explode", "fridge", "god"] },
+      { branch: "cause", items: ["drown", "slip", "snack", "beer", "bathroom", "ache", "bow", "doll", "tidy", "watermelon"] },
+      { branch: "prevent", items: ["saving", "pool", "theft", "gentle", "violence", "wet", "communist", "crop", "shower", "slide"] },
+      { branch: "respond", items: ["reputation", "drop", "raw", "port", "guest", "prohibit", "kit", "bounce", "immediately", "sand"] },
     ]
   },
   {
-    name: "build",
-    center: "build",
-    subthemes: ["传奇与预测", "废弃与屋顶", "职业与城堡"],
+    name: "fire",
+    center: "fire",
+    topic_group: "灾害防范",
+    subtopic: "火灾与安全",
+    subthemes: ["火灾起因", "消防措施", "逃生自救"],
     branches: [
-      { branch: "legend", items: ["legend", "predict", "highlight", "abandon", "roof", "profession", "anywhere", "generous", "castle", "deadline", "telescope"] },
-      { branch: "build", items: ["build", "justify", "muscle", "ceremony", "departure", "hug", "label", "remarkable", "seize", "tolerate"] },
-      { branch: "cash", items: ["cash", "engage", "ban", "cattle", "harvest", "height", "investigate", "scholarship", "silk", "tailor"] },
+      { branch: "cause", items: ["detect", "interview", "poverty", "smoke", "golf", "forehead", "heat", "operation", "ant", "contradictory"] },
+      { branch: "fight", items: ["pipe", "exit", "mosquito", "flame", "safe", "subscribe", "down", "semester", "ceiling", "lemon"] },
+      { branch: "escape", items: ["downstairs", "interpret", "packet", "tent", "profile", "equipment", "stair", "fireman", "priority", "specialist"] },
     ]
   },
   {
-    name: "fall",
-    center: "fall",
-    subthemes: ["娱乐与附近", "灯与禁止", "对话与面包"],
+    name: "storm",
+    center: "storm",
+    topic_group: "灾害防范",
+    subtopic: "风暴与极端天气",
+    subthemes: ["风暴类型", "极端天气", "防范措施"],
     branches: [
-      { branch: "amuse", items: ["amuse", "nearby", "lamp", "prohibit", "chief", "dialogue", "beside", "bread", "resident", "stretch", "mouse"] },
-      { branch: "fall", items: ["fall", "adjust", "cheat", "crowded", "gradually", "garlic", "humour", "pudding", "collar", "detective"] },
-      { branch: "cute", items: ["cute", "disabled", "leap", "postpone", "tobacco", "tone", "vase", "vehicle", "helicopter", "modest"] },
+      { branch: "type", items: ["awful", "strike", "guy", "hurricane", "drag", "oven", "handkerchief", "furthermore", "typhoon", "none"] },
+      { branch: "extreme", items: ["clever", "slave", "alert", "collaborate", "spy", "recreation", "kite", "cute", "apparently", "dark"] },
+      { branch: "prevent", items: ["sweep", "bunch", "passive", "ready", "murder", "reaction", "forecast", "warning", "extraordinary", "coin"] },
     ]
   },
   {
-    name: "strange",
-    center: "strange",
-    subthemes: ["陌生与陌生人", "比赛与假期", "微妙与隐藏"],
+    name: "danger",
+    center: "danger",
+    topic_group: "灾害防范",
+    subtopic: "危险与逃生",
+    subthemes: ["危险识别", "安全防范", "紧急逃生"],
     branches: [
-      { branch: "strange", items: ["strange", "stranger", "race", "holiday", "chat", "sigh", "purse", "delicate", "hide", "superb"] },
-      { branch: "throat", items: ["throat", "lady", "afford", "neither", "egg", "pace", "relief", "enthusiastic", "blow", "breath", "radiation"] },
-      { branch: "tape", items: ["tape", "hurricane", "earthquake", "frog", "shell", "lap", "exceptional", "grab", "billion", "shelter"] },
+      { branch: "identify", items: ["bully", "extension", "nevertheless", "exposure", "recommend", "postpone", "hesitate", "casual", "worse", "severe"] },
+      { branch: "prevent", items: ["boss", "diary", "super", "careful", "mouse", "polar", "parcel", "dangerous", "property", "warn"] },
+      { branch: "escape", items: ["risk", "unless", "expose", "shark", "death", "eliminate", "threat", "greedy", "fine", "resistance"] },
     ]
   },
   {
-    name: "the",
-    center: "the",
-    subthemes: ["众多与回应", "正确与产生", "紧急与财产"],
+    name: "rescue",
+    center: "rescue",
+    topic_group: "灾害防范",
+    subtopic: "救援与急救",
+    subthemes: ["救援行动", "急救技能", "医疗救护"],
     branches: [
-      { branch: "numerous", items: ["numerous", "respond", "proper", "generate", "broad", "obtain", "emergency", "fat", "firm", "recording", "receptionist"] },
-      { branch: "the", items: ["the", "agreement", "blank", "ill", "property", "rescue", "whenever", "accurate", "aloud", "severe"] },
-      { branch: "reference", items: ["reference", "sofa", "absent", "appointment", "illegal", "male", "mission", "reveal", "rural", "sensitive"] },
+      { branch: "action", items: ["grandparent", "realistic", "ok", "defence", "disability", "ambulance", "wrist", "dollar", "bleed", "turkey"] },
+      { branch: "first_aid", items: ["abuse", "boring", "quote", "discount", "logical", "internal", "alcohol", "breath", "ankle", "needle"] },
+      { branch: "medical", items: ["expansion", "studio", "chore", "pants", "teenage", "consultation", "revise", "surrounding", "amateur", "dumpling"] },
     ]
   },
   {
-    name: "be",
-    center: "be",
-    subthemes: ["对象与状态", "行为与属性", "结构与关系"],
+    name: "safety",
+    center: "safety",
+    topic_group: "灾害防范",
+    subtopic: "安全与预防",
+    subthemes: ["安全意识", "预防措施", "安全设施"],
     branches: [
-      { branch: "set", items: ["set", "shade", "alongside", "applicant", "duty", "era", "mass", "pride", "urgent", "anger"] },
-      { branch: "yield", items: ["yield", "chore", "lunar", "butcher", "identical", "court", "sufficient", "pile", "ambition", "crew", "neutral"] },
-      { branch: "be", items: ["be", "when", "get", "go", "who", "different", "here", "raise", "facilitate", "circus"] },
+      { branch: "awareness", items: ["certificate", "symbol", "tooth", "plate", "curve", "emerge", "fence", "crash", "clone", "security"] },
+      { branch: "prevent", items: ["release", "barrier", "anger", "gap", "saying", "nail", "flat", "upper", "shame", "board"] },
+      { branch: "facility", items: ["elevator", "react", "breast", "chalk", "instruction", "gymnastics", "sign", "net", "bat", "pair"] },
     ]
   },
   {
-    name: "a_an",
-    center: "a_an",
-    subthemes: ["勇气与优雅", "判断与乡村", "元素与意图"],
+    name: "damage",
+    center: "damage",
+    topic_group: "灾害防范",
+    subtopic: "损害与评估",
+    subthemes: ["损害程度", "损失评估", "修复重建"],
     branches: [
-      { branch: "courage", items: ["courage", "elegant", "judge", "countryside", "database", "element", "hat", "hence", "honest", "intention", "supplement"] },
-      { branch: "chest", items: ["chest", "nevertheless", "priority", "shut", "slice", "stadium", "bowl", "component", "mail", "virtue"] },
-      { branch: "beef", items: ["beef", "altogether", "contrast", "decrease", "double", "downtown", "grasp", "liquid", "moreover", "puzzle"] },
+      { branch: "extent", items: ["millimetre", "temporary", "everyday", "deny", "suggestion", "assess", "brilliant", "lip", "prior", "towel"] },
+      { branch: "assess", items: ["rent", "trouble", "knife", "label", "evaluate", "bound", "repair", "input", "cousin", "skip"] },
+      { branch: "repair", items: ["giant", "clarify", "insurance", "pie", "estimate", "cancel", "inspection", "iron", "ethical", "depress"] },
     ]
   },
   {
-    name: "to",
-    center: "to",
-    subthemes: ["颜色与招呼", "运动与恢复", "事件与幼儿园"],
+    name: "emergency",
+    center: "emergency",
+    topic_group: "灾害防范",
+    subtopic: "紧急应对",
+    subthemes: ["应急预案", "紧急调度", "灾后恢复"],
     branches: [
-      { branch: "pink", items: ["pink", "hi", "soccer", "react", "restore", "row", "seed", "stuff", "theft", "unless"] },
-      { branch: "look", items: ["look", "burst", "candidate", "collapse", "discrimination", "drawer", "extend", "float", "incident", "kindergarten"] },
-      { branch: "to", items: ["to", "you", "how", "quite", "fellow", "disappoint", "slip", "concentrate", "marathon", "victim"] },
+      { branch: "plan", items: ["rude", "housing", "monthly", "punish", "mrs", "withdraw", "cloth", "embarrassed", "slim", "waist"] },
+      { branch: "dispatch", items: ["camel", "bug", "rubber", "wrap", "supply", "dizzy", "chairman_chairwoman", "protest", "formal", "interrupt"] },
+      { branch: "recover", items: ["ruler", "estate", "departure", "urgent", "weekday", "noise", "cooperate", "normal", "lap", "bee"] },
     ]
   },
   {
-    name: "in",
-    center: "in",
-    subthemes: ["和平与摄影", "原始与帐篷", "能力与收入"],
+    name: "space",
+    center: "space",
+    topic_group: "宇宙探索",
+    subtopic: "太空与宇宙",
+    subthemes: ["太空环境", "航天探索", "宇宙奥秘"],
     branches: [
-      { branch: "peace", items: ["peace", "photographer", "raw", "tent", "ugly", "zoo", "thirsty", "venue", "advertise", "balloon"] },
-      { branch: "we", items: ["we", "bounce", "capable", "concrete", "consistent", "faith", "grandparent", "honour", "income", "joint"] },
-      { branch: "in", items: ["in", "order", "sure", "health", "car", "matter", "difference", "communication", "submit", "crucial"] },
+      { branch: "environment", items: ["radio", "aboard", "kiss", "frequency", "straightforward", "permanent", "bonus", "purse", "advantage", "tension"] },
+      { branch: "explore", items: ["spot", "literary", "legend", "ultimately", "broadcast", "impress", "nuclear", "launch", "accuse", "globe"] },
+      { branch: "mystery", items: ["familiar", "spacecraft", "minor", "cartoon", "orbit", "modernization", "anyway", "satellite", "rabbit", "demonstrate"] },
     ]
   },
   {
-    name: "of",
-    center: "of",
-    subthemes: ["我们的与上方", "部分与小", "享受与锁"],
+    name: "star",
+    center: "star",
+    topic_group: "宇宙探索",
+    subtopic: "星辰与天体",
+    subthemes: ["恒星类型", "星座观测", "天体演化"],
     branches: [
-      { branch: "of", items: ["of", "our", "over", "often", "part", "call", "little", "small", "play", "enjoy"] },
-      { branch: "can", items: ["can", "gate", "lock", "merely", "ours", "preference", "realistic", "shoulder", "shy", "straightforward"] },
-      { branch: "representative", items: ["representative", "threaten", "whisper", "accommodation", "acquire", "casual", "estimate", "fluent", "guidance", "injury"] },
+      { branch: "type", items: ["bright", "eye", "ski", "straight", "yellow", "servant", "glance", "shine", "somehow", "compose"] },
+      { branch: "observe", items: ["fault", "beard", "giraffe", "light", "disturb", "nest", "cautious", "lunar", "pose", "tone"] },
+      { branch: "evolve", items: ["disappointed", "distant", "proof", "flavour", "handwriting", "perspective", "ray", "marine", "toothache", "astronomer"] },
     ]
   },
   {
-    name: "and",
-    center: "and",
-    subthemes: ["日与同时", "居住与保持", "通过与更好"],
+    name: "planet",
+    center: "planet",
+    topic_group: "宇宙探索",
+    subtopic: "行星与地球",
+    subthemes: ["太阳系", "地球特征", "行星探索"],
     branches: [
-      { branch: "and", items: ["day", "while", "live", "keep", "through", "too", "better", "friend", "very", "truck"] },
-      { branch: "all", items: ["all", "organic", "behave", "oppose", "quarter", "recall", "salt", "status", "tendency", "wine"] },
-      { branch: "more", items: ["more", "adorable", "bet", "coverage", "input", "spoon", "statue", "umbrella", "web", "administration"] },
+      { branch: "solar", items: ["land", "transfer", "steak", "beneath", "cottage", "trap", "blackboard", "boot", "shut", "valid"] },
+      { branch: "earth", items: ["thus", "earth", "league", "cupboard", "romantic", "capacity", "tropical", "fork", "handle", "dynamic"] },
+      { branch: "explore", items: ["theirs", "incident", "obey", "congratulation", "ripe", "surface", "arrow", "depth", "rough", "dig"] },
     ]
   },
   {
-    name: "for",
-    center: "for",
-    subthemes: ["之后与看见", "给予与长", "每个与孩子"],
+    name: "astronaut",
+    center: "astronaut",
+    topic_group: "宇宙探索",
+    subtopic: "宇航员与航天",
+    subthemes: ["航天训练", "太空任务", "航天生活"],
     branches: [
-      { branch: "for", items: ["for", "after", "see", "give", "long", "each", "child", "being", "old", "love"] },
-      { branch: "will", items: ["will", "bell", "hometown", "cartoon", "coat", "elder", "glance", "membership", "niece", "pepper"] },
-      { branch: "like", items: ["like", "reform", "split", "tidy", "virus", "ankle", "barely", "battery", "carpet", "cease"] },
+      { branch: "train", items: ["washroom", "subjective", "frank", "hi", "nobody", "offend", "cucumber", "damp", "wrestle", "suspend"] },
+      { branch: "mission", items: ["oxygen", "enterprise", "leather", "hybrid", "occupy", "float", "secondary", "forgive", "salty", "absence"] },
+      { branch: "life", items: ["column", "outgoing", "northern", "strategy", "tape", "comprise", "fulfil", "press", "motive", "anyhow"] },
     ]
   },
   {
-    name: "it",
-    center: "it",
-    subthemes: ["年轻与想法", "另一个与从不", "心灵与足够"],
+    name: "rocket",
+    center: "rocket",
+    topic_group: "宇宙探索",
+    subtopic: "火箭与发射",
+    subthemes: ["火箭技术", "发射过程", "太空运载"],
     branches: [
-      { branch: "it", items: ["it", "young", "idea", "another", "never", "mind", "without", "enough", "report", "sense"] },
-      { branch: "good", items: ["good", "beneath", "disturb", "protein", "comprehensive", "contract", "crisis", "cruel", "distinct", "finance"] },
-      { branch: "officer", items: ["officer", "frontier", "furthermore", "gender", "gun", "hello", "overseas", "prospect", "sausage", "selfish"] },
+      { branch: "tech", items: ["separate", "cage", "exciting", "passion", "gentleman", "speed", "saucer", "boost", "due_to", "aunt"] },
+      { branch: "launch", items: ["kangaroo", "sneeze", "sigh", "hydrogen", "afterward", "tobacco", "sir", "venue", "agenda", "main"] },
+      { branch: "transport", items: ["grasp", "oppose", "hers", "cast", "amuse", "hometown", "submit", "deadline", "fool", "wi_fi"] },
     ]
   },
   {
-    name: "that",
-    center: "that",
-    subthemes: ["生命与那时", "这些与意思", "世界与因为"],
+    name: "explore",
+    center: "explore",
+    topic_group: "宇宙探索",
+    subtopic: "探索与发现",
+    subthemes: ["探索精神", "科学考察", "重大发现"],
     branches: [
-      { branch: "that", items: ["that", "life", "then", "these", "mean", "world", "because", "back", "still", "however"] },
-      { branch: "would", items: ["would", "ceiling", "guideline", "prior", "somewhat", "starve", "sweat", "tower", "valley", "withdraw"] },
-      { branch: "them", items: ["them", "chew", "civilian", "forgive", "kilo", "knee", "leisure", "logical", "metal", "net"] },
+      { branch: "spirit", items: ["frontier", "college", "absent", "examine", "appetite", "remarkable", "energetic", "introduce", "widespread", "complain"] },
+      { branch: "investigate", items: ["thorough", "curious", "capital", "desire", "patience", "discovery", "sum", "format", "ambitious", "awesome"] },
+      { branch: "discover", items: ["mystery", "ease", "contrary", "investigate", "typical", "coverage", "institution", "shall", "inner", "fascinating"] },
     ]
   },
   {
-    name: "what",
-    center: "what",
-    subthemes: ["本地与能力", "设计与种类", "鼓励与信息"],
+    name: "future",
+    center: "future",
+    topic_group: "宇宙探索",
+    subtopic: "未来与展望",
+    subthemes: ["科技展望", "未来社会", "人类前景"],
     branches: [
-      { branch: "what", items: ["what", "local", "able", "design", "kind", "encourage", "information", "likely", "send", "describe"] },
-      { branch: "where", items: ["where", "physician", "firework", "weep", "minimum", "nowhere", "optimistic", "pencil", "permanent", "petrol"] },
-      { branch: "team", items: ["team", "politics", "possession", "rugby", "scale", "silly", "splendid", "sponsor", "welfare", "worthwhile"] },
+      { branch: "tech", items: ["will", "version", "standard", "general", "rather", "method", "decade", "assistant", "approach", "can"] },
+      { branch: "society", items: ["fantastic", "we", "finding", "scientific", "describe", "recipe", "science", "understand", "could", "invest"] },
+      { branch: "prospect", items: ["institute", "topic", "basic", "final", "vision", "ahead", "ability", "already", "capable", "hence"] },
     ]
   },
   {
-    name: "do",
-    center: "do",
-    subthemes: ["应当与经验", "建议与避免", "质量与增加"],
+    name: "universe",
+    center: "universe",
+    topic_group: "宇宙探索",
+    subtopic: "宇宙与起源",
+    subthemes: ["宇宙结构", "宇宙演化", "终极问题"],
     branches: [
-      { branch: "do", items: ["do", "should", "experience", "suggest", "avoid", "quality", "add", "sometimes", "key", "act"] },
-      { branch: "way", items: ["way", "rubbish", "rude", "drone", "alcohol", "captain", "client", "needle", "resistance", "rocket"] },
-      { branch: "probably", items: ["probably", "secretary", "tail", "tomb", "victory", "cabbage", "congratulation", "cottage", "dominate", "erupt"] },
+      { branch: "structure", items: ["expense", "correct", "dimension", "horror", "region", "pilot", "administration", "economic", "expand", "modest"] },
+      { branch: "evolve", items: ["trend", "actually", "interaction", "cool", "whether", "homework", "proper", "primary", "sudden", "accept"] },
+      { branch: "question", items: ["split", "civilian", "amount", "concept", "personal", "plenty", "draft", "favour", "faint", "matter"] },
     ]
   },
   {
-    name: "with",
-    center: "with",
-    subthemes: ["大与近", "田野与线", "自然与极端"],
+    name: "telescope",
+    center: "telescope",
+    topic_group: "宇宙探索",
+    subtopic: "望远镜与观测",
+    subthemes: ["观测技术", "天文发现", "宇宙观测"],
     branches: [
-      { branch: "with", items: ["with", "large", "close", "field", "line", "natural", "extremely", "pack", "forward", "spot"] },
-      { branch: "share", items: ["share", "initiative", "violin", "collaborate", "shore", "tomato", "fancy", "ink", "inspection", "knife"] },
-      { branch: "chance", items: ["chance", "mercy", "mode", "obey", "orbit", "pancake", "sorrow", "substance", "substantial", "surf"] },
+      { branch: "tech", items: ["mirror", "identical", "dining", "criticise", "socialism", "scissors", "handbag", "schoolbag", "salesman_saleswoman", "childhood"] },
+      { branch: "discover", items: ["eraser", "pork", "mutton", "pale", "according_to", "o_clock", "fancy", "blouse", "envy", "dominate"] },
+      { branch: "observe", items: ["atlantic", "relay", "false", "chopsticks", "rejuvenate", "pardon", "africa", "yoghurt", "visible", "radiation"] },
     ]
   },
   {
-    name: "on",
-    center: "on",
-    subthemes: ["驾驶与聚焦", "到达与缓慢", "启发与检查"],
+    name: "gravity",
+    center: "gravity",
+    topic_group: "宇宙探索",
+    subtopic: "引力与物理",
+    subthemes: ["引力现象", "物理定律", "天体力学"],
     branches: [
-      { branch: "on", items: ["on", "drive", "focus", "arrive", "slow", "inspire", "check", "expert", "bite", "depend"] },
-      { branch: "minute", items: ["minute", "occasion", "operation", "sustain", "tension", "typhoon", "wool", "autonomous", "backward", "carve"] },
-      { branch: "equal", items: ["equal", "contradictory", "dawn", "dumpling", "eve", "export", "external", "fascinating", "gravity", "internal", "yoghurt"] },
-    ]
-  },
-  {
-    name: "from",
-    center: "from",
-    subthemes: ["离开与绘画", "自然与某些", "内部与有用"],
-    branches: [
-      { branch: "from", items: ["from", "away", "draw", "nature", "certain", "inside", "useful", "perhaps", "traditional", "performance", "x_ray"] },
-      { branch: "used", items: ["used", "minister", "pie", "plug", "steak", "visible", "approve", "border", "downstairs", "embarrassed", "wrist"] },
-      { branch: "pacific", items: ["pacific", "fisherman", "kit", "mankind", "mature", "modify", "motive", "noisy", "opponent", "outgoing", "penguin"] },
-    ]
-  },
-  {
-    name: "about",
-    center: "about",
-    subthemes: ["以前与事实", "说话与一切", "风险与机器"],
-    branches: [
-      { branch: "about", items: ["about", "ago", "fact", "speak", "everything", "risk", "machine", "manage", "invite", "flight", "t_shirt"] },
-      { branch: "centre", items: ["centre", "merry", "pipe", "proportion", "religion", "revise", "romantic", "salty", "sandwich", "souvenir", "stomachache"] },
-      { branch: "thus", items: ["thus", "temple", "tiger", "toilet", "towel", "tune", "volume", "waist", "wrinkle", "arise", "socialism"] },
-    ]
-  },
-  {
-    name: "as",
-    center: "as",
-    subthemes: ["努力与沿着", "曾经与几个", "思念与考虑"],
-    branches: [
-      { branch: "as", items: ["as", "effort", "along", "ever", "several", "miss", "consider", "whole", "warm", "possible", "shorts"] },
-      { branch: "past", items: ["past", "motion", "picnic", "restrict", "biscuit", "camel", "command", "exhaust", "forehead", "frank", "sex"] },
-      { branch: "appear", items: ["appear", "innocent", "laptop", "literally", "marriage", "midnight", "mild", "nationality", "occupy", "owe", "scissors"] },
-    ]
-  },
-  {
-    name: "at",
-    center: "at",
-    subthemes: ["创造与房间", "至少与空间", "成功与晚宴"],
-    branches: [
-      { branch: "at", items: ["at", "create", "room", "least", "space", "alone", "successful", "dinner", "wild", "driver", "schoolbag"] },
-      { branch: "reach", items: ["reach", "respective", "scan", "debt", "energetic", "faint", "liberty", "minor", "noodle", "polish", "salesman_saleswoman"] },
-      { branch: "gifted", items: ["gifted", "sunny", "thorough", "tissue", "worthy", "madam", "abnormal", "accent", "according_to", "africa", "mosquito"] },
-    ]
-  },
-  {
-    name: "food",
-    center: "food",
-    subthemes: ["食物与苗条", "脖子与羊", "钢铁与之后"],
-    branches: [
-      { branch: "food", items: ["food", "slim", "neck", "sheep", "steel", "afterward", "america", "antarctica", "anyhow", "apologise", "rejuvenate"] },
-      { branch: "restaurant", items: ["restaurant", "applaud", "arch", "asia", "atlantic", "a_m_", "bacon", "bark", "behalf", "belt", "recognise"] },
-      { branch: "diet", items: ["diet", "bin", "bleed", "blouse", "boot", "boring", "botanical", "bound", "boxing", "buffet", "realise"] },
-    ]
-  },
-  {
-    name: "lead",
-    center: "lead",
-    subthemes: ["价值与风筝", "欺凌与咖啡馆", "名人与筷子"],
-    branches: [
-      { branch: "value", items: ["value", "kite", "bully", "cafe", "canteen", "cap", "celebrity", "chopsticks", "cinema", "cite", "radium"] },
-      { branch: "sacrifice", items: ["sacrifice", "civilisation", "clap", "clerk", "clone", "cloudy", "column", "comic", "compose", "confucianism", "postman"] },
-      { branch: "skill", items: ["skill", "conscious", "constitution", "controversial", "costume", "cough", "council", "craft", "criticise", "curve", "pork"] },
-    ]
-  },
-  {
-    name: "fill",
-    center: "fill",
-    subthemes: ["工作日与袜子", "剃须与领土", "尊严与餐饮"],
-    branches: [
-      { branch: "weekday", items: ["weekday", "sock", "shave", "territory", "damp", "dignity", "dining", "disc", "domain", "dormitory", "ping_pong"] },
-      { branch: "silent", items: ["silent", "due_to", "election", "endangered", "enterprise", "episode", "eraser", "fertile", "fever", "flame", "p_m_"] },
-      { branch: "hamburger", items: ["hamburger", "fulfil", "giraffe", "glue", "golf", "gramme", "greedy", "guilty", "gymnastics", "handsome", "organise"] },
-    ]
-  },
-  {
-    name: "have",
-    center: "have",
-    subthemes: ["之前与学习", "转动与建立", "晚与放"],
-    branches: [
-      { branch: "have", items: ["have", "before", "study", "turn", "found", "late", "put", "every", "might", "hard", "organisation"] },
-      { branch: "last", items: ["last", "prejudice", "headline", "hydrogen", "i", "inquire", "internet", "jacket", "jeans", "jog", "o_clock"] },
-      { branch: "there", items: ["there", "justice", "kangaroo", "kiss", "kung_fu", "lantern", "league", "liberation", "luxury", "minority", "mutton"] },
+      { branch: "phenomenon", items: ["weight", "radium", "mass", "fist", "postman", "stupid", "lean", "source", "x_ray", "because"] },
+      { branch: "law", items: ["sex", "quantity", "awkward", "secretary", "conscious", "narrow", "pancake", "kilo", "constant", "lively"] },
+      { branch: "mechanics", items: ["jungle", "mature", "miracle", "migration", "motion", "attract", "rate", "fall", "hardly", "force"] },
     ]
   },
 ];
