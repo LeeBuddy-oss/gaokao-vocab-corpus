@@ -1,9 +1,9 @@
-const WORDS_URL = 'data/words.json?v=20260826ccc';
+const WORDS_URL = 'data/words.json?v=20260826ddd';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260826ccc';
-const DICT_URL = 'data/en_cn_dict.json?v=20260826ccc';
+const STATS_URL = 'data/stats.json?v=20260826ddd';
+const DICT_URL = 'data/en_cn_dict.json?v=20260826ddd';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -260,8 +260,8 @@ async function init() {
   loadStats();
   try {
     const [wr, mr, dr] = await Promise.all([
-      fetch(WORDS_URL + '?v=20260826ccc'),
-      fetch(WORDS_BASE + 'manifest.json?v=20260826ccc'),
+      fetch(WORDS_URL + '?v=20260826ddd'),
+      fetch(WORDS_BASE + 'manifest.json?v=20260826ddd'),
       fetch(DICT_URL)
     ]);
     WORDS = wr.ok ? await wr.json() : [];
@@ -475,7 +475,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260826ccc'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260826ddd'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
