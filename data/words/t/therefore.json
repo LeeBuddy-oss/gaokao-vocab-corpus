@@ -1,167 +1,139 @@
 {
   "meta": {
-    "ph": "ˈðeəfɔː(r); NAmE ˈðerfɔːr",
-    "pos": "adv.",
-    "stars": ""
+    "ph": "tjuːn; NAmE tuːn",
+    "pos": "verb;verb;verb;verb",
+    "stars": "★★"
   },
   "defs": [
     {
-      "def": "因此；所以；因而",
+      "def": "to adjust a musical instrument so that it plays at the correct pitch （为乐器）调音，校音",
       "ex": [
         {
-          "s": "“And therefore, the perception of how the forest smells changes.”",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这种影响不仅限于森林。"
-        },
-        {
-          "s": "Therefore, he was left in the care of Mrs Hill, an old lady who lived next door.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "因此，他被托付给住在隔壁的Hill太太——一位老妇人——照看。"
-        },
-        {
-          "s": "Therefore, they do not feel the satisfaction of being academically challenged.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "因此，他们感受不到学业挑战带来的满足感。"
-        },
-        {
-          "s": "Therefore, just as we need to be more thoughtful about our caloric consumption, we also need to be more thoughtful about our information consumption, resisting the temptation of the mental “junk food” in order to manage our time most effectively.",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "因此，正如我们需要更审慎地对待热量摄入，我们也需要更审慎地对待信息摄入，抵制精神“垃圾食品”的诱惑，以最有效地管理时间。"
-        },
-        {
-          "s": "Therefore, it’s not highly valued in hiring or promotion.",
-          "src": "2023北京卷·七选五",
+          "s": "The tune of the flutes.",
+          "src": "2023天津6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
-          "t": "因此，它在招聘或晋升中不被高度重视。"
+          "t": "第二周结束。"
         },
         {
-          "s": "Glowing plants could reduce this distance and therefore help save energy.",
-          "src": "2020全国I卷·阅读理解D",
+          "s": "I also thought the Chinese language sounded so beautiful, and found that I liked Chinese music, too-I just loved the movie’s theme tune, Song of the Shepherd.",
+          "src": "外研社B7 U3",
+          "cat": "waiyan",
+          "t": "我也认为中国语言听起来如此美丽，发现我喜欢中国音乐,"
+        },
+        {
+          "s": "June is the month That carries a tune.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "六月是那个带曲子的月份"
+        },
+        {
+          "s": "But then I began to hear about the work she was doing in Tanzania, a country that has many health problems, and now I am singing a different tune.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "但后来我开始听到她正在坦桑尼亚做的工作，这个国家有许多健康问题，现在我正在唱不同的曲子。"
+        }
+      ]
+    },
+    {
+      "def": "to adjust an engine so that it runs smoothly and as well as possible 调整，调节（发动机）",
+      "ex": [
+        {
+          "s": "REFLECTING contract disability tune input share mechanic stability criterion consultation Many of us have worked as volunteers before.",
+          "src": "人教选必4 U4",
+          "cat": "renjiao",
+          "t": "反思：合同、残疾、调整、投入、分享、机械、稳定、标准、咨询。我们许多人以前都做过志愿者。"
+        }
+      ]
+    },
+    {
+      "def": "to adjust the controls on a radio or television so that you can receive a particular programme or channel （给收音机、电视等）调谐，调频道",
+      "ex": [
+        {
+          "s": "But this was going to be no ordinary excursion, and millions of people tuned in to witness the take-off on TV.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "但是这不会是普通的游览，数百万人收看电视上的起飞。"
+        }
+      ]
+    },
+    {
+      "def": "to prepare or adjust sth so that it is suitable for a particular situation 调整；使协调；使适合",
+      "ex": [
+        {
+          "s": "It made the sweetest sound I'd ever heard!My heart was dancing along with its flowing tune.",
+          "src": "2023天津6月卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "发光植物可以缩短这一距离，从而有助于节省能源。"
-        },
-        {
-          "s": "33 Therefore, they don’t have time to learn how to read or write and don’t get an education.",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "33 因此，他们没有时间学习如何阅读或写字，也接受不到教育。"
-        },
-        {
-          "s": "Therefore, they can work for longer, consume more and in general be boost to the economy.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "因此，他们可以工作更长时间，消费更多，总的来说对经济起到推动作用。"
-        },
-        {
-          "s": "We are therefore not talking about adapting to a new standard, but to a constantly shifting set of conditions.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "因此我们谈论的不是去适应一个新的标准，而是去适应一组不断变化的条件。"
-        },
-        {
-          "s": "Building the terraces therefore meant that they could increase the areas in which they could grow rice.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "因此，修建梯田意味着他们可以增加种植水稻的面积。"
-        },
-        {
-          "s": "Furthermore, books and movies are two different forms of media and therefore have different rules.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "而且，书籍和电影是两种不同的媒体形式，因此有不同的规则。"
-        },
-        {
-          "s": "Therefore, the key is to keep your shower times as short as possible.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "因此，关键是要尽可能缩短淋浴时间。"
-        },
-        {
-          "s": "Therefore, cuju literally means \"to kick a ball with the foot\".",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "因此，cuju字面意思是\"用脚踢球\"."
-        },
-        {
-          "s": "Next time you need to take notes, trying by using some of these:∵ / because, ∴ / therefore, 5 / five, ↑ / up, C20 / 20th century, 20K / twenty thousand, diff.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "下一次你需要做笔记，尝试使用其中的一些:∵/因为,∴/因此,5/5,↑/上，C20/20世纪,20K/2000,diff."
+          "year": 2023,
+          "t": "它发出了我听到过的最悦耳的声音！我的心随着它流畅的旋律翩翩起舞。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "therefore just",
-      "cn": "因此 正好",
-      "type": "副词搭配",
+      "en": "tune input",
+      "cn": "调音 投入资源",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "therefore not",
-      "cn": "因此 不",
-      "type": "副词搭配",
+      "en": "tune song",
+      "cn": "调音 歌",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "and therefore have different",
-      "cn": "与 因此 有 不同的",
+      "en": "tuned in",
+      "cn": "调音 在…里",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "a different tune",
+      "cn": "一个 不同的 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and therefore help",
-      "cn": "与 因此 帮助",
+      "en": "carries a tune",
+      "cn": "拿 一个 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and therefore the perception",
-      "cn": "与 因此 该",
+      "en": "contract disability tune",
+      "cn": "合同 缺陷 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are therefore not talking",
-      "cn": "是 因此 不 说话",
+      "en": "different tune",
+      "cn": "不同的 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "building the terraces therefore",
-      "cn": "建筑物 该 因此",
+      "en": "disability tune",
+      "cn": "缺陷 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "distance and therefore",
-      "cn": "距离 与 因此",
+      "en": "flowing tune",
+      "cn": "流 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "media and therefore",
-      "cn": "与 因此",
+      "en": "its flowing tune",
+      "cn": "它的 流 调音",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "of media and therefore",
-      "cn": "的 与 因此",
+      "en": "millions of people tuned",
+      "cn": "一百万 的 人 调音",
       "type": "介词短语",
       "count": 1
     }

@@ -1,312 +1,100 @@
 {
   "meta": {
-    "ph": "teɪst; NAmE teɪst",
-    "pos": "noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
+    "ph": "ˈtenɪs; NAmE ˈtenɪs",
+    "pos": "noun",
     "stars": ""
   },
   "defs": [
     {
-      "def": "the particular quality that different foods and drinks have that allows you to recognize them when you put them in your mouth 味道；滋味",
+      "def": "a game in which two or four players use rackets to hit a ball backwards and forwards across a net on a specially marked court 网球",
       "ex": [
         {
-          "s": "It lacks authentic tastes.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它缺乏地道的味道。"
-        },
-        {
-          "s": "took into consideration the tastes of individual patients",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "考虑到了每个病人的个人喜好"
-        },
-        {
-          "s": "A taste for meat is   63   (actual) behind the change: An important part of its corn is used to feed chickens, pigs, and cattle.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "对肉的喜好是这一变化背后的___63___（actual）原因：其玉米的重要部分被用来喂养鸡、猪和牛。"
-        },
-        {
-          "s": "They have a pleasant taste.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它们味道可口。"
-        },
-        {
-          "s": "To my surprise she tasted them and said they weren't bad!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "令我惊讶的是，她尝了尝说还不错！"
-        },
-        {
-          "s": "A: How does it look/smell/taste/feel?",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "答：它看起来/闻起来/味道/感觉如何？"
-        },
-        {
-          "s": "In Samarkand, Mr Bissell admires the architectural wonders, while on his way to Bukhara he gets a taste of police methods when suspected of drug dealing.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在撒马尔罕，比塞尔先生欣赏建筑奇观，而在前往布哈拉途中，他因涉嫌毒品交易尝到了警察手段的滋味。"
-        }
-      ]
-    },
-    {
-      "def": "the sense you have that allows you to recognize different foods and drinks when you put them in your mouth 味觉",
-      "ex": []
-    },
-    {
-      "def": "a small quantity of food or drink that you try in order to see what it is like 少许尝的东西；一口；一点儿",
-      "ex": [
-        {
-          "s": "Enjoy fun history as we take you through San Francisco for a free taste of ice cream.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在旧金山免费品尝冰淇淋的同时，享受有趣的历史之旅吧。"
-        }
-      ]
-    },
-    {
-      "def": "a short experience of sth 体验；尝试",
-      "ex": []
-    },
-    {
-      "def": "a person's ability to choose things that people recognize as being of good quality or appropriate 鉴赏力；欣赏力",
-      "ex": [
-        {
-          "s": "It satisfies readers’ taste.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它满足读者的口味。"
-        },
-        {
-          "s": "The steady improvement in her taste.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "向注册办公室提出请求。"
-        }
-      ]
-    },
-    {
-      "def": "what a person likes or prefers 爱好；志趣",
-      "ex": []
-    },
-    {
-      "def": "to have a particular flavour 有 … 味道",
-      "ex": [
-        {
-          "s": "Shanghai Taste offers arguably the best soup dumplings in the area.",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Shanghai Taste可以说拥有本地区最好吃的汤包。"
-        },
-        {
-          "s": "When we arrived, we went straight a famous restaurant and ordered dishes, which tasted greatly.",
-          "src": "2024全国甲卷·第四部分 写作",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们到达后，直接走进一家有名的餐厅点菜，味道好极了。"
-        },
-        {
-          "s": "It smells too strong and it tastes a bit sour.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "闻起来太浓了，味道有点酸。"
-        },
-        {
-          "s": "She was extremely pretty, and her house was a reflection of   61   （she）, everything in good taste and in perfect order.",
-          "src": "2021浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "她极其漂亮，她的房子是___61___（她）的写照，一切都很有品位、井井有条。"
-        },
-        {
-          "s": "People should have good taste to enjoy life．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．人应有好品味才能享受生活。"
-        },
-        {
-          "s": "It's smooth and creamy with fresh strawberries, which give it a lovely sweet and fruity taste.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "它光滑而奶油般的味道，搭配新鲜的草莓，使其具有可爱的甜味和果味。"
-        },
-        {
-          "s": "In her 30s, she realized that while she had helped create more than 40 cookbooks, she didn’t know how to make the dishes that tasted of home.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在她30多岁时，她意识到，尽管她已协助创作了40多本烹饪书，她却不知道如何做出有家乡味道的菜。"
-        },
-        {
-          "s": "38     French strawberries do not taste like cardboard.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "38 法国的草莓吃起来不像纸板。"
-        }
-      ]
-    },
-    {
-      "def": "having a particular flavour 构成形容词",
-      "ex": []
-    },
-    {
-      "def": "to be able to recognize flavours in food and drink 常与 can 或 could 连用",
-      "ex": []
-    },
-    {
-      "def": "to test the flavour of sth by eating or drinking a small amount of it 尝，品（味道）",
-      "ex": [
-        {
-          "s": "Urban Sprouts’ classes, at two middle schools and two high schools, include hands-on experiments such as soil testing, flower-and-seed dissection, tastings of fresh or dried produce, and work in the garden.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“城市萌芽”的课程在两所初中和两所高中开设，内容包括动手实验，如土壤检测、花和种子的解剖、品尝新鲜或晒干的农产品，以及在菜园里劳动。"
-        },
-        {
-          "s": "When fat and salt     64     (remove) from food, the food tastes as if is missing something.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当脂肪和盐从食物中   64   （去除），食物尝起来像少了什么。"
-        },
-        {
-          "s": "Join us to taste a variety of fresh local food and drinks.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "加入我们，品尝各种新鲜的本地食物和饮品。"
-        },
-        {
-          "s": "changed artistic taste",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "改变艺术品味"
-        },
-        {
-          "s": "It was served cold and came with some sort of sticky sauce which tasted bitter and smelt really fishy!",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "它是冷着的，配了一种黏糊糊的酱汁，尝起来发苦，闻起来鱼腥味极重！"
-        }
-      ]
-    },
-    {
-      "def": "to eat or drink food or liquid 吃；喝",
-      "ex": [
-        {
-          "s": "Does a chef’s hat make the resultant food taste better?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "厨师的帽子会让做出来的食物更好吃吗？"
-        }
-      ]
-    },
-    {
-      "def": "to have a short experience of sth, especially sth that you want more of 浅尝；尝到甜头",
-      "ex": [
-        {
-          "s": "She tasted the sweetness of friendship.",
-          "src": "2022北京卷·阅读理解B",
+          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+          "src": "2022浙江6月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
-          "t": "她尝到了友谊的甜蜜。"
+          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
+        },
+        {
+          "s": "（1分）﹣I guess you want to go play tennis．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "1.（1分）——我猜你想去打网球。"
+        },
+        {
+          "s": "She's my hero because she's one of the best table tennis players in the world.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "她是我的英雄，因为她是世界上最好的乒乓球运动员之一。"
+        },
+        {
+          "s": "Wimbledon (tennis, England) Wimbledon is a treat for all tennis fans.",
+          "src": "人教B1 U5",
+          "cat": "renjiao",
+          "t": "温布尔登(英語：tennis，英語：Wimbledon)是所有网球迷的享受。"
+        },
+        {
+          "s": "It’s fresher and healthier, especially since I lead an active life.” Mei Lin often goes jogging in the evening and plays tennis at the weekend, in addition to swimming and training for a marathon in Xiamen in the autumn.",
+          "src": "人教选必2 U5",
+          "cat": "renjiao",
+          "t": "它更新鲜、更健康，尤其是我保持着活跃的生活方式。美琳除了在秋天参加厦门的游泳和马拉松训练外，还经常在晚上慢跑，周末打网球。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "taste better",
-      "cn": "味道 较好的",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "taste feel",
-      "cn": "味道 觉得",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "tasted bitter",
-      "cn": "味道 争论",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "food tastes",
-      "cn": "食物 味道",
+      "en": "play tennis",
+      "cn": "玩耍 网球",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "good taste",
-      "cn": "好的 味道",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "artistic taste",
-      "cn": "味道",
+      "en": "table tennis",
+      "cn": "桌子 网球",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "authentic tastes",
-      "cn": "味道",
+      "en": "tennis courts",
+      "cn": "网球 法院",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "fruity taste",
-      "cn": "味道",
+      "en": "tennis england",
+      "cn": "网球",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "pleasant taste",
-      "cn": "令人愉快的 味道",
+      "en": "tennis fans",
+      "cn": "网球 迷",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "readers taste",
-      "cn": "味道",
+      "en": "tennis players",
+      "cn": "网球 游戏者",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "shanghai taste",
-      "cn": "味道",
+      "en": "wimbledon tennis",
+      "cn": "网球",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "a taste for meat",
-      "cn": "一个 味道 为了 肉类",
+      "en": "for all tennis fans",
+      "cn": "为了 所有 网球 迷",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "a taste of police",
-      "cn": "一个 味道 的 警察",
+      "en": "of tennis courts",
+      "cn": "的 网球 法院",
       "type": "介词短语",
       "count": 1
     }

@@ -1,80 +1,286 @@
 {
   "meta": {
-    "ph": "θrəʊt; NAmE θroʊt",
-    "pos": "noun",
-    "stars": ""
+    "ph": "ˈjuːʒuəli; NAmE ˈjuːʒuəli",
+    "pos": "adv.",
+    "stars": "★"
   },
   "defs": [
     {
-      "def": "a passage in the neck through which food and air pass on their way into the body; the front part of the neck 咽喉；喉咙；颈前部",
+      "def": "in the way that is usual or normal; most often 通常地；正常地；一般地；经常地",
       "ex": [
         {
-          "s": "Last Friday， after he arrived at the school， instead of finding garbage to clean up， he found almost 800 students lining the hallways with handmade cards， blowing noisemakers and singing a full﹣throated happy birthday to him． It was his 80th． As he walked the long hallway， some popped out of line to hug him． They handed him so many cards that they filled several large boxes． Touched by their enthusiastic expression of affection， Mabry thanked them all． \"They're like my children，\" Mabry said．",
-          "src": "2019天津卷",
+          "s": "What does Kevin usually do to get the meaning of a word?",
+          "src": "2026新高考I卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "上周五，他到学校后，没找到要清理的垃圾，却发现有近800名学生排在教学楼走廊里，举着手制卡片，吹着闹响器，扯着嗓子给他唱生日快乐歌。那天是他80岁生日。当他走过长长的走廊时，有些人跳出队伍拥抱他。他们递给他的卡片多得装满了好几个大箱子。被他们热情流露的关爱所打动，马布里向所有人道谢。“他们就像我的孩子，”马布里说。"
+          "year": 2026,
+          "t": "凯文通常是怎么弄懂一个词的意思的？"
         },
         {
-          "s": "He told us that Maggie couldn't teach that day COZ she had a frog in her throat.",
+          "s": "“We usually think in very concrete terms when doing something on a screen,” said Simone Schnall, senior author of the study.",
+          "src": "2026新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“我们在屏幕上做事情时，通常用非常具体的方式思考，”该研究的主要作者Simone Schnall说。"
+        },
+        {
+          "s": "Articles are usually received within 1-2 days and books in 5-10 days.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "文章通常在1-2天内收到，书籍在5-10天内收到。"
+        },
+        {
+          "s": "That's why most pet cats are able to tell immediately if their owners were around any other cats, which they don't usually like.",
+          "src": "2024全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "这就是为什么大多数宠物猫能立刻察觉主人是否接触过其他猫——而它们通常不喜欢这样。"
+        },
+        {
+          "s": "It is usually positive.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它通常是积极的。"
+        },
+        {
+          "s": "39   He noted that his online students usually end up with lower grades.",
+          "src": "2024浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "39 他指出，他的在线学生通常最终成绩较低。"
+        },
+        {
+          "s": "She often asks this, and I always answer the same way—“To have Granddad back” —which usually gets her reminiscing about him.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "她常这么问，而我也总是同样的回答——“让爷爷回来”——这通常会让她陷入对他的回忆。"
+        },
+        {
+          "s": "What do people usually think of British food?",
+          "src": "2023全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "人们通常认为英国食物怎么样？"
+        },
+        {
+          "s": "But they usually have some elements in common: rather than a list of dry facts, stories have plots and they introduce characters.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "但它们通常有一些共同要素：故事不是干巴巴的事实罗列，而是有情节，并且会介绍人物。"
+        },
+        {
+          "s": "A workout partner usually needs to live close by.",
+          "src": "2022全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "锻炼伙伴通常需要住在附近。"
+        },
+        {
+          "s": "Modernity is usually achieved at the cost of elegance.",
+          "src": "2022全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "现代性通常是以优雅为代价来实现的。"
+        },
+        {
+          "s": "The things you do well usually give you greater joy.",
+          "src": "2022浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "你擅长的事情通常给你带来更大的快乐。"
+        },
+        {
+          "s": "They are usually in a hurry.",
+          "src": "2022天津4月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他们通常很匆忙。"
+        },
+        {
+          "s": "Moreover，the older you are，the more likely you will come to a resolution after an argument．This may be because more life experience usually leads to more defined priorities．You are more likely to distinguish between what matters and what does not．",
+          "src": "2021北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "此外，你年纪越大，争执后越可能达成和解。这也许是因为更多的生活阅历通常会带来更明确的是非轻重。你更有可能区分什么重要、什么不重要。"
+        },
+        {
+          "s": "When it comes to public speaking, less is usually more.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "大多数演讲的目的是让听众受益。"
+        },
+        {
+          "s": "Usually the offender would appear at the end of the day, and I would return the belonging.",
+          "src": "2020全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "几年过去了，我的第一个孙子Gordon出生了。"
+        },
+        {
+          "s": "There are usually no planned activities like games at a housewarming party.",
+          "src": "2020全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "乔迁派对通常没有像游戏这样安排好的活动。"
+        },
+        {
+          "s": "In looking into the stories of biological discovery, I also began to find something else, a collection of scientists, usually brilliant occasionally half-mad, who made the discoveries.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "第二个抽屉也开始填满了，当它填满时我在想是否还有更大的发现，不仅仅是物种，还有依赖于被认为无用的东西的生命，甚至是没有DNA的生命。"
+        },
+        {
+          "s": "Cities usually have a good reason for being where they are, like a nearby port or river.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "城市通常有充分的理由坐落在它们所在的位置，比如附近有港口或河流。"
+        },
+        {
+          "s": "When most of us get a text message on our cell phone from an unknown person, we usually say “sorry,    41    number!” and move on.",
+          "src": "2018全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "当我们大多数人在手机上收到陌生人的短信时，通常会说“抱歉，____41____号码！”然后继续。"
+        },
+        {
+          "s": "Anger is rarely looked upon as a beneficial character trait, and is usually advised to reduce it.",
+          "src": "2018北京卷·Why Do We Get Angry?",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "愤怒很少被视为一种有益的性格特质，通常人们会被建议要减少愤怒。"
+        },
+        {
+          "s": "The damage is usually more serious on the first plant, but the neighbors, relatively speaking, stay safer because they heard the alarm and knew what to do.",
+          "src": "2017全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "第一株植物受到的伤害通常更为严重，但相比之下，邻居们因为听到了警报而知道该怎么做，所以更加安全。"
+        },
+        {
+          "s": "In study after study,it appears that these chemical conversations help the neighbors .The damage is usually more serious on the first plant,but the neighbors ,relatively speaking ,stay safer because they heard the alarm and knew what to do.",
+          "src": "2017重庆卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "在一项又一项的研究中，这些化学对话似乎帮助了邻近的植物。第一棵植物受到的损害通常更严重，但相对而言，邻近的植物更安全，因为它们听到了警报并知道该怎么做。"
+        },
+        {
+          "s": "White paint is usually safe for buildings.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "白色涂料对建筑物通常是安全的。"
+        },
+        {
+          "s": "A machine with a specific purpose has another quality, one that we usually associate with living things: a wish to preserve its own existence.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一台有特定用途的机器还有另一种品质，一种我们通常与生物联系在一起的品质：保全自身存在的愿望。"
+        },
+        {
+          "s": "If you add un- or in- to a word, the new word usually means the opposite.",
           "src": "外研社B1 U2",
           "cat": "waiyan",
-          "t": "他告诉我们玛吉那天不能来上课了，因为她嗓子哑了。"
+          "t": "如果你在词前加un-或in-，新词通常意思相反。"
         },
         {
-          "s": "He was now holding his throat with his face turning red, while his desperate friends were slapping him on the back.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "他现在正捂着喉咙，脸涨得通红，而他绝望的朋友们正拍着他的背。"
-        },
-        {
-          "s": "Symptoms usually start two days to three weeks following infection, and include fever, sore throat, muscular pain and headaches.",
-          "src": "外研社B5 U6",
+          "s": "It's not as confusing as it seems: usually people from the two countries can understand each other from the context.",
+          "src": "外研社B1 U2",
           "cat": "waiyan",
-          "t": "症状通常在感染后两天到三周开始出现，包括发热、咽喉痛、肌肉疼痛和头痛。"
+          "t": "这并不像看起来那么令人困惑：通常来自这两个国家的人可以从上下文中理解彼此。"
+        },
+        {
+          "s": "Recent additions include \"selfie\" (a photograph that you take of yourself, usually with a mobile phone) and \"netizen\" (a citizen who uses the Internet).",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "最近新增的内容包括“自拍” （您自拍的照片，通常使用手机）和“网民” （使用互联网的公民）。"
+        },
+        {
+          "s": "But I usually wear my hair in a ponytail these days as it has got a lot longer.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "不过这些天我通常把头发扎成马尾，因为头发长长了很多。"
+        },
+        {
+          "s": "This is usually a statement or question at the very start of the debate.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "这通常是在辩论一开始出现的陈述或问题。"
         }
       ]
-    },
-    {
-      "def": "having the type of throat mentioned 构成形容词",
-      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "full throated",
-      "cn": "满的 咽喉",
+      "en": "usually brilliant",
+      "cn": "通常地 巧妙的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "usually positive",
+      "cn": "通常地 积极乐观的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "usually safe",
+      "cn": "通常地 处境安全",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "damage is usually",
+      "cn": "损坏 是 通常地",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "is usually more serious",
+      "cn": "是 通常地 更多 不好的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "the damage is usually",
+      "cn": "该 损坏 是 通常地",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "usually more serious",
+      "cn": "通常地 更多 不好的",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "usually think",
+      "cn": "通常地 不用于进行时",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "a workout partner usually",
+      "cn": "一个 配偶 通常地",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "sore throat",
-      "cn": "疼痛的 咽喉",
+      "en": "and is usually advised",
+      "cn": "与 是 通常地 劝告",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "throat muscular",
-      "cn": "咽喉",
+      "en": "are usually no planned",
+      "cn": "是 通常地 无 计划",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "throated happy",
-      "cn": "咽喉 感到快乐的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "frog in her throat",
-      "cn": "蛙 在…里 她的 咽喉",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "in her throat",
-      "cn": "在…里 她的 咽喉",
-      "type": "介词短语",
       "count": 1
     }
   ]

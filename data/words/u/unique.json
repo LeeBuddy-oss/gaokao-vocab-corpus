@@ -1,79 +1,285 @@
 {
   "meta": {
-    "ph": "ˈθɜːsti; NAmE ˈθɜːrsti",
+    "ph": "juˈniːk; NAmE juˈniːk",
     "pos": "adj.",
-    "stars": ""
+    "stars": "★"
   },
   "defs": [
     {
-      "def": "needing or wanting to drink 渴的；口渴的",
+      "def": "being the only one of its kind 唯一的；独一无二的",
       "ex": [
         {
-          "s": "Or too thirsty?",
-          "src": "2023浙江1月卷·书面表达",
+          "s": "As for the USA, it is almost unique among developed nations in having a population that is expected to grow by 20% from 2010—2030.",
+          "src": "2017江苏卷·Population Change",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "还是太渴了？"
-        },
-        {
-          "s": "As the tired, thirsty runners ran along, they (5) by the crowds.",
-          "src": "译林选必2 U2",
-          "cat": "yilin",
-          "t": "随着疲惫，渴渴的跑者随行，他们(5)在人群旁。"
-        },
-        {
-          "s": "The human body is 60% water and we need to drink lots of water to be healthy When we are thirsty we just go to the kitchen and fill a glass with clean water.",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "人体60%是水，我们需要喝大量水来保持健康。口渴时，我们只需去厨房倒一杯干净的水。"
+          "year": 2017,
+          "t": "至于美国，在发达国家中它几乎独一无二，其人口预计在2010至2030年间增长20%。"
         }
       ]
     },
     {
-      "def": "having a strong desire for sth 渴望；渴求；热望",
-      "ex": []
+      "def": "very special or unusual 独特的；罕见的",
+      "ex": [
+        {
+          "s": "Each ARTS FIRST festival is a unique annual celebration of the Harvard community's artistic creativity.",
+          "src": "2024全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "每一届ARTS FIRST艺术节都是对哈佛社区艺术创造力的独特年度庆典。"
+        },
+        {
+          "s": "You also have to wonder at the unique madness of a language in which a house can burn up as it burns down, in which you fill in a form by filling it out, and in which an alarm is only heard once it goes off!",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "您还必须惊讶于一种独特的疯狂语言，在这种语言中，房子可以在燃烧时燃烧，您可以通过填写表格来填写表格，并且只有在警报响起时才会听到警报！"
+        },
+        {
+          "s": "We could also say You will also feel confused about the unique craziness of English.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说，您也会对英语的独特疯狂感到困惑。"
+        },
+        {
+          "s": "Each type of literature has its unique end.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "每种文学类型都有其独特的结局。"
+        },
+        {
+          "s": "Because of its unique composition.",
+          "src": "2024天津3月卷·Passage 4",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "因为它独特的构成。"
+        },
+        {
+          "s": "The result is a diverse line of projects that each advance along their unique paths.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "结果是形成了多样化的项目系列，每个项目都沿着各自独特的路径前进。"
+        },
+        {
+          "s": "Komodo National Park, officially recognized in 1980, is popular for ecotourism because of its unique biodiversity.",
+          "src": "2021全国乙卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "科莫多国家公园于1980年正式确立，因其独特的生物多样性而成为生态游的热门地。"
+        },
+        {
+          "s": "From broadcasting to street art, these are just 4 of the 17 highly unique camps being offered.",
+          "src": "2020全国新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "从广播到街头艺术，这些只是所开设的17个极具特色的营会中的4个。"
+        },
+        {
+          "s": "Researchers from Brigham Young University discovered that fathers are in a unique position to help their adolescent children learn persistence.",
+          "src": "2020浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "来自Brigham Young大学的研究人员发现，父亲们在帮助青少年子女学习持久性方面处于独特的地位。"
+        },
+        {
+          "s": "“There are relatively few studies that stress the unique role of fathers,” Padilla-Walker said.",
+          "src": "2020浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"强调父亲独特作用的研究相对较少，\"Padilla-Walker说。"
+        },
+        {
+          "s": "her unique way to locate herself",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "A．她定位自己的独特方式"
+        },
+        {
+          "s": "Moore wants to use her unique talent to help others find their smiles.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "摩尔想用她独特的才能帮助他人找到笑容。"
+        },
+        {
+          "s": "Explore the monuments and memorials on the National Mall as your guide shares unique facts and history at each stop.",
+          "src": "2018全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "当导游在每一站分享独特的事实和历史时，探索国家广场上的纪念碑和纪念物。"
+        },
+        {
+          "s": "Frequent stops are made for photo taking as your guide offers unique facts and history.",
+          "src": "2018全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "导游会频繁停车供游客拍照，同时讲解独特的历史知识和趣闻。"
+        },
+        {
+          "s": "Its unique style.",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "其独特的风格。"
+        },
+        {
+          "s": "Using shells for money was common throughout the Pacific islands as late as the early 1900s, but Malaita is unique in that they are still used today.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "早在1900年代初，整个太平洋岛国就普遍使用贝壳来换取金钱，但Malaita之所以独特，是因为贝壳今天仍在使用。"
+        },
+        {
+          "s": "TOKNOW Magazine is a big hit in the world of children’s publishing, bringing a unique combination of challenging ideas and good fun to young fans every month.",
+          "src": "2017北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "TOKNOW 杂志在儿童出版界大受欢迎，每月都为年轻的读者粉丝带来兼具挑战性思想与趣味的独特组合。"
+        },
+        {
+          "s": "Its unique feature, from which it gets its name, is the bright red skin on the top of its head.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "它的独特特征——也是它名字的由来——是头顶上鲜红色的皮肤。"
+        },
+        {
+          "s": "The voices themselves sounded really unique-some of the female voices were so high that I was sure they could break glass!",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "声音本身听起来非常独特 一些女性的声音是如此之高 我敢肯定，他们可以打破玻璃！"
+        },
+        {
+          "s": "Because I thought ballet was more or less the same everywhere, I was totally unprepared for its unique beauty.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "因为我原以为芭蕾舞无论在哪里都大同小异，所以对它独特的美毫无准备。"
+        },
+        {
+          "s": "If you’re looking for a unique adventure, the Space and Aviation Center (SAC) is the place to be.",
+          "src": "2018北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果你在寻找独特的冒险，太空与航空中心（SAC）是不二之选。"
+        },
+        {
+          "s": "These patterns are unique to each person.",
+          "src": "2019全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这些模式对每个人都是独特的。"
+        }
+      ]
     },
     {
-      "def": "dry; in need of water 植物、田地等",
-      "ex": []
+      "def": "belonging to or connected with one particular person, place or thing （某人、地或事物）独具的，特有的",
+      "ex": [
+        {
+          "s": "The ability to judge others’ intentions is an indicator of possessing “theory of mind” which was once thought to be unique to humans.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "判断他人意图的能力是拥有 \" 思想理论 \" 的一个指标，这种理论曾经被认为是人类特有的。"
+        },
+        {
+          "s": "Perhaps the first thing that springs to mind when you think of storytelling is the fantasy land that took shape in your mind while Mom or Dad told you stories about princes, castles and monsters, with a unique voice for each character.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "想到讲故事，你脑海中浮现的第一件事，或许是爸妈用各自的嗓音为你讲王子、城堡和怪兽的故事时，你心中形成的幻想世界。"
+        }
+      ]
     }
   ],
   "chunks": [
     {
-      "en": "too thirsty",
-      "cn": "太 渴的",
+      "en": "unique to",
+      "cn": "唯一的 去",
       "type": "形容词搭配",
       "count": 2
     },
     {
-      "en": "are thirsty we",
-      "cn": "是 渴的 我们",
+      "en": "almost unique",
+      "cn": "几乎 唯一的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "highly unique",
+      "cn": "唯一的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "offers unique",
+      "cn": "主动提出 唯一的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "shares unique",
+      "cn": "共有 唯一的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "unique among",
+      "cn": "唯一的 在…之中",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "unique in",
+      "cn": "唯一的 在…里",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "unique facts",
+      "cn": "唯一的 现实",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "a unique adventure",
+      "cn": "一个 唯一的 冒险",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "the tired thirsty",
-      "cn": "该 疲倦的 渴的",
+      "en": "a unique annual",
+      "cn": "一个 唯一的 每年的",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "thirsty runners",
-      "cn": "渴的",
+      "en": "a unique combination",
+      "cn": "一个 唯一的",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "thirsty we just",
-      "cn": "渴的 我们 正好",
+      "en": "a unique position",
+      "cn": "一个 唯一的 位置",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "tired thirsty",
-      "cn": "疲倦的 渴的",
+      "en": "a unique voice",
+      "cn": "一个 唯一的 嗓音",
       "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "about the unique",
+      "cn": "大约 该 唯一的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "advance along their unique",
+      "cn": "前进 沿着 他们的 唯一的",
+      "type": "介词短语",
       "count": 1
     }
   ]

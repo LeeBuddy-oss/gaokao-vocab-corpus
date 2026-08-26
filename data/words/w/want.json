@@ -1,254 +1,1714 @@
 {
   "meta": {
-    "ph": "ˈtaɪəd; NAmE ˈtaɪərd",
-    "pos": "adj.",
+    "ph": "wɒnt; NAmE wɑːnt",
+    "pos": "verb;verb;verb;verb;verb;verb;verb;noun;verb",
     "stars": ""
   },
   "defs": [
     {
-      "def": "feeling that you would like to sleep or rest; needing rest 疲倦的；疲劳的；困倦的",
+      "def": "to have a desire or a wish for sth 要；想要；希望",
       "ex": [
         {
-          "s": "After a long non-stop flight, these passengers are tired and hungry.",
-          "src": "2022天津4月卷·阅读理解B",
+          "s": "Kevin wanted to see the dictionary.",
+          "src": "2026新高考I卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2022,
-          "t": "经过长时间的不间断飞行后，这些乘客又累又饿。"
+          "year": 2026,
+          "t": "凯文想看看那本词典。"
         },
         {
-          "s": "A simple greeting in their mother tongue can guarantee a smile from a total stranger and a tired traveller.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "用他们的母语简单问候一句，就能让一个完全陌生的人和疲惫的旅客露出微笑。"
-        },
-        {
-          "s": "After a long day at work-sure, you will feel tired, but it can help your brain stay healthy. ”",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“在漫长的工作一天之后——当然，你会觉得累，但这能帮助你的大脑保持健康。”"
-        },
-        {
-          "s": "If you’re tired out by Friday night, sleeping in on Saturday could sound wonderful.",
-          "src": "2017全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果周五晚上你已经累了，周六睡个懒觉听起来会很美妙。"
-        },
-        {
-          "s": "Last year the Foundation reported that nearly 60% of 7- to 12-year-olds said they felt tired during the day, and 15% said they had fallen asleep at school.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "去年，该基金会报告称，近60%的7至12岁儿童说他们白天感到疲倦，15%说他们在学校里睡着了。"
-        },
-        {
-          "s": "On the fourth day, I was so tired that I even didn't want to get out of bed.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "第四天，我太累了，甚至不想起床。"
-        },
-        {
-          "s": "“After a long run, you may feel like you’re in pain, you may feel tired.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"长跑之后，你可能会觉得痛苦，你可能会觉得累。"
-        },
-        {
-          "s": "Jean: I expect you are feeling tired now!",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "简：我想你现在一定感觉累了吧！"
-        }
-      ]
-    },
-    {
-      "def": "feeling that you have had enough of sb/sth because you no longer find them/it interesting or because they make you angry or unhappy 厌倦；厌烦",
-      "ex": [
-        {
-          "s": "I feared that my classmates might grow tired of my efforts or even lose patience with me.",
-          "src": "2025新高考II卷·读后续写",
+          "s": "My wife and I wanted to share our new home with family and friends by hosting a small gathering in the early summer.",
+          "src": "2025新高考I卷·读后续写",
           "cat": "gaokao",
           "year": 2025,
-          "t": "我担心同学们可能会厌倦我的努力，甚至对我失去耐心。"
+          "t": "我和妻子想在初夏举办一个小聚会，与亲友分享我们的新家。"
         },
         {
-          "s": "Alan Smith, a complexity scientist, is tired of such complaints.",
-          "src": "2023北京卷·阅读理解D",
+          "s": "He wanted to save money for pet owners.",
+          "src": "2024新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他想为宠物主人省钱。"
+        },
+        {
+          "s": "Trost also wants to introduce local writers to local riders.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "特罗斯特还想把当地作家介绍给当地乘客。"
+        },
+        {
+          "s": "He suggested I think about the difference between endings that I wanted for the characters and endings that were right for the characters, endings that satisfied the story even if they didn’t have a traditionally positive outcome.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他建议我思考：我想要的结局和适合角色的结局之间的区别——那些让故事圆满的结局，即便不是传统意义上的美满结局。"
+        },
+        {
+          "s": "From then on, if I wanted to read an ending guaranteed to be happy, I’d pick up a love romance.",
+          "src": "2024全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "从那以后，如果我想读一个保证美满的结局，我就会拿起一本爱情浪漫小说。"
+        },
+        {
+          "s": "He wanted to borrow some love stories.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他想借一些爱情故事。"
+        },
+        {
+          "s": "Despite her encouraging smile, I wanted to sink through the floor because I was unsure about its pronunciation as well as its meaning.",
+          "src": "2024天津3月卷·阅读Passage 3",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "尽管她面带鼓励的微笑，我却恨不得找个地缝钻进去，因为我不确定它的发音，也不确定它的意思。"
+        },
+        {
+          "s": "When I decided to pursue a postgraduate degree, I wanted to develop a novel research programme and quickly establish myself as an independent scientist.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当我决定攻读研究生学位时，我想开发一个新颖的研究项目，并迅速确立自己作为独立科学家的地位。"
+        },
+        {
+          "s": "I wanted to quit.",
+          "src": "2023新课标I卷·书面表达",
           "cat": "gaokao",
           "year": 2023,
-          "t": "复杂性科学家艾伦·史密斯厌倦了这类抱怨。"
+          "t": "我想过辞职。"
         },
         {
-          "s": "She was tired of working in the office.",
+          "s": "I wanted to quit.",
+          "src": "2023新课标II卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我想过辞职。"
+        },
+        {
+          "s": "The invitation is clear: Weiner wants you to pick up a coffee or tea and sit down with this book.",
+          "src": "2023全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "邀请函很明确： Weiner希望您拿起一杯咖啡或茶，坐下来阅读这本书。"
+        },
+        {
+          "s": "Later, a second student wanted to read with him, then a third.",
+          "src": "2023天津6月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "后来，第二个学生想和他一起读书，接着是第三个。"
+        },
+        {
+          "s": "Her notice included what kind of training she wanted to do, how many days a week and how many hours she wanted to spend on each session, and her age.",
+          "src": "2022全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "她的启事包括她想做哪种训练、每周几天、每次几小时，以及她的年龄。"
+        },
+        {
+          "s": "He wanted to read it by himself.",
+          "src": "2022全国新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他想自己读。"
+        },
+        {
+          "s": "Like many young people, Jessica wants to travel the globe.",
+          "src": "2022全国新高考II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "像许多年轻人一样，Jessica想去环游世界。"
+        },
+        {
+          "s": "“I just decided I wanted to go,” she says.",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "“我只是决定我想去，”她说。"
+        },
+        {
+          "s": "She wanted to work near her home.",
           "src": "2022浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2022,
-          "t": "她厌倦了在办公室工作。"
+          "t": "她想在家附近工作。"
         },
         {
-          "s": "They are tired of doing their homework.",
-          "src": "2021浙江6月卷·阅读理解B",
+          "s": "He wants to help them earn a living.",
+          "src": "2021新高考II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "他们厌倦了做家庭作业。"
+          "t": "他认为人能把工作做得更好。"
         },
         {
-          "s": "I’m just too busy and tired to cook at home!” _5 “If you’re someone who avoids animal products, you wouldn’t find anything to eat in my fridge!” 1 What do you think the saying “You are what you eat”means?",
-          "src": "外研社B2 U1",
+          "s": "I wanted to reach businesses too.",
+          "src": "2021新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我也想联系企业。"
+        },
+        {
+          "s": "But even then, what he had wasn’t quite what he wanted.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "直到1980年——在他职业生涯的第32年——他才在《空前绝后满天飞》中获得了那个似乎是为他量身定做的角色。"
+        },
+        {
+          "s": "He wanted to be like his uncle.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他想成为像他叔叔那样的人。"
+        },
+        {
+          "s": "\"The patient is left with the power to choose what he wants to talk about.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“病人有权选择他想谈什么。”"
+        },
+        {
+          "s": "As it became clearer that fashion was what I wanted to do full time, the reality of my day-to-day work at the insurance company became harder.",
+          "src": "2021天津3月卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "随着情况越来越清楚时尚是我想要全职从事的现实中日复一日在保险公司的工作变得越来越难熬。"
+        },
+        {
+          "s": "“Eudora is nine years old and has my permission to read any book she wants from the shelves, children or adults,” Mother said.",
+          "src": "2020浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"Eudora九岁了，我允许她阅读书架上任何她想读的书，无论是儿童读物还是成人读物，\"妈妈说。"
+        },
+        {
+          "s": "I wanted to run away.",
+          "src": "2020天津3月卷·书面表达",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我想逃跑。"
+        },
+        {
+          "s": "“Today，I just wanted some time to myself，”she said.",
+          "src": "2019全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "\"今天，我只是想有点属于自己的时间，\"她说。"
+        },
+        {
+          "s": "First, I wanted to be a fireman, whose uniform looked so coolly.",
+          "src": "2019全国II卷·第四部分  写作",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "起初，我想当消防员，那制服看起来酷极了。"
+        },
+        {
+          "s": "She wanted mom to read the news to her．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "A．她想让妈妈给她读新闻。"
+        },
+        {
+          "s": "Moore wants to use her unique talent to help others find their smiles.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "摩尔想用她独特的才能帮助他人找到笑容。"
+        },
+        {
+          "s": "More than that, I’d always wanted to learn chess.",
+          "src": "2018全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "不仅如此，我一直想学下棋。"
+        },
+        {
+          "s": "So imagine my   42   when he emailed me saying he wanted to come to visit me.",
+          "src": "2018全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "所以想想他发邮件说想来看望我时，我该有多么惊讶吧。"
+        },
+        {
+          "s": "They wanted to try their luck elsewhere.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们想到别处去碰碰运气。"
+        },
+        {
+          "s": "but nobody wanted to do it professionally.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "但没有人想把它当作职业来做。"
+        },
+        {
+          "s": "It was summer, and my dad wanted to treat me to a vacation like never before.",
+          "src": "2018浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "那是夏天，爸爸想带我去度一个前所未有的特别假期，好好犒赏我。"
+        },
+        {
+          "s": "If the consumer has X amount of money and wants to buy two goods A and B, she can only purchase goods totaling X.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果消费者有X金额的钱并且想购买两种商品A和B，她只能购买总计X的商品。"
+        },
+        {
+          "s": "Not the start I wanted!",
+          "src": "2018北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "不是我想要的开始！"
+        },
+        {
+          "s": "Paul Newman wanted it.",
+          "src": "2017全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "保罗·纽曼想要这个角色。"
+        },
+        {
+          "s": "He wanted you to have this.”",
+          "src": "2017全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "他希望你拥有这件东西。\""
+        },
+        {
+          "s": "Though the movie is 30 years old, most of the 250 seats were filled with teary-eyed audience wanting to say good-bye to the old building.",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "尽管这部电影已有30年历史，但250个座位几乎坐满了眼含泪水的观众，他们想向这座老建筑告别。"
+        },
+        {
+          "s": "But Sarah,  64  has taken part in shows along with top models, wants 65      (prove) that she has brains as well as beauty.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "但曾与顶级模特同台演出的萨拉，想____65____（prove）她既有美貌也有智慧。"
+        },
+        {
+          "s": "When she wanted to put the ring back on later, it was gone.",
+          "src": "2017浙江6月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "后来她想再把戒指戴上时，戒指不见了。"
+        },
+        {
+          "s": "He wanted to be helpful",
+          "src": "2017浙江11月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "关心彼此"
+        },
+        {
+          "s": "Paul Newman wanted it.",
+          "src": "2017重庆卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "保罗·纽曼想要它。"
+        },
+        {
+          "s": "He wanted you to have this.”",
+          "src": "2017重庆卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "他希望你拥有这件东西。\""
+        },
+        {
+          "s": "She wants to be a nurse.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "她想当一名护士。"
+        },
+        {
+          "s": "I want to focus on my band and have a career in music when I leave school.",
+          "src": "外研社B1 U3",
           "cat": "waiyan",
-          "t": "我只是太忙，太累了，不能在家做饭！ ”_5“如果你是避免动物产品的人，你不会在我的冰箱里找到任何东西吃！ ”1你认为“你就是你吃的东西”这句话是什么意思？"
+          "t": "我想专注于我的乐队，毕业后从事音乐事业。"
         },
         {
-          "s": "Although my legs were tired from walking around the city, I was determined to see the painting, which is often called the “Mona Lisa of the North”.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "t": "虽然我在城里走来走去腿累了，但我决心要看那幅画，它常被称为'北方的蒙娜丽莎'。"
+          "s": "I wanted to have them feel like cooking in their own home.”",
+          "src": "2024天津3月卷·阅读Passage 2",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我想让他们感觉像在自己家做饭一样。\""
         },
         {
-          "s": "He got tired of it.",
-          "src": "2022全国甲卷",
+          "s": "（18）     ， I feel blessed someone had wanted to help a stranger． Erin had gone（19）     what almost anyone would have done， finding my house on a bitterly cold night and for that I was extremely（20）     ．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "（18）_____，我感到庆幸有人愿意帮助陌生人。艾琳在寒冷刺骨的夜晚找到我家，做了几乎任何人都不会做的事（19）_____，为此我极其（20）_____。"
+        },
+        {
+          "s": "I realised I was always afraid of wanting too much.",
+          "src": "2024北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我意识到我总是害怕想要太多。"
+        },
+        {
+          "s": "He wants very much to earn some money, but I don't see what he can do.”",
+          "src": "2020全国新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他非常想赚些钱，但我看不出他能做什么。”"
+        },
+        {
+          "s": "Model the work ethic you want to see.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "为孩子示范你希望看到的敬业精神。"
+        },
+        {
+          "s": "What does Miss Johnson want her students to become?",
+          "src": "2023浙江卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "约翰逊小姐希望她的学生成为什么样的人？"
+        },
+        {
+          "s": "Solar developers want to put up panels as quickly and cheaply as possible, so they haven’t given much thought to what they put under them.",
+          "src": "2023浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "太阳能开发商希望尽可能快速廉价地安装电池板，所以他们没有过多考虑电池板下面放置什么。"
+        },
+        {
+          "s": "What does the author want to show by telling the arugula story?",
+          "src": "2022全国新高考I卷·阅读理解B",
           "cat": "gaokao",
           "year": 2022,
-          "t": "他厌倦了那份工作。"
+          "t": "作者通过讲述芝麻菜的故事想要表达什么？"
+        },
+        {
+          "s": "What does Levine want to explain by mentioning the rubber band?",
+          "src": "2022全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Levine提到橡皮筋想要解释什么？"
+        },
+        {
+          "s": "What dress size does the woman want?",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "那位女士想要什么尺码的衣服？"
+        },
+        {
+          "s": "What does the speaker's mother want her to be?",
+          "src": "2021全国甲卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "演讲者的母亲希望她成为什么样的人？"
+        },
+        {
+          "s": "What does the speaker's mother want her to be?",
+          "src": "2021全国乙卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "说话人的母亲希望她做什么？"
+        },
+        {
+          "s": "We all want to hope things will turn out fine.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我们都希望事情最终会好转。"
+        },
+        {
+          "s": "What kind of camera does the man want?",
+          "src": "2020全国II卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这位男士想要什么样的相机？"
+        },
+        {
+          "s": "What kind of camera does the man want?",
+          "src": "2020全国卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这位男士想要什么样的相机？"
+        },
+        {
+          "s": "What kind of camera does the man want?",
+          "src": "2020江苏卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这位男士想要什么样的相机？"
+        },
+        {
+          "s": "Most kids want superheroes, sports team logos or princesses, while babies often receive scenes with flowers, trees and sea creatures.",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "大多数孩子想要超级英雄、运动队标志或公主图案，而婴儿常常收到印有花卉、树木和海洋生物的图案。"
+        },
+        {
+          "s": "She might want a ticket.",
+          "src": "2019全国I卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "她可能想要一张票。"
+        },
+        {
+          "s": "I work not because I have to,   67   because I want to.”",
+          "src": "2019全国II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我工作不是因为不得不工作，而是因为我想要工作。\""
+        },
+        {
+          "s": "She might want a ticket.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "她可能想要一张票。"
+        },
+        {
+          "s": "After sharing the story online， I heard from someone，who（7）     the lady as Erin Smith． Without（8）     ，I called to thank her． She said she （9）     my wallet on a bus seat． She （10）     that going to a stranger's house was a（11）      move， but she decided to take the chance． \"If I were in that（12）     ． I would want someone to try to find me，\"she said．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "在网上分享这个故事后，有人联系我，他（7）_____那位女士是艾琳·史密斯。我（8）_____地打电话感谢她。她说她（9）_____我的钱包在公交车座位上。她（10）_____去陌生人家里是个（11）_____的举动，但她决定抓住机会。“如果我处在那种（12）_____。我会希望有人试着找到我，”她说。"
+        },
+        {
+          "s": "On a regular day， students at the school sometimes come up to him to say they're not feeling well or other times to tell him about something that happened at break． He knows most of the kids at the school， but can't name each one． Some of them make him know them． Like Faith， who often forgets her backpack in the cafeteria， and Lucy， who just wants a hug．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "平常的一天，学校里的学生有时会走到他面前说他们不舒服，有时则会告诉他课间发生的事。他认识学校里大多数孩子，却叫不出每个人的名字。有些孩子让他记住了自己，比如常常把背包忘在食堂的Faith，还有只想拥抱一下的Lucy。"
+        },
+        {
+          "s": "Do you want a room that’s full of life?",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "你想要一个充满活力的房间吗？"
+        },
+        {
+          "s": "So it pays to be sure, because you want to get it right the first time",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "因此，确定是值得的，因为您希望第一次就做对"
+        },
+        {
+          "s": "You will want to continue to focus on positive choices.",
+          "src": "2018全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "你会想要继续专注于积极的选择。"
+        },
+        {
+          "s": "When the studio didn’t want me for the film — it wanted somebody as well known as Paul — he stood up for me.",
+          "src": "2017全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当制片厂不想让我出演这部电影——他们想要一个像保罗一样有名的人——他为我挺身而出。"
+        },
+        {
+          "s": "Her father Peter 44, want her to give up school to model fulltime.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "她的父亲彼得44岁，希望她放弃学业全职做模特。"
+        },
+        {
+          "s": "I don’t want to have nothing else to fall back on when I can’t model my more.”",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "我不想在我不能再模特的时候没有任何退路。\""
+        },
+        {
+          "s": "When the studio didn’t want me for the film - it wanted somebody as well known as Paul - he stood up for me.",
+          "src": "2017重庆卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当制片厂不想让我出演这部电影——他们想要一个像保罗一样出名的人——他为我挺身而出。"
+        },
+        {
+          "s": "I always wanted my own efforts to be enough.",
+          "src": "2024北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我总是希望自己的努力就足够了。"
+        },
+        {
+          "s": "The truth is that we are lucky enough to have clean water whenever we want, but this is not the case for many people around the world.",
+          "src": "2020浙江1月卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "事实是，我们很幸运，随时都能有干净的水，但世界上许多人并非如此。"
+        },
+        {
+          "s": "I had never seen so many people wanting food.",
+          "src": "2022浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我从未见过这么多人想要食物。"
+        },
+        {
+          "s": "But the sport’s strange form does place considerable stress on the ankles and hips, so people with a history of such injuries might want to be cautious in adopting the sport.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "但这种运动奇特的形式确实给脚踝和髋部带来相当大的压力，所以有此类损伤史的人采用这项运动时可能要谨慎。"
+        },
+        {
+          "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
+          "src": "2021北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
+        },
+        {
+          "s": "I decided that I wanted to learn as many words as I could and started marking every entry I looked up with a pencil to measure my progress.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "那时我决心要尽可能多地学单词，并开始用铅笔标记每一个查过的词条，以此来衡量自己的进步。"
+        },
+        {
+          "s": "It’s not about the words themselves or how we learn them, but the wanting to know them, the curiosity and the appetite.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "关键不在于单词本身或我们怎么学它们，而在于想要了解它们的愿望、好奇心和渴望。"
+        },
+        {
+          "s": "She added that she had a line of staff at her door wanting to take the training.",
+          "src": "2021天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "她补充说，门口排了一队员工想要参加这个培训。"
+        },
+        {
+          "s": "“We could plant any trees we want to, if we just rethink our car-centric lifestyle,” she said.",
+          "src": "2026新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“只要我们重新思考以汽车为中心的生活方式，我们想种什么树都可以，”她说。"
+        },
+        {
+          "s": "“You choose which length you want and it gives you a receipt-like short story.”",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "“你选择想要的长度，它就给你一个像收据一样的短篇故事。”"
+        },
+        {
+          "s": "We need to consider how we want our future with AI to pan out.",
+          "src": "2024新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我们需要思考希望我们与人工智能的未来如何展开。"
+        },
+        {
+          "s": "“They were the best chance for many rural people to get the treatment they want. ”",
+          "src": "2024全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "“它们是许多农村人获得他们想要的治疗的最佳机会。”"
+        },
+        {
+          "s": "Your “ideal” self is what you want to be.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "你的\"理想\"自我是你想要成为的样子。"
+        },
+        {
+          "s": "Consider and keep in mind why you want to make a change, including how the change reflects your values.",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "考虑并记住你为什么要做出改变，包括这种改变如何反映你的价值观。"
+        },
+        {
+          "s": "“We can’t seem to make up our minds whether we want a modern city or a traditional one.",
+          "src": "2022全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我们似乎拿不定主意，到底是想要一座现代城市还是传统城市。"
+        },
+        {
+          "s": "What does the woman want to do?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位女士想做什么？"
+        },
+        {
+          "s": "What dress size does the woman want?",
+          "src": "2021全国乙卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "那位女士想要什么尺码的衣服？"
+        },
+        {
+          "s": "Why does Cathy want to quit her job？",
+          "src": "2020全国I卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "为什么Cathy想辞职？"
+        },
+        {
+          "s": "We all want it to accept and love ourselves.",
+          "src": "2020全国I卷·A Few Tips for Self-Acceptance",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我们都希望它接纳并爱我们自己。"
+        },
+        {
+          "s": "Why does David want to speak to Mike?",
+          "src": "2020全国II卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "David为什么要和Mike说话？"
+        },
+        {
+          "s": "Why does David want to speak to Mike?",
+          "src": "2020全国卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "David为什么要和Mike说话？"
+        },
+        {
+          "s": "They’ll have out half the   45  in the shop, and want the only style you don’t have left in a   46   colour.",
+          "src": "2020全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们会挑出店里一半的___45___，还要你唯一没有剩货的___46___颜色的那个款式。"
+        },
+        {
+          "s": "Why does David want to speak to Mike?",
+          "src": "2020江苏卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "David为什么要和Mike说话？"
+        },
+        {
+          "s": "If we want big green sky solutions, we need blue sky thinking.",
+          "src": "2020天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果我们想要大型绿色天空解决方案，我们需要富有远见的创新思维。"
+        },
+        {
+          "s": "Why does the man want to see Mr Stone?",
+          "src": "2019全国II卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "那位男士为什么要见斯通先生？"
+        },
+        {
+          "s": "Mabry works circles around all the students， cleaning up messes others don't want to touch． He doesn't expect a lot． Mabry said he hadn't planned to do much for his milestone birthday，so he was happy the students had prepared the surprise celebration．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "马布里围着所有学生忙碌，清理别人不愿碰的脏乱。他要求不多。马布里说他原本没有打算为这个里程碑式的生日做什么，所以学生们准备了这场惊喜庆祝活动，他很高兴。"
+        },
+        {
+          "s": "36   , color is the key to making a room feel the way you want it to feel.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "36   ，色彩是让房间呈现你想要的感觉的关键。"
+        },
+        {
+          "s": "They hope paper bags will be banned someday too and want shoppers to use the same reusable bags for years.",
+          "src": "2018浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们希望有一天纸袋也会被禁，并希望购物者多年来一直使用同一个可重复使用的袋子。"
+        },
+        {
+          "s": "Do we want to copy — or even worsen — the traffic of today with driverless cars?",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我们是要用无人驾驶汽车去模仿——甚至加剧——当今的交通状况吗？"
+        },
+        {
+          "s": "Now that you know why you want to wake up, consider re-arranging your morning activities.",
+          "src": "2017全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "现在你已经知道为什么要早起了，考虑重新安排你的早晨活动吧。"
+        },
+        {
+          "s": "But if governments don’t want a data economy controlled by a few giants, they must act soon.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "但如果政府不希望数据经济被少数巨头控制，就必须尽快行动。"
+        },
+        {
+          "s": "If a popular magazine you want isn't offered and the library keeps a list of such requests, they may bring it in when enough interest is shown.",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果你想要的热门杂志没有馆藏，而图书馆保留了这类请求的清单，当显示出足够兴趣时，他们可能会购进。"
+        },
+        {
+          "s": "Not too long ago, on a cold winter night, there was a teenager who wanted more screen time and a parent who said no.",
+          "src": "2025北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "不久前，在一个寒冷的冬夜，有一个想要更多屏幕时间的少年，和一位说“不行”的家长。"
+        },
+        {
+          "s": "My perfectionist tendencies were the main root of this: I wanted to be perfect at whatever I did, which obviously in life is not possible, but it consumed me.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我的完美主义倾向是主要原因：我想在所做的任何事情上都做到完美，这在生活中显然是不可能的，但它吞噬了我。"
         }
       ]
     },
     {
-      "def": "boring because it is too familiar or has been used too much 陈旧的；陈腐的；陈词滥调的",
+      "def": "to need sth 需要",
       "ex": [
         {
-          "s": "Did he get tired?",
-          "src": "2023新课标I卷·书面表达",
+          "s": "And the other is that I wanted to help people in need.",
+          "src": "2019全国II卷·第四部分  写作",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "他累了吗？"
+          "year": 2019,
+          "t": "另一个是我想帮助需要帮助的人。"
         },
         {
-          "s": "I got tired.",
-          "src": "2023新课标I卷·书面表达",
+          "s": "What do you need to do if you want to park at the stadium?",
+          "src": "2026新高考I卷·阅读理解A",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "我累了。"
+          "year": 2026,
+          "t": "如果你想在体育场停车，需要做什么？"
         },
         {
-          "s": "Did he get tired?",
-          "src": "2023新课标II卷·书面表达",
+          "s": "“It takes a lot for any student，” Whaley explains，“especially for a student who is learning English as their new language，to feel confident enough to say，‘I don’t know，but I want to know.’”",
+          "src": "2019全国I卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "他累了吗？"
+          "year": 2019,
+          "t": "“对任何学生来说都需要很大勇气，”惠利解释道，“尤其对一个把英语当作新语言来学的学生，要自信到能说‘我不知道，但我想知道’。”"
+        }
+      ]
+    },
+    {
+      "def": "to need sb to be present in the place or for the purpose mentioned 需要 … 在场",
+      "ex": [
+        {
+          "s": "If she wants to visit a new place, she will simply find a pet with transport needs there.",
+          "src": "2022浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "如果她想去一个新地方，她只需在那里找一只需要运输的宠物。"
         },
         {
-          "s": "I got tired.",
-          "src": "2023新课标II卷·书面表达",
+          "s": "She moved their family from Canada to California when she was one year old, because he wanted them to explore a new place together.",
+          "src": "2022浙江1月卷·阅读理解A",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "我累了。"
+          "year": 2022,
+          "t": "在她一岁时，她把全家从加拿大搬到了加利福尼亚，因为他想让他们一起探索一个新地方。"
+        }
+      ]
+    },
+    {
+      "def": "（用于提出建议）应该",
+      "ex": [
+        {
+          "s": "They come to camp, wanting to know what it is like to be an astronaut or a pilot, and they leave with real-world applications for what they’re studying in the classroom.",
+          "src": "2018北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们来到营地，想知道当宇航员或飞行员是什么感觉，离开时带着把课堂所学用于现实世界的实际办法。"
         },
         {
-          "s": "Perhaps she had been struggling against the window too long and was too tired?",
-          "src": "2023浙江1月卷·书面表达",
+          "s": "If you want to turn over a new leaf, though, one top tip is that it helps to choose a significant date that signals the start of a new “chapter”.",
+          "src": "2025北京卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "也许她在窗户边挣扎太久，累坏了？"
+          "year": 2025,
+          "t": "不过，如果你想重新开始，一个顶级建议是：选择一个象征新“章节”开始的重要日期会很有帮助。"
         },
         {
-          "s": "There were some tough times and I just felt extremely tired.",
-          "src": "2021新高考II卷·阅读理解B",
+          "s": "The woman should work harder from now on if she wants to get the job.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果她想得到这份工作，就应该从现在起更加努力工作。"
+        },
+        {
+          "s": "Which number should you call if you want to work with the elderly?",
+          "src": "2021天津3月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2021,
-          "t": "有一些艰难的时刻，我只是感到极度疲惫。"
+          "t": "如果你想和老年人一起工作应该拨打哪个号码？"
         },
         {
-          "s": "I keep practicing even When I’m extremely tired.",
+          "s": "Where should visitors go if they want to explore Wordsworth’s life?",
+          "src": "2020全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果游客想探索华兹华斯的生活，他们应该去哪里？"
+        },
+        {
+          "s": "What should you do if you want to attend the taster session of Jodie's fitness classes?",
+          "src": "2021新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如果您想参加Jodie健身课程的体验课，您应该怎么做？"
+        },
+        {
+          "s": "If we want to reconstruct what was actually going on that day, the shield must be questioned and interpreted as deeply and strictly as the written reports.",
+          "src": "2023全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果我们想重建当天实际发生的事情，就必须对盾牌提出质疑，并把它解释为与书面报告一样深刻和严格。"
+        },
+        {
+          "s": "Instead, she recommends applying a well-known concept among nutrition experts called the “Division of Responsibility,” where parents provide a variety of mostly healthy foods to their kids at fixed times, and the kids themselves decide what and how much they want to consume — even if that means occasionally eating more cookies than carrots.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "相反，她建议采用营养专家中一个知名的理念，叫做“责任分工”：父母在固定时间给孩子提供各种大多健康的食物，而孩子自己决定想吃什么、吃多少——即便这意味着偶尔吃更多饼干而非胡萝卜。"
+        }
+      ]
+    },
+    {
+      "def": "to feel sexual desire for sb 对 … 有性欲",
+      "ex": [
+        {
+          "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
+          "src": "2018天津卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
+        },
+        {
+          "s": "Artist Benjamin Von Wong wants you to know that it does.",
+          "src": "2021全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "今年年初，这位艺术家创作了一件名为\"吸管末日\"的作品，一对10英尺高的塑料波浪，定格在即将拍碎的瞬间。"
+        },
+        {
+          "s": "So to try to change a distinctly modern behavior, lawmakers and public health experts are reaching back to an old approach: They want to treat distracted driving like drunk driving.",
+          "src": "2022全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "所以，为了试图改变一种典型的现代行为，立法者和公共卫生专家正在回归一种旧方法：他们想把分心驾驶像酒驾一样对待。"
+        },
+        {
+          "s": "Sometimes we lose sight that the music has a wider context,” says Moran, “so I want to continue those dialogues.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“有时我们忽略了音乐有更广阔的语境，”莫兰说，“所以我想延续那些对话。”"
+        }
+      ]
+    },
+    {
+      "def": "to lack sth 缺少；缺乏",
+      "ex": [
+        {
+          "s": "He never got into trouble, though sometimes he wanted to do risky things.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "他从未惹上麻烦，尽管有时他想做一些冒险的事。"
+        },
+        {
+          "s": "He wants very much to earn some money, but I don’t see what he can do.”",
+          "src": "2020全国新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他非常想赚些钱，但我不知道他能做什么。\""
+        },
+        {
+          "s": "Then, when I was in the five grade, I wanted to be a teacher because I liked my English teacher too much.",
+          "src": "2019全国II卷·第四部分  写作",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "然后，当我上五年级的时候，我想成为一名老师，因为我非常喜欢我的英语老师。"
+        }
+      ]
+    },
+    {
+      "def": "something that you need or want 需要的东西；想望的东西",
+      "ex": [
+        {
+          "s": "“I wanted to come up with a healthy, natural way for people to drink when on the go.",
+          "src": "2022北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我想出一种健康、自然的方式，让人们在路上也能喝东西。"
+        },
+        {
+          "s": "Some of today's AI pioneers want to move on from today's world of “weak” or “narrow” AI, to create “strong” or “full” AI, or what is often called artificial general intelligence（A GI）.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "当今一些人工智能先驱想要摆脱“弱”或“窄”人工智能的当下，去创造“强”或“全”人工智能，即常被称为通用人工智能（AGI）的东西。"
+        },
+        {
+          "s": "My mother also encouraged me to make what I wanted.",
+          "src": "2020浙江7月卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "母亲也鼓励我做自己想要的东西。"
+        },
+        {
+          "s": "Thinking that the man might get away with whatever he wanted before the police arrived, Kevin decided to do something.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "想到那个人可能会在警察到达之前逃脱并得到他想要的任何东西，凯文决定采取行动。"
+        },
+        {
+          "s": "As a result, each year they received something they wanted.",
+          "src": "2022浙江6月卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "结果，每年他们都收到了自己想要的东西。"
+        },
+        {
+          "s": "37   Some people register a list of things they want or need for their new home at a local or store or stores.",
+          "src": "2020全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "37   有些人在当地的一家或多家商店登记一份他们想要或需要的新家用品清单。"
+        },
+        {
+          "s": "Those are the things I want to foster.”",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“那些就是我想要培养的东西。”"
+        },
+        {
+          "s": "The real problem relates to the possibility that artificial intelligence(AI) may become extremely good at achieving something other than what we really want.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "真正的问题与这样一种可能性有关：人工智能（AI）可能变得极其擅长实现某些并非我们真正想要的东西。"
+        },
+        {
+          "s": "It was a big deal for us to load up and go to the local library, where my kids could pick out books to read or books they wanted me to read to them.",
+          "src": "2020全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对我们来说，装满东西去当地图书馆是件大事，孩子们可以在那里挑选自己读的书，或挑出想让我读给他们听的书。"
+        },
+        {
+          "s": "As you make your lifestyle changes, you may find yourself wanting to speak up for yourself if others comment on what you’re doing, which can turn itself into a whole household debate.",
+          "src": "2023浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "当你做出生活方式改变时，如果别人评论你的做法，你可能会想为自己发声，这可能演变成全家的一场争论。"
+        },
+        {
+          "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
+          "src": "2022全国新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
+        },
+        {
+          "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
+          "src": "2022全国新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
+        },
+        {
+          "s": "And I wanted to do it alone as I always prefer it that way.”",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我想独自去，因为我一直更喜欢那样。\""
+        },
+        {
+          "s": "She never wanted me to lose that  49  as grew older.",
+          "src": "2020浙江1月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "她从不想让我在长大后失去那份49。"
+        },
+        {
+          "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
+        },
+        {
+          "s": "You just assume I want to be a lawyer, but that's only because you are a lawyer.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "你就假设我想当律师，但那只是因为你自己是律师。"
+        },
+        {
+          "s": "I want to work in a studio, not a court.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我想在工作室工作，不是在法庭上。"
+        },
+        {
+          "s": "I remember when you were his age, you said that you wanted to be a professional football player.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我记得当你在他这个年纪的时候，你说过你想成为一名职业足球运动员。"
+        },
+        {
+          "s": "I didn’t want Toby to be running around in the house, and my brother wasn’t happy with driving home with a wet dog.",
+          "src": "2025新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我不想让Toby在屋里乱跑，而我弟弟也不乐意开着车带着一只湿漉漉的狗回家。"
+        },
+        {
+          "s": "“You don’t want to get fat” was on constant repeat throughout my childhood.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“你不想变胖”这句话在我整个童年里被不断重复。"
+        },
+        {
+          "s": "Allowing kids to eat what they want also exposes them to the natural consequences of their decisions.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "允许孩子吃他们想吃的东西，也会让他们尝到自己所作决定带来的自然结果。"
+        },
+        {
+          "s": "However, if you are unsure what track you want, you still get to explore any workshop you want as part of our Explore Workshops.",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "然而，如果你不确定想走哪条轨道，你仍然可以作为我们探索工作坊的一部分，去探索任何你想去的工作坊。"
+        },
+        {
+          "s": "What does the man want to do?",
+          "src": "2024卷",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "男士想做什么？"
+        },
+        {
+          "s": "But I still don't want to replace them.",
+          "src": "2024新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "但我还是不想换掉它们。"
+        },
+        {
+          "s": "“We wanted to do something where we do a call to artists in the Bay Area to submit stories for a contest,” Trost says.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我们想做点什么，向湾区的艺术家征集故事来参赛，”Trost说。"
+        },
+        {
+          "s": "Even the biggest sausage fan doesn’t want to eat them every day.",
+          "src": "2024浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "即便是最大的香肠爱好者，也不想每天都吃香肠。"
+        },
+        {
+          "s": "Evolving an ability doesn’t automatically mean we’ll want to use it.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "进化出一种能力并不自动意味着我们会想去使用它。"
+        },
+        {
+          "s": "“There is no wrong answer,” she said, “I want to know your opinion, Addie.” Hesitantly, I said, “Maybe… both.”",
+          "src": "2024天津3月卷·阅读Passage 3",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "\"没有错误答案，\"她说，\"我想知道你的看法，艾迪。\"我犹豫地说：\"也许……两者都是。\""
+        },
+        {
+          "s": "They just want to sit all day.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他们只想整天坐着。"
+        },
+        {
+          "s": "Did he want to quit?",
+          "src": "2023新课标I卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "它想放弃吗？"
+        },
+        {
+          "s": "What does David want to do?",
+          "src": "2023卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "大卫想做什么？"
+        },
+        {
+          "s": "What does the author want to say by mentioning the e-reader?",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "作者提到电子阅读器想说明什么？"
+        },
+        {
+          "s": "Did he want to quit?",
+          "src": "2023新课标II卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "它想放弃吗？"
+        },
+        {
+          "s": "What does the man want to do on the weekend?",
+          "src": "2023全国甲卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这位男士周末想做什么？"
+        },
+        {
+          "s": "What does the man want to do on the weekend?",
+          "src": "2023全国乙卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这位男士周末想做什么？"
+        },
+        {
+          "s": "If you want to tell the history of the whole world, a history that does not privilege one part of humanity, you cannot do it through texts alone, because only some of the world has ever had texts, while most of the world, for most of the time, has not.",
+          "src": "2023全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如果你想讲述整个世界的历史，一部不偏袒任何一部分人类的历史，你就不能只依靠文字文献，因为世界上只有一部分地区曾经有过文字，而世界上大部分地区在大部分时间里都没有。"
+        },
+        {
+          "s": "What do the man and the woman both want to do?",
+          "src": "2023浙江卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这位男士和女士都想做什么？"
+        },
+        {
+          "s": "What message does the author most likely want to convey?",
+          "src": "2023天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "作者最可能想传达什么信息？"
+        },
+        {
+          "s": "Why did Ms Young want to record her parents’ recipes?(no more than 15 words)",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "杨女士为什么想记录她父母的食谱？（不超过15个词）"
+        },
+        {
+          "s": "“and I want to read it when you’re through.”",
+          "src": "2023北京卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "“而且你想读完的时候，我想读它。”"
+        },
+        {
+          "s": "What does the man probably want to do?",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位男士最可能想做什么？"
+        },
+        {
+          "s": "Do you want to be a better athlete in your favorite sport?",
+          "src": "2022全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "你想在你最喜欢的运动中成为更优秀的运动员吗？"
+        },
+        {
+          "s": "\"You want to make the homeowner feel that they made the right   55  ,\" she says.",
+          "src": "2022全国新高考II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "\"你想让房主觉得他们做出了正确的   55  ，\"她说。"
+        },
+        {
+          "s": "\"I just didn't want the boy to be hurt,\" said Henry.",
+          "src": "2022全国新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "\"我只是不想让那孩子受伤，\"Henry说。"
+        },
+        {
+          "s": "What does the man want to do?",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "男士想做什么？"
+        },
+        {
+          "s": "Well, they wanted to do something useful.",
+          "src": "2022全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "然而，不久之后，她们意识到自己承担了什么。"
+        },
+        {
+          "s": "Why does Amanda want to learn to play the guitar?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "阿曼达为什么想学弹吉他？"
+        },
+        {
+          "s": "What does the man want to do before Friday?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "那位男士在周五之前想做什么？"
+        },
+        {
+          "s": "I actually wanted to drop the class at one point, but stopped short because I didn't want to give him the satisfaction of my chickening out.",
+          "src": "2022浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我有一次其实想退掉这门课，但没退成，因为我不想让他因我的退缩而得逞。"
+        },
+        {
+          "s": "What does the man probably want to do?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位男士最可能想做什么？"
+        },
+        {
+          "s": "Of course, connecting passengers don’t want to miss their flights.",
+          "src": "2022天津4月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "当然，转机的乘客不想错过航班。"
+        },
+        {
+          "s": "He was enjoying carving things in his workshop一but he wanted to create something with more purpose.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他喜欢在工作坊里雕刻东西——但他想创作更有意义的东西。"
+        },
+        {
+          "s": "But we want to go beyond one man and explore the nature of genius itself.",
+          "src": "2021全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "但我们想超越某一个人，去探索天才本身的本质。"
+        },
+        {
+          "s": "Why did Nielsen want to be an actor?",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "尼尔森为什么想当演员？"
+        },
+        {
+          "s": "However, what my children want to do after school is pick up a screen — any screen — and stare at it for hours.",
+          "src": "2021浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "然而，我的孩子们放学后想做的，是拿起一块屏幕——任何屏幕——然后盯着它看上几个小时。"
+        },
+        {
+          "s": "The uncertainty was starting to wear on us, so I wanted to do something special.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这种不确定性开始让我们感到压力所以我想做点特别的事情。"
+        },
+        {
+          "s": "What does the author most likely want to tell us?",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "作者最想告诉我们什么？"
+        },
+        {
+          "s": "How slim we want to be.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我们想变得多么苗条。"
+        },
+        {
+          "s": "16    Do you want to be a good public speaker?",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "16    你想成为一名优秀的公开演讲者吗？"
+        },
+        {
+          "s": "People want to listen to someone who is interesting, relaxed and comfortable.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "人们想听有趣、放松、自在的人讲话。"
+        },
+        {
+          "s": "You want to be an effective public speaker.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你想成为一名有感染力的公开演讲者。"
+        },
+        {
+          "s": "If we   42   it is a door, they’ll want to go outside   43  .",
+          "src": "2020全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果我们___42___它是一扇门，他们就会想出去___43___。"
+        },
+        {
+          "s": "What does the author want to tell us by the examples in paragraph 1?",
+          "src": "2020全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "作者想用第1段中的例子告诉我们什么？"
+        },
+        {
+          "s": "If you want to have a business of your own, your local library can become a launch space for it.",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果你想有自己的业务，你的本地图书馆可以成为它的发射空间。"
+        },
+        {
+          "s": "Matt Hunt said he was \"very proud\" of his son because “when the boy gets an idea, he keeps his head down and gets on with it, and he really does want to do some good and stop young kids from getting asthma.\"",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "马特·亨特说他为儿子感到“非常自豪”，因为“当男孩有了想法时，他会埋头苦干，坚持下去，而且他真的想做点好事，防止孩子们患上哮喘。”"
+        },
+        {
+          "s": "What does Jack want to do?",
+          "src": "2019全国I卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "杰克想做什么？"
+        },
+        {
+          "s": "Dr Prinstein has also found that the qualities that made the neighbors want you on a play date-sharing, kindness, openness — carry over to later years and make you better able to relate and connect with others.",
+          "src": "2019全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "普林斯坦博士还发现，那些让邻居愿意和你一起玩的品质——分享、善良、开放——会延续到以后 years，使你更好地与他人建立联系和沟通。"
+        },
+        {
+          "s": "What does the man want the woman to do?",
+          "src": "2019全国II卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "那位男士想让那位女士做什么？"
+        },
+        {
+          "s": "There was a bit of me that didn't want to love this when everyone else on the planet did but the horror story is brilliant.",
+          "src": "2019全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "当地球上其他人都喜爱这本书时，我心里有一点不想爱上它，但这本恐怖小说太精彩了。"
+        },
+        {
+          "s": "She just doesn't want to volunteer.",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "她只是不想做志愿者。"
+        },
+        {
+          "s": "38    So, slow down and think what you really want to do at that moment.",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "38    所以，慢下来，想一想那一刻你真正想做什么。"
+        },
+        {
+          "s": "What does Jack want to do?",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "杰克想做什么？"
+        },
+        {
+          "s": "What did Bridges want to show by mentioning the bride?",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "Bridges想通过提到新娘来展示什么？"
+        },
+        {
+          "s": "（1分）﹣I guess you want to go play tennis．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "1.（1分）——我猜你想去打网球。"
+        },
+        {
+          "s": "I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"
+        },
+        {
+          "s": "Want to explore new cultures，meet new people and do something worthwhile at the same time?",
+          "src": "2019北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "想探索新文化、结识新朋友，同时做点有意义的事吗？"
+        },
+        {
+          "s": "I  41  the idea of taking the class because, after all, who doesn’t want to  42  a few dollars?",
+          "src": "2018全国I卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我___41___上课的主意，因为毕竟谁不想___42___几美元呢？"
+        },
+        {
+          "s": "Which activity will you choose if you want to go camping?",
+          "src": "2018全国II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果你想露营，会选哪项活动？"
+        },
+        {
+          "s": "Who would want to ruin their good workout by eating junk food?",
+          "src": "2018全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "谁会想通过吃垃圾食品来毁掉自己好好的锻炼成果呢？"
+        },
+        {
+          "s": "“I just want to say thank you,” he said.",
+          "src": "2018全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "加入我们品尝各种新鲜本地食品和饮料。"
+        },
+        {
+          "s": "Which event will you go to if you want to see a live music show?",
+          "src": "2018全国III卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果你想看现场音乐表演，会去哪个活动？"
+        },
+        {
+          "s": "Even after all these years, I want to get better and better.",
           "src": "2018全国III卷·七选五",
           "cat": "gaokao",
           "year": 2018,
-          "t": "我们有些人自信且渴望参加课堂活动，其他人则紧张不安。"
+          "t": "即使过了这么多年，我仍想变得越来越好。"
         },
         {
-          "s": "My fridge is usually half empty and I’m often too tired to eat much anyway.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我的冰箱通常半空着，而且我常常累得吃不下多少东西。"
+          "s": "This is why there is a   54   that if you want something done, ask a   55   person to do it.",
+          "src": "2018浙江6月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "这就是为什么有这样一种____54____：如果你想把事做成，就找一个____55____的人去做。"
+        },
+        {
+          "s": "When you want to avoid interruptions at work",
+          "src": "2017全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当你想避免工作中被打扰时"
+        },
+        {
+          "s": "Do you want to get up in time to have breakfast with your family, get in some exercise, or just be better prepared for your day?",
+          "src": "2017全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "你是想按时起床和家人一起吃早餐、做些运动，还是想更好地为新的一天做准备？"
+        },
+        {
+          "s": "Once you are clear about your reason, tell your family or roommates about the change you want to make.",
+          "src": "2017全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一旦你清楚了自己的理由，就告诉家人或室友你想做的改变。"
+        },
+        {
+          "s": "If you want time to have breakfast with your family, save some time the night before by setting out clothes, shoes, and bags.",
+          "src": "2017全国III卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "如果你想有时间和家人一起吃早餐，前一天晚上就把衣服、鞋子和包准备好来节省时间。"
+        },
+        {
+          "s": "Jordan Axani, 28, said he and his then girlfriend, Elizabeth Gallagher, booked heavily discounted round-the-world air tickets in May, but their   43    ended and he did not want her ticket to   44     .",
+          "src": "2017全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "28岁的乔丹·阿克萨尼说，他和当时的女友伊丽莎白·加拉格尔在5月份订购了大幅折扣的环球机票，但他们____结束了，他不想让这张票____。"
+        },
+        {
+          "s": "“I just want to see the ticket go to good use and for someone to   48   a lot of joy,” said Axani.",
+          "src": "2017全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“我只是想让这张机票物尽其用，让某人获得很多快乐，”阿克萨尼说。"
+        },
+        {
+          "s": "I don’t want to get too absorbed in modeling.",
+          "src": "2017全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "我不想太沉迷于模特行业。"
+        },
+        {
+          "s": "Don’t the setting make you want to visit the place?",
+          "src": "2017浙江11月卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "难道这些布景不让你想去参观那个地方吗？"
+        },
+        {
+          "s": "Does the look inspire you, and make you want to read more?",
+          "src": "2017浙江11月卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这个样子会激励你，让你想读更多吗？"
+        },
+        {
+          "s": "What does Jack want to do?",
+          "src": "2017重庆卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "Jack想做什么？"
+        },
+        {
+          "s": "When you want to avoid interruptions at work",
+          "src": "2017重庆卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "当你想避免工作中被打扰时"
+        },
+        {
+          "s": "For a long time Gabriel didn’t want to be involved in music at all.",
+          "src": "2017江苏卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "很长一段时间里，加布里埃尔根本不想涉足音乐。"
+        },
+        {
+          "s": "Few want to live without search engines or a quick delivery.",
+          "src": "2017江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "很少有人愿意生活在没有搜索引擎或快捷快递的世界里。"
+        },
+        {
+          "s": "What does the man want to cut out of paper?",
+          "src": "2017北京卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这位男士想剪纸做什么？"
+        },
+        {
+          "s": "For example, you may want to be a Pilot but can’t become one because your eyesight is not good enough.",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "例如，你可能想成为一名飞行员，但因为视力不够好而不能成为一名飞行员。"
         }
       ]
+    },
+    {
+      "def": "a situation in which there is not enough of sth; a lack of sth 缺少；缺乏；不足",
+      "ex": [
+        {
+          "s": "“I had no idea about what I’d find there and I wasn’t nervous, I just wanted to do it.",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "“我不知道会在那里发现什么，我也不紧张，我只是想去做。”"
+        }
+      ]
+    },
+    {
+      "def": "the state of being poor, not having food, etc. 贫穷；贫困；匮乏",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "tired of",
-      "cn": "疲倦的 的",
-      "type": "形容词搭配",
-      "count": 5
+      "en": "man want",
+      "cn": "人想要",
+      "type": "名词短语",
+      "count": 11
     },
     {
-      "en": "feel tired",
-      "cn": "觉得 疲倦的",
-      "type": "形容词搭配",
+      "en": "david want",
+      "cn": "要",
+      "type": "名词短语",
       "count": 4
     },
     {
-      "en": "too tired",
-      "cn": "太 疲倦的",
-      "type": "形容词搭配",
-      "count": 4
-    },
-    {
-      "en": "got tired",
-      "cn": "疲倦的",
-      "type": "形容词搭配",
+      "en": "author want",
+      "cn": "著者 要",
+      "type": "名词短语",
       "count": 3
     },
     {
-      "en": "extremely tired",
-      "cn": "通常与形容词和副词连用 疲倦的",
-      "type": "形容词搭配",
-      "count": 2
+      "en": "didn't want",
+      "cn": "要",
+      "type": "名词短语",
+      "count": 3
     },
     {
-      "en": "get tired",
-      "cn": "收到 疲倦的",
-      "type": "形容词搭配",
-      "count": 2
+      "en": "jack want",
+      "cn": "要",
+      "type": "名词短语",
+      "count": 3
     },
     {
-      "en": "tired to",
-      "cn": "疲倦的 去",
-      "type": "形容词搭配",
-      "count": 2
+      "en": "woman want",
+      "cn": "成年女子 要",
+      "type": "名词短语",
+      "count": 3
     },
     {
-      "en": "busy and tired",
-      "cn": "忙碌的 与 疲倦的",
-      "type": "形容词搭配",
-      "count": 1
-    },
-    {
-      "en": "did he get tired",
-      "cn": "做 他 收到 疲倦的",
+      "en": "don't want",
+      "cn": "要",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "a tired traveller",
-      "cn": "一个 疲倦的",
+      "en": "likely want",
+      "cn": "可能的 要",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "and a tired traveller",
-      "cn": "与 一个 疲倦的",
-      "type": "名词短语",
-      "count": 1
+      "en": "want to do",
+      "cn": "想要做",
+      "type": "动词短语",
+      "count": 5
     },
     {
-      "en": "and tired to cook",
-      "cn": "与 疲倦的 去 烹饪",
-      "type": "介词短语",
-      "count": 1
+      "en": "want sb to do",
+      "cn": "想要某人做",
+      "type": "动词短语",
+      "count": 2
     }
   ]
 }
