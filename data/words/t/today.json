@@ -1,118 +1,566 @@
 {
   "meta": {
-    "ph": "wiːp; NAmE wiːp",
-    "pos": "verb",
-    "stars": "★★"
+    "ph": "təˈdeɪ; NAmE təˈdeɪ",
+    "pos": "adverb",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "to cry, usually because you are sad （通常因悲伤）哭泣，流泪",
+      "def": "on this day 在今天；在今日",
       "ex": [
         {
-          "s": "Some mornings, Rosamond and Dorothy would arrive at the schoolhouse to find the children weeping from the cold.",
-          "src": "2022全国乙卷·阅读理解B",
+          "s": "Today, most records of biodiversity are often in the form of photos, videos, and other digital records.",
+          "src": "2024新高考I卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2022,
-          "t": "春天时，冰雪变成了泥泞。"
+          "year": 2024,
+          "t": "如今，大多数生物多样性记录往往以照片、视频和其他数字记录的形式存在。"
         },
         {
-          "s": "That night I wept.",
-          "src": "2022天津4月卷",
+          "s": "From the vehicle of horses to today's convenient transport, Chinese transport has an enormous development.",
+          "src": "2024全国甲卷·书面表达",
           "cat": "gaokao",
-          "year": 2022,
-          "t": "那天晚上我哭了。"
+          "year": 2024,
+          "t": "从马车到如今便捷的交通，中国交通取得了巨大的发展。"
         },
         {
-          "s": "Smiles imply happiness, but remember – although they might be laughing on the outside, they might be weeping on the inside.",
-          "src": "外研社B6 U1",
+          "s": "Today, there are about 2,000 or more grizzly bears in the US Their recovery has been so successful that the US Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "如今，美国大约有2000只或更多的灰熊。它们的恢复如此成功，以至于美国鱼类和野生动物管理局曾两次试图将灰熊从保护名录中移除，这将放松法律保护并允许捕猎它们。"
+        },
+        {
+          "s": "Even today Mecca's kindness continues to make me smile.",
+          "src": "2023天津6月卷·二、完型填空",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "即使在今天，麦加的善良仍然让我微笑。"
+        },
+        {
+          "s": "These sounds are still not found in the languages of many hunter-gatherer people today.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这些声音在今天许多狩猎采集民族的语言中仍然不存在。"
+        },
+        {
+          "s": "It is believed that today's children and teenagers are consuming three times the recommended level of sugar, putting them at a higher risk of the disease.",
+          "src": "2022全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "据信，如今的儿童和青少年摄入的糖是建议量的三倍，使他们患该病的风险更高。"
+        },
+        {
+          "s": "Whose graduation day is it today?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "今天是谁的毕业日？"
+        },
+        {
+          "s": "The concept of beauty today is very different from what it was in ancient Greece or the Middle Ages, and so are most of our “laws” of nature.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "如今美的概念与古希腊或中世纪时的概念大不相同，我们大多数自然\"定律\"也是如此。"
+        },
+        {
+          "s": "Today’s children spend an average of four and a half hours a day looking at screens, split between watching television and using the Internet.",
+          "src": "2021浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如今的孩子每天花在屏幕前的时间平均为四个半小时，分为看电视和上网。"
+        },
+        {
+          "s": "Today his hobby has developed into the website postcrossing.com, a social network that has grown to 575,217 registered users in 214 countries and regions since he started it 10 years ago.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如今，他的爱好已发展成一个网站 postcrossing.com——一个社交网络，自他十年前创建以来，已发展到214个国家和地区的575,217名注册用户。"
+        },
+        {
+          "s": "Today I am living a creative life as the designer of my own fashion brand.",
+          "src": "2021天津3月卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如今，作为自己时装品牌的设计师，我过着富有创造力的生活。"
+        },
+        {
+          "s": "Today, they are once again a familiar sight, playing roles that are often just as important for the community as their original purpose.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如今，它们再次成为一道熟悉的风景，扮演着对社区来说往往与其最初用途同样重要的角色。"
+        },
+        {
+          "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "过去，音响工程师在录音棚的后室工作，但如今许多声音专业人士正与其他领域的专业人士分享知识和经验，以基于我们所谓的声音现象创造新产品。"
+        },
+        {
+          "s": "In some respects, today's powerful computing machines already make our brains look weak.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在某些方面，如今强大的计算机器已经让我们的大脑显得弱小。"
+        },
+        {
+          "s": "Today, people still come and go — to see where the Canadian gold rush happened.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如今，人们仍然来来往往——来看看加拿大淘金热发生的地方。"
+        },
+        {
+          "s": "And while plastic bags may be ugly to look at, they represent a small percentage of all garbage on the ground today.z.x.xk",
+          "src": "2018浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "而且尽管塑料袋看着可能丑，但它们只占如今地面所有垃圾的很小比例。z.x.xk"
+        },
+        {
+          "s": "Today, the usage has no connection to China, nor any specific political connection.",
+          "src": "2018上海卷·Section B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如今，这个用法与中国没有任何联系，也没有任何具体的政治联系。"
+        },
+        {
+          "s": "Today, its meaning has no relation to the military.",
+          "src": "2018上海卷·Section B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如今，它的含义与军事无关。"
+        },
+        {
+          "s": "Moran says one of the problems with jazz today is that the entertainment aspect of the music has been lost.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "爵士乐变得更容易接触。"
+        },
+        {
+          "s": "“The music can’t be presented today the way it was in 1908 or 1958.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“音乐不能像1908年或1958年那样在今天呈现。”"
+        },
+        {
+          "s": "Today, Paris is back on the softball team.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "她在练习时瑟瑟发抖"
+        },
+        {
+          "s": "Today, the Longji Rice Terraces attract thousands of visitors who come to admire this great wonder created by people and nature working together.",
+          "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "微笑暗示着快乐，但请记住——虽然他们可能表面上在笑，但内心可能在哭泣。"
+          "t": "如今，龙脊梯田吸引成千上万游客前来欣赏人与自然共同创造的这一伟大奇迹。"
         },
         {
-          "s": "However, if a student does not bother to brush her hair and her eyes are red from weeping, then I can infer that there are deeper issues at work.",
-          "src": "人教选必1 U4",
-          "cat": "renjiao",
-          "t": "然而，如果一个学生懒得梳头，且眼睛因哭泣而发红，我就能推断她有更深层的问题。"
+          "s": "Today, local people use modern methods to maintain the terraces, and they attract lots of visitors from all over the country.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "如今，当地人使用现代方法来维护梯田，它们吸引了来自全国各地的众多游客。"
         },
         {
-          "s": "The people began weeping and praying.",
-          "src": "北师大选必4 U11",
-          "cat": "beishida",
-          "t": "人们开始哭泣和祈祷。"
-        },
-        {
-          "s": "They had a look of 3 panic / preparedness in their eyes and many of the younger ones were 4 wearing / weeping.Many of the older people seemed to be 5 pouring / praying.",
-          "src": "北师大选必4 U12",
-          "cat": "beishida",
-          "t": "他们眼中流露着______的神情，许多年轻人在______。许多年长的人似乎在______。"
+          "s": "Older people today, for example, can remember a time with insect-covered car windscreens after long drives.",
+          "src": "2023北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "例如，如今的老年人还能记得长途驾驶后车窗上沾满昆虫的时代。"
         }
       ]
     },
     {
-      "def": "to produce liquid 通常用于进行时",
+      "def": "at the present period 现在；当今；当代",
       "ex": [
         {
-          "s": "Verbs with SimilarMeanings Put the words in the Word Builderintotwo sob chat reply swear greet tell groups and explain their weep speak shout whisper mention difference in usage.",
-          "src": "北师大选必4 U11",
-          "cat": "beishida",
-          "t": "近义动词 将Word Builder中的词分成两组（sob, chat, reply, swear, greet, tell / weep, speak, shout, whisper, mention）并解释它们在用法上的区别。"
+          "s": "As Alice Black points out, today’s parents’ fear of letting kids do more housework has added to their inability to feel competent and, thus, confident in themselves.",
+          "src": "2025北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "正如Alice Black所指出的，当今父母害怕让孩子做更多家务，这加剧了他们无法感到胜任、从而无法自信的问题。"
+        },
+        {
+          "s": "For Canaan Elementary’s second grade in Patchogue, N.Y.，today is speech day ,and right now it’s Chris Palaez’s turn.",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "对于纽约州帕乔格市卡南小学二年级来说，今天是演讲日，现在轮到克里斯·帕拉兹了。"
+        },
+        {
+          "s": "Do we want to copy — or even worsen — the traffic of today with driverless cars?",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我们是要用无人驾驶汽车去模仿——甚至加剧——当今的交通状况吗？"
+        },
+        {
+          "s": "Policymakers should start thinking now about how to make sure the appearance of driverless vehicles doesn’t extend the worst aspects of the car-controlled transportation system we have today.",
+          "src": "2018北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "政策制定者现在就应该开始思考，如何确保无人驾驶车辆的出现不会放大我们今天这种以汽车为主导的交通体系中最糟糕的方面。"
+        },
+        {
+          "s": "When the house was built, it was much   59   （small）than it is today.",
+          "src": "2021浙江6月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "房子建造时比现在   59   （小/small）得多。"
+        },
+        {
+          "s": "The loss of what travel offers would be unacceptable in today’s world.",
+          "src": "2024新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在当今世界，失去旅行带来的一切是不可接受的。"
+        },
+        {
+          "s": "Today’s world is not an easy adjustment for young adults.",
+          "src": "2020浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "当今世界对年轻人来说并不容易适应。"
+        },
+        {
+          "s": "Some of today's AI pioneers want to move on from today's world of “weak” or “narrow” AI, to create “strong” or “full” AI, or what is often called artificial general intelligence（A GI）.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "当今一些人工智能先驱想要摆脱“弱”或“窄”人工智能的当下，去创造“强”或“全”人工智能，即常被称为通用人工智能（AGI）的东西。"
+        },
+        {
+          "s": "“Today, many Chinese people are learning Western styles and theories rather than focusing on Chinese traditions.",
+          "src": "2018全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如今，许多中国人正在学习西方的风格和理论，而不是专注于中国传统。"
+        },
+        {
+          "s": "In fact, in an interview, an important question to ask is: “ What would be expected of me as an employee?” In today's tough 'job market, young job seekers need to provide a potential employer with good reasons to hire them.",
+          "src": "2018上海卷·Becoming an Attractive Employee",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "事实上，在面试中，一个要问的重要问题是：“作为雇员，我会被期望做什么？”在当今严峻的就业市场中，年轻的求职者需要向潜在雇主提供充分的理由来雇用他们。"
         }
       ]
+    },
+    {
+      "def": "this day 今天；今日",
+      "ex": [
+        {
+          "s": "Today, we will only be doing the first nine.",
+          "src": "2026新高考II卷·语法填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "今天我们只练前九式。"
+        },
+        {
+          "s": "We need to exit the things that don’t work anymore to be able to enter the ones that make sense for who we are today.",
+          "src": "2026北京卷·写作问答",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我们需要放弃那些不再有效的事情，才能进入那些对我们今天来说有意义的事物。"
+        },
+        {
+          "s": "What will the speakers do today?",
+          "src": "2024卷",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "说话人今天将做什么？"
+        },
+        {
+          "s": "What will the weather be like today?",
+          "src": "2024卷",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "今天天气会怎样？"
+        },
+        {
+          "s": "If I asked what she had for lunch, she might say, “Oh, the weather has been lovely today. ” She seemed to recycle the same handful of answers to my questions.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "如果我问她午饭吃了什么，她可能会说：\"哦，今天天气真好。\"她似乎总在用同样那几个答案应付我的问题。"
+        },
+        {
+          "s": "His usual big toothy smile was absent today.",
+          "src": "2022全国新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他今天惯常那种露齿大笑不见了。"
+        },
+        {
+          "s": "His usual big toothy smile was absent today.",
+          "src": "2022全国新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他今天惯常那种露齿大笑不见了。"
+        },
+        {
+          "s": "Walking through the streets of Brooklyn today, I am no longer confused by this city’s sounds and smells.",
+          "src": "2022浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "今天走在布鲁克林的街道上，我不再对这个城市的声音和气味感到困惑。"
+        },
+        {
+          "s": "Sometimes it's hard to make a change, but I'm so glad I set the wheels of change in motion with that very small first step because it has led me to where I am today.",
+          "src": "2021天津3月卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "有时候很难做出改变，但我很高兴我把变革的轮子 和这个很小的第一步一起启动，因为它让我走到今天的地步。"
+        },
+        {
+          "s": "How did the man feel about his performance today?",
+          "src": "2020全国I卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "这个人对自己今天的表现感觉如何？"
+        },
+        {
+          "s": "You have a job, earned your degree, and you got out of bed today.",
+          "src": "2020全国I卷·A Few Tips for Self-Acceptance",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "你有工作，拿到了学位，而且今天你起了床。"
+        },
+        {
+          "s": "Today I tried cooking a simply dish myself.",
+          "src": "2020全国I卷·短文改错",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "今天我试着自己做了道简单的菜。"
+        },
+        {
+          "s": "The median age of an American in 1950   56   （be） 30 -- today it is 41 and is expected   57   （increase） to 42 by 2050.",
+          "src": "2020浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "1950年美国人的年龄中位数___56___（be）30岁——今天是41岁，预计到2050年___57___（increase）到42岁。"
+        },
+        {
+          "s": "For Japan, the   58   （number） are more striking -- 22 in 1950, 46 today and 53 in 2050.",
+          "src": "2020浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对日本来说，  58   （数字）更惊人——1950年22，今天46，2050年53。"
+        },
+        {
+          "s": "A child born in the US today has   63   very realistic chance of living beyond 100 and needs to plan accordingly.",
+          "src": "2020浙江1月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "今天在美国出生的孩子有___63___非常现实的机会活过100岁，因此需要相应地规划。"
+        },
+        {
+          "s": "The old methods still work today.",
+          "src": "2020浙江7月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "老方法今天仍然有效。"
+        },
+        {
+          "s": "Ancient people laid economic foundations for people today.",
+          "src": "2020天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "古代人为今天的人们奠定了经济基础。"
+        },
+        {
+          "s": "But all of today's excited discussion about these possibilities presupposes the fact that we will be able to build these systems.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "但今天关于这些可能性的所有兴奋讨论，都预设了我们将能够建造这些系统这一事实。"
+        },
+        {
+          "s": "But he’s, nervous.“I’m here to tell you today why you should … should…”Chris trips on the“-ld,”a. pronunciation difficulty for many non-native English speakers.",
+          "src": "2019全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "但他很紧张。“我今天来是要告诉你们为什么你们应该……应该……”克里斯在“-ld”上绊住了，这是许多非英语母语者的发音难点。"
+        },
+        {
+          "s": "Understanding history is vital to understanding ourselves as a people and as a nation． History is much more than the study of dusty old objects and events long past． It is an essential part of who we are today and who we will become． Thornton Middle School History Fair Competition makes understanding history exciting， engaging， and fun!",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "理解历史对理解我们作为一个民族、一个国家的自我至关重要。历史远不止是对尘封旧物与久远事件的研究。它是我们今天之所是、未来之将是的本质部分。桑顿中学历史博览会竞赛让理解历史变得激动人心、引人入胜且充满乐趣！"
+        },
+        {
+          "s": "Today Dickens’ greatness is unchallenged.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "今天狄更斯的伟大地位无可争议。"
+        },
+        {
+          "s": "Some 60,000 novels were published during the Victorian age, from 1837 to1901; today a casual reader might be able to name a half-dozen of them.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在维多利亚时代，从1837年到1901年，出版了约6万本小说；今天，一个随便的读者也许可以将其中的六分之一命名。"
+        },
+        {
+          "s": "Today, we will tell you about words that English has taken from Chinese.",
+          "src": "2018上海卷·Section B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "今天，我们将向大家介绍英文从中文中汲取的文字。"
+        },
+        {
+          "s": "Today, on an island in the Pacific, a specific type of shell still serves as currency — and some people there are even hoarding it, just like Bitcoin moguls, convinced that one day, it will make them wealthy beyond imagination.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "今天，在太平洋的一个岛屿上，一种特定的贝壳仍然作为货币使用——有些人甚至囤积它，就像比特币模具一样，相信有一天，它将使他们变得富有，超越想象。"
+        },
+        {
+          "s": "Using shells for money was common throughout the Pacific islands as late as the early 1900s, but Malaita is unique in that they are still used today.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "早在1900年代初，整个太平洋岛国就普遍使用贝壳来换取金钱，但Malaita之所以独特，是因为贝壳今天仍在使用。"
+        },
+        {
+          "s": "Today, the debate continues over how well the gray wolf is fitting in at Yellowstone.",
+          "src": "2017全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "今天，关于灰狼在黄石的适应情况如何，争论仍在继续。"
+        },
+        {
+          "s": "So even if emissions were to begin to decrease today, we would still face the challenge of adapting to climate change.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "所以即使排放量从今天开始减少，我们仍将面临适应气候变化的挑战。"
+        },
+        {
+          "s": "How does the speaker get to her office today?",
+          "src": "2017北京卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "说话人今天怎么去办公室？"
+        },
+        {
+          "s": "Today I'm joined by a former student of our school, Lisa Osborne.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "今天和我一起的是我们学校的一位往届学生，丽莎·奥斯本。"
+        },
+        {
+          "s": "I am no longer a child… (picture e) Stuart, did you leave your basketball in my office today?",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我不再是孩子了…（图 e）Stuart，你今天把篮球落在我办公室了吗？"
+        },
+        {
+          "s": "\"My father told me to meet you today.",
+          "src": "外研社B1 U4",
+          "cat": "waiyan",
+          "t": "“我父亲让我今天来见你。”"
+        },
+        {
+          "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
+          "src": "2022全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这项研究推翻了“人类约30万年前进化时所有语音都已存在”的流行观点。“我们使用的语音集合自人类出现以来未必保持稳定，我们今天发现的极其多样的语音，是生物变化和文化演变等事物复杂相互作用的产物，”研究团队成员史蒂文·莫兰说。"
+        },
+        {
+          "s": "“Today，I just wanted some time to myself，”she said.",
+          "src": "2019全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "\"今天，我只是想有点属于自己的时间，\"她说。"
+        },
+        {
+          "s": "Today Pacific Science Center serves more than 1.3 million people a year and beings inquiry-based science education to classrooms and community events all over Washington State.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "今天，太平洋科学中心每年为130多万人提供服务，为华盛顿州各地的教室和社区活动提供以调查为基础的科学教育。"
+        }
+      ]
+    },
+    {
+      "def": "the present period of time 现在；当今；当代",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "weeping on",
-      "cn": "哭泣 在…上",
+      "en": "today local",
+      "cn": "在今天 地方的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "today pacific",
+      "cn": "在今天 平静的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "today there",
+      "cn": "在今天 那里",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "today why",
+      "cn": "在今天 为何",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "people today",
+      "cn": "人 在今天",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "absent today",
+      "cn": "缺席 在今天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "office today",
+      "cn": "办公室 在今天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "smile was absent today",
+      "cn": "微笑 是 缺席 在今天",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "today i am",
+      "cn": "在今天 我 是",
       "type": "动词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "and explain their weep",
-      "cn": "与 解释 他们的 哭泣",
-      "type": "名词短语",
-      "count": 1
+      "en": "today we will",
+      "cn": "在今天 我们 将",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "are red from weeping",
-      "cn": "是 红的 从 哭泣",
+      "en": "about his performance today",
+      "cn": "大约 他的 表演 在今天",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "began weeping",
-      "cn": "哭泣",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "children weeping",
-      "cn": "哭泣",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "explain their weep",
-      "cn": "解释 他们的 哭泣",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "find the children weeping",
-      "cn": "发现 该 哭泣",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "from weeping",
-      "cn": "从 哭泣",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "ones were wearing weeping",
-      "cn": "在 … 上 是 穿 哭泣",
-      "type": "名词短语",
       "count": 1
     }
   ]
