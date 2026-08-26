@@ -2,7 +2,8 @@
   "meta": {
     "ph": "bɪˈkɒz; NAmE bɪˈkɔːz",
     "pos": "conj.",
-    "stars": ""
+    "stars": "",
+    "struct": "连词 + 介词（because of）"
   },
   "defs": [
     {
@@ -865,5 +866,12 @@
       ]
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "because of",
+      "cn": "因为；由于",
+      "count": 14,
+      "type": "介词短语"
+    }
+  ]
 }
