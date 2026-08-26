@@ -331,22 +331,58 @@
   ],
   "chunks": [
     {
+      "en": "extremely happy",
+      "cn": "通常与形容词和副词连用 感到快乐的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "very happy",
+      "cn": "非常 感到快乐的",
+      "type": "形容词搭配",
+      "count": 2
+    },
+    {
+      "en": "happy to",
+      "cn": "感到快乐的 去",
+      "type": "形容词搭配",
+      "count": 7
+    },
+    {
       "en": "feel happy",
       "cn": "觉得 感到快乐的",
-      "type": "名词短语",
+      "type": "形容词搭配",
+      "count": 4
+    },
+    {
+      "en": "happy with",
+      "cn": "感到快乐的 与",
+      "type": "形容词搭配",
       "count": 2
+    },
+    {
+      "en": "appear happy",
+      "cn": "不用于进行时 感到快乐的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "goodbyes happy",
+      "cn": "再见 感到快乐的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "happy about",
+      "cn": "感到快乐的 大约",
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "happy birthday",
       "cn": "感到快乐的 生日",
       "type": "名词短语",
       "count": 2
-    },
-    {
-      "en": "goodbyes happy",
-      "cn": "再见 感到快乐的",
-      "type": "名词短语",
-      "count": 1
     },
     {
       "en": "happy engineer",

@@ -263,28 +263,46 @@
   ],
   "chunks": [
     {
-      "en": "black rhino",
-      "cn": "黑的",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
       "en": "turned black",
       "cn": "转动 黑的",
-      "type": "名词短语",
-      "count": 4
+      "type": "形容词搭配",
+      "count": 8
     },
     {
-      "en": "black box",
-      "cn": "黑的 尤用于构成复合词",
-      "type": "名词短语",
+      "en": "black and white",
+      "cn": "黑的 与 白的",
+      "type": "形容词搭配",
+      "count": 5
+    },
+    {
+      "en": "black within",
+      "cn": "黑的 在…内",
+      "type": "形容词搭配",
       "count": 2
     },
     {
-      "en": "black hair",
-      "cn": "黑的 毛发",
-      "type": "名词短语",
-      "count": 2
+      "en": "40th black",
+      "cn": "黑的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "alice black",
+      "cn": "黑的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "not black",
+      "cn": "不 黑的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "remains black",
+      "cn": "仍然是 黑的",
+      "type": "形容词搭配",
+      "count": 1
     },
     {
       "en": "some black",
@@ -293,28 +311,40 @@
       "count": 2
     },
     {
-      "en": "40th black",
-      "cn": "黑的",
-      "type": "名词短语",
+      "en": "black box",
+      "cn": "黑的 尤用于构成复合词",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "black hair",
+      "cn": "黑的 毛发",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "black hat",
+      "cn": "黑的 帽子",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "alice black",
+      "en": "black read",
+      "cn": "黑的 不用于进行时",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "black rhino",
       "cn": "黑的",
       "type": "名词短语",
-      "count": 1
+      "count": 4
     },
     {
       "en": "big black",
       "cn": "大的 黑的",
       "type": "名词短语",
       "count": 1
-    },
-    {
-      "en": "black within",
-      "cn": "黑的 在…内",
-      "type": "介词短语",
-      "count": 2
     }
   ]
 }

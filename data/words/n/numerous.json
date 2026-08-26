@@ -1,93 +1,114 @@
 {
   "meta": {
-    "ph": "ˈnjuːmərəs; NAmE ˈnuːmərəs",
+    "ph": "ˈnɔːðən; NAmE ˈnɔːrðərn",
     "pos": "adj.",
     "stars": "★"
   },
   "defs": [
     {
-      "def": "existing in large numbers SYN many 众多的；许多的",
+      "def": "located in the north or facing north; connected with or typical of the north part of the world or a region 北方的；向北的；北部的",
       "ex": [
         {
-          "s": "He has won numerous awards for his works, including an Academy Award, a Grammy Award and a BAFTA Award.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "他的作品赢得了无数奖项，包括奥斯卡奖、格莱美奖和英国电影学院奖。"
+          "s": "With life in the unforgiving Northern Canada being so demanding, the Inuit’s practical approach to morality made good sense.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "鉴于加拿大北部严酷的生活环境如此苛刻，因纽特人务实的道德观很有道理。"
         },
         {
-          "s": "The poem has been set to music by a number of artists and used in numerous television commercials.",
-          "src": "外研社B7 U1",
-          "cat": "waiyan",
-          "t": "这首诗已被许多艺术家设定为音乐，并在许多电视广告中使用。"
+          "s": "By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies.",
+          "src": "2023全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "到20世纪70年代初，在定居者几个世纪残酷而持续的捕猎之后，在北部落基山脉，仅剩600到800只灰熊栖息在它们昔日活动范围的区区2%的土地上。"
         },
         {
-          "s": "They encounter numerous characters such as their departed grandparents, trees that hate mankind, the greedy and ugly Luxuries, and children waiting to be born.",
-          "src": "外研社B7 U2",
-          "cat": "waiyan",
-          "t": "他们遇到了无数的人物，比如他们已故的祖父母、憎恨人类的树、贪婪丑陋的奢侈享乐，以及等待出生的孩子们。"
+          "s": "No area was spared or unaffected, from the foggy northern coast to the Sierra Nevada Mountains to the San Gabriels above Los Angeles.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "从多雾的北部海岸，到内华达山脉，再到洛杉矶上方的圣加布里埃尔山，没有哪个地区幸免或不受影响。"
         },
         {
-          "s": "Cassini made numerous trips around Saturn so it could / must collect data.",
-          "src": "外研社B7 U6",
+          "s": "It runs for several hundred metres on the eastern coast of Northern Ireland.",
+          "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "卡西尼号绕土星飞行了许多圈，这样它就能/必须收集数据。"
+          "t": "它在北爱尔兰东海岸延伸数百米。"
         },
         {
-          "s": "Archaeologists refer to this time when numerous Maya cities flourished throughout much of Central America as the Classic Period.",
-          "src": "外研社B7 U6",
+          "s": "I fell in love with northern WA and have been back six times.",
+          "src": "外研社B2 U5",
           "cat": "waiyan",
-          "t": "考古学家将众多玛雅城市在中美洲大部分地区繁荣兴盛的这段时期称为古典时期。"
+          "t": "我爱上了西澳大利亚北部，已经回去了六次。"
+        },
+        {
+          "s": "The Bernina Express follows a route that runs from Eastern Switzerland to Northern Italy.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "贝尔尼纳快车沿着从瑞士东部延伸到意大利北部的路线行驶。"
+        },
+        {
+          "s": "For two years, its people had been deep in a civil war between the slave-owning Confederate Southern States and the “free” Northern States of the Union.",
+          "src": "外研社B5 U4",
+          "cat": "waiyan",
+          "t": "两年来，其人民一直深陷拥有奴隶的南方各州与“自由”的北方各州之间的内战。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "and used in numerous",
-      "cn": "与 习惯于 在…里 众多的",
+      "en": "foggy northern",
+      "cn": "北方的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "unforgiving northern",
+      "cn": "北方的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "and the free northern",
+      "cn": "与 该 能随自己意愿的 北方的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "coast of northern",
+      "cn": "海岸 的 北方的",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "cassini made numerous",
-      "cn": "众多的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "encounter numerous",
-      "cn": "遭遇 众多的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "has won numerous",
-      "cn": "有 众多的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "in numerous television",
-      "cn": "在…里 众多的",
+      "en": "eastern coast of northern",
+      "cn": "东方的 海岸 的 北方的",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "made numerous",
-      "cn": "众多的",
+      "en": "eastern switzerland to northern",
+      "cn": "东方的 去 北方的",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "free northern",
+      "cn": "能随自己意愿的 北方的",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "numerous awards",
-      "cn": "众多的 常用于奖项名称",
-      "type": "名词短语",
+      "en": "from the foggy northern",
+      "cn": "从 该 北方的",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "numerous characters",
-      "cn": "众多的 品质",
-      "type": "名词短语",
+      "en": "in love with northern",
+      "cn": "在…里 爱 与 北方的",
+      "type": "介词短语",
       "count": 1
     }
   ]

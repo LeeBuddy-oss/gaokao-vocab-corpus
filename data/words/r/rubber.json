@@ -1,116 +1,318 @@
 {
   "meta": {
-    "ph": "ˈrʌbə(r); NAmE ˈrʌbər",
-    "pos": "noun",
-    "stars": "★★"
+    "ph": "raʊnd; NAmE raʊnd",
+    "pos": "adj;adj;adj;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;adj;adj;verb;verb;verb;verb;verb;verb;verb",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "a strong substance that can be stretched and does not allow liquids to pass through it, used for making tyres, boots, etc. It is made from the liquid (= sap) inside a tropical plant or is produced using chemicals. 橡胶",
+      "def": "shaped like a circle or a ball 圆形的；环形的；球形的",
       "ex": [
         {
-          "s": "In addition, it looks very lifelike with special rubber used on the outside.",
-          "src": "译林选必2 U3",
-          "cat": "yilin",
-          "t": "此外，它外面使用了特殊的橡胶，看起来非常逼真。"
-        }
-      ]
-    },
-    {
-      "def": "a small piece of rubber or a similar substance, used for removing pencil marks from paper; a piece of soft material used for removing chalk marks from a blackboard 橡皮；黑板擦",
-      "ex": [
-        {
-          "s": "\"Think of a rubber band.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "想想一根橡皮筋。"
-        },
-        {
-          "s": "What does Levine want to explain by mentioning the rubber band?",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Levine提到橡皮筋想要解释什么？"
-        },
-        {
-          "s": "I decided to play with him with only one toy for as long as it would keep his interest I expected that one toy would keep his attention for about five minutes, ten minutes, max I chose a red rubber ball—simple, universally available.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我决定只用一个玩具陪他玩，只要还能吸引他的兴趣就行；我估计一个玩具大概能让他专注五分钟，最多十分钟。我选了一个红色的橡皮球——简单、随处可见。"
-        },
-        {
-          "s": "These objects have given him ideas for his animal sculptures, such as the famous Rubber Duck.",
-          "src": "外研社B4 U4",
+          "s": "Some nouns and adjectives can be used as verbs, or the other way round.",
+          "src": "外研社B1 U2",
           "cat": "waiyan",
-          "t": "这些物品为他的动物雕塑，如著名的橡皮鸭，给了他一些想法。"
+          "t": "一些名词和形容词可以用作动词，或者相反的圆形。"
         },
         {
-          "s": "All the students have are pencils, rubbers, and paper.",
-          "src": "人教选必4 U4",
-          "cat": "renjiao",
-          "t": "所有学生拥有的只是铅笔、橡皮和纸。"
+          "s": "The original iron boxes with the round roofs first appeared in 1926.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "带有圆形屋顶的原始铁皮电话亭于1926年首次出现。"
+        },
+        {
+          "s": "Putting a ball into a round hole.",
+          "src": "2022全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "把球放进圆孔里。"
         }
       ]
     },
     {
-      "def": "(in some card games or sports) a competition consisting of a series of games or matches between the same teams or players （某些纸牌游戏或体育运动中相同的对手或队伍间）多轮决胜负的比赛",
+      "def": "having a curved shape 弧形的；圆弧的",
+      "ex": []
+    },
+    {
+      "def": "a round figure or amount is one that is given as a whole number, usually one ending in 0 or 5 整数的；尾数是 0（或 5）的",
+      "ex": [
+        {
+          "s": "Is the psychologist wearing little round glasses and smoking a cigar more insightful?",
+          "src": "2017浙江11月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "那位戴着小圆眼镜、抽着雪茄的心理学家是否更有洞察力？"
+        },
+        {
+          "s": "Storytelling does not just take place at bedtime or round a campfire, however.",
+          "src": "2023天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "然而，讲故事并不只发生在睡前或篝火旁。"
+        },
+        {
+          "s": "So she desired to get round the warning, \"Why can't I make a healthy candy that's good for my teeth so that my parents can't say no to it?\" With that in mind, Moore asked her dad if she could start her own candy company.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "于是她渴望避开这个警告：'为什么我不能做一种对牙齿有益的健康糖果，这样我父母就不会拒绝它呢？'带着这个想法，Moore 问她父亲她是否能创办自己的糖果公司。"
+        },
+        {
+          "s": "While the lights were changing to red, a car suddenly appeared round the corner.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "当灯光变成红色的时候，一辆车突然出现在拐角处。"
+        }
+      ]
+    },
+    {
+      "def": "moving in a circle 旋转；环绕；兜圈子",
+      "ex": []
+    },
+    {
+      "def": "measuring or marking the edge or outside of sth 周长；周围；绕一整圈",
+      "ex": []
+    },
+    {
+      "def": "on all sides of sb/sth 在周围；围绕",
+      "ex": []
+    },
+    {
+      "def": "at various places in an area 到处；四处",
+      "ex": []
+    },
+    {
+      "def": "in a circle or curve to face another way or the opposite way 调转方向；转过来",
+      "ex": [
+        {
+          "s": "He came to see people as a danger to sharks, rather than the other way round.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "他开始把人视为对鲨鱼的威胁，而不是反过来。"
+        }
+      ]
+    },
+    {
+      "def": "to the other side of sth 绕弯；迂回；向另一侧",
+      "ex": [
+        {
+          "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
+        }
+      ]
+    },
+    {
+      "def": "from one place, person, etc. to another 依次；挨个",
+      "ex": []
+    },
+    {
+      "def": "to or at a particular place, especially where sb lives 到某地，在某地（尤指居住地）",
+      "ex": []
+    },
+    {
+      "def": "approximately 大约",
+      "ex": []
+    },
+    {
+      "def": "in the area near a place 在附近",
+      "ex": []
+    },
+    {
+      "def": "in a circle 环绕；围绕",
+      "ex": []
+    },
+    {
+      "def": "on, to or from the other side of sth 绕过；在另一侧",
+      "ex": []
+    },
+    {
+      "def": "on all sides of sb/sth; surrounding sb/sth 在 … 周围；包围",
+      "ex": []
+    },
+    {
+      "def": "in or to many parts of sth 在 … 各处；到 … 各部分",
+      "ex": [
+        {
+          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
+        }
+      ]
+    },
+    {
+      "def": "to fit in with particular people, ideas, etc. 适应；围绕（人、思想等）",
+      "ex": []
+    },
+    {
+      "def": "a set of events which form part of a longer process 阶段；轮次",
+      "ex": []
+    },
+    {
+      "def": "a stage in a sports competition 比赛阶段；轮次；局；场",
+      "ex": []
+    },
+    {
+      "def": "a stage in a boxing or wrestling match （拳击或摔跤比赛的）回合",
+      "ex": []
+    },
+    {
+      "def": "a complete game of golf; a complete way around the course in some other sports, such as showjumping （高尔夫球、骑马障碍赛等的）一轮比赛，一局",
+      "ex": []
+    },
+    {
+      "def": "a regular series of activities 一系列常规活动；惯常的活动",
+      "ex": []
+    },
+    {
+      "def": "a regular route that sb takes when delivering or collecting sth; a regular series of visits that sb makes （收发信函等的）固定路线；照例要出去做的事情",
+      "ex": []
+    },
+    {
+      "def": "a number of drinks bought by one person for all the others in a group （由一人给大家买的）一巡饮料",
+      "ex": []
+    },
+    {
+      "def": "a whole slice of bread; sandwiches made from two whole slices of bread 一整片面包；（两整片面包做的）三明治",
+      "ex": []
+    },
+    {
+      "def": "a round object or piece of sth 圆形物体；圆块",
+      "ex": []
+    },
+    {
+      "def": "a short period during which people show their approval of sb/sth by clapping, etc. 一阵",
+      "ex": []
+    },
+    {
+      "def": "a single shot from a gun; a bullet for one shot 一次射击；一发子弹",
+      "ex": []
+    },
+    {
+      "def": "a song for two or more voices in which each sings the same tune but starts at a different time 轮唱曲",
+      "ex": []
+    },
+    {
+      "def": "if news or a joke does the rounds, it is passed on quickly from one person to another 迅速传开；迅速流传",
+      "ex": []
+    },
+    {
+      "def": "to go around from place to place, especially when looking for work or support for a political campaign, etc. 到各处去，巡回（找工作或寻求对政治运动的支持等）",
+      "ex": [
+        {
+          "s": "Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.",
+          "src": "2019全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "访问政府网站，了解可帮助30岁以下人群提升技能、找工作或全年创业的项目和在线工具。"
+        }
+      ]
+    },
+    {
+      "def": "made so that it can be seen from all sides 艺术品",
+      "ex": []
+    },
+    {
+      "def": "with the people watching all around a central stage 剧院或戏剧",
+      "ex": []
+    },
+    {
+      "def": "to go around a corner of a building, a bend in the road, etc. 绕行；绕过",
+      "ex": []
+    },
+    {
+      "def": "to make sth into a round shape; to form into a round shape （使）成圆形；变圆",
+      "ex": []
+    },
+    {
+      "def": "to increase or decrease a number to the next highest or lowest whole number （将数字调高或调低）使成为整数；把（数字）四舍五入",
+      "ex": []
+    },
+    {
+      "def": "to finish an activity or complete sth in a good or suitable way 圆满结束；圆满完成",
+      "ex": []
+    },
+    {
+      "def": "to take the sharp or rough edges off sth 去除 … 的棱角；使 … 的边缘光滑",
+      "ex": []
+    },
+    {
+      "def": "to find and gather together people, animals or things 将 … 聚拢起来；使聚集",
+      "ex": []
+    },
+    {
+      "def": "if police or soldiers round up a group of people, they find them and arrest or capture them 围捕；围剿",
       "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "rubber band",
-      "cn": "橡胶 流行音乐乐队",
+      "en": "way round",
+      "cn": "方法 圆形的",
+      "type": "形容词搭配",
+      "count": 2
+    },
+    {
+      "en": "appeared round",
+      "cn": "不用于进行时 圆形的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "came round",
+      "cn": "圆形的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "get round",
+      "cn": "收到 圆形的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "walk round",
+      "cn": "走 圆形的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "year round",
+      "cn": "年 圆形的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "round glasses",
+      "cn": "圆形的 玻璃",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "round hole",
+      "cn": "圆形的 洞",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "round roofs",
+      "cn": "圆形的 顶部",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "little round",
+      "cn": "小的 圆形的",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "famous rubber",
-      "cn": "著名的 橡胶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "pencils rubbers",
-      "cn": "铅笔verb 橡胶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "red rubber",
-      "cn": "红的 橡胶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "rubber ball",
-      "cn": "橡胶 球",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "rubber duck",
-      "cn": "橡胶 鸭",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "rubbers and paper",
-      "cn": "橡胶 与 常构成复合词",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "special rubber",
-      "cn": "特殊的 橡胶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "by mentioning the rubber",
-      "cn": "通过 提到 该 橡胶",
+      "en": "able to walk round",
+      "cn": "能够 去 走 圆形的",
       "type": "介词短语",
       "count": 1
     }

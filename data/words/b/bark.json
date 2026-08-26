@@ -77,22 +77,22 @@
   ],
   "chunks": [
     {
-      "en": "dogs barking",
-      "cn": "狗 树皮",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "bark chickens",
       "cn": "树皮 鸡",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 1
     },
     {
       "en": "bark cotton",
       "cn": "树皮 棉花植株",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 1
+    },
+    {
+      "en": "dogs barking",
+      "cn": "狗 树皮",
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "shaggy bark",

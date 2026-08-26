@@ -1,238 +1,201 @@
 {
   "meta": {
-    "ph": "rɪˈspɒns; NAmE rɪˈspɑːns",
-    "pos": "noun",
-    "stars": "★"
+    "ph": "rɪˈspekt; NAmE rɪˈspekt",
+    "pos": "noun;noun;noun;prep;prep;verb;verb;verb",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "a spoken or written answer （口头的或书面的）回答，答复",
+      "def": "a feeling of admiration for sb/sth because of their good qualities or achievements 尊敬；敬意；尊重",
       "ex": [
         {
-          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
-          "src": "2026浙江1月卷·阅读理解A",
+          "s": "Show respect for the researchers.",
+          "src": "2024浙江1月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
+          "year": 2024,
+          "t": "尊重研究人员。"
         },
         {
-          "s": "His response had an impact on me.",
-          "src": "2026北京卷·阅读理解B",
+          "s": "They enjoyed much respect.",
+          "src": "2022全国乙卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "他的回应对我产生了影响。"
+          "year": 2022,
+          "t": "她们有一个带浴缸的房间。"
         },
         {
-          "s": "How did the author feel after hearing her dad’s response?",
-          "src": "2026北京卷·阅读理解B",
+          "s": "Build respect for and awareness of the environment and cultural practices.",
+          "src": "2021全国乙卷·语法填空",
           "cat": "gaokao",
-          "year": 2026,
-          "t": "听到父亲回答后作者感觉如何？"
+          "year": 2021,
+          "t": "培养对环境和文化习俗的尊重与意识。"
         },
         {
-          "s": "The dogs’ responses are under close observation.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "狗的反应正在接受密切观察。"
-        },
-        {
-          "s": "While a routine involves repeated behaviour, it’s not necessarily performed in response to a deep﹣rooted urge, as a habit is.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "虽然常规包含重复行为，但它未必像习惯那样是出于根深蒂固的冲动而做出的。"
-        },
-        {
-          "s": "Beijing lowered its emergency response level.",
-          "src": "2020江苏卷·阅读理解A",
+          "s": "To earn respect from others.",
+          "src": "2020全国I卷",
           "cat": "gaokao",
           "year": 2020,
-          "t": "武汉最后一名新冠患者出院。"
+          "t": "以获得他人尊重。"
         },
         {
-          "s": "During the interview, listen carefully to each question and try to understand the main ideas within the interviewee's responses.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "面试时，仔细听每个问题，并努力理解应聘者回答中的要点。"
-        },
-        {
-          "s": "Twain's response was, “That's just my luck.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "吐温的回答是：这就是我的运气。"
-        },
-        {
-          "s": "The writer receives the response from a publisher, and opens it with excitement and starts to read it.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "作家收到了出版商的回复，兴奋地打开并开始阅读。"
-        },
-        {
-          "s": "The response from a publisher comes back and the writer eagerly opens and reads it, their hearts sinking when they reach that final sentence.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "出版商的回信来了，作家急切地打开阅读，读到最后一句话时心沉下去了。"
-        },
-        {
-          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
-          "src": "2021浙江6月卷·阅读理解B",
+          "s": "I studied abroad and later moved away from my parents’ home to look for  51  Through years of  52 , have become respected teacher in school serving high-need students.",
+          "src": "2020浙江1月卷·完形填空",
           "cat": "gaokao",
-          "year": 2021,
-          "t": "影片制作人大卫·邦德(David Bond)在几年前意识到，他的孩子当时五岁三岁，被贴在屏幕上，以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
+          "year": 2020,
+          "t": "我在国外学习，后来离开父母家去寻找____51____，经过多年____52____，已成为一所服务高需求学生的学校里受人尊敬的老师。"
         },
         {
-          "s": "Their response was to write a book of poems under male names.",
-          "src": "外研社B4 U2",
+          "s": "A youth is to be regarded with respect.",
+          "src": "2019北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "青年应受到尊重。"
+        },
+        {
+          "s": "From time to time I look at the photo as a reminder to show respect to all animals.",
+          "src": "外研社B1 U5",
           "cat": "waiyan",
-          "t": "他们的回应是以男性笔名写了一本诗集。"
+          "t": "我时不时地看着这张照片，提醒大家要尊重所有的动物。"
         }
       ]
     },
     {
-      "def": "a reaction to sth that has happened or been said 反应；响应",
+      "def": "polite behaviour towards or care for sb/sth that you think is important 重视；尊重；维护",
       "ex": [
         {
-          "s": "What do the dogs’ different responses in “unwilling” and “unable” scenarios suggest?",
-          "src": "2023天津6月卷·阅读理解C",
+          "s": "The realization that this is a precious land, to be respected by humans, was one of the biggest things that hit home to Ginni.",
+          "src": "2022全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "意识到这是一片珍贵的土地，应该受到人类的尊重，这是Ginni感触最深的事情之一。"
+        },
+        {
+          "s": "They make me feel valued and respected, no matter my level of artistic ability.",
+          "src": "2023新课标II卷·七选五",
           "cat": "gaokao",
           "year": 2023,
-          "t": "狗在“不愿”和“不能”两种情境下不同的反应说明了什么？"
-        },
-        {
-          "s": "We are tempted by sugary treats because our ancestors lived in a calorie-poor world, and our brains developed a response mechanism to these treats that reflected their value — a feeling of reward and satisfaction.",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们会被含糖零食诱惑，因为我们的祖先生活在热量匮乏的世界里，而我们的大脑形成了一种对这些零食的响应机制，反映出它们的价值——一种奖励和满足感。"
-        },
-        {
-          "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
-        },
-        {
-          "s": "Recent research suggests that if an argument gets resolved，the emotional response tied to it is significantly reduced or almost completely erased．Thus，it may be worth bringing up issues with your friends， family members，or classmates rather than holding them back．",
-          "src": "2021北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近的研究表明，如果一场争论得到解决，与之相关的情绪反应会显著减少，或几乎完全消除。因此，与其压抑，不如与朋友、家人或同学把问题提出来，可能最终会有更好的结果。"
-        },
-        {
-          "s": "Not everyone acts the same in response to events, and that is why what triggers one person may or may not trigger another.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "并非每个人对事件的反应都一样，这正是触发一个人的事可能触发也可能不触发另一个人的原因。"
-        },
-        {
-          "s": "This happened some of the time, but it wasn’t the dominant response.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这种情况时有发生，但并不是主流反应。"
-        },
-        {
-          "s": "The part of your brain that controls your own movements lights up in response.",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "控制你自己运动的大脑区域会对此作出反应而被激活。"
-        },
-        {
-          "s": "The part of the brain related to pleasure is activated in response to something we find beautiful.",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "与愉悦相关的大脑部分会对我们发现的美的事物作出反应而被激活。"
-        },
-        {
-          "s": "A similar process is at work in our response to information.",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在我们对新信息的反应中，也存在着一个类似的过程。"
+          "t": "无论我的艺术能力水平如何，它们都让我感到被重视和尊重。"
         }
       ]
     },
     {
-      "def": "a part of a church service that the people sing or speak as an answer to the part that the priest sings or speaks （礼拜仪式中的）答唱咏，启应经",
+      "def": "a particular aspect or detail of sth （事物的）方面，细节",
+      "ex": [
+        {
+          "s": "In short, AI is redefining the museum in all respects.",
+          "src": "2026新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "简而言之，人工智能正在从各个方面重新定义博物馆。"
+        },
+        {
+          "s": "In some respects, today's powerful computing machines already make our brains look weak.",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在某些方面，如今强大的计算机器已经让我们的大脑显得弱小。"
+        }
+      ]
+    },
+    {
+      "def": "concerning 关于；就 … 而言",
+      "ex": []
+    },
+    {
+      "def": "in payment for sth 作为 … 的报酬",
+      "ex": []
+    },
+    {
+      "def": "to have a very good opinion of sb/sth; to admire sb/sth 通常不用于进行时",
+      "ex": [
+        {
+          "s": "Lawyers help people and are respected by others.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "律师帮助人们，受到他人的尊重。"
+        },
+        {
+          "s": "We could also say Now and then I look at the photo to remind myself that we need to respect all animals, because we are the visitors to their world.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说：我不时看看这张照片，提醒自己我们需要尊重所有动物，因为我们是它们世界里的访客。"
+        },
+        {
+          "s": "Bill Shankly(1913-1981) was one of Britain's most successful and respected football managers.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "比尔·香克利（1913-1981）是英国最成功、最受尊敬的足球经理之一。"
+        },
+        {
+          "s": "She respects others’ privacy.",
+          "src": "2023浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她尊重他人的隐私。"
+        },
+        {
+          "s": "Wouldn’t it be better to respect their concern for you and ask for their advice?",
+          "src": "外研社B3 U1",
+          "cat": "waiyan",
+          "t": "尊重他们对您的关心并征求他们的意见不是更好吗？"
+        }
+      ]
+    },
+    {
+      "def": "to be careful about sth; to make sure you do not do sth that sb would consider to be wrong 慎重对待；谨慎从事；尊重",
+      "ex": []
+    },
+    {
+      "def": "to agree not to break a law, principle, etc. 遵守；不损害；不违背",
       "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "emotional response",
-      "cn": "回答",
+      "en": "respected football",
+      "cn": "尊敬 足球运动",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "respected teacher",
+      "cn": "尊敬 教师",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "respects others",
+      "cn": "尊敬 另外",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "show respect",
+      "cn": "表明 尊敬",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "artists responses",
-      "cn": "艺术家 回答",
+      "en": "some respects",
+      "cn": "一些 尊敬",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "different responses",
-      "cn": "不同的 回答",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "dogs responses",
-      "cn": "狗 回答",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "dominant response",
-      "cn": "回答",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "emergency response",
-      "cn": "突发事件 回答",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "interviewee's responses",
-      "cn": "回答",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "response level",
-      "cn": "回答 数量",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "response from",
-      "cn": "回答 从",
-      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "the response from",
-      "cn": "该 回答 从",
-      "type": "介词短语",
-      "count": 2
-    },
-    {
-      "en": "2call for artists responses",
-      "cn": "为了 艺术家 回答",
-      "type": "介词短语",
+      "en": "much respect",
+      "cn": "许多 尊敬",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "activated in response",
-      "cn": "在…里 回答",
-      "type": "介词短语",
+      "en": "respects today's",
+      "cn": "尊敬 在今天",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "valued and respected",
+      "cn": "价值 与 尊敬",
+      "type": "名词短语",
       "count": 1
     }
   ]

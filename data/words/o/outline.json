@@ -78,14 +78,20 @@
   ],
   "chunks": [
     {
-      "en": "concept outlined",
-      "cn": "概念 概述",
-      "type": "名词短语",
+      "en": "outline introduction",
+      "cn": "概述 初次投入使用",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "outline introduction",
-      "cn": "概述 初次投入使用",
+      "en": "outline outline",
+      "cn": "概述 概述",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "concept outlined",
+      "cn": "概念 概述",
       "type": "名词短语",
       "count": 1
     },
@@ -94,18 +100,6 @@
       "cn": "单词 概述",
       "type": "名词短语",
       "count": 1
-    },
-    {
-      "en": "outline below",
-      "cn": "概述 在… 下面",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "outline outline introduction",
-      "cn": "概述 概述 初次投入使用",
-      "type": "动词短语",
-      "count": 2
     }
   ]
 }

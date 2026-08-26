@@ -1,110 +1,191 @@
 {
   "meta": {
-    "ph": "ˈsplendɪd; NAmE ˈsplendɪd",
-    "pos": "adjective",
-    "stars": "★★"
+    "ph": "suːt; NAmE suːt",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;noun",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "excellent; very good 极佳的；非常好的",
+      "def": "a set of clothes made of the same cloth, including a jacket and trousers/pants or a skirt 西服；西装；套装",
+      "ex": [
+        {
+          "s": "Then I saw a group of people in bathing suits bouncing up and down in the water.",
+          "src": "2023天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "然后我看见一群穿着泳衣的人在水里上下蹦跳。"
+        },
+        {
+          "s": "But in half the cases she wore a specially designed fat suit which increased her weight to 180 pounds.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "但在一半的情境下，她穿了一件特制的肥胖装，使体重增至180磅。"
+        },
+        {
+          "s": "The results were similar to the first test: the participants followed suit but took significantly more candy when the thin actor took 30 pieces.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "结果与第一次测试相似：参与者们纷纷效仿，但当瘦演员拿30块糖果时，他们拿的糖果明显更多。"
+        },
+        {
+          "s": "Each runner receives a gorilla suit and off they go!",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "每位跑者都会收到一套大猩猩套装，然后他们就出发啦！"
+        }
+      ]
+    },
+    {
+      "def": "a set of clothing worn for a particular activity （从事特定活动时穿的）成套服装",
+      "ex": [
+        {
+          "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
+          "src": "2020全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "相反，一位身着全身猴子装的活动人士举着一块称赞电影制作人的牌子出现：“感谢你们没有使用真猿！”"
+        },
+        {
+          "s": "Since the first Great Gorilla Run in 2003, thousands of people have joined the 8 km fun run route in gorilla suits through the city of London.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "自2003年首届大猩猩跑以来，成千上万的人穿着大猩猩服装参加了穿越伦敦市区的8公里趣味跑路线。"
+        }
+      ]
+    },
+    {
+      "def": "any of the four sets that form a pack/deck of cards （扑克牌中）所有同花色的牌",
+      "ex": [
+        {
+          "s": "Then I decided to follow suit.”",
+          "src": "2020天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "于是我决定效仿。"
+        }
+      ]
+    },
+    {
+      "def": "控告某人",
       "ex": []
     },
     {
-      "def": "very impressive; very beautiful 壮丽的；雄伟的；豪华的；华丽的",
+      "def": "a person with an important job as a manager in a company or organization, especially one thought of as being mainly concerned with financial matters or as having a lot of influence （具影响力的）高级行政人员（尤指财务方面的）",
       "ex": [
         {
-          "s": "For many British people, that can apply to institutions and objects that represent their country’s past-age-old castles, splendid homes… and red phone boxes.",
-          "src": "2020江苏卷·阅读理解B",
+          "s": "But if a thin person eats a lot, I’ll follow suit.",
+          "src": "2020全国新高考I卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "对许多英国人来说，这同样适用于代表他们国家过去的机构和物品——古老的城堡、华丽的宅邸……以及红色电话亭。"
+          "t": "但如果一个瘦的人吃很多，我也会跟着做。"
         },
         {
-          "s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"
-        },
-        {
-          "s": "Therefore, in order to please them, foreign envoys presented these emperors with the most intricate and splendid timepieces.",
-          "src": "外研社B6 U2",
+          "s": "It's a bit hot and sweaty inside the suit, and my legs ache, but it's a lot of fun.",
+          "src": "外研社B2 U3",
           "cat": "waiyan",
-          "t": "因此，为了取悦他们，外国使节向这些皇帝赠送了最精巧、最华丽的计时器。"
-        },
-        {
-          "s": "Then at night, see the splendid Journey of Lights Parade and fireworks display.",
-          "src": "人教选必1 U3",
-          "cat": "renjiao",
-          "t": "然后在晚上，观看壮丽的\"灯光之旅\"游行和烟花表演。"
-        },
-        {
-          "s": "All things considered, though, it must be one of the most beautiful and splendid films ever made.Although it is in black and white, the striking use of light makes it seem at times like a moving painting.",
-          "src": "北师大选必2 U6",
-          "cat": "beishida",
-          "t": "虽然所有的事情都考虑进去了，但它必须是有史以来最美丽和最出色的电影之一。 虽然它是黑白的，但光的惊人使用让它有时看起来像一幅动人的画。"
-        },
-        {
-          "s": "One truly unique scenic spot in Canada is the mighty Niagara Falls with water rushing over its edge in a splendid display of sights and sounds.",
-          "src": "译林选必3 U1",
-          "cat": "yilin",
-          "t": "加拿大的一个真正独特的风景点是巨大的尼亚加拉瀑布，水冲过它的边缘，以出色的景色和声音展示。"
-        },
-        {
-          "s": "Splendid as the view of the Earth is, spacewalking is not as exciting as you might think.",
-          "src": "译林选必3 U2",
-          "cat": "yilin",
-          "t": "太空行走不像你想的那么刺激"
+          "t": "宇航服里面有点热、有点出汗，我的腿也酸，但很有趣。"
         }
       ]
+    },
+    {
+      "def": "to be convenient or useful for sb 对（某人）方便；满足（某人）需要；合（某人）心意",
+      "ex": [
+        {
+          "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
+        },
+        {
+          "s": "Which hotel best suits people who enjoy an active social life?",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "哪家酒店最适合喜欢活跃社交生活的人？"
+        },
+        {
+          "s": "People settle in these places because they are easy to get to and naturally suited to communications and trade.",
+          "src": "2018全国III卷·B源",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "人们在这些地方定居，因为它们交通便利，且天然适合通信和贸易。"
+        },
+        {
+          "s": "Grandfather: Yes, and you have found the career that suits your talents.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "祖父：是的，而且你已经找到了适合你才华的事业。"
+        }
+      ]
+    },
+    {
+      "def": "to make you look attractive 尤指服装、颜色等",
+      "ex": []
+    },
+    {
+      "def": "to be right or good for sb/sth 通常用于否定句",
+      "ex": []
+    },
+    {
+      "def": "to do exactly what you would like 随自己的意愿",
+      "ex": [
+        {
+          "s": "The participants followed suit, taking more food than they normally would have.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "参与者们纷纷效仿，吃的食物比平时多得多。"
+        }
+      ]
+    },
+    {
+      "def": "（表示听凭对方的意愿）自便，随便",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "a splendid display",
-      "cn": "一个 极佳的 陈列",
+      "en": "suits people",
+      "cn": "西服 人",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "suits through",
+      "cn": "西服 通过",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "gorilla suit",
+      "cn": "西服",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "best suits",
+      "cn": "最好的 西服",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and splendid films",
-      "cn": "与 极佳的 电影",
+      "en": "mindset suited",
+      "cn": "西服",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and splendid timepieces",
-      "cn": "与 极佳的",
+      "en": "monkey suit",
+      "cn": "猴子 西服",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "beautiful and splendid",
-      "cn": "美丽的 与 极佳的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "castles splendid",
-      "cn": "城堡 极佳的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "edge in a splendid",
-      "cn": "边 在…里 一个 极佳的",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "in a splendid display",
-      "cn": "在…里 一个 极佳的 陈列",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "intricate and splendid",
-      "cn": "与 极佳的",
+      "en": "suited to communications",
+      "cn": "西服 去 表达",
       "type": "名词短语",
       "count": 1
     }

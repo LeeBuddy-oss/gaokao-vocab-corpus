@@ -670,28 +670,58 @@
   ],
   "chunks": [
     {
-      "en": "very much",
-      "cn": "非常 许多",
-      "type": "动词短语",
+      "en": "very long",
+      "cn": "非常 长的",
+      "type": "副词搭配",
       "count": 6
     },
     {
       "en": "very expensive",
       "cn": "非常 昂贵的",
-      "type": "动词短语",
+      "type": "副词搭配",
       "count": 5
     },
     {
       "en": "very important",
       "cn": "非常 重要的",
-      "type": "动词短语",
+      "type": "副词搭配",
       "count": 5
     },
     {
       "en": "very small",
       "cn": "非常 小的",
-      "type": "动词短语",
+      "type": "副词搭配",
       "count": 5
+    },
+    {
+      "en": "not very",
+      "cn": "不 非常",
+      "type": "副词搭配",
+      "count": 3
+    },
+    {
+      "en": "very best",
+      "cn": "非常 最好的",
+      "type": "副词搭配",
+      "count": 3
+    },
+    {
+      "en": "very good",
+      "cn": "非常 好的",
+      "type": "副词搭配",
+      "count": 3
+    },
+    {
+      "en": "very different",
+      "cn": "非常 不同的",
+      "type": "副词搭配",
+      "count": 2
+    },
+    {
+      "en": "very much",
+      "cn": "非常 许多",
+      "type": "动词短语",
+      "count": 6
     },
     {
       "en": "is very expensive",
@@ -703,18 +733,6 @@
       "en": "the very best",
       "cn": "该 非常 最好的",
       "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "very best",
-      "cn": "非常 最好的",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "very good",
-      "cn": "非常 好的",
-      "type": "动词短语",
       "count": 3
     }
   ]

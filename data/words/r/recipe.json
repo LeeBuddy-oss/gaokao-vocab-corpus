@@ -1,47 +1,297 @@
 {
   "meta": {
-    "ph": "ˈresəpi; NAmE ˈresəpi",
-    "pos": "noun",
-    "stars": "★★"
+    "ph": "ˈriːəli; NAmE ˈriːəli",
+    "pos": "adv.",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "a set of instructions that tells you how to cook sth and the ingredients (= items of food) you need for it 烹饪法；食谱",
+      "def": "（表明事实或真相）事实上，真正地，真实地",
       "ex": [
         {
-          "s": "Even though Britain has a reputation for less-than-impressive cuisine, it is producing more top class chefs who appear frequently on our television screens and whose recipe books frequently top the best seller lists.",
+          "s": "And it wasn't, ultimately, the dictionary that got me there — not really.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "说到底，真正让我走到今天的并不是那本词典——并不是。"
+        },
+        {
+          "s": "Motivation is what really matters.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "动力才是真正重要的。"
+        },
+        {
+          "s": "“We’re not just ‘borrowing’ from different disciplines — we’re really putting them on equal footing in order to create something greater than the sum of its parts.”",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "\"我们不仅仅是在不同学科间'借用'——我们真正地将它们放在平等的位置上，以创造出比各部分总和更伟大的东西。\""
+        },
+        {
+          "s": "Do we really recognise what it costs us as a society when children can’t move safely around our communities?",
+          "src": "2025新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "当孩子无法在我们的社区安全出行时，我们作为社会究竟意识到这让我们付出了什么代价吗？"
+        },
+        {
+          "s": "“People get in their minds an idea of what teachers do, but that’s not really what it is here.”",
+          "src": "2025新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“人们心里对老师的工作有一种固有印象，但这里其实并不是那样。”"
+        },
+        {
+          "s": "I really did not know whether I should continue correcting him or simply drop the matter.",
+          "src": "2025新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我真的不知道是该继续纠正他还是干脆放弃这件事。"
+        },
+        {
+          "s": "No one really knows, of course, but the seeding goes on.”",
+          "src": "2024浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当然，没有人真正知道，但播种仍在继续。"
+        },
+        {
+          "s": "But is British food really so uninteresting?",
           "src": "2023全国乙卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "尽管英国以平庸的烹饪闻名，但它正在培养出更多一流厨师，他们频繁出现在电视屏幕上，其食谱书也经常登上畅销榜榜首。"
+          "t": "但英国食物真的那么无趣吗？"
         },
         {
-          "s": "If you enjoy cooking, for example, you may faithfully follow a recipe without questioning the instructions.",
-          "src": "2023天津3月卷·阅读理解D",
+          "s": "Many of these practitioners, so-called ALifers, think that somehow making life is the surest way to really understand what life is.",
+          "src": "2023北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "例如，如果你喜欢烹饪，你可能会忠实地遵循食谱，而不质疑其中的说明。"
+          "t": "这些从业者中的许多——所谓的ALife研究者——认为，以某种方式创造生命是真正理解生命的最佳途径。"
         },
         {
-          "s": "Strictly follow traditional recipes when cooking.",
-          "src": "2023天津3月卷·阅读理解D",
+          "s": "Could PyQuantum really be leading all the competition “by a wide margin”, as Taylor claims?",
+          "src": "2022北京卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "他们的审美能力得到提升。"
+          "year": 2022,
+          "t": "正如泰勒所称，PyQuantum真的能大幅领先所有竞争对手吗？"
         },
         {
-          "s": "“I knew if I recorded all of my parents’ recipes, it would be a great gift that I could give my family and the next generation.” she says.",
-          "src": "2023天津3月卷·阅读表达",
+          "s": "When Spot and Stripe were four months old, they were learning how to open doors and jump fences, and we knew it really was time for them to go.",
+          "src": "2021新高考II卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "我知道，如果我把父母的所有食谱都记录下来，那将是一份我可以送给家人和下一代的珍贵礼物，她说。"
+          "year": 2021,
+          "t": "当Spot和Stripe四个月大时，它们正在学习如何开门和翻越围栏，我们知道它们真的该走了。"
         },
         {
-          "s": "Yet what began as a recipe book became a kind of memoir.",
-          "src": "2023天津3月卷·阅读表达",
+          "s": "But does one plastic straw or cup really make a difference?",
+          "src": "2021全国乙卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "但一根塑料吸管或一个塑料杯真的有影响吗？"
+        },
+        {
+          "s": "But when he went bike shopping, he found few available, which got him thinking: What if the 20  of bikes was Covid-19 related, and what if the person who'd taken his bike really needed 21    to get to work?",
+          "src": "2021天津3月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "但当他去买自行车时发现几乎没有可买的车这让他思考：如果自行车的   20   缺乏与新冠疫情有关呢如果拿走他车的人真的需要   21    去上班呢？"
+        },
+        {
+          "s": "And contrary to existing research that says you should avoid eating with heavier people who order large portions（份）, it’s the beanpoles with big appetites you really need to avoid.",
+          "src": "2020全国新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "与现有研究说你应该避免和点大份量的胖人一起吃饭相反真正需要避免的是那些胃口很大的瘦子。"
+        },
+        {
+          "s": "“We really should do something to assist them.”",
+          "src": "2020全国新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "John沉默了一会儿，突然跳起来喊道：\"我有了一个好主意！"
+        },
+        {
+          "s": "“We really should do something to assist them.”",
+          "src": "2020全国新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "John沉默了一会儿，突然跳起来喊道：\"我有了一个好主意！"
+        },
+        {
+          "s": "Thank you for your letter, what really made me happy.",
+          "src": "2020全国II卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "谢谢你的来信，这真的让我很开心。"
+        },
+        {
+          "s": "Yet, as I thought about Juan’s question, I was not sure how much more we could really rule out.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "然而，当我想到胡安的问题时，我不确定我们还能真正排除多少。"
+        },
+        {
+          "s": "“I don’t really mind it,” Emil Norby told Modern Farmer magazine.",
+          "src": "2020浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "“我并不真的介意，”埃米尔·诺比告诉《现代农民》杂志。"
+        },
+        {
+          "s": "Matt Hunt said he was \"very proud\" of his son because “when the boy gets an idea, he keeps his head down and gets on with it, and he really does want to do some good and stop young kids from getting asthma.\"",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "马特·亨特说他为儿子感到“非常自豪”，因为“当男孩有了想法时，他会埋头苦干，坚持下去，而且他真的想做点好事，防止孩子们患上哮喘。”"
+        },
+        {
+          "s": "But is fresh air really as good for you as your mother always said?",
+          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "但是新鲜空气真的像你妈妈说的那样对你有益吗？"
+        },
+        {
+          "s": "However, if others benefit in the process, and I get some reward too, does it really matter where my motivation lies?",
+          "src": "2019全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "然而，如果其他人在这个过程中受益，而我也能得到一些回报，我的动机在哪里又有什么关系呢？"
+        },
+        {
+          "s": "There almost are no grades, other than‘Are you working towards your goal?’ Basically, it’s ‘I’ve got to produce this product and then, at the end of year, present it to NASA.’ Engineers come and really do an in-person review, and…it’s not a very nice thing at time.",
+          "src": "2019全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "几乎没有任何成绩，除了“你在朝目标努力吗？”基本上就是“我得做出这个产品，然后年底把它展示给NASA。”工程师真的会来做当面评审，而且……这有时并不是件愉快的事。"
+        },
+        {
+          "s": "38    So, slow down and think what you really want to do at that moment.",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "38    所以，慢下来，想一想那一刻你真正想做什么。"
+        },
+        {
+          "s": "If praise is sincere and focused on the effort not the outcome, you can give it as often as your child does something that deserves a verbal reward.\" We should especially recognize our children's efforts to push themselves and work hard to achieve a goal, \"says Donahue, author of Parenting Without Fear: Letting Go of Worry and Focusing on What Really Matters.",
+          "src": "2019浙江卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "如果赞美是真诚的，并且专注于努力而不是结果，那么你可以像孩子做一些值得口头奖励的事情一样频繁地给予赞美。” 我们应当特别承认我们的孩子努力推动自己并努力实现一个目标，即“无恐惧地养育子女：让忧心忡忡地去关注真正重要的事情”的作者多纳休(Donahue)说。"
+        },
+        {
+          "s": "Does the name of the college you attend really matter？Research on the question   7  （suggest）that，for most students，it doesn't.",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "你所上的大学的名字真的重要吗？对这个问题的研究   7  （suggest）表明，对大多数学生来说，并不重要。"
+        },
+        {
+          "s": "But good news is that there’re really only three kinds of decisions you need to make about color in your home: the small ones, the medium ones, and the large ones.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "但好消息是，关于家里的颜色，你真正只需要做三种决定：小的、中等的和大的。"
+        },
+        {
+          "s": "It’s not really a good idea to use too many small color pieces",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "使用太多小面积色块并不是个好主意"
+        },
+        {
+          "s": "Do we really know the economic concept of a budget line?",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我们真的了解预算线的经济学概念吗？"
+        },
+        {
+          "s": "“Jazz seems like it’s not really a part of the American appetite,” Moran tells National Public Radio’s reporter Neal Conan.",
+          "src": "2017全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“爵士乐似乎并不真正属于美国人的胃口，”莫兰对国家公共广播电台记者尼尔·科南说。"
+        },
+        {
+          "s": "The result is that people stop driving before they really need to.”",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "结果就是人们在真正需要停止驾驶之前就已经放弃了开车。\""
+        },
+        {
+          "s": "The real problem relates to the possibility that artificial intelligence(AI) may become extremely good at achieving something other than what we really want.",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "真正的问题与这样一种可能性有关：人工智能（AI）可能变得极其擅长实现某些并非我们真正想要的东西。"
+        },
+        {
+          "s": "\"It has been fairly rewarding. \", she says, \"a really positive change.\"",
+          "src": "2022浙江1月卷·书面表达",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这是相当有回报的，她说，一个真正积极的变化。"
+        },
+        {
+          "s": "I remember the first really   48   customer we had at Covent Garden.",
+          "src": "2020全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我记得我们在Covent Garden遇到的第一个真正   48  的顾客。"
+        },
+        {
+          "s": "\"There is a lot of really interesting evidence which seems to be suggesting that if children are inspired up to the age of seven, then being outdoors will be a habit for life.\" His own children have got into the habit of playing outside now: \"We just send them out into the garden and tell them not to come back in for a while.\"",
+          "src": "2021浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“有大量非常有趣的证据似乎表明，如果孩子在七岁前受到启发，那么待在户外将成为一生的习惯。”他自己的孩子现在也养成了在外面玩的习惯：“我们只是把他们赶到花园里，告诉他们一会儿别回来。”"
+        }
+      ]
+    },
+    {
+      "def": "（强调观点等）确实，的确",
+      "ex": [
+        {
+          "s": "Getting the “side-eye” look from your dog can make it seem like they are making a judgement about you, and some new studies suggest they really could be.",
+          "src": "2023天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "然而，最初作为食谱书的东西变成了一本回忆录。"
+          "t": "从你的狗那里得到“斜眼”一瞥，会让它们看起来像是在对你做出评判，一些新研究表明它们可能确实如此。"
+        },
+        {
+          "s": "And in the process, I’ve experienced things that really surprise me at times.",
+          "src": "2025新高考II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在这个过程中，我经历了一些有时确实让我感到惊讶的事情。"
+        },
+        {
+          "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
+          "src": "2022浙江6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
+        },
+        {
+          "s": "The implications of music on overall well-being are really impressive．",
+          "src": "2021北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "音乐对整体福祉的影响确实令人印象深刻。"
+        },
+        {
+          "s": "It really messed up my relationship with food — something that took me years to overcome.",
+          "src": "2025浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "它确实弄糟了我与食物的关系——这是我花了多年才克服的。"
         },
         {
           "s": "“It was really an amazing way to learn not only my family’s recipes, but also my family’s story.",
@@ -49,153 +299,290 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "这确实是一种奇妙的方式，不仅让我学到了家人的食谱，也让我了解了家族的故事。"
-        },
-        {
-          "s": "Why did Ms Young want to record her parents’ recipes?(no more than 15 words)",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "杨女士为什么想记录她父母的食谱？（不超过15个词）"
-        },
-        {
-          "s": "Campers learn technical skills of roasting, frying and cutting, as well as some recipes that they can take home and share with their families.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "营员们学习烘烤、煎炸和切割等技术技能，以及一些可以带回家与家人分享的食谱。"
-        },
-        {
-          "s": "Her final goal is to link the worlds of art and science back together: She believes that bringing the old recipes to life can help develop a kind of learning that highlights experimentation, teamwork, and problem solving.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她的最终目标是把艺术与科学这两个世界重新联系起来：她相信，让古老配方“活”起来，有助于发展一种强调实验、团队合作和解决问题的学习方式。"
-        },
-        {
-          "s": "With her dad's permission, she spent the next two years researching online and conducting trials to get a recipe that was both tasty and tooth-friendly.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在她父亲的允许下，她花了两年时间在网上进行研究，并进行试验，以获得一种既美味又方便牙齿的食谱。"
-        },
-        {
-          "s": "It is produced to a dentists' recipe.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "它是按牙医的配方生产的。"
-        },
-        {
-          "s": "In Save Money: Good Food, she visits a different home each week and with the help of chef Matt Tebbutt offers top tips on how to reduce food waste, while preparing recipes for under £5 per family a day.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在《省钱：美味食物》中，她每周走访一户不同的家庭，并在厨师马特·特巴特的帮助下，提供减少食物浪费的顶级建议，同时准备每天每户不到5英镑的食谱。"
-        },
-        {
-          "s": "The team transforms the family’s long weekend of celebration with less expensive but still tasty recipes.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "团队用价格更低但依然美味的食谱改变了这个家庭漫长的周末庆祝活动。"
-        },
-        {
-          "s": "Meet the producers and get some excellent recipe ideas.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "去见见生产者，并获得一些绝佳的食谱灵感。"
-        },
-        {
-          "s": "So, don’t forget to pick up some chicken on your way home and try this recipe out!",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "所以，别忘了在回家的路上买些鸡肉，试试这个食谱！"
-        },
-        {
-          "s": "The instructions in the recipe are really (confuse) and I really need your help.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "食谱上的说明真的很令人困惑，我真的需要你的帮助。"
-        },
-        {
-          "s": "Find a list of its ingredients from a recipe or a product label.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "t": "从食谱或产品标签上找到它的食材清单。"
-        },
-        {
-          "s": "I hope I can learn some Chinese food recipes from them.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "我希望我能从他们那里学到一些中国菜的食谱。"
         }
       ]
     },
     {
-      "def": "a method or an idea that seems likely to have a particular result 方法；秘诀；诀窍",
+      "def": "（加强形容词或副词的语气）",
       "ex": [
         {
-          "s": "This is probably not an authentic Chinese recipe, however, so it cannot tell us much about the Chinese.",
-          "src": "人教选必2 U3",
-          "cat": "renjiao",
-          "t": "不过这可能不是一道正宗的中国菜谱，所以它不能告诉我们很多关于中国人的情况。"
+          "s": "I really like the idea of adding a new column to our English newspaper.",
+          "src": "2025新高考I卷·应用文写作",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "我真的很喜欢在我们的英文报上新增一个栏目的想法。"
+        },
+        {
+          "s": "I really envy youD. that name rings a bell",
+          "src": "2024天津3月卷·一、单项填空",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我真羡慕你。D. 那个名字听起来很耳熟。"
+        },
+        {
+          "s": "I started getting really nervous.",
+          "src": "2024北京卷",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我开始变得非常紧张。"
+        },
+        {
+          "s": "They focus on one thing and do it really well.",
+          "src": "2024北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "他们专注于一件事并且做得非常好。"
+        },
+        {
+          "s": "I find during the winter months, plants around the house can really lift your mood.” Several studies have backed this up and found that indoor plants can improve creativity, focus and memory.",
+          "src": "2023全国乙卷·七选五",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我发现在冬季的几个月里，房子周围的植物真的能提振你的情绪。”多项研究证实了这一点，发现室内植物可以提高创造力、专注力和记忆力。"
+        },
+        {
+          "s": "Wendy Wilson, extra care manager at 60 Penfold Street, one of the first to embark on the project, said: “Residents really welcome the idea of the project and the creative sessions.",
+          "src": "2022全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Penfold街60号的额外护理经理Wendy Wilson是最早参与该项目的人之一，她说：\"居民们非常欢迎这个项目和创意活动。"
+        },
+        {
+          "s": "The work really gives me a boost.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这工作真的让我精神振奋。"
+        },
+        {
+          "s": "I've got two children—the younger one, Kynan, was extremely happy about the tigers arriving - but all of us really looked forward to being part of their lives and watching them grow.",
+          "src": "2021新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我有两个孩子——小儿子凯南对老虎的到来极其高兴——但我们所有人都真的很期待成为它们生活的一部分，看着它们长大。"
+        },
+        {
+          "s": "It's really easy to do!",
+          "src": "2021全国甲卷·Swap, Don’t shop!",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "这真的很容易做到！"
+        },
+        {
+          "s": "\"It's a really great 33    for kids,“ said a neighbor in an interview with the local newspaper.",
+          "src": "2021天津3月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“这对孩子们来说真是个很棒的33___，”一位邻居在接受当地报纸采访时说。"
+        },
+        {
+          "s": "My mom is really concerning with the health of everyone in our families.",
+          "src": "2020全国III卷·短文改错",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我妈妈真的很关心我们家里每个人的健康。"
+        },
+        {
+          "s": "一You seem to be in a really good mood.",
+          "src": "2020天津3月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "—你看起来心情真的很好。"
+        },
+        {
+          "s": "My little voice has made me feel really shy.",
+          "src": "2020天津3月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我内心的声音让我感到非常害羞。"
+        },
+        {
+          "s": "But for the rest of the time she is a super dog, and we are all really proud of her.\"",
+          "src": "2020北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "但在其余时间里，她是一只超级狗，我们都为她感到骄傲。"
+        },
+        {
+          "s": "Then I got to the point where I was  45  really late at night to get my work alone.",
+          "src": "2018浙江6月卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "然后我到了____45____深夜独自完成工作的地步。"
+        },
+        {
+          "s": "They looked really cool.",
+          "src": "2018浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "它们看起来真的很酷。"
+        },
+        {
+          "s": "are really fascinated by nature",
+          "src": "2018天津卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "B．对自然真的非常着迷"
+        },
+        {
+          "s": "The house is really good because the bathroom is attached to the bedroom.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "这房子很好，因为浴室与卧室相连。"
+        },
+        {
+          "s": "“I know I was really lucky,” Paris says now.",
+          "src": "2017北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“我真幸运，”帕里斯现在说。"
+        },
+        {
+          "s": "Lisa: Orientation Day was really helpful.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "丽莎：迎新日真的很有帮助。"
+        },
+        {
+          "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
+        },
+        {
+          "s": "He had told me that his grandfather was \"really wicked\".",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "t": "他告诉我他祖父真的很坏。"
+        },
+        {
+          "s": "Another way of strengthening an apology is by using and stressing adverbs: I'm really sorry, I'm so sorry.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "加强道歉的另一种方式是使用并强调副词：我真的很抱歉，我非常抱歉。"
+        },
+        {
+          "s": "I woke up really early and tip-toed to the kitchen.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "我真的很早就醒了，踮着脚走到厨房。"
         }
       ]
+    },
+    {
+      "def": "（常用于否定句以减弱语气）",
+      "ex": []
+    },
+    {
+      "def": "（用于疑问句和否定句，期望对方给以否定的答复）",
+      "ex": []
+    },
+    {
+      "def": "（答话时表示感兴趣或惊讶）",
+      "ex": [
+        {
+          "s": "It will really help connect our residents through a shared interest and creative activities.”",
+          "src": "2022全国新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这真的会通过共同兴趣和创造性活动，帮助我们的住户建立联系。"
+        }
+      ]
+    },
+    {
+      "def": "（表示不赞同某人所为）",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "parents recipes",
-      "cn": "父亲 烹饪法",
+      "en": "not really",
+      "cn": "不 事实上",
+      "type": "副词搭配",
+      "count": 4
+    },
+    {
+      "en": "really good",
+      "cn": "事实上 好的",
+      "type": "副词搭配",
+      "count": 2
+    },
+    {
+      "en": "really cool",
+      "cn": "事实上 凉的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "really easy",
+      "cn": "事实上 容易的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "really great",
+      "cn": "事实上 大的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "really helpful",
+      "cn": "事实上 有用的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "really impressive",
+      "cn": "事实上",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "really interesting",
+      "cn": "事实上 有趣的",
+      "type": "副词搭配",
+      "count": 1
+    },
+    {
+      "en": "do we really",
+      "cn": "做 我们 事实上",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "recipe books",
-      "cn": "烹饪法 书",
-      "type": "名词短语",
+      "en": "really matter",
+      "cn": "事实上 课题",
+      "type": "动词短语",
       "count": 2
     },
     {
-      "en": "some recipes",
-      "cn": "一些 烹饪法",
-      "type": "名词短语",
+      "en": "really matters",
+      "cn": "事实上 课题",
+      "type": "动词短语",
       "count": 2
     },
     {
-      "en": "chinese recipe",
-      "cn": "中国人 烹饪法",
-      "type": "名词短语",
-      "count": 1
+      "en": "really need",
+      "cn": "事实上 需要",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "dentists recipe",
-      "cn": "牙科医生 烹饪法",
-      "type": "名词短语",
-      "count": 1
+      "en": "really should do something",
+      "cn": "事实上 应 做 某事",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "excellent recipe",
-      "cn": "优秀的 烹饪法",
-      "type": "名词短语",
-      "count": 1
+      "en": "really want",
+      "cn": "事实上 要",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "food recipes",
-      "cn": "食物 烹饪法",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "old recipes",
-      "cn": "具体年龄 烹饪法",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a recipe without",
-      "cn": "一个 烹饪法 没有",
+      "en": "a lot of really",
+      "cn": "一个 很 的 事实上",
       "type": "介词短语",
       "count": 1
     }

@@ -1,90 +1,93 @@
 {
   "meta": {
-    "ph": "ˈpɪknɪk; NAmE ˈpɪknɪk",
-    "pos": "noun",
-    "stars": ""
+    "ph": "ˌpesɪˈmɪstɪk; NAmE ˌpesɪˈmɪstɪk",
+    "pos": "adj.",
+    "stars": "★★"
   },
   "defs": [
     {
-      "def": "an occasion when people pack a meal and take it to eat outdoors, especially in the countryside 野餐",
+      "def": "expecting bad things to happen or sth not to be successful; showing this 悲观的；悲观主义的adv.",
       "ex": [
         {
-          "s": "We have picnics, read books under big trees, and listen to the birds singing in the branches.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "year": "",
-          "t": "我们野餐、在大树下读书，听鸟儿在枝头歌唱。"
+          "s": "Arthur K This book is about dying, but it is not pessimistic.",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "亚瑟\\u00b7K：这本书是关于死亡的，但它并不悲观。"
         },
         {
-          "s": "Some of the best family holidays involve things like picnics, camping, hikes, and forest walks.",
-          "src": "人教选必1 U5",
+          "s": "Many of us try to change bad habits quickly, and if we are not successful straight away, we often become pessimistic and give up.",
+          "src": "人教选必3 U2",
           "cat": "renjiao",
-          "year": "",
-          "t": "一些最好的家庭假期包括野餐、露营、远足和森林漫步等活动。"
+          "t": "我们中的许多人试图快速改变坏习惯，如果不能立刻成功，我们往往会变得悲观并放弃。"
         },
         {
-          "s": "We went on nature walks, had picnics on beautiful beaches and drank hot chocolate underthestars.",
-          "src": "北师大B1 U1",
+          "s": "There are many timesI have been pessimistic or even disappointed by a film of a book I love.",
+          "src": "北师大选必2 U6",
           "cat": "beishida",
-          "year": "",
-          "t": "我们去大自然散步，在美丽的海滩上野餐，在星空下喝热巧克力。"
+          "t": "有很多次，我对我喜爱的一本书改编的电影感到悲观甚至失望。"
         },
         {
-          "s": "00 P．M．  Awards ceremony and picnic",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "晚上7:00　颁奖典礼与野餐。"
-        },
-        {
-          "s": "B: Well, it’s going to be sunny in the morning and not very windy, so I’m having a picnic with my friends.",
-          "src": "人教B1 U2",
-          "cat": "renjiao",
-          "year": "",
-          "t": "B:嗯，明天早上会很晴朗，但风力不强，所以我要和我的朋友们一起野餐。"
+          "s": "While some communities are pessimistic about the exchange between languages there are also other communities that readily welcome borrowed words.",
+          "src": "译林选必4 U2",
+          "cat": "yilin",
+          "t": "虽然一些社区对语言之间的交流持悲观态度，但也有一些社区欣然欢迎借用词汇。"
         }
       ]
-    },
-    {
-      "def": "the meal, usually consisting of sandwiches, salad and fruit, etc. that you take with you when you go on a picnic 野餐食物",
-      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "ceremony and picnic",
-      "cn": "典礼 与 野餐",
+      "en": "become pessimistic",
+      "cn": "开始变得 悲观的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "not pessimistic",
+      "cn": "不 悲观的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "pessimistic about",
+      "cn": "悲观的 大约",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "are pessimistic about",
+      "cn": "是 悲观的 大约",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "been pessimistic or even",
+      "cn": "是 悲观的 或 甚至",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "picnics read",
-      "cn": "野餐 不用于进行时",
+      "en": "communities are pessimistic",
+      "cn": "社区 是 悲观的",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "a picnic with my",
-      "cn": "一个 野餐 与 我的",
-      "type": "介词短语",
+      "en": "often become pessimistic",
+      "cn": "时常 开始变得 悲观的",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "had picnics on beautiful",
-      "cn": "有 野餐 在…上 美丽的",
-      "type": "动词短语",
+      "en": "pessimistic and give",
+      "cn": "悲观的 与 给",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "involve things like picnics",
-      "cn": "包含 东西 像 野餐",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "like picnics",
-      "cn": "像 野餐",
-      "type": "介词短语",
+      "en": "pessimistic or even",
+      "cn": "悲观的 或 甚至",
+      "type": "名词短语",
       "count": 1
     }
   ]

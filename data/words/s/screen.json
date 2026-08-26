@@ -1,309 +1,535 @@
 {
   "meta": {
-    "ph": "skriːn; NAmE skriːn",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
+    "ph": "ˈsaɪəns; NAmE ˈsaɪəns",
+    "pos": "noun",
     "stars": ""
   },
   "defs": [
     {
-      "def": "the flat surface at the front of a television, computer, or other electronic device, on which you see pictures or information 屏幕；荧光屏",
+      "def": "knowledge about the structure and behaviour of the natural and physical world, based on facts that you can prove, for example by experiments 科学；自然科学",
       "ex": [
         {
-          "s": "The parent argued that none of her friends’ parents let them have screens after 9 o’clock.",
+          "s": "High levels of knowledge can make people too attached to traditional ways of viewing problems across fields the arts, sciences, and politics.",
+          "src": "2022浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "高知识水平可能让人们在艺术、科学和政治等各领域过于执着于传统的看问题方式。"
+        },
+        {
+          "s": "In the sciences and arts, those praised as geniuses were most often white men, of European origin.",
+          "src": "2021全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "在科学和艺术领域，那些被誉为天才的人往往是欧洲裔白人男性。"
+        },
+        {
+          "s": "Around the world, kids are using imagination in ways that were once only found in science fiction.",
+          "src": "2025北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在世界各地，孩子们正以曾经只在科幻小说中才能找到的方式运用想象力。"
+        },
+        {
+          "s": "In my view, science is not simple, and neither is the natural world.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在我看来，科学并不简单，自然世界也不简单。"
+        },
+        {
+          "s": "Back when science—then called “the new philosophy”—took shape, academics looked to craftsmen for help in understanding the natural world.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "早在科学——当时被称为『新哲学』——成形之时，学者们就向工匠寻求帮助，以理解自然世界。"
+        },
+        {
+          "s": "·Agricultural Science: Introducing you to areas such as biology, urban farming, and environmental science so that you can explore the field of agriculture",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "·农业科学：向您介绍生物学、城市农业和环境科学等领域，以便您能探索农业领域"
+        },
+        {
+          "s": "·Science Lab: Leading you to explore the skills you need to succeed in life in key areas like computer science, robotics, and physics",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "科学实验室：引导你在计算机科学、机器人技术和物理等关键领域探索成功生活所需技能。"
+        },
+        {
+          "s": "Science provides a guide we can use to harness the way we perform these comparisons to reduce their negative emotional impacts.",
           "src": "2025北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2025,
-          "t": "那位家长争辩说，她朋友的父母都不让孩子在9点后碰屏幕。"
+          "t": "科学提供了一个指南，我们可以借此引导自己进行这些比较的方式，以减少其负面情绪影响。"
         },
         {
-          "s": "Today’s children spend an average of four and a half hours a day looking at screens, split between watching television and using the Internet.",
-          "src": "2021浙江6月卷·阅读理解B",
+          "s": "In science, what we do is both hard and, often, hard to explain.",
+          "src": "2022天津4月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2021,
-          "t": "如今的孩子每天花在屏幕前的时间平均为四个半小时，分为看电视和上网。"
+          "year": 2022,
+          "t": "在科学领域，我们所做的既困难，而且往往也难以解释。"
         },
         {
-          "s": "The dogs can go to the other side of the screen.",
-          "src": "2023天津6月卷·阅读理解C",
+          "s": "The history of science offers many examples of matters that scientists thought they had resolved, only to discover that these matters needed to be reconsidered.",
+          "src": "2022天津4月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "狗可以走到屏幕的另一侧。"
+          "year": 2022,
+          "t": "科学史提供了许多这样的例子：科学家们以为已经解决了的问题，后来却发现需要重新考虑。"
         },
         {
-          "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
-          "src": "2018全国II卷·阅读理解C",
+          "s": "What does the author think of the methods of science?",
+          "src": "2022天津4月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
+          "year": 2022,
+          "t": "作者如何看待科学方法？"
         },
         {
-          "s": "They stay in front of screens for too long.",
-          "src": "2021浙江6月卷·阅读理解B",
+          "s": "Efforts in Science: Dreaming Big",
+          "src": "2022天津4月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2021,
-          "t": "他们在屏幕前待的时间太长了。"
+          "year": 2022,
+          "t": "科学努力：远大梦想"
         },
         {
-          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
-          "src": "2018上海卷·Section A",
+          "s": "Science: Endless Journey to Truth",
+          "src": "2022天津4月卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
+          "year": 2022,
+          "t": "科学：通往真理的无尽旅程"
         },
         {
-          "s": "“But my screen time is off,” he said.",
-          "src": "2026新高考I卷·阅读理解B",
+          "s": "For the past five years, Paula Smith, a historian of science, has devoted herself to re-creating long-forgotten techniques.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在过去的五年里，科学史家 Paula Smith 一直致力于重现早已被遗忘的技术。"
+        },
+        {
+          "s": "Technology advances science．",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "A．技术推动科学。"
+        },
+        {
+          "s": "Science interacts with technology．",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "B. 科学与技术相互作用。"
+        },
+        {
+          "s": "Stephanie Dutkiewicz，a scientist in MIT's Center for Global Change Science，built a climate model that projects changes to the oceans throughout the century.",
+          "src": "2019北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "麻省理工学院全球变化科学中心的科学家斯蒂芬妮·杜特凯维奇建立了一个气候模型，预测本世纪海洋的变化。"
+        },
+        {
+          "s": "Don’t forget to stop by Pacific Science Center’s Store while you are here to pick up a wonderful science activity or remember your visit.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "在此期间，别忘了顺道去太平洋科学中心的商店，挑选一项精彩的科学活动或纪念品来纪念你的参观。"
+        },
+        {
+          "s": "Visit pacificsciencecenter.org to find various ways you can support Pacific Science Center.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "访问 pacificsciencecenter.org 了解你能支持太平洋科学中心的各种方式。"
+        },
+        {
+          "s": "Where can you buy a souvenir at Pacific Science Center?",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "你在太平洋科学中心哪里能买纪念品？"
+        },
+        {
+          "s": "Today Pacific Science Center serves more than 1.3 million people a year and beings inquiry-based science education to classrooms and community events all over Washington State.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "今天，太平洋科学中心每年为130多万人提供服务，为华盛顿州各地的教室和社区活动提供以调查为基础的科学教育。"
+        },
+        {
+          "s": "When I first brought my hobbies to my classroom, I was focused on how doing so would build engagement and help my students understand concepts in science.",
+          "src": "2026浙江1月卷·阅读理解B",
           "cat": "gaokao",
           "year": 2026,
-          "t": "“可我的屏幕使用时间已经用完了。”他说。"
+          "t": "最初把爱好带进课堂时，我关注的是这样做能如何提高参与度、帮助学生理解科学概念。"
         },
         {
-          "s": "Not too long ago, on a cold winter night, there was a teenager who wanted more screen time and a parent who said no.",
+          "s": "Besides, your parents will also be able to participate in workshops selected just for them to learn about cutting-edge science.",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "此外，你的父母也能参加专为家长挑选的研讨会，了解前沿科学。"
+        },
+        {
+          "s": "Volunteer in a science lab.",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在科学实验室做志愿者。"
+        },
+        {
+          "s": "The program aims to help students develop science skills, environmental awareness, and healthy lifestyles.",
+          "src": "2023新课标II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "该项目旨在帮助学生培养科学技能、环境意识和健康的生活方式。"
+        },
+        {
+          "s": "Learning how science develops.",
+          "src": "2023天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "了解科学如何发展。"
+        },
+        {
+          "s": "To reveal the beauty of science in an artistic way.",
+          "src": "2023天津3月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "为了以艺术的方式揭示科学之美。"
+        },
+        {
+          "s": "I had put so much time and emotional energy into applying, and I thought the rejection meant the end of the road for my science career.",
+          "src": "2023北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "我在申请上投入了那么多时间和情感精力，我以为那封拒信意味着我的科学事业走到了尽头。"
+        },
+        {
+          "s": "The reason is simple: we know of just one type of life and it’s challenging to do science with a sample size of one.",
+          "src": "2023北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "原因很简单：我们只知道一种生命，而用样本量为一来做科学是很有挑战性的。"
+        },
+        {
+          "s": "It’s this strange form that makes race walking such an attractive activity, however, says Jaclyn Norberg, an assistant professor of exercise science at Salem State University in Salem, Mass.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "然而，位于马萨诸塞州塞勒姆的塞勒姆州立大学运动科学助理教授Jaclyn Norberg说，正是这种奇特的形式使竞走成为一项如此有吸引力的运动。"
+        },
+        {
+          "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
+          "src": "2020天津6月卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
+        },
+        {
+          "s": "Craftsmen Reshape the Future of Science",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "工匠重塑科学未来"
+        },
+        {
+          "s": "It depending on NASA HUNCH high school class, like the one science teachers Gene Gordon and Donna Himmelberg lead at Fairport High School in Fairport, New York.",
+          "src": "2019全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这依赖于NASA HUNCH高中课程，比如纽约州费尔波特费尔波特高中科学教师吉恩·戈登和多娜·希梅尔伯格所带领的那个班级。"
+        },
+        {
+          "s": "Pacific Science Center Guide",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "太平洋科学中心指南。"
+        },
+        {
+          "s": "◆Visit Pacific Science Center’s Store",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "◆参观太平洋科学中心的商店"
+        },
+        {
+          "s": "The café is located upstairs in Building 1 and is open daily until one hour before Pacific Science Center closes.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "咖啡厅位于1号楼楼上，每天开放至太平洋科学中心闭馆前一小时。"
+        },
+        {
+          "s": "◆Support Pacific Science Center",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "◆支持太平洋科学中心"
+        },
+        {
+          "s": "What does Pacific Science Center do for schools?",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "太平洋科学中心为学校做些什么？"
+        },
+        {
+          "s": "Train science teachers.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "培养科学教师。"
+        },
+        {
+          "s": "In addition, important advances have been made in machine and environmental science thanks to increasing computer power.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "此外，由于计算机能力的提高，机器和环境科学也取得了重要进展。"
+        },
+        {
+          "s": "As Kristian Hammond, professor of electrical engineering and computer science at Northwestern University, put it: “There’s never a stage at which the system knows what it’s talking about.”",
+          "src": "2023浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "正如西北大学电气工程与计算机科学教授克里斯蒂安·哈蒙德所言：系统从来没有一个阶段知道自己到底在说什么。"
+        }
+      ]
+    },
+    {
+      "def": "the study of science 自然科学的学习与研究；理科",
+      "ex": [
+        {
+          "s": "“Our cooperation is truly proof of what makes Salk science so special and impactful,” says Pereira.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "\"我们的合作真正证明了萨尔克科学的特殊性和影响力，\"佩雷拉说。"
+        },
+        {
+          "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"
+        },
+        {
+          "s": "Note to teachers: Children’s Theatre has a study guide demonstrating how math and science can be taught through “Tom Sawyer.” For downloadable lessons, visit the official website of Children’s Theatre.",
+          "src": "2024浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "对教师的说明：儿童剧院有一份研究指南，说明如何通过“Tom Sawyer”教授数学和科学。 对于可下载的课程，请访问儿童剧院的官方网站。"
+        },
+        {
+          "s": "Science is a process of learning and discovery, and sometimes we learn that what we thought was right is wrong.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "科学是一个学习和发现的过程，有时我们学到，我们原以为对的东西是错的。"
+        },
+        {
+          "s": "Scientists: Defenders of Science",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "科学家：科学的捍卫者"
+        },
+        {
+          "s": "What can we infer about girls from the study in Science?",
+          "src": "2021全国甲卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "从《科学》上的研究关于女孩能推断出什么？"
+        },
+        {
+          "s": "The findings were published in the journal Developmental Science.",
+          "src": "2020全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "研究结果发表在《发展科学》期刊上。"
+        },
+        {
+          "s": "Her final goal is to link the worlds of art and science back together: She believes that bringing the old recipes to life can help develop a kind of learning that highlights experimentation, teamwork, and problem solving.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "她的最终目标是把艺术与科学这两个世界重新联系起来：她相信，让古老配方“活”起来，有助于发展一种强调实验、团队合作和解决问题的学习方式。"
+        },
+        {
+          "s": "To present the findings of old science.",
+          "src": "2020北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "展示旧科学的发现。"
+        },
+        {
+          "s": "Science has made the study of history easy．",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "C．科学让历史研究变得容易。"
+        },
+        {
+          "s": "But in science, facts should be proved by experiments and research, and we should not always believe everything we read or hear – even if it is a great story.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "但在科学领域，事实应该通过实验和研究来证明，我们不应该总是相信我们读到或听到的一切——即使它是一个精彩的故事。"
+        },
+        {
+          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
+        },
+        {
+          "s": "I’m a   66  (science) who studies animals such as apes and monkeys.",
+          "src": "2018全国III卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "我是一名研究猿、猴等动物的___66___（science）。"
+        },
+        {
+          "s": "Take science to the classroom.",
+          "src": "2017全国I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "我的下一项工作是建造一个鸟巢并将其固定在树上。"
+        },
+        {
+          "s": "A science fiction.",
+          "src": "2017江苏卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "一本科幻小说。"
+        },
+        {
+          "s": "It publishes popular science fictions.",
+          "src": "2017北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它出版通俗科幻小说。"
+        },
+        {
+          "s": "Often called the “Father of science fiction”.",
+          "src": "外研社B3 U5",
+          "cat": "waiyan",
+          "t": "常被称为科幻小说之父。"
+        },
+        {
+          "s": "In fact, the methods of science have varied between disciplines and across time.",
+          "src": "2022天津4月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "事实上，科学的方法在不同学科和不同时期都有所不同。"
+        },
+        {
+          "s": "\"With our study, we think we can now confidently conclude that at least some dogs can distinguish human facial expressions,\" Muller told Live Science.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "\"对我们来说最可能的解释是基础在于它们与人类的生活这给了它们大量接触人类面部表情的机会，\"穆勒说而这种接触为它们提供了许多学习区分的机会。"
+        },
+        {
+          "s": "Learning to learn Words about different careers in science can be formed by adding –ed, -ist, or –ian at the end of the words about subjects, eg biology-biologist.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "学习学习科学中不同职业的词汇可以通过在关于学科的词尾加上-ed,-ist，或-ian，如生物学-生物学家来形成。"
+        }
+      ]
+    },
+    {
+      "def": "a particular branch of science 自然科学学科",
+      "ex": [
+        {
+          "s": "His books cover a lot of subjects, including philosophy, logic, politics and natural science.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "他的书涉及许多学科，包括哲学、逻辑学、政治学和自然科学。"
+        },
+        {
+          "s": "Great improvements in public health have been brought about by                   in medical science.",
+          "src": "2021天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "公共卫生方面的巨大进步是由                   医学科学带来的。"
+        }
+      ]
+    },
+    {
+      "def": "a system for organizing the knowledge about a particular subject, especially one concerned with aspects of human behaviour or society （尤指人文、社会）学科，学",
+      "ex": [
+        {
+          "s": "Social Comparisons Can Be Controlled by Science",
           "src": "2025北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2025,
-          "t": "不久前，在一个寒冷的冬夜，有一个想要更多屏幕时间的少年，和一位说“不行”的家长。"
+          "t": "社会比较可以通过科学加以控制"
         },
         {
-          "s": "The researchers observed that the dogs were much more patient, making more eye contact and staying closer to the screen after the “unable” scenario played out.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "研究人员观察到，在“不能”的情景播放后，这些狗表现得更有耐心，更多地进行眼神交流，并更靠近屏幕。"
-        },
-        {
-          "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
-        },
-        {
-          "s": "However, what my children want to do after school is pick up a screen — any screen — and stare at it for hours.",
-          "src": "2021浙江6月卷·阅读理解B",
+          "s": "hold a master's degree in science",
+          "src": "2021北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2021,
-          "t": "然而，我的孩子们放学后想做的，是拿起一块屏幕——任何屏幕——然后盯着它看上几个小时。"
-        },
-        {
-          "s": "special clothes and a screen",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．特殊服装和屏幕"
-        },
-        {
-          "s": "Of course, children aren’t completely to blame for their screen addiction.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然78%的父母说他们认为自己是良好的屏幕时间榜样，但研究发现他们的行为和他们对自己行为的认知之间存在脱节。"
-        },
-        {
-          "s": "While 78 percent of parents said they believed they were good screen time role models, the study found a disconnect between their behavior and their perception of their behavior.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然78%的父母说他们相信自己是有良好屏幕时间榜样的人，但研究发现他们的行为与他们对自身行为的认知之间存在脱节。"
-        },
-        {
-          "s": "Scott Fitzgerald’s most admired work will find themselves glued to their screens by episodes of The Great Gatsby.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "菲茨杰拉德最受推崇的作品的爱好者，会被《了不起的盖茨比》的剧集牢牢吸引在屏幕前。"
-        }
-      ]
-    },
-    {
-      "def": "the large flat surface that films/movies or pictures are shown on 银幕",
-      "ex": [
-        {
-          "s": "This means that great books can lose plot details and characters when they move to the big screen.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "这意味着伟大的书籍在搬上大银幕时可能会丢失情节细节和人物。"
-        }
-      ]
-    },
-    {
-      "def": "films/movies or television in general （统称）电影，电视",
-      "ex": []
-    },
-    {
-      "def": "the data or images shown on a computer screen （电脑屏幕上）一屏的内容；画面",
-      "ex": [
-        {
-          "s": "The large board in the corner had been replaced by a big screen, where customers’ comments on the month’s best-seller were being displayed.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "角落里的大板子已被一块大屏幕取代，屏幕上显示着顾客对当月畅销书的评论。"
-        },
-        {
-          "s": "Even though Britain has a reputation for less-than-impressive cuisine, it is producing more top class chefs who appear frequently on our television screens and whose recipe books frequently top the best seller lists.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "尽管英国以平庸的烹饪闻名，但它正在培养出更多一流厨师，他们频繁出现在电视屏幕上，其食谱书也经常登上畅销榜榜首。"
-        },
-        {
-          "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "纪录片：一种视觉展示（如视频、幻灯片或电脑作品），时长不超过10分钟。将提供台式电脑、屏幕、投影仪和扬声器。学生必须在3月23日星期五之前将展示内容刻录在CD上提交。"
-        },
-        {
-          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "影片制作人大卫·邦德(David Bond)在几年前意识到，他的孩子当时五岁三岁，被贴在屏幕上，以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
-        },
-        {
-          "s": "“We usually think in very concrete terms when doing something on a screen,” said Simone Schnall, senior author of the study.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“我们在屏幕上做事情时，通常用非常具体的方式思考，”该研究的主要作者Simone Schnall说。"
-        },
-        {
-          "s": "They teased the dog by fixing the treat to the screen.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一次难忘的体育赛事。"
-        },
-        {
-          "s": "In the near future，it's not just going to be the number you see on your screen that will be in doubt.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在不久的将来，不仅仅是你在屏幕上看到的数字将受到质疑。"
-        }
-      ]
-    },
-    {
-      "def": "a vertical piece of furniture or equipment that is fixed or that can be moved to divide a room or to keep one area hidden or separate 隔板；屏风；幕；帘；帐",
-      "ex": [
-        {
-          "s": "Both scenarios involved a dog being placed on one side of a glass screen with small holes in it at nose-height, and an experimenter standing on the other.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两种场景都是把狗放在一块玻璃屏风的一侧，屏风上在与狗鼻子齐高的位置有一些小孔，而实验员站在另一侧。"
-        },
-        {
-          "s": "And the stage was really simple: a decorated whip represented a horse, and a screen with Chinese characters, a study.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "舞台其实很简单：一条装饰过的鞭子代表一匹马，一块写有汉字的屏风代表书房。"
-        }
-      ]
-    },
-    {
-      "def": "something that prevents sb from seeing or being aware of sth, or that protects sb/sth 掩蔽物；掩护物；屏障；庇护",
-      "ex": []
-    },
-    {
-      "def": "a wire or plastic net that is held in a frame and fastened on a window, or a door, to let in air but keep out insects 纱窗；纱门",
-      "ex": []
-    },
-    {
-      "def": "a wood or stone structure in a church, that partly separates the main area from the altar or choir （拦在圣坛或唱诗班四周的木质或石砌）围屏",
-      "ex": []
-    },
-    {
-      "def": "to hide or protect sth/sb by placing sth in front of or around them 掩藏；遮蔽；保护",
-      "ex": []
-    },
-    {
-      "def": "to protect sb from sth dangerous or unpleasant, especially to protect sb who has done sth illegal or dishonest 庇护；包庇；袒护",
-      "ex": []
-    },
-    {
-      "def": "to examine people in order to find out if they have a particular disease or illness 筛查；检查",
-      "ex": []
-    },
-    {
-      "def": "to find out information about people who work or who want to work for you in order to make sure that they can be trusted 公司、组织等",
-      "ex": []
-    },
-    {
-      "def": "to check sth to see if it is suitable or if you want it 审查；筛选",
-      "ex": []
-    },
-    {
-      "def": "to show a film/movie, etc. in a cinema/movie theater or on television 放映（电影）；播放（电视节目）",
-      "ex": [
-        {
-          "s": "There is no doubt that the Bernina Express is a journey for travellers who want to get back to nature: the train window becomes the TV screen, and the natural world is the show.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "毫无疑问，贝尔尼纳快车是为想要回归自然的旅行者准备的旅程：火车窗户变成了电视屏幕，自然界就是节目。"
+          "t": "持有理学硕士学位"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "screen time",
-      "cn": "屏幕 时间",
+      "en": "pacific science",
+      "cn": "平静的 科学",
+      "type": "名词短语",
+      "count": 9
+    },
+    {
+      "en": "science center",
+      "cn": "科学",
+      "type": "名词短语",
+      "count": 9
+    },
+    {
+      "en": "environmental science",
+      "cn": "科学",
+      "type": "名词短语",
+      "count": 6
+    },
+    {
+      "en": "science fiction",
+      "cn": "科学 小说",
       "type": "名词短语",
       "count": 4
     },
     {
-      "en": "big screen",
-      "cn": "大的 屏幕",
+      "en": "agricultural science",
+      "cn": "科学",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "any screen",
-      "cn": "任何 屏幕",
+      "en": "computer science",
+      "cn": "计算机 科学",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "computer screen",
-      "cn": "计算机 屏幕",
+      "en": "developmental science",
+      "cn": "科学",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "glass screen",
-      "cn": "玻璃 屏幕",
+      "en": "science lab",
+      "cn": "科学",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "good screen",
-      "cn": "好的 屏幕",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "more screen",
-      "cn": "更多 屏幕",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "screen addiction",
-      "cn": "屏幕",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a screen with chinese",
-      "cn": "一个 屏幕 与 中国人",
+      "en": "methods of science",
+      "cn": "方法 的 科学",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "about increased screen",
-      "cn": "大约 增长 屏幕",
-      "type": "介词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }

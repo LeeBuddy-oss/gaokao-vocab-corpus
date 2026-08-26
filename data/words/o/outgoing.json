@@ -1,101 +1,139 @@
 {
   "meta": {
-    "ph": "ˈaʊtɡəʊɪŋ; NAmE ˈaʊtɡoʊɪŋ",
-    "pos": "adj.",
-    "stars": "★★"
+    "ph": "ˈɒrɪndʒ; NAmE ˈɔːrɪndʒ",
+    "pos": "noun",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "liking to meet other people, enjoying their company and being friendly towards them 爱交际的；友好的；外向的",
+      "def": "a round citrus fruit with thick reddish-yellow skin and a lot of sweet juice 橙子；柑橘",
       "ex": [
         {
-          "s": "Well, it functions by analyzing the waves of the incoming sound and creating a second set of outgoing waves.",
-          "src": "2020天津6月卷·阅读理解C",
+          "s": "Handing out sliced oranges to bloodthirsty kids can be as exciting as watching your own kid score a goal.",
+          "src": "2019全国II卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "它通过分析传入声波的波形，并产生第二组传出声波来工作。"
+          "t": "给那些“嗜血”的孩子们分发橙子片，可能和看自家孩子进球一样令人兴奋。",
+          "year": 2019
         },
         {
-          "s": "He is very outgoing and talkative.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "t": "他非常外向和健谈。"
-        },
-        {
-          "s": "You don’t need to have overseas experience, but you should be friendly and outgoing.",
-          "src": "人教选必4 U4",
-          "cat": "renjiao",
-          "t": "你不需要有海外经历，但你应该友好和外向。"
-        },
-        {
-          "s": "Apply for a summer job Are you an active and outgoing person?",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "申请一份暑期工作 你是一个活跃外向的人吗？"
-        },
-        {
-          "s": "Not only can I do more, but I have also become more confident and outgoing.",
-          "src": "译林选必2 U3",
-          "cat": "yilin",
-          "t": "我不仅能做更多的事情，而且我也变得更自信和外向了。"
+          "s": "He found inspiration where others could not, in simple, everyday scenes, such as a man buying oranges at the local grocery store, or a woman riding home on the graffiti-covered subway.",
+          "src": "外研社B6 U2",
+          "cat": "waiyan",
+          "t": "他在别人找不到灵感的地方找到了它，在简单的日常场景中，比如一个人在当地的杂货店买橙子，或一个女人在满墙涂鸦的地铁上骑车回家。"
         }
       ]
     },
     {
-      "def": "leaving the position of responsibility mentioned 将卸任的；离职的",
-      "ex": []
+      "def": "orange juice, or a drink made from or tasting of oranges 橙汁；橘汁饮料",
+      "ex": [
+        {
+          "s": "In the southern part of China, people will buy fresh flowers or orange trees to decorate their homes.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "在中国南方，人们会买鲜花或橘子树来装饰他们的家。"
+        },
+        {
+          "s": "(I want) Orange juice, please.",
+          "src": "人教B3 U5",
+          "cat": "renjiao",
+          "t": "请给我橙汁。"
+        },
+        {
+          "s": "Every autumn, millions of these beautiful insects with fine black and orange wings begin a long and difficult journey.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "每年秋天，数以百万计这些长着黑橙相间美丽翅膀的昆虫开始一段漫长而艰难的旅程。"
+        }
+      ]
     },
     {
-      "def": "going away from a particular place rather than arriving in it 向外的；离开的",
-      "ex": []
+      "def": "a bright reddish-yellow colour 橙红色；橘黄色",
+      "ex": [
+        {
+          "s": "Then, little more than a minute after take-off, we saw a strange red and orange light in the sky, followed by a cloud of white smoke.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "然后，起飞后刚刚一分多钟，我们看到天空中有一道奇怪的红色和橙色光芒，接着是一团白烟。"
+        }
+      ]
+    },
+    {
+      "def": "bright reddish-yellow in colour 橙红色的；橘黄色的",
+      "ex": [
+        {
+          "s": "The yellow and orange stone fruits such as peaches are high in the carotenoids we turn into vitamin A and which are antioxidants.",
+          "src": "2018全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "t": "桃子等黄色和橙色核果富含类胡萝卜素，我们将其转化为维生素A，且它们是抗氧化剂。",
+          "year": 2018
+        }
+      ]
+    },
+    {
+      "def": "related to or belonging to a Protestant political group which believes that Northern Ireland should remain part of the UK 奥兰治党的，奥兰治社团的（新教政治团体，主张北爱尔兰继续隶属英国）",
+      "ex": [
+        {
+          "s": "That’s exactly what is happening in small neighborhoods around the country from Orange County, California, where 22 measles cases were reported this month, to Brooklyn, N.Y., where a 17-year-old caused an outbreak last year.",
+          "src": "2017北京卷·阅读理解C",
+          "cat": "gaokao",
+          "t": "这正是全国各个小社区正在发生的情况，从本月报告了22例麻疹的加州奥兰治县，到去年一名17岁少年引发疫情的纽约布鲁克林。",
+          "year": 2017
+        }
+      ]
     }
   ],
   "chunks": [
     {
-      "en": "active and outgoing",
-      "cn": "忙碌的 与 爱交际的",
+      "en": "black and orange",
+      "cn": "黑的 与 橙子",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "an active and outgoing",
-      "cn": "一个 忙碌的 与 爱交际的",
+      "en": "orange county",
+      "cn": "橙子 郡",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and outgoing person",
-      "cn": "与 爱交际的 人",
+      "en": "orange juice",
+      "cn": "橙子 果汁",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "be friendly and outgoing",
-      "cn": "是 友爱的 与 爱交际的",
+      "en": "orange light",
+      "cn": "橙子 光",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "confident and outgoing",
-      "cn": "自信的 与 爱交际的",
+      "en": "orange stone",
+      "cn": "橙子 常用于名词前或构成复合词",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "friendly and outgoing",
-      "cn": "友爱的 与 爱交际的",
+      "en": "orange trees",
+      "cn": "橙子 树",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "more confident and outgoing",
-      "cn": "更多 自信的 与 爱交际的",
+      "en": "orange wings",
+      "cn": "橙子 翅膀",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "of outgoing waves",
-      "cn": "的 爱交际的 海浪",
+      "en": "sliced oranges",
+      "cn": "薄片 橙子",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "country from orange",
+      "cn": "国 从 橙子",
       "type": "介词短语",
       "count": 1
     }

@@ -1,92 +1,69 @@
 {
   "meta": {
-    "ph": "səbˈstænʃl; NAmE səbˈstænʃl",
-    "pos": "adj.",
-    "stars": "★★"
+    "ph": "ˈswetə(r); NAmE ˈswetər",
+    "pos": "noun",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "large in amount, value or importance 大量的；价值巨大的；重大的",
+      "def": "a knitted piece of clothing made of wool or cotton for the upper part of the body, with long sleeves. In British English the word is used to describe a piece of clothing with no buttons. In American English a sweater can have buttons and be like a jacket. 毛衣，线衣（英式英语指套头无扣的；美式英语可指开襟有扣的）",
       "ex": [
         {
-          "s": "The benefits are substantial for both gardener and planet.",
-          "src": "2025浙江1月卷·阅读理解C",
+          "s": "\"Hats, sweaters, gloves — I enjoy it all.",
+          "src": "2020天津3月卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2025,
-          "t": "对园丁和地球来说，好处都是巨大的。"
+          "year": 2020,
+          "t": "\"帽子、毛衣、手套——我都喜欢。"
         },
         {
-          "s": "Then, in 2006, the rabbits’ digging caused some land to collapse, and killed a substantial number of penguins.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "然后，在2006年，兔子的挖掘导致一些土地崩溃，并杀死了大量的企鹅。"
-        },
-        {
-          "s": "Huang excelled where he was working and made substantial contributions to his country.",
-          "src": "译林选必4 U1",
-          "cat": "yilin",
-          "t": "黄先生出色地工作，为他的国家作出了重大贡献。"
-        }
-      ]
-    },
-    {
-      "def": "large and solid; strongly built 大而坚固的；结实的；牢固的",
-      "ex": [
-        {
-          "s": "Through Snow’s tireless efforts, water companies began to sell clean water, and the threat of cholera around the world saw a substantial decrease.",
-          "src": "人教选必2 U1",
+          "s": "Travel Preparations Meilin Get her passport for her visa air tickets online a car Paul a few light sweaters and a coat a guidebook 5 Choose a travel destination and think about what you would do to prepare to travel there.",
+          "src": "人教B1 U2",
           "cat": "renjiao",
-          "t": "通过斯诺不懈的努力，自来水公司开始出售干净水，全球霍乱威胁由此大幅下降。"
+          "t": "旅行准备明林在网上办理签证机票的护照一辆车保罗几件轻便的毛衣和一件大衣一本旅行指南5选择一个旅行目的地，想想你会做些什么来准备去那里旅行。"
+        },
+        {
+          "s": "We’re bringing sweaters and coats with us, so I hope we’ll be OK.",
+          "src": "人教B1 U2",
+          "cat": "renjiao",
+          "t": "我们带着毛衣和外套，所以我希望我们会没事的。"
+        },
+        {
+          "s": "This year, I bought a bottle of wine for my father and a beautiful sweater for my mother.",
+          "src": "北师大B1 U3",
+          "cat": "beishida",
+          "t": "今年，我为父亲买了一瓶酒，为母亲买了一件漂亮的毛衣。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "a substantial decrease",
-      "cn": "一个 大量的 减少",
+      "en": "beautiful sweater",
+      "cn": "美丽的 毛衣",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "a substantial number",
-      "cn": "一个 大量的 数字",
+      "en": "hats sweaters",
+      "cn": "帽子 毛衣",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and killed a substantial",
-      "cn": "与 杀死 一个 大量的",
+      "en": "light sweaters",
+      "cn": "光 毛衣",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "and made substantial",
-      "cn": "与 大量的",
+      "en": "sweaters and coats",
+      "cn": "毛衣 与 外套",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are substantial for both",
-      "cn": "是 大量的 为了 两者",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "benefits are substantial",
-      "cn": "优势 是 大量的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "killed a substantial",
-      "cn": "杀死 一个 大量的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "made substantial",
-      "cn": "大量的",
+      "en": "sweaters gloves",
+      "cn": "毛衣 手套",
       "type": "名词短语",
       "count": 1
     }

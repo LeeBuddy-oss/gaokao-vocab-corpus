@@ -1,307 +1,530 @@
 {
   "meta": {
-    "ph": "raʊnd; NAmE raʊnd",
-    "pos": "adj;adj;adj;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;adv;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;adj;adj;verb;verb;verb;verb;verb;verb;verb",
+    "ph": "ruːm; NAmE ruːm",
+    "pos": "noun",
     "stars": ""
   },
   "defs": [
     {
-      "def": "shaped like a circle or a ball 圆形的；环形的；球形的",
+      "def": "a part of a building that has its own walls, floor and ceiling and is usually used for a particular purpose 房间；室",
       "ex": [
         {
-          "s": "Some nouns and adjectives can be used as verbs, or the other way round.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "一些名词和形容词可以用作动词，或者相反的圆形。"
-        },
-        {
-          "s": "The original iron boxes with the round roofs first appeared in 1926.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "带有圆形屋顶的原始铁皮电话亭于1926年首次出现。"
-        },
-        {
-          "s": "Putting a ball into a round hole.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "把球放进圆孔里。"
-        }
-      ]
-    },
-    {
-      "def": "having a curved shape 弧形的；圆弧的",
-      "ex": []
-    },
-    {
-      "def": "a round figure or amount is one that is given as a whole number, usually one ending in 0 or 5 整数的；尾数是 0（或 5）的",
-      "ex": [
-        {
-          "s": "Is the psychologist wearing little round glasses and smoking a cigar more insightful?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "那位戴着小圆眼镜、抽着雪茄的心理学家是否更有洞察力？"
-        },
-        {
-          "s": "Storytelling does not just take place at bedtime or round a campfire, however.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，讲故事并不只发生在睡前或篝火旁。"
-        },
-        {
-          "s": "So she desired to get round the warning, \"Why can't I make a healthy candy that's good for my teeth so that my parents can't say no to it?\" With that in mind, Moore asked her dad if she could start her own candy company.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "于是她渴望避开这个警告：'为什么我不能做一种对牙齿有益的健康糖果，这样我父母就不会拒绝它呢？'带着这个想法，Moore 问她父亲她是否能创办自己的糖果公司。"
-        },
-        {
-          "s": "While the lights were changing to red, a car suddenly appeared round the corner.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "当灯光变成红色的时候，一辆车突然出现在拐角处。"
-        }
-      ]
-    },
-    {
-      "def": "moving in a circle 旋转；环绕；兜圈子",
-      "ex": []
-    },
-    {
-      "def": "measuring or marking the edge or outside of sth 周长；周围；绕一整圈",
-      "ex": []
-    },
-    {
-      "def": "on all sides of sb/sth 在周围；围绕",
-      "ex": []
-    },
-    {
-      "def": "at various places in an area 到处；四处",
-      "ex": []
-    },
-    {
-      "def": "in a circle or curve to face another way or the opposite way 调转方向；转过来",
-      "ex": [
-        {
-          "s": "He came to see people as a danger to sharks, rather than the other way round.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "他开始把人视为对鲨鱼的威胁，而不是反过来。"
-        }
-      ]
-    },
-    {
-      "def": "to the other side of sth 绕弯；迂回；向另一侧",
-      "ex": [
-        {
-          "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
-        }
-      ]
-    },
-    {
-      "def": "from one place, person, etc. to another 依次；挨个",
-      "ex": []
-    },
-    {
-      "def": "to or at a particular place, especially where sb lives 到某地，在某地（尤指居住地）",
-      "ex": []
-    },
-    {
-      "def": "approximately 大约",
-      "ex": []
-    },
-    {
-      "def": "in the area near a place 在附近",
-      "ex": []
-    },
-    {
-      "def": "in a circle 环绕；围绕",
-      "ex": []
-    },
-    {
-      "def": "on, to or from the other side of sth 绕过；在另一侧",
-      "ex": []
-    },
-    {
-      "def": "on all sides of sb/sth; surrounding sb/sth 在 … 周围；包围",
-      "ex": []
-    },
-    {
-      "def": "in or to many parts of sth 在 … 各处；到 … 各部分",
-      "ex": [
-        {
-          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
+          "s": "Like Father, Like Son (The living room.",
           "src": "外研社B1 U3",
           "cat": "waiyan",
-          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
+          "t": "如父亲，如儿子(客厅)."
+        },
+        {
+          "s": "(Son enters room.) Father: Not again!",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "（儿子进了房间。）父亲：别又来了！"
+        },
+        {
+          "s": "She says: “I’m sure I wasn’t much of a help to start with painting the rooms and putting down the flooring throughout the house.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她说：我确信一开始粉刷房间和铺设全屋地板时，我帮不上什么忙。"
+        },
+        {
+          "s": "The parts of a museum open to the public   40    （call）galleries or rooms.",
+          "src": "2020全国新高考I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "博物馆对公众开放的部分___40___（call）展厅或陈列室。"
+        },
+        {
+          "s": "The technology, Strano said, could one day be used to light the rooms or even to turn tree into self-powered street lamps.",
+          "src": "2020全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "将来，该团队希望能开发出一种可以喷洒在植物叶片上的一次性处理版本，能在植物的整个生命周期内持续有效。"
+        },
+        {
+          "s": "They’re the little spots of color like throw pillows, mirrors and baskets that most of us use to add visual interest to our rooms.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "它们是像抱枕、镜子和篮子那样的小色块，我们大多数人都用它们为房间增添视觉趣味。"
+        },
+        {
+          "s": "They share a front door and a washing machine, but Rita Whitehead has her own kitchen, bathroom, bedroom and living room on the ground floor.",
+          "src": "2020全国III卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们共用一扇大门和一台洗衣机，但丽塔·怀特黑德在一楼有自己独立的厨房、浴室、卧室和起居室。"
+        },
+        {
+          "s": "Bent over my laptop while sitting on the bed in the corner of my room, I suddenly felt a pounding headache, and had to lie down.",
+          "src": "2026新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我弓着背坐在房间角落的床上盯着笔记本电脑，突然感到一阵剧烈的头痛，不得不躺下。"
+        },
+        {
+          "s": "They are held in the Lecture Room.",
+          "src": "2022全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "它们在报告厅展出。"
+        },
+        {
+          "s": "On the other side of my bed curtain, I heard a patient cheerfully  18  every nurse as they entered the room, as if welcoming each into his home.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在我的床帘另一边，我听到一位病人愉快地18 每一位进来的护士，仿佛欢迎她们来到他的家中。"
+        },
+        {
+          "s": "As I was wheeled out of the room, I said my final goodbye to the old man.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "当我被推出房间时，我向这位老人做了最后的告别。"
+        },
+        {
+          "s": "After their mother left the room, the children sat thinking about Bernard.",
+          "src": "2020全国新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
+        },
+        {
+          "s": "After their mother left the room, the children sat thinking about Bernard.",
+          "src": "2020全国新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
+        },
+        {
+          "s": "（1分）Kate，                   sister I shared a room with when we were at college， has gone to work in Australia．（  ）",
+          "src": "2018天津卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "2．（1分）凯特，我在大学时___的室友姐妹，已去澳大利亚工作。（  ）"
+        },
+        {
+          "s": "A smoke detector is on the ceiling in your room． Some buildings also have heat detectors on the ceilings． Do the following to ensure the safe operation of your smoke detector：",
+          "src": "2018天津卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "烟雾探测器位于你房间的天花板上。有些建筑物在天花板上也设有热探测器。为确保烟雾探测器的安全运行，请做下列工作:"
+        },
+        {
+          "s": "Each day, 27 kids  41  “The Thinking Laboratory.” That was the   42   students voted for after deciding that “Room 104” was too   43   .",
+          "src": "2017全国II卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "每天，27个孩子都____\"思维实验室\"。那是学生们投票选出的名字，因为他们觉得\"104室\"太____了。"
+        },
+        {
+          "s": "In 1973, I was teaching elementary school.Each day, 27 kids  41    “The Thinking Laboratory.”That was the      42     students voted for after deciding that “Room 104” was too   43   .",
+          "src": "2017重庆卷·完形填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "1973年，我在教小学。每天，27个孩子____41____“思维实验室”。那是学生们在认定“104室”太____43____之后投票选出的____42____名字。"
+        },
+        {
+          "s": "A grasp of how to manage color in your spaces is one of the first steps to creating rooms you’ll love to live in.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "掌握如何在你空间中管理色彩的方法，是你创造自己喜欢的房间的第一步之一。"
+        },
+        {
+          "s": "Sunday 20 October I was tidying my room yesterday and found an old photo in a notebook.",
+          "src": "外研社B1 U3",
+          "cat": "waiyan",
+          "t": "10月20日星期天：昨天我在收拾房间时，在一个笔记本里发现了一张旧照片。"
+        },
+        {
+          "s": "“Here” is room 386, where each year, about 500 LPCH patients also become students.",
+          "src": "2025新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "“这里”是386室，每年约有500名LPCH患者也在这里成为学生。"
+        },
+        {
+          "s": "Still, in room 386, academics don’t come first.",
+          "src": "2025新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在386号房间,"
+        },
+        {
+          "s": "I entered the room and the teachers made me say some lines from the musical.",
+          "src": "2024北京卷",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我走进房间，老师们让我念了音乐剧里的几句台词。"
+        },
+        {
+          "s": "She adds: “I’ve moved house many times and I always like to personalise my room and put up pictures.",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她补充道：“我搬过很多次家，总是喜欢把房间个性化，挂上画。”"
+        },
+        {
+          "s": "So, it’s been useful to know how to cover up holes and repaint a room to avoid any charges when I’ve moved out.”",
+          "src": "2023全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "所以，懂得如何遮盖墙洞并重新粉刷房间，以便搬家时避免任何扣费，一直很有用。"
+        },
+        {
+          "s": "We'd come down in the morning to find they'd turned the room upside down, and left it looking like a zoo.",
+          "src": "2021新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "我们早上下楼时发现他们把房间弄得乱七八糟，让它看起来像个大动物园。"
+        },
+        {
+          "s": "Keep the room cool rather than warm to avoid feeling sleepy.",
+          "src": "2021新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "保持房间凉爽而不是温暖，以避免犯困。"
+        },
+        {
+          "s": "“The living-room television is replaced and gets planted in the kids’ room, and suddenly one day, you have a TV in every room of the house,” said one researcher.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "“客厅的电视被替换下来，装进了孩子的房间，于是一天，你突然发现家里每个房间都有一台电视了，”一位研究者说。"
+        },
+        {
+          "s": "Do you want a room that’s full of life?",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "你想要一个充满活力的房间吗？"
+        },
+        {
+          "s": "36   , color is the key to making a room feel the way you want it to feel.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "36   ，色彩是让房间呈现你想要的感觉的关键。"
+        },
+        {
+          "s": "They had a room with a bathtub.",
+          "src": "2022全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他们有一间带浴缸的房间。"
         }
       ]
     },
     {
-      "def": "to fit in with particular people, ideas, etc. 适应；围绕（人、思想等）",
+      "def": "having the number of rooms mentioned 构成形容词",
       "ex": []
     },
     {
-      "def": "a set of events which form part of a longer process 阶段；轮次",
-      "ex": []
-    },
-    {
-      "def": "a stage in a sports competition 比赛阶段；轮次；局；场",
-      "ex": []
-    },
-    {
-      "def": "a stage in a boxing or wrestling match （拳击或摔跤比赛的）回合",
-      "ex": []
-    },
-    {
-      "def": "a complete game of golf; a complete way around the course in some other sports, such as showjumping （高尔夫球、骑马障碍赛等的）一轮比赛，一局",
-      "ex": []
-    },
-    {
-      "def": "a regular series of activities 一系列常规活动；惯常的活动",
-      "ex": []
-    },
-    {
-      "def": "a regular route that sb takes when delivering or collecting sth; a regular series of visits that sb makes （收发信函等的）固定路线；照例要出去做的事情",
-      "ex": []
-    },
-    {
-      "def": "a number of drinks bought by one person for all the others in a group （由一人给大家买的）一巡饮料",
-      "ex": []
-    },
-    {
-      "def": "a whole slice of bread; sandwiches made from two whole slices of bread 一整片面包；（两整片面包做的）三明治",
-      "ex": []
-    },
-    {
-      "def": "a round object or piece of sth 圆形物体；圆块",
-      "ex": []
-    },
-    {
-      "def": "a short period during which people show their approval of sb/sth by clapping, etc. 一阵",
-      "ex": []
-    },
-    {
-      "def": "a single shot from a gun; a bullet for one shot 一次射击；一发子弹",
-      "ex": []
-    },
-    {
-      "def": "a song for two or more voices in which each sings the same tune but starts at a different time 轮唱曲",
-      "ex": []
-    },
-    {
-      "def": "if news or a joke does the rounds, it is passed on quickly from one person to another 迅速传开；迅速流传",
-      "ex": []
-    },
-    {
-      "def": "to go around from place to place, especially when looking for work or support for a political campaign, etc. 到各处去，巡回（找工作或寻求对政治运动的支持等）",
+      "def": "a bedroom in a hotel, etc. 客房",
       "ex": [
         {
-          "s": "Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.",
-          "src": "2019全国I卷·阅读理解A",
+          "s": "Right across the street, Sonder Lüim Hotel offers spacious rooms and a rooftop pool.",
+          "src": "2026新高考I卷·阅读理解A",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "访问政府网站，了解可帮助30岁以下人群提升技能、找工作或全年创业的项目和在线工具。"
+          "year": 2026,
+          "t": "就在街对面，Sonder Lüim酒店提供宽敞的客房和屋顶泳池。"
+        },
+        {
+          "s": "If you’re willing to drive a little further, the Ritz-Carlton Los Angeles promises luxurious rooms and extensive leisure facilities — perfect for turning a game day into a great weekend escape.",
+          "src": "2026新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "如果你愿意开得稍远一点，洛杉矶丽思卡尔顿酒店承诺提供豪华客房和丰富的休闲设施——非常适合把比赛日变成一次很棒的周末出游。"
+        },
+        {
+          "s": "Order room service.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "点客房服务。"
         }
       ]
     },
     {
-      "def": "made so that it can be seen from all sides 艺术品",
-      "ex": []
+      "def": "a set of two or more rooms that you rent to live in （租用的）住所，寓所",
+      "ex": [
+        {
+          "s": "Two hours later， back at my house，I heard a knock on the door． My husband（4）     it while I was on the phone in the dining room． \"Does Jennifer live here？\" I heard a lady say． In my husband's hand was my wallet， with not a penny（5）     ． She left before I could （6）      make it to the door to offer my thanks．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "两小时后，回到家中，我听到敲门声。我丈夫（4）_____应了门，当时我在餐厅打电话。“詹妮弗住这儿吗？”我听到一位女士说。我丈夫手里是我的钱包，一分钱（5）_____都没少。我还没来得及（6）_____走到门口道谢，她就走了。"
+        }
+      ]
     },
     {
-      "def": "with the people watching all around a central stage 剧院或戏剧",
-      "ex": []
+      "def": "empty space that can be used for a particular purpose 空间；余地",
+      "ex": [
+        {
+          "s": "Toby was using up his energy by running back and forth in the backyard and giving the kids plenty of room.",
+          "src": "2025新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "托比通过在后院来回奔跑来发泄精力，也给孩子们留出了充足的活动空间。"
+        },
+        {
+          "s": "catch sight ofB. make room for",
+          "src": "2023天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "看到 B. 为……腾出空间"
+        },
+        {
+          "s": "made room forB. taken control of",
+          "src": "2022天津4月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "为……腾出空间 B. 控制"
+        },
+        {
+          "s": "Most of my reading through primary， middle and high school was factual reading． I read for knowledge， and to make A's on my tests． Occasionally， I would read a novel that was assigned， but I didn't enjoy this type of reading． I liked facts， things that are concrete． I thought anything abstract left too much room for argument．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "在小学、初中和高中阶段，我的大部分阅读都是事实性阅读。我为获取知识而读，为了在考试中拿A。偶尔，我也会读老师指定的小说，但我并不喜欢这种阅读。我喜欢事实，喜欢具体的东西。我认为任何抽象的事物都留下了太多争论的空间。"
+        },
+        {
+          "s": "It would allow much room for free thinking．",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "B．它将为自由思考提供很大空间"
+        },
+        {
+          "s": "If the delay is to make room for creative exploration and forming better social and emotional connections, it is a good thing, he said.",
+          "src": "2018上海卷·Section A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "如果这种延迟是为了给创造性探索留出空间、建立更好的社会和情感联系，那是件好事，他说。"
+        },
+        {
+          "s": "It made room for new equipment.",
+          "src": "2017全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它为新设备腾出了空间。"
+        },
+        {
+          "s": "Like many things in life, it’s    56   ongoing process, and the best part of the process is that there’s enough room for improvement,    57   means you’ll just keep getting better and better.",
+          "src": "2017浙江11月卷·语法填空",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "就像生活中许多事一样，它是   56   持续的过程，而这个过程最棒的部分是还有足够的改进空间，   57   意味着你会越来越好。"
+        },
+        {
+          "s": "If Tononi’s theory is right, it would explain why, when we miss a night’s, we find it harder the next day to concentrate and learn new information — our brains may have smaller room for new experiences.",
+          "src": "2017北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "如果托诺尼的理论是对的，就能解释为什么我们少睡一夜后，第二天更难集中注意力和学习新信息——我们的大脑可能为新体验留出的空间更小了。"
+        }
+      ]
     },
     {
-      "def": "to go around a corner of a building, a bend in the road, etc. 绕行；绕过",
-      "ex": []
+      "def": "the possibility of sth existing or happening; the opportunity to do sth 可能性；机会",
+      "ex": [
+        {
+          "s": "It's been years since they were dusty little rooms with books.",
+          "src": "2020天津6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "如果是这样，你可能会惊讶地发现图书馆已经变得更好了。"
+        }
+      ]
     },
     {
-      "def": "to make sth into a round shape; to form into a round shape （使）成圆形；变圆",
-      "ex": []
-    },
-    {
-      "def": "to increase or decrease a number to the next highest or lowest whole number （将数字调高或调低）使成为整数；把（数字）四舍五入",
-      "ex": []
-    },
-    {
-      "def": "to finish an activity or complete sth in a good or suitable way 圆满结束；圆满完成",
-      "ex": []
-    },
-    {
-      "def": "to take the sharp or rough edges off sth 去除 … 的棱角；使 … 的边缘光滑",
-      "ex": []
-    },
-    {
-      "def": "to find and gather together people, animals or things 将 … 聚拢起来；使聚集",
-      "ex": []
-    },
-    {
-      "def": "if police or soldiers round up a group of people, they find them and arrest or capture them 围捕；围剿",
-      "ex": []
+      "def": "all the people in a room 房间里所有的人",
+      "ex": [
+        {
+          "s": "Children aged four to six at a nursery school were placed in a room.",
+          "src": "2024浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "一家幼儿园里四到六岁的孩子们被带到一个房间里。"
+        },
+        {
+          "s": "There are plenty of other benefits, too; it doesn’t charge city tax; it has both air conditioning and a heater for the rooms; it also has free Wi-Fi in every room.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "还有很多其他好处：不收城市税；房间里有空调和暖气；每个房间还有免费Wi-Fi。"
+        },
+        {
+          "s": "The large color decisions in your rooms concern the walls, ceilings, and floors.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "你房间里大面积的色彩决定涉及墙壁、天花板和地板。"
+        },
+        {
+          "s": "All the different hallways and rooms were too much to think about, let alone commit to memory.",
+          "src": "2024浙江1月卷·书面表达",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "所有的走廊和房间各不相同，多到让人难以想象，更别说记在心里。"
+        },
+        {
+          "s": "That evening, she sat in her room, staring into space.",
+          "src": "2026北京卷·完形填空",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "那天晚上，她坐在房间里，凝视着虚空。"
+        },
+        {
+          "s": "Then they were left alone in the room.",
+          "src": "2024浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "然后他们被单独留在那个房间里。"
+        },
+        {
+          "s": "The  23  of the room was soon broken by a quiet voice from behind the curtain.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "房间里的23 很快被帘子后面一个平静的声音打破。"
+        },
+        {
+          "s": "As they grew more mobile, we let them move freely around the house during the day, but when we were asleep we had to contain them in a large room, otherwise they'd get up to mischief.",
+          "src": "2021新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "随着它们越来越能活动，白天我们让它们在屋里自由走动，但我们睡着时得把它们关在一个大房间里，否则它们会调皮捣蛋。"
+        },
+        {
+          "s": "Color is fundamental in home design — something you’ll always have in every room.",
+          "src": "2018全国I卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "色彩是家居设计的基础——这是你在每个房间都会拥有的东西。"
+        },
+        {
+          "s": "In her 48   , she didn’t seem to realize that she was    49    the baby’s photos with a complete stranger.” “Well, I don’t    50    you all but I will get there to take pictures with the baby,” replied Dennis before asking which room the new    51    were in.",
+          "src": "2018全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在她的___48___中，她似乎没意识到自己正在把一个婴儿的照片___49___给一个完全陌生的人。“嗯，我___50___你们所有人，但我会到那里和宝宝合影，”丹尼斯回复道，然后问新手___51___在哪个房间。"
+        },
+        {
+          "s": "Place a few mirrors around your room so people can see how things look when they try them on.",
+          "src": "2021全国甲卷·Swap, Don’t shop!",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "在房间里放几面镜子，这样人们试穿时能看到效果。"
+        },
+        {
+          "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "过去，音响工程师在录音棚的后室工作，但如今许多声音专业人士正与其他领域的专业人士分享知识和经验，以基于我们所谓的声音现象创造新产品。"
+        },
+        {
+          "s": "Currently, about 35,000 works                   in over 300 rooms in the Louvre, and it would take a lifetime to see everything.",
+          "src": "2021天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "目前，约35,000件作品___在卢浮宫300多个展厅中，要看遍所有东西得花上一辈子。"
+        },
+        {
+          "s": "The spacious dining room is regularly filled with customers enjoying dumplings and a variety of noodle and rice dishes.",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "宽敞的餐厅里经常坐满享用饺子以及各种面食和米饭菜肴的顾客。"
+        },
+        {
+          "s": "“I am the last original client of Frank Lloyd Wright, still living in the home he designed for me,” Reisley said, sitting in the bright open living room of the home designed by the famous architect.",
+          "src": "2026新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“我是弗兰克·劳埃德·赖特最后一位健在的原始客户，至今仍住在他为我设计的房子里，”Reisley坐在由这位著名建筑师设计的明亮通透的客厅里说道。"
+        },
+        {
+          "s": "Sometimes, a cleaner living room is the best reward.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "有时候，更整洁的客厅就是最好的奖励。"
+        },
+        {
+          "s": "On a beautiful Wednesday morning, I awoke in a shared room in the hospital.",
+          "src": "2022天津4月卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "一个美丽的周三早晨，我在医院的一间多人病房醒来。"
+        },
+        {
+          "s": "Three days ago, the light in our living room suddenly went out.",
+          "src": "2021天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "三天前客厅的灯突然灭了。"
+        },
+        {
+          "s": "After supper, we would play card games of all sort in the sitting room.",
+          "src": "2018全国II卷·短文改错",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "晚饭后，我们会在客厅里玩各种各样的纸牌游戏。"
+        }
+      ]
     }
   ],
   "chunks": [
     {
-      "en": "little round",
-      "cn": "小的 圆形的",
+      "en": "living room",
+      "cn": "活着的 房间",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "every room",
+      "cn": "每 房间",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "dining room",
+      "cn": "吃饭 房间",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "way round",
-      "cn": "方法 圆形的",
+      "en": "little rooms",
+      "cn": "小的 房间",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "came round",
-      "cn": "圆形的",
+      "en": "made room",
+      "cn": "房间",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "much room",
+      "cn": "许多 房间",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "hallways and rooms",
+      "cn": "与 房间",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "round glasses",
-      "cn": "圆形的 玻璃",
+      "en": "kids room",
+      "cn": "小孩 房间",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "round hole",
-      "cn": "圆形的 洞",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "round roofs",
-      "cn": "圆形的 顶部",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "walk round",
-      "cn": "走 圆形的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "year round",
-      "cn": "年 圆形的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "able to walk round",
-      "cn": "能够 去 走 圆形的",
-      "type": "介词短语",
       "count": 1
     }
   ]

@@ -1,148 +1,303 @@
 {
   "meta": {
-    "ph": "ˈsensətɪv; NAmE ˈsensətɪv",
-    "pos": "adj.",
-    "stars": "★★"
+    "ph": "sɪˈlekt; NAmE sɪˈlekt",
+    "pos": "verb",
+    "stars": "★"
   },
   "defs": [
     {
-      "def": "aware of and able to understand other people and their feelings 体贴的；体恤的；善解人意的",
-      "ex": []
-    },
-    {
-      "def": "able to understand art, music and literature and to express yourself through them 感觉敏锐的；艺术感觉好的；有悟性的",
-      "ex": []
-    },
-    {
-      "def": "easily offended or upset 易生气的；易被惹恼的；神经过敏的",
-      "ex": []
-    },
-    {
-      "def": "that you have to treat with great care because it may offend people or make them angry or embarrassed 须谨慎对待的；敏感的",
+      "def": "to choose sb/sth from a group of people or things, usually according to a system 选择；挑选；选拔",
       "ex": [
         {
-          "s": "We might not enjoy these jokes as much as the people who first heard them did, but the authors understood that humour could help people understand sensitive or emotional issues as well as make them laugh.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "我们可能不像最初听到这些笑话的人那样喜欢这些笑话，但作者理解幽默可以帮助人们理解敏感或情感问题，并让他们笑起来。"
+          "s": "This project will select 10 visual artists and 10 writers to create artwork that will be displayed on temporary signs along the multi-use path.",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "该项目将选出10名视觉艺术家和10名作家，创作将在多功能步道沿线的临时标牌上展出的作品。"
         },
         {
-          "s": "Habitat Restoration Team volunteers play a vital role in restoring sensitive resources and protecting endangered species across the ridges and valleys.",
-          "src": "2024新高考I卷·阅读理解A",
+          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
+          "src": "2026浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
+        },
+        {
+          "s": "Once in your account, select Electronic Articles Received.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "进入你的账户后，选择“已收到的电子文章”。"
+        },
+        {
+          "s": "Besides, your parents will also be able to participate in workshops selected just for them to learn about cutting-edge science.",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "此外，你的父母也能参加专为家长挑选的研讨会，了解前沿科学。"
+        },
+        {
+          "s": "select workshops for their parentsB. prepare track topics for the camp",
+          "src": "2025北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "哈蒙德指的是意义的问题，而意义是将智力最低的人类与最聪明的机器区分开来的核心。"
+        },
+        {
+          "s": "A single sugary treat, selected by the child, was placed on a table.",
+          "src": "2024浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "栖息地修复团队的志愿者在恢复敏感资源、保护山脊与山谷间的濒危物种方面发挥着重要作用。"
+          "t": "桌上放着一样由孩子自己挑选的含糖零食。"
         },
         {
-          "s": "Another issue is that the human brain is highly sensitive to wasted effort.",
-          "src": "2024天津3月卷·阅读Passage 1",
+          "s": "Select their own coursework.",
+          "src": "2024北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2024,
-          "t": "营员享受的师生比根据年龄组从1:4到1:7不等。"
+          "t": "选择他们自己的课程作业。"
         },
         {
-          "s": "She is sensitive to heat.",
-          "src": "2021全国甲卷·阅读理解B",
+          "s": "Which of the following books is the text most likely selected from?",
+          "src": "2023全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "这篇文章最有可能选自以下哪本书？"
+        },
+        {
+          "s": "Twenty-five Young Leaders are being selected every two years for a four-year period.",
+          "src": "2023北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "每两年选出25名青年领袖，任期四年。"
+        },
+        {
+          "s": "After successfully completing the 4-Week Learning Sprint, you will need to submit a plan for a sport﹣based project, which you will work on if selected as an IOC Young Leader.",
+          "src": "2023北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在成功完成4周学习冲刺后，您需要提交一个基于体育的项目计划，如果被选为国际奥委会青年领袖，您将致力于该计划。"
+        },
+        {
+          "s": "Levine and his research team selected volunteers aged between 45 and 64 who did not exercise much but were otherwise healthy.",
+          "src": "2022全国新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Levine和他的研究团队选择了45至64岁之间不常运动但其他方面健康的志愿者。"
+        },
+        {
+          "s": "In the experiment, Goffin’s cockatoos were able to select the right tool for the job, in most cases, by visual recognition alone.",
+          "src": "2022全国甲卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "在实验中，Goffin的cockatoos能够选择合适的工作工具，在大多数情况下仅通过视觉识别。"
+        },
+        {
+          "s": "Selected from collections throughout the world, it is the first major exhibition of his work to be held in over forty years.",
+          "src": "2022全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这些作品选自世界各地收藏，这是四十多年来首次举办他的作品大型展览。"
+        },
+        {
+          "s": "It is selected by the technologist.",
+          "src": "2021天津3月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2021,
-          "t": "她对热敏感。"
+          "t": "它由技术员选择。"
         },
         {
-          "s": "sensitive to others' feelings",
-          "src": "2018天津卷·阅读理解D",
+          "s": "Your application will be accessed by UNESCO managers and will stay in our database for six months．We do not respond to every candidate．If selected，you will be contacted by a manager．If you do not receive any update within six months，it means that your application has not been successful．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你的申请将由联合国教科文组织的经理审阅，并在我们的数据库中保留六个月。我们不会回复每一位候选人。如果被选中，会有经理与你联系。如果六个月内未收到任何更新，则意味着你的申请未获成功。"
+        },
+        {
+          "s": "The third book is Julio Cortazar’s Save Twilight: Selected Poems, because poetry.",
+          "src": "2020全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "第三本书是胡里奥·科塔萨尔的《拯救黄昏：诗选》，因为诗歌。"
+        },
+        {
+          "s": "Selecting works by famous playwrights.",
+          "src": "2020浙江7月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "挑选著名剧作家的作品。"
+        },
+        {
+          "s": "Students should read the list with their parents / carers, and select two activities they would like to do.",
+          "src": "2018全国II卷·阅读理解A",
           "cat": "gaokao",
           "year": 2018,
-          "t": "B．对他人的感受敏感"
+          "t": "学生应和家长/监护人一起阅读清单，并选择两项他们想做的活动。"
         },
         {
-          "s": "We have to be very sensitive and work closely with the doctors and nurses, who keep us updated on each patient.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "我们必须非常敏感，并与医生和护士密切合作，他们随时向我们报告每个病人的最新情况。"
-        },
-        {
-          "s": "While these same jokes might not be as funny to us now as they were then, their authors understood that humour could not only entertain but also throw new light on sensitive or emotive issues.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "虽然这些笑话现在对我们来说可能不像当时那么有趣，但它们的作者明白，幽默不仅可以娱乐，还可以为敏感或情感问题带来新的启发。"
-        },
-        {
-          "s": "Background information “Eye of Heaven”, or the Five-hundred-metre Aperture Spherical Telescope (FAST), is the largest and most sensitive radio telescope in the world.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "背景资料“天堂之眼”,即500米孔径球形望远镜，是世界上最大和最敏感的射电望远镜。"
-        },
-        {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
+          "s": "For this purpose, select ripe bananas for freezing as they are much sweeter.",
+          "src": "2018全国II卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+          "year": 2018,
+          "t": "为此目的，请选择成熟的香蕉进行冷冻，因为它们更甜。"
+        },
+        {
+          "s": "People select digital texts randomly.",
+          "src": "2024新高考I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "电子文本适合社交媒体。"
+        },
+        {
+          "s": "All you have to do is select the photos of healthy food.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "你只需要选择健康食物的照片。"
+        },
+        {
+          "s": "Then you'll be able to train your brain to select healthy food in real situations.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "然后你就能训练你的大脑在真实的场景中选择健康的食物。"
+        },
+        {
+          "s": "You might want to: • relax and make eye contact with the audience • use gestures when appropriate • vary your tone and volume 1 Select a representative from the group to deliver the speech to the class.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "你或许想要：• 放松并与听众保持眼神交流 • 在适当的时候使用手势 • 变换你的语调和音量 1 从小组中选一名代表向全班发表演讲。"
+        },
+        {
+          "s": "Items are picked up at one of our libraries — the one you selected in the ILL Request Form.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "物品在我们的一家图书馆取——即你在馆际互借申请表上选择的那家。"
         }
       ]
     },
     {
-      "def": "reacting quickly or more than usual to sth 敏感的；过敏的",
+      "def": "to mark sth on a computer screen; to choose sth, especially from a menu （在计算机屏幕上）选定；（从菜单中）选择，选取",
       "ex": [
         {
-          "s": "My senses of taste and smell became more sensitive, and I ate much more slowly, trying to guess what I was eating.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "我对味道和嗅觉的感知变得更加敏感，我吃得更慢，试图猜测自己在吃什么。"
+          "s": "In this “book of books,” artworks are selected and arranged in a way that emphasizes these connections between different eras and cultures.",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "在这本\"书中的书\"中，艺术作品的选取和编排方式强调了不同时代和文化之间的联系。"
         }
       ]
     },
     {
-      "def": "able to measure very small changes 灵敏的",
+      "def": "carefully chosen as the best out of a larger group of people or things 精选的；作为 … 精华的；优等的",
+      "ex": [
+        {
+          "s": "What are the selected artworks about?",
+          "src": "2023新课标II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "入选的艺术作品是关于什么的？"
+        },
+        {
+          "s": "Out of the thousands of applicants, eleven were selected, including a young woman from China.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "在数千名申请人中，有11人被选中，其中包括一名来自中国的年轻女性。"
+        },
+        {
+          "s": "Lisa: As a member of the school volleyball team, I wasn't selected for the end-of-year competition.",
+          "src": "外研社B1 U1",
+          "cat": "waiyan",
+          "t": "Lisa ：作为学校排球队的一员，我没有被选中参加年终比赛。"
+        }
+      ]
+    },
+    {
+      "def": "used by people who have a lot of money or a high social position 社团、俱乐部、地方等",
       "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "and most sensitive radio",
-      "cn": "与 最多 体贴的 无线电广播",
+      "en": "select digital",
+      "cn": "选择 数字信息系统的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "select electronic",
+      "cn": "选择 装置",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "select healthy",
+      "cn": "选择 健康的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "select ripe",
+      "cn": "选择 水果或庄稼",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "select visual",
+      "cn": "选择 视力的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "selected in",
+      "cn": "选择 在…里",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "selected poems",
+      "cn": "选择 诗",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "12successful artists selected",
+      "cn": "艺术家 选择",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are sensitive to local",
-      "cn": "是 体贴的 去 地方的",
+      "en": "able to select",
+      "cn": "能够 去 选择",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "became more sensitive",
-      "cn": "更多 体贴的",
+      "en": "account select",
+      "cn": "账户 选择",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "brain is highly sensitive",
-      "cn": "脑 是 体贴的",
+      "en": "and select two",
+      "cn": "与 选择",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "help people understand sensitive",
-      "cn": "帮助 人 懂 体贴的",
+      "en": "and volume select",
+      "cn": "与 体积 选择",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "highly sensitive",
-      "cn": "体贴的",
+      "en": "applicants eleven were selected",
+      "cn": "申请人 是 选择",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "in restoring sensitive",
-      "cn": "在…里 恢复 体贴的",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "is highly sensitive",
-      "cn": "是 体贴的",
+      "en": "are selected and arranged",
+      "cn": "是 选择 与",
       "type": "名词短语",
       "count": 1
     }

@@ -585,26 +585,50 @@
     {
       "en": "buy some",
       "cn": "买 一些",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 4
     },
     {
       "en": "buying groceries",
       "cn": "买 食品杂货店",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 4
     },
     {
       "en": "buy crime",
       "cn": "买 犯罪活动",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 2
     },
     {
       "en": "buy goods",
       "cn": "买 商品",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 2
+    },
+    {
+      "en": "bought new",
+      "cn": "刚出现的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bought some oil",
+      "cn": "一些 石油",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "bought way",
+      "cn": "方法",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "buy fresh",
+      "cn": "买 通常指食物",
+      "type": "动词短语",
+      "count": 1
     },
     {
       "en": "amount buying",
@@ -619,34 +643,10 @@
       "count": 1
     },
     {
-      "en": "bought way",
-      "cn": "方法",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "buy larger",
       "cn": "买",
       "type": "名词短语",
       "count": 1
-    },
-    {
-      "en": "buy a house",
-      "cn": "买 一个 房屋",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "buy one",
-      "cn": "买",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "buy some gifts",
-      "cn": "买 一些 礼物",
-      "type": "动词短语",
-      "count": 3
     },
     {
       "en": "money to buy",
@@ -665,12 +665,6 @@
       "cn": "去 买 一些 礼物",
       "type": "介词短语",
       "count": 3
-    },
-    {
-      "en": "bought for some gardening",
-      "cn": "为了 一些 庭园",
-      "type": "动词短语",
-      "count": 2
     }
   ]
 }

@@ -1,82 +1,107 @@
 {
   "meta": {
-    "ph": "smɒɡ; NAmE smɑːɡ",
+    "ph": "sneɪk; NAmE sneɪk",
     "pos": "noun",
-    "stars": "★"
+    "stars": ""
   },
   "defs": [
     {
-      "def": "a form of air pollution that is or looks like a mixture of smoke and fog, especially in cities 烟雾（烟与雾混合的空气污染物，尤见于城市）adj.",
+      "def": "a reptile with a very long thin body and no legs. There are many types of snake, some of which are poisonous. 蛇verb",
       "ex": [
         {
-          "s": "37      If the air you’re breathing is clean-which it would be if you’re away from the smog of cities-then the air is filled with life-giving，energizing oxygen.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+          "s": "With gas prices rising and airport security lines snaking longer than ever, why not book your next domestic vacation on a train?",
+          "src": "2023浙江1月卷·七选五",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "37      如果你呼吸的空气是干净的——当你远离城市的烟雾时确实如此——那么空气中充满了赋予生命、充满活力的氧气。"
+          "year": 2023,
+          "t": "随着油价上涨和机场安检队伍排得前所未有的长，为什么不预订下一次国内旅行的火车票呢？"
         },
         {
-          "s": "Smog comes from the words “smoke” and “fog”, and it is used to describe the air pollution in cities caused mainly by traffic and factories.",
-          "src": "外研社B2 U6",
+          "s": "25    , the number of snakes had declined as well.",
+          "src": "2020全国新高考I卷·完型填空个",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "25____，蛇的数量也下降了。"
+        },
+        {
+          "s": "It is also said that mice and snakes head for safer ground several days before an earthquake, while dogs avoiding the beach may be a sign that a tsunami is approaching.",
+          "src": "外研社B3 U6",
           "cat": "waiyan",
-          "t": "烟雾这个词来自\"烟\"和\"雾\"，用来描述主要由交通和工厂引起的城市空气污染。"
+          "t": "还有人说，老鼠和蛇会在地震前几天逃往更安全的地方，而狗避开海滩可能是海啸即将来临的征兆。"
         },
         {
-          "s": "Smog can be dangerous because it causes severe breathing problems and infections.",
-          "src": "外研社B2 U6",
+          "s": "Some say Storsie has a head like a horse while others claim it is a big snake-like creature.",
+          "src": "外研社B7 U6",
           "cat": "waiyan",
-          "t": "烟雾可能很危险，因为它会引发严重的呼吸问题和感染。"
+          "t": "有人说Storsie的头像马，而其他人则声称它是一种像蛇一样的大生物。"
         },
         {
-          "s": "T F 2 Smog became a severe problem in Britain because people at that time burnt lots of fossil fuels.",
-          "src": "人教选必3 U3",
+          "s": "In the wetland of my hometown, there are many different kinds of animals, including wild birds, fish, snakes, insects and so on.",
+          "src": "人教B2 U2",
           "cat": "renjiao",
-          "t": "对 错 2 雾霾在英国成为严重问题，因为当时的人们燃烧了大量化石燃料。"
+          "t": "在我家乡的湿地里，有各种各样的动物，包括野生鸟类、鱼类、蛇类、昆虫等。"
         },
         {
-          "s": "T F 3 The worst smog in British history happened in London in 1942.",
-          "src": "人教选必3 U3",
+          "s": "Fish and snakes (kill) for food in restaurants.",
+          "src": "人教B2 U2",
           "cat": "renjiao",
-          "t": "对 错 3 英国历史上最严重的雾霾发生在1942年的伦敦。"
+          "t": "餐厅里有鱼和蛇（杀死）作为食物。"
         },
         {
-          "s": "T F 4 The Great Smog of London claimed 5,000 lives.",
-          "src": "人教选必3 U3",
+          "s": "What other kinds of robots can be created from nature (e.g., a robotic lion or snake)?",
+          "src": "人教选必1 U2",
           "cat": "renjiao",
-          "t": "对 错 4 伦敦大雾霾夺走了5000条生命。"
+          "t": "还可以从大自然中创造出哪些其他类型的机器人（例如，机器人狮子或蛇） ？"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "f smog",
-      "cn": "烟雾adj.",
+      "en": "fish and snakes",
+      "cn": "鱼 与 蛇verb",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "great smog",
-      "cn": "大的 烟雾adj.",
+      "en": "fish snakes",
+      "cn": "鱼 蛇verb",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "worst smog",
-      "cn": "的最高级adverbno 烟雾adj.",
+      "en": "lines snaking",
+      "cn": "线 蛇verb",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "away from the smog",
-      "cn": "离开 从 该 烟雾adj.",
-      "type": "介词短语",
+      "en": "mice and snakes",
+      "cn": "与 蛇verb",
+      "type": "名词短语",
       "count": 1
     },
     {
-      "en": "from the smog",
-      "cn": "从 该 烟雾adj.",
-      "type": "介词短语",
+      "en": "snakes head",
+      "cn": "蛇verb 头",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "snakes insects",
+      "cn": "蛇verb 昆虫",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "snakes kill",
+      "cn": "蛇verb 杀死",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "snaking longer",
+      "cn": "蛇verb",
+      "type": "名词短语",
       "count": 1
     }
   ]

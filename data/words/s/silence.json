@@ -1,233 +1,146 @@
 {
   "meta": {
-    "ph": "ˈsaɪləns; NAmE ˈsaɪləns",
-    "pos": "noun;noun;noun;noun;verb;verb",
-    "stars": "★"
+    "ph": "ˈsaɪlənt; NAmE ˈsaɪlənt",
+    "pos": "adj.",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "a complete lack of noise or sound 寂静；无声",
+      "def": "not speaking 人",
       "ex": [
         {
-          "s": "For those who hunger for some peace and quiet, sound can now create silence.",
-          "src": "2020天津6月卷·阅读理解C",
+          "s": "Now I go dipping almost every day, and I’ve come to long for that moment when the cold becomes a second skin and my internal voice goes silent.",
+          "src": "2023天津3月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "现在我几乎每天都去泡冷水浴，并开始渴望那一刻：寒冷变成第二层皮肤，我内心的声音归于沉寂。"
+        },
+        {
+          "s": "As the small boat moved,   68   (gentle) along the river he was left speechless by the mountains being silently reflected in the water.",
+          "src": "2020全国III卷·语法填空",
           "cat": "gaokao",
           "year": 2020,
-          "t": "对于那些渴望安宁与清静的人来说，声音现在可以创造寂静。"
+          "t": "当小船移动时，   68  （轻柔）地沿河而下，群山在水中静静倒影的景象让他哑口无言。"
         },
         {
-          "s": "The only sound to break the silence in Wang Jin’s workshop is the chiming melody of the repaired and polished clocks.",
-          "src": "外研社B6 U2",
+          "s": "If she kept silent, maybe no one would ever find out...?",
+          "src": "外研社B3 U1",
           "cat": "waiyan",
-          "t": "在王津的工作室里，打破寂静的唯一声音是那些被修复和打磨过的钟发出的报时旋律。"
-        },
-        {
-          "s": "On the mornings that had once throbbed with the dawn chorus of robins, catbirds, doves, jays, wrens, and scores of other bird voices there was now no sound; only silence lay over the fields and woods and marsh.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "在曾经伴随着知更鸟、猫鸟、鸽子、松鸦、鹪鹩和许多其他鸟鸣的黎明合唱而悸动的早晨，如今已了无生息；只有寂静笼罩着田野、树林和沼泽。"
-        },
-        {
-          "s": "But since the results at 70 decibels were significant, the study also suggests that the right level of background noise—not too loud and not total silence—may actually improve one’s creative thinking ability.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
-        },
-        {
-          "s": "I soon realized that the silence was not unpleasant.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我很快意识到这种安静并不令人不愉快。"
-        },
-        {
-          "s": "I found comfort in keeping myself awake when everyone else had gone to bed, and I loved the silence of the night.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "用大写字母写的“安静”标志到处都是。如果她觉得你穿得不合适，她会直接让你回家换衣服。"
-        },
-        {
-          "s": "Now, I appreciate the silence and the   60   way of communication it opens.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "现在，我欣赏这份安静以及它所开启的____交流方式。"
+          "t": "如果她保持沉默，也许没人会发现…… ？"
         }
       ]
     },
     {
-      "def": "a situation when nobody is speaking 沉默；缄默；默不作声",
-      "ex": [
-        {
-          "s": "Darkness would make him more appreciative of sight; silence would teach him the joys of sound.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "t": "黑暗会让他更加珍惜视觉；沉默会教会他声音的乐趣。"
-        },
-        {
-          "s": "There was a silence as Dad continued to drink his tea, and I held my breath.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当爸爸继续喝他的茶时，一阵沉默，我屏住了呼吸。"
-        },
-        {
-          "s": "Silence is the best cure for nostalgia.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "沉默是治疗乡愁最好的良药。"
-        },
-        {
-          "s": "Esmeralda and Quasimodo were still for several moments, as they considered their predicament in silence, she so graceful, he so repulsive.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "爱斯梅拉达和卡西莫多静静地待了一会儿，默然思考着他们的困境，她如此优雅，他如此丑陋。"
-        },
-        {
-          "s": "He was the first to break the silence.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "他是第一个打破沉默的人。"
-        },
-        {
-          "s": "And what about that other dinner-party killer: awkward silence?",
-          "src": "2021全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "那另一个饭局杀手——尴尬的沉默——又怎么说？"
-        },
-        {
-          "s": "We’ve all been there: in a lift, in line at the bank or on an airplane, surrounded by people who are, like us, deeply focused on their smartphones or, worse, struggling with the uncomfortable silence.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我们都经历过这样的情况：在电梯里、在银行排队或在飞机上，周围的人像我们一样全神贯注地看着智能手机，或者更糟的是，在不舒服的沉默中挣扎。"
-        },
-        {
-          "s": "\"It's not just a ride；you're not just sitting there in   19   silence or with your headphones on.” Stern said.",
-          "src": "2019北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "“这不只是搭车；你不只是坐在那里___19___沉默或戴着耳机。”斯特恩说。"
-        }
-      ]
-    },
-    {
-      "def": "a situation in which sb refuses to talk about sth or to answer questions 缄默；缄口不谈；拒绝回答",
+      "def": "not talking very much 尤指男人",
       "ex": []
     },
     {
-      "def": "a situation in which people do not communicate with each other by letter or telephone 互相不通音信的情形；无书信或电话联系",
+      "def": "where there is little or no sound; making little or no sound 无声的；安静的；不喧闹的",
       "ex": [
         {
-          "s": "Thanks to the Silence Machine, a British invention, you can get rid of the sound without upsetting the boy or his parents.",
-          "src": "2020天津6月卷·阅读理解C",
+          "s": "Everyone was silent, wait to see who would be called upon to read his and her paragraph aloud.",
+          "src": "2018全国III卷·短文改错",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "多亏了静音机这一英国发明，你可以在不惹恼男孩或他父母的情况下摆脱这种声音。"
+          "year": 2018,
+          "t": "大家都安静地等待，看谁会被叫起来大声朗读自己的段落。"
         },
         {
-          "s": "One may wonder how the Silence Machine works.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "多亏了静音机——一项英国发明，你可以在不惹恼那个男孩或他父母的情况下消除那个声音。"
-        }
-      ]
-    },
-    {
-      "def": "to make sb/sth stop speaking or making a noise 使安静；使不说话",
-      "ex": [
+          "s": "The Tramp is a symbol of the silent cinema and even after so many years, he is still able to make people laugh.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "流浪汉是无声电影的象征，即使经过这么多年，他仍然能够让人们发笑。"
+        },
         {
-          "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
-          "src": "2021全国乙卷·阅读理解D",
+          "s": "Silent onstage communication is key, and each pianist has their own style of “nodding” to indicate a page turn which they need to practise with their page turner.",
+          "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
+          "t": "台上无声的沟通是关键，每位钢琴家都有自己的点头风格来表示翻页，需要与翻谱员练习。"
         },
         {
-          "s": "silence the people around you",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让周围的人安静下来"
+          "s": "He became famous in the 1910s, when films were silent and in black and white.",
+          "src": "外研社B4 U1",
+          "cat": "waiyan",
+          "t": "他在20世纪10年代出名，当时电影是无声的，黑白的。"
         },
         {
-          "s": "SILENCE in big black letters was on signs hung everywhere If she thought you were dressed improperly, she sent you straight back home to change your clothes.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "用大写字母写的\"安静\"标志到处都是如果她觉得你穿得不合适，她会直接让你回家换衣服。"
+          "s": "Otherwise, all was silent and empty.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "不然的话，一切都是寂静和空旷的。"
+        },
+        {
+          "s": "Silent Spring There was a strange stillness.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "寂静的春天，有一种奇怪的寂静。"
         }
       ]
     },
     {
-      "def": "to make sb stop expressing opinions that are opposed to yours 压制，使不再发表（反对意见）",
+      "def": "not expressed with words or sound 不用言语表达的；无声的",
+      "ex": []
+    },
+    {
+      "def": "not giving information about sth; refusing to speak about sth 不提供情况的；未谈及的；拒绝讲的",
+      "ex": []
+    },
+    {
+      "def": "with pictures but no sound 过去的电影",
+      "ex": []
+    },
+    {
+      "def": "written but not pronounced 单词中的字母",
       "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "silence machine",
-      "cn": "寂静 常构成复合词",
-      "type": "名词短语",
+      "en": "goes silent",
+      "cn": "去 人",
+      "type": "形容词搭配",
       "count": 2
     },
     {
-      "en": "total silence",
-      "cn": "总的 寂静",
-      "type": "名词短语",
-      "count": 2
+      "en": "kept silent",
+      "cn": "人",
+      "type": "形容词搭配",
+      "count": 1
     },
     {
-      "en": "awkward silence",
-      "cn": "令人尴尬的 寂静",
+      "en": "silent and empty",
+      "cn": "人 与 空的",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "everyone was silent",
+      "cn": "是 人",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "only silence",
-      "cn": "仅 寂静",
+      "en": "films were silent",
+      "cn": "电影 是 人",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "sight silence",
-      "cn": "视力 寂静",
+      "en": "internal voice goes silent",
+      "cn": "内部的 嗓音 去 人",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "silence and decibels",
-      "cn": "寂静 与",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "silence lay",
-      "cn": "寂静 放置",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "uncomfortable silence",
-      "cn": "寂静",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "to break the silence",
-      "cn": "去 破 该 寂静",
+      "en": "of the silent cinema",
+      "cn": "的 该 人 电影院",
       "type": "介词短语",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "appreciative of sight silence",
-      "cn": "的 视力 寂静",
-      "type": "介词短语",
+      "en": "otherwise all was silent",
+      "cn": "否则 所有 是 人",
+      "type": "名词短语",
       "count": 1
     }
   ]

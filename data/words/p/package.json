@@ -92,20 +92,26 @@
   ],
   "chunks": [
     {
-      "en": "other package",
-      "cn": "另外 你有一个大包裹来了。",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "package tour",
       "cn": "你有一个大包裹来了。 旅行",
-      "type": "名词短语",
+      "type": "动词短语",
       "count": 2
     },
     {
       "en": "packaged meals",
       "cn": "你有一个大包裹来了。 早餐",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "packaged foods",
+      "cn": "你有一个大包裹来了。 食物",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "other package",
+      "cn": "另外 你有一个大包裹来了。",
       "type": "名词短语",
       "count": 2
     },
@@ -118,12 +124,6 @@
     {
       "en": "great package",
       "cn": "大的 你有一个大包裹来了。",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "packaged foods",
-      "cn": "你有一个大包裹来了。 食物",
       "type": "名词短语",
       "count": 1
     },

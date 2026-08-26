@@ -1,80 +1,179 @@
 {
   "meta": {
-    "ph": "pəˈɡəʊdə; NAmE pəˈɡoʊdə",
-    "pos": "noun",
-    "stars": "★"
+    "ph": "ˌəʊvərˈɔːl; NAmE ˌoʊvərˈɔːl",
+    "pos": "adjective",
+    "stars": "★★"
   },
   "defs": [
     {
-      "def": "a temple (= religious building) in S or E Asia in the form of a tall tower with several levels, each of which has its own roof that extends beyond the walls （南亚或东亚的）佛塔",
+      "def": "including everything or everyone; in total 全部；总计",
       "ex": [
         {
-          "s": "This could vary from a view of a pond and the splashing of fish, to a tree in blossom, a pagoda or a moon-shaped gate.",
-          "src": "外研社B6 U5",
+          "s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.",
+          "src": "2026新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"
+        },
+        {
+          "s": "Such people show greater overall life satisfaction, too.",
+          "src": "2025北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "这样的人也表现出更高的整体生活满足感。"
+        },
+        {
+          "s": "Although popular beliefs regarding emotional intelligence run far ahead of what research can reasonably support, the overall effects of the publicity have been more beneficial than harmful.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "尽管关于情商的流行观点远远超出了目前研究能够支持的范围。"
+        },
+        {
+          "s": "The implications of music on overall well-being are really impressive．",
+          "src": "2021北京卷·七选五",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "音乐对整体福祉的影响确实令人印象深刻。"
+        },
+        {
+          "s": "Although not every paragraph needs a subheading, they can be skimmed to give the reader an overall understanding of the content of a text.",
+          "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "这可能是从池塘的景色和鱼儿溅水的声音，到一棵花开满枝的树、一座塔或一个月亮形的大门。"
+          "t": "虽然不是每个段落都需要小标题，但浏览小标题可以让读者对文本内容有一个整体的了解。"
+        }
+      ]
+    },
+    {
+      "def": "generally; when you consider everything 一般来说；大致上；总体上",
+      "ex": [
+        {
+          "s": "“Overall, negative reviews are less common.",
+          "src": "2026浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“总体而言，负面评论比较少见。"
         },
         {
-          "s": "In the morning, we will visit the places of interest around or near the West Lake, including the lake, Gu Hill, Lingyin Temple, and Lei Feng Pagoda.",
-          "src": "人教选必3 U5",
+          "s": "The increase of energy will even make you more willing to exercise, and that will raise your overall energy even more.",
+          "src": "2020江苏卷·Humor",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "精力的增加甚至会让你更愿意锻炼，而这会进一步提高你的整体精力水平。"
+        },
+        {
+          "s": "Second, take the overall appearance of the neighborhood seriously,.",
+          "src": "2018浙江6月卷·七选五",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一般来说，在他们外出时要留意他们的财产。"
+        },
+        {
+          "s": "End by talking about your overall feelings about the trip.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "以谈谈你对这次旅行的总体感受作为结尾。"
+        },
+        {
+          "s": "I occasionally feel lonely, but overall, it’s a hugely rewarding job.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "我偶尔会感到孤独，但总的来说，这是一份非常有价值的工作。"
+        },
+        {
+          "s": "Overall, I thought this unit was cool useful just OK difficult.",
+          "src": "人教B1 U2",
           "cat": "renjiao",
-          "t": "上午，我们将参观西湖周边或附近的景点，包括西湖、孤山、灵隐寺和雷峰塔。"
+          "t": "总体而言，我认为这个单元很酷 有用 还行 难。"
         },
         {
-          "s": "The blog entry below is about the Wooden Pagoda of Yingxian County in China.",
-          "src": "译林选必3 U4",
-          "cat": "yilin",
-          "t": "下面的博客条目是关于中国应县木塔的。"
+          "s": "Overall, I thought this unit was interesting useful so-so difficult.",
+          "src": "人教B1 U4",
+          "cat": "renjiao",
+          "t": "总体来说，我认为这个单元有趣、有用、难度一般。"
         },
         {
-          "s": "Unfortunately, there has been a lot of damage to the pagoda over the centuries.",
-          "src": "译林选必3 U4",
-          "cat": "yilin",
-          "t": "不幸的是，几个世纪以来，这座塔遭受了大量的损坏。"
-        },
+          "s": "The results held true even after the scientists accounted for the participants’ overall health status.",
+          "src": "2020浙江7月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "即使在科学家对参与者的总体健康状况作了说明之后，结果还是真实的。"
+        }
+      ]
+    },
+    {
+      "def": "a loose coat worn over other clothes to protect them from dirt, etc. 外套；罩衣",
+      "ex": []
+    },
+    {
+      "def": "a loose piece of clothing like a shirt and trousers/pants in one piece, made of heavy cloth and usually worn over other clothing by workers doing dirty work 工装服；连身工作服",
+      "ex": []
+    },
+    {
+      "def": "a piece of clothing that consists of trousers/pants with an extra piece of cloth covering the chest, held up by strips of cloth over the shoulders 工装裤",
+      "ex": [
         {
-          "s": "In addition, the pagoda got hit by bombs during several wars, which caused some damage.",
-          "src": "译林选必3 U4",
-          "cat": "yilin",
-          "t": "此外，这座塔在几次战争中曾遭炸弹击中，造成了一些损坏。"
+          "s": "Importantly, however, the beauty group did not report feeling any happier than the control group, suggesting that it was the engagement with beauty that influenced abstract thinking, rather than any overall positivity from the experience.",
+          "src": "2026新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "然而重要的是，美感组并没有报告比对照组更快乐，这表明影响抽象思维的是与美的接触，而不是这次经历带来的整体积极情绪。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "feng pagoda",
-      "cn": "佛塔",
+      "en": "greater overall",
+      "cn": "全部",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "participants overall",
+      "cn": "全部",
+      "type": "形容词搭配",
+      "count": 1
+    },
+    {
+      "en": "overall i thought",
+      "cn": "全部 我 想法",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "about your overall",
+      "cn": "大约 你的 全部",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "an overall understanding",
+      "cn": "一个 全部 懂",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "wooden pagoda",
-      "cn": "佛塔",
+      "en": "any overall positivity",
+      "cn": "任何 全部",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "about the wooden pagoda",
-      "cn": "大约 该 佛塔",
+      "en": "feel lonely but overall",
+      "cn": "觉得 孤独的 但 全部",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "for the participants overall",
+      "cn": "为了 该 全部",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "damage to the pagoda",
-      "cn": "损坏 去 该 佛塔",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "in addition the pagoda",
-      "cn": "在…里 加 该 佛塔",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "in blossom a pagoda",
-      "cn": "在…里 一个 佛塔",
+      "en": "half of the overall",
+      "cn": "一半 的 该 全部",
       "type": "介词短语",
       "count": 1
     }
