@@ -1,132 +1,212 @@
 {
   "meta": {
-    "ph": "ˈprefrəns; NAmE ˈprefrəns",
+    "ph": "ˌpreznˈteɪʃn; NAmE ˌpriːzenˈteɪʃn",
     "pos": "noun",
     "stars": "★★"
   },
   "defs": [
     {
-      "def": "a greater interest in or desire for sb/sth than sb/sth else 偏爱；爱好；喜爱",
+      "def": "the act of showing sth or of giving sth to sb 提交；授予；颁发；出示",
       "ex": [
         {
-          "s": "Changed preferences for books.",
-          "src": "2024天津3月卷·阅读Passage 2",
+          "s": "I held presentations at schools to teach kids about plastic waste.",
+          "src": "2021新高考II卷·语法填空",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "改变了对书籍的偏好。"
+          "year": 2021,
+          "t": "我在学校做了演讲教孩子们关于塑料废物的知识。"
         },
         {
-          "s": "She always has an immediate answer for any question I put to her, and even uses my answers to learn more about my preferences.",
-          "src": "外研社B6 U4",
+          "s": "As students, it’s likely that those moments are mainly about school life, such as sitting a major exam, giving a presentation, or becoming a boarder for the first time.",
+          "src": "外研社B5 U1",
           "cat": "waiyan",
-          "t": "对于我向她提出的任何问题，她总是能立刻给出答案，甚至利用我的回答来更多地了解我的喜好。"
-        },
-        {
-          "s": "Sharing platforms collect personal information about almost every part of our lives, including our names, locations, bank information, and individual preferences for goods and services.",
-          "src": "外研社B7 U4",
-          "cat": "waiyan",
-          "t": "共享平台收集有关我们生活几乎每个方面的个人信息，包括我们的名字、位置、银行信息以及对商品和服务的个人偏好。"
-        },
-        {
-          "s": "Talk about music preferences 1 Before you listen, discuss the question in groups.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "谈论音乐偏好 1 在你听之前，分组讨论这个问题。"
-        },
-        {
-          "s": "Talking about preferences Would you prefer doing …?",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "谈偏好 你更愿意做……吗？"
-        },
-        {
-          "s": "Your home will also learn your daily routine and preferences, so everything will be ready for you when you get home each evening.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "你的家还会学习你的日常作息和偏好，这样每天晚上你回到家时一切都会为你准备好。"
+          "t": "作为学生，那些时刻很可能主要与学校生活有关，比如参加一次重要的考试、做一次演讲，或者第一次成为寄宿生。"
         }
       ]
     },
     {
-      "def": "a thing that is liked better or best 偏爱的事物；最喜爱的东西",
+      "def": "the way in which sth is offered, shown, explained, etc. to others 提出（或展示、解释等）的方式",
       "ex": [
         {
-          "s": "Writing is a matter of personal preferences.",
-          "src": "2024全国甲卷·阅读理解D",
+          "s": "When is the class presentation according to Vicky?",
+          "src": "2024全国甲卷",
           "cat": "gaokao",
           "year": 2024,
-          "t": "写作是个人偏好的事。"
+          "t": "根据维基的说法，课堂展示是在什么时候？"
         },
         {
-          "s": "However, new studies have shown that dogs can read human behaviour and have a preference to people who are more friendly or generous with food.",
-          "src": "2023天津6月卷·阅读理解C",
+          "s": "I guess I was better than the others, for Miss Chevalier asked a while later, “Addie, I was wondering if you would recite the whole poem to the Saturday evening’s club.” She said a famous professor was going to give a lecture about the poet, and a presentation of that poem would be a fresh way to start.",
+          "src": "2024天津3月卷·阅读Passage 3",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，新研究表明，狗能读懂人类行为，并偏好那些更友好或对食物更大方的人。"
+          "year": 2024,
+          "t": "我想我比其他人强一些，因为谢瓦利埃小姐过了一会儿问道：\"艾迪，我在想你是否愿意在周六晚上的读书会上把整首诗背诵出来。\"她说一位著名教授将要做一个关于这位诗人的讲座，而朗诵那首诗会是一个新颖的开场方式。"
+        },
+        {
+          "s": "（3）Among the items provided by the school for a visual presentation are     ．",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "（3）学校为视觉呈现提供的物品包括     。"
+        },
+        {
+          "s": "Performance： A dramatic presentation of the topic no more than 10 minutes long． If special clothes are used， they should truly represent a given period．",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "表演：对该主题进行的戏剧性展示，时长不超过10分钟。若使用了特殊服装，应真实代表某个特定时期。"
         }
       ]
+    },
+    {
+      "def": "a meeting at which sth, especially a new product or idea, or piece of work, is shown to a group of people 展示会；介绍会；发布会",
+      "ex": [
+        {
+          "s": "Besides performing and modeling, Hannah travels the world given/giving presentations and talks, getting more people involved/involving in the conservation of ocean life.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "除了表演和模特工作，汉娜还在世界各地做演讲和讲座，让更多人参与到海洋生物保护中来。"
+        }
+      ]
+    },
+    {
+      "def": "the series of computer slides (= images) that accompany the talk when sb gives a presentation at a meeting 幻灯片演示",
+      "ex": [
+        {
+          "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
+          "src": "2019天津卷·History Fair Competition",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "纪录片：一种视觉展示（如视频、幻灯片或电脑作品），时长不超过10分钟。将提供台式电脑、屏幕、投影仪和扬声器。学生必须在3月23日星期五之前将展示内容刻录在CD上提交。"
+        },
+        {
+          "s": "General information Main idea Lesson(s) in the work 1 the structure of your presentation 2 useful words, expressions and structures Write a reflection after completing this unit.",
+          "src": "外研社B7 U2",
+          "cat": "waiyan",
+          "t": "基本信息 主要思想 作品中的教训 1 你的演示结构 2 有用的词、表达和结构 完成本单元后写一篇反思。"
+        },
+        {
+          "s": "One day, I attended a presentation by wildlife conservationist Grant Brown at my high school.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "一天，我在高中参加了野生动物保护主义者格兰特·布朗的讲座。"
+        },
+        {
+          "s": "His presentation not only awed and inspired me, but also helped emerge an inner desire to make a difference in the world.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "他的演讲不仅让我惊叹和受到启发，还帮助唤起一种想在世界有所作为的内在渴望。"
+        },
+        {
+          "s": "How did Grant Brown’s presentation influence Alice?",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "Grant Brown的演讲对Alice产生了什么影响？"
+        },
+        {
+          "s": "Always make your presentation just a bit shorter than anticipated.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "让听众意犹未尽比让他们在座位上不安地扭动、等待演讲结束要好。"
+        },
+        {
+          "s": "Learning activities homework exam Changes 1 the structure of your presentation 2 useful words, expressions and structures Write a reflection after completing this unit.",
+          "src": "外研社B5 U3",
+          "cat": "waiyan",
+          "t": "学习活动 作业考试 改变 1 您的演示文稿结构 2 有用的单词，表达式和结构 完成这个单元后写一个反射。"
+        },
+        {
+          "s": "Why people go to war Effects of war on people How we can maintain peace around the world 1 the structure of your presentation 2 useful words, expressions and structures Write a reflection after completing this unit.",
+          "src": "外研社B6 U3",
+          "cat": "waiyan",
+          "t": "人们为何会走向战争 战争对人的影响 我们如何在全世界维护和平 1 你的演示结构 2 有用的词、表达和结构 完成本单元后写一篇反思。"
+        }
+      ]
+    },
+    {
+      "def": "a ceremony or formal occasion during which a gift or prize is given 颁奖仪式；赠送仪式",
+      "ex": [
+        {
+          "s": "I went to my teacher’s office after the award presentation.",
+          "src": "2023新课标I卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "颁奖后我去了老师办公室。"
+        },
+        {
+          "s": "I went to my teacher’s office after the award presentation.",
+          "src": "2023新课标II卷·书面表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "颁奖后我去了老师办公室。"
+        }
+      ]
+    },
+    {
+      "def": "a performance of a play, etc. in a theatre （戏剧等的）上演，演出",
+      "ex": []
+    },
+    {
+      "def": "the position in which a baby is lying in the mother's body just before birth （胎儿的）临产胎位，产式，先露位置",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "changed preferences",
-      "cn": "改变 偏爱",
+      "en": "award presentation",
+      "cn": "常用于奖项名称 提交",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "visual presentation",
+      "cn": "视力的 提交",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "class presentation",
+      "cn": "班 提交",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "individual preferences",
-      "cn": "常用于 each 之后 偏爱",
+      "en": "dramatic presentation",
+      "cn": "变化 提交",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "music preferences",
-      "cn": "音乐 偏爱",
+      "en": "held presentations",
+      "cn": "提交",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "personal preferences",
-      "cn": "个人的 偏爱",
+      "en": "presentation influence",
+      "cn": "提交 影响",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "preference to people",
-      "cn": "偏爱 去 人",
+      "en": "presentations and talks",
+      "cn": "提交 与 说话",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "routine and preferences",
-      "cn": "常规 与 偏爱",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a preference to people",
-      "cn": "一个 偏爱 去 人",
+      "en": "of your presentation",
+      "cn": "的 你的 提交",
       "type": "介词短语",
-      "count": 1
+      "count": 3
     },
     {
-      "en": "about music preferences",
-      "cn": "大约 音乐 偏爱",
+      "en": "structure of your presentation",
+      "cn": "你的演示结构",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "about my preferences",
-      "cn": "大约 我的 偏爱",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "about preferences",
-      "cn": "大约 偏爱",
-      "type": "介词短语",
-      "count": 1
+      "count": 3
     }
   ]
 }
