@@ -1,416 +1,390 @@
 {
   "meta": {
-    "ph": "smaɪl; NAmE smaɪl",
-    "pos": "verb",
+    "ph": "sləʊ; NAmE sloʊ",
+    "pos": "adjective",
     "stars": ""
   },
   "defs": [
     {
-      "def": "to make a smile appear on your face 微笑；笑",
+      "def": "not moving, acting or done quickly; taking a long time; not fast 缓慢的；迟缓的；耗时的；慢的",
       "ex": [
         {
-          "s": "Mia was surprised but smiled gently.",
-          "src": "2026北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "苏柒柒很惊讶，却温柔的笑了笑。"
-        },
-        {
-          "s": "I flashed him an apologetic smile as I pulled out my Portuguese bankcard.",
-          "src": "2024新高考I卷·读后续写",
+          "s": "You’ll compete with fewer tourists, save money, experience a different side of a popular place, and boost the economy when tourism is traditionally slower.",
+          "src": "2024新高考II卷·七选五",
           "cat": "gaokao",
           "year": 2024,
-          "t": "我一边露出歉意的微笑，一边掏出我的葡萄牙银行卡。"
+          "t": "你会与更少的游客竞争、省钱、体验热门地点的不同一面，并在传统淡季提振当地经济。"
         },
         {
-          "s": "I flashed him an apologetic smile as I pulled out my Portuguese bankcard.",
-          "src": "2024新高考II卷·读后续写",
+          "s": "Too much workout often slows metabolic rates.",
+          "src": "2020江苏卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "我一边露出歉意的微笑，一边掏出我的葡萄牙银行卡。"
+          "year": 2020,
+          "t": "锻炼过多往往会降低新陈代谢率。"
         },
         {
-          "s": "Despite her encouraging smile, I wanted to sink through the floor because I was unsure about its pronunciation as well as its meaning.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尽管她面带鼓励的微笑，我却恨不得找个地缝钻进去，因为我不确定它的发音，也不确定它的意思。"
+          "s": "It involves doing very slow physical exercises to relax your mind and calm your body.",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "它涉及做非常缓慢的身体练习，以放松你的头脑，平静你的身体。"
         },
         {
-          "s": "Memories of their 67-year life together would always make her smile.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "对他们67年共同生活的回忆总会让她露出微笑。"
-        },
-        {
-          "s": "Even today Mecca's kindness continues to make me smile.",
-          "src": "2023天津6月卷·二、完型填空",
+          "s": "The human mind is bad at noting slow change.",
+          "src": "2023北京卷·阅读理解C",
           "cat": "gaokao",
           "year": 2023,
-          "t": "即使在今天，麦加的善良仍然让我微笑。"
+          "t": "人类大脑不善于察觉缓慢的变化。"
         },
         {
-          "s": "“I remember the first time I saw a humpback whale; it just rose out of the water like some prehistoric creature and I thought it was smiling at us.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "“我记得第一次看到座头鲸的时候，它就像某种史前生物一样从水中升起，我觉得它在对着我们微笑。"
-        },
-        {
-          "s": "She smiled at me and said if I needed help, she’d be right there, which I found quite comforting.",
-          "src": "2022浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她对我微笑说如果需要帮助她就在那里，我觉得这很令人安慰。"
-        },
-        {
-          "s": "A simple greeting in their mother tongue can guarantee a smile from a total stranger and a tired traveller.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "用他们的母语简单问候一句，就能让一个完全陌生的人和疲惫的旅客露出微笑。"
-        },
-        {
-          "s": "smile is no guarantee of quality service.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "微笑不能保证服务质量。"
-        },
-        {
-          "s": "Emoji can help communication feel friendlier, and even a serious note can be softened with an encouraging smile.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "表情符号能让沟通显得更友好，即使是严肃的留言，加上一个鼓励的微笑也能变得柔和。"
-        },
-        {
-          "s": "Sending smiling faces to colleagues may seem strange",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "给同事发送笑脸表情似乎很奇怪。"
-        },
-        {
-          "s": "She donates 10% of AilicCandy's profits to Big Smiles.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "她将艾利坎迪10%的利润捐给\"大微笑\"."
-        },
-        {
-          "s": "A nervous night to be sure, but sometimes the spirits of nature smile on us all!",
-          "src": "2017全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "确是一个紧张的夜晚，但有时自然的精灵会眷顾我们所有人！"
-        },
-        {
-          "s": "As sad as it was, I couldn’t help smiling.",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "尽管这件事令人悲伤，我还是忍不住微笑了。"
-        },
-        {
-          "s": "Sometimes it’s good to just smile, nod your head and listen.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "有时候，只要微笑、点点头并倾听就好。"
-        },
-        {
-          "s": "As sad as it was, I couldn’t help smiling .",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "尽管很令人难过，我还是忍不住笑了。"
-        },
-        {
-          "s": "Friendship soup Like any good soup, This won’t fail to make you smile when you’re feeling down.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "友谊汤 就像任何好汤一样，当你心情低落时，它必定会让你露出微笑。"
-        },
-        {
-          "s": "Pour it into a pot an mix it with five grams of smiles.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "把它倒进锅里，与五克微笑混合。"
-        },
-        {
-          "s": "\"Twenty years is a long time.\" He smiled bitterly, not knowing where to go.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "“二十年是一段漫长的时光。”他苦涩地笑了笑，不知该去往何处。"
-        },
-        {
-          "s": "\"Yes, sir,\" the young man smiled.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "“是的，先生，”年轻人笑了。"
-        },
-        {
-          "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
-        },
-        {
-          "s": "But the good thing was she always had the smile that would make you feel like you just did something right.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "但好的一面是，她总是带着那种让你觉得自己刚做了什么正确之事的微笑。"
-        },
-        {
-          "s": "His usual big toothy smile was absent today.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他今天惯常那种露齿大笑不见了。"
-        },
-        {
-          "s": "His usual big toothy smile was absent today.",
-          "src": "2022全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他今天惯常那种露齿大笑不见了。"
-        }
-      ]
-    },
-    {
-      "def": "to say or express sth with a smile 微笑着说；微笑地表示",
-      "ex": [
-        {
-          "s": "Some looked like they had tally given up on life, while others seemed to be making the best of the situation, smiling and joking.",
-          "src": "2022浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "有些人看起来已经彻底放弃了生活，而另一些人似乎在尽力适应现状，微笑着开玩笑。"
-        },
-        {
-          "s": "They arrive at the class in low spirits and they leave with a smile.",
-          "src": "2018全国III卷·七选五",
+          "s": "They tolerate long, slow journeys to and from work on packed highways because they can work, entertain themselves or sleep on the ride, which encourages urban spread.",
+          "src": "2018北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2018,
-          "t": "他们情绪低落地来到课堂，却面带微笑地离开。"
+          "t": "他们忍受在拥挤的高速公路上漫长而缓慢的上下班通勤，因为他们可以在途中工作、娱乐或睡觉，这促进了城市扩张。"
         },
         {
-          "s": "While going through the pages, he kept saying, wide-eyed: “How can there be this many words?” After a while, he looked at me and asked, “Do you know all these words, Mom?” I smiled, “I definitely do not know all these words,” I said.",
-          "src": "2026新高考I卷·阅读理解B",
+          "s": "They raise the local temperature slowly.",
+          "src": "2026新高考I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2026,
-          "t": "他翻着书页，睁大眼睛不停地说：“怎么会有这么多词？”过了一会儿，他看着我问：“妈妈，你认识所有这些词吗？”我笑着说：“我确实不认识所有这些词。”"
+          "t": "它们使当地气温缓慢上升。"
         },
         {
-          "s": "After that incident, I stopped acting as a “Chinese teacher.” Instead of correcting others when they were struggling to pronounce my name, I just smiled and nodded approvingly.",
-          "src": "2025新高考II卷·读后续写",
+          "s": "It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way.",
+          "src": "2023全国乙卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2025,
-          "t": "那次事件后，我不再担任“汉语老师”。“当别人挣扎着说出我的名字时，我没有纠正别人，我只是微笑着点头表示赞许。"
+          "year": 2023,
+          "t": "最近有报道称，坚持传统饮食的人数正在缓慢下降，约一半英国消费者想以某种方式改变或改善自己的烹饪。"
         },
         {
-          "s": "The teachers were smiling and praising me.",
-          "src": "2024北京卷",
+          "s": "But not all cities develop slowly over a long period of time.",
+          "src": "2018全国III卷·B源",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "老师们微笑着称赞我。"
+          "year": 2018,
+          "t": "但并非所有城市都在很长一段时间内缓慢发展。"
         },
         {
-          "s": "“I have an idea, but it might be a little crazy,” smiled Mom.",
-          "src": "2020浙江1月卷·读后续写",
+          "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“例如，我们大多数人都以为老年驾驶者总是比其他人开得慢，但令人惊讶的是，我们发现，在限速30英里每小时的区域，他们难以保持匀速，因此更有可能超速并被罚款的风险。"
+        },
+        {
+          "s": "Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea.",
+          "src": "2020全国新高考I卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "“我有个主意，但可能有点疯狂，”妈妈笑着说。"
+          "t": "于是有了这本书——《追逐大海：在中亚帝国的幽灵中迷失》，它讲述了一段从塔什干到卡拉卡尔帕克斯坦的公路旅行，在那里，数百万人的生活被大海缓慢干涸所摧毁。"
         },
         {
-          "s": "\"I'm wondering what life is going to be like here.\" \"Don't worry,\" he gave me a smile.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "“我想知道这里的生活会是什么样子。“别担心， ”他笑着对我说。"
+          "s": "Impatience with slow service.",
+          "src": "2018全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "不耐烦 服务缓慢。"
+        },
+        {
+          "s": "Slowly but surely, my efforts to adjust to the new routine paid off.",
+          "src": "2026新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "我努力适应新作息，缓慢但稳步地见到了成效。"
         }
       ]
     },
     {
-      "def": "to give a smile of a particular type 现出（某种）笑容",
+      "def": "not going or allowing you to go at a fast speed 慢速的；低速的",
       "ex": [
         {
-          "s": "I forced a smile, unsure how to respond further.",
-          "src": "2025新高考II卷·读后续写",
+          "s": "Learn from prior experience to slow it down.",
+          "src": "2024新高考II卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2025,
-          "t": "我勉强挤出笑容，不知该如何进一步回应。"
-        },
+          "year": 2024,
+          "t": "Taylor迅速的行动帮助队友冷静下来。"
+        }
+      ]
+    },
+    {
+      "def": "hesitating to do sth or not doing sth immediately 迟迟不 … ；不乐意；慢吞吞的",
+      "ex": []
+    },
+    {
+      "def": "not quick to learn; finding things hard to understand 迟钝的；笨的；理解力差的",
+      "ex": []
+    },
+    {
+      "def": "not very busy; containing little action 不忙碌的；清淡的；冷清的",
+      "ex": [
         {
-          "s": "As they came in my direction, I put on my brightest and happiest smile.",
-          "src": "2022浙江6月卷·读后续写",
+          "s": "Their business is slow.",
+          "src": "2022全国甲卷",
           "cat": "gaokao",
           "year": 2022,
-          "t": "当他们朝我走来时，我露出最灿烂最开心的笑容。"
+          "t": "他们的生意清淡。"
+        }
+      ]
+    },
+    {
+      "def": "showing a time earlier than the correct time 慢",
+      "ex": [
+        {
+          "s": "Prior to SLEAP, tracking the physical characteristics of both plants and animals required a lot of labor that slowed the scientific process.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在SLEAP出现之前，追踪动植物物理特征需要大量人工，拖慢了科研进程。"
         },
         {
-          "s": "\"During a time of stress for families, it's nice to be able to help them smile and laugh,\" Parry said.",
-          "src": "2020天津3月卷·阅读理解B",
+          "s": "The sharks are thrown back into the sea where they die slowly and painfully.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "鲨鱼被扔回大海，在那里慢慢地痛苦地死去。"
+        },
+        {
+          "s": "38    So, slow down and think what you really want to do at that moment.",
+          "src": "2019全国II卷·七选五",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "38    所以，慢下来，想一想那一刻你真正想做什么。"
+        },
+        {
+          "s": "Slowing down can contribute significantly to personal growth.",
+          "src": "2024北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "当一些人拒绝接种疫苗并想搭便车，免疫就会失效，每个人都面临更大的危险。"
+        },
+        {
+          "s": "It slows down a running man.",
+          "src": "2020天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "“在家长们倍感压力的时候，能帮他们露出笑容和笑声是件好事，”帕里说。"
+          "t": "它让奔跑的人慢下来。"
         },
         {
-          "s": "She hopes that every kid can have a clean mouth and a broad smile.",
-          "src": "2019北京卷·阅读理解B",
+          "s": "It stops on the stone floor — and then turns, moving slowly towards a different corner of the cave, where the wind is calmer and the flies more plentiful.",
+          "src": "2026北京卷·写作问答",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "她希望每个孩子都能拥有干净的嘴和灿烂的笑容。"
+          "year": 2026,
+          "t": "它停在石地上——然后转身，缓缓爬向洞穴的另一个角落，那里风更平静，苍蝇也更多。"
         },
         {
-          "s": "Moore wants to use her unique talent to help others find their smiles.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "摩尔想用她独特的才能帮助他人找到笑容。"
-        },
-        {
-          "s": "The family hugged and smiled through misty eyes and then laughed.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男孩把最后一个包扛到肩上，露出灿烂的笑容。"
-        },
-        {
-          "s": "“What I can say for the folks that gave the most, is that they were full of smiles,” Bridges said.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "\"对于那些给得最多的人，我可以说的是他们满脸笑容，\"布里奇斯说。"
-        },
-        {
-          "s": "Not only does this cafe serve up drinks, it also serves up smiles.",
-          "src": "2025新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这家咖啡馆不仅提供饮品，还提供微笑。"
-        },
-        {
-          "s": "Gunter parked the taxi behind the bus, turned around, and looked at me with a big smile on his face.",
+          "s": "I thought my pronunciation was the problem, so I explained again more slowly, but he still looked confused.",
           "src": "2024新高考I卷·读后续写",
           "cat": "gaokao",
           "year": 2024,
-          "t": "Gunter把出租车停在巴士后面，转过身，脸上挂着大大的笑容看着我。"
+          "t": "我以为是我的发音有问题，于是更慢地又解释了一遍，但他还是一脸困惑。"
         },
         {
-          "s": "Gunter parked the taxi behind the bus, turned around, and looked at me with a big smile on his face.",
+          "s": "I thought my pronunciation was the problem, so I explained again more slowly, but he still looked confused.",
           "src": "2024新高考II卷·读后续写",
           "cat": "gaokao",
           "year": 2024,
-          "t": "Gunter把出租车停在巴士后面，转过身，脸上挂着大大的笑容看着我。"
+          "t": "我以为是我的发音有问题，于是更慢地又解释了一遍，但他还是一脸困惑。"
         },
         {
-          "s": "The boy lifted the last bag onto his shoulder, and flashed a bright smile.",
-          "src": "2020浙江1月卷·读后续写",
+          "s": "They pretended to walk slowly away from the dog.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他们假装慢慢地从狗身边走开。"
+        },
+        {
+          "s": "I joined a pre-presentation dinner with him and that smaller setting allowed me to slowly build up my courage to speak one-on-one with him—an idea that had seemed completely impossible.",
+          "src": "2022北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我和他一起参加了一个讲座前的晚餐，那种较小的环境让我慢慢积蓄勇气与他一对一交谈——这曾经看似完全不可能。"
+        },
+        {
+          "s": "Then, slowly, he began to nod his head.",
+          "src": "2021全国甲卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "然后，慢慢地，他开始点头。"
+        },
+        {
+          "s": "It fills more slowly, but all the same, it fills.",
+          "src": "2020江苏卷·阅读理解D",
           "cat": "gaokao",
           "year": 2020,
-          "t": "男孩把最后一个袋子扛到肩上，露出了灿烂的笑容。"
+          "t": "它注满得更慢，但同样，它会注满。"
         },
         {
-          "s": "The smiles took everyone's attention from the surgery.",
-          "src": "2020天津3月卷·阅读理解B",
+          "s": "So I approached our uninvited guest slowly and，through the fence，sprayed him in the face.",
+          "src": "2020浙江7月卷·读后续写",
           "cat": "gaokao",
           "year": 2020,
-          "t": "\"我特别喜欢父母和患者看到他的作品时的反应。"
+          "t": "于是我慢慢接近这位不速之客，隔着栅栏朝它脸上喷了胡椒喷雾。"
         },
         {
-          "s": "But his smile faded as he rubbed his beard with bony fingers, in thought.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但当他用瘦骨嶙峋的手指摩挲着胡须沉思时，笑容渐渐消失了。"
-        },
-        {
-          "s": "To help others find smiles.",
-          "src": "2019北京卷·阅读理解B",
+          "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
+          "src": "2019天津卷·18．",
           "cat": "gaokao",
           "year": 2019,
-          "t": "它是根据牙医配方生产的。"
+          "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
         },
         {
-          "s": "Dad said she was probably lonely, and that I ought to sit and listen and nod my head and smile, and maybe she’d work it out of her system.",
-          "src": "2017浙江11月卷·阅读理解A",
+          "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
+          "src": "2018浙江6月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
+        },
+        {
+          "s": "Slowly, and with the camera still held to my eye, I turned… and froze.",
+          "src": "外研社B1 U5",
+          "cat": "waiyan",
+          "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
+        },
+        {
+          "s": "Slowly, and with the camera still held to my eye, I turned...and froze.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
+        },
+        {
+          "s": "While still holding the camera to my eye, I turned slowly...then stopped still.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "仍把相机贴在眼前，我缓缓转过身……然后静止不动。"
+        },
+        {
+          "s": "The instructor kept repeating the word, “Speed up!” “Slow down!” “Turning left!” I was so much nervous that I could hardly tell which direction was left.",
+          "src": "2017全国I卷·短文改错",
           "cat": "gaokao",
           "year": 2017,
-          "t": "爸爸说她可能很孤独，我应该坐下来倾听、点点头、微笑，也许她能把心里的郁闷发泄出来。"
+          "t": "教练不停地重复这个词： “加速！“慢点！ ”“向左转！ “我非常紧张，几乎分不清剩下哪个方向。"
+        },
+        {
+          "s": "Atomic time will get ahead of river time if the rivers run slower．",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "如果河流流速减慢，原子时间将提前到达河流时间。"
+        },
+        {
+          "s": "Progress can be slow, and you’ll wonder if it’s all sinking in.",
+          "src": "2026新高考II卷·七选五",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "进步可能很慢，你会怀疑这一切是否真的被他们吸收了。"
+        },
+        {
+          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+          "src": "2021北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+        },
+        {
+          "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
+        }
+      ]
+    },
+    {
+      "def": "slow film is not very sensitive to light （胶片）曝光慢的",
+      "ex": [
+        {
+          "s": "They had slow metabolic rates.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们的代谢率很慢。"
+        },
+        {
+          "s": "By painting buildings white, cities may slow down the warming process.",
+          "src": "2017江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "通过将建筑物漆成白色，城市可能会减缓变暖过程。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "smile on",
-      "cn": "微笑 在…上",
-      "type": "动词短语",
-      "count": 3
+      "en": "slow down",
+      "cn": "减速",
+      "type": "形容词搭配",
+      "count": 6
     },
     {
-      "en": "smiled through",
-      "cn": "微笑 通过",
-      "type": "动词短语",
+      "en": "very slow",
+      "cn": "非常 缓慢的",
+      "type": "形容词搭配",
+      "count": 2
+    },
+    {
+      "en": "long slow",
+      "cn": "长的 缓慢的",
+      "type": "形容词搭配",
       "count": 1
     },
     {
-      "en": "smiles bridges",
-      "cn": "微笑 桥",
-      "type": "动词短语",
+      "en": "noting slow",
+      "cn": "笔记 缓慢的",
+      "type": "形容词搭配",
       "count": 1
     },
     {
-      "en": "smiling mouth",
-      "cn": "微笑 嘴",
-      "type": "动词短语",
+      "en": "often slows",
+      "cn": "时常 缓慢的",
+      "type": "形容词搭配",
       "count": 1
     },
     {
-      "en": "a big smile",
-      "cn": "一个 大的 微笑",
-      "type": "名词短语",
-      "count": 2
+      "en": "reactions slow",
+      "cn": "反应 缓慢的",
+      "type": "形容词搭配",
+      "count": 1
     },
     {
-      "en": "an apologetic smile",
-      "cn": "一个 微笑",
-      "type": "名词短语",
-      "count": 2
+      "en": "at noting slow",
+      "cn": "在 笔记 缓慢的",
+      "type": "介词短语",
+      "count": 1
     },
     {
-      "en": "apologetic smile",
-      "cn": "微笑",
-      "type": "名词短语",
-      "count": 2
+      "en": "bad at noting slow",
+      "cn": "令人不快的 在 笔记 缓慢的",
+      "type": "介词短语",
+      "count": 1
     },
     {
-      "en": "big smile",
-      "cn": "大的 微笑",
+      "en": "be slow and you",
+      "cn": "是 缓慢的 与 你",
       "type": "名词短语",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "big toothy smile",
-      "cn": "大的 微笑",
+      "en": "business is slow",
+      "cn": "商业 是 缓慢的",
       "type": "名词短语",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "encouraging smile",
-      "cn": "支持 微笑",
-      "type": "名词短语",
-      "count": 2
+      "en": "by the slow drying",
+      "cn": "通过 该 缓慢的 干的",
+      "type": "介词短语",
+      "count": 1
     },
     {
-      "en": "help smiling",
-      "cn": "帮助 微笑",
+      "en": "cities may slow",
+      "cn": "都市 可能 缓慢的",
       "type": "名词短语",
-      "count": 2
+      "count": 1
+    },
+    {
+      "en": "destroyed by the slow",
+      "cn": "摧毁 通过 该 缓慢的",
+      "type": "介词短语",
+      "count": 1
     }
   ]
 }
