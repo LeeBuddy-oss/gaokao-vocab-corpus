@@ -99,6 +99,12 @@
           "cat": "gaokao",
           "year": 2023,
           "t": "这使得ALife成为批评的有力目标，例如对该领域科学价值的质疑。"
+        },
+        {
+          "s": "Though Carson’s research was strong and was supported by most scientists who reviewed her work, the book quickly became a target for critics in the pesticide industry.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "虽然卡森的研究很强，并且得到了大部分审查她作品的科学家的支持，但这本书很快就成为农药行业批评者的目标。"
         }
       ]
     },
@@ -108,14 +114,7 @@
     },
     {
       "def": "to aim an attack or a criticism at sb/sth 把 … 作为攻击目标；把 … 作为批评的对象",
-      "ex": [
-        {
-          "s": "Though Carson’s research was strong and was supported by most scientists who reviewed her work, the book quickly became a target for critics in the pesticide industry.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "虽然卡森的研究很强，并且得到了大部分审查她作品的科学家的支持，但这本书很快就成为农药行业批评者的目标。"
-        }
-      ]
+      "ex": []
     },
     {
       "def": "to try to have an effect on a particular group of people 面向，把 … 对准（某群体）",
@@ -151,5 +150,54 @@
       ]
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "target audience",
+      "cn": "目标受众",
+      "count": 1,
+      "type": "名词短语"
+    },
+    {
+      "en": "target users",
+      "cn": "目标用户",
+      "count": 1,
+      "type": "名词短语"
+    },
+    {
+      "en": "target recycling rate",
+      "cn": "目标回收率",
+      "count": 2,
+      "type": "名词短语"
+    },
+    {
+      "en": "become a target for",
+      "cn": "成为…的目标/对象",
+      "count": 2,
+      "type": "动词短语"
+    },
+    {
+      "en": "a target for",
+      "cn": "…的目标/对象",
+      "count": 2,
+      "type": "介词短语"
+    },
+    {
+      "en": "be targeted at",
+      "cn": "以…为目标；针对",
+      "count": 1,
+      "type": "动词短语"
+    },
+    {
+      "en": "be targeted to",
+      "cn": "面向；针对",
+      "count": 1,
+      "type": "动词短语"
+    },
+    {
+      "en": "target advertising",
+      "cn": "投放广告；定向广告",
+      "count": 1,
+      "type": "动词短语"
+    }
+  ]
 }
