@@ -1,9 +1,9 @@
-const WORDS_URL = 'data/words.json?v=20260826fff';
+const WORDS_URL = 'data/words.json?v=20260826ggg';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260826fff';
-const DICT_URL = 'data/en_cn_dict.json?v=20260826fff';
+const STATS_URL = 'data/stats.json?v=20260826ggg';
+const DICT_URL = 'data/en_cn_dict.json?v=20260826ggg';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -260,8 +260,8 @@ async function init() {
   loadStats();
   try {
     const [wr, mr, dr] = await Promise.all([
-      fetch(WORDS_URL + '?v=20260826fff'),
-      fetch(WORDS_BASE + 'manifest.json?v=20260826fff'),
+      fetch(WORDS_URL + '?v=20260826ggg'),
+      fetch(WORDS_BASE + 'manifest.json?v=20260826ggg'),
       fetch(DICT_URL)
     ]);
     WORDS = wr.ok ? await wr.json() : [];
@@ -475,7 +475,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260826fff'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260826ggg'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -3049,16 +3049,9 @@ function renderMindMap(word, entry) {
         const countPart = count !== '' ? `<span class="wv-num">${count}</span>` : '';
         return `<span class="wv-hl">${esc(c.en)}</span><span class="wv-cn">(${esc(c.cn)}${count !== '' ? ', ' : ''}${countPart})</span>`;
       }).join('、');
-      rightHtml += `<p class="wv-line wv-struct wv-sub wv-chunks-list"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
-    });
-  } else if (topCollocations.length > 0) {
-    const sl = topCollocations.map(([ph, c]) => {
-      const cn = _translatePhrase(ph);
-      const cnStr = cn ? `${esc(cn)}, ` : '';
-      return `<span class="wv-hl">${esc(ph)}</span><span class="wv-cn">(${cnStr}${c}次)</span>`;
-    }).join('、');
-    rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span>${sl}</p>`;
-  }
+    rightHtml += `<p class="wv-line wv-struct wv-sub wv-chunks-list"><span class="wv-sub-label">${esc(tp)}</span>${items}</p>`;
+  });
+  // 移除 topCollocations 回退分支：回退翻译 cn 含空格（"确认 基因"等）质量差，chunks 为空时不显示回退坏翻译
 
   // 语篇分布（按例句计数，非去重来源，覆盖全部例句）
   const genres = _detectGenres(srcList);
