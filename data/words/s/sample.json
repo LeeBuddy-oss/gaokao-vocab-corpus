@@ -1,79 +1,112 @@
 {
   "meta": {
-    "ph": "ˈsæləri; NAmE ˈsæləri",
-    "pos": "noun",
+    "ph": "ˈsɑːmpl; NAmE ˈsæmpl",
+    "pos": "noun;noun;noun;noun;verb;verb;verb",
     "stars": "★★"
   },
   "defs": [
     {
-      "def": "salesman/saleswoman ★★",
+      "def": "a number of people or things taken from a larger group and used in tests to provide information about the group （抽查的）样本，样品",
+      "ex": []
+    },
+    {
+      "def": "a small amount of a substance taken from a larger amount and tested in order to obtain information about the substance （化验的）取样，样本，样",
       "ex": [
         {
-          "s": "But what they liked, they couldn’t afford on his sound engineer’s salary and what they could, they didn’t like.",
-          "src": "2026新高考II卷·阅读理解B",
+          "s": "Collect samples of plant root systems.",
+          "src": "2026浙江1月卷·阅读理解D",
           "cat": "gaokao",
           "year": 2026,
-          "t": "但他们喜欢的，靠他音响工程师的工资买不起；而买得起的，他们又不喜欢。"
+          "t": "收集植物根系的样本。"
         },
         {
-          "s": "Offer their staff a salary raise.",
-          "src": "2023浙江卷",
+          "s": "But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
+        },
+        {
+          "s": "The reason is simple: we know of just one type of life and it’s challenging to do science with a sample size of one.",
+          "src": "2023北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "给员工加薪。"
+          "t": "原因很简单：我们只知道一种生命，而用样本量为一来做科学是很有挑战性的。"
         },
         {
-          "s": "She earns a basic and tax-free salary.",
-          "src": "2022浙江1月卷·阅读理解A",
+          "s": "Just before and an hour after each workout, the scientists took additional samples of the men’s blood and fat tissue.",
+          "src": "2020江苏卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2022,
-          "t": "她赚的是基本且免税的薪水。"
+          "year": 2020,
+          "t": "在每次锻炼前和锻炼后一小时，科学家又采集了这些男子的血液和脂肪组织样本。"
         },
         {
-          "s": "My librarian’s salary means that I’ll be living at home with my parents for a while longer.",
-          "src": "外研社B5 U1",
+          "s": "Every child provide / provides a small sample of blood or body tissue.",
+          "src": "外研社B6 U4",
           "cat": "waiyan",
-          "t": "我作为图书管理员的工资意味着我将在父母家里住得更久。"
+          "t": "每个孩子 provide / provides 提供一小份血液或身体组织样本。"
         },
         {
-          "s": "She told him how she was unhappy that her home wasn’t elegant enough for Larry, who wanted to improve his social position with a bigger salary.",
-          "src": "人教选必4 U1",
+          "s": "Thousands of metres beneath the waves, its crew took incredible photos and videos and collected important samples from the ocean floor for research in oceanography.",
+          "src": "外研社B7 U6",
+          "cat": "waiyan",
+          "t": "在海浪下数千米处，其船员拍摄了令人难以置信的照片和视频，并为海洋学研究从海底收集了重要样本。"
+        },
+        {
+          "s": "Many samples of Aboriginal rock art accurately dated back as far as 28,000 years.",
+          "src": "人教选必4 U5",
           "cat": "renjiao",
-          "t": "她告诉他，她很不开心，因为她的家不够雅致，配不上拉里，而拉里想靠更高的薪水来提升自己的社会地位。"
+          "t": "许多土著岩石艺术的样本准确可追溯到28000年。"
         },
         {
-          "s": "These strategies might bring you a nice, comfortable life: working at a job you like, earning a decent salary and retiring while you're still young and healthy.",
-          "src": "北师大选必3 U7",
-          "cat": "beishida",
-          "t": "这些策略可能会给你带来一个舒适的美好生活：在你喜欢的工作上工作，挣得体面的工资，并在你还年轻健康的时候退休。"
+          "s": "In doing so, she took an internship at a medical lab, despite being quite busy with her schoolwork, and invited people to donate tissue samples for research purposes everywhere she went.",
+          "src": "外研社B5 U6",
+          "cat": "waiyan",
+          "t": "在这样做的时候，她尽管相当忙于她的学校工作，却在一个医学实验室实习，并邀请人们捐献组织样本，用于她去的地方的研究目的。"
         },
         {
-          "s": "It's a good job with a good salary.",
-          "src": "北师大选必3 U7",
-          "cat": "beishida",
-          "t": "以优薪为业。"
+          "s": "After Darwin had spent some time in South America, his room on the ship was crowded with samples of the plants and animals he had collected.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "达尔文在南美洲呆了一段时间后，他在船上的房间里挤满了他收集的动植物样本。"
         }
       ]
+    },
+    {
+      "def": "a small amount or example of sth that can be looked at or tried to see what it is like （作为标准或代表的）样品，货样",
+      "ex": []
+    },
+    {
+      "def": "a piece of recorded music or sound that is used in a new piece of music （用于新乐曲中的）节录乐曲，选录乐曲（或声音）",
+      "ex": []
+    },
+    {
+      "def": "to try a small amount of a particular food to see what it is like; to experience sth for a short time to see what it is like 尝；品尝；尝试；体验",
+      "ex": []
+    },
+    {
+      "def": "to test, question, etc., part of sth or of a group of people in order to find out what the rest is like 抽样检验；取样；采样",
+      "ex": [
+        {
+          "s": "Improper way of sampling.",
+          "src": "2024新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "采样方式不当。"
+        }
+      ]
+    },
+    {
+      "def": "to record part of a piece of music, or a sound, in order to use it in a new piece of music 节录，选录（一段音乐或声音，用于新的乐曲中）",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "decent salary",
-      "cn": "像样的",
+      "en": "additional samples",
+      "cn": "样本",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "good salary",
-      "cn": "好的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "salary means",
-      "cn": "方式",
-      "type": "名词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }

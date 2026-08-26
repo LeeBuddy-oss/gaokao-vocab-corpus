@@ -1,50 +1,87 @@
 {
   "meta": {
-    "ph": "sɒk; NAmE sɑːk",
+    "ph": "ˈsɒkə(r); NAmE ˈsɑːkər",
     "pos": "noun",
-    "stars": ""
+    "stars": "★"
   },
   "defs": [
     {
-      "def": "a piece of clothing that is worn over the foot, ankle and lower part of the leg, especially inside a shoe 短袜",
+      "def": "a game played by two teams of 11 players, using a round ball which players kick up and down the playing field. Teams try to kick the ball into the other team's goal. 足球运动",
       "ex": [
         {
-          "s": "Although she is clearly still in some pain, her scared and anxious look has been replaced —first by a small smile, and then by loud laughter as I \"magically\" produce her sock from out of my pocket.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "虽然她显然仍然有些痛苦，但她害怕和焦虑的样子已经被取代了--首先是一个小小的微笑，然后是大声的笑声，因为我“神奇地”从口袋里掏出她的袜子。"
+          "s": "— Mike will announce his retirement from professional soccer next week.",
+          "src": "2023天津3月卷·单项选择",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "— 迈克下周将宣布他从职业足球退役。他才25岁，身体仍然很健壮。"
         },
         {
-          "s": "Inside the bags are necessities such as toothpaste, soap and socks, bought first with her pocket money and then through crowd funding.",
-          "src": "外研社B5 U2",
+          "s": "Even soccer fans tend to have a seat each; gone are the days of thousands standing to watch the match.",
+          "src": "2021全国乙卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "就连足球迷也倾向于每人有一个座位；成千上万人站着观看比赛的日子一去不复返了。"
+        },
+        {
+          "s": "Then one perfect Amazonian evening, with monkeys calling from beyond the village green, we played soccer.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "后来在一个完美的亚马孙夜晚，村庄绿地那头猴子鸣叫，我们踢起了足球。"
+        },
+        {
+          "s": "I am not good at soccer, but that evening it was wonderful.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我不擅长足球，但那天晚上真的很棒。"
+        },
+        {
+          "s": "He won the soccer game with the goal keeper.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他帮助守门员赢得了足球比赛。"
+        },
+        {
+          "s": "Mia Hamm US soccer player The person that said winning isn't everything never won anything.",
+          "src": "外研社B4 U3",
           "cat": "waiyan",
-          "t": "袋子里面是牙膏、肥皂和袜子等必需品，最初是用她的零花钱买的，后来通过众筹。"
+          "t": "米娅·哈姆 美国足球运动员 说赢的人不是什么都赢过的人"
+        },
+        {
+          "s": "B To invite Amy to a soccer match.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "B邀请艾米参加足球比赛。"
+        },
+        {
+          "s": "Sunday, 30 October Olympic Park, Beijing Full Marathon and Half Marathon Tickets on sale now SOCCER GAME 3:00 p.m.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "10月30日星期天，北京奥林匹克公园，全程和半程马拉松，门票现正发售。足球赛：下午3点。"
+        },
+        {
+          "s": "Would you like to go to the soccer game?",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "你想去看足球比赛吗？"
+        },
+        {
+          "s": "I’m going to play soccer.",
+          "src": "人教B1 U3",
+          "cat": "renjiao",
+          "t": "我要踢足球,"
         }
       ]
-    },
-    {
-      "def": "a strong blow, especially with the fist （尤指用拳头）猛击，重击",
-      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "soap and socks",
-      "cn": "与 短袜",
+      "en": "soccer game",
+      "cn": "足球运动游戏",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "socks bought",
-      "cn": "短袜",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "sock from",
-      "cn": "短袜 从",
-      "type": "介词短语",
-      "count": 1
+      "count": 3
     }
   ]
 }

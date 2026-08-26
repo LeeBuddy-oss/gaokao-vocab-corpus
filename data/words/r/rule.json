@@ -1,103 +1,289 @@
 {
   "meta": {
-    "ph": "ˈrɔɪəl; NAmE ˈrɔɪəl",
-    "pos": "adjective",
-    "stars": "★★"
+    "ph": "ruːl; NAmE ruːl",
+    "pos": "noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "connected with or belonging to the king or queen of a country 国王的；女王的；皇家的；王室的",
+      "def": "a statement of what may, must or must not be done in a particular situation or when playing a game 规则；规章；条例",
       "ex": [
         {
-          "s": "During World War IⅡ, Winton served as an officer in Britain's Royal Air Force.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "第二次世界大战期间，温顿在英国皇家空军担任军官。"
+          "s": "What is a rule for borrowing a print book through ILL?",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "通过馆际互借借阅纸质书有什么规定？"
         },
         {
-          "s": "On most UK high streets, for example, you will often come across people raising money and looking for volunteers for Cancer Research UK, the British Heart Foundation, the Royal National Lifeboat Institution and many more.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "例如，在英国大多数商业街上，你常会遇到为英国癌症研究中心、英国心脏基金会、皇家全国救生艇协会等机构募款和招募志愿者的人。"
+          "s": "To explain a rule.",
+          "src": "2021卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "为了解释一条规则。"
         },
         {
-          "s": "He was frequent visitor to the royal stables and even moved in to live with the stable workers for quite some time.",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "他是皇家马厩的常客，甚至搬进去和马厩工人们一起住了相当长的时间。"
+          "s": "Yet \"Apes\" is more exception than the rule.",
+          "src": "2020全国III卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "然而，《猿》电影更多是例外而非规则。"
         },
         {
-          "s": "Nor would they fail to imagine how its native inhabitants, including royal penguins, king penguins, and elephant seals, existed in perfect harmony with their natural habitat for thousands of years.",
-          "src": "外研社B5 U5",
+          "s": "They rose in the ranks not by being friendly but by smoking cigarettes, breaking rules and playing jokes on others, among whom I soon found myself.",
+          "src": "2019全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "他们在队伍中的崛起不是因为友好，而是因为抽烟、违反规则和取笑别人，我很快就发现自己就在别人中间。"
+        },
+        {
+          "s": "Football as we know it today started in Great Britain, where the game was given new rules.",
+          "src": "外研社B2 U3",
           "cat": "waiyan",
-          "t": "他们也不会不想到，岛上的原始居民——包括皇家企鹅、王企鹅和象海豹——是如何与它们的自然栖息地完美和谐地共存了数千年。"
+          "t": "我们今天所知的足球起源于英国，在那里这项运动被赋予了新的规则。"
+        },
+        {
+          "s": "The rules are as follows...",
+          "src": "外研社B2 U3",
+          "cat": "waiyan",
+          "t": "规则如下……"
+        },
+        {
+          "s": "Furthermore, books and movies are two different forms of media and therefore have different rules.",
+          "src": "外研社B2 U4",
+          "cat": "waiyan",
+          "t": "而且，书籍和电影是两种不同的媒体形式，因此有不同的规则。"
+        },
+        {
+          "s": "One of the ground rules of the swap should be that everyone must try on the clothes before they take them—things always look different when you put them on.",
+          "src": "2021全国甲卷·Swap, Don’t shop!",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "衣物交换的基本规则之一应该是：每个人在拿走衣服之前必须试穿——衣服穿在身上看起来总是不一样的。"
+        },
+        {
+          "s": "Pedestrians fail to follow the rules.",
+          "src": "2025新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "只有我、尼克和安静的森林"
+        },
+        {
+          "s": "Unwritten rules were the target.",
+          "src": "2024北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "不成文的规则是目标。"
+        },
+        {
+          "s": "At worst, you will have refreshed and deepened your knowledge of the rules you normally apply, so that you can be even more effective next time.",
+          "src": "2023天津3月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "最坏的情况是，你复习并加深了对通常所运用规则的理解，以便下次能更加高效。"
+        },
+        {
+          "s": "Everyone knew the rules.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "每个人都知道规则。"
+        },
+        {
+          "s": "Mrs Calloway made her own rules about books.",
+          "src": "2020浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "卡洛韦太太对书有自己的规矩。"
+        },
+        {
+          "s": "Fear of the library rules.",
+          "src": "2020浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对图书馆规则的恐惧。"
+        },
+        {
+          "s": "Explain the rules to them.",
+          "src": "2020浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "向他们解释规则。"
+        },
+        {
+          "s": "her effort to remind mom to obey traffic rules",
+          "src": "2019天津卷·18．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "C．她努力提醒妈妈遵守交通规则。"
+        },
+        {
+          "s": "Rules the students should follow",
+          "src": "2017重庆卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "B．学生应当遵守的规则"
+        },
+        {
+          "s": "To teach people traffic rules.",
+          "src": "2017全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "教人们交通规则。"
+        },
+        {
+          "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
+        },
+        {
+          "s": "Its program specifies a set of rules to transform one string of symbols into another.",
+          "src": "2023浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "其程序指定了一套规则，将一个符号串转换为另一个符号串。"
+        },
+        {
+          "s": "The rules that assign meaning lie not just inside our heads, but also outside, in society, in social memory, social conventions and social relations.",
+          "src": "2023浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "赋予意义的规则不仅存在于我们头脑内部，也存在于外部——在社会中，在社会记忆、社会惯例和社会关系中。"
+        },
+        {
+          "s": "We could also say English was created by people, not by computers, so it does not follow strict rules.",
+          "src": "外研社B1 U6",
+          "cat": "waiyan",
+          "t": "我们也可以说英语是由人创造的，而不是由电脑创造的，所以它不遵守严格的规则。"
+        },
+        {
+          "s": "Follow all rules carefully to prevent disqualification.",
+          "src": "2020全国新高考I卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "仔细遵守所有规则以防取消资格。"
+        },
+        {
+          "s": "They have to follow special rules.",
+          "src": "2020全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们必须遵守特殊规则。"
+        },
+        {
+          "s": "The general rule is that mild zones have relatively few languages.",
+          "src": "2018全国I卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "一般规律是温带地区的语言相对较少。"
+        },
+        {
+          "s": "I was unwilling talk with him and often disobeyed his rule of not stay out with my friends too late.",
+          "src": "2022全国甲卷·短文改错",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "我不愿意和他说话，经常违反他不让我和朋友在外面待太晚的规定。"
         }
       ]
     },
     {
-      "def": "（用于服务于国王或女王或受其赞助的组织名称）",
+      "def": "a statement of what you are advised to do in a particular situation 建议；应做之事",
+      "ex": []
+    },
+    {
+      "def": "a habit; the normal state of things; what is true in most cases 习惯；常规；惯常的做法",
+      "ex": []
+    },
+    {
+      "def": "a statement of what is possible according to a particular system, for example the grammar of a language 定律；规则",
+      "ex": []
+    },
+    {
+      "def": "the government of a country or control of a group of people by a particular person, group or system 统治；管理；支配；控制",
       "ex": [
         {
-          "s": "Due to Han Gan’s natural talent and years of hard work, he was eventually chosen to serve Emperor Xuanzong in the royal palace.",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "由于韩干的天赋和多年努力，他最终被选中在皇宫为唐玄宗服务。"
+          "s": "The rules governing food webs of the ecosystems．",
+          "src": "2019天津卷·19．",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "B．支配生态系统食物网的规律。"
+        },
+        {
+          "s": "It isn’t ruled by its more primitive drives.",
+          "src": "2024天津3月卷·阅读Passage 1",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "它不受其更原始的本能/驱力所支配。"
         }
       ]
     },
     {
-      "def": "impressive; suitable for a king or queen 庄严的；盛大的；高贵的；适合国王（或女王）的",
+      "def": "a measuring instrument with a straight edge 尺；直尺",
+      "ex": []
+    },
+    {
+      "def": "to control and have authority over a country, a group of people, etc. 控制；统治；支配",
+      "ex": [
+        {
+          "s": "He ruled over Botany Bay.",
+          "src": "2023全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他统治着植物湾。"
+        },
+        {
+          "s": "Florida was ruled by Spanish until the United States took over it.",
+          "src": "2018上海卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "佛罗里达一直由西班牙统治，直到美国接管了它。"
+        }
+      ]
+    },
+    {
+      "def": "to be the main thing that influences and controls sb/sth 支配；控制；操纵",
+      "ex": []
+    },
+    {
+      "def": "to give an official decision about sth 决定；裁定；判决",
+      "ex": []
+    },
+    {
+      "def": "to draw a straight line using sth that has a firm straight edge 用直尺等画（线）；画（直线）",
+      "ex": []
+    },
+    {
+      "def": "to state that sth is not possible or that sb/sth is not suitable 把 … 排除在外；认为 … 不适合",
+      "ex": [
+        {
+          "s": "\"We can rule out that the dogs simply distinguish between the pictures based on a simple cue, such as the sight of teeth,\" said study author Corsin Muller.",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“我们可以排除狗只是根据诸如看到牙齿这样简单的线索来区分这些图片的可能性，”研究作者Corsin Muller说。"
+        },
+        {
+          "s": "Yet, as I thought about Juan’s question, I was not sure how much more we could really rule out.",
+          "src": "2020江苏卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "然而，当我想到胡安的问题时，我不确定我们还能真正排除多少。"
+        }
+      ]
+    },
+    {
+      "def": "to prevent sb from doing sth; to prevent sth from happening 阻止；防止 … 发生",
       "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "britain's royal",
-      "cn": "国王的",
-      "type": "形容词搭配",
-      "count": 1
-    },
-    {
-      "en": "foundation the royal",
-      "cn": "地基 该 国王的",
+      "en": "rule out",
+      "cn": "规则出来",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "heart foundation the royal",
-      "cn": "心 地基 该 国王的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "in britain's royal",
-      "cn": "在…里 国王的",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "in the royal palace",
-      "cn": "在…里 该 国王的 王宫",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "including royal",
-      "cn": "不用于进行时 国王的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "inhabitants including royal",
-      "cn": "不用于进行时 国王的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "native inhabitants including royal",
-      "cn": "出生地的 不用于进行时 国王的",
-      "type": "名词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }
