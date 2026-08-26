@@ -1,91 +1,297 @@
 {
   "meta": {
-    "ph": "ˈprəʊtest; NAmE ˈproʊtest",
-    "pos": "noun",
-    "stars": "★"
+    "ph": "ˈpʌblɪʃ; NAmE ˈpʌblɪʃ",
+    "pos": "verb",
+    "stars": ""
   },
   "defs": [
     {
-      "def": "to say or do sth to show that you disagree with or disapprove of sth, especially publicly （公开）反对；抗议",
+      "def": "to produce a book, magazine, CD-ROM, etc. and sell it to the public 出版；发行",
       "ex": [
         {
-          "s": "Countless artists have been protesting wars and promoting peace via their works, including Spanish artist Pablo Picasso and Chinese artist Feng Zikai, to name just a couple.",
-          "src": "外研社B4 U4",
+          "s": "However, obtaining items that are rare, recently published or in high demand may take longer.",
+          "src": "2025浙江1月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "然而，获取稀有、新出版或需求量大的物品可能需要更长时间。"
+        },
+        {
+          "s": "For well over a hundred years the most influential English dictionary was Samuel Johnson's Dictionary of the English Language published in 1755.",
+          "src": "2024新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "一百多年来，最具影响力的英语词典是Samuel Johnson于1755年出版的《英语词典》。"
+        },
+        {
+          "s": "He's a published writer.",
+          "src": "2021全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他是一位已出版作品的作家。"
+        },
+        {
+          "s": "Published in 1964, it’s his classic memoir of 1920s Paris.",
+          "src": "2020全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "它出版于 1964 年，是他对 1920 年代巴黎的经典回忆录。"
+        },
+        {
+          "s": "Remember that Thomas Costain was 57 when he published his first novel, and that Grandma Moses showed her first pictures when she was 78.",
+          "src": "2020天津6月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "记住，托马斯·科斯坦57岁时才出版了他的第一部小说，而摩西奶奶78岁时才展出了她的第一批画作。"
+        },
+        {
+          "s": "In 1812, the year Charles Dickens was born, there were 66 novels published in Britain.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "1812年，查尔斯·狄更斯出生的那一年，英国出版了66部小说。"
+        },
+        {
+          "s": "In 1870, when Dickens died, the world mourned him as its first professional writer and publisher, famous and beloved, who had led an explosion in both the publication of novels and their readership and whose characters — from Oliver Twist to Tiny Tim— were held up as moral touchstones.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "1870年狄更斯去世时，世界哀悼这位首位职业作家和出版人，他声名显赫、深受爱戴，引领了小说出版与读者群的爆发式增长，其笔下人物——从奥利弗·崔斯特到小蒂姆——被视为道德试金石。"
+        },
+        {
+          "s": "Some 60,000 novels were published during the Victorian age, from 1837 to1901; today a casual reader might be able to name a half-dozen of them.",
+          "src": "2018浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在维多利亚时代，从1837年到1901年，出版了约6万本小说；今天，一个随便的读者也许可以将其中的六分之一命名。"
+        },
+        {
+          "s": "It publishes popular science fictions.",
+          "src": "2017北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它出版通俗科幻小说。"
+        },
+        {
+          "s": "It was first published in 1911 and is considered a classic of English children's literature.",
+          "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "无数艺术家通过他们的作品抗议战争和倡导和平，仅举两位，如西班牙艺术家巴勃罗\\u00b7毕加索和中国艺术家丰子恺。"
+          "t": "它于1911年首次出版，被认为是英国儿童文学的经典之作。"
         },
         {
-          "s": "But the proposal led to protests.",
-          "src": "人教B2 U1",
-          "cat": "renjiao",
-          "t": "但这个提议引发了抗议。"
+          "s": "The Lord of the Rings was published in three volumes in 1954 and 1955, and has become one of the world's best-selling novel 2 Every Christmas, an envelope with a North Pole stamp arrived.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "《指环王》于 1954 年和 1955 年分三卷出版，已成为世界上最畅销的小说之一 2 每年圣诞节，一封带着北极邮戳的信封都会如期而至。"
         },
         {
-          "s": "Sometimes it is regarded as a public protest.",
-          "src": "北师大B3 U7",
-          "cat": "beishida",
-          "t": "有时它被视为一种公众抗议。"
+          "s": "This evening, I’ll be talking to Dr Richard Fairhurst, whose new book The New Age of Invention has just been published.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "今晚，我将与理查德·费尔赫斯特博士交谈，他的新书《发明的新时代》刚刚出版。"
         },
         {
-          "s": "Influenced by Gandhi's ideas about peaceful protests, King organised a bus protest in 1965.",
-          "src": "北师大选必3 U9",
-          "cat": "beishida",
-          "t": "受甘地关于和平抗议思想的影响，金于1965年组织了一次公交车抗议活动。"
+          "s": "Choosing a print publisher.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "选择一家印刷出版商。"
         },
         {
-          "s": "HOST: Mr Smith protested against heavy industry.",
-          "src": "译林B3 U1",
-          "cat": "yilin",
-          "t": "主持人：史密斯先生抗议重工业。"
+          "s": "Apart from being a successful statesman, he was also well known as a leading American author, printer and publisher, successful diplomat, creative scientist and inventor.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "除了是一位成功的政治家外，他还以美国领先的作家、印刷商和出版商、成功的外交官、创造性科学家和发明家而闻名。"
+        },
+        {
+          "s": "TOKNOW Magazine is a big hit in the world of children’s publishing, bringing a unique combination of challenging ideas and good fun to young fans every month.",
+          "src": "2017北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "TOKNOW 杂志在儿童出版界大受欢迎，每月都为年轻的读者粉丝带来兼具挑战性思想与趣味的独特组合。"
         }
       ]
     },
     {
-      "def": "to say firmly that sth is true, especially when you have been accused of sth or when other people do not believe you 坚决地表示；申辩",
+      "def": "to print a letter, an article, etc. in a newspaper or magazine （在报刊）发表，刊登，登载",
+      "ex": [
+        {
+          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+          "src": "2025新高考I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
+        },
+        {
+          "s": "One such study published in 2023 aimed to see if dogs can tell the difference between humans who are “unwilling” or “unable” to give them a treat.",
+          "src": "2023天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "2023年发表的一项此类研究旨在看看狗能否区分人类中'不愿意'或'不能'给它们零食的人。"
+        },
+        {
+          "s": "Their findings were published in Current Biology in 2017.",
+          "src": "2018北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "他们的研究成果于 2017 年发表在《当代生物学》期刊上。"
+        },
+        {
+          "s": "Shabnam Azimi and Alexander Krasnikov of Loyola University of Chicago and Kwong Chan of Northeastern University recently published a study on fake reviews.",
+          "src": "2026浙江1月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "芝加哥洛约拉大学的Shabnam Azimi、Alexander Krasnikov和东北大学的Kwong Chan最近发表了一项关于虚假评论的研究。"
+        },
+        {
+          "s": "In a study published in Plant Phenomics, Busch and Pereira establish a new procedure for using SLEAP to analyze plant root phenotypes — how deep and wide they grow, how massive their root systems become, and other physical qualities.",
+          "src": "2026浙江1月卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "在发表于《Plant Phenomics》的一项研究中，Busch和Pereira建立了一种使用SLEAP分析植物根表型的新流程——包括它们长得有多深多宽、根系变得多庞大，以及其他物理特征。"
+        },
+        {
+          "s": "The winning stories would go into our kiosk and then you would be a published artist.”",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "获奖的故事会进入我们的亭子，然后你就成了一名发表过的艺术家。”"
+        },
+        {
+          "s": "The findings were published in the journal Developmental Science.",
+          "src": "2020全国II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "研究结果发表在《发展科学》期刊上。"
+        },
+        {
+          "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
+          "src": "2018全国I卷·语法填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
+        },
+        {
+          "s": "Hundreds of scientists, writers and academics sounded a warning to humanity in an open letter published last December: Policymakers and the rest of us must engage openly with the risk of global collapse.",
+          "src": "2021北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "数百名科学家、作家和学者去年12月在发表的一封公开信中向人类发出警告：政策制定者和我们所有人都必须公开面对全球崩溃的风险。"
+        },
+        {
+          "s": "On Thursday in an article published in Cell, a team of researchers reported a new kind of adaptation - not to air or to food, but to the ocean.",
+          "src": "2020全国III卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "周四，一个研究团队在《细胞》发表的文章中报告了一种新的适应——不是对空气或食物，而是对海洋。"
+        },
+        {
+          "s": "Challenging work that requires lots of analytical thinking, planning and other managerial skills might help your brain stay sharp as you age, a study published Wednesday in the journal Neurology suggests.",
+          "src": "2020浙江7月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "周三发表在《神经学》期刊上的一项研究表明，需要大量分析思考、规划和其他管理技能的富有挑战性的工作，可能有助于你的大脑随着年龄增长保持敏锐。"
+        },
+        {
+          "s": "On March 7, 1907, the English statistician Francis Galton published a paper which illustrated what has come to be known as the “wisdom of crowds” effect.",
+          "src": "2023新课标I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "1907年3月7日，英国统计学家弗朗西斯·高尔顿发表了一篇论文，阐述了后来被称为\"群体智慧\"效应的现象。"
+        }
+      ]
+    },
+    {
+      "def": "to make sth available to the public on the Internet （在互联网上）发表，公布",
       "ex": []
+    },
+    {
+      "def": "to have your work printed and sold to the public 作者",
+      "ex": []
+    },
+    {
+      "def": "to make official information known to the public 公布；发布",
+      "ex": [
+        {
+          "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
+          "src": "2018全国II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
+        },
+        {
+          "s": "At first, I only regarded it as a hobby, but companies started paying me to take photos and publish them.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "起初，我只把它看作是一种爱好，但公司开始付钱给我拍照和发布它们。"
+        }
+      ]
     }
   ],
   "chunks": [
     {
-      "en": "bus protest",
-      "cn": "公共汽车 反对",
-      "type": "名词短语",
+      "en": "published in",
+      "cn": "发表于",
+      "type": "动词短语",
+      "count": 11
+    },
+    {
+      "en": "published artist",
+      "cn": "出版 艺术家",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "peaceful protests",
-      "cn": "反对",
-      "type": "名词短语",
+      "en": "published writer",
+      "cn": "出版 作家",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "protesting wars",
-      "cn": "反对 战争",
-      "type": "名词短语",
+      "en": "publishes popular",
+      "cn": "出版 受喜爱的",
+      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "protests king",
-      "cn": "反对 君主",
+      "en": "study published",
+      "cn": "学习 出版",
       "type": "名词短语",
-      "count": 1
+      "count": 5
     },
     {
-      "en": "public protest",
-      "cn": "平民的 反对",
+      "en": "a study published",
+      "cn": "一个 学习 出版",
       "type": "名词短语",
-      "count": 1
+      "count": 4
     },
     {
-      "en": "smith protested",
-      "cn": "反对",
+      "en": "findings were published",
+      "cn": "调查发现 是 出版",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "about peaceful protests",
-      "cn": "大约 反对",
+      "en": "in a study published",
+      "cn": "在…里 一个 学习 出版",
       "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "recently published",
+      "cn": "不久前 出版",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "a published artist",
+      "cn": "一个 出版 艺术家",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a published writer",
+      "cn": "一个 出版 作家",
+      "type": "名词短语",
       "count": 1
     }
   ]
