@@ -1,707 +1,325 @@
 {
   "meta": {
-    "ph": "saʊnd; NAmE saʊnd",
-    "pos": "noun;noun;noun;noun;noun;noun;verb;adj;verb;verb;verb;verb;adj;adj;adj;adj;adj;adj",
-    "stars": ""
+    "ph": "səkˈsesfl; NAmE səkˈsesfl",
+    "pos": "adj.",
+    "stars": "★"
   },
   "defs": [
     {
-      "def": "something that you can hear 声音；响声",
+      "def": "achieving your aims or what was intended 达到目的的；有成效的",
       "ex": [
         {
-          "s": "By listening for sounds.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "通过倾听声音。"
-        },
-        {
-          "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "人类语言包含2000多种不同的声音，从常见的\"m\"和\"a\"到某些南部非洲语言中罕见的咔嗒音。"
-        },
-        {
-          "s": "But why are certain sounds more common than others?",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但为什么某些声音比其他声音更常见呢？"
-        },
-        {
-          "s": "Walking through the streets of Brooklyn today, I am no longer confused by this city’s sounds and smells.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "今天走在布鲁克林的街道上，我不再对这个城市的声音和气味感到困惑。"
-        },
-        {
-          "s": "These sounds are still not found in the languages of many hunter-gatherer people today.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这些声音在今天许多狩猎采集民族的语言中仍然不存在。"
-        },
-        {
-          "s": "Nature seems to unfold to people who watch and wait． Next time you take a walk， no matter where it is， take in all the sights， sounds and sensations． Wander in this frame of mind and you will open a new dimension to your life．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "大自然似乎向那些观察和等待的人展开。下次你散步时，无论在哪里，都要领略所有的景色、声音和感觉。带着这种心态闲逛，你会为生活打开一个新的维度。"
-        },
-        {
-          "s": "Sound can be used as a weapon.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "声音可以用作武器。"
-        },
-        {
-          "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "过去，音响工程师在录音棚的后室工作，但如今许多声音专业人士正与其他领域的专业人士分享知识和经验，以基于我们所谓的声音现象创造新产品。"
-        },
-        {
-          "s": "A spotlight lights up only one section of a stage; similarly,\"spotsound\" creates a circle of sound in on targeted area.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "聚光灯只照亮舞台上的一个区域；类似地，“spotsound”在目标区域制造一个声音圈。"
-        },
-        {
-          "s": "remove the sound of commercials",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "去除广告的声音。"
-        },
-        {
-          "s": "block the incoming sound waves",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "消除商业广告的声音"
-        },
-        {
-          "s": "For people, who are interested in sound, the field of sound technology is definitely making noise.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对于对声音感兴趣的人，声音技术领域确实在引起关注。"
-        },
-        {
-          "s": "First they collected sound data from 67 nests in four sites in Queensland before and after hatching.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "首先，他们在孵化前后从昆士兰州四个地点的67个巢穴收集声音数据。"
-        },
-        {
-          "s": "Analyses of a language database also confirmed that there was a global change in the sound of world languages after the Neolithic age, with the use of “f” and “v” increasing remarkably during the last few thousand years.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对一个语言数据库的分析也证实，新石器时代之后世界语言的声音发生了全球性的变化，\"f\"和\"v\"的使用在近几千年显著增加。"
-        },
-        {
-          "s": "For those who hunger for some peace and quiet, sound can now create silence.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对于那些渴望安宁与清静的人来说，声音现在可以创造寂静。"
-        },
-        {
-          "s": "Thanks to the Silence Machine, a British invention, you can get rid of the sound without upsetting the boy or his parents.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "多亏了静音机这一英国发明，你可以在不惹恼男孩或他父母的情况下摆脱这种声音。"
-        },
-        {
-          "s": "How professionals invented sound products.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "专业人士如何发明声音产品。"
-        },
-        {
-          "s": "Directed sound is also beginning to appear in shopping centers and even at homes.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "定向声音也开始出现在购物中心甚至家庭中。"
-        },
-        {
-          "s": "Inventions in the field of sound technology.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "声音技术领域的发明。"
-        },
-        {
-          "s": "Female Australian superb fairy wrens were found to repeat one sound over and over again while hatching their eggs.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "人们发现，雌性澳大利亚壮丽细尾鹩莺在孵蛋时会一遍又一遍地重复同一个声音。"
-        },
-        {
-          "s": "Well, it functions by analyzing the waves of the incoming sound and creating a second set of outgoing waves.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它通过分析传入声波的波形，并产生第二组传出声波来工作。"
-        },
-        {
-          "s": "Before birth, babies can tell the difference between loud sounds and voices.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但规模本身并不是罪过。"
-        },
-        {
-          "s": "It made the sweetest sound I'd ever heard!My heart was dancing along with its flowing tune.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它发出了我听到过的最悦耳的声音！我的心随着它流畅的旋律翩翩起舞。"
-        },
-        {
-          "s": "The sound of the violin.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "寻求UCLA工作人员的帮助。"
-        },
-        {
-          "s": "You could still hear the operatic sounds it was making underwater.”",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你还能听到它在水下发出的歌剧般的声音。\""
-        },
-        {
-          "s": "It produces a deafening sound so painful that it temporarily disables a person.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它发出震耳欲聋、令人剧痛的声音，会暂时使一个人丧失能力。"
-        },
-        {
-          "s": "When the eggs were hatched, the baby birds made the similar chirp to their mothers—a sound that served as their regular ＂feed me!＂ call.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "蛋孵化后，幼鸟会发出与母亲相似的声音——一种作为它们常规“喂我！”叫声的声音。"
-        }
-      ]
-    },
-    {
-      "def": "continuous rapid movements (called vibrations ) that travel through air or water and can be heard when they reach a person's or an animal's ear 声；声响",
-      "ex": [
-        {
-          "s": "stop unwanted sound from affecting you",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "阻挡传入的声波"
-        },
-        {
-          "s": "The growing interest in the study of sound.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对声学研究日益增长的兴趣。"
-        }
-      ]
-    },
-    {
-      "def": "what you can hear coming from a television, radio, etc., or as part of a film/movie 声音；音响",
-      "ex": [
-        {
-          "s": "But what they liked, they couldn’t afford on his sound engineer’s salary and what they could, they didn’t like.",
-          "src": "2026新高考II卷·阅读理解B",
+          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
+          "src": "2026浙江1月卷·阅读理解A",
           "cat": "gaokao",
           "year": 2026,
-          "t": "但他们喜欢的，靠他音响工程师的工资买不起；而买得起的，他们又不喜欢。"
-        },
-        {
-          "s": "How sound engineers work in their studios.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对声音研究的兴趣日益增长。"
+          "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
         }
       ]
     },
     {
-      "def": "the effect that is produced by the music of a particular singer or group of musicians 嗓音；音乐风格",
+      "def": "having become popular and/or made a lot of money 获得成功的；有成就的",
       "ex": [
         {
-          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
-        }
-      ]
-    },
-    {
-      "def": "the idea or impression that you get of sb/sth from what sb says or what you read 印象；感觉",
-      "ex": []
-    },
-    {
-      "def": "a narrow passage of water that joins two larger areas of water 常用于地名",
-      "ex": []
-    },
-    {
-      "def": "to give a particular impression when heard or read about 听起来好像；让人听着好像",
-      "ex": [
-        {
-          "s": "This isn’t as hard as it    62   (sound), and it is far better than any other method because you improve your vocabulary while    63   (read) an interesting piece of literature.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这并不像它___62___（听起来）那么难，而且远比任何其他方法好，因为你在___63___（阅读）一篇有趣的文学作品时提高了词汇量。"
-        },
-        {
-          "s": "The voices themselves sounded really unique-some of the female voices were so high that I was sure they could break glass!",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "声音本身听起来非常独特 一些女性的声音是如此之高 我敢肯定，他们可以打破玻璃！"
-        },
-        {
-          "s": "This means. for example，that a scammer could call you from what looks to be a familiar number and talk to you using a voice that sounds exactly like your bank teller 's，ricking you into \"confirming \" your address，mother's name，and card number.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这意味着，比如说，一个骗子可以给你打电话 从一个看起来熟悉的号码 并用一个声音和你说话 听起来就像你的银行出纳的，让你\"确认\"你的地址，母亲的名字，和卡片号码。"
-        },
-        {
-          "s": "The man’s words sounded pretty convincing.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "所有营员需自带午餐和零食。"
-        },
-        {
-          "s": "They looked and sounded so free.",
-          "src": "2023天津3月卷·阅读理解B",
+          "s": "After successfully completing the 4-Week Learning Sprint, you will need to submit a plan for a sport﹣based project, which you will work on if selected as an IOC Young Leader.",
+          "src": "2023北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2023,
-          "t": "他们看起来和听起来都那么自由自在。"
+          "t": "在成功完成4周学习冲刺后，您需要提交一个基于体育的项目计划，如果被选为国际奥委会青年领袖，您将致力于该计划。"
         },
         {
-          "s": "Sounds harmless, right?",
-          "src": "2020浙江1月卷·阅读理解B",
+          "s": "When reading texts of several hundred words or more, learning is generally more successful when it’s on paper than onscreen.",
+          "src": "2024新高考I卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "听起来无害，对吧？"
+          "year": 2024,
+          "t": "阅读几百词或更长的文本时，在纸上学习通常比在屏幕上更成功。"
         },
         {
-          "s": "“It sounds crazy to talk about guilt-free fur-unless you understand that the nutria are destroying vast wetlands every year”, says Cree McCree, project director of Righteous Fur.",
-          "src": "2020全国II卷·阅读理解C",
+          "s": "At 23, I applied for my first job and it was not successful.",
+          "src": "2024天津3月卷·完形填空",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "“谈论没有愧疚感的毛皮听起来很疯狂——除非你明白海狸鼠每年都在摧毁大片的湿地，”Righteous Fur项目总监克里·麦克里说。"
+          "year": 2024,
+          "t": "23岁时，我申请了第一份工作，但没有成功。"
         },
         {
-          "s": "A local farmer told them the dog sounded like one   50   as lost in the local paper.",
-          "src": "2019全国II卷·完形填空",
+          "s": "How can people be successful in old age according to the author’s grandmother? (no more than 10 words)",
+          "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "一位当地农夫告诉他们，这只狗听起来像是当地报纸上报道过____50____丢失的那只。"
+          "year": 2024,
+          "t": "根据作者祖母的说法，人们如何才能在老年活得精彩？（不超过10个词）"
         },
         {
-          "s": "Turning soil, pulling weeds, and harvesting cabbage sound like tough work for middle and high school kids.",
+          "s": "Students who successfully complete the programme will receive one credit each.",
+          "src": "2024北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "成功完成该项目的学生将各获得一个学分。"
+        },
+        {
+          "s": "Becoming a successful painter calls for being resolute.",
+          "src": "2024北京卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "成为一名成功的画家需要坚定果断。"
+        },
+        {
+          "s": "“They get outside,” she says, “and they feel successful.”",
           "src": "2023新课标II卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
-          "t": "翻土、拔草和收卷心菜，对中学生和高中生来说听起来像是艰苦的劳动。"
+          "t": "“他们走到户外，”她说，“而且他们感到自己很有成就感。”"
         },
         {
-          "s": "How does Robert sound when speaking of his being a writer?",
-          "src": "2023全国甲卷",
+          "s": "Today, there are about 2,000 or more grizzly bears in the US Their recovery has been so successful that the US Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted.",
+          "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "罗伯特谈到自己是一名作家时听起来怎样？"
+          "t": "如今，美国大约有2000只或更多的灰熊。它们的恢复如此成功，以至于美国鱼类和野生动物管理局曾两次试图将灰熊从保护名录中移除，这将放松法律保护并允许捕猎它们。"
         },
         {
-          "s": "How does Robert sound when speaking of his being a writer?",
-          "src": "2023全国乙卷",
+          "s": "The successful comeback of grizzlies.",
+          "src": "2023全国甲卷·阅读理解D",
           "cat": "gaokao",
           "year": 2023,
-          "t": "罗伯特谈到自己是一名作家时听起来怎样？"
+          "t": "生物学家的呼声。"
         },
         {
-          "s": "How does Sara sound?",
-          "src": "2023浙江卷",
+          "s": "What is the key to successful landscape photography according to the author?",
+          "src": "2023全国乙卷·阅读理解B",
           "cat": "gaokao",
           "year": 2023,
-          "t": "萨拉听起来怎么样？"
+          "t": "根据作者的说法，成功的风景摄影的关键是什么？"
         },
         {
-          "s": "How does the woman sound?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位女士听起来怎么样？"
-        },
-        {
-          "s": "How does Laura sound at the beginning of the conversation?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Laura在对话开始时听起来怎样？"
-        },
-        {
-          "s": "How does the man sound?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士听起来怎么样？"
-        },
-        {
-          "s": "Fewer emissions and cheaper travel sound pretty appealing.",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "更少的排放和更便宜的旅行听起来相当有吸引力。"
-        },
-        {
-          "s": "If you’re tired out by Friday night, sleeping in on Saturday could sound wonderful.",
-          "src": "2017全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果周五晚上你已经累了，周六睡个懒觉听起来会很美妙。"
-        },
-        {
-          "s": "Why does the man sound surprised?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么这位男士听起来很惊讶？"
-        },
-        {
-          "s": "The numbers might sound small, but they are the leading edge of a dangerous trend.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些数字听起来可能很小，但它们是一种危险趋势的前沿。"
-        },
-        {
-          "s": "Sounds too good to be true?",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "听起来太好 不是真的？"
-        },
-        {
-          "s": "It might sound like one long, expensive   42  , but the couple has an unusual way to make their travel   43  .",
-          "src": "2022全国新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这听起来像是一次漫长而昂贵的   42  ，但这夫妇有一种不同寻常的方式来使他们的旅行   43  。"
-        },
-        {
-          "s": "Rather than setting plans in stone, I’ve learned that sometimes I need to take the opportunities that are offered, even if they don’t sound perfect at the time, and make the most of them.",
-          "src": "2023北京卷·阅读理解B",
+          "s": "•You have successfully completed the 4-Week Learning Sprint.",
+          "src": "2023北京卷·阅读理解A",
           "cat": "gaokao",
           "year": 2023,
-          "t": "与其把计划定死，我学到了有时候我需要抓住提供的机会，即使当时听起来并不完美，并且充分利用它们。"
+          "t": "• 你成功地完成了4周学习冲刺。"
         },
         {
-          "s": "We figured that in twenty years each of us ought to have our destiny worked out and our fortunes made, whatever they were going to be.”“It sounds pretty interesting,” said the policeman.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "我们想，二十年后，我们每个人都应该已经确定了自己的命运，并且发了财，不管结果会是什么。＂＂听起来挺有意思的，＂警察说。"
-        },
-        {
-          "s": "The question,“What do elephants and fish have in common?\" may sound strange but researchers have found that they both have a feature not observed in any other creature.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"大象和鱼有什么共同点？\"这个问题听起来可能很奇怪，但研究人员发现它们都有一个在其他生物身上没有观察到的特征。"
-        },
-        {
-          "s": "For instance, if an object’s name was meant to sound genderless, like Miuu, participants would still assign a gender to it — they would assume Miuu was a “he” or “she.”",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "例如，如果一个物体的名字本意是无性别的，比如Miuu，参与者仍会给它赋予性别——他们会假定Miuu是“他”或“她”。"
-        },
-        {
-          "s": "How does the author sound in the last paragraph?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在最后一段中作者的语气是怎样的？"
-        }
-      ]
-    },
-    {
-      "def": "giving the impression of having a particular sound 构成形容词",
-      "ex": [
-        {
-          "s": "ideal sound effects on the theater stage",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "剧院舞台上的理想音效。"
-        }
-      ]
-    },
-    {
-      "def": "to produce a sound; to make sth such as a musical instrument produce a sound （使）发出声音，响",
-      "ex": [
-        {
-          "s": "She never minded the alarm clock sounding at 4 am or questioned my expenses on running.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "她从不介意凌晨4点的闹钟响起，也不质疑我在跑步上的开销。"
-        }
-      ]
-    },
-    {
-      "def": "to give a signal such as a warning by making a sound 鸣警报；拉响警报；发出警报",
-      "ex": [
-        {
-          "s": "Hundreds of scientists, writers and academics sounded a warning to humanity in an open letter published last December: Policymakers and the rest of us must engage openly with the risk of global collapse.",
-          "src": "2021北京卷·阅读理解C",
+          "s": "Little wonder the Federal Duck Stamp Program has been called one of the most successful conservation programs ever initiated.",
+          "src": "2021卷",
           "cat": "gaokao",
           "year": 2021,
-          "t": "数百名科学家、作家和学者去年12月在发表的一封公开信中向人类发出警告：政策制定者和我们所有人都必须公开面对全球崩溃的风险。"
-        }
-      ]
-    },
-    {
-      "def": "to pronounce sth 发（音）",
-      "ex": [
-        {
-          "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一项开创性的五年研究表明，与人类咬合相关的饮食变化导致了新的语音，如今这些语音存在于世界上一半的语言中。"
+          "t": "难怪联邦鸭票计划被称为最成功的保护项目之一。"
         },
         {
-          "s": "I must have always known reading was very important because the first memories I have as a child deal with books． There was not one night that I don't remember mom reading me a storybook by my bedside． I was extremely inspired by the elegant way the words sounded．",
-          "src": "2019天津卷·18．",
+          "s": "A successful swap depends on the selection of clothes, the organization of the event, and, obviously, how much fun is had.",
+          "src": "2021全国甲卷·Swap, Don’t shop!",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "我一定一直都知道阅读非常重要，因为我童年最早的记忆都与书有关。没有哪个夜晚我不记得妈妈在床边给我读故事书。那些文字优雅的读音极大地启发了我。"
+          "year": 2021,
+          "t": "一次成功的交换取决于衣服的选择、活动的组织，当然还有玩得有多开心。"
         },
         {
-          "s": "Try to note down how it sounds and keep listening.",
-          "src": "外研社B1 U6",
+          "s": "However, becoming a full-time, successful actor would still be an uphill battle for another eight years until he landed a number of film roles that finally got him noticed.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "然而，在接下来的八年里，要成为一名全职成功的演员仍是一场艰苦的斗争，直到他获得多个电影角色，终于引起了人们的注意。"
+        },
+        {
+          "s": "He built a hugely successful career with little more than plain old hard work and determination.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他仅凭朴实的努力和决心，就建立了极其成功的职业生涯。"
+        },
+        {
+          "s": "He became a successful comedy actor.",
+          "src": "2021浙江6月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "他成为了一名成功的喜剧演员。"
+        },
+        {
+          "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
+          "src": "2021浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
+        },
+        {
+          "s": "Your application will be accessed by UNESCO managers and will stay in our database for six months．We do not respond to every candidate．If selected，you will be contacted by a manager．If you do not receive any update within six months，it means that your application has not been successful．",
+          "src": "2021北京卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "你的申请将由联合国教科文组织的经理审阅，并在我们的数据库中保留六个月。我们不会回复每一位候选人。如果被选中，会有经理与你联系。如果六个月内未收到任何更新，则意味着你的申请未获成功。"
+        },
+        {
+          "s": "Even the most successful public speaker will make mistakes.",
+          "src": "2020全国新高考I卷·七选五",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "即使最成功的演讲者也会犯错。"
+        },
+        {
+          "s": "They successfully lost weight.",
+          "src": "2020江苏卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "他们的新陈代谢率较慢。"
+        },
+        {
+          "s": "“The key to successful small talk is learning how to connect with others, not just communicate with them.”",
+          "src": "2018全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "\"成功闲聊的关键是学会如何与他人建立联系，而不仅仅是与他们交流。\""
+        },
+        {
+          "s": "What is important for successful small talk according to Carducci?",
+          "src": "2018全国II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "根据卡杜奇的说法，成功闲聊的关键是什么？"
+        },
+        {
+          "s": "Moreover, the USA has a track record of successfully accepting immigrants.",
+          "src": "2017江苏卷·Population Change",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "此外，美国有成功接纳移民的记录。"
+        },
+        {
+          "s": "do anything successfully with given orders",
+          "src": "2017北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "它会因为人类的干预而恶化。"
+        },
+        {
+          "s": "This is something that even the highly successful Harry Potter movies can’t escape from, with fans of the books disappointed not to see some of their favourite characters in the movie versions.",
+          "src": "外研社B2 U4",
           "cat": "waiyan",
-          "t": "试着记下它的发音，并继续听。"
+          "t": "这甚至是极为成功的《哈利\\u00b7波特》电影也无法逃脱的，书迷们因为在电影中没有看到一些他们最喜欢的角色而感到失望。"
         },
         {
-          "s": "More than 30 years ago, the scholar Charles Hockett noted that speech sounds called labiodentals, such as “f” and “v”, were more common in the languages of societies that ate softer foods.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "30多年前，学者查尔斯·霍克特(Charles Hockett)指出，在食用软食的社会语言中，称为labiodentals的语音，如“f”和“v”更为常见。"
-        },
-        {
-          "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这项研究推翻了“人类约30万年前进化时所有语音都已存在”的流行观点。“我们使用的语音集合自人类出现以来未必保持稳定，我们今天发现的极其多样的语音，是生物变化和文化演变等事物复杂相互作用的产物，”研究团队成员史蒂文·莫兰说。"
-        },
-        {
-          "s": "What does Steven Moran say about the set of human speech sounds?",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Steven Moran对人类语音集合有什么看法？"
-        },
-        {
-          "s": "Which aspect of the human speech sound does Damián Blasi’s research focus on?",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Damián Blasi的研究聚焦于人类语音的哪个方面？"
-        },
-        {
-          "s": "It's a joy for him to see the kids get excited when they learn to sound out words.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最重要的是，故事具有变革的力量，让我们能够以一种不同于独自面对世界的方式来看待这个世界。"
-        }
-      ]
-    },
-    {
-      "def": "to measure the depth of the sea or a lake by using a line with a weight attached, or an electronic instrument 测（海或湖的）深度",
-      "ex": []
-    },
-    {
-      "def": "sensible; that you can rely on and that will probably give good results 明智的；合理的；正确的；可靠的",
-      "ex": [
-        {
-          "s": "Interviewer: That's sound advice for sure.",
-          "src": "外研社B1 U1",
+          "s": "Bill Shankly(1913-1981) was one of Britain's most successful and respected football managers.",
+          "src": "外研社B2 U6",
           "cat": "waiyan",
-          "t": "采访者：那绝对是靠谱的建议。"
-        }
-      ]
-    },
-    {
-      "def": "good and thorough 透彻的；完备的；全面的",
-      "ex": []
-    },
-    {
-      "def": "in good condition; not damaged, hurt, etc. 完好的；健康的；无损伤的；未受伤的",
-      "ex": [
+          "t": "比尔·香克利（1913-1981）是英国最成功、最受尊敬的足球经理之一。"
+        },
         {
-          "s": "Beautiful year-round, they invite you to enjoy the smallest detail, from the sound of grasses in the gentle wind to the sculpture of odd-looking seed heads.",
-          "src": "2025浙江1月卷·阅读理解C",
+          "s": "Apart from being a successful statesman, he was also well known as a leading American author, printer and publisher, successful diplomat, creative scientist and inventor.",
+          "src": "外研社B3 U3",
+          "cat": "waiyan",
+          "t": "除了是一位成功的政治家外，他还以美国领先的作家、印刷商和出版商、成功的外交官、创造性科学家和发明家而闻名。"
+        },
+        {
+          "s": "Many people, including his high school teammates and coaches, thought Stephen was too short, too thin and too weak to have a basketball career as successful as his father’s.",
+          "src": "外研社B4 U6",
+          "cat": "waiyan",
+          "t": "许多人，包括他高中时期的队友和教练，都认为斯蒂芬太矮、太瘦也太弱，无法像他父亲那样在篮球事业上取得成功。"
+        },
+        {
+          "s": "One day after I made us coffee, I asked her: “What’s the secret to being successful in your 90s? ”",
+          "src": "2024天津3月卷·阅读Passage 1",
           "cat": "gaokao",
-          "year": 2025,
-          "t": "它们全年都很美丽，邀请你欣赏最小的细节，从微风中草的沙沙声到造型奇特的种头的雕塑般美感。"
+          "year": 2024,
+          "t": "在我给我们煮了咖啡后的一天，我问她：“你在90多岁时保持成功的秘诀是什么？”"
+        },
+        {
+          "s": "is good at handling pressureB. works hard to become successful",
+          "src": "2022浙江6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "擅长处理压力B. 努力工作以求成功"
+        },
+        {
+          "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
+          "src": "2020北京卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
+        },
+        {
+          "s": "Everyone knows that success rarely happens overnight, but perhaps not many know that a lot of highly successful writers have previously faced rejection.",
+          "src": "外研社B4 U2",
+          "cat": "waiyan",
+          "t": "每个人都知道成功很少一蹴而就，但也许很多人不知道，许多非常成功的作家都曾经历过被拒稿。"
         }
       ]
-    },
-    {
-      "def": "deep and peaceful 酣畅的；香甜的",
-      "ex": []
-    },
-    {
-      "def": "good and accurate, but not excellent 不错的；实实在在的",
-      "ex": []
-    },
-    {
-      "def": "severe 严厉的；重的",
-      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "speech sounds",
-      "cn": "演说 声音",
-      "type": "形容词搭配",
-      "count": 7
-    },
-    {
-      "en": "sound of",
-      "cn": "声音 的",
-      "type": "形容词搭配",
-      "count": 4
-    },
-    {
-      "en": "sound like",
-      "cn": "声音 像",
-      "type": "形容词搭配",
-      "count": 3
-    },
-    {
-      "en": "incoming sound",
-      "cn": "收入 声音",
+      "en": "highly successful",
+      "cn": "达到目的的",
       "type": "形容词搭配",
       "count": 2
     },
     {
-      "en": "man sound",
-      "cn": "成年男子 声音",
+      "en": "successful in",
+      "cn": "达到目的的 在…里",
       "type": "形容词搭配",
       "count": 2
     },
     {
-      "en": "robert sound",
-      "cn": "声音",
+      "en": "full-time successful",
+      "cn": "达到目的的",
       "type": "形容词搭配",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "sound at",
-      "cn": "声音 在",
+      "en": "hugely successful",
+      "cn": "达到目的的",
       "type": "形容词搭配",
-      "count": 2
+      "count": 1
     },
     {
-      "en": "sound in",
-      "cn": "声音 在…里",
+      "en": "not successful",
+      "cn": "不 达到目的的",
       "type": "形容词搭配",
-      "count": 2
-    },
-    {
-      "en": "sound technology",
-      "cn": "声音 科技",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "sound advice",
-      "cn": "声音 劝告",
-      "type": "动词短语",
       "count": 1
     },
     {
-      "en": "sound data",
-      "cn": "声音 数据",
-      "type": "动词短语",
+      "en": "publisher successful",
+      "cn": "达到目的的",
+      "type": "形容词搭配",
       "count": 1
     },
     {
-      "en": "sound engineer",
-      "cn": "声音 工程师",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sound genderless",
-      "cn": "声音",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sound out",
-      "cn": "声音 出",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sound over",
-      "cn": "声音 超过",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "sound engineers",
-      "cn": "声音 工程师",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "words sounded",
-      "cn": "单词 声音",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "academics sounded",
-      "cn": "学业的 声音",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "author sound",
-      "cn": "著者 声音",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "field of sound",
-      "cn": "田 的 声音",
+      "en": "key to successful",
+      "cn": "钥匙 去 达到目的的",
       "type": "介词短语",
       "count": 2
+    },
+    {
+      "en": "successful small",
+      "cn": "达到目的的 小的",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "the key to successful",
+      "cn": "该 钥匙 去 达到目的的",
+      "type": "介词短语",
+      "count": 2
+    },
+    {
+      "en": "a full-time successful",
+      "cn": "一个 达到目的的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a hugely successful",
+      "cn": "一个 达到目的的",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a successful comedy",
+      "cn": "一个 达到目的的 喜剧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "a successful painter",
+      "cn": "一个 达到目的的",
+      "type": "名词短语",
+      "count": 1
     }
   ]
 }
