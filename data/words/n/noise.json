@@ -1,715 +1,221 @@
 {
   "meta": {
-    "ph": "ˈnevə(r); NAmE ˈnevər",
-    "pos": "adverb",
+    "ph": "nɔɪz; NAmE nɔɪz",
+    "pos": "noun;noun;noun;verb;verb",
     "stars": ""
   },
   "defs": [
     {
-      "def": "not at any time; not on any occasion 从不；绝不；从未；未曾",
+      "def": "a sound, especially when it is loud, unpleasant or disturbing 声音；响声；噪音；吵闹声",
       "ex": [
         {
-          "s": "I never thought I could be a writer.",
-          "src": "2026新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我从没想过自己能成为一名作家。"
-        },
-        {
-          "s": "I would never do that.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我才不会那么做呢。"
-        },
-        {
-          "s": "The 21st century has created a whole range of new types of professionals that we have never had before — or if not quite new, at least newly repackaged.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "21世纪创造了一系列我们以前从未有过的新类型专业人士——或者即使不算全新，至少也是被重新包装过的。"
-        },
-        {
-          "s": "If you think you can do without the fence because you’ve never seen a fox, consider if the existence of the fence is precisely why you’ve never seen one.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果你认为自己不需要围栏，因为你从没见过狐狸，那不妨想想：也许正是因为有了围栏，你才从没见过狐狸。"
-        },
-        {
-          "s": "Importantly, Chesterton is not saying that things can never be reformed.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我们可以这样重新表述：在否定过去的决策之前，先理解其中蕴含的智慧。"
-        },
-        {
-          "s": "He never got into trouble, though sometimes he wanted to do risky things.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他从未惹上麻烦，尽管有时他想做一些冒险的事。"
-        },
-        {
-          "s": "It was a rush I had never experienced before.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "那是一种我从未体验过的刺激。"
-        },
-        {
-          "s": "And you’ll never be without something to read.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "而且你再也不会没有东西可读。"
-        },
-        {
-          "s": "This was an aha moment for me, and I never thought about endings the same way again.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这对我是个恍然大悟的时刻，此后我对结局的看法再也不同。"
-        },
-        {
-          "s": "This unbeatable price-point encouraged me to experiment with dozens of titles that I would never normally consider buying.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这种无可比拟的价格优势鼓励我去尝试了几十种我平时绝不会考虑购买的书籍。"
-        },
-        {
-          "s": "It would have been easy to   51   my assumptions about this highway builder who had never been more than a few hundred miles from home.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我本可以轻易地____51____我对这个从未离家超过几百英里的公路建筑工人的假设。"
-        },
-        {
-          "s": "After that, I would never call Miss Chevalier “Poodle” again.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从那以后，我再也不会叫谢瓦利埃小姐“贵宾犬”了。"
-        },
-        {
-          "s": "What is the probable reason that Addie would never call Miss Chevalier “Poodle” again?",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "艾迪再也不会叫舍瓦利耶小姐“贵宾犬”的可能原因是什么？"
-        },
-        {
-          "s": "We will probably never know whether it’s true.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们可能永远无法知道这是否是真的。"
-        },
-        {
-          "s": "So, if we accept that the universe is unknowable, we also accept we will never know if we live in a computer simulation.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "所以，如果我们接受宇宙是不可知的，我们也接受我们永远无法知道是否生活在一个计算机模拟中。"
-        },
-        {
-          "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
-          "src": "2023全国甲卷·阅读理解B",
+          "s": "A noise at a window caught my attention, so I entered it.",
+          "src": "2023浙江1月卷·书面表达",
           "cat": "gaokao",
           "year": 2023,
-          "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
+          "t": "窗户旁的响动引起了我的注意，于是我走了进去。"
         },
         {
-          "s": "He had never flown by himself before and was very nervous.",
-          "src": "2023天津6月卷·二、完型填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他以前从未独自飞行过，非常紧张。"
-        },
-        {
-          "s": "I had traveled that way before, yet I had never noticed that old little shop.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我以前曾经这样旅行过，但我从来没有注意到那个古老的小商店。"
-        },
-        {
-          "s": "It's never too young to learn.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "缩小在线测试中尚未覆盖的范围"
-        },
-        {
-          "s": "It is never too late for people to start taking exercise.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "开始运动永远不嫌晚。"
-        },
-        {
-          "s": "These gentle, lovely gatekeepers welcomed her and kick-started what was to be a trip Ginni would never forget.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这些温柔可爱的守门人欢迎了她，开启了Ginni永远不会忘记的一段旅程。"
-        },
-        {
-          "s": "In Chile, you may never touch any food with your fingers.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在智利，你绝不能用手指接触任何食物。"
-        },
-        {
-          "s": "Never stick them upright in your food or cross them as you use them",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "千万不要把它们竖直插在食物里，也不要在用餐时将它们交叉摆放。"
-        },
-        {
-          "s": "I had never seen so many people wanting food.",
-          "src": "2022浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我从未见过这么多人想要食物。"
-        },
-        {
-          "s": "Crystal knew that visions alone don’t produce results, but concluded that “we’ll never produce results that we can’t envision”.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Crystal知道仅靠愿景不会产生成果，但她得出结论：\"我们永远无法产生我们无法设想的成果\"。"
-        },
-        {
-          "s": "I never heard this man whisper a word about his own  20 .",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我从未听到这个人低声说过一句关于他自己20 的话。"
-        },
-        {
-          "s": "Nature never ceases to surprise.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "大自然从不停止给人惊喜。"
-        },
-        {
-          "s": "Other scientists may say scientific findings are true because they use “the scientific method.” But we can never actually agree on what that method is.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "其他科学家可能说科学发现是真的，因为他们用了“科学方法”。但我们永远无法真正就那方法是什么达成一致。"
-        },
-        {
-          "s": "They never look lazy or untidy.",
-          "src": "2021卷",
+          "s": "The researchers examined various levels of noise on participants as they completed tests of creative thinking.",
+          "src": "2021全国乙卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "他们看起来从不懒散或不整洁。"
+          "t": "研究人员在参与者完成创造性思维测试时，考察了不同程度噪音对他们造成的影响。"
         },
         {
-          "s": "As someone noted in this paper a couple of weeks ago, they eat great food and never gain weight.",
-          "src": "2021卷",
+          "s": "The differences between most of the groups were statistically insignificant; however,the participants in the 70 decibels group—those exposed to a level of noise similar to background chatter in a coffee shop-significantly outperformed the other groups.",
+          "src": "2021全国乙卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "正如几周前本报刊登的一位读者所指出的，他们吃美食却从不发胖。"
+          "t": "大多数组之间的差异在统计上不显著；然而，70分贝组的参与者——那些暴露在类似咖啡店背景闲谈噪音水平下的人——明显优于其他组。"
         },
         {
-          "s": "He never stopped working, never retired.",
-          "src": "2021浙江6月卷·阅读理解A",
+          "s": "It blocks out background noise.",
+          "src": "2021全国乙卷·阅读理解D",
           "cat": "gaokao",
           "year": 2021,
-          "t": "他从未停止工作，从未退休。"
+          "t": "它能屏蔽背景噪音。"
         },
         {
-          "s": "He showed us that even a single desire, never given up on, can make for a remarkable life.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他向我们展示，哪怕只是一个永不放弃的愿望，也能成就非凡的人生。"
-        },
-        {
-          "s": "It’s never too late to learn.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "学习永远不会太迟。"
-        },
-        {
-          "s": "\"I often send postcards to family and friends.\" he says to China Daily, \"but you can imagine that after a while, you never receive as many as you send, and you realize that not everyone is into it   32   ” Seeking other like-minded souls, however, Paulo started looking in a somewhat unlikely place: online.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我经常给家人和朋友寄明信片，”他对《中国日报》说，“但你可以想象，过一阵子后，你收到的永远不会和你寄出的一样多，你会意识到不是每个人都像你一样热衷于它____32____”不过，为了寻找其他志同道合的人，保罗开始在一个不太可能的地方寻找：网上。"
-        },
-        {
-          "s": "My mother, who is never speechless, was speechless.",
-          "src": "2021浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我母亲一向健谈这次却哑口无言。"
-        },
-        {
-          "s": "A long- time neighbor said they never planted trees and only kept a garden for one year.",
-          "src": "2021浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一个很长一段时间的邻居说，他们从未种植过树木，只保留了一年的花园。"
-        },
-        {
-          "s": "Amazingly, the trees grow in such a way that their leaves and branches, although close together, never actually touch those of another tree.",
-          "src": "2020全国新高考II卷·阅读理解D",
+          "s": "Sometimes loud noises like these will scare bears off.",
+          "src": "2020浙江7月卷·读后续写",
           "cat": "gaokao",
           "year": 2020,
-          "t": "令人惊叹的是，这些树的生长方式使得它们的叶子和枝条虽然靠得很近，却从不真正接触到另一棵树的叶子和枝条。"
+          "t": "我用无线电呼叫营地管理员求助。"
         },
         {
-          "s": "They’ve never met before.",
-          "src": "2020全国II卷",
+          "s": "The noise from the LRAD is directed like a ray of light and travels only into the ears of that person, but it is not deadly.",
+          "src": "2020天津6月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "他们以前从未见过面。"
+          "t": "LRAD发出的噪音像一束光线一样定向传播，只进入那个人的耳朵，但它不会致命。"
         },
         {
-          "s": "They’ve never met before.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们以前从未见过面。"
-        },
-        {
-          "s": "I never knew anyone who’d grown up in Jackson without being afraid of Mrs Calloway, our librarian.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我从未见过哪个在杰克逊长大的人不怕我们的图书管理员卡洛韦太太。"
-        },
-        {
-          "s": "Mom always  43  here that, as many times as I  44  across the lawn after that, I never again  45  into that tree.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "妈妈总是____43__说，无论之后我多少次____44__穿过草坪，我再也没____45__撞上那棵树。"
-        },
-        {
-          "s": "She never wanted me to lose that  49  as grew older.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她从不想让我在长大过程中失去那份49。"
-        },
-        {
-          "s": "It was a moment I'll never forget.”",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“那是我永生难忘的一刻。”"
-        },
-        {
-          "s": "For Parry, the reward is knowing he hopefully made a difference in a child's life, and except for his drawings on bandages, \"they can go on and live their lives and never know I was in it,” he said.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对帕里来说，回报在于知道自己或许改变了一个孩子的人生，而且除了他在绷带上的画，他说“他们可以继续生活，永远不知道我曾经在其中”。"
-        },
-        {
-          "s": "I have never known an outstanding man who lacked either.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我从未见过一个缺乏其中任何一项的杰出人物。"
-        },
-        {
-          "s": "And I have never known an average man who had both.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我也从未见过一个两者兼备的普通人。"
-        },
-        {
-          "s": "However you start, remember there is no better time to start than right now, for you'll never be more alive than you are at this moment.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "无论你如何开始，记住没有比现在更好的开始时间，因为你再也不会比此刻更有活力了。"
-        },
-        {
-          "s": "Curious Minds Never Feel Contented",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "好奇的心灵从不感到满足"
-        },
-        {
-          "s": "Never Too Late to Learn",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "活到老，学到老"
-        },
-        {
-          "s": "I could never play football or basketball well.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我从来踢不好足球，也打不好篮球。"
-        },
-        {
-          "s": "I had never pursued them.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以我从未追求过这些兴趣。"
-        },
-        {
-          "s": "My faith in human nature has never been so great as it was last weekend after our family get-together in the town of Vail.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我对人性的信心从未像上周末在韦尔镇家庭聚会后那样强烈。"
-        },
-        {
-          "s": "Ponder has never   16   anything.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他很难过，不是因为Gameboy，而是因为那块手表。"
-        },
-        {
-          "s": "I would never have imagined that this could happen nowadays.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我从未想过这种事竟然会在当今发生。"
-        },
-        {
-          "s": "Whaley got the idea of this second-grade presidential campaign project when he asked the children one day to raise their hands if they thought they could never be a president.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "有一天，惠利问孩子们：如果觉得自己永远当不上总统就举手。他由此萌生了开展这个二年级“总统竞选”项目的想法。"
-        },
-        {
-          "s": "You never knowD．You read my mind",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．我不明白B．由你决定"
-        },
-        {
-          "s": "The things we learn in maturity seldom involve information and skills． We learn to bear with the things we can't change． We learn to avoid self﹣pity． We learn that however much we try to please， some people are never going to love us﹣an idea that troubles at first but is eventually relaxing．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我们在成熟时学到的东西很少涉及信息和技能。我们学会忍受无法改变的事。我们学会避免自怜。我们学到，无论多么努力取悦，有些人永远不会爱我们——这个想法起初令人困扰，但最终令人释然。"
-        },
-        {
-          "s": "But no matter how rich they were, Dawson was never comfortable.",
-          "src": "2018全国III卷·B源",
+          "s": "The noise shakes the trees as the male beats his chest and charges toward me.",
+          "src": "2018全国III卷·语法填空",
           "cat": "gaokao",
           "year": 2018,
-          "t": "但无论他们多么富有，道森总是感到不自在。"
+          "t": "雄性大猩猩捶打胸口向我冲来的声音震动了树木。"
         },
         {
-          "s": "In 1928 Herbert Hoover imagined an America with “a chicken in every pot and a car in every garage.” Since then, this society has moved onward, never looking back, as the car transformed America from a farm-based society into an industrial power.zxx.k",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "1928年，赫伯特·胡佛设想了一个“每个锅里一只鸡、每个车库一辆车”的美国。从那以后，这个社会一往无前，从不回头，因为汽车把美国从一个以农业为基础的社会变成了一个工业强国。"
-        },
-        {
-          "s": "It was summer, and my dad wanted to treat me to a vacation like never before.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那是夏天，爸爸想带我去度一个前所未有的特别假期，好好犒赏我。"
-        },
-        {
-          "s": "\"Yes． But how do you know？ We never told anyone．\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "\"是的，但你怎么知道 我们从没告诉过任何人\""
-        },
-        {
-          "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
-        },
-        {
-          "s": "Now we live in a world surrounded by the \"can't do\" attitudes． We all fall down． We all have doubts and regrets． Still we must climb and dream about what's at the top of our mountain． Monsters may appear or the night will fall． But never ever give up on your dream!",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如今我们生活在一个被“做不到”态度包围的世界。我们都会跌倒。我们都有疑虑和悔恨。但我们仍须攀登，梦想山顶的风景。怪物可能出现，夜幕可能降临。但永远不要放弃你的梦想！"
-        },
-        {
-          "s": "Never let anyone tell you， \"You can't．\" Dream big and climb high！",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "永远别让任何人告诉你“你做不到”。大胆梦想，勇攀高峰！"
-        },
-        {
-          "s": "Mr Anderson said: “I couldn’t believe that the guy never took a penny.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "安德森先生说：“我不敢相信那家伙一分钱都没拿。”"
-        },
-        {
-          "s": "She never minded the alarm clock sounding at 4 am or questioned my expenses on running.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "她从不介意凌晨4点的闹钟响起，也不质疑我在跑步上的开销。"
-        },
-        {
-          "s": "One is never too old to learn.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "活到老，学到老。"
-        },
-        {
-          "s": "Trying to help injured, displaced or sick creatures can be heartbreaking; survival is never certain.",
-          "src": "2017全国I卷·阅读理解B",
+          "s": "It makes noises.",
+          "src": "2017全国II卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "试图帮助受伤、流离失所或生病的动物可能令人心碎；生存永远无法保证。"
+          "t": "它发出声音。"
         },
         {
-          "s": "I never felt an urge to  43  any sign language before.",
-          "src": "2017全国I卷·完形填空",
+          "s": "It makes noises.",
+          "src": "2017重庆卷·阅读理解D",
           "cat": "gaokao",
           "year": 2017,
-          "t": "我以前从未有过对43种手语的冲动。"
+          "t": "它发出声音。"
         },
         {
-          "s": "She never replaced it.",
-          "src": "2017浙江6月卷·语法填空",
+          "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
+          "src": "2021全国乙卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "她从未更换过它。"
+          "year": 2021,
+          "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
         },
         {
-          "s": "The bus driver never regained consciousness and died at Easy Surrey Hospital.",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "公共汽车司机再也没恢复意识，在 Easy Surrey 医院去世。"
-        },
-        {
-          "s": "Oh, Gosh…I thought they were being awfully quiet.” We were never actually left behind in a strange city, but we weren’t about to take any chances.",
-          "src": "2017浙江11月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“噢，天哪……我以为他们安静得反常。”我们其实从没有被丢在陌生的城市，但我们不打算冒任何风险。"
-        },
-        {
-          "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
-        },
-        {
-          "s": "Still others think that super intelligent AI will never happen.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "还有人认为超级智能AI永远不会出现。"
-        },
-        {
-          "s": "I had never cooked anything before, so I fried to copy how she did if.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我以前从未做过任何东西，所以我试着模仿她的做法。"
-        },
-        {
-          "s": "I've never visited the US.",
+          "s": "And when an alarm \"goes off\", it makes a noise so you can hear it.",
           "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "我从未去过美国。"
+          "t": "当闹钟“响起”时，它会发出噪音，因此您可以听到它。"
         },
         {
-          "s": "Never!” _3 “My fridge is a total mess!",
-          "src": "外研社B2 U1",
+          "s": "Some plants make noises with their roots.",
+          "src": "外研社B4 U5",
           "cat": "waiyan",
-          "t": "绝不！”_3 ＂我的冰箱简直是一团糟！"
+          "t": "有些植物会用根部发出声音。"
         },
         {
-          "s": "I was born with asthma and I never thought I’d be a runner!",
-          "src": "外研社B2 U3",
+          "s": "They also “listen” to the noises from other plants.",
+          "src": "外研社B4 U5",
           "cat": "waiyan",
-          "t": "我生来就患有哮喘，从没想过自己会成为跑步者！"
+          "t": "它们也＂听＂其他植物发出的声音。"
         },
         {
-          "s": "If a student gets hungry on the long drives to and from school, Wilson never   25   to buy them a meal.",
-          "src": "2019北京卷·完形填空",
+          "s": "Some trees make clicking noises when there is not enough water, indicating drought is arriving.",
+          "src": "外研社B4 U5",
+          "cat": "waiyan",
+          "t": "有些树木在没有足够的水时发出咔嗒声，表明干旱即将到来。"
+        },
+        {
+          "s": "But since the results at 70 decibels were significant, the study also suggests that the right level of background noise—not too loud and not total silence—may actually improve one’s creative thinking ability.",
+          "src": "2021全国乙卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "如果学生在往返学校的长途车程中饿了，威尔逊从不___25___给他们买顿饭。"
+          "year": 2021,
+          "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
+        },
+        {
+          "s": "Indeed, the researchers found that face-to-face interactions and conversations affect the creative process, and yet a coworking space or a coffee shop provides a certain level of noise while also providing freedom from interruptions.",
+          "src": "2021全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "的确，研究人员发现面对面互动和对话会影响创造过程，而联合办公空间或咖啡店提供一定程度的噪音，同时也提供不受打扰的自由。"
+        },
+        {
+          "s": "For people, who are interested in sound, the field of sound technology is definitely making noise.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对于对声音感兴趣的人，声音技术领域确实在引起关注。"
+        },
+        {
+          "s": "The right level of background noise may interrupt our normal patterns of thinking just enough to allow our imaginations to wander, without making it impossible to focus.",
+          "src": "2021全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "恰到好处的背景噪音可能恰好会打断我们正常的思维模式，让我们的想象力得以漫游，而不会让人无法集中注意力。"
+        },
+        {
+          "s": "Which level of background noise may promote creative thinking ability?",
+          "src": "2021全国乙卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "哪个水平的背景噪音可能促进创造性思维能力？"
         }
       ]
     },
     {
-      "def": "（与 not 同义，语气较强）一点都不，从未",
-      "ex": [
-        {
-          "s": "The lady would get a call from a stranger every morning who   20   made her believe that he was her friend, and then she lent him about £3I,000 Jones was  21 when she said that she didn't actually   22   being cheated, “Otherwise, I would never speak to another person for weeks on end,” she said.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位女士每天早上会接到一个陌生人的电话，对方____让她相信他是她的朋友，于是她借给了他大约3.1万英镑。琼斯说她其实并不____被骗时，表示“否则我会连续几周都不跟任何人说话。”"
-        },
-        {
-          "s": "As Kristian Hammond, professor of electrical engineering and computer science at Northwestern University, put it: “There’s never a stage at which the system knows what it’s talking about.”",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "正如西北大学电气工程与计算机科学教授克里斯蒂安·哈蒙德所言：系统从来没有一个阶段知道自己到底在说什么。"
-        },
-        {
-          "s": "In March 2008, Ginni boarded a ship with 48 passengers she’d never met before, to begin the journey towards Antarctica.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "2008年3月，金妮与48名素未谋面的乘客登上一艘船，开始了前往南极的旅程。"
-        },
-        {
-          "s": "It is never too late to start.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "什么时候开始都不算晚。"
-        },
-        {
-          "s": "Studying a subject that you feel pointless is never a fun or easy task.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "学习一门你觉得毫无意义的科目从来都不是有趣或容易的事。"
-        },
-        {
-          "s": "He had no family, and had never heard a word from Jimmy again since that cold, dark night.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "他没有家人，自从那个寒冷黑暗的夜晚以来，吉米再也没有说过一句话。"
-        },
-        {
-          "s": "As the song goes, this long and winding road \"will never disappear\", and it will always stick in the visitor's memory.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "正如歌中所唱，这条漫长而蜿蜒的道路“永远不会消失”，它将永远留在游客的记忆中。"
-        },
-        {
-          "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
-        }
-      ]
+      "def": "extra electrical or electronic signals that are not part of the signal that is being broadcast or transmitted and which may damage it 干扰；电子干扰讯号",
+      "ex": []
+    },
+    {
+      "def": "information that is not wanted and that can make it difficult for the important or useful information to be seen clearly 杂讯；垃圾信息",
+      "ex": []
+    },
+    {
+      "def": "to talk in an indirect way about sth that you think you might do 放出 … 的风声",
+      "ex": []
+    },
+    {
+      "def": "to complain about sth 抱怨；埋怨",
+      "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "never too",
-      "cn": "从不 太",
-      "type": "副词搭配",
-      "count": 6
-    },
-    {
-      "en": "never seen",
-      "cn": "从不",
-      "type": "副词搭配",
-      "count": 3
-    },
-    {
-      "en": "never again",
-      "cn": "从不 再一次",
-      "type": "副词搭配",
-      "count": 1
-    },
-    {
-      "en": "never certain",
-      "cn": "从不 确实",
-      "type": "副词搭配",
-      "count": 1
-    },
-    {
-      "en": "never comfortable",
-      "cn": "从不 衣服",
-      "type": "副词搭配",
-      "count": 1
-    },
-    {
-      "en": "never ever",
-      "cn": "从不 在任何时候",
-      "type": "副词搭配",
-      "count": 1
-    },
-    {
-      "en": "never given",
-      "cn": "从不",
-      "type": "副词搭配",
-      "count": 1
-    },
-    {
-      "en": "never speechless",
-      "cn": "从不",
-      "type": "副词搭配",
-      "count": 1
-    },
-    {
-      "en": "never too late",
-      "cn": "从不 太 接近末期的",
+      "en": "noise on",
+      "cn": "声音 在…上",
       "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "noise similar",
+      "cn": "声音 相像的",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "background noise",
+      "cn": "背景噪音",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "loud noises",
+      "cn": "喧闹的 声音",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "noise shakes",
+      "cn": "声音 摇动",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "of background noise",
+      "cn": "的 出身背景 声音",
+      "type": "介词短语",
       "count": 4
     },
     {
-      "en": "never forget",
-      "cn": "从不 通常不用于进行时",
-      "type": "动词短语",
+      "en": "level of background noise",
+      "cn": "数量 的 出身背景 声音",
+      "type": "介词短语",
       "count": 3
     },
     {
-      "en": "never know",
-      "cn": "从不 知道",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "never met",
-      "cn": "从不",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "never thought",
-      "cn": "从不 想法",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "and i never thought",
-      "cn": "与 我 从不 想法",
-      "type": "名词短语",
+      "en": "level of noise",
+      "cn": "数量 的 声音",
+      "type": "介词短语",
       "count": 2
     },
     {
-      "en": "have never known",
-      "cn": "有 从不",
-      "type": "名词短语",
-      "count": 2
+      "en": "a level of noise",
+      "cn": "一个 数量 的 声音",
+      "type": "介词短语",
+      "count": 1
+    },
+    {
+      "en": "blocks out background noise",
+      "cn": "大块 出 出身背景 声音",
+      "type": "介词短语",
+      "count": 1
     }
   ]
 }
