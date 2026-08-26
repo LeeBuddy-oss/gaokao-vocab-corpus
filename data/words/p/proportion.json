@@ -1,100 +1,107 @@
 {
   "meta": {
-    "ph": "prəˈhɪbɪt; NAmE prəˈhɪbɪt",
-    "pos": "verb",
+    "ph": "prəˈpɔːʃn; NAmE prəˈpɔːrʃn",
+    "pos": "noun",
     "stars": "★★"
   },
   "defs": [
     {
-      "def": "to stop sth from being done or used especially by law （尤指以法令）禁止",
+      "def": "a part or share of a whole 部分；份额",
       "ex": [
         {
-          "s": "What are children prohibited from doing at the Museum?",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "儿童在博物馆禁止做什么？"
-        },
-        {
-          "s": "Cutting of Big Trees to Be Prohibited in California Soon",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "加州即将禁止砍伐大树"
-        },
-        {
-          "s": "The bags are prohibited in some 90 cities in California, including Los Angeles.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "包括洛杉矶在内的加利福尼亚州约90个城市禁止这些袋子。"
-        },
-        {
-          "s": "In fact, some pesticides like DDT have been prohibited in most countries because of the damage they cause to people and the environment.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "t": "事实上，像DDT这样的一些杀虫剂由于对人类和环境造成的损害，在大多数国家已被禁止。"
-        },
-        {
-          "s": "Rules/Tips game to end before should be 3 You are prohibited from before your run.",
-          "src": "北师大B1 U2",
-          "cat": "beishida",
-          "t": "规则/提示 比赛应在前结束 3 跑步前禁止。"
-        },
-        {
-          "s": "Should we prohibit geneticists from using it to enhance healthy bodies?",
-          "src": "译林选必2 U3",
-          "cat": "yilin",
-          "t": "我们应该禁止遗传学家用它来增强健康的身体吗？"
+          "s": "A man cannot tell, whether Apelles, or Albert Durer, were the more trifler: whereof the one would make a personage by geometrical proportions: the other, by taking the best parts out of divers faces, to make one excellent.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "谁也说不清阿佩勒斯和阿尔伯特·丢勒谁更无聊：前者试图按几何比例造出一个完美人物；后者则从不同的面孔中挑出最美的部分来合成一张完美的脸。"
         }
       ]
     },
     {
-      "def": "to make sth impossible to do 阻止；使不可能",
+      "def": "the relationship of one thing to another in size, amount, etc. 比例；倍数关系",
+      "ex": [
+        {
+          "s": "a portrait photograph of proper proportion",
+          "src": "2020天津3月卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "比例合适的肖像照片"
+        },
+        {
+          "s": "There is no excellent beauty, that hath not some strangeness in the proportion.",
+          "src": "外研社B6 U6",
+          "cat": "waiyan",
+          "t": "没有不带有某种奇异比例之处的绝佳之美。"
+        },
+        {
+          "s": "Finally, the statue is quite narrow from front to back—by proportion much narrower than most people are in real life.",
+          "src": "人教选必3 U5",
+          "cat": "renjiao",
+          "t": "最后，这座雕像从前到后相当窄——按比例比大多数现实中的人窄得多。"
+        }
+      ]
+    },
+    {
+      "def": "the correct relationship in size, degree, importance, etc. between one thing and another or between the parts of a whole 正确的比例；均衡；匀称",
+      "ex": [
+        {
+          "s": "It is also ethnically diverse, and has a high proportion of immigrants from China.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "它也是民族多元化的，来自中国的移民占了很高的比例。"
+        }
+      ]
+    },
+    {
+      "def": "the measurements of sth; its size and shape 面积；体积；规模；程度",
+      "ex": [
+        {
+          "s": "The female kiwi holds the world record for laying the largest egg in proportion to its body size.",
+          "src": "人教选必4 U5",
+          "cat": "renjiao",
+          "t": "雌性几维鸟保持着产下相对于其体型最大蛋的世界纪录。"
+        }
+      ]
+    },
+    {
+      "def": "the equal relationship between two pairs of numbers, as in the statement ‘4 is to 8 as 6 is to 12’ 等比关系；比例",
       "ex": []
     }
   ],
   "chunks": [
     {
-      "en": "prohibited in",
-      "cn": "禁止 在…里",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "are children prohibited",
-      "cn": "是 禁止",
+      "en": "high proportion",
+      "cn": "高的 部分",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are prohibited from",
-      "cn": "是 禁止 从",
+      "en": "proper proportion",
+      "cn": "正确的 部分",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "back by proportion",
+      "cn": "背部 通过 部分",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "bags are prohibited",
-      "cn": "常构成复合词 是 禁止",
-      "type": "名词短语",
+      "en": "by geometrical proportions",
+      "cn": "通过 部分",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "be you are prohibited",
-      "cn": "是 你 是 禁止",
-      "type": "名词短语",
+      "en": "by proportion much",
+      "cn": "通过 部分 许多",
+      "type": "介词短语",
       "count": 1
     },
     {
-      "en": "children prohibited",
-      "cn": "禁止",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "ddt have been prohibited",
-      "cn": "有 是 禁止",
-      "type": "名词短语",
+      "en": "egg in proportion",
+      "cn": "蛋 在…里 部分",
+      "type": "介词短语",
       "count": 1
     }
   ]
