@@ -1,156 +1,425 @@
 {
   "meta": {
-    "ph": "rɪˈspɒnsəbl; NAmE rɪˈspɑːnsəbl",
-    "pos": "adj.",
+    "ph": "ˈrestrɒnt; NAmE ˈrestrɑːnt",
+    "pos": "noun",
     "stars": ""
   },
   "defs": [
     {
-      "def": "having the job or duty of doing sth or taking care of sb/sth, so that you may be blamed if sth goes wrong 有责任；负责；承担义务",
+      "def": "a place where you can buy and eat a meal 餐馆；餐厅",
       "ex": [
         {
-          "s": "She is a responsible grandmother",
-          "src": "2020全国新高考II卷·阅读理解B",
+          "s": "The Best Chinese Restaurants Around D.C.",
+          "src": "2026新高考II卷·阅读理解A",
           "cat": "gaokao",
-          "year": 2020,
-          "t": "她是一位负责任的奶奶"
+          "year": 2026,
+          "t": "华盛顿特区周边最好的中餐馆"
         },
         {
-          "s": "It encourages people to be responsible travellers and involves educating them about the natural world.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "它鼓励人们成为负责任的旅行者，并涉及对人们进行自然世界的教育。"
-        },
-        {
-          "s": "The value taught with the Spending jar is that you are responsible for your own happiness.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "消费罐所教导的价值观是你要为自己的幸福负责。"
-        },
-        {
-          "s": "Firstly, doing housework was helpful for us to be a responsible person.",
-          "src": "2021全国乙卷·短文改错",
+          "s": "The D.C. area is home to many outstanding Chinese restaurants, but diners willing to travel outside the city limits will also be rewarded.",
+          "src": "2026新高考II卷·阅读理解A",
           "cat": "gaokao",
-          "year": 2021,
-          "t": "首先，做家务有助于我们成为一个有责任感的人。"
-        }
-      ]
-    },
-    {
-      "def": "being able to be blamed for sth 应受责备；有责任",
-      "ex": []
-    },
-    {
-      "def": "being the cause of sth 作为原因；成为起因",
-      "ex": [
-        {
-          "s": "In analyzing his and other research，Dr Prinstein came to another conclusion: Not only is likability related to positive life outcomes, but it is also responsible for those outcomes, too.",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在分析他自己和其他人的研究时，普林斯坦博士得出了另一个结论：不仅讨人喜欢与积极的生活结果相关，而且也是这些结果的原因。"
+          "year": 2026,
+          "t": "华盛顿特区有许多出色的中餐馆，但愿意走出市区就餐的食客也会有所收获。"
         },
         {
-          "s": "This remote location is in part responsible for the islands’ diverse wildlife, such as the giant tortoise.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "这个偏远的地理位置在一定程度上造就了岛上多样化的野生动物，比如巨型陆龟。"
-        }
-      ]
-    },
-    {
-      "def": "having to report to sb/sth with authority or in a higher position and explain to them what you have done （向主管者或上级）承担责任",
-      "ex": []
-    },
-    {
-      "def": "that you can trust and rely on 人或行为举止",
-      "ex": []
-    },
-    {
-      "def": "needing sb who can be trusted and relied on; involving important duties 责任重大的；需要可靠的人负责的",
-      "ex": [
+          "s": "This not-so-hidden-anymore fine restaurant for Sichuan cuisine is inside the Days Inn off New York Avenue.",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这家已不再那么隐秘的川菜精品餐厅位于纽约大道旁的戴斯酒店内。"
+        },
         {
-          "s": "Campbell’s point is to wake up those responsible for AI—the technology companies and world leaders—so they are on the same page as all the experts currently developing it.",
-          "src": "2024新高考II卷·阅读理解D",
+          "s": "The restaurant is open from 11:00 am to 9:00 pm Tuesday through Sunday, offering call-in orders and pickups.",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "餐厅周二至周日上午11:00至晚上9:00营业，接受电话订餐和自取。"
+        },
+        {
+          "s": "This nice Cantonese restaurant in Columbia Heights quickly became a destination for chef Henji Cheung’s Hong Kong-style cooking and co-owner Sarah Thompson’s natural wine list that earned her a Michelin nod.",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "这家位于Columbia Heights的精致粤菜馆，很快成为主厨Henji Cheung的港式料理以及联合老板Sarah Thompson获得米其林认可的天然葡萄酒单的打卡地。"
+        },
+        {
+          "s": "Which restaurant can you go to for beef with rice cakes?",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "你可以去哪家餐厅吃牛肉炒年糕？"
+        },
+        {
+          "s": "What do we know about the Cantonese restaurant in Columbia Heights?",
+          "src": "2026新高考II卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "关于哥伦比亚高地的那家粤餐厅，我们知道什么？"
+        },
+        {
+          "s": "Food waste is a growing concern in the restaurant, supermarket, and supply chain industries.",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "食物浪费正日益成为餐饮、超市和供应链行业关注的问题。"
+        },
+        {
+          "s": "For two weeks in March, Greenwich Village’s Blue Hill restaurant was renamed wastED, and served items like fried skate cartilage, a juice pulp burger, and a dumpster diver’s vegetable salad.",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "三月的头两周，格林尼治村的蓝山餐厅改名为wastED，供应诸如炸鳐鱼软骨、果汁渣汉堡和垃圾箱潜水者蔬菜沙拉之类的菜品。"
+        },
+        {
+          "s": "Restaurants like Silo in the UK have experimented with zero-waste systems, but wastED took the concept to its logical conclusion.",
+          "src": "2025新高考II卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "像英国 Silo 这样的餐厅已尝试过零浪费系统，但 wastED 采取了更进一步的方式……"
+        },
+        {
+          "s": "Additionally, it could serve a larger audience such as a hospital, restaurant or school.",
+          "src": "2024新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2024,
-          "t": "坎贝尔的目的是唤醒那些对人工智能负责的人——科技公司和世界领导人——让他们与目前开发人工智能的所有专家达成共识。"
+          "t": "此外，它也可以服务更大的群体，比如医院、餐厅或学校。"
         },
         {
-          "s": "So we still need to prepare food and drinks I'll make a checklist Preparation choose presents for Grandma draw up the guest list on Wednesday make invitations prepare food and drinks on Sunday morning Who's responsible?",
-          "src": "外研社B1 U3",
+          "s": "When we arrived, we went straight a famous restaurant and ordered dishes, which tasted greatly.",
+          "src": "2024全国甲卷·第四部分 写作",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我们到达后，直接走进一家有名的餐厅点菜，味道好极了。"
+        },
+        {
+          "s": "Jaramillo’s students live in neighborhoods where fresh food and green space are not easy to find and fast food restaurants outnumber grocery stores.",
+          "src": "2023新课标II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "哈拉米略的学生居住的社区里，新鲜食物和绿地很难找到，快餐店的数量超过了杂货店。"
+        },
+        {
+          "s": "She owns a fast food restaurant.",
+          "src": "2023新课标II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "她拥有一家快餐餐厅。"
+        },
+        {
+          "s": "It’s the only Thai restaurant that ranks among the top 10 of the word’s 50 best restaurants list.",
+          "src": "2023全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "它是唯一一家跻身全球50家最佳餐厅榜单前十的泰国餐厅。"
+        },
+        {
+          "s": "Head Chef David Thompson, who received a Michelin star for his Loodon-based Thai restaurant of the same name, opened this branch in the Metropolitan Hotel in 2010.",
+          "src": "2023全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "主厨大卫·汤普森曾凭借其位于伦敦的同名泰国餐厅获得米其林一星，他于2010年在大都会酒店开设了这家分店。"
+        },
+        {
+          "s": "Issaya Siamese Club is intematoionally known Thai chef lan Kittichai’s first flagship Bangkok restaurant.",
+          "src": "2023全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "Issaya Siamese Club是国际知名的泰国厨师伊恩·基蒂猜在曼谷开设的第一家旗舰餐厅。"
+        },
+        {
+          "s": "Serving hard-to-find Thai dishes in an elegant atmosphere, the restaurant is true to Thai cuisine’s roots, yet still manages to add a special twist.",
+          "src": "2023全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "餐厅在优雅的氛围中供应难觅的泰式菜肴，既忠于泰菜的本源，又巧妙增添了特别的变化。"
+        },
+        {
+          "s": "Which restaurant offers a large set menu?",
+          "src": "2023全国甲卷·阅读理解A",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "哪个餐厅会提供一套大菜单？"
+        },
+        {
+          "s": "Talking about food encouraged her parents to finally open up about their past, like the fact that her father had owned a Chinatown restaurant in the 1940s.",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "谈论食物促使她的父母终于敞开心扉谈起了他们的过去，比如她父亲在1940年代曾拥有一家唐人街餐馆。"
+        },
+        {
+          "s": "Ms Young has also devoted herself to supporting the restaurants in Chinatown.",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "毕竟，如果不偶尔犯错，任何事都不可能有进步。"
+        },
+        {
+          "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
+        },
+        {
+          "s": "This year, instead of cooking at home for her husband and friends, she celebrated the Chinese New Year with various dishes from local restaurants in Chinatown.",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "今年，她没有在家为丈夫和朋友做饭，而是用唐人街当地餐馆的各种菜肴来庆祝中国新年。"
+        },
+        {
+          "s": "“If these restaurants don’t survive, Chinese culinary traditions in our city won’t survive.” she says.",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "“如果这些餐厅不存活下去，我们城市的中国烹饪传统也不会存活下去。”她说。"
+        },
+        {
+          "s": "What has Ms Young done to help Chinatown restaurants?",
+          "src": "2023天津3月卷·阅读表达",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "杨女士为帮助唐人街餐馆做了什么？"
+        },
+        {
+          "s": "Since it wasn't dark yet after the meal, I decided to walk home from the restaurant.",
+          "src": "2023天津6月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "因为饭后天还没黑，我决定从餐厅走路回家。"
+        },
+        {
+          "s": "Leave the restaurant.",
+          "src": "2022新高考I卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "离开餐厅。"
+        },
+        {
+          "s": "It’s jaw-dropping how much perfectly good food is thrown away — from “ugly” (but quite eatable) vegetables rejected by grocers to large amounts of uneaten dishes thrown into restaurant garbage cans.",
+          "src": "2022全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "完美完好的食物被扔掉的数量令人震惊——从杂货商拒绝的\"丑陋\"（但完全可以食用）的蔬菜到大量被扔进餐厅垃圾桶的剩菜。"
+        },
+        {
+          "s": "“Everyone can play a part in reducing waste, whether by not purchasing more food than necessary in your weekly shopping or by asking restaurants to not include the side dish you won’t eat,” Curtin says.",
+          "src": "2022全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "“每个人都可以在减少浪费方面发挥作用，无论是在每周购物时不买超过需要的食物，还是要求餐厅不要上你不吃的配菜，”Curtin说。"
+        },
+        {
+          "s": "Eat in restaurants less often.",
+          "src": "2022全国新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "少去餐馆吃饭。"
+        },
+        {
+          "s": "Don’t get caught making an embarrassing mistake at a restaurant",
+          "src": "2022全国甲卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "别在餐厅犯了尴尬的错误还被抓个正着"
+        },
+        {
+          "s": "This can be useful for businesses such as restaurants and stores because it offers a new way to attract customers.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "聚光灯只照亮舞台的一个部分；同样，\"定向声音\"在目标区域创建一个圆形的声音区域。"
+        },
+        {
+          "s": "Restaurants can offer a choice of music along with the various food choices on the menu, allowing customers more control over the atmosphere in which they are dining.",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "餐厅可以在菜单上各种食物选择之外提供音乐选择，让顾客更多地掌控用餐氛围。"
+        },
+        {
+          "s": "creative designs of restaurant menus",
+          "src": "2020天津6月卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "餐厅菜单的创意设计"
+        },
+        {
+          "s": "Our dinner reservation was at a restaurant just on the other side of the bridge, so I   20   him that we would not only search the area around the fountain when we went back for dinner, but we would also find the police and ask them if the backpack had been   21   .",
+          "src": "2020北京卷·书面表达",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "我们的晚餐预订在桥那头的一家餐厅，所以我___20___他，回去吃晚饭时我们不仅会搜查喷泉周围的区域，还会找警察询问背包是否已被___21___。"
+        },
+        {
+          "s": "“We love Mexican churros, so I buy them on my phone from my local Mexican takeaway restaurant,” she explains.",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "\"我们喜欢墨西哥油条，所以我会在手机上从当地的墨西哥外卖餐厅购买，\"她解释道。"
+        },
+        {
+          "s": "At a restaurant.",
+          "src": "2018浙江卷",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "在餐厅里。"
+        },
+        {
+          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
+        },
+        {
+          "s": "It contributes to restaurant decorations．",
+          "src": "2018天津卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "D．它有助于餐厅装饰。"
+        },
+        {
+          "s": "What does the man say about the restaurant?",
+          "src": "2017浙江卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这位男士如何评价这家餐厅？"
+        },
+        {
+          "s": "Anis who owned a restaurant  46  to hide some books.",
+          "src": "2017浙江6月卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "阿尼斯拥有一家餐厅 46 藏了一些书。"
+        },
+        {
+          "s": "All through the  47  , Alia, Anis, his brothers and neighbours took the books from the library,  48  them over the seven-foot wall and  49  them in the restaurant.",
+          "src": "2017浙江6月卷·七选五",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "整个____47____，阿莉亚、阿尼斯、他的兄弟和邻居把书从图书馆取出，把它们____48____过七英尺高的墙，____49____在餐厅里。"
+        },
+        {
+          "s": "What does the man say about the restaurant?",
+          "src": "2017江苏卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这位男士如何评价这家餐厅？"
+        },
+        {
+          "s": "(Note: A \"doggy bag\" is a bag or box in which you take unfinished food home from a restaurant.) You see a sign in a supermarket saying \"3 for 2\".",
+          "src": "外研社B1 U6",
           "cat": "waiyan",
-          "t": "所以我们还需要准备食物和饮料。我来列个清单：准备——给奶奶选礼物；星期三拟好客人名单；做邀请函；准备食物和饮料；星期天早上——谁负责？"
+          "t": "（注：\"打包袋\"是一种袋子或盒子，用来把餐厅没吃完的食物带回家。）你在超市看到一个牌子写着\"3件2元\"。"
+        },
+        {
+          "s": "Sometimes I bring home food from the restaurant where I work.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "有时我会从工作的餐厅带食物回家。"
+        },
+        {
+          "s": "Over the years, it has become one of the most popular dishes in Chinese restaurants throughout the world.",
+          "src": "外研社B2 U1",
+          "cat": "waiyan",
+          "t": "多年来，它已成为世界各地中餐馆里最受欢迎的菜肴之一。"
+        },
+        {
+          "s": "Lantern Festival celebrations In our restaurant, we offer Western dinners and desserts.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "元宵节庆祝活动：在我们的餐厅，我们提供西式晚餐和甜点。"
+        },
+        {
+          "s": "Nowadays, some people choose to have the dinner in a restaurant, but not everyone is keen on this idea.",
+          "src": "外研社B2 U2",
+          "cat": "waiyan",
+          "t": "如今，一些人选择在餐厅吃年夜饭，但不是每个人都热衷于这个想法。"
         }
       ]
     }
   ],
   "chunks": [
     {
-      "en": "also responsible",
-      "cn": "也 有责任",
-      "type": "形容词搭配",
-      "count": 1
+      "en": "chinatown restaurants",
+      "cn": "餐馆",
+      "type": "名词短语",
+      "count": 3
     },
     {
-      "en": "part responsible",
-      "cn": "部分 有责任",
-      "type": "形容词搭配",
-      "count": 1
+      "en": "chinese restaurants",
+      "cn": "中餐馆",
+      "type": "名词短语",
+      "count": 3
     },
     {
-      "en": "who's responsible",
-      "cn": "谁 有责任",
-      "type": "形容词搭配",
-      "count": 1
+      "en": "cantonese restaurant",
+      "cn": "餐馆",
+      "type": "名词短语",
+      "count": 2
     },
     {
-      "en": "a responsible grandmother",
-      "cn": "一个 有责任 祖母",
+      "en": "food restaurants",
+      "cn": "食物 餐馆",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "thai restaurant",
+      "cn": "餐馆",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "another restaurant",
+      "cn": "又一 餐馆",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "a responsible person",
-      "cn": "一个 有责任 人",
+      "en": "bangkok restaurant",
+      "cn": "餐馆",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are responsible for your",
-      "cn": "是 有责任 为了 你的",
+      "en": "best restaurants",
+      "cn": "最好的 餐馆",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "about the restaurant",
+      "cn": "大约 该 餐馆",
       "type": "介词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "be a responsible person",
-      "cn": "是 一个 有责任 人",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "be responsible travellers",
-      "cn": "是 有责任",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "in part responsible",
-      "cn": "在…里 部分 有责任",
+      "en": "from the restaurant",
+      "cn": "从 该 餐馆",
       "type": "介词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "is a responsible grandmother",
-      "cn": "是 一个 有责任 祖母",
-      "type": "名词短语",
-      "count": 1
+      "en": "restaurant in columbia",
+      "cn": "餐馆 在…里",
+      "type": "动词短语",
+      "count": 2
     },
     {
-      "en": "is in part responsible",
-      "cn": "是 在…里 部分 有责任",
+      "en": "restaurants in chinatown",
+      "cn": "餐馆 在…里",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "say about the restaurant",
+      "cn": "说 大约 该 餐馆",
       "type": "介词短语",
-      "count": 1
+      "count": 2
     }
   ]
 }
