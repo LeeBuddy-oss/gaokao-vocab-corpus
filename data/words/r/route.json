@@ -1,359 +1,103 @@
 {
   "meta": {
     "ph": "ruːt; NAmE ruːt",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb;verb",
+    "pos": "noun",
     "stars": "★★"
   },
   "defs": [
     {
-      "def": "the part of a plant that grows under the ground and absorbs water and minerals that it sends to the rest of the plant 根；根茎",
+      "def": "a way that you follow to get from one place to another 路线；路途",
       "ex": [
         {
-          "s": "To track features of root growth.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了追踪根系生长的特征。"
-        },
-        {
-          "s": "Gender is rooted in people’s mind.",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "性别观念根植于人们的思想中。"
-        },
-        {
-          "s": "While a routine involves repeated behaviour, it’s not necessarily performed in response to a deep﹣rooted urge, as a habit is.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "虽然常规包含重复行为，但它未必像习惯那样是出于根深蒂固的冲动而做出的。"
-        },
-        {
-          "s": "In roughly 15 minutes, the movers inflated the airbags to about three feet in diameter to raise the root ball to the surface of the hole.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "大约15分钟内，搬运工把气囊充到约3英尺直径，把根球抬到坑面。"
-        },
-        {
-          "s": "Instead, they are rooted in the similarity of basic human needs and our shared mechanisms for learning and problem solving.",
+          "s": "Our brains use the system to acquire behavioural patterns regarding safe routes home, efficient food gathering and dangers to avoid.",
           "src": "2024北京卷·阅读理解D",
           "cat": "gaokao",
           "year": 2024,
-          "t": "相反，它们根植于基本人类需求的相似性以及我们共同的学习和解决问题的机制。"
+          "t": "我们的大脑利用这一系统习得有关安全回家路线、高效觅食以及需要避开的危险的行为模式。"
         },
         {
-          "s": "After encapsulating the root ball in wire mesh, the movers allowed the tree to acclimate to its new situation for seven months before relocating it.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在把根球包裹在金属网中之后，搬迁人员在重新安置它之前，让树有七个月的时间来适应新环境。"
-        },
-        {
-          "s": "Many people feel like they need a sense of cultural belonging, which is something that studying your roots and being open-minded to the evolution of your culture can provide.",
-          "src": "2020天津3月卷·阅读理解D",
+          "s": "Significantly, all Harbour Air routes last less than 30 minutes, making it perfectly fit for electric engines.",
+          "src": "2020天津3月卷·阅读理解C",
           "cat": "gaokao",
           "year": 2020,
-          "t": "许多人觉得自己需要一种文化归属感，而这正是研究你的根、并对自己文化的演变保持开放态度所能提供的。"
+          "t": "值得注意的是，所有港湾航空的航线时长都不到30分钟，这使其非常适合使用电动发动机。"
         },
         {
-          "s": "Stories like that are more common in parts of the world where multigenerational living is more firmly rooted.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这样的故事在世界多代同堂更为根深蒂固的地区更为常见。"
-        },
-        {
-          "s": "This deeply rooted tradition has been an integral part of Chinese culture for a very long time, and will continue to live forever in the hearts of the Chinese people.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "这一根深蒂固的传统长期以来一直是中国文化不可分割的一部分，并将永远活在中国人民的心中。"
-        },
-        {
-          "s": "Back in 1951, Reisley was just 26, newly married and ready to put down roots.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "早在1951年，Reisley只有26岁，新婚不久，准备安家扎根。"
-        },
-        {
-          "s": "Mangroves known as “red forest” in China, grow between land and sea, characterised by their complex roots.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "红树林在中国被称为\"红树林\"，生长在陆地与海洋之间，以其复杂的根系为特征。"
-        },
-        {
-          "s": "Merit and his team at Environmental Design installed underneath the root ball a platform of seven-inch-diameter,44-foot-long steelbars and, just below the rods, a first set of uninflated airbags ( shown in gray).The team also dug a shallow ramp.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "环境设计公司的梅里特及其团队在根球下方安装了一个平台，由直径7英寸、长44英尺的钢条构成，钢条正下方是第一组未充气的气囊（灰色所示）。团队还挖了一条浅坡道。"
-        },
-        {
-          "s": "Scientists at Salk Institute are making use of the natural capacity of plants to absorb carbon dioxide by enhancing their root systems.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "萨尔克研究所的科学家正在利用植物吸收二氧化碳的自然能力，通过增强其根系来实现这一目标。"
-        },
-        {
-          "s": "This fungal network links the roots of different plants to each other.",
-          "src": "外研社B4 U5",
+          "s": "The Bernina Express follows a route that runs from Eastern Switzerland to Northern Italy.",
+          "src": "外研社B2 U5",
           "cat": "waiyan",
-          "t": "这种真菌网络将不同植物的根系相互连接起来。"
-        }
-      ]
-    },
-    {
-      "def": "the part of a hair, tooth, nail or tongue that attaches it to the rest of the body 根；根部",
-      "ex": [
-        {
-          "s": "Some plants make noises with their roots.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "有些植物会用根部发出声音。"
+          "t": "贝尔尼纳快车沿着从瑞士东部延伸到意大利北部的路线行驶。"
         },
         {
-          "s": "Before the heavy lifting began, the team assessed the root system and dug a five-foot-deep cylinder , measuring 40 feet in diameter, around the trunk to protect all essential roots.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在重型吊装开始前，团队先评估了根系，并在树干周围挖了一个深五英尺、直径40英尺的圆柱形坑，以保护所有重要的根部。"
-        }
-      ]
-    },
-    {
-      "def": "the main cause of sth, such as a problem or difficult situation 根源；起因",
-      "ex": [
+          "s": "The landscape that lines the route is beautiful and dramatic, with snowy mountains and green valleys.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "沿途的风景美丽而壮观，有雪山和翠绿的山谷。"
+        },
         {
-          "s": "My perfectionist tendencies were the main root of this: I wanted to be perfect at whatever I did, which obviously in life is not possible, but it consumed me.",
-          "src": "2022北京卷·阅读理解B",
+          "s": "When someone is giving you directions, try to mark your destinations and draw the routes to them on the map.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "t": "当有人给你指路时，试着在地图上标出你的目的地并画出到达它们的路线。"
+        },
+        {
+          "s": "Take notes while you listen and try to find the places correctly, marking your route on the map.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "一边听一边做笔记，试着正确找到地点，在地图上标出你的路线。"
+        },
+        {
+          "s": "Since the first Great Gorilla Run in 2003, thousands of people have joined the 8 km fun run route in gorilla suits through the city of London.",
+          "src": "外研社B2 U6",
+          "cat": "waiyan",
+          "t": "自2003年首届大猩猩跑以来，成千上万的人穿着大猩猩服装参加了穿越伦敦市区的8公里趣味跑路线。"
+        },
+        {
+          "s": "Now, Cao has started the second part of his dream to walk along the Belt and Road route.",
+          "src": "2022全国甲卷·语法填空",
           "cat": "gaokao",
           "year": 2022,
-          "t": "我的完美主义倾向是主要原因：我想在所做的任何事情上都做到完美，这在生活中显然是不可能的，但它吞噬了我。"
-        },
-        {
-          "s": "Where the Problem of Robocalls Is Rooted",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "解决方案比问题多。"
-        },
-        {
-          "s": "The Roots of Morality",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "道德的根源"
-        },
-        {
-          "s": "Serving hard-to-find Thai dishes in an elegant atmosphere, the restaurant is true to Thai cuisine’s roots, yet still manages to add a special twist.",
-          "src": "2023全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "餐厅在优雅的氛围中供应难觅的泰式菜肴，既忠于泰菜的本源，又巧妙增添了特别的变化。"
-        },
-        {
-          "s": "History grounds us in our roots.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "历史让我们扎根于我们的根源。"
-        },
-        {
-          "s": "The friendship that grew out of the experience of making that film and The Sting four years later had its root in the fact that although there was an age difference, we both came from a tradition of theater and live TV.",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从拍摄那部电影以及四年后拍摄《骗中骗》的经历中发展出来的友谊，其根源在于这样一个事实：尽管我们有年龄差距，但我们都来自戏剧和现场电视的传统。"
-        },
-        {
-          "s": "The friendship that grew out of the experience of making that film and The Sting four years later had its root in the fact that although there was an age difference, we both came from a tradition of theater and live TV.",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从拍摄那部电影以及四年后拍摄《骗中骗》的经历中发展出来的友谊，其根源在于这样一个事实：尽管我们有年龄差距，但我们都来自戏剧和现场电视的传统。"
+          "t": "现在，曹已经开始了他梦想的第二部分——沿着一带一路路线行走。"
         }
       ]
     },
     {
-      "def": "the origin or basis of sth 起源；基础；根基",
+      "def": "a fixed way along which a bus, train, etc. regularly travels or goods are regularly sent （公共汽车和列车等的）常规路线，固定线路",
       "ex": []
     },
     {
-      "def": "the feelings or connections that you have with a place because you have lived there or your family came from there 根（指与出生地或原籍相关联的情感或联系）",
-      "ex": [
-        {
-          "s": "The white bags were then deflated in about half an hour to lower the sequoia's root ball to the bottom of its hole, The bags were removed, but the metal bars were left with the tree because they rust and degrade over a number of years.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "然后白色气囊在约半小时内放气，将红杉根球降到坑底，气囊被取出，但钢条留在树旁，因为它们会在数年内生锈降解。"
-        }
-      ]
-    },
-    {
-      "def": "the part of a word that has the main meaning and that its other forms are based on; a word that other words are formed from 词根",
-      "ex": [
-        {
-          "s": "Parts of the word, such as prefixes, word roots and suffixes, can also be used to try and work out its meaning.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "单词的组成部分，如前缀、词根和后缀，也可以用来尝试推断其含义。"
-        }
-      ]
-    },
-    {
-      "def": "a quantity which, when multiplied by itself a particular number of times, produces another quantity 方根；根",
+      "def": "a particular way of achieving sth 途径；渠道",
       "ex": []
     },
     {
-      "def": "to develop roots 植物",
-      "ex": [
-        {
-          "s": "To design these climate-saving plants, the scientists are using a research tool called SLEAP — an AI software that tracks multiple features of root growth.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了设计这些拯救气候的植物，科学家们正在使用一种名为SLEAP的研究工具——一款追踪根系生长多项特征的AI软件。"
-        },
-        {
-          "s": "Identify genes for desirable plant roots.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "识别理想植物根系所需的基因。"
-        },
-        {
-          "s": "In a study published in Plant Phenomics, Busch and Pereira establish a new procedure for using SLEAP to analyze plant root phenotypes — how deep and wide they grow, how massive their root systems become, and other physical qualities.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在发表于《Plant Phenomics》的一项研究中，Busch和Pereira建立了一种使用SLEAP分析植物根表型的新流程——包括它们长得有多深多宽、根系变得多庞大，以及其他物理特征。"
-        },
-        {
-          "s": "Collect samples of plant root systems.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "收集植物根系的样本。"
-        }
-      ]
-    },
-    {
-      "def": "to settle and live in one place 定居",
+      "def": "（用于美国干线公路号码前）",
       "ex": []
-    },
-    {
-      "def": "to develop roots 植物",
-      "ex": []
-    },
-    {
-      "def": "to become accepted widely 思想",
-      "ex": []
-    },
-    {
-      "def": "to grow roots; to make or encourage a plant to grow roots （使）生根",
-      "ex": []
-    },
-    {
-      "def": "to search for sth by moving things or turning things over 翻寻",
-      "ex": []
-    },
-    {
-      "def": "to have sex with sb （与某人）性交",
-      "ex": []
-    },
-    {
-      "def": "to find the person or thing that is causing a problem and remove or get rid of them 找到并去除（祸根）；根除",
-      "ex": []
-    },
-    {
-      "def": "to find sb/sth after searching for a long time 终于发现（或找到）",
-      "ex": [
-        {
-          "s": "When the Japanese cut open his body, they discovered only tree bark, cotton and grass roots, but not a single grain of rice in his stomach.",
-          "src": "外研社B6 U3",
-          "cat": "waiyan",
-          "t": "当日本人剖开他的身体时，发现里面只有树皮、棉花和草根，胃里连一粒米都没有。"
-        }
-      ]
     }
   ],
   "chunks": [
     {
-      "en": "root ball",
-      "cn": "根 球",
-      "type": "动词短语",
-      "count": 4
-    },
-    {
-      "en": "root systems",
-      "cn": "根 体系",
-      "type": "动词短语",
-      "count": 4
-    },
-    {
-      "en": "rooted in",
-      "cn": "根 在…里",
-      "type": "动词短语",
-      "count": 4
-    },
-    {
-      "en": "rooted tradition",
-      "cn": "根 传统",
-      "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "plant root",
-      "cn": "植物 根",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "root growth",
-      "cn": "根",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "complex roots",
-      "cn": "复杂的 根",
+      "en": "air routes",
+      "cn": "空气 路线",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "deep rooted",
-      "cn": "深的 根",
+      "en": "road route",
+      "cn": "路 路线",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "essential roots",
-      "cn": "完全必要的 根",
+      "en": "routes home",
+      "cn": "路线 家",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "grass roots",
-      "cn": "草 根",
+      "en": "safe routes",
+      "cn": "处境安全 路线",
       "type": "名词短语",
       "count": 1
-    },
-    {
-      "en": "features of root",
-      "cn": "特色 的 根",
-      "type": "介词短语",
-      "count": 2
-    },
-    {
-      "en": "of root growth",
-      "cn": "的 根",
-      "type": "介词短语",
-      "count": 2
     }
   ]
 }
