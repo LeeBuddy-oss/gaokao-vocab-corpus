@@ -62,8 +62,20 @@
   ],
   "chunks": [
     {
-      "en": "a falling apple",
-      "cn": "一个 落下 苹果",
+      "en": "apple and pear",
+      "cn": "苹果 与 梨",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "england apple",
+      "cn": "苹果",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "strawberry apple",
+      "cn": "草莓 苹果",
       "type": "名词短语",
       "count": 1
     },
@@ -74,21 +86,9 @@
       "count": 1
     },
     {
-      "en": "apple and pear",
-      "cn": "苹果 与 梨",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "apple in pineapple",
       "cn": "苹果 在…里",
       "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "apple was added",
-      "cn": "苹果 是 增加",
-      "type": "名词短语",
       "count": 1
     },
     {
@@ -101,12 +101,6 @@
       "en": "came to england apple",
       "cn": "去 苹果",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "eat an apple",
-      "cn": "吃 一个 苹果",
-      "type": "名词短语",
       "count": 1
     }
   ]

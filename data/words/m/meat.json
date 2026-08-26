@@ -70,8 +70,26 @@
   ],
   "chunks": [
     {
-      "en": "a big meat",
-      "cn": "一个 大的 肉类",
+      "en": "big meat",
+      "cn": "大的 肉类",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "frozen meat",
+      "cn": "肉类",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "meat and fish",
+      "cn": "肉类 与 鱼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "meat dinner",
+      "cn": "肉类 正餐",
       "type": "名词短语",
       "count": 1
     },
@@ -82,39 +100,15 @@
       "count": 1
     },
     {
-      "en": "big meat",
-      "cn": "大的 肉类",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "contains the meat",
-      "cn": "包含 该 肉类",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "dinner of meat",
       "cn": "正餐 的 肉类",
       "type": "介词短语",
       "count": 1
     },
     {
-      "en": "eat meat",
-      "cn": "吃 肉类",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "for meat is actual",
       "cn": "为了 肉类 是",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "frozen meat",
-      "cn": "肉类",
-      "type": "名词短语",
       "count": 1
     }
   ]

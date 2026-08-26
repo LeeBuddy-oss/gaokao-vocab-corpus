@@ -71,8 +71,20 @@
   ],
   "chunks": [
     {
-      "en": "a dust storm",
-      "cn": "一个 沙土 暴风雨",
+      "en": "dust storms",
+      "cn": "沙土 暴风雨",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "dust trapped",
+      "cn": "沙土 陷阱",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "volcanic dust",
+      "cn": "沙土",
       "type": "名词短语",
       "count": 1
     },
@@ -110,12 +122,6 @@
       "en": "clouds of dust",
       "cn": "云 的 沙土",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "dust storm",
-      "cn": "沙土 暴风雨",
-      "type": "名词短语",
       "count": 1
     }
   ]

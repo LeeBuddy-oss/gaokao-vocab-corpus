@@ -99,6 +99,12 @@
   ],
   "chunks": [
     {
+      "en": "some rice",
+      "cn": "一些 大米",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
       "en": "longji rice",
       "cn": "大米",
       "type": "名词短语",
@@ -111,21 +117,27 @@
       "count": 3
     },
     {
-      "en": "beef with rice",
-      "cn": "牛肉 与 大米",
-      "type": "介词短语",
-      "count": 2
-    },
-    {
-      "en": "put some rice",
-      "cn": "放 一些 大米",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "rice cakes",
       "cn": "大米 糕饼",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "noodle and rice",
+      "cn": "面条 与 大米",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "rice dishes",
+      "cn": "大米 碟",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "beef with rice",
+      "cn": "牛肉 与 大米",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -138,12 +150,6 @@
       "en": "some rice into",
       "cn": "一些 大米 进入",
       "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "the longji rice",
-      "cn": "该 大米",
-      "type": "名词短语",
       "count": 2
     }
   ]

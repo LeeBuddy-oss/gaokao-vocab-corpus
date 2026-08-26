@@ -142,10 +142,46 @@
   ],
   "chunks": [
     {
-      "en": "grammar or spelling",
-      "cn": "语法 或 用字母拼",
+      "en": "spelling mistakes",
+      "cn": "用字母拼 错误",
       "type": "名词短语",
-      "count": 3
+      "count": 2
+    },
+    {
+      "en": "any spelling",
+      "cn": "任何 用字母拼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "correct spelling",
+      "cn": "准确无误的 用字母拼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "no spelling",
+      "cn": "无 用字母拼",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "spelling and vocabulary",
+      "cn": "用字母拼 与 词汇",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "spelling errors",
+      "cn": "用字母拼 错误",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "spelling punctuation",
+      "cn": "用字母拼",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "spell out",
@@ -154,39 +190,9 @@
       "count": 3
     },
     {
-      "en": "any grammar or spelling",
-      "cn": "任何 语法 或 用字母拼",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "checked my spelling",
-      "cn": "检查 我的 用字母拼",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "spelling mistakes",
-      "cn": "用字母拼 错误",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
       "en": "about grammar or spelling",
       "cn": "大约 语法 或 用字母拼",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "and no spelling mistakes",
-      "cn": "与 无 用字母拼 错误",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "any spelling or punctuation",
-      "cn": "任何 用字母拼 或",
-      "type": "名词短语",
       "count": 1
     }
   ]

@@ -287,15 +287,9 @@
   "chunks": [
     {
       "en": "million people",
-      "cn": "一百万 人",
+      "cn": "上百万人",
       "type": "名词短语",
       "count": 7
-    },
-    {
-      "en": "about million",
-      "cn": "大约 一百万",
-      "type": "介词短语",
-      "count": 3
     },
     {
       "en": "million tons",
@@ -306,20 +300,8 @@
     {
       "en": "millions of dollars",
       "cn": "一百万 的 元",
-      "type": "介词短语",
+      "type": "名词短语",
       "count": 3
-    },
-    {
-      "en": "a million things",
-      "cn": "一个 一百万 东西",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "have a million things",
-      "cn": "有 一个 一百万 东西",
-      "type": "名词短语",
-      "count": 2
     },
     {
       "en": "million things",
@@ -330,8 +312,32 @@
     {
       "en": "millions of people",
       "cn": "一百万 的 人",
-      "type": "介词短语",
+      "type": "名词短语",
       "count": 2
+    },
+    {
+      "en": "some million",
+      "cn": "一些 一百万",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "autumn millions",
+      "cn": "秋天 一百万",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "fifteen million",
+      "cn": "一百万",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "about million",
+      "cn": "大约 一百万",
+      "type": "介词短语",
+      "count": 3
     }
   ]
 }

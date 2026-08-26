@@ -92,8 +92,14 @@
   ],
   "chunks": [
     {
-      "en": "eating packaged",
-      "cn": "吃 你有一个大包裹来了。",
+      "en": "other package",
+      "cn": "另外 你有一个大包裹来了。",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "package tour",
+      "cn": "你有一个大包裹来了。 旅行",
       "type": "名词短语",
       "count": 2
     },
@@ -104,8 +110,26 @@
       "count": 2
     },
     {
-      "en": "a great package",
-      "cn": "一个 大的 你有一个大包裹来了。",
+      "en": "celebrationapplication package",
+      "cn": "你有一个大包裹来了。",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "great package",
+      "cn": "大的 你有一个大包裹来了。",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "packaged foods",
+      "cn": "你有一个大包裹来了。 食物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "small packages",
+      "cn": "小的 你有一个大包裹来了。",
       "type": "名词短语",
       "count": 1
     },
@@ -122,21 +146,9 @@
       "count": 1
     },
     {
-      "en": "avoid eating packaged",
-      "cn": "避免 吃 你有一个大包裹来了。",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "brochures about other package",
       "cn": "资料手册 大约 另外 你有一个大包裹来了。",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "celebrationapplication package",
-      "cn": "你有一个大包裹来了。",
-      "type": "名词短语",
       "count": 1
     }
   ]

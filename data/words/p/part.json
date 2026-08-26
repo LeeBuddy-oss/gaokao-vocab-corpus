@@ -1029,14 +1029,8 @@
     {
       "en": "take part",
       "cn": "参加",
-      "type": "动词短语",
-      "count": 5
-    },
-    {
-      "en": "part of",
-      "cn": "……的一部分",
-      "type": "介词短语",
-      "count": 7
+      "type": "名词短语",
+      "count": 6
     },
     {
       "en": "big part",
@@ -1048,6 +1042,12 @@
       "en": "important part",
       "cn": "重要部分",
       "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "best part",
+      "cn": "最好的部分",
+      "type": "名词短语",
       "count": 2
     },
     {
@@ -1057,16 +1057,28 @@
       "count": 2
     },
     {
-      "en": "best part",
-      "cn": "最好的部分",
+      "en": "many parts",
+      "cn": "许多 部分",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "parts of the country",
-      "cn": "全国各地",
+      "en": "other parts",
+      "cn": "另外 部分",
       "type": "名词短语",
-      "count": 3
+      "count": 2
+    },
+    {
+      "en": "part in paragraph",
+      "cn": "部分 在…里 段",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "part of",
+      "cn": "……的一部分",
+      "type": "介词短语",
+      "count": 7
     }
   ]
 }

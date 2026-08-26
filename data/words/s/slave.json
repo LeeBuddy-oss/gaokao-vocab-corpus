@@ -58,14 +58,32 @@
   ],
   "chunks": [
     {
-      "en": "a black slave",
-      "cn": "一个 黑的 奴隶",
+      "en": "some slave",
+      "cn": "一些 奴隶",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
       "en": "african slaves",
       "cn": "奴隶",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "black slave",
+      "cn": "黑的 奴隶",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "slave catchers",
+      "cn": "奴隶",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "slave trade",
+      "cn": "奴隶 贸易",
       "type": "名词短语",
       "count": 1
     },
@@ -79,18 +97,6 @@
       "en": "associated with the slave",
       "cn": "与 该 奴隶",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "black slave",
-      "cn": "黑的 奴隶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "is a black slave",
-      "cn": "是 一个 黑的 奴隶",
-      "type": "名词短语",
       "count": 1
     },
     {

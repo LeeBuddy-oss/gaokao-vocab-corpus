@@ -219,27 +219,57 @@
   ],
   "chunks": [
     {
+      "en": "some terms",
+      "cn": "一些 词语",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
       "en": "technical terms",
       "cn": "词语",
       "type": "名词短语",
-      "count": 2
+      "count": 4
+    },
+    {
+      "en": "concrete terms",
+      "cn": "混凝土制的 词语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "economics term",
+      "cn": "经济的 词语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "entire term",
+      "cn": "词语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "long term",
+      "cn": "长的 词语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "longer term",
+      "cn": "词语",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "original term",
+      "cn": "原来的 词语",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "about the technical terms",
       "cn": "大约 该 词语",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "an entire term",
-      "cn": "一个 词语",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "and long term",
-      "cn": "与 长的 词语",
-      "type": "名词短语",
       "count": 1
     },
     {
@@ -258,12 +288,6 @@
       "en": "both in terms",
       "cn": "两者 在…里 词语",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "concrete terms",
-      "cn": "混凝土制的 词语",
-      "type": "名词短语",
       "count": 1
     }
   ]

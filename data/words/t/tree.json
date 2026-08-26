@@ -507,27 +507,57 @@
   "chunks": [
     {
       "en": "big trees",
-      "cn": "大的 树",
+      "cn": "大树",
       "type": "名词短语",
       "count": 12
+    },
+    {
+      "en": "sequoia trees",
+      "cn": "树",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "plant trees",
+      "cn": "植物 树",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "any trees",
+      "cn": "任何 树",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "maple trees",
+      "cn": "树",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "other trees",
+      "cn": "另外 树",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "pine tree",
+      "cn": "树",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "another tree",
+      "cn": "又一 树",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "of big trees",
       "cn": "的 大的 树",
       "type": "介词短语",
       "count": 5
-    },
-    {
-      "en": "sequoia trees",
-      "cn": "树",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "plant trees",
-      "cn": "植物 树",
-      "type": "名词短语",
-      "count": 3
     },
     {
       "en": "to plant trees",
@@ -545,12 +575,6 @@
       "en": "about the trees",
       "cn": "大约 该 树",
       "type": "介词短语",
-      "count": 2
-    },
-    {
-      "en": "maple trees",
-      "cn": "树",
-      "type": "名词短语",
       "count": 2
     }
   ]

@@ -95,8 +95,26 @@
   ],
   "chunks": [
     {
-      "en": "a tree trunk",
-      "cn": "一个 树 树干",
+      "en": "tree trunk",
+      "cn": "树 树干",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "trunk stood",
+      "cn": "树干",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "trunks and stand",
+      "cn": "树干 与 站立",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "trunks of trees",
+      "cn": "树干 的 树",
       "type": "名词短语",
       "count": 1
     },
@@ -107,21 +125,9 @@
       "count": 1
     },
     {
-      "en": "around the trunk",
-      "cn": "大约 该 树干",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "bounced off the trunk",
       "cn": "弹起 离开 该 树干",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "diameter around the trunk",
-      "cn": "大约 该 树干",
-      "type": "名词短语",
       "count": 1
     },
     {
@@ -134,12 +140,6 @@
       "en": "its trunk against",
       "cn": "它的 树干 反对",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "its trunk stood",
-      "cn": "它的 树干",
-      "type": "名词短语",
       "count": 1
     }
   ]

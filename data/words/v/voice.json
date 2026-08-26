@@ -321,14 +321,20 @@
   ],
   "chunks": [
     {
+      "en": "female voice",
+      "cn": "女的 嗓音",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
       "en": "gentle voice",
       "cn": "文静的 嗓音",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "raising his voice",
-      "cn": "提升 他的 嗓音",
+      "en": "little voice",
+      "cn": "小的 嗓音",
       "type": "名词短语",
       "count": 2
     },
@@ -337,6 +343,30 @@
       "cn": "嗓音 助理",
       "type": "名词短语",
       "count": 2
+    },
+    {
+      "en": "different voices",
+      "cn": "不同的 嗓音",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "digital voice",
+      "cn": "数字信息系统的 嗓音",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "genderless voice",
+      "cn": "嗓音",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "indoor voice",
+      "cn": "嗓音",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "voice for each character",
@@ -349,24 +379,6 @@
       "cn": "嗓音 从",
       "type": "介词短语",
       "count": 2
-    },
-    {
-      "en": "a digital voice",
-      "cn": "一个 数字信息系统的 嗓音",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a female voice",
-      "cn": "一个 女的 嗓音",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a genderless voice",
-      "cn": "一个 嗓音",
-      "type": "名词短语",
-      "count": 1
     }
   ]
 }

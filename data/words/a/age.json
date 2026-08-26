@@ -812,9 +812,15 @@
   ],
   "chunks": [
     {
-      "en": "of the same age",
-      "cn": "的 该 同一的 年龄",
-      "type": "介词短语",
+      "en": "age groups",
+      "cn": "年龄 组",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "average age",
+      "cn": "平均的 年龄",
+      "type": "名词短语",
       "count": 4
     },
     {
@@ -824,14 +830,8 @@
       "count": 4
     },
     {
-      "en": "the same age",
-      "cn": "该 同一的 年龄",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "age groups",
-      "cn": "年龄 组",
+      "en": "different age",
+      "cn": "不同的 年龄",
       "type": "名词短语",
       "count": 3
     },
@@ -848,10 +848,16 @@
       "count": 3
     },
     {
-      "en": "eligible students aged",
-      "cn": "大学生",
+      "en": "information age",
+      "cn": "信息 年龄",
       "type": "名词短语",
       "count": 3
+    },
+    {
+      "en": "of the same age",
+      "cn": "的 该 同一的 年龄",
+      "type": "介词短语",
+      "count": 4
     }
   ]
 }

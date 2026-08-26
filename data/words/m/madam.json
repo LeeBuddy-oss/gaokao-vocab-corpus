@@ -66,22 +66,10 @@
   ],
   "chunks": [
     {
-      "en": "dear sir madam",
-      "cn": "亲爱的 先生 夫人",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
       "en": "sir madam",
       "cn": "先生 夫人",
       "type": "名词短语",
       "count": 4
-    },
-    {
-      "en": "applicant yes madam",
-      "cn": "申请人 哦 夫人",
-      "type": "名词短语",
-      "count": 1
     },
     {
       "en": "madam forestier",
@@ -90,8 +78,20 @@
       "count": 1
     },
     {
-      "en": "madam i have underestimated",
-      "cn": "夫人 我 有",
+      "en": "mathilde madam",
+      "cn": "夫人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "sorry madam",
+      "cn": "难过 夫人",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "yes madam",
+      "cn": "哦 夫人",
       "type": "名词短语",
       "count": 1
     },
@@ -99,18 +99,6 @@
       "en": "madam i would like",
       "cn": "夫人 我 将 像",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "madam or dear",
-      "cn": "夫人 或 亲爱的",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "madam yours faithfully",
-      "cn": "夫人 你的",
-      "type": "名词短语",
       "count": 1
     }
   ]

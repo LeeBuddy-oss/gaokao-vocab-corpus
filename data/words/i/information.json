@@ -510,10 +510,16 @@
   ],
   "chunks": [
     {
-      "en": "information about",
-      "cn": "信息 大约",
-      "type": "介词短语",
-      "count": 8
+      "en": "more information",
+      "cn": "更多 信息",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "some information",
+      "cn": "一些 信息",
+      "type": "名词短语",
+      "count": 4
     },
     {
       "en": "information age",
@@ -524,12 +530,6 @@
     {
       "en": "information desk",
       "cn": "信息 书桌",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "information secret",
-      "cn": "信息 秘密的",
       "type": "名词短语",
       "count": 3
     },
@@ -546,16 +546,22 @@
       "count": 3
     },
     {
-      "en": "the information age",
-      "cn": "该 信息 年龄",
+      "en": "useful informations",
+      "cn": "有用的 信息",
       "type": "名词短语",
       "count": 3
     },
     {
-      "en": "the information desk",
-      "cn": "该 信息 书桌",
+      "en": "information environment",
+      "cn": "信息 环境",
       "type": "名词短语",
-      "count": 3
+      "count": 2
+    },
+    {
+      "en": "information about",
+      "cn": "信息 大约",
+      "type": "介词短语",
+      "count": 8
     }
   ]
 }

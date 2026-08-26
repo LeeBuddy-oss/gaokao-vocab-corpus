@@ -184,8 +184,14 @@
   ],
   "chunks": [
     {
-      "en": "a new leaf",
-      "cn": "一个 刚出现的 叶",
+      "en": "leaves space",
+      "cn": "离开 空地",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "leaves and branches",
+      "cn": "离开 与 树枝",
       "type": "名词短语",
       "count": 2
     },
@@ -194,6 +200,36 @@
       "cn": "刚出现的 叶",
       "type": "名词短语",
       "count": 2
+    },
+    {
+      "en": "plant leaves",
+      "cn": "植物 离开",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "blackberry leaf",
+      "cn": "叶",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dead leaves",
+      "cn": "死的 离开",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "leaf and dandelion",
+      "cn": "叶 与",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "leaves and bushes",
+      "cn": "离开 与",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "over a new leaf",
@@ -205,30 +241,6 @@
       "en": "a leaf out",
       "cn": "一个 叶 出",
       "type": "动词短语",
-      "count": 1
-    },
-    {
-      "en": "blackberry leaf",
-      "cn": "叶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "encounter take a leaf",
-      "cn": "遭遇 携带 一个 叶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "include blackberry leaf",
-      "cn": "不用于进行时 叶",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "leaf and dandelion",
-      "cn": "叶 与",
-      "type": "名词短语",
       "count": 1
     }
   ]

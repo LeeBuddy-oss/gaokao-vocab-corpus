@@ -613,15 +613,57 @@
   ],
   "chunks": [
     {
-      "en": "about the dog",
-      "cn": "大约 该 狗",
-      "type": "介词短语",
+      "en": "little dog",
+      "cn": "小的 狗",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "other dog",
+      "cn": "另外 狗",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "bring dogs",
-      "cn": "带 … 到某处 狗",
+      "en": "some dogs",
+      "cn": "一些 狗",
       "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "big dog",
+      "cn": "大的 狗",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "chihuahua dog",
+      "cn": "狗",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dog charlie",
+      "cn": "狗",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dog don",
+      "cn": "狗",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dog nick",
+      "cn": "狗",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "about the dog",
+      "cn": "大约 该 狗",
+      "type": "介词短语",
       "count": 2
     },
     {
@@ -631,33 +673,9 @@
       "count": 2
     },
     {
-      "en": "did tracy bring dogs",
-      "cn": "做 带 … 到某处 狗",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "dogs can tell",
-      "cn": "狗 能 人",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
       "en": "dogs to the children",
       "cn": "狗 去 该",
       "type": "介词短语",
-      "count": 2
-    },
-    {
-      "en": "dogs were able",
-      "cn": "狗 是 能够",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "little dog",
-      "cn": "小的 狗",
-      "type": "名词短语",
       "count": 2
     }
   ]

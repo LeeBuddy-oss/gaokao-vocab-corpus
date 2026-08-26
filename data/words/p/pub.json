@@ -37,8 +37,20 @@
   ],
   "chunks": [
     {
-      "en": "a village pub",
-      "cn": "一个 村庄 酒吧",
+      "en": "go-from pubs",
+      "cn": "酒吧",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pubs to offices",
+      "cn": "酒吧 去 办公室",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "village pub",
+      "cn": "村庄 酒吧",
       "type": "名词短语",
       "count": 1
     },
@@ -55,18 +67,6 @@
       "count": 1
     },
     {
-      "en": "go-from pubs",
-      "cn": "酒吧",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "pub and relax",
-      "cn": "酒吧 与 放松",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "pub at cambridge",
       "cn": "酒吧 在",
       "type": "介词短语",
@@ -75,12 +75,6 @@
     {
       "en": "pub for a drink",
       "cn": "酒吧 为了 一个 饮料",
-      "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "pubs to offices",
-      "cn": "酒吧 去 办公室",
       "type": "介词短语",
       "count": 1
     }

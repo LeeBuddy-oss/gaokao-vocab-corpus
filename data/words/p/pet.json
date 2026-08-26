@@ -290,27 +290,57 @@
   ],
   "chunks": [
     {
-      "en": "a pet cat",
-      "cn": "一个 宠物 猫",
+      "en": "pet cat",
+      "cn": "宠物 猫",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "happy pets",
+      "cn": "感到快乐的 宠物",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "pet cat",
-      "cn": "宠物 猫",
+      "en": "feed pets",
+      "cn": "给食物 宠物",
       "type": "名词短语",
-      "count": 2
+      "count": 1
+    },
+    {
+      "en": "merebeth's pet",
+      "cn": "宠物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "most pet",
+      "cn": "最多 宠物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pet delivery",
+      "cn": "宠物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pet lizard",
+      "cn": "宠物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "pet owners",
+      "cn": "宠物",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "a pet with transport",
       "cn": "一个 宠物 与 交通运输系统",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "a self-employed pet",
-      "cn": "一个 宠物",
-      "type": "名词短语",
       "count": 1
     },
     {
@@ -323,18 +353,6 @@
       "en": "acupuncture on pets",
       "cn": "在…上 宠物",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "animals or pets",
-      "cn": "兽 或 宠物",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "around the pets",
-      "cn": "大约 该 宠物",
-      "type": "名词短语",
       "count": 1
     }
   ]

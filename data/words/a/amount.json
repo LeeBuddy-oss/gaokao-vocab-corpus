@@ -230,16 +230,52 @@
   ],
   "chunks": [
     {
-      "en": "a large amount",
-      "cn": "一个 大的 金额",
+      "en": "large amount",
+      "cn": "大的 金额",
+      "type": "名词短语",
+      "count": 3
+    },
+    {
+      "en": "huge amounts",
+      "cn": "巨大的 金额",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "a surprising amount",
-      "cn": "一个 意想不到的事 金额",
+      "en": "right amount",
+      "cn": "正当 金额",
       "type": "名词短语",
       "count": 2
+    },
+    {
+      "en": "amount needed",
+      "cn": "金额 需要",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "amount of cash",
+      "cn": "金额 的 现金",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "amount of energy",
+      "cn": "金额 的 精力",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "amount of food",
+      "cn": "金额 的 食物",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "amount of information",
+      "cn": "金额 的 信息",
+      "type": "名词短语",
+      "count": 1
     },
     {
       "en": "amount of money",
@@ -257,24 +293,6 @@
       "en": "amount of water",
       "cn": "金额 的 水",
       "type": "介词短语",
-      "count": 2
-    },
-    {
-      "en": "large amount",
-      "cn": "大的 金额",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "right amount",
-      "cn": "正当 金额",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "surprising amount",
-      "cn": "意想不到的事 金额",
-      "type": "名词短语",
       "count": 2
     }
   ]

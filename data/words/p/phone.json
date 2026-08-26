@@ -422,7 +422,13 @@
   "chunks": [
     {
       "en": "phone boxes",
-      "cn": "电话 尤用于构成复合词",
+      "cn": "电话亭",
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "mobile phone",
+      "cn": "非固定的 电话",
       "type": "名词短语",
       "count": 8
     },
@@ -430,25 +436,13 @@
       "en": "phone call",
       "cn": "电话 给 … 命名",
       "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "mobile phone",
-      "cn": "非固定的 电话",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
-      "en": "the phone call",
-      "cn": "该 电话 给 … 命名",
-      "type": "名词短语",
-      "count": 5
+      "count": 8
     },
     {
       "en": "cell phone",
       "cn": "单间牢房 电话",
       "type": "名词短语",
-      "count": 4
+      "count": 5
     },
     {
       "en": "home phone",
@@ -457,16 +451,22 @@
       "count": 4
     },
     {
-      "en": "make the phone",
-      "cn": "制造 该 电话",
+      "en": "actual phone",
+      "cn": "电话",
       "type": "名词短语",
-      "count": 4
+      "count": 2
     },
     {
-      "en": "the phone boxes",
-      "cn": "该 电话 尤用于构成复合词",
+      "en": "dad's phone",
+      "cn": "电话",
       "type": "名词短语",
-      "count": 4
+      "count": 2
+    },
+    {
+      "en": "little phone",
+      "cn": "小的 电话",
+      "type": "名词短语",
+      "count": 2
     }
   ]
 }

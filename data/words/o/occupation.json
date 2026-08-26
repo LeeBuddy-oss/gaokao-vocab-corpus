@@ -51,26 +51,38 @@
   ],
   "chunks": [
     {
-      "en": "a particular occupation",
-      "cn": "一个 专指的 工作",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "age nationality occupation",
-      "cn": "年龄 国籍 工作",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "born nationality education occupation",
-      "cn": "出生 国籍 教育 工作",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "education occupation",
       "cn": "教育 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "german occupation",
+      "cn": "工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "nationality occupation",
+      "cn": "国籍 工作",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "occupation branch",
+      "cn": "工作 树枝",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "occupation questions",
+      "cn": "工作 问题",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "particular occupation",
+      "cn": "专指的 工作",
       "type": "名词短语",
       "count": 1
     },
@@ -84,18 +96,6 @@
       "en": "from german occupation",
       "cn": "从 工作",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "german occupation",
-      "cn": "工作",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "name age nationality occupation",
-      "cn": "名字 年龄 国籍 工作",
-      "type": "名词短语",
       "count": 1
     }
   ]

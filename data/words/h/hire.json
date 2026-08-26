@@ -218,14 +218,20 @@
     {
       "en": "hire designer",
       "cn": "租用",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 2
     },
     {
-      "en": "a neighboring farmer hired",
-      "cn": "一个 农场主 租用",
+      "en": "hire people",
+      "cn": "租用 人",
       "type": "名词短语",
-      "count": 1
+      "count": 2
+    },
+    {
+      "en": "millions hiring",
+      "cn": "一百万 租用",
+      "type": "名词短语",
+      "count": 2
     },
     {
       "en": "actor hired",
@@ -234,20 +240,26 @@
       "count": 1
     },
     {
-      "en": "an actor hired",
-      "cn": "一个 租用",
+      "en": "farmer hired",
+      "cn": "农场主 租用",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are hired each year",
-      "cn": "是 租用 每个 年",
+      "en": "hire cowboys",
+      "cn": "租用",
       "type": "名词短语",
       "count": 1
     },
     {
-      "en": "are hiring scientists",
-      "cn": "是 租用 科学家",
+      "en": "hire experts",
+      "cn": "租用 专家",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "hires staff",
+      "cn": "租用 全体职工",
       "type": "名词短语",
       "count": 1
     },
@@ -255,12 +267,6 @@
       "en": "at time of hire",
       "cn": "在 时间 的 租用",
       "type": "介词短语",
-      "count": 1
-    },
-    {
-      "en": "bonds still hire",
-      "cn": "纽带 还 租用",
-      "type": "名词短语",
       "count": 1
     }
   ]

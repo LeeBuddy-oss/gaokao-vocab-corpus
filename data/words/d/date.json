@@ -349,7 +349,7 @@
   "chunks": [
     {
       "en": "date time",
-      "cn": "日期 时间",
+      "cn": "日期时间",
       "type": "名词短语",
       "count": 8
     },
@@ -363,13 +363,7 @@
       "en": "due date",
       "cn": "日期",
       "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "the due date",
-      "cn": "该 日期",
-      "type": "名词短语",
-      "count": 4
+      "count": 5
     },
     {
       "en": "important dates",
@@ -378,22 +372,34 @@
       "count": 2
     },
     {
+      "en": "birth date",
+      "cn": "出生 日期",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "date and start",
+      "cn": "日期 与 开始",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "date through blackboard",
+      "cn": "日期 通过 黑板",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
+      "en": "dates june-12",
+      "cn": "日期",
+      "type": "名词短语",
+      "count": 1
+    },
+    {
       "en": "out of date",
       "cn": "出 的 日期",
       "type": "介词短语",
       "count": 2
-    },
-    {
-      "en": "a later date",
-      "cn": "一个 后来 日期",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "a regular date",
-      "cn": "一个 规则的 日期",
-      "type": "名词短语",
-      "count": 1
     }
   ]
 }

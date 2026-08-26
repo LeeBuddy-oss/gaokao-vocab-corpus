@@ -55,24 +55,6 @@
   ],
   "chunks": [
     {
-      "en": "ham in a hamburger",
-      "cn": "火腿 在…里 一个 汉堡包",
-      "type": "动词短语",
-      "count": 2
-    },
-    {
-      "en": "are ham and beef",
-      "cn": "是 火腿 与 牛肉",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "eggplant nor ham",
-      "cn": "也不 火腿",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
       "en": "ham and beef",
       "cn": "火腿 与 牛肉",
       "type": "名词短语",
@@ -81,7 +63,7 @@
     {
       "en": "ham in hamburger",
       "cn": "火腿 在…里 汉堡包",
-      "type": "动词短语",
+      "type": "名词短语",
       "count": 1
     },
     {
@@ -89,6 +71,12 @@
       "cn": "火腿",
       "type": "名词短语",
       "count": 1
+    },
+    {
+      "en": "ham in a hamburger",
+      "cn": "火腿 在…里 一个 汉堡包",
+      "type": "动词短语",
+      "count": 2
     },
     {
       "en": "in eggplant nor ham",

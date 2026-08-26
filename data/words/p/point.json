@@ -719,9 +719,15 @@
   ],
   "chunks": [
     {
-      "en": "point out",
-      "cn": "指出",
-      "type": "动词短语",
+      "en": "artist point",
+      "cn": "艺术家 论点",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "start point",
+      "cn": "开始 论点",
+      "type": "名词短语",
       "count": 5
     },
     {
@@ -737,22 +743,34 @@
       "count": 3
     },
     {
-      "en": "at one point",
-      "cn": "一度，曾经",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "point of view",
-      "cn": "观点",
+      "en": "author point",
+      "cn": "著者 论点",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "turning point",
-      "cn": "转折点",
+      "en": "gunter pointed",
+      "cn": "论点",
       "type": "名词短语",
       "count": 2
+    },
+    {
+      "en": "main point",
+      "cn": "主管道 论点",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "no point",
+      "cn": "无 论点",
+      "type": "名词短语",
+      "count": 2
+    },
+    {
+      "en": "point out",
+      "cn": "指出",
+      "type": "动词短语",
+      "count": 5
     }
   ]
 }
