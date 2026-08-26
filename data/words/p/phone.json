@@ -1,252 +1,501 @@
 {
   "meta": {
-    "ph": "ˈpɪəriəd; NAmE ˈpɪriəd",
-    "pos": "noun",
+    "ph": "fəʊn; NAmE foʊn",
+    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb",
     "stars": ""
   },
   "defs": [
     {
-      "def": "a particular length of time 一段时间；时期",
+      "def": "a system for talking to sb else over long distances using wires or radio; a machine used for this; a telephone 电话；电话系统；电话机",
       "ex": [
         {
-          "s": "Loan periods are established by the lending library.",
-          "src": "2025浙江1月卷·阅读理解A",
+          "s": "Simple readings are now readily available on our phones and wearables.",
+          "src": "2026新高考II卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2025,
-          "t": "一切都感觉自由而轻松。"
+          "year": 2026,
+          "t": "如今，我们的手机和可穿戴设备都能轻松给出这些简单读数。"
         },
         {
-          "s": "Moreover, these data are biased and favor certain regions, time periods, and species.",
-          "src": "2024新高考I卷·阅读理解D",
+          "s": "Over the last seven years, most states have banned texting by drivers, and public service campaigns have tried a wide range of methods to persuade people to put down their phones when they are behind the wheel.",
+          "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2024,
-          "t": "此外，这些数据存在偏差，偏向某些地区、时段和物种。"
+          "year": 2022,
+          "t": "过去七年里，大多数州已禁止司机发短信，公益宣传用了多种方法说服人们开车时放下手机。"
         },
         {
-          "s": "This tour transports you back in time to one of San Francisco’s most fantastic periods, the 1950s!",
-          "src": "2017全国III卷·阅读理解A",
+          "s": "We were raised on books and computers, highways and cell phones, but now we were living in a village without running water or electricity It was easy for us to go to sleep at the end of the day feeling a little misunderstood.",
+          "src": "2020江苏卷·阅读理解D",
           "cat": "gaokao",
-          "year": 2017,
-          "t": "这趟旅程带你穿越时空回到旧金山最精彩的时期之一——二十世纪五十年代！"
+          "year": 2020,
+          "t": "我们是在书本、电脑、高速公路和手机的环境中长大的，但现在却住在一个没有自来水和电的村庄。一天结束时，我们带着一点不被理解的感觉入睡是很容易的事。"
         },
         {
-          "s": "The letters were Tolkien’s way of keeping Father Christmas alive for his four children, over a period of more than twenty years.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这些信件是托尔金在二十多年的时间里为他的四个孩子保持圣诞老人活着的方式。"
-        },
-        {
-          "s": "Unusual animal behavior, for example, can indicate whether it’s cold, wet weather that’s on the way or a hot, dry period.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "例如，不寻常的动物行为可以预示即将到来的是寒冷潮湿的天气还是炎热干燥的天气。"
-        },
-        {
-          "s": "Performance： A dramatic presentation of the topic no more than 10 minutes long． If special clothes are used， they should truly represent a given period．",
-          "src": "2019天津卷·History Fair Competition",
+          "s": "Whether a driver used their phone.",
+          "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2019,
-          "t": "表演：对该主题进行的戏剧性展示，时长不超过10分钟。若使用了特殊服装，应真实代表某个特定时期。"
+          "year": 2022,
+          "t": "司机是否使用他们的电话。"
         },
         {
-          "s": "But not all cities develop slowly over a long period of time.",
-          "src": "2018全国III卷·B源",
+          "s": "These days you'd be hard pressed to find anyone in Australia over the age of 15 who doesn’t own a mobile phone.",
+          "src": "2021全国乙卷·阅读理解B",
           "cat": "gaokao",
-          "year": 2018,
-          "t": "但并非所有城市都在很长一段时间内缓慢发展。"
+          "year": 2021,
+          "t": "如今，在澳大利亚，很难找到15岁以上没有手机的人。"
         },
         {
-          "s": "Throughout the colonial period, tobacco was used in lieu of coins or paper bills in Virginia, Maryland and North Carolina, even though it was used elsewhere in the colonies and extensively throughout Europe and the UK",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在整个殖民时期，烟草在弗吉尼亚、马里兰和北卡罗来纳被用来代替硬币或纸币，尽管它在殖民地其他地方以及整个欧洲和英国也被广泛使用。"
-        },
-        {
-          "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
-        },
-        {
-          "s": "Snack periods are held throughout the day.",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "全天都有加餐时间。"
-        },
-        {
-          "s": "Caused by exceptionally heavy snowfall within a short period of time, they destroyed buildings and forest, and claimed over 256 lives.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "由于在短时间内降下异常大雪，他们摧毁了建筑物和森林，夺去了256人的生命。"
-        }
-      ]
-    },
-    {
-      "def": "a length of time in the life of a particular person or in the history of a particular country （人生或国家历史的）阶段，时期，时代",
-      "ex": [
-        {
-          "s": "to remind people of a historical period",
+          "s": "In rural areas, where ambulances can take a relatively long time to arrive, the phone boxes have taken on a lifesaving role.",
           "src": "2020江苏卷·阅读理解B",
           "cat": "gaokao",
           "year": 2020,
-          "t": "以唤起人们对一个历史时期的记忆"
+          "t": "在农村地区，救护车可能需要相对较长的时间才能到达，电话亭因此发挥了挽救生命的作用。"
         },
         {
-          "s": "Art exhibitions can have many themes, such as a historical period, a location or a trend.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "艺术展览可以有许多主题，如一个历史时期、一个地点或一种潮流。"
-        },
-        {
-          "s": "His biographical accounts and depictions of historical events, such as the Long March, therefore captured the spirit of the period and the people living through it with unprecedented authenticity.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他关于长征等历史事件的传记性叙述和描绘，因此以空前的真实感刻画了那个时代及身处其中的人们的精神。"
-        },
-        {
-          "s": "Twenty-five Young Leaders are being selected every two years for a four-year period.",
-          "src": "2023北京卷·阅读理解A",
+          "s": "A lot of business is still done over the phone，and much of it is based on trust and existing relationships.",
+          "src": "2019北京卷·阅读理解C",
           "cat": "gaokao",
-          "year": 2023,
-          "t": "每两年选出25名青年领袖，任期四年。"
+          "year": 2019,
+          "t": "很多生意仍然通过电话完成，而且其中很大一部分是基于信任和现有关系。"
         },
         {
-          "s": "The historian Francis Cole argues that the West has entered a period where “only the present exists, a present characterised at once by the cruelty of the instant and by the boredom of an unending now”.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "历史学家弗朗西斯·科尔认为，西方已进入一个\"只有当下存在\"的时期，这个当下同时以瞬间的残酷和无尽现在的无聊为特征。"
-        },
-        {
-          "s": "The team showed that this change in bite was connected with the development of agriculture in the Neolithic period.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "团队表明，这种咬合变化与新石器时代农业的发展有关。"
-        },
-        {
-          "s": "After a three-year pilot period, the GPNP will be officially set up next year.",
-          "src": "2022全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "经过三年试点期，GPNP将于明年正式建立。"
-        },
-        {
-          "s": "What will UNESCO provide for the internship period？",
-          "src": "2021北京卷·阅读理解A",
+          "s": "They keep using landline phones.",
+          "src": "2021全国乙卷·阅读理解B",
           "cat": "gaokao",
           "year": 2021,
-          "t": "联合国教科文组织将在实习期间提供什么？"
+          "t": "他们还在使用座机电话。"
         },
         {
-          "s": "It's almost impossible to learn about one historical period without having dozens of questions about related concepts.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不了解一个历史时期，几乎不可能不对相关概念产生几十个问题。"
-        },
-        {
-          "s": "reading novels is a way to learn about a historical period",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "读小说是了解某个历史时期的一种方式"
-        },
-        {
-          "s": "It is a little-studied period of history.",
-          "src": "2022浙江1月卷·阅读理解B",
+          "s": "It would work like this: An officer arriving at the scene of a crash could ask for the phones of the drivers and use the Textalyzer to check in the operating system for recent activity.",
+          "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2022,
-          "t": "这是一个鲜少被研究的历史时期。"
+          "t": "它会这样运作：到达车祸现场的警官可以要求司机交出手机，并用Textalyzer在操作系统里检查近期活动。"
+        },
+        {
+          "s": "Mum was using Dad's phone to take photos of the colourful little houses along the coast when we saw something amazing - a killer whale!",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "妈妈正在用爸爸的手机拍摄海岸沿线五彩缤纷的小房子，这时我们看到了一些令人惊叹的东西--虎鲸！"
+        },
+        {
+          "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在成为许多英国街道的重要组成部分后，电话亭在1980年代开始消失，随着手机的兴起，大多数被送到了废品收购站。"
+        },
+        {
+          "s": "LoveFone, a company that advocates repairing cellphones rather than abandoning them, opened a mini workshop in a London phone box in 2016.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "倡导修理而非丢弃手机的LoveFone公司，于2016年在伦敦一个电话亭里开了一家迷你工坊。"
+        },
+        {
+          "s": "I mean to make an actual phone call — not to shelter from the rain.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我指的是打一通真正的电话——而不是躲雨。"
+        },
+        {
+          "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
+        },
+        {
+          "s": "Two hours later， back at my house，I heard a knock on the door． My husband（4）     it while I was on the phone in the dining room． \"Does Jennifer live here？\" I heard a lady say． In my husband's hand was my wallet， with not a penny（5）     ． She left before I could （6）      make it to the door to offer my thanks．",
+          "src": "2019天津卷",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "两小时后，回到家中，我听到敲门声。我丈夫（4）_____应了门，当时我在餐厅打电话。“詹妮弗住这儿吗？”我听到一位女士说。我丈夫手里是我的钱包，一分钱（5）_____都没少。我还没来得及（6）_____走到门口道谢，她就走了。"
+        },
+        {
+          "s": "Why does the man make the phone call?",
+          "src": "2022浙江卷",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "这位男士为什么打电话？"
+        },
+        {
+          "s": "Why does Sara make the phone call?",
+          "src": "2023卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "萨拉为什么打电话？"
+        },
+        {
+          "s": "She tried to call for help but found no signal on her phone.",
+          "src": "2026新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "她试图打电话求救，却发现手机没有信号。"
+        },
+        {
+          "s": "He’s making a phone call.",
+          "src": "2023全国乙卷",
+          "cat": "gaokao",
+          "year": 2023,
+          "t": "他正在打电话。"
+        },
+        {
+          "s": "The last time I used a phone box for its intended purpose was … 2006.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我上一次为打电话而使用电话亭，是……2006年。"
         }
       ]
     },
     {
-      "def": "a length of time which is a division of an era. A period is divided into epochs. 纪（地质年代，代下分纪）",
-      "ex": []
-    },
-    {
-      "def": "any of the parts that a day is divided into at a school, college, etc. for study 节；学时；课",
+      "def": "the part of a phone that you hold in your hand and speak into; a telephone 电话听筒；电话",
       "ex": [
         {
-          "s": "An essay not submitted in class on the due date will lose a letter grade for each class period it is late.",
-          "src": "2022全国新高考I卷·阅读理解A",
+          "s": "Where will Jessica go right after the phone call?",
+          "src": "2020浙江卷",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "Jessica打完电话后要去哪里？"
+        },
+        {
+          "s": "“Can’t you just use your phone?” he asked.",
+          "src": "2026新高考I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2026,
+          "t": "“你就不能用手机查吗？”他问。"
+        },
+        {
+          "s": "After a heated discussion that lasted for what seemed like a century, Gunter put his phone down and started the car.",
+          "src": "2024新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在一场似乎持续了一个世纪的激烈讨论后，冈特放下手机，发动了车。"
+        },
+        {
+          "s": "To discourage phone use.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "为了减少手机使用。"
+        },
+        {
+          "s": "After a heated discussion that lasted for what seemed like a century, Gunter put his phone down and started the car.",
+          "src": "2024新高考II卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "在一场似乎持续了一个世纪的激烈讨论后，冈特放下手机，发动了车。"
+        },
+        {
+          "s": "It provides phone service for free.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "报名并不意味着你就能自动注册并参与本项目。"
+        },
+        {
+          "s": "If the Textalyzer bill becomes law, he said, \"people are going to be more afraid to put their hands on the cell phone.\"",
+          "src": "2022全国新高考II卷·阅读理解C",
           "cat": "gaokao",
           "year": 2022,
-          "t": "如果作文未在截止日期当天课堂上提交，每逾期一个课时就会降低一个字母等级。"
+          "t": "他说，如果Textalyzer法案成为法律，“人们会更不敢把手放在手机上。”"
+        },
+        {
+          "s": "The Next Generation Cell Phone: The Textalyzer",
+          "src": "2022全国新高考II卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2022,
+          "t": "随着我们年龄增长，即使我们保持健康，心脏处理氧气的效率也不如从前了。"
+        },
+        {
+          "s": "For many British people, that can apply to institutions and objects that represent their country’s past-age-old castles, splendid homes… and red phone boxes.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "对许多英国人来说，这同样适用于代表他们国家过去的机构和物品——古老的城堡、华丽的宅邸……以及红色电话亭。"
+        },
+        {
+          "s": "After becoming an important part of many British streets, the phone boxes began disappearing in the 1980s, with the rise of the mobile phone sending most of them away to the junkyards.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "在成为许多英国街道的重要组成部分后，电话亭从20世纪80年代开始逐渐消失，随着手机的兴起，大多数被送进了垃圾场。"
+        },
+        {
+          "s": "Others also looked at the phone boxes and saw business opportunities.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "当地组织可以用1英镑的价格认领它们，并安装除颤仪以备紧急情况使用。"
+        },
+        {
+          "s": "Inglis said phone boxes called to mind an age when things were built to last.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "英格利斯说，电话亭让人想起一个东西都做得经久耐用的时代。"
+        },
+        {
+          "s": "Why did the phone boxes begin to go out of service in the 1980s?",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "为什么电话箱在1980年代开始停止服务？"
+        },
+        {
+          "s": "“We love Mexican churros, so I buy them on my phone from my local Mexican takeaway restaurant,” she explains.",
+          "src": "2018全国I卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "\"我们喜欢墨西哥油条，所以我会在手机上从当地的墨西哥外卖餐厅购买，\"她解释道。"
+        },
+        {
+          "s": "What does the woman decide to do with her cell phone in the end?",
+          "src": "2017北京卷",
+          "cat": "gaokao",
+          "year": 2017,
+          "t": "这位女士最后决定怎么处理她的手机？"
+        },
+        {
+          "s": "As Inglis and, later other businessmen, got to work, repurposed phone boxes began reappearing in cities and villages as people found new uses for them.",
+          "src": "2020江苏卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2020,
+          "t": "随着英格利斯以及后来的其他商人开始行动，被重新利用的电话亭重新出现在城乡各地，因为人们为它们找到了新用途。"
+        },
+        {
+          "s": "When most of us get a text message on our cell phone from an unknown person, we usually say “sorry,    41    number!” and move on.",
+          "src": "2018全国III卷·完形填空",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "当我们大多数人在手机上收到陌生人的短信时，通常会说“抱歉，____41____号码！”然后继续。"
+        },
+        {
+          "s": "That might mean either developing a uniform way to mark videos and images, showing when and who they were made by. or abandoning phone calls altogether and moving towards data-based communications—using apps like Face Time or WhatsApp, which can be tied to your identity.",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "这可能意味着要么开发一种统一的方式来标记视频和图像，显示它们何时以及由谁制作，要么完全放弃电话，转向使用基于数据的通信应用程序，如Face Time或WhatsApp ，这些应用程序可以与您的身份相关联。"
+        },
+        {
+          "s": "My mobile phone was inside, but luckily there was a telephone box across the street.",
+          "src": "2024浙江1月卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "我的手机在屋里，但幸好街对面有个电话亭。"
+        },
+        {
+          "s": "With his heart in his mouth, Kevin grabbed Mrs Hill’s home phone and called the police.",
+          "src": "2025浙江1月卷·读后续写",
+          "cat": "gaokao",
+          "year": 2025,
+          "t": "凯文紧张得心都提到了嗓子眼，他抓起希尔太太家的电话报了警。"
+        },
+        {
+          "s": "Phone carriers and consumers need to work together to find ways of determining and communicating what is real.",
+          "src": "2019北京卷·阅读理解C",
+          "cat": "gaokao",
+          "year": 2019,
+          "t": "电话运营商和消费者需要共同努力，找到方法来辨别并传达什么是真实的。"
+        },
+        {
+          "s": "Recent additions include \"selfie\" (a photograph that you take of yourself, usually with a mobile phone) and \"netizen\" (a citizen who uses the Internet).",
+          "src": "外研社B1 U2",
+          "cat": "waiyan",
+          "year": "",
+          "t": "最近新增的内容包括“自拍” （您自拍的照片，通常使用手机）和“网民” （使用互联网的公民）。"
+        },
+        {
+          "s": "An online map on your mobile phone is convenient.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "手机上的在线地图很方便。"
+        },
+        {
+          "s": "I'd fallen asleep, when I heard Dad's phone ringing.",
+          "src": "外研社B2 U5",
+          "cat": "waiyan",
+          "year": "",
+          "t": "我刚睡着，就听到爸爸的电话响了。"
+        },
+        {
+          "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
+          "src": "2024新高考I卷·读后续写",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
         }
       ]
     },
     {
-      "def": "the flow of blood each month from the body of a woman who is not pregnant 月经；经期；例假",
+      "def": "an instrument that uses or makes sound 构成名词",
       "ex": []
     },
     {
-      "def": "the mark ( . ) used at the end of a sentence and in some abbreviations, for example e.g. 句点；句号",
+      "def": "speaking a particular language; a person who does this 构成形容词和名词",
+      "ex": [
+        {
+          "s": "What does paragraph 2 mainly tell us about mobile phones?",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "第2段主要告诉我们关于手机的什么？"
+        }
+      ]
+    },
+    {
+      "def": "a sound made in speech, especially when not considered as part of the sound system of a particular language 音子；音素",
       "ex": []
+    },
+    {
+      "def": "to be using the telephone 在打电话中",
+      "ex": []
+    },
+    {
+      "def": "to have a telephone in your home or place of work （在家中或工作单位）有电话，安了电话",
+      "ex": [
+        {
+          "s": "Generation Xers with young families, like my wife and I, can still find it convenient to have a home phone rather than providing a mobile phone for every family member.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "像我和妻子这样有年幼家庭的X世代人，仍然会觉得家中有一部座机电话很方便，而不必为每个家庭成员都配一部手机。"
+        },
+        {
+          "s": "Yes, we all have our phones, but many of us still like to go old school and read something printed.",
+          "src": "2024新高考II卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2024,
+          "t": "是的，我们都有手机，但我们中的许多人仍然喜欢老派一点，读点印刷品。"
+        },
+        {
+          "s": "More than half of Australian homes are still choosing to stick with their home phone.",
+          "src": "2021全国乙卷·阅读理解B",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "有年幼孩子的X一代人，像我和我妻子一样，仍然觉得有座机比为每个家庭成员提供手机更方便。"
+        }
+      ]
+    },
+    {
+      "def": "to make a telephone call to the place where you work 往工作单位打电话",
+      "ex": [
+        {
+          "s": "Why did Sarah make the phone call?",
+          "src": "2021新高考II卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "Sarah为什么打这个电话？"
+        },
+        {
+          "s": "Why did Sarah make the phone call?",
+          "src": "2021浙江卷",
+          "cat": "gaokao",
+          "year": 2021,
+          "t": "Sarah为什么打这个电话？"
+        }
+      ]
+    },
+    {
+      "def": "to make a telephone call to a radio or television station 往（电台或电视台）打电话；打热线电话",
+      "ex": [
+        {
+          "s": "Devices were grouped by generation — Desktop computers, basic mobile phones, and box-set TVs defined 1992.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "设备按代分类——台式电脑、基本功能手机和套装电视定义了1992年。"
+        },
+        {
+          "s": "And MP3 players, smart phones, and LCD TVs entered homes in 2002, before tablets and e-readers showed up in 2007.",
+          "src": "2018全国I卷·阅读理解D",
+          "cat": "gaokao",
+          "year": 2018,
+          "t": "MP3播放器、智能手机和液晶电视在2002年进入家庭，之后平板电脑和电子阅读器在2007年出现。"
+        }
+      ]
     }
   ],
   "chunks": [
     {
-      "en": "historical period",
-      "cn": "一段时间",
+      "en": "phone call",
+      "cn": "电话 给 … 命名",
       "type": "名词短语",
       "count": 8
     },
     {
-      "en": "colonial period",
-      "cn": "一段时间",
+      "en": "phone box",
+      "cn": "电话 尤用于构成复合词",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "phone down",
+      "cn": "电话 下",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "phone in",
+      "cn": "电话 在…里",
+      "type": "动词短语",
+      "count": 2
+    },
+    {
+      "en": "phone service",
+      "cn": "电话 公共服务系统",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "phone use",
+      "cn": "电话 使用",
+      "type": "动词短语",
+      "count": 1
+    },
+    {
+      "en": "phone boxes",
+      "cn": "电话亭",
+      "type": "名词短语",
+      "count": 10
+    },
+    {
+      "en": "mobile phone",
+      "cn": "手机",
+      "type": "名词短语",
+      "count": 8
+    },
+    {
+      "en": "cell phone",
+      "cn": "单间牢房 电话",
+      "type": "名词短语",
+      "count": 5
+    },
+    {
+      "en": "home phone",
+      "cn": "家 电话",
+      "type": "名词短语",
+      "count": 4
+    },
+    {
+      "en": "actual phone",
+      "cn": "电话",
       "type": "名词短语",
       "count": 2
     },
     {
-      "en": "class period",
-      "cn": "班 一段时间",
+      "en": "dad's phone",
+      "cn": "电话",
       "type": "名词短语",
-      "count": 1
+      "count": 2
     },
     {
-      "en": "fantastic periods",
-      "cn": "极好的 一段时间",
+      "en": "little phone",
+      "cn": "小的 电话",
       "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "four-year period",
-      "cn": "一段时间",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "given period",
-      "cn": "一段时间",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "internship period",
-      "cn": "一段时间",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "loan periods",
-      "cn": "贷款 一段时间",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "period of time",
-      "cn": "一段时间 的 时间",
-      "type": "介词短语",
       "count": 2
     }
   ]
