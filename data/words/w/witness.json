@@ -1,172 +1,165 @@
 {
-  "meta": {
-    "ph": "ˈwɪtnəs; NAmE ˈwɪtnəs",
-    "pos": "noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;noun;verb",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈwɪtnəs; NAmE ˈwɪtnəs",
+  "pos": "noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;noun;verb",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a person who sees sth happen and is able to describe it to other people 目击者；见证人",
+   "ex": [
+    {
+     "s": "He witnessed food shortage.",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他目睹了食物短缺。"
+    },
+    {
+     "s": "However, her children have learned an important lesson witnessing their mother earn her degree.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然而，她的孩子们目睹母亲获得学位，学到了重要的一课。"
+    },
+    {
+     "s": "I. similarity          J. superiors           K. witnessed",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "I. 相似性    J. 上司    K. 目睹"
+    },
+    {
+     "s": "According to Mayor Fraser,\"I was sent an email recently from a citizen who was 2 witness / witnessingto a police officer breaking the law.",
+     "src": "北师大选必2 U6",
+     "cat": "beishida",
+     "t": "据弗雷泽市长说，＂我最近收到了一位市民的电子邮件，他______一名警察违法。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a person who gives evidence in court 证人",
+   "ex": []
+  },
+  {
+   "def": "a person who is present when an official document is signed and who also signs it to prove that they saw this happen 见证人；连署人",
+   "ex": []
+  },
+  {
+   "def": "evidence of a person's strong religious beliefs, that they show by what they say and do in public 见证（以言行证实信仰）",
+   "ex": [
     {
-      "def": "a person who sees sth happen and is able to describe it to other people 目击者；见证人",
-      "ex": [
-        {
-          "s": "He witnessed food shortage.",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他目睹了食物短缺。"
-        },
-        {
-          "s": "However, her children have learned an important lesson witnessing their mother earn her degree.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然而，她的孩子们目睹母亲获得学位，学到了重要的一课。"
-        },
-        {
-          "s": "I. similarity          J. superiors           K. witnessed",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "I. 相似性    J. 上司    K. 目睹"
-        },
-        {
-          "s": "According to Mayor Fraser,\"I was sent an email recently from a citizen who was 2 witness / witnessingto a police officer breaking the law.",
-          "src": "北师大选必2 U6",
-          "cat": "beishida",
-          "t": "据弗雷泽市长说，＂我最近收到了一位市民的电子邮件，他______一名警察违法。"
-        }
-      ]
+     "s": "It bore witness to her efforts.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它见证了她的努力。"
     },
     {
-      "def": "a person who gives evidence in court 证人",
-      "ex": []
+     "s": "“From seeing the wildlife to witnessing sunrises, the whole experience was amazing.",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "\"从观赏野生动物到见证日出，整个经历令人惊叹。"
     },
     {
-      "def": "a person who is present when an official document is signed and who also signs it to prove that they saw this happen 见证人；连署人",
-      "ex": []
+     "s": "The rise of online news media The past decades have witnessed the rapid development of online news media.",
+     "src": "译林选必2 U1",
+     "cat": "yilin",
+     "t": "网络新闻媒体的兴起 过去几十年见证了网络新闻媒体的快速发展。"
     },
     {
-      "def": "evidence of a person's strong religious beliefs, that they show by what they say and do in public 见证（以言行证实信仰）",
-      "ex": [
-        {
-          "s": "It bore witness to her efforts.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它见证了她的努力。"
-        },
-        {
-          "s": "“From seeing the wildlife to witnessing sunrises, the whole experience was amazing.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"从观赏野生动物到见证日出，整个经历令人惊叹。"
-        },
-        {
-          "s": "The rise of online news media The past decades have witnessed the rapid development of online news media.",
-          "src": "译林选必2 U1",
-          "cat": "yilin",
-          "t": "网络新闻媒体的兴起 过去几十年见证了网络新闻媒体的快速发展。"
-        },
-        {
-          "s": "What did Tom witness at his own school?",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Tom在他自己的学校见证了什么？"
-        },
-        {
-          "s": "As a result it’s likely to see a rise in the size of its working-age population and to witness strong economic growth over the longer term.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "因此，它的劳动年龄人口规模很可能上升，并在更长期内实现强劲的经济增长。"
-        },
-        {
-          "s": "To frame his story, Klein creates the character of Ned, a fictional witness to the progress brought about by the steams and electric revolutions in America during one man's lifetime.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为了构建他的故事，Klein创造了Ned这个角色，一个见证美国在一个人的有生之年因蒸汽和电力革命而取得进展的虚构人物。"
-        }
-      ]
+     "s": "What did Tom witness at his own school?",
+     "src": "2022北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Tom在他自己的学校见证了什么？"
     },
     {
-      "def": "to see sth take place 目击，看见（某事发生）",
-      "ex": [
-        {
-          "s": "But now, the plates being changed by Miss Belinda, Mrs Cratchit left the room alone-too nervous to bear witnesses-to take the pudding up, and bring it in.",
-          "src": "译林选必1 U4",
-          "cat": "yilin",
-          "t": "但现在，盘子由贝尔inda小姐更换，克拉契特太太独自离开房间——她太紧张，不敢有旁人在场——去把布丁端上来。"
-        }
-      ]
+     "s": "As a result it’s likely to see a rise in the size of its working-age population and to witness strong economic growth over the longer term.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "因此，它的劳动年龄人口规模很可能上升，并在更长期内实现强劲的经济增长。"
     },
     {
-      "def": "to show that sth is true; to provide evidence for sth 证明 … 真实；为 … 提供证据",
-      "ex": [
-        {
-          "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
-        }
-      ]
-    },
-    {
-      "def": "to see sth happen (typically a crime or an accident) 当场看到，目击（尤指罪行或事故）",
-      "ex": [
-        {
-          "s": "In Japan, someone who witnesses another person employing the gesture might think it means money.",
-          "src": "人教选必1 U4",
-          "cat": "renjiao",
-          "t": "在日本，如果看到别人做出这个手势，可能会以为那代表钱。"
-        }
-      ]
-    },
-    {
-      "def": "to be the place, period, organization, etc. in which particular events take place 是发生 … 的地点（或时间、组织等）；见证",
-      "ex": [
-        {
-          "s": "Italy, which has a much weaker tradition of immigration, has witnessed a sharp increase in immigration in recent years.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "移民传统弱得多的意大利，近年来见证了移民的急剧增加。"
-        }
-      ]
-    },
-    {
-      "def": "to be present when an official document is signed and sign it yourself to prove that you saw this happen （为正式文件的签署）作证，连署",
-      "ex": []
-    },
-    {
-      "def": "to be a sign or proof of sth 是 … 的迹象；为 … 的证据",
-      "ex": [
-        {
-          "s": "But this was going to be no ordinary excursion, and millions of people tuned in to witness the take-off on TV.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "但是这不会是普通的游览，数百万人收看电视上的起飞。"
-        }
-      ]
-    },
-    {
-      "def": "（摆证据）… 就是证据，看 … 就知道",
-      "ex": []
-    },
-    {
-      "def": "to speak to people about your strong religious beliefs （为宗教信仰）做见证",
-      "ex": []
+     "s": "To frame his story, Klein creates the character of Ned, a fictional witness to the progress brought about by the steams and electric revolutions in America during one man's lifetime.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为了构建他的故事，Klein创造了Ned这个角色，一个见证美国在一个人的有生之年因蒸汽和电力革命而取得进展的虚构人物。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to see sth take place 目击，看见（某事发生）",
+   "ex": [
     {
-      "en": "fictional witness",
-      "cn": "目击者",
-      "type": "名词短语",
-      "count": 2
+     "s": "But now, the plates being changed by Miss Belinda, Mrs Cratchit left the room alone-too nervous to bear witnesses-to take the pudding up, and bring it in.",
+     "src": "译林选必1 U4",
+     "cat": "yilin",
+     "t": "但现在，盘子由贝尔inda小姐更换，克拉契特太太独自离开房间——她太紧张，不敢有旁人在场——去把布丁端上来。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to show that sth is true; to provide evidence for sth 证明 … 真实；为 … 提供证据",
+   "ex": [
+    {
+     "s": "Another study from 2021 tested for “theory of mind” in dogs in a similar way, but the dogs were able to walk round the screen to obtain the treat after witnessing the experimenter’s “unwilling” or “unable” behaviour.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "2021年的另一项研究以类似方式测试了狗的“心智理论”，但狗在目睹实验者“不情愿”或“无能为力”的行为后，能够绕到屏幕另一侧去取零食。"
+    }
+   ]
+  },
+  {
+   "def": "to see sth happen (typically a crime or an accident) 当场看到，目击（尤指罪行或事故）",
+   "ex": [
+    {
+     "s": "In Japan, someone who witnesses another person employing the gesture might think it means money.",
+     "src": "人教选必1 U4",
+     "cat": "renjiao",
+     "t": "在日本，如果看到别人做出这个手势，可能会以为那代表钱。"
+    }
+   ]
+  },
+  {
+   "def": "to be the place, period, organization, etc. in which particular events take place 是发生 … 的地点（或时间、组织等）；见证",
+   "ex": [
+    {
+     "s": "Italy, which has a much weaker tradition of immigration, has witnessed a sharp increase in immigration in recent years.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "移民传统弱得多的意大利，近年来见证了移民的急剧增加。"
+    }
+   ]
+  },
+  {
+   "def": "to be present when an official document is signed and sign it yourself to prove that you saw this happen （为正式文件的签署）作证，连署",
+   "ex": []
+  },
+  {
+   "def": "to be a sign or proof of sth 是 … 的迹象；为 … 的证据",
+   "ex": [
+    {
+     "s": "But this was going to be no ordinary excursion, and millions of people tuned in to witness the take-off on TV.",
+     "src": "外研社B7 U6",
+     "cat": "waiyan",
+     "t": "但是这不会是普通的游览，数百万人收看电视上的起飞。"
+    }
+   ]
+  },
+  {
+   "def": "（摆证据）… 就是证据，看 … 就知道",
+   "ex": []
+  },
+  {
+   "def": "to speak to people about your strong religious beliefs （为宗教信仰）做见证",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
