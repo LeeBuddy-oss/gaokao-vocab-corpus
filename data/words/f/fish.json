@@ -1,216 +1,209 @@
 {
-  "meta": {
-    "ph": "fɪʃ; NAmE fɪʃ",
-    "pos": "noun;noun;verb;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "fɪʃ; NAmE fɪʃ",
+  "pos": "noun;noun;verb;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a creature that lives in water, breathes through gills, and uses fins and a tail for swimming 鱼",
+   "ex": [
+    {
+     "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
+    },
+    {
+     "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
+    },
+    {
+     "s": "Today, there are about 2,000 or more grizzly bears in the US Their recovery has been so successful that the US Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如今，美国大约有2000只或更多的灰熊。它们的恢复如此成功，以至于美国鱼类和野生动物管理局曾两次试图将灰熊从保护名录中移除，这将放松法律保护并允许捕猎它们。"
+    },
+    {
+     "s": "The question,“What do elephants and fish have in common?\" may sound strange but researchers have found that they both have a feature not observed in any other creature.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "\"大象和鱼有什么共同点？\"这个问题听起来可能很奇怪，但研究人员发现它们都有一个在其他生物身上没有观察到的特征。"
+    },
+    {
+     "s": "Fishermen go out to sea daily and sell their fish in harbor-side markets.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "渔民每天出海，在港区市场售卖他们的鱼。"
+    },
+    {
+     "s": "Things like kale ribs, fish collars, rejected sweet potatoes, and cucumber butts were all re-appropriated and, with the help of a number of good chefs, turned into excellent cuisine.",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "像羽衣甘蓝梗、鱼颈肉、被挑拣出的红薯和黄瓜屁股这类东西，都被重新利用，并在几位好厨师的帮助下，变成了极好的菜肴。"
+    },
+    {
+     "s": "Which kinds of fish can eat cancer-causing chemicals?",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "哪些鱼类可以吃掉致癌化学物质？"
+    },
+    {
+     "s": "Fish and Wildlife Service from delisting grizzlies?",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "鱼类和野生动物服务 从灰熊除名？"
+    },
+    {
+     "s": "Probably fish and chips, or a Sunday dinner of meat and two vegetables.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "大概是炸鱼薯条，或者肉食加两种蔬菜的周日大餐。"
+    },
+    {
+     "s": "Many fish perform suction feeding that requires specialised body parts to quickly generate air pressure that can draw nearby food into their mouths.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "许多鱼类进行吸食式进食，这需要特殊的身体部位快速产生气压，将附近的食物吸入嘴里。"
+    },
+    {
+     "s": "According to the researchers, what is the ability shared by both elephants and fish?",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "根据研究者的说法，大象和鱼共有的能力是什么？"
+    },
+    {
+     "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
+    },
+    {
+     "s": "They also had a small pond, which they raised fish.",
+     "src": "2018全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他们还有一个小池塘，他们在里面养鱼。"
+    },
+    {
+     "s": "My grandpa said last summer they earned quite a lot by sell the fish.",
+     "src": "2018全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "爷爷说去年夏天他们卖鱼赚了相当多钱。"
+    },
+    {
+     "s": "The US Fish and Wildlife Service carefully monitors and manages the wolf packs in Yellowstone.",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "美国鱼类和野生动物局对黄石公园的狼群进行了仔细的监测和管理。"
+    },
+    {
+     "s": "But he is also working at a far more fundamental level: his staff show people how to make floating gardens and fish ponds prevent starvation during the wet season.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但是，他也在更根本的层面上工作：他的工作人员向人们展示如何在潮湿的季节使漂浮的花园和鱼塘防止饥饿。"
+    },
+    {
+     "s": "Its food includes fish, snails and water plants.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "它的食物包括鱼、蜗牛和水生植物。"
+    },
+    {
+     "s": "Meat and fish are healthy food.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "肉和鱼是健康的食物。"
+    },
+    {
+     "s": "Other people started fishing for sharks, killing as many as they could.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "其他人开始捕杀鲨鱼，能杀多少就杀多少。"
+    },
+    {
+     "s": "These terraces also provide a perfect environment for birds and fish.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这些梯田也为鸟类和鱼类提供了一个完美的环境。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the flesh of fish eaten as food 鱼肉",
+   "ex": []
+  },
+  {
+   "def": "to try to catch fish with a hook, nets, etc. 钓鱼；捕鱼",
+   "ex": [
     {
-      "def": "a creature that lives in water, breathes through gills, and uses fins and a tail for swimming 鱼",
-      "ex": [
-        {
-          "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
-        },
-        {
-          "s": "When I was about to give up, Gunter fished out his little phone and rang up a friend.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "正当我准备放弃时，Gunter掏出他的小手机，给一个朋友打了电话。"
-        },
-        {
-          "s": "Today, there are about 2,000 or more grizzly bears in the US Their recovery has been so successful that the US Fish and Wildlife Service has twice attempted to delist grizzlies, which would loosen legal protections and allow them to be hunted.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如今，美国大约有2000只或更多的灰熊。它们的恢复如此成功，以至于美国鱼类和野生动物管理局曾两次试图将灰熊从保护名录中移除，这将放松法律保护并允许捕猎它们。"
-        },
-        {
-          "s": "The question,“What do elephants and fish have in common?\" may sound strange but researchers have found that they both have a feature not observed in any other creature.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"大象和鱼有什么共同点？\"这个问题听起来可能很奇怪，但研究人员发现它们都有一个在其他生物身上没有观察到的特征。"
-        },
-        {
-          "s": "Fishermen go out to sea daily and sell their fish in harbor-side markets.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "渔民每天出海，在港区市场售卖他们的鱼。"
-        },
-        {
-          "s": "Things like kale ribs, fish collars, rejected sweet potatoes, and cucumber butts were all re-appropriated and, with the help of a number of good chefs, turned into excellent cuisine.",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "像羽衣甘蓝梗、鱼颈肉、被挑拣出的红薯和黄瓜屁股这类东西，都被重新利用，并在几位好厨师的帮助下，变成了极好的菜肴。"
-        },
-        {
-          "s": "Which kinds of fish can eat cancer-causing chemicals?",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "哪些鱼类可以吃掉致癌化学物质？"
-        },
-        {
-          "s": "Fish and Wildlife Service from delisting grizzlies?",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "鱼类和野生动物服务 从灰熊除名？"
-        },
-        {
-          "s": "Probably fish and chips, or a Sunday dinner of meat and two vegetables.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "大概是炸鱼薯条，或者肉食加两种蔬菜的周日大餐。"
-        },
-        {
-          "s": "Many fish perform suction feeding that requires specialised body parts to quickly generate air pressure that can draw nearby food into their mouths.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "许多鱼类进行吸食式进食，这需要特殊的身体部位快速产生气压，将附近的食物吸入嘴里。"
-        },
-        {
-          "s": "According to the researchers, what is the ability shared by both elephants and fish?",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "根据研究者的说法，大象和鱼共有的能力是什么？"
-        },
-        {
-          "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
-        },
-        {
-          "s": "They also had a small pond, which they raised fish.",
-          "src": "2018全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们还有一个小池塘，他们在里面养鱼。"
-        },
-        {
-          "s": "My grandpa said last summer they earned quite a lot by sell the fish.",
-          "src": "2018全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "爷爷说去年夏天他们卖鱼赚了相当多钱。"
-        },
-        {
-          "s": "The US Fish and Wildlife Service carefully monitors and manages the wolf packs in Yellowstone.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "美国鱼类和野生动物局对黄石公园的狼群进行了仔细的监测和管理。"
-        },
-        {
-          "s": "But he is also working at a far more fundamental level: his staff show people how to make floating gardens and fish ponds prevent starvation during the wet season.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但是，他也在更根本的层面上工作：他的工作人员向人们展示如何在潮湿的季节使漂浮的花园和鱼塘防止饥饿。"
-        },
-        {
-          "s": "Its food includes fish, snails and water plants.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "它的食物包括鱼、蜗牛和水生植物。"
-        },
-        {
-          "s": "Meat and fish are healthy food.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "肉和鱼是健康的食物。"
-        },
-        {
-          "s": "Other people started fishing for sharks, killing as many as they could.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "其他人开始捕杀鲨鱼，能杀多少就杀多少。"
-        },
-        {
-          "s": "These terraces also provide a perfect environment for birds and fish.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这些梯田也为鸟类和鱼类提供了一个完美的环境。"
-        }
-      ]
-    },
-    {
-      "def": "the flesh of fish eaten as food 鱼肉",
-      "ex": []
-    },
-    {
-      "def": "to try to catch fish with a hook, nets, etc. 钓鱼；捕鱼",
-      "ex": [
-        {
-          "s": "And unplanned human activities have proved the idea of top﹣down control by top predators to be true． In the ocean， we fished for top predators such as cod on an industrial scale， while on land， we killed off large predators such as wolves． These actions have greatly affected the ecological balance．",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "而人类无计划的活动已经证明了顶级捕食者自上而下控制的观点是正确的。在海洋中，我们以工业规模捕捞鳕鱼等顶级捕食者，而在陆地上，我们消灭了狼等大型捕食者。这些行为极大地影响了生态平衡。"
-        }
-      ]
-    },
-    {
-      "def": "to spend time fishing for pleasure 钓鱼；捕鱼",
-      "ex": [
-        {
-          "s": "Go fishing in the sea.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "去大海钓鱼。"
-        },
-        {
-          "s": "They had a superb way of fishing.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们有一种绝佳的捕鱼方式。"
-        }
-      ]
-    },
-    {
-      "def": "to try to catch fish in the area of water mentioned 在 … 捕鱼（或钓鱼）",
-      "ex": [
-        {
-          "s": "Even if you haven’t been to the small fishing village Mevagissey, you’ve probably seen it in a movie or British TV show.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "即便你没去过Mevagissey这个小渔村，也可能在电影或英国电视剧里见过它。"
-        },
-        {
-          "s": "And in Karakalpakstan, he is saddened by the dust storms, diseases and fishing boats stuck miles from the sea.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在卡拉卡尔帕克斯坦他为沙尘暴、疾病和搁浅在远离海边数英里的渔船而悲伤。"
-        }
-      ]
-    },
-    {
-      "def": "to search for sth, using your hands 摸找",
-      "ex": []
+     "s": "And unplanned human activities have proved the idea of top﹣down control by top predators to be true． In the ocean， we fished for top predators such as cod on an industrial scale， while on land， we killed off large predators such as wolves． These actions have greatly affected the ecological balance．",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "而人类无计划的活动已经证明了顶级捕食者自上而下控制的观点是正确的。在海洋中，我们以工业规模捕捞鳕鱼等顶级捕食者，而在陆地上，我们消灭了狼等大型捕食者。这些行为极大地影响了生态平衡。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to spend time fishing for pleasure 钓鱼；捕鱼",
+   "ex": [
     {
-      "en": "fish out",
-      "cn": "鱼出来",
-      "type": "名词短语",
-      "count": 2
+     "s": "Go fishing in the sea.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "去大海钓鱼。"
+    },
+    {
+     "s": "They had a superb way of fishing.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们有一种绝佳的捕鱼方式。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to try to catch fish in the area of water mentioned 在 … 捕鱼（或钓鱼）",
+   "ex": [
+    {
+     "s": "Even if you haven’t been to the small fishing village Mevagissey, you’ve probably seen it in a movie or British TV show.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "即便你没去过Mevagissey这个小渔村，也可能在电影或英国电视剧里见过它。"
+    },
+    {
+     "s": "And in Karakalpakstan, he is saddened by the dust storms, diseases and fishing boats stuck miles from the sea.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在卡拉卡尔帕克斯坦他为沙尘暴、疾病和搁浅在远离海边数英里的渔船而悲伤。"
+    }
+   ]
+  },
+  {
+   "def": "to search for sth, using your hands 摸找",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
