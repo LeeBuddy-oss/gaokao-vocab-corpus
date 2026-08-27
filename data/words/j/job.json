@@ -1,1010 +1,998 @@
 {
-  "meta": {
-    "ph": "dʒɒb; NAmE dʒɑːb",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "dʒɒb; NAmE dʒɑːb",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "work for which you receive regular payment 工作；职业；职位",
+   "ex": [
+    {
+     "s": "It generates jobs for the locals.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它为当地人创造了就业机会。"
+    },
+    {
+     "s": "It is creating new jobs.",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "它正在创造新的就业机会。",
+     "_matched": true
+    },
+    {
+     "s": "Over the years, John has taken on many big jobs.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这些年来，约翰承担了许多大型工作。"
+    },
+    {
+     "s": "To compare John’s different jobs.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "为了比较约翰的不同工作。"
+    },
+    {
+     "s": "With a Handshake account, students can receive information about career events and personalized job recommendations.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "有了Handshake账户，学生可以接收职业活动信息和个性化的工作推荐。"
+    },
+    {
+     "s": "2 jobs, each with 16 hours per week.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "2份工作，每份16小时/周。"
+    },
+    {
+     "s": "3 jobs, each with 2 hours per week.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "3份工作，每份2小时/周。"
+    },
+    {
+     "s": "To provide part-time jobs for the aged.",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为老年人提供兼职工作。"
+    },
+    {
+     "s": "try various jobs.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "尝试各种工作。"
+    },
+    {
+     "s": "Simpler jobs require greater caution.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "简单的工作需要更加谨慎。"
+    },
+    {
+     "s": "Jennifer received great support from her family as she worked to earn her degree: Her husband worked two jobs to cover the bills, and her 68-year-old mother helped take care of the children at times.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "珍妮弗在努力攻读学位的过程中得到了家人的大力支持：她的丈夫打两份工来支付账单她68岁的母亲有时帮忙照看孩子。"
+    },
+    {
+     "s": "As the economy was in decline, some people in the town had lost their jobs.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于经济衰退，镇上的一些人已经失去了工作。"
+    },
+    {
+     "s": "As the economy was in decline, some people in the town had lost their jobs.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于经济衰退，镇上的一些人已经失去了工作。"
+    },
+    {
+     "s": "Old People Should Take Challenging Jobs",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "老年人应该从事挑战性的工作"
+    },
+    {
+     "s": "The provincial government and its partners offer many programs to help students find summer jobs.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "省政府及其合作伙伴提供许多项目来帮助学生找到暑期工作。"
+    },
+    {
+     "s": "Jobs for Youth",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "青年就业项目"
+    },
+    {
+     "s": "Jobs for Youth.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "青年就业项目。"
+    },
+    {
+     "s": "prepare students for their future jobs",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "使学生为将来的工作做好准备;"
+    },
+    {
+     "s": "To provide part﹣time jobs for students．",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．为学生提供兼职工作。"
+    },
+    {
+     "s": "To look for jobs in aviation.",
+     "src": "2018北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "寻找航空业的工作。"
+    },
+    {
+     "s": "What is a characteristic of Ho’s job?",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "Ho的工作有什么特点？"
+    },
+    {
+     "s": "So, being an adult isn’t just holding a job.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "所以，成为成年人不仅仅是有一份工作。"
+    },
+    {
+     "s": "That’s my job.”",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这是我的工作。”"
+    },
+    {
+     "s": "What does Miss Johnson think is the best part of her job?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "约翰逊小姐认为她工作中最好的部分是什么？"
+    },
+    {
+     "s": "What does the woman say about her job?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位女士怎么评价她的工作？"
+    },
+    {
+     "s": "*Start your job search by clicking “Jobs” button.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "*点击\"Jobs\"按钮开始职位搜索。"
+    },
+    {
+     "s": "*Fill out desired information:location, job type, etc",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "*填写期望的信息：地点、工作类型等"
+    },
+    {
+     "s": "If, at a later date, you wish to apply for a job or graduate school where an official copy of your UCLA record is required, it will be to your advantage to provide an impressive academic record.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
+    },
+    {
+     "s": "He lacks experience in his job.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他缺乏工作经验。"
+    },
+    {
+     "s": "Why did John quit his part-time job?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "John为什么辞去兼职工作？"
+    },
+    {
+     "s": "In the experiment, Goffin’s cockatoos were able to select the right tool for the job, in most cases, by visual recognition alone.",
+     "src": "2022全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在实验中，Goffin的cockatoos能够选择合适的工作工具，在大多数情况下仅通过视觉识别。"
+    },
+    {
+     "s": "The firm went broke and left her looking for a new job.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "公司破产了，她不得不找一份新工作。"
+    },
+    {
+     "s": "It was her first road trip to her new job.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Merebeth的宠物运送服务也满足了她的漫游癖。"
+    },
+    {
+     "s": "Why did Merebeth changed her job?",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Merebeth为什么换了工作？"
+    },
+    {
+     "s": "What can we learn about Merebeth in her new job?",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "关于梅雷贝斯的新工作我们能了解到什么？"
+    },
+    {
+     "s": "a has a natural talent for his job.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "a对他的工作有天生的才能。"
+    },
+    {
+     "s": "“A lot of skills are needed for the job.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "\"这项工作需要很多技能。"
+    },
+    {
+     "s": "He forgets to do his job.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他忘了做他的工作。"
+    },
+    {
+     "s": "But Bonds doesn't believe a robot is right for the job.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "但邦兹不认为机器人适合这份工作。"
+    },
+    {
+     "s": "33   Running the website has almost turned into a full-time job.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "33   运营这个网站几乎变成了一份全职工作。"
+    },
+    {
+     "s": "At home, my dad said, \"A job’s a big step to growing up.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在家里，父亲说：“工作是人成长的一大步。”"
+    },
+    {
+     "s": "Which job requires a driver's license?",
+     "src": "2021天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "哪份工作需要驾照？"
+    },
+    {
+     "s": "Which of the following is TRUE about the Lancaster Design job?",
+     "src": "2021天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "关于Lancaster Design这份工作，以下哪项为真？"
+    },
+    {
+     "s": "He had just lost his job.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他刚刚失业了。"
+    },
+    {
+     "s": "Why does Cathy want to quit her job？",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么Cathy想辞职？"
+    },
+    {
+     "s": "Your Tough Job Might Help Keep You Sharp",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你的高强度工作可能有助你保持思维敏捷"
+    },
+    {
+     "s": "He's still hesitating about whether to take the job.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他仍在犹豫要不要接受这份工作。"
+    },
+    {
+     "s": "What benefits Mary most in her job？",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "玛丽的工作中什么让她受益最大？"
+    },
+    {
+     "s": "Why would David quit his job?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "大卫为什么要辞职？"
+    },
+    {
+     "s": "Motivation is what you need most to do a good job.",
+     "src": "2019全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "动力是你做好一份工作最需要的东西。"
+    },
+    {
+     "s": "What benefits Mary most in her job？",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "玛丽的工作中什么让她受益最大？"
+    },
+    {
+     "s": "He is pleased with his job.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他觉得他的办公室对他来说太大了。"
+    },
+    {
+     "s": "The woman should work harder from now on if she wants to get the job.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果她想得到这份工作，就应该从现在起更加努力工作。"
+    },
+    {
+     "s": "It is difficult for people to find a job.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人们很难找到工作。"
+    },
+    {
+     "s": "The man still has got a job.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那名男子仍有工作。"
+    },
+    {
+     "s": "She speaks Italian well enough for her job.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她的意大利语水平足以胜任工作。"
+    },
+    {
+     "s": "Playing in a band is not a job.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "在乐队里演奏不是一份工作。"
+    },
+    {
+     "s": "Doing teaching jobs.",
+     "src": "2023全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从事教学工作。"
+    },
+    {
+     "s": "At 23, I applied for my first job and it was not successful.",
+     "src": "2024天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "23岁时，我申请了第一份工作，但没有成功。"
+    },
+    {
+     "s": "When you’re a teacher, a big part of your job is battling student misconceptions.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "当你是老师时，工作很大一部分在于纠正学生的错误观念。"
+    },
+    {
+     "s": "Over several hours he would tell me about how he had   45   a two-year professional school to quickly find a job   46   highways in order to help support his family.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "几个小时内，他会向我讲述他如何45了一所两年的职业学校，以便尽快找到一份46修路的工作，从而帮着养家。",
+     "_matched": true
+    },
+    {
+     "s": "Looking for a job on Handshake",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在Handshake上找工作"
+    },
+    {
+     "s": "How did the summer job benefit the author?",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "暑期工作给作者带来了什么好处？"
+    },
+    {
+     "s": "Experience unrelated to your job is useless.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "与工作无关的经历是无用的。"
+    },
+    {
+     "s": "My job is to keep them calm and informed.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我的工作是让他们保持冷静和信息畅通。"
+    },
+    {
+     "s": "What does the author’s job involve?",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者的工作包括什么？"
+    },
+    {
+     "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
+    },
+    {
+     "s": "Which of the following best describes Titterton’s job on stage?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "以下哪项最能描述蒂特顿在台上的工作？"
+    },
+    {
+     "s": "Job for You!",
+     "src": "2021天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "工作机会！"
+    },
+    {
+     "s": "looking for a new job",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "寻找一份新工作"
+    },
+    {
+     "s": "At 21, I landed a job at a big insurance company out of my business degree.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "21岁时，凭借商科学位，我在一家大型保险公司谋得一份工作。"
+    },
+    {
+     "s": "Her dad worked at a job away from the farm, and her mother ran the farm with the kids.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她父亲在农场以外的地方工作，母亲和孩子们一起经营农场。"
+    },
+    {
+     "s": "To find a well-paid job there.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在那里找一份高薪工作。"
+    },
+    {
+     "s": "Decline the job offer.",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "拒绝这份工作录用。"
+    },
+    {
+     "s": "In the movie Mission Impossible, Tom Cruise made being a secret agent seem like the coolest job ever.",
+     "src": "2020全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在电影《碟中谍》里，汤姆·克鲁斯让做特工看起来像是有史以来最酷的工作。"
+    },
+    {
+     "s": "Decline the job offer.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "拒绝这份工作录用。"
+    },
+    {
+     "s": "Hunters bring in more than 300,000 nutria tails a year, so part of Mouton’s job these days is trying to promote fur.",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "猎人每年带回超过30万条海狸鼠的尾巴，所以穆顿如今工作的一部分就是试图推广毛皮。"
+    },
+    {
+     "s": "My first job was working at the Ukiah Library when I was 16 years old .It was a dream job and I did everything from shelving books to reading to the children for story time.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的第一份工作是16岁时在尤凯亚图书馆工作。那是份梦想中的工作，从图书上架到故事时间给孩子们读书，我什么都做。"
+    },
+    {
+     "s": "Need a Job This Summer?",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "今年夏天需要工作吗？"
+    },
+    {
+     "s": "Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "访问政府网站，了解可帮助30岁以下人群提升技能、找工作或全年创业的项目和在线工具。"
+    },
+    {
+     "s": "Since I was a kid, I`ve considered different job I would like to do.",
+     "src": "2019全国II卷·第四部分  写作",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "从我还是个孩子起，我就考虑过我想从事的不同工作。"
+    },
+    {
+     "s": "It's difficult for the woman to get the job if she takes the interview.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果这位女士想得到这份工作，她从现在起应该更加努力。"
+    },
+    {
+     "s": "The woman can get the job if she takes the interview.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "女性如果接受面试，可以得到工作。"
+    },
+    {
+     "s": "The woman has less chance to get the job than others.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这位女士得到这份工作的机会比别人小。"
+    },
+    {
+     "s": "It’s Jason Moran’s job to help change that.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "帮助改变这一现状正是杰森·莫兰的工作。"
+    },
+    {
+     "s": "To find a better job in Italy.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为了在意大利找到更好的工作。"
+    },
+    {
+     "s": "Lily rejected a job offer",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "莉莉拒绝了一份工作邀请"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a particular task or piece of work that you have to do （一项）任务；（一件）工作，活儿，事情",
+   "ex": [
     {
-      "def": "work for which you receive regular payment 工作；职业；职位",
-      "ex": [
-        {
-          "s": "It generates jobs for the locals.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它为当地人创造了就业机会。"
-        },
-        {
-          "s": "It is creating new jobs.",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它正在创造新的就业机会。",
-          "_matched": true
-        },
-        {
-          "s": "Over the years, John has taken on many big jobs.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这些年来，约翰承担了许多大型工作。"
-        },
-        {
-          "s": "To compare John’s different jobs.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为了比较约翰的不同工作。"
-        },
-        {
-          "s": "With a Handshake account, students can receive information about career events and personalized job recommendations.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "有了Handshake账户，学生可以接收职业活动信息和个性化的工作推荐。"
-        },
-        {
-          "s": "2 jobs, each with 16 hours per week.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "2份工作，每份16小时/周。"
-        },
-        {
-          "s": "3 jobs, each with 2 hours per week.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "3份工作，每份2小时/周。"
-        },
-        {
-          "s": "To provide part-time jobs for the aged.",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为老年人提供兼职工作。"
-        },
-        {
-          "s": "try various jobs.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "尝试各种工作。"
-        },
-        {
-          "s": "Simpler jobs require greater caution.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "简单的工作需要更加谨慎。"
-        },
-        {
-          "s": "Jennifer received great support from her family as she worked to earn her degree: Her husband worked two jobs to cover the bills, and her 68-year-old mother helped take care of the children at times.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "珍妮弗在努力攻读学位的过程中得到了家人的大力支持：她的丈夫打两份工来支付账单她68岁的母亲有时帮忙照看孩子。"
-        },
-        {
-          "s": "As the economy was in decline, some people in the town had lost their jobs.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于经济衰退，镇上的一些人已经失去了工作。"
-        },
-        {
-          "s": "As the economy was in decline, some people in the town had lost their jobs.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于经济衰退，镇上的一些人已经失去了工作。"
-        },
-        {
-          "s": "Old People Should Take Challenging Jobs",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "老年人应该从事挑战性的工作"
-        },
-        {
-          "s": "The provincial government and its partners offer many programs to help students find summer jobs.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "省政府及其合作伙伴提供许多项目来帮助学生找到暑期工作。"
-        },
-        {
-          "s": "Jobs for Youth",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "青年就业项目"
-        },
-        {
-          "s": "Jobs for Youth.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "青年就业项目。"
-        },
-        {
-          "s": "prepare students for their future jobs",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "使学生为将来的工作做好准备;"
-        },
-        {
-          "s": "To provide part﹣time jobs for students．",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．为学生提供兼职工作。"
-        },
-        {
-          "s": "To look for jobs in aviation.",
-          "src": "2018北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "寻找航空业的工作。"
-        },
-        {
-          "s": "What is a characteristic of Ho’s job?",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Ho的工作有什么特点？"
-        },
-        {
-          "s": "So, being an adult isn’t just holding a job.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "所以，成为成年人不仅仅是有一份工作。"
-        },
-        {
-          "s": "That’s my job.”",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这是我的工作。”"
-        },
-        {
-          "s": "What does Miss Johnson think is the best part of her job?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "约翰逊小姐认为她工作中最好的部分是什么？"
-        },
-        {
-          "s": "What does the woman say about her job?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位女士怎么评价她的工作？"
-        },
-        {
-          "s": "*Start your job search by clicking “Jobs” button.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "*点击\"Jobs\"按钮开始职位搜索。"
-        },
-        {
-          "s": "*Fill out desired information:location, job type, etc",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "*填写期望的信息：地点、工作类型等"
-        },
-        {
-          "s": "If, at a later date, you wish to apply for a job or graduate school where an official copy of your UCLA record is required, it will be to your advantage to provide an impressive academic record.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
-        },
-        {
-          "s": "He lacks experience in his job.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他缺乏工作经验。"
-        },
-        {
-          "s": "Why did John quit his part-time job?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "John为什么辞去兼职工作？"
-        },
-        {
-          "s": "In the experiment, Goffin’s cockatoos were able to select the right tool for the job, in most cases, by visual recognition alone.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在实验中，Goffin的cockatoos能够选择合适的工作工具，在大多数情况下仅通过视觉识别。"
-        },
-        {
-          "s": "The firm went broke and left her looking for a new job.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "公司破产了，她不得不找一份新工作。"
-        },
-        {
-          "s": "It was her first road trip to her new job.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Merebeth的宠物运送服务也满足了她的漫游癖。"
-        },
-        {
-          "s": "Why did Merebeth changed her job?",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Merebeth为什么换了工作？"
-        },
-        {
-          "s": "What can we learn about Merebeth in her new job?",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于梅雷贝斯的新工作我们能了解到什么？"
-        },
-        {
-          "s": "a has a natural talent for his job.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "a对他的工作有天生的才能。"
-        },
-        {
-          "s": "“A lot of skills are needed for the job.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "\"这项工作需要很多技能。"
-        },
-        {
-          "s": "He forgets to do his job.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他忘了做他的工作。"
-        },
-        {
-          "s": "But Bonds doesn't believe a robot is right for the job.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但邦兹不认为机器人适合这份工作。"
-        },
-        {
-          "s": "33   Running the website has almost turned into a full-time job.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "33   运营这个网站几乎变成了一份全职工作。"
-        },
-        {
-          "s": "At home, my dad said, \"A job’s a big step to growing up.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在家里，父亲说：“工作是人成长的一大步。”"
-        },
-        {
-          "s": "Which job requires a driver's license?",
-          "src": "2021天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "哪份工作需要驾照？"
-        },
-        {
-          "s": "Which of the following is TRUE about the Lancaster Design job?",
-          "src": "2021天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "关于Lancaster Design这份工作，以下哪项为真？"
-        },
-        {
-          "s": "He had just lost his job.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他刚刚失业了。"
-        },
-        {
-          "s": "Why does Cathy want to quit her job？",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么Cathy想辞职？"
-        },
-        {
-          "s": "Your Tough Job Might Help Keep You Sharp",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你的高强度工作可能有助你保持思维敏捷"
-        },
-        {
-          "s": "He's still hesitating about whether to take the job.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他仍在犹豫要不要接受这份工作。"
-        },
-        {
-          "s": "What benefits Mary most in her job？",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "玛丽的工作中什么让她受益最大？"
-        },
-        {
-          "s": "Why would David quit his job?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "大卫为什么要辞职？"
-        },
-        {
-          "s": "Motivation is what you need most to do a good job.",
-          "src": "2019全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "动力是你做好一份工作最需要的东西。"
-        },
-        {
-          "s": "What benefits Mary most in her job？",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "玛丽的工作中什么让她受益最大？"
-        },
-        {
-          "s": "He is pleased with his job.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他觉得他的办公室对他来说太大了。"
-        },
-        {
-          "s": "The woman should work harder from now on if she wants to get the job.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果她想得到这份工作，就应该从现在起更加努力工作。"
-        },
-        {
-          "s": "It is difficult for people to find a job.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们很难找到工作。"
-        },
-        {
-          "s": "The man still has got a job.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那名男子仍有工作。"
-        },
-        {
-          "s": "She speaks Italian well enough for her job.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她的意大利语水平足以胜任工作。"
-        },
-        {
-          "s": "Playing in a band is not a job.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "在乐队里演奏不是一份工作。"
-        },
-        {
-          "s": "Doing teaching jobs.",
-          "src": "2023全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从事教学工作。"
-        },
-        {
-          "s": "At 23, I applied for my first job and it was not successful.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "23岁时，我申请了第一份工作，但没有成功。"
-        },
-        {
-          "s": "When you’re a teacher, a big part of your job is battling student misconceptions.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "当你是老师时，工作很大一部分在于纠正学生的错误观念。"
-        },
-        {
-          "s": "Over several hours he would tell me about how he had   45   a two-year professional school to quickly find a job   46   highways in order to help support his family.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "几个小时内，他会向我讲述他如何45了一所两年的职业学校，以便尽快找到一份46修路的工作，从而帮着养家。",
-          "_matched": true
-        },
-        {
-          "s": "Looking for a job on Handshake",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在Handshake上找工作"
-        },
-        {
-          "s": "How did the summer job benefit the author?",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "暑期工作给作者带来了什么好处？"
-        },
-        {
-          "s": "Experience unrelated to your job is useless.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "与工作无关的经历是无用的。"
-        },
-        {
-          "s": "My job is to keep them calm and informed.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我的工作是让他们保持冷静和信息畅通。"
-        },
-        {
-          "s": "What does the author’s job involve?",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者的工作包括什么？"
-        },
-        {
-          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
-        },
-        {
-          "s": "Which of the following best describes Titterton’s job on stage?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "以下哪项最能描述蒂特顿在台上的工作？"
-        },
-        {
-          "s": "Job for You!",
-          "src": "2021天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "工作机会！"
-        },
-        {
-          "s": "looking for a new job",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "寻找一份新工作"
-        },
-        {
-          "s": "At 21, I landed a job at a big insurance company out of my business degree.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "21岁时，凭借商科学位，我在一家大型保险公司谋得一份工作。"
-        },
-        {
-          "s": "Her dad worked at a job away from the farm, and her mother ran the farm with the kids.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她父亲在农场以外的地方工作，母亲和孩子们一起经营农场。"
-        },
-        {
-          "s": "To find a well-paid job there.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在那里找一份高薪工作。"
-        },
-        {
-          "s": "Decline the job offer.",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "拒绝这份工作录用。"
-        },
-        {
-          "s": "In the movie Mission Impossible, Tom Cruise made being a secret agent seem like the coolest job ever.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在电影《碟中谍》里，汤姆·克鲁斯让做特工看起来像是有史以来最酷的工作。"
-        },
-        {
-          "s": "Decline the job offer.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "拒绝这份工作录用。"
-        },
-        {
-          "s": "Hunters bring in more than 300,000 nutria tails a year, so part of Mouton’s job these days is trying to promote fur.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "猎人每年带回超过30万条海狸鼠的尾巴，所以穆顿如今工作的一部分就是试图推广毛皮。"
-        },
-        {
-          "s": "My first job was working at the Ukiah Library when I was 16 years old .It was a dream job and I did everything from shelving books to reading to the children for story time.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的第一份工作是16岁时在尤凯亚图书馆工作。那是份梦想中的工作，从图书上架到故事时间给孩子们读书，我什么都做。"
-        },
-        {
-          "s": "Need a Job This Summer?",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "今年夏天需要工作吗？"
-        },
-        {
-          "s": "Go to the government website to learn about programs and online tools available to help people under 30 build skills, find a job or start businesses all year round.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "访问政府网站，了解可帮助30岁以下人群提升技能、找工作或全年创业的项目和在线工具。"
-        },
-        {
-          "s": "Since I was a kid, I`ve considered different job I would like to do.",
-          "src": "2019全国II卷·第四部分  写作",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "从我还是个孩子起，我就考虑过我想从事的不同工作。"
-        },
-        {
-          "s": "It's difficult for the woman to get the job if she takes the interview.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果这位女士想得到这份工作，她从现在起应该更加努力。"
-        },
-        {
-          "s": "The woman can get the job if she takes the interview.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "女性如果接受面试，可以得到工作。"
-        },
-        {
-          "s": "The woman has less chance to get the job than others.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这位女士得到这份工作的机会比别人小。"
-        },
-        {
-          "s": "It’s Jason Moran’s job to help change that.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "帮助改变这一现状正是杰森·莫兰的工作。"
-        },
-        {
-          "s": "To find a better job in Italy.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为了在意大利找到更好的工作。"
-        },
-        {
-          "s": "Lily rejected a job offer",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "莉莉拒绝了一份工作邀请"
-        }
-      ]
+     "s": "Her interest in a challenging job.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她对一项富有挑战性工作的兴趣。"
     },
     {
-      "def": "a particular task or piece of work that you have to do （一项）任务；（一件）工作，活儿，事情",
-      "ex": [
-        {
-          "s": "Her interest in a challenging job.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她对一项富有挑战性工作的兴趣。"
-        },
-        {
-          "s": "The researchers believe that the findings could help technology companies develop better machines that use air to do their jobs, as suction has long been used in robotics to grab objects.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "研究人员认为这些发现可以帮助技术公司开发更好的利用空气工作的机器，因为吸力长期以来一直被用于机器人技术来抓取物体。"
-        },
-        {
-          "s": "It's not just corporate jobs, or even paid work that can help keep your brain fit, Then points out.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不只是公司工作，甚至付费工作才能帮助你保持大脑健康，滕指出。"
-        },
-        {
-          "s": "What is even more interesting is that one of Stein's jobs is defending an industry behind the plastic shopping bags.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "更有趣的是，斯坦的工作之一是为塑料购物袋背后的产业辩护。"
-        },
-        {
-          "s": "I learned that Freddy did several jobs after his   52    from high school and remained the same  53    person I met forty years before.",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我得知弗雷迪高中   52   后做过几份工作，仍是四十年前我遇到的那个   53   的人。"
-        },
-        {
-          "s": "If your child sees you enjoying your work and taking pride in a job well done, they’re far more likely to do the same.",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果你的孩子看到你享受工作并为把事情做好感到自豪，他们也更有可能这样做。"
-        },
-        {
-          "s": "Now, I’m living out that dream indirectly by helping the panda keepers do their job in English.",
-          "src": "2023新课标II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "现在，我通过帮助熊猫饲养员用英语开展工作，间接实现了那个梦想。"
-        },
-        {
-          "s": "You have a job, earned your degree, and you got out of bed today.",
-          "src": "2020全国I卷·A Few Tips for Self-Acceptance",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你有工作，拿到了学位，而且今天你起了床。"
-        },
-        {
-          "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在成为许多英国街道的重要组成部分后，电话亭在1980年代开始消失，随着手机的兴起，大多数被送到了废品收购站。"
-        },
-        {
-          "s": "A waiter’s job, for example, that requires multitasking, teamwork and decision-making could be just as stimulating as any high-level office work.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例如，服务员的工作需要多任务处理、团队合作和决策，可能和任何高级办公室工作一样具有刺激性。"
-        },
-        {
-          "s": "He said without the job, he would   49   have too much time and would just do what I did back in  50  .He said that if he   51   the job, he would lose his   52  to work and succeed.",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他说如果没有这份工作，他____49____会有太多时间，只会像我当年在____50____时那样做事。他说如果他____51____失去这份工作，他就会失去工作和成功的____52____。"
-        },
-        {
-          "s": "People have been approaching him in the street; he’s had job    34    and all sorts,” Mr Anderson commented.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们在大街上找他搭话；他有了工作____34____和各种各样的事，”安德森先生评论道。"
-        },
-        {
-          "s": "With millions of people likely to take on DIY projects over that coming weeks, new research shows that more than half of people are planning to make the most of the long, warm summer days to get jobs done.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "数以百万计的人可能在接下来的几周里动手做DIY项目，新的研究显示，超过一半的人打算利用漫长而温暖的夏日把活干完。"
-        },
-        {
-          "s": "One of the best things about this job is that you can observe animals in their natural environment.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "这项工作的最好之处之一是，您可以在自然环境中观察动物。"
-        }
-      ]
+     "s": "The researchers believe that the findings could help technology companies develop better machines that use air to do their jobs, as suction has long been used in robotics to grab objects.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "研究人员认为这些发现可以帮助技术公司开发更好的利用空气工作的机器，因为吸力长期以来一直被用于机器人技术来抓取物体。"
     },
     {
-      "def": "a responsibility or duty 责任；职责",
-      "ex": [
-        {
-          "s": "They should emphasize these skills when applying for jobs that require the ability to multitask.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "申请人的简历列出任何涉及团队合作和目标导向责任的活动很重要。"
-        },
-        {
-          "s": "It’s also our job to support adults who need help repairing incomplete life cycles.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "支持那些需要帮助以修复不完整生命周期的成年人，也是我们的职责。"
-        }
-      ]
+     "s": "It's not just corporate jobs, or even paid work that can help keep your brain fit, Then points out.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "不只是公司工作，甚至付费工作才能帮助你保持大脑健康，滕指出。"
     },
     {
-      "def": "a crime, especially stealing 犯罪行为（尤指偷窃）",
-      "ex": []
+     "s": "What is even more interesting is that one of Stein's jobs is defending an industry behind the plastic shopping bags.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "更有趣的是，斯坦的工作之一是为塑料购物袋背后的产业辩护。"
     },
     {
-      "def": "a particular kind of thing 东西；物件",
-      "ex": []
+     "s": "I learned that Freddy did several jobs after his   52    from high school and remained the same  53    person I met forty years before.",
+     "src": "2017全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我得知弗雷迪高中   52   后做过几份工作，仍是四十年前我遇到的那个   53   的人。"
     },
     {
-      "def": "an item of work which is done by a computer as a single unit （作为一个单元处理的）作业，工作",
-      "ex": [
-        {
-          "s": "attend job trainingD. set up a new email account",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "参加工作培训 D. 建立一个新的邮箱账户"
-        },
-        {
-          "s": "Finally, an attractive quality when job-hunting is a great attitude toward potential job.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "最后，求职时一个有吸引力的特质是对潜在工作的良好态度。"
-        },
-        {
-          "s": "I learned this lesson from a（n）（2）     many years ago． I took the head（3）     job at a school in Baxley， Georgia． It was a small school with a weak football program．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "多年前我从一个（2）___学到了这一课。我在佐治亚州巴克斯特的一所学校担任主（3）___的工作。那是一所橄榄球项目薄弱的小学校。"
-        },
-        {
-          "s": "High conscientiousness is related to lower job performance, especially in simple jobs where it doesn’t pay to be a perfectionist.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "高度的责任心与较低的工作绩效有关，特别是在简单的工作中，作为一个完美主义者是不需要付出代价的。"
-        },
-        {
-          "s": "The Moldovan has lived here seven years as a caregiver to Italian kids and the elderly, but in order to stay she’s had to prove her language skills by taking a test which requires her to write a postcard to an imaginary friend and answer a fictional job ad.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位摩尔多瓦人作为意大利孩子和老人的照护者已在这里住了七年，但为了留下来，她必须通过一项测试来证明自己的语言能力——测试要求她给一个想象中的朋友写明信片，并回复一则虚构的招聘广告。"
-        },
-        {
-          "s": "Months later, after a job interview at another company, I got a call From the manager.",
-          "src": "2024天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "几个月后，在另一家公司面试之后，我接到了经理的电话。"
-        },
-        {
-          "s": "I learned that Freddy did several jobs after his   52    from high school and remained the same  53    person I met forty years before .Once, while working overnight at a store, he let a homeless man   54   in his truck .",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我了解到弗雷迪高中____后做过几份工作，并且仍然是我四十年前认识的那个____53____的人。有一次，他在商店通宵工作时，让一个无家可归的人____54____在他的卡车里。"
-        },
-        {
-          "s": "Handshake is an online job search platform for college students.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "Handshake是一个面向大学生的在线求职平台。"
-        },
-        {
-          "s": "Two hours before my husband came back home from another job interview, my daughter climbed up to grab a glass vase from a high shelf.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在我丈夫又一次面试回家前两小时，我女儿爬上去够高处架子上的一个玻璃花瓶。"
-        },
-        {
-          "s": "After struggling for quite a while, I made a difficult decision—leaving my job and studying my design course full time.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "挣扎了相当一段时间后，我做了一个艰难的决定——辞职并全日制攻读设计课程。"
-        },
-        {
-          "s": "Young job seekers are known to be overconfident because they have been praised for everything they have done.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "年轻的求职者以过度自信著称，因为他们所做的一切都受到过赞扬。"
-        },
-        {
-          "s": "I knew I had done a good job and was looking forward to getting a positive comment.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "我知道我做得很好，并期待得到积极的评论。"
-        },
-        {
-          "s": "Somehow I couldn’t do it myself, so I went around and got a plain clothes man to do the job.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "在亚洲文化中，笑容可以遮掩脆弱的情绪，避免让别人为自己担心。"
-        },
-        {
-          "s": "Job requirements Being a wildlife photographer requires good photography skills, knowledge of animal behaviour and a lot of patience.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "工作要求作为一名野生动物摄影师，需要具备良好的摄影技巧、动物行为知识和充足的耐心。"
-        },
-        {
-          "s": "In fact, in an interview, an important question to ask is: “ What would be expected of me as an employee?” In today's tough 'job market, young job seekers need to provide a potential employer with good reasons to hire them.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "事实上，在面试中，一个要问的重要问题是：“作为雇员，我会被期望做什么？”在当今严峻的就业市场中，年轻的求职者需要向潜在雇主提供充分的理由来雇用他们。"
-        }
-      ]
+     "s": "If your child sees you enjoying your work and taking pride in a job well done, they’re far more likely to do the same.",
+     "src": "2026新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "如果你的孩子看到你享受工作并为把事情做好感到自豪，他们也更有可能这样做。"
     },
     {
-      "def": "while doing a particular job 在上班时；在干活时；在工作岗位上",
-      "ex": [
-        {
-          "s": "On-campus jobs available for students",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "面向学生的校内工作岗位"
-        },
-        {
-          "s": "People doing different jobs should wear different clothes",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从事不同工作的人应该穿不同的衣服"
-        },
-        {
-          "s": "She had prepared lots of snacks, while my job was to have the backyard in order.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "社会比较会使我们陷入情绪困扰",
-          "_matched": true
-        },
-        {
-          "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
-        },
-        {
-          "s": "He thinks men can do the job better.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他认为男人能做得更好。"
-        },
-        {
-          "s": "Make the job more appealing.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "防止牛被盗。"
-        },
-        {
-          "s": "Her mother, Solio, is a first-time mum and she is doing a fantastic job.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "她的母亲索利奥是第一次当妈妈，而且做得非常棒。"
-        },
-        {
-          "s": "Conducting a job interview.",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "进行一场求职面试。"
-        },
-        {
-          "s": "It offers more summer job opportunities.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "它提供了更多的夏季就业机会。"
-        },
-        {
-          "s": "Conducting a job interview.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "进行一场求职面试。"
-        },
-        {
-          "s": "The 2008 financial crisis created an unstable job market.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "2008年金融危机造成了不稳定的就业市场。"
-        },
-        {
-          "s": "Thus, it's of vital importance for job seekers to carefully strategize their approach to job application.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们应该尽可能让自己对雇主具有吸引力。"
-        }
-      ]
+     "s": "Now, I’m living out that dream indirectly by helping the panda keepers do their job in English.",
+     "src": "2023新课标II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "现在，我通过帮助熊猫饲养员用英语开展工作，间接实现了那个梦想。"
     },
     {
-      "def": "having sex 在交媾；在性交；在干那事",
-      "ex": []
+     "s": "You have a job, earned your degree, and you got out of bed today.",
+     "src": "2020全国I卷·A Few Tips for Self-Acceptance",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你有工作，拿到了学位，而且今天你起了床。"
+    },
+    {
+     "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在成为许多英国街道的重要组成部分后，电话亭在1980年代开始消失，随着手机的兴起，大多数被送到了废品收购站。"
+    },
+    {
+     "s": "A waiter’s job, for example, that requires multitasking, teamwork and decision-making could be just as stimulating as any high-level office work.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例如，服务员的工作需要多任务处理、团队合作和决策，可能和任何高级办公室工作一样具有刺激性。"
+    },
+    {
+     "s": "He said without the job, he would   49   have too much time and would just do what I did back in  50  .He said that if he   51   the job, he would lose his   52  to work and succeed.",
+     "src": "2018浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他说如果没有这份工作，他____49____会有太多时间，只会像我当年在____50____时那样做事。他说如果他____51____失去这份工作，他就会失去工作和成功的____52____。"
+    },
+    {
+     "s": "People have been approaching him in the street; he’s had job    34    and all sorts,” Mr Anderson commented.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人们在大街上找他搭话；他有了工作____34____和各种各样的事，”安德森先生评论道。"
+    },
+    {
+     "s": "With millions of people likely to take on DIY projects over that coming weeks, new research shows that more than half of people are planning to make the most of the long, warm summer days to get jobs done.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "数以百万计的人可能在接下来的几周里动手做DIY项目，新的研究显示，超过一半的人打算利用漫长而温暖的夏日把活干完。"
+    },
+    {
+     "s": "One of the best things about this job is that you can observe animals in their natural environment.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "这项工作的最好之处之一是，您可以在自然环境中观察动物。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a responsibility or duty 责任；职责",
+   "ex": [
     {
-      "en": "new job",
-      "cn": "新工作",
-      "type": "名词短语",
-      "count": 5
+     "s": "They should emphasize these skills when applying for jobs that require the ability to multitask.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "申请人的简历列出任何涉及团队合作和目标导向责任的活动很重要。"
     },
     {
-      "en": "job interview",
-      "cn": "求职面试",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "different jobs",
-      "cn": "不同的工作",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "job offer",
-      "cn": "工作录用通知",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "job seekers",
-      "cn": "求职者",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "fictional job",
-      "cn": "虚构的工作",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "first job",
-      "cn": "第一份工作",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "find a job",
-      "cn": "找到工作",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "get the job",
-      "cn": "得到工作",
-      "type": "动词短语",
-      "count": 4
+     "s": "It’s also our job to support adults who need help repairing incomplete life cycles.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "支持那些需要帮助以修复不完整生命周期的成年人，也是我们的职责。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a crime, especially stealing 犯罪行为（尤指偷窃）",
+   "ex": []
+  },
+  {
+   "def": "a particular kind of thing 东西；物件",
+   "ex": []
+  },
+  {
+   "def": "an item of work which is done by a computer as a single unit （作为一个单元处理的）作业，工作",
+   "ex": [
+    {
+     "s": "attend job trainingD. set up a new email account",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "参加工作培训 D. 建立一个新的邮箱账户"
+    },
+    {
+     "s": "Finally, an attractive quality when job-hunting is a great attitude toward potential job.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "最后，求职时一个有吸引力的特质是对潜在工作的良好态度。"
+    },
+    {
+     "s": "I learned this lesson from a（n）（2）     many years ago． I took the head（3）     job at a school in Baxley， Georgia． It was a small school with a weak football program．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "多年前我从一个（2）___学到了这一课。我在佐治亚州巴克斯特的一所学校担任主（3）___的工作。那是一所橄榄球项目薄弱的小学校。"
+    },
+    {
+     "s": "High conscientiousness is related to lower job performance, especially in simple jobs where it doesn’t pay to be a perfectionist.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "高度的责任心与较低的工作绩效有关，特别是在简单的工作中，作为一个完美主义者是不需要付出代价的。"
+    },
+    {
+     "s": "The Moldovan has lived here seven years as a caregiver to Italian kids and the elderly, but in order to stay she’s had to prove her language skills by taking a test which requires her to write a postcard to an imaginary friend and answer a fictional job ad.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位摩尔多瓦人作为意大利孩子和老人的照护者已在这里住了七年，但为了留下来，她必须通过一项测试来证明自己的语言能力——测试要求她给一个想象中的朋友写明信片，并回复一则虚构的招聘广告。"
+    },
+    {
+     "s": "Months later, after a job interview at another company, I got a call From the manager.",
+     "src": "2024天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "几个月后，在另一家公司面试之后，我接到了经理的电话。"
+    },
+    {
+     "s": "I learned that Freddy did several jobs after his   52    from high school and remained the same  53    person I met forty years before .Once, while working overnight at a store, he let a homeless man   54   in his truck .",
+     "src": "2017重庆卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我了解到弗雷迪高中____后做过几份工作，并且仍然是我四十年前认识的那个____53____的人。有一次，他在商店通宵工作时，让一个无家可归的人____54____在他的卡车里。"
+    },
+    {
+     "s": "Handshake is an online job search platform for college students.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "Handshake是一个面向大学生的在线求职平台。"
+    },
+    {
+     "s": "Two hours before my husband came back home from another job interview, my daughter climbed up to grab a glass vase from a high shelf.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在我丈夫又一次面试回家前两小时，我女儿爬上去够高处架子上的一个玻璃花瓶。"
+    },
+    {
+     "s": "After struggling for quite a while, I made a difficult decision—leaving my job and studying my design course full time.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "挣扎了相当一段时间后，我做了一个艰难的决定——辞职并全日制攻读设计课程。"
+    },
+    {
+     "s": "Young job seekers are known to be overconfident because they have been praised for everything they have done.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "年轻的求职者以过度自信著称，因为他们所做的一切都受到过赞扬。"
+    },
+    {
+     "s": "I knew I had done a good job and was looking forward to getting a positive comment.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "我知道我做得很好，并期待得到积极的评论。"
+    },
+    {
+     "s": "Somehow I couldn’t do it myself, so I went around and got a plain clothes man to do the job.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "在亚洲文化中，笑容可以遮掩脆弱的情绪，避免让别人为自己担心。"
+    },
+    {
+     "s": "Job requirements Being a wildlife photographer requires good photography skills, knowledge of animal behaviour and a lot of patience.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "工作要求作为一名野生动物摄影师，需要具备良好的摄影技巧、动物行为知识和充足的耐心。"
+    },
+    {
+     "s": "In fact, in an interview, an important question to ask is: “ What would be expected of me as an employee?” In today's tough 'job market, young job seekers need to provide a potential employer with good reasons to hire them.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "事实上，在面试中，一个要问的重要问题是：“作为雇员，我会被期望做什么？”在当今严峻的就业市场中，年轻的求职者需要向潜在雇主提供充分的理由来雇用他们。"
+    }
+   ]
+  },
+  {
+   "def": "while doing a particular job 在上班时；在干活时；在工作岗位上",
+   "ex": [
+    {
+     "s": "On-campus jobs available for students",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "面向学生的校内工作岗位"
+    },
+    {
+     "s": "People doing different jobs should wear different clothes",
+     "src": "2017浙江11月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "从事不同工作的人应该穿不同的衣服"
+    },
+    {
+     "s": "She had prepared lots of snacks, while my job was to have the backyard in order.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "社会比较会使我们陷入情绪困扰",
+     "_matched": true
+    },
+    {
+     "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
+    },
+    {
+     "s": "He thinks men can do the job better.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他认为男人能做得更好。"
+    },
+    {
+     "s": "Make the job more appealing.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "防止牛被盗。"
+    },
+    {
+     "s": "Her mother, Solio, is a first-time mum and she is doing a fantastic job.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "她的母亲索利奥是第一次当妈妈，而且做得非常棒。"
+    },
+    {
+     "s": "Conducting a job interview.",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "进行一场求职面试。"
+    },
+    {
+     "s": "It offers more summer job opportunities.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "它提供了更多的夏季就业机会。"
+    },
+    {
+     "s": "Conducting a job interview.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "进行一场求职面试。"
+    },
+    {
+     "s": "The 2008 financial crisis created an unstable job market.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "2008年金融危机造成了不稳定的就业市场。"
+    },
+    {
+     "s": "Thus, it's of vital importance for job seekers to carefully strategize their approach to job application.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他们应该尽可能让自己对雇主具有吸引力。"
+    }
+   ]
+  },
+  {
+   "def": "having sex 在交媾；在性交；在干那事",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "job interview",
+   "cn": "求职面试",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "different jobs",
+   "cn": "不同的工作",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "job offer",
+   "cn": "工作录用通知",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "fictional job",
+   "cn": "虚构的工作",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "first job",
+   "cn": "第一份工作",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "find a job",
+   "cn": "找到工作",
+   "type": "动词短语",
+   "count": 3
+  },
+  {
+   "en": "get the job",
+   "cn": "得到工作",
+   "type": "动词短语",
+   "count": 4
+  }
+ ]
 }
