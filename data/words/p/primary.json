@@ -1,95 +1,95 @@
 {
-  "meta": {
-    "ph": "ˈpraɪməri; NAmE ˈpraɪmeri",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "ˈpraɪməri; NAmE ˈpraɪmeri",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "main; most important; basic 主要的；最重要的；基本的",
+   "ex": []
   },
-  "defs": [
+  {
+   "def": "developing or happening first; earliest 最初的；最早的",
+   "ex": [
     {
-      "def": "main; most important; basic 主要的；最重要的；基本的",
-      "ex": []
+     "s": "Evidence can come from primary sources, such as original documents and interviews, or secondary sources, such as books and magazines.",
+     "src": "外研社B5 U3",
+     "cat": "waiyan",
+     "t": "证据可以来自一手资料，如原始文件和采访，或来自二手资料，如书籍和杂志。"
     },
     {
-      "def": "developing or happening first; earliest 最初的；最早的",
-      "ex": [
-        {
-          "s": "Evidence can come from primary sources, such as original documents and interviews, or secondary sources, such as books and magazines.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "证据可以来自一手资料，如原始文件和采访，或来自二手资料，如书籍和杂志。"
-        },
-        {
-          "s": "Primary consumers rely on vegetation to provide energy.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "初级消费者依赖植物提供能量。"
-        },
-        {
-          "s": "Secondary consumers prey on primary consumers, as well as eating other animal matter.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "次级消费者捕食初级消费者，也吃其他动物物质。"
-        },
-        {
-          "s": "Insects are an example of a primary consumer.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "昆虫是初级消费者的一个例子。"
-        }
-      ]
+     "s": "Primary consumers rely on vegetation to provide energy.",
+     "src": "外研社B5 U5",
+     "cat": "waiyan",
+     "t": "初级消费者依赖植物提供能量。"
     },
     {
-      "def": "connected with the education of children between the ages of about five and eleven 初等教育的；小学教育的",
-      "ex": [
-        {
-          "s": "In primary school, I learned to write using chalks.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在小学里，我学会了用粉笔写字。"
-        },
-        {
-          "s": "One afternoon where I was in primary school, I was walking by the school playground.",
-          "src": "2019全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一天下午，我在上小学时，正从学校操场旁边走过。"
-        },
-        {
-          "s": "Most of my reading through primary， middle and high school was factual reading． I read for knowledge， and to make A's on my tests． Occasionally， I would read a novel that was assigned， but I didn't enjoy this type of reading． I liked facts， things that are concrete． I thought anything abstract left too much room for argument．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在小学、初中和高中阶段，我的大部分阅读都是事实性阅读。我为获取知识而读，为了在考试中拿A。偶尔，我也会读老师指定的小说，但我并不喜欢这种阅读。我喜欢事实，喜欢具体的东西。我认为任何抽象的事物都留下了太多争论的空间。"
-        },
-        {
-          "s": "On a bright, warm July afternoon, Mac Hollan, a primary school teacher, was cycling from his home to Alaska with his friends.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在一个阳光明媚、温暖的七月下午，小学老师麦克·霍兰正和他的朋友们从家骑车前往阿拉斯加。"
-        },
-        {
-          "s": "After several months, Ryan had raised the $2,000, with which a well was built near a primary school in Uganda.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "几个月后，瑞安筹到了2000美元，用这笔钱在乌干达一所小学附近建了一口井。"
-        }
-      ]
+     "s": "Secondary consumers prey on primary consumers, as well as eating other animal matter.",
+     "src": "外研社B5 U5",
+     "cat": "waiyan",
+     "t": "次级消费者捕食初级消费者，也吃其他动物物质。"
+    },
+    {
+     "s": "Insects are an example of a primary consumer.",
+     "src": "外研社B5 U5",
+     "cat": "waiyan",
+     "t": "昆虫是初级消费者的一个例子。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "connected with the education of children between the ages of about five and eleven 初等教育的；小学教育的",
+   "ex": [
     {
-      "en": "primary school",
-      "cn": "小学",
-      "type": "名词短语",
-      "count": 4
+     "s": "In primary school, I learned to write using chalks.",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在小学里，我学会了用粉笔写字。"
     },
     {
-      "en": "primary consumers",
-      "cn": "主要的",
-      "type": "名词短语",
-      "count": 2
+     "s": "One afternoon where I was in primary school, I was walking by the school playground.",
+     "src": "2019全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一天下午，我在上小学时，正从学校操场旁边走过。"
+    },
+    {
+     "s": "Most of my reading through primary， middle and high school was factual reading． I read for knowledge， and to make A's on my tests． Occasionally， I would read a novel that was assigned， but I didn't enjoy this type of reading． I liked facts， things that are concrete． I thought anything abstract left too much room for argument．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在小学、初中和高中阶段，我的大部分阅读都是事实性阅读。我为获取知识而读，为了在考试中拿A。偶尔，我也会读老师指定的小说，但我并不喜欢这种阅读。我喜欢事实，喜欢具体的东西。我认为任何抽象的事物都留下了太多争论的空间。"
+    },
+    {
+     "s": "On a bright, warm July afternoon, Mac Hollan, a primary school teacher, was cycling from his home to Alaska with his friends.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在一个阳光明媚、温暖的七月下午，小学老师麦克·霍兰正和他的朋友们从家骑车前往阿拉斯加。"
+    },
+    {
+     "s": "After several months, Ryan had raised the $2,000, with which a well was built near a primary school in Uganda.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "t": "几个月后，瑞安筹到了2000美元，用这笔钱在乌干达一所小学附近建了一口井。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "primary school",
+   "cn": "小学",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "primary consumers",
+   "cn": "主要消费者",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
