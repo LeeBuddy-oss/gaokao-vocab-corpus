@@ -1,966 +1,948 @@
 {
-  "meta": {
-    "ph": "smɔːl; NAmE smɔːl",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "smɔːl; NAmE smɔːl",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "not large in size, number, degree, amount, etc. （尺寸、数量、程度等）小的",
+   "ex": [
+    {
+     "s": "Beautiful year-round, they invite you to enjoy the smallest detail, from the sound of grasses in the gentle wind to the sculpture of odd-looking seed heads.",
+     "src": "2025浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "它们全年都很美丽，邀请你欣赏最小的细节，从微风中草的沙沙声到造型奇特的种头的雕塑般美感。"
+    },
+    {
+     "s": "However, though it’s nice to get a few cents off a pack of sausages, it would help even more if they could sometimes   61   (offer) in smaller packs.",
+     "src": "2024浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "然而，尽管一包香肠能便宜几分钱不错，但如果它们有时能以更小包装（第61空，offer）出售，会更有帮助。"
+    },
+    {
+     "s": "If your supermarket sells loose produce, then buying smaller quantities is easier.",
+     "src": "2024浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "如果你的超市出售散装农产品，那么少量购买就更容易了。"
+    },
+    {
+     "s": "The key finding of the study was that when crowds were further divided into smaller groups that were allowed to have a discussion, the averages from these groups were more accurate than those from an equal number of independent individuals.",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这项研究的关键发现是，当人群被进一步分成可以进行讨论的小组时，这些小组的平均值比同等数量的独立个体的平均值更准确。"
+    },
+    {
+     "s": "I joined a pre-presentation dinner with him and that smaller setting allowed me to slowly build up my courage to speak one-on-one with him—an idea that had seemed completely impossible.",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我和他一起参加了一个讲座前的晚餐，那种较小的环境让我慢慢积蓄勇气与他一对一交谈——这曾经看似完全不可能。"
+    },
+    {
+     "s": "Its lung capacity is smaller than we think.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它的肺活量比我们想象的要小。"
+    },
+    {
+     "s": "“It’s not going to fix everything, but adaptive signals have some benefits for smaller cities,” he says.",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"它不能解决所有问题，但对较小的城市来说，自适应信号有一些好处，\"他说。"
+    },
+    {
+     "s": "They require a bigger commitment than smaller ones, and they have a more powerful effect on the feeling of a space.",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它们比小面积选择需要更大的投入，并对空间氛围有更强的影响。"
+    },
+    {
+     "s": "If Tononi’s theory is right, it would explain why, when we miss a night’s, we find it harder the next day to concentrate and learn new information — our brains may have smaller room for new experiences.",
+     "src": "2017北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果托诺尼的理论是对的，就能解释为什么我们少睡一夜后，第二天更难集中注意力和学习新信息——我们的大脑可能为新体验留出的空间更小了。"
+    },
+    {
+     "s": "She gathered friends, learned some basic programming, and together they created an app that maps small local parks and gardens few people knew about.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "她召集了朋友，学习了一些基础编程知识，然后一起创建了一款应用程序，绘制出很少有人知道的当地小公园和花园的地图。"
+    },
+    {
+     "s": "All around the world, there are small changes taking place.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "全世界各地都在发生着微小的变化。"
+    },
+    {
+     "s": "However, that was small fry compared with the city’s Circus Maximus, which accommodated around 250,000 people.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "然而，与这座城市可容纳约250,000人的 Circus Maximus相比，那就小巫见大巫了。"
+    },
+    {
+     "s": "Sometimes it's hard to make a change, but I'm so glad I set the wheels of change in motion with that very small first step because it has led me to where I am today.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "有时候很难做出改变，但我很高兴我把变革的轮子 和这个很小的第一步一起启动，因为它让我走到今天的地步。"
+    },
+    {
+     "s": "No more living a small life.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "不再过狭隘的生活。"
+    },
+    {
+     "s": "But good news is that there’re really only three kinds of decisions you need to make about color in your home: the small ones, the medium ones, and the large ones.",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但好消息是，关于家里的颜色，你真正只需要做三种决定：小的、中等的和大的。"
+    },
+    {
+     "s": "Less tiring than painting your walls and less expensive than buying a colorful sofa, small color choices bring with them the significant benefit of being easily changeable.",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "比刷墙省力、比买彩色沙发便宜，小面积色彩选择的一大显著好处是易于更换。"
+    },
+    {
+     "s": "A good neighbor is also one who likes to help out in small ways.",
+     "src": "2018浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果你遇到从经过的车里扔出来的废纸，就捡起来。"
+    },
+    {
+     "s": "The resistance to vaccine has continued for decades, and it is driven by a real but very small risk.",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "对疫苗的抵制已经持续了数十年，它是由一个真实但极小的风险所驱动的。"
+    },
+    {
+     "s": "They are small in size.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它们的尺寸很小。"
+    },
+    {
+     "s": "Even the smallest words can be confusing.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "即使是最简单的词语也可能令人困惑。"
+    },
+    {
+     "s": "Eggplants used to be smaller and yellow or white.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "茄子以前更小，而且是黄色或白色的。"
+    },
+    {
+     "s": "“I actually think the medicine is only a small piece for some problems,” says Julie Good, director of pain management services at LPCH.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "“其实我认为，对一些问题来说，药物只是很小的一部分，”LPCH疼痛管理服务主任Julie Good说。"
+    },
+    {
+     "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
+     "src": "2022全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
+    },
+    {
+     "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
+     "src": "2022全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
+    },
+    {
+     "s": "Now, I’ve come to love those of small living things.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "现在，我已经爱上了那些小小的生灵。"
+    },
+    {
+     "s": "He was small for ten years old.",
+     "src": "2022全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他十岁了个子算小的。"
+    },
+    {
+     "s": "He was small for ten years old.",
+     "src": "2022全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他十岁了个子算小的。"
+    },
+    {
+     "s": "Last October , while tending her garden in Mora , Sweden , Lena Pahlsson pulled out a handful of small   56  (carrot) and was about to throw them away.",
+     "src": "2017浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "去年10月，莉娜·帕尔松（ Lena Pahlsson ）在瑞典莫拉（ Mora ）照料花园时，拿出一把小小的56 （胡萝卜） ，准备把它们扔掉。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "（服装、食品、家庭用品等）小号的，小型的",
+   "ex": [
     {
-      "def": "not large in size, number, degree, amount, etc. （尺寸、数量、程度等）小的",
-      "ex": [
-        {
-          "s": "Beautiful year-round, they invite you to enjoy the smallest detail, from the sound of grasses in the gentle wind to the sculpture of odd-looking seed heads.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它们全年都很美丽，邀请你欣赏最小的细节，从微风中草的沙沙声到造型奇特的种头的雕塑般美感。"
-        },
-        {
-          "s": "However, though it’s nice to get a few cents off a pack of sausages, it would help even more if they could sometimes   61   (offer) in smaller packs.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，尽管一包香肠能便宜几分钱不错，但如果它们有时能以更小包装（第61空，offer）出售，会更有帮助。"
-        },
-        {
-          "s": "If your supermarket sells loose produce, then buying smaller quantities is easier.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "如果你的超市出售散装农产品，那么少量购买就更容易了。"
-        },
-        {
-          "s": "The key finding of the study was that when crowds were further divided into smaller groups that were allowed to have a discussion, the averages from these groups were more accurate than those from an equal number of independent individuals.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这项研究的关键发现是，当人群被进一步分成可以进行讨论的小组时，这些小组的平均值比同等数量的独立个体的平均值更准确。"
-        },
-        {
-          "s": "I joined a pre-presentation dinner with him and that smaller setting allowed me to slowly build up my courage to speak one-on-one with him—an idea that had seemed completely impossible.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我和他一起参加了一个讲座前的晚餐，那种较小的环境让我慢慢积蓄勇气与他一对一交谈——这曾经看似完全不可能。"
-        },
-        {
-          "s": "Its lung capacity is smaller than we think.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它的肺活量比我们想象的要小。"
-        },
-        {
-          "s": "“It’s not going to fix everything, but adaptive signals have some benefits for smaller cities,” he says.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"它不能解决所有问题，但对较小的城市来说，自适应信号有一些好处，\"他说。"
-        },
-        {
-          "s": "They require a bigger commitment than smaller ones, and they have a more powerful effect on the feeling of a space.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它们比小面积选择需要更大的投入，并对空间氛围有更强的影响。"
-        },
-        {
-          "s": "If Tononi’s theory is right, it would explain why, when we miss a night’s, we find it harder the next day to concentrate and learn new information — our brains may have smaller room for new experiences.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果托诺尼的理论是对的，就能解释为什么我们少睡一夜后，第二天更难集中注意力和学习新信息——我们的大脑可能为新体验留出的空间更小了。"
-        },
-        {
-          "s": "She gathered friends, learned some basic programming, and together they created an app that maps small local parks and gardens few people knew about.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "她召集了朋友，学习了一些基础编程知识，然后一起创建了一款应用程序，绘制出很少有人知道的当地小公园和花园的地图。"
-        },
-        {
-          "s": "All around the world, there are small changes taking place.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "全世界各地都在发生着微小的变化。"
-        },
-        {
-          "s": "However, that was small fry compared with the city’s Circus Maximus, which accommodated around 250,000 people.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "然而，与这座城市可容纳约250,000人的 Circus Maximus相比，那就小巫见大巫了。"
-        },
-        {
-          "s": "Sometimes it's hard to make a change, but I'm so glad I set the wheels of change in motion with that very small first step because it has led me to where I am today.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "有时候很难做出改变，但我很高兴我把变革的轮子 和这个很小的第一步一起启动，因为它让我走到今天的地步。"
-        },
-        {
-          "s": "No more living a small life.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不再过狭隘的生活。"
-        },
-        {
-          "s": "But good news is that there’re really only three kinds of decisions you need to make about color in your home: the small ones, the medium ones, and the large ones.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但好消息是，关于家里的颜色，你真正只需要做三种决定：小的、中等的和大的。"
-        },
-        {
-          "s": "Less tiring than painting your walls and less expensive than buying a colorful sofa, small color choices bring with them the significant benefit of being easily changeable.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "比刷墙省力、比买彩色沙发便宜，小面积色彩选择的一大显著好处是易于更换。"
-        },
-        {
-          "s": "A good neighbor is also one who likes to help out in small ways.",
-          "src": "2018浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果你遇到从经过的车里扔出来的废纸，就捡起来。"
-        },
-        {
-          "s": "The resistance to vaccine has continued for decades, and it is driven by a real but very small risk.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "对疫苗的抵制已经持续了数十年，它是由一个真实但极小的风险所驱动的。"
-        },
-        {
-          "s": "They are small in size.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它们的尺寸很小。"
-        },
-        {
-          "s": "Even the smallest words can be confusing.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "即使是最简单的词语也可能令人困惑。"
-        },
-        {
-          "s": "Eggplants used to be smaller and yellow or white.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "茄子以前更小，而且是黄色或白色的。"
-        },
-        {
-          "s": "“I actually think the medicine is only a small piece for some problems,” says Julie Good, director of pain management services at LPCH.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“其实我认为，对一些问题来说，药物只是很小的一部分，”LPCH疼痛管理服务主任Julie Good说。"
-        },
-        {
-          "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
-        },
-        {
-          "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
-          "src": "2022全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
-        },
-        {
-          "s": "Now, I’ve come to love those of small living things.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "现在，我已经爱上了那些小小的生灵。"
-        },
-        {
-          "s": "He was small for ten years old.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他十岁了个子算小的。"
-        },
-        {
-          "s": "He was small for ten years old.",
-          "src": "2022全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他十岁了个子算小的。"
-        },
-        {
-          "s": "Last October , while tending her garden in Mora , Sweden , Lena Pahlsson pulled out a handful of small   56  (carrot) and was about to throw them away.",
-          "src": "2017浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "去年10月，莉娜·帕尔松（ Lena Pahlsson ）在瑞典莫拉（ Mora ）照料花园时，拿出一把小小的56 （胡萝卜） ，准备把它们扔掉。"
-        }
-      ]
+     "s": "Very small drones with advanced sensors and AI and travelling ahead of the train could guide it like a co-pilot.",
+     "src": "2022全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "带有先进传感器和AI、在火车前方行驶的小型无人机，可以像副驾驶一样为它引路。"
     },
     {
-      "def": "（服装、食品、家庭用品等）小号的，小型的",
-      "ex": [
-        {
-          "s": "Very small drones with advanced sensors and AI and travelling ahead of the train could guide it like a co-pilot.",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "带有先进传感器和AI、在火车前方行驶的小型无人机，可以像副驾驶一样为它引路。"
-        },
-        {
-          "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
-        },
-        {
-          "s": "With a little help from his school and the local community centre, Mark used his bricks to build a small bike shelter for his neighbourhood.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在他学校和当地社区中心的一点帮助下，马克用他的砖头为他的邻居建造了一座小型自行车避难所。"
-        },
-        {
-          "s": "My wife and I wanted to share our new home with family and friends by hosting a small gathering in the early summer.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我和妻子想在初夏举办一个小聚会，与亲友分享我们的新家。"
-        },
-        {
-          "s": "> With encouragement from his friends and parents, Mark built a small bike shelter for his neighbourhood after months of trial and error.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": ">在朋友和父母的鼓励下， Mark在经历了数月的反复试验后，为他的街区建造了一个小型自行车庇护所。"
-        },
-        {
-          "s": "We flew on a small plane to a faraway village.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们乘一架小飞机去一个遥远的村庄。"
-        },
-        {
-          "s": "I use a small tractor to get about.",
-          "src": "2020浙江7月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我开一台小拖拉机四处走动。"
-        },
-        {
-          "s": "This small group bike tour is a fantastic way to see a world-famous cherry trees with beautiful flowers of Washington, D.C.",
-          "src": "2018全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这种小团体自行车之旅是欣赏华盛顿特区世界闻名的樱花树及其美丽花朵的极佳方式。"
-        },
-        {
-          "s": "Join a small group bike tour for an evening of exploration in the heart of Washington, D.C.",
-          "src": "2018全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "加入一个小型自行车旅行团，在华盛顿特区中心度过一个探索之夜。"
-        }
-      ]
+     "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
+     "src": "2017北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
     },
     {
-      "def": "not as big as sth else of the same kind （同类事物中）小的",
-      "ex": [
-        {
-          "s": "Goffin’s cockatoos, a kind of small parrot native to Australasia, have been shown to have similar shape-recognition abilities to a human two-year-old.",
-          "src": "2022全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "戈芬氏凤头鹦鹉是一种原产于澳大拉西亚的小鹦鹉，已被证明具有与人类两岁幼儿相似的形状识别能力。"
-        },
-        {
-          "s": "Now, big tech companies have invested in quantum computing, as have many smaller ones.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "现在，大型科技公司已经在量子计算领域投入资金，许多小公司也是如此。"
-        },
-        {
-          "s": "“One strip of darker shells might get you about two cans of smaller tuna, but the red ones are worth more, For the red ones, one strip might get enough tuna to feed a big family for a long time.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一条颜色较深的贝壳条大约能换到两罐较小的金枪鱼，但红色的更值钱；至于红色的，一条可能换来足够养活一大家人很久的金枪鱼。"
-        },
-        {
-          "s": "“Almost every great love story and each big business deal begins with small talk,” he explains.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "\"几乎每一段伟大的爱情故事和每一笔大生意都是从闲聊开始的，\"他解释道。"
-        },
-        {
-          "s": "At the end of the thirty days, you will then add back a small number of carefully chosen online activities that you believe will provide massive benefits to the things you value.",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在这三十天结束时，你再重新加入少量精心挑选的线上活动，这些活动你认为会为你所看重的事物带来巨大益处。"
-        },
-        {
-          "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。"
-        }
-      ]
+     "s": "With a little help from his school and the local community centre, Mark used his bricks to build a small bike shelter for his neighbourhood.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在他学校和当地社区中心的一点帮助下，马克用他的砖头为他的邻居建造了一座小型自行车避难所。"
     },
     {
-      "def": "young 年幼的；幼小的",
-      "ex": []
+     "s": "My wife and I wanted to share our new home with family and friends by hosting a small gathering in the early summer.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我和妻子想在初夏举办一个小聚会，与亲友分享我们的新家。"
     },
     {
-      "def": "slight; not important 些微的；不重要的",
-      "ex": [
-        {
-          "s": "However, I soon found that by doing so, I might be losing something more important: the opportunity to share a small part of my cultural identity.",
-          "src": "2025新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "然而我很快发现，这样做我可能正在失去更重要的东西：分享自己文化身份一小部分的机会。"
-        },
-        {
-          "s": "More research is needed to see if improved fitness could have a positive effect on the risk of dementia and also to look at when during a lifetime a high fitness level is most important. \" She also admitted that a relatively small number of women were studied, all of whom were form Sweden, so the results might not be applicable to other groups.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "需要开展更多的研究，以了解改善健康状况能否对痴呆症的风险产生积极的影响，并审视在一生中，高水平的健身水平何时最为重要。 \" 她还承认，研究的妇女人数相对较少，她们都是瑞典人，因此研究结果可能不适用于其他群体。"
-        },
-        {
-          "s": "What is important for successful small talk according to Carducci?",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据卡杜奇的说法，成功闲聊的关键是什么？"
-        },
-        {
-          "s": "During the week, however, she likes to go to a nearby store to   38   some small things she needs.",
-          "src": "2021浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "然而，在工作日里，她喜欢去附近的商店___38___一些她需要的小东西。"
-        },
-        {
-          "s": "Dismissing small talk as unimportant is easy, but we can’t forget that deep relationships wouldn’t even exist if it weren’t for casual conversation.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "把闲聊视为不重要的事情很容易，但我们不能忘记如果没有闲聊，深厚的关系甚至不会存在。"
-        },
-        {
-          "s": "“The key to successful small talk is learning how to connect with others, not just communicate with them.”",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "\"成功闲聊的关键是学会如何与他人建立联系，而不仅仅是与他们交流。\""
-        },
-        {
-          "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
-        }
-      ]
+     "s": "> With encouragement from his friends and parents, Mark built a small bike shelter for his neighbourhood after months of trial and error.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": ">在朋友和父母的鼓励下， Mark在经历了数月的反复试验后，为他的街区建造了一个小型自行车庇护所。"
     },
     {
-      "def": "not doing business on a very large scale 小规模的",
-      "ex": [
-        {
-          "s": "the crowds were relatively smallB. there were occasional underestimates",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "人群规模相对较小 B. 偶尔出现低估"
-        },
-        {
-          "s": "Mathematical models have also revealed that food webs may be unstable， where small changes of top predators can lead to big effects throughout entire ecosystems． In the 1960s， scientists proposed that predators at the top of a food web had a surprising amount of control over the size of populations of other species﹣including species they did not directly attack．",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "数学模型也揭示，食物网可能不稳定，顶级捕食者的微小变化会在整个生态系统引发巨大效应。20世纪60年代，科学家提出，食物网顶端的捕食者对包括它们不直接攻击的物种在内的其他物种种群规模有着惊人的控制力。"
-        },
-        {
-          "s": "“There’s a certain feeling that giving can do for you and that was apparent in those that gave the most.\" Most people who took dollars took only a few, but Bridges said a very small number took as much as they could.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "\"给予能给人带来一种特定的感觉，这在那些给得最多的人身上表现得非常明显。\"大多数拿钱的人只拿了几张，但布里奇斯说有极少数人尽可能多地拿。"
-        },
-        {
-          "s": "Ellie 24 Junior doctor (1 picture) There’s not enough room to swing a cat in my small apartment, so I don’t cook very often.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "Ellie 24初级医生（ 1张照片）我的小公寓没有足够的空间荡猫，所以我不经常做饭。"
-        },
-        {
-          "s": "But the study was small and needs to be repeated with far larger groups of people to determine exactly which aspects of an exercise routine make the biggest difference.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但这项研究规模小，需要用大得多的人群重复，以确切确定锻炼计划的哪些方面影响最大。"
-        },
-        {
-          "s": "What is an advantage of a smaller business according to Leaney?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据Leaney的说法，小企业的优势是什么？"
-        }
-      ]
+     "s": "We flew on a small plane to a faraway village.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们乘一架小飞机去一个遥远的村庄。"
     },
     {
-      "def": "not written or printed as capitals 小写的",
-      "ex": []
+     "s": "I use a small tractor to get about.",
+     "src": "2020浙江7月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我开一台小拖拉机四处走动。"
     },
     {
-      "def": "little; not much 与不可数名词连用",
-      "ex": [
-        {
-          "s": "“We affect only a very small percentage of the total moisture in the air, so we cannot be causing drought,” Dr Krauss says.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "克劳斯博士说：\"我们只影响空气中总湿度的极小一部分，因此不可能造成干旱。\""
-        },
-        {
-          "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
-        },
-        {
-          "s": "When the house was built, it was much   59   （small）than it is today.",
-          "src": "2021浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "房子建造时比现在   59   （小/small）得多。"
-        },
-        {
-          "s": "On Malaita, the most- populated island that’s part of the Solomon Islands, shells are accepted at most places in “How much tuna you can get for your shells depends on their color and shape,” Mary Bruno, a shop owner from the small town of Auki, on Malaita, told Vice.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在所罗门群岛人口最多的马莱塔岛上，大多数地方都接受贝壳。“你能用贝壳换到多少金枪鱼，取决于贝壳的颜色和形状，”马莱塔岛奥基小镇的店主Mary Bruno告诉Vice。"
-        }
-      ]
+     "s": "This small group bike tour is a fantastic way to see a world-famous cherry trees with beautiful flowers of Washington, D.C.",
+     "src": "2018全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这种小团体自行车之旅是欣赏华盛顿特区世界闻名的樱花树及其美丽花朵的极佳方式。"
     },
     {
-      "def": "into small pieces 成为小块",
-      "ex": [
-        {
-          "s": "Though overtourism is described as a problem affecting the entire world, it’s actually concentrated to a small number of extremely popular spots.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尽管过度旅游被描述为影响全世界的问题，但它其实集中在少数极受欢迎的地点。"
-        },
-        {
-          "s": "a small number of measles cases can start a dangerous trend",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "少量麻疹病例就可能引发一个危险趋势。"
-        },
-        {
-          "s": "I bought a handful of perfectly ripe small strawberries and a little sweet melon.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我买了一小把熟透的小草莓和一个甜甜的小甜瓜。"
-        },
-        {
-          "s": "Ursula has always called the beautiful small town of Beaverton her home.",
-          "src": "2026浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "乌苏拉一直把美丽的小镇比弗顿称为她的家。"
-        },
-        {
-          "s": "Though friendly, he could easily knock over my niece’s small boys and my six-month-old granddaughter.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "虽然他很友善，但他很容易撞倒我侄女的小男孩和我六个月大的孙女。"
-        },
-        {
-          "s": "For Jessica, that means   53   plenty of pictures of happy pets, keeping the house   54   and leaving a nice small gift before heading to the next house.",
-          "src": "2022全国新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对Jessica来说，这意味着   53  大量快乐宠物的照片，保持房子   54  整洁，并在前往下一所房子前留下一份精美的小礼物。"
-        },
-        {
-          "s": "We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们将在传统小镇中漫步，并以上海一座别具一格的博物馆结束行程。"
-        },
-        {
-          "s": "And you might find it relaxing to bring your small kid to a half-hour Story Time while you sit quietly in a corner with a good book.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你可能觉得带着小孩去半小时的“故事时间”很放松，而你可以安静地坐在角落里读一本好书。"
-        },
-        {
-          "s": "It’s not really a good idea to use too many small color pieces",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "使用太多小面积色块并不是个好主意"
-        },
-        {
-          "s": "I learned this lesson from a（n）（2）     many years ago． I took the head（3）     job at a school in Baxley， Georgia． It was a small school with a weak football program．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "多年前我从一个（2）___学到了这一课。我在佐治亚州巴克斯特的一所学校担任主（3）___的工作。那是一所橄榄球项目薄弱的小学校。"
-        },
-        {
-          "s": "That’s exactly what is happening in small neighborhoods around the country from Orange County, California, where 22 measles cases were reported this month, to Brooklyn, N.Y., where a 17-year-old caused an outbreak last year.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这正是全国各个小社区正在发生的情况，从本月报告了22例麻疹的加州奥兰治县，到去年一名17岁少年引发疫情的纽约布鲁克林。"
-        },
-        {
-          "s": "I felt a small pain in my chest The dictionary was stolen at the end of my freshman year of college.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我感到胸口隐隐作痛。那本词典在我大学一年级结束时被偷了。"
-        },
-        {
-          "s": "Mum is small, but I remember feeling so high up there.",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "妈妈个子很小，但我记得在那里感觉好高啊。"
-        },
-        {
-          "s": "Even if you haven’t been to the small fishing village Mevagissey, you’ve probably seen it in a movie or British TV show.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "即便你没去过Mevagissey这个小渔村，也可能在电影或英国电视剧里见过它。"
-        },
-        {
-          "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "飞机向有威胁的风暴云团播撒一种化学物质，使小冰晶在长成危险的冰雹之前就以雨的形式落下。"
-        },
-        {
-          "s": "Whatever it is, no matter how small it might seem, write it down.",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "不管是什么，不管它看起来多么微不足道，都把它写下来。"
-        },
-        {
-          "s": "Start with small tasks",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从小任务开始"
-        },
-        {
-          "s": "Often, they’ll end up filling the area with small stones and using chemicals to control weeds.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "通常，他们最终会用小石子填满该区域，并用化学药剂控制杂草。"
-        },
-        {
-          "s": "Both scenarios involved a dog being placed on one side of a glass screen with small holes in it at nose-height, and an experimenter standing on the other.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两种场景都是把狗放在一块玻璃屏风的一侧，屏风上在与狗鼻子齐高的位置有一些小孔，而实验员站在另一侧。"
-        },
-        {
-          "s": "The snow was marked only by small animals: foxes, coyotes, mice, and varying hares, which turned white in the winter.”",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "雪地上只有小动物留下的痕迹：狐狸、土狼、老鼠，以及冬天会变成白色的雪鞋兔。"
-        },
-        {
-          "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
-        },
-        {
-          "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
-        },
-        {
-          "s": "He then made a small wooden horse, which Sullivan considered the best New Year present ever.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "于是他做了一匹小木马，沙利文认为那是史上最好的新年礼物。"
-        },
-        {
-          "s": "They weighed about 2.5 kg and were so small that there was absolutely no risk.",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它们重约2.5公斤，而且非常小，所以绝对没有任何风险。"
-        },
-        {
-          "s": "Often, only a small part of a museum’s collection    41   （be）on display.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通常，博物馆的藏品只有一小部分___41___（be）在展出。"
-        },
-        {
-          "s": "The Meredith family lived in a small community.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "梅雷迪思一家住在一个小社区里。"
-        },
-        {
-          "s": "The Meredith family lived in a small community.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "梅雷迪思一家住在一个小社区里。"
-        },
-        {
-          "s": "Nothing is too small to celebrate.",
-          "src": "2020全国I卷·A Few Tips for Self-Acceptance",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "没有什么是小到不能庆祝的。"
-        },
-        {
-          "s": "Who would like to make small talk according to the speaker?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据说话者，谁愿意闲聊？"
-        },
-        {
-          "s": "Why do people have small talk?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么人们要闲聊？"
-        },
-        {
-          "s": "Which of the following is a frequent topic in small talk?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "以下哪项属于闲聊中常见的话题？"
-        },
-        {
-          "s": "Making small talk interesting.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让闲聊变得有趣。"
-        },
-        {
-          "s": "Who would like to make small talk according to the speaker?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据说话者，谁愿意闲聊？"
-        },
-        {
-          "s": "Why do people have small talk?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么人们要闲聊？"
-        },
-        {
-          "s": "Which of the following is a frequent topic in small talk?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "以下哪项属于闲聊中常见的话题？"
-        },
-        {
-          "s": "Making small talk interesting.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让闲聊变得有趣。"
-        },
-        {
-          "s": "As the small boat moved,   68   (gentle) along the river he was left speechless by the mountains being silently reflected in the water.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当小船移动时，   68  （轻柔）地沿河而下，群山在水中静静倒影的景象让他哑口无言。"
-        },
-        {
-          "s": "Who would like to make small talk according to the speaker?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据说话者，谁愿意闲聊？"
-        },
-        {
-          "s": "Why do people have small talk?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么人们要闲聊？"
-        },
-        {
-          "s": "Which of the following is a frequent topic in small talk?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "以下哪项属于闲聊中常见的话题？"
-        },
-        {
-          "s": "Making small talk interesting.",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让闲聊变得有趣。"
-        },
-        {
-          "s": "“Small does not mean weak, sir,” she defended herself.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“小不意味着弱，先生，”她为自己辩护道。"
-        },
-        {
-          "s": "They often feel discouraged long before trying to solve the problem, even if small.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们往往在尝试解决问题之前很久就感到气馁，即使问题很小。"
-        },
-        {
-          "s": "I became interesting in playing football thanks to a small accident.",
-          "src": "2019全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "多亏一次小意外，我对踢足球产生了兴趣。"
-        },
-        {
-          "s": "Ehlers   41   about the small dog he had seen   42   alongside the road.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "埃勒斯____41____他在路边____42____看到的那只小狗。"
-        },
-        {
-          "s": "Often spoken by many people while hot, wet zones have lots, often spoken by small numbers.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "通常由很多人使用，而炎热潮湿地区有很多种语言，通常只有少数人使用。"
-        },
-        {
-          "s": "Small color choices are the ones we’re most familiar with",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "小色彩选择是我们最熟悉的"
-        },
-        {
-          "s": "Color choices in this range are a step up from the small ones in two major ways",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这一范围的色彩选择在小面积选择基础上有两个主要提升"
-        },
-        {
-          "s": "The first time I went there, they were living in a small house with dogs, ducks, and another animals.",
-          "src": "2018全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我第一次去那里时，他们住在一间小屋里，养着狗、鸭子和其他动物。"
-        },
-        {
-          "s": "They also had a small pond, which they raised fish.",
-          "src": "2018全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们还有一个小池塘，他们在里面养鱼。"
-        },
-        {
-          "s": "But the next time you find yourself among strangers, consider that small talk is worth the trouble.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但下次你发现自己和陌生人在一起时，考虑一下闲聊是值得麻烦的。"
-        },
-        {
-          "s": "Carducci believes developing such a sense of belonging starts with small talk.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "Carducci 认为，培养这种归属感始于闲聊。"
-        },
-        {
-          "s": "“Small talk is the basis of good manners,” he says.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "\"闲聊是良好礼貌的基础，\"他说。"
-        },
-        {
-          "s": "What does the coffee-shop study suggest about small talk?",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "咖啡店的研究关于闲聊说明了什么？"
-        },
-        {
-          "s": "Ways of Making Small Talk",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "闲聊的方式"
-        },
-        {
-          "s": "Benefits of Small TalkD.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "闲聊的好处 D."
-        },
-        {
-          "s": "For just a small donation you can take a tour with our garden guide.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "只需少量捐款，你就能在我们的园艺导游带领下参观。"
-        },
-        {
-          "s": "And while plastic bags may be ugly to look at, they represent a small percentage of all garbage on the ground today.z.x.xk",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "而且尽管塑料袋看着可能丑，但它们只占如今地面所有垃圾的很小比例。z.x.xk"
-        },
-        {
-          "s": "He may change the shirt because it's too small.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他可能会换这件衬衫，因为它太小了。"
-        },
-        {
-          "s": "The movie is set in a small town where the only movie theater is preparing to close down.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这部电影设定在一个小镇上，那里唯一的电影院正准备关闭。"
-        },
-        {
-          "s": "Breaking up firms like Google into five small ones would not stop remaking themselves: in time, one of them would become great again.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "像谷歌这样的公司即使被拆分成五家小公司，也无法阻止它们重新崛起：迟早其中一家会再次壮大。"
-        },
-        {
-          "s": "Small companies could get more opportunities.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "小公司可以获得更多机会。"
-        },
-        {
-          "s": "The numbers might sound small, but they are the leading edge of a dangerous trend.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些数字听起来可能很小，但它们是一种危险趋势的前沿。"
-        },
-        {
-          "s": "Those without outside space can rent small pieces of land on which to grow things.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "那些没有户外空间的人可以租用小块土地来种植东西。"
-        },
-        {
-          "s": "Finally, she tried the small chair.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "最后，她试了试小椅子。"
-        }
-      ]
-    },
-    {
-      "def": "in a small size 小小地",
-      "ex": []
-    },
-    {
-      "def": "the lower part of the back where it curves in 后腰",
-      "ex": []
-    },
-    {
-      "def": "small items of clothing, especially underwear 小件衣服（尤指内衣）",
-      "ex": []
+     "s": "Join a small group bike tour for an evening of exploration in the heart of Washington, D.C.",
+     "src": "2018全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "加入一个小型自行车旅行团，在华盛顿特区中心度过一个探索之夜。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "not as big as sth else of the same kind （同类事物中）小的",
+   "ex": [
     {
-      "en": "very small",
-      "cn": "非常小",
-      "type": "形容词搭配",
-      "count": 10
+     "s": "Goffin’s cockatoos, a kind of small parrot native to Australasia, have been shown to have similar shape-recognition abilities to a human two-year-old.",
+     "src": "2022全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "戈芬氏凤头鹦鹉是一种原产于澳大拉西亚的小鹦鹉，已被证明具有与人类两岁幼儿相似的形状识别能力。"
     },
     {
-      "en": "too small",
-      "cn": "太小",
-      "type": "形容词搭配",
-      "count": 4
+     "s": "Now, big tech companies have invested in quantum computing, as have many smaller ones.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "现在，大型科技公司已经在量子计算领域投入资金，许多小公司也是如此。"
     },
     {
-      "en": "small talk",
-      "cn": "闲聊",
-      "type": "名词短语",
-      "count": 21
+     "s": "“One strip of darker shells might get you about two cans of smaller tuna, but the red ones are worth more, For the red ones, one strip might get enough tuna to feed a big family for a long time.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一条颜色较深的贝壳条大约能换到两罐较小的金枪鱼，但红色的更值钱；至于红色的，一条可能换来足够养活一大家人很久的金枪鱼。"
     },
     {
-      "en": "small number",
-      "cn": "少数",
-      "type": "名词短语",
-      "count": 5
+     "s": "“Almost every great love story and each big business deal begins with small talk,” he explains.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "\"几乎每一段伟大的爱情故事和每一笔大生意都是从闲聊开始的，\"他解释道。"
     },
     {
-      "en": "a small number",
-      "cn": "少数",
-      "type": "名词短语",
-      "count": 3
+     "s": "At the end of the thirty days, you will then add back a small number of carefully chosen online activities that you believe will provide massive benefits to the things you value.",
+     "src": "2023新课标I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在这三十天结束时，你再重新加入少量精心挑选的线上活动，这些活动你认为会为你所看重的事物带来巨大益处。"
+    },
+    {
+     "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "young 年幼的；幼小的",
+   "ex": []
+  },
+  {
+   "def": "slight; not important 些微的；不重要的",
+   "ex": [
+    {
+     "s": "However, I soon found that by doing so, I might be losing something more important: the opportunity to share a small part of my cultural identity.",
+     "src": "2025新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "然而我很快发现，这样做我可能正在失去更重要的东西：分享自己文化身份一小部分的机会。"
+    },
+    {
+     "s": "More research is needed to see if improved fitness could have a positive effect on the risk of dementia and also to look at when during a lifetime a high fitness level is most important. \" She also admitted that a relatively small number of women were studied, all of whom were form Sweden, so the results might not be applicable to other groups.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "需要开展更多的研究，以了解改善健康状况能否对痴呆症的风险产生积极的影响，并审视在一生中，高水平的健身水平何时最为重要。 \" 她还承认，研究的妇女人数相对较少，她们都是瑞典人，因此研究结果可能不适用于其他群体。"
+    },
+    {
+     "s": "What is important for successful small talk according to Carducci?",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "根据卡杜奇的说法，成功闲聊的关键是什么？"
+    },
+    {
+     "s": "During the week, however, she likes to go to a nearby store to   38   some small things she needs.",
+     "src": "2021浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "然而，在工作日里，她喜欢去附近的商店___38___一些她需要的小东西。"
+    },
+    {
+     "s": "Dismissing small talk as unimportant is easy, but we can’t forget that deep relationships wouldn’t even exist if it weren’t for casual conversation.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "把闲聊视为不重要的事情很容易，但我们不能忘记如果没有闲聊，深厚的关系甚至不会存在。"
+    },
+    {
+     "s": "“The key to successful small talk is learning how to connect with others, not just communicate with them.”",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "\"成功闲聊的关键是学会如何与他人建立联系，而不仅仅是与他们交流。\""
+    },
+    {
+     "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
+    }
+   ]
+  },
+  {
+   "def": "not doing business on a very large scale 小规模的",
+   "ex": [
+    {
+     "s": "the crowds were relatively smallB. there were occasional underestimates",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "人群规模相对较小 B. 偶尔出现低估"
+    },
+    {
+     "s": "Mathematical models have also revealed that food webs may be unstable， where small changes of top predators can lead to big effects throughout entire ecosystems． In the 1960s， scientists proposed that predators at the top of a food web had a surprising amount of control over the size of populations of other species﹣including species they did not directly attack．",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "数学模型也揭示，食物网可能不稳定，顶级捕食者的微小变化会在整个生态系统引发巨大效应。20世纪60年代，科学家提出，食物网顶端的捕食者对包括它们不直接攻击的物种在内的其他物种种群规模有着惊人的控制力。"
+    },
+    {
+     "s": "“There’s a certain feeling that giving can do for you and that was apparent in those that gave the most.\" Most people who took dollars took only a few, but Bridges said a very small number took as much as they could.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "\"给予能给人带来一种特定的感觉，这在那些给得最多的人身上表现得非常明显。\"大多数拿钱的人只拿了几张，但布里奇斯说有极少数人尽可能多地拿。"
+    },
+    {
+     "s": "Ellie 24 Junior doctor (1 picture) There’s not enough room to swing a cat in my small apartment, so I don’t cook very often.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "Ellie 24初级医生（ 1张照片）我的小公寓没有足够的空间荡猫，所以我不经常做饭。"
+    },
+    {
+     "s": "But the study was small and needs to be repeated with far larger groups of people to determine exactly which aspects of an exercise routine make the biggest difference.",
+     "src": "2022全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "但这项研究规模小，需要用大得多的人群重复，以确切确定锻炼计划的哪些方面影响最大。"
+    },
+    {
+     "s": "What is an advantage of a smaller business according to Leaney?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据Leaney的说法，小企业的优势是什么？"
+    }
+   ]
+  },
+  {
+   "def": "not written or printed as capitals 小写的",
+   "ex": []
+  },
+  {
+   "def": "little; not much 与不可数名词连用",
+   "ex": [
+    {
+     "s": "“We affect only a very small percentage of the total moisture in the air, so we cannot be causing drought,” Dr Krauss says.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "克劳斯博士说：\"我们只影响空气中总湿度的极小一部分，因此不可能造成干旱。\""
+    },
+    {
+     "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
+    },
+    {
+     "s": "When the house was built, it was much   59   （small）than it is today.",
+     "src": "2021浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "房子建造时比现在   59   （小/small）得多。"
+    },
+    {
+     "s": "On Malaita, the most- populated island that’s part of the Solomon Islands, shells are accepted at most places in “How much tuna you can get for your shells depends on their color and shape,” Mary Bruno, a shop owner from the small town of Auki, on Malaita, told Vice.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在所罗门群岛人口最多的马莱塔岛上，大多数地方都接受贝壳。“你能用贝壳换到多少金枪鱼，取决于贝壳的颜色和形状，”马莱塔岛奥基小镇的店主Mary Bruno告诉Vice。"
+    }
+   ]
+  },
+  {
+   "def": "into small pieces 成为小块",
+   "ex": [
+    {
+     "s": "Though overtourism is described as a problem affecting the entire world, it’s actually concentrated to a small number of extremely popular spots.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "尽管过度旅游被描述为影响全世界的问题，但它其实集中在少数极受欢迎的地点。"
+    },
+    {
+     "s": "a small number of measles cases can start a dangerous trend",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "少量麻疹病例就可能引发一个危险趋势。"
+    },
+    {
+     "s": "I bought a handful of perfectly ripe small strawberries and a little sweet melon.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我买了一小把熟透的小草莓和一个甜甜的小甜瓜。"
+    },
+    {
+     "s": "Ursula has always called the beautiful small town of Beaverton her home.",
+     "src": "2026浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "乌苏拉一直把美丽的小镇比弗顿称为她的家。"
+    },
+    {
+     "s": "Though friendly, he could easily knock over my niece’s small boys and my six-month-old granddaughter.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "虽然他很友善，但他很容易撞倒我侄女的小男孩和我六个月大的孙女。"
+    },
+    {
+     "s": "For Jessica, that means   53   plenty of pictures of happy pets, keeping the house   54   and leaving a nice small gift before heading to the next house.",
+     "src": "2022全国新高考II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对Jessica来说，这意味着   53  大量快乐宠物的照片，保持房子   54  整洁，并在前往下一所房子前留下一份精美的小礼物。"
+    },
+    {
+     "s": "We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们将在传统小镇中漫步，并以上海一座别具一格的博物馆结束行程。"
+    },
+    {
+     "s": "And you might find it relaxing to bring your small kid to a half-hour Story Time while you sit quietly in a corner with a good book.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你可能觉得带着小孩去半小时的“故事时间”很放松，而你可以安静地坐在角落里读一本好书。"
+    },
+    {
+     "s": "It’s not really a good idea to use too many small color pieces",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "使用太多小面积色块并不是个好主意"
+    },
+    {
+     "s": "I learned this lesson from a（n）（2）     many years ago． I took the head（3）     job at a school in Baxley， Georgia． It was a small school with a weak football program．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "多年前我从一个（2）___学到了这一课。我在佐治亚州巴克斯特的一所学校担任主（3）___的工作。那是一所橄榄球项目薄弱的小学校。"
+    },
+    {
+     "s": "That’s exactly what is happening in small neighborhoods around the country from Orange County, California, where 22 measles cases were reported this month, to Brooklyn, N.Y., where a 17-year-old caused an outbreak last year.",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这正是全国各个小社区正在发生的情况，从本月报告了22例麻疹的加州奥兰治县，到去年一名17岁少年引发疫情的纽约布鲁克林。"
+    },
+    {
+     "s": "I felt a small pain in my chest The dictionary was stolen at the end of my freshman year of college.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我感到胸口隐隐作痛。那本词典在我大学一年级结束时被偷了。"
+    },
+    {
+     "s": "Mum is small, but I remember feeling so high up there.",
+     "src": "2026浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "妈妈个子很小，但我记得在那里感觉好高啊。"
+    },
+    {
+     "s": "Even if you haven’t been to the small fishing village Mevagissey, you’ve probably seen it in a movie or British TV show.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "即便你没去过Mevagissey这个小渔村，也可能在电影或英国电视剧里见过它。"
+    },
+    {
+     "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "飞机向有威胁的风暴云团播撒一种化学物质，使小冰晶在长成危险的冰雹之前就以雨的形式落下。"
+    },
+    {
+     "s": "Whatever it is, no matter how small it might seem, write it down.",
+     "src": "2023新课标I卷·Personal Forgiveness",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "不管是什么，不管它看起来多么微不足道，都把它写下来。"
+    },
+    {
+     "s": "Start with small tasks",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从小任务开始"
+    },
+    {
+     "s": "Often, they’ll end up filling the area with small stones and using chemicals to control weeds.",
+     "src": "2023浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "通常，他们最终会用小石子填满该区域，并用化学药剂控制杂草。"
+    },
+    {
+     "s": "Both scenarios involved a dog being placed on one side of a glass screen with small holes in it at nose-height, and an experimenter standing on the other.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "两种场景都是把狗放在一块玻璃屏风的一侧，屏风上在与狗鼻子齐高的位置有一些小孔，而实验员站在另一侧。"
+    },
+    {
+     "s": "The snow was marked only by small animals: foxes, coyotes, mice, and varying hares, which turned white in the winter.”",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "雪地上只有小动物留下的痕迹：狐狸、土狼、老鼠，以及冬天会变成白色的雪鞋兔。"
+    },
+    {
+     "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
+    },
+    {
+     "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
+    },
+    {
+     "s": "He then made a small wooden horse, which Sullivan considered the best New Year present ever.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "于是他做了一匹小木马，沙利文认为那是史上最好的新年礼物。"
+    },
+    {
+     "s": "They weighed about 2.5 kg and were so small that there was absolutely no risk.",
+     "src": "2021新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它们重约2.5公斤，而且非常小，所以绝对没有任何风险。"
+    },
+    {
+     "s": "Often, only a small part of a museum’s collection    41   （be）on display.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通常，博物馆的藏品只有一小部分___41___（be）在展出。"
+    },
+    {
+     "s": "The Meredith family lived in a small community.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "梅雷迪思一家住在一个小社区里。"
+    },
+    {
+     "s": "The Meredith family lived in a small community.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "梅雷迪思一家住在一个小社区里。"
+    },
+    {
+     "s": "Nothing is too small to celebrate.",
+     "src": "2020全国I卷·A Few Tips for Self-Acceptance",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "没有什么是小到不能庆祝的。"
+    },
+    {
+     "s": "Who would like to make small talk according to the speaker?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据说话者，谁愿意闲聊？"
+    },
+    {
+     "s": "Why do people have small talk?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么人们要闲聊？"
+    },
+    {
+     "s": "Which of the following is a frequent topic in small talk?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "以下哪项属于闲聊中常见的话题？"
+    },
+    {
+     "s": "Making small talk interesting.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "让闲聊变得有趣。"
+    },
+    {
+     "s": "Who would like to make small talk according to the speaker?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据说话者，谁愿意闲聊？"
+    },
+    {
+     "s": "Why do people have small talk?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么人们要闲聊？"
+    },
+    {
+     "s": "Which of the following is a frequent topic in small talk?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "以下哪项属于闲聊中常见的话题？"
+    },
+    {
+     "s": "Making small talk interesting.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "让闲聊变得有趣。"
+    },
+    {
+     "s": "As the small boat moved,   68   (gentle) along the river he was left speechless by the mountains being silently reflected in the water.",
+     "src": "2020全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当小船移动时，   68  （轻柔）地沿河而下，群山在水中静静倒影的景象让他哑口无言。"
+    },
+    {
+     "s": "Who would like to make small talk according to the speaker?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据说话者，谁愿意闲聊？"
+    },
+    {
+     "s": "Why do people have small talk?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么人们要闲聊？"
+    },
+    {
+     "s": "Which of the following is a frequent topic in small talk?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "以下哪项属于闲聊中常见的话题？"
+    },
+    {
+     "s": "Making small talk interesting.",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "让闲聊变得有趣。"
+    },
+    {
+     "s": "“Small does not mean weak, sir,” she defended herself.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“小不意味着弱，先生，”她为自己辩护道。"
+    },
+    {
+     "s": "They often feel discouraged long before trying to solve the problem, even if small.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们往往在尝试解决问题之前很久就感到气馁，即使问题很小。"
+    },
+    {
+     "s": "I became interesting in playing football thanks to a small accident.",
+     "src": "2019全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "多亏一次小意外，我对踢足球产生了兴趣。"
+    },
+    {
+     "s": "Ehlers   41   about the small dog he had seen   42   alongside the road.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "埃勒斯____41____他在路边____42____看到的那只小狗。"
+    },
+    {
+     "s": "Often spoken by many people while hot, wet zones have lots, often spoken by small numbers.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "通常由很多人使用，而炎热潮湿地区有很多种语言，通常只有少数人使用。"
+    },
+    {
+     "s": "Small color choices are the ones we’re most familiar with",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "小色彩选择是我们最熟悉的"
+    },
+    {
+     "s": "Color choices in this range are a step up from the small ones in two major ways",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这一范围的色彩选择在小面积选择基础上有两个主要提升"
+    },
+    {
+     "s": "The first time I went there, they were living in a small house with dogs, ducks, and another animals.",
+     "src": "2018全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我第一次去那里时，他们住在一间小屋里，养着狗、鸭子和其他动物。"
+    },
+    {
+     "s": "They also had a small pond, which they raised fish.",
+     "src": "2018全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他们还有一个小池塘，他们在里面养鱼。"
+    },
+    {
+     "s": "But the next time you find yourself among strangers, consider that small talk is worth the trouble.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但下次你发现自己和陌生人在一起时，考虑一下闲聊是值得麻烦的。"
+    },
+    {
+     "s": "Carducci believes developing such a sense of belonging starts with small talk.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "Carducci 认为，培养这种归属感始于闲聊。"
+    },
+    {
+     "s": "“Small talk is the basis of good manners,” he says.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "\"闲聊是良好礼貌的基础，\"他说。"
+    },
+    {
+     "s": "What does the coffee-shop study suggest about small talk?",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "咖啡店的研究关于闲聊说明了什么？"
+    },
+    {
+     "s": "Ways of Making Small Talk",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "闲聊的方式"
+    },
+    {
+     "s": "Benefits of Small TalkD.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "闲聊的好处 D."
+    },
+    {
+     "s": "For just a small donation you can take a tour with our garden guide.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "只需少量捐款，你就能在我们的园艺导游带领下参观。"
+    },
+    {
+     "s": "And while plastic bags may be ugly to look at, they represent a small percentage of all garbage on the ground today.z.x.xk",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "而且尽管塑料袋看着可能丑，但它们只占如今地面所有垃圾的很小比例。z.x.xk"
+    },
+    {
+     "s": "He may change the shirt because it's too small.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他可能会换这件衬衫，因为它太小了。"
+    },
+    {
+     "s": "The movie is set in a small town where the only movie theater is preparing to close down.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这部电影设定在一个小镇上，那里唯一的电影院正准备关闭。"
+    },
+    {
+     "s": "Breaking up firms like Google into five small ones would not stop remaking themselves: in time, one of them would become great again.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "像谷歌这样的公司即使被拆分成五家小公司，也无法阻止它们重新崛起：迟早其中一家会再次壮大。"
+    },
+    {
+     "s": "Small companies could get more opportunities.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "小公司可以获得更多机会。"
+    },
+    {
+     "s": "The numbers might sound small, but they are the leading edge of a dangerous trend.",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这些数字听起来可能很小，但它们是一种危险趋势的前沿。"
+    },
+    {
+     "s": "Those without outside space can rent small pieces of land on which to grow things.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "那些没有户外空间的人可以租用小块土地来种植东西。"
+    },
+    {
+     "s": "Finally, she tried the small chair.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "最后，她试了试小椅子。"
+    }
+   ]
+  },
+  {
+   "def": "in a small size 小小地",
+   "ex": []
+  },
+  {
+   "def": "the lower part of the back where it curves in 后腰",
+   "ex": []
+  },
+  {
+   "def": "small items of clothing, especially underwear 小件衣服（尤指内衣）",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "very small",
+   "cn": "非常小",
+   "type": "形容词搭配",
+   "count": 10
+  },
+  {
+   "en": "too small",
+   "cn": "太小",
+   "type": "形容词搭配",
+   "count": 4
+  }
+ ]
 }
