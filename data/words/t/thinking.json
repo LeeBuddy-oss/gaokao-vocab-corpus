@@ -1,521 +1,509 @@
 {
-  "meta": {
-    "ph": "ˈθɪŋkɪŋ; NAmE ˈθɪŋkɪŋ",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈθɪŋkɪŋ; NAmE ˈθɪŋkɪŋ",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "the process of thinking about sth 思想；思考；思维",
+   "ex": [
+    {
+     "s": "Across all participants, those in the beauty group scored almost 14% higher on average than the control group in abstract thinking.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在所有参与者中，美组在抽象思维上平均比控制组高出近14%。"
+    },
+    {
+     "s": "Among those, the effect was greater: those with an artistic hobby in the beauty group scored over 25% higher on average for abstract thinking than those with an artistic hobby in the control group.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在其中，效果更明显：有艺术爱好的“美”组在抽象思维上的平均得分比有艺术爱好的对照组高出25%以上。"
+    },
+    {
+     "s": "Importantly, however, the beauty group did not report feeling any happier than the control group, suggesting that it was the engagement with beauty that influenced abstract thinking, rather than any overall positivity from the experience.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "然而重要的是，美感组并没有报告比对照组更快乐，这表明影响抽象思维的是与美的接触，而不是这次经历带来的整体积极情绪。"
+    },
+    {
+     "s": "To identify their specific thinking patterns.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "为了识别他们特定的思维模式。"
+    },
+    {
+     "s": "It needs critical thinking skills.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它需要批判性思维能力。"
+    },
+    {
+     "s": "It encourages abstract thinking.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它能促进抽象思维。"
+    },
+    {
+     "s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"
+    },
+    {
+     "s": "I missed that paragraph because I was thinking of something else, but I’m going to keep on going and start paying close attention.”",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我漏看了那一段，因为我在想别的事情，但我会继续读下去，并开始集中注意力。\""
+    },
+    {
+     "s": "But lately I’ve been thinking about a possibility the story ignores.",
+     "src": "2026北京卷·写作问答",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "但最近我一直在思考这个故事所忽略的一种可能性。"
+    },
+    {
+     "s": "My wife suggested I get in touch with my brother, but I resisted, thinking he should call first.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我妻子建议我和我弟弟取得联系，但我抗拒，觉得应该他先打电话。"
+    },
+    {
+     "s": "“If you’re scared about something and thinking only about that, there’s no way you’re going to be able to learn,” Ho says.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "如果你害怕某件事并且只想着那件事，你是不可能学好的。"
+    },
+    {
+     "s": "Thinking that the man might get away with whatever he wanted before the police arrived, Kevin decided to do something.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "想到那个人可能会在警察到达之前逃脱并得到他想要的任何东西，凯文决定采取行动。"
+    },
+    {
+     "s": "Such structured thinking, followed by global regulation, will enable us to achieve greatness rather than our downfall.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这种有条理的思考，加之随之而来的全球性监管，将使我们成就伟大，而不是走向衰落。"
+    },
+    {
+     "s": "She stopped thinking about the word “mile.” Instead, she focused on reaching the shadow cast on the track by an oak tree up ahead.",
+     "src": "2024浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "她不再去想\"英里\"这个词。相反，她专注于跑到前方一棵橡树投在跑道上的影子处。"
+    },
+    {
+     "s": "Teaching critical thinking skills.",
+     "src": "2023新课标I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "教授批判性思维技能。"
+    },
+    {
+     "s": "When I was in middle school, my social studies teacher asked me to enter a writing contest I said no without thinking.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "上中学时，我的社会课老师让我参加一个写作比赛，我想都没想就拒绝了。"
+    },
+    {
+     "s": "“They come to us thinking vegetables are awful, dirt is awful, insects are awful.” Though some are initially scared of the insects and turned off by the dirt, most are eager to try something new.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "“他们来找我们时，认为蔬菜很讨厌，泥土很讨厌，昆虫很讨厌。”虽然有些人一开始害怕昆虫、厌恶泥土，但大多数人都渴望尝试新事物。"
+    },
+    {
+     "s": "When I was in middle school, my social studies teacher asked me to enter a writing contest I said no without thinking.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "上中学时，我的社会课老师让我参加一个写作比赛，我想都没想就拒绝了。"
+    },
+    {
+     "s": "Humans, in thinking, talking, reading and writing, also work with symbols.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "人类在思考，交谈，阅读和写作中，也用符号工作。"
+    },
+    {
+     "s": "Far-sighted thinking matters to humans.",
+     "src": "2023北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "远见卓识对人类很重要。"
+    },
+    {
+     "s": "The result—an approach known as systems thinking—is now seen as essential in meeting global challenges.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "结果——一种被称为系统思维的方法——现在被视为应对全球挑战的关键。"
+    },
+    {
+     "s": "According to systems thinking, changing the food system—or any other network—requires three things to happen.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "根据系统思维，改变食物系统——或任何其他网络——需要三件事情发生。"
+    },
+    {
+     "s": "The first objective of systems thinking hasn’t been achieved.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "系统思维的第一个目标尚未达成。"
+    },
+    {
+     "s": "As for systems thinking, which would the author agree with?",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "关于系统思维，作者会同意哪种说法？"
+    },
+    {
+     "s": "Recently a leading scientist said the scientific method was to avoid fooling oneself into thinking something is true that is not.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "最近，一位顶尖科学家说，科学方法就是避免自欺欺人地相信不真实的东西。"
+    },
+    {
+     "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
+    },
+    {
+     "s": "The researchers examined various levels of noise on participants as they completed tests of creative thinking.",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "研究人员在参与者完成创造性思维测试时，考察了不同程度噪音对他们造成的影响。"
+    },
+    {
+     "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
+    },
+    {
+     "s": "But since the results at 70 decibels were significant, the study also suggests that the right level of background noise—not too loud and not total silence—may actually improve one’s creative thinking ability.",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
+    },
+    {
+     "s": "The right level of background noise may interrupt our normal patterns of thinking just enough to allow our imaginations to wander, without making it impossible to focus.",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "恰到好处的背景噪音可能恰好会打断我们正常的思维模式，让我们的想象力得以漫游，而不会让人无法集中注意力。"
+    },
+    {
+     "s": "Which level of background noise may promote creative thinking ability?",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "哪个水平的背景噪音可能促进创造性思维能力？"
+    },
+    {
+     "s": "And hopes this can inspire more thinking on the topic!",
+     "src": "2021全国乙卷·短文改错",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "并希望这能激发更多关于这个话题的思考！"
+    },
+    {
+     "s": "But when he went bike shopping, he found few available, which got him thinking: What if the 20  of bikes was Covid-19 related, and what if the person who'd taken his bike really needed 21    to get to work?",
+     "src": "2021天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "但当他去买自行车时发现几乎没有可买的车这让他思考：如果自行车的   20   缺乏与新冠疫情有关呢如果拿走他车的人真的需要   21    去上班呢？"
+    },
+    {
+     "s": "After their mother left the room, the children sat thinking about Bernard.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
+    },
+    {
+     "s": "After their mother left the room, the children sat thinking about Bernard.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
+    },
+    {
+     "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
+    },
+    {
+     "s": "Those viewing the quality of Abbot Hall’s temporary exhibitions may be forgiven for thinking they are in a city gallery.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "参观阿博特大厅临时展览水准的人，若以为自己身处城市画廊，是可以被原谅的。"
+    },
+    {
+     "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
+    },
+    {
+     "s": "Challenging work that requires lots of analytical thinking, planning and other managerial skills might help your brain stay sharp as you age, a study published Wednesday in the journal Neurology suggests.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "周三发表在《神经学》期刊上的一项研究表明，需要大量分析思考、规划和其他管理技能的富有挑战性的工作，可能有助于你的大脑随着年龄增长保持敏锐。"
+    },
+    {
+     "s": "Researchers from the University of Leipzig in Germany gathered more than 1, 000 retired workers who were over age 75 and assessed the volunteers’ memory and thinking skills through a battery of tests.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "德国莱比锡大学的研究人员召集了1000多名75岁以上的退休工人，通过一系列测试评估志愿者的记忆力和思维能力。"
+    },
+    {
+     "s": "If we want big green sky solutions, we need blue sky thinking.",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果我们想要大型绿色天空解决方案，我们需要富有远见的创新思维。"
+    },
+    {
+     "s": "You will find something here that will arouse your interest, or get you thinking about the significance of history.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你会在这里发现激起你兴趣、或让你思考历史意义的东西。"
+    },
+    {
+     "s": "Many people think that positive thinking is mostly about keeping one's head in the sand and ignoring daily problems, trying to look optimistic.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "许多人认为积极思维主要是把头埋进沙里、忽视日常问题、试图显得乐观。"
+    },
+    {
+     "s": "46   Meanwhile, positive thinking can help to stop negative self-talks and start to form a positive view on an issue.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "46   同时，积极思考能帮助停止消极的自我对话，并开始对事物形成积极的看法。"
+    },
+    {
+     "s": "People who regularly practise positive thinking tend to solve problems more effectively.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "经常练习积极思维的人往往能更有效地解决问题。"
+    },
+    {
+     "s": "Positive thinking also contributes to one's ability to deal with problems and hardships.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "积极思维也有助一个人应对问题和困难的能力。"
+    },
+    {
+     "s": "In conclusion, positive thinking is a powerful and effective tool for dealing with hard times and improving the quality of one's life.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "总之，积极思考是应对艰难时期、提升生活质量的强大而有效的工具。"
+    },
+    {
+     "s": "Thinking in a positive, self-encouraging way brings about many benefits to one's physical and mental health.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "以积极、自我鼓励的方式思考，会给身心带来许多益处。"
+    },
+    {
+     "s": "Positive thinking has several beneficial effects on the body and the mind.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "积极思维对身体和心灵都有几种有益影响。"
+    },
+    {
+     "s": "As thinking changes, an individual's behaviour and habits change as well.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随着思维改变，一个人的行为和习惯也随之改变。"
+    },
+    {
+     "s": "They often offer a real alternative to the common and regular way of thinking.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们通常提供一种真正的替代方案来取代常见的常规思维方式。"
+    },
+    {
+     "s": "It would allow much room for free thinking．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "B．它将为自由思考提供很大空间"
+    },
+    {
+     "s": "Positive thinking and action result in success.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "积极思维和行动带来成功。"
+    },
+    {
+     "s": "During my second year at the city college, I was told that the education department was offering a “free” course, called Thinking Chess, for three credits.",
+     "src": "2018全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我在城市学院读大二时，听说教育系开设了一门名为\"国际象棋思维\"的\"免费\"课程，可获得3个学分。"
+    },
+    {
+     "s": "For weeks, I’ve been thinking of bigger, deeper questions: How do we make it a habit for them?",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "几周来，我一直在思考更大、更深的问题：我们如何让它成为他们的习惯？"
+    },
+    {
+     "s": "It was a tradition for the school's old team to play against the（4）     team at the end of spring practice． The old team had no coach， and they didn't even practice to（5）     the game． Being the coach of the new team， I was excited because I knew we were going to win， but to my disappointment we were defeated． I couldn't （6）     I had got into such a situation． Thinking hard about it， I came to（7）     that my team might not be the number one team in Georgia， but they were（8）     me． I had to change my （9）     about their ability and potential．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "学校的元老队在春季训练结束时与（4）______队比赛是一个传统。元老队没有教练，他们甚至不为（5）______比赛而练习。作为新队的教练，我很兴奋，因为我知道我们会赢，但令我失望的是我们被打败了。我无法（6）______相信我会陷入这样的境地。仔细思考后，我（7）______意识到我的队可能不是佐治亚州第一名，但他们信任（8）______我。我必须改变我对他们能力和潜力的（9）______看法。"
+    },
+    {
+     "s": "Thirty years later， a woman approached me in a public place． \"Excuse me， did you ever enter a residence， long ago， thinking it was the McNay Museum？\"",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "三十年后，一位女士在公共场所走近我。“打扰一下，你很久以前是否曾进过一户住宅，以为那是麦克奈博物馆？”"
+    },
+    {
+     "s": "Policymakers should start thinking now about how to make sure the appearance of driverless vehicles doesn’t extend the worst aspects of the car-controlled transportation system we have today.",
+     "src": "2018北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "政策制定者现在就应该开始思考，如何确保无人驾驶车辆的出现不会放大我们今天这种以汽车为主导的交通体系中最糟糕的方面。"
+    },
+    {
+     "s": "Each day, 27 kids  41  “The Thinking Laboratory.” That was the   42   students voted for after deciding that “Room 104” was too   43   .",
+     "src": "2017全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "每天，27个孩子都____\"思维实验室\"。那是学生们投票选出的名字，因为他们觉得\"104室\"太____了。"
+    },
+    {
+     "s": "Police    47    the young teacher’s quick thinking.",
+     "src": "2017浙江11月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "警方__47____了这位年轻老师的机智反应。"
+    },
+    {
+     "s": "In 1973, I was teaching elementary school.Each day, 27 kids  41    “The Thinking Laboratory.”That was the      42     students voted for after deciding that “Room 104” was too   43   .",
+     "src": "2017重庆卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "1973年，我在教小学。每天，27个孩子____41____“思维实验室”。那是学生们在认定“104室”太____43____之后投票选出的____42____名字。"
+    },
+    {
+     "s": "This got me thinking how English can be a crazy language to learn.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "这让我想到，英语学起来可真是一门疯狂的语言。"
+    },
+    {
+     "s": "\"I'm thinking about what life is going to be like here.\" \"Don't worry,\" he said, giving me a smile.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "“我在想这里的生活会是什么样。”“别担心，”他微笑着对我说。"
+    },
+    {
+     "s": "Tell him directly and honestly that you were talking without thinking.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "直接而诚恳地告诉他，你刚才说话是没有经过思考的。"
+    },
+    {
+     "s": "Three days ago, to complete her homework quickly, she copied part of the article without thinking.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "三天前，为了快速完成作业，她想都没想就抄了文章的一部分。"
+    },
+    {
+     "s": "You of course say that it’s wonderful, despite secretly thinking that your cat can sing better.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "你当然会说那很棒，尽管心里暗想自己的猫唱得更好。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "ideas or opinions about sth 想法；见解",
+   "ex": [
     {
-      "def": "the process of thinking about sth 思想；思考；思维",
-      "ex": [
-        {
-          "s": "Across all participants, those in the beauty group scored almost 14% higher on average than the control group in abstract thinking.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在所有参与者中，美组在抽象思维上平均比控制组高出近14%。"
-        },
-        {
-          "s": "Among those, the effect was greater: those with an artistic hobby in the beauty group scored over 25% higher on average for abstract thinking than those with an artistic hobby in the control group.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在其中，效果更明显：有艺术爱好的“美”组在抽象思维上的平均得分比有艺术爱好的对照组高出25%以上。"
-        },
-        {
-          "s": "Importantly, however, the beauty group did not report feeling any happier than the control group, suggesting that it was the engagement with beauty that influenced abstract thinking, rather than any overall positivity from the experience.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "然而重要的是，美感组并没有报告比对照组更快乐，这表明影响抽象思维的是与美的接触，而不是这次经历带来的整体积极情绪。"
-        },
-        {
-          "s": "To identify their specific thinking patterns.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了识别他们特定的思维模式。"
-        },
-        {
-          "s": "It needs critical thinking skills.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它需要批判性思维能力。"
-        },
-        {
-          "s": "It encourages abstract thinking.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它能促进抽象思维。"
-        },
-        {
-          "s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"
-        },
-        {
-          "s": "I missed that paragraph because I was thinking of something else, but I’m going to keep on going and start paying close attention.”",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我漏看了那一段，因为我在想别的事情，但我会继续读下去，并开始集中注意力。\""
-        },
-        {
-          "s": "But lately I’ve been thinking about a possibility the story ignores.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "但最近我一直在思考这个故事所忽略的一种可能性。"
-        },
-        {
-          "s": "My wife suggested I get in touch with my brother, but I resisted, thinking he should call first.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我妻子建议我和我弟弟取得联系，但我抗拒，觉得应该他先打电话。"
-        },
-        {
-          "s": "“If you’re scared about something and thinking only about that, there’s no way you’re going to be able to learn,” Ho says.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "如果你害怕某件事并且只想着那件事，你是不可能学好的。"
-        },
-        {
-          "s": "Thinking that the man might get away with whatever he wanted before the police arrived, Kevin decided to do something.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "想到那个人可能会在警察到达之前逃脱并得到他想要的任何东西，凯文决定采取行动。"
-        },
-        {
-          "s": "Such structured thinking, followed by global regulation, will enable us to achieve greatness rather than our downfall.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这种有条理的思考，加之随之而来的全球性监管，将使我们成就伟大，而不是走向衰落。"
-        },
-        {
-          "s": "She stopped thinking about the word “mile.” Instead, she focused on reaching the shadow cast on the track by an oak tree up ahead.",
-          "src": "2024浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "她不再去想\"英里\"这个词。相反，她专注于跑到前方一棵橡树投在跑道上的影子处。"
-        },
-        {
-          "s": "Teaching critical thinking skills.",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "教授批判性思维技能。"
-        },
-        {
-          "s": "When I was in middle school, my social studies teacher asked me to enter a writing contest I said no without thinking.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "上中学时，我的社会课老师让我参加一个写作比赛，我想都没想就拒绝了。"
-        },
-        {
-          "s": "“They come to us thinking vegetables are awful, dirt is awful, insects are awful.” Though some are initially scared of the insects and turned off by the dirt, most are eager to try something new.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“他们来找我们时，认为蔬菜很讨厌，泥土很讨厌，昆虫很讨厌。”虽然有些人一开始害怕昆虫、厌恶泥土，但大多数人都渴望尝试新事物。"
-        },
-        {
-          "s": "When I was in middle school, my social studies teacher asked me to enter a writing contest I said no without thinking.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "上中学时，我的社会课老师让我参加一个写作比赛，我想都没想就拒绝了。"
-        },
-        {
-          "s": "Humans, in thinking, talking, reading and writing, also work with symbols.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "人类在思考，交谈，阅读和写作中，也用符号工作。"
-        },
-        {
-          "s": "Far-sighted thinking matters to humans.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "远见卓识对人类很重要。"
-        },
-        {
-          "s": "The result—an approach known as systems thinking—is now seen as essential in meeting global challenges.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "结果——一种被称为系统思维的方法——现在被视为应对全球挑战的关键。"
-        },
-        {
-          "s": "According to systems thinking, changing the food system—or any other network—requires three things to happen.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "根据系统思维，改变食物系统——或任何其他网络——需要三件事情发生。"
-        },
-        {
-          "s": "The first objective of systems thinking hasn’t been achieved.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "系统思维的第一个目标尚未达成。"
-        },
-        {
-          "s": "As for systems thinking, which would the author agree with?",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于系统思维，作者会同意哪种说法？"
-        },
-        {
-          "s": "Recently a leading scientist said the scientific method was to avoid fooling oneself into thinking something is true that is not.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最近，一位顶尖科学家说，科学方法就是避免自欺欺人地相信不真实的东西。"
-        },
-        {
-          "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
-        },
-        {
-          "s": "The researchers examined various levels of noise on participants as they completed tests of creative thinking.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "研究人员在参与者完成创造性思维测试时，考察了不同程度噪音对他们造成的影响。"
-        },
-        {
-          "s": "Since the effects were small, this may suggest that our creative thinking does not differ that much in response to total silence and 85 decibels of background noise.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "由于影响很小，这可能表明我们的创造性思维在完全安静和85分贝背景噪音下的反应并没有太大不同。"
-        },
-        {
-          "s": "But since the results at 70 decibels were significant, the study also suggests that the right level of background noise—not too loud and not total silence—may actually improve one’s creative thinking ability.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
-        },
-        {
-          "s": "The right level of background noise may interrupt our normal patterns of thinking just enough to allow our imaginations to wander, without making it impossible to focus.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "恰到好处的背景噪音可能恰好会打断我们正常的思维模式，让我们的想象力得以漫游，而不会让人无法集中注意力。"
-        },
-        {
-          "s": "Which level of background noise may promote creative thinking ability?",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "哪个水平的背景噪音可能促进创造性思维能力？"
-        },
-        {
-          "s": "And hopes this can inspire more thinking on the topic!",
-          "src": "2021全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "并希望这能激发更多关于这个话题的思考！"
-        },
-        {
-          "s": "But when he went bike shopping, he found few available, which got him thinking: What if the 20  of bikes was Covid-19 related, and what if the person who'd taken his bike really needed 21    to get to work?",
-          "src": "2021天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但当他去买自行车时发现几乎没有可买的车这让他思考：如果自行车的   20   缺乏与新冠疫情有关呢如果拿走他车的人真的需要   21    去上班呢？"
-        },
-        {
-          "s": "After their mother left the room, the children sat thinking about Bernard.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
-        },
-        {
-          "s": "After their mother left the room, the children sat thinking about Bernard.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
-        },
-        {
-          "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
-        },
-        {
-          "s": "Those viewing the quality of Abbot Hall’s temporary exhibitions may be forgiven for thinking they are in a city gallery.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "参观阿博特大厅临时展览水准的人，若以为自己身处城市画廊，是可以被原谅的。"
-        },
-        {
-          "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
-        },
-        {
-          "s": "Challenging work that requires lots of analytical thinking, planning and other managerial skills might help your brain stay sharp as you age, a study published Wednesday in the journal Neurology suggests.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "周三发表在《神经学》期刊上的一项研究表明，需要大量分析思考、规划和其他管理技能的富有挑战性的工作，可能有助于你的大脑随着年龄增长保持敏锐。"
-        },
-        {
-          "s": "Researchers from the University of Leipzig in Germany gathered more than 1, 000 retired workers who were over age 75 and assessed the volunteers’ memory and thinking skills through a battery of tests.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "德国莱比锡大学的研究人员召集了1000多名75岁以上的退休工人，通过一系列测试评估志愿者的记忆力和思维能力。"
-        },
-        {
-          "s": "If we want big green sky solutions, we need blue sky thinking.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果我们想要大型绿色天空解决方案，我们需要富有远见的创新思维。"
-        },
-        {
-          "s": "You will find something here that will arouse your interest, or get you thinking about the significance of history.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你会在这里发现激起你兴趣、或让你思考历史意义的东西。"
-        },
-        {
-          "s": "Many people think that positive thinking is mostly about keeping one's head in the sand and ignoring daily problems, trying to look optimistic.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "许多人认为积极思维主要是把头埋进沙里、忽视日常问题、试图显得乐观。"
-        },
-        {
-          "s": "46   Meanwhile, positive thinking can help to stop negative self-talks and start to form a positive view on an issue.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "46   同时，积极思考能帮助停止消极的自我对话，并开始对事物形成积极的看法。"
-        },
-        {
-          "s": "People who regularly practise positive thinking tend to solve problems more effectively.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "经常练习积极思维的人往往能更有效地解决问题。"
-        },
-        {
-          "s": "Positive thinking also contributes to one's ability to deal with problems and hardships.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "积极思维也有助一个人应对问题和困难的能力。"
-        },
-        {
-          "s": "In conclusion, positive thinking is a powerful and effective tool for dealing with hard times and improving the quality of one's life.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "总之，积极思考是应对艰难时期、提升生活质量的强大而有效的工具。"
-        },
-        {
-          "s": "Thinking in a positive, self-encouraging way brings about many benefits to one's physical and mental health.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "以积极、自我鼓励的方式思考，会给身心带来许多益处。"
-        },
-        {
-          "s": "Positive thinking has several beneficial effects on the body and the mind.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "积极思维对身体和心灵都有几种有益影响。"
-        },
-        {
-          "s": "As thinking changes, an individual's behaviour and habits change as well.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着思维改变，一个人的行为和习惯也随之改变。"
-        },
-        {
-          "s": "They often offer a real alternative to the common and regular way of thinking.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们通常提供一种真正的替代方案来取代常见的常规思维方式。"
-        },
-        {
-          "s": "It would allow much room for free thinking．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "B．它将为自由思考提供很大空间"
-        },
-        {
-          "s": "Positive thinking and action result in success.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "积极思维和行动带来成功。"
-        },
-        {
-          "s": "During my second year at the city college, I was told that the education department was offering a “free” course, called Thinking Chess, for three credits.",
-          "src": "2018全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我在城市学院读大二时，听说教育系开设了一门名为\"国际象棋思维\"的\"免费\"课程，可获得3个学分。"
-        },
-        {
-          "s": "For weeks, I’ve been thinking of bigger, deeper questions: How do we make it a habit for them?",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "几周来，我一直在思考更大、更深的问题：我们如何让它成为他们的习惯？"
-        },
-        {
-          "s": "It was a tradition for the school's old team to play against the（4）     team at the end of spring practice． The old team had no coach， and they didn't even practice to（5）     the game． Being the coach of the new team， I was excited because I knew we were going to win， but to my disappointment we were defeated． I couldn't （6）     I had got into such a situation． Thinking hard about it， I came to（7）     that my team might not be the number one team in Georgia， but they were（8）     me． I had to change my （9）     about their ability and potential．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "学校的元老队在春季训练结束时与（4）______队比赛是一个传统。元老队没有教练，他们甚至不为（5）______比赛而练习。作为新队的教练，我很兴奋，因为我知道我们会赢，但令我失望的是我们被打败了。我无法（6）______相信我会陷入这样的境地。仔细思考后，我（7）______意识到我的队可能不是佐治亚州第一名，但他们信任（8）______我。我必须改变我对他们能力和潜力的（9）______看法。"
-        },
-        {
-          "s": "Thirty years later， a woman approached me in a public place． \"Excuse me， did you ever enter a residence， long ago， thinking it was the McNay Museum？\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "三十年后，一位女士在公共场所走近我。“打扰一下，你很久以前是否曾进过一户住宅，以为那是麦克奈博物馆？”"
-        },
-        {
-          "s": "Policymakers should start thinking now about how to make sure the appearance of driverless vehicles doesn’t extend the worst aspects of the car-controlled transportation system we have today.",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "政策制定者现在就应该开始思考，如何确保无人驾驶车辆的出现不会放大我们今天这种以汽车为主导的交通体系中最糟糕的方面。"
-        },
-        {
-          "s": "Each day, 27 kids  41  “The Thinking Laboratory.” That was the   42   students voted for after deciding that “Room 104” was too   43   .",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "每天，27个孩子都____\"思维实验室\"。那是学生们投票选出的名字，因为他们觉得\"104室\"太____了。"
-        },
-        {
-          "s": "Police    47    the young teacher’s quick thinking.",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "警方__47____了这位年轻老师的机智反应。"
-        },
-        {
-          "s": "In 1973, I was teaching elementary school.Each day, 27 kids  41    “The Thinking Laboratory.”That was the      42     students voted for after deciding that “Room 104” was too   43   .",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "1973年，我在教小学。每天，27个孩子____41____“思维实验室”。那是学生们在认定“104室”太____43____之后投票选出的____42____名字。"
-        },
-        {
-          "s": "This got me thinking how English can be a crazy language to learn.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "这让我想到，英语学起来可真是一门疯狂的语言。"
-        },
-        {
-          "s": "\"I'm thinking about what life is going to be like here.\" \"Don't worry,\" he said, giving me a smile.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "“我在想这里的生活会是什么样。”“别担心，”他微笑着对我说。"
-        },
-        {
-          "s": "Tell him directly and honestly that you were talking without thinking.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "直接而诚恳地告诉他，你刚才说话是没有经过思考的。"
-        },
-        {
-          "s": "Three days ago, to complete her homework quickly, she copied part of the article without thinking.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "三天前，为了快速完成作业，她想都没想就抄了文章的一部分。"
-        },
-        {
-          "s": "You of course say that it’s wonderful, despite secretly thinking that your cat can sing better.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "你当然会说那很棒，尽管心里暗想自己的猫唱得更好。"
-        }
-      ]
-    },
-    {
-      "def": "ideas or opinions about sth 想法；见解",
-      "ex": [
-        {
-          "s": "Mum voiced what we were all thinking: It was strange to see the place so empty.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "妈妈说出了我们所有人的想法：看到这个地方如此空荡荡，感觉很奇怪。"
-        }
-      ]
+     "s": "Mum voiced what we were all thinking: It was strange to see the place so empty.",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "妈妈说出了我们所有人的想法：看到这个地方如此空荡荡，感觉很奇怪。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "positive thinking",
-      "cn": "积极思考",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "abstract thinking",
-      "cn": "抽象思维",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "thinking skills",
-      "cn": "思维技能",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "analytical thinking",
-      "cn": "思想",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "sat thinking",
-      "cn": "思想",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "thinking about",
-      "cn": "考虑",
-      "type": "介词短语",
-      "count": 10
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "positive thinking",
+   "cn": "积极思考",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "abstract thinking",
+   "cn": "抽象思维",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "thinking skills",
+   "cn": "思维技能",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "thinking about",
+   "cn": "考虑",
+   "type": "介词短语",
+   "count": 10
+  }
+ ]
 }
