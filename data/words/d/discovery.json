@@ -1,143 +1,136 @@
 {
-  "meta": {
-    "ph": "dɪˈskʌvəri; NAmE dɪˈskʌvəri",
-    "pos": "noun",
-    "stars": "★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "dɪˈskʌvəri; NAmE dɪˈskʌvəri",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "an act or the process of finding sb/sth, or learning about sth that was not known about before 发现；发觉",
+   "ex": [
     {
-      "def": "an act or the process of finding sb/sth, or learning about sth that was not known about before 发现；发觉",
-      "ex": [
-        {
-          "s": "Children's Discovery Museum",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "儿童发现博物馆"
-        },
-        {
-          "s": "To introduce a scientific discovery.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为了介绍一项科学发现。"
-        },
-        {
-          "s": "Until I made a discovery.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "直到我有了一个发现。"
-        },
-        {
-          "s": "In-depth exploration makes discoveries possible.",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "深入探索使发现成为可能。"
-        },
-        {
-          "s": "After achieving a Bachelor of Arts degree in 1831, he started his five-year voyage on the Beagle, which led to his important discoveries and his famous work On the Origin of Species.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "1831年获得文学学士学位后，他开始了在贝格尔号上为期五年的航行，这次航行带来了他的重要发现以及他著名的著作《物种起源》。"
-        },
-        {
-          "s": "the discovery of problems",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "问题的发现。"
-        },
-        {
-          "s": "I started a third drawer for these big discoveries.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我为这些重大发现开了第三个抽屉。"
-        },
-        {
-          "s": "The city was crowded with disappointed people with no interest in settling down, and when they heard there were new gold discoveries in Alaska, they left Dawson City as quickly as they had come.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这座城市挤满了失望的人们，他们无意定居，当听说阿拉斯加有新的金矿发现时，他们以当初来的速度离开了道森城。"
-        },
-        {
-          "s": "Despite all this, his adventures on this ship would lead to one of the most important scientific discoveries of all time.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "尽管如此，他在这艘船上的历险将导致有史以来最重要的科学发现之一。"
-        },
-        {
-          "s": "The second drawer began to fill and as it did I wondered whether there were bigger discoveries out there, not just species, but life that depends on things thought to be useless, life even without DNA.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二个抽屉开始装满，就在它装满时我想知道外面是否还有更大的发现，不只是物种，还有依赖被认为无用的东西生存的生命，甚至没有DNA的生命。"
-        },
-        {
-          "s": "In looking into the stories of biological discovery, I also began to find something else, a collection of scientists, usually brilliant occasionally half-mad, who made the discoveries.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二个抽屉也开始填满了，当它填满时我在想是否还有更大的发现，不仅仅是物种，还有依赖于被认为无用的东西的生命，甚至是没有DNA的生命。"
-        }
-      ]
+     "s": "Children's Discovery Museum",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "儿童发现博物馆"
     },
     {
-      "def": "a thing, fact or person that is found or learned about for the first time 被发现的事物（或真相、人）",
-      "ex": [
-        {
-          "s": "All these models are tools to deal with the unknown and to make discoveries.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "所有这些模型都是应对未知和做出发现的工具。"
-        },
-        {
-          "s": "Science is a process of learning and discovery, and sometimes we learn that what we thought was right is wrong.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "科学是一个学习和发现的过程，有时我们学到，我们原以为对的东西是错的。"
-        },
-        {
-          "s": "How did those brilliant scientists make great discoveries?",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "那些才华横溢的科学家是如何做出重大发现的？"
-        },
-        {
-          "s": "Encouraged by discoveries over the years, space agencies of various countries are planning manned missions to Mars that could take place within the next 25 years.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "在过去几年的发现的鼓舞下，各国的太空机构正在规划可能在未来25年内进行的火星载人任务。"
-        },
-        {
-          "s": "I began a second drawer for more general discoveries: new cave system discovered with dozens of nameless species, four hundred species of bacteria found in the human stomach.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我开始了第二个抽屉，用来放更一般的发现：被发现的有几十种无名物种的新洞穴系统、在人体胃部发现的四百种细菌。"
-        },
-        {
-          "s": "In looking for the stories of discovery, I found the stories of these people and how their lives changed our view of the world.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在寻找发现的故事时，我找到了这些人的故事，以及他们的生活如何改变了我们的世界观。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "To introduce a scientific discovery.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为了介绍一项科学发现。"
+    },
     {
-      "en": "discovery i",
-      "cn": "发现我",
-      "type": "名词短语",
-      "count": 2
+     "s": "Until I made a discovery.",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "直到我有了一个发现。"
+    },
+    {
+     "s": "In-depth exploration makes discoveries possible.",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "深入探索使发现成为可能。"
+    },
+    {
+     "s": "After achieving a Bachelor of Arts degree in 1831, he started his five-year voyage on the Beagle, which led to his important discoveries and his famous work On the Origin of Species.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "1831年获得文学学士学位后，他开始了在贝格尔号上为期五年的航行，这次航行带来了他的重要发现以及他著名的著作《物种起源》。"
+    },
+    {
+     "s": "the discovery of problems",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "问题的发现。"
+    },
+    {
+     "s": "I started a third drawer for these big discoveries.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我为这些重大发现开了第三个抽屉。"
+    },
+    {
+     "s": "The city was crowded with disappointed people with no interest in settling down, and when they heard there were new gold discoveries in Alaska, they left Dawson City as quickly as they had come.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这座城市挤满了失望的人们，他们无意定居，当听说阿拉斯加有新的金矿发现时，他们以当初来的速度离开了道森城。"
+    },
+    {
+     "s": "Despite all this, his adventures on this ship would lead to one of the most important scientific discoveries of all time.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "尽管如此，他在这艘船上的历险将导致有史以来最重要的科学发现之一。"
+    },
+    {
+     "s": "The second drawer began to fill and as it did I wondered whether there were bigger discoveries out there, not just species, but life that depends on things thought to be useless, life even without DNA.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第二个抽屉开始装满，就在它装满时我想知道外面是否还有更大的发现，不只是物种，还有依赖被认为无用的东西生存的生命，甚至没有DNA的生命。"
+    },
+    {
+     "s": "In looking into the stories of biological discovery, I also began to find something else, a collection of scientists, usually brilliant occasionally half-mad, who made the discoveries.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第二个抽屉也开始填满了，当它填满时我在想是否还有更大的发现，不仅仅是物种，还有依赖于被认为无用的东西的生命，甚至是没有DNA的生命。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a thing, fact or person that is found or learned about for the first time 被发现的事物（或真相、人）",
+   "ex": [
+    {
+     "s": "All these models are tools to deal with the unknown and to make discoveries.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "所有这些模型都是应对未知和做出发现的工具。"
+    },
+    {
+     "s": "Science is a process of learning and discovery, and sometimes we learn that what we thought was right is wrong.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "科学是一个学习和发现的过程，有时我们学到，我们原以为对的东西是错的。"
+    },
+    {
+     "s": "How did those brilliant scientists make great discoveries?",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "那些才华横溢的科学家是如何做出重大发现的？"
+    },
+    {
+     "s": "Encouraged by discoveries over the years, space agencies of various countries are planning manned missions to Mars that could take place within the next 25 years.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "在过去几年的发现的鼓舞下，各国的太空机构正在规划可能在未来25年内进行的火星载人任务。"
+    },
+    {
+     "s": "I began a second drawer for more general discoveries: new cave system discovered with dozens of nameless species, four hundred species of bacteria found in the human stomach.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我开始了第二个抽屉，用来放更一般的发现：被发现的有几十种无名物种的新洞穴系统、在人体胃部发现的四百种细菌。"
+    },
+    {
+     "s": "In looking for the stories of discovery, I found the stories of these people and how their lives changed our view of the world.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在寻找发现的故事时，我找到了这些人的故事，以及他们的生活如何改变了我们的世界观。"
+    }
+   ]
+  }
+ ],
+ "chunks": []
 }
