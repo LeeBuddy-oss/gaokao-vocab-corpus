@@ -1,58 +1,51 @@
 {
-  "meta": {
-    "ph": "ˈentəpraɪz; NAmE ˈentərpraɪz",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈentəpraɪz; NAmE ˈentərpraɪz",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a company or business 公司；企业单位；事业单位",
+   "ex": [
+    {
+     "s": "These are the voyages of the starship Enterprise.",
+     "src": "人教B3 U5",
+     "cat": "renjiao",
+     "t": "这些是星舰企业号的航程。"
+    },
+    {
+     "s": "The growth in tourism also meant the local population rose rapidly, as well as the number of commercial and industrial enterprises.",
+     "src": "人教选必3 U3",
+     "cat": "renjiao",
+     "t": "旅游业的增长也意味着当地人口迅速增加，商业和工业企业的数量也随之增长。"
+    },
+    {
+     "s": "Dozens of polluting enterprises were closed or moved.",
+     "src": "人教选必3 U3",
+     "cat": "renjiao",
+     "t": "几十家污染企业被关闭或搬迁。"
+    },
+    {
+     "s": "For example, if you are a business person negotiating with a large enterprise about a deal, you should do it face to face, using formal language in a straightforward manner.",
+     "src": "译林选必4 U2",
+     "cat": "yilin",
+     "t": "例如，如果你是一名商务人士，正在与一家大企业洽谈交易，你就应该面对面地谈，用正式的语言，直截了当的方式。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "a company or business 公司；企业单位；事业单位",
-      "ex": [
-        {
-          "s": "These are the voyages of the starship Enterprise.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "这些是星舰企业号的航程。"
-        },
-        {
-          "s": "The growth in tourism also meant the local population rose rapidly, as well as the number of commercial and industrial enterprises.",
-          "src": "人教选必3 U3",
-          "cat": "renjiao",
-          "t": "旅游业的增长也意味着当地人口迅速增加，商业和工业企业的数量也随之增长。"
-        },
-        {
-          "s": "Dozens of polluting enterprises were closed or moved.",
-          "src": "人教选必3 U3",
-          "cat": "renjiao",
-          "t": "几十家污染企业被关闭或搬迁。"
-        },
-        {
-          "s": "For example, if you are a business person negotiating with a large enterprise about a deal, you should do it face to face, using formal language in a straightforward manner.",
-          "src": "译林选必4 U2",
-          "cat": "yilin",
-          "t": "例如，如果你是一名商务人士，正在与一家大企业洽谈交易，你就应该面对面地谈，用正式的语言，直截了当的方式。"
-        }
-      ]
-    },
-    {
-      "def": "a large project, especially one that is difficult （尤指艰巨而重大的）规划，事业",
-      "ex": []
-    },
-    {
-      "def": "the development of businesses by the people of a country rather than by the government 企业发展；企业经营；企业活动",
-      "ex": []
-    },
-    {
-      "def": "the ability to think of new projects and make them successful 事业心；进取心；创业精神",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "industrial enterprises",
-      "cn": "公司",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "a large project, especially one that is difficult （尤指艰巨而重大的）规划，事业",
+   "ex": []
+  },
+  {
+   "def": "the development of businesses by the people of a country rather than by the government 企业发展；企业经营；企业活动",
+   "ex": []
+  },
+  {
+   "def": "the ability to think of new projects and make them successful 事业心；进取心；创业精神",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
