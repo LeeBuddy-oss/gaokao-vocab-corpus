@@ -1,1383 +1,1371 @@
 {
-  "meta": {
-    "ph": "ˈpærəɡrɑːf; NAmE ˈpærəɡræf",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈpærəɡrɑːf; NAmE ˈpærəɡræf",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a section of a piece of writing, usually consisting of several sentences dealing with a single subject. The first sentence of a paragraph starts on a new line. 段；段落",
+   "ex": [
+    {
+     "s": "What does the underlined phrase “oblivious to” in paragraph 5 mean?",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第五段中划线短语“oblivious to”是什么意思？"
+    },
+    {
+     "s": "What can be inferred about Reisley from the last paragraph?",
+     "src": "2026新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "从最后一段能推断出关于雷伊斯利的什么？"
+    },
+    {
+     "s": "What is paragraph 3 mainly about?",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第3段主要讲什么？"
+    },
+    {
+     "s": "What does the underlined word “it” refer to in the last paragraph?",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "最后一段中划线词“it”指什么？"
+    },
+    {
+     "s": "What aspect of regenerative brakes is discussed in paragraph 5?",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第五段讨论了再生制动的哪个方面？"
+    },
+    {
+     "s": "Which aspect of the study does paragraph 2 mainly talk about?",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第2段主要谈了研究的哪个方面？"
+    },
+    {
+     "s": "What does the underlined word “glowing” in paragraph 4 mean?",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第四段中划线词“glowing”是什么意思？"
+    },
+    {
+     "s": "What can be inferred from the last paragraph?",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "从最后一段可以推断出什么？"
+    },
+    {
+     "s": "During your initial reading of material, do you ever go back and reread sentences or paragraphs?",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在你对材料的初步阅读过程中，你是否曾经回去重新阅读句子或段落？"
+    },
+    {
+     "s": "I missed that paragraph because I was thinking of something else, but I’m going to keep on going and start paying close attention.”",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我漏看了那一段，因为我在想别的事情，但我会继续读下去，并开始集中注意力。\""
+    },
+    {
+     "s": "What does the word “impetuous” underlined in Paragraph 5 most probably mean?",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第5段中带下划线的单词\"impetuous\"最可能是什么意思？"
+    },
+    {
+     "s": "Who are the people mentioned at the beginning of paragraph 1?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第1段开头提到的是哪些人？"
+    },
+    {
+     "s": "What does the underlined word “staggering” in paragraph 3 mean?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第3段中带下划线的单词\"staggering\"是什么意思？"
+    },
+    {
+     "s": "What phenomenon does the author point out in paragraph 1?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第一段指出了什么现象？"
+    },
+    {
+     "s": "How does the author present the issue in the first paragraph?",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第一段是如何呈现这一问题的？"
+    },
+    {
+     "s": "What does the author try to illustrate by mentioning bottled water in paragraph 4?",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第4段提到瓶装水是为了说明什么？"
+    },
+    {
+     "s": "What does the underlined word “it” refer to in paragraph 4?",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第4段中划线词“it”指代什么？"
+    },
+    {
+     "s": "What is paragraph 5 mainly about?",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第5段主要讲什么？"
+    },
+    {
+     "s": "What can be inferred about the author from the first paragraph?",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "从第一段可以推断出关于作者的什么信息？"
+    },
+    {
+     "s": "What does the underlined word “Eschewing” in the first paragraph mean?",
+     "src": "2025浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第一段中带下划线的单词\"Eschewing\"是什么意思？"
+    },
+    {
+     "s": "What does the last paragraph mainly talk about?",
+     "src": "2025浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "最后一段主要讲什么？"
+    },
+    {
+     "s": "Paragraph 1:  When Mr and Mrs Green got home, Kevin went to talk to them.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第1段：当格林夫妇回到家时，凯文去和他们说话。"
+    },
+    {
+     "s": "Paragraph 2:  Kevin and Mr Green took the watch they had found to the police station.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第2段：凯文和格林先生把他们捡到的手表交到了警察局。"
+    },
+    {
+     "s": "What does the word “nuances” underlined in Paragraph 2 most probably mean?",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第2段中带下划线的单词\"nuances\"最可能是什么意思？"
+    },
+    {
+     "s": "What does paragraph 3 mainly talk about?",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第3段主要讲什么？"
+    },
+    {
+     "s": "What does the underlined phrase “shine through” in paragraph 2 mean?",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第二段中划线短语“shine through”是什么意思？"
+    },
+    {
+     "s": "What does the author imply in the last paragraph?",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者在最后一段暗示了什么？"
+    },
+    {
+     "s": "What can be learned about BMF from paragraph 1?",
+     "src": "2024新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "从第1段能了解到关于BMF的什么？"
+    },
+    {
+     "s": "What does the phrase “In the wrong hands” in paragraph 2 probably mean?",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第二段中“In the wrong hands”这个短语可能是什么意思？"
+    },
+    {
+     "s": "What can be learned about cats' meowing from the first paragraph?",
+     "src": "2024全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "从第一段中关于猫的喵喵叫可以了解到什么？"
+    },
+    {
+     "s": "Which best explains the phrase \"take. . . up notch\" in paragraph 3?",
+     "src": "2024全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "哪一项最能解释第3段中『take...up notch』这个短语？"
+    },
+    {
+     "s": "What can we infer from paragraph 3 about Krasnoyarsk?",
+     "src": "2024全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "从第3段关于克拉斯诺亚尔斯克能推断出什么？"
+    },
+    {
+     "s": "What does the word “it” underlined in the first paragraph refer to?",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第一段中划线的“it”指代什么？"
+    },
+    {
+     "s": "What can we infer from the last paragraph?",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "从最后一段我们可以推断出什么？"
+    },
+    {
+     "s": "What can be learnt from the first two paragraphs?",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "从前两段中可以学到什么？"
+    },
+    {
+     "s": "Which is closest in meaning to the underlined word “squandering” in Paragraph 3?",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "下列哪个与第3段中划线词\"squandering\"的意思最接近？"
+    },
+    {
+     "s": "What is the author’s purpose in writing Paragraph 4?",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者写第四段的目的是什么？"
+    },
+    {
+     "s": "According to Paragraph 4, involuntary rereading can bring about?",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据第4段，无意识重读能带来什么？"
+    },
+    {
+     "s": "What does Paragraph 1 mainly tell us?",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第1款主要告诉我们什么？"
+    },
+    {
+     "s": "What does the underlined phrase mean in Paragraph 2? (no more than 2 words)",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第二段中划线短语是什么意思？（不超过2个词）"
+    },
+    {
+     "s": "What is the main idea of Paragraph 3? (no more than 10 words)",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第三段的主旨是什么？（不超过10个词）"
+    },
+    {
+     "s": "What does the underlined word mean in Paragraph 1?",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第一段中划线的词是什么意思？"
+    },
+    {
+     "s": "Why is the school so popular according to Paragraph 5? (no more than10 words)",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据第5段，为什么这所学校这么受欢迎？（不超过10词）"
+    },
+    {
+     "s": "What does the phrase “contingent on” underlined in Paragraph 2 probably mean?",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第二段中划线的短语\"contingent on\"可能是什么意思？"
+    },
+    {
+     "s": "What can we learn about John from the first two paragraphs?",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从开头两段我们能了解到关于约翰的什么？"
+    },
+    {
+     "s": "What does the underlined word “declutter” in paragraph 3 mean?",
+     "src": "2023新课标I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第三段中带下划线的单词“declutter”是什么意思？"
+    },
+    {
+     "s": "What is paragraph 2 of the text mainly about?",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "文章第2段主要讲什么？"
+    },
+    {
+     "s": "What do the underlined words “relate to” in paragraph 2 mean?",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第二段中带下划线的词“relate to”是什么意思？"
+    },
+    {
+     "s": "What can we learn from the example given in paragraph 5?",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从第五段给出的例子中我们可以了解到什么？"
+    },
+    {
+     "s": "Which is closest in meaning to “a dab hand” in paragraph 1?",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第一段中\"a dab hand\"的意思最接近哪个？"
+    },
+    {
+     "s": "Why does the author list great philosophers in paragraph 4?",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者为什么在第4段列举伟大的哲学家？"
+    },
+    {
+     "s": "What can be inferred from the last paragraph?",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从最后一段可以推断出什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What does the author indicate by mentioning Captain Cook in paragraph 2?",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者在第2段提到库克船长想说明什么？"
+    },
+    {
+     "s": "What does the underlined word “conversation” in paragraph 3 refer to?",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第三段中带下划线的“conversation”一词指的是什么？"
+    },
+    {
+     "s": "What do the underlined words “jump on that bandwagon” mean in the first paragraph?",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第一段中划线的词语\"jump on that bandwagon\"是什么意思？"
+    },
+    {
+     "s": "Why does the author mention Noa Ovadia in the first paragraph?",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者在第一段提到诺亚·奥瓦迪亚是为了什么？"
+    },
+    {
+     "s": "What does the underlined word “wrinkles” in paragraph 2 refer to?",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第二段中划线的词\"wrinkles\"指的是什么？"
+    },
+    {
+     "s": "What can we learn from the last paragraph?",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我们从最后一段能学到什么？"
+    },
+    {
+     "s": "What is the purpose of the laws mentioned in paragraph 4?",
+     "src": "2023浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第四段提到的法律的目的是什么？"
+    },
+    {
+     "s": "What does “neuronal fireworks” in Paragraph 2 refer to?",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第二段中的\"neuronal fireworks\"指的是什么？"
+    },
+    {
+     "s": "What does the underlined word mean in Paragraph 3?(no more than 2 words)",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第三段中划线的词是什么意思？（不超过2个词）"
+    },
+    {
+     "s": "What is one of the new research findings according to Paragraph 2?",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "根据第2段，新的研究发现之一是什么？"
+    },
+    {
+     "s": "What does the underlined word mean in Paragraph 1?",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第一段中划线的词是什么意思？"
+    },
+    {
+     "s": "Why does Cruse think his voluntary work is rewarding according to the last paragraph? (no more than 16 words)",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "根据最后一段，克鲁斯为什么认为他的志愿工作有意义？（不超过16词）"
+    },
+    {
+     "s": "One paragraph down; now what?",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "一段写完了；现在呢？"
+    },
+    {
+     "s": "What can be inferred from the last paragraph?",
+     "src": "2023北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从最后一段可以推断出什么？"
+    },
+    {
+     "s": "What does the word “enamored” underlined in Paragraph 3 most probably mean?",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第3段中带下划线的单词\"enamored\"最可能是什么意思？"
+    },
+    {
+     "s": "What do the underlined words “embark on” mean in paragraph 7?",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第7段中带下划线的词组\"embark on\"是什么意思？"
+    },
+    {
+     "s": "What can we learn about the project from the last two paragraphs?",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "从最后两段我们能了解到该项目的什么情况？"
+    },
+    {
+     "s": "What is paragraph 5 mainly about?",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第5段主要讲什么？"
+    },
+    {
+     "s": "What do the underlined words \"hit home for me\" mean in paragraph 2?",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第2段中带下划线的词组\"hit home for me\"是什么意思？"
+    },
+    {
+     "s": "What does the underlined word \"something\" in the last paragraph refer to?",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "最后一段中划线的『something』一词指的是什么？"
+    },
+    {
+     "s": "Which of the following best explains “take the plunge” underlined in paragraph 2?",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第2段中带下划线的词组\"take the plunge\"最可能是什么意思？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What can we learn about the girls from paragraph 3?",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "从第3段中我们能了解到关于这些女孩的什么？"
+    },
+    {
+     "s": "What does “maintenance” underlined in paragraph 3 refer to?",
+     "src": "2022全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第3段中划线的“maintenance”指的是什么？"
+    },
+    {
+     "s": "What is on the ever-growing list mentioned in the first paragraph?",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第一段中提到的不断增长的清单上是什么？"
+    },
+    {
+     "s": "Who does “the little girl” in paragraph 2 refer to?",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第2段中的\"小女孩\"指的是谁？"
+    },
+    {
+     "s": "What can be inferred from the last paragraph?",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "从最后一段可以推断出什么？"
+    },
+    {
+     "s": "What does the underlined word “prone” in Paragraph 3 most probably mean?",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第3段中带下划线的单词\"prone\"最可能是什么意思？"
+    },
+    {
+     "s": "What does the underlined word “empathy” in Paragraph 3 probably mean?",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第3段中划线词\"empathy\"可能是什么意思？"
+    },
+    {
+     "s": "What can be inferred from Paragraph 4?",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "从第4段可以推断出什么？"
+    },
+    {
+     "s": "Which of the following is TRUE about an elephant according to Paragraph 3?",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "根据第3段，以下关于大象的哪项是正确的？"
+    },
+    {
+     "s": "Why does the author mention “beauty” in Paragraph 2?",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者在第2段提到\"美\"是为了什么？"
+    },
+    {
+     "s": "What is the meaning of the underlined phrase in Paragraph 4?",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第4段中划线短语的意思是什么？"
+    },
+    {
+     "s": "What does the underlined word \"decimate\" mean in the first paragraph?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第一段中划线词\"decimate\"是什么意思？"
+    },
+    {
+     "s": "Why does the author mention \"doctor\" and \"cheater\" in paragraph 2?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么在第2段提到“医生”和“骗子（cheater）”？"
+    },
+    {
+     "s": "What does the last paragraph mainly talk about concerning emotional intelligence?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "关于情商，最后一段主要讲了什么？"
+    },
+    {
+     "s": "What do the underlined words “get up to mischief” mean in paragraph 3?",
+     "src": "2021新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第3段中划线的『get up to mischief』是什么意思？"
+    },
+    {
+     "s": "What does paragraph 2 mainly tell us about mobile phones?",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第2段主要告诉我们关于手机的什么？"
+    },
+    {
+     "s": "What does the underlined word \"concede\" in paragraph 3 mean?",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第3段中划线词\"concede\"是什么意思？"
+    },
+    {
+     "s": "What can be inferred about the landline from the last paragraph?",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "关于固定电话，从最后一段可以推断出什么？"
+    },
+    {
+     "s": "Why does the author discuss plastic straws in paragraph 3?",
+     "src": "2021全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么在第三段讨论塑料吸管？"
+    },
+    {
+     "s": "Which of the following can replace the underlined word \"charts\" in paragraph 2",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "年幼儿童需要更多自由时间"
+    },
+    {
+     "s": "What can we learn about the study from paragraph 2?",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "从第2段关于这项研究能了解到什么？"
+    },
+    {
+     "s": "What is the last paragraph mainly about?",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "最后一段主要讲什么？"
+    },
+    {
+     "s": "What can we learn about the pet lizard from Paragraph 1 ?",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "从第1段关于宠物蜥蜴我们能了解到什么？"
+    },
+    {
+     "s": "The underlined part \"leaving behind the layer\" in Paragraph 8 can be understood as       .",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第8段中划线的\"leaving behind the layer\"可以理解为       。"
+    },
+    {
+     "s": "According to Paragraph 5, hypnosis works by                 .",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "根据第5段催眠通过                 起作用。"
+    },
+    {
+     "s": "The specialists mentioned in Paragraph 3 tend to       .",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第3段提到的专家倾向于       。"
+    },
+    {
+     "s": "What does the underlined word in Paragraph 2 mean?",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第2段中划线词是什么意思？"
+    },
+    {
+     "s": "What does the underlined word “germane” in Paragraph 3 probably mean?",
+     "src": "2021北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第3段中划线词\"germane\"可能是什么意思？"
+    },
+    {
+     "s": "What is the main idea of Paragraph 1？",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第1段的主旨是什么？"
+    },
+    {
+     "s": "What does the underlined word “that” in paragraph 2 refer to? （    ）",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第2段中划线词\"that\"指的是什么？（    ）"
+    },
+    {
+     "s": "What does the underlined word “beanpoles” in paragraph 1 refer to? （    ）",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第1段中划线单词\"beanpoles\"指的是什么？（    ）"
+    },
+    {
+     "s": "On what basis do we “adjust the influence” according to the last paragraph? （    ）",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们“调整影响”基于什么？（根据最后一段）（    ）"
+    },
+    {
+     "s": "What do the underlined words \"the offender\" in paragraph 8 refer to?",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第8段中划线的『the offender』指的是什么？"
+    },
+    {
+     "s": "9 Which of the following is Dr Petroski's idea according to paragraph 3?",
+     "src": "2020全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "9 根据第3段，以下哪项属于彼得罗斯基博士的观点？"
+    },
+    {
+     "s": "What does the last paragraph suggest?",
+     "src": "2020全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最后一段表明了什么？"
+    },
+    {
+     "s": "What can we learn about rainforests from the first paragraph?",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从第一段我们可以了解到关于雨林的什么？"
+    },
+    {
+     "s": "Which of the following is Dr Petroski's idea according to paragraph 3?",
+     "src": "2020全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据第3段，以下哪项属于彼得罗斯基博士的观点？"
+    },
+    {
+     "s": "What does the underlined word ＂currency＂ in paragraph 4 refer to?",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第4段中加下划线的“currency”一词指的是什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What does the underlined word “collapsed” in paragraph 5 probably mean?",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第5段中划线的单词\"collapsed\"可能是什么意思？"
+    },
+    {
+     "s": "33 What does the underlined phrase “an added meaning” in paragraph 3 refer to?",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "33 第3段中带下划线的短语“an added meaning”指的是什么？"
+    },
+    {
+     "s": "What does paragraph 2 mainly talk about?",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第2段主要讲什么？"
+    },
+    {
+     "s": "What does the underlined phrase \"keeping tabs on\" in paragraph 3 probably mean?",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第3段中划线的短语\"keeping tabs on\"可能是什么意思？"
+    },
+    {
+     "s": "What can we infer from the last paragraph about animal actors?",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从最后一段我们可以推断出关于动物演员的什么信息？"
+    },
+    {
+     "s": "What does the author want to tell us by the examples in paragraph 1?",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者想用第1段中的例子告诉我们什么？"
+    },
+    {
+     "s": "What do the underlined words “this feeling” refer to in the last paragraph?",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最后一段中划线的词语\"this feeling\"指的是什么？"
+    },
+    {
+     "s": "What do we know about the author from the first paragraph?",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "关于作者我们从第一段可以了解到什么？"
+    },
+    {
+     "s": "What does the underlined word “that” in paragraph 2 refer to?",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第二段中划线的词\"that\"指代什么？"
+    },
+    {
+     "s": "How does Francisca Then explain her findings in paragraph 4?",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "弗朗西斯卡·滕如何在第四段解释她的发现？"
+    },
+    {
+     "s": "What can we learn about Parry from the last two paragraphs of the passage?",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从文章最后两段我们可以了解到关于帕里的什么信息？"
+    },
+    {
+     "s": "According to Paragraph 3, what items may be checked out from a public library? （    ）",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据第3段，哪些物品可以从公共图书馆借出？（    ）"
+    },
+    {
+     "s": "What could be inferred from Paragraph 2 about the effect of the LRAD?",
+     "src": "2020天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从第2段可以推断出关于LRAD效果的什么信息？"
+    },
+    {
+     "s": "What can we learn from Paragraphs 6 and 7? （    ）",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从第6段和第7段我们能学到什么？"
+    },
+    {
+     "s": "How do you understand the underlined part in Paragraph 1? （no more than 8 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你如何理解第1段中划线的部分？（不超过8个词）"
+    },
+    {
+     "s": "According to Paragraph 3, what marked the turning point in the author's growth? （no more than 7 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据第3段，作者成长中的转折点是什么？（不超过7词）"
+    },
+    {
+     "s": "What does Paragraph 4 mainly talk about? （no more than 10 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第4段主要讲的是什么？（不超过10个词）"
+    },
+    {
+     "s": "What does the underlined word “ubiquitous” in Paragraph I probably mean? （    ）",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第1段中划线词\"ubiquitous\"的意思可能是？（    ）"
+    },
+    {
+     "s": "What does the underlined word “stumbles” in paragraph 2 refer to?",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段中划线词\"stumbles\"指的是什么？"
+    },
+    {
+     "s": "What is the second paragraph mainly about？",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段主要讲的是什么？"
+    },
+    {
+     "s": "What can we infer about the parent from her reply in paragraph l？",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "从第1段母亲的回答关于这位家长能推断出什么？"
+    },
+    {
+     "s": "What does the underlined phrase“tug at the heartstrings”in paragraph 2 mean ?",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段中划线短语\"tug at the heartstrings\"的意思是？"
+    },
+    {
+     "s": "What can we learn about the parent from paragraph 3 ?",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "从第3段关于这位家长能了解到什么？"
+    },
+    {
+     "s": "What are the statistics in paragraph 2 about?",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段的统计数据是关于什么的？"
+    },
+    {
+     "s": "What does the expression \"money with no strings attached\" in paragraph 1 mean?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第1段中\"money with no strings attached\"这个表达是什么意思？"
+    },
+    {
+     "s": "What is the second paragraph mainly about?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段主要讲什么？"
+    },
+    {
+     "s": "（1）According to Paragraph 1， what is the major goal of understanding history？",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（1）根据第1段，理解历史的主要目标是什么？"
+    },
+    {
+     "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
+    },
+    {
+     "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）根据第3段，作者对路标的阅读表明____。"
+    },
+    {
+     "s": "（4）What conclusion can be drawn from the examples in Paragraph 4？",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（4）从第4段的例子中可以得出什么结论？"
+    },
+    {
+     "s": "（2）What does the underlined part in Paragraph 3 probably mean？",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）第3段中划线的部分可能是什么意思？"
+    },
+    {
+     "s": "（3）What could be inferred from Paragraph 4？",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）第3段中划线部分的意思可能是什么？"
+    },
+    {
+     "s": "（4）What does the author intend to tell us in Paragraph 5？",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "(4) 作者打算在第5段中告诉我们什么？"
+    },
+    {
+     "s": "（3）What does the underlined word in Paragraph 2 probably mean？ （1 word）",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（3）第2段中划线词可能是什么意思？（1个词）"
+    },
+    {
+     "s": "What are the first two paragraphs mainly about?",
+     "src": "2019北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "前两段主要讲什么？"
+    },
+    {
+     "s": "What does the underlined word“vulnerable”in Paragraph 3 probably mean?",
+     "src": "2019北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第3段中划线词\"vulnerable\"可能是什么意思？"
+    },
+    {
+     "s": "What does the author intend to do in paragraph 4?",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者在第4段打算做什么？"
+    },
+    {
+     "s": "Summarize the previous paragraphs.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "总结前面的段落。"
+    },
+    {
+     "s": "Which of the following best explains “dominant” underlined in paragraph 2？",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "以下哪项最能解释第2段中划线的\"dominant\"一词？"
+    },
+    {
+     "s": "What is “a juicer” in the last paragraph?",
+     "src": "2018全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "最后一段中的“a juicer”是什么？"
+    },
+    {
+     "s": "What phenomenon is described in the first paragraph?",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "第一段描述了什么现象？"
+    },
+    {
+     "s": "What do the words “more is more” in paragraph 1 probably mean?",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "第1段中的词语\"more is more\"可能是什么意思？"
+    },
+    {
+     "s": "Everyone was silent, wait to see who would be called upon to read his and her paragraph aloud.",
+     "src": "2018全国III卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "大家都安静地等待，看谁会被叫起来大声朗读自己的段落。"
+    },
+    {
+     "s": "What does the word “headwinds”in paragraph 2 refer to?",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "第2段中划线的“headwinds”指的是什么？"
+    },
+    {
+     "s": "Why is hamburger mentioned in paragraph 2?",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为什么第2段提到汉堡包？"
+    },
+    {
+     "s": "（5）What could we learn from the last paragraph？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（5）从最后一段我们可以学到什么？"
+    },
+    {
+     "s": "（2）What can we learn about 3D food printing from Paragraph 3？",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）从第3段关于3D食物打印能了解到什么？"
+    },
+    {
+     "s": "（3）According to Paragraph 4，3D﹣printed food     ．",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（3）根据第4段，3D打印食物____。"
+    },
+    {
+     "s": "（1）According to Paragraph 2， compared with adults， children are more     ．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（1）根据第2段，与成人相比，孩子更____。"
+    },
+    {
+     "s": "（2）What idea does the author convey in Paragraph 3？",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）作者在第3段传达了什么观点？"
+    },
+    {
+     "s": "（3）How would you describe the author in terms of personalities according to Paragraph 4？（no more than 10 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（3）根据第4段，你会如何描述作者的性格？（不超过10词）"
+    },
+    {
+     "s": "（4）How do you understand the underlined sentence in the last paragraph？（no more than 5 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "(4) 你如何理解最后一段中的下划线句? (不超过5个字)"
+    },
+    {
+     "s": "It can be inferred from the last paragraph that the chemical might            .",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "从最后一段可以推断出，这种化学物质可能会……。"
+    },
+    {
+     "s": "What does the underlined word “fielded” in Paragraph 4 probably mean?",
+     "src": "2018北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "第4段中划线的\"fielded\"一词可能是什么意思？"
+    },
+    {
+     "s": "What is unavoidable in the author’s rescue work according to paragraph 1?",
+     "src": "2017全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据第1段，作者的救援工作中什么是不可避免的？"
+    },
+    {
+     "s": "What does the underlined word “that” in paragraph 3 refer to?",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第3段中划线的『that』一词指的是什么？"
+    },
+    {
+     "s": "What do we know about the solar still equipment from the first paragraph?",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "从第一段关于太阳能蒸馏器设备我们能了解到什么？"
+    },
+    {
+     "s": "What does the underlined phrase “the water catcher” in paragraph 2 refer to?",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第2段中划线的短语“the water catcher”指的是什么？"
+    },
+    {
+     "s": "What does the underlined word “that” in paragraph 3 refer to?",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第3段中划线的『that』一词指的是什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What does the author mean by “the tables are turned” in paragraph 3?",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者在第3段中说『the tables are turned』是什么意思？"
+    },
+    {
+     "s": "What can we infer from the last paragraph?",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "从最后一段我们可以推断出什么？"
+    },
+    {
+     "s": "What does the underlined word “displaced” in paragraph 2 mean?",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第2段中划线的单词\"displaced\"是什么意思？"
+    },
+    {
+     "s": "What does the underlined sentence in paragraph 3 suggest?",
+     "src": "2017浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第3段中的下划线句意味着什么？"
+    },
+    {
+     "s": "Why did the author sit and listen to Mrs Stanley according to paragraph 3?",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据第3段，作者为什么坐下来听斯坦利太太说话？"
+    },
+    {
+     "s": "How does the author sound in the last paragraph?",
+     "src": "2017浙江11月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在最后一段中作者的语气是怎样的？"
+    },
+    {
+     "s": "What does the underlined word “that” in paragraph 3 refer to?",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第三段中划线的单词「that」指的是什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What does the author mean by “the tables are turned” in paragraph 3?",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者在第3段中说『the tables are turned』是什么意思？"
+    },
+    {
+     "s": "what can we infer from the last paragraph?",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "从最后一段我们可以推断出什么？"
+    },
+    {
+     "s": "What does the technological innovation in Paragraph 3 indicate?",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第3段中的技术创新表明了什么？"
+    },
+    {
+     "s": "Paragraph 1 mainly tells us that artificial intelligence may         .",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第1段主要告诉我们人工智能可能         。"
+    },
+    {
+     "s": "The style of the first paragraph also needs to set the tone of the whole piece.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "year": "",
+     "t": "第一段的风格也需要设定整段的基调。"
+    },
+    {
+     "s": "A topic sentence is a sentence that states or suggests the main idea or topic of a paragraph.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "主题句是陈述或暗示段落主旨或主题的句子。"
+    },
+    {
+     "s": "Often, a topic sentence comes at the beginning of a paragraph; sometimes, it appears in the middle or at the end.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "通常，一个主题句出现在段落的开头；有时，它出现在中间或结尾。"
+    },
+    {
+     "s": "Instead, reconstruct the key information to make the paragraph coherent, concise and natural.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "相反，重新组织关键信息，使段落连贯、简洁、自然。"
+    },
+    {
+     "s": "(Paragraph 1) 2 It took us where we wanted,…(Paragraph 2) 3 The funniest thing happened on that day.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "（第1段） 2 它带我们去了我们想去的地方，……（第2段） 3 那天发生了最有趣的事情。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "paragraph mean",
+   "cn": "段落含义",
+   "type": "名词短语",
+   "count": 12
   },
-  "defs": [
-    {
-      "def": "a section of a piece of writing, usually consisting of several sentences dealing with a single subject. The first sentence of a paragraph starts on a new line. 段；段落",
-      "ex": [
-        {
-          "s": "What does the underlined phrase “oblivious to” in paragraph 5 mean?",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第五段中划线短语“oblivious to”是什么意思？"
-        },
-        {
-          "s": "What can be inferred about Reisley from the last paragraph?",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "从最后一段能推断出关于雷伊斯利的什么？"
-        },
-        {
-          "s": "What is paragraph 3 mainly about?",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第3段主要讲什么？"
-        },
-        {
-          "s": "What does the underlined word “it” refer to in the last paragraph?",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "最后一段中划线词“it”指什么？"
-        },
-        {
-          "s": "What aspect of regenerative brakes is discussed in paragraph 5?",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第五段讨论了再生制动的哪个方面？"
-        },
-        {
-          "s": "Which aspect of the study does paragraph 2 mainly talk about?",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第2段主要谈了研究的哪个方面？"
-        },
-        {
-          "s": "What does the underlined word “glowing” in paragraph 4 mean?",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第四段中划线词“glowing”是什么意思？"
-        },
-        {
-          "s": "What can be inferred from the last paragraph?",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "从最后一段可以推断出什么？"
-        },
-        {
-          "s": "During your initial reading of material, do you ever go back and reread sentences or paragraphs?",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在你对材料的初步阅读过程中，你是否曾经回去重新阅读句子或段落？"
-        },
-        {
-          "s": "I missed that paragraph because I was thinking of something else, but I’m going to keep on going and start paying close attention.”",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我漏看了那一段，因为我在想别的事情，但我会继续读下去，并开始集中注意力。\""
-        },
-        {
-          "s": "What does the word “impetuous” underlined in Paragraph 5 most probably mean?",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第5段中带下划线的单词\"impetuous\"最可能是什么意思？"
-        },
-        {
-          "s": "Who are the people mentioned at the beginning of paragraph 1?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第1段开头提到的是哪些人？"
-        },
-        {
-          "s": "What does the underlined word “staggering” in paragraph 3 mean?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第3段中带下划线的单词\"staggering\"是什么意思？"
-        },
-        {
-          "s": "What phenomenon does the author point out in paragraph 1?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第一段指出了什么现象？"
-        },
-        {
-          "s": "How does the author present the issue in the first paragraph?",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第一段是如何呈现这一问题的？"
-        },
-        {
-          "s": "What does the author try to illustrate by mentioning bottled water in paragraph 4?",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第4段提到瓶装水是为了说明什么？"
-        },
-        {
-          "s": "What does the underlined word “it” refer to in paragraph 4?",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第4段中划线词“it”指代什么？"
-        },
-        {
-          "s": "What is paragraph 5 mainly about?",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第5段主要讲什么？"
-        },
-        {
-          "s": "What can be inferred about the author from the first paragraph?",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "从第一段可以推断出关于作者的什么信息？"
-        },
-        {
-          "s": "What does the underlined word “Eschewing” in the first paragraph mean?",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第一段中带下划线的单词\"Eschewing\"是什么意思？"
-        },
-        {
-          "s": "What does the last paragraph mainly talk about?",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "最后一段主要讲什么？"
-        },
-        {
-          "s": "Paragraph 1:  When Mr and Mrs Green got home, Kevin went to talk to them.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第1段：当格林夫妇回到家时，凯文去和他们说话。"
-        },
-        {
-          "s": "Paragraph 2:  Kevin and Mr Green took the watch they had found to the police station.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第2段：凯文和格林先生把他们捡到的手表交到了警察局。"
-        },
-        {
-          "s": "What does the word “nuances” underlined in Paragraph 2 most probably mean?",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第2段中带下划线的单词\"nuances\"最可能是什么意思？"
-        },
-        {
-          "s": "What does paragraph 3 mainly talk about?",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第3段主要讲什么？"
-        },
-        {
-          "s": "What does the underlined phrase “shine through” in paragraph 2 mean?",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第二段中划线短语“shine through”是什么意思？"
-        },
-        {
-          "s": "What does the author imply in the last paragraph?",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者在最后一段暗示了什么？"
-        },
-        {
-          "s": "What can be learned about BMF from paragraph 1?",
-          "src": "2024新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从第1段能了解到关于BMF的什么？"
-        },
-        {
-          "s": "What does the phrase “In the wrong hands” in paragraph 2 probably mean?",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第二段中“In the wrong hands”这个短语可能是什么意思？"
-        },
-        {
-          "s": "What can be learned about cats' meowing from the first paragraph?",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从第一段中关于猫的喵喵叫可以了解到什么？"
-        },
-        {
-          "s": "Which best explains the phrase \"take. . . up notch\" in paragraph 3?",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "哪一项最能解释第3段中『take...up notch』这个短语？"
-        },
-        {
-          "s": "What can we infer from paragraph 3 about Krasnoyarsk?",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从第3段关于克拉斯诺亚尔斯克能推断出什么？"
-        },
-        {
-          "s": "What does the word “it” underlined in the first paragraph refer to?",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第一段中划线的“it”指代什么？"
-        },
-        {
-          "s": "What can we infer from the last paragraph?",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从最后一段我们可以推断出什么？"
-        },
-        {
-          "s": "What can be learnt from the first two paragraphs?",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从前两段中可以学到什么？"
-        },
-        {
-          "s": "Which is closest in meaning to the underlined word “squandering” in Paragraph 3?",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "下列哪个与第3段中划线词\"squandering\"的意思最接近？"
-        },
-        {
-          "s": "What is the author’s purpose in writing Paragraph 4?",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者写第四段的目的是什么？"
-        },
-        {
-          "s": "According to Paragraph 4, involuntary rereading can bring about?",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据第4段，无意识重读能带来什么？"
-        },
-        {
-          "s": "What does Paragraph 1 mainly tell us?",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第1款主要告诉我们什么？"
-        },
-        {
-          "s": "What does the underlined phrase mean in Paragraph 2? (no more than 2 words)",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第二段中划线短语是什么意思？（不超过2个词）"
-        },
-        {
-          "s": "What is the main idea of Paragraph 3? (no more than 10 words)",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第三段的主旨是什么？（不超过10个词）"
-        },
-        {
-          "s": "What does the underlined word mean in Paragraph 1?",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第一段中划线的词是什么意思？"
-        },
-        {
-          "s": "Why is the school so popular according to Paragraph 5? (no more than10 words)",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据第5段，为什么这所学校这么受欢迎？（不超过10词）"
-        },
-        {
-          "s": "What does the phrase “contingent on” underlined in Paragraph 2 probably mean?",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第二段中划线的短语\"contingent on\"可能是什么意思？"
-        },
-        {
-          "s": "What can we learn about John from the first two paragraphs?",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从开头两段我们能了解到关于约翰的什么？"
-        },
-        {
-          "s": "What does the underlined word “declutter” in paragraph 3 mean?",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第三段中带下划线的单词“declutter”是什么意思？"
-        },
-        {
-          "s": "What is paragraph 2 of the text mainly about?",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "文章第2段主要讲什么？"
-        },
-        {
-          "s": "What do the underlined words “relate to” in paragraph 2 mean?",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第二段中带下划线的词“relate to”是什么意思？"
-        },
-        {
-          "s": "What can we learn from the example given in paragraph 5?",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从第五段给出的例子中我们可以了解到什么？"
-        },
-        {
-          "s": "Which is closest in meaning to “a dab hand” in paragraph 1?",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第一段中\"a dab hand\"的意思最接近哪个？"
-        },
-        {
-          "s": "Why does the author list great philosophers in paragraph 4?",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者为什么在第4段列举伟大的哲学家？"
-        },
-        {
-          "s": "What can be inferred from the last paragraph?",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从最后一段可以推断出什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What does the author indicate by mentioning Captain Cook in paragraph 2?",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者在第2段提到库克船长想说明什么？"
-        },
-        {
-          "s": "What does the underlined word “conversation” in paragraph 3 refer to?",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第三段中带下划线的“conversation”一词指的是什么？"
-        },
-        {
-          "s": "What do the underlined words “jump on that bandwagon” mean in the first paragraph?",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第一段中划线的词语\"jump on that bandwagon\"是什么意思？"
-        },
-        {
-          "s": "Why does the author mention Noa Ovadia in the first paragraph?",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者在第一段提到诺亚·奥瓦迪亚是为了什么？"
-        },
-        {
-          "s": "What does the underlined word “wrinkles” in paragraph 2 refer to?",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第二段中划线的词\"wrinkles\"指的是什么？"
-        },
-        {
-          "s": "What can we learn from the last paragraph?",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们从最后一段能学到什么？"
-        },
-        {
-          "s": "What is the purpose of the laws mentioned in paragraph 4?",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第四段提到的法律的目的是什么？"
-        },
-        {
-          "s": "What does “neuronal fireworks” in Paragraph 2 refer to?",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第二段中的\"neuronal fireworks\"指的是什么？"
-        },
-        {
-          "s": "What does the underlined word mean in Paragraph 3?(no more than 2 words)",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第三段中划线的词是什么意思？（不超过2个词）"
-        },
-        {
-          "s": "What is one of the new research findings according to Paragraph 2?",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "根据第2段，新的研究发现之一是什么？"
-        },
-        {
-          "s": "What does the underlined word mean in Paragraph 1?",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第一段中划线的词是什么意思？"
-        },
-        {
-          "s": "Why does Cruse think his voluntary work is rewarding according to the last paragraph? (no more than 16 words)",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "根据最后一段，克鲁斯为什么认为他的志愿工作有意义？（不超过16词）"
-        },
-        {
-          "s": "One paragraph down; now what?",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一段写完了；现在呢？"
-        },
-        {
-          "s": "What can be inferred from the last paragraph?",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从最后一段可以推断出什么？"
-        },
-        {
-          "s": "What does the word “enamored” underlined in Paragraph 3 most probably mean?",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第3段中带下划线的单词\"enamored\"最可能是什么意思？"
-        },
-        {
-          "s": "What do the underlined words “embark on” mean in paragraph 7?",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第7段中带下划线的词组\"embark on\"是什么意思？"
-        },
-        {
-          "s": "What can we learn about the project from the last two paragraphs?",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "从最后两段我们能了解到该项目的什么情况？"
-        },
-        {
-          "s": "What is paragraph 5 mainly about?",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第5段主要讲什么？"
-        },
-        {
-          "s": "What do the underlined words \"hit home for me\" mean in paragraph 2?",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第2段中带下划线的词组\"hit home for me\"是什么意思？"
-        },
-        {
-          "s": "What does the underlined word \"something\" in the last paragraph refer to?",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最后一段中划线的『something』一词指的是什么？"
-        },
-        {
-          "s": "Which of the following best explains “take the plunge” underlined in paragraph 2?",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第2段中带下划线的词组\"take the plunge\"最可能是什么意思？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What can we learn about the girls from paragraph 3?",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "从第3段中我们能了解到关于这些女孩的什么？"
-        },
-        {
-          "s": "What does “maintenance” underlined in paragraph 3 refer to?",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第3段中划线的“maintenance”指的是什么？"
-        },
-        {
-          "s": "What is on the ever-growing list mentioned in the first paragraph?",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第一段中提到的不断增长的清单上是什么？"
-        },
-        {
-          "s": "Who does “the little girl” in paragraph 2 refer to?",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第2段中的\"小女孩\"指的是谁？"
-        },
-        {
-          "s": "What can be inferred from the last paragraph?",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "从最后一段可以推断出什么？"
-        },
-        {
-          "s": "What does the underlined word “prone” in Paragraph 3 most probably mean?",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第3段中带下划线的单词\"prone\"最可能是什么意思？"
-        },
-        {
-          "s": "What does the underlined word “empathy” in Paragraph 3 probably mean?",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第3段中划线词\"empathy\"可能是什么意思？"
-        },
-        {
-          "s": "What can be inferred from Paragraph 4?",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "从第4段可以推断出什么？"
-        },
-        {
-          "s": "Which of the following is TRUE about an elephant according to Paragraph 3?",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "根据第3段，以下关于大象的哪项是正确的？"
-        },
-        {
-          "s": "Why does the author mention “beauty” in Paragraph 2?",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者在第2段提到\"美\"是为了什么？"
-        },
-        {
-          "s": "What is the meaning of the underlined phrase in Paragraph 4?",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第4段中划线短语的意思是什么？"
-        },
-        {
-          "s": "What does the underlined word \"decimate\" mean in the first paragraph?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第一段中划线词\"decimate\"是什么意思？"
-        },
-        {
-          "s": "Why does the author mention \"doctor\" and \"cheater\" in paragraph 2?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么在第2段提到“医生”和“骗子（cheater）”？"
-        },
-        {
-          "s": "What does the last paragraph mainly talk about concerning emotional intelligence?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "关于情商，最后一段主要讲了什么？"
-        },
-        {
-          "s": "What do the underlined words “get up to mischief” mean in paragraph 3?",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第3段中划线的『get up to mischief』是什么意思？"
-        },
-        {
-          "s": "What does paragraph 2 mainly tell us about mobile phones?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第2段主要告诉我们关于手机的什么？"
-        },
-        {
-          "s": "What does the underlined word \"concede\" in paragraph 3 mean?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第3段中划线词\"concede\"是什么意思？"
-        },
-        {
-          "s": "What can be inferred about the landline from the last paragraph?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "关于固定电话，从最后一段可以推断出什么？"
-        },
-        {
-          "s": "Why does the author discuss plastic straws in paragraph 3?",
-          "src": "2021全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么在第三段讨论塑料吸管？"
-        },
-        {
-          "s": "Which of the following can replace the underlined word \"charts\" in paragraph 2",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "年幼儿童需要更多自由时间"
-        },
-        {
-          "s": "What can we learn about the study from paragraph 2?",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "从第2段关于这项研究能了解到什么？"
-        },
-        {
-          "s": "What is the last paragraph mainly about?",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最后一段主要讲什么？"
-        },
-        {
-          "s": "What can we learn about the pet lizard from Paragraph 1 ?",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "从第1段关于宠物蜥蜴我们能了解到什么？"
-        },
-        {
-          "s": "The underlined part \"leaving behind the layer\" in Paragraph 8 can be understood as       .",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第8段中划线的\"leaving behind the layer\"可以理解为       。"
-        },
-        {
-          "s": "According to Paragraph 5, hypnosis works by                 .",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "根据第5段催眠通过                 起作用。"
-        },
-        {
-          "s": "The specialists mentioned in Paragraph 3 tend to       .",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第3段提到的专家倾向于       。"
-        },
-        {
-          "s": "What does the underlined word in Paragraph 2 mean?",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第2段中划线词是什么意思？"
-        },
-        {
-          "s": "What does the underlined word “germane” in Paragraph 3 probably mean?",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第3段中划线词\"germane\"可能是什么意思？"
-        },
-        {
-          "s": "What is the main idea of Paragraph 1？",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第1段的主旨是什么？"
-        },
-        {
-          "s": "What does the underlined word “that” in paragraph 2 refer to? （    ）",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第2段中划线词\"that\"指的是什么？（    ）"
-        },
-        {
-          "s": "What does the underlined word “beanpoles” in paragraph 1 refer to? （    ）",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第1段中划线单词\"beanpoles\"指的是什么？（    ）"
-        },
-        {
-          "s": "On what basis do we “adjust the influence” according to the last paragraph? （    ）",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们“调整影响”基于什么？（根据最后一段）（    ）"
-        },
-        {
-          "s": "What do the underlined words \"the offender\" in paragraph 8 refer to?",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第8段中划线的『the offender』指的是什么？"
-        },
-        {
-          "s": "9 Which of the following is Dr Petroski's idea according to paragraph 3?",
-          "src": "2020全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "9 根据第3段，以下哪项属于彼得罗斯基博士的观点？"
-        },
-        {
-          "s": "What does the last paragraph suggest?",
-          "src": "2020全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最后一段表明了什么？"
-        },
-        {
-          "s": "What can we learn about rainforests from the first paragraph?",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从第一段我们可以了解到关于雨林的什么？"
-        },
-        {
-          "s": "Which of the following is Dr Petroski's idea according to paragraph 3?",
-          "src": "2020全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据第3段，以下哪项属于彼得罗斯基博士的观点？"
-        },
-        {
-          "s": "What does the underlined word ＂currency＂ in paragraph 4 refer to?",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第4段中加下划线的“currency”一词指的是什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What does the underlined word “collapsed” in paragraph 5 probably mean?",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第5段中划线的单词\"collapsed\"可能是什么意思？"
-        },
-        {
-          "s": "33 What does the underlined phrase “an added meaning” in paragraph 3 refer to?",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "33 第3段中带下划线的短语“an added meaning”指的是什么？"
-        },
-        {
-          "s": "What does paragraph 2 mainly talk about?",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第2段主要讲什么？"
-        },
-        {
-          "s": "What does the underlined phrase \"keeping tabs on\" in paragraph 3 probably mean?",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第3段中划线的短语\"keeping tabs on\"可能是什么意思？"
-        },
-        {
-          "s": "What can we infer from the last paragraph about animal actors?",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从最后一段我们可以推断出关于动物演员的什么信息？"
-        },
-        {
-          "s": "What does the author want to tell us by the examples in paragraph 1?",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者想用第1段中的例子告诉我们什么？"
-        },
-        {
-          "s": "What do the underlined words “this feeling” refer to in the last paragraph?",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最后一段中划线的词语\"this feeling\"指的是什么？"
-        },
-        {
-          "s": "What do we know about the author from the first paragraph?",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "关于作者我们从第一段可以了解到什么？"
-        },
-        {
-          "s": "What does the underlined word “that” in paragraph 2 refer to?",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二段中划线的词\"that\"指代什么？"
-        },
-        {
-          "s": "How does Francisca Then explain her findings in paragraph 4?",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "弗朗西斯卡·滕如何在第四段解释她的发现？"
-        },
-        {
-          "s": "What can we learn about Parry from the last two paragraphs of the passage?",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从文章最后两段我们可以了解到关于帕里的什么信息？"
-        },
-        {
-          "s": "According to Paragraph 3, what items may be checked out from a public library? （    ）",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据第3段，哪些物品可以从公共图书馆借出？（    ）"
-        },
-        {
-          "s": "What could be inferred from Paragraph 2 about the effect of the LRAD?",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从第2段可以推断出关于LRAD效果的什么信息？"
-        },
-        {
-          "s": "What can we learn from Paragraphs 6 and 7? （    ）",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从第6段和第7段我们能学到什么？"
-        },
-        {
-          "s": "How do you understand the underlined part in Paragraph 1? （no more than 8 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你如何理解第1段中划线的部分？（不超过8个词）"
-        },
-        {
-          "s": "According to Paragraph 3, what marked the turning point in the author's growth? （no more than 7 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据第3段，作者成长中的转折点是什么？（不超过7词）"
-        },
-        {
-          "s": "What does Paragraph 4 mainly talk about? （no more than 10 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第4段主要讲的是什么？（不超过10个词）"
-        },
-        {
-          "s": "What does the underlined word “ubiquitous” in Paragraph I probably mean? （    ）",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第1段中划线词\"ubiquitous\"的意思可能是？（    ）"
-        },
-        {
-          "s": "What does the underlined word “stumbles” in paragraph 2 refer to?",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段中划线词\"stumbles\"指的是什么？"
-        },
-        {
-          "s": "What is the second paragraph mainly about？",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段主要讲的是什么？"
-        },
-        {
-          "s": "What can we infer about the parent from her reply in paragraph l？",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "从第1段母亲的回答关于这位家长能推断出什么？"
-        },
-        {
-          "s": "What does the underlined phrase“tug at the heartstrings”in paragraph 2 mean ?",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段中划线短语\"tug at the heartstrings\"的意思是？"
-        },
-        {
-          "s": "What can we learn about the parent from paragraph 3 ?",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "从第3段关于这位家长能了解到什么？"
-        },
-        {
-          "s": "What are the statistics in paragraph 2 about?",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段的统计数据是关于什么的？"
-        },
-        {
-          "s": "What does the expression \"money with no strings attached\" in paragraph 1 mean?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第1段中\"money with no strings attached\"这个表达是什么意思？"
-        },
-        {
-          "s": "What is the second paragraph mainly about?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段主要讲什么？"
-        },
-        {
-          "s": "（1）According to Paragraph 1， what is the major goal of understanding history？",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（1）根据第1段，理解历史的主要目标是什么？"
-        },
-        {
-          "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
-        },
-        {
-          "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）根据第3段，作者对路标的阅读表明____。"
-        },
-        {
-          "s": "（4）What conclusion can be drawn from the examples in Paragraph 4？",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（4）从第4段的例子中可以得出什么结论？"
-        },
-        {
-          "s": "（2）What does the underlined part in Paragraph 3 probably mean？",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）第3段中划线的部分可能是什么意思？"
-        },
-        {
-          "s": "（3）What could be inferred from Paragraph 4？",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）第3段中划线部分的意思可能是什么？"
-        },
-        {
-          "s": "（4）What does the author intend to tell us in Paragraph 5？",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "(4) 作者打算在第5段中告诉我们什么？"
-        },
-        {
-          "s": "（3）What does the underlined word in Paragraph 2 probably mean？ （1 word）",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（3）第2段中划线词可能是什么意思？（1个词）"
-        },
-        {
-          "s": "What are the first two paragraphs mainly about?",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "前两段主要讲什么？"
-        },
-        {
-          "s": "What does the underlined word“vulnerable”in Paragraph 3 probably mean?",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第3段中划线词\"vulnerable\"可能是什么意思？"
-        },
-        {
-          "s": "What does the author intend to do in paragraph 4?",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者在第4段打算做什么？"
-        },
-        {
-          "s": "Summarize the previous paragraphs.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "总结前面的段落。"
-        },
-        {
-          "s": "Which of the following best explains “dominant” underlined in paragraph 2？",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "以下哪项最能解释第2段中划线的\"dominant\"一词？"
-        },
-        {
-          "s": "What is “a juicer” in the last paragraph?",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "最后一段中的“a juicer”是什么？"
-        },
-        {
-          "s": "What phenomenon is described in the first paragraph?",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "第一段描述了什么现象？"
-        },
-        {
-          "s": "What do the words “more is more” in paragraph 1 probably mean?",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "第1段中的词语\"more is more\"可能是什么意思？"
-        },
-        {
-          "s": "Everyone was silent, wait to see who would be called upon to read his and her paragraph aloud.",
-          "src": "2018全国III卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "大家都安静地等待，看谁会被叫起来大声朗读自己的段落。"
-        },
-        {
-          "s": "What does the word “headwinds”in paragraph 2 refer to?",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "第2段中划线的“headwinds”指的是什么？"
-        },
-        {
-          "s": "Why is hamburger mentioned in paragraph 2?",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为什么第2段提到汉堡包？"
-        },
-        {
-          "s": "（5）What could we learn from the last paragraph？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（5）从最后一段我们可以学到什么？"
-        },
-        {
-          "s": "（2）What can we learn about 3D food printing from Paragraph 3？",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）从第3段关于3D食物打印能了解到什么？"
-        },
-        {
-          "s": "（3）According to Paragraph 4，3D﹣printed food     ．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（3）根据第4段，3D打印食物____。"
-        },
-        {
-          "s": "（1）According to Paragraph 2， compared with adults， children are more     ．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（1）根据第2段，与成人相比，孩子更____。"
-        },
-        {
-          "s": "（2）What idea does the author convey in Paragraph 3？",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）作者在第3段传达了什么观点？"
-        },
-        {
-          "s": "（3）How would you describe the author in terms of personalities according to Paragraph 4？（no more than 10 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（3）根据第4段，你会如何描述作者的性格？（不超过10词）"
-        },
-        {
-          "s": "（4）How do you understand the underlined sentence in the last paragraph？（no more than 5 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "(4) 你如何理解最后一段中的下划线句? (不超过5个字)"
-        },
-        {
-          "s": "It can be inferred from the last paragraph that the chemical might            .",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "从最后一段可以推断出，这种化学物质可能会……。"
-        },
-        {
-          "s": "What does the underlined word “fielded” in Paragraph 4 probably mean?",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "第4段中划线的\"fielded\"一词可能是什么意思？"
-        },
-        {
-          "s": "What is unavoidable in the author’s rescue work according to paragraph 1?",
-          "src": "2017全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据第1段，作者的救援工作中什么是不可避免的？"
-        },
-        {
-          "s": "What does the underlined word “that” in paragraph 3 refer to?",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第3段中划线的『that』一词指的是什么？"
-        },
-        {
-          "s": "What do we know about the solar still equipment from the first paragraph?",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从第一段关于太阳能蒸馏器设备我们能了解到什么？"
-        },
-        {
-          "s": "What does the underlined phrase “the water catcher” in paragraph 2 refer to?",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第2段中划线的短语“the water catcher”指的是什么？"
-        },
-        {
-          "s": "What does the underlined word “that” in paragraph 3 refer to?",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第3段中划线的『that』一词指的是什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What does the author mean by “the tables are turned” in paragraph 3?",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者在第3段中说『the tables are turned』是什么意思？"
-        },
-        {
-          "s": "What can we infer from the last paragraph?",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从最后一段我们可以推断出什么？"
-        },
-        {
-          "s": "What does the underlined word “displaced” in paragraph 2 mean?",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第2段中划线的单词\"displaced\"是什么意思？"
-        },
-        {
-          "s": "What does the underlined sentence in paragraph 3 suggest?",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第3段中的下划线句意味着什么？"
-        },
-        {
-          "s": "Why did the author sit and listen to Mrs Stanley according to paragraph 3?",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据第3段，作者为什么坐下来听斯坦利太太说话？"
-        },
-        {
-          "s": "How does the author sound in the last paragraph?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在最后一段中作者的语气是怎样的？"
-        },
-        {
-          "s": "What does the underlined word “that” in paragraph 3 refer to?",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第三段中划线的单词「that」指的是什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What does the author mean by “the tables are turned” in paragraph 3?",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者在第3段中说『the tables are turned』是什么意思？"
-        },
-        {
-          "s": "what can we infer from the last paragraph?",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从最后一段我们可以推断出什么？"
-        },
-        {
-          "s": "What does the technological innovation in Paragraph 3 indicate?",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第3段中的技术创新表明了什么？"
-        },
-        {
-          "s": "Paragraph 1 mainly tells us that artificial intelligence may         .",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第1段主要告诉我们人工智能可能         。"
-        },
-        {
-          "s": "The style of the first paragraph also needs to set the tone of the whole piece.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "第一段的风格也需要设定整段的基调。"
-        },
-        {
-          "s": "A topic sentence is a sentence that states or suggests the main idea or topic of a paragraph.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "主题句是陈述或暗示段落主旨或主题的句子。"
-        },
-        {
-          "s": "Often, a topic sentence comes at the beginning of a paragraph; sometimes, it appears in the middle or at the end.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "通常，一个主题句出现在段落的开头；有时，它出现在中间或结尾。"
-        },
-        {
-          "s": "Instead, reconstruct the key information to make the paragraph coherent, concise and natural.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "相反，重新组织关键信息，使段落连贯、简洁、自然。"
-        },
-        {
-          "s": "(Paragraph 1) 2 It took us where we wanted,…(Paragraph 2) 3 The funniest thing happened on that day.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "（第1段） 2 它带我们去了我们想去的地方，……（第2段） 3 那天发生了最有趣的事情。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "first paragraph",
-      "cn": "第一段",
-      "type": "名词短语",
-      "count": 19
-    },
-    {
-      "en": "paragraph mean",
-      "cn": "段落含义",
-      "type": "名词短语",
-      "count": 12
-    },
-    {
-      "en": "two paragraphs",
-      "cn": "两段",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "according to paragraph",
-      "cn": "根据段落",
-      "type": "介词短语",
-      "count": 16
-    },
-    {
-      "en": "from the last paragraph",
-      "cn": "从最后一段",
-      "type": "介词短语",
-      "count": 13
-    }
-  ]
+  {
+   "en": "according to paragraph",
+   "cn": "根据段落",
+   "type": "介词短语",
+   "count": 16
+  },
+  {
+   "en": "from the last paragraph",
+   "cn": "从最后一段",
+   "type": "介词短语",
+   "count": 13
+  }
+ ]
 }
