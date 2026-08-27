@@ -1,411 +1,399 @@
 {
-  "meta": {
-    "ph": "flaɪ; NAmE flaɪ",
-    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "flaɪ; NAmE flaɪ",
+  "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to move through the air, using wings 飞；飞翔",
+   "ex": [
+    {
+     "s": "I stopped, and she soon took wing but did not immediately fly away.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我停了下来，她很快飞了起来，但没有马上飞走。"
+    },
+    {
+     "s": "I had planned to fly to Vienna and take a bus to Prague for a conference.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我原计划飞到维也纳，再乘巴士去布拉格参加一个会议。"
+    },
+    {
+     "s": "I had planned to fly to Vienna and take a bus to Prague for a conference.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我原计划飞到维也纳，再乘巴士去布拉格参加一个会议。"
+    },
+    {
+     "s": "Next week, we are going to fly up to Zambia.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "下周我们要飞到赞比亚去了。"
+    },
+    {
+     "s": "If they’re flying low, grab your umbrella.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "t": "如果它们飞得很低，就带上你的雨伞。"
+    },
+    {
+     "s": "His glasses went flying and landed in the grass.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他的眼镜飞了出去，落在草地上。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to move through air or space 航空器或航天器",
+   "ex": [
     {
-      "def": "to move through the air, using wings 飞；飞翔",
-      "ex": [
-        {
-          "s": "I stopped, and she soon took wing but did not immediately fly away.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我停了下来，她很快飞了起来，但没有马上飞走。"
-        },
-        {
-          "s": "I had planned to fly to Vienna and take a bus to Prague for a conference.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我原计划飞到维也纳，再乘巴士去布拉格参加一个会议。"
-        },
-        {
-          "s": "I had planned to fly to Vienna and take a bus to Prague for a conference.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我原计划飞到维也纳，再乘巴士去布拉格参加一个会议。"
-        },
-        {
-          "s": "Next week, we are going to fly up to Zambia.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "下周我们要飞到赞比亚去了。"
-        },
-        {
-          "s": "If they’re flying low, grab your umbrella.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "如果它们飞得很低，就带上你的雨伞。"
-        },
-        {
-          "s": "His glasses went flying and landed in the grass.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他的眼镜飞了出去，落在草地上。"
-        }
-      ]
+     "s": "Harbour Air is the largest seaplane airline in North America, flying 30,000 commercial flights in 40 seaplanes each year.",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "港湾航空是北美最大的水上飞机航空公司，每年用40架水上飞机执行30,000次商业航班。"
     },
     {
-      "def": "to move through air or space 航空器或航天器",
-      "ex": [
-        {
-          "s": "Harbour Air is the largest seaplane airline in North America, flying 30,000 commercial flights in 40 seaplanes each year.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "港湾航空是北美最大的水上飞机航空公司，每年用40架水上飞机执行30,000次商业航班。"
-        },
-        {
-          "s": "fly to space                 B. get an Aviation badge first",
-          "src": "2018北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "飞往太空                 B. 先获得航空徽章"
-        },
-        {
-          "s": "Inventors have been trying to make flying cars since the 1930s, according to Robert Mann, an airline industry expert.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "据航空业专家罗伯特·曼所说，发明家们自20世纪30年代以来就一直试图制造飞行汽车。"
-        },
-        {
-          "s": "Inventors have been trying to make flying cars since the 1930s, according to Robert Mann, an airline industry expert.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "据航空业专家罗伯特·曼所说，发明家们自20世纪30年代以来就一直试图制造飞行汽车。"
-        }
-      ]
+     "s": "fly to space                 B. get an Aviation badge first",
+     "src": "2018北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "飞往太空                 B. 先获得航空徽章"
     },
     {
-      "def": "to travel in an aircraft or a spacecraft （乘飞行器或航天器）航行，飞行",
-      "ex": [
-        {
-          "s": "Still, she made no attempt to fly.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但是，她没有试图飞行。"
-        },
-        {
-          "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
-        },
-        {
-          "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
-        },
-        {
-          "s": "The govemment has already permitted the company to use special materials to make it easier for the vehicle to fly.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "政府已经允许该公司使用特殊材料，使这款车辆更容易飞行。"
-        },
-        {
-          "s": "The government has already permitted the company to use special materials to make it easier for the vehicle to fly.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "36     ，有几种方法可以应对这种情况。让我们现在来看看这些方法。"
-        },
-        {
-          "s": "What is the author's attitude towards the prospect of electric flying?",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者对电动飞行的前景持什么态度？"
-        },
-        {
-          "s": "Terrafugia Inc said Monday that its new flying car has completed its first flight, bringing the company closer to its goal of selling the flying car within the next year.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Terrafugia公司周一宣布，其新型飞行汽车已完成首飞，使该公司距离在未来一年内销售飞行汽车的目标更近了一步。"
-        },
-        {
-          "s": "Terrafugia Inc said Monday that its new flying car has completed its first flight, bringing the company closer to its goal of selling the flying car within the next year.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Terrafugia公司周一宣布，其新型飞行汽车已完成首飞，使该公司距离在未来一年内销售飞行汽车的目标更近了一步。"
-        },
-        {
-          "s": "But Mann thinks Terrafugia has come closer than anyone to making the flying car a reality.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但曼认为，Terrafugia比任何人都更接近让飞行汽车成为现实。"
-        },
-        {
-          "s": "But Mann thinks Terrafugia has come closer than anyone to making the flying car a reality.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但曼认为，Terrafugia比任何人都更接近让飞行汽车成为现实。"
-        },
-        {
-          "s": "The advantages of flying cars.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "飞行汽车的优势。"
-        },
-        {
-          "s": "The advantages of flying cars.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "飞行汽车的优势。"
-        },
-        {
-          "s": "The potential market for flying cars.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "飞行汽车的潜在市场。"
-        },
-        {
-          "s": "The potential market for flying cars.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "飞行汽车的潜在市场。"
-        },
-        {
-          "s": "What is the government’s attitude to the development of the flying car?",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "政府对飞行汽车的发展持什么态度？"
-        },
-        {
-          "s": "What is the government’s attitude to the development of the flying car?",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "政府对飞行汽车的发展持什么态度？"
-        },
-        {
-          "s": "Flying Car at Auto Show.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "车展上的飞行汽车。"
-        },
-        {
-          "s": "Flying Car Closer to Reality",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "飞行汽车离现实更近一步"
-        },
-        {
-          "s": "Flying Car Closer to Reality.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "飞行汽车离现实更近了。"
-        }
-      ]
+     "s": "Inventors have been trying to make flying cars since the 1930s, according to Robert Mann, an airline industry expert.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "据航空业专家罗伯特·曼所说，发明家们自20世纪30年代以来就一直试图制造飞行汽车。"
     },
     {
-      "def": "to control an aircraft, etc. in the air 驾驶（飞机等）；操纵（飞行器等）",
-      "ex": [
-        {
-          "s": "“Do you have to fly home?",
-          "src": "2026新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“你回家得坐飞机吗？"
-        },
-        {
-          "s": "Mann said Terrafugia was helped by the Federal Aviation  Administration’s decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes Terrafugia says an owner would need to pass a test and complete 20 hours of flying time to be able to fly the Transition, a requirement pilots would find relatively easy to meet.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "曼说，Terrafugia得益于联邦航空管理局五年前做出的为轻型运动飞机制定一套单独标准的决定，这些标准低于大型飞机飞行员所需的标准。Terrafugia表示，车主需要通过一项测试并完成20小时的飞行时间才能驾驶Transition，飞行员会觉得这是很容易满足的要求。"
-        },
-        {
-          "s": "Terrafugia says an owner would need to pass a test and complete 20 hours of flying time to be able to fly the Transition, a requirement pilots would find redatively easy to meet.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Terrafugia表示，车主需要通过一项测试并完成20小时的飞行时间才能驾驶Transition，飞行员会觉得这是很容易满足的要求。"
-        }
-      ]
-    },
-    {
-      "def": "to transport goods or passengers in a plane 空运（货物或乘客）",
-      "ex": []
-    },
-    {
-      "def": "to travel over an ocean or area of land in an aircraft 乘飞行器飞越（海洋或陆地）",
-      "ex": [
-        {
-          "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。"
-        }
-      ]
-    },
-    {
-      "def": "to go or move quickly 疾驰；疾行；快速移动",
-      "ex": []
-    },
-    {
-      "def": "to move suddenly and with force 猛然移动",
-      "ex": []
-    },
-    {
-      "def": "to seem to pass very quickly 飞逝",
-      "ex": [
-        {
-          "s": "I realize of how fast time flies.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我意识到时光飞逝之快。"
-        },
-        {
-          "s": "Dad showed me a photo we had taken then-just see how time flies!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "爸爸给我看了一张我们那时拍的照片——看时间过得多快！"
-        }
-      ]
-    },
-    {
-      "def": "if a flag flies, or if you fly it, it is displayed, for example on a long pole （旗）飘扬；升，悬挂（旗）",
-      "ex": []
-    },
-    {
-      "def": "to move around freely 自由移动",
-      "ex": []
-    },
-    {
-      "def": "to be talked about by many people 流传；四处传播",
-      "ex": []
-    },
-    {
-      "def": "to escape from sb/sth （从 … ）逃走，逃跑",
-      "ex": []
-    },
-    {
-      "def": "to be successful 成功",
-      "ex": []
-    },
-    {
-      "def": "to hit a ball high into the air 击（球）腾空",
-      "ex": []
-    },
-    {
-      "def": "to become able to fly and leave its nest 幼鸟",
-      "ex": []
-    },
-    {
-      "def": "to leave home and live somewhere else 子女",
-      "ex": []
-    },
-    {
-      "def": "a small flying insect with two wings. There are many different types of fly. 蝇；苍蝇",
-      "ex": [
-        {
-          "s": "To perform these tasks, drones for rail don’t need to be flying overhead.",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "工程师们正在研究一种新概念：未来的铁路无人机。"
-        },
-        {
-          "s": "It stops on the stone floor — and then turns, moving slowly towards a different corner of the cave, where the wind is calmer and the flies more plentiful.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它停在石地上——然后转身，缓缓爬向洞穴的另一个角落，那里风更平静，苍蝇也更多。"
-        },
-        {
-          "s": "The reason for the explosion is not that people have been reproducing like rabbits, but that people have stopped dropping dead like flies.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "人口爆炸的原因不是人们像兔子一样繁殖，而是人们不再像苍蝇一样大量死亡。"
-        }
-      ]
-    },
-    {
-      "def": "a fly or sth made to look like a fly, that is put on a hook and used as bait to catch fish （作钓饵的）苍蝇，假蝇",
-      "ex": []
-    },
-    {
-      "def": "an opening down the front of a pair of trousers/pants that fastens with a zip or buttons and is usually covered over by a strip of material （裤子的）前裆开口",
-      "ex": []
-    },
-    {
-      "def": "a piece of material that covers the entrance to a tent 门帘",
-      "ex": []
-    },
-    {
-      "def": "clever and showing good judgement about people, especially so that you can get an advantage for yourself 机灵的；机警的；不会上当的",
-      "ex": []
-    },
-    {
-      "def": "fashionable and attractive 时髦迷人的；漂亮的",
-      "ex": [
-        {
-          "s": "When I opened my hand, the bird did not fly away; she sat looking at me with her bright eyes.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我张开手时，这只鸟没有飞走；她坐着用明亮的眼睛看着我。"
-        }
-      ]
+     "s": "Inventors have been trying to make flying cars since the 1930s, according to Robert Mann, an airline industry expert.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "据航空业专家罗伯特·曼所说，发明家们自20世纪30年代以来就一直试图制造飞行汽车。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to travel in an aircraft or a spacecraft （乘飞行器或航天器）航行，飞行",
+   "ex": [
     {
-      "en": "flying car",
-      "cn": "飞行汽车",
-      "type": "动词短语",
-      "count": 17
+     "s": "Still, she made no attempt to fly.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "但是，她没有试图飞行。"
     },
     {
-      "en": "fly car",
-      "cn": "飞小汽车",
-      "type": "名词短语",
-      "count": 17
+     "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
     },
     {
-      "en": "fly away",
-      "cn": "飞离开",
-      "type": "名词短语",
-      "count": 2
+     "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
     },
     {
-      "en": "fly us",
-      "cn": "飞我们",
-      "type": "名词短语",
-      "count": 2
+     "s": "The govemment has already permitted the company to use special materials to make it easier for the vehicle to fly.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "政府已经允许该公司使用特殊材料，使这款车辆更容易飞行。"
     },
     {
-      "en": "fly time",
-      "cn": "飞时间",
-      "type": "名词短语",
-      "count": 2
+     "s": "The government has already permitted the company to use special materials to make it easier for the vehicle to fly.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "36     ，有几种方法可以应对这种情况。让我们现在来看看这些方法。"
+    },
+    {
+     "s": "What is the author's attitude towards the prospect of electric flying?",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者对电动飞行的前景持什么态度？"
+    },
+    {
+     "s": "Terrafugia Inc said Monday that its new flying car has completed its first flight, bringing the company closer to its goal of selling the flying car within the next year.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Terrafugia公司周一宣布，其新型飞行汽车已完成首飞，使该公司距离在未来一年内销售飞行汽车的目标更近了一步。"
+    },
+    {
+     "s": "Terrafugia Inc said Monday that its new flying car has completed its first flight, bringing the company closer to its goal of selling the flying car within the next year.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Terrafugia公司周一宣布，其新型飞行汽车已完成首飞，使该公司距离在未来一年内销售飞行汽车的目标更近了一步。"
+    },
+    {
+     "s": "But Mann thinks Terrafugia has come closer than anyone to making the flying car a reality.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但曼认为，Terrafugia比任何人都更接近让飞行汽车成为现实。"
+    },
+    {
+     "s": "But Mann thinks Terrafugia has come closer than anyone to making the flying car a reality.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但曼认为，Terrafugia比任何人都更接近让飞行汽车成为现实。"
+    },
+    {
+     "s": "The advantages of flying cars.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "飞行汽车的优势。"
+    },
+    {
+     "s": "The advantages of flying cars.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "飞行汽车的优势。"
+    },
+    {
+     "s": "The potential market for flying cars.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "飞行汽车的潜在市场。"
+    },
+    {
+     "s": "The potential market for flying cars.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "飞行汽车的潜在市场。"
+    },
+    {
+     "s": "What is the government’s attitude to the development of the flying car?",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "政府对飞行汽车的发展持什么态度？"
+    },
+    {
+     "s": "What is the government’s attitude to the development of the flying car?",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "政府对飞行汽车的发展持什么态度？"
+    },
+    {
+     "s": "Flying Car at Auto Show.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "车展上的飞行汽车。"
+    },
+    {
+     "s": "Flying Car Closer to Reality",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "飞行汽车离现实更近一步"
+    },
+    {
+     "s": "Flying Car Closer to Reality.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "飞行汽车离现实更近了。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to control an aircraft, etc. in the air 驾驶（飞机等）；操纵（飞行器等）",
+   "ex": [
+    {
+     "s": "“Do you have to fly home?",
+     "src": "2026新高考I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“你回家得坐飞机吗？"
+    },
+    {
+     "s": "Mann said Terrafugia was helped by the Federal Aviation  Administration’s decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes Terrafugia says an owner would need to pass a test and complete 20 hours of flying time to be able to fly the Transition, a requirement pilots would find relatively easy to meet.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "曼说，Terrafugia得益于联邦航空管理局五年前做出的为轻型运动飞机制定一套单独标准的决定，这些标准低于大型飞机飞行员所需的标准。Terrafugia表示，车主需要通过一项测试并完成20小时的飞行时间才能驾驶Transition，飞行员会觉得这是很容易满足的要求。"
+    },
+    {
+     "s": "Terrafugia says an owner would need to pass a test and complete 20 hours of flying time to be able to fly the Transition, a requirement pilots would find redatively easy to meet.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Terrafugia表示，车主需要通过一项测试并完成20小时的飞行时间才能驾驶Transition，飞行员会觉得这是很容易满足的要求。"
+    }
+   ]
+  },
+  {
+   "def": "to transport goods or passengers in a plane 空运（货物或乘客）",
+   "ex": []
+  },
+  {
+   "def": "to travel over an ocean or area of land in an aircraft 乘飞行器飞越（海洋或陆地）",
+   "ex": [
+    {
+     "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。"
+    }
+   ]
+  },
+  {
+   "def": "to go or move quickly 疾驰；疾行；快速移动",
+   "ex": []
+  },
+  {
+   "def": "to move suddenly and with force 猛然移动",
+   "ex": []
+  },
+  {
+   "def": "to seem to pass very quickly 飞逝",
+   "ex": [
+    {
+     "s": "I realize of how fast time flies.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我意识到时光飞逝之快。"
+    },
+    {
+     "s": "Dad showed me a photo we had taken then-just see how time flies!",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "爸爸给我看了一张我们那时拍的照片——看时间过得多快！"
+    }
+   ]
+  },
+  {
+   "def": "if a flag flies, or if you fly it, it is displayed, for example on a long pole （旗）飘扬；升，悬挂（旗）",
+   "ex": []
+  },
+  {
+   "def": "to move around freely 自由移动",
+   "ex": []
+  },
+  {
+   "def": "to be talked about by many people 流传；四处传播",
+   "ex": []
+  },
+  {
+   "def": "to escape from sb/sth （从 … ）逃走，逃跑",
+   "ex": []
+  },
+  {
+   "def": "to be successful 成功",
+   "ex": []
+  },
+  {
+   "def": "to hit a ball high into the air 击（球）腾空",
+   "ex": []
+  },
+  {
+   "def": "to become able to fly and leave its nest 幼鸟",
+   "ex": []
+  },
+  {
+   "def": "to leave home and live somewhere else 子女",
+   "ex": []
+  },
+  {
+   "def": "a small flying insect with two wings. There are many different types of fly. 蝇；苍蝇",
+   "ex": [
+    {
+     "s": "To perform these tasks, drones for rail don’t need to be flying overhead.",
+     "src": "2022全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "工程师们正在研究一种新概念：未来的铁路无人机。"
+    },
+    {
+     "s": "It stops on the stone floor — and then turns, moving slowly towards a different corner of the cave, where the wind is calmer and the flies more plentiful.",
+     "src": "2026北京卷·写作问答",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它停在石地上——然后转身，缓缓爬向洞穴的另一个角落，那里风更平静，苍蝇也更多。"
+    },
+    {
+     "s": "The reason for the explosion is not that people have been reproducing like rabbits, but that people have stopped dropping dead like flies.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "人口爆炸的原因不是人们像兔子一样繁殖，而是人们不再像苍蝇一样大量死亡。"
+    }
+   ]
+  },
+  {
+   "def": "a fly or sth made to look like a fly, that is put on a hook and used as bait to catch fish （作钓饵的）苍蝇，假蝇",
+   "ex": []
+  },
+  {
+   "def": "an opening down the front of a pair of trousers/pants that fastens with a zip or buttons and is usually covered over by a strip of material （裤子的）前裆开口",
+   "ex": []
+  },
+  {
+   "def": "a piece of material that covers the entrance to a tent 门帘",
+   "ex": []
+  },
+  {
+   "def": "clever and showing good judgement about people, especially so that you can get an advantage for yourself 机灵的；机警的；不会上当的",
+   "ex": []
+  },
+  {
+   "def": "fashionable and attractive 时髦迷人的；漂亮的",
+   "ex": [
+    {
+     "s": "When I opened my hand, the bird did not fly away; she sat looking at me with her bright eyes.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我张开手时，这只鸟没有飞走；她坐着用明亮的眼睛看着我。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "flying car",
+   "cn": "飞行汽车",
+   "type": "动词短语",
+   "count": 17
+  },
+  {
+   "en": "fly car",
+   "cn": "飞小汽车",
+   "type": "名词短语",
+   "count": 17
+  },
+  {
+   "en": "fly away",
+   "cn": "飞走",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
