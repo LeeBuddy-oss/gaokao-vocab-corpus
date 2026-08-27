@@ -1,386 +1,380 @@
 {
-  "meta": {
-    "ph": "fʌn; NAmE fʌn",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "fʌn; NAmE fʌn",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "enjoyment; pleasure; a thing that gives enjoyment or pleasure and makes you feel happy 享乐；乐趣；快乐；享乐的事",
+   "ex": [
+    {
+     "s": "My mum would find fun even when completing the most boring of tasks.",
+     "src": "2026浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "妈妈即使在完成最无聊的任务时也能找到乐趣。"
+    },
+    {
+     "s": "Nick has a fun time smelling the leaves and running after rabbits.",
+     "src": "2025北京卷·语法填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "尼克闻着树叶、追着兔子，玩得很开心。"
+    },
+    {
+     "s": "Have Fun with Your CatD.",
+     "src": "2024全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "和你的猫一起玩D."
+    },
+    {
+     "s": "It was fun.",
+     "src": "2024北京卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "演出很有趣。"
+    },
+    {
+     "s": "I realised that by trying something new, I can have fun — even if it means stepping out of my comfort zone.",
+     "src": "2024北京卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我意识到，通过尝试新事物，我可以获得快乐——即使这意味着走出舒适区。"
+    },
+    {
+     "s": "Cycling is the most economical, sustainable and fun way to explore the city, with its beautiful canals, parks, squares and countless lights.",
+     "src": "2023新课标I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "骑自行车是最经济、可持续且有趣的城市探索方式，这里有美丽的运河、公园、广场和无数的灯光。"
+    },
+    {
+     "s": "Fun to be around?",
+     "src": "2023新课标I卷·Personal Forgiveness",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "和你在一起很有趣吗？"
+    },
+    {
+     "s": "The Socrates Express is a fun, sharp book that draws readers in with its apparent simplicity and gradually pulls them in deeper thoughts on desire, loneliness, and aging.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "《苏格拉底快线》是一本有趣而犀利的书，以其表面的简单吸引读者，逐渐将他们带入对欲望、孤独和衰老的更深思考。"
+    },
+    {
+     "s": "She even played some recordings of their singing, what was fun.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她甚至播放了一些它们鸣叫的录音，那很有趣。"
+    },
+    {
+     "s": "From observing his mum and from his desire to give kids better drink options, he came up with his original model for the Fun Bottle.",
+     "src": "2022北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "从观察他妈妈和他想给孩子们更好的饮料选择的愿望出发，他想出了Fun Bottle的原始设计模型。"
+    },
+    {
+     "s": "Where did Tom get the idea for the original model for the Fun Bottle?",
+     "src": "2022北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Tom是从哪里得到Fun Bottle原始设计模型的灵感的？"
+    },
+    {
+     "s": "They don’t seem to be having any fun at all.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他们看起来一点也不开心。"
+    },
+    {
+     "s": "It’s affordable, and it’s got a fun atmosphere without being too noisy.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它价格实惠，氛围有趣又不太吵。"
+    },
+    {
+     "s": "Hostel Alessandro Palace is fun.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "Alessandro Palace旅舍很有趣。"
+    },
+    {
+     "s": "A successful swap depends on the selection of clothes, the organization of the event, and, obviously, how much fun is had.",
+     "src": "2021全国甲卷·Swap, Don’t shop!",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "一次成功的交换取决于衣服的选择、活动的组织，当然还有玩得有多开心。"
+    },
+    {
+     "s": "Let Children Have Fun              B.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "向儿童推销大自然           D."
+    },
+    {
+     "s": "Similarly, if you speak only Chinese, receiving a card in Swedish takes part of the fun away.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "同样地，如果你只会说中文，收到一张瑞典语的卡片会少了一些乐趣。"
+    },
+    {
+     "s": "Discover, explore and enjoy award-winning Tullie House, where historic collections, contemporary art and family fun are brought together in one impressive museum and art gallery.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "探索、欣赏Tullie House这个获奖场所，这里将历史收藏、当代艺术和家庭乐趣汇集在一个令人印象深刻的博物馆和美术馆中。"
+    },
+    {
+     "s": "Have some interactive fun.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "体验互动乐趣。"
+    },
+    {
+     "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你可以成为那个把对话引向有趣话题的人，让他人有机会添加幽默。"
+    },
+    {
+     "s": "You’ll appear fun and funny by association.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过 association 你会显得有趣和幽默。"
+    },
+    {
+     "s": "Studying a subject that you feel pointless is never a fun or easy task.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "学习一门你觉得毫无意义的科目从来都不是有趣或容易的事。"
+    },
+    {
+     "s": "This makes a fun activity for a children’s party; they love feeding the fruit and frozen bananas into the top of the machine and watching the ice cream come out below.",
+     "src": "2018全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这对儿童派对来说是个有趣的活动；他们喜欢把水果和冷冻香蕉从机器顶端投入，看着冰淇淋从下方出来。"
+    },
+    {
+     "s": "Where can you find the data that best supports “children are reading a lot less for fun”?",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你在哪里能找到最有力支持“孩子趣味性阅读少了很多”的数据？"
+    },
+    {
+     "s": "Cooking food can be fun.",
+     "src": "2018浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他决定带我前往西部荒野旅行。"
+    },
+    {
+     "s": "The Center offers programs designed to challenge and inspire with hands-on tasks and lots of fun.",
+     "src": "2018北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该中心提供旨在挑战和启发参与者的项目，包含动手任务和许多乐趣。"
+    },
+    {
+     "s": "All this fun is available for ages 9 to 18.",
+     "src": "2018北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "所有这些乐趣面向9至18岁。"
+    },
+    {
+     "s": "He would    45    the loudest over fun and be the saddest over anyone’s   46    .",
+     "src": "2017全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他会为有趣的事   45   最大声，也会为任何人的   46   最难过。"
+    },
+    {
+     "s": "Enjoy fun history as we take you through San Francisco for a free taste of ice cream.",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在旧金山免费品尝冰淇淋的同时，享受有趣的历史之旅吧。"
+    },
+    {
+     "s": "TOKNOW Magazine is a big hit in the world of children’s publishing, bringing a unique combination of challenging ideas and good fun to young fans every month.",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "TOKNOW 杂志在儿童出版界大受欢迎，每月都为年轻的读者粉丝带来兼具挑战性思想与趣味的独特组合。"
+    },
+    {
+     "s": "What could be more fun than a gift that keeps coming through the letterbox every month?",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "还有什么比一份每个月都通过信箱寄来的礼物更有趣呢？"
+    },
+    {
+     "s": "It combines fun with complex concepts.",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它将趣味与复杂的概念结合在一起。"
+    },
+    {
+     "s": "We are looking forward to the benefits and fun the project can bring to people here.”",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我们期待这个项目能给这里的人们带来好处和乐趣。\""
+    },
+    {
+     "s": "Understanding history is vital to understanding ourselves as a people and as a nation． History is much more than the study of dusty old objects and events long past． It is an essential part of who we are today and who we will become． Thornton Middle School History Fair Competition makes understanding history exciting， engaging， and fun!",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "理解历史对理解我们作为一个民族、一个国家的自我至关重要。历史远不止是对尘封旧物与久远事件的研究。它是我们今天之所是、未来之将是的本质部分。桑顿中学历史博览会竞赛让理解历史变得激动人心、引人入胜且充满乐趣！"
+    },
+    {
+     "s": "Want to meet up later and do something fun?",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "想晚点见面做点有趣的事吗？"
+    },
+    {
+     "s": "Learning idioms can be fun, especially when we compare them to Chinese equivalents.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "学习习语可以很有趣，特别是当我们将它们与中国的习语进行比较时。"
+    },
+    {
+     "s": "Fun facts: ·It is the main source of food for giant pandas.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "有趣的事实：它是大熊猫的主要食物来源。"
+    },
+    {
+     "s": "Explorers Camp organizes engaging arts, history and science-related activities in every! class, and focuses on a range of topics that emphasize active learning, exploration and, most of all, fun!",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "探索者营在每一节课上都组织引人入胜的与艺术、历史、科学相关的活动，并聚焦于一系列强调主动学习、探索，尤其是乐趣的主题！"
+    },
+    {
+     "s": "Come along and join the fun!",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "一起来加入乐趣吧！"
+    },
+    {
+     "s": "There are four fantastic galleries to visit from fine art to interactive fun, so there’s something for everyone!",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从美术到互动乐趣，有四个很棒的画廊可供参观，所以每个人都有适合自己的东西！"
+    },
+    {
+     "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "behaviour or activities that are not serious but come from a sense of enjoyment 嬉戏；逗乐；玩笑",
+   "ex": [
     {
-      "def": "enjoyment; pleasure; a thing that gives enjoyment or pleasure and makes you feel happy 享乐；乐趣；快乐；享乐的事",
-      "ex": [
-        {
-          "s": "My mum would find fun even when completing the most boring of tasks.",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "妈妈即使在完成最无聊的任务时也能找到乐趣。"
-        },
-        {
-          "s": "Nick has a fun time smelling the leaves and running after rabbits.",
-          "src": "2025北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "尼克闻着树叶、追着兔子，玩得很开心。"
-        },
-        {
-          "s": "Have Fun with Your CatD.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "和你的猫一起玩D."
-        },
-        {
-          "s": "It was fun.",
-          "src": "2024北京卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "演出很有趣。"
-        },
-        {
-          "s": "I realised that by trying something new, I can have fun — even if it means stepping out of my comfort zone.",
-          "src": "2024北京卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我意识到，通过尝试新事物，我可以获得快乐——即使这意味着走出舒适区。"
-        },
-        {
-          "s": "Cycling is the most economical, sustainable and fun way to explore the city, with its beautiful canals, parks, squares and countless lights.",
-          "src": "2023新课标I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "骑自行车是最经济、可持续且有趣的城市探索方式，这里有美丽的运河、公园、广场和无数的灯光。"
-        },
-        {
-          "s": "Fun to be around?",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "和你在一起很有趣吗？"
-        },
-        {
-          "s": "The Socrates Express is a fun, sharp book that draws readers in with its apparent simplicity and gradually pulls them in deeper thoughts on desire, loneliness, and aging.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "《苏格拉底快线》是一本有趣而犀利的书，以其表面的简单吸引读者，逐渐将他们带入对欲望、孤独和衰老的更深思考。"
-        },
-        {
-          "s": "She even played some recordings of their singing, what was fun.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她甚至播放了一些它们鸣叫的录音，那很有趣。"
-        },
-        {
-          "s": "From observing his mum and from his desire to give kids better drink options, he came up with his original model for the Fun Bottle.",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "从观察他妈妈和他想给孩子们更好的饮料选择的愿望出发，他想出了Fun Bottle的原始设计模型。"
-        },
-        {
-          "s": "Where did Tom get the idea for the original model for the Fun Bottle?",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Tom是从哪里得到Fun Bottle原始设计模型的灵感的？"
-        },
-        {
-          "s": "They don’t seem to be having any fun at all.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他们看起来一点也不开心。"
-        },
-        {
-          "s": "It’s affordable, and it’s got a fun atmosphere without being too noisy.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它价格实惠，氛围有趣又不太吵。"
-        },
-        {
-          "s": "Hostel Alessandro Palace is fun.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "Alessandro Palace旅舍很有趣。"
-        },
-        {
-          "s": "A successful swap depends on the selection of clothes, the organization of the event, and, obviously, how much fun is had.",
-          "src": "2021全国甲卷·Swap, Don’t shop!",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一次成功的交换取决于衣服的选择、活动的组织，当然还有玩得有多开心。"
-        },
-        {
-          "s": "Let Children Have Fun              B.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "向儿童推销大自然           D."
-        },
-        {
-          "s": "Similarly, if you speak only Chinese, receiving a card in Swedish takes part of the fun away.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "同样地，如果你只会说中文，收到一张瑞典语的卡片会少了一些乐趣。"
-        },
-        {
-          "s": "Discover, explore and enjoy award-winning Tullie House, where historic collections, contemporary art and family fun are brought together in one impressive museum and art gallery.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "探索、欣赏Tullie House这个获奖场所，这里将历史收藏、当代艺术和家庭乐趣汇集在一个令人印象深刻的博物馆和美术馆中。"
-        },
-        {
-          "s": "Have some interactive fun.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "体验互动乐趣。"
-        },
-        {
-          "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你可以成为那个把对话引向有趣话题的人，让他人有机会添加幽默。"
-        },
-        {
-          "s": "You’ll appear fun and funny by association.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过 association 你会显得有趣和幽默。"
-        },
-        {
-          "s": "Studying a subject that you feel pointless is never a fun or easy task.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "学习一门你觉得毫无意义的科目从来都不是有趣或容易的事。"
-        },
-        {
-          "s": "This makes a fun activity for a children’s party; they love feeding the fruit and frozen bananas into the top of the machine and watching the ice cream come out below.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这对儿童派对来说是个有趣的活动；他们喜欢把水果和冷冻香蕉从机器顶端投入，看着冰淇淋从下方出来。"
-        },
-        {
-          "s": "Where can you find the data that best supports “children are reading a lot less for fun”?",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你在哪里能找到最有力支持“孩子趣味性阅读少了很多”的数据？"
-        },
-        {
-          "s": "Cooking food can be fun.",
-          "src": "2018浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他决定带我前往西部荒野旅行。"
-        },
-        {
-          "s": "The Center offers programs designed to challenge and inspire with hands-on tasks and lots of fun.",
-          "src": "2018北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该中心提供旨在挑战和启发参与者的项目，包含动手任务和许多乐趣。"
-        },
-        {
-          "s": "All this fun is available for ages 9 to 18.",
-          "src": "2018北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "所有这些乐趣面向9至18岁。"
-        },
-        {
-          "s": "He would    45    the loudest over fun and be the saddest over anyone’s   46    .",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他会为有趣的事   45   最大声，也会为任何人的   46   最难过。"
-        },
-        {
-          "s": "Enjoy fun history as we take you through San Francisco for a free taste of ice cream.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在旧金山免费品尝冰淇淋的同时，享受有趣的历史之旅吧。"
-        },
-        {
-          "s": "TOKNOW Magazine is a big hit in the world of children’s publishing, bringing a unique combination of challenging ideas and good fun to young fans every month.",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "TOKNOW 杂志在儿童出版界大受欢迎，每月都为年轻的读者粉丝带来兼具挑战性思想与趣味的独特组合。"
-        },
-        {
-          "s": "What could be more fun than a gift that keeps coming through the letterbox every month?",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "还有什么比一份每个月都通过信箱寄来的礼物更有趣呢？"
-        },
-        {
-          "s": "It combines fun with complex concepts.",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它将趣味与复杂的概念结合在一起。"
-        },
-        {
-          "s": "We are looking forward to the benefits and fun the project can bring to people here.”",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们期待这个项目能给这里的人们带来好处和乐趣。\""
-        },
-        {
-          "s": "Understanding history is vital to understanding ourselves as a people and as a nation． History is much more than the study of dusty old objects and events long past． It is an essential part of who we are today and who we will become． Thornton Middle School History Fair Competition makes understanding history exciting， engaging， and fun!",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "理解历史对理解我们作为一个民族、一个国家的自我至关重要。历史远不止是对尘封旧物与久远事件的研究。它是我们今天之所是、未来之将是的本质部分。桑顿中学历史博览会竞赛让理解历史变得激动人心、引人入胜且充满乐趣！"
-        },
-        {
-          "s": "Want to meet up later and do something fun?",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "想晚点见面做点有趣的事吗？"
-        },
-        {
-          "s": "Learning idioms can be fun, especially when we compare them to Chinese equivalents.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "学习习语可以很有趣，特别是当我们将它们与中国的习语进行比较时。"
-        },
-        {
-          "s": "Fun facts: ·It is the main source of food for giant pandas.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "有趣的事实：它是大熊猫的主要食物来源。"
-        },
-        {
-          "s": "Explorers Camp organizes engaging arts, history and science-related activities in every! class, and focuses on a range of topics that emphasize active learning, exploration and, most of all, fun!",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "探索者营在每一节课上都组织引人入胜的与艺术、历史、科学相关的活动，并聚焦于一系列强调主动学习、探索，尤其是乐趣的主题！"
-        },
-        {
-          "s": "Come along and join the fun!",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "一起来加入乐趣吧！"
-        },
-        {
-          "s": "There are four fantastic galleries to visit from fine art to interactive fun, so there’s something for everyone!",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从美术到互动乐趣，有四个很棒的画廊可供参观，所以每个人都有适合自己的东西！"
-        },
-        {
-          "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
-        }
-      ]
+     "s": "Catamarans are faster, but they’re not so elegant, and they’re not fun to pilot.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "双体船速度更快，但不那么优雅，驾驶起来也不好玩。"
     },
     {
-      "def": "behaviour or activities that are not serious but come from a sense of enjoyment 嬉戏；逗乐；玩笑",
-      "ex": [
-        {
-          "s": "Catamarans are faster, but they’re not so elegant, and they’re not fun to pilot.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "双体船速度更快，但不那么优雅，驾驶起来也不好玩。"
-        },
-        {
-          "s": "Tom is proud of his design and excited to be selling the Fun Bottle on his website and in stores but this 15-year-old is most proud of the opportunities that Fun Bottle presents to others.",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Tom对他的设计感到自豪，也很兴奋能在他的网站和商店销售Fun Bottle，但这位15岁少年最引以为豪的是Fun Bottle为他人带来的机会。"
-        },
-        {
-          "s": "Tom is most proud of the opportunities that Fun Bottle presents to others because he not only provides healthy alternatives to sugary drinks but also donates all the profits to the OHG.",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Tom最引以为豪Fun Bottle为他人的带来机会是因为他不仅提供了含糖饮料的健康替代品，还将所有利润捐赠给了OHG。"
-        },
-        {
-          "s": "“Without anybody left in the house but us, this place could use a bit of fun.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "屋里除了我们没有别人留下，这地方倒是可以找点乐子。"
-        },
-        {
-          "s": "Both of us had the qualities and virtues that are typical of American actors: humorous, aggressive, and making fun of each other — but always with an underlying affection.",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我们两人都具备美国演员典型的品质和美德：幽默、好胜，互相开玩笑——但始终带着心底里的温情。"
-        },
-        {
-          "s": "It is  70  (certain) fun but the lifestyle is a little unreal.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这当然____（确）很有趣，但这种生活方式有点不真实。"
-        },
-        {
-          "s": "Both of us had the qualities and virtues that are typical of American actors: humorous, aggressive, and making fun of each other - but always with an underlying affection.",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我们两人都具备美国演员典型的品质和美德：幽默、好胜，互相开玩笑——但始终带着心底里的温情。"
-        },
-        {
-          "s": "Often students come to the classroom believing that learning can’t be fun and that what they learn isn’t relevant to the real world — much less to their personal interests.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "学生们常常带着这样的看法走进教室：学习不可能有趣，所学内容与现实世界无关——更谈不上与他们的个人兴趣有关。"
-        },
-        {
-          "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
-        },
-        {
-          "s": "The fun part of the activities is that the kids can eat or take home whatever they make.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "活动的有趣之处在于，孩子们可以吃掉或带回家他们做的任何东西。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "fun bottle",
-      "cn": "趣味瓶子",
-      "type": "名词短语",
-      "count": 5
+     "s": "Tom is proud of his design and excited to be selling the Fun Bottle on his website and in stores but this 15-year-old is most proud of the opportunities that Fun Bottle presents to others.",
+     "src": "2022北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Tom对他的设计感到自豪，也很兴奋能在他的网站和商店销售Fun Bottle，但这位15岁少年最引以为豪的是Fun Bottle为他人带来的机会。"
     },
     {
-      "en": "interactive fun",
-      "cn": "享乐",
-      "type": "名词短语",
-      "count": 2
+     "s": "Tom is most proud of the opportunities that Fun Bottle presents to others because he not only provides healthy alternatives to sugary drinks but also donates all the profits to the OHG.",
+     "src": "2022北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Tom最引以为豪Fun Bottle为他人的带来机会是因为他不仅提供了含糖饮料的健康替代品，还将所有利润捐赠给了OHG。"
+    },
+    {
+     "s": "“Without anybody left in the house but us, this place could use a bit of fun.",
+     "src": "2020浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "屋里除了我们没有别人留下，这地方倒是可以找点乐子。"
+    },
+    {
+     "s": "Both of us had the qualities and virtues that are typical of American actors: humorous, aggressive, and making fun of each other — but always with an underlying affection.",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我们两人都具备美国演员典型的品质和美德：幽默、好胜，互相开玩笑——但始终带着心底里的温情。"
+    },
+    {
+     "s": "It is  70  (certain) fun but the lifestyle is a little unreal.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这当然____（确）很有趣，但这种生活方式有点不真实。"
+    },
+    {
+     "s": "Both of us had the qualities and virtues that are typical of American actors: humorous, aggressive, and making fun of each other - but always with an underlying affection.",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我们两人都具备美国演员典型的品质和美德：幽默、好胜，互相开玩笑——但始终带着心底里的温情。"
+    },
+    {
+     "s": "Often students come to the classroom believing that learning can’t be fun and that what they learn isn’t relevant to the real world — much less to their personal interests.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "学生们常常带着这样的看法走进教室：学习不可能有趣，所学内容与现实世界无关——更谈不上与他们的个人兴趣有关。"
+    },
+    {
+     "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
+    },
+    {
+     "s": "The fun part of the activities is that the kids can eat or take home whatever they make.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "活动的有趣之处在于，孩子们可以吃掉或带回家他们做的任何东西。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "fun bottle",
+   "cn": "趣味瓶子",
+   "type": "名词短语",
+   "count": 5
+  }
+ ]
 }
