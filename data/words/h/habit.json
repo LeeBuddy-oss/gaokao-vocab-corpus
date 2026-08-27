@@ -1,427 +1,415 @@
 {
-  "meta": {
-    "ph": "ˈhæbɪt; NAmE ˈhæbɪt",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈhæbɪt; NAmE ˈhæbɪt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a thing that you do often and almost without thinking, especially sth that is hard to stop doing 习惯",
+   "ex": [
+    {
+     "s": "My parents urged me to get out of this so-called unhealthy habit, but their repeated requests fell on deaf ears.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "父母劝我改掉这个所谓不健康的习惯，但他们的一再要求都被我当成了耳旁风。"
+    },
+    {
+     "s": "Napping and daydreaming are habits caused by lack of involvement with the material.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "打盹和白日梦是由于缺乏对材料的投入而形成的习惯。"
+    },
+    {
+     "s": "Then, start denying yourself the right in order to break the habit.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "然后，开始拒绝自己的这种权利以打破这个习惯。"
+    },
+    {
+     "s": "Comparing Ourselves with Others Can Become a Healthy Habit",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "把自己和他人比较可能成为一种健康的习惯。"
+    },
+    {
+     "s": "Dogs are known for their impressive fetching habit, but cats take this behavior up a notch.",
+     "src": "2024全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "狗以令人印象深刻的捡东西习惯闻名，但猫把这种行为更进了一步。"
+    },
+    {
+     "s": "Most people have the habit of doing physical exercise.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "大多数人都有做体育锻炼的习惯。"
+    },
+    {
+     "s": "The mechanism involves a repurposed reward system originally used to develop habits important for self-care.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这一机制涉及一种被重新利用的奖励系统，该系统原本用于培养对自我照顾很重要的习惯。"
+    },
+    {
+     "s": "Good habits save time, energy and sometimes your life.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "好习惯节省时间、精力，有时还能救命。"
+    },
+    {
+     "s": "Good social habits do something similar in a social context.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "良好的社会习惯在社会情境中做着类似的事。"
+    },
+    {
+     "s": "“Our hope is to have a clean, attractant-free place where bears can pass through without learning bad habits,“ says James Jonkel, longtime biologist who manages bears in and around Missoula.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我们的希望是拥有一个干净、无诱饵的地方，让熊可以穿行而过而不养成坏习惯，长期在米苏拉及周边管理熊的生物学家詹姆斯·琼克尔说。"
+    },
+    {
+     "s": "It’s thanks to these TV chefs rather than any advertising campaign that Britons are turning away from meat-and-two-veg and ready-made meals and becoming more adventurous in their cooking habits.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "多亏了这些电视厨师而不是任何广告宣传活动，英国人正在远离“一肉两菜”和即食餐，在烹饪习惯上变得更具冒险精神。"
+    },
+    {
+     "s": "But why not try to break away from those habits and deliberately do the “wrong” thing for a change, and see where your derring takes you?",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "但为什么不试着打破这些习惯，刻意做一次\"错\"事换换口味，看看你的胆识会带你去往何处？"
+    },
+    {
+     "s": "Habit formation is the process by which behaviours become automatic.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "习惯养成，是行为变得自动化的过程。"
+    },
+    {
+     "s": "People develop countless habits as they explore the world, whether they are aware of them or not.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "人们在探索世界的过程中养成无数的习惯，无论他们是否意识到这一点。"
+    },
+    {
+     "s": "Understanding how habits take shape may be helpful in changing bad habits.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "了解习惯是如何形成的，可能有助于改变不良习惯。"
+    },
+    {
+     "s": "Habits are built through learning and repetition.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "习惯是通过学习和重复建立的。"
+    },
+    {
+     "s": "A “habit loop(环)” is a way of describing several related elements that produce habits.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "\"习惯循环\"是描述产生习惯的几个相关要素的一种方式。"
+    },
+    {
+     "s": "Old habits can be difficult to shake, and healthy habits are often harder to develop.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "旧习惯可能很难改掉，而健康习惯往往更难养成。"
+    },
+    {
+     "s": "But through repetition, it’s possible to form new habits.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "但通过重复，有可能形成新的习惯。"
+    },
+    {
+     "s": "While you are able to pickup a new habit in a few weeks, it takes many months to build a healthy habit.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "虽然你可以在几周内养成一个新习惯，但建立一个健康习惯需要好几个月。"
+    },
+    {
+     "s": "Take some time to think about what leads to bad habits and re﹣evaluate what you get out of them (or don’t).",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "花点时间想想是什么导致了坏习惯，并重新评估你从中得到了什么（或没得到什么）。"
+    },
+    {
+     "s": "How are habits built?",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "习惯是如何养成的？"
+    },
+    {
+     "s": "In what way is a routine different from a habit?",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "常规与习惯在哪些方面不同？"
+    },
+    {
+     "s": "Picking up a new habit takes a few week, while building a healthy habit takes a shorter time.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "学会一个新习惯只需要几周，而养成健康习惯需要更短的时间。"
+    },
+    {
+     "s": "What benefit(s) have you got from one of your good habits?(In about 40 words)",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "你从自己的某个好习惯中得到了什么好处？（约40词）"
+    },
+    {
+     "s": "To change their habits of working out",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "改变他们的运动习惯"
+    },
+    {
+     "s": "\"There is a lot of really interesting evidence which seems to be suggesting that if children are inspired up to the age of seven, then being outdoors will be a habit for life.\" His own children have got into the habit of playing outside now: \"We just send them out into the garden and tell them not to come back in for a while.\"",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“有大量非常有趣的证据似乎表明，如果孩子在七岁前受到启发，那么待在户外将成为一生的习惯。”他自己的孩子现在也养成了在外面玩的习惯：“我们只是把他们赶到花园里，告诉他们一会儿别回来。”"
+    },
+    {
+     "s": "getting rid of a bad habit",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "改掉一个坏习惯"
+    },
+    {
+     "s": "Another habit I formed early was being outdoors.",
+     "src": "2020浙江7月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我早期养成的另一个习惯是在户外活动。"
+    },
+    {
+     "s": "Children’s reading habits.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "儿童的阅读习惯。"
+    },
+    {
+     "s": "For weeks, I’ve been thinking of bigger, deeper questions: How do we make it a habit for them?",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "几周来，我一直在思考更大、更深的问题：我们如何让它成为他们的习惯？"
+    },
+    {
+     "s": "His strange habit makes sense when you consider that he’s an environmental scientist who studies how to reduce litter, including things that fall off garbage trucks as they drive down the road.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他奇怪的习惯在你想到他是一位研究如何减少垃圾的环境科学家时就有道理了，包括研究那些在垃圾车沿路行驶时从车上掉落的东西。"
+    },
+    {
+     "s": "Relearning the art of seeing the world around us is quite simple, although it takes practice and requires breaking some bad habits．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "重新学习观察周围世界的艺术其实很简单，尽管需要练习，还需要改掉一些坏习惯。"
+    },
+    {
+     "s": "likely to develop unpleasant habits",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "C．可能养成坏习惯"
+    },
+    {
+     "s": "get rid of some bad habits in our daily life",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "B． 改掉日常生活中一些坏习惯"
+    },
+    {
+     "s": "Knowing these causes can make us examine our behavior, and correct bad habits.",
+     "src": "2018北京卷·Why Do We Get Angry?",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "具有这些性格特征意味着处于愤怒前的状态，愤怒在你意识的背景中。"
+    },
+    {
+     "s": "Getting less sleep has become a bad habit for most American kids.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "睡眠不足已经成为大多数美国孩子的坏习惯。"
+    },
+    {
+     "s": "Posted by Jack at 13:34 Jack started the habit of cleaning his room last week.",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "杰克发表于13:34：杰克上周开始了打扫房间的习惯。"
+    },
+    {
+     "s": "This is a widely recognised good habit for personal finance management, and you can receive interest on your savings.",
+     "src": "外研社B7 U4",
+     "cat": "waiyan",
+     "t": "这是一个被广泛认可的良好的个人理财习惯，你还可以从储蓄中获得利息。"
+    },
+    {
+     "s": "Middle-of-the-road work habits.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "中庸的工作习惯。"
+    },
+    {
+     "s": "Her habit of consumption.",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她的消费习惯。"
+    },
+    {
+     "s": "Change of living habits.",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "生活习惯的改变。"
+    },
+    {
+     "s": "According to a recent study in the Journal of Consumer Research, both the size and consumption habits of our eating companions can influence our food intake.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据《消费者研究杂志》最近的一项研究，与我们一起吃饭的人的体型和饮食习惯都会影响我们的进食量。"
+    },
+    {
+     "s": "To test the effect of social influence on eating habits, the researchers conducted two experiments.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为了测试社会影响对饮食习惯的作用研究人员进行了两项实验。"
+    },
+    {
+     "s": "If an overweight person is having a large portion, I’ll hold back a bit because I see the results of his eating habits.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果一个超重的人拿了大份，我会稍微克制，因为我看到了他的饮食习惯带来的结果。"
+    },
+    {
+     "s": "To evaluate their work habits.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "评估他们的工作习惯。"
+    },
+    {
+     "s": "American kids’ sleeping habits.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "美国孩子的睡眠习惯。"
+    },
+    {
+     "s": "While a routine involves repeated behaviour, it’s not necessarily performed in response to a deep﹣rooted urge, as a habit is.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "虽然常规包含重复行为，但它未必像习惯那样是出于根深蒂固的冲动而做出的。"
+    },
+    {
+     "s": "The amount of time needed to build a habit will depend on multiple factors, including the individual and the intended behaviour.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "养成一个习惯所需的时间取决于多种因素，包括个人和预期行为。"
+    },
+    {
+     "s": "With good eating habits, you will be able to get the energy and nutrients you need to allow your body to grow and develop properly.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "有了良好的饮食习惯，您将能够获得让身体正常生长和发育所需的能量和营养。"
+    },
+    {
+     "s": "Draw a chart to show your spending habits and share it with the class.",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "画一张图表来展示你的消费习惯，并与全班分享。"
+    },
+    {
+     "s": "As thinking changes, an individual's behaviour and habits change as well.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随着思维改变，一个人的行为和习惯也随之改变。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "usual behaviour 惯常行为；习性",
+   "ex": [
     {
-      "def": "a thing that you do often and almost without thinking, especially sth that is hard to stop doing 习惯",
-      "ex": [
-        {
-          "s": "My parents urged me to get out of this so-called unhealthy habit, but their repeated requests fell on deaf ears.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "父母劝我改掉这个所谓不健康的习惯，但他们的一再要求都被我当成了耳旁风。"
-        },
-        {
-          "s": "Napping and daydreaming are habits caused by lack of involvement with the material.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "打盹和白日梦是由于缺乏对材料的投入而形成的习惯。"
-        },
-        {
-          "s": "Then, start denying yourself the right in order to break the habit.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "然后，开始拒绝自己的这种权利以打破这个习惯。"
-        },
-        {
-          "s": "Comparing Ourselves with Others Can Become a Healthy Habit",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "把自己和他人比较可能成为一种健康的习惯。"
-        },
-        {
-          "s": "Dogs are known for their impressive fetching habit, but cats take this behavior up a notch.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "狗以令人印象深刻的捡东西习惯闻名，但猫把这种行为更进了一步。"
-        },
-        {
-          "s": "Most people have the habit of doing physical exercise.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "大多数人都有做体育锻炼的习惯。"
-        },
-        {
-          "s": "The mechanism involves a repurposed reward system originally used to develop habits important for self-care.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这一机制涉及一种被重新利用的奖励系统，该系统原本用于培养对自我照顾很重要的习惯。"
-        },
-        {
-          "s": "Good habits save time, energy and sometimes your life.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "好习惯节省时间、精力，有时还能救命。"
-        },
-        {
-          "s": "Good social habits do something similar in a social context.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "良好的社会习惯在社会情境中做着类似的事。"
-        },
-        {
-          "s": "“Our hope is to have a clean, attractant-free place where bears can pass through without learning bad habits,“ says James Jonkel, longtime biologist who manages bears in and around Missoula.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们的希望是拥有一个干净、无诱饵的地方，让熊可以穿行而过而不养成坏习惯，长期在米苏拉及周边管理熊的生物学家詹姆斯·琼克尔说。"
-        },
-        {
-          "s": "It’s thanks to these TV chefs rather than any advertising campaign that Britons are turning away from meat-and-two-veg and ready-made meals and becoming more adventurous in their cooking habits.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "多亏了这些电视厨师而不是任何广告宣传活动，英国人正在远离“一肉两菜”和即食餐，在烹饪习惯上变得更具冒险精神。"
-        },
-        {
-          "s": "But why not try to break away from those habits and deliberately do the “wrong” thing for a change, and see where your derring takes you?",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但为什么不试着打破这些习惯，刻意做一次\"错\"事换换口味，看看你的胆识会带你去往何处？"
-        },
-        {
-          "s": "Habit formation is the process by which behaviours become automatic.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "习惯养成，是行为变得自动化的过程。"
-        },
-        {
-          "s": "People develop countless habits as they explore the world, whether they are aware of them or not.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "人们在探索世界的过程中养成无数的习惯，无论他们是否意识到这一点。"
-        },
-        {
-          "s": "Understanding how habits take shape may be helpful in changing bad habits.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "了解习惯是如何形成的，可能有助于改变不良习惯。"
-        },
-        {
-          "s": "Habits are built through learning and repetition.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "习惯是通过学习和重复建立的。"
-        },
-        {
-          "s": "A “habit loop(环)” is a way of describing several related elements that produce habits.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "\"习惯循环\"是描述产生习惯的几个相关要素的一种方式。"
-        },
-        {
-          "s": "Old habits can be difficult to shake, and healthy habits are often harder to develop.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "旧习惯可能很难改掉，而健康习惯往往更难养成。"
-        },
-        {
-          "s": "But through repetition, it’s possible to form new habits.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但通过重复，有可能形成新的习惯。"
-        },
-        {
-          "s": "While you are able to pickup a new habit in a few weeks, it takes many months to build a healthy habit.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "虽然你可以在几周内养成一个新习惯，但建立一个健康习惯需要好几个月。"
-        },
-        {
-          "s": "Take some time to think about what leads to bad habits and re﹣evaluate what you get out of them (or don’t).",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "花点时间想想是什么导致了坏习惯，并重新评估你从中得到了什么（或没得到什么）。"
-        },
-        {
-          "s": "How are habits built?",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "习惯是如何养成的？"
-        },
-        {
-          "s": "In what way is a routine different from a habit?",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "常规与习惯在哪些方面不同？"
-        },
-        {
-          "s": "Picking up a new habit takes a few week, while building a healthy habit takes a shorter time.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "学会一个新习惯只需要几周，而养成健康习惯需要更短的时间。"
-        },
-        {
-          "s": "What benefit(s) have you got from one of your good habits?(In about 40 words)",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "你从自己的某个好习惯中得到了什么好处？（约40词）"
-        },
-        {
-          "s": "To change their habits of working out",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "改变他们的运动习惯"
-        },
-        {
-          "s": "\"There is a lot of really interesting evidence which seems to be suggesting that if children are inspired up to the age of seven, then being outdoors will be a habit for life.\" His own children have got into the habit of playing outside now: \"We just send them out into the garden and tell them not to come back in for a while.\"",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“有大量非常有趣的证据似乎表明，如果孩子在七岁前受到启发，那么待在户外将成为一生的习惯。”他自己的孩子现在也养成了在外面玩的习惯：“我们只是把他们赶到花园里，告诉他们一会儿别回来。”"
-        },
-        {
-          "s": "getting rid of a bad habit",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "改掉一个坏习惯"
-        },
-        {
-          "s": "Another habit I formed early was being outdoors.",
-          "src": "2020浙江7月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我早期养成的另一个习惯是在户外活动。"
-        },
-        {
-          "s": "Children’s reading habits.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "儿童的阅读习惯。"
-        },
-        {
-          "s": "For weeks, I’ve been thinking of bigger, deeper questions: How do we make it a habit for them?",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "几周来，我一直在思考更大、更深的问题：我们如何让它成为他们的习惯？"
-        },
-        {
-          "s": "His strange habit makes sense when you consider that he’s an environmental scientist who studies how to reduce litter, including things that fall off garbage trucks as they drive down the road.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他奇怪的习惯在你想到他是一位研究如何减少垃圾的环境科学家时就有道理了，包括研究那些在垃圾车沿路行驶时从车上掉落的东西。"
-        },
-        {
-          "s": "Relearning the art of seeing the world around us is quite simple, although it takes practice and requires breaking some bad habits．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "重新学习观察周围世界的艺术其实很简单，尽管需要练习，还需要改掉一些坏习惯。"
-        },
-        {
-          "s": "likely to develop unpleasant habits",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "C．可能养成坏习惯"
-        },
-        {
-          "s": "get rid of some bad habits in our daily life",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "B． 改掉日常生活中一些坏习惯"
-        },
-        {
-          "s": "Knowing these causes can make us examine our behavior, and correct bad habits.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "具有这些性格特征意味着处于愤怒前的状态，愤怒在你意识的背景中。"
-        },
-        {
-          "s": "Getting less sleep has become a bad habit for most American kids.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "睡眠不足已经成为大多数美国孩子的坏习惯。"
-        },
-        {
-          "s": "Posted by Jack at 13:34 Jack started the habit of cleaning his room last week.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "杰克发表于13:34：杰克上周开始了打扫房间的习惯。"
-        },
-        {
-          "s": "This is a widely recognised good habit for personal finance management, and you can receive interest on your savings.",
-          "src": "外研社B7 U4",
-          "cat": "waiyan",
-          "t": "这是一个被广泛认可的良好的个人理财习惯，你还可以从储蓄中获得利息。"
-        },
-        {
-          "s": "Middle-of-the-road work habits.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "中庸的工作习惯。"
-        },
-        {
-          "s": "Her habit of consumption.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她的消费习惯。"
-        },
-        {
-          "s": "Change of living habits.",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "生活习惯的改变。"
-        },
-        {
-          "s": "According to a recent study in the Journal of Consumer Research, both the size and consumption habits of our eating companions can influence our food intake.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据《消费者研究杂志》最近的一项研究，与我们一起吃饭的人的体型和饮食习惯都会影响我们的进食量。"
-        },
-        {
-          "s": "To test the effect of social influence on eating habits, the researchers conducted two experiments.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了测试社会影响对饮食习惯的作用研究人员进行了两项实验。"
-        },
-        {
-          "s": "If an overweight person is having a large portion, I’ll hold back a bit because I see the results of his eating habits.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果一个超重的人拿了大份，我会稍微克制，因为我看到了他的饮食习惯带来的结果。"
-        },
-        {
-          "s": "To evaluate their work habits.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "评估他们的工作习惯。"
-        },
-        {
-          "s": "American kids’ sleeping habits.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "美国孩子的睡眠习惯。"
-        },
-        {
-          "s": "While a routine involves repeated behaviour, it’s not necessarily performed in response to a deep﹣rooted urge, as a habit is.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "虽然常规包含重复行为，但它未必像习惯那样是出于根深蒂固的冲动而做出的。"
-        },
-        {
-          "s": "The amount of time needed to build a habit will depend on multiple factors, including the individual and the intended behaviour.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "养成一个习惯所需的时间取决于多种因素，包括个人和预期行为。"
-        },
-        {
-          "s": "With good eating habits, you will be able to get the energy and nutrients you need to allow your body to grow and develop properly.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "有了良好的饮食习惯，您将能够获得让身体正常生长和发育所需的能量和营养。"
-        },
-        {
-          "s": "Draw a chart to show your spending habits and share it with the class.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "画一张图表来展示你的消费习惯，并与全班分享。"
-        },
-        {
-          "s": "As thinking changes, an individual's behaviour and habits change as well.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着思维改变，一个人的行为和习惯也随之改变。"
-        }
-      ]
+     "s": "Some animals have even changed their living habits to fit in with their new homes.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "一些动物甚至改变了它们的生活习性与新家园。"
     },
     {
-      "def": "usual behaviour 惯常行为；习性",
-      "ex": [
-        {
-          "s": "Some animals have even changed their living habits to fit in with their new homes.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "一些动物甚至改变了它们的生活习性与新家园。"
-        },
-        {
-          "s": "Miss Zhao told us the names of the insects or described their living habits.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "赵老师告诉我们昆虫的名字，或描述它们的生活习性。"
-        },
-        {
-          "s": "The living habits of species in food webs．",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．食物网中物种的生活习性。"
-        }
-      ]
+     "s": "Miss Zhao told us the names of the insects or described their living habits.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "赵老师告诉我们昆虫的名字，或描述它们的生活习性。"
     },
     {
-      "def": "a strong need to keep using drugs, alcohol or cigarettes regularly （吸毒、喝酒、抽烟的）瘾",
-      "ex": []
-    },
-    {
-      "def": "a long piece of clothing worn by a monk or nun （修道士或修女穿的）长袍；道袍；道服",
-      "ex": []
+     "s": "The living habits of species in food webs．",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "A．食物网中物种的生活习性。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "bad habits",
-      "cn": "坏习惯",
-      "type": "名词短语",
-      "count": 8
-    },
-    {
-      "en": "living habits",
-      "cn": "生活习惯",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "good habits",
-      "cn": "好习惯",
-      "type": "名词短语",
-      "count": 3
-    }
-  ]
+   ]
+  },
+  {
+   "def": "a strong need to keep using drugs, alcohol or cigarettes regularly （吸毒、喝酒、抽烟的）瘾",
+   "ex": []
+  },
+  {
+   "def": "a long piece of clothing worn by a monk or nun （修道士或修女穿的）长袍；道袍；道服",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "living habits",
+   "cn": "生活习惯",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
