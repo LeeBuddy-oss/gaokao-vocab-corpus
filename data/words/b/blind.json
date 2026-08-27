@@ -1,128 +1,121 @@
 {
-  "meta": {
-    "ph": "blaɪnd; NAmE blaɪnd",
-    "pos": "adjective;adjective;adjective;adjective;adjective;adjective;verb;verb;verb;noun;adjective",
-    "stars": ""
+ "meta": {
+  "ph": "blaɪnd; NAmE blaɪnd",
+  "pos": "adjective;adjective;adjective;adjective;adjective;adjective;verb;verb;verb;noun;adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "not able to see 瞎的；失明的",
+   "ex": [
+    {
+     "s": "A computer analysis blindly compared calls produced by mothers and chicks, ranking them by similarity.",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "计算机分析在不知情的情况下比较了母亲和幼鸟发出的叫声，并按相似度排序。"
+    },
+    {
+     "s": "(Excerpts from \"Three Days to See\" by Helen Keller) 1 To help readers understand what it is like to be blind.",
+     "src": "外研社B4 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "（节选自海伦·凯勒的《假如给我三天光明》）1 帮助读者理解失明的感受。"
+    },
+    {
+     "s": "Dining in the Dark Recently I dined at a \"dark restaurant\", where people eat in complete darkness, served by blind staff.",
+     "src": "外研社B4 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "暗夜用餐　最近我在一家“黑暗餐厅”用餐，那里人们在完全黑暗中进餐，由失明的员工服务。"
+    },
+    {
+     "s": "Three Days to See 1 I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life.",
+     "src": "外研社B4 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "《假如给我三天光明》1 我常常想，如果在每个人成年初期，都能突然失明失聪几天，那将是一种福分。"
+    },
+    {
+     "s": "I wanted to understand the experience of being blind, and I thought eating would be the most difficult activity.",
+     "src": "外研社B4 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我想体验失明的感受，而我觉得吃饭会是最困难的事。"
+    },
+    {
+     "s": "Use your eyes as if tomorrow you would be stricken blind.",
+     "src": "外研社B4 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "用你的眼睛，就好像明天你就要失明一样。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "people who are blind 盲人",
+   "ex": [
     {
-      "def": "not able to see 瞎的；失明的",
-      "ex": [
-        {
-          "s": "A computer analysis blindly compared calls produced by mothers and chicks, ranking them by similarity.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "计算机分析在不知情的情况下比较了母亲和幼鸟发出的叫声，并按相似度排序。"
-        },
-        {
-          "s": "(Excerpts from \"Three Days to See\" by Helen Keller) 1 To help readers understand what it is like to be blind.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "（节选自海伦·凯勒的《假如给我三天光明》）1 帮助读者理解失明的感受。"
-        },
-        {
-          "s": "Dining in the Dark Recently I dined at a \"dark restaurant\", where people eat in complete darkness, served by blind staff.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "暗夜用餐　最近我在一家“黑暗餐厅”用餐，那里人们在完全黑暗中进餐，由失明的员工服务。"
-        },
-        {
-          "s": "Three Days to See 1 I have often thought it would be a blessing if each human being were stricken blind and deaf for a few days at some time during his early adult life.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "《假如给我三天光明》1 我常常想，如果在每个人成年初期，都能突然失明失聪几天，那将是一种福分。"
-        },
-        {
-          "s": "I wanted to understand the experience of being blind, and I thought eating would be the most difficult activity.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我想体验失明的感受，而我觉得吃饭会是最困难的事。"
-        },
-        {
-          "s": "Use your eyes as if tomorrow you would be stricken blind.",
-          "src": "外研社B4 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "用你的眼睛，就好像明天你就要失明一样。"
-        }
-      ]
-    },
-    {
-      "def": "people who are blind 盲人",
-      "ex": [
-        {
-          "s": "I was born legally blind.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我天生是法定盲人。"
-        }
-      ]
-    },
-    {
-      "def": "not noticing or realizing sth （对某事）视而不见的，未察觉的",
-      "ex": [
-        {
-          "s": "People tend to be blind to the beauty around them．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "C. 人们往往对他们周围的美视而不见。"
-        }
-      ]
-    },
-    {
-      "def": "seeming to be unreasonable, and accepted without question; seeming to be out of control 强烈的感觉",
-      "ex": []
-    },
-    {
-      "def": "that cannot be controlled by reason 局势或事情",
-      "ex": []
-    },
-    {
-      "def": "that a driver in a car cannot see, or cannot see around 汽车司机看不见的；隐蔽的",
-      "ex": []
-    },
-    {
-      "def": "to permanently destroy sb's ability to see 使变瞎；使失明",
-      "ex": []
-    },
-    {
-      "def": "to make it difficult for sb to see for a short time 使眼花；使目眩",
-      "ex": []
-    },
-    {
-      "def": "to make sb no longer able to think clearly or behave in a sensible way 使思维混沌；使失去判断力",
-      "ex": []
-    },
-    {
-      "def": "a covering for a window, especially one made of a roll of cloth that is fixed at the top of the window and can be pulled up and down 窗帘；（尤指）卷帘",
-      "ex": [
-        {
-          "s": "The blinding whiteout made driving nearly impossible.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "令人眩目的白茫一片让驾驶几乎无法进行。"
-        }
-      ]
-    },
-    {
-      "def": "something people say or do to hide the truth about sth in order to trick other people 用以欺骗人的言行；借口；托辞；幌子",
-      "ex": []
+     "s": "I was born legally blind.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我天生是法定盲人。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "not noticing or realizing sth （对某事）视而不见的，未察觉的",
+   "ex": [
     {
-      "en": "blind and",
-      "cn": "瞎",
-      "type": "名词短语",
-      "count": 2
+     "s": "People tend to be blind to the beauty around them．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "C. 人们往往对他们周围的美视而不见。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "seeming to be unreasonable, and accepted without question; seeming to be out of control 强烈的感觉",
+   "ex": []
+  },
+  {
+   "def": "that cannot be controlled by reason 局势或事情",
+   "ex": []
+  },
+  {
+   "def": "that a driver in a car cannot see, or cannot see around 汽车司机看不见的；隐蔽的",
+   "ex": []
+  },
+  {
+   "def": "to permanently destroy sb's ability to see 使变瞎；使失明",
+   "ex": []
+  },
+  {
+   "def": "to make it difficult for sb to see for a short time 使眼花；使目眩",
+   "ex": []
+  },
+  {
+   "def": "to make sb no longer able to think clearly or behave in a sensible way 使思维混沌；使失去判断力",
+   "ex": []
+  },
+  {
+   "def": "a covering for a window, especially one made of a roll of cloth that is fixed at the top of the window and can be pulled up and down 窗帘；（尤指）卷帘",
+   "ex": [
+    {
+     "s": "The blinding whiteout made driving nearly impossible.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "令人眩目的白茫一片让驾驶几乎无法进行。"
+    }
+   ]
+  },
+  {
+   "def": "something people say or do to hide the truth about sth in order to trick other people 用以欺骗人的言行；借口；托辞；幌子",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
