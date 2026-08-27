@@ -1,77 +1,70 @@
 {
-  "meta": {
-    "ph": "ˈʌɡli; NAmE ˈʌɡli",
-    "pos": "adj.",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈʌɡli; NAmE ˈʌɡli",
+  "pos": "adj.",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "unpleasant to look at 丑陋的；难看的",
+   "ex": [
     {
-      "def": "unpleasant to look at 丑陋的；难看的",
-      "ex": [
-        {
-          "s": "But why do we find some art beautiful and other art ugly?",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "但为什么我们发现有些艺术美丽而另一些艺术丑陋呢？"
-        },
-        {
-          "s": "It’s jaw-dropping how much perfectly good food is thrown away — from “ugly” (but quite eatable) vegetables rejected by grocers to large amounts of uneaten dishes thrown into restaurant garbage cans.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "完美完好的食物被扔掉的数量令人震惊——从杂货商拒绝的\"丑陋\"（但完全可以食用）的蔬菜到大量被扔进餐厅垃圾桶的剩菜。"
-        },
-        {
-          "s": "And while plastic bags may be ugly to look at, they represent a small percentage of all garbage on the ground today.z.x.xk",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "而且尽管塑料袋看着可能丑，但它们只占如今地面所有垃圾的很小比例。z.x.xk"
-        },
-        {
-          "s": "Psychologist, Dr Hart Jade, 24, accounting manager As a song in Ugly Betty puts it, “It’s a pretty person’s world”.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "心理学家哈特博士。杰德，24岁，会计经理。正如《丑女贝蒂》里的一首歌唱的，这是漂亮人的世界。"
-        },
-        {
-          "s": "Background information Ugly Betty is an American television series, originally broadcast on ABC from 2006 to 2010.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "背景信息　《丑女贝蒂》是一部美国电视连续剧，最初于2006至2010年在ABC播出。"
-        },
-        {
-          "s": "I had seen him when he was unfinished – he was ugly then.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "我见过他的时候，他还没有完成。 他当时很丑陋。"
-        },
-        {
-          "s": "Background information Hans Christian Andersen (1805–1875) was a Danish author who wrote some of literature’s best-loved fairy tales, including “The Emperor’s New Clothes”, “The Little Mermaid” and “The Ugly Duckling”.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "背景资料汉斯·克里斯蒂安·安德森(1805年-1875年)是一位丹麦作家，他写了一些文学界最喜爱的童话，包括\"皇帝的新衣\",\"小美人鱼\"和\"丑鸭\"."
-        },
-        {
-          "s": "They encounter numerous characters such as their departed grandparents, trees that hate mankind, the greedy and ugly Luxuries, and children waiting to be born.",
-          "src": "外研社B7 U2",
-          "cat": "waiyan",
-          "t": "他们遇到了无数的人物，比如他们已故的祖父母、憎恨人类的树、贪婪丑陋的奢侈享乐，以及等待出生的孩子们。"
-        }
-      ]
+     "s": "But why do we find some art beautiful and other art ugly?",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "但为什么我们发现有些艺术美丽而另一些艺术丑陋呢？"
     },
     {
-      "def": "unpleasant or dangerous; involving threats or violence 事件、局势等",
-      "ex": []
-    }
-  ],
-  "chunks": [
+     "s": "It’s jaw-dropping how much perfectly good food is thrown away — from “ugly” (but quite eatable) vegetables rejected by grocers to large amounts of uneaten dishes thrown into restaurant garbage cans.",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "完美完好的食物被扔掉的数量令人震惊——从杂货商拒绝的\"丑陋\"（但完全可以食用）的蔬菜到大量被扔进餐厅垃圾桶的剩菜。"
+    },
     {
-      "en": "ugly betty",
-      "cn": "丑陋的",
-      "type": "名词短语",
-      "count": 2
+     "s": "And while plastic bags may be ugly to look at, they represent a small percentage of all garbage on the ground today.z.x.xk",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "而且尽管塑料袋看着可能丑，但它们只占如今地面所有垃圾的很小比例。z.x.xk"
+    },
+    {
+     "s": "Psychologist, Dr Hart Jade, 24, accounting manager As a song in Ugly Betty puts it, “It’s a pretty person’s world”.",
+     "src": "外研社B6 U1",
+     "cat": "waiyan",
+     "t": "心理学家哈特博士。杰德，24岁，会计经理。正如《丑女贝蒂》里的一首歌唱的，这是漂亮人的世界。"
+    },
+    {
+     "s": "Background information Ugly Betty is an American television series, originally broadcast on ABC from 2006 to 2010.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "背景信息　《丑女贝蒂》是一部美国电视连续剧，最初于2006至2010年在ABC播出。"
+    },
+    {
+     "s": "I had seen him when he was unfinished – he was ugly then.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "我见过他的时候，他还没有完成。 他当时很丑陋。"
+    },
+    {
+     "s": "Background information Hans Christian Andersen (1805–1875) was a Danish author who wrote some of literature’s best-loved fairy tales, including “The Emperor’s New Clothes”, “The Little Mermaid” and “The Ugly Duckling”.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "背景资料汉斯·克里斯蒂安·安德森(1805年-1875年)是一位丹麦作家，他写了一些文学界最喜爱的童话，包括\"皇帝的新衣\",\"小美人鱼\"和\"丑鸭\"."
+    },
+    {
+     "s": "They encounter numerous characters such as their departed grandparents, trees that hate mankind, the greedy and ugly Luxuries, and children waiting to be born.",
+     "src": "外研社B7 U2",
+     "cat": "waiyan",
+     "t": "他们遇到了无数的人物，比如他们已故的祖父母、憎恨人类的树、贪婪丑陋的奢侈享乐，以及等待出生的孩子们。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "unpleasant or dangerous; involving threats or violence 事件、局势等",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
