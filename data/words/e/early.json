@@ -1,588 +1,582 @@
 {
-  "meta": {
-    "ph": "ˈɜːli; NAmE ˈɜːrli",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "ˈɜːli; NAmE ˈɜːrli",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "near the beginning of a period of time, an event etc. 早期的；初期的；早先的",
+   "ex": [
+    {
+     "s": "In an earlier era, the Disruptor would have been called an Innovator.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "然而创新者是创造新事物，而颠覆者的定义既在于他们创造的，同样也在于他们摧毁的。"
+    },
+    {
+     "s": "He was facing health issues and his wife of thirty-five years had passed away a few months earlier.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他正面临健康问题，而与他结发三十五年的妻子在几个月前去世了。"
+    },
+    {
+     "s": "What I wish I taught my daughter earlier are these nuances.",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我希望更早教给我女儿的是这些细微差别。"
+    },
+    {
+     "s": "—Is it all right if I leave a bit earlier?",
+     "src": "2023天津6月卷·一、单项选择",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "—我早点离开可以吗？"
+    },
+    {
+     "s": "They see gender differences earlier than boys.",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "她们比男孩更早看到性别差异。"
+    },
+    {
+     "s": "Two weeks earlier, my son, Ben, had got in touch.",
+     "src": "2018全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "两周前，我的儿子Ben联系上你了"
+    },
+    {
+     "s": "The good news is that I can help my own kids learn earlier than I did how to live more with less.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "好消息是，我能帮助自己的孩子比我更早学会如何用更少的东西生活得更好。"
+    },
+    {
+     "s": "Inhabitants of Boise, Idaho, watched with trepidation earlier this year as the city's oldest, tallest resident moved two blocks.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这家总部位于德克萨斯的公司开发并获得专利了一种挖掘和搬运技术来移动巨大的树木。"
+    },
+    {
+     "s": "They often get up earlier and water the vegetables together.",
+     "src": "2017全国II卷·短文改错",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他们经常起得很早，一起浇菜。"
+    },
+    {
+     "s": "They often get up earlier and water the vegetables together.",
+     "src": "2017重庆卷·短文改错",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他们经常起得很早，一起浇菜。"
+    },
+    {
+     "s": "I woke up early and rushed out of the door in my eagerness to get to know my new school.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "我很早就醒了，急切地冲出门去了解我的新学校。"
+    },
+    {
+     "s": "I woke up really early and tip-toed to the kitchen.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "我真的很早就醒了，踮着脚走到厨房。"
+    },
+    {
+     "s": "May I come and get it early tomorrow morning?",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "我可以明天一大早来取吗？"
+    },
+    {
+     "s": "Another habit I formed early was being outdoors.",
+     "src": "2020浙江7月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我早期养成的另一个习惯是在户外活动。"
+    },
+    {
+     "s": "What sort of girl was the author in her early years of elementary school?",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "作者在小学早期是什么样的女孩？"
+    },
+    {
+     "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "即便这种计时方式在细节上很新颖，早期的农业社会也将时间与自然现象联系起来。例如在前古典时期的希腊，人们会通过把日期向前或向后调整来“修正”官方历法，以反映季节的变化。与环境的时间联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统或许也能唤起人们的环保意识。"
+    },
+    {
+     "s": "The Bitter Truth about Early Humans",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "早期人类的苦涩真相"
+    },
+    {
+     "s": "A To provide early warning.",
+     "src": "2022全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "A 为了提供早期预警。"
+    },
+    {
+     "s": "What attracted the early settlers to New York City?",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "是什么吸引了早期定居者来到纽约市？"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "arriving, or done before the usual, expected or planned time 早到的；提前的；提早的",
+   "ex": [
     {
-      "def": "near the beginning of a period of time, an event etc. 早期的；初期的；早先的",
-      "ex": [
-        {
-          "s": "In an earlier era, the Disruptor would have been called an Innovator.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "然而创新者是创造新事物，而颠覆者的定义既在于他们创造的，同样也在于他们摧毁的。"
-        },
-        {
-          "s": "He was facing health issues and his wife of thirty-five years had passed away a few months earlier.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他正面临健康问题，而与他结发三十五年的妻子在几个月前去世了。"
-        },
-        {
-          "s": "What I wish I taught my daughter earlier are these nuances.",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我希望更早教给我女儿的是这些细微差别。"
-        },
-        {
-          "s": "—Is it all right if I leave a bit earlier?",
-          "src": "2023天津6月卷·一、单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "—我早点离开可以吗？"
-        },
-        {
-          "s": "They see gender differences earlier than boys.",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "她们比男孩更早看到性别差异。"
-        },
-        {
-          "s": "Two weeks earlier, my son, Ben, had got in touch.",
-          "src": "2018全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "两周前，我的儿子Ben联系上你了"
-        },
-        {
-          "s": "The good news is that I can help my own kids learn earlier than I did how to live more with less.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "好消息是，我能帮助自己的孩子比我更早学会如何用更少的东西生活得更好。"
-        },
-        {
-          "s": "Inhabitants of Boise, Idaho, watched with trepidation earlier this year as the city's oldest, tallest resident moved two blocks.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这家总部位于德克萨斯的公司开发并获得专利了一种挖掘和搬运技术来移动巨大的树木。"
-        },
-        {
-          "s": "They often get up earlier and water the vegetables together.",
-          "src": "2017全国II卷·短文改错",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他们经常起得很早，一起浇菜。"
-        },
-        {
-          "s": "They often get up earlier and water the vegetables together.",
-          "src": "2017重庆卷·短文改错",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他们经常起得很早，一起浇菜。"
-        },
-        {
-          "s": "I woke up early and rushed out of the door in my eagerness to get to know my new school.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "我很早就醒了，急切地冲出门去了解我的新学校。"
-        },
-        {
-          "s": "I woke up really early and tip-toed to the kitchen.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我真的很早就醒了，踮着脚走到厨房。"
-        },
-        {
-          "s": "May I come and get it early tomorrow morning?",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我可以明天一大早来取吗？"
-        },
-        {
-          "s": "Another habit I formed early was being outdoors.",
-          "src": "2020浙江7月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我早期养成的另一个习惯是在户外活动。"
-        },
-        {
-          "s": "What sort of girl was the author in her early years of elementary school?",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "作者在小学早期是什么样的女孩？"
-        },
-        {
-          "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "即便这种计时方式在细节上很新颖，早期的农业社会也将时间与自然现象联系起来。例如在前古典时期的希腊，人们会通过把日期向前或向后调整来“修正”官方历法，以反映季节的变化。与环境的时间联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统或许也能唤起人们的环保意识。"
-        },
-        {
-          "s": "The Bitter Truth about Early Humans",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "早期人类的苦涩真相"
-        },
-        {
-          "s": "A To provide early warning.",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "A 为了提供早期预警。"
-        },
-        {
-          "s": "What attracted the early settlers to New York City?",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "是什么吸引了早期定居者来到纽约市？"
-        }
-      ]
+     "s": "Ways to Teach Kids Work Ethic Early",
+     "src": "2026新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "及早培养孩子敬业精神的方法"
     },
     {
-      "def": "arriving, or done before the usual, expected or planned time 早到的；提前的；提早的",
-      "ex": [
-        {
-          "s": "Ways to Teach Kids Work Ethic Early",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "及早培养孩子敬业精神的方法"
-        },
-        {
-          "s": "My roommates would tell me to go to bed and get up early the following morning to do it instead.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "室友们会劝我去睡觉，第二天早上早点起来再做。"
-        },
-        {
-          "s": "Get up early to do my homework?",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "早起做作业？"
-        },
-        {
-          "s": "Most famously, a Canadian journalist who had moved her family to Manhattan in the early 1950s led a campaign to stop the destruction of her local park.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "最著名的是，一位加拿大记者在1950年代初将她的家人迁至曼哈顿，他领导了一场停止她当地公园被毁的运动。"
-        },
-        {
-          "s": "Sometimes she arrives early to serve the students early.",
-          "src": "2025新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "有时她早到为学生服务。"
-        },
-        {
-          "s": "What can be inferred about the author’s early life?",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "关于作者的早年生活，可以推断出什么？"
-        },
-        {
-          "s": "Studies show teaching children how to cook at an early age helps with reading comprehension and fine motor ability, in addition to learning about nutrition and food safety.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "研究表明，尽早教孩子做饭有助于提高阅读理解能力和精细动作能力，此外还能让他们了解营养和食品安全。"
-        },
-        {
-          "s": "By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "到20世纪70年代初，在定居者几个世纪残酷而持续的捕猎之后，在北部落基山脉，仅剩600到800只灰熊栖息在它们昔日活动范围的区区2%的土地上。"
-        },
-        {
-          "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "30年代初，我决定登上乞力马扎罗山，这是非洲最高的山峰，海拔5,895米。"
-        },
-        {
-          "s": "Ms Young developed a passion for cooking at an early age.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "Young 女士早年培养了对烹饪的热情。"
-        },
-        {
-          "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
-        },
-        {
-          "s": "In most people the first signs show up in their 50s or early 60s.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对于大多数人来说，最初的症状出现在50多岁或60岁出头。"
-        },
-        {
-          "s": "Andrew Reynolds, a cheerful fellow in his early 30s, pilots Sydney ferryboats for a living.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "30岁出头、性格开朗的安德鲁·雷诺兹以驾驶悉尼渡轮为生。"
-        },
-        {
-          "s": "I awoke early the next morning,  22  of the uncertain days ahead.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第二天清晨我很早就醒了，22 着前方不确定的日子。"
-        },
-        {
-          "s": "The adorable female calf is the second black rhino born this year at the reserve, but it is too early to tell if the calves will make good candidates to be returned to protected areas of the wild.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这只可爱的雌性幼崽是今年该保护区出生的第二头黑犀牛，但现在判断这些幼崽是否适合被放归野外保护区还为时过早。"
-        },
-        {
-          "s": "Taking early retirement.",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "提前退休。"
-        },
-        {
-          "s": "Of all the stories of my early childhood, the one about a  36  is my mother’s favorite.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在我幼年的所有故事里，那个关于___36___的故事是母亲最爱的。"
-        },
-        {
-          "s": "The likables’ plays-well-with-others qualities strengthen schoolyard friendships, jump-start interpersonal skills and, when tapped early, are employed ever after in life and work.",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "讨人喜欢的那种\"善于与人相处\"的品质加强了校园友谊，启动了人际交往技能，如果及早发掘，将在以后的生活和工作中一直发挥作用。"
-        },
-        {
-          "s": "Rock music developed in the 1950s and the early 1960s.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "摇滚音乐发展于20世纪50年代和60年代早期。"
-        },
-        {
-          "s": "（5）How does an early﹣warning system help us maintain the ecological balance？",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（5）预警系统如何帮助我们维持生态平衡？"
-        },
-        {
-          "s": "Although she founded her company early on in life, she wasn't driven primarily by profit.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "尽管她早年就创办了公司，但她主要的驱动力并非利润。"
-        },
-        {
-          "s": "She dislikes working early in the morning.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "她不喜欢一大早工作。"
-        },
-        {
-          "s": "This method provided a readout for how home energy use has evolved since the early 1990s.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这种方法提供了自1990年代初以来家庭能源使用情况的读数。"
-        },
-        {
-          "s": "You may drink, smoke, be overweight and still reduce your risk of  63  (die) early by running.",
-          "src": "2018全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你可以喝酒、吸烟、超重，但仍可以通过跑步降低过早____63____（死）的风险。"
-        },
-        {
-          "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
-          "src": "2018全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
-        },
-        {
-          "s": "●   39   Studies found that people who woke up early for exercise slept better than those who exercised in the evening.",
-          "src": "2018全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "● ____39____研究发现早起锻炼的人比晚上锻炼的人睡得更好。"
-        },
-        {
-          "s": "●   40   If you work out bright and early in the morning, you will be more likely to stick to healthy food choices throughout the day.",
-          "src": "2018全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "● 40 如果你一大清早锻炼，你更有可能在一天中坚持健康的食物选择。"
-        },
-        {
-          "s": "Set your alarm clock an hour early and push yourself to work out!",
-          "src": "2018全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "把闹钟调早一小时，逼自己去锻炼！"
-        },
-        {
-          "s": "I arrived early at Byron Bay where we were supposed to   44  .",
-          "src": "2018全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我早早抵达拜伦湾，我们原本打算在那里碰头。"
-        },
-        {
-          "s": "Very early in the morning, Uncle Paul woke us up to have breakfast.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们看起来真的很酷。"
-        },
-        {
-          "s": "Using shells for money was common throughout the Pacific islands as late as the early 1900s, but Malaita is unique in that they are still used today.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "早在1900年代初，整个太平洋岛国就普遍使用贝壳来换取金钱，但Malaita之所以独特，是因为贝壳今天仍在使用。"
-        },
-        {
-          "s": "Set off early in the morning.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一大早就出发。"
-        },
-        {
-          "s": "As early as 1966, biologists asked the government to consider reintroducing wolves to Yellowstone Park.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "早在1966年，生物学家就请求政府考虑将狼重新引入黄石公园。"
-        },
-        {
-          "s": "They don’t need to go to school early.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他们不需要早去学校。"
-        },
-        {
-          "s": "He swore to himself to     39       music, as he hated getting to school extra early.",
-          "src": "2017江苏卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他暗自发誓要___39___音乐，因为他讨厌过早到校。"
-        },
-        {
-          "s": "This     52      , of course, that he arrived at school early in the morning,     53       his heavy instrument case across the campus to the     54       looks of the non-musicians he had left     55      .",
-          "src": "2017江苏卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这____52____，当然，意味着他一大早到校，拖着沉重的乐器箱____校园，迎着那些被他甩在后面的非音乐生的____54____目光。"
-        },
-        {
-          "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
-        }
-      ]
+     "s": "My roommates would tell me to go to bed and get up early the following morning to do it instead.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "室友们会劝我去睡觉，第二天早上早点起来再做。"
     },
     {
-      "def": "near the beginning of a period of time, an event, a piece of work, etc. 在早期；在初期；在开始阶段",
-      "ex": [
-        {
-          "s": "Which of the following starts earliest?",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "以下哪项开始得最早？"
-        },
-        {
-          "s": "My wife and I wanted to share our new home with family and friends by hosting a small gathering in the early summer.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我和妻子想在初夏举办一个小聚会，与亲友分享我们的新家。"
-        },
-        {
-          "s": "Parry quickly graduated from his early hearts and sharks, and started to surprise families with drawings that captured young patients’ personalities.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "帕里很快不再画最初的心形和鲨鱼，而是开始用捕捉小患者个性的画作给各个家庭带来惊喜。"
-        },
-        {
-          "s": "Which of the four programs begins the earliest?",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "四个项目中哪个开始得最早？"
-        },
-        {
-          "s": "It began earlier than proper thought.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它比人们认为的开始得更早。"
-        },
-        {
-          "s": "Yet properly understood, the age of electricity is merely the second stage in the age of steam, which began a century earlier.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "然而正确理解的话，电力时代仅仅是蒸汽时代的第二阶段，蒸汽时代开始于一个世纪前。"
-        },
-        {
-          "s": "One night, in my early 40s, I dreamed that a big woman in red approached me, handed me a bag of paints, and told me to start painting.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在我40岁出头的一个夜晚，我梦见一个穿红衣的高大女人走近我，递给我一袋颜料，让我开始画画。"
-        },
-        {
-          "s": "Since the early days of AI, imagination has outpaced what is possible or even probable.",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从人工智能早期开始，想象力就一直超越可能甚至可行的范围。"
-        }
-      ]
+     "s": "Get up early to do my homework?",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "早起做作业？"
     },
     {
-      "def": "before the usual, expected or planned time 提早；提前",
-      "ex": [
-        {
-          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "麦金太尔说，自20世纪30年代以来，导致该州水压力上升的最大因素是气温上升——气温上升导致树木向空气中散失更多水分——以及融雪提前——融雪提前减少了旱季树木可用的供水量。"
-        },
-        {
-          "s": "I often leave early to seek the right destinations so I can set up early to avoid missing the moment I am attempting to photograph.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我经常早早出发去寻找合适的目的地，这样我可以提前架好设备，避免错过我想拍摄的瞬间。"
-        },
-        {
-          "s": "Taking early retirement.",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "提前退休。"
-        },
-        {
-          "s": "Why is Jack leaving early?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Jack为什么提前离开？"
-        },
-        {
-          "s": "Why is Jack leaving early?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Jack为什么提前离开？"
-        },
-        {
-          "s": "Why is Jack leaving early?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Jack为什么提前离开？"
-        }
-      ]
+     "s": "Most famously, a Canadian journalist who had moved her family to Manhattan in the early 1950s led a campaign to stop the destruction of her local park.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "最著名的是，一位加拿大记者在1950年代初将她的家人迁至曼哈顿，他领导了一场停止她当地公园被毁的运动。"
     },
     {
-      "def": "before the present time or the time mentioned 先前；早些时候； … 之前",
-      "ex": [
-        {
-          "s": "“Tom built up a passion for environmental protection at a very early age,\" Matt added.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“汤姆在很小的时候就培养了对环境保护的热情，”马特补充道。"
-        },
-        {
-          "s": "Even bottled water, scientists found earlier this year, contains 10 to 1,000 times more microplastics than originally thought.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "甚至瓶装水，科学家今年早些时候发现的，包含的微塑料比原先想象的多10到1000倍。"
-        },
-        {
-          "s": "A flood had hit the area earlier that year and the   24    it caused had driven away a number of birds.",
-          "src": "2020全国新高考I卷·完型填空个",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "那年早些时候，一场洪水袭击了该地区，它造成的___24___赶走了许多鸟。"
-        },
-        {
-          "s": "Sometime in the early 1960s, a significant thing happened in Sydney, Australia.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "20世纪60年代初的某个时候，澳大利亚悉尼发生了一件大事。"
-        },
-        {
-          "s": "Sixteen years  60  (early), Pahlsson had removed the diamond ring  61  (cook) a meal.",
-          "src": "2017浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "十六年____（早）之前，Pahlsson 在____（做）饭时取下了这枚钻石戒指。"
-        }
-      ]
+     "s": "Sometimes she arrives early to serve the students early.",
+     "src": "2025新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "有时她早到为学生服务。"
+    },
+    {
+     "s": "What can be inferred about the author’s early life?",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "关于作者的早年生活，可以推断出什么？"
+    },
+    {
+     "s": "Studies show teaching children how to cook at an early age helps with reading comprehension and fine motor ability, in addition to learning about nutrition and food safety.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "研究表明，尽早教孩子做饭有助于提高阅读理解能力和精细动作能力，此外还能让他们了解营养和食品安全。"
+    },
+    {
+     "s": "By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "到20世纪70年代初，在定居者几个世纪残酷而持续的捕猎之后，在北部落基山脉，仅剩600到800只灰熊栖息在它们昔日活动范围的区区2%的土地上。"
+    },
+    {
+     "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
+     "src": "2023天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "30年代初，我决定登上乞力马扎罗山，这是非洲最高的山峰，海拔5,895米。"
+    },
+    {
+     "s": "Ms Young developed a passion for cooking at an early age.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "Young 女士早年培养了对烹饪的热情。"
+    },
+    {
+     "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
+    },
+    {
+     "s": "In most people the first signs show up in their 50s or early 60s.",
+     "src": "2022全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对于大多数人来说，最初的症状出现在50多岁或60岁出头。"
+    },
+    {
+     "s": "Andrew Reynolds, a cheerful fellow in his early 30s, pilots Sydney ferryboats for a living.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "30岁出头、性格开朗的安德鲁·雷诺兹以驾驶悉尼渡轮为生。"
+    },
+    {
+     "s": "I awoke early the next morning,  22  of the uncertain days ahead.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第二天清晨我很早就醒了，22 着前方不确定的日子。"
+    },
+    {
+     "s": "The adorable female calf is the second black rhino born this year at the reserve, but it is too early to tell if the calves will make good candidates to be returned to protected areas of the wild.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这只可爱的雌性幼崽是今年该保护区出生的第二头黑犀牛，但现在判断这些幼崽是否适合被放归野外保护区还为时过早。"
+    },
+    {
+     "s": "Taking early retirement.",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "提前退休。"
+    },
+    {
+     "s": "Of all the stories of my early childhood, the one about a  36  is my mother’s favorite.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在我幼年的所有故事里，那个关于___36___的故事是母亲最爱的。"
+    },
+    {
+     "s": "The likables’ plays-well-with-others qualities strengthen schoolyard friendships, jump-start interpersonal skills and, when tapped early, are employed ever after in life and work.",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "讨人喜欢的那种\"善于与人相处\"的品质加强了校园友谊，启动了人际交往技能，如果及早发掘，将在以后的生活和工作中一直发挥作用。"
+    },
+    {
+     "s": "Rock music developed in the 1950s and the early 1960s.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "摇滚音乐发展于20世纪50年代和60年代早期。"
+    },
+    {
+     "s": "（5）How does an early﹣warning system help us maintain the ecological balance？",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（5）预警系统如何帮助我们维持生态平衡？"
+    },
+    {
+     "s": "Although she founded her company early on in life, she wasn't driven primarily by profit.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "尽管她早年就创办了公司，但她主要的驱动力并非利润。"
+    },
+    {
+     "s": "She dislikes working early in the morning.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "她不喜欢一大早工作。"
+    },
+    {
+     "s": "This method provided a readout for how home energy use has evolved since the early 1990s.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这种方法提供了自1990年代初以来家庭能源使用情况的读数。"
+    },
+    {
+     "s": "You may drink, smoke, be overweight and still reduce your risk of  63  (die) early by running.",
+     "src": "2018全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你可以喝酒、吸烟、超重，但仍可以通过跑步降低过早____63____（死）的风险。"
+    },
+    {
+     "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
+     "src": "2018全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
+    },
+    {
+     "s": "●   39   Studies found that people who woke up early for exercise slept better than those who exercised in the evening.",
+     "src": "2018全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "● ____39____研究发现早起锻炼的人比晚上锻炼的人睡得更好。"
+    },
+    {
+     "s": "●   40   If you work out bright and early in the morning, you will be more likely to stick to healthy food choices throughout the day.",
+     "src": "2018全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "● 40 如果你一大清早锻炼，你更有可能在一天中坚持健康的食物选择。"
+    },
+    {
+     "s": "Set your alarm clock an hour early and push yourself to work out!",
+     "src": "2018全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "把闹钟调早一小时，逼自己去锻炼！"
+    },
+    {
+     "s": "I arrived early at Byron Bay where we were supposed to   44  .",
+     "src": "2018全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我早早抵达拜伦湾，我们原本打算在那里碰头。"
+    },
+    {
+     "s": "Very early in the morning, Uncle Paul woke us up to have breakfast.",
+     "src": "2018浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他们看起来真的很酷。"
+    },
+    {
+     "s": "Using shells for money was common throughout the Pacific islands as late as the early 1900s, but Malaita is unique in that they are still used today.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "早在1900年代初，整个太平洋岛国就普遍使用贝壳来换取金钱，但Malaita之所以独特，是因为贝壳今天仍在使用。"
+    },
+    {
+     "s": "Set off early in the morning.",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一大早就出发。"
+    },
+    {
+     "s": "As early as 1966, biologists asked the government to consider reintroducing wolves to Yellowstone Park.",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "早在1966年，生物学家就请求政府考虑将狼重新引入黄石公园。"
+    },
+    {
+     "s": "They don’t need to go to school early.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他们不需要早去学校。"
+    },
+    {
+     "s": "He swore to himself to     39       music, as he hated getting to school extra early.",
+     "src": "2017江苏卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他暗自发誓要___39___音乐，因为他讨厌过早到校。"
+    },
+    {
+     "s": "This     52      , of course, that he arrived at school early in the morning,     53       his heavy instrument case across the campus to the     54       looks of the non-musicians he had left     55      .",
+     "src": "2017江苏卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这____52____，当然，意味着他一大早到校，拖着沉重的乐器箱____校园，迎着那些被他甩在后面的非音乐生的____54____目光。"
+    },
+    {
+     "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "near the beginning of a period of time, an event, a piece of work, etc. 在早期；在初期；在开始阶段",
+   "ex": [
     {
-      "en": "very early",
-      "cn": "非常早",
-      "type": "形容词搭配",
-      "count": 4
+     "s": "Which of the following starts earliest?",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "以下哪项开始得最早？"
     },
     {
-      "en": "awoke early",
-      "cn": "早期的",
-      "type": "形容词搭配",
-      "count": 1
+     "s": "My wife and I wanted to share our new home with family and friends by hosting a small gathering in the early summer.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我和妻子想在初夏举办一个小聚会，与亲友分享我们的新家。"
     },
     {
-      "en": "early in the morning",
-      "cn": "清早",
-      "type": "动词短语",
-      "count": 5
+     "s": "Parry quickly graduated from his early hearts and sharks, and started to surprise families with drawings that captured young patients’ personalities.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "帕里很快不再画最初的心形和鲨鱼，而是开始用捕捉小患者个性的画作给各个家庭带来惊喜。"
     },
     {
-      "en": "up early",
-      "cn": "早起",
-      "type": "介词短语",
-      "count": 5
+     "s": "Which of the four programs begins the earliest?",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "四个项目中哪个开始得最早？"
     },
     {
-      "en": "early 1960s",
-      "cn": "早期的",
-      "type": "名词短语",
-      "count": 3
+     "s": "It began earlier than proper thought.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它比人们认为的开始得更早。"
+    },
+    {
+     "s": "Yet properly understood, the age of electricity is merely the second stage in the age of steam, which began a century earlier.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "然而正确理解的话，电力时代仅仅是蒸汽时代的第二阶段，蒸汽时代开始于一个世纪前。"
+    },
+    {
+     "s": "One night, in my early 40s, I dreamed that a big woman in red approached me, handed me a bag of paints, and told me to start painting.",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在我40岁出头的一个夜晚，我梦见一个穿红衣的高大女人走近我，递给我一袋颜料，让我开始画画。"
+    },
+    {
+     "s": "Since the early days of AI, imagination has outpaced what is possible or even probable.",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从人工智能早期开始，想象力就一直超越可能甚至可行的范围。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "before the usual, expected or planned time 提早；提前",
+   "ex": [
+    {
+     "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "麦金太尔说，自20世纪30年代以来，导致该州水压力上升的最大因素是气温上升——气温上升导致树木向空气中散失更多水分——以及融雪提前——融雪提前减少了旱季树木可用的供水量。"
+    },
+    {
+     "s": "I often leave early to seek the right destinations so I can set up early to avoid missing the moment I am attempting to photograph.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我经常早早出发去寻找合适的目的地，这样我可以提前架好设备，避免错过我想拍摄的瞬间。"
+    },
+    {
+     "s": "Taking early retirement.",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "提前退休。"
+    },
+    {
+     "s": "Why is Jack leaving early?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Jack为什么提前离开？"
+    },
+    {
+     "s": "Why is Jack leaving early?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Jack为什么提前离开？"
+    },
+    {
+     "s": "Why is Jack leaving early?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Jack为什么提前离开？"
+    }
+   ]
+  },
+  {
+   "def": "before the present time or the time mentioned 先前；早些时候； … 之前",
+   "ex": [
+    {
+     "s": "“Tom built up a passion for environmental protection at a very early age,\" Matt added.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“汤姆在很小的时候就培养了对环境保护的热情，”马特补充道。"
+    },
+    {
+     "s": "Even bottled water, scientists found earlier this year, contains 10 to 1,000 times more microplastics than originally thought.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "甚至瓶装水，科学家今年早些时候发现的，包含的微塑料比原先想象的多10到1000倍。"
+    },
+    {
+     "s": "A flood had hit the area earlier that year and the   24    it caused had driven away a number of birds.",
+     "src": "2020全国新高考I卷·完型填空个",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "那年早些时候，一场洪水袭击了该地区，它造成的___24___赶走了许多鸟。"
+    },
+    {
+     "s": "Sometime in the early 1960s, a significant thing happened in Sydney, Australia.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "20世纪60年代初的某个时候，澳大利亚悉尼发生了一件大事。"
+    },
+    {
+     "s": "Sixteen years  60  (early), Pahlsson had removed the diamond ring  61  (cook) a meal.",
+     "src": "2017浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "十六年____（早）之前，Pahlsson 在____（做）饭时取下了这枚钻石戒指。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "very early",
+   "cn": "非常早",
+   "type": "形容词搭配",
+   "count": 4
+  },
+  {
+   "en": "awoke early",
+   "cn": "早期的",
+   "type": "形容词搭配",
+   "count": 1
+  },
+  {
+   "en": "early in the morning",
+   "cn": "清早",
+   "type": "动词短语",
+   "count": 5
+  },
+  {
+   "en": "up early",
+   "cn": "早起",
+   "type": "介词短语",
+   "count": 5
+  }
+ ]
 }
