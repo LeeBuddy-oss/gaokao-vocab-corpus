@@ -1,746 +1,740 @@
 {
-  "meta": {
-    "ph": "pɔɪnt; NAmE pɔɪnt",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "pɔɪnt; NAmE pɔɪnt",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a thing that sb says or writes giving their opinion or stating a fact 论点；观点；见解",
+   "ex": [
+    {
+     "s": "To prove Farber’s point.",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为了证明法伯的观点。"
+    },
+    {
+     "s": "it’s up to youB. that’s a good point",
+     "src": "2024天津3月卷·一、单项填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这取决于你。B. 这是个好观点。"
+    },
+    {
+     "s": "To further explain a point.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为了进一步解释一个观点。"
+    },
+    {
+     "s": "A case in point is that some large, age-old lakes shrank dramatically in what appears to have been a matter of months.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一个恰当的例子是，一些古老的大型湖泊在似乎是短短几个月的时间内急剧萎缩。"
+    },
+    {
+     "s": "Meet on the lower platform at Artist Point on the South Rim Drive for this short talk.",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在南缘车道 Artist Point 的下层平台集合，参加这场简短讲座。"
+    },
+    {
+     "s": "What is the short talk at Artist Point about?",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在Artist Point的短讲是关于什么的？"
+    },
+    {
+     "s": "Stories are an entry point to understanding a different experience of the world.",
+     "src": "2023天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "故事是理解不同世界体验的入口。"
+    },
+    {
+     "s": "Food became easier to chew at this point.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "此时食物变得更容易咀嚼。"
+    },
+    {
+     "s": "By adding a couple of points.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过加上几分。"
+    },
+    {
+     "s": "By adding a couple of points.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过加上几分。"
+    },
+    {
+     "s": "By adding a couple of points.",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过加上几分。"
+    },
+    {
+     "s": "Her voice was soft but confident as she pointed to the corner near the windows.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她用柔和但自信的声音指向窗户附近的角落。"
+    },
+    {
+     "s": "\"At that point, I knew she meant business, \" Zac says.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "\"在那一刻，我知道她是认真的，\"扎克说。"
+    },
+    {
+     "s": "Kids will feel like they're not good enough or that you don't care and, as a result, may see no point in trying hard for their accomplishments.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "孩子会觉得他们不够好，或者你不在乎，结果可能认为努力争取成就毫无意义。"
+    },
+    {
+     "s": "I then made it a point to   55   those meetings and learn all I could.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "然后我特意去参加那些聚会，尽我所能地学习。"
+    },
+    {
+     "s": "When faced with such a fence, Chesterton thinks the fact that we can’t see the point of the fence is why we should not tear it down.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "面对这样的栅栏，Chesterton认为，正因为我们看不出它的意义，才更不应该拆掉它。"
+    },
+    {
+     "s": "I looked pointedly at the bookshelf that held at least three dictionaries, and Kevin sighed dramatically.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我特意看了看那个至少放着三本词典的书架，凯文夸张地叹了口气。"
+    },
+    {
+     "s": "Point of view Arguments Supporting examples ·In my opinion,...",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "观点 论证 支持性例子 ·依我看，……"
+    },
+    {
+     "s": "illustrate a pointB. contrast approaches",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "阐明一个观点B. 对比不同方法"
+    },
+    {
+     "s": "From a 21st-century point of view, the printed book is certainly ancient, but it remains as interactive as any battery-powered e-reader.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从21世纪的角度看，印刷书固然古老，但它仍像任何电池供电的电子阅读器一样具有互动性。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the main or most important idea in sth that is said or done 重点；要点；核心问题",
+   "ex": [
     {
-      "def": "a thing that sb says or writes giving their opinion or stating a fact 论点；观点；见解",
-      "ex": [
-        {
-          "s": "To prove Farber’s point.",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为了证明法伯的观点。"
-        },
-        {
-          "s": "it’s up to youB. that’s a good point",
-          "src": "2024天津3月卷·一、单项填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这取决于你。B. 这是个好观点。"
-        },
-        {
-          "s": "To further explain a point.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为了进一步解释一个观点。"
-        },
-        {
-          "s": "A case in point is that some large, age-old lakes shrank dramatically in what appears to have been a matter of months.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一个恰当的例子是，一些古老的大型湖泊在似乎是短短几个月的时间内急剧萎缩。"
-        },
-        {
-          "s": "Meet on the lower platform at Artist Point on the South Rim Drive for this short talk.",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在南缘车道 Artist Point 的下层平台集合，参加这场简短讲座。"
-        },
-        {
-          "s": "What is the short talk at Artist Point about?",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在Artist Point的短讲是关于什么的？"
-        },
-        {
-          "s": "Stories are an entry point to understanding a different experience of the world.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "故事是理解不同世界体验的入口。"
-        },
-        {
-          "s": "Food became easier to chew at this point.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "此时食物变得更容易咀嚼。"
-        },
-        {
-          "s": "By adding a couple of points.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过加上几分。"
-        },
-        {
-          "s": "By adding a couple of points.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过加上几分。"
-        },
-        {
-          "s": "By adding a couple of points.",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过加上几分。"
-        },
-        {
-          "s": "Her voice was soft but confident as she pointed to the corner near the windows.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她用柔和但自信的声音指向窗户附近的角落。"
-        },
-        {
-          "s": "\"At that point, I knew she meant business, \" Zac says.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "\"在那一刻，我知道她是认真的，\"扎克说。"
-        },
-        {
-          "s": "Kids will feel like they're not good enough or that you don't care and, as a result, may see no point in trying hard for their accomplishments.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "孩子会觉得他们不够好，或者你不在乎，结果可能认为努力争取成就毫无意义。"
-        },
-        {
-          "s": "I then made it a point to   55   those meetings and learn all I could.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "然后我特意去参加那些聚会，尽我所能地学习。"
-        },
-        {
-          "s": "When faced with such a fence, Chesterton thinks the fact that we can’t see the point of the fence is why we should not tear it down.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "面对这样的栅栏，Chesterton认为，正因为我们看不出它的意义，才更不应该拆掉它。"
-        },
-        {
-          "s": "I looked pointedly at the bookshelf that held at least three dictionaries, and Kevin sighed dramatically.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我特意看了看那个至少放着三本词典的书架，凯文夸张地叹了口气。"
-        },
-        {
-          "s": "Point of view Arguments Supporting examples ·In my opinion,...",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "观点 论证 支持性例子 ·依我看，……"
-        },
-        {
-          "s": "illustrate a pointB. contrast approaches",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "阐明一个观点B. 对比不同方法"
-        },
-        {
-          "s": "From a 21st-century point of view, the printed book is certainly ancient, but it remains as interactive as any battery-powered e-reader.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从21世纪的角度看，印刷书固然古老，但它仍像任何电池供电的电子阅读器一样具有互动性。"
-        }
-      ]
+     "s": "Elizabeth Sims analyzes the final chapters of five great novels to see what key points they include and how you can adapt them for your work.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "伊丽莎白·西姆斯分析了五部伟大小说的最后章节，看看它们包含哪些要点，以及你如何将其改编运用到自己的作品中。"
     },
     {
-      "def": "the main or most important idea in sth that is said or done 重点；要点；核心问题",
-      "ex": [
-        {
-          "s": "Elizabeth Sims analyzes the final chapters of five great novels to see what key points they include and how you can adapt them for your work.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "伊丽莎白·西姆斯分析了五部伟大小说的最后章节，看看它们包含哪些要点，以及你如何将其改编运用到自己的作品中。"
-        },
-        {
-          "s": "Asking about “the point” of ALife might be, well, missing the point entirely, he says.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "询问ALife的\"意义\"可能——嗯——完全偏离了重点，他说。"
-        },
-        {
-          "s": "It’s an opportunity to deepen your understanding of the key points from lecture materials while you are applying your skills to solve problems.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这是一个深化你对讲座材料要点理解的机会，同时你运用技能解决问题。"
-        },
-        {
-          "s": "I’ve missed the point",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我错过了重点"
-        },
-        {
-          "s": "You must keep these points in mind while setting your goals.",
-          "src": "2019全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "设定目标时你必须记住这些要点。"
-        },
-        {
-          "s": "Summarize the main idea and the main point (s) of the passage in no more than 60 words.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "用不超过60个词概括这篇文章的主旨和要点。"
-        },
-        {
-          "s": "Over the years, there have been a number of different techniques to help designers approach this important point.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "多年来，出现了许多不同的技巧，帮助设计师处理这一要点。"
-        },
-        {
-          "s": "End by summarising the main points in your talk.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "最后总结你演讲中的要点。"
-        },
-        {
-          "s": "Dr Amy Guo, the leading researcher on the older driver study, explains, “The Drive LAB is helping us to understand what the key points and difficulties are for older drivers and how we might use technology to address these problems.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "老年驾驶研究的首席研究员郭艾米博士解释道：“Drive LAB正在帮助我们理解老年驾驶者的关键点和困难，以及我们如何能用技术解决这些问题。”"
-        }
-      ]
+     "s": "Asking about “the point” of ALife might be, well, missing the point entirely, he says.",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "询问ALife的\"意义\"可能——嗯——完全偏离了重点，他说。"
     },
     {
-      "def": "the purpose or aim of sth 意图；目的；理由",
-      "ex": [
-        {
-          "s": "Campbell’s point is to wake up those responsible for AI—the technology companies and world leaders—so they are on the same page as all the experts currently developing it.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "坎贝尔的目的是唤醒那些对人工智能负责的人——科技公司和世界领导人——让他们与目前开发人工智能的所有专家达成共识。"
-        },
-        {
-          "s": "There is no point in arguing if the universe is a clock, a set of particles or an output of computation.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "争论宇宙是一座钟、一组粒子还是计算的输出，是毫无意义的。"
-        }
-      ]
+     "s": "It’s an opportunity to deepen your understanding of the key points from lecture materials while you are applying your skills to solve problems.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这是一个深化你对讲座材料要点理解的机会，同时你运用技能解决问题。"
     },
     {
-      "def": "a particular detail or fact 具体细节（或事实）",
-      "ex": []
+     "s": "I’ve missed the point",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我错过了重点"
     },
     {
-      "def": "a particular quality or feature that sb/sth has 特点；特性；特征",
-      "ex": [
-        {
-          "s": "It has a pointed roof.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它有尖顶。"
-        }
-      ]
+     "s": "You must keep these points in mind while setting your goals.",
+     "src": "2019全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "设定目标时你必须记住这些要点。"
     },
     {
-      "def": "a particular time or stage of development 时刻；关头；瞬间；阶段",
-      "ex": [
-        {
-          "s": "We are almost certain to get  53  at some point during the process of achieving our goal.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在达成目标的过程中，我们几乎肯定会在某个时刻遇到____53____。"
-        },
-        {
-          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "影片制作人大卫·邦德(David Bond)在几年前意识到，他的孩子当时五岁三岁，被贴在屏幕上，以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
-        },
-        {
-          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
-        }
-      ]
+     "s": "Summarize the main idea and the main point (s) of the passage in no more than 60 words.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "用不超过60个词概括这篇文章的主旨和要点。"
     },
     {
-      "def": "a particular place or area 某地方；地点",
-      "ex": [
-        {
-          "s": "But elevation is necessarily relative: only the choice of a reference point allows us to express numerically the height of an object or a location.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "但海拔高度必然是相对的：只有选择一个参照点，我们才能用数值表示物体或地点的高度。"
-        }
-      ]
+     "s": "Over the years, there have been a number of different techniques to help designers approach this important point.",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "多年来，出现了许多不同的技巧，帮助设计师处理这一要点。"
     },
     {
-      "def": "one of the marks of direction around a compass （罗盘上的）罗经点，方位点",
-      "ex": [
-        {
-          "s": "At one point, Emily’s car got stuck.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "有一阵子，Emily的车陷住了。"
-        },
-        {
-          "s": "“And what do you all learn about Russian authors?” I   50   him asking at one point.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "“那你们都了解俄罗斯作家什么？”我____50____他一度问道。"
-        },
-        {
-          "s": "I actually wanted to drop the class at one point, but stopped short because I didn't want to give him the satisfaction of my chickening out.",
-          "src": "2022浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我有一次其实想退掉这门课，但没退成，因为我不想让他因我的退缩而得逞。"
-        },
-        {
-          "s": "We played well, but I felt the team were let down by one member, our point guard.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我们打得很好，但我觉得一个队员拉了团队的后腿，我们的控球后卫。"
-        },
-        {
-          "s": "the turning point in our history",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们历史上的转折点"
-        },
-        {
-          "s": "She explains we are at a “tipping point” in history and must act now to prevent an extinction-level event for humanity.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "她解释说，我们正处于历史上的一个“临界点”，必须立刻行动，以防人类遭遇灭绝级事件。"
-        }
-      ]
+     "s": "End by summarising the main points in your talk.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "最后总结你演讲中的要点。"
     },
     {
-      "def": "an individual unit that adds to a score in a game or sports competition 得分；点",
-      "ex": [
-        {
-          "s": "The reference point is hard to locate.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "参照点难以确定。"
-        },
-        {
-          "s": "Canyon Talks at Artist Point (June 9 to September 2)",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "艺术家点峡谷讲座（6月9日至9月2日）"
-        },
-        {
-          "s": "6/19 — Waterfalls &Wide Angles: meet at Artist Point.",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "6月19日——瀑布与广角：在艺术家点集合。"
-        },
-        {
-          "s": "Canyon Talks at Artist Point.",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "艺术家点峡谷讲座。"
-        },
-        {
-          "s": "According to Paragraph 3, what marked the turning point in the author's growth? （no more than 7 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据第3段，作者成长中的转折点是什么？（不超过7词）"
-        },
-        {
-          "s": "If a basketball star is. for example，trying to gain a high personal point total，he may take a shot himself when it would be better to pass the ball to a teammate，affecting the team's performance.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "例如，如果一个篮球明星试图获得更高的个人得分总数，在把球传给队友可能更好的情况下，他可能会自己投篮，从而影响球队的表现。"
-        },
-        {
-          "s": "The low point of the sheet must be centered directly over, and no more than three inches above, the cup.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "塑料布的最低点必须正好对准杯子中心，且高出杯子不超过三英寸。"
-        },
-        {
-          "s": "They could do precisely the same thing to inspect railway lines and other vital aspects of rail infrastructure such as the correct position of railway tracks and switching points.",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "检查越频繁，铁路的安全性、可靠性和准点率就会越高。"
-        },
-        {
-          "s": "The idea of sea level as a reference point for elevations has by now been around for so long as to go essentially unnoticed-we mention it without even considering what it means.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "以海平面作为海拔参照点的想法如今已存在如此之久，以至于几乎被人忽视——我们提到它时甚至不去思考它的含义。"
-        },
-        {
-          "s": "But using cheese brine could help both cheese producers and cities save money, while keeping roads safe Cheese brine has salt in it, which, like the rock salt, helps lower water’s freezing point.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但使用奶酪盐水可以帮助奶酪生产者和城市省钱，同时保持道路安全。奶酪盐水里含有盐，与岩盐一样，有助于降低水的冰点。"
-        },
-        {
-          "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
-        },
-        {
-          "s": "Societies all over the world view the concept of an adult as self-supporting and self-directed, because it identifies a point in the life cycle.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "全世界的社会的都把“成年人”这一概念视为能够自立和自主，因为它标示了生命周期中的一个节点。"
-        },
-        {
-          "s": "At this point, it is not clear why dogs seem to be equipped with the ability to recognize different facial expressions in humans.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在这一点上，还不清楚为什么狗似乎天生具备识别人类不同面部表情的能力。"
-        }
-      ]
-    },
-    {
-      "def": "a mark or unit on a scale of measurement （单位）点；标度",
-      "ex": []
-    },
-    {
-      "def": "the sharp thin end of sth 尖端；尖头",
-      "ex": []
-    },
-    {
-      "def": "a narrow piece of land that stretches into the sea 岬角；尖地；海角",
-      "ex": [
-        {
-          "s": "It was a cold March day in High Point, North Carolina.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "那是北卡罗来纳州海角市三月寒冷的一天。"
-        }
-      ]
-    },
-    {
-      "def": "小数点；点",
-      "ex": []
-    },
-    {
-      "def": "a very small dot of light or colour 光点；色点",
-      "ex": []
-    },
-    {
-      "def": "a place in a wall, etc. where a piece of equipment can be connected to electricity （电源）插座",
-      "ex": [
-        {
-          "s": "Where to find a charging point.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在哪里能找到充电桩。"
-        },
-        {
-          "s": "Then I got to the point where I was  45  really late at night to get my work alone.",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "然后我到了____45____深夜独自完成工作的地步。"
-        }
-      ]
-    },
-    {
-      "def": "a piece of track at a place where a railway/railroad line divides that can be moved to allow a train to change tracks 道岔；尖轨；转辙器",
-      "ex": [
-        {
-          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
-        },
-        {
-          "s": "These two pieces of information - the time of day and the point where the sun is in the sky - allow the butterfly to determine the way to go.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这两个信息--一天中的时间和太阳在天空中的位置--让蝴蝶决定前进的方向。"
-        }
-      ]
-    },
-    {
-      "def": "a unit of measurement for the size of letters in printing or on a computer screen, etc. （印刷物或计算机屏幕上字体大小的单位）点，磅值",
-      "ex": []
-    },
-    {
-      "def": "a place where a journey starts 出发点",
-      "ex": []
-    },
-    {
-      "def": "an idea, a theory or an event that is used to start a discussion, an activity, etc. 抛砖引玉的事物；起点",
-      "ex": [
-        {
-          "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
-        },
-        {
-          "s": "Start Point: Kilbrannish Forest Recreation Area",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：基尔布兰尼什森林休闲区"
-        },
-        {
-          "s": "Start Point: Scratoes Bridge",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：斯克拉托斯桥"
-        },
-        {
-          "s": "Start Point: Deerpark Car Park",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：Deerpark汽车公园"
-        },
-        {
-          "s": "Start Point: The Town Hall",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：市政厅"
-        },
-        {
-          "s": "They share the same start point.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他们有一个相同的起点。"
-        },
-        {
-          "s": "We could also say The starting point of our trip was Vancouver.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我们也可以说：我们这次旅行的起点是温哥华。"
-        }
-      ]
-    },
-    {
-      "def": "to stretch out your finger or sth held in your hand towards sb/sth in order to show sb where a person or thing is （用手指头或物体）指，指向",
-      "ex": [
-        {
-          "s": "Such wrinkles will no doubt be ironed out, yet they also point to a fundamental problem.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这些瑕疵无疑会被消除，但它们也指向一个根本问题。"
-        },
-        {
-          "s": "Emotional intelligence, with its focus or both head and heart, may serve to point us in the right direction.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "情商兼顾头脑与内心，或许能为我们指明正确的方向。"
-        },
-        {
-          "s": "He pulls out a special device, points it at the suspect, and switches it on.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他拿出一件特殊装置，对准嫌疑人，然后打开开关。"
-        },
-        {
-          "s": "Simply turn the machine or point it at the target, and your peace and quiet comes back.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "只要把机器转动或者指向目标，你的平静和安静就会回来。"
-        },
-        {
-          "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这时，冈特指了指汽车站的候车大厅。"
-        },
-        {
-          "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这时，冈特指了指汽车站的候车大厅。"
-        },
-        {
-          "s": "After a short way, the farmer stopped and pointed at a weed which we missed.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "走了一小段路后，农场主停下来，指着我们漏掉的一株杂草。"
-        }
-      ]
-    },
-    {
-      "def": "to aim sth at sb/sth 瞄准",
-      "ex": []
-    },
-    {
-      "def": "to face in or be directed towards a particular direction 对着；朝向",
-      "ex": []
-    },
-    {
-      "def": "to lead to or suggest a particular development or logical argument （意思上）指向；引导；指引",
-      "ex": [
-        {
-          "s": "If you enter through the wrong access point, you'll be turned around and redirected — so plan ahead.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果你从错误的入口进入，会被拦下并重新指引——所以请提前规划。"
-        }
-      ]
-    },
-    {
-      "def": "to show sb which way to go 指路；指点",
-      "ex": []
-    },
-    {
-      "def": "to put mortar between the bricks of a wall （用灰泥）抹砖缝，勾缝",
-      "ex": []
-    },
-    {
-      "def": "to mention sth that you think is important and/or the reason why a particular situation exists 提出，指出（重要的事或理由）",
-      "ex": [
-        {
-          "s": "To point out the importance of public libraries.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "指出公共图书馆的重要性。"
-        },
-        {
-          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
-        },
-        {
-          "s": "What phenomenon does the author point out in paragraph 1?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第一段指出了什么现象？"
-        },
-        {
-          "s": "What does the author point out at the beginning of the text?",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者在文章开头指出了什么？"
-        },
-        {
-          "s": "As Alice Black points out, today’s parents’ fear of letting kids do more housework has added to their inability to feel competent and, thus, confident in themselves.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "正如Alice Black所指出的，当今父母害怕让孩子做更多家务，这加剧了他们无法感到胜任、从而无法自信的问题。"
-        },
-        {
-          "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
-        },
-        {
-          "s": "It's not just corporate jobs, or even paid work that can help keep your brain fit, Then points out.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不只是公司工作，甚至付费工作才能帮助你保持大脑健康，滕指出。"
-        },
-        {
-          "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
-        },
-        {
-          "s": "“You have to think about what you would lose if you do that.” Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
-        }
-      ]
-    },
-    {
-      "def": "to suggest that sth is true or likely 暗示；预示",
-      "ex": []
+     "s": "Dr Amy Guo, the leading researcher on the older driver study, explains, “The Drive LAB is helping us to understand what the key points and difficulties are for older drivers and how we might use technology to address these problems.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "老年驾驶研究的首席研究员郭艾米博士解释道：“Drive LAB正在帮助我们理解老年驾驶者的关键点和困难，以及我们如何能用技术解决这些问题。”"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the purpose or aim of sth 意图；目的；理由",
+   "ex": [
     {
-      "en": "key points",
-      "cn": "要点",
-      "type": "名词短语",
-      "count": 3
+     "s": "Campbell’s point is to wake up those responsible for AI—the technology companies and world leaders—so they are on the same page as all the experts currently developing it.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "坎贝尔的目的是唤醒那些对人工智能负责的人——科技公司和世界领导人——让他们与目前开发人工智能的所有专家达成共识。"
     },
     {
-      "en": "reference point",
-      "cn": "参照点",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "gunter pointed",
-      "cn": "论点",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "point out",
-      "cn": "指出",
-      "type": "动词短语",
-      "count": 5
+     "s": "There is no point in arguing if the universe is a clock, a set of particles or an output of computation.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "争论宇宙是一座钟、一组粒子还是计算的输出，是毫无意义的。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a particular detail or fact 具体细节（或事实）",
+   "ex": []
+  },
+  {
+   "def": "a particular quality or feature that sb/sth has 特点；特性；特征",
+   "ex": [
+    {
+     "s": "It has a pointed roof.",
+     "src": "2026新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它有尖顶。"
+    }
+   ]
+  },
+  {
+   "def": "a particular time or stage of development 时刻；关头；瞬间；阶段",
+   "ex": [
+    {
+     "s": "We are almost certain to get  53  at some point during the process of achieving our goal.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在达成目标的过程中，我们几乎肯定会在某个时刻遇到____53____。"
+    },
+    {
+     "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "影片制作人大卫·邦德(David Bond)在几年前意识到，他的孩子当时五岁三岁，被贴在屏幕上，以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
+    },
+    {
+     "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
+    }
+   ]
+  },
+  {
+   "def": "a particular place or area 某地方；地点",
+   "ex": [
+    {
+     "s": "But elevation is necessarily relative: only the choice of a reference point allows us to express numerically the height of an object or a location.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "但海拔高度必然是相对的：只有选择一个参照点，我们才能用数值表示物体或地点的高度。"
+    }
+   ]
+  },
+  {
+   "def": "one of the marks of direction around a compass （罗盘上的）罗经点，方位点",
+   "ex": [
+    {
+     "s": "At one point, Emily’s car got stuck.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "有一阵子，Emily的车陷住了。"
+    },
+    {
+     "s": "“And what do you all learn about Russian authors?” I   50   him asking at one point.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "“那你们都了解俄罗斯作家什么？”我____50____他一度问道。"
+    },
+    {
+     "s": "I actually wanted to drop the class at one point, but stopped short because I didn't want to give him the satisfaction of my chickening out.",
+     "src": "2022浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我有一次其实想退掉这门课，但没退成，因为我不想让他因我的退缩而得逞。"
+    },
+    {
+     "s": "We played well, but I felt the team were let down by one member, our point guard.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我们打得很好，但我觉得一个队员拉了团队的后腿，我们的控球后卫。"
+    },
+    {
+     "s": "the turning point in our history",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们历史上的转折点"
+    },
+    {
+     "s": "She explains we are at a “tipping point” in history and must act now to prevent an extinction-level event for humanity.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "她解释说，我们正处于历史上的一个“临界点”，必须立刻行动，以防人类遭遇灭绝级事件。"
+    }
+   ]
+  },
+  {
+   "def": "an individual unit that adds to a score in a game or sports competition 得分；点",
+   "ex": [
+    {
+     "s": "The reference point is hard to locate.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "参照点难以确定。"
+    },
+    {
+     "s": "Canyon Talks at Artist Point (June 9 to September 2)",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "艺术家点峡谷讲座（6月9日至9月2日）"
+    },
+    {
+     "s": "6/19 — Waterfalls &Wide Angles: meet at Artist Point.",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "6月19日——瀑布与广角：在艺术家点集合。"
+    },
+    {
+     "s": "Canyon Talks at Artist Point.",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "艺术家点峡谷讲座。"
+    },
+    {
+     "s": "According to Paragraph 3, what marked the turning point in the author's growth? （no more than 7 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据第3段，作者成长中的转折点是什么？（不超过7词）"
+    },
+    {
+     "s": "If a basketball star is. for example，trying to gain a high personal point total，he may take a shot himself when it would be better to pass the ball to a teammate，affecting the team's performance.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "例如，如果一个篮球明星试图获得更高的个人得分总数，在把球传给队友可能更好的情况下，他可能会自己投篮，从而影响球队的表现。"
+    },
+    {
+     "s": "The low point of the sheet must be centered directly over, and no more than three inches above, the cup.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "塑料布的最低点必须正好对准杯子中心，且高出杯子不超过三英寸。"
+    },
+    {
+     "s": "They could do precisely the same thing to inspect railway lines and other vital aspects of rail infrastructure such as the correct position of railway tracks and switching points.",
+     "src": "2022全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "检查越频繁，铁路的安全性、可靠性和准点率就会越高。"
+    },
+    {
+     "s": "The idea of sea level as a reference point for elevations has by now been around for so long as to go essentially unnoticed-we mention it without even considering what it means.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "以海平面作为海拔参照点的想法如今已存在如此之久，以至于几乎被人忽视——我们提到它时甚至不去思考它的含义。"
+    },
+    {
+     "s": "But using cheese brine could help both cheese producers and cities save money, while keeping roads safe Cheese brine has salt in it, which, like the rock salt, helps lower water’s freezing point.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但使用奶酪盐水可以帮助奶酪生产者和城市省钱，同时保持道路安全。奶酪盐水里含有盐，与岩盐一样，有助于降低水的冰点。"
+    },
+    {
+     "s": "That said, to be honest the only people who ever ring our home phone are our Baby Boomers parents, to the point where we play a game and guess who is calling before we pick up the phone （using Caller ID would take the fun out of it）.",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "也就是说，老实说，唯一会给我们家座机打电话的人是我们婴儿潮一代的父母，以至于我们会玩个游戏，在接电话前猜是谁打来的（用来电显示会破坏这种乐趣）。"
+    },
+    {
+     "s": "Societies all over the world view the concept of an adult as self-supporting and self-directed, because it identifies a point in the life cycle.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "全世界的社会的都把“成年人”这一概念视为能够自立和自主，因为它标示了生命周期中的一个节点。"
+    },
+    {
+     "s": "At this point, it is not clear why dogs seem to be equipped with the ability to recognize different facial expressions in humans.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在这一点上，还不清楚为什么狗似乎天生具备识别人类不同面部表情的能力。"
+    }
+   ]
+  },
+  {
+   "def": "a mark or unit on a scale of measurement （单位）点；标度",
+   "ex": []
+  },
+  {
+   "def": "the sharp thin end of sth 尖端；尖头",
+   "ex": []
+  },
+  {
+   "def": "a narrow piece of land that stretches into the sea 岬角；尖地；海角",
+   "ex": [
+    {
+     "s": "It was a cold March day in High Point, North Carolina.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "那是北卡罗来纳州海角市三月寒冷的一天。"
+    }
+   ]
+  },
+  {
+   "def": "小数点；点",
+   "ex": []
+  },
+  {
+   "def": "a very small dot of light or colour 光点；色点",
+   "ex": []
+  },
+  {
+   "def": "a place in a wall, etc. where a piece of equipment can be connected to electricity （电源）插座",
+   "ex": [
+    {
+     "s": "Where to find a charging point.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在哪里能找到充电桩。"
+    },
+    {
+     "s": "Then I got to the point where I was  45  really late at night to get my work alone.",
+     "src": "2018浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "然后我到了____45____深夜独自完成工作的地步。"
+    }
+   ]
+  },
+  {
+   "def": "a piece of track at a place where a railway/railroad line divides that can be moved to allow a train to change tracks 道岔；尖轨；转辙器",
+   "ex": [
+    {
+     "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
+    },
+    {
+     "s": "These two pieces of information - the time of day and the point where the sun is in the sky - allow the butterfly to determine the way to go.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "这两个信息--一天中的时间和太阳在天空中的位置--让蝴蝶决定前进的方向。"
+    }
+   ]
+  },
+  {
+   "def": "a unit of measurement for the size of letters in printing or on a computer screen, etc. （印刷物或计算机屏幕上字体大小的单位）点，磅值",
+   "ex": []
+  },
+  {
+   "def": "a place where a journey starts 出发点",
+   "ex": []
+  },
+  {
+   "def": "an idea, a theory or an event that is used to start a discussion, an activity, etc. 抛砖引玉的事物；起点",
+   "ex": [
+    {
+     "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
+    },
+    {
+     "s": "Start Point: Kilbrannish Forest Recreation Area",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：基尔布兰尼什森林休闲区"
+    },
+    {
+     "s": "Start Point: Scratoes Bridge",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：斯克拉托斯桥"
+    },
+    {
+     "s": "Start Point: Deerpark Car Park",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：Deerpark汽车公园"
+    },
+    {
+     "s": "Start Point: The Town Hall",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：市政厅"
+    },
+    {
+     "s": "They share the same start point.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他们有一个相同的起点。"
+    },
+    {
+     "s": "We could also say The starting point of our trip was Vancouver.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我们也可以说：我们这次旅行的起点是温哥华。"
+    }
+   ]
+  },
+  {
+   "def": "to stretch out your finger or sth held in your hand towards sb/sth in order to show sb where a person or thing is （用手指头或物体）指，指向",
+   "ex": [
+    {
+     "s": "Such wrinkles will no doubt be ironed out, yet they also point to a fundamental problem.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这些瑕疵无疑会被消除，但它们也指向一个根本问题。"
+    },
+    {
+     "s": "Emotional intelligence, with its focus or both head and heart, may serve to point us in the right direction.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "情商兼顾头脑与内心，或许能为我们指明正确的方向。"
+    },
+    {
+     "s": "He pulls out a special device, points it at the suspect, and switches it on.",
+     "src": "2020天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他拿出一件特殊装置，对准嫌疑人，然后打开开关。"
+    },
+    {
+     "s": "Simply turn the machine or point it at the target, and your peace and quiet comes back.",
+     "src": "2020天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "只要把机器转动或者指向目标，你的平静和安静就会回来。"
+    },
+    {
+     "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这时，冈特指了指汽车站的候车大厅。"
+    },
+    {
+     "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这时，冈特指了指汽车站的候车大厅。"
+    },
+    {
+     "s": "After a short way, the farmer stopped and pointed at a weed which we missed.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "走了一小段路后，农场主停下来，指着我们漏掉的一株杂草。"
+    }
+   ]
+  },
+  {
+   "def": "to aim sth at sb/sth 瞄准",
+   "ex": []
+  },
+  {
+   "def": "to face in or be directed towards a particular direction 对着；朝向",
+   "ex": []
+  },
+  {
+   "def": "to lead to or suggest a particular development or logical argument （意思上）指向；引导；指引",
+   "ex": [
+    {
+     "s": "If you enter through the wrong access point, you'll be turned around and redirected — so plan ahead.",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "如果你从错误的入口进入，会被拦下并重新指引——所以请提前规划。"
+    }
+   ]
+  },
+  {
+   "def": "to show sb which way to go 指路；指点",
+   "ex": []
+  },
+  {
+   "def": "to put mortar between the bricks of a wall （用灰泥）抹砖缝，勾缝",
+   "ex": []
+  },
+  {
+   "def": "to mention sth that you think is important and/or the reason why a particular situation exists 提出，指出（重要的事或理由）",
+   "ex": [
+    {
+     "s": "To point out the importance of public libraries.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "指出公共图书馆的重要性。"
+    },
+    {
+     "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
+    },
+    {
+     "s": "What phenomenon does the author point out in paragraph 1?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第一段指出了什么现象？"
+    },
+    {
+     "s": "What does the author point out at the beginning of the text?",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者在文章开头指出了什么？"
+    },
+    {
+     "s": "As Alice Black points out, today’s parents’ fear of letting kids do more housework has added to their inability to feel competent and, thus, confident in themselves.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "正如Alice Black所指出的，当今父母害怕让孩子做更多家务，这加剧了他们无法感到胜任、从而无法自信的问题。"
+    },
+    {
+     "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
+    },
+    {
+     "s": "It's not just corporate jobs, or even paid work that can help keep your brain fit, Then points out.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "不只是公司工作，甚至付费工作才能帮助你保持大脑健康，滕指出。"
+    },
+    {
+     "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
+    },
+    {
+     "s": "“You have to think about what you would lose if you do that.” Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
+    }
+   ]
+  },
+  {
+   "def": "to suggest that sth is true or likely 暗示；预示",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "key points",
+   "cn": "要点",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "reference point",
+   "cn": "参照点",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "point out",
+   "cn": "指出",
+   "type": "动词短语",
+   "count": 5
+  }
+ ]
 }
