@@ -1,1479 +1,1473 @@
 {
-  "meta": {
-    "ph": "ˈɔːθə(r); NAmE ˈɔːθər",
-    "pos": "noun",
-    "stars": "★"
+ "meta": {
+  "ph": "ˈɔːθə(r); NAmE ˈɔːθər",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "a person who writes books or the person who wrote a particular book 著者；作者；作家",
+   "ex": [
+    {
+     "s": "Dutch authors Thalia Verkade and Marco te Brömmelstroet are bothered by facts like these.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "荷兰作家塔莉娅·弗卡德和马尔科·特·布罗梅尔斯特罗特对这些事实感到困扰。"
+    },
+    {
+     "s": "The authors of Movement have it right: it’s time to think differently about that street outside your front door.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "《运动》一书的作者说得对：是时候用不同的眼光看待你家前门外的那条街了。"
+    },
+    {
+     "s": "“And what do you all learn about Russian authors?” I   50   him asking at one point.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "“那你们都了解俄罗斯作家什么？”我____50____他一度问道。"
+    },
+    {
+     "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
+     "src": "2018全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
+    },
+    {
+     "s": "Many works of fiction appeared without the names of the authors, often with something like “By a lady.”Novels, for the most part, were looked upon as silly, immoral, or just plain bad.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "许多小说作品出版时没有作者名字，往往只署类似“一位女士著”。小说在很大程度上被看作愚蠢、不道德，或者干脆就是烂。"
+    },
+    {
+     "s": "Tolkien (1892-1973) was an English writer, poet and university professor, best known as the author of some of the world’s most popular high-fantasy novels.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "托尔金（1892-1973）是一位英国作家、诗人和大学教授，最以创作了全球最受欢迎的一些高阶奇幻小说而闻名。"
+    },
+    {
+     "s": "Title of the book:1 Author:2 Background information: Every Christmas,Tolkien’s children would get an envelope with3 .Inside it,they would find4 .Of course,the letters were written by Tolkien.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "书名：1 作者：2 背景信息：每年圣诞节，托尔金的孩子们都会收到一个信封，里面有3。在里面，他们会找到4。当然，这些信是托尔金写的。"
+    },
+    {
+     "s": "The man who wrote these letters is one of the most famous names in English literature-J.R.R Tolkien, author of The Lord of the Rings That is why Letters from Father Christmas could be the perfect book...",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "写这些信的人是英国文学中最著名的名字之一——J.R.R.托尔金，《指环王》的作者。这就是为什么《来自圣诞老人的信》可能是完美的书……"
+    },
+    {
+     "s": "Background information Homer is traditionally regarded as the author of two epic poems from Ancient Greece, The Iliad and The Odyssey.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "背景信息：荷马传统上被认为是古希腊两部史诗《伊利亚特》和《奥德赛》的作者。"
+    },
+    {
+     "s": "What does the author think of Weiners book?",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者认为韦纳的书怎么样？"
+    },
+    {
+     "s": "6 First Prizes：The book Sky Pioneer：A Photobiography of Amelia Earhart signed by author Corinne Szabo and pilot Linda Finch.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "6个一等奖：由作者科琳·萨博和飞行员琳达·芬奇签名的《天空先驱：阿梅莉亚·埃尔哈特摄影传记》一书。"
+    },
+    {
+     "s": "As the author explains, this is neither a travel nor a history book, or even a piece of reportage.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "正如作者所解释的，这既不是一本旅行书，也不是历史书，甚至不是一篇报道文学。"
+    },
+    {
+     "s": "Which word best describes the author’s relationship with books as a child?",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "哪个词最能描述作者童年时与书籍的关系？"
+    },
+    {
+     "s": "Yet， now that I'm growing and the world I once knew as being so simple is becoming more complex， I find myself needing a way to escape． By opening a novel， I can leave behind my burdens and enter into a wonderful and mysterious world where I am now a new character． In these worlds I can become anyone． I don't have to write down what happened or what technique the author was using when he or she wrote this． I just read to relax．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "然而，随着我渐渐长大，曾经以为如此简单的世界变得越来越复杂，我发现自己需要一种逃避的方式。打开一本小说，我就能抛开烦恼，进入一个奇妙而神秘的世界，在那里我成为一个新的角色。在这些世界里我可以成为任何人。我不必记下发生了什么，也不必分析作者写作时运用了什么技巧。我阅读只是为了放松。"
+    },
+    {
+     "s": "What can we learn about the author's first dictionary?",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "关于作者的第一本词典，我们能了解到什么？"
+    },
+    {
+     "s": "What has the author come to realize about learning?",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "关于学习，作者逐渐认识到了什么？"
+    },
+    {
+     "s": "“We usually think in very concrete terms when doing something on a screen,” said Simone Schnall, senior author of the study.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“我们在屏幕上做事情时，通常用非常具体的方式思考，”该研究的主要作者Simone Schnall说。"
+    },
+    {
+     "s": "What does the author point out at the beginning of the text?",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者在文章开头指出了什么？"
+    },
+    {
+     "s": "What initiated the author’s research.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "是什么促使作者开展这项研究。"
+    },
+    {
+     "s": "Where the author spent his holiday.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者在哪里度过了假期。"
+    },
+    {
+     "s": "What poses a challenge to teachers according to the author?",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "根据作者的看法，对教师构成挑战的是什么？"
+    },
+    {
+     "s": "Why does the author bring tires into the classroom?",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者为什么把轮胎带进课堂？"
+    },
+    {
+     "s": "What was the unexpected outcome of the author’s teaching method?",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者的教学方法带来了什么意想不到的结果？"
+    },
+    {
+     "s": "Which of the following best describes the author as a teacher?",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "以下哪项最能描述作者作为一名教师的特点？"
+    },
+    {
+     "s": "How did the author feel after hearing her dad’s response?",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "听到父亲回答后作者感觉如何？"
+    },
+    {
+     "s": "What can be inferred about the author’s early life?",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "关于作者的早年生活，可以推断出什么？"
+    },
+    {
+     "s": "What can be inferred about the author from the first paragraph?",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "从第一段可以推断出关于作者的什么信息？"
+    },
+    {
+     "s": "How did the author feel about his daughter’s argument?",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者对他女儿的论点有什么感受？"
+    },
+    {
+     "s": "Our life story is something that starts coming together in our teenage years, when we begin to organise our lives into chapters around key events or life changes, and begin to see ourselves as both the central character and, to a varying extent, the story’s author.",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我们的人生故事在青少年时期开始成形，那时我们开始把生活围绕关键事件或人生变化整理成一个个章节，并开始把自己视为故事的中心人物，并且在不同程度上也视为这个故事的创作者。"
+    },
+    {
+     "s": "What does the author mainly do in this passage?",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在这篇文章中主要做了什么？"
+    },
+    {
+     "s": "Why does the author mention the American Holistic Veterinary Medical Association?",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者为什么提到美国整体兽医学协会？"
+    },
+    {
+     "s": "What does the author imply in the last paragraph?",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者在最后一段暗示了什么？"
+    },
+    {
+     "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"
+    },
+    {
+     "s": "What is the author’s purpose in writing the text?",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者写这篇文章的目的是什么？"
+    },
+    {
+     "s": "Why did the author go to Prof Gracie?",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者为什么去找格雷西教授？"
+    },
+    {
+     "s": "What did the author realize after seeing Gracie?",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者见到格雷西后意识到了什么？"
+    },
+    {
+     "s": "Why does the author mention Peter Mountford and Elizabeth Sims?",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者为什么提到彼得·蒙特福特和伊丽莎白·西姆斯？"
+    },
+    {
+     "s": "According to the author, how are humans different from many other species?",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据作者的说法，人类与许多其他物种有什么不同？"
+    },
+    {
+     "s": "According to the author, what could be a purpose of voluntary rereading?",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据作者的观点，自愿重读的目的可能是什么？"
+    },
+    {
+     "s": "Why did the author’s grandmother recycle the same answers to his questions? (no more than 10 words)",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为什么作者的祖母总是用同样的答案回答他的问题？（不超过10个词）"
+    },
+    {
+     "s": "How can people be successful in old age according to the author’s grandmother? (no more than 10 words)",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据作者祖母的说法，人们如何才能在老年活得精彩？（不超过10个词）"
+    },
+    {
+     "s": "How did the author feel about the result of the art exam?",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者对美术考试结果的感受如何？"
+    },
+    {
+     "s": "Which word would best describe the author’s dream?",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "哪个词最能描述作者的梦？"
+    },
+    {
+     "s": "What does the author intend to do by challenging a hypothesis?",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者通过质疑一个假设，意图做什么？"
+    },
+    {
+     "s": "In the beginning, what drove the author to push forward with the research plan?",
+     "src": "2024北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起初，是什么推动作者继续推进研究计划？"
+    },
+    {
+     "s": "What was the solution by the adviser and the author after those repeated failures?",
+     "src": "2024北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在那些反复失败后，顾问和作者想出的解决办法是什么？"
+    },
+    {
+     "s": "> The adviser considered the author’s experience in the lab a groundbreaking success because publishable data had been produced.",
+     "src": "2024北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "> 顾问认为，作者在实验室的经验是一次开创性的成功，因为已经产生了可公布的数据。"
+    },
+    {
+     "s": "What is the author’s purpose in mentioning Fuzhou?",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者提到福州的目的是什么？"
+    },
+    {
+     "s": "What does the author suggest readers do with the practices offered in part two?",
+     "src": "2023新课标I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者建议读者如何使用第二部分提供的实践练习？"
+    },
+    {
+     "s": "What is the author’s attitude toward Navajas’ studies?",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者对Navajas学习的态度如何？"
+    },
+    {
+     "s": "What does the author want to say by mentioning the e-reader?",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者提到电子阅读器想说明什么？"
+    },
+    {
+     "s": "And for that to happen, we also need to protect nature so that we can interact with it,” said Peter Kahn, a senior author of the study.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "而要做到这一点，我们还需要保护自然，这样我们才能与之互动，该研究的资深作者彼得·卡恩说。"
+    },
+    {
+     "s": "What phenomenon does the author describe at the beginning of the text?",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者在文章开头描述了什么现象？"
+    },
+    {
+     "s": "Who opened the door to philosophy for the author?",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "是谁为作者打开了哲学之门？"
+    },
+    {
+     "s": "Why does the author list great philosophers in paragraph 4?",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者为什么在第4段列举伟大的哲学家？"
+    },
+    {
+     "s": "What does the author like about The Socrates Express?",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者喜欢《苏格拉底快线》的什么？"
+    },
+    {
+     "s": "How does the author deal with the challenge as a landscape photographer in the Midwest?",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作为中西部的一名风景摄影师，作者是如何应对这一挑战的？"
+    },
+    {
+     "s": "What is the key to successful landscape photography according to the author?",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "根据作者的说法，成功的风景摄影的关键是什么？"
+    },
+    {
+     "s": "What can we infer from the author’s trip with friends to Devil’s Lake?",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从作者和朋友去魔鬼湖的那次旅行中，我们可以推断出什么？"
+    },
+    {
+     "s": "How does the author find his photos taken at Devil’s Lake?",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者觉得他在魔鬼湖拍的照片怎么样？"
+    },
+    {
+     "s": "What might the author continue talking about?",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者接下来可能会谈什么？"
+    },
+    {
+     "s": "What does the author indicate by mentioning Captain Cook in paragraph 2?",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者在第2段提到库克船长想说明什么？"
+    },
+    {
+     "s": "What was the attitude of the author’s father toward buying groceries with jars?",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者的父亲对用罐子买杂货持什么态度？"
+    },
+    {
+     "s": "What can we infer about the author?",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "关于作者我们能推断出什么？"
+    },
+    {
+     "s": "Why does the author mention Noa Ovadia in the first paragraph?",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者在第一段提到诺亚·奥瓦迪亚是为了什么？"
+    },
+    {
+     "s": "Why did the author think of joining the swimmers?",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者为什么考虑加入游泳者？"
+    },
+    {
+     "s": "What can be learnt about the author’s first dipping?",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "关于作者的第一次冷水浴能了解到什么？"
+    },
+    {
+     "s": "What change has cold water swimming brought about in the author?",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "冷水游泳给作者带来了什么变化？"
+    },
+    {
+     "s": "What message does the author most likely want to convey?",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者最可能想传达什么信息？"
+    },
+    {
+     "s": "According to the author, what increases our enjoyment of a piece of art?",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "根据作者的观点，什么增加了我们对一件艺术品的享受？"
+    },
+    {
+     "s": "As an award-winning cookbook author, Ms Young, now 66, has spent decades shopping the same way in New York’s Chinatown.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作为一位获奖食谱书作者，现年66岁的杨女士几十年来一直以同样的方式在纽约唐人街购物。"
+    },
+    {
+     "s": "What are the common elements in all forms of storytelling according to the author?",
+     "src": "2023天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "根据作者的说法，所有讲故事形式中的共同要素是什么？"
+    },
+    {
+     "s": "How did the author feel upon seeing the email sender’s name?",
+     "src": "2023北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "看到邮件发件人的名字时，作者是什么感受？"
+    },
+    {
+     "s": "Regarding Alan Smith’s defence of ALife, the author is      .",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "关于艾伦·史密斯对ALife的辩护，作者持      态度。"
+    },
+    {
+     "s": "What does the author want to show by telling the arugula story?",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者通过讲述芝麻菜的故事想要表达什么？"
+    },
+    {
+     "s": "What does the author think of himself?",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者如何看待自己？"
+    },
+    {
+     "s": "What can we learn about the author as a journalist?",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "关于作者作为记者，我们能了解到什么？"
+    },
+    {
+     "s": "Which statement will the author probably agree with?",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者可能会同意哪种说法？"
+    },
+    {
+     "s": "What did the author realize after entering school in Brooklyn?",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者进入布鲁克林的学校后意识到了什么？"
+    },
+    {
+     "s": "The author herself.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者本人。"
+    },
+    {
+     "s": "The author’s classmate.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者的同学。"
+    },
+    {
+     "s": "How did the summer job benefit the author?",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "暑期工作给作者带来了什么好处？"
+    },
+    {
+     "s": "As for systems thinking, which would the author agree with?",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "关于系统思维，作者会同意哪种说法？"
+    },
+    {
+     "s": "What does the author’s job involve?",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者的工作包括什么？"
+    },
+    {
+     "s": "Why does the author mention “beauty” in Paragraph 2?",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者在第2段提到\"美\"是为了什么？"
+    },
+    {
+     "s": "What does the author think of the methods of science?",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者如何看待科学方法？"
+    },
+    {
+     "s": "What did the author think of raising the tiger cubs at home?",
+     "src": "2021新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么决定把斑点和条纹送回动物园？"
+    },
+    {
+     "s": "What can we learn about the author soon after he moved to London?",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "关于作者刚搬到伦敦后不久我们能了解到什么？"
+    },
+    {
+     "s": "What can we infer about the author from the text?",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "从文章关于作者能推断出什么？"
+    },
+    {
+     "s": "According to Jessica Hagy, author of How to Be Interesting, it's not difficult to make yourself interesting at a dinner party.",
+     "src": "2021全国乙卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "据《如何变得有趣》一书的作者杰西卡·哈吉所说，在晚宴上让自己变得有趣并不难。"
+    },
+    {
+     "s": "\"We can rule out that the dogs simply distinguish between the pictures based on a simple cue, such as the sight of teeth,\" said study author Corsin Muller.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“我们可以排除狗只是根据诸如看到牙齿这样简单的线索来区分这些图片的可能性，”研究作者Corsin Muller说。"
+    },
+    {
+     "s": "Why did the author's husband have banana pudding for his birthday?",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "为什么作者丈夫生日那天吃的是香蕉布丁？"
+    },
+    {
+     "s": "The author made good puddings.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者做的布丁很好吃。"
+    },
+    {
+     "s": "Why does the author mention The Last Dance in the passage?",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者在文章中提到《最后的舞蹈》是为了什么？"
+    },
+    {
+     "s": "What does the author most likely want to tell us?",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者最想告诉我们什么？"
+    },
+    {
+     "s": "According to the author, a superior doctor is one who       .",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "根据作者，一位卓越的医生是那种___。"
+    },
+    {
+     "s": "What does the author intend to show with the example of Toni?",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者想通过托尼的例子说明什么？"
+    },
+    {
+     "s": "What was the author interested in when she was a little girl? (no more than 10 words)",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者小时候对什么感兴趣？（不超过10个词）"
+    },
+    {
+     "s": "How did the author feel when she was taking the part-time design course? (no more than 10 words)",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "当她参加兼职设计课程时，作者有什么感受？（不超过10个词）"
+    },
+    {
+     "s": "What did the author do to get back to her creative life?",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者做了什么来回到创造性生活中？"
+    },
+    {
+     "s": "Do you consider the author as your role model?",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "你认为作者是你的榜样吗？"
+    },
+    {
+     "s": "How did the author feel about joining the OIC project in the beginning？",
+     "src": "2021北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者一开始对加入OIC项目有什么感受？"
+    },
+    {
+     "s": "The author agrees with the message of the poem.",
+     "src": "2021北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者同意这首诗传达的信息。"
+    },
+    {
+     "s": "What can we infer about the author?",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "关于作者我们能推断出什么？"
+    },
+    {
+     "s": "Its author, Dr Henry Petroski, has long been writing about disasters.",
+     "src": "2020全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "其作者亨利·彼得罗斯基博士长期在写关于灾难的内容。"
+    },
+    {
+     "s": "It’s about the now and what one contributes to the now, because reading is a give and take between author and reader.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它关乎当下，以及一个人对当下的贡献，因为阅读是作者与读者之间的一种互动交流。"
+    },
+    {
+     "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但我想，虽然金钱确实美好且必不可少，但重读一位作者的作品，是读者能给予他们的最高回报。"
+    },
+    {
+     "s": "Why does the author like rereading?",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者为什么喜欢重读？"
+    },
+    {
+     "s": "What can we infer about the author from the text?",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从文中我们可以推断出关于作者的什么？"
+    },
+    {
+     "s": "What does the author call on other writers to do?",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者呼吁其他作家做什么？"
+    },
+    {
+     "s": "What is the author’s statement about multigenerational family based on?",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者关于多代同堂家庭的论断基于什么？"
+    },
+    {
+     "s": "Why was the author surprised at Juan’s question about the moon?",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者为什么对胡安关于月亮的问题感到惊讶？"
+    },
+    {
+     "s": "The author didn’t know how to answer.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者不知道如何回答。"
+    },
+    {
+     "s": "The author didn’t think Juan was sincere.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者认为Juan不真诚。"
+    },
+    {
+     "s": "What was the author’s initial purpose of collecting newspaper articles?",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者最初收集报纸文章的目的是什么？"
+    },
+    {
+     "s": "What do we know about the author from the first paragraph?",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "关于作者我们从第一段可以了解到什么？"
+    },
+    {
+     "s": "What does the author avoid doing in his work?",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者在他的工作中避免做什么？"
+    },
+    {
+     "s": "What does the author suggest readers do while reading the plays?",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者建议读者阅读剧本时做什么？"
+    },
+    {
+     "s": "What is the author's attitude towards the prospect of electric flying?",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者对电动飞行的前景持什么态度？"
+    },
+    {
+     "s": "Why did the author feel strange about herself after listening to the recording? (no more than 10 words)",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "听完录音后作者为什么觉得自己奇怪？（不超过10词）"
+    },
+    {
+     "s": "What changes offered a new start to the author after his family moved? （no more than 15 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "搬家后，是什么变化给了作者一个新的开始？（不超过15个词）"
+    },
+    {
+     "s": "According to Paragraph 3, what marked the turning point in the author's growth? （no more than 7 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据第3段，作者成长中的转折点是什么？（不超过7词）"
+    },
+    {
+     "s": "Why does the author mention museums? （    ）",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者为什么提到博物馆？（    ）"
+    },
+    {
+     "s": "What sort of girl was the author in her early years of elementary school?",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "作者在小学早期是什么样的女孩？"
+    },
+    {
+     "s": "Why does the author like doing volunteer work?",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "作者为什么喜欢做志愿工作？"
+    },
+    {
+     "s": "Many factors contributed to the decline, said Patrick Mclntyre, an ecologist who was the lead author of the study.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这项研究的领衔作者、生态学家帕特里克·麦金太尔说，许多因素导致了这一衰退。"
+    },
+    {
+     "s": "Jenn Berman, author of The A to Z Guide to Raising Happy and Confident Kids, says, \"We've gone to the opposite extreme of a few decades ago when parents tended to be more strict.\" By giving kids a lot of praise, parents think they're building their children's confidence, when, in fact, it may be just the opposite.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "《培养快乐自信孩子A到Z指南》的作者Jenn Berman说：\"我们已经走到了几十年前父母往往更严厉的那个极端的对立面。\"通过给孩子很多表扬，父母以为在建立孩子的自信，而实际上可能适得其反。"
+    },
+    {
+     "s": "If praise is sincere and focused on the effort not the outcome, you can give it as often as your child does something that deserves a verbal reward.\" We should especially recognize our children's efforts to push themselves and work hard to achieve a goal, \"says Donahue, author of Parenting Without Fear: Letting Go of Worry and Focusing on What Really Matters.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "如果赞美是真诚的，并且专注于努力而不是结果，那么你可以像孩子做一些值得口头奖励的事情一样频繁地给予赞美。” 我们应当特别承认我们的孩子努力推动自己并努力实现一个目标，即“无恐惧地养育子女：让忧心忡忡地去关注真正重要的事情”的作者多纳休(Donahue)说。"
+    },
+    {
+     "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）根据第3段，作者对路标的阅读表明____。"
+    },
+    {
+     "s": "（3）What was the author's view on factual reading？",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（3）作者对事实性阅读的看法是什么？"
+    },
+    {
+     "s": "（4）The author takes novel reading as a way to     ．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（4）作者把读小说当作一种___的方式。"
+    },
+    {
+     "s": "（5）What is the author's purpose in writing the passage？",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（4）作者在第5段想告诉我们什么？"
+    },
+    {
+     "s": "How does the author feel about the solutions to problem of robecalls?",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "作者对解决骚扰电话问题的办法感觉如何？"
+    },
+    {
+     "s": "What does the author intend to do in paragraph 4?",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者在第4段打算做什么？"
+    },
+    {
+     "s": "What does the author think of new devices?",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者如何看待新设备？"
+    },
+    {
+     "s": "What does the author seem to like about cherries?",
+     "src": "2018全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者似乎喜欢樱桃的什么？"
+    },
+    {
+     "s": "What is the author’s purpose in writing the text?",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者写这篇文章的目的是什么？"
+    },
+    {
+     "s": "（2）Why did the author refuse the help from the man in the house？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）为什么作者拒绝了房子里那个男人的帮助？"
+    },
+    {
+     "s": "（3）How did the author feel about being stared at by the people in the hall？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（3）作者对被大厅里的人盯着看有什么感觉？"
+    },
+    {
+     "s": "（4）Why did the author describe the real McNay museum in just a few words？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（4）作者为什么只用寥寥数语描述真正的麦克奈博物馆？"
+    },
+    {
+     "s": "（2）What idea does the author convey in Paragraph 3？",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）作者在第3段传达了什么观点？"
+    },
+    {
+     "s": "（5）In the passage， the author intends to tell us we should     ．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（5）在这篇文章中，作者想要告诉我们应该____。"
+    },
+    {
+     "s": "（3）How would you describe the author in terms of personalities according to Paragraph 4？（no more than 10 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（3）根据第4段，你会如何描述作者的性格？（不超过10词）"
+    },
+    {
+     "s": "What is unavoidable in the author’s rescue work according to paragraph 1?",
+     "src": "2017全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据第1段，作者的救援工作中什么是不可避免的？"
+    },
+    {
+     "s": "Why was the studio unwilling to give the role to author at first?",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么制片厂一开始不愿意把这个角色给作者？"
+    },
+    {
+     "s": "Why did Paul and the author have a lasting friendship?",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么保罗和作者之间有着持久的友谊？"
+    },
+    {
+     "s": "What is the author’s purpose in writing the test?",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者写这篇测试（文章）的目的是什么？"
+    },
+    {
+     "s": "What does the author mean by “the tables are turned” in paragraph 3?",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者在第3段中说『the tables are turned』是什么意思？"
+    },
+    {
+     "s": "What is the author’s attitude towards the Yellowstone wolf project？",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者对黄石狼项目持什么态度？"
+    },
+    {
+     "s": "Why did the author sit and listen to Mrs Stanley according to paragraph 3?",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据第3段，作者为什么坐下来听斯坦利太太说话？"
+    },
+    {
+     "s": "What does the author think people in a community should do?",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者认为社区里的人应该怎么做？"
+    },
+    {
+     "s": "What is the author’s purpose in writing the text?",
+     "src": "2017浙江11月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者写这篇文章的目的是什么？"
+    },
+    {
+     "s": "Why did Paul and the author have a lasting friendship?",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么保罗和作者有着长久的友谊？"
+    },
+    {
+     "s": "What is the author’s purpose in writing the test?",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者写这篇文章的目的是什么？"
+    },
+    {
+     "s": "What does the author mean by “the tables are turned” in paragraph 3?",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者在第3段中说『the tables are turned』是什么意思？"
+    },
+    {
+     "s": "What’s the author’s preferred solution to global warming?",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者对全球变暖偏好的解决方案是什么？"
+    },
+    {
+     "s": "What does the author intend to tell us?",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者打算告诉我们什么？"
+    },
+    {
+     "s": "What does the author’s experience show?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者的经历显示了什么？"
+    },
+    {
+     "s": "What phenomenon does the author point out in paragraph 1?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第一段指出了什么现象？"
+    },
+    {
+     "s": "How does the author present the issue in the first paragraph?",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第一段是如何呈现这一问题的？"
+    },
+    {
+     "s": "What does the author suggest visitors do in Mevagissey?",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者建议游客在 Mevagissey 做什么？"
+    },
+    {
+     "s": "What does the author think of the strategies she has been following?",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者如何看待她一直在采用的策略？"
+    },
+    {
+     "s": "Throughout the Junior year, what was the author’s major concern?",
+     "src": "2025北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在整个高三年级期间，作者主要担心的是什么？"
+    },
+    {
+     "s": "Which would best describe the author’s first group interview?",
+     "src": "2025北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "以下哪项最能描述作者的第一次小组面试？"
+    },
+    {
+     "s": "Why did the author start to use the “library”?",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者为什么开始使用这个“图书馆”？"
+    },
+    {
+     "s": "What does the author suggest readers do?",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者建议读者怎么做？"
+    },
+    {
+     "s": "What is the author’s purpose in writing Paragraph 4?",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者写第四段的目的是什么？"
+    },
+    {
+     "s": "What did the author find when reading Montaigne’s Essays?",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者在读蒙田的《随笔集》时发现了什么？"
+    },
+    {
+     "s": "What is the author’s purpose in writing the passage?",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者写这篇文章的目的是什么？"
+    },
+    {
+     "s": "Which of the following would the author encourage you to do?",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "以下哪项是作者会鼓励你去做的事情？"
+    },
+    {
+     "s": "What does the author intend to tell us?",
+     "src": "2023北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者打算告诉我们什么？"
+    },
+    {
+     "s": "What is the author’s purpose in writing the passage?",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者写这篇文章的目的是什么？"
+    },
+    {
+     "s": "Why does the author mention \"doctor\" and \"cheater\" in paragraph 2?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么在第2段提到“医生”和“骗子（cheater）”？"
+    },
+    {
+     "s": "Why did the author bring the tiger cubs home?",
+     "src": "2021新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为何把虎崽带回家？"
+    },
+    {
+     "s": "Why did the author decide to send Spot and Stripe back to the zoo?",
+     "src": "2021新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么决定把斯波特和斯特赖普送回动物园？"
+    },
+    {
+     "s": "Why did the author like to spend time in Southbank when he returned to London?",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者回到伦敦后，为什么喜欢在Southbank度过时光？"
+    },
+    {
+     "s": "What message does the author seem to convey in the text?",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者在文中似乎传达了什么信息？"
+    },
+    {
+     "s": "What does the author think of victors' standards for joining the genius club?",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者如何看待胜利者设定的进入天才俱乐部的标准？"
+    },
+    {
+     "s": "Why does the author discuss plastic straws in paragraph 3?",
+     "src": "2021全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么在第三段讨论塑料吸管？"
+    },
+    {
+     "s": "What was the author's purpose in having the conversation with the students?",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者与学生交谈的目的是什么？"
+    },
+    {
+     "s": "Which word best describes the author’s attitude to race walking?",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "哪个词最能描述作者对竞走的态度？"
+    },
+    {
+     "s": "What does the author want to tell us by the examples in paragraph 1?",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者想用第1段中的例子告诉我们什么？"
+    },
+    {
+     "s": "How did the author feel on his arrival in the Amazon?",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者到达亚马逊时感觉如何？"
+    },
+    {
+     "s": "Why did the author create the Shy and Mighty Society? (no more than 10 words)",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么作者创造了害羞和强大的社会？ （不超过10个字）"
+    },
+    {
+     "s": "（4）What does the author intend to tell us in Paragraph 5？",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "(4) 作者打算在第5段中告诉我们什么？"
+    },
+    {
+     "s": "Why did the author play the ball with Shepherd?",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者为什么和牧羊犬玩球？"
+    },
+    {
+     "s": "（2）Why did the author hurry back home without reaching the top of the mountain？ Give two reasons．（no more than 15 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）作者为什么没有到达山顶就匆忙回家？给出两个原因。（不超过15个词）"
+    },
+    {
+     "s": "What's opinion of the author towards shells for money?",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者对用贝壳作货币的看法是什么？"
+    },
+    {
+     "s": "Why did the author mention the P.E. class in his 7th year?",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者为什么在七年级时提到那节体育课？"
+    },
+    {
+     "s": "How was the author’s first marathon?",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者的第一次马拉松怎么样？"
+    },
+    {
+     "s": "As for driverless cars, what is the author’s major concern?",
+     "src": "2018北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "至于无人驾驶汽车，作者主要关心的是什么？"
+    },
+    {
+     "s": "What is the author’s attitude to the future of self-driving cars?",
+     "src": "2018北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者对自动驾驶汽车的未来持什么态度？"
+    },
+    {
+     "s": "How does the author sound in the last paragraph?",
+     "src": "2017浙江11月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在最后一段中作者的语气是怎样的？"
+    },
+    {
+     "s": "Why was the studio unwilling to give the role to author at first?",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么制片厂一开始不愿意把这个角色给作者？"
+    },
+    {
+     "s": "What does the author think of the safety problem of super intelligent machines?",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者对超级智能机器的安全问题有什么看法?."
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the person who creates or starts sth, especially a plan or an idea （尤指计划或思想的）创造者，发起人",
+   "ex": [
     {
-      "def": "a person who writes books or the person who wrote a particular book 著者；作者；作家",
-      "ex": [
-        {
-          "s": "Dutch authors Thalia Verkade and Marco te Brömmelstroet are bothered by facts like these.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "荷兰作家塔莉娅·弗卡德和马尔科·特·布罗梅尔斯特罗特对这些事实感到困扰。"
-        },
-        {
-          "s": "The authors of Movement have it right: it’s time to think differently about that street outside your front door.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "《运动》一书的作者说得对：是时候用不同的眼光看待你家前门外的那条街了。"
-        },
-        {
-          "s": "“And what do you all learn about Russian authors?” I   50   him asking at one point.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "“那你们都了解俄罗斯作家什么？”我____50____他一度问道。"
-        },
-        {
-          "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
-          "src": "2018全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
-        },
-        {
-          "s": "Many works of fiction appeared without the names of the authors, often with something like “By a lady.”Novels, for the most part, were looked upon as silly, immoral, or just plain bad.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "许多小说作品出版时没有作者名字，往往只署类似“一位女士著”。小说在很大程度上被看作愚蠢、不道德，或者干脆就是烂。"
-        },
-        {
-          "s": "Tolkien (1892-1973) was an English writer, poet and university professor, best known as the author of some of the world’s most popular high-fantasy novels.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "托尔金（1892-1973）是一位英国作家、诗人和大学教授，最以创作了全球最受欢迎的一些高阶奇幻小说而闻名。"
-        },
-        {
-          "s": "Title of the book:1 Author:2 Background information: Every Christmas,Tolkien’s children would get an envelope with3 .Inside it,they would find4 .Of course,the letters were written by Tolkien.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "书名：1 作者：2 背景信息：每年圣诞节，托尔金的孩子们都会收到一个信封，里面有3。在里面，他们会找到4。当然，这些信是托尔金写的。"
-        },
-        {
-          "s": "The man who wrote these letters is one of the most famous names in English literature-J.R.R Tolkien, author of The Lord of the Rings That is why Letters from Father Christmas could be the perfect book...",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "写这些信的人是英国文学中最著名的名字之一——J.R.R.托尔金，《指环王》的作者。这就是为什么《来自圣诞老人的信》可能是完美的书……"
-        },
-        {
-          "s": "Background information Homer is traditionally regarded as the author of two epic poems from Ancient Greece, The Iliad and The Odyssey.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "背景信息：荷马传统上被认为是古希腊两部史诗《伊利亚特》和《奥德赛》的作者。"
-        },
-        {
-          "s": "What does the author think of Weiners book?",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者认为韦纳的书怎么样？"
-        },
-        {
-          "s": "6 First Prizes：The book Sky Pioneer：A Photobiography of Amelia Earhart signed by author Corinne Szabo and pilot Linda Finch.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "6个一等奖：由作者科琳·萨博和飞行员琳达·芬奇签名的《天空先驱：阿梅莉亚·埃尔哈特摄影传记》一书。"
-        },
-        {
-          "s": "As the author explains, this is neither a travel nor a history book, or even a piece of reportage.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "正如作者所解释的，这既不是一本旅行书，也不是历史书，甚至不是一篇报道文学。"
-        },
-        {
-          "s": "Which word best describes the author’s relationship with books as a child?",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "哪个词最能描述作者童年时与书籍的关系？"
-        },
-        {
-          "s": "Yet， now that I'm growing and the world I once knew as being so simple is becoming more complex， I find myself needing a way to escape． By opening a novel， I can leave behind my burdens and enter into a wonderful and mysterious world where I am now a new character． In these worlds I can become anyone． I don't have to write down what happened or what technique the author was using when he or she wrote this． I just read to relax．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "然而，随着我渐渐长大，曾经以为如此简单的世界变得越来越复杂，我发现自己需要一种逃避的方式。打开一本小说，我就能抛开烦恼，进入一个奇妙而神秘的世界，在那里我成为一个新的角色。在这些世界里我可以成为任何人。我不必记下发生了什么，也不必分析作者写作时运用了什么技巧。我阅读只是为了放松。"
-        },
-        {
-          "s": "What can we learn about the author's first dictionary?",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "关于作者的第一本词典，我们能了解到什么？"
-        },
-        {
-          "s": "What has the author come to realize about learning?",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "关于学习，作者逐渐认识到了什么？"
-        },
-        {
-          "s": "“We usually think in very concrete terms when doing something on a screen,” said Simone Schnall, senior author of the study.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“我们在屏幕上做事情时，通常用非常具体的方式思考，”该研究的主要作者Simone Schnall说。"
-        },
-        {
-          "s": "What does the author point out at the beginning of the text?",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者在文章开头指出了什么？"
-        },
-        {
-          "s": "What initiated the author’s research.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "是什么促使作者开展这项研究。"
-        },
-        {
-          "s": "Where the author spent his holiday.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者在哪里度过了假期。"
-        },
-        {
-          "s": "What poses a challenge to teachers according to the author?",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "根据作者的看法，对教师构成挑战的是什么？"
-        },
-        {
-          "s": "Why does the author bring tires into the classroom?",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者为什么把轮胎带进课堂？"
-        },
-        {
-          "s": "What was the unexpected outcome of the author’s teaching method?",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者的教学方法带来了什么意想不到的结果？"
-        },
-        {
-          "s": "Which of the following best describes the author as a teacher?",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "以下哪项最能描述作者作为一名教师的特点？"
-        },
-        {
-          "s": "How did the author feel after hearing her dad’s response?",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "听到父亲回答后作者感觉如何？"
-        },
-        {
-          "s": "What can be inferred about the author’s early life?",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "关于作者的早年生活，可以推断出什么？"
-        },
-        {
-          "s": "What can be inferred about the author from the first paragraph?",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "从第一段可以推断出关于作者的什么信息？"
-        },
-        {
-          "s": "How did the author feel about his daughter’s argument?",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者对他女儿的论点有什么感受？"
-        },
-        {
-          "s": "Our life story is something that starts coming together in our teenage years, when we begin to organise our lives into chapters around key events or life changes, and begin to see ourselves as both the central character and, to a varying extent, the story’s author.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我们的人生故事在青少年时期开始成形，那时我们开始把生活围绕关键事件或人生变化整理成一个个章节，并开始把自己视为故事的中心人物，并且在不同程度上也视为这个故事的创作者。"
-        },
-        {
-          "s": "What does the author mainly do in this passage?",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在这篇文章中主要做了什么？"
-        },
-        {
-          "s": "Why does the author mention the American Holistic Veterinary Medical Association?",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者为什么提到美国整体兽医学协会？"
-        },
-        {
-          "s": "What does the author imply in the last paragraph?",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者在最后一段暗示了什么？"
-        },
-        {
-          "s": "“With the rise of technology it is easy for people to make observations of different species with the aid of a mobile application,” said Barnabas Daru, who is lead author of the study and assistant professor of biology in the Stanford School of Humanities and Sciences.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "随着技术兴起，人们借助手机应用很容易观察不同物种，”该研究第一作者、斯坦福人文与科学学院生物学助理教授Barnabas Daru说。"
-        },
-        {
-          "s": "What is the author’s purpose in writing the text?",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者写这篇文章的目的是什么？"
-        },
-        {
-          "s": "Why did the author go to Prof Gracie?",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者为什么去找格雷西教授？"
-        },
-        {
-          "s": "What did the author realize after seeing Gracie?",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者见到格雷西后意识到了什么？"
-        },
-        {
-          "s": "Why does the author mention Peter Mountford and Elizabeth Sims?",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者为什么提到彼得·蒙特福特和伊丽莎白·西姆斯？"
-        },
-        {
-          "s": "According to the author, how are humans different from many other species?",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据作者的说法，人类与许多其他物种有什么不同？"
-        },
-        {
-          "s": "According to the author, what could be a purpose of voluntary rereading?",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据作者的观点，自愿重读的目的可能是什么？"
-        },
-        {
-          "s": "Why did the author’s grandmother recycle the same answers to his questions? (no more than 10 words)",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为什么作者的祖母总是用同样的答案回答他的问题？（不超过10个词）"
-        },
-        {
-          "s": "How can people be successful in old age according to the author’s grandmother? (no more than 10 words)",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据作者祖母的说法，人们如何才能在老年活得精彩？（不超过10个词）"
-        },
-        {
-          "s": "How did the author feel about the result of the art exam?",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者对美术考试结果的感受如何？"
-        },
-        {
-          "s": "Which word would best describe the author’s dream?",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "哪个词最能描述作者的梦？"
-        },
-        {
-          "s": "What does the author intend to do by challenging a hypothesis?",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者通过质疑一个假设，意图做什么？"
-        },
-        {
-          "s": "In the beginning, what drove the author to push forward with the research plan?",
-          "src": "2024北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起初，是什么推动作者继续推进研究计划？"
-        },
-        {
-          "s": "What was the solution by the adviser and the author after those repeated failures?",
-          "src": "2024北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在那些反复失败后，顾问和作者想出的解决办法是什么？"
-        },
-        {
-          "s": "> The adviser considered the author’s experience in the lab a groundbreaking success because publishable data had been produced.",
-          "src": "2024北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "> 顾问认为，作者在实验室的经验是一次开创性的成功，因为已经产生了可公布的数据。"
-        },
-        {
-          "s": "What is the author’s purpose in mentioning Fuzhou?",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者提到福州的目的是什么？"
-        },
-        {
-          "s": "What does the author suggest readers do with the practices offered in part two?",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者建议读者如何使用第二部分提供的实践练习？"
-        },
-        {
-          "s": "What is the author’s attitude toward Navajas’ studies?",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者对Navajas学习的态度如何？"
-        },
-        {
-          "s": "What does the author want to say by mentioning the e-reader?",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者提到电子阅读器想说明什么？"
-        },
-        {
-          "s": "And for that to happen, we also need to protect nature so that we can interact with it,” said Peter Kahn, a senior author of the study.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "而要做到这一点，我们还需要保护自然，这样我们才能与之互动，该研究的资深作者彼得·卡恩说。"
-        },
-        {
-          "s": "What phenomenon does the author describe at the beginning of the text?",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者在文章开头描述了什么现象？"
-        },
-        {
-          "s": "Who opened the door to philosophy for the author?",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "是谁为作者打开了哲学之门？"
-        },
-        {
-          "s": "Why does the author list great philosophers in paragraph 4?",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者为什么在第4段列举伟大的哲学家？"
-        },
-        {
-          "s": "What does the author like about The Socrates Express?",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者喜欢《苏格拉底快线》的什么？"
-        },
-        {
-          "s": "How does the author deal with the challenge as a landscape photographer in the Midwest?",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作为中西部的一名风景摄影师，作者是如何应对这一挑战的？"
-        },
-        {
-          "s": "What is the key to successful landscape photography according to the author?",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "根据作者的说法，成功的风景摄影的关键是什么？"
-        },
-        {
-          "s": "What can we infer from the author’s trip with friends to Devil’s Lake?",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从作者和朋友去魔鬼湖的那次旅行中，我们可以推断出什么？"
-        },
-        {
-          "s": "How does the author find his photos taken at Devil’s Lake?",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者觉得他在魔鬼湖拍的照片怎么样？"
-        },
-        {
-          "s": "What might the author continue talking about?",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者接下来可能会谈什么？"
-        },
-        {
-          "s": "What does the author indicate by mentioning Captain Cook in paragraph 2?",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者在第2段提到库克船长想说明什么？"
-        },
-        {
-          "s": "What was the attitude of the author’s father toward buying groceries with jars?",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者的父亲对用罐子买杂货持什么态度？"
-        },
-        {
-          "s": "What can we infer about the author?",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "关于作者我们能推断出什么？"
-        },
-        {
-          "s": "Why does the author mention Noa Ovadia in the first paragraph?",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者在第一段提到诺亚·奥瓦迪亚是为了什么？"
-        },
-        {
-          "s": "Why did the author think of joining the swimmers?",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者为什么考虑加入游泳者？"
-        },
-        {
-          "s": "What can be learnt about the author’s first dipping?",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "关于作者的第一次冷水浴能了解到什么？"
-        },
-        {
-          "s": "What change has cold water swimming brought about in the author?",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "冷水游泳给作者带来了什么变化？"
-        },
-        {
-          "s": "What message does the author most likely want to convey?",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者最可能想传达什么信息？"
-        },
-        {
-          "s": "According to the author, what increases our enjoyment of a piece of art?",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "根据作者的观点，什么增加了我们对一件艺术品的享受？"
-        },
-        {
-          "s": "As an award-winning cookbook author, Ms Young, now 66, has spent decades shopping the same way in New York’s Chinatown.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作为一位获奖食谱书作者，现年66岁的杨女士几十年来一直以同样的方式在纽约唐人街购物。"
-        },
-        {
-          "s": "What are the common elements in all forms of storytelling according to the author?",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "根据作者的说法，所有讲故事形式中的共同要素是什么？"
-        },
-        {
-          "s": "How did the author feel upon seeing the email sender’s name?",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "看到邮件发件人的名字时，作者是什么感受？"
-        },
-        {
-          "s": "Regarding Alan Smith’s defence of ALife, the author is      .",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "关于艾伦·史密斯对ALife的辩护，作者持      态度。"
-        },
-        {
-          "s": "What does the author want to show by telling the arugula story?",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者通过讲述芝麻菜的故事想要表达什么？"
-        },
-        {
-          "s": "What does the author think of himself?",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者如何看待自己？"
-        },
-        {
-          "s": "What can we learn about the author as a journalist?",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于作者作为记者，我们能了解到什么？"
-        },
-        {
-          "s": "Which statement will the author probably agree with?",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者可能会同意哪种说法？"
-        },
-        {
-          "s": "What did the author realize after entering school in Brooklyn?",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者进入布鲁克林的学校后意识到了什么？"
-        },
-        {
-          "s": "The author herself.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者本人。"
-        },
-        {
-          "s": "The author’s classmate.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者的同学。"
-        },
-        {
-          "s": "How did the summer job benefit the author?",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "暑期工作给作者带来了什么好处？"
-        },
-        {
-          "s": "As for systems thinking, which would the author agree with?",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于系统思维，作者会同意哪种说法？"
-        },
-        {
-          "s": "What does the author’s job involve?",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者的工作包括什么？"
-        },
-        {
-          "s": "Why does the author mention “beauty” in Paragraph 2?",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者在第2段提到\"美\"是为了什么？"
-        },
-        {
-          "s": "What does the author think of the methods of science?",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者如何看待科学方法？"
-        },
-        {
-          "s": "What did the author think of raising the tiger cubs at home?",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么决定把斑点和条纹送回动物园？"
-        },
-        {
-          "s": "What can we learn about the author soon after he moved to London?",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "关于作者刚搬到伦敦后不久我们能了解到什么？"
-        },
-        {
-          "s": "What can we infer about the author from the text?",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "从文章关于作者能推断出什么？"
-        },
-        {
-          "s": "According to Jessica Hagy, author of How to Be Interesting, it's not difficult to make yourself interesting at a dinner party.",
-          "src": "2021全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "据《如何变得有趣》一书的作者杰西卡·哈吉所说，在晚宴上让自己变得有趣并不难。"
-        },
-        {
-          "s": "\"We can rule out that the dogs simply distinguish between the pictures based on a simple cue, such as the sight of teeth,\" said study author Corsin Muller.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我们可以排除狗只是根据诸如看到牙齿这样简单的线索来区分这些图片的可能性，”研究作者Corsin Muller说。"
-        },
-        {
-          "s": "Why did the author's husband have banana pudding for his birthday?",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为什么作者丈夫生日那天吃的是香蕉布丁？"
-        },
-        {
-          "s": "The author made good puddings.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者做的布丁很好吃。"
-        },
-        {
-          "s": "Why does the author mention The Last Dance in the passage?",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者在文章中提到《最后的舞蹈》是为了什么？"
-        },
-        {
-          "s": "What does the author most likely want to tell us?",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者最想告诉我们什么？"
-        },
-        {
-          "s": "According to the author, a superior doctor is one who       .",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "根据作者，一位卓越的医生是那种___。"
-        },
-        {
-          "s": "What does the author intend to show with the example of Toni?",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者想通过托尼的例子说明什么？"
-        },
-        {
-          "s": "What was the author interested in when she was a little girl? (no more than 10 words)",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者小时候对什么感兴趣？（不超过10个词）"
-        },
-        {
-          "s": "How did the author feel when she was taking the part-time design course? (no more than 10 words)",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当她参加兼职设计课程时，作者有什么感受？（不超过10个词）"
-        },
-        {
-          "s": "What did the author do to get back to her creative life?",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者做了什么来回到创造性生活中？"
-        },
-        {
-          "s": "Do you consider the author as your role model?",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你认为作者是你的榜样吗？"
-        },
-        {
-          "s": "How did the author feel about joining the OIC project in the beginning？",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者一开始对加入OIC项目有什么感受？"
-        },
-        {
-          "s": "The author agrees with the message of the poem.",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者同意这首诗传达的信息。"
-        },
-        {
-          "s": "What can we infer about the author?",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "关于作者我们能推断出什么？"
-        },
-        {
-          "s": "Its author, Dr Henry Petroski, has long been writing about disasters.",
-          "src": "2020全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "其作者亨利·彼得罗斯基博士长期在写关于灾难的内容。"
-        },
-        {
-          "s": "It’s about the now and what one contributes to the now, because reading is a give and take between author and reader.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它关乎当下，以及一个人对当下的贡献，因为阅读是作者与读者之间的一种互动交流。"
-        },
-        {
-          "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但我想，虽然金钱确实美好且必不可少，但重读一位作者的作品，是读者能给予他们的最高回报。"
-        },
-        {
-          "s": "Why does the author like rereading?",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者为什么喜欢重读？"
-        },
-        {
-          "s": "What can we infer about the author from the text?",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从文中我们可以推断出关于作者的什么？"
-        },
-        {
-          "s": "What does the author call on other writers to do?",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者呼吁其他作家做什么？"
-        },
-        {
-          "s": "What is the author’s statement about multigenerational family based on?",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者关于多代同堂家庭的论断基于什么？"
-        },
-        {
-          "s": "Why was the author surprised at Juan’s question about the moon?",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者为什么对胡安关于月亮的问题感到惊讶？"
-        },
-        {
-          "s": "The author didn’t know how to answer.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者不知道如何回答。"
-        },
-        {
-          "s": "The author didn’t think Juan was sincere.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者认为Juan不真诚。"
-        },
-        {
-          "s": "What was the author’s initial purpose of collecting newspaper articles?",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者最初收集报纸文章的目的是什么？"
-        },
-        {
-          "s": "What do we know about the author from the first paragraph?",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "关于作者我们从第一段可以了解到什么？"
-        },
-        {
-          "s": "What does the author avoid doing in his work?",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者在他的工作中避免做什么？"
-        },
-        {
-          "s": "What does the author suggest readers do while reading the plays?",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者建议读者阅读剧本时做什么？"
-        },
-        {
-          "s": "What is the author's attitude towards the prospect of electric flying?",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者对电动飞行的前景持什么态度？"
-        },
-        {
-          "s": "Why did the author feel strange about herself after listening to the recording? (no more than 10 words)",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "听完录音后作者为什么觉得自己奇怪？（不超过10词）"
-        },
-        {
-          "s": "What changes offered a new start to the author after his family moved? （no more than 15 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "搬家后，是什么变化给了作者一个新的开始？（不超过15个词）"
-        },
-        {
-          "s": "According to Paragraph 3, what marked the turning point in the author's growth? （no more than 7 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据第3段，作者成长中的转折点是什么？（不超过7词）"
-        },
-        {
-          "s": "Why does the author mention museums? （    ）",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者为什么提到博物馆？（    ）"
-        },
-        {
-          "s": "What sort of girl was the author in her early years of elementary school?",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "作者在小学早期是什么样的女孩？"
-        },
-        {
-          "s": "Why does the author like doing volunteer work?",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "作者为什么喜欢做志愿工作？"
-        },
-        {
-          "s": "Many factors contributed to the decline, said Patrick Mclntyre, an ecologist who was the lead author of the study.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这项研究的领衔作者、生态学家帕特里克·麦金太尔说，许多因素导致了这一衰退。"
-        },
-        {
-          "s": "Jenn Berman, author of The A to Z Guide to Raising Happy and Confident Kids, says, \"We've gone to the opposite extreme of a few decades ago when parents tended to be more strict.\" By giving kids a lot of praise, parents think they're building their children's confidence, when, in fact, it may be just the opposite.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "《培养快乐自信孩子A到Z指南》的作者Jenn Berman说：\"我们已经走到了几十年前父母往往更严厉的那个极端的对立面。\"通过给孩子很多表扬，父母以为在建立孩子的自信，而实际上可能适得其反。"
-        },
-        {
-          "s": "If praise is sincere and focused on the effort not the outcome, you can give it as often as your child does something that deserves a verbal reward.\" We should especially recognize our children's efforts to push themselves and work hard to achieve a goal, \"says Donahue, author of Parenting Without Fear: Letting Go of Worry and Focusing on What Really Matters.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "如果赞美是真诚的，并且专注于努力而不是结果，那么你可以像孩子做一些值得口头奖励的事情一样频繁地给予赞美。” 我们应当特别承认我们的孩子努力推动自己并努力实现一个目标，即“无恐惧地养育子女：让忧心忡忡地去关注真正重要的事情”的作者多纳休(Donahue)说。"
-        },
-        {
-          "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）根据第3段，作者对路标的阅读表明____。"
-        },
-        {
-          "s": "（3）What was the author's view on factual reading？",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（3）作者对事实性阅读的看法是什么？"
-        },
-        {
-          "s": "（4）The author takes novel reading as a way to     ．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（4）作者把读小说当作一种___的方式。"
-        },
-        {
-          "s": "（5）What is the author's purpose in writing the passage？",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（4）作者在第5段想告诉我们什么？"
-        },
-        {
-          "s": "How does the author feel about the solutions to problem of robecalls?",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "作者对解决骚扰电话问题的办法感觉如何？"
-        },
-        {
-          "s": "What does the author intend to do in paragraph 4?",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者在第4段打算做什么？"
-        },
-        {
-          "s": "What does the author think of new devices?",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者如何看待新设备？"
-        },
-        {
-          "s": "What does the author seem to like about cherries?",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者似乎喜欢樱桃的什么？"
-        },
-        {
-          "s": "What is the author’s purpose in writing the text?",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者写这篇文章的目的是什么？"
-        },
-        {
-          "s": "（2）Why did the author refuse the help from the man in the house？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）为什么作者拒绝了房子里那个男人的帮助？"
-        },
-        {
-          "s": "（3）How did the author feel about being stared at by the people in the hall？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（3）作者对被大厅里的人盯着看有什么感觉？"
-        },
-        {
-          "s": "（4）Why did the author describe the real McNay museum in just a few words？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（4）作者为什么只用寥寥数语描述真正的麦克奈博物馆？"
-        },
-        {
-          "s": "（2）What idea does the author convey in Paragraph 3？",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）作者在第3段传达了什么观点？"
-        },
-        {
-          "s": "（5）In the passage， the author intends to tell us we should     ．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（5）在这篇文章中，作者想要告诉我们应该____。"
-        },
-        {
-          "s": "（3）How would you describe the author in terms of personalities according to Paragraph 4？（no more than 10 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（3）根据第4段，你会如何描述作者的性格？（不超过10词）"
-        },
-        {
-          "s": "What is unavoidable in the author’s rescue work according to paragraph 1?",
-          "src": "2017全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据第1段，作者的救援工作中什么是不可避免的？"
-        },
-        {
-          "s": "Why was the studio unwilling to give the role to author at first?",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么制片厂一开始不愿意把这个角色给作者？"
-        },
-        {
-          "s": "Why did Paul and the author have a lasting friendship?",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么保罗和作者之间有着持久的友谊？"
-        },
-        {
-          "s": "What is the author’s purpose in writing the test?",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者写这篇测试（文章）的目的是什么？"
-        },
-        {
-          "s": "What does the author mean by “the tables are turned” in paragraph 3?",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者在第3段中说『the tables are turned』是什么意思？"
-        },
-        {
-          "s": "What is the author’s attitude towards the Yellowstone wolf project？",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者对黄石狼项目持什么态度？"
-        },
-        {
-          "s": "Why did the author sit and listen to Mrs Stanley according to paragraph 3?",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据第3段，作者为什么坐下来听斯坦利太太说话？"
-        },
-        {
-          "s": "What does the author think people in a community should do?",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者认为社区里的人应该怎么做？"
-        },
-        {
-          "s": "What is the author’s purpose in writing the text?",
-          "src": "2017浙江11月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者写这篇文章的目的是什么？"
-        },
-        {
-          "s": "Why did Paul and the author have a lasting friendship?",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么保罗和作者有着长久的友谊？"
-        },
-        {
-          "s": "What is the author’s purpose in writing the test?",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者写这篇文章的目的是什么？"
-        },
-        {
-          "s": "What does the author mean by “the tables are turned” in paragraph 3?",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者在第3段中说『the tables are turned』是什么意思？"
-        },
-        {
-          "s": "What’s the author’s preferred solution to global warming?",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者对全球变暖偏好的解决方案是什么？"
-        },
-        {
-          "s": "What does the author intend to tell us?",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者打算告诉我们什么？"
-        },
-        {
-          "s": "What does the author’s experience show?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者的经历显示了什么？"
-        },
-        {
-          "s": "What phenomenon does the author point out in paragraph 1?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第一段指出了什么现象？"
-        },
-        {
-          "s": "How does the author present the issue in the first paragraph?",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第一段是如何呈现这一问题的？"
-        },
-        {
-          "s": "What does the author suggest visitors do in Mevagissey?",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者建议游客在 Mevagissey 做什么？"
-        },
-        {
-          "s": "What does the author think of the strategies she has been following?",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者如何看待她一直在采用的策略？"
-        },
-        {
-          "s": "Throughout the Junior year, what was the author’s major concern?",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在整个高三年级期间，作者主要担心的是什么？"
-        },
-        {
-          "s": "Which would best describe the author’s first group interview?",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "以下哪项最能描述作者的第一次小组面试？"
-        },
-        {
-          "s": "Why did the author start to use the “library”?",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者为什么开始使用这个“图书馆”？"
-        },
-        {
-          "s": "What does the author suggest readers do?",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者建议读者怎么做？"
-        },
-        {
-          "s": "What is the author’s purpose in writing Paragraph 4?",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者写第四段的目的是什么？"
-        },
-        {
-          "s": "What did the author find when reading Montaigne’s Essays?",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者在读蒙田的《随笔集》时发现了什么？"
-        },
-        {
-          "s": "What is the author’s purpose in writing the passage?",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者写这篇文章的目的是什么？"
-        },
-        {
-          "s": "Which of the following would the author encourage you to do?",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "以下哪项是作者会鼓励你去做的事情？"
-        },
-        {
-          "s": "What does the author intend to tell us?",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者打算告诉我们什么？"
-        },
-        {
-          "s": "What is the author’s purpose in writing the passage?",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者写这篇文章的目的是什么？"
-        },
-        {
-          "s": "Why does the author mention \"doctor\" and \"cheater\" in paragraph 2?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么在第2段提到“医生”和“骗子（cheater）”？"
-        },
-        {
-          "s": "Why did the author bring the tiger cubs home?",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为何把虎崽带回家？"
-        },
-        {
-          "s": "Why did the author decide to send Spot and Stripe back to the zoo?",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么决定把斯波特和斯特赖普送回动物园？"
-        },
-        {
-          "s": "Why did the author like to spend time in Southbank when he returned to London?",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者回到伦敦后，为什么喜欢在Southbank度过时光？"
-        },
-        {
-          "s": "What message does the author seem to convey in the text?",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者在文中似乎传达了什么信息？"
-        },
-        {
-          "s": "What does the author think of victors' standards for joining the genius club?",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者如何看待胜利者设定的进入天才俱乐部的标准？"
-        },
-        {
-          "s": "Why does the author discuss plastic straws in paragraph 3?",
-          "src": "2021全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么在第三段讨论塑料吸管？"
-        },
-        {
-          "s": "What was the author's purpose in having the conversation with the students?",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者与学生交谈的目的是什么？"
-        },
-        {
-          "s": "Which word best describes the author’s attitude to race walking?",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "哪个词最能描述作者对竞走的态度？"
-        },
-        {
-          "s": "What does the author want to tell us by the examples in paragraph 1?",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者想用第1段中的例子告诉我们什么？"
-        },
-        {
-          "s": "How did the author feel on his arrival in the Amazon?",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者到达亚马逊时感觉如何？"
-        },
-        {
-          "s": "Why did the author create the Shy and Mighty Society? (no more than 10 words)",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么作者创造了害羞和强大的社会？ （不超过10个字）"
-        },
-        {
-          "s": "（4）What does the author intend to tell us in Paragraph 5？",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "(4) 作者打算在第5段中告诉我们什么？"
-        },
-        {
-          "s": "Why did the author play the ball with Shepherd?",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者为什么和牧羊犬玩球？"
-        },
-        {
-          "s": "（2）Why did the author hurry back home without reaching the top of the mountain？ Give two reasons．（no more than 15 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）作者为什么没有到达山顶就匆忙回家？给出两个原因。（不超过15个词）"
-        },
-        {
-          "s": "What's opinion of the author towards shells for money?",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者对用贝壳作货币的看法是什么？"
-        },
-        {
-          "s": "Why did the author mention the P.E. class in his 7th year?",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者为什么在七年级时提到那节体育课？"
-        },
-        {
-          "s": "How was the author’s first marathon?",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者的第一次马拉松怎么样？"
-        },
-        {
-          "s": "As for driverless cars, what is the author’s major concern?",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "至于无人驾驶汽车，作者主要关心的是什么？"
-        },
-        {
-          "s": "What is the author’s attitude to the future of self-driving cars?",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者对自动驾驶汽车的未来持什么态度？"
-        },
-        {
-          "s": "How does the author sound in the last paragraph?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在最后一段中作者的语气是怎样的？"
-        },
-        {
-          "s": "Why was the studio unwilling to give the role to author at first?",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么制片厂一开始不愿意把这个角色给作者？"
-        },
-        {
-          "s": "What does the author think of the safety problem of super intelligent machines?",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者对超级智能机器的安全问题有什么看法?."
-        }
-      ]
+     "s": "What does the author try to illustrate by mentioning bottled water in paragraph 4?",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在第4段提到瓶装水是为了说明什么？"
     },
     {
-      "def": "the person who creates or starts sth, especially a plan or an idea （尤指计划或思想的）创造者，发起人",
-      "ex": [
-        {
-          "s": "What does the author try to illustrate by mentioning bottled water in paragraph 4?",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在第4段提到瓶装水是为了说明什么？"
-        },
-        {
-          "s": "Why did the author use the telephone box in 2006?",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "2006年，提交人为什么使用电话箱？"
-        },
-        {
-          "s": "What is the author's attitude to the popularization of emotional intelligence?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者对情商的普及持什么态度？"
-        },
-        {
-          "s": "What is the problem with the author’s children?",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者的孩子们有什么问题？"
-        },
-        {
-          "s": "C The author's grandchild.",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "禁品的主人。"
-        },
-        {
-          "s": "The author's grandchild.",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "C 它的桥面被车辆损坏"
-        },
-        {
-          "s": "But Smith was struck mainly by the fact that she didn't truly grasp any of the skills the author described.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "尽管史密斯确实拿到了最好的沙子，但用传统方式做事不仅仅是在玩弄法国泥巴。"
-        },
-        {
-          "s": "（1）What made the author start to climb up the stairs to the mountain top？（no more than 5 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（1）是什么让作者开始爬上通往山顶的台阶？（不超过5个词）"
-        },
-        {
-          "s": "Why did soda go up the author’s nose one time?",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "有一次汽水为什么会冲进作者的鼻子里？"
-        }
-      ]
+     "s": "Why did the author use the telephone box in 2006?",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "2006年，提交人为什么使用电话箱？"
+    },
+    {
+     "s": "What is the author's attitude to the popularization of emotional intelligence?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者对情商的普及持什么态度？"
+    },
+    {
+     "s": "What is the problem with the author’s children?",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者的孩子们有什么问题？"
+    },
+    {
+     "s": "C The author's grandchild.",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "禁品的主人。"
+    },
+    {
+     "s": "The author's grandchild.",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "C 它的桥面被车辆损坏"
+    },
+    {
+     "s": "But Smith was struck mainly by the fact that she didn't truly grasp any of the skills the author described.",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "尽管史密斯确实拿到了最好的沙子，但用传统方式做事不仅仅是在玩弄法国泥巴。"
+    },
+    {
+     "s": "（1）What made the author start to climb up the stairs to the mountain top？（no more than 5 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（1）是什么让作者开始爬上通往山顶的台阶？（不超过5个词）"
+    },
+    {
+     "s": "Why did soda go up the author’s nose one time?",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "有一次汽水为什么会冲进作者的鼻子里？"
     }
-  ],
-  "chunks": [
-    {
-      "en": "author feel",
-      "cn": "作者感到",
-      "type": "名词短语",
-      "count": 10
-    },
-    {
-      "en": "author realize",
-      "cn": "著者",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "about the author",
-      "cn": "关于作者",
-      "type": "介词短语",
-      "count": 10
-    },
-    {
-      "en": "according to the author",
-      "cn": "根据作者",
-      "type": "介词短语",
-      "count": 8
-    },
-    {
-      "en": "infer about the author",
-      "cn": "推断作者",
-      "type": "动词短语",
-      "count": 4
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "author feel",
+   "cn": "作者感到",
+   "type": "名词短语",
+   "count": 10
+  },
+  {
+   "en": "about the author",
+   "cn": "关于作者",
+   "type": "介词短语",
+   "count": 10
+  },
+  {
+   "en": "according to the author",
+   "cn": "根据作者",
+   "type": "介词短语",
+   "count": 8
+  },
+  {
+   "en": "infer about the author",
+   "cn": "推断作者",
+   "type": "动词短语",
+   "count": 4
+  }
+ ]
 }
