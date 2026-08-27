@@ -1,443 +1,437 @@
 {
-  "meta": {
-    "ph": "piːs; NAmE piːs",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;noun;noun;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "piːs; NAmE piːs",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;noun;noun;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "an amount of sth that has been cut or separated from the rest of it; a standard amount of sth 尤与 of 和不可数名词连用",
+   "ex": [
+    {
+     "s": "The piece of bread in the pan had turned black as well.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "锅里的那片面包也变黑了。"
+    },
+    {
+     "s": "The piece of bread in the pan had turned black as well.",
+     "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "锅里的那片面包也变黑了。"
+    },
+    {
+     "s": "First I cut the tomatoes into pieces but put them aside.",
+     "src": "2020全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "首先我把西红柿切成块，但把它们放在一边。"
+    },
+    {
+     "s": "Today, there are over 4,000 people in London waiting for such pieces of land.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "今天，伦敦有超过4000人在等待这样的小块土地。"
+    },
+    {
+     "s": "A piece of stone   8  (find) on a Dutch beach suggests that our extinct human relatives, known as Neanderthals,",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在荷兰海滩上___8___（find）的一块石头表明，我们已灭绝的人类近亲——尼安德特人，"
+    },
+    {
+     "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
+    },
+    {
+     "s": "For the second test, in one case the thin actor took two pieces of candy from the snack bowls.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第二项测试中，一种情况是瘦演员从零食碗里拿了两块糖。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "one of the bits or parts that sth breaks into 碎片；碎块",
+   "ex": [
     {
-      "def": "an amount of sth that has been cut or separated from the rest of it; a standard amount of sth 尤与 of 和不可数名词连用",
-      "ex": [
-        {
-          "s": "The piece of bread in the pan had turned black as well.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "锅里的那片面包也变黑了。"
-        },
-        {
-          "s": "The piece of bread in the pan had turned black as well.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "锅里的那片面包也变黑了。"
-        },
-        {
-          "s": "First I cut the tomatoes into pieces but put them aside.",
-          "src": "2020全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "首先我把西红柿切成块，但把它们放在一边。"
-        },
-        {
-          "s": "Today, there are over 4,000 people in London waiting for such pieces of land.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "今天，伦敦有超过4000人在等待这样的小块土地。"
-        },
-        {
-          "s": "A piece of stone   8  (find) on a Dutch beach suggests that our extinct human relatives, known as Neanderthals,",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在荷兰海滩上___8___（find）的一块石头表明，我们已灭绝的人类近亲——尼安德特人，"
-        },
-        {
-          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
-        },
-        {
-          "s": "For the second test, in one case the thin actor took two pieces of candy from the snack bowls.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二项测试中，一种情况是瘦演员从零食碗里拿了两块糖。"
-        }
-      ]
+     "s": "I stuffed a piece of cloth into the hole and took her outside, closing the door securely behind me.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我把一块布塞进洞里，把她带到外面，随手把门牢牢关上。"
     },
     {
-      "def": "one of the bits or parts that sth breaks into 碎片；碎块",
-      "ex": [
-        {
-          "s": "I stuffed a piece of cloth into the hole and took her outside, closing the door securely behind me.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我把一块布塞进洞里，把她带到外面，随手把门牢牢关上。"
-        },
-        {
-          "s": "It burst into hundreds of pieces.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它碎成了几百片。"
-        },
-        {
-          "s": "Tiny pieces of glass were everywhere.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "细小的玻璃碎片到处都是。"
-        },
-        {
-          "s": "Although my daughter didn’t win, she did help expose one of the worst pieces of advice I have ever given.",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "尽管我女儿没有赢，但她确实帮我暴露了我曾给过的最糟糕的建议之一。"
-        },
-        {
-          "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
-        },
-        {
-          "s": "Jenna threw the burnt piece into the sink and put in the other slice of bread.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
-        },
-        {
-          "s": "Jenna threw the burnt piece into the  sink and put in the other slice of bread.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
-        }
-      ]
+     "s": "It burst into hundreds of pieces.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它碎成了几百片。"
     },
     {
-      "def": "one of the parts that sth is made of 零件；部件",
-      "ex": [
-        {
-          "s": "These pieces can be folded into a neat little pack and fastened on your belt.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些部件可以折叠成一个小巧整齐的包，扣在你的腰带上。"
-        },
-        {
-          "s": "At first, everything went wrong — the plastic broke, the printer jammed, and the pieces didn’t fit together.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "几周后，我又去了农场。"
-        },
-        {
-          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
-        }
-      ]
+     "s": "Tiny pieces of glass were everywhere.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "细小的玻璃碎片到处都是。"
     },
     {
-      "def": "a single item of a particular type, especially one that forms part of a set 尤与 of 和不可数名词连用",
-      "ex": []
+     "s": "Although my daughter didn’t win, she did help expose one of the worst pieces of advice I have ever given.",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "尽管我女儿没有赢，但她确实帮我暴露了我曾给过的最糟糕的建议之一。"
     },
     {
-      "def": "条；项；点",
-      "ex": [
-        {
-          "s": "We could also say The butterfly is aware of the time of day and the position of the sun in the sky, so it can use these two pieces of information to find out which way to go.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我们也可以说，蝴蝶能察觉一天中的时间和太阳在天空中的位置，从而利用这两点信息来判断该往哪个方向飞。"
-        },
-        {
-          "s": "When scanning a text, you read it quickly in order to find a specific piece of information.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "在扫描一个文本时，您会快速读取，以便找到一个特定的信息片段。"
-        }
-      ]
+     "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
     },
     {
-      "def": "a single item of writing, art, music, etc. that sb has produced or created （文章、艺术品、音乐作品等的）一件，一篇，一首，一支",
-      "ex": [
-        {
-          "s": "Give each piece a rating.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "给每件作品打分。"
-        },
-        {
-          "s": "As a new unit started, I asked everyone to write a persuasive piece on a health-related topic of their choice.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "随着新单元开始，我让每个人就自己选择的健康相关话题写一篇说服性文章。"
-        },
-        {
-          "s": "We begin on 1st June with Manchester Camerata and Nicola Benedetti, presenting an amazing programme of Mozart pieces.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们于6月1日开幕，由曼彻斯特室内乐团和尼古拉·本内代蒂呈现一套精彩的莫扎特作品节目。"
-        },
-        {
-          "s": "At the beginning of the year, the artist built a piece called“Strawpocalypse,” a pair of 10-foot-tall plastic waves, frozen mid-crash.",
-          "src": "2021全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "今年年初，这位艺术家创作了一件名为吸管末日的作品，一对10英尺高的塑料波浪，定格在撞击的瞬间。"
-        },
-        {
-          "s": "As the author explains, this is neither a travel nor a history book, or even a piece of reportage.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "正如作者所解释的，这既不是一本旅行书，也不是历史书，甚至不是一篇报道文学。"
-        },
-        {
-          "s": "This isn’t as hard as it    62   (sound), and it is far better than any other method because you improve your vocabulary while    63   (read) an interesting piece of literature.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这并不像它___62___（听起来）那么难，而且远比任何其他方法好，因为你在___63___（阅读）一篇有趣的文学作品时提高了词汇量。"
-        },
-        {
-          "s": "This can be a work in progress rather than a completed piece.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这可以是创作中的作品，而不是已完成的最终稿。"
-        },
-        {
-          "s": "The style of the first paragraph also needs to set the tone of the whole piece.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "第一段的风格也需要设定整段的基调。"
-        },
-        {
-          "s": "This is how a piece of art makes you feel, and whether or not you appreciate or enjoy that feeling.",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这是一件艺术品带给你的感受，以及你是否欣赏或享受那种感觉。"
-        },
-        {
-          "s": "This is to do with how we can connect with a piece of art and what meaning we can create in it.",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这与我们如何与一件艺术品产生连接，以及能在其中创造出什么意义有关。"
-        },
-        {
-          "s": "According to the author, what increases our enjoyment of a piece of art?",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "根据作者的观点，什么增加了我们对一件艺术品的享受？"
-        },
-        {
-          "s": "Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一些音乐片段可以进行40分钟，需要长达50页的翻转，包括重复段落的回转。"
-        },
-        {
-          "s": "It may be a stand-alone piece such as a poem or short story or a part taken from a larger piece.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它可以是一件独立的作品，比如一首诗或一篇短篇小说，也可以是从更长作品中截取的一部分。"
-        },
-        {
-          "s": "Make a copy of each piece.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "复制每件作品。"
-        },
-        {
-          "s": "Even if there isn’t a registry, a good housewarming gift is something to decorate the new house with, like a piece of art or a plant.",
-          "src": "2020全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "即使没有登记单，一份好的乔迁礼物是用来装饰新家的东西，比如一件艺术品或一盆植物。"
-        }
-      ]
+     "s": "Jenna threw the burnt piece into the sink and put in the other slice of bread.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
     },
     {
-      "def": "an article in a newspaper or magazine or a broadcast on television or radio （新闻传媒的）文章，报道",
-      "ex": [
-        {
-          "s": "However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view identical pieces.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，心理学家已经证明，当成年人阅读新闻故事时，比起聆听或观看相同的片段，他们对内容的记忆更多。"
-        }
-      ]
-    },
-    {
-      "def": "a coin of the value mentioned （某价值的）硬币",
-      "ex": [
-        {
-          "s": "Just a specially printed piece of paper and hemp that we've assigned value to — and probably less durable over time than those shells.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "只是一张特别印制的纸和我们赋予价值的麻纤维——而且随着时间的推移可能还不如那些贝壳耐用。"
-        }
-      ]
-    },
-    {
-      "def": "one of the small figures or objects that you move around in games such as chess 棋子",
-      "ex": [
-        {
-          "s": "It’s not really a good idea to use too many small color pieces",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "使用太多小面积色块并不是个好主意"
-        },
-        {
-          "s": "Future 3D food printers could make processed food healthier． Hod Lipson， a professor at Columbia University， said， \"Food printing could allow consumer to print food with customized nutritional content， like vitamins． So instead of eating a piece of yesterday 's bread from the supermarket， you'd eat something baked just for you on demand．\"",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "未来的3D食品打印机可以让加工食品更健康。哥伦比亚大学教授霍德·利普森说：“食品打印可以让消费者打印出具有定制营养含量的食物，比如维生素。所以，你不必吃超市里昨天烤的面包，而是可以随时吃到专门为你现烤的食物。”"
-        }
-      ]
-    },
-    {
-      "def": "a part or share of sth 部分；份额",
-      "ex": [
-        {
-          "s": "“I actually think the medicine is only a small piece for some problems,” says Julie Good, director of pain management services at LPCH.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“其实我认为，对一些问题来说，药物只是很小的一部分，”LPCH疼痛管理服务主任Julie Good说。"
-        }
-      ]
-    },
-    {
-      "def": "a gun 枪支；枪",
-      "ex": []
-    },
-    {
-      "def": "a short distance 短距离；一小段距离",
-      "ex": []
-    },
-    {
-      "def": "to become very old and in bad condition because of long use 通常用于进行时",
-      "ex": [
-        {
-          "s": "Medium color choices are generally furniture pieces such as sofas, dinner tables or bookshelves    39   .",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "中等色彩选择通常是沙发、餐桌或书架等家具____39____。"
-        }
-      ]
-    },
-    {
-      "def": "to stop working; to be destroyed 人、机构、计划等",
-      "ex": [
-        {
-          "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
-        }
-      ]
-    },
-    {
-      "def": "all the same or similar 一模一样；相仿",
-      "ex": [
-        {
-          "s": "A bout one year ago, he got this new piece of tech which is like a test tube.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "大约一年前，他得到了这个像试管一样的新科技产品。"
-        },
-        {
-          "s": "The results were similar to the first test: the participants followed suit but took significantly more candy when the thin actor took 30 pieces.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "结果与第一次测试相似：参与者们纷纷效仿，但当瘦演员拿30块糖果时，他们拿的糖果明显更多。"
-        }
-      ]
-    },
-    {
-      "def": "all at the same time 同时；一起",
-      "ex": [
-        {
-          "s": "These two pieces of information - the time of day and the point where the sun is in the sky - allow the butterfly to determine the way to go.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这两个信息--一天中的时间和太阳在天空中的位置--让蝴蝶决定前进的方向。"
-        }
-      ]
-    },
-    {
-      "def": "to understand a story, situation, etc. by taking all the facts and details about it and putting them together 组合资料（以便了解情况）",
-      "ex": [
-        {
-          "s": "The movements of the black and white pieces reflect the basic ideas of Eastern philosophy, according to Tu Ningning, who is in charge of the exhibition.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "据展览负责人涂宁宁介绍，黑白棋子的走法反映了东方哲学的基本理念。"
-        },
-        {
-          "s": "In the other case, she took 30 pieces.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在另一种情况下，她拿了30块。"
-        }
-      ]
-    },
-    {
-      "def": "to put all the separate parts of sth together to make a complete whole 拼凑；拼合",
-      "ex": []
+     "s": "Jenna threw the burnt piece into the  sink and put in the other slice of bread.",
+     "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "詹娜把烤焦的那片扔进   水池，又放进去另一片面包。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "one of the parts that sth is made of 零件；部件",
+   "ex": [
     {
-      "en": "a piece of art",
-      "cn": "一件艺术品",
-      "type": "介词短语",
-      "count": 4
+     "s": "These pieces can be folded into a neat little pack and fastened on your belt.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这些部件可以折叠成一个小巧整齐的包，扣在你的腰带上。"
     },
     {
-      "en": "pieces of information",
-      "cn": "几条信息",
-      "type": "名词短语",
-      "count": 3
+     "s": "At first, everything went wrong — the plastic broke, the printer jammed, and the pieces didn’t fit together.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "几周后，我又去了农场。"
     },
     {
-      "en": "two pieces",
-      "cn": "两块",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "pieces of land",
-      "cn": "几块土地",
-      "type": "介词短语",
-      "count": 2
+     "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a single item of a particular type, especially one that forms part of a set 尤与 of 和不可数名词连用",
+   "ex": []
+  },
+  {
+   "def": "条；项；点",
+   "ex": [
+    {
+     "s": "We could also say The butterfly is aware of the time of day and the position of the sun in the sky, so it can use these two pieces of information to find out which way to go.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我们也可以说，蝴蝶能察觉一天中的时间和太阳在天空中的位置，从而利用这两点信息来判断该往哪个方向飞。"
+    },
+    {
+     "s": "When scanning a text, you read it quickly in order to find a specific piece of information.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "在扫描一个文本时，您会快速读取，以便找到一个特定的信息片段。"
+    }
+   ]
+  },
+  {
+   "def": "a single item of writing, art, music, etc. that sb has produced or created （文章、艺术品、音乐作品等的）一件，一篇，一首，一支",
+   "ex": [
+    {
+     "s": "Give each piece a rating.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "给每件作品打分。"
+    },
+    {
+     "s": "As a new unit started, I asked everyone to write a persuasive piece on a health-related topic of their choice.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "随着新单元开始，我让每个人就自己选择的健康相关话题写一篇说服性文章。"
+    },
+    {
+     "s": "We begin on 1st June with Manchester Camerata and Nicola Benedetti, presenting an amazing programme of Mozart pieces.",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我们于6月1日开幕，由曼彻斯特室内乐团和尼古拉·本内代蒂呈现一套精彩的莫扎特作品节目。"
+    },
+    {
+     "s": "At the beginning of the year, the artist built a piece called“Strawpocalypse,” a pair of 10-foot-tall plastic waves, frozen mid-crash.",
+     "src": "2021全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "今年年初，这位艺术家创作了一件名为吸管末日的作品，一对10英尺高的塑料波浪，定格在撞击的瞬间。"
+    },
+    {
+     "s": "As the author explains, this is neither a travel nor a history book, or even a piece of reportage.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "正如作者所解释的，这既不是一本旅行书，也不是历史书，甚至不是一篇报道文学。"
+    },
+    {
+     "s": "This isn’t as hard as it    62   (sound), and it is far better than any other method because you improve your vocabulary while    63   (read) an interesting piece of literature.",
+     "src": "2017浙江11月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这并不像它___62___（听起来）那么难，而且远比任何其他方法好，因为你在___63___（阅读）一篇有趣的文学作品时提高了词汇量。"
+    },
+    {
+     "s": "This can be a work in progress rather than a completed piece.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这可以是创作中的作品，而不是已完成的最终稿。"
+    },
+    {
+     "s": "The style of the first paragraph also needs to set the tone of the whole piece.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "year": "",
+     "t": "第一段的风格也需要设定整段的基调。"
+    },
+    {
+     "s": "This is how a piece of art makes you feel, and whether or not you appreciate or enjoy that feeling.",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这是一件艺术品带给你的感受，以及你是否欣赏或享受那种感觉。"
+    },
+    {
+     "s": "This is to do with how we can connect with a piece of art and what meaning we can create in it.",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这与我们如何与一件艺术品产生连接，以及能在其中创造出什么意义有关。"
+    },
+    {
+     "s": "According to the author, what increases our enjoyment of a piece of art?",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "根据作者的观点，什么增加了我们对一件艺术品的享受？"
+    },
+    {
+     "s": "Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "一些音乐片段可以进行40分钟，需要长达50页的翻转，包括重复段落的回转。"
+    },
+    {
+     "s": "It may be a stand-alone piece such as a poem or short story or a part taken from a larger piece.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它可以是一件独立的作品，比如一首诗或一篇短篇小说，也可以是从更长作品中截取的一部分。"
+    },
+    {
+     "s": "Make a copy of each piece.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "复制每件作品。"
+    },
+    {
+     "s": "Even if there isn’t a registry, a good housewarming gift is something to decorate the new house with, like a piece of art or a plant.",
+     "src": "2020全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "即使没有登记单，一份好的乔迁礼物是用来装饰新家的东西，比如一件艺术品或一盆植物。"
+    }
+   ]
+  },
+  {
+   "def": "an article in a newspaper or magazine or a broadcast on television or radio （新闻传媒的）文章，报道",
+   "ex": [
+    {
+     "s": "However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view identical pieces.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "然而，心理学家已经证明，当成年人阅读新闻故事时，比起聆听或观看相同的片段，他们对内容的记忆更多。"
+    }
+   ]
+  },
+  {
+   "def": "a coin of the value mentioned （某价值的）硬币",
+   "ex": [
+    {
+     "s": "Just a specially printed piece of paper and hemp that we've assigned value to — and probably less durable over time than those shells.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "只是一张特别印制的纸和我们赋予价值的麻纤维——而且随着时间的推移可能还不如那些贝壳耐用。"
+    }
+   ]
+  },
+  {
+   "def": "one of the small figures or objects that you move around in games such as chess 棋子",
+   "ex": [
+    {
+     "s": "It’s not really a good idea to use too many small color pieces",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "使用太多小面积色块并不是个好主意"
+    },
+    {
+     "s": "Future 3D food printers could make processed food healthier． Hod Lipson， a professor at Columbia University， said， \"Food printing could allow consumer to print food with customized nutritional content， like vitamins． So instead of eating a piece of yesterday 's bread from the supermarket， you'd eat something baked just for you on demand．\"",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "未来的3D食品打印机可以让加工食品更健康。哥伦比亚大学教授霍德·利普森说：“食品打印可以让消费者打印出具有定制营养含量的食物，比如维生素。所以，你不必吃超市里昨天烤的面包，而是可以随时吃到专门为你现烤的食物。”"
+    }
+   ]
+  },
+  {
+   "def": "a part or share of sth 部分；份额",
+   "ex": [
+    {
+     "s": "“I actually think the medicine is only a small piece for some problems,” says Julie Good, director of pain management services at LPCH.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "“其实我认为，对一些问题来说，药物只是很小的一部分，”LPCH疼痛管理服务主任Julie Good说。"
+    }
+   ]
+  },
+  {
+   "def": "a gun 枪支；枪",
+   "ex": []
+  },
+  {
+   "def": "a short distance 短距离；一小段距离",
+   "ex": []
+  },
+  {
+   "def": "to become very old and in bad condition because of long use 通常用于进行时",
+   "ex": [
+    {
+     "s": "Medium color choices are generally furniture pieces such as sofas, dinner tables or bookshelves    39   .",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "中等色彩选择通常是沙发、餐桌或书架等家具____39____。"
+    }
+   ]
+  },
+  {
+   "def": "to stop working; to be destroyed 人、机构、计划等",
+   "ex": [
+    {
+     "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
+    }
+   ]
+  },
+  {
+   "def": "all the same or similar 一模一样；相仿",
+   "ex": [
+    {
+     "s": "A bout one year ago, he got this new piece of tech which is like a test tube.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "大约一年前，他得到了这个像试管一样的新科技产品。"
+    },
+    {
+     "s": "The results were similar to the first test: the participants followed suit but took significantly more candy when the thin actor took 30 pieces.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "结果与第一次测试相似：参与者们纷纷效仿，但当瘦演员拿30块糖果时，他们拿的糖果明显更多。"
+    }
+   ]
+  },
+  {
+   "def": "all at the same time 同时；一起",
+   "ex": [
+    {
+     "s": "These two pieces of information - the time of day and the point where the sun is in the sky - allow the butterfly to determine the way to go.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "这两个信息--一天中的时间和太阳在天空中的位置--让蝴蝶决定前进的方向。"
+    }
+   ]
+  },
+  {
+   "def": "to understand a story, situation, etc. by taking all the facts and details about it and putting them together 组合资料（以便了解情况）",
+   "ex": [
+    {
+     "s": "The movements of the black and white pieces reflect the basic ideas of Eastern philosophy, according to Tu Ningning, who is in charge of the exhibition.",
+     "src": "2025新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "据展览负责人涂宁宁介绍，黑白棋子的走法反映了东方哲学的基本理念。"
+    },
+    {
+     "s": "In the other case, she took 30 pieces.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在另一种情况下，她拿了30块。"
+    }
+   ]
+  },
+  {
+   "def": "to put all the separate parts of sth together to make a complete whole 拼凑；拼合",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "a piece of art",
+   "cn": "一件艺术品",
+   "type": "介词短语",
+   "count": 4
+  },
+  {
+   "en": "pieces of information",
+   "cn": "几条信息",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "pieces of land",
+   "cn": "几块土地",
+   "type": "介词短语",
+   "count": 2
+  }
+ ]
 }
