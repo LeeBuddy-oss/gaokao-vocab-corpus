@@ -1,161 +1,154 @@
 {
-  "meta": {
-    "ph": "fɜːm; NAmE fɜːrm",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "fɜːm; NAmE fɜːrm",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "fairly hard; not easy to press into a different shape 坚固的；坚硬的；结实的",
+   "ex": [
+    {
+     "s": "The firm went broke and left her looking for a new job.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "公司破产了，她不得不找一份新工作。"
+    },
+    {
+     "s": "With help from Tesla, Westinghouse's firm developed a system using alternating current, which soon became the major forms of power delivery.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在特斯拉的帮助下，Westinghouse 的公司开发了一种使用交流电的系统，很快成为电力输送的主要形式。"
+    },
+    {
+     "s": "He also answered my questions about PyQuantum, the firm he co-founded in 2016.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他还回答了我关于PyQuantum的问题，那是他2016年共同创立的公司。"
+    },
+    {
+     "s": "Stories like that are more common in parts of the world where multigenerational living is more firmly rooted.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这样的故事在世界多代同堂更为根深蒂固的地区更为常见。"
+    },
+    {
+     "s": "Bradford sold the building and land to a local development firm, which plans to build a shopping complex on the land where the theater is located.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "布拉德福德把大楼和土地卖给了当地一家开发公司，该公司计划在剧院所在的土地上建一个购物中心。"
+    },
+    {
+     "s": "The most valuable firms are Google, Amazon, Facebook and Microsoft.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "最有价值的公司是谷歌、亚马逊、Facebook和微软。"
+    },
+    {
+     "s": "Google’s idea is popular among data firms.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "谷歌的想法在数据公司中很受欢迎。"
+    },
+    {
+     "s": "favour bigger firmsD. charge higher prices",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "偏爱大公司D. 收取更高的价格"
+    },
+    {
+     "s": "Breaking up firms like Google into five small ones would not stop remaking themselves: in time, one of them would become great again.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "像谷歌这样的公司即使被拆分成五家小公司，也无法阻止它们重新崛起：迟早其中一家会再次壮大。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "not likely to change 坚定的；确定的；坚决的",
+   "ex": [
     {
-      "def": "fairly hard; not easy to press into a different shape 坚固的；坚硬的；结实的",
-      "ex": [
-        {
-          "s": "The firm went broke and left her looking for a new job.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "公司破产了，她不得不找一份新工作。"
-        },
-        {
-          "s": "With help from Tesla, Westinghouse's firm developed a system using alternating current, which soon became the major forms of power delivery.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在特斯拉的帮助下，Westinghouse 的公司开发了一种使用交流电的系统，很快成为电力输送的主要形式。"
-        },
-        {
-          "s": "He also answered my questions about PyQuantum, the firm he co-founded in 2016.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他还回答了我关于PyQuantum的问题，那是他2016年共同创立的公司。"
-        },
-        {
-          "s": "Stories like that are more common in parts of the world where multigenerational living is more firmly rooted.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这样的故事在世界多代同堂更为根深蒂固的地区更为常见。"
-        },
-        {
-          "s": "Bradford sold the building and land to a local development firm, which plans to build a shopping complex on the land where the theater is located.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "布拉德福德把大楼和土地卖给了当地一家开发公司，该公司计划在剧院所在的土地上建一个购物中心。"
-        },
-        {
-          "s": "The most valuable firms are Google, Amazon, Facebook and Microsoft.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "最有价值的公司是谷歌、亚马逊、Facebook和微软。"
-        },
-        {
-          "s": "Google’s idea is popular among data firms.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "谷歌的想法在数据公司中很受欢迎。"
-        },
-        {
-          "s": "favour bigger firmsD. charge higher prices",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "偏爱大公司D. 收取更高的价格"
-        },
-        {
-          "s": "Breaking up firms like Google into five small ones would not stop remaking themselves: in time, one of them would become great again.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "像谷歌这样的公司即使被拆分成五家小公司，也无法阻止它们重新崛起：迟早其中一家会再次壮大。"
-        }
-      ]
+     "s": "Patience, they say, is what I must now choose for my guide, and I have done so - I hope my courage will remain firm to continue until the bitter end.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "人们说，耐心是我此刻必须择以为向导的品格，我已然如此——但愿我的勇气能坚贞不渝，坚持到苦涩的终局。"
     },
     {
-      "def": "not likely to change 坚定的；确定的；坚决的",
-      "ex": [
-        {
-          "s": "Patience, they say, is what I must now choose for my guide, and I have done so - I hope my courage will remain firm to continue until the bitter end.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "人们说，耐心是我此刻必须择以为向导的品格，我已然如此——但愿我的勇气能坚贞不渝，坚持到苦涩的终局。"
-        },
-        {
-          "s": "They also had to have a strong to finish what they had started no matter how hard it was, great personal discipline, and a firm to the other members of the team.",
-          "src": "人教选必3 U4",
-          "cat": "renjiao",
-          "t": "他们还必须拥有一种无论多么困难都要完成已经开始的事情的强大意志、极强的个人自律，以及对团队其他成员的坚定承诺。"
-        },
-        {
-          "s": "In the essay, he wondered if it was possible to find government officials who would be firm in their desire to look after the needs of the common people, and not worry about their own personal welfare.",
-          "src": "人教选必3 U5",
-          "cat": "renjiao",
-          "t": "在这篇文章中，他思考是否可能找到那些坚定地致力于照顾百姓需求、而不担心自己个人福利的政府官员。"
-        }
-      ]
+     "s": "They also had to have a strong to finish what they had started no matter how hard it was, great personal discipline, and a firm to the other members of the team.",
+     "src": "人教选必3 U4",
+     "cat": "renjiao",
+     "t": "他们还必须拥有一种无论多么困难都要完成已经开始的事情的强大意志、极强的个人自律，以及对团队其他成员的坚定承诺。"
     },
     {
-      "def": "strongly fixed in place 牢固的；稳固的",
-      "ex": []
-    },
-    {
-      "def": "strong and steady 声音或手势",
-      "ex": []
-    },
-    {
-      "def": "strong and in control 行为、处境或理解",
-      "ex": []
-    },
-    {
-      "def": "not lower than another 货币等",
-      "ex": [
-        {
-          "s": "She’ll join another firm.",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她将加入另一家公司。"
-        },
-        {
-          "s": "Instead, lay the child face down on your lap with the head lower than the rest of his body, and then give firm slaps to his upper back until he can breathe again.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "相反，把孩子面朝下放在你的大腿上，头部低于身体其他部分，然后用力拍打他的上背部，直到他能再次呼吸。"
-        }
-      ]
-    },
-    {
-      "def": "to make sth become stronger or harder 使强壮；使坚固；使坚实",
-      "ex": []
-    },
-    {
-      "def": "to become steady or rise steadily 股票、物价等",
-      "ex": []
-    },
-    {
-      "def": "to make arrangements more final and fixed 最后落实；敲定",
-      "ex": [
-        {
-          "s": "Bill: Working as a clerk at my dad's insurance firm?",
-          "src": "外研社B7 U1",
-          "cat": "waiyan",
-          "t": "比尔：在我爸爸的保险公司当职员？"
-        }
-      ]
-    },
-    {
-      "def": "to make sth harder or more solid 使坚固；使坚硬；使坚实",
-      "ex": []
+     "s": "In the essay, he wondered if it was possible to find government officials who would be firm in their desire to look after the needs of the common people, and not worry about their own personal welfare.",
+     "src": "人教选必3 U5",
+     "cat": "renjiao",
+     "t": "在这篇文章中，他思考是否可能找到那些坚定地致力于照顾百姓需求、而不担心自己个人福利的政府官员。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "strongly fixed in place 牢固的；稳固的",
+   "ex": []
+  },
+  {
+   "def": "strong and steady 声音或手势",
+   "ex": []
+  },
+  {
+   "def": "strong and in control 行为、处境或理解",
+   "ex": []
+  },
+  {
+   "def": "not lower than another 货币等",
+   "ex": [
     {
-      "en": "firm to",
-      "cn": "坚固",
-      "type": "名词短语",
-      "count": 2
+     "s": "She’ll join another firm.",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她将加入另一家公司。"
+    },
+    {
+     "s": "Instead, lay the child face down on your lap with the head lower than the rest of his body, and then give firm slaps to his upper back until he can breathe again.",
+     "src": "人教选必2 U5",
+     "cat": "renjiao",
+     "t": "相反，把孩子面朝下放在你的大腿上，头部低于身体其他部分，然后用力拍打他的上背部，直到他能再次呼吸。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to make sth become stronger or harder 使强壮；使坚固；使坚实",
+   "ex": []
+  },
+  {
+   "def": "to become steady or rise steadily 股票、物价等",
+   "ex": []
+  },
+  {
+   "def": "to make arrangements more final and fixed 最后落实；敲定",
+   "ex": [
+    {
+     "s": "Bill: Working as a clerk at my dad's insurance firm?",
+     "src": "外研社B7 U1",
+     "cat": "waiyan",
+     "t": "比尔：在我爸爸的保险公司当职员？"
+    }
+   ]
+  },
+  {
+   "def": "to make sth harder or more solid 使坚固；使坚硬；使坚实",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
