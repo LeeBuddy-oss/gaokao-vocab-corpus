@@ -1,135 +1,129 @@
 {
-  "meta": {
-    "ph": "ˈhaʊshəʊld; NAmE ˈhaʊshoʊld",
-    "pos": "noun",
-    "stars": "★★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈhaʊshəʊld; NAmE ˈhaʊshoʊld",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "all the people living together in a house or flat/apartment 一家人；家庭；同住一所（或一套）房子的人adj.",
+   "ex": [
     {
-      "def": "all the people living together in a house or flat/apartment 一家人；家庭；同住一所（或一套）房子的人adj.",
-      "ex": [
-        {
-          "s": "I’ve learned a few things along the way though, which I hope you’ll find encouraging if you’re doing your best to figure out how you can make the change in a not-always-supportive household.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "不过，在这一过程中我学到了一些东西，如果你正努力在一个并非总是支持你的家庭里弄清楚如何做出改变，我希望这些能给你鼓励。"
-        },
-        {
-          "s": "Perhaps your household won’t entirely make the switch, but you may have some control over your own personal spaces to make the changes you desire.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "也许你的家庭不会完全转变，但你可能对自己的个人空间有一些控制权来做你想做的改变。"
-        },
-        {
-          "s": "As you make your lifestyle changes, you may find yourself wanting to speak up for yourself if others comment on what you’re doing, which can turn itself into a whole household debate.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当你做出生活方式改变时，如果别人评论你的做法，你可能会想为自己发声，这可能演变成全家的一场争论。"
-        },
-        {
-          "s": "How to live a zero waste lifestyle in a household.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如何在一个家庭里过零浪费的生活。"
-        },
-        {
-          "s": "Age isn't the only factor; I'd say it's also to do with the makeup of your household.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "年龄不是唯一的因素；我想这与你的家庭成员构成也有关系。"
-        },
-        {
-          "s": "I’m glad you will be contributing to the household.\" My dad’s words made me realize that my earnings might not be mine to do with as I wished.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我很高兴你能为这个家庭贡献力量。” 我父亲的话让我意识到，我的收入可能不是按我的意愿来支付的。"
-        },
-        {
-          "s": "Official reports suggest that the number of households with three generations living together had risen from 325,000 in 2002 to 419,000 in 2013.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "官方报告显示，三代同堂的家庭数量从2002年的325,000户增加到2013年的419,000户。"
-        },
-        {
-          "s": "It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991.The total number of all multigenerational households in Britain is thought to be about 1.8 million.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "据说，25-34岁的人中约20%和父母同住，而1991年这一比例是16%。英国所有多代同堂家庭的总数估计约为180万。"
-        },
-        {
-          "s": "With food our biggest weekly household expense, Susanna and Matt spend time with a different family each week.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "由于食物是我们每周最大的家庭开支，苏珊娜和马特每周与一户不同的家庭共度时光。"
-        },
-        {
-          "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
-        },
-        {
-          "s": "The budget line is an elementary concept that most consumers understand intuitively without a need for graphs and equations — it's the household budget, for example.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "预算线是一个基本概念，多数消费者凭直觉就能理解，无需图表和方程——比如家庭预算。"
-        },
-        {
-          "s": "Be prepared to be corrected by student B The classification of household waste aims to help people separate different types of waste.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "为学生B的纠正做好准备生活垃圾的分类旨在帮助人们分离不同类型的垃圾。"
-        },
-        {
-          "s": "Household waste can be roughly divided into: food waste non-recyclable waste recyclable waste.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "家庭垃圾可以大致分为：厨余垃圾、不可回收垃圾、可回收垃圾。"
-        },
-        {
-          "s": "Including paper, glass, plastic and used batteries China plans to introduce household waste classification and sorting in the first batch of cities by 2020.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "包括纸张、玻璃、塑料和废旧电池在内，中国计划到2020年在第一批城市推行家庭生活垃圾分类。"
-        },
-        {
-          "s": "The first batch of cities to introduce household waste classification and sorting includes Beijing, Shanghai, Tianjin, Chongqing and all capitals of provinces and autonomous regions.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "首批推行生活垃圾分类的城市包括北京、上海、天津、重庆以及各省和自治区的首府。"
-        },
-        {
-          "s": "Because I contribute to the household bills and my commute to work is quite expensive, I find it hard to save any money.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "因为我需要分担家庭账单，而且我的通勤费用相当昂贵，所以我发现很难存下钱。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "household waste",
-      "cn": "一家人浪费",
-      "type": "名词短语",
-      "count": 4
+     "s": "I’ve learned a few things along the way though, which I hope you’ll find encouraging if you’re doing your best to figure out how you can make the change in a not-always-supportive household.",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "不过，在这一过程中我学到了一些东西，如果你正努力在一个并非总是支持你的家庭里弄清楚如何做出改变，我希望这些能给你鼓励。"
     },
     {
-      "en": "multigenerational households",
-      "cn": "一家人",
-      "type": "名词短语",
-      "count": 2
+     "s": "Perhaps your household won’t entirely make the switch, but you may have some control over your own personal spaces to make the changes you desire.",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "也许你的家庭不会完全转变，但你可能对自己的个人空间有一些控制权来做你想做的改变。"
+    },
+    {
+     "s": "As you make your lifestyle changes, you may find yourself wanting to speak up for yourself if others comment on what you’re doing, which can turn itself into a whole household debate.",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当你做出生活方式改变时，如果别人评论你的做法，你可能会想为自己发声，这可能演变成全家的一场争论。"
+    },
+    {
+     "s": "How to live a zero waste lifestyle in a household.",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如何在一个家庭里过零浪费的生活。"
+    },
+    {
+     "s": "Age isn't the only factor; I'd say it's also to do with the makeup of your household.",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "年龄不是唯一的因素；我想这与你的家庭成员构成也有关系。"
+    },
+    {
+     "s": "I’m glad you will be contributing to the household.\" My dad’s words made me realize that my earnings might not be mine to do with as I wished.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我很高兴你能为这个家庭贡献力量。” 我父亲的话让我意识到，我的收入可能不是按我的意愿来支付的。"
+    },
+    {
+     "s": "Official reports suggest that the number of households with three generations living together had risen from 325,000 in 2002 to 419,000 in 2013.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "官方报告显示，三代同堂的家庭数量从2002年的325,000户增加到2013年的419,000户。"
+    },
+    {
+     "s": "It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991.The total number of all multigenerational households in Britain is thought to be about 1.8 million.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "据说，25-34岁的人中约20%和父母同住，而1991年这一比例是16%。英国所有多代同堂家庭的总数估计约为180万。"
+    },
+    {
+     "s": "With food our biggest weekly household expense, Susanna and Matt spend time with a different family each week.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "由于食物是我们每周最大的家庭开支，苏珊娜和马特每周与一户不同的家庭共度时光。"
+    },
+    {
+     "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
+    },
+    {
+     "s": "The budget line is an elementary concept that most consumers understand intuitively without a need for graphs and equations — it's the household budget, for example.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "预算线是一个基本概念，多数消费者凭直觉就能理解，无需图表和方程——比如家庭预算。"
+    },
+    {
+     "s": "Be prepared to be corrected by student B The classification of household waste aims to help people separate different types of waste.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "为学生B的纠正做好准备生活垃圾的分类旨在帮助人们分离不同类型的垃圾。"
+    },
+    {
+     "s": "Household waste can be roughly divided into: food waste non-recyclable waste recyclable waste.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "家庭垃圾可以大致分为：厨余垃圾、不可回收垃圾、可回收垃圾。"
+    },
+    {
+     "s": "Including paper, glass, plastic and used batteries China plans to introduce household waste classification and sorting in the first batch of cities by 2020.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "包括纸张、玻璃、塑料和废旧电池在内，中国计划到2020年在第一批城市推行家庭生活垃圾分类。"
+    },
+    {
+     "s": "The first batch of cities to introduce household waste classification and sorting includes Beijing, Shanghai, Tianjin, Chongqing and all capitals of provinces and autonomous regions.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "首批推行生活垃圾分类的城市包括北京、上海、天津、重庆以及各省和自治区的首府。"
+    },
+    {
+     "s": "Because I contribute to the household bills and my commute to work is quite expensive, I find it hard to save any money.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "t": "因为我需要分担家庭账单，而且我的通勤费用相当昂贵，所以我发现很难存下钱。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "household waste",
+   "cn": "一家人浪费",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
