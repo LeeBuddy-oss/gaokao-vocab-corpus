@@ -1,413 +1,406 @@
 {
-  "meta": {
-    "ph": "kəˈmjuːnəti; NAmE kəˈmjuːnəti",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "kəˈmjuːnəti; NAmE kəˈmjuːnəti",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "all the people who live in a particular area, country, etc. when talked about as a group 社区；社会",
+   "ex": [
+    {
+     "s": "Reisley believes that his devotion to the home and the community are what have kept him in such good health all of these years.",
+     "src": "2026新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "Reisley相信，正是对这座房子和这片社区的热爱，让他多年来一直保持着如此好的健康状态。"
+    },
+    {
+     "s": "Although not a morning person, I begin my lesson with Angela and about twenty others at a Sydney community centre courtyard at 7 am.",
+     "src": "2026新高考II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "虽然不是早起的人，我还是在早上7点和安吉拉以及另外约二十人在悉尼一个社区中心的院子里开始上课。"
+    },
+    {
+     "s": "Community Services: support communities by providing upcycled goods to those in need and help promote projects through social platforms to widen outreach.",
+     "src": "2026北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "社区服务：通过向有需要的人提供升级改造的物品来支持社区，并通过社交平台帮助推广项目以扩大影响范围。"
+    },
+    {
+     "s": "A recent study reported that native communities in Peru noticed a change in the smell of the Amazon River due to industrial pollution.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "最近一项研究报告称，秘鲁的原住民社区注意到由于工业污染，亚马逊河的气味发生了变化。"
+    },
+    {
+     "s": "Over generations, communities became desensitised to increasingly smelly rivers, a sign of broader ecosystem degradation.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "一代代下来，这些社区对越来越臭的河流变得麻木，这是更广泛的生态系统退化的一个信号。"
+    },
+    {
+     "s": "Some communities fought back.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "一些社区进行了反击。"
+    },
+    {
+     "s": "Do we really recognise what it costs us as a society when children can’t move safely around our communities?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "当孩子无法在我们的社区安全出行时，我们作为社会究竟意识到这让我们付出了什么代价吗？"
+    },
+    {
+     "s": "Helping the community lowers rates of depression.",
+     "src": "2025新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "帮助社区可以降低抑郁率。"
+    },
+    {
+     "s": "·Community Booster: Guiding you to develop innovative solutions for real-world challenges and create transformative progress to benefit all communities",
+     "src": "2025北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "社区助推器：引导你为现实世界的挑战开发创新解决方案，创造变革性进步以造福所有社区。"
+    },
+    {
+     "s": "Build urban communities.",
+     "src": "2025北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "建设城市社区。"
+    },
+    {
+     "s": "With a little help from his school and the local community centre, Mark used his bricks to build a small bike shelter for his neighbourhood.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在他学校和当地社区中心的一点帮助下，马克用他的砖头为他的邻居建造了一座小型自行车避难所。"
+    },
+    {
+     "s": "They are devoted to community service.",
+     "src": "2024新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他们热心社区服务。"
+    },
+    {
+     "s": "Consider giving back to the communities you’re visiting.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "考虑回馈你所游览的社区。"
+    },
+    {
+     "s": "Each ARTS FIRST festival is a unique annual celebration of the Harvard community's artistic creativity.",
+     "src": "2024全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "每一届ARTS FIRST艺术节都是对哈佛社区艺术创造力的独特年度庆典。"
+    },
+    {
+     "s": "We look forward to welcoming you as we showcase the creativity of the Harvard arts community through performances, art exhibitions and art-making activities.",
+     "src": "2024全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我们期待欢迎你，通过表演、艺术展览和创作活动展示哈佛艺术社区的创造力。"
+    },
+    {
+     "s": "The festival is a public event for Harvard and community members of all ages.",
+     "src": "2024全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这个艺术节是面向哈佛及社区各年龄段成员的公共活动。"
+    },
+    {
+     "s": "The last one standing has just been turned into a “mini community library”: any passer-by can “borrow” a book from its shelves, and return it later, or replace it with another title from their own collection.",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "最后一个幸存的电话亭刚刚被改造成了一个\"迷你社区图书馆\"：任何路人都可以从架子上\"借\"一本书，之后归还，或者用自己的藏书替换。"
+    },
+    {
+     "s": "What do we know about the “mini community library”?",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "关于“迷你社区图书馆”我们知道什么？"
+    },
+    {
+     "s": "These social emotions prepare our brains to shape our behaviour according to the norms and values of our family and our community.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这些社会情感使我们的大脑做好准备，根据我们家庭和社区的规范和价值观塑造我们的行为。"
+    },
+    {
+     "s": "The result is that many communities, especially in farming regions, see solar farms as destroyers of the soil.",
+     "src": "2023浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "其结果是，许多社区，特别是农业地区的社区，将太阳能农场视为土壤的驱逐舰。"
+    },
+    {
+     "s": "Apart from the thrill of those first heart-stopping dives, which, ironically, saved me from going under, what has drawn me is this community of generous, open-hearted souls.",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "除了那些最初令人心跳加速的跳水带来的刺激——讽刺的是，正是这些跳水救了我免于沉沦——真正吸引我的是这个由慷慨、心胸开阔的人们组成的社区。"
+    },
+    {
+     "s": "Before long I had won the first seat in the community orchestra …",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "不久我赢得了社区乐团的第一个席位..."
+    },
+    {
+     "s": "What enabled Tara to win the first seat in the community orchestra?",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "是什么让Tara赢得了社区乐团的第一个席位？"
+    },
+    {
+     "s": "The International Olympic Committee(IOC)Young Leaders programme empowers talents to make a positive difference in their communities through sport.",
+     "src": "2023北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "国际奥委会（IOC）青年领袖项目赋能人才通过体育在社区产生积极影响。"
+    },
+    {
+     "s": "•You are passionate about creating positive change in your community.",
+     "src": "2023北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "•你对在社区创造积极改变充满热情。"
+    },
+    {
+     "s": "create change in their communityB. attend a virtual learning programme",
+     "src": "2023北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在他们的社区创造改变 B. 参加一个虚拟学习项目"
+    },
+    {
+     "s": "With that thought in mind, Pruitt 22   a plan and posted it on the community website.",
+     "src": "2021天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "带着这个想法，普鲁伊特22___一个计划并发布在社区网站上。"
+    },
+    {
+     "s": "In addition to 31    skills, Pruitt's lessons teach teamwork, encourage self-worth, and promote feelings of community.",
+     "src": "2021天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "除了   31    技能之外普鲁特的课程还教授团队合作鼓励自我价值感并促进社区意识。"
+    },
+    {
+     "s": "It's the relationships in the community.",
+     "src": "2021天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "是社区中的关系。"
+    },
+    {
+     "s": "One thing I had developed an interest in was sewing, so I took a sewing course at a community college.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我培养出的一项兴趣是缝纫，于是我在社区大学报了一门缝纫课。"
+    },
+    {
+     "s": "The Meredith family lived in a small community.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "梅雷迪思一家住在一个小社区里。"
+    },
+    {
+     "s": "The Meredith family lived in a small community.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "梅雷迪思一家住在一个小社区里。"
+    },
+    {
+     "s": "Today, they are once again a familiar sight, playing roles that are often just as important for the community as their original purpose.",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如今，它们再次成为一道熟悉的风景，扮演着对社区来说往往与其最初用途同样重要的角色。"
+    },
+    {
+     "s": "This effort is not just a（n）   33   at being community minded—it's also a    34   measure.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这项努力不仅是一种具有社区意识的___33___，也是一项___34___措施。"
+    },
+    {
+     "s": "Through the Summer Employment Opportunities program, students are hired each year in a variety of summer positions across the Provincial Public Service, its related agencies and community groups.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "通过“暑期就业机会”项目，学生每年会被雇用到省内公共服务部门、相关机构和社区团体的各种暑期岗位。"
+    },
+    {
+     "s": "learn about the adult community",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "C．它提供真实客观的信息。"
+    },
+    {
+     "s": "Depending on which role you choose，you could help to increase a community's access to safe drinking water，or help to protect valuable local cultures.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "根据你的角色选择，你可以帮助某个社区获得安全饮用水，或帮助保护宝贵的当地文化。"
+    },
+    {
+     "s": "All our projects aim to promote the development of poor and remote communities.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "你有机会结识可能成为终身朋友的新人。"
+    },
+    {
+     "s": "Join us as a volunteer manager to develop your own skills while bringing benefits to the communities.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "加入我们成为志愿者经理，在为他人带来益处的同时发展自己的技能。"
+    },
+    {
+     "s": "gain corporate benefit     D. help communities in need",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "获得企业利益　D. 帮助有需要的社区"
+    },
+    {
+     "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
+    },
+    {
+     "s": "She was a community leader．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "B．她是一位社区领袖。"
+    },
+    {
+     "s": "She’s lived in the city most of her life, but she knows about community.",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她一生大部分时间都住在城市里，但她了解社区。"
+    },
+    {
+     "s": "This led Jones to the conclusion that there are too many extremely   23   people in his community, who are easy targets of cheating.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这让Jones得出结论：他的社区里有太多极其____23____的人，他们很容易成为被骗的目标。"
+    },
+    {
+     "s": "Today Pacific Science Center serves more than 1.3 million people a year and beings inquiry-based science education to classrooms and community events all over Washington State.",
+     "src": "2017全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "今天，太平洋科学中心每年为130多万人提供服务，为华盛顿州各地的教室和社区活动提供以调查为基础的科学教育。"
+    },
+    {
+     "s": "What does the author think people in a community should do?",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作者认为社区里的人应该怎么做？"
+    },
+    {
+     "s": "As dolphins live within close communities, events like these cause a lot of stress.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "由于海豚生活在紧密的社区中，这样的事件会造成很大的压力。"
+    },
+    {
+     "s": "It made me realize that the bookstore and all that Old Casey had given to the community could soon disappear for good.",
+     "src": "外研社B5 U3",
+     "cat": "waiyan",
+     "year": "",
+     "t": "这让我意识到，书店和老凯西给社区的所有东西很快就会永远消失。"
+    },
+    {
+     "s": "Community isn’t so much a place as it is a state of mind.",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "社区与其说是一个地方，不如说是一种心态。"
+    },
+    {
+     "s": "Sharing jokes and laughing together can bring individuals and even communities together.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "分享笑话和欢笑可以将个人甚至社区聚集在一起。"
+    },
+    {
+     "s": "Taking part in community activities.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "参与社区活动。"
+    },
+    {
+     "s": "The money which is raised by his foundation supports school and communities in Africa.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "他的基金会筹集的资金用于支持非洲的学校和社区。"
+    },
+    {
+     "s": "Zafirakou began the project at Alperton Community School, her place of work for the past twelve years.",
+     "src": "2021新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "扎菲拉库在阿尔珀顿社区学校启动了这个项目，那是她过去十二年工作的地方。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a group of people who share the same religion, race, job, etc. 团体；社团；界",
+   "ex": []
+  },
+  {
+   "def": "the feeling of sharing things and belonging to a group in the place where you live 共享；共有",
+   "ex": [
     {
-      "def": "all the people who live in a particular area, country, etc. when talked about as a group 社区；社会",
-      "ex": [
-        {
-          "s": "Reisley believes that his devotion to the home and the community are what have kept him in such good health all of these years.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Reisley相信，正是对这座房子和这片社区的热爱，让他多年来一直保持着如此好的健康状态。"
-        },
-        {
-          "s": "Although not a morning person, I begin my lesson with Angela and about twenty others at a Sydney community centre courtyard at 7 am.",
-          "src": "2026新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "虽然不是早起的人，我还是在早上7点和安吉拉以及另外约二十人在悉尼一个社区中心的院子里开始上课。"
-        },
-        {
-          "s": "Community Services: support communities by providing upcycled goods to those in need and help promote projects through social platforms to widen outreach.",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "社区服务：通过向有需要的人提供升级改造的物品来支持社区，并通过社交平台帮助推广项目以扩大影响范围。"
-        },
-        {
-          "s": "A recent study reported that native communities in Peru noticed a change in the smell of the Amazon River due to industrial pollution.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "最近一项研究报告称，秘鲁的原住民社区注意到由于工业污染，亚马逊河的气味发生了变化。"
-        },
-        {
-          "s": "Over generations, communities became desensitised to increasingly smelly rivers, a sign of broader ecosystem degradation.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "一代代下来，这些社区对越来越臭的河流变得麻木，这是更广泛的生态系统退化的一个信号。"
-        },
-        {
-          "s": "Some communities fought back.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "一些社区进行了反击。"
-        },
-        {
-          "s": "Do we really recognise what it costs us as a society when children can’t move safely around our communities?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "当孩子无法在我们的社区安全出行时，我们作为社会究竟意识到这让我们付出了什么代价吗？"
-        },
-        {
-          "s": "Helping the community lowers rates of depression.",
-          "src": "2025新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "帮助社区可以降低抑郁率。"
-        },
-        {
-          "s": "·Community Booster: Guiding you to develop innovative solutions for real-world challenges and create transformative progress to benefit all communities",
-          "src": "2025北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "社区助推器：引导你为现实世界的挑战开发创新解决方案，创造变革性进步以造福所有社区。"
-        },
-        {
-          "s": "Build urban communities.",
-          "src": "2025北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "建设城市社区。"
-        },
-        {
-          "s": "With a little help from his school and the local community centre, Mark used his bricks to build a small bike shelter for his neighbourhood.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在他学校和当地社区中心的一点帮助下，马克用他的砖头为他的邻居建造了一座小型自行车避难所。"
-        },
-        {
-          "s": "They are devoted to community service.",
-          "src": "2024新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他们热心社区服务。"
-        },
-        {
-          "s": "Consider giving back to the communities you’re visiting.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "考虑回馈你所游览的社区。"
-        },
-        {
-          "s": "Each ARTS FIRST festival is a unique annual celebration of the Harvard community's artistic creativity.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "每一届ARTS FIRST艺术节都是对哈佛社区艺术创造力的独特年度庆典。"
-        },
-        {
-          "s": "We look forward to welcoming you as we showcase the creativity of the Harvard arts community through performances, art exhibitions and art-making activities.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们期待欢迎你，通过表演、艺术展览和创作活动展示哈佛艺术社区的创造力。"
-        },
-        {
-          "s": "The festival is a public event for Harvard and community members of all ages.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这个艺术节是面向哈佛及社区各年龄段成员的公共活动。"
-        },
-        {
-          "s": "The last one standing has just been turned into a “mini community library”: any passer-by can “borrow” a book from its shelves, and return it later, or replace it with another title from their own collection.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "最后一个幸存的电话亭刚刚被改造成了一个\"迷你社区图书馆\"：任何路人都可以从架子上\"借\"一本书，之后归还，或者用自己的藏书替换。"
-        },
-        {
-          "s": "What do we know about the “mini community library”?",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "关于“迷你社区图书馆”我们知道什么？"
-        },
-        {
-          "s": "These social emotions prepare our brains to shape our behaviour according to the norms and values of our family and our community.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这些社会情感使我们的大脑做好准备，根据我们家庭和社区的规范和价值观塑造我们的行为。"
-        },
-        {
-          "s": "The result is that many communities, especially in farming regions, see solar farms as destroyers of the soil.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "其结果是，许多社区，特别是农业地区的社区，将太阳能农场视为土壤的驱逐舰。"
-        },
-        {
-          "s": "Apart from the thrill of those first heart-stopping dives, which, ironically, saved me from going under, what has drawn me is this community of generous, open-hearted souls.",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "除了那些最初令人心跳加速的跳水带来的刺激——讽刺的是，正是这些跳水救了我免于沉沦——真正吸引我的是这个由慷慨、心胸开阔的人们组成的社区。"
-        },
-        {
-          "s": "Before long I had won the first seat in the community orchestra …",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "不久我赢得了社区乐团的第一个席位..."
-        },
-        {
-          "s": "What enabled Tara to win the first seat in the community orchestra?",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "是什么让Tara赢得了社区乐团的第一个席位？"
-        },
-        {
-          "s": "The International Olympic Committee(IOC)Young Leaders programme empowers talents to make a positive difference in their communities through sport.",
-          "src": "2023北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "国际奥委会（IOC）青年领袖项目赋能人才通过体育在社区产生积极影响。"
-        },
-        {
-          "s": "•You are passionate about creating positive change in your community.",
-          "src": "2023北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "•你对在社区创造积极改变充满热情。"
-        },
-        {
-          "s": "create change in their communityB. attend a virtual learning programme",
-          "src": "2023北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在他们的社区创造改变 B. 参加一个虚拟学习项目"
-        },
-        {
-          "s": "With that thought in mind, Pruitt 22   a plan and posted it on the community website.",
-          "src": "2021天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "带着这个想法，普鲁伊特22___一个计划并发布在社区网站上。"
-        },
-        {
-          "s": "In addition to 31    skills, Pruitt's lessons teach teamwork, encourage self-worth, and promote feelings of community.",
-          "src": "2021天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "除了   31    技能之外普鲁特的课程还教授团队合作鼓励自我价值感并促进社区意识。"
-        },
-        {
-          "s": "It's the relationships in the community.",
-          "src": "2021天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "是社区中的关系。"
-        },
-        {
-          "s": "One thing I had developed an interest in was sewing, so I took a sewing course at a community college.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我培养出的一项兴趣是缝纫，于是我在社区大学报了一门缝纫课。"
-        },
-        {
-          "s": "The Meredith family lived in a small community.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "梅雷迪思一家住在一个小社区里。"
-        },
-        {
-          "s": "The Meredith family lived in a small community.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "梅雷迪思一家住在一个小社区里。"
-        },
-        {
-          "s": "Today, they are once again a familiar sight, playing roles that are often just as important for the community as their original purpose.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如今，它们再次成为一道熟悉的风景，扮演着对社区来说往往与其最初用途同样重要的角色。"
-        },
-        {
-          "s": "This effort is not just a（n）   33   at being community minded—it's also a    34   measure.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这项努力不仅是一种具有社区意识的___33___，也是一项___34___措施。"
-        },
-        {
-          "s": "Through the Summer Employment Opportunities program, students are hired each year in a variety of summer positions across the Provincial Public Service, its related agencies and community groups.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "通过“暑期就业机会”项目，学生每年会被雇用到省内公共服务部门、相关机构和社区团体的各种暑期岗位。"
-        },
-        {
-          "s": "learn about the adult community",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "C．它提供真实客观的信息。"
-        },
-        {
-          "s": "Depending on which role you choose，you could help to increase a community's access to safe drinking water，or help to protect valuable local cultures.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "根据你的角色选择，你可以帮助某个社区获得安全饮用水，或帮助保护宝贵的当地文化。"
-        },
-        {
-          "s": "All our projects aim to promote the development of poor and remote communities.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "你有机会结识可能成为终身朋友的新人。"
-        },
-        {
-          "s": "Join us as a volunteer manager to develop your own skills while bringing benefits to the communities.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "加入我们成为志愿者经理，在为他人带来益处的同时发展自己的技能。"
-        },
-        {
-          "s": "gain corporate benefit     D. help communities in need",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "获得企业利益　D. 帮助有需要的社区"
-        },
-        {
-          "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
-        },
-        {
-          "s": "She was a community leader．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "B．她是一位社区领袖。"
-        },
-        {
-          "s": "She’s lived in the city most of her life, but she knows about community.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她一生大部分时间都住在城市里，但她了解社区。"
-        },
-        {
-          "s": "This led Jones to the conclusion that there are too many extremely   23   people in his community, who are easy targets of cheating.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这让Jones得出结论：他的社区里有太多极其____23____的人，他们很容易成为被骗的目标。"
-        },
-        {
-          "s": "Today Pacific Science Center serves more than 1.3 million people a year and beings inquiry-based science education to classrooms and community events all over Washington State.",
-          "src": "2017全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "今天，太平洋科学中心每年为130多万人提供服务，为华盛顿州各地的教室和社区活动提供以调查为基础的科学教育。"
-        },
-        {
-          "s": "What does the author think people in a community should do?",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作者认为社区里的人应该怎么做？"
-        },
-        {
-          "s": "As dolphins live within close communities, events like these cause a lot of stress.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "由于海豚生活在紧密的社区中，这样的事件会造成很大的压力。"
-        },
-        {
-          "s": "It made me realize that the bookstore and all that Old Casey had given to the community could soon disappear for good.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这让我意识到，书店和老凯西给社区的所有东西很快就会永远消失。"
-        },
-        {
-          "s": "Community isn’t so much a place as it is a state of mind.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "社区与其说是一个地方，不如说是一种心态。"
-        },
-        {
-          "s": "Sharing jokes and laughing together can bring individuals and even communities together.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "分享笑话和欢笑可以将个人甚至社区聚集在一起。"
-        },
-        {
-          "s": "Taking part in community activities.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "参与社区活动。"
-        },
-        {
-          "s": "The money which is raised by his foundation supports school and communities in Africa.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他的基金会筹集的资金用于支持非洲的学校和社区。"
-        },
-        {
-          "s": "Zafirakou began the project at Alperton Community School, her place of work for the past twelve years.",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "扎菲拉库在阿尔珀顿社区学校启动了这个项目，那是她过去十二年工作的地方。"
-        }
-      ]
-    },
-    {
-      "def": "a group of people who share the same religion, race, job, etc. 团体；社团；界",
-      "ex": []
-    },
-    {
-      "def": "the feeling of sharing things and belonging to a group in the place where you live 共享；共有",
-      "ex": [
-        {
-          "s": "GDA ensures that volunteers work with community members and local project partners where our help is needed.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "GDA确保志愿者在需要我们帮助的地方与社区成员和当地项目合作伙伴一起工作。"
-        }
-      ]
-    },
-    {
-      "def": "a group of plants and animals growing or living in the same place or environment （动植物的）群落",
-      "ex": []
+     "s": "GDA ensures that volunteers work with community members and local project partners where our help is needed.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "GDA确保志愿者在需要我们帮助的地方与社区成员和当地项目合作伙伴一起工作。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "mini community",
-      "cn": "社区",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+   ]
+  },
+  {
+   "def": "a group of plants and animals growing or living in the same place or environment （动植物的）群落",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
