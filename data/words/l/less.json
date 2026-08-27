@@ -1,521 +1,514 @@
 {
-  "meta": {
-    "ph": "les; NAmE les",
-    "pos": "det",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "les; NAmE les",
+  "pos": "det",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "erminerpronounPeople often use less with countable nouns. （与不可数名词连用）较少的，更少的adverbpreposition",
+   "ex": [
     {
-      "def": "erminerpronounPeople often use less with countable nouns. （与不可数名词连用）较少的，更少的adverbpreposition",
-      "ex": [
-        {
-          "s": "They absorb less carbon than expected.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它们吸收的碳比预期的少。"
-        },
-        {
-          "s": "Often students come to the classroom believing that learning can’t be fun and that what they learn isn’t relevant to the real world — much less to their personal interests.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "学生们常常带着这样的看法走进教室：学习不可能有趣，所学内容与现实世界无关——更谈不上与他们的个人兴趣有关。"
-        },
-        {
-          "s": "“Overall, negative reviews are less common.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“总体而言，负面评论比较少见。"
-        },
-        {
-          "s": "People walk less and drive more.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "人们走路少了，开车多了。"
-        },
-        {
-          "s": "But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
-        },
-        {
-          "s": "About half of Ho’s students stay for a week or less; others are there for more than a year.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "大约一半的Ho学生停留一周或不到一周；其他人在那里停留一年以上。"
-        },
-        {
-          "s": "According to Charlotte Markey, a professor of psychology, food is one of the rare subjects where, as parents, saying less is more.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "据心理学教授Charlotte Markey所说，食物是少数几个话题之一，在这些话题上，作为父母，少说比多说更好。"
-        },
-        {
-          "s": "I’ve been trying out these strategies and I’ve found that when I’m less restrictive, they do make better decisions.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我一直在尝试这些策略，并且发现当我少加限制时，他们确实会做出更好的决定。"
-        },
-        {
-          "s": "For example, participants said they would be less likely to buy a genderless voice assistant than versions with male or female voices.",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "例如，参与者表示，与有男性或女性声音的版本相比，他们更不太可能购买无性别语音助手。"
-        },
-        {
-          "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
-        },
-        {
-          "s": "If written by someone less competent.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "如果由能力较差的人撰写。"
-        },
-        {
-          "s": "For many of us, moderation means eating less than we do now.",
-          "src": "2024全国甲卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "对我们许多人来说，适量意味着吃得比现在少。"
-        },
-        {
-          "s": "Eat Less, Read More",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "阐述一个论点。"
-        },
-        {
-          "s": "Research sometimes proves, with data, what we more or less already know（e. g.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "研究有时会用数据证明我们多少已经知道的事（例如……）。"
-        },
-        {
-          "s": "Chances are the cost will be a lot less than the cost of one bedroom.",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "很可能费用会比一间卧室的花费少得多。"
-        },
-        {
-          "s": "In the “unwilling” scenario, however, the dogs looked at the experimenter less often, sat, lay down and wandered around more frequently.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，在\"不情愿\"的情境中，狗看实验员的次数更少，坐下、躺下和四处走动的频率更高。"
-        },
-        {
-          "s": "Eat in restaurants less often.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "少去餐馆吃饭。"
-        },
-        {
-          "s": "However, data of the first six months showed it would make less than half this amount.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "目前预计截至2019年4月的财年将产生2.4亿英镑收入，这笔钱将用于学校体育。"
-        },
-        {
-          "s": "New researchers found that middle-aged women who were physically fit could be nearly 90 percent less likely to develop dementia in later life, and as they did, it came on a decade later than less sporty women.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "新研究发现，身体健硕的中年女性晚年患痴呆症的可能性低近90%，而且即使患病，也比不爱运动的女性晚十年发作。"
-        },
-        {
-          "s": "A total of 92 women were in the medium fitness category; and 59 women were in the low fitness category, defined as a peak workload of 80 watts or less, or having their exercise tests stopped because of high blood pressure, chest pain or other cardiovascular problems.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "共有92名女性属于中等健康水平；59名属于低健康水平，定义为峰值负荷80瓦或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。"
-        },
-        {
-          "s": "Fit Women Are Less Likely to Develop Dementia",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "健康的女性更不容易患痴呆症"
-        },
-        {
-          "s": "It is taught to artists and engineers, but much less often to scientists.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它被教给艺术家和工程师，但很少教给科学家。"
-        },
-        {
-          "s": "The force required to break the pancake was less than 1% of the trunk’s weight (about 100kg).",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "掰开那块“煎饼”所需的力小于树干重量（约100公斤）的1%。"
-        },
-        {
-          "s": "That’s not the only reason the French eat less than we do.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这不是法国人比我们吃得少的唯一原因。"
-        },
-        {
-          "s": "I tried skateboarding there, but the locals were far less welcoming.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我在那里尝试滑板运动，但当地人远没有那么热情。"
-        },
-        {
-          "s": "Less discrimination against women.",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "减少对女性的歧视。"
-        },
-        {
-          "s": "Less people than that",
-          "src": "2021全国甲卷·Swap, Don’t shop!",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "比那还少的人。"
-        },
-        {
-          "s": "There are two parks less than 10 minutes’ walk from home where neighbourhood children gather to play.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "离家不到10分钟步行路程就有两个公园，附近的孩子聚在那里玩耍。"
-        },
-        {
-          "s": "less use of certain medicines",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "减少某些药物的使用"
-        },
-        {
-          "s": "The drawback to being specialists is we often come to know more and more about less and less.",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "成为专家的不利之处是，我们常常对越来越窄的领域知道得越来越多。"
-        },
-        {
-          "s": "When it comes to public speaking, less is usually more.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "大多数演讲的目的是让听众受益。"
-        },
-        {
-          "s": "It’s less challenging physically.",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它在健身方面更有效。"
-        },
-        {
-          "s": "It’s less likely to cause knee injuries.",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它不太可能导致膝盖受伤。"
-        },
-        {
-          "s": "A study conducted in Youngstown，Ohio，for example, discovered that greener areas of the city experienced less crime.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例如，在俄亥俄州扬斯敦进行的一项研究发现，城市里绿化更好的区域犯罪更少。"
-        },
-        {
-          "s": "They tend to talk less during the game.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们往往在比赛中少说话。"
-        },
-        {
-          "s": "However, far less has been known about how meal timing and exercise might affect general health.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然而，关于进餐时间和运动如何影响整体健康，人们所知要少得多。"
-        },
-        {
-          "s": "Less traffic at 9:37am could push it down to 135.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "9:37车流量较少时，可能会降到135秒。"
-        },
-        {
-          "s": "They are less helpful in cities seriously jammed.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们在严重拥堵的城市帮助不大。"
-        },
-        {
-          "s": "Significantly, all Harbour Air routes last less than 30 minutes, making it perfectly fit for electric engines.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "值得注意的是，所有港湾航空的航线时长都不到30分钟，这使其非常适合使用电动发动机。"
-        },
-        {
-          "s": "They are less exposed to stress caused by external factors.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们较少受到外部因素造成的压力的影响。"
-        },
-        {
-          "s": "More Self-Control, Less Aggressiveness",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "更强的自控力，更少的攻击性"
-        },
-        {
-          "s": "48      In baseball，the performance of individual players is less dependent on teammates.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "48 在棒球中，个人球员的表现较少依赖队友。"
-        },
-        {
-          "s": "Another possibility is that when there is a lot of talent on a team，some players may make less effort.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "另一种可能是，当一支球队中有太多天才时，一些球员可能会不那么努力。"
-        },
-        {
-          "s": "The team transforms the family’s long weekend of celebration with less expensive but still tasty recipes.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "团队用价格更低但依然美味的食谱改变了这个家庭漫长的周末庆祝活动。"
-        },
-        {
-          "s": "Cooking Well for Less",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "用更少的钱做好饭"
-        },
-        {
-          "s": "Languages have been coming and going for thousands of years, but in recent times there has been less coming and a lot more going.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "语言来来去去已有数千年，但近来越来越少有新语言出现，却有大量语言消失。"
-        },
-        {
-          "s": "How many languages are spoken by less than 6,000 people at present?",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "目前有多少种语言的使用者少于6000人？"
-        },
-        {
-          "s": "Less tiring than painting your walls and less expensive than buying a colorful sofa, small color choices bring with them the significant benefit of being easily changeable.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "比刷墙省力、比买彩色沙发便宜，小面积色彩选择的一大显著好处是易于更换。"
-        },
-        {
-          "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
-        },
-        {
-          "s": "Where can you find the data that best supports “children are reading a lot less for fun”?",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你在哪里能找到最有力支持“孩子趣味性阅读少了很多”的数据？"
-        },
-        {
-          "s": "The good news is that I can help my own kids learn earlier than I did how to live more with less.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "好消息是，我能帮助自己的孩子比我更早学会如何用更少的东西生活得更好。"
-        },
-        {
-          "s": "And how do we train ourselves to help them live with, need, and use less?",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "而我们又该如何训练自己，帮助他们以更少的东西生活、需求和使用呢？"
-        },
-        {
-          "s": "Live More with LessD.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "以更少生活得更多D."
-        },
-        {
-          "s": "They are less strong than plastic bags.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "生产它们需要更多能源。"
-        },
-        {
-          "s": "Being a good neighbor is more or less about considerate behavior.",
-          "src": "2018浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "做个好邻居或多或少关乎体贴的行为。"
-        },
-        {
-          "s": "Many westerners   57   come to China cook much less than in their own countries once they realize how cheap   58   can be to eat out.",
-          "src": "2018浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "许多来中国的西方人____57____一旦意识到外出就餐可以有多便宜____58____，他们做的饭就比在自己国家时少得多。"
-        },
-        {
-          "s": "The woman has less chance to get the job than others.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这位女士得到这份工作的机会比别人小。"
-        },
-        {
-          "s": "The word history of typhoon had a far less direct path to the English language than gung-ho.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "typhoon一词进入英语的路径远比gung-ho间接得多。"
-        },
-        {
-          "s": "A century ago, when life expectancy was lower and college education less prevalent, “the goal back then was survival, not violin lessons by 5,” Twenge said.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个世纪前，当预期寿命更低、大学教育不那么普及时，“那时的目标是生存，而非5岁学小提琴，”特温格说。"
-        },
-        {
-          "s": "Just a specially printed piece of paper and hemp that we've assigned value to — and probably less durable over time than those shells.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "只是一张特别印制的纸和我们赋予价值的麻纤维——而且随着时间的推移可能还不如那些贝壳耐用。"
-        },
-        {
-          "s": "Jazz being less popular with the young.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "爵士乐在年轻人中不那么受欢迎。"
-        },
-        {
-          "s": "58   , if there had been any talking, it would have   59   us to learn less.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "58，如果当时有任何交谈，那会让我们学得更少。"
-        },
-        {
-          "s": "There has been a recent trend in the food service industry toward lower fat content and less salt.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "近来食品服务业出现了降低脂肪含量和减少盐用量的趋势。"
-        },
-        {
-          "s": "Getting less sleep has become a bad habit for most American kids.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "睡眠不足已经成为大多数美国孩子的坏习惯。"
-        },
-        {
-          "s": "And because the process of recycling steel is less polluting than making new steel, we’ve also achieved the following significant savings; in energy use—47% to 74%; in air pollution—85%; in water pollution—35%; in water use—40%.",
-          "src": "2017浙江11月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "而且因为回收钢比制造新钢污染更少，我们还取得了以下显著节约：能源使用——47%到74%；空气污染——85%；水污染——35%；用水——40%。"
-        },
-        {
-          "s": "This nature of data makes the antitrust measures of the past less useful.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "数据的这一性质使得过去的反垄断措施不太有效。"
-        },
-        {
-          "s": "But the most sensible form of adaptation is surely to adapt our energy systems to emit less carbon pollution.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但最明智的适应方式无疑是调整我们的能源系统以减少碳排放。"
-        },
-        {
-          "s": "When you make a suggestion, use less direct language than you would to make a statement or give an order.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "当你提出建议时，使用的语言要比陈述或下达命令时更间接。"
-        },
-        {
-          "s": "This way of making something seem less important or impressive than it actually is, is called understatement, and British people often use it.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这种让某事物显得比实际更不重要或更不令人印象深刻的方式，被称为轻描淡写，英国人经常使用它。"
-        },
-        {
-          "s": "Americans use understatement too, but less than British people do.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "美国人也使用轻描淡写，但比英国人用得少。"
-        },
-        {
-          "s": "Ted 35 Construction worker (1 picture) Each day at the construction site is more or less the same - tiring!",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "特德 35岁 建筑工人（1幅图）工地上的每一天都大同小异——累人！"
-        },
-        {
-          "s": "Dear Editor, 1 We have eaten out for the Spring Festival family dinner for the last three years, and we have enjoyed it no less than eating at home.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "尊敬的编辑：1 过去三年我们都在外面吃春节家庭聚餐，我们享受的程度不亚于在家吃。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "They absorb less carbon than expected.",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它们吸收的碳比预期的少。"
+    },
     {
-      "en": "a lot less",
-      "cn": "少很多",
-      "type": "名词短语",
-      "count": 3
+     "s": "Often students come to the classroom believing that learning can’t be fun and that what they learn isn’t relevant to the real world — much less to their personal interests.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "学生们常常带着这样的看法走进教室：学习不可能有趣，所学内容与现实世界无关——更谈不上与他们的个人兴趣有关。"
+    },
+    {
+     "s": "“Overall, negative reviews are less common.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“总体而言，负面评论比较少见。"
+    },
+    {
+     "s": "People walk less and drive more.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "人们走路少了，开车多了。"
+    },
+    {
+     "s": "But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
+    },
+    {
+     "s": "About half of Ho’s students stay for a week or less; others are there for more than a year.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "大约一半的Ho学生停留一周或不到一周；其他人在那里停留一年以上。"
+    },
+    {
+     "s": "According to Charlotte Markey, a professor of psychology, food is one of the rare subjects where, as parents, saying less is more.",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "据心理学教授Charlotte Markey所说，食物是少数几个话题之一，在这些话题上，作为父母，少说比多说更好。"
+    },
+    {
+     "s": "I’ve been trying out these strategies and I’ve found that when I’m less restrictive, they do make better decisions.",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我一直在尝试这些策略，并且发现当我少加限制时，他们确实会做出更好的决定。"
+    },
+    {
+     "s": "For example, participants said they would be less likely to buy a genderless voice assistant than versions with male or female voices.",
+     "src": "2025浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "例如，参与者表示，与有男性或女性声音的版本相比，他们更不太可能购买无性别语音助手。"
+    },
+    {
+     "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
+    },
+    {
+     "s": "If written by someone less competent.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "如果由能力较差的人撰写。"
+    },
+    {
+     "s": "For many of us, moderation means eating less than we do now.",
+     "src": "2024全国甲卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "对我们许多人来说，适量意味着吃得比现在少。"
+    },
+    {
+     "s": "Eat Less, Read More",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "阐述一个论点。"
+    },
+    {
+     "s": "Research sometimes proves, with data, what we more or less already know（e. g.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "研究有时会用数据证明我们多少已经知道的事（例如……）。"
+    },
+    {
+     "s": "Chances are the cost will be a lot less than the cost of one bedroom.",
+     "src": "2023浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "很可能费用会比一间卧室的花费少得多。"
+    },
+    {
+     "s": "In the “unwilling” scenario, however, the dogs looked at the experimenter less often, sat, lay down and wandered around more frequently.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "然而，在\"不情愿\"的情境中，狗看实验员的次数更少，坐下、躺下和四处走动的频率更高。"
+    },
+    {
+     "s": "Eat in restaurants less often.",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "少去餐馆吃饭。"
+    },
+    {
+     "s": "However, data of the first six months showed it would make less than half this amount.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "目前预计截至2019年4月的财年将产生2.4亿英镑收入，这笔钱将用于学校体育。"
+    },
+    {
+     "s": "New researchers found that middle-aged women who were physically fit could be nearly 90 percent less likely to develop dementia in later life, and as they did, it came on a decade later than less sporty women.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "新研究发现，身体健硕的中年女性晚年患痴呆症的可能性低近90%，而且即使患病，也比不爱运动的女性晚十年发作。"
+    },
+    {
+     "s": "A total of 92 women were in the medium fitness category; and 59 women were in the low fitness category, defined as a peak workload of 80 watts or less, or having their exercise tests stopped because of high blood pressure, chest pain or other cardiovascular problems.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "共有92名女性属于中等健康水平；59名属于低健康水平，定义为峰值负荷80瓦或以下，或因高血压、胸痛或其他心血管问题而停止运动测试。"
+    },
+    {
+     "s": "Fit Women Are Less Likely to Develop Dementia",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "健康的女性更不容易患痴呆症"
+    },
+    {
+     "s": "It is taught to artists and engineers, but much less often to scientists.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它被教给艺术家和工程师，但很少教给科学家。"
+    },
+    {
+     "s": "The force required to break the pancake was less than 1% of the trunk’s weight (about 100kg).",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "掰开那块“煎饼”所需的力小于树干重量（约100公斤）的1%。"
+    },
+    {
+     "s": "That’s not the only reason the French eat less than we do.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这不是法国人比我们吃得少的唯一原因。"
+    },
+    {
+     "s": "I tried skateboarding there, but the locals were far less welcoming.",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我在那里尝试滑板运动，但当地人远没有那么热情。"
+    },
+    {
+     "s": "Less discrimination against women.",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "减少对女性的歧视。"
+    },
+    {
+     "s": "Less people than that",
+     "src": "2021全国甲卷·Swap, Don’t shop!",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "比那还少的人。"
+    },
+    {
+     "s": "There are two parks less than 10 minutes’ walk from home where neighbourhood children gather to play.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "离家不到10分钟步行路程就有两个公园，附近的孩子聚在那里玩耍。"
+    },
+    {
+     "s": "less use of certain medicines",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "减少某些药物的使用"
+    },
+    {
+     "s": "The drawback to being specialists is we often come to know more and more about less and less.",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "成为专家的不利之处是，我们常常对越来越窄的领域知道得越来越多。"
+    },
+    {
+     "s": "When it comes to public speaking, less is usually more.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "大多数演讲的目的是让听众受益。"
+    },
+    {
+     "s": "It’s less challenging physically.",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它在健身方面更有效。"
+    },
+    {
+     "s": "It’s less likely to cause knee injuries.",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它不太可能导致膝盖受伤。"
+    },
+    {
+     "s": "A study conducted in Youngstown，Ohio，for example, discovered that greener areas of the city experienced less crime.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例如，在俄亥俄州扬斯敦进行的一项研究发现，城市里绿化更好的区域犯罪更少。"
+    },
+    {
+     "s": "They tend to talk less during the game.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们往往在比赛中少说话。"
+    },
+    {
+     "s": "However, far less has been known about how meal timing and exercise might affect general health.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然而，关于进餐时间和运动如何影响整体健康，人们所知要少得多。"
+    },
+    {
+     "s": "Less traffic at 9:37am could push it down to 135.",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "9:37车流量较少时，可能会降到135秒。"
+    },
+    {
+     "s": "They are less helpful in cities seriously jammed.",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们在严重拥堵的城市帮助不大。"
+    },
+    {
+     "s": "Significantly, all Harbour Air routes last less than 30 minutes, making it perfectly fit for electric engines.",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "值得注意的是，所有港湾航空的航线时长都不到30分钟，这使其非常适合使用电动发动机。"
+    },
+    {
+     "s": "They are less exposed to stress caused by external factors.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们较少受到外部因素造成的压力的影响。"
+    },
+    {
+     "s": "More Self-Control, Less Aggressiveness",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "更强的自控力，更少的攻击性"
+    },
+    {
+     "s": "48      In baseball，the performance of individual players is less dependent on teammates.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "48 在棒球中，个人球员的表现较少依赖队友。"
+    },
+    {
+     "s": "Another possibility is that when there is a lot of talent on a team，some players may make less effort.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "另一种可能是，当一支球队中有太多天才时，一些球员可能会不那么努力。"
+    },
+    {
+     "s": "The team transforms the family’s long weekend of celebration with less expensive but still tasty recipes.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "团队用价格更低但依然美味的食谱改变了这个家庭漫长的周末庆祝活动。"
+    },
+    {
+     "s": "Cooking Well for Less",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "用更少的钱做好饭"
+    },
+    {
+     "s": "Languages have been coming and going for thousands of years, but in recent times there has been less coming and a lot more going.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "语言来来去去已有数千年，但近来越来越少有新语言出现，却有大量语言消失。"
+    },
+    {
+     "s": "How many languages are spoken by less than 6,000 people at present?",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "目前有多少种语言的使用者少于6000人？"
+    },
+    {
+     "s": "Less tiring than painting your walls and less expensive than buying a colorful sofa, small color choices bring with them the significant benefit of being easily changeable.",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "比刷墙省力、比买彩色沙发便宜，小面积色彩选择的一大显著好处是易于更换。"
+    },
+    {
+     "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
+    },
+    {
+     "s": "Where can you find the data that best supports “children are reading a lot less for fun”?",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你在哪里能找到最有力支持“孩子趣味性阅读少了很多”的数据？"
+    },
+    {
+     "s": "The good news is that I can help my own kids learn earlier than I did how to live more with less.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "好消息是，我能帮助自己的孩子比我更早学会如何用更少的东西生活得更好。"
+    },
+    {
+     "s": "And how do we train ourselves to help them live with, need, and use less?",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "而我们又该如何训练自己，帮助他们以更少的东西生活、需求和使用呢？"
+    },
+    {
+     "s": "Live More with LessD.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "以更少生活得更多D."
+    },
+    {
+     "s": "They are less strong than plastic bags.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "生产它们需要更多能源。"
+    },
+    {
+     "s": "Being a good neighbor is more or less about considerate behavior.",
+     "src": "2018浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "做个好邻居或多或少关乎体贴的行为。"
+    },
+    {
+     "s": "Many westerners   57   come to China cook much less than in their own countries once they realize how cheap   58   can be to eat out.",
+     "src": "2018浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "许多来中国的西方人____57____一旦意识到外出就餐可以有多便宜____58____，他们做的饭就比在自己国家时少得多。"
+    },
+    {
+     "s": "The woman has less chance to get the job than others.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这位女士得到这份工作的机会比别人小。"
+    },
+    {
+     "s": "The word history of typhoon had a far less direct path to the English language than gung-ho.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "typhoon一词进入英语的路径远比gung-ho间接得多。"
+    },
+    {
+     "s": "A century ago, when life expectancy was lower and college education less prevalent, “the goal back then was survival, not violin lessons by 5,” Twenge said.",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一个世纪前，当预期寿命更低、大学教育不那么普及时，“那时的目标是生存，而非5岁学小提琴，”特温格说。"
+    },
+    {
+     "s": "Just a specially printed piece of paper and hemp that we've assigned value to — and probably less durable over time than those shells.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "只是一张特别印制的纸和我们赋予价值的麻纤维——而且随着时间的推移可能还不如那些贝壳耐用。"
+    },
+    {
+     "s": "Jazz being less popular with the young.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "爵士乐在年轻人中不那么受欢迎。"
+    },
+    {
+     "s": "58   , if there had been any talking, it would have   59   us to learn less.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "58，如果当时有任何交谈，那会让我们学得更少。"
+    },
+    {
+     "s": "There has been a recent trend in the food service industry toward lower fat content and less salt.",
+     "src": "2017全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "近来食品服务业出现了降低脂肪含量和减少盐用量的趋势。"
+    },
+    {
+     "s": "Getting less sleep has become a bad habit for most American kids.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "睡眠不足已经成为大多数美国孩子的坏习惯。"
+    },
+    {
+     "s": "And because the process of recycling steel is less polluting than making new steel, we’ve also achieved the following significant savings; in energy use—47% to 74%; in air pollution—85%; in water pollution—35%; in water use—40%.",
+     "src": "2017浙江11月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "而且因为回收钢比制造新钢污染更少，我们还取得了以下显著节约：能源使用——47%到74%；空气污染——85%；水污染——35%；用水——40%。"
+    },
+    {
+     "s": "This nature of data makes the antitrust measures of the past less useful.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "数据的这一性质使得过去的反垄断措施不太有效。"
+    },
+    {
+     "s": "But the most sensible form of adaptation is surely to adapt our energy systems to emit less carbon pollution.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但最明智的适应方式无疑是调整我们的能源系统以减少碳排放。"
+    },
+    {
+     "s": "When you make a suggestion, use less direct language than you would to make a statement or give an order.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "当你提出建议时，使用的语言要比陈述或下达命令时更间接。"
+    },
+    {
+     "s": "This way of making something seem less important or impressive than it actually is, is called understatement, and British people often use it.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这种让某事物显得比实际更不重要或更不令人印象深刻的方式，被称为轻描淡写，英国人经常使用它。"
+    },
+    {
+     "s": "Americans use understatement too, but less than British people do.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "美国人也使用轻描淡写，但比英国人用得少。"
+    },
+    {
+     "s": "Ted 35 Construction worker (1 picture) Each day at the construction site is more or less the same - tiring!",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "特德 35岁 建筑工人（1幅图）工地上的每一天都大同小异——累人！"
+    },
+    {
+     "s": "Dear Editor, 1 We have eaten out for the Spring Festival family dinner for the last three years, and we have enjoyed it no less than eating at home.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "t": "尊敬的编辑：1 过去三年我们都在外面吃春节家庭聚餐，我们享受的程度不亚于在家吃。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
