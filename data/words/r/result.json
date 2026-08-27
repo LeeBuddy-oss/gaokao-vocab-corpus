@@ -1,594 +1,587 @@
 {
-  "meta": {
-    "ph": "rɪˈzʌlt; NAmE rɪˈzʌlt",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "rɪˈzʌlt; NAmE rɪˈzʌlt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a thing that is caused or produced because of sth else 后果；结果",
+   "ex": [
+    {
+     "s": "The damage to the scentscape could result in harm to both health and spiritual practice.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "气味景观的破坏可能对健康和精神修行都造成伤害。"
+    },
+    {
+     "s": "The results were staggering.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "\"嘿，孩子，把那个放下。"
+    },
+    {
+     "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。"
+    },
+    {
+     "s": "There’s voluntary rereading, the result of a willful decision to revisit a book one has admired, or a book that has left one with some unanswered questions.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "有一种是自愿重读，即出于主观意愿决定重读一本自己欣赏过的书，或一本给自己留下了一些未解疑问的书。"
+    },
+    {
+     "s": "He was amazed at the results.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他对结果感到惊讶。"
+    },
+    {
+     "s": "Most frequently, the groups reported that they “shared arguments and reasoned together.” Somehow, these arguments and reasoning resulted in a global reduction in error.",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "最常见的情况是，这些小组报告说，它们“分享论点，共同推理”。 不知何故，这些论点和推理导致全球误差减少。"
+    },
+    {
+     "s": "Program evaluations show that kids eat more vegetables as a result of the classes.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "项目评估显示，由于这些课程，孩子们吃了更多的蔬菜。"
+    },
+    {
+     "s": "The end result is a read in which we learn to wonder like Socrates, see like Thoreau, listen like Schopenhauer, and have no regrets like Nietzsche.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "最终读到的，是我们学会像苏格拉底一样发问、像梭罗一样观察、像叔本华一样倾听、像尼采一样无怨无悔。"
+    },
+    {
+     "s": "Over the past few years, many solar farm developers have transformed the space under their solar panels into a shelter for various kinds of pollinators, resulting in soil improvement and carbon reduction.",
+     "src": "2023浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "过去几年里，许多太阳能农场开发商把太阳能板下的空间改造成了各种传粉昆虫的庇护所，从而改善了土壤并减少了碳排放。"
+    },
+    {
+     "s": "The result is a diverse line of projects that each advance along their unique paths.",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "结果是形成了多样化的项目系列，每个项目都沿着各自独特的路径前进。"
+    },
+    {
+     "s": "What is the result?",
+     "src": "2023北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "结果是什么？"
+    },
+    {
+     "s": "Short writings missed as a result of an excused absence will be accepted.",
+     "src": "2022全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "因准予缺勤而错过的短写作业将被接受。"
+    },
+    {
+     "s": "It takes ages to see the results.",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "检查结果需要很长时间"
+    },
+    {
+     "s": "Failure to provide enough chaperones will result in an extra charge of $50 per absent adult.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "若未提供足够的监护人，每位缺席的成人将额外收取50美元。"
+    },
+    {
+     "s": "Drinks now contain 45 million fewer kilos of sugar as a result of manufacturers' efforts to avoid the charge, according to Treasury analysis.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "据英国财政部分析，由于制造商们努力规避糖税，饮料中的糖含量如今减少了4500万公斤。"
+    },
+    {
+     "s": "The results were far from satisfactory.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "研究结果远未令人满意。"
+    },
+    {
+     "s": "Moderate effort produces the best result.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "适度的努力产生最好的结果。"
+    },
+    {
+     "s": "As a result, each year they received something they wanted.",
+     "src": "2022浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "结果，每年他们都收到了自己想要的东西。"
+    },
+    {
+     "s": "The result—an approach known as systems thinking—is now seen as essential in meeting global challenges.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "结果——一种被称为系统思维的方法——现在被视为应对全球挑战的关键。"
+    },
+    {
+     "s": "What is a direct result of the Act passed in 1934?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "1934年通过的法案的直接结果是什么？"
+    },
+    {
+     "s": "The project results from the difficulties many schools have in getting artists of any sort - whether an up-and-coming local musician or a major movie star - into schools to work with and inspire children.",
+     "src": "2021新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "该项目源于许多学校在邀请任何类型的艺术家——无论是崭露头角的本地音乐人还是大牌电影明星——进入学校与儿童合作并启发他们时所面临的困难。"
+    },
+    {
+     "s": "Here are the results.",
+     "src": "2021全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "以下是结果。"
+    },
+    {
+     "s": "One of the results produced by the trial project is                 .",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "该试点项目产生的结果之一是                 。"
+    },
+    {
+     "s": "This feeling can also result in many other health problems．",
+     "src": "2021北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这种感觉也会导致许多其他健康问题。"
+    },
+    {
+     "s": "Which of the following will result in disqualification? （    ）",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "以下哪种情况会导致取消资格？（    ）"
+    },
+    {
+     "s": "Whatever it is, the result is a fine and vivid description of the purest of Central Asian traditions.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "无论它是什么，结果都是对最纯粹的中亚传统的一种精致而生动的描绘。"
+    },
+    {
+     "s": "If an overweight person is having a large portion, I’ll hold back a bit because I see the results of his eating habits.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果一个超重的人拿了大份，我会稍微克制，因为我看到了他的饮食习惯带来的结果。"
+    },
+    {
+     "s": "His efforts have resulted in 1,360 acres of naturally-grown land that has become home to many plants and animals.",
+     "src": "2020全国新高考I卷·完型填空个",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他的努力带来了1,360英亩天然生长的土地，那里已成为许多植物和动物的家园。"
+    },
+    {
+     "s": "As a result, there was a lot of leftover cheese brine.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "结果，产生了大量剩余的奶酪卤水。"
+    },
+    {
+     "s": "Creativity results from challenging authority.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "创造力源于对权威的挑战。"
+    },
+    {
+     "s": "Human development results in fewer languages",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人类的发展导致语言数量减少。"
+    },
+    {
+     "s": "Experts say it’s an invaluable social practice that results in big benefits.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "专家说这是一种非常有价值的社会实践，能带来巨大的好处。"
+    },
+    {
+     "s": "Using them wrongly results in punishment．",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "D．没有培训师在场时禁止使用。"
+    },
+    {
+     "s": "As    65    result, people will eat more food to try to make up for that something missing.",
+     "src": "2017全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作为    65   结果，人们会吃更多食物，试图弥补缺失的那点东西。"
+    },
+    {
+     "s": "The disappearance of the wolves had many unexpected results.",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "灰狼的消失带来了许多意想不到的结果。"
+    },
+    {
+     "s": "The result is that people stop driving before they really need to.”",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "结果就是人们在真正需要停止驾驶之前就已经放弃了开车。\""
+    },
+    {
+     "s": "Students, parents and teachers are pleased with the results.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "学生、家长和老师对结果感到满意。"
+    },
+    {
+     "s": "As a result, the first four years of my postgraduate career were defined by a series of failures.",
+     "src": "2024北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "结果，我研究生生涯的头四年被一系列的失败所定义。"
+    },
+    {
+     "s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"
+    },
+    {
+     "s": "Is it used to give description or show result?",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "它是用来给出描述还是展示结果？"
+    },
+    {
+     "s": "Movies of course need impressive images, so why has Alice in Wonderland only resulted in movies best described as “interesting”?",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "电影当然需要令人印象深刻的画面，所以为什么《爱丽丝梦游仙境》只产生了最好被描述为'有趣'的电影？"
+    },
+    {
+     "s": "Going back to Walter Scott’s lines, we may find even white lies have results we cannot know in advance.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "回到沃尔特·司各特的诗句，我们可能会发现即使是善意的谎言也会产生我们无法预知的结果。"
+    },
+    {
+     "s": "The result is that many communities, especially in farming regions, see solar farms as destroyers of the soil.",
+     "src": "2023浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "其结果是，许多社区，特别是农业地区的社区，将太阳能农场视为土壤的驱逐舰。"
+    },
+    {
+     "s": "The research, carried out by scientists at the Columbia Climate School and other institutions, found that if the city maintains past species patterns in new plantings, isoprene production in Manhattan in coming decades will go up by about 140%, and resulting summer ozone levels as much as 30%.",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这项由哥伦比亚气候学院及其他机构的科学家开展的研究发现，如果该市在新种植中沿用过去的树种模式，未来几十年曼哈顿的异戊二烯产量将上升约140%，由此导致的夏季臭氧水平最多将上升30%。"
+    },
+    {
+     "s": "How did the author feel about the result of the art exam?",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者对美术考试结果的感受如何？"
+    },
+    {
+     "s": "The results show that consumers generally trust negative reviews more than positive ones.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "结果表明，消费者总体上更相信负面评论而不是正面评论。"
+    },
+    {
+     "s": "“Biodiversity apps can use our study results to inform users of oversampled areas and lead them to places — and even species — that are not well-sampled.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "“生物多样性应用可以利用我们的研究结果告知用户哪些地区采样过度，并引导他们去那些采样不足的地方——甚至去关注采样不足的物种。"
+    },
+    {
+     "s": "But since the results at 70 decibels were significant, the study also suggests that the right level of background noise—not too loud and not total silence—may actually improve one’s creative thinking ability.",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
+    },
+    {
+     "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
+    },
+    {
+     "s": "The results held true even after the scientists accounted for the participants’ overall health status.",
+     "src": "2020浙江7月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "即使在科学家对参与者的总体健康状况作了说明之后，结果还是真实的。"
+    },
+    {
+     "s": "The results showed that those who chatted with their server reported significantly higher positive feelings and a better coffee shop experience.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "结果显示，与店员聊过天的人报告了明显更高的积极情绪和更好的咖啡店体验。"
+    },
+    {
+     "s": "The implication of these results is that to gain the greatest health benefits from exercise, it may be wise to skip eating first.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些结果的暗示是，要从运动中获得最大的健康益处，先不吃东西可能是明智的。"
+    },
+    {
+     "s": "Results … Note: Do the experiment under the instructions of a teacher.",
+     "src": "外研社B3 U3",
+     "cat": "waiyan",
+     "t": "结果……注意：在老师的指导下进行实验。"
+    },
+    {
+     "s": "The results were similar to the first test: the participants followed suit but took significantly more candy when the thin actor took 30 pieces.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "结果与第一次测试相似：参与者们纷纷效仿，但当瘦演员拿30块糖果时，他们拿的糖果明显更多。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the final score or the name of the winner in a sports event, competition, election, etc. 结果（包括比分、得票、获胜者或当选者名单等）",
+   "ex": []
+  },
+  {
+   "def": "a victory or a success, especially in a game of football (soccer) （尤指足球比赛的）胜利，胜局",
+   "ex": [
     {
-      "def": "a thing that is caused or produced because of sth else 后果；结果",
-      "ex": [
-        {
-          "s": "The damage to the scentscape could result in harm to both health and spiritual practice.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "气味景观的破坏可能对健康和精神修行都造成伤害。"
-        },
-        {
-          "s": "The results were staggering.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "\"嘿，孩子，把那个放下。"
-        },
-        {
-          "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。"
-        },
-        {
-          "s": "There’s voluntary rereading, the result of a willful decision to revisit a book one has admired, or a book that has left one with some unanswered questions.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "有一种是自愿重读，即出于主观意愿决定重读一本自己欣赏过的书，或一本给自己留下了一些未解疑问的书。"
-        },
-        {
-          "s": "He was amazed at the results.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他对结果感到惊讶。"
-        },
-        {
-          "s": "Most frequently, the groups reported that they “shared arguments and reasoned together.” Somehow, these arguments and reasoning resulted in a global reduction in error.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最常见的情况是，这些小组报告说，它们“分享论点，共同推理”。 不知何故，这些论点和推理导致全球误差减少。"
-        },
-        {
-          "s": "Program evaluations show that kids eat more vegetables as a result of the classes.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "项目评估显示，由于这些课程，孩子们吃了更多的蔬菜。"
-        },
-        {
-          "s": "The end result is a read in which we learn to wonder like Socrates, see like Thoreau, listen like Schopenhauer, and have no regrets like Nietzsche.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最终读到的，是我们学会像苏格拉底一样发问、像梭罗一样观察、像叔本华一样倾听、像尼采一样无怨无悔。"
-        },
-        {
-          "s": "Over the past few years, many solar farm developers have transformed the space under their solar panels into a shelter for various kinds of pollinators, resulting in soil improvement and carbon reduction.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "过去几年里，许多太阳能农场开发商把太阳能板下的空间改造成了各种传粉昆虫的庇护所，从而改善了土壤并减少了碳排放。"
-        },
-        {
-          "s": "The result is a diverse line of projects that each advance along their unique paths.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "结果是形成了多样化的项目系列，每个项目都沿着各自独特的路径前进。"
-        },
-        {
-          "s": "What is the result?",
-          "src": "2023北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "结果是什么？"
-        },
-        {
-          "s": "Short writings missed as a result of an excused absence will be accepted.",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "因准予缺勤而错过的短写作业将被接受。"
-        },
-        {
-          "s": "It takes ages to see the results.",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "检查结果需要很长时间"
-        },
-        {
-          "s": "Failure to provide enough chaperones will result in an extra charge of $50 per absent adult.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "若未提供足够的监护人，每位缺席的成人将额外收取50美元。"
-        },
-        {
-          "s": "Drinks now contain 45 million fewer kilos of sugar as a result of manufacturers' efforts to avoid the charge, according to Treasury analysis.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "据英国财政部分析，由于制造商们努力规避糖税，饮料中的糖含量如今减少了4500万公斤。"
-        },
-        {
-          "s": "The results were far from satisfactory.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "研究结果远未令人满意。"
-        },
-        {
-          "s": "Moderate effort produces the best result.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "适度的努力产生最好的结果。"
-        },
-        {
-          "s": "As a result, each year they received something they wanted.",
-          "src": "2022浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "结果，每年他们都收到了自己想要的东西。"
-        },
-        {
-          "s": "The result—an approach known as systems thinking—is now seen as essential in meeting global challenges.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "结果——一种被称为系统思维的方法——现在被视为应对全球挑战的关键。"
-        },
-        {
-          "s": "What is a direct result of the Act passed in 1934?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "1934年通过的法案的直接结果是什么？"
-        },
-        {
-          "s": "The project results from the difficulties many schools have in getting artists of any sort - whether an up-and-coming local musician or a major movie star - into schools to work with and inspire children.",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "该项目源于许多学校在邀请任何类型的艺术家——无论是崭露头角的本地音乐人还是大牌电影明星——进入学校与儿童合作并启发他们时所面临的困难。"
-        },
-        {
-          "s": "Here are the results.",
-          "src": "2021全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "以下是结果。"
-        },
-        {
-          "s": "One of the results produced by the trial project is                 .",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "该试点项目产生的结果之一是                 。"
-        },
-        {
-          "s": "This feeling can also result in many other health problems．",
-          "src": "2021北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这种感觉也会导致许多其他健康问题。"
-        },
-        {
-          "s": "Which of the following will result in disqualification? （    ）",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "以下哪种情况会导致取消资格？（    ）"
-        },
-        {
-          "s": "Whatever it is, the result is a fine and vivid description of the purest of Central Asian traditions.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "无论它是什么，结果都是对最纯粹的中亚传统的一种精致而生动的描绘。"
-        },
-        {
-          "s": "If an overweight person is having a large portion, I’ll hold back a bit because I see the results of his eating habits.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果一个超重的人拿了大份，我会稍微克制，因为我看到了他的饮食习惯带来的结果。"
-        },
-        {
-          "s": "His efforts have resulted in 1,360 acres of naturally-grown land that has become home to many plants and animals.",
-          "src": "2020全国新高考I卷·完型填空个",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他的努力带来了1,360英亩天然生长的土地，那里已成为许多植物和动物的家园。"
-        },
-        {
-          "s": "As a result, there was a lot of leftover cheese brine.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "结果，产生了大量剩余的奶酪卤水。"
-        },
-        {
-          "s": "Creativity results from challenging authority.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "创造力源于对权威的挑战。"
-        },
-        {
-          "s": "Human development results in fewer languages",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人类的发展导致语言数量减少。"
-        },
-        {
-          "s": "Experts say it’s an invaluable social practice that results in big benefits.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "专家说这是一种非常有价值的社会实践，能带来巨大的好处。"
-        },
-        {
-          "s": "Using them wrongly results in punishment．",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "D．没有培训师在场时禁止使用。"
-        },
-        {
-          "s": "As    65    result, people will eat more food to try to make up for that something missing.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作为    65   结果，人们会吃更多食物，试图弥补缺失的那点东西。"
-        },
-        {
-          "s": "The disappearance of the wolves had many unexpected results.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "灰狼的消失带来了许多意想不到的结果。"
-        },
-        {
-          "s": "The result is that people stop driving before they really need to.”",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "结果就是人们在真正需要停止驾驶之前就已经放弃了开车。\""
-        },
-        {
-          "s": "Students, parents and teachers are pleased with the results.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "学生、家长和老师对结果感到满意。"
-        },
-        {
-          "s": "As a result, the first four years of my postgraduate career were defined by a series of failures.",
-          "src": "2024北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "结果，我研究生生涯的头四年被一系列的失败所定义。"
-        },
-        {
-          "s": "As a result, they burned more fat during walks on an empty stomach than when they had eaten first.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "结果，他们空腹走路时燃烧的脂肪多于先吃饭时。"
-        },
-        {
-          "s": "Is it used to give description or show result?",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "它是用来给出描述还是展示结果？"
-        },
-        {
-          "s": "Movies of course need impressive images, so why has Alice in Wonderland only resulted in movies best described as “interesting”?",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "电影当然需要令人印象深刻的画面，所以为什么《爱丽丝梦游仙境》只产生了最好被描述为'有趣'的电影？"
-        },
-        {
-          "s": "Going back to Walter Scott’s lines, we may find even white lies have results we cannot know in advance.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "回到沃尔特·司各特的诗句，我们可能会发现即使是善意的谎言也会产生我们无法预知的结果。"
-        },
-        {
-          "s": "The result is that many communities, especially in farming regions, see solar farms as destroyers of the soil.",
-          "src": "2023浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "其结果是，许多社区，特别是农业地区的社区，将太阳能农场视为土壤的驱逐舰。"
-        },
-        {
-          "s": "The research, carried out by scientists at the Columbia Climate School and other institutions, found that if the city maintains past species patterns in new plantings, isoprene production in Manhattan in coming decades will go up by about 140%, and resulting summer ozone levels as much as 30%.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这项由哥伦比亚气候学院及其他机构的科学家开展的研究发现，如果该市在新种植中沿用过去的树种模式，未来几十年曼哈顿的异戊二烯产量将上升约140%，由此导致的夏季臭氧水平最多将上升30%。"
-        },
-        {
-          "s": "How did the author feel about the result of the art exam?",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者对美术考试结果的感受如何？"
-        },
-        {
-          "s": "The results show that consumers generally trust negative reviews more than positive ones.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "结果表明，消费者总体上更相信负面评论而不是正面评论。"
-        },
-        {
-          "s": "“Biodiversity apps can use our study results to inform users of oversampled areas and lead them to places — and even species — that are not well-sampled.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "“生物多样性应用可以利用我们的研究结果告知用户哪些地区采样过度，并引导他们去那些采样不足的地方——甚至去关注采样不足的物种。"
-        },
-        {
-          "s": "But since the results at 70 decibels were significant, the study also suggests that the right level of background noise—not too loud and not total silence—may actually improve one’s creative thinking ability.",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但由于70分贝下的结果具有显著性，该研究也表明，适当的背景噪音水平——不太吵也不完全无声——实际上可能提升一个人的创造性思维能力。"
-        },
-        {
-          "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
-        },
-        {
-          "s": "The results held true even after the scientists accounted for the participants’ overall health status.",
-          "src": "2020浙江7月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "即使在科学家对参与者的总体健康状况作了说明之后，结果还是真实的。"
-        },
-        {
-          "s": "The results showed that those who chatted with their server reported significantly higher positive feelings and a better coffee shop experience.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "结果显示，与店员聊过天的人报告了明显更高的积极情绪和更好的咖啡店体验。"
-        },
-        {
-          "s": "The implication of these results is that to gain the greatest health benefits from exercise, it may be wise to skip eating first.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些结果的暗示是，要从运动中获得最大的健康益处，先不吃东西可能是明智的。"
-        },
-        {
-          "s": "Results … Note: Do the experiment under the instructions of a teacher.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "结果……注意：在老师的指导下进行实验。"
-        },
-        {
-          "s": "The results were similar to the first test: the participants followed suit but took significantly more candy when the thin actor took 30 pieces.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "结果与第一次测试相似：参与者们纷纷效仿，但当瘦演员拿30块糖果时，他们拿的糖果明显更多。"
-        }
-      ]
-    },
-    {
-      "def": "the final score or the name of the winner in a sports event, competition, election, etc. 结果（包括比分、得票、获胜者或当选者名单等）",
-      "ex": []
-    },
-    {
-      "def": "a victory or a success, especially in a game of football (soccer) （尤指足球比赛的）胜利，胜局",
-      "ex": [
-        {
-          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
-        }
-      ]
-    },
-    {
-      "def": "the mark/grade you get in an exam or in a number of exams 得分；成绩",
-      "ex": [
-        {
-          "s": "It is so easy to let an online course slide, but your grades will suffer as a result.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在加拿大北部严酷的生存环境下，因纽特人的实用主义道德观是非常合理的。"
-        },
-        {
-          "s": "40   The resulting blank space invites you to revise.",
-          "src": "2022全国新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "40 由此产生的空白空间邀请你去修改。"
-        },
-        {
-          "s": "You’ll be informed by email if you are being deregistered as a result of missing sessions.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果因缺席活动而被注销，你会收到邮件通知。"
-        },
-        {
-          "s": "Fire extinguishers are located on each floor and in each apartment． Use a fire extinguisher only if you have been trained to do so． Irresponsible use of a fire extinguisher can create a dangerous situation for other residents and could result in damage to personal property． Misuse of a fire extinguisher will result in fines．",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "每层楼和每个公寓都配有灭火器。只有在受过训练时才可使用。不负责任地使用灭火器会给其他住户带来危险，并可能损坏个人财产。滥用灭火器将被罚款。"
-        },
-        {
-          "s": "Better examination results.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "更好的考试成绩。"
-        }
-      ]
-    },
-    {
-      "def": "the information that you get from a scientific test or piece of research 结果；成果",
-      "ex": [
-        {
-          "s": "The result was Project Wild Thing, a film which charts the birth of the Wild Network a group of organisations with the common goal of getting children out into nature.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "成果是《野生动物计划》这部影片，它记录了“野生网络”的诞生——一个由多个组织组成的、以让孩子走进自然为共同目标的团体。"
-        },
-        {
-          "s": "Kids will feel like they're not good enough or that you don't care and, as a result, may see no point in trying hard for their accomplishments.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "孩子会觉得他们不够好，或者你不在乎，结果可能认为努力争取成就毫无意义。"
-        },
-        {
-          "s": "Are you pleased with your result?",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "你对你的结果满意吗？"
-        },
-        {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
-        },
-        {
-          "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
-        },
-        {
-          "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
-        },
-        {
-          "s": "An evolutionary inference can then be drawn. ＂As a parent, do you invest in quality children, or do you invest in children that are in need?＂ Kleindorfer asks. ＂Our results suggest that they might be going for quality.＂",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "由此可以做出一个进化上的推断。“作为父母，你是投资在优质的孩子身上，还是投资在需要帮助的孩子身上？”克莱因多弗问道。“我们的结果表明，它们可能是在追求质量。”"
-        },
-        {
-          "s": "To get good and useful results, ask them the same question.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "要想获得好的有用的结果，问他们同样的问题。"
-        },
-        {
-          "s": "To determine factors behind the test results.",
-          "src": "2026新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了找出测试结果背后的因素。"
-        },
-        {
-          "s": "You will then be asked to take an ESL Placement Test The test results will help you choose the class that is appropriate for you.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然后你会被要求参加ESL分班测试。测试结果将帮助你选择适合你的班级。"
-        },
-        {
-          "s": "Supporting evidence for the research results.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "研究结果的佐证证据。"
-        },
-        {
-          "s": "More research is needed to see if improved fitness could have a positive effect on the risk of dementia and also to look at when during a lifetime a high fitness level is most important. \" She also admitted that a relatively small number of women were studied, all of whom were form Sweden, so the results might not be applicable to other groups.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "需要开展更多的研究，以了解改善健康状况能否对痴呆症的风险产生积极的影响，并审视在一生中，高水平的健身水平何时最为重要。 \" 她还承认，研究的妇女人数相对较少，她们都是瑞典人，因此研究结果可能不适用于其他群体。"
-        },
-        {
-          "s": "Crystal knew that visions alone don’t produce results, but concluded that “we’ll never produce results that we can’t envision”.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Crystal知道仅靠愿景不会产生成果，但她得出结论：\"我们永远无法产生我们无法设想的成果\"。"
-        }
-      ]
-    },
-    {
-      "def": "things that are achieved successfully 成功实现的事；成果；成效",
-      "ex": [
-        {
-          "s": "As a result it’s likely to see a rise in the size of its working-age population and to witness strong economic growth over the longer term.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "因此，它的劳动年龄人口规模很可能上升，并在更长期内实现强劲的经济增长。"
-        },
-        {
-          "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "印刷和数字阅读结果之间的差异部分与纸张的物理特性有关。"
-        },
-        {
-          "s": "When enough of these errors are averaged together, they cancel each other out, resulting in a more accurate estimate.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当足够多的这类误差被平均在一起时，它们会相互抵消，从而得到更准确的估计。"
-        },
-        {
-          "s": "As a result, she says, some of the injuries associated with running, such as runner’s knee, are uncommon among race walkers.",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她说，因此，一些与跑步相关的损伤，如跑步膝，在竞走者中并不常见。"
-        },
-        {
-          "s": "Success results in overconfidence",
-          "src": "2020全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "失败应该避免。"
-        },
-        {
-          "s": "Positive thinking and action result in success.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "积极思维和行动带来成功。"
-        }
-      ]
+     "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the mark/grade you get in an exam or in a number of exams 得分；成绩",
+   "ex": [
     {
-      "en": "creativity results",
-      "cn": "后果",
-      "type": "名词短语",
-      "count": 1
+     "s": "It is so easy to let an online course slide, but your grades will suffer as a result.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在加拿大北部严酷的生存环境下，因纽特人的实用主义道德观是非常合理的。"
+    },
+    {
+     "s": "40   The resulting blank space invites you to revise.",
+     "src": "2022全国新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "40 由此产生的空白空间邀请你去修改。"
+    },
+    {
+     "s": "You’ll be informed by email if you are being deregistered as a result of missing sessions.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果因缺席活动而被注销，你会收到邮件通知。"
+    },
+    {
+     "s": "Fire extinguishers are located on each floor and in each apartment． Use a fire extinguisher only if you have been trained to do so． Irresponsible use of a fire extinguisher can create a dangerous situation for other residents and could result in damage to personal property． Misuse of a fire extinguisher will result in fines．",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "每层楼和每个公寓都配有灭火器。只有在受过训练时才可使用。不负责任地使用灭火器会给其他住户带来危险，并可能损坏个人财产。滥用灭火器将被罚款。"
+    },
+    {
+     "s": "Better examination results.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "更好的考试成绩。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the information that you get from a scientific test or piece of research 结果；成果",
+   "ex": [
+    {
+     "s": "The result was Project Wild Thing, a film which charts the birth of the Wild Network a group of organisations with the common goal of getting children out into nature.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "成果是《野生动物计划》这部影片，它记录了“野生网络”的诞生——一个由多个组织组成的、以让孩子走进自然为共同目标的团体。"
+    },
+    {
+     "s": "Kids will feel like they're not good enough or that you don't care and, as a result, may see no point in trying hard for their accomplishments.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "孩子会觉得他们不够好，或者你不在乎，结果可能认为努力争取成就毫无意义。"
+    },
+    {
+     "s": "Are you pleased with your result?",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "你对你的结果满意吗？"
+    },
+    {
+     "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+    },
+    {
+     "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
+    },
+    {
+     "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
+    },
+    {
+     "s": "An evolutionary inference can then be drawn. ＂As a parent, do you invest in quality children, or do you invest in children that are in need?＂ Kleindorfer asks. ＂Our results suggest that they might be going for quality.＂",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "由此可以做出一个进化上的推断。“作为父母，你是投资在优质的孩子身上，还是投资在需要帮助的孩子身上？”克莱因多弗问道。“我们的结果表明，它们可能是在追求质量。”"
+    },
+    {
+     "s": "To get good and useful results, ask them the same question.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "要想获得好的有用的结果，问他们同样的问题。"
+    },
+    {
+     "s": "To determine factors behind the test results.",
+     "src": "2026新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "为了找出测试结果背后的因素。"
+    },
+    {
+     "s": "You will then be asked to take an ESL Placement Test The test results will help you choose the class that is appropriate for you.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "然后你会被要求参加ESL分班测试。测试结果将帮助你选择适合你的班级。"
+    },
+    {
+     "s": "Supporting evidence for the research results.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "研究结果的佐证证据。"
+    },
+    {
+     "s": "More research is needed to see if improved fitness could have a positive effect on the risk of dementia and also to look at when during a lifetime a high fitness level is most important. \" She also admitted that a relatively small number of women were studied, all of whom were form Sweden, so the results might not be applicable to other groups.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "需要开展更多的研究，以了解改善健康状况能否对痴呆症的风险产生积极的影响，并审视在一生中，高水平的健身水平何时最为重要。 \" 她还承认，研究的妇女人数相对较少，她们都是瑞典人，因此研究结果可能不适用于其他群体。"
+    },
+    {
+     "s": "Crystal knew that visions alone don’t produce results, but concluded that “we’ll never produce results that we can’t envision”.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Crystal知道仅靠愿景不会产生成果，但她得出结论：\"我们永远无法产生我们无法设想的成果\"。"
+    }
+   ]
+  },
+  {
+   "def": "things that are achieved successfully 成功实现的事；成果；成效",
+   "ex": [
+    {
+     "s": "As a result it’s likely to see a rise in the size of its working-age population and to witness strong economic growth over the longer term.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "因此，它的劳动年龄人口规模很可能上升，并在更长期内实现强劲的经济增长。"
+    },
+    {
+     "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "印刷和数字阅读结果之间的差异部分与纸张的物理特性有关。"
+    },
+    {
+     "s": "When enough of these errors are averaged together, they cancel each other out, resulting in a more accurate estimate.",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当足够多的这类误差被平均在一起时，它们会相互抵消，从而得到更准确的估计。"
+    },
+    {
+     "s": "As a result, she says, some of the injuries associated with running, such as runner’s knee, are uncommon among race walkers.",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她说，因此，一些与跑步相关的损伤，如跑步膝，在竞走者中并不常见。"
+    },
+    {
+     "s": "Success results in overconfidence",
+     "src": "2020全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "失败应该避免。"
+    },
+    {
+     "s": "Positive thinking and action result in success.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "积极思维和行动带来成功。"
+    }
+   ]
+  }
+ ],
+ "chunks": []
 }
