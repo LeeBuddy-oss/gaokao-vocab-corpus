@@ -1,229 +1,222 @@
 {
-  "meta": {
-    "ph": "ˈseʃn; NAmE ˈseʃn",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈseʃn; NAmE ˈseʃn",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a period of time that is spent doing a particular activity 一场；一节；一段时间",
+   "ex": [
+    {
+     "s": "design programme activitiesD. attend hands-on sessions",
+     "src": "2025北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "设计项目活动 D. 参加动手实践环节"
+    },
+    {
+     "s": "The day is divided into two thematic sessions per age group.",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "每天按年龄组分两个主题时段。"
+    },
+    {
+     "s": "All camp sessions are created with age-appropriate activities that are tailored to the multiple ways that kids learn.",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "所有营期都按年龄设计合适的活动，针对孩子多种学习方式量身定制。"
+    },
+    {
+     "s": "At the end of each session I return home feeling stronger, lighter, more able to carry on.",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "每次课程结束时，我回到家感觉更强壮、更轻松，更能继续下去。"
+    },
+    {
+     "s": "Wendy Wilson, extra care manager at 60 Penfold Street, one of the first to embark on the project, said: “Residents really welcome the idea of the project and the creative sessions.",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Penfold街60号的额外护理经理Wendy Wilson是最早参与该项目的人之一，她说：\"居民们非常欢迎这个项目和创意活动。"
+    },
+    {
+     "s": "Her notice included what kind of training she wanted to do, how many days a week and how many hours she wanted to spend on each session, and her age.",
+     "src": "2022全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她的启事包括她想做哪种训练、每周几天、每次几小时，以及她的年龄。"
+    },
+    {
+     "s": "PASS involves weekly sessions where you work in groups to tackle specially prepared problem sets, based around a unit of study you’re enrolled in.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "PASS包含每周的小组活动，你以小组形式攻克特别准备的问题集，围绕你所修的一个学习单元。"
+    },
+    {
+     "s": "If a session is full, you can register for the waiting list.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果一次活动满员，你可以登记等候名单。"
+    },
+    {
+     "s": "If you miss two PASS sessions in a row, you will be deregistered and your place will be given to someone on the waiting list.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果你连续错过两次PASS课程，你将被取消注册，你的位置将给候补名单上的人。"
+    },
+    {
+     "s": "Make sure you fill in the attendance sheet at each session to record your attendance.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "确保每次课程都填写考勤表以记录出勤情况。"
+    },
+    {
+     "s": "22 What can students do if a session is full?",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "22 如果一次活动满员，学生可以怎么做？"
+    },
+    {
+     "s": "they give their places to othersD. they miss two sessions in a row",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他们把名额让给别人 D. 他们连续错过两次活动"
+    },
+    {
+     "s": "We will be holding a free taster session on 23rd May, at 10 am, to demonstrate the variety of effective and active exercises.",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我们将于5月23日上午10点举办一场免费体验课，展示各种有效且活跃的锻炼方式。"
+    },
+    {
+     "s": "What should you do if you want to attend the taster session of Jodie's fitness classes?",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "如果您想参加Jodie健身课程的体验课，您应该怎么做？"
+    },
+    {
+     "s": "Libraries will often hold reading-group sessions targeted to various age groups.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "图书馆经常会举办针对不同年龄段的阅读小组活动。"
+    },
+    {
+     "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
+    },
+    {
+     "s": "How many lab sessions will the students have every week?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "学生每周有多少个实验室课程？"
+    },
+    {
+     "s": "Over the next six weeks, I gradually increased the distance I ran in each training session and also made sure to allow my body enough time to rest and recover after each run.",
+     "src": "译林选必2 U2",
+     "cat": "yilin",
+     "t": "在接下来的六个星期里，我逐渐增加了每次训练的距离，并且还确保了让我的身体有足够的时间休息，并在每次训练后恢复。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a formal meeting or series of meetings of a court, a parliament, etc; a period of time when such meetings are held （法庭的）开庭，开庭期；（议会等的）会议，会期",
+   "ex": [
     {
-      "def": "a period of time that is spent doing a particular activity 一场；一节；一段时间",
-      "ex": [
-        {
-          "s": "design programme activitiesD. attend hands-on sessions",
-          "src": "2025北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "设计项目活动 D. 参加动手实践环节"
-        },
-        {
-          "s": "The day is divided into two thematic sessions per age group.",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每天按年龄组分两个主题时段。"
-        },
-        {
-          "s": "All camp sessions are created with age-appropriate activities that are tailored to the multiple ways that kids learn.",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "所有营期都按年龄设计合适的活动，针对孩子多种学习方式量身定制。"
-        },
-        {
-          "s": "At the end of each session I return home feeling stronger, lighter, more able to carry on.",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每次课程结束时，我回到家感觉更强壮、更轻松，更能继续下去。"
-        },
-        {
-          "s": "Wendy Wilson, extra care manager at 60 Penfold Street, one of the first to embark on the project, said: “Residents really welcome the idea of the project and the creative sessions.",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Penfold街60号的额外护理经理Wendy Wilson是最早参与该项目的人之一，她说：\"居民们非常欢迎这个项目和创意活动。"
-        },
-        {
-          "s": "Her notice included what kind of training she wanted to do, how many days a week and how many hours she wanted to spend on each session, and her age.",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她的启事包括她想做哪种训练、每周几天、每次几小时，以及她的年龄。"
-        },
-        {
-          "s": "PASS involves weekly sessions where you work in groups to tackle specially prepared problem sets, based around a unit of study you’re enrolled in.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "PASS包含每周的小组活动，你以小组形式攻克特别准备的问题集，围绕你所修的一个学习单元。"
-        },
-        {
-          "s": "If a session is full, you can register for the waiting list.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果一次活动满员，你可以登记等候名单。"
-        },
-        {
-          "s": "If you miss two PASS sessions in a row, you will be deregistered and your place will be given to someone on the waiting list.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果你连续错过两次PASS课程，你将被取消注册，你的位置将给候补名单上的人。"
-        },
-        {
-          "s": "Make sure you fill in the attendance sheet at each session to record your attendance.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保每次课程都填写考勤表以记录出勤情况。"
-        },
-        {
-          "s": "22 What can students do if a session is full?",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "22 如果一次活动满员，学生可以怎么做？"
-        },
-        {
-          "s": "they give their places to othersD. they miss two sessions in a row",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他们把名额让给别人 D. 他们连续错过两次活动"
-        },
-        {
-          "s": "We will be holding a free taster session on 23rd May, at 10 am, to demonstrate the variety of effective and active exercises.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们将于5月23日上午10点举办一场免费体验课，展示各种有效且活跃的锻炼方式。"
-        },
-        {
-          "s": "What should you do if you want to attend the taster session of Jodie's fitness classes?",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "如果您想参加Jodie健身课程的体验课，您应该怎么做？"
-        },
-        {
-          "s": "Libraries will often hold reading-group sessions targeted to various age groups.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "图书馆经常会举办针对不同年龄段的阅读小组活动。"
-        },
-        {
-          "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
-        },
-        {
-          "s": "How many lab sessions will the students have every week?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "学生每周有多少个实验室课程？"
-        },
-        {
-          "s": "Over the next six weeks, I gradually increased the distance I ran in each training session and also made sure to allow my body enough time to rest and recover after each run.",
-          "src": "译林选必2 U2",
-          "cat": "yilin",
-          "t": "在接下来的六个星期里，我逐渐增加了每次训练的距离，并且还确保了让我的身体有足够的时间休息，并在每次训练后恢复。"
-        }
-      ]
+     "s": "•One welcoming session on the second Friday of the term",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "• 在第二个星期五举行一次欢迎会议"
     },
     {
-      "def": "a formal meeting or series of meetings of a court, a parliament, etc; a period of time when such meetings are held （法庭的）开庭，开庭期；（议会等的）会议，会期",
-      "ex": [
-        {
-          "s": "•One welcoming session on the second Friday of the term",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "• 在第二个星期五举行一次欢迎会议"
-        },
-        {
-          "s": "The sessions can be attended live or watched back after they are made available on the IOC channel.",
-          "src": "2023北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这些课程可以直播参加，也可在IOC频道上线后回看。"
-        },
-        {
-          "s": "You’ll be informed by email if you are being deregistered as a result of missing sessions.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果因缺席活动而被注销，你会收到邮件通知。"
-        },
-        {
-          "s": "We will email you if a place becomes available or if a new session is to be held.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果有名额空出或要举办新活动，我们会给你发邮件。"
-        },
-        {
-          "s": "There are eight spaces available for the taster session.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "体验课还有8个名额。"
-        }
-      ]
+     "s": "The sessions can be attended live or watched back after they are made available on the IOC channel.",
+     "src": "2023北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这些课程可以直播参加，也可在IOC频道上线后回看。"
     },
     {
-      "def": "a school or university year 学年",
-      "ex": [
-        {
-          "s": "As a peer group, you decide what is covered in each session.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作为同伴小组，你们决定每次活动涵盖什么内容。"
-        },
-        {
-          "s": "As the summer months roll in, our Georgian country estate makes the perfect setting for an outdoor fitness session.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "来吧，在我们的合格私人教练乔迪·麦格雷戈的带领下，在米德尔顿庄园的场地上锻炼。"
-        },
-        {
-          "s": "Tickets: £7.50 per session",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "门票：每场7.50英镑。"
-        },
-        {
-          "s": "The end of a lecture is often followed by a short question-and-answer session.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "讲座结束后，经常进行简短的问答。"
-        },
-        {
-          "s": "T F 4 Mateusz takes up to 1,000 photographs in each session.",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "TF 4 Mateusz在每场比赛中拍摄最多1000张照片。"
-        }
-      ]
+     "s": "You’ll be informed by email if you are being deregistered as a result of missing sessions.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果因缺席活动而被注销，你会收到邮件通知。"
     },
     {
-      "def": "an occasion when people meet to play music, especially Irish music, in a pub/bar （酒吧中）演奏会（尤指演奏爱尔兰音乐）",
-      "ex": []
+     "s": "We will email you if a place becomes available or if a new session is to be held.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果有名额空出或要举办新活动，我们会给你发邮件。"
+    },
+    {
+     "s": "There are eight spaces available for the taster session.",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "体验课还有8个名额。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a school or university year 学年",
+   "ex": [
     {
-      "en": "taster session",
-      "cn": "一场",
-      "type": "名词短语",
-      "count": 3
+     "s": "As a peer group, you decide what is covered in each session.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作为同伴小组，你们决定每次活动涵盖什么内容。"
+    },
+    {
+     "s": "As the summer months roll in, our Georgian country estate makes the perfect setting for an outdoor fitness session.",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "来吧，在我们的合格私人教练乔迪·麦格雷戈的带领下，在米德尔顿庄园的场地上锻炼。"
+    },
+    {
+     "s": "Tickets: £7.50 per session",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "门票：每场7.50英镑。"
+    },
+    {
+     "s": "The end of a lecture is often followed by a short question-and-answer session.",
+     "src": "外研社B5 U5",
+     "cat": "waiyan",
+     "t": "讲座结束后，经常进行简短的问答。"
+    },
+    {
+     "s": "T F 4 Mateusz takes up to 1,000 photographs in each session.",
+     "src": "人教选必4 U5",
+     "cat": "renjiao",
+     "t": "TF 4 Mateusz在每场比赛中拍摄最多1000张照片。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "an occasion when people meet to play music, especially Irish music, in a pub/bar （酒吧中）演奏会（尤指演奏爱尔兰音乐）",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
