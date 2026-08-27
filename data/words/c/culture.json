@@ -1,303 +1,297 @@
 {
-  "meta": {
-    "ph": "ˈkʌltʃə(r); NAmE ˈkʌltʃər",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈkʌltʃə(r); NAmE ˈkʌltʃər",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "the customs and beliefs, art, way of life and social organization of a particular country or group 文化，文明（指国家或群体的风俗、信仰、艺术、生活方式及社会组织）",
+   "ex": [
+    {
+     "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
+    },
+    {
+     "s": "To promote the local culture.",
+     "src": "2024新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为了推广当地文化。"
+    },
+    {
+     "s": "Virtues: Bridges Across CulturesB.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "美德：跨越文化的桥梁B."
+    },
+    {
+     "s": "In artists’ representations of books and reading, we see moments of shared humanity that go beyond culture and time.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"
+    },
+    {
+     "s": "In this “book of books,” artworks are selected and arranged in a way that emphasizes these connections between different eras and cultures.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在这本\"书中的书\"中，艺术作品的选取和编排方式强调了不同时代和文化之间的联系。"
+    },
+    {
+     "s": "They are a symbol of American culture.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它们是美国文化的象征。"
+    },
+    {
+     "s": "The company culture.",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "公司文化。"
+    },
+    {
+     "s": "A city built on ancient cultures is more dynamic.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "建立在古老文化之上的城市更有活力。"
+    },
+    {
+     "s": "It also provides a rather strong foundation for empathy across cultures.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它还为不同文化之间的同情提供了相当坚实的基础。"
+    },
+    {
+     "s": "Mountains are   51   as spiritual places by many cultures.",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "许多文化将山脉视为精神圣地。"
+    },
+    {
+     "s": "Depending on which role you choose，you could help to increase a community's access to safe drinking water，or help to protect valuable local cultures.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "根据你的角色选择，你可以帮助某个社区获得安全饮用水，或帮助保护宝贵的当地文化。"
+    },
+    {
+     "s": "explore new cultures      B. protect the environment",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "探索新文化 B. 保护环境"
+    },
+    {
+     "s": "To encourage studies on culture.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "推广维多利亚时代的价值观。"
+    },
+    {
+     "s": "The car shaped some of the most lasting aspects of American culture: the roadside diner, the billboard, the motel, even the hamburger.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "汽车塑造了美国文化中一些最持久的方面：路边餐厅、广告牌、汽车旅馆，甚至汉堡包。"
+    },
+    {
+     "s": "To show the influence of cars on American culture.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "强调快餐在美国的流行程度。"
+    },
+    {
+     "s": "The governments argue that this will help foreigners better join the society and promote understanding across cultures.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "政府辩称，这将帮助外国人更好地融入社会，并促进跨文化的理解。"
+    },
+    {
+     "s": "The red-crowned crane is a symbol of long life and good luck in Chinese culture.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "红冠鹤在中国文化中是长寿好运的象征。"
+    },
+    {
+     "s": "I'm thrilled to see Chinese culture presented in such an amazing and magical way.",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "看到中国文化以如此神奇美妙的方式呈现，我激动不已。"
+    },
+    {
+     "s": "Small in size but full of information, a travel brochure can be a great way to find out all about another country, including its culture, people, geography and many other details.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "旅行手册虽小巧却信息丰富，是了解另一个国家方方面面——包括其文化、人民、地理和许多其他细节——的好途径。"
+    },
+    {
+     "s": "You hope to spread the Chinese dragon boat culture to the world.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "你希望将中国的龙舟文化传播到全世界。"
+    },
+    {
+     "s": "Nonetheless, The Iliad and The Odyssey have had an enormous effect on Greek and subsequent Western culture.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "尽管如此，《伊利亚特》和《奥德赛》对希腊及后来的西方文化产生了巨大的影响。"
+    },
+    {
+     "s": "The similarity of moral virtues across cultures is striking, even though the relative ranking of the virtues may vary with a social group’s history and environment.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "道德美德在各文化间的相似性令人惊叹，尽管这些美德的相对排序可能随社会群体的历史和环境而变化。"
+    },
+    {
+     "s": "The City of Burlington public art program is presenting a series of temporary public art signs at the Beachway in conjunction with the Ontario Culture Days.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "Burlington市公共艺术项目正与安大略文化节合作，在Beachway展出一系列临时公共艺术标识。"
+    },
+    {
+     "s": "“The exhibition brings together Go culture, cutting-edge technology and contemporary art,” says Tu.",
+     "src": "2025新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "\"这次展览汇集了围棋文化、前沿技术和当代艺术，\"涂说。"
+    },
+    {
+     "s": "“Many people say that we lack culture in this country,” he told me.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "\"很多人说我们这个国家缺乏文化，\"他告诉我。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a country, group, etc. with its own beliefs, etc. 文化（指拥有特定信仰等的国家、群体等）",
+   "ex": [
     {
-      "def": "the customs and beliefs, art, way of life and social organization of a particular country or group 文化，文明（指国家或群体的风俗、信仰、艺术、生活方式及社会组织）",
-      "ex": [
-        {
-          "s": "August 2Call for Artists responses dueBy August 12Successful artists selected; enter into a contract with the City of BurlingtonSeptember 6Final artwork files dueSeptember 23 – October 13Artwork displayed for duration of Culture Days celebrationApplication Package",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "8月2日 艺术家征集启动 回复截止8月12日 入选艺术家确定并与Burlington市签约 9月6日 最终作品文件截止 9月23日–10月13日 作品在文化节期间展出 申请材料"
-        },
-        {
-          "s": "To promote the local culture.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为了推广当地文化。"
-        },
-        {
-          "s": "Virtues: Bridges Across CulturesB.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "美德：跨越文化的桥梁B."
-        },
-        {
-          "s": "In artists’ representations of books and reading, we see moments of shared humanity that go beyond culture and time.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"
-        },
-        {
-          "s": "In this “book of books,” artworks are selected and arranged in a way that emphasizes these connections between different eras and cultures.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在这本\"书中的书\"中，艺术作品的选取和编排方式强调了不同时代和文化之间的联系。"
-        },
-        {
-          "s": "They are a symbol of American culture.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它们是美国文化的象征。"
-        },
-        {
-          "s": "The company culture.",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "公司文化。"
-        },
-        {
-          "s": "A city built on ancient cultures is more dynamic.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "建立在古老文化之上的城市更有活力。"
-        },
-        {
-          "s": "It also provides a rather strong foundation for empathy across cultures.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它还为不同文化之间的同情提供了相当坚实的基础。"
-        },
-        {
-          "s": "Mountains are   51   as spiritual places by many cultures.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "许多文化将山脉视为精神圣地。"
-        },
-        {
-          "s": "Depending on which role you choose，you could help to increase a community's access to safe drinking water，or help to protect valuable local cultures.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "根据你的角色选择，你可以帮助某个社区获得安全饮用水，或帮助保护宝贵的当地文化。"
-        },
-        {
-          "s": "explore new cultures      B. protect the environment",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "探索新文化 B. 保护环境"
-        },
-        {
-          "s": "To encourage studies on culture.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "推广维多利亚时代的价值观。"
-        },
-        {
-          "s": "The car shaped some of the most lasting aspects of American culture: the roadside diner, the billboard, the motel, even the hamburger.",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "汽车塑造了美国文化中一些最持久的方面：路边餐厅、广告牌、汽车旅馆，甚至汉堡包。"
-        },
-        {
-          "s": "To show the influence of cars on American culture.",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "强调快餐在美国的流行程度。"
-        },
-        {
-          "s": "The governments argue that this will help foreigners better join the society and promote understanding across cultures.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "政府辩称，这将帮助外国人更好地融入社会，并促进跨文化的理解。"
-        },
-        {
-          "s": "The red-crowned crane is a symbol of long life and good luck in Chinese culture.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "红冠鹤在中国文化中是长寿好运的象征。"
-        },
-        {
-          "s": "I'm thrilled to see Chinese culture presented in such an amazing and magical way.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "看到中国文化以如此神奇美妙的方式呈现，我激动不已。"
-        },
-        {
-          "s": "Small in size but full of information, a travel brochure can be a great way to find out all about another country, including its culture, people, geography and many other details.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "旅行手册虽小巧却信息丰富，是了解另一个国家方方面面——包括其文化、人民、地理和许多其他细节——的好途径。"
-        },
-        {
-          "s": "You hope to spread the Chinese dragon boat culture to the world.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "你希望将中国的龙舟文化传播到全世界。"
-        },
-        {
-          "s": "Nonetheless, The Iliad and The Odyssey have had an enormous effect on Greek and subsequent Western culture.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "尽管如此，《伊利亚特》和《奥德赛》对希腊及后来的西方文化产生了巨大的影响。"
-        },
-        {
-          "s": "The similarity of moral virtues across cultures is striking, even though the relative ranking of the virtues may vary with a social group’s history and environment.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "道德美德在各文化间的相似性令人惊叹，尽管这些美德的相对排序可能随社会群体的历史和环境而变化。"
-        },
-        {
-          "s": "The City of Burlington public art program is presenting a series of temporary public art signs at the Beachway in conjunction with the Ontario Culture Days.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Burlington市公共艺术项目正与安大略文化节合作，在Beachway展出一系列临时公共艺术标识。"
-        },
-        {
-          "s": "“The exhibition brings together Go culture, cutting-edge technology and contemporary art,” says Tu.",
-          "src": "2025新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "\"这次展览汇集了围棋文化、前沿技术和当代艺术，\"涂说。"
-        },
-        {
-          "s": "“Many people say that we lack culture in this country,” he told me.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"很多人说我们这个国家缺乏文化，\"他告诉我。"
-        }
-      ]
+     "s": "We’ve got a foundation built on ancient cultures but with a drive and dynamism of a young country.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我们拥有建立在古老文化之上的根基，却又带着年轻国家的冲劲与活力。"
     },
     {
-      "def": "a country, group, etc. with its own beliefs, etc. 文化（指拥有特定信仰等的国家、群体等）",
-      "ex": [
-        {
-          "s": "We’ve got a foundation built on ancient cultures but with a drive and dynamism of a young country.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们拥有建立在古老文化之上的根基，却又带着年轻国家的冲劲与活力。"
-        },
-        {
-          "s": "But as the 200th anniversary of his birth approaches, it is possible — and important for our own culture—to understand how he made himself a lasting one.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但随着他诞辰200周年临近，去理解他如何让自己成为不朽作家，不仅是可能的，也对我们自身的文化十分重要。"
-        }
-      ]
-    },
-    {
-      "def": "art, music, literature, etc., thought of as a group 文化（艺术、音乐、文学等的总称）",
-      "ex": [
-        {
-          "s": "As the Kennedy Center’s artistic adviser for jazz, Moran hopes to widen the audience for jazz, make the music more accessible, and preserve its history and culture.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "作为肯尼迪中心的爵士乐艺术顾问，莫兰希望扩大爵士乐的听众群，让这种音乐更容易被人接受，并保护其历史和文化。"
-        },
-        {
-          "s": "“People from cultures that value relationships more than ours does are shocked by the thought of eating alone in front of a computer”, says Art Markman, a professor of psychology at the University of Texas, Austin.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"来自比我们更重视人际关系的文化背景的人会对在电脑前独自吃饭的想法感到震惊，\"德克萨斯大学奥斯汀分校心理学教授Art Markman说。"
-        },
-        {
-          "s": "But it’s also that he rewrote the culture of literature and put himself at the center.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但同样重要的是，他改写了文学文化，并将自己置于中心位置。"
-        }
-      ]
-    },
-    {
-      "def": "the beliefs and attitudes about sth that people in a particular group or organization share 文化（某群体或组织的一致看法和态度）",
-      "ex": [
-        {
-          "s": "To learn more about local cultures.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "了解更多当地文化。"
-        },
-        {
-          "s": "She says that Western culture already pushes people to look for the silver lining behind every cloud.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "她说西方文化已经促使人们在每一朵乌云背后寻找一线希望。"
-        },
-        {
-          "s": "“What people forget is that the Italians, when they came to Australia, brought 2000 years of their culture, the Greeks some 3000 years, and the Chinese more still.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "‘人们忘记的是，意大利人来澳大利亚时带来了2000年的文化，希腊人大约3000年，中国人则更久。’"
-        },
-        {
-          "s": "Many people feel like they need a sense of cultural belonging, which is something that studying your roots and being open-minded to the evolution of your culture can provide.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "许多人觉得自己需要一种文化归属感，而这正是研究你的根、并对自己文化的演变保持开放态度所能提供的。"
-        },
-        {
-          "s": "People are willing to accept foreign cultures.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "人们愿意接受外国文化。"
-        },
-        {
-          "s": "Want to explore new cultures，meet new people and do something worthwhile at the same time?",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "想探索新文化、结识新朋友，同时做点有意义的事吗？"
-        }
-      ]
-    },
-    {
-      "def": "the growing of plants or breeding of particular animals in order to get a particular substance or crop from them 种植；栽培；养殖；培育",
-      "ex": []
-    },
-    {
-      "def": "a group of cells or bacteria, especially one taken from a person or an animal and grown for medical or scientific study, or to produce food; the process of obtaining and growing these cells 培养细胞；培养菌；（为医疗、科研或食品生产而作细胞或细菌的）培养",
-      "ex": []
+     "s": "But as the 200th anniversary of his birth approaches, it is possible — and important for our own culture—to understand how he made himself a lasting one.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但随着他诞辰200周年临近，去理解他如何让自己成为不朽作家，不仅是可能的，也对我们自身的文化十分重要。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "art, music, literature, etc., thought of as a group 文化（艺术、音乐、文学等的总称）",
+   "ex": [
     {
-      "en": "american culture",
-      "cn": "文化",
-      "type": "名词短语",
-      "count": 3
+     "s": "As the Kennedy Center’s artistic adviser for jazz, Moran hopes to widen the audience for jazz, make the music more accessible, and preserve its history and culture.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "作为肯尼迪中心的爵士乐艺术顾问，莫兰希望扩大爵士乐的听众群，让这种音乐更容易被人接受，并保护其历史和文化。"
     },
     {
-      "en": "culture day",
-      "cn": "文化一天",
-      "type": "名词短语",
-      "count": 2
+     "s": "“People from cultures that value relationships more than ours does are shocked by the thought of eating alone in front of a computer”, says Art Markman, a professor of psychology at the University of Texas, Austin.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "\"来自比我们更重视人际关系的文化背景的人会对在电脑前独自吃饭的想法感到震惊，\"德克萨斯大学奥斯汀分校心理学教授Art Markman说。"
+    },
+    {
+     "s": "But it’s also that he rewrote the culture of literature and put himself at the center.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但同样重要的是，他改写了文学文化，并将自己置于中心位置。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the beliefs and attitudes about sth that people in a particular group or organization share 文化（某群体或组织的一致看法和态度）",
+   "ex": [
+    {
+     "s": "To learn more about local cultures.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "了解更多当地文化。"
+    },
+    {
+     "s": "She says that Western culture already pushes people to look for the silver lining behind every cloud.",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "她说西方文化已经促使人们在每一朵乌云背后寻找一线希望。"
+    },
+    {
+     "s": "“What people forget is that the Italians, when they came to Australia, brought 2000 years of their culture, the Greeks some 3000 years, and the Chinese more still.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "‘人们忘记的是，意大利人来澳大利亚时带来了2000年的文化，希腊人大约3000年，中国人则更久。’"
+    },
+    {
+     "s": "Many people feel like they need a sense of cultural belonging, which is something that studying your roots and being open-minded to the evolution of your culture can provide.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "许多人觉得自己需要一种文化归属感，而这正是研究你的根、并对自己文化的演变保持开放态度所能提供的。"
+    },
+    {
+     "s": "People are willing to accept foreign cultures.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "人们愿意接受外国文化。"
+    },
+    {
+     "s": "Want to explore new cultures，meet new people and do something worthwhile at the same time?",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "想探索新文化、结识新朋友，同时做点有意义的事吗？"
+    }
+   ]
+  },
+  {
+   "def": "the growing of plants or breeding of particular animals in order to get a particular substance or crop from them 种植；栽培；养殖；培育",
+   "ex": []
+  },
+  {
+   "def": "a group of cells or bacteria, especially one taken from a person or an animal and grown for medical or scientific study, or to produce food; the process of obtaining and growing these cells 培养细胞；培养菌；（为医疗、科研或食品生产而作细胞或细菌的）培养",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "culture day",
+   "cn": "文化一天",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
