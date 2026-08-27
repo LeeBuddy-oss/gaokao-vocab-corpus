@@ -1,136 +1,129 @@
 {
-  "meta": {
-    "ph": "krɒp; NAmE krɑːp",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
-    "stars": "★★"
+ "meta": {
+  "ph": "krɒp; NAmE krɑːp",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a plant that is grown in large quantities, especially as food 庄稼；作物",
+   "ex": [
+    {
+     "s": "Diets have changed in China – and so too has its top crop.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "t": "中国的饮食发生了变化——它最主要的作物也随之改变。",
+     "year": 2018
+    },
+    {
+     "s": "But during the past decade declining rainfall has allowed him to plant highly profitable crops.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "但在过去十年里，降雨量的减少使他能够种植高利润的作物。",
+     "year": 2017
+    },
+    {
+     "s": "Without the glaciers, water will arrive in the rivers at times when it can damage crops.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "如果没有冰川，水会在破坏农作物的时期流入河流。",
+     "year": 2017
+    },
+    {
+     "s": "adapt to carbon pollutionB. plant highly profitable crops",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "适应碳污染B. 种植高利润作物",
+     "year": 2017
+    },
+    {
+     "s": "They are experimenting with growing crops in space so as (help) astronauts get enough food on longer journeys through space.",
+     "src": "人教B3 U4",
+     "cat": "renjiao",
+     "t": "他们正在试验在太空中种植庄稼，以帮助宇航员在更长的太空旅程中获得足够的食物。",
+     "year": ""
+    },
+    {
+     "s": "Machines have largely taken over planting, watering and harvesting crops such as com and wheat, but the monitoring of cattle has gone through fewer changes.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "机器已经在很大程度上接管了玉米和小麦等作物的种植、灌溉和收割，但对牛群的监测所经历的变化却少得多。",
+     "year": 2021
+    },
+    {
+     "s": "Over five generations the land has been too wet for cropping.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "经过五代人的时间，这片土地一直太潮湿无法种植作物。",
+     "year": 2017
+    },
+    {
+     "s": "Scientists hope to learn more about this plant warning system, so that we can use it to grow crops without pesticides.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "科学家希望更多地了解这种植物预警系统，以便我们能够利用它在不施用农药的情况下种植庄稼。",
+     "year": ""
+    },
+    {
+     "s": "This important agricultural festival takes place after all the crops have been gathered in.",
+     "src": "人教B3 U1",
+     "cat": "renjiao",
+     "t": "这个重要的农业节日在所有庄稼收割完毕后举行。",
+     "year": ""
+    },
+    {
+     "s": "They could grow crops in these areas.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "他们可以在这些地区种植庄稼。",
+     "year": ""
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "a plant that is grown in large quantities, especially as food 庄稼；作物",
-      "ex": [
-        {
-          "s": "Diets have changed in China – and so too has its top crop.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "t": "中国的饮食发生了变化——它最主要的作物也随之改变。",
-          "year": 2018
-        },
-        {
-          "s": "But during the past decade declining rainfall has allowed him to plant highly profitable crops.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "但在过去十年里，降雨量的减少使他能够种植高利润的作物。",
-          "year": 2017
-        },
-        {
-          "s": "Without the glaciers, water will arrive in the rivers at times when it can damage crops.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "如果没有冰川，水会在破坏农作物的时期流入河流。",
-          "year": 2017
-        },
-        {
-          "s": "adapt to carbon pollutionB. plant highly profitable crops",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "适应碳污染B. 种植高利润作物",
-          "year": 2017
-        },
-        {
-          "s": "They are experimenting with growing crops in space so as (help) astronauts get enough food on longer journeys through space.",
-          "src": "人教B3 U4",
-          "cat": "renjiao",
-          "t": "他们正在试验在太空中种植庄稼，以帮助宇航员在更长的太空旅程中获得足够的食物。",
-          "year": ""
-        },
-        {
-          "s": "Machines have largely taken over planting, watering and harvesting crops such as com and wheat, but the monitoring of cattle has gone through fewer changes.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "机器已经在很大程度上接管了玉米和小麦等作物的种植、灌溉和收割，但对牛群的监测所经历的变化却少得多。",
-          "year": 2021
-        },
-        {
-          "s": "Over five generations the land has been too wet for cropping.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "经过五代人的时间，这片土地一直太潮湿无法种植作物。",
-          "year": 2017
-        },
-        {
-          "s": "Scientists hope to learn more about this plant warning system, so that we can use it to grow crops without pesticides.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "科学家希望更多地了解这种植物预警系统，以便我们能够利用它在不施用农药的情况下种植庄稼。",
-          "year": ""
-        },
-        {
-          "s": "This important agricultural festival takes place after all the crops have been gathered in.",
-          "src": "人教B3 U1",
-          "cat": "renjiao",
-          "t": "这个重要的农业节日在所有庄稼收割完毕后举行。",
-          "year": ""
-        },
-        {
-          "s": "They could grow crops in these areas.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "他们可以在这些地区种植庄稼。",
-          "year": ""
-        }
-      ]
-    },
-    {
-      "def": "the amount of grain, fruit, etc. that is grown in one season （谷物、水果等一季的）收成，产量",
-      "ex": []
-    },
-    {
-      "def": "a group of people who do sth at the same time; a number of things that happen at the same time （同时做某事的）一群人，一批人；（同时发生的）一些事情",
-      "ex": []
-    },
-    {
-      "def": "a short whip used by horse riders （骑手的）短马鞭",
-      "ex": []
-    },
-    {
-      "def": "a very short hairstyle 短发",
-      "ex": []
-    },
-    {
-      "def": "hair that is short and thick 短而密的头发",
-      "ex": []
-    },
-    {
-      "def": "a part of a bird's throat shaped like a bag where food is stored before it passes into the stomach 嗉囊；嗉子",
-      "ex": []
-    },
-    {
-      "def": "to cut sb's hair very short 剪短",
-      "ex": []
-    },
-    {
-      "def": "to cut off part of a photograph or picture 剪裁（照片或图画）",
-      "ex": []
-    },
-    {
-      "def": "to bite off and eat the tops of plants, especially grass 啃吃（青草或其他植物上面的部分）",
-      "ex": []
-    },
-    {
-      "def": "to produce a crop 植物",
-      "ex": []
-    },
-    {
-      "def": "to use land to grow crops 种地；种庄稼",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "profitable crops",
-      "cn": "庄稼",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "the amount of grain, fruit, etc. that is grown in one season （谷物、水果等一季的）收成，产量",
+   "ex": []
+  },
+  {
+   "def": "a group of people who do sth at the same time; a number of things that happen at the same time （同时做某事的）一群人，一批人；（同时发生的）一些事情",
+   "ex": []
+  },
+  {
+   "def": "a short whip used by horse riders （骑手的）短马鞭",
+   "ex": []
+  },
+  {
+   "def": "a very short hairstyle 短发",
+   "ex": []
+  },
+  {
+   "def": "hair that is short and thick 短而密的头发",
+   "ex": []
+  },
+  {
+   "def": "a part of a bird's throat shaped like a bag where food is stored before it passes into the stomach 嗉囊；嗉子",
+   "ex": []
+  },
+  {
+   "def": "to cut sb's hair very short 剪短",
+   "ex": []
+  },
+  {
+   "def": "to cut off part of a photograph or picture 剪裁（照片或图画）",
+   "ex": []
+  },
+  {
+   "def": "to bite off and eat the tops of plants, especially grass 啃吃（青草或其他植物上面的部分）",
+   "ex": []
+  },
+  {
+   "def": "to produce a crop 植物",
+   "ex": []
+  },
+  {
+   "def": "to use land to grow crops 种地；种庄稼",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
