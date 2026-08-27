@@ -1,96 +1,90 @@
 {
-  "meta": {
-    "ph": "ˈkæptɪn; NAmE ˈkæptɪn",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈkæptɪn; NAmE ˈkæptɪn",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "the person in charge of a ship or commercial aircraft 船长；机长",
+   "ex": [
+    {
+     "s": "The clearest example of this between literate and non-literate history is perhaps the first conflict, at Botany Bay, between Captain Cook’s voyage and the Australian Aboriginals.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在有文字和无文字历史之间，最清楚的例子也许是库克船长的航行与澳大利亚原住民在植物湾发生的第一次冲突。"
+    },
+    {
+     "s": "From the English side, we have scientific reports and the captain’s record of that terrible day.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从英方那里，我们有科学报告和船长对那可怕一天的记录。"
+    },
+    {
+     "s": "What does the author indicate by mentioning Captain Cook in paragraph 2?",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作者在第2段提到库克船长想说明什么？"
+    },
+    {
+     "s": "They are captured and taken inside the submarine, where they meet the man in charge, Captain Nemo.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "他们被俘并带进潜水艇，在那里见到了负责人尼摩船长。"
+    },
+    {
+     "s": "In order to keep this secret, Captain Nemo tells his three newest passengers that they are not permitted to leave the submarine.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "为了保守这个秘密，尼摩船长告诉三名最新乘客，他们不得离开潜水艇。"
+    },
+    {
+     "s": "Captain Nemo walked in front, one of his men following some steps behind.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "尼摩船长走在前面，他的一名手下跟在后面几步远的地方。"
+    },
+    {
+     "s": "The person who answered the call was not the captain’s first choice.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "接电话的人并非船长第一人选。"
+    },
+    {
+     "s": "The captain of the ship, the Beagle, needed someone who would benefit from the chance to visit countries that were far away and then unknown.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "贝格尔号船长需要一位能借机访问那些遥远、当时尚不为人知的国家而受益的人。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "the person in charge of a ship or commercial aircraft 船长；机长",
-      "ex": [
-        {
-          "s": "The clearest example of this between literate and non-literate history is perhaps the first conflict, at Botany Bay, between Captain Cook’s voyage and the Australian Aboriginals.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在有文字和无文字历史之间，最清楚的例子也许是库克船长的航行与澳大利亚原住民在植物湾发生的第一次冲突。"
-        },
-        {
-          "s": "From the English side, we have scientific reports and the captain’s record of that terrible day.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从英方那里，我们有科学报告和船长对那可怕一天的记录。"
-        },
-        {
-          "s": "What does the author indicate by mentioning Captain Cook in paragraph 2?",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作者在第2段提到库克船长想说明什么？"
-        },
-        {
-          "s": "They are captured and taken inside the submarine, where they meet the man in charge, Captain Nemo.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他们被俘并带进潜水艇，在那里见到了负责人尼摩船长。"
-        },
-        {
-          "s": "In order to keep this secret, Captain Nemo tells his three newest passengers that they are not permitted to leave the submarine.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "为了保守这个秘密，尼摩船长告诉三名最新乘客，他们不得离开潜水艇。"
-        },
-        {
-          "s": "Captain Nemo walked in front, one of his men following some steps behind.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "尼摩船长走在前面，他的一名手下跟在后面几步远的地方。"
-        },
-        {
-          "s": "The person who answered the call was not the captain’s first choice.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "接电话的人并非船长第一人选。"
-        },
-        {
-          "s": "The captain of the ship, the Beagle, needed someone who would benefit from the chance to visit countries that were far away and then unknown.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "贝格尔号船长需要一位能借机访问那些遥远、当时尚不为人知的国家而受益的人。"
-        }
-      ]
-    },
-    {
-      "def": "an officer of fairly high rank in the navy, the army and the US air force （海军）上校；（陆军或美国空军的）上尉",
-      "ex": []
-    },
-    {
-      "def": "the leader of a group of people, especially a sports team 首领；领导者；（尤指运动队的）队长",
-      "ex": []
-    },
-    {
-      "def": "an officer of high rank in a US police or fire department （美国警察局的）副巡长；（美国消防署的）中队长",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "captain nemo",
-      "cn": "船长",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "captain cook",
-      "cn": "船长烹饪",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "an officer of fairly high rank in the navy, the army and the US air force （海军）上校；（陆军或美国空军的）上尉",
+   "ex": []
+  },
+  {
+   "def": "the leader of a group of people, especially a sports team 首领；领导者；（尤指运动队的）队长",
+   "ex": []
+  },
+  {
+   "def": "an officer of high rank in a US police or fire department （美国警察局的）副巡长；（美国消防署的）中队长",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "captain cook",
+   "cn": "船长烹饪",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
