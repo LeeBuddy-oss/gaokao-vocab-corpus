@@ -1,450 +1,431 @@
 {
-  "meta": {
-    "ph": "mjuˈziːəm; NAmE mjuˈziːəm",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "mjuˈziːəm; NAmE mjuˈziːəm",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a building in which objects of artistic, cultural, historical or scientific interest are kept and shown to the public 博物馆",
+   "ex": [
     {
-      "def": "a building in which objects of artistic, cultural, historical or scientific interest are kept and shown to the public 博物馆",
-      "ex": [
-        {
-          "s": "Museums, once quiet places filled with history, are now full of digital excitement.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "博物馆曾经是充满历史气息的安静场所，如今却处处洋溢着数字化的活力。"
-        },
-        {
-          "s": "AI transforms a standard museum trip into a personalized and interactive adventure.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "人工智能把一次普通的博物馆之行变成个性化、互动性的探索体验。"
-        },
-        {
-          "s": "Museums are working together with AI ethicists to develop fair algorithms.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "博物馆正与人工智能伦理学家合作，开发公平的算法。"
-        },
-        {
-          "s": "In short, AI is redefining the museum in all respects.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "简而言之，人工智能正在从各个方面重新定义博物馆。"
-        },
-        {
-          "s": "Museums are not only places to store artworks, but also spaces for learning.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "博物馆不仅是存放艺术品的场所，也是学习的空间。"
-        },
-        {
-          "s": "Water Sports     Concert     Museum",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "该项目的目标是________"
-        },
-        {
-          "s": "Skirting the town square, you’ll find lovely shops, eateries, and the Black and White House Museum.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "绕过镇广场，你会看到可爱的商店、餐馆，以及黑白宅博物馆。"
-        },
-        {
-          "s": "In the Black and White House Museum.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在黑白屋博物馆。"
-        },
-        {
-          "s": "Learn about the materials and qualities of watercolor paint with experts from the Harvard Art Museums Materials Lab.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "与哈佛艺术博物馆材料实验室的专家一起了解水彩颜料的材料和特性。"
-        },
-        {
-          "s": "Visit a local museum.",
-          "src": "2024全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "参观当地博物馆。"
-        },
-        {
-          "s": "Reading Art: Art for Book Lovers is a celebration of an everyday object — the book, represented here in almost three hundred artworks from museums around the world.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "《阅读艺术：书迷的艺术》是对一件日常物品——书——的礼赞，书中收录了来自世界各地博物馆的近三百件艺术作品。"
-        },
-        {
-          "s": "A guidebook to a museum.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一本博物馆指南。"
-        },
-        {
-          "s": "When are the students going to the museum?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "学生们什么时候去博物馆？"
-        },
-        {
-          "s": "Children's Discovery Museum",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "儿童发现博物馆"
-        },
-        {
-          "s": "The Museum is open daily from 9：30 am to 4：30 pm.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "博物馆每天上午9:30至下午4:30开放。"
-        },
-        {
-          "s": "Group Play may be scheduled during any day or time the Museum is open.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "团体游玩可在博物馆开放期间的任何日期和时间安排。"
-        },
-        {
-          "s": "●Children are not allowed unaccompanied in all areas of the Museum.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "●儿童不得在博物馆的所有区域无人陪同。"
-        },
-        {
-          "s": "●Use your indoor voice when at the Museum.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "●在博物馆内请使用室内音量。"
-        },
-        {
-          "s": "Use the Museum's transportation.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "使用博物馆的交通。"
-        },
-        {
-          "s": "How many chaperones are needed for a group of 30 children to visit the Museum?",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一个30名儿童的团体参观博物馆需要多少名监护人？"
-        },
-        {
-          "s": "What are children prohibited from doing at the Museum?",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "儿童在博物馆禁止做什么？"
-        },
-        {
-          "s": "How to run a museum.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如何运营博物馆。"
-        },
-        {
-          "s": "When are the students going to the museum?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "学生们什么时候去博物馆？"
-        },
-        {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
-        },
-        {
-          "s": "Trip includes round-trip air tickets, hotel stay for two nights, and tours of the National Air and Space Museum and the office of National Geographic World.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "旅行包括往返机票两晚酒店住宿以及参观国家航空航天博物馆和国家地理世界办公室的游览。"
-        },
-        {
-          "s": "They kept their collection at home until it got too big     37     until they died, and then it was given to a museum.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们把收藏品放在家里，直到变得太大___37___直到他们去世，之后便捐给了博物馆。"
-        },
-        {
-          "s": "The 80,000 objects collected by Sir Hans Sloane, for example,    38    （form）the core collection of the British Museum     39    opened in 1759.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例如，Hans Sloane 爵士收集的 80,000 件物品____38____（form）该博物馆的核心藏品。"
-        },
-        {
-          "s": "The parts of a museum open to the public   40    （call）galleries or rooms.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "博物馆对公众开放的部分___40___（call）展厅或陈列室。"
-        },
-        {
-          "s": "Often, only a small part of a museum’s collection    41   （be）on display.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通常，博物馆的藏品只有一小部分___41___（be）在展出。"
-        },
-        {
-          "s": "Many museums are lively places and they attract a lot of visitors.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "许多博物馆是充满活力的场所，吸引着大量参观者。"
-        },
-        {
-          "s": "Museums must compete     45    people’s spare time and money with other amusements.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "博物馆必须与其他娱乐活动竞争45个人的空余时间和金钱。"
-        },
-        {
-          "s": "Most museums also welcome school groups and arrange special activities for children.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "大多数博物馆也欢迎学生团体，并为孩子们安排特别活动。"
-        },
-        {
-          "s": "Gifts and antiques, plant sales, museums & Mediaeval Hall Tearoom.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "礼品和古董、植物销售、博物馆和中世纪大厅茶室。"
-        },
-        {
-          "s": "Abbot Hall art Gallery & Museum",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Abbot Hall美术馆和博物馆"
-        },
-        {
-          "s": "Tullie House Museum & Art Gallery",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Tullie House博物馆和美术馆"
-        },
-        {
-          "s": "Discover, explore and enjoy award-winning Tullie House, where historic collections, contemporary art and family fun are brought together in one impressive museum and art gallery.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "探索、欣赏Tullie House这个获奖场所，这里将历史收藏、当代艺术和家庭乐趣汇集在一个令人印象深刻的博物馆和美术馆中。"
-        },
-        {
-          "s": "Dove Cottage & The wordsworth Museum",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Dove Cottage和华兹华斯博物馆"
-        },
-        {
-          "s": "Take a tour of his Lakeland cottage, walk through his hillside garden and explore the riches of the collection in the Museum.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "参观他在湖区的村舍，漫步他的山坡花园，并探索博物馆藏品的丰富宝藏。"
-        },
-        {
-          "s": "What can visitors do at Abbot Hall Art Gallery & Museum?",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "游客在Abbot Hall美术馆和博物馆可以做什么？"
-        },
-        {
-          "s": "We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们将在传统小镇中漫步，并以上海一座别具一格的博物馆结束行程。"
-        },
-        {
-          "s": "The work has also brought insights for museums, Smith says.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "更重要的是，复原可能是了解珍宝在被时间磨损之前样貌的唯一途径。"
-        },
-        {
-          "s": "Why does the author mention museums? （    ）",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者为什么提到博物馆？（    ）"
-        },
-        {
-          "s": "Visit well-known museums.",
-          "src": "2018全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "参观知名博物馆"
-        },
-        {
-          "s": "Wang believes traditions should not be sealed in glass boxes at museums.",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "王认为传统不应被密封在博物馆的玻璃箱里。"
-        },
-        {
-          "s": "Preserve them at museums.",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "验证一个想法 B."
-        },
-        {
-          "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
-        },
-        {
-          "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
-        },
-        {
-          "s": "Thirty years later， a woman approached me in a public place． \"Excuse me， did you ever enter a residence， long ago， thinking it was the McNay Museum？\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "三十年后，一位女士在公共场所走近我。“打扰一下，你很久以前是否曾进过一户住宅，以为那是麦克奈博物馆？”"
-        },
-        {
-          "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
-        },
-        {
-          "s": "She was a museum director．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "C．她是一位博物馆馆长。"
-        },
-        {
-          "s": "（4）Why did the author describe the real McNay museum in just a few words？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（4）作者为什么只用寥寥数语描述真正的麦克奈博物馆？"
-        },
-        {
-          "s": "The real museum lacked enough artwork to interest her．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．真正的博物馆缺乏足够吸引她的艺术品。"
-        },
-        {
-          "s": "She was too upset to spend much time at the real museum．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "B．她太难过，没能在真正的博物馆待太久。"
-        },
-        {
-          "s": "People tend to educate teenagers at a museum．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "D．人倾向于在博物馆教育青少年。"
-        },
-        {
-          "s": "Last week some city officials suggested the city might be interested in turning the old theater into a museum and public meeting place.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "上周，一些市政官员表示，该市可能有兴趣把这座老剧院改造成博物馆和公共集会场所。"
-        },
-        {
-          "s": "It will be turned into a museum.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它将被改造成一座博物馆。"
-        },
-        {
-          "s": "Yesterday we went to the Louvre Museum.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "昨天我们去了卢浮宫博物馆。"
-        },
-        {
-          "s": "Cultural tourism: travellers go to theatres, museums and festivals to learn about local art, history and lifestyle.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "文化旅游：旅行者前往剧院、博物馆和节日活动，了解当地的艺术、历史和生活方式。"
-        },
-        {
-          "s": "This broadcast is being brought to you from the largest museum on Earth -- the Louvre!",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "本次直播从地球上最大的博物馆——卢浮宫——为您呈现！"
-        },
-        {
-          "s": "Do you think going to a museum is the only way to see art?",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "你认为去博物馆是看艺术的唯一方式吗？"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "mcnay museum",
-      "cn": "博物馆",
-      "type": "名词短语",
-      "count": 2
+     "s": "Museums, once quiet places filled with history, are now full of digital excitement.",
+     "src": "2026新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "博物馆曾经是充满历史气息的安静场所，如今却处处洋溢着数字化的活力。"
     },
     {
-      "en": "anchorage museum",
-      "cn": "博物馆",
-      "type": "名词短语",
-      "count": 1
+     "s": "AI transforms a standard museum trip into a personalized and interactive adventure.",
+     "src": "2026新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "人工智能把一次普通的博物馆之行变成个性化、互动性的探索体验。"
     },
     {
-      "en": "british museum",
-      "cn": "博物馆",
-      "type": "名词短语",
-      "count": 1
+     "s": "Museums are working together with AI ethicists to develop fair algorithms.",
+     "src": "2026新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "博物馆正与人工智能伦理学家合作，开发公平的算法。"
+    },
+    {
+     "s": "In short, AI is redefining the museum in all respects.",
+     "src": "2026新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "简而言之，人工智能正在从各个方面重新定义博物馆。"
+    },
+    {
+     "s": "Museums are not only places to store artworks, but also spaces for learning.",
+     "src": "2026新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "博物馆不仅是存放艺术品的场所，也是学习的空间。"
+    },
+    {
+     "s": "Water Sports     Concert     Museum",
+     "src": "2026北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "该项目的目标是________"
+    },
+    {
+     "s": "Skirting the town square, you’ll find lovely shops, eateries, and the Black and White House Museum.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "绕过镇广场，你会看到可爱的商店、餐馆，以及黑白宅博物馆。"
+    },
+    {
+     "s": "In the Black and White House Museum.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在黑白屋博物馆。"
+    },
+    {
+     "s": "Learn about the materials and qualities of watercolor paint with experts from the Harvard Art Museums Materials Lab.",
+     "src": "2024全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "与哈佛艺术博物馆材料实验室的专家一起了解水彩颜料的材料和特性。"
+    },
+    {
+     "s": "Visit a local museum.",
+     "src": "2024全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "参观当地博物馆。"
+    },
+    {
+     "s": "Reading Art: Art for Book Lovers is a celebration of an everyday object — the book, represented here in almost three hundred artworks from museums around the world.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "《阅读艺术：书迷的艺术》是对一件日常物品——书——的礼赞，书中收录了来自世界各地博物馆的近三百件艺术作品。"
+    },
+    {
+     "s": "A guidebook to a museum.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "一本博物馆指南。"
+    },
+    {
+     "s": "When are the students going to the museum?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "学生们什么时候去博物馆？"
+    },
+    {
+     "s": "Children's Discovery Museum",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "儿童发现博物馆"
+    },
+    {
+     "s": "The Museum is open daily from 9：30 am to 4：30 pm.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "博物馆每天上午9:30至下午4:30开放。"
+    },
+    {
+     "s": "Group Play may be scheduled during any day or time the Museum is open.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "团体游玩可在博物馆开放期间的任何日期和时间安排。"
+    },
+    {
+     "s": "●Children are not allowed unaccompanied in all areas of the Museum.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "●儿童不得在博物馆的所有区域无人陪同。"
+    },
+    {
+     "s": "●Use your indoor voice when at the Museum.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "●在博物馆内请使用室内音量。"
+    },
+    {
+     "s": "Use the Museum's transportation.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "使用博物馆的交通。"
+    },
+    {
+     "s": "How many chaperones are needed for a group of 30 children to visit the Museum?",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一个30名儿童的团体参观博物馆需要多少名监护人？"
+    },
+    {
+     "s": "What are children prohibited from doing at the Museum?",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "儿童在博物馆禁止做什么？"
+    },
+    {
+     "s": "How to run a museum.",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如何运营博物馆。"
+    },
+    {
+     "s": "When are the students going to the museum?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "学生们什么时候去博物馆？"
+    },
+    {
+     "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+    },
+    {
+     "s": "Trip includes round-trip air tickets, hotel stay for two nights, and tours of the National Air and Space Museum and the office of National Geographic World.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "旅行包括往返机票两晚酒店住宿以及参观国家航空航天博物馆和国家地理世界办公室的游览。"
+    },
+    {
+     "s": "They kept their collection at home until it got too big     37     until they died, and then it was given to a museum.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们把收藏品放在家里，直到变得太大___37___直到他们去世，之后便捐给了博物馆。"
+    },
+    {
+     "s": "The 80,000 objects collected by Sir Hans Sloane, for example,    38    （form）the core collection of the British Museum     39    opened in 1759.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例如，Hans Sloane 爵士收集的 80,000 件物品____38____（form）该博物馆的核心藏品。"
+    },
+    {
+     "s": "The parts of a museum open to the public   40    （call）galleries or rooms.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "博物馆对公众开放的部分___40___（call）展厅或陈列室。"
+    },
+    {
+     "s": "Often, only a small part of a museum’s collection    41   （be）on display.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通常，博物馆的藏品只有一小部分___41___（be）在展出。"
+    },
+    {
+     "s": "Many museums are lively places and they attract a lot of visitors.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "许多博物馆是充满活力的场所，吸引着大量参观者。"
+    },
+    {
+     "s": "Museums must compete     45    people’s spare time and money with other amusements.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "博物馆必须与其他娱乐活动竞争45个人的空余时间和金钱。"
+    },
+    {
+     "s": "Most museums also welcome school groups and arrange special activities for children.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "大多数博物馆也欢迎学生团体，并为孩子们安排特别活动。"
+    },
+    {
+     "s": "Gifts and antiques, plant sales, museums & Mediaeval Hall Tearoom.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "礼品和古董、植物销售、博物馆和中世纪大厅茶室。"
+    },
+    {
+     "s": "Abbot Hall art Gallery & Museum",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Abbot Hall美术馆和博物馆"
+    },
+    {
+     "s": "Tullie House Museum & Art Gallery",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Tullie House博物馆和美术馆"
+    },
+    {
+     "s": "Discover, explore and enjoy award-winning Tullie House, where historic collections, contemporary art and family fun are brought together in one impressive museum and art gallery.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "探索、欣赏Tullie House这个获奖场所，这里将历史收藏、当代艺术和家庭乐趣汇集在一个令人印象深刻的博物馆和美术馆中。"
+    },
+    {
+     "s": "Dove Cottage & The wordsworth Museum",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Dove Cottage和华兹华斯博物馆"
+    },
+    {
+     "s": "Take a tour of his Lakeland cottage, walk through his hillside garden and explore the riches of the collection in the Museum.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "参观他在湖区的村舍，漫步他的山坡花园，并探索博物馆藏品的丰富宝藏。"
+    },
+    {
+     "s": "What can visitors do at Abbot Hall Art Gallery & Museum?",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "游客在Abbot Hall美术馆和博物馆可以做什么？"
+    },
+    {
+     "s": "We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们将在传统小镇中漫步，并以上海一座别具一格的博物馆结束行程。"
+    },
+    {
+     "s": "The work has also brought insights for museums, Smith says.",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "更重要的是，复原可能是了解珍宝在被时间磨损之前样貌的唯一途径。"
+    },
+    {
+     "s": "Why does the author mention museums? （    ）",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者为什么提到博物馆？（    ）"
+    },
+    {
+     "s": "Visit well-known museums.",
+     "src": "2018全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "参观知名博物馆"
+    },
+    {
+     "s": "Wang believes traditions should not be sealed in glass boxes at museums.",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "王认为传统不应被密封在博物馆的玻璃箱里。"
+    },
+    {
+     "s": "Preserve them at museums.",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "验证一个想法 B."
+    },
+    {
+     "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
+    },
+    {
+     "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
+    },
+    {
+     "s": "Thirty years later， a woman approached me in a public place． \"Excuse me， did you ever enter a residence， long ago， thinking it was the McNay Museum？\"",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "三十年后，一位女士在公共场所走近我。“打扰一下，你很久以前是否曾进过一户住宅，以为那是麦克奈博物馆？”"
+    },
+    {
+     "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
+    },
+    {
+     "s": "She was a museum director．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "C．她是一位博物馆馆长。"
+    },
+    {
+     "s": "（4）Why did the author describe the real McNay museum in just a few words？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（4）作者为什么只用寥寥数语描述真正的麦克奈博物馆？"
+    },
+    {
+     "s": "The real museum lacked enough artwork to interest her．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．真正的博物馆缺乏足够吸引她的艺术品。"
+    },
+    {
+     "s": "She was too upset to spend much time at the real museum．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "B．她太难过，没能在真正的博物馆待太久。"
+    },
+    {
+     "s": "People tend to educate teenagers at a museum．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "D．人倾向于在博物馆教育青少年。"
+    },
+    {
+     "s": "Last week some city officials suggested the city might be interested in turning the old theater into a museum and public meeting place.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "上周，一些市政官员表示，该市可能有兴趣把这座老剧院改造成博物馆和公共集会场所。"
+    },
+    {
+     "s": "It will be turned into a museum.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它将被改造成一座博物馆。"
+    },
+    {
+     "s": "Yesterday we went to the Louvre Museum.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "昨天我们去了卢浮宫博物馆。"
+    },
+    {
+     "s": "Cultural tourism: travellers go to theatres, museums and festivals to learn about local art, history and lifestyle.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "文化旅游：旅行者前往剧院、博物馆和节日活动，了解当地的艺术、历史和生活方式。"
+    },
+    {
+     "s": "This broadcast is being brought to you from the largest museum on Earth -- the Louvre!",
+     "src": "外研社B3 U4",
+     "cat": "waiyan",
+     "t": "本次直播从地球上最大的博物馆——卢浮宫——为您呈现！"
+    },
+    {
+     "s": "Do you think going to a museum is the only way to see art?",
+     "src": "外研社B3 U4",
+     "cat": "waiyan",
+     "t": "你认为去博物馆是看艺术的唯一方式吗？"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
