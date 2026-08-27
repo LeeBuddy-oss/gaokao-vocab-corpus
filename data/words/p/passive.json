@@ -1,62 +1,56 @@
 {
-  "meta": {
-    "ph": "ˈpæsɪv; NAmE ˈpæsɪv",
-    "pos": "adjective",
-    "stars": "★"
+ "meta": {
+  "ph": "ˈpæsɪv; NAmE ˈpæsɪv",
+  "pos": "adjective",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "accepting what happens or what people do without trying to change anything or oppose them 消极的；被动的",
+   "ex": []
   },
-  "defs": [
+  {
+   "def": "connected with the form of a verb used when the subject is affected by the action of the verb, for example He was bitten by a dog. is a passive sentence （动词形式）被动语态的",
+   "ex": [
     {
-      "def": "accepting what happens or what people do without trying to change anything or oppose them 消极的；被动的",
-      "ex": []
+     "s": "Now look for more sentences with the past perfect passive in the reading passage, and summarise its use in your own words.",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "现在在阅读文章中寻找更多含有过去完成时被动语态的句子，并用你自己的话总结其用法。"
     },
     {
-      "def": "connected with the form of a verb used when the subject is affected by the action of the verb, for example He was bitten by a dog. is a passive sentence （动词形式）被动语态的",
-      "ex": [
-        {
-          "s": "Now look for more sentences with the past perfect passive in the reading passage, and summarise its use in your own words.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "现在在阅读文章中寻找更多含有过去完成时被动语态的句子，并用你自己的话总结其用法。"
-        },
-        {
-          "s": "Past continuous passive a When I hurried to the store, I saw that the books were already being packed into boxes.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "过去进行时的被动语态：当我匆忙赶到书店时，看到那些书已经在被打包装箱了。"
-        },
-        {
-          "s": "Now look for more sentences with the past continuous passive in the reading passage, and summarise its use in your own words.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "现在在阅读文章中寻找更多含有过去进行时被动语态的句子，并用你自己的话总结其用法。"
-        },
-        {
-          "s": "Review: passive voice a On discovering that Morrie is being weakened by a severe illness, … b ...",
-          "src": "外研社B7 U2",
-          "cat": "waiyan",
-          "t": "复习：被动语态 a 在发现莫里正因重病而日渐虚弱时，…… b ……"
-        },
-        {
-          "s": "Past perfect passive a At the start of the detox, over 100 students had been persuaded to stop using social media, in ANY form, for seven days.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "过去完成时被动语态：在断网排毒活动开始时，100多名学生已经被说服停止使用任何形式的社交媒体，为期七天。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "continuous passive",
-      "cn": "消极的",
-      "type": "名词短语",
-      "count": 2
+     "s": "Past continuous passive a When I hurried to the store, I saw that the books were already being packed into boxes.",
+     "src": "外研社B5 U3",
+     "cat": "waiyan",
+     "t": "过去进行时的被动语态：当我匆忙赶到书店时，看到那些书已经在被打包装箱了。"
     },
     {
-      "en": "passive in",
-      "cn": "消极",
-      "type": "形容词短语",
-      "count": 2
+     "s": "Now look for more sentences with the past continuous passive in the reading passage, and summarise its use in your own words.",
+     "src": "外研社B5 U3",
+     "cat": "waiyan",
+     "t": "现在在阅读文章中寻找更多含有过去进行时被动语态的句子，并用你自己的话总结其用法。"
+    },
+    {
+     "s": "Review: passive voice a On discovering that Morrie is being weakened by a severe illness, … b ...",
+     "src": "外研社B7 U2",
+     "cat": "waiyan",
+     "t": "复习：被动语态 a 在发现莫里正因重病而日渐虚弱时，…… b ……"
+    },
+    {
+     "s": "Past perfect passive a At the start of the detox, over 100 students had been persuaded to stop using social media, in ANY form, for seven days.",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "过去完成时被动语态：在断网排毒活动开始时，100多名学生已经被说服停止使用任何形式的社交媒体，为期七天。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "passive in",
+   "cn": "消极",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
