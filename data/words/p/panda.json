@@ -1,82 +1,75 @@
 {
-  "meta": {
-    "ph": "ˈpændə; NAmE ˈpændə",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈpændə; NAmE ˈpændə",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a large black and white animal like a bear, that lives in China and is very rare 大猫熊；大熊猫",
+   "ex": [
     {
-      "def": "a large black and white animal like a bear, that lives in China and is very rare 大猫熊；大熊猫",
-      "ex": [
-        {
-          "s": "Panda Gourmet offers online ordering for takeout, and delivery is now an option.",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Panda Gourmet提供外卖在线点餐，现在也支持配送。"
-        },
-        {
-          "s": "What service is available only at Panda Gourmet?",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "哪项服务只有Panda Gourmet提供？"
-        },
-        {
-          "s": "Now, I’m living out that dream indirectly by helping the panda keepers do their job in English.",
-          "src": "2023新课标II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "现在，我通过帮助熊猫饲养员用英语开展工作，间接实现了那个梦想。"
-        },
-        {
-          "s": "In April 2017, two giant pandas from China arrived at a zoo in the Netherlands.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "2017年4月，两只来自中国的大熊猫来到荷兰的一个动物园。"
-        },
-        {
-          "s": "On 30 May, after the preparations were complete, the day finally came when the pandas met their fans for the first time.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "5 月 30 日，所有准备工作就绪后，熊猫们终于迎来了与它们的粉丝首次见面的日子。"
-        },
-        {
-          "s": "People were excited – the zoo is the only place in the country where it is possible to see pandas.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "人们很兴奋——动物园是这个国家唯一能看到熊猫的地方。"
-        },
-        {
-          "s": "In fact, the last time there were pandas in the Netherlands was in 1987.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "事实上，荷兰上一次有大熊猫是在1987年。"
-        },
-        {
-          "s": "And of course, the main reason why they were so excited is that pandas are just so cute!",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "当然，他们之所以如此兴奋，最主要的原因还是熊猫实在太可爱了！"
-        }
-      ]
+     "s": "Panda Gourmet offers online ordering for takeout, and delivery is now an option.",
+     "src": "2026新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "Panda Gourmet提供外卖在线点餐，现在也支持配送。"
     },
     {
-      "def": "an Asian animal like a raccoon, with reddish-brown fur and a long thick tail 小猫熊，小熊猫（产于亚洲，毛棕红色，尾巴粗长）",
-      "ex": []
-    }
-  ],
-  "chunks": [
+     "s": "What service is available only at Panda Gourmet?",
+     "src": "2026新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "哪项服务只有Panda Gourmet提供？"
+    },
     {
-      "en": "panda gourmet",
-      "cn": "大猫熊",
-      "type": "名词短语",
-      "count": 2
+     "s": "Now, I’m living out that dream indirectly by helping the panda keepers do their job in English.",
+     "src": "2023新课标II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "现在，我通过帮助熊猫饲养员用英语开展工作，间接实现了那个梦想。"
+    },
+    {
+     "s": "In April 2017, two giant pandas from China arrived at a zoo in the Netherlands.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "2017年4月，两只来自中国的大熊猫来到荷兰的一个动物园。"
+    },
+    {
+     "s": "On 30 May, after the preparations were complete, the day finally came when the pandas met their fans for the first time.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "5 月 30 日，所有准备工作就绪后，熊猫们终于迎来了与它们的粉丝首次见面的日子。"
+    },
+    {
+     "s": "People were excited – the zoo is the only place in the country where it is possible to see pandas.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "人们很兴奋——动物园是这个国家唯一能看到熊猫的地方。"
+    },
+    {
+     "s": "In fact, the last time there were pandas in the Netherlands was in 1987.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "事实上，荷兰上一次有大熊猫是在1987年。"
+    },
+    {
+     "s": "And of course, the main reason why they were so excited is that pandas are just so cute!",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "当然，他们之所以如此兴奋，最主要的原因还是熊猫实在太可爱了！"
     }
-  ]
+   ]
+  },
+  {
+   "def": "an Asian animal like a raccoon, with reddish-brown fur and a long thick tail 小猫熊，小熊猫（产于亚洲，毛棕红色，尾巴粗长）",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
