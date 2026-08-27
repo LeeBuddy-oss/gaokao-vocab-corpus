@@ -1,329 +1,317 @@
 {
-  "meta": {
-    "ph": "aɪ; NAmE aɪ",
-    "pos": "noun; noun; noun; noun; noun; noun; noun; noun; verb; verb",
-    "stars": ""
+ "meta": {
+  "ph": "aɪ; NAmE aɪ",
+  "pos": "noun; noun; noun; noun; noun; noun; noun; noun; verb; verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "either of the two organs on the face that you see with 眼睛",
+   "ex": [
+    {
+     "s": "Suddenly, a movement outside caught his eye.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "突然，外面的一阵动静引起了他的注意。"
+    },
+    {
+     "s": "kept an eye on      D. made an apology to",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "留意      D. 向……道歉"
+    },
+    {
+     "s": "Suddenly, Paris fell to the ground, “Paris’s eye rolled back,” Taylor says.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "突然，帕里斯倒在地上，“帕里斯的眼睛翻了过去，”泰勒说。"
+    },
+    {
+     "s": "Slowly, and with the camera still held to my eye, I turned… and froze.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
+    },
+    {
+     "s": "Reaching as far as the eye can see, these terraces cover tall mountains, often from the bottom to the very top.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这些梯田延绵至目力所及之处，覆盖着座座高山，常常从山脚一直延伸到山顶。"
+    },
+    {
+     "s": "Slowly, and with the camera still held to my eye, I turned...and froze.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
+    },
+    {
+     "s": "Unable to keep my eyes open, I decided I had no choice but to finish my homework the next morning.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我困得睁不开眼，于是决定别无选择，只能在第二天早上完成作业。"
+    },
+    {
+     "s": "Your eyes were engaged, but your mind was not.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "你的眼睛在看，但你的心不在焉。"
+    },
+    {
+     "s": "When I opened my hand, the bird did not fly away; she sat looking at me with her bright eyes.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我张开手时，这只鸟没有飞走；她坐着用明亮的眼睛看着我。"
+    },
+    {
+     "s": "For a very long moment, this tiny creature looked into my eyes, turning her head from side to side.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "很长一段时间，这个小家伙看着我的眼睛，把她的头从一边转到另一边。"
+    },
+    {
+     "s": "She again looked directly into my eyes, then let out a squeaking call and was gone.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她再次直视我的眼睛，然后发出一声尖细的叫声便离开了。"
+    },
+    {
+     "s": "My classmates ranged from those kids with pale skin and large blue eyes to those with rich brown skin and dark hair.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我的同学从皮肤苍白、蓝眼睛的孩子到深棕色皮肤、黑头发的孩子都有。"
+    },
+    {
+     "s": "Sometimes I think no matter where we come from, what colour our eyes, hair and skin, we are here to show our understanding and help.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "有时我想，无论我们来自哪里，无论眼睛、头发和皮肤是什么颜色，我们来到这里都是为了表达理解并提供帮助。"
+    },
+    {
+     "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
+    },
+    {
+     "s": "But if you do it too often, you can transform in the eyes of others from a confident joker to a Chihuahua dog.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但如果你做得太频繁，在别人眼里就会从一个自信的玩笑者变成一只吉娃娃犬。"
+    },
+    {
+     "s": "With shining dark eyes, he seems like the of kid who would enjoy public speaking.",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "他闪着乌黑的眼睛，看起来像是会喜欢公开演讲的孩子。"
+    },
+    {
+     "s": "I quickly lower myself, ducking my head to avoid    64    (look) directly into his eyes so he doesn’t feel    65   (challenge).",
+     "src": "2018全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我迅速蹲下身子，低下头避免____64____（look）直视它的眼睛，以免让它感到____65____（challenge）被挑衅。"
+    },
+    {
+     "s": "It uses its eyes to measure the position of the sun.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "它用眼睛来测量太阳的位置。"
+    },
+    {
+     "s": "“Yes, sir,” she replied, her dark eyes meeting his.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“是的，先生，”她答道，乌黑的眼睛与他对视。"
+    },
+    {
+     "s": "The President's eyes, brightened at her show of spirit.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "总统的眼睛在她的精神表演中亮了起来。"
+    },
+    {
+     "s": "Instantly, eyes turned to me with newfound interest and curiosity.",
+     "src": "2025北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "顿时，一双双眼睛带着新的兴趣和好奇转向我。"
+    },
+    {
+     "s": "He believes bus drivers are the eyes and ears of students when they're away from home and they have a gift to discern what kids are feeling.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他认为，当学生们离家在外时，公交车司机就是他们的眼睛和耳朵，并且他们有一种辨别孩子们感受的天赋。"
+    },
+    {
+     "s": "“I've seen those magic moments when children are talking to someone they are inspired by - their eyes are shining and their faces light up,” she said.",
+     "src": "2021新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“我曾见过那些神奇的时刻，当孩子们与激励他们的人交谈时——他们的眼睛闪闪发亮，脸上焕发光彩，”她说。"
+    },
+    {
+     "s": "Without batting an eye he would   48   a translated Emerson passage before asking about the literary influence of American   49   as a whole.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他连眼都不眨一下，就会先___48___一段爱默生译作，然后才问及美国___49___整体的文学影响。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "having the type or number of eyes mentioned 构成形容词",
+   "ex": [
     {
-      "def": "either of the two organs on the face that you see with 眼睛",
-      "ex": [
-        {
-          "s": "Suddenly, a movement outside caught his eye.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "突然，外面的一阵动静引起了他的注意。"
-        },
-        {
-          "s": "kept an eye on      D. made an apology to",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "留意      D. 向……道歉"
-        },
-        {
-          "s": "Suddenly, Paris fell to the ground, “Paris’s eye rolled back,” Taylor says.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "突然，帕里斯倒在地上，“帕里斯的眼睛翻了过去，”泰勒说。"
-        },
-        {
-          "s": "Slowly, and with the camera still held to my eye, I turned… and froze.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
-        },
-        {
-          "s": "Reaching as far as the eye can see, these terraces cover tall mountains, often from the bottom to the very top.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这些梯田延绵至目力所及之处，覆盖着座座高山，常常从山脚一直延伸到山顶。"
-        },
-        {
-          "s": "Slowly, and with the camera still held to my eye, I turned...and froze.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
-        },
-        {
-          "s": "Unable to keep my eyes open, I decided I had no choice but to finish my homework the next morning.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我困得睁不开眼，于是决定别无选择，只能在第二天早上完成作业。"
-        },
-        {
-          "s": "Your eyes were engaged, but your mind was not.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "你的眼睛在看，但你的心不在焉。"
-        },
-        {
-          "s": "When I opened my hand, the bird did not fly away; she sat looking at me with her bright eyes.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我张开手时，这只鸟没有飞走；她坐着用明亮的眼睛看着我。"
-        },
-        {
-          "s": "For a very long moment, this tiny creature looked into my eyes, turning her head from side to side.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "很长一段时间，这个小家伙看着我的眼睛，把她的头从一边转到另一边。"
-        },
-        {
-          "s": "She again looked directly into my eyes, then let out a squeaking call and was gone.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她再次直视我的眼睛，然后发出一声尖细的叫声便离开了。"
-        },
-        {
-          "s": "My classmates ranged from those kids with pale skin and large blue eyes to those with rich brown skin and dark hair.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我的同学从皮肤苍白、蓝眼睛的孩子到深棕色皮肤、黑头发的孩子都有。"
-        },
-        {
-          "s": "Sometimes I think no matter where we come from, what colour our eyes, hair and skin, we are here to show our understanding and help.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "有时我想，无论我们来自哪里，无论眼睛、头发和皮肤是什么颜色，我们来到这里都是为了表达理解并提供帮助。"
-        },
-        {
-          "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
-        },
-        {
-          "s": "But if you do it too often, you can transform in the eyes of others from a confident joker to a Chihuahua dog.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但如果你做得太频繁，在别人眼里就会从一个自信的玩笑者变成一只吉娃娃犬。"
-        },
-        {
-          "s": "With shining dark eyes, he seems like the of kid who would enjoy public speaking.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "他闪着乌黑的眼睛，看起来像是会喜欢公开演讲的孩子。"
-        },
-        {
-          "s": "I quickly lower myself, ducking my head to avoid    64    (look) directly into his eyes so he doesn’t feel    65   (challenge).",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我迅速蹲下身子，低下头避免____64____（look）直视它的眼睛，以免让它感到____65____（challenge）被挑衅。"
-        },
-        {
-          "s": "It uses its eyes to measure the position of the sun.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "它用眼睛来测量太阳的位置。"
-        },
-        {
-          "s": "“Yes, sir,” she replied, her dark eyes meeting his.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“是的，先生，”她答道，乌黑的眼睛与他对视。"
-        },
-        {
-          "s": "The President's eyes, brightened at her show of spirit.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "总统的眼睛在她的精神表演中亮了起来。"
-        },
-        {
-          "s": "Instantly, eyes turned to me with newfound interest and curiosity.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "顿时，一双双眼睛带着新的兴趣和好奇转向我。"
-        },
-        {
-          "s": "He believes bus drivers are the eyes and ears of students when they're away from home and they have a gift to discern what kids are feeling.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他认为，当学生们离家在外时，公交车司机就是他们的眼睛和耳朵，并且他们有一种辨别孩子们感受的天赋。"
-        },
-        {
-          "s": "“I've seen those magic moments when children are talking to someone they are inspired by - their eyes are shining and their faces light up,” she said.",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我曾见过那些神奇的时刻，当孩子们与激励他们的人交谈时——他们的眼睛闪闪发亮，脸上焕发光彩，”她说。"
-        },
-        {
-          "s": "Without batting an eye he would   48   a translated Emerson passage before asking about the literary influence of American   49   as a whole.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他连眼都不眨一下，就会先___48___一段爱默生译作，然后才问及美国___49___整体的文学影响。"
-        }
-      ]
+     "s": "As my eyes rested on them, I felt as though I were looking through a window into my own past.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我的目光停留在它们身上时，我觉得仿佛透过一扇窗看到了自己的过去。"
     },
     {
-      "def": "having the type or number of eyes mentioned 构成形容词",
-      "ex": [
-        {
-          "s": "As my eyes rested on them, I felt as though I were looking through a window into my own past.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我的目光停留在它们身上时，我觉得仿佛透过一扇窗看到了自己的过去。"
-        },
-        {
-          "s": "It opened her eyes to the real world.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "让她看到了真实的世界。"
-        },
-        {
-          "s": "The family hugged and smiled through misty eyes and then laughed.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男孩把最后一个包扛到肩上，露出灿烂的笑容。"
-        },
-        {
-          "s": "The spray burns the bears' eyes，but doesn't hurt them.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以我慢慢靠近这位不速之客隔着围栏向它的脸上喷洒。"
-        },
-        {
-          "s": "Those brown eyes were very   53  .",
-          "src": "2018全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那双棕色的眼睛非常温柔。"
-        },
-        {
-          "s": "Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在我眼中，露营者是那些喜欢蚊虫叮咬、半生不熟的食物和不舒服睡袋的人。"
-        }
-      ]
+     "s": "It opened her eyes to the real world.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "让她看到了真实的世界。"
     },
     {
-      "def": "the ability to see 视力；眼力",
-      "ex": []
+     "s": "The family hugged and smiled through misty eyes and then laughed.",
+     "src": "2020浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男孩把最后一个包扛到肩上，露出灿烂的笑容。"
     },
     {
-      "def": "a particular way of seeing sth 眼光；视角",
-      "ex": [
-        {
-          "s": "Mr Bissell skillfully organizes historical insights and cultural references, making his tale a well-rounded picture of Uzbekistan, seen from Western eyes.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "比斯尔先生巧妙地编排历史洞见与文化指涉，使他的故事成为一幅从西方视角看去的、完整的乌兹别克斯坦图景。"
-        },
-        {
-          "s": "So they have a ＂God’s eye view＂ of activities in their own markets and beyond.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "所以它们在自己市场及以外的活动中拥有\"上帝视角\"。"
-        }
-      ]
+     "s": "The spray burns the bears' eyes，but doesn't hurt them.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "所以我慢慢靠近这位不速之客隔着围栏向它的脸上喷洒。"
     },
     {
-      "def": "the hole in the end of a needle that you put the thread through 针鼻儿；针眼",
-      "ex": []
+     "s": "Those brown eyes were very   53  .",
+     "src": "2018全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那双棕色的眼睛非常温柔。"
     },
     {
-      "def": "a small thin piece of metal curved round, that a small hook fits into, used for fastening clothes 风纪扣扣眼；金属环眼",
-      "ex": []
-    },
-    {
-      "def": "a calm area at the centre of a storm, etc. 风眼（风暴等的中心平静区）",
-      "ex": []
-    },
-    {
-      "def": "a dark mark on a potato from which another plant will grow 芽眼",
-      "ex": [
-        {
-          "s": "Understanding these reasons will control our own anger if we are willing to evaluate ourselves with a critical eye.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这是一个了不起的成就，如果没有来自个人、公司和其他社会组织的大力支持，我们是无法实现的。"
-        }
-      ]
-    },
-    {
-      "def": "to be watching sb carefully, especially to check that they do not do anything wrong 密切注视；盯住；监视",
-      "ex": [
-        {
-          "s": "The researchers observed that the dogs were much more patient, making more eye contact and staying closer to the screen after the “unable” scenario played out.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "研究人员观察到，在“不能”的情景播放后，这些狗表现得更有耐心，更多地进行眼神交流，并更靠近屏幕。"
-        },
-        {
-          "s": "Next time you go to school, keep an eye out for the plants you see along the way.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "下次上学时，请留意沿途看到的植物。"
-        }
-      ]
-    },
-    {
-      "def": "to be thinking about asking sb out, offering sb a job, etc. because you think they are attractive, good at their job, etc. 看中；看上",
-      "ex": [
-        {
-          "s": "Eyeing these headwinds, plastic-bag makers are hiring scientists like Stein to make the case that their products are not as bad for the planet as most people assume.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "面对这些阻力，塑料袋制造商正在聘请像Stein这样的科学家来证明他们的产品并不像大多数人认为的那样对地球有害。"
-        },
-        {
-          "s": "In general, keep an eye on their property while they are gone.",
-          "src": "2018浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一般而言，在他们不在时照看他们的财物。"
-        }
-      ]
+     "s": "Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.",
+     "src": "2017全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在我眼中，露营者是那些喜欢蚊虫叮咬、半生不熟的食物和不舒服睡袋的人。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the ability to see 视力；眼力",
+   "ex": []
+  },
+  {
+   "def": "a particular way of seeing sth 眼光；视角",
+   "ex": [
     {
-      "en": "eye i",
-      "cn": "眼睛我",
-      "type": "名词短语",
-      "count": 2
+     "s": "Mr Bissell skillfully organizes historical insights and cultural references, making his tale a well-rounded picture of Uzbekistan, seen from Western eyes.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "比斯尔先生巧妙地编排历史洞见与文化指涉，使他的故事成为一幅从西方视角看去的、完整的乌兹别克斯坦图景。"
     },
     {
-      "en": "eye turn",
-      "cn": "眼睛转动",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "eye he",
-      "cn": "眼睛他",
-      "type": "名词短语",
-      "count": 2
+     "s": "So they have a ＂God’s eye view＂ of activities in their own markets and beyond.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "所以它们在自己市场及以外的活动中拥有\"上帝视角\"。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the hole in the end of a needle that you put the thread through 针鼻儿；针眼",
+   "ex": []
+  },
+  {
+   "def": "a small thin piece of metal curved round, that a small hook fits into, used for fastening clothes 风纪扣扣眼；金属环眼",
+   "ex": []
+  },
+  {
+   "def": "a calm area at the centre of a storm, etc. 风眼（风暴等的中心平静区）",
+   "ex": []
+  },
+  {
+   "def": "a dark mark on a potato from which another plant will grow 芽眼",
+   "ex": [
+    {
+     "s": "Understanding these reasons will control our own anger if we are willing to evaluate ourselves with a critical eye.",
+     "src": "2018北京卷·Why Do We Get Angry?",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这是一个了不起的成就，如果没有来自个人、公司和其他社会组织的大力支持，我们是无法实现的。"
+    }
+   ]
+  },
+  {
+   "def": "to be watching sb carefully, especially to check that they do not do anything wrong 密切注视；盯住；监视",
+   "ex": [
+    {
+     "s": "The researchers observed that the dogs were much more patient, making more eye contact and staying closer to the screen after the “unable” scenario played out.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "研究人员观察到，在“不能”的情景播放后，这些狗表现得更有耐心，更多地进行眼神交流，并更靠近屏幕。"
+    },
+    {
+     "s": "Next time you go to school, keep an eye out for the plants you see along the way.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "下次上学时，请留意沿途看到的植物。"
+    }
+   ]
+  },
+  {
+   "def": "to be thinking about asking sb out, offering sb a job, etc. because you think they are attractive, good at their job, etc. 看中；看上",
+   "ex": [
+    {
+     "s": "Eyeing these headwinds, plastic-bag makers are hiring scientists like Stein to make the case that their products are not as bad for the planet as most people assume.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "面对这些阻力，塑料袋制造商正在聘请像Stein这样的科学家来证明他们的产品并不像大多数人认为的那样对地球有害。"
+    },
+    {
+     "s": "In general, keep an eye on their property while they are gone.",
+     "src": "2018浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一般而言，在他们不在时照看他们的财物。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "eye turn",
+   "cn": "眼睛转动",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
