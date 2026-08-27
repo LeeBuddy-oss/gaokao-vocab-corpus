@@ -1,90 +1,90 @@
 {
-  "meta": {
-    "ph": "ˈæbsəns; NAmE ˈæbsəns",
-    "pos": "noun",
-    "stars": "★★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈæbsəns; NAmE ˈæbsəns",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "the fact of sb being away from a place where they are usually expected to be; the occasion or period of time when sb is away 缺席；不在",
+   "ex": [
     {
-      "def": "the fact of sb being away from a place where they are usually expected to be; the occasion or period of time when sb is away 缺席；不在",
-      "ex": [
-        {
-          "s": "Short writings missed as a result of an excused absence will be accepted.",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "t": "因准予缺勤而错过的短写作业将被接受。",
-          "year": 2022
-        },
-        {
-          "s": "I was back teaching after an absence of 15 years, dealing with the various kinds of \"forbidden fruit\" that come out of book bags.",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "在离开教学15年之后，我重新开始教书，面对着孩子们从书包里掏出的各种各样的‘禁果’。",
-          "year": 2020
-        },
-        {
-          "s": "On the one hand, there are many different groups of people around the world who live happily in the absence of new technology.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "一方面，世界各地有许多不同的人群在没有新技术的情况下幸福地生活。",
-          "year": ""
-        },
-        {
-          "s": "REFLECTING luxury prospect rural absence prediction essay network emphasis cut down keep use write read UNIT 2 LOOKING INTO THE FUTURE 1 Imagine that your 50-year-old future self has sent you a letter about your future career.",
-          "src": "人教选必1 U2",
-          "cat": "renjiao",
-          "t": "反思 奢侈 前景 农村 缺失 预测 论文 网络 重点 削减 保留 使用 写 读 单元 2 展望未来 1 想象你 50 岁的未来自己给你寄来了一封关于你未来职业的信。",
-          "year": ""
-        }
-      ]
+     "s": "Short writings missed as a result of an excused absence will be accepted.",
+     "src": "2022全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "t": "因准予缺勤而错过的短写作业将被接受。",
+     "year": 2022
     },
     {
-      "def": "the fact of sb/sth not existing or not being available; a lack of sth 不存在；缺乏",
-      "ex": [
-        {
-          "s": "Absence of communication between strangers.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "陌生人之间缺乏交流。",
-          "year": 2018
-        },
-        {
-          "s": "In the absence of wolves, coyote populations also grew quickly.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "在没有狼的情况下，郊狼的数量也迅速增长。",
-          "year": 2017
-        },
-        {
-          "s": "Only the ineducable tyro can fail to sense the presence or absence of wolves, or the fact that mountains have a secret opinion about them.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "只有不可教育的泰罗才能感知到狼的存在或不存在，或者山脉对他们有秘密意见的事实。",
-          "year": ""
-        },
-        {
-          "s": "Some students look up, but there is an absence of eye contact.",
-          "src": "人教选必1 U4",
-          "cat": "renjiao",
-          "t": "有些学生抬头看，但没有眼神交流。",
-          "year": ""
-        },
-        {
-          "s": "Due to the near absence of gravity in space, we have to attach ourselves so that we don't float around.",
-          "src": "译林选必3 U2",
-          "cat": "yilin",
-          "t": "由于太空中几乎没有重力，我们必须依附自己，这样我们就不会四处漂浮。",
-          "year": ""
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "I was back teaching after an absence of 15 years, dealing with the various kinds of \"forbidden fruit\" that come out of book bags.",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "t": "在离开教学15年之后，我重新开始教书，面对着孩子们从书包里掏出的各种各样的‘禁果’。",
+     "year": 2020
+    },
     {
-      "en": "absence of",
-      "cn": "缺少",
-      "type": "名词短语",
-      "count": 7
+     "s": "On the one hand, there are many different groups of people around the world who live happily in the absence of new technology.",
+     "src": "人教选必1 U2",
+     "cat": "renjiao",
+     "t": "一方面，世界各地有许多不同的人群在没有新技术的情况下幸福地生活。",
+     "year": ""
+    },
+    {
+     "s": "REFLECTING luxury prospect rural absence prediction essay network emphasis cut down keep use write read UNIT 2 LOOKING INTO THE FUTURE 1 Imagine that your 50-year-old future self has sent you a letter about your future career.",
+     "src": "人教选必1 U2",
+     "cat": "renjiao",
+     "t": "反思 奢侈 前景 农村 缺失 预测 论文 网络 重点 削减 保留 使用 写 读 单元 2 展望未来 1 想象你 50 岁的未来自己给你寄来了一封关于你未来职业的信。",
+     "year": ""
     }
-  ]
+   ]
+  },
+  {
+   "def": "the fact of sb/sth not existing or not being available; a lack of sth 不存在；缺乏",
+   "ex": [
+    {
+     "s": "Absence of communication between strangers.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "陌生人之间缺乏交流。",
+     "year": 2018
+    },
+    {
+     "s": "In the absence of wolves, coyote populations also grew quickly.",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "t": "在没有狼的情况下，郊狼的数量也迅速增长。",
+     "year": 2017
+    },
+    {
+     "s": "Only the ineducable tyro can fail to sense the presence or absence of wolves, or the fact that mountains have a secret opinion about them.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "只有不可教育的泰罗才能感知到狼的存在或不存在，或者山脉对他们有秘密意见的事实。",
+     "year": ""
+    },
+    {
+     "s": "Some students look up, but there is an absence of eye contact.",
+     "src": "人教选必1 U4",
+     "cat": "renjiao",
+     "t": "有些学生抬头看，但没有眼神交流。",
+     "year": ""
+    },
+    {
+     "s": "Due to the near absence of gravity in space, we have to attach ourselves so that we don't float around.",
+     "src": "译林选必3 U2",
+     "cat": "yilin",
+     "t": "由于太空中几乎没有重力，我们必须依附自己，这样我们就不会四处漂浮。",
+     "year": ""
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "absence of",
+   "cn": "…的缺乏；缺少",
+   "type": "名词短语",
+   "count": 7
+  }
+ ]
 }
