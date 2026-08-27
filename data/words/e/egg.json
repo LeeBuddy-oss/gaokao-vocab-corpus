@@ -1,139 +1,132 @@
 {
-  "meta": {
-    "ph": "eɡ; NAmE eɡ",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "eɡ; NAmE eɡ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a small oval object with a thin hard shell produced by a female bird and containing a young bird; a similar object produced by a female fish, insect, etc. （鸟类的）蛋；（鱼、昆虫等的）卵",
+   "ex": [
+    {
+     "s": "And the more frequently mothers had called to their eggs, the more similar were the babies’ begging calls.",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "母鸟对蛋鸣叫的频率越高，雏鸟乞食的叫声就越相似。"
+    },
+    {
+     "s": "They looked a bit like eggs, which led to the name “eggplant”.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "它们看起来有点像蛋，因此得名“茄子”。"
+    },
+    {
+     "s": "I'll make her scrambled eggs again, and this time they won't be burnt!",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "我再给她做个炒蛋，这次不烧了！"
+    },
+    {
+     "s": "For example, every morning, my dad has to have the bowl of egg soup while I had to eat an apple.",
+     "src": "2020全国III卷·短文改错",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例如，每天早上，我爸爸都要喝那碗蛋花汤，而我必须吃一个苹果。"
+    },
+    {
+     "s": "When the eggs were hatched, the baby birds made the similar chirp to their mothers—a sound that served as their regular ＂feed me!＂ call.",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "蛋孵化后，幼鸟会发出与母亲相似的声音——一种作为它们常规“喂我！”叫声的声音。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a bird's egg, especially one from a chicken, that is eaten as food （用作食物的）禽蛋；（尤指）鸡蛋",
+   "ex": [
     {
-      "def": "a small oval object with a thin hard shell produced by a female bird and containing a young bird; a similar object produced by a female fish, insect, etc. （鸟类的）蛋；（鱼、昆虫等的）卵",
-      "ex": [
-        {
-          "s": "And the more frequently mothers had called to their eggs, the more similar were the babies’ begging calls.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "母鸟对蛋鸣叫的频率越高，雏鸟乞食的叫声就越相似。"
-        },
-        {
-          "s": "They looked a bit like eggs, which led to the name “eggplant”.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "它们看起来有点像蛋，因此得名“茄子”。"
-        },
-        {
-          "s": "I'll make her scrambled eggs again, and this time they won't be burnt!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我再给她做个炒蛋，这次不烧了！"
-        },
-        {
-          "s": "For example, every morning, my dad has to have the bowl of egg soup while I had to eat an apple.",
-          "src": "2020全国III卷·短文改错",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例如，每天早上，我爸爸都要喝那碗蛋花汤，而我必须吃一个苹果。"
-        },
-        {
-          "s": "When the eggs were hatched, the baby birds made the similar chirp to their mothers—a sound that served as their regular ＂feed me!＂ call.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "蛋孵化后，幼鸟会发出与母亲相似的声音——一种作为它们常规“喂我！”叫声的声音。"
-        }
-      ]
+     "s": "Jeff broke two eggs into a plate and added in some milk.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "杰夫把两个鸡蛋打进盘子里，加了一点牛奶。"
     },
     {
-      "def": "a bird's egg, especially one from a chicken, that is eaten as food （用作食物的）禽蛋；（尤指）鸡蛋",
-      "ex": [
-        {
-          "s": "Jeff broke two eggs into a plate and added in some milk.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "杰夫把两个鸡蛋打进盘子里，加了一点牛奶。"
-        },
-        {
-          "s": "Jeff broke two eggs into a plate and added in some milk.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "杰夫把两个鸡蛋打进盘子里，加了一点牛奶。"
-        },
-        {
-          "s": "I like eating frying tomatoes with eggs, and I thought it must to be easy to cook.",
-          "src": "2020全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我喜欢吃西红柿炒鸡蛋，我以为这一定很容易做。"
-        },
-        {
-          "s": "Next I broke the eggs into a bowl and beat them quickly with chopstick.",
-          "src": "2020全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "接着我把鸡蛋打进碗里，用筷子快速打散。"
-        },
-        {
-          "s": "Then I put the tomatoes and the beaten eggs into pan together.  ＂Not that way，＂ my mom tried to stop us but failed.",
-          "src": "2020全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然后我把西红柿和打好的鸡蛋一起放入锅中。\"不是那样，\"妈妈试图阻止我们但没成功。"
-        },
-        {
-          "s": "This made me realize that there’s no egg in eggplant either.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "这让我意识到茄子里也没有鸡蛋。"
-        },
-        {
-          "s": "It was my mother's birthday ten years ago, and I decided to surprise her with home-made scrambled eggs.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "那是十年前妈妈过生日的时候，我决定做一份自制炒鸡蛋给她一个惊喜。"
-        },
-        {
-          "s": "I showed her the eggs and sadly explained what happened.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我把鸡蛋拿给她看，难过地解释了发生的事。"
-        },
-        {
-          "s": "Jenna found the bread and put two slices into the egg mixture.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
-        },
-        {
-          "s": "Jenna found the bread and put two slices into the egg mixture.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
-        }
-      ]
+     "s": "Jeff broke two eggs into a plate and added in some milk.",
+     "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "杰夫把两个鸡蛋打进盘子里，加了一点牛奶。"
     },
     {
-      "def": "a cell that combines with a sperm to create a baby or young animal 妇女和雌性动物",
-      "ex": [
-        {
-          "s": "Female Australian superb fairy wrens were found to repeat one sound over and over again while hatching their eggs.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "人们发现，雌性澳大利亚壮丽细尾鹩莺在孵蛋时会一遍又一遍地重复同一个声音。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "I like eating frying tomatoes with eggs, and I thought it must to be easy to cook.",
+     "src": "2020全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我喜欢吃西红柿炒鸡蛋，我以为这一定很容易做。"
+    },
     {
-      "en": "egg mixture",
-      "cn": "蛋混合",
-      "type": "名词短语",
-      "count": 2
+     "s": "Next I broke the eggs into a bowl and beat them quickly with chopstick.",
+     "src": "2020全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "接着我把鸡蛋打进碗里，用筷子快速打散。"
+    },
+    {
+     "s": "Then I put the tomatoes and the beaten eggs into pan together.  ＂Not that way，＂ my mom tried to stop us but failed.",
+     "src": "2020全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然后我把西红柿和打好的鸡蛋一起放入锅中。\"不是那样，\"妈妈试图阻止我们但没成功。"
+    },
+    {
+     "s": "This made me realize that there’s no egg in eggplant either.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "这让我意识到茄子里也没有鸡蛋。"
+    },
+    {
+     "s": "It was my mother's birthday ten years ago, and I decided to surprise her with home-made scrambled eggs.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "那是十年前妈妈过生日的时候，我决定做一份自制炒鸡蛋给她一个惊喜。"
+    },
+    {
+     "s": "I showed her the eggs and sadly explained what happened.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "我把鸡蛋拿给她看，难过地解释了发生的事。"
+    },
+    {
+     "s": "Jenna found the bread and put two slices into the egg mixture.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
+    },
+    {
+     "s": "Jenna found the bread and put two slices into the egg mixture.",
+     "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "珍娜找到了面包，把两片放进鸡蛋混合物里。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a cell that combines with a sperm to create a baby or young animal 妇女和雌性动物",
+   "ex": [
+    {
+     "s": "Female Australian superb fairy wrens were found to repeat one sound over and over again while hatching their eggs.",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "人们发现，雌性澳大利亚壮丽细尾鹩莺在孵蛋时会一遍又一遍地重复同一个声音。"
+    }
+   ]
+  }
+ ],
+ "chunks": []
 }
