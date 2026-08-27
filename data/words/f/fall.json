@@ -1,536 +1,524 @@
 {
-  "meta": {
-    "ph": "fɔːl; NAmE fɔːl",
-    "pos": "verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; noun; noun; noun; noun; noun; noun; noun; noun; noun",
-    "stars": ""
+ "meta": {
+  "ph": "fɔːl; NAmE fɔːl",
+  "pos": "verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; verb; noun; noun; noun; noun; noun; noun; noun; noun; noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to drop down from a higher level to a lower level 落下；下落；掉落；跌落",
+   "ex": [
+    {
+     "s": "As night fell, panic set in.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "夜幕降临，恐慌袭来。"
+    },
+    {
+     "s": "In this story, the spider falls a seventh time.",
+     "src": "2026北京卷·写作问答",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在这个版本里，蜘蛛第七次跌落。"
+    },
+    {
+     "s": "Eric Brown, only three years old, knocked Henry down when he fell.",
+     "src": "2022全国新高考II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Eric Brown只有三岁，摔倒时把Henry撞倒了。"
+    },
+    {
+     "s": "His strange habit makes sense when you consider that he’s an environmental scientist who studies how to reduce litter, including things that fall off garbage trucks as they drive down the road.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他奇怪的习惯在你想到他是一位研究如何减少垃圾的环境科学家时就有道理了，包括研究那些在垃圾车沿路行驶时从车上掉落的东西。"
+    },
+    {
+     "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "飞机向有威胁的风暴云团播撒一种化学物质，使小冰晶在长成危险的冰雹之前就以雨的形式落下。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to suddenly stop standing 突然倒下；跌倒；倒塌",
+   "ex": [
     {
-      "def": "to drop down from a higher level to a lower level 落下；下落；掉落；跌落",
-      "ex": [
-        {
-          "s": "As night fell, panic set in.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "夜幕降临，恐慌袭来。"
-        },
-        {
-          "s": "In this story, the spider falls a seventh time.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在这个版本里，蜘蛛第七次跌落。"
-        },
-        {
-          "s": "Eric Brown, only three years old, knocked Henry down when he fell.",
-          "src": "2022全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Eric Brown只有三岁，摔倒时把Henry撞倒了。"
-        },
-        {
-          "s": "His strange habit makes sense when you consider that he’s an environmental scientist who studies how to reduce litter, including things that fall off garbage trucks as they drive down the road.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他奇怪的习惯在你想到他是一位研究如何减少垃圾的环境科学家时就有道理了，包括研究那些在垃圾车沿路行驶时从车上掉落的东西。"
-        },
-        {
-          "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "飞机向有威胁的风暴云团播撒一种化学物质，使小冰晶在长成危险的冰雹之前就以雨的形式落下。"
-        }
-      ]
+     "s": "It reminds her that children don’t enter life  47  to take risks or unwilling to  48  again when they fall down.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这提醒她，孩子进入生活时并不____47____去冒险，也不是在跌倒后不愿再次____48____。"
     },
     {
-      "def": "to suddenly stop standing 突然倒下；跌倒；倒塌",
-      "ex": [
-        {
-          "s": "It reminds her that children don’t enter life  47  to take risks or unwilling to  48  again when they fall down.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这提醒她，孩子进入生活时并不____47____去冒险，也不是在跌倒后不愿再次____48____。"
-        },
-        {
-          "s": "Now we live in a world surrounded by the \"can't do\" attitudes． We all fall down． We all have doubts and regrets． Still we must climb and dream about what's at the top of our mountain． Monsters may appear or the night will fall． But never ever give up on your dream!",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如今我们生活在一个被“做不到”态度包围的世界。我们都会跌倒。我们都有疑虑和悔恨。但我们仍须攀登，梦想山顶的风景。怪物可能出现，夜幕可能降临。但永远不要放弃你的梦想！"
-        },
-        {
-          "s": "Suddenly, Paris fell to the ground, “Paris’s eye rolled back,” Taylor says.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "突然，帕里斯倒在地上，“帕里斯的眼睛翻了过去，”泰勒说。"
-        }
-      ]
+     "s": "Now we live in a world surrounded by the \"can't do\" attitudes． We all fall down． We all have doubts and regrets． Still we must climb and dream about what's at the top of our mountain． Monsters may appear or the night will fall． But never ever give up on your dream!",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如今我们生活在一个被“做不到”态度包围的世界。我们都会跌倒。我们都有疑虑和悔恨。但我们仍须攀登，梦想山顶的风景。怪物可能出现，夜幕可能降临。但永远不要放弃你的梦想！"
     },
     {
-      "def": "to hang down 下垂；低垂",
-      "ex": []
-    },
-    {
-      "def": "to slope downwards 向下倾斜",
-      "ex": []
-    },
-    {
-      "def": "to decrease in amount, number or strength （数量）减少，下降；（强度）减小",
-      "ex": [
-        {
-          "s": "However, while some of her classmates edged ahead, others actually fell behind.",
-          "src": "2024浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，虽然她的一些同学逐渐领先，但其他人实际上落后了。"
-        },
-        {
-          "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
-        },
-        {
-          "s": "In the north of India, the population is booming due to high birth rates, but in the south, where most economic development is taking place, birth rate is falling rapidly.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在印度北部，由于高出生率，人口正在激增，但在大多数经济发展正在进行的南部，出生率正在迅速下降。"
-        },
-        {
-          "s": "Road accidents, which had fallen for years, are now rising sharply.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "多年来一直在下降的交通事故，现在正急剧上升。"
-        },
-        {
-          "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
-        },
-        {
-          "s": "For this reason, the number of monarch butterflies is falling.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "因为这个原因，黑脉金斑蝶的数量正在下降。"
-        },
-        {
-          "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
-        },
-        {
-          "s": "Second, if other factors such as technology remain constant, economic growth and material expectations will fall well below recent standards and this could invite trouble.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "其次，如果技术等其他因素保持不变，经济增长和物质期望将远低于近期标准，这可能引发麻烦。"
-        }
-      ]
-    },
-    {
-      "def": "to be defeated or captured 被打败；沦陷；失守",
-      "ex": []
-    },
-    {
-      "def": "to die in battle; to be shot 阵亡；被击毙",
-      "ex": []
-    },
-    {
-      "def": "to pass into a particular state; to begin to be sth 进入（某状态）；开始变成（某事物）",
-      "ex": [
-        {
-          "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当我还是个小女孩时，我家搬到了一座大山脚下的一个小镇。一天放学后，在探索这座壮丽山峰的翠绿树林时，我差点踩到一段楼梯。这些台阶通向哪里呢？好奇心占了上风，尽管我知道天很快就要黑了。我开始爬上那些神秘莫测的台阶。"
-        },
-        {
-          "s": "Eventually, she fell asleep.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "最终，她睡着了。"
-        },
-        {
-          "s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在秘鲁，一座山峰的冰川已成为气候变化的牺牲品，周围的当地农民开始把整个山顶漆成白色，希望增加的反射率能恢复那赋予生命的冰。"
-        },
-        {
-          "s": "Changing levels of body chemicals called hormones not only make teenagers’ bodies develop adult characteristics, but also make it hard for teenagers to fall asleep before 11 pm.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "被称为激素的身体化学物质水平的变化，不仅让青少年身体发育出成人特征，还让他们在晚上11点前难以入睡。"
-        }
-      ]
-    },
-    {
-      "def": "to come quickly and suddenly 突然来到；突然出现",
-      "ex": [
-        {
-          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
-        }
-      ]
-    },
-    {
-      "def": "to happen or take place 发生",
-      "ex": []
-    },
-    {
-      "def": "to move in a particular direction or come in a particular position （向某方向）移动；落（在某位置上）",
-      "ex": [
-        {
-          "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
-        }
-      ]
-    },
-    {
-      "def": "to belong to a particular class, group or area of responsibility 属于（某类、群体、责任范围）",
-      "ex": [
-        {
-          "s": "I think my home falls into that category.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "年龄不是唯一的因素；我想这也与你家庭的构成有关。"
-        }
-      ]
-    },
-    {
-      "def": "to be in very bad condition so that parts are breaking off 破碎；破裂",
-      "ex": [
-        {
-          "s": "It prevents people who are cut off from society falling victim to cheaters.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这项努力不仅是一种社区意识的表现——它也是一项预防措施。"
-        },
-        {
-          "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
-        }
-      ]
-    },
-    {
-      "def": "to have so many problems that it is no longer possible to exist or function 破裂；崩溃",
-      "ex": [
-        {
-          "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
-        }
-      ]
-    },
-    {
-      "def": "to move or turn back 后退；撤退；退却",
-      "ex": [
-        {
-          "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
-        },
-        {
-          "s": "A bright red cloud enveloped the animal, and to Mac's relief, it fell back, shaking its head.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一团鲜红的云包围了那只动物，令麦克宽慰的是，它摇着头退了回去。"
-        },
-        {
-          "s": "I don’t want to have nothing else to fall back on when I can’t model my more.”",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我不想在我不能再模特的时候没有任何退路。\""
-        }
-      ]
-    },
-    {
-      "def": "to decrease in value or amount （价值）降低；（数量）减少",
-      "ex": []
-    },
-    {
-      "def": "to attack or take hold of sb/sth with a lot of energy and enthusiasm 袭击；向 … 进攻；扑向；抓住",
-      "ex": [
-        {
-          "s": "The path to Dawson was covered with thirty feet of wet snow that could fall without warming.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "通往道森的道路覆盖着三十英尺厚的湿雪，可能毫无预兆地滑落。"
-        }
-      ]
-    },
-    {
-      "def": "to be the responsibility of sb （责任）落在 … 身上；由 … 负担",
-      "ex": [
-        {
-          "s": "Any combination of movies and crime novels that falls below the budget line is affordable.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "任何电影和犯罪小说的组合，只要落在预算线以下就是负担得起的。"
-        },
-        {
-          "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
-        }
-      ]
-    },
-    {
-      "def": "to become loose and drop 掉落；脱落",
-      "ex": []
-    },
-    {
-      "def": "if soldiers fall out, they leave their lines and move away 原地解散；离开队列",
-      "ex": [
-        {
-          "s": "So even if your own efforts at humor fall short, you might be freeing the long kept humor in others.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以即使你自己的幽默努力不够完美，你也可能释放了他人心中长期压抑的幽默。"
-        },
-        {
-          "s": "They both fell   58   （sleep）while watching TV.",
-          "src": "2022全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他们俩看电视时都   58  （sleep）睡着了。"
-        },
-        {
-          "s": "My parents urged me to get out of this so-called unhealthy habit, but their repeated requests fell on deaf ears.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "父母劝我改掉这个所谓不健康的习惯，但他们的一再要求都被我当成了耳旁风。"
-        },
-        {
-          "s": "Because we’re human, we often fall flat.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "因为我们是人，我们经常会失败。"
-        },
-        {
-          "s": "It will fall out of use some day.",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它有朝一日会被废弃不用。"
-        }
-      ]
-    },
-    {
-      "def": "an act of falling 落下；下落；跌落；掉落",
-      "ex": [
-        {
-          "s": "Focused on balancing the bags, she didn’t notice her wallet falling out of her pocket.",
-          "src": "2022北京卷·A 完型填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "专注于保持袋子平衡，她没注意到钱包从口袋里掉了出来。"
-        },
-        {
-          "s": "Stop things falling off trucks.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "阻止东西从卡车上掉落。"
-        },
-        {
-          "s": "Catching falling objects.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "接住掉落的物品。"
-        },
-        {
-          "s": "Galileo was not merely ambitious when he dropped objects of varying weights from the Leaning Tower at Pisa and timed their fall to the ground.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "伽利略并非只是好高骛远，当他从比萨斜塔扔下重量不同的物体并计时它们落地时。"
-        }
-      ]
-    },
-    {
-      "def": "an amount of snow, rocks, etc. that falls or has fallen （雪、岩石等的）降落",
-      "ex": []
-    },
-    {
-      "def": "the way in which sth falls or happens 下落；发生",
-      "ex": []
-    },
-    {
-      "def": "a large amount of water falling down from a height 尤用于名称",
-      "ex": [
-        {
-          "s": "With water falling off it thick, brown hair, the bear stared back at me.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "水从它浓密的棕色毛发上流下来，那只熊也瞪着我看。"
-        },
-        {
-          "s": "Or Africa’s Victoria Falls.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "或者是非洲的维多利亚瀑布。"
-        }
-      ]
-    },
-    {
-      "def": "在 2009 年的秋天",
-      "ex": [
-        {
-          "s": "It fell and crashed beside the cake.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它掉下来在蛋糕旁摔碎了。"
-        },
-        {
-          "s": "The Rise and Fall of Jazz.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "太阳能蒸馏器通过在塑料布下制造温室效应来工作。"
-        },
-        {
-          "s": "And by understanding how we slipped, we can avoid falling in the future.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "通过理解我们是如何滑倒的，我们可以在未来避免摔倒。"
-        },
-        {
-          "s": "Last year the Foundation reported that nearly 60% of 7- to 12-year-olds said they felt tired during the day, and 15% said they had fallen asleep at school.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "去年，该基金会报告称，近60%的7至12岁儿童说他们白天感到疲倦，15%说他们在学校里睡着了。"
-        },
-        {
-          "s": "One fall，my wife Elli and I had a single goal:to photograph polar bears.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有一年秋天，我和妻子埃利只有一个目标：拍摄北极熊。"
-        },
-        {
-          "s": "Who is eligible: Students aged 15-29, returning to school in the fall.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "谁有资格：15至29岁的学生，秋季返校就读。"
-        }
-      ]
-    },
-    {
-      "def": "a decrease in size, number, rate or level （大小）减小；（数量）减少；（比率、水平）降低",
-      "ex": [
-        {
-          "s": "A big fall in crime rates.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "犯罪率的急剧下降。"
-        }
-      ]
-    },
-    {
-      "def": "a loss of political, economic, etc. power or success; the loss or defeat of a city, country, etc. in war （政权的）垮台；（经济的）崩溃；（城市、国家的）沦陷，灭亡",
-      "ex": [
-        {
-          "s": "The rise and fall of a city.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一座城市的兴衰。"
-        }
-      ]
-    },
-    {
-      "def": "a situation in which a person, an organization, etc. loses the respect of other people because they have done sth wrong （威信的）骤降",
-      "ex": []
-    },
-    {
-      "def": "the occasion when Adam and Eve did not obey God and had to leave the Garden of Eden 人类堕落（指亚当和夏娃违背上帝意旨而被迫离开伊甸园）",
-      "ex": [
-        {
-          "s": "When he looked down, he   60   （accidental ）slipped and fell over the edge.",
-          "src": "2022全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他往下看时，   60  （accidental ）滑了一下摔出了边缘。"
-        }
-      ]
+     "s": "Suddenly, Paris fell to the ground, “Paris’s eye rolled back,” Taylor says.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "突然，帕里斯倒在地上，“帕里斯的眼睛翻了过去，”泰勒说。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to hang down 下垂；低垂",
+   "ex": []
+  },
+  {
+   "def": "to slope downwards 向下倾斜",
+   "ex": []
+  },
+  {
+   "def": "to decrease in amount, number or strength （数量）减少，下降；（强度）减小",
+   "ex": [
     {
-      "en": "fallen victim",
-      "cn": "受害者",
-      "type": "名词短语",
-      "count": 2
+     "s": "However, while some of her classmates edged ahead, others actually fell behind.",
+     "src": "2024浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "然而，虽然她的一些同学逐渐领先，但其他人实际上落后了。"
     },
     {
-      "en": "crystals fall",
-      "cn": "落下",
-      "type": "名词短语",
-      "count": 1
+     "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
     },
     {
-      "en": "fall in love",
-      "cn": "恋爱",
-      "type": "动词短语",
-      "count": 2
+     "s": "In the north of India, the population is booming due to high birth rates, but in the south, where most economic development is taking place, birth rate is falling rapidly.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在印度北部，由于高出生率，人口正在激增，但在大多数经济发展正在进行的南部，出生率正在迅速下降。"
     },
     {
-      "en": "fall asleep",
-      "cn": "入睡",
-      "type": "动词短语",
-      "count": 1
+     "s": "Road accidents, which had fallen for years, are now rising sharply.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "多年来一直在下降的交通事故，现在正急剧上升。"
     },
     {
-      "en": "fall behind",
-      "cn": "落后",
-      "type": "动词短语",
-      "count": 1
+     "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
+    },
+    {
+     "s": "For this reason, the number of monarch butterflies is falling.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "因为这个原因，黑脉金斑蝶的数量正在下降。"
+    },
+    {
+     "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
+    },
+    {
+     "s": "Second, if other factors such as technology remain constant, economic growth and material expectations will fall well below recent standards and this could invite trouble.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "其次，如果技术等其他因素保持不变，经济增长和物质期望将远低于近期标准，这可能引发麻烦。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to be defeated or captured 被打败；沦陷；失守",
+   "ex": []
+  },
+  {
+   "def": "to die in battle; to be shot 阵亡；被击毙",
+   "ex": []
+  },
+  {
+   "def": "to pass into a particular state; to begin to be sth 进入（某状态）；开始变成（某事物）",
+   "ex": [
+    {
+     "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当我还是个小女孩时，我家搬到了一座大山脚下的一个小镇。一天放学后，在探索这座壮丽山峰的翠绿树林时，我差点踩到一段楼梯。这些台阶通向哪里呢？好奇心占了上风，尽管我知道天很快就要黑了。我开始爬上那些神秘莫测的台阶。"
+    },
+    {
+     "s": "Eventually, she fell asleep.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "最终，她睡着了。"
+    },
+    {
+     "s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在秘鲁，一座山峰的冰川已成为气候变化的牺牲品，周围的当地农民开始把整个山顶漆成白色，希望增加的反射率能恢复那赋予生命的冰。"
+    },
+    {
+     "s": "Changing levels of body chemicals called hormones not only make teenagers’ bodies develop adult characteristics, but also make it hard for teenagers to fall asleep before 11 pm.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "被称为激素的身体化学物质水平的变化，不仅让青少年身体发育出成人特征，还让他们在晚上11点前难以入睡。"
+    }
+   ]
+  },
+  {
+   "def": "to come quickly and suddenly 突然来到；突然出现",
+   "ex": [
+    {
+     "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
+    }
+   ]
+  },
+  {
+   "def": "to happen or take place 发生",
+   "ex": []
+  },
+  {
+   "def": "to move in a particular direction or come in a particular position （向某方向）移动；落（在某位置上）",
+   "ex": [
+    {
+     "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
+    }
+   ]
+  },
+  {
+   "def": "to belong to a particular class, group or area of responsibility 属于（某类、群体、责任范围）",
+   "ex": [
+    {
+     "s": "I think my home falls into that category.",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "年龄不是唯一的因素；我想这也与你家庭的构成有关。"
+    }
+   ]
+  },
+  {
+   "def": "to be in very bad condition so that parts are breaking off 破碎；破裂",
+   "ex": [
+    {
+     "s": "It prevents people who are cut off from society falling victim to cheaters.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这项努力不仅是一种社区意识的表现——它也是一项预防措施。"
+    },
+    {
+     "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
+    }
+   ]
+  },
+  {
+   "def": "to have so many problems that it is no longer possible to exist or function 破裂；崩溃",
+   "ex": [
+    {
+     "s": "Comparing yourself with someone who is outperforming you could result in feelings of envy if you focus on the things they have and you don’t, or it can be energizing and inspiring if you use these comparisons as a source of motivation, for example, “If they can achieve that, so can I.” Comparing yourself with someone who is doing worse than you could result in fear and worry if you think about how you could fall into similar circumstances, or it can draw out feelings of gratitude and appreciation if you use that comparison to broaden your views — for example, “Wow, things could be much worse; I’m doing great.”",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "把自己和表现优于你的人比较，如果你盯着他们有而你没有的东西，可能产生嫉妒；但如果你把这些比较当作动力来源，比如“他们能做到，我也能”，它就会令人振奋和鼓舞。把自己和不如你的人比较，如果你想到自己也可能陷入类似境地，可能产生恐惧和担忧；但如果你用这种比较拓宽视角，比如“哇，情况可能更糟，我已经很不错了”，它就会引发感恩和知足。"
+    }
+   ]
+  },
+  {
+   "def": "to move or turn back 后退；撤退；退却",
+   "ex": [
+    {
+     "s": "“I was turning the page to get ready for the next page, but the draft wind from the turn caused the spare pages to fall off the stand,” Mr Titterton said, “Luckily I was able to catch them and put them back.”",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“我正翻页准备下一页，但翻页带起的气流把备用的谱子从谱架上吹掉了，”蒂特顿先生说，“幸好我接住了它们并放回去。”"
+    },
+    {
+     "s": "A bright red cloud enveloped the animal, and to Mac's relief, it fell back, shaking its head.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一团鲜红的云包围了那只动物，令麦克宽慰的是，它摇着头退了回去。"
+    },
+    {
+     "s": "I don’t want to have nothing else to fall back on when I can’t model my more.”",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我不想在我不能再模特的时候没有任何退路。\""
+    }
+   ]
+  },
+  {
+   "def": "to decrease in value or amount （价值）降低；（数量）减少",
+   "ex": []
+  },
+  {
+   "def": "to attack or take hold of sb/sth with a lot of energy and enthusiasm 袭击；向 … 进攻；扑向；抓住",
+   "ex": [
+    {
+     "s": "The path to Dawson was covered with thirty feet of wet snow that could fall without warming.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "通往道森的道路覆盖着三十英尺厚的湿雪，可能毫无预兆地滑落。"
+    }
+   ]
+  },
+  {
+   "def": "to be the responsibility of sb （责任）落在 … 身上；由 … 负担",
+   "ex": [
+    {
+     "s": "Any combination of movies and crime novels that falls below the budget line is affordable.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "任何电影和犯罪小说的组合，只要落在预算线以下就是负担得起的。"
+    },
+    {
+     "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
+    }
+   ]
+  },
+  {
+   "def": "to become loose and drop 掉落；脱落",
+   "ex": []
+  },
+  {
+   "def": "if soldiers fall out, they leave their lines and move away 原地解散；离开队列",
+   "ex": [
+    {
+     "s": "So even if your own efforts at humor fall short, you might be freeing the long kept humor in others.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "所以即使你自己的幽默努力不够完美，你也可能释放了他人心中长期压抑的幽默。"
+    },
+    {
+     "s": "They both fell   58   （sleep）while watching TV.",
+     "src": "2022全国新高考II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他们俩看电视时都   58  （sleep）睡着了。"
+    },
+    {
+     "s": "My parents urged me to get out of this so-called unhealthy habit, but their repeated requests fell on deaf ears.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "父母劝我改掉这个所谓不健康的习惯，但他们的一再要求都被我当成了耳旁风。"
+    },
+    {
+     "s": "Because we’re human, we often fall flat.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "因为我们是人，我们经常会失败。"
+    },
+    {
+     "s": "It will fall out of use some day.",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它有朝一日会被废弃不用。"
+    }
+   ]
+  },
+  {
+   "def": "an act of falling 落下；下落；跌落；掉落",
+   "ex": [
+    {
+     "s": "Focused on balancing the bags, she didn’t notice her wallet falling out of her pocket.",
+     "src": "2022北京卷·A 完型填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "专注于保持袋子平衡，她没注意到钱包从口袋里掉了出来。"
+    },
+    {
+     "s": "Stop things falling off trucks.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "阻止东西从卡车上掉落。"
+    },
+    {
+     "s": "Catching falling objects.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "接住掉落的物品。"
+    },
+    {
+     "s": "Galileo was not merely ambitious when he dropped objects of varying weights from the Leaning Tower at Pisa and timed their fall to the ground.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "伽利略并非只是好高骛远，当他从比萨斜塔扔下重量不同的物体并计时它们落地时。"
+    }
+   ]
+  },
+  {
+   "def": "an amount of snow, rocks, etc. that falls or has fallen （雪、岩石等的）降落",
+   "ex": []
+  },
+  {
+   "def": "the way in which sth falls or happens 下落；发生",
+   "ex": []
+  },
+  {
+   "def": "a large amount of water falling down from a height 尤用于名称",
+   "ex": [
+    {
+     "s": "With water falling off it thick, brown hair, the bear stared back at me.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "水从它浓密的棕色毛发上流下来，那只熊也瞪着我看。"
+    },
+    {
+     "s": "Or Africa’s Victoria Falls.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "或者是非洲的维多利亚瀑布。"
+    }
+   ]
+  },
+  {
+   "def": "在 2009 年的秋天",
+   "ex": [
+    {
+     "s": "It fell and crashed beside the cake.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它掉下来在蛋糕旁摔碎了。"
+    },
+    {
+     "s": "The Rise and Fall of Jazz.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "太阳能蒸馏器通过在塑料布下制造温室效应来工作。"
+    },
+    {
+     "s": "And by understanding how we slipped, we can avoid falling in the future.",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "通过理解我们是如何滑倒的，我们可以在未来避免摔倒。"
+    },
+    {
+     "s": "Last year the Foundation reported that nearly 60% of 7- to 12-year-olds said they felt tired during the day, and 15% said they had fallen asleep at school.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "去年，该基金会报告称，近60%的7至12岁儿童说他们白天感到疲倦，15%说他们在学校里睡着了。"
+    },
+    {
+     "s": "One fall，my wife Elli and I had a single goal:to photograph polar bears.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "有一年秋天，我和妻子埃利只有一个目标：拍摄北极熊。"
+    },
+    {
+     "s": "Who is eligible: Students aged 15-29, returning to school in the fall.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "谁有资格：15至29岁的学生，秋季返校就读。"
+    }
+   ]
+  },
+  {
+   "def": "a decrease in size, number, rate or level （大小）减小；（数量）减少；（比率、水平）降低",
+   "ex": [
+    {
+     "s": "A big fall in crime rates.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "犯罪率的急剧下降。"
+    }
+   ]
+  },
+  {
+   "def": "a loss of political, economic, etc. power or success; the loss or defeat of a city, country, etc. in war （政权的）垮台；（经济的）崩溃；（城市、国家的）沦陷，灭亡",
+   "ex": [
+    {
+     "s": "The rise and fall of a city.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一座城市的兴衰。"
+    }
+   ]
+  },
+  {
+   "def": "a situation in which a person, an organization, etc. loses the respect of other people because they have done sth wrong （威信的）骤降",
+   "ex": []
+  },
+  {
+   "def": "the occasion when Adam and Eve did not obey God and had to leave the Garden of Eden 人类堕落（指亚当和夏娃违背上帝意旨而被迫离开伊甸园）",
+   "ex": [
+    {
+     "s": "When he looked down, he   60   （accidental ）slipped and fell over the edge.",
+     "src": "2022全国新高考II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他往下看时，   60  （accidental ）滑了一下摔出了边缘。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "fall in love",
+   "cn": "恋爱",
+   "type": "动词短语",
+   "count": 2
+  },
+  {
+   "en": "fall asleep",
+   "cn": "入睡",
+   "type": "动词短语",
+   "count": 1
+  },
+  {
+   "en": "fall behind",
+   "cn": "落后",
+   "type": "动词短语",
+   "count": 1
+  }
+ ]
 }
