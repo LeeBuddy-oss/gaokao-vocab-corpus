@@ -1,9 +1,9 @@
-const WORDS_URL = 'data/words.json?v=20260826mmm';
+const WORDS_URL = 'data/words.json?v=20260826nnn';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260826mmm';
-const DICT_URL = 'data/en_cn_dict.json?v=20260826mmm';
+const STATS_URL = 'data/stats.json?v=20260826nnn';
+const DICT_URL = 'data/en_cn_dict.json?v=20260826nnn';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -260,8 +260,8 @@ async function init() {
   loadStats();
   try {
     const [wr, mr, dr] = await Promise.all([
-      fetch(WORDS_URL + '?v=20260826mmm'),
-      fetch(WORDS_BASE + 'manifest.json?v=20260826mmm'),
+      fetch(WORDS_URL + '?v=20260826nnn'),
+      fetch(WORDS_BASE + 'manifest.json?v=20260826nnn'),
       fetch(DICT_URL)
     ]);
     WORDS = wr.ok ? await wr.json() : [];
@@ -475,7 +475,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260826mmm'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260826nnn'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
@@ -3029,8 +3029,8 @@ function renderMindMap(word, entry) {
     rightHtml += `<p class="wv-line wv-struct"><span class="wv-tag">真题词组</span></p>`;
     const byType = {};
     // 兼容新旧类型名：动词短语/名词短语/形容词搭配/副词搭配/介词短语 + 名词词组/动词词组/...
-    const typeOrder = ['动词短语','名词短语','形容词搭配','副词搭配','介词短语',
-                       '名词词组','动词词组','形容词词组','副词词组','介词词组','其他'];
+    const typeOrder = ['动词短语','名词短语','形容词搭配','副词搭配','副词短语','介词短语',
+                       '名词词组','动词词组','形容词词组','副词词组','介词词组','短语','其他'];
     filteredManual.forEach(c => {
       const tp = c.type || '其他';
       if (!byType[tp]) byType[tp] = [];
