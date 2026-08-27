@@ -1,68 +1,62 @@
 {
-  "meta": {
-    "ph": "wɔːd; NAmE wɔːrd",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "wɔːd; NAmE wɔːrd",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a separate room or area in a hospital for people with the same type of medical condition 病房；病室",
+   "ex": [
+    {
+     "s": "When we visited the ward the next morning, we were amazed to see that against all odds, both boys were still alive.",
+     "src": "外研社B5 U4",
+     "cat": "waiyan",
+     "t": "当我们第二天早上去病房时，我们惊讶地发现，尽管困难重重，两个男孩都还活着。"
+    },
+    {
+     "s": "Make sure that the ward looks good.\" This really turned me off to begin with, \"Let's clean up the ward because we've got VIPs coming in.\" Well, the ViPs happened to be a general and a group of about a dozen people.",
+     "src": "北师大选必4 U11",
+     "cat": "beishida",
+     "t": "确保病房看起来整洁。”这起初让我很反感，“咱们把病房打扫一下，因为有贵宾要来。”结果那些“贵宾”碰巧是一位将军和十几个人。"
+    },
+    {
+     "s": "Mother's Day, as we now know it, instead owes its origin to the efforts of Ann and Anna Jarvis Like Julia Ward Howe, Ann Jarvis wanted to improve health care and help the poor.",
+     "src": "译林B2 U4",
+     "cat": "yilin",
+     "t": "我们现在所知的母亲节，其起源其实归功于安\\u00b7贾维斯和安娜\\u00b7贾维斯的努力。像朱莉娅\\u00b7沃德\\u00b7豪一样，安\\u00b7贾维斯想要改善医疗保健和帮助穷人。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "(in Britain) one of the areas into which a city is divided and which elects and is represented by a member of the local council （英国城市中可选出一位地方议员的）区，选区",
+   "ex": [
     {
-      "def": "a separate room or area in a hospital for people with the same type of medical condition 病房；病室",
-      "ex": [
-        {
-          "s": "When we visited the ward the next morning, we were amazed to see that against all odds, both boys were still alive.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "当我们第二天早上去病房时，我们惊讶地发现，尽管困难重重，两个男孩都还活着。"
-        },
-        {
-          "s": "Make sure that the ward looks good.\" This really turned me off to begin with, \"Let's clean up the ward because we've got VIPs coming in.\" Well, the ViPs happened to be a general and a group of about a dozen people.",
-          "src": "北师大选必4 U11",
-          "cat": "beishida",
-          "t": "确保病房看起来整洁。”这起初让我很反感，“咱们把病房打扫一下，因为有贵宾要来。”结果那些“贵宾”碰巧是一位将军和十几个人。"
-        },
-        {
-          "s": "Mother's Day, as we now know it, instead owes its origin to the efforts of Ann and Anna Jarvis Like Julia Ward Howe, Ann Jarvis wanted to improve health care and help the poor.",
-          "src": "译林B2 U4",
-          "cat": "yilin",
-          "t": "我们现在所知的母亲节，其起源其实归功于安\\u00b7贾维斯和安娜\\u00b7贾维斯的努力。像朱莉娅\\u00b7沃德\\u00b7豪一样，安\\u00b7贾维斯想要改善医疗保健和帮助穷人。"
-        }
-      ]
-    },
-    {
-      "def": "(in Britain) one of the areas into which a city is divided and which elects and is represented by a member of the local council （英国城市中可选出一位地方议员的）区，选区",
-      "ex": [
-        {
-          "s": "While few today think of Mother's Day as a day to help the community, you can still celebrate in a way that would please Julia Ward Howe, as well as Ann and Anna Jarvis.",
-          "src": "译林B2 U4",
-          "cat": "yilin",
-          "t": "虽然如今很少有人把母亲节视为回馈社区的日子，但你仍可以用一种让朱莉娅·沃德·豪以及安和安娜·贾维斯欣慰的方式来庆祝。"
-        }
-      ]
-    },
-    {
-      "def": "a person, especially a child, who is under the legal protection of a court or another person (called a guardian ) 受监护人（受法院或监护人保护的人，尤指儿童）",
-      "ex": [
-        {
-          "s": "Julia Ward Howe was the first person to propose a national mother's day in the United States.",
-          "src": "译林B2 U4",
-          "cat": "yilin",
-          "t": "朱莉娅·沃德·豪是美国首位提议设立全国性母亲节的人。"
-        }
-      ]
+     "s": "While few today think of Mother's Day as a day to help the community, you can still celebrate in a way that would please Julia Ward Howe, as well as Ann and Anna Jarvis.",
+     "src": "译林B2 U4",
+     "cat": "yilin",
+     "t": "虽然如今很少有人把母亲节视为回馈社区的日子，但你仍可以用一种让朱莉娅·沃德·豪以及安和安娜·贾维斯欣慰的方式来庆祝。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a person, especially a child, who is under the legal protection of a court or another person (called a guardian ) 受监护人（受法院或监护人保护的人，尤指儿童）",
+   "ex": [
     {
-      "en": "julia ward",
-      "cn": "病房",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "ward howe",
-      "cn": "病房",
-      "type": "名词短语",
-      "count": 3
+     "s": "Julia Ward Howe was the first person to propose a national mother's day in the United States.",
+     "src": "译林B2 U4",
+     "cat": "yilin",
+     "t": "朱莉娅·沃德·豪是美国首位提议设立全国性母亲节的人。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "julia ward",
+   "cn": "病房",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
