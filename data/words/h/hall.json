@@ -1,256 +1,250 @@
 {
-  "meta": {
-    "ph": "hɔːl; NAmE hɔːl",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "hɔːl; NAmE hɔːl",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a space or passage inside the entrance or front door of a building 门厅；正门过道",
+   "ex": []
   },
-  "defs": [
+  {
+   "def": "a passage in a building with rooms down either side （大楼内的）走廊",
+   "ex": []
+  },
+  {
+   "def": "a building or large room for public meetings, meals, concerts, etc. 礼堂；大厅",
+   "ex": [
     {
-      "def": "a space or passage inside the entrance or front door of a building 门厅；正门过道",
-      "ex": []
+     "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这时，冈特指了指汽车站的候车大厅。"
     },
     {
-      "def": "a passage in a building with rooms down either side （大楼内的）走廊",
-      "ex": []
+     "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这时，冈特指了指汽车站的候车大厅。"
     },
     {
-      "def": "a building or large room for public meetings, meals, concerts, etc. 礼堂；大厅",
-      "ex": [
-        {
-          "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这时，冈特指了指汽车站的候车大厅。"
-        },
-        {
-          "s": "At this moment, Gunter pointed towards the waiting hall of the bus station.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这时，冈特指了指汽车站的候车大厅。"
-        },
-        {
-          "s": "wait for instructions in the hall",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "B．不负责任的使用会损坏灭火器。"
-        },
-        {
-          "s": "Start Point: The Town Hall",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：市政厅"
-        },
-        {
-          "s": "For more information, find us at Career Development Office, 211Hughes Hall; careerdevelopment@dreamcollege.edu, 555-520-1314",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如需更多信息，请前往211号休斯大厦职业发展办公室；careerdevelopment@dreamcollege.edu，555-520-1314"
-        },
-        {
-          "s": "In the dining hall.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在餐厅。"
-        },
-        {
-          "s": "St David’s Hall",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "圣大卫厅"
-        },
-        {
-          "s": "St David’s Hall is the award winning National Concert Hall of Wales standing at the very heart of Cardiff’s entertainment centre.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "St David's Hall是威尔士获奖的国家音乐厅，位于卡迪夫娱乐中心的核心地带。"
-        },
-        {
-          "s": "With an impressive 2,000-seat concert hall, St David’s Hall is home to the annual Welsh Proms Cardiff.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "圣大卫音乐厅拥有令人印象深刻的2000座音乐厅，是每年加的夫威尔士逍遥音乐节的所在地。"
-        },
-        {
-          "s": "At St David’s Hall.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在圣大卫音乐厅。"
-        },
-        {
-          "s": "Gifts and antiques, plant sales, museums & Mediaeval Hall Tearoom.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "礼品和古董、植物销售、博物馆和中世纪大厅茶室。"
-        },
-        {
-          "s": "Abbot Hall art Gallery & Museum",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Abbot Hall美术馆和博物馆"
-        },
-        {
-          "s": "Those viewing the quality of Abbot Hall’s temporary exhibitions may be forgiven for thinking they are in a city gallery.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "参观阿博特大厅临时展览水准的人，若以为自己身处城市画廊，是可以被原谅的。"
-        },
-        {
-          "s": "What can visitors do at Abbot Hall Art Gallery & Museum?",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "游客在Abbot Hall美术馆和博物馆可以做什么？"
-        },
-        {
-          "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
-        },
-        {
-          "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
-        },
-        {
-          "s": "（3）How did the author feel about being stared at by the people in the hall？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（3）作者对被大厅里的人盯着看有什么感觉？"
-        },
-        {
-          "s": "The magnificent halls and walls proudly display the essence and culmination of traditional Chinese architecture.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "宏伟的大厅和墙壁自豪地展示着传统中国建筑的精髓和巅峰。"
-        },
-        {
-          "s": "(A troop of HAPPINESSES rush into the hall, singing, “There they are!",
-          "src": "外研社B7 U2",
-          "cat": "waiyan",
-          "t": "一群欢乐涌进大厅，唱着：\"他们来了！"
-        },
-        {
-          "s": "A There are famous halls in his hometown.",
-          "src": "人教B2 U4",
-          "cat": "renjiao",
-          "t": "他家乡有著名的大厅。"
-        },
-        {
-          "s": "EXAMPLE The Silver Hall is usually used for singing performances and is full of cheers and energy.→ Usually used for singing performances, the Silver Hall is full of cheers and energy.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "示例：银厅通常用于歌唱表演，充满了欢呼和能量。→通常用于歌唱表演的银厅充满了欢呼和能量。"
-        },
-        {
-          "s": "Today, in some European countries, people decorate churches and town halls with flowers and fruit, and get together to celebrate over a meal.",
-          "src": "人教B3 U1",
-          "cat": "renjiao",
-          "t": "如今，在一些欧洲国家，人们用鲜花和水果装饰教堂和市政厅，并在用餐时聚在一起庆祝。"
-        }
-      ]
+     "s": "wait for instructions in the hall",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "B．不负责任的使用会损坏灭火器。"
     },
     {
-      "def": "她住在学生宿舍。",
-      "ex": [
-        {
-          "s": "A fire drill will be conducted in your residence hall every semester． During a fire drill，please do the following：",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "每学期都会在宿舍楼进行消防演习。消防演习期间，请遵守以下事项：•在宿舍楼外集合等待进一步指示。"
-        },
-        {
-          "s": "•Meet outside of your residence hall and wait for further instructions．",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "•不要以任何方式遮挡或堵塞你的烟雾探测器。"
-        },
-        {
-          "s": "•If a smoke detector sets off an alarm and there is no fire or smoke， inform your hall staff．",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "•如果烟雾探测器发出警报但没有火灾或烟雾，通知宿舍工作人员。"
-        },
-        {
-          "s": "contact the hall staff regularly",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．定期联系楼层管理员"
-        }
-      ]
+     "s": "Start Point: The Town Hall",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：市政厅"
     },
     {
-      "def": "a large country house 常作名称的一部分",
-      "ex": [
-        {
-          "s": "Welcome to Holker Hall & Gardens",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "欢迎来到霍尔克庄园和花园"
-        },
-        {
-          "s": "Hall & Gardens  Gardens",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "庄园与花园 花园"
-        },
-        {
-          "s": "How much should a member of a tour group pay to visit to Hall & Cardens?",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个旅游团成员参观Hall & Gardens需要付多少钱？"
-        }
-      ]
+     "s": "For more information, find us at Career Development Office, 211Hughes Hall; careerdevelopment@dreamcollege.edu, 555-520-1314",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如需更多信息，请前往211号休斯大厦职业发展办公室；careerdevelopment@dreamcollege.edu，555-520-1314"
+    },
+    {
+     "s": "In the dining hall.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在餐厅。"
+    },
+    {
+     "s": "St David’s Hall",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "圣大卫厅"
+    },
+    {
+     "s": "St David’s Hall is the award winning National Concert Hall of Wales standing at the very heart of Cardiff’s entertainment centre.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "St David's Hall是威尔士获奖的国家音乐厅，位于卡迪夫娱乐中心的核心地带。"
+    },
+    {
+     "s": "With an impressive 2,000-seat concert hall, St David’s Hall is home to the annual Welsh Proms Cardiff.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "圣大卫音乐厅拥有令人印象深刻的2000座音乐厅，是每年加的夫威尔士逍遥音乐节的所在地。"
+    },
+    {
+     "s": "At St David’s Hall.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在圣大卫音乐厅。"
+    },
+    {
+     "s": "Gifts and antiques, plant sales, museums & Mediaeval Hall Tearoom.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "礼品和古董、植物销售、博物馆和中世纪大厅茶室。"
+    },
+    {
+     "s": "Abbot Hall art Gallery & Museum",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Abbot Hall美术馆和博物馆"
+    },
+    {
+     "s": "Those viewing the quality of Abbot Hall’s temporary exhibitions may be forgiven for thinking they are in a city gallery.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "参观阿博特大厅临时展览水准的人，若以为自己身处城市画廊，是可以被原谅的。"
+    },
+    {
+     "s": "What can visitors do at Abbot Hall Art Gallery & Museum?",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "游客在Abbot Hall美术馆和博物馆可以做什么？"
+    },
+    {
+     "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
+    },
+    {
+     "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
+    },
+    {
+     "s": "（3）How did the author feel about being stared at by the people in the hall？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（3）作者对被大厅里的人盯着看有什么感觉？"
+    },
+    {
+     "s": "The magnificent halls and walls proudly display the essence and culmination of traditional Chinese architecture.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "宏伟的大厅和墙壁自豪地展示着传统中国建筑的精髓和巅峰。"
+    },
+    {
+     "s": "(A troop of HAPPINESSES rush into the hall, singing, “There they are!",
+     "src": "外研社B7 U2",
+     "cat": "waiyan",
+     "t": "一群欢乐涌进大厅，唱着：\"他们来了！"
+    },
+    {
+     "s": "A There are famous halls in his hometown.",
+     "src": "人教B2 U4",
+     "cat": "renjiao",
+     "t": "他家乡有著名的大厅。"
+    },
+    {
+     "s": "EXAMPLE The Silver Hall is usually used for singing performances and is full of cheers and energy.→ Usually used for singing performances, the Silver Hall is full of cheers and energy.",
+     "src": "人教B2 U5",
+     "cat": "renjiao",
+     "t": "示例：银厅通常用于歌唱表演，充满了欢呼和能量。→通常用于歌唱表演的银厅充满了欢呼和能量。"
+    },
+    {
+     "s": "Today, in some European countries, people decorate churches and town halls with flowers and fruit, and get together to celebrate over a meal.",
+     "src": "人教B3 U1",
+     "cat": "renjiao",
+     "t": "如今，在一些欧洲国家，人们用鲜花和水果装饰教堂和市政厅，并在用餐时聚在一起庆祝。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "她住在学生宿舍。",
+   "ex": [
     {
-      "en": "abbot hall",
-      "cn": "门厅",
-      "type": "名词短语",
-      "count": 3
+     "s": "A fire drill will be conducted in your residence hall every semester． During a fire drill，please do the following：",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "每学期都会在宿舍楼进行消防演习。消防演习期间，请遵守以下事项：•在宿舍楼外集合等待进一步指示。"
     },
     {
-      "en": "hall art",
-      "cn": "门厅艺术",
-      "type": "名词短语",
-      "count": 2
+     "s": "•Meet outside of your residence hall and wait for further instructions．",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "•不要以任何方式遮挡或堵塞你的烟雾探测器。"
     },
     {
-      "en": "hall staff",
-      "cn": "门厅全体职工",
-      "type": "名词短语",
-      "count": 2
+     "s": "•If a smoke detector sets off an alarm and there is no fire or smoke， inform your hall staff．",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "•如果烟雾探测器发出警报但没有火灾或烟雾，通知宿舍工作人员。"
     },
     {
-      "en": "hall garden",
-      "cn": "门厅庭园",
-      "type": "名词短语",
-      "count": 2
+     "s": "contact the hall staff regularly",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．定期联系楼层管理员"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a large country house 常作名称的一部分",
+   "ex": [
+    {
+     "s": "Welcome to Holker Hall & Gardens",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "欢迎来到霍尔克庄园和花园"
+    },
+    {
+     "s": "Hall & Gardens  Gardens",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "庄园与花园 花园"
+    },
+    {
+     "s": "How much should a member of a tour group pay to visit to Hall & Cardens?",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一个旅游团成员参观Hall & Gardens需要付多少钱？"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "hall art",
+   "cn": "门厅艺术",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "hall staff",
+   "cn": "门厅全体职工",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "hall garden",
+   "cn": "门厅庭园",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
