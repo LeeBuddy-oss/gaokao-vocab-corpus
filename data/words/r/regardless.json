@@ -2,7 +2,8 @@
   "meta": {
     "ph": "rɪˈɡɑːdləs; NAmE rɪˈɡɑːrdləs",
     "pos": "adv.",
-    "stars": "★★"
+    "stars": "★★",
+    "struct": "副词 + 介词（regardless of）"
   },
   "defs": [
     {
@@ -69,5 +70,18 @@
       ]
     }
   ],
-  "chunks": []
+  "chunks": [
+    {
+      "en": "regardless of",
+      "cn": "不管；不顾；无论",
+      "count": 9,
+      "type": "副词短语"
+    },
+    {
+      "en": "regardless of whether",
+      "cn": "不管是否…；无论…与否",
+      "count": 2,
+      "type": "副词短语"
+    }
+  ]
 }
