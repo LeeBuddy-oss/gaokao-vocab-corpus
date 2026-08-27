@@ -1,62 +1,55 @@
 {
-  "meta": {
-    "ph": "paɪ; NAmE paɪ",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "paɪ; NAmE paɪ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "fruit baked in a dish with pastry on the bottom, sides and top 果馅饼；果馅派",
+   "ex": [
     {
-      "def": "fruit baked in a dish with pastry on the bottom, sides and top 果馅饼；果馅派",
-      "ex": [
-        {
-          "s": "Don’t leave the harbor without a traditional Cornish pie.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "离开港口前，别忘了尝一个传统的康沃尔馅饼。"
-        },
-        {
-          "s": "Try the Cornish pie.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "尝尝康沃尔馅饼。"
-        }
-      ]
+     "s": "Don’t leave the harbor without a traditional Cornish pie.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "离开港口前，别忘了尝一个传统的康沃尔馅饼。"
     },
     {
-      "def": "meat, vegetables, etc. baked in a dish with pastry on the bottom, sides and top 肉馅饼；蔬菜馅饼",
-      "ex": [
-        {
-          "s": "B: She is trying a new for pumpkin pie.",
-          "src": "人教选必2 U3",
-          "cat": "renjiao",
-          "year": "",
-          "t": "B：她正在为南瓜派尝试一种新的______。"
-        },
-        {
-          "s": "There were lots of options including bread and butter, chicken pie and puddings, but I still missed my mum's cooking!",
-          "src": "译林B1 U1",
-          "cat": "yilin",
-          "year": "",
-          "t": "有很多选择，包括面包黄油、鸡肉派和布丁，但我还是想念妈妈做的饭！"
-        },
-        {
-          "s": "Pie charts are used to show Above 59 Now percentages.",
-          "src": "译林B3 U3",
-          "cat": "yilin",
-          "year": "",
-          "t": "饼状图用于显示 以上59 现在 百分比。"
-        }
-      ]
+     "s": "Try the Cornish pie.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "尝尝康沃尔馅饼。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "meat, vegetables, etc. baked in a dish with pastry on the bottom, sides and top 肉馅饼；蔬菜馅饼",
+   "ex": [
     {
-      "en": "cornish pie",
-      "cn": "果馅饼",
-      "type": "名词短语",
-      "count": 2
+     "s": "B: She is trying a new for pumpkin pie.",
+     "src": "人教选必2 U3",
+     "cat": "renjiao",
+     "year": "",
+     "t": "B：她正在为南瓜派尝试一种新的______。"
+    },
+    {
+     "s": "There were lots of options including bread and butter, chicken pie and puddings, but I still missed my mum's cooking!",
+     "src": "译林B1 U1",
+     "cat": "yilin",
+     "year": "",
+     "t": "有很多选择，包括面包黄油、鸡肉派和布丁，但我还是想念妈妈做的饭！"
+    },
+    {
+     "s": "Pie charts are used to show Above 59 Now percentages.",
+     "src": "译林B3 U3",
+     "cat": "yilin",
+     "year": "",
+     "t": "饼状图用于显示 以上59 现在 百分比。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
