@@ -1,608 +1,601 @@
 {
-  "meta": {
-    "ph": "ˈmʌni; NAmE ˈmʌni",
-    "pos": "noun;noun;noun;noun;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "ˈmʌni; NAmE ˈmʌni",
+  "pos": "noun;noun;noun;noun;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "what you earn by working or selling things, and use to buy things 钱；薪水；收入",
+   "ex": [
+    {
+     "s": "You’ll compete with fewer tourists, save money, experience a different side of a popular place, and boost the economy when tourism is traditionally slower.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "你会与更少的游客竞争、省钱、体验热门地点的不同一面，并在传统淡季提振当地经济。"
+    },
+    {
+     "s": "A day’s work was rewarded with £ 5 in pocket money.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "一天的工作换来5英镑零花钱作为报酬。"
+    },
+    {
+     "s": "The government has collected money.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "政府已经筹集了资金。"
+    },
+    {
+     "s": "What will Zafirakou do with her prize money?",
+     "src": "2021新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "Zafirakou 将用她的奖金做什么？"
+    },
+    {
+     "s": "He was eager to earn money.",
+     "src": "2021浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他觉得自己擅长演戏。"
+    },
+    {
+     "s": "Time is money.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "时间就是金钱。"
+    },
+    {
+     "s": "He wants very much to earn some money, but I don’t see what he can do.”",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他非常想赚些钱，但我不知道他能做什么。\""
+    },
+    {
+     "s": "“I wish we could help him to earn money.” said Clara.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "克拉拉说:“我希望我们能帮助他赚钱。”"
+    },
+    {
+     "s": "He wants very much to earn some money, but I don't see what he can do.”",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他非常想赚些钱，但我看不出他能做什么。"
+    },
+    {
+     "s": "“I wish we could help him to earn money,” said Clara.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "克拉拉说,“我希望我们能帮助他赚钱。”"
+    },
+    {
+     "s": "It’s worth the money.",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它物有所值。"
+    },
+    {
+     "s": "Change some money.",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "换钱。"
+    },
+    {
+     "s": "But using cheese brine could help both cheese producers and cities save money, while keeping roads safe Cheese brine has salt in it, which, like the rock salt, helps lower water’s freezing point.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但使用奶酪浴缸可以帮助奶酪生产者和城市省钱，同时保持道路安全 奶酪浴缸里还有盐，这与岩石盐一样，有助于降低水的冻结点。"
+    },
+    {
+     "s": "In addition to saving money, cheese brine could also be a more eco-friendly option.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "除了省钱外，奶酪浴缸还可以是一种更有利于生态的选择。"
+    },
+    {
+     "s": "He is short of money.",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他缺钱。"
+    },
+    {
+     "s": "Buy with confidence: 21-day money back guarantee!",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "放心购买：21天退款保证！"
+    },
+    {
+     "s": "What does the expression \"money with no strings attached\" in paragraph 1 mean?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第1段中\"money with no strings attached\"这个表达是什么意思？"
+    },
+    {
+     "s": "To earn more money.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "为了赚更多的钱。"
+    },
+    {
+     "s": "More money, more worries.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "钱越多，烦恼越多。"
+    },
+    {
+     "s": "We have all heard how time is more valuable than money, but is it   36   to have too much?",
+     "src": "2018浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我们都听说过时间比金钱更宝贵，但拥有太多是否____36____？"
+    },
+    {
+     "s": "The obvious one is money; eating out once or twice a week may be   62  (afford) but doing this most days adds up.",
+     "src": "2018浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "明显的是钱；每周在外吃一两次或许___62___（afford），但大多数日子都这样，花费就累积起来了。"
+    },
+    {
+     "s": "And just like crypto currencies, there are those who think the islanders are smart to invest in this type of money, which is reported to have risen in value over the last three decades.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "只是一张专门印刷的纸和大麻纤维，我们赋予了它价值——而且随着时间的推移可能比那些贝壳更不耐用。"
+    },
+    {
+     "s": "What's opinion of the author towards shells for money?",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作者对用贝壳作货币的看法是什么？"
+    },
+    {
+     "s": "If the consumer has X amount of money and wants to buy two goods A and B, she can only purchase goods totaling X.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果消费者有X金额的钱并且想购买两种商品A和B，她只能购买总计X的商品。"
+    },
+    {
+     "s": "If movies cost $ 10 each, then the maximum number of movies you can see with the money available is 15.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果每部电影票价10美元，那么用现有资金最多可以看15部电影。"
+    },
+    {
+     "s": "This same dot appears at the extreme left above “0” on the horizontal axis because you have no money left for books — the number of books available in this example is 0.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这个点在横轴上“0”的最左端上方出现，因为你已没有钱买书——此例中可买的书数量为0。"
+    },
+    {
+     "s": "But the   16   would no doubt be greater if you were living on the streets with little food and money.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但如果你流浪街头，缺吃少钱，这种____16____无疑会更大。"
+    },
+    {
+     "s": "Another time, he   55   a friend money to buy a house .",
+     "src": "2017全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "还有一次，他____朋友钱去买房子。"
+    },
+    {
+     "s": "Lend her some money.",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "学生将要做的实验。"
+    },
+    {
+     "s": "Another time , he   55   a friend money to buy a house .",
+     "src": "2017重庆卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "还有一次，他____一个朋友钱买房。"
+    },
+    {
+     "s": "Companies could be forced to consumers what information they hold and how many money they make form it.",
+     "src": "2017江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "公司可能被迫向消费者披露它们持有哪些信息以及从中获利多少。"
+    },
+    {
+     "s": "Since crime novels in the example cost $15 and you have $150 available, if you spend all the available money crime novels, you can buy 10.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "由于示例中的犯罪小说售价为$ 15 ，而您可以使用$ 150 ，因此如果您花费所有可用的货币犯罪小说，则可以购买10本。"
+    },
+    {
+     "s": "He wanted to save money for pet owners.",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他想为宠物主人省钱。"
+    },
+    {
+     "s": "And his dad, Albert, took the money my dad earned and used it to pay family expenses.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "而他的爸爸，阿尔伯特，拿走了我爸挣来的钱，用它来支付家庭开支。"
+    },
+    {
+     "s": "To save money for her parents.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为父母省钱。"
+    },
+    {
+     "s": "Museums must compete     45    people’s spare time and money with other amusements.",
+     "src": "2020全国新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "博物馆必须与其他娱乐活动竞争45个人的空余时间和金钱。"
+    },
+    {
+     "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但我想，虽然金钱确实美好且必不可少，但重读一位作者的作品，是读者能给予他们的最高回报。"
+    },
+    {
+     "s": "35 People give them money to do this and all the money helps get clean water to as many people as possible around the world.",
+     "src": "2020浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "35 人们给他们钱来做这件事，而所有的钱都帮助全世界尽可能多的人获得洁净的饮用水。"
+    },
+    {
+     "s": "Money with no strings attached.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "没有任何附加条件的钱。"
+    },
+    {
+     "s": "Money spent without hesitation.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "毫不犹豫地花出的钱。"
+    },
+    {
+     "s": "Money not legally made.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "非法获得的钱。"
+    },
+    {
+     "s": "Money offered without conditions.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "没有任何条件提供的钱。"
+    },
+    {
+     "s": "Money not tied together.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "没有捆绑在一起的钱。"
+    },
+    {
+     "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）____的那一刻紧接着便是心算。更换那个小钱包里的（3）____需要花费多少时间和金钱？信用卡、驾照、现金，全都落在了公交车上。"
+    },
+    {
+     "s": "Adding the money to her fund D.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "把钱加入她的基金 D."
+    },
+    {
+     "s": "Using shells for money was common throughout the Pacific islands as late as the early 1900s, but Malaita is unique in that they are still used today.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "早在1900年代初，整个太平洋岛国就普遍使用贝壳来换取金钱，但Malaita之所以独特，是因为贝壳今天仍在使用。"
+    },
+    {
+     "s": "Shells Still Money",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "贝壳还是钱"
+    },
+    {
+     "s": "To think he is sleeping on the streets tonight    26    he could have stolen the money and paid for a place to stay in.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "想到他今晚睡在街上    26    他本可以偷了那笔钱来付住处的费用。"
+    },
+    {
+     "s": "You’re actually going to lend him money again?",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "你真的要再借给他钱？"
+    },
+    {
+     "s": "Of course, shops are not charities — they price goods in the way   58 will make them the most money.",
+     "src": "2024浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "当然，商店不是慈善机构——它们以58能赚最多钱的方式为商品定价。"
+    },
+    {
+     "s": "I decided it was not fair that I had to contribute my money.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我认为要我出钱是不公平的。"
+    },
+    {
+     "s": "You don't need expensive equipment; even the ball doesn't have to cost much money.",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "你不需要昂贵的设备；甚至连球都不需要花多少钱。"
+    },
+    {
+     "s": "Giving the money to a sick mother",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "舞蹈在美国无处不在。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "coins or paper notes 钱币；钞票",
+   "ex": []
+  },
+  {
+   "def": "a person's wealth including their property 财产；财富",
+   "ex": [
     {
-      "def": "what you earn by working or selling things, and use to buy things 钱；薪水；收入",
-      "ex": [
-        {
-          "s": "You’ll compete with fewer tourists, save money, experience a different side of a popular place, and boost the economy when tourism is traditionally slower.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "你会与更少的游客竞争、省钱、体验热门地点的不同一面，并在传统淡季提振当地经济。"
-        },
-        {
-          "s": "A day’s work was rewarded with £ 5 in pocket money.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一天的工作换来5英镑零花钱作为报酬。"
-        },
-        {
-          "s": "The government has collected money.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "政府已经筹集了资金。"
-        },
-        {
-          "s": "What will Zafirakou do with her prize money?",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "Zafirakou 将用她的奖金做什么？"
-        },
-        {
-          "s": "He was eager to earn money.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他觉得自己擅长演戏。"
-        },
-        {
-          "s": "Time is money.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "时间就是金钱。"
-        },
-        {
-          "s": "He wants very much to earn some money, but I don’t see what he can do.”",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他非常想赚些钱，但我不知道他能做什么。\""
-        },
-        {
-          "s": "“I wish we could help him to earn money.” said Clara.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "克拉拉说:“我希望我们能帮助他赚钱。”"
-        },
-        {
-          "s": "He wants very much to earn some money, but I don't see what he can do.”",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他非常想赚些钱，但我看不出他能做什么。"
-        },
-        {
-          "s": "“I wish we could help him to earn money,” said Clara.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "克拉拉说,“我希望我们能帮助他赚钱。”"
-        },
-        {
-          "s": "It’s worth the money.",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它物有所值。"
-        },
-        {
-          "s": "Change some money.",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "换钱。"
-        },
-        {
-          "s": "But using cheese brine could help both cheese producers and cities save money, while keeping roads safe Cheese brine has salt in it, which, like the rock salt, helps lower water’s freezing point.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但使用奶酪浴缸可以帮助奶酪生产者和城市省钱，同时保持道路安全 奶酪浴缸里还有盐，这与岩石盐一样，有助于降低水的冻结点。"
-        },
-        {
-          "s": "In addition to saving money, cheese brine could also be a more eco-friendly option.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "除了省钱外，奶酪浴缸还可以是一种更有利于生态的选择。"
-        },
-        {
-          "s": "He is short of money.",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他缺钱。"
-        },
-        {
-          "s": "Buy with confidence: 21-day money back guarantee!",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "放心购买：21天退款保证！"
-        },
-        {
-          "s": "What does the expression \"money with no strings attached\" in paragraph 1 mean?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第1段中\"money with no strings attached\"这个表达是什么意思？"
-        },
-        {
-          "s": "To earn more money.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为了赚更多的钱。"
-        },
-        {
-          "s": "More money, more worries.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "钱越多，烦恼越多。"
-        },
-        {
-          "s": "We have all heard how time is more valuable than money, but is it   36   to have too much?",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我们都听说过时间比金钱更宝贵，但拥有太多是否____36____？"
-        },
-        {
-          "s": "The obvious one is money; eating out once or twice a week may be   62  (afford) but doing this most days adds up.",
-          "src": "2018浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "明显的是钱；每周在外吃一两次或许___62___（afford），但大多数日子都这样，花费就累积起来了。"
-        },
-        {
-          "s": "And just like crypto currencies, there are those who think the islanders are smart to invest in this type of money, which is reported to have risen in value over the last three decades.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "只是一张专门印刷的纸和大麻纤维，我们赋予了它价值——而且随着时间的推移可能比那些贝壳更不耐用。"
-        },
-        {
-          "s": "What's opinion of the author towards shells for money?",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作者对用贝壳作货币的看法是什么？"
-        },
-        {
-          "s": "If the consumer has X amount of money and wants to buy two goods A and B, she can only purchase goods totaling X.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果消费者有X金额的钱并且想购买两种商品A和B，她只能购买总计X的商品。"
-        },
-        {
-          "s": "If movies cost $ 10 each, then the maximum number of movies you can see with the money available is 15.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果每部电影票价10美元，那么用现有资金最多可以看15部电影。"
-        },
-        {
-          "s": "This same dot appears at the extreme left above “0” on the horizontal axis because you have no money left for books — the number of books available in this example is 0.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这个点在横轴上“0”的最左端上方出现，因为你已没有钱买书——此例中可买的书数量为0。"
-        },
-        {
-          "s": "But the   16   would no doubt be greater if you were living on the streets with little food and money.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但如果你流浪街头，缺吃少钱，这种____16____无疑会更大。"
-        },
-        {
-          "s": "Another time, he   55   a friend money to buy a house .",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "还有一次，他____朋友钱去买房子。"
-        },
-        {
-          "s": "Lend her some money.",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "学生将要做的实验。"
-        },
-        {
-          "s": "Another time , he   55   a friend money to buy a house .",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "还有一次，他____一个朋友钱买房。"
-        },
-        {
-          "s": "Companies could be forced to consumers what information they hold and how many money they make form it.",
-          "src": "2017江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "公司可能被迫向消费者披露它们持有哪些信息以及从中获利多少。"
-        },
-        {
-          "s": "Since crime novels in the example cost $15 and you have $150 available, if you spend all the available money crime novels, you can buy 10.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "由于示例中的犯罪小说售价为$ 15 ，而您可以使用$ 150 ，因此如果您花费所有可用的货币犯罪小说，则可以购买10本。"
-        },
-        {
-          "s": "He wanted to save money for pet owners.",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他想为宠物主人省钱。"
-        },
-        {
-          "s": "And his dad, Albert, took the money my dad earned and used it to pay family expenses.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "而他的爸爸，阿尔伯特，拿走了我爸挣来的钱，用它来支付家庭开支。"
-        },
-        {
-          "s": "To save money for her parents.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为父母省钱。"
-        },
-        {
-          "s": "Museums must compete     45    people’s spare time and money with other amusements.",
-          "src": "2020全国新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "博物馆必须与其他娱乐活动竞争45个人的空余时间和金钱。"
-        },
-        {
-          "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但我想，虽然金钱确实美好且必不可少，但重读一位作者的作品，是读者能给予他们的最高回报。"
-        },
-        {
-          "s": "35 People give them money to do this and all the money helps get clean water to as many people as possible around the world.",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "35 人们给他们钱来做这件事，而所有的钱都帮助全世界尽可能多的人获得洁净的饮用水。"
-        },
-        {
-          "s": "Money with no strings attached.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "没有任何附加条件的钱。"
-        },
-        {
-          "s": "Money spent without hesitation.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "毫不犹豫地花出的钱。"
-        },
-        {
-          "s": "Money not legally made.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "非法获得的钱。"
-        },
-        {
-          "s": "Money offered without conditions.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "没有任何条件提供的钱。"
-        },
-        {
-          "s": "Money not tied together.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "没有捆绑在一起的钱。"
-        },
-        {
-          "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）____的那一刻紧接着便是心算。更换那个小钱包里的（3）____需要花费多少时间和金钱？信用卡、驾照、现金，全都落在了公交车上。"
-        },
-        {
-          "s": "Adding the money to her fund D.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "把钱加入她的基金 D."
-        },
-        {
-          "s": "Using shells for money was common throughout the Pacific islands as late as the early 1900s, but Malaita is unique in that they are still used today.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "早在1900年代初，整个太平洋岛国就普遍使用贝壳来换取金钱，但Malaita之所以独特，是因为贝壳今天仍在使用。"
-        },
-        {
-          "s": "Shells Still Money",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "贝壳还是钱"
-        },
-        {
-          "s": "To think he is sleeping on the streets tonight    26    he could have stolen the money and paid for a place to stay in.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "想到他今晚睡在街上    26    他本可以偷了那笔钱来付住处的费用。"
-        },
-        {
-          "s": "You’re actually going to lend him money again?",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "你真的要再借给他钱？"
-        },
-        {
-          "s": "Of course, shops are not charities — they price goods in the way   58 will make them the most money.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当然，商店不是慈善机构——它们以58能赚最多钱的方式为商品定价。"
-        },
-        {
-          "s": "I decided it was not fair that I had to contribute my money.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我认为要我出钱是不公平的。"
-        },
-        {
-          "s": "You don't need expensive equipment; even the ball doesn't have to cost much money.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "你不需要昂贵的设备；甚至连球都不需要花多少钱。"
-        },
-        {
-          "s": "Giving the money to a sick mother",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "舞蹈在美国无处不在。"
-        }
-      ]
+     "s": "Local businesses give them much of the wood, but the couple still dip into their own money every year to keep their workshop running.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当地企业为他们提供大部分木材，但这夫妇俩每年仍要掏自己的腰包来维持工作坊运转。"
     },
     {
-      "def": "coins or paper notes 钱币；钞票",
-      "ex": []
-    },
-    {
-      "def": "a person's wealth including their property 财产；财富",
-      "ex": [
-        {
-          "s": "Local businesses give them much of the wood, but the couple still dip into their own money every year to keep their workshop running.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当地企业为他们提供大部分木材，但这夫妇俩每年仍要掏自己的腰包来维持工作坊运转。"
-        },
-        {
-          "s": "Is their money well spent？",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "他们的钱花得值吗？"
-        }
-      ]
-    },
-    {
-      "def": "sums of money 款项",
-      "ex": [
-        {
-          "s": "Refund Policy—the subscription can be canceled within 28 days and you can get your money back.",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "退款政策——订阅可在 28 天内取消，你可以拿回款项。"
-        },
-        {
-          "s": "To raise money for local artists.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为本地艺术家筹款。"
-        },
-        {
-          "s": "Consumers prefer money off individual items.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "消费者更喜欢单个商品打折。"
-        },
-        {
-          "s": "To raise money for medical research.",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为医学研究筹集资金。"
-        },
-        {
-          "s": "The Government's sugar tax on soft drinks has brought in half as much money as Ministers first predicted it would generate, the first official data on the policy has shown.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "据信今天的儿童和青少年摄入的糖分是推荐水平的三倍，使他们面临更高的患病风险。"
-        },
-        {
-          "s": "To collect money for schools.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "改善饮料质量。"
-        },
-        {
-          "s": "It is different from traditional tourism because it allows the traveler to become 61 (educate) about the areas - both in terms of geographical conditions and cultural characteristics, and often provides money for conservation and benefits the 62 (develop) of the local areas.",
-          "src": "2021全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它不同于传统旅游，因为它让旅行者受到____61（educate）关于该地区——无论是地理条件还是文化特征，并且常常为保护提供资金，造福当地的____62（develop）。"
-        },
-        {
-          "s": "He is short of money",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他犯了个大错误。"
-        },
-        {
-          "s": "He is short of money",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他犯了个大错误。"
-        },
-        {
-          "s": "To raise money for animal protection.",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为动物保护筹款。"
-        },
-        {
-          "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
-        },
-        {
-          "s": "To raise money for his company.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为他的公司筹款。"
-        },
-        {
-          "s": "Raising money for a poor girl",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "舞蹈提醒我还活着。\""
-        },
-        {
-          "s": "Apparently, the idea of money that's not tied to a specific bank — or a specific country — is appealing to many.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "显然，不与特定银行——或特定国家——绑定的货币概念对许多人很有吸引力。"
-        },
-        {
-          "s": "Money was created and was widely used in the world.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "世界最早的硬币成分可能是金银的组合。"
-        },
-        {
-          "s": "a kind of money that can exchange",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个生产和打磨贝壳的地方"
-        },
-        {
-          "s": "Now Mr Anderson has set up an online campaign to    32     money for Mr Smith and other homeless people in the area, which by yesterday had received £8,000.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如今安德森先生发起了一项线上活动，为史密斯先生及该地区其他无家可归者___32___善款，截至昨日已收到8000英镑。"
-        }
-      ]
-    },
-    {
-      "def": "to bet that a particular horse, dog, etc. will win a race 在（马、狗等）上下赌注",
-      "ex": [
-        {
-          "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
-        },
-        {
-          "s": "In Save Money: Good Food, she visits a different home each week and with the help of chef Matt Tebbutt offers top tips on how to reduce food waste, while preparing recipes for under £5 per family a day.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在《省钱：美味食物》中，她每周走访一户不同的家庭，并在厨师马特·特巴特的帮助下，提供减少食物浪费的顶级建议，同时准备每天每户不到5英镑的食谱。"
-        },
-        {
-          "s": "In the past, money's makeup varied from place to place, depending on what was considered valuable there.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在西非，青铜或铜手镯被用作现金，特别是如果交易与那里的奴隶贸易有关的话。"
-        },
-        {
-          "s": "Not so long ago, money was almost always created and used locally, and bartering was common.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "不久以前，货币几乎总是在当地创造和使用，物物交换很普遍。"
-        },
-        {
-          "s": "Using shells for money has been out of date in the world.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "用贝壳作货币在世界上已经过时了。"
-        },
-        {
-          "s": "This is a programme run by The Gorilla Organization to raise money to save the world’s last remaining gorillas from dying out.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "这是大猩猩保护组织运营的一个项目，旨在筹集资金以拯救世界上仅存的大猩猩免于灭绝。"
-        },
-        {
-          "s": "Scammers follow money，so companies will be the worst hit.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "骗子跟着钱走，所以企业将受到最严重的打击。"
-        },
-        {
-          "s": "Given a limited amount of money, a consumer can only spend that same amount buying goods.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果消费者需要数量为A的商品花费0.75，那么她只能在购买B时花费剩余的0.25X。"
-        },
-        {
-          "s": "This was near the end of America's Westward Expansion, which started in the early 1800 During the expansion, many people went to the West to make money.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这发生在美国西进运动接近尾声的时候，该运动始于 19 世纪初。在扩张期间，许多人前往西部赚钱。"
-        }
-      ]
-    },
-    {
-      "def": "to feel very sure that sth is true or that sb will succeed 确信",
-      "ex": []
+     "s": "Is their money well spent？",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "他们的钱花得值吗？"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "sums of money 款项",
+   "ex": [
     {
-      "en": "some money",
-      "cn": "一些钱",
-      "type": "名词短语",
-      "count": 8
+     "s": "Refund Policy—the subscription can be canceled within 28 days and you can get your money back.",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "退款政策——订阅可在 28 天内取消，你可以拿回款项。"
+    },
+    {
+     "s": "To raise money for local artists.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "为本地艺术家筹款。"
+    },
+    {
+     "s": "Consumers prefer money off individual items.",
+     "src": "2024浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "消费者更喜欢单个商品打折。"
+    },
+    {
+     "s": "To raise money for medical research.",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为医学研究筹集资金。"
+    },
+    {
+     "s": "The Government's sugar tax on soft drinks has brought in half as much money as Ministers first predicted it would generate, the first official data on the policy has shown.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "据信今天的儿童和青少年摄入的糖分是推荐水平的三倍，使他们面临更高的患病风险。"
+    },
+    {
+     "s": "To collect money for schools.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "改善饮料质量。"
+    },
+    {
+     "s": "It is different from traditional tourism because it allows the traveler to become 61 (educate) about the areas - both in terms of geographical conditions and cultural characteristics, and often provides money for conservation and benefits the 62 (develop) of the local areas.",
+     "src": "2021全国乙卷·语法填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它不同于传统旅游，因为它让旅行者受到____61（educate）关于该地区——无论是地理条件还是文化特征，并且常常为保护提供资金，造福当地的____62（develop）。"
+    },
+    {
+     "s": "He is short of money",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他犯了个大错误。"
+    },
+    {
+     "s": "He is short of money",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他犯了个大错误。"
+    },
+    {
+     "s": "To raise money for animal protection.",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为动物保护筹款。"
+    },
+    {
+     "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
+    },
+    {
+     "s": "To raise money for his company.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "为他的公司筹款。"
+    },
+    {
+     "s": "Raising money for a poor girl",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "舞蹈提醒我还活着。\""
+    },
+    {
+     "s": "Apparently, the idea of money that's not tied to a specific bank — or a specific country — is appealing to many.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "显然，不与特定银行——或特定国家——绑定的货币概念对许多人很有吸引力。"
+    },
+    {
+     "s": "Money was created and was widely used in the world.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "世界最早的硬币成分可能是金银的组合。"
+    },
+    {
+     "s": "a kind of money that can exchange",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一个生产和打磨贝壳的地方"
+    },
+    {
+     "s": "Now Mr Anderson has set up an online campaign to    32     money for Mr Smith and other homeless people in the area, which by yesterday had received £8,000.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如今安德森先生发起了一项线上活动，为史密斯先生及该地区其他无家可归者___32___善款，截至昨日已收到8000英镑。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to bet that a particular horse, dog, etc. will win a race 在（马、狗等）上下赌注",
+   "ex": [
+    {
+     "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
+    },
+    {
+     "s": "In Save Money: Good Food, she visits a different home each week and with the help of chef Matt Tebbutt offers top tips on how to reduce food waste, while preparing recipes for under £5 per family a day.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在《省钱：美味食物》中，她每周走访一户不同的家庭，并在厨师马特·特巴特的帮助下，提供减少食物浪费的顶级建议，同时准备每天每户不到5英镑的食谱。"
+    },
+    {
+     "s": "In the past, money's makeup varied from place to place, depending on what was considered valuable there.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在西非，青铜或铜手镯被用作现金，特别是如果交易与那里的奴隶贸易有关的话。"
+    },
+    {
+     "s": "Not so long ago, money was almost always created and used locally, and bartering was common.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "不久以前，货币几乎总是在当地创造和使用，物物交换很普遍。"
+    },
+    {
+     "s": "Using shells for money has been out of date in the world.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "用贝壳作货币在世界上已经过时了。"
+    },
+    {
+     "s": "This is a programme run by The Gorilla Organization to raise money to save the world’s last remaining gorillas from dying out.",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "这是大猩猩保护组织运营的一个项目，旨在筹集资金以拯救世界上仅存的大猩猩免于灭绝。"
+    },
+    {
+     "s": "Scammers follow money，so companies will be the worst hit.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "骗子跟着钱走，所以企业将受到最严重的打击。"
+    },
+    {
+     "s": "Given a limited amount of money, a consumer can only spend that same amount buying goods.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果消费者需要数量为A的商品花费0.75，那么她只能在购买B时花费剩余的0.25X。"
+    },
+    {
+     "s": "This was near the end of America's Westward Expansion, which started in the early 1800 During the expansion, many people went to the West to make money.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这发生在美国西进运动接近尾声的时候，该运动始于 19 世纪初。在扩张期间，许多人前往西部赚钱。"
+    }
+   ]
+  },
+  {
+   "def": "to feel very sure that sth is true or that sb will succeed 确信",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
