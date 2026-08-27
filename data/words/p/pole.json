@@ -1,65 +1,58 @@
 {
-  "meta": {
-    "ph": "pəʊl; NAmE poʊl",
-    "pos": "noun",
-    "stars": "★"
+ "meta": {
+  "ph": "pəʊl; NAmE poʊl",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "a long thin straight piece of wood or metal, especially one with the end placed in the ground, used as a support 柱子；杆子；棍；杖",
+   "ex": [
+    {
+     "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
+     "src": "外研社B4 U3",
+     "cat": "waiyan",
+     "t": "与全国篮球协会（ NBA ）的明亮灯光和闪亮球场相去甚远，正是在这条路上，斯蒂芬的祖父通过将一块塑料连接到电线杆上，建造了一个简单的篮子。"
+    },
+    {
+     "s": "Along this road, Stephen’s grandfather built a simple basket by fixing a piece of plastic to a telephone pole.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "沿着这条路，Stephen 的祖父用一块塑料板固定做了一个简易的篮筐。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "either of the two points at the opposite ends of the line on which the earth or any other planet turns （行星的）极；地极",
+   "ex": [
     {
-      "def": "a long thin straight piece of wood or metal, especially one with the end placed in the ground, used as a support 柱子；杆子；棍；杖",
-      "ex": [
-        {
-          "s": "A far cry from the bright lights and shiny courts of the National Basketball Association (NBA), it was along this road that Stephen's grandfather built a simple basket by attaching a piece of plastic to a telephone pole.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "与全国篮球协会（ NBA ）的明亮灯光和闪亮球场相去甚远，正是在这条路上，斯蒂芬的祖父通过将一块塑料连接到电线杆上，建造了一个简单的篮子。"
-        },
-        {
-          "s": "Along this road, Stephen’s grandfather built a simple basket by fixing a piece of plastic to a telephone pole.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "沿着这条路，Stephen 的祖父用一块塑料板固定做了一个简易的篮筐。"
-        }
-      ]
+     "s": "A regular character in the letters was Polar Bear,who once climbed the North Pole (an actual pole in this case) and fell through the roof of Father Christmas’s house.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "t": "字母中的一个普通人物是北极熊，他曾经爬过北极（在这种情况下是实际的极点） ，从圣诞老人家的屋顶上掉了下来。"
     },
     {
-      "def": "either of the two points at the opposite ends of the line on which the earth or any other planet turns （行星的）极；地极",
-      "ex": [
-        {
-          "s": "A regular character in the letters was Polar Bear,who once climbed the North Pole (an actual pole in this case) and fell through the roof of Father Christmas’s house.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "字母中的一个普通人物是北极熊，他曾经爬过北极（在这种情况下是实际的极点） ，从圣诞老人家的屋顶上掉了下来。"
-        },
-        {
-          "s": "Your next destination: the Antarctic, to journey to the South Pole.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "你的下一个目的地：南极洲，前往南极点之旅。"
-        },
-        {
-          "s": "The Lord of the Rings was published in three volumes in 1954 and 1955, and has become one of the world's best-selling novel 2 Every Christmas, an envelope with a North Pole stamp arrived.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "《指环王》于 1954 年和 1955 年分三卷出版，已成为世界上最畅销的小说之一 2 每年圣诞节，一封带着北极邮戳的信封都会如期而至。"
-        }
-      ]
+     "s": "Your next destination: the Antarctic, to journey to the South Pole.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "你的下一个目的地：南极洲，前往南极点之旅。"
     },
     {
-      "def": "either of the two ends of a magnet, or the positive or negative points of an electric battery 磁极；电极",
-      "ex": []
-    },
-    {
-      "def": "either of two opposite or contrasting extremes （对立或相反的）任何一方；极端",
-      "ex": []
+     "s": "The Lord of the Rings was published in three volumes in 1954 and 1955, and has become one of the world's best-selling novel 2 Every Christmas, an envelope with a North Pole stamp arrived.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "《指环王》于 1954 年和 1955 年分三卷出版，已成为世界上最畅销的小说之一 2 每年圣诞节，一封带着北极邮戳的信封都会如期而至。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "actual pole",
-      "cn": "柱子",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+   ]
+  },
+  {
+   "def": "either of the two ends of a magnet, or the positive or negative points of an electric battery 磁极；电极",
+   "ex": []
+  },
+  {
+   "def": "either of two opposite or contrasting extremes （对立或相反的）任何一方；极端",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
