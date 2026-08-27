@@ -1,110 +1,103 @@
 {
-  "meta": {
-    "ph": "fʌnd; NAmE fʌnd",
-    "pos": "noun",
-    "stars": "★"
+ "meta": {
+  "ph": "fʌnd; NAmE fʌnd",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "an amount of money that has been saved or has been made available for a particular purpose 基金；专款",
+   "ex": [
+    {
+     "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "自1934年以来，超过5亿美元进入该基金，用于购买500多万英亩的栖息地。"
+    },
+    {
+     "s": "According to the World Wildlife Fund, the global black rhino population has dropped as low as 5500, giving the rhinos a “critically endangered” status.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "根据世界自然基金会，全球黑犀牛数量已降至低至5500头，使犀牛处于极危状态。"
+    },
+    {
+     "s": "It will continue to work with the World Wildlife Fund.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它将继续与世界自然基金会合作。"
+    },
+    {
+     "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
+    },
+    {
+     "s": "Adding the money to her fund D.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "把钱加入她的基金 D."
+    },
+    {
+     "s": "The United Nations Children’s Fund, also knowing / known as UNICEF, is a United Nations (UN) organization basing / based in New York.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "t": "联合国儿童基金会，也称为UNICEF，是一个总部设在纽约的联合国组织。"
+    },
+    {
+     "s": "Inside the bags are necessities such as toothpaste, soap and socks, bought first with her pocket money and then through crowd funding.",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "袋子里面是牙膏、肥皂和袜子等必需品，最初是用她的零花钱买的，后来通过众筹。"
+    },
+    {
+     "s": "The World Wide Fund For Nature (WWF) the many species of plants and animals that around the world.",
+     "src": "人教B2 U2",
+     "cat": "renjiao",
+     "t": "世界自然基金会致力于保护世界各地的许多动植物物种。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "money that is available to be spent 资金；现款",
+   "ex": [
     {
-      "def": "an amount of money that has been saved or has been made available for a particular purpose 基金；专款",
-      "ex": [
-        {
-          "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "自1934年以来，超过5亿美元进入该基金，用于购买500多万英亩的栖息地。"
-        },
-        {
-          "s": "According to the World Wildlife Fund, the global black rhino population has dropped as low as 5500, giving the rhinos a “critically endangered” status.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "根据世界自然基金会，全球黑犀牛数量已降至低至5500头，使犀牛处于极危状态。"
-        },
-        {
-          "s": "It will continue to work with the World Wildlife Fund.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它将继续与世界自然基金会合作。"
-        },
-        {
-          "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
-        },
-        {
-          "s": "Adding the money to her fund D.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "把钱加入她的基金 D."
-        },
-        {
-          "s": "The United Nations Children’s Fund, also knowing / known as UNICEF, is a United Nations (UN) organization basing / based in New York.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "联合国儿童基金会，也称为UNICEF，是一个总部设在纽约的联合国组织。"
-        },
-        {
-          "s": "Inside the bags are necessities such as toothpaste, soap and socks, bought first with her pocket money and then through crowd funding.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "袋子里面是牙膏、肥皂和袜子等必需品，最初是用她的零花钱买的，后来通过众筹。"
-        },
-        {
-          "s": "The World Wide Fund For Nature (WWF) the many species of plants and animals that around the world.",
-          "src": "人教B2 U2",
-          "cat": "renjiao",
-          "t": "世界自然基金会致力于保护世界各地的许多动植物物种。"
-        }
-      ]
+     "s": "As quantum computing attracts more attention and funding, researchers may mislead investors, journalists, the public and, worst of all, themselves about their work’s potential.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "随着量子计算吸引更多关注和资金，研究者可能误导投资者、记者、公众，最糟的是，误导他们自己关于工作潜力的认知。"
     },
     {
-      "def": "money that is available to be spent 资金；现款",
-      "ex": [
-        {
-          "s": "As quantum computing attracts more attention and funding, researchers may mislead investors, journalists, the public and, worst of all, themselves about their work’s potential.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "随着量子计算吸引更多关注和资金，研究者可能误导投资者、记者、公众，最糟的是，误导他们自己关于工作潜力的认知。"
-        },
-        {
-          "s": "their changed roles and functionsD. the big funding of the businessmen",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们新的外观和更低的价格B. 当地组织的推动"
-        },
-        {
-          "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
-        },
-        {
-          "s": "The group asked for contributions from different departments and raised funds within the international community.",
-          "src": "人教B2 U1",
-          "cat": "renjiao",
-          "t": "该小组向各部门征集捐款，并在国际社会筹集资金。"
-        }
-      ]
+     "s": "their changed roles and functionsD. the big funding of the businessmen",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们新的外观和更低的价格B. 当地组织的推动"
     },
     {
-      "def": "an amount or a supply of sth （相当）数量；储备",
-      "ex": []
-    }
-  ],
-  "chunks": [
+     "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
+    },
     {
-      "en": "wildlife fund",
-      "cn": "基金",
-      "type": "名词短语",
-      "count": 2
+     "s": "The group asked for contributions from different departments and raised funds within the international community.",
+     "src": "人教B2 U1",
+     "cat": "renjiao",
+     "t": "该小组向各部门征集捐款，并在国际社会筹集资金。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "an amount or a supply of sth （相当）数量；储备",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
