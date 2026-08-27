@@ -1,955 +1,949 @@
 {
-  "meta": {
-    "ph": "ˈspiːkə(r); NAmE ˈspiːkər",
-    "pos": "noun",
-    "stars": "★"
+ "meta": {
+  "ph": "ˈspiːkə(r); NAmE ˈspiːkər",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "a person who gives a talk or makes a speech 发言者；演讲者",
+   "ex": [
+    {
+     "s": "As the speaker, you already know what you’re going to say.",
+     "src": "2025浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作为演讲者，你已经知道自己会说什么。"
+    },
+    {
+     "s": "Why does the speaker give the talk?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "演讲者为什么做这个演讲？"
+    },
+    {
+     "s": "What does the speaker probably do?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "演讲者可能是做什么的？"
+    },
+    {
+     "s": "How often does the speaker suggest people do hard workouts?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "演讲者建议人们多久做一次高强度锻炼？"
+    },
+    {
+     "s": "Why did the speaker feel lonely in her childhood?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "演讲者为什么在童年时期感到孤独？"
+    },
+    {
+     "s": "Even the most successful public speaker will make mistakes.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "即使最成功的演讲者也会犯错。"
+    },
+    {
+     "s": "In fact, most people only absorb about 20 percent of a speaker’s message.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "事实上，大多数人只吸收了演讲者信息的约20%。"
+    },
+    {
+     "s": "20     It’s rare to hear someone say, “I wish that speaker had spoken longer.” On the other hand, you probably can’t count the times that you’ve thought, “I’m glad that talk is over.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "20     很少听到有人说：\"我希望那位演讲者能讲得更久。\"另一方面，你可能数不清有多少次你想：\"真高兴那个演讲终于结束了。\"它似乎永远没完没了！所以给你的听众一个惊喜吧。"
+    },
+    {
+     "s": "However, the majority of people are effective speakers because they train to be.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然而，大多数人都是有效的演讲者，因为他们经过训练。"
+    },
+    {
+     "s": "What will the speakers do tonight?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者们今晚要做什么？"
+    },
+    {
+     "s": "What will the speaker do next?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "发言人接下来要做什么？"
+    },
+    {
+     "s": "What will the speakers do tonight?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者们今晚要做什么？"
+    },
+    {
+     "s": "What will the speaker do next?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "发言人接下来要做什么？"
+    },
+    {
+     "s": "What does the speaker recommend at the end of his lecture?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "演讲者在讲座结束时推荐了什么？"
+    },
+    {
+     "s": "What does the speaker recommend at the end of his lecture?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "演讲者在讲座结束时推荐了什么？"
+    },
+    {
+     "s": "What does the speaker recommend at the end of his lecture?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "演讲者在讲座结束时推荐了什么？"
+    },
+    {
+     "s": "What will the speakers do tonight?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "发言者今晚将做什么？"
+    },
+    {
+     "s": "What will the speaker do next?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "发言人接下来要做什么？"
+    },
+    {
+     "s": "All speakers were confident, comfortable with being seen.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "后来有一天，我在一个大型会议上，突然像闪电一样受到了启发。"
+    },
+    {
+     "s": "Examples and dialogues are recorded with real native speakers instead of automatic computers.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例句和对话是由真正的母语者录制的，而不是用自动电脑生成的。"
+    },
+    {
+     "s": "But he’s, nervous.“I’m here to tell you today why you should … should…”Chris trips on the“-ld,”a. pronunciation difficulty for many non-native English speakers.",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但他很紧张。“我今天来是要告诉你们为什么你们应该……应该……”克里斯在“-ld”上绊住了，这是许多非英语母语者的发音难点。"
+    },
+    {
+     "s": "Pick, at random, Busuu in Cameroon (eight remaining speakers), Chiapaneco in Mexico(150).",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "随机挑选喀麦隆的布斯语（仅剩8名使用者）、墨西哥的奇帕内科语（150人）。"
+    },
+    {
+     "s": "What will the speakers do tomorrow?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者们明天要做什么？"
+    },
+    {
+     "s": "16    Do you want to be a good public speaker?",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "16    你想成为一名优秀的公开演讲者吗？"
+    },
+    {
+     "s": "Your goal is not to be a perfect public speaker.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你的目标不是成为完美的公开演讲者。"
+    },
+    {
+     "s": "You want to be an effective public speaker.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你想成为一名有感染力的公开演讲者。"
+    },
+    {
+     "s": "Speakers will state whether they are for or against the statement.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "发言者将说明他们是赞成还是反对该声明。"
+    },
+    {
+     "s": "[Now talk about how the speakers describe their Experiences.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "t": "[现在谈谈发言者如何描述他们的经验。"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "演讲者主要谈论的是什么？"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "演讲者主要谈论的是什么？"
+    },
+    {
+     "s": "He’s a good public speaker and I have never seen him get nervous.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "t": "他是一个出色的演讲者，我从未见过他紧张。"
+    },
+    {
+     "s": "What does the speaker's mother want her to be?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "演讲者的母亲希望她成为什么样的人？"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a person who is or was speaking 说话者",
+   "ex": [
     {
-      "def": "a person who gives a talk or makes a speech 发言者；演讲者",
-      "ex": [
-        {
-          "s": "As the speaker, you already know what you’re going to say.",
-          "src": "2025浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作为演讲者，你已经知道自己会说什么。"
-        },
-        {
-          "s": "Why does the speaker give the talk?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "演讲者为什么做这个演讲？"
-        },
-        {
-          "s": "What does the speaker probably do?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "演讲者可能是做什么的？"
-        },
-        {
-          "s": "How often does the speaker suggest people do hard workouts?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "演讲者建议人们多久做一次高强度锻炼？"
-        },
-        {
-          "s": "Why did the speaker feel lonely in her childhood?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者为什么在童年时期感到孤独？"
-        },
-        {
-          "s": "Even the most successful public speaker will make mistakes.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "即使最成功的演讲者也会犯错。"
-        },
-        {
-          "s": "In fact, most people only absorb about 20 percent of a speaker’s message.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "事实上，大多数人只吸收了演讲者信息的约20%。"
-        },
-        {
-          "s": "20     It’s rare to hear someone say, “I wish that speaker had spoken longer.” On the other hand, you probably can’t count the times that you’ve thought, “I’m glad that talk is over.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "20     很少听到有人说：\"我希望那位演讲者能讲得更久。\"另一方面，你可能数不清有多少次你想：\"真高兴那个演讲终于结束了。\"它似乎永远没完没了！所以给你的听众一个惊喜吧。"
-        },
-        {
-          "s": "However, the majority of people are effective speakers because they train to be.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然而，大多数人都是有效的演讲者，因为他们经过训练。"
-        },
-        {
-          "s": "What will the speakers do tonight?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者们今晚要做什么？"
-        },
-        {
-          "s": "What will the speaker do next?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "发言人接下来要做什么？"
-        },
-        {
-          "s": "What will the speakers do tonight?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者们今晚要做什么？"
-        },
-        {
-          "s": "What will the speaker do next?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "发言人接下来要做什么？"
-        },
-        {
-          "s": "What does the speaker recommend at the end of his lecture?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "演讲者在讲座结束时推荐了什么？"
-        },
-        {
-          "s": "What does the speaker recommend at the end of his lecture?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "演讲者在讲座结束时推荐了什么？"
-        },
-        {
-          "s": "What does the speaker recommend at the end of his lecture?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "演讲者在讲座结束时推荐了什么？"
-        },
-        {
-          "s": "What will the speakers do tonight?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "发言者今晚将做什么？"
-        },
-        {
-          "s": "What will the speaker do next?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "发言人接下来要做什么？"
-        },
-        {
-          "s": "All speakers were confident, comfortable with being seen.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "后来有一天，我在一个大型会议上，突然像闪电一样受到了启发。"
-        },
-        {
-          "s": "Examples and dialogues are recorded with real native speakers instead of automatic computers.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例句和对话是由真正的母语者录制的，而不是用自动电脑生成的。"
-        },
-        {
-          "s": "But he’s, nervous.“I’m here to tell you today why you should … should…”Chris trips on the“-ld,”a. pronunciation difficulty for many non-native English speakers.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但他很紧张。“我今天来是要告诉你们为什么你们应该……应该……”克里斯在“-ld”上绊住了，这是许多非英语母语者的发音难点。"
-        },
-        {
-          "s": "Pick, at random, Busuu in Cameroon (eight remaining speakers), Chiapaneco in Mexico(150).",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "随机挑选喀麦隆的布斯语（仅剩8名使用者）、墨西哥的奇帕内科语（150人）。"
-        },
-        {
-          "s": "What will the speakers do tomorrow?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者们明天要做什么？"
-        },
-        {
-          "s": "16    Do you want to be a good public speaker?",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "16    你想成为一名优秀的公开演讲者吗？"
-        },
-        {
-          "s": "Your goal is not to be a perfect public speaker.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你的目标不是成为完美的公开演讲者。"
-        },
-        {
-          "s": "You want to be an effective public speaker.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你想成为一名有感染力的公开演讲者。"
-        },
-        {
-          "s": "Speakers will state whether they are for or against the statement.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "发言者将说明他们是赞成还是反对该声明。"
-        },
-        {
-          "s": "[Now talk about how the speakers describe their Experiences.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "[现在谈谈发言者如何描述他们的经验。"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者主要谈论的是什么？"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "演讲者主要谈论的是什么？"
-        },
-        {
-          "s": "He’s a good public speaker and I have never seen him get nervous.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "他是一个出色的演讲者，我从未见过他紧张。"
-        },
-        {
-          "s": "What does the speaker's mother want her to be?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者的母亲希望她成为什么样的人？"
-        }
-      ]
+     "s": "What will the speakers do today?",
+     "src": "2024卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "说话人今天将做什么？"
     },
     {
-      "def": "a person who is or was speaking 说话者",
-      "ex": [
-        {
-          "s": "What will the speakers do today?",
-          "src": "2024卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话人今天将做什么？"
-        },
-        {
-          "s": "How does the speaker get to her office today?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人今天怎么去办公室？"
-        },
-        {
-          "s": "What will the speakers do next?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "说话者接下来会做什么？"
-        },
-        {
-          "s": "What problem do the speakers have?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "说话者遇到了什么问题？"
-        },
-        {
-          "s": "What will the speakers do next?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者接下来会做什么？"
-        },
-        {
-          "s": "What did the speakers do last week?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者上周做了什么？"
-        },
-        {
-          "s": "What will the speakers do next?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者接下来会做什么？"
-        },
-        {
-          "s": "What did the speakers do last week?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者上周做了什么？"
-        },
-        {
-          "s": "Why did the speaker feel lonely in her childhood?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为什么说话者在童年时感到孤独？"
-        },
-        {
-          "s": "What will the speakers do tomorrow evening?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话者明天晚上要做什么？"
-        },
-        {
-          "s": "When did the speaker take English classes?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话者什么时候上的英语课？"
-        },
-        {
-          "s": "In what way has the speaker changed?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者在哪些方面发生了变化？"
-        },
-        {
-          "s": "What does the speaker think of the French people?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者觉得法国人怎么样？"
-        },
-        {
-          "s": "Now talk about how the speakers make requests and refusals.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "现在讨论说话者是如何提出请求和拒绝的。"
-        },
-        {
-          "s": "Pausing also allows the speaker to emphasise certain words within a sentence.",
-          "src": "外研社B3 U4",
-          "cat": "waiyan",
-          "t": "暂停还可以让说话者强调句子中的某些单词。"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2024卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "Where are the speakers going?",
-          "src": "2024全国甲卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话人要去哪里？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2024全国甲卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2024全国甲卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the speaker doing?",
-          "src": "2024全国甲卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话人在做什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "Who is the speaker talking to?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者在跟谁说话？"
-        },
-        {
-          "s": "What are the speakers going to do tonight?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者今晚要做什么？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What did the speaker do before the year 2012?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者在2012年之前做了什么？"
-        },
-        {
-          "s": "What is the speaker mainly talking about?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "Where are the speakers going to meet?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者们打算在哪里见面？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What is the relationship between speakers?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者之间是什么关系？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "Who is the speaker talking to?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者在跟谁说话？"
-        },
-        {
-          "s": "What are the speakers going to do?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者打算做什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What is the speaker's last suggestion?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者最后的建议是什么？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "What do the speakers plan to do on Tuesday afternoon?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者们计划在周二下午做什么？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "What do the speakers plan to do on Tuesday afternoon?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者们计划在周二下午做什么？"
-        },
-        {
-          "s": "What does the speaker's mother want her to be?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话人的母亲希望她做什么？"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What are the speakers going to do?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者打算做什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What is the speaker’s last suggestion?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者最后的建议是什么？"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the speaker doing?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话人在做什么？"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the speaker doing?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话人在做什么？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "What do we know about the speakers?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "关于这两位说话者我们知道什么？"
-        },
-        {
-          "s": "What do we know about the speakers?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "关于这两位说话者我们知道什么？"
-        },
-        {
-          "s": "What do we know about the speakers?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "关于这两位说话者我们知道什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the speaker doing?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话人在做什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "说话者在谈论什么？"
-        },
-        {
-          "s": "What is the relationship between the speakers?",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "说话者之间是什么关系？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "说话者在谈论什么？"
-        },
-        {
-          "s": "What is the relationship between the speakers?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "说话者之间是什么关系？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "Who is the speaker probably talking to?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话者可能在对谁说话？"
-        },
-        {
-          "s": "How does the speaker mainly talk about?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话者主要怎么讲述？"
-        },
-        {
-          "s": "Directions: In Section A, you will hear ten short conversations between two speakers.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说明：在A部分，你将听到两段说话者之间的十段简短对话。"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What is the speaker doing?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人在做什么？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What are the speakers talking about?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两位说话人在谈论什么？"
-        },
-        {
-          "s": "Where are the speakers?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者在哪里？"
-        },
-        {
-          "s": "What is the probable relationship between the speakers?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人之间可能是什么关系？"
-        },
-        {
-          "s": "What is the speaker doing?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话人在做什么？"
-        },
-        {
-          "s": "What are the two speakers mainly talking about?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两位说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the possible relationship between the two speakers?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两个说话者之间可能是什么关系？"
-        },
-        {
-          "s": "What are the two speakers going to do?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两位说话人打算做什么？"
-        },
-        {
-          "s": "Why was the 2016 Olympics important for the speaker?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为什么2016年奥运会对说话者很重要？"
-        },
-        {
-          "s": "19 Which is the hardest for the speaker?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "19 对说话者来说最难的是什么？"
-        },
-        {
-          "s": "Why should you listen to experts according to the speaker?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "根据说话者的说法，为什么要听专家的话？"
-        },
-        {
-          "s": "Why should you listen to experts according to the speaker?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "根据说话者的说法，为什么要听专家的话？"
-        },
-        {
-          "s": "Who would like to make small talk according to the speaker?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据说话者，谁愿意闲聊？"
-        },
-        {
-          "s": "Who would like to make small talk according to the speaker?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据说话者，谁愿意闲聊？"
-        },
-        {
-          "s": "Who would like to make small talk according to the speaker?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据说话者，谁愿意闲聊？"
-        },
-        {
-          "s": "Who is the speaker?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者是谁？"
-        },
-        {
-          "s": "What is different for the speaker to get used to?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "对说话者来说有什么不同需要适应的？"
-        },
-        {
-          "s": "What has been improved according to the speaker?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据说话者，什么得到了改善？"
-        },
-        {
-          "s": "Who is the speaker?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者是谁？"
-        }
-      ]
+     "s": "How does the speaker get to her office today?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人今天怎么去办公室？"
     },
     {
-      "def": "a person who speaks a particular language 讲（某种语言）的人",
-      "ex": [
-        {
-          "s": "For native speakers of English, some Chinese words are rather difficult to pronounce.",
-          "src": "2025新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "对英语母语者来说，一些中文字词相当难发音。"
-        }
-      ]
+     "s": "What will the speakers do next?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "说话者接下来会做什么？"
     },
     {
-      "def": "the title of the person whose job is to control the discussions in a parliament （议会的）议长",
-      "ex": []
+     "s": "What problem do the speakers have?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "说话者遇到了什么问题？"
     },
     {
-      "def": "the part of a radio, computer or piece of musical equipment that the sound comes out of 扬声器；喇叭",
-      "ex": []
+     "s": "What will the speakers do next?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者接下来会做什么？"
+    },
+    {
+     "s": "What did the speakers do last week?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者上周做了什么？"
+    },
+    {
+     "s": "What will the speakers do next?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者接下来会做什么？"
+    },
+    {
+     "s": "What did the speakers do last week?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者上周做了什么？"
+    },
+    {
+     "s": "Why did the speaker feel lonely in her childhood?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "为什么说话者在童年时感到孤独？"
+    },
+    {
+     "s": "What will the speakers do tomorrow evening?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说话者明天晚上要做什么？"
+    },
+    {
+     "s": "When did the speaker take English classes?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说话者什么时候上的英语课？"
+    },
+    {
+     "s": "In what way has the speaker changed?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者在哪些方面发生了变化？"
+    },
+    {
+     "s": "What does the speaker think of the French people?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者觉得法国人怎么样？"
+    },
+    {
+     "s": "Now talk about how the speakers make requests and refusals.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "现在讨论说话者是如何提出请求和拒绝的。"
+    },
+    {
+     "s": "Pausing also allows the speaker to emphasise certain words within a sentence.",
+     "src": "外研社B3 U4",
+     "cat": "waiyan",
+     "t": "暂停还可以让说话者强调句子中的某些单词。"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2024卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "Where are the speakers going?",
+     "src": "2024全国甲卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "说话人要去哪里？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2024全国甲卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2024全国甲卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the speaker doing?",
+     "src": "2024全国甲卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "说话人在做什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "Who is the speaker talking to?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者在跟谁说话？"
+    },
+    {
+     "s": "What are the speakers going to do tonight?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者今晚要做什么？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What did the speaker do before the year 2012?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者在2012年之前做了什么？"
+    },
+    {
+     "s": "What is the speaker mainly talking about?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "Where are the speakers going to meet?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者们打算在哪里见面？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What is the relationship between speakers?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者之间是什么关系？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "Who is the speaker talking to?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者在跟谁说话？"
+    },
+    {
+     "s": "What are the speakers going to do?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者打算做什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What is the speaker's last suggestion?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者最后的建议是什么？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "What do the speakers plan to do on Tuesday afternoon?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者们计划在周二下午做什么？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "What do the speakers plan to do on Tuesday afternoon?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者们计划在周二下午做什么？"
+    },
+    {
+     "s": "What does the speaker's mother want her to be?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话人的母亲希望她做什么？"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What are the speakers going to do?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者打算做什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What is the speaker’s last suggestion?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者最后的建议是什么？"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the speaker doing?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话人在做什么？"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the speaker doing?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话人在做什么？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "What do we know about the speakers?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "关于这两位说话者我们知道什么？"
+    },
+    {
+     "s": "What do we know about the speakers?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "关于这两位说话者我们知道什么？"
+    },
+    {
+     "s": "What do we know about the speakers?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "关于这两位说话者我们知道什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the speaker doing?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话人在做什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "说话者在谈论什么？"
+    },
+    {
+     "s": "What is the relationship between the speakers?",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "说话者之间是什么关系？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "说话者在谈论什么？"
+    },
+    {
+     "s": "What is the relationship between the speakers?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "说话者之间是什么关系？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "Who is the speaker probably talking to?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说话者可能在对谁说话？"
+    },
+    {
+     "s": "How does the speaker mainly talk about?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说话者主要怎么讲述？"
+    },
+    {
+     "s": "Directions: In Section A, you will hear ten short conversations between two speakers.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说明：在A部分，你将听到两段说话者之间的十段简短对话。"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What is the speaker doing?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人在做什么？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What are the speakers talking about?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两位说话人在谈论什么？"
+    },
+    {
+     "s": "Where are the speakers?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者在哪里？"
+    },
+    {
+     "s": "What is the probable relationship between the speakers?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人之间可能是什么关系？"
+    },
+    {
+     "s": "What is the speaker doing?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话人在做什么？"
+    },
+    {
+     "s": "What are the two speakers mainly talking about?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两位说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the possible relationship between the two speakers?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两个说话者之间可能是什么关系？"
+    },
+    {
+     "s": "What are the two speakers going to do?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两位说话人打算做什么？"
+    },
+    {
+     "s": "Why was the 2016 Olympics important for the speaker?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为什么2016年奥运会对说话者很重要？"
+    },
+    {
+     "s": "19 Which is the hardest for the speaker?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "19 对说话者来说最难的是什么？"
+    },
+    {
+     "s": "Why should you listen to experts according to the speaker?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "根据说话者的说法，为什么要听专家的话？"
+    },
+    {
+     "s": "Why should you listen to experts according to the speaker?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "根据说话者的说法，为什么要听专家的话？"
+    },
+    {
+     "s": "Who would like to make small talk according to the speaker?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据说话者，谁愿意闲聊？"
+    },
+    {
+     "s": "Who would like to make small talk according to the speaker?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据说话者，谁愿意闲聊？"
+    },
+    {
+     "s": "Who would like to make small talk according to the speaker?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据说话者，谁愿意闲聊？"
+    },
+    {
+     "s": "Who is the speaker?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者是谁？"
+    },
+    {
+     "s": "What is different for the speaker to get used to?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "对说话者来说有什么不同需要适应的？"
+    },
+    {
+     "s": "What has been improved according to the speaker?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据说话者，什么得到了改善？"
+    },
+    {
+     "s": "Who is the speaker?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者是谁？"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a person who speaks a particular language 讲（某种语言）的人",
+   "ex": [
     {
-      "en": "public speaker",
-      "cn": "公众演讲者",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "two speakers",
-      "cn": "两位说话者",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "effective speakers",
-      "cn": "发言者",
-      "type": "名词短语",
-      "count": 1
-    },
-    {
-      "en": "between the speakers",
-      "cn": "说话者之间",
-      "type": "介词短语",
-      "count": 10
-    },
-    {
-      "en": "according to the speaker",
-      "cn": "根据说话者",
-      "type": "介词短语",
-      "count": 6
+     "s": "For native speakers of English, some Chinese words are rather difficult to pronounce.",
+     "src": "2025新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "对英语母语者来说，一些中文字词相当难发音。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the title of the person whose job is to control the discussions in a parliament （议会的）议长",
+   "ex": []
+  },
+  {
+   "def": "the part of a radio, computer or piece of musical equipment that the sound comes out of 扬声器；喇叭",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "public speaker",
+   "cn": "公众演讲者",
+   "type": "名词短语",
+   "count": 5
+  },
+  {
+   "en": "two speakers",
+   "cn": "两位说话者",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "between the speakers",
+   "cn": "说话者之间",
+   "type": "介词短语",
+   "count": 10
+  },
+  {
+   "en": "according to the speaker",
+   "cn": "根据说话者",
+   "type": "介词短语",
+   "count": 6
+  }
+ ]
 }
