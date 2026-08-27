@@ -1,1405 +1,1405 @@
 {
-  "meta": {
-    "ph": "mæn; NAmE mæn",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "mæn; NAmE mæn",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "an adult male human 成年男子；男人",
+   "ex": [
+    {
+     "s": "The stereotypes of men and women.",
+     "src": "2025浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "关于男女的刻板印象。"
+    },
+    {
+     "s": "Just before and an hour after each workout, the scientists took additional samples of the men’s blood and fat tissue.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在每次锻炼前和锻炼后一小时，科学家又采集了这些男子的血液和脂肪组织样本。"
+    },
+    {
+     "s": "Would you BET on the future of this man？ He is 53 years old． Most of his adult life has been a losing struggle against debt and misfortune． A war injury has made his left hand stop functioning， and he has often been in prison． Driven by heaven﹣knows﹣what motives， he determines to write a book．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "他已经53岁了，他的成年生活大多是债务和不幸的失败。战争的伤害使他的左手停止了运转，他经常在监狱里。由于天知道什么动机，他决定写一本书。"
+    },
+    {
+     "s": "When my English teacher stepped into the classroom, I was surprised to see the same man I had met earlier.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "当我的英语老师走进教室时，我惊讶地发现他就是我之前遇到的那个男人。"
+    },
+    {
+     "s": "A young person could be old; a woman could be a man; we could even be sharing our Information with criminals.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "一个年轻人可能实际上是老年人；一个女人可能实际上是男人；我们甚至可能在与罪犯分享我们的信息。"
+    },
+    {
+     "s": "As Helen walked on, she heard a man charging towards her.",
+     "src": "2022北京卷·A 完型填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当海伦继续走时，她听到一个男人朝她冲过来。"
+    },
+    {
+     "s": "She is looking for the man.",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "她正在找那个男人。"
+    },
+    {
+     "s": "What is the man doing？",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这个男人在做什么？"
+    },
+    {
+     "s": "Why does the man seldom do exercise？",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这个男人为什么很少锻炼？"
+    },
+    {
+     "s": "To encourage the man.",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "为了鼓励这个男人。"
+    },
+    {
+     "s": "She is looking for the man.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "她正在找那个男人。"
+    },
+    {
+     "s": "What is the man doing？",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这个男人在做什么？"
+    },
+    {
+     "s": "Why does the man seldom do exercise？",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这个男人为什么很少锻炼？"
+    },
+    {
+     "s": "To encourage the man.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "为了鼓励这个男人。"
+    },
+    {
+     "s": "A Toronto man is offering a free round-the-world air to the right woman.",
+     "src": "2017全国III卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一名多伦多男子向合适的女性提供免费环游世界的机票。"
+    },
+    {
+     "s": "They saw a man   36    out of a garbage can.",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他们看到一个男人____36____从垃圾桶里出来。"
+    },
+    {
+     "s": "How much time does the man have to read the book?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个男的有多少时间来读这本书？"
+    },
+    {
+     "s": "How much time does the man have to read the book?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个男的有多少时间来读这本书？"
+    },
+    {
+     "s": "How much time does the man have to read the book?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个男的有多少时间来读这本书？"
+    },
+    {
+     "s": "How much time will the man probably spend exercising weekly？",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这个男人每周可能会花多少时间锻炼？"
+    },
+    {
+     "s": "How much time will the man probably spend exercising weekly？",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这个男人每周可能会花多少时间锻炼？"
+    },
+    {
+     "s": "Kevin stared at the man at their front door.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "Kevin盯着他们前门外的那个男人。"
+    },
+    {
+     "s": "There was a man sick in bed, his wife, who took care of him and could not go out to work, and their little boy.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "有一位生病卧床的男人，他的妻子照顾他、无法外出工作，还有他们的小男孩。"
+    },
+    {
+     "s": "There was a man sick in bed, his wife, who took care of him and could not go out to work, and their little boy.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "有一位生病卧床的男人，他的妻子照顾他、无法外出工作，还有他们的小男孩。"
+    },
+    {
+     "s": "I saw there were two instructors on board and a man lying across the middle.",
+     "src": "2018全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我看到船上有两名教练，还有一个男人横躺在中间。"
+    },
+    {
+     "s": "The man drinks too much wine.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那个男人喝太多葡萄酒。"
+    },
+    {
+     "s": "The man drinks little wine.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那个男人很少喝葡萄酒。"
+    },
+    {
+     "s": "A man owes his success to his family support.",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一个男人把成功归功于家庭支持。"
+    },
+    {
+     "s": "He thinks men can do the job better.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他认为男人能做得更好。"
+    },
+    {
+     "s": "The man froze for a second, but when he saw the skinny boy he breathed a sigh of relief.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "那名男子愣了一下，但当他看到那个瘦小的男孩时，松了一口气。"
+    },
+    {
+     "s": "A young Chinese man   42   me on the train.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一个年轻的中国男子在火车上____42____我。"
+    },
+    {
+     "s": "Suddenly, the man jumped through an open window into the house.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "突然，那名男子从一扇开着的窗户跳进屋里。"
+    },
+    {
+     "s": "The man still has got a job.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那名男子仍有工作。"
+    },
+    {
+     "s": "What does the man ask the woman to do?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "男人让女人做什么？"
+    },
+    {
+     "s": "Which tour does the man seem to be interested in?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "该男子似乎对哪一次旅行感兴趣？"
+    },
+    {
+     "s": "What does the man ask the woman to do?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "男人让女人做什么？"
+    },
+    {
+     "s": "Where do young men go to watch big games according to Jeff？",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据杰夫的说法，年轻男人去哪里看大赛？"
+    },
+    {
+     "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
+    },
+    {
+     "s": "The man stood up in a panic, then ran through the house toward the window and jumped out.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "那名男子惊慌地站起来，然后穿过屋子朝窗户跑去并跳了出去。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "humans as a group or from a particular period of history 人类；（特定历史时期的）人",
+   "ex": [
     {
-      "def": "an adult male human 成年男子；男人",
-      "ex": [
-        {
-          "s": "The stereotypes of men and women.",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "关于男女的刻板印象。"
-        },
-        {
-          "s": "Just before and an hour after each workout, the scientists took additional samples of the men’s blood and fat tissue.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在每次锻炼前和锻炼后一小时，科学家又采集了这些男子的血液和脂肪组织样本。"
-        },
-        {
-          "s": "Would you BET on the future of this man？ He is 53 years old． Most of his adult life has been a losing struggle against debt and misfortune． A war injury has made his left hand stop functioning， and he has often been in prison． Driven by heaven﹣knows﹣what motives， he determines to write a book．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "他已经53岁了，他的成年生活大多是债务和不幸的失败。战争的伤害使他的左手停止了运转，他经常在监狱里。由于天知道什么动机，他决定写一本书。"
-        },
-        {
-          "s": "When my English teacher stepped into the classroom, I was surprised to see the same man I had met earlier.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "当我的英语老师走进教室时，我惊讶地发现他就是我之前遇到的那个男人。"
-        },
-        {
-          "s": "A young person could be old; a woman could be a man; we could even be sharing our Information with criminals.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "一个年轻人可能实际上是老年人；一个女人可能实际上是男人；我们甚至可能在与罪犯分享我们的信息。"
-        },
-        {
-          "s": "As Helen walked on, she heard a man charging towards her.",
-          "src": "2022北京卷·A 完型填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当海伦继续走时，她听到一个男人朝她冲过来。"
-        },
-        {
-          "s": "She is looking for the man.",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "她正在找那个男人。"
-        },
-        {
-          "s": "What is the man doing？",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这个男人在做什么？"
-        },
-        {
-          "s": "Why does the man seldom do exercise？",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这个男人为什么很少锻炼？"
-        },
-        {
-          "s": "To encourage the man.",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为了鼓励这个男人。"
-        },
-        {
-          "s": "She is looking for the man.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "她正在找那个男人。"
-        },
-        {
-          "s": "What is the man doing？",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这个男人在做什么？"
-        },
-        {
-          "s": "Why does the man seldom do exercise？",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这个男人为什么很少锻炼？"
-        },
-        {
-          "s": "To encourage the man.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为了鼓励这个男人。"
-        },
-        {
-          "s": "A Toronto man is offering a free round-the-world air to the right woman.",
-          "src": "2017全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一名多伦多男子向合适的女性提供免费环游世界的机票。"
-        },
-        {
-          "s": "They saw a man   36    out of a garbage can.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他们看到一个男人____36____从垃圾桶里出来。"
-        },
-        {
-          "s": "How much time does the man have to read the book?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个男的有多少时间来读这本书？"
-        },
-        {
-          "s": "How much time does the man have to read the book?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个男的有多少时间来读这本书？"
-        },
-        {
-          "s": "How much time does the man have to read the book?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个男的有多少时间来读这本书？"
-        },
-        {
-          "s": "How much time will the man probably spend exercising weekly？",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这个男人每周可能会花多少时间锻炼？"
-        },
-        {
-          "s": "How much time will the man probably spend exercising weekly？",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这个男人每周可能会花多少时间锻炼？"
-        },
-        {
-          "s": "Kevin stared at the man at their front door.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Kevin盯着他们前门外的那个男人。"
-        },
-        {
-          "s": "There was a man sick in bed, his wife, who took care of him and could not go out to work, and their little boy.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有一位生病卧床的男人，他的妻子照顾他、无法外出工作，还有他们的小男孩。"
-        },
-        {
-          "s": "There was a man sick in bed, his wife, who took care of him and could not go out to work, and their little boy.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有一位生病卧床的男人，他的妻子照顾他、无法外出工作，还有他们的小男孩。"
-        },
-        {
-          "s": "I saw there were two instructors on board and a man lying across the middle.",
-          "src": "2018全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我看到船上有两名教练，还有一个男人横躺在中间。"
-        },
-        {
-          "s": "The man drinks too much wine.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那个男人喝太多葡萄酒。"
-        },
-        {
-          "s": "The man drinks little wine.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那个男人很少喝葡萄酒。"
-        },
-        {
-          "s": "A man owes his success to his family support.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个男人把成功归功于家庭支持。"
-        },
-        {
-          "s": "He thinks men can do the job better.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他认为男人能做得更好。"
-        },
-        {
-          "s": "The man froze for a second, but when he saw the skinny boy he breathed a sigh of relief.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "那名男子愣了一下，但当他看到那个瘦小的男孩时，松了一口气。"
-        },
-        {
-          "s": "A young Chinese man   42   me on the train.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一个年轻的中国男子在火车上____42____我。"
-        },
-        {
-          "s": "Suddenly, the man jumped through an open window into the house.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "突然，那名男子从一扇开着的窗户跳进屋里。"
-        },
-        {
-          "s": "The man still has got a job.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那名男子仍有工作。"
-        },
-        {
-          "s": "What does the man ask the woman to do?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "男人让女人做什么？"
-        },
-        {
-          "s": "Which tour does the man seem to be interested in?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "该男子似乎对哪一次旅行感兴趣？"
-        },
-        {
-          "s": "What does the man ask the woman to do?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "男人让女人做什么？"
-        },
-        {
-          "s": "Where do young men go to watch big games according to Jeff？",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据杰夫的说法，年轻男人去哪里看大赛？"
-        },
-        {
-          "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
-        },
-        {
-          "s": "The man stood up in a panic, then ran through the house toward the window and jumped out.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "那名男子惊慌地站起来，然后穿过屋子朝窗户跑去并跳了出去。"
-        }
-      ]
+     "s": "The men were often called the “Gung Ho Battalion.” From then, the word gung-ho spread as a slogan the Marine Corps.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这些人常被称为“工合营”。从那时起，gung-ho作为海军陆战队的口号传开。"
     },
     {
-      "def": "humans as a group or from a particular period of history 人类；（特定历史时期的）人",
-      "ex": [
-        {
-          "s": "The men were often called the “Gung Ho Battalion.” From then, the word gung-ho spread as a slogan the Marine Corps.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这些人常被称为“工合营”。从那时起，gung-ho作为海军陆战队的口号传开。"
-        },
-        {
-          "s": "She asked her mother why he did that and her mother said that the man was homeless and hungry.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她问妈妈为什么那个人要那样做，妈妈说那个人无家可归，而且很饿。"
-        },
-        {
-          "s": "Thinking that the man might get away with whatever he wanted before the police arrived, Kevin decided to do something.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "想到那个人可能会在警察到达之前逃脱并得到他想要的任何东西，凯文决定采取行动。"
-        },
-        {
-          "s": "In the sciences and arts, those praised as geniuses were most often white men, of European origin.",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在科学和艺术领域，那些被誉为天才的人往往是欧洲裔白人男性。"
-        },
-        {
-          "s": "It’s about Hemingway’s life as a young man.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它讲述海明威年轻时的生活。"
-        },
-        {
-          "s": "Perhaps most   47  , however, was the fact that this man spent hours studying every day after hard physical labor.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，也许最____47____的是，这个人在繁重体力劳作后每天还花数小时学习。"
-        },
-        {
-          "s": "From the Australian side, we have only a wooden shield (盾) dropped by a man in flight after his first experience of gunshot.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从澳大利亚一方那里，我们只有一面木盾（盾），是一个人在第一次经历枪击后逃跑时丢下的。"
-        },
-        {
-          "s": "If you see a painting of a movement, like of a man pulling his arm away after being bitten by a dog, you feel like going through a similar experience.",
-          "src": "2023天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果你看到一幅描绘运动的画作，比如一个人被狗咬后缩回手臂的画面，你会感觉自己仿佛经历了类似的体验。"
-        },
-        {
-          "s": "You can tell a lot about a man by how he treats his dogs.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你可以通过一个人如何对待他的狗，看出他很多的为人。"
-        },
-        {
-          "s": "I never heard this man whisper a word about his own  20 .",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我从未听到这个人低声说过一句关于他自己20 的话。"
-        },
-        {
-          "s": "He seemed not to notice the man next to him.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他似乎没有注意到旁边的那个人。"
-        },
-        {
-          "s": "But we want to go beyond one man and explore the nature of genius itself.",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但我们想超越某一个人，去探索天才本身的本质。"
-        },
-        {
-          "s": "How did the man feel about his performance today?",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个人对自己今天的表现感觉如何？"
-        },
-        {
-          "s": "The wise old man told him to travel to the Li River～perhaps he could learn a little from the greatest artist in the world.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "那位睿智的老人让他去漓江旅行——也许他能从业界最伟大的画家那里学到一点东西。"
-        },
-        {
-          "s": "And I have never known an average man who had both.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我也从未见过一个两者兼备的普通人。"
-        },
-        {
-          "s": "Reading Makes a Full Man",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D．阅读使人充实"
-        },
-        {
-          "s": "Linking arms with one of the instructors，I helped   51   the young man out of the water.",
-          "src": "2018全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我挽着一位教练的胳膊，帮忙把那个年轻人____51____拉出水面。"
-        },
-        {
-          "s": "What did the Ice Man do to reduce the effect of global warming?",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "\"冰人\"做了什么来减缓全球变暖的影响？"
-        },
-        {
-          "s": "Days later when the curtain was drawn, I saw this  31  old man for the first time.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "几天后当帘子拉开时，我第一次看到了这位31 老人。"
-        },
-        {
-          "s": "I have never known an outstanding man who lacked either.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我从未见过一个缺乏其中任何一项的杰出人物。"
-        },
-        {
-          "s": "A man should learn suitable ways to deal with life．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D．人应学会恰当的方式应对生活。"
-        },
-        {
-          "s": "A bit later, they spotted what they, too, assumed was a dog running alongside a man on a bike.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "过了一会儿，他们也看到了那个他们原以为是一只狗、正和骑车人并肩奔跑的东西。"
-        },
-        {
-          "s": "\"It is curious that no one has put together a history of both the steam and electric revolutions.\" writes Maury Klein in his book The Power Makers, Steam, Electricity, and the Men Invented Modem America.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "奇怪的是，竟没有人把蒸汽和电气两次革命的历史合在一起写，莫里·克莱因在《造电者：蒸汽、电力与发明现代美国的人》一书中写道。"
-        }
-      ]
+     "s": "She asked her mother why he did that and her mother said that the man was homeless and hungry.",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她问妈妈为什么那个人要那样做，妈妈说那个人无家可归，而且很饿。"
     },
     {
-      "def": "a person, either male or female （不论性别的）人",
-      "ex": []
+     "s": "Thinking that the man might get away with whatever he wanted before the police arrived, Kevin decided to do something.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "想到那个人可能会在警察到达之前逃脱并得到他想要的任何东西，凯文决定采取行动。"
     },
     {
-      "def": "a man who comes from the place mentioned or whose job or interest is connected with the thing mentioned 构成复合词",
-      "ex": [
-        {
-          "s": "What is the man going to do?",
-          "src": "2024卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "男士打算做什么？"
-        },
-        {
-          "s": "Who is the man?",
-          "src": "2024全国甲卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这位男士是谁？"
-        },
-        {
-          "s": "When will the man see Bob?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "男士什么时候见鲍勃？"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "What is difficult for the man to deal with?",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士觉得什么难以应对？"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "What is difficult for the man to deal with?",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士觉得什么难以应对？"
-        },
-        {
-          "s": "What do the man and the woman both want to do?",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士和女士都想做什么？"
-        },
-        {
-          "s": "How much did the man spend on the city passes?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士在城市通票上花了多少钱？"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "How much did the man spend on the city passes?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士在城市通票上花了多少钱？"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "The man must have heard my  25  the night before.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士一定听到了我25 前一天晚上的声音。"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "What did the man say helped him overcome the problem?",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他说什么来帮助他克服问题？"
-        },
-        {
-          "s": "How can the man improve his article?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士如何改进他的文章？"
-        },
-        {
-          "s": "Which function is the man most interested in?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士最感兴趣的是哪个功能？"
-        },
-        {
-          "s": "How much would the man pay for the second camera?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士会为第二台相机付多少钱？"
-        },
-        {
-          "s": "How can the man improve his article?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士如何改进他的文章？"
-        },
-        {
-          "s": "Which function is the man most interested in?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士最感兴趣的是哪个功能？"
-        },
-        {
-          "s": "How much would the man pay for the second camera?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士会为第二台相机付多少钱？"
-        },
-        {
-          "s": "How can the man improve his article?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士如何改进他的文章？"
-        },
-        {
-          "s": "Which function is the man most interested in?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士最感兴趣的是哪个功能？"
-        },
-        {
-          "s": "How much would the man pay for the second camera?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士会为第二台相机付多少钱？"
-        },
-        {
-          "s": "What will the man do next?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士接下来要做什么？"
-        },
-        {
-          "s": "When did the man see the film?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士什么时候看了这部电影？"
-        },
-        {
-          "s": "What is the man going to do?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士打算做什么？"
-        },
-        {
-          "s": "What is the man doing?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士在做什么？"
-        },
-        {
-          "s": "How much will the man pay?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士要付多少钱？"
-        },
-        {
-          "s": "How did the man spend his weekend?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士是如何度过周末的？"
-        },
-        {
-          "s": "When will the man meet Mr Stone this afternoon?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士今天下午什么时候会见斯通先生？"
-        },
-        {
-          "s": "When will the man hear from the woman?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士什么时候会收到女士的消息？"
-        },
-        {
-          "s": "What is the man doing for the woman?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那位男士在为那位女士做什么？"
-        },
-        {
-          "s": "The man thinks Professor Smith explained the physics problem very clearly.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你会被问到几个问题，文章和对话将读两遍，但问题只读一遍。"
-        },
-        {
-          "s": "The man can't understand the physics problem.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这个男人无法理解这道物理题。"
-        },
-        {
-          "s": "What is the man going to do?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "男士打算做什么？"
-        },
-        {
-          "s": "What is the man looking for?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这个男士在找什么？"
-        },
-        {
-          "s": "What is the man going to do?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "男士打算做什么？"
-        },
-        {
-          "s": "Which club will the man join?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位男士会加入哪个俱乐部？"
-        }
-      ]
+     "s": "In the sciences and arts, those praised as geniuses were most often white men, of European origin.",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在科学和艺术领域，那些被誉为天才的人往往是欧洲裔白人男性。"
     },
     {
-      "def": "a man who likes or who does the thing mentioned （喜欢或做某事的）人",
-      "ex": [
-        {
-          "s": "They pursued and arrested the man.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他们追捕并逮捕了那个人。"
-        },
-        {
-          "s": "The man’s words sounded pretty convincing.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "所有营员需自带午餐和零食。"
-        },
-        {
-          "s": "What does the man want to do?",
-          "src": "2024卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "男士想做什么？"
-        },
-        {
-          "s": "What does the woman ask the man to do?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "女士让男士做什么？"
-        },
-        {
-          "s": "Why does the man apologize?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "男士为什么道歉？"
-        },
-        {
-          "s": "What does the man want to do on the weekend?",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士周末想做什么？"
-        },
-        {
-          "s": "What position does the man apply for?",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士申请的是什么职位？"
-        },
-        {
-          "s": "Which aspect of the company appeals to the man?",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "公司的哪个方面吸引了这位男士？"
-        },
-        {
-          "s": "What does the man want to do on the weekend?",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士周末想做什么？"
-        },
-        {
-          "s": "What position does the man apply for?",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这位男士申请的是什么职位？"
-        },
-        {
-          "s": "Which aspect of the company appeals to the man?",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "公司的哪个方面吸引了这位男士？"
-        },
-        {
-          "s": "Why does the man make the phone call?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士为什么打电话？"
-        },
-        {
-          "s": "What does the man probably want to do?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士最可能想做什么？"
-        },
-        {
-          "s": "6 Why does the woman come to the man?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "6 这位女士为什么来找这位男士？"
-        },
-        {
-          "s": "The man’s wife.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "男士的妻子。"
-        },
-        {
-          "s": "The man’s sister.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "男士的妹妹。"
-        },
-        {
-          "s": "What does the man want to do?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "男士想做什么？"
-        },
-        {
-          "s": "Why does the man suggest going to the park?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士为什么建议去公园？"
-        },
-        {
-          "s": "Where is the man’s table?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "男士的桌子在哪里？"
-        },
-        {
-          "s": "What does the man want to do before Friday?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士想在周五之前做什么？"
-        },
-        {
-          "s": "What does the man suggest the woman do?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "男士建议女士做什么。"
-        },
-        {
-          "s": "Why does the man make the phone call?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士为什么打电话？"
-        },
-        {
-          "s": "What does the man probably want to do?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位男士最可能想做什么？"
-        },
-        {
-          "s": "Why does the woman come to the man?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这位女士为什么来找这位男士？"
-        },
-        {
-          "s": "As I was wheeled out of the room, I said my final goodbye to the old man.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当我被推出房间时，我向这位老人做了最后的告别。"
-        },
-        {
-          "s": "It drinks water 30 times faster than man.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它喝水的速度比人快30倍。"
-        },
-        {
-          "s": "Which tour does the man seem to be interested in?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "那位男士似乎对哪个旅游项目感兴趣？"
-        },
-        {
-          "s": "8 What does the man advise Mrs White to do?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "8 男士建议怀特太太做什么？"
-        },
-        {
-          "s": "What is the man?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "那个男士是什么职业？"
-        },
-        {
-          "s": "What does the man advise MrsWhite to do?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "男士建议怀特太太做什么？"
-        },
-        {
-          "s": "What is the man?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "丹尼尔为什么提到他在戏剧中的表演？"
-        },
-        {
-          "s": "What is the woman recommending to the man?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位女士在向男士推荐什么？"
-        },
-        {
-          "s": "What is the woman recommending to the man?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位女士在向男士推荐什么？"
-        },
-        {
-          "s": "What does the man do?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士做什么？"
-        },
-        {
-          "s": "What kind of camera does the man want?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士想要什么样的相机？"
-        },
-        {
-          "s": "The man’s pet.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士的宠物。"
-        },
-        {
-          "s": "What does the man do?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士做什么？"
-        },
-        {
-          "s": "What kind of camera does the man want?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士想要什么样的相机？"
-        },
-        {
-          "s": "The man’s pet.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士的宠物。"
-        },
-        {
-          "s": "What does the man do?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士做什么？"
-        },
-        {
-          "s": "What kind of camera does the man want?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士想要什么样的相机？"
-        },
-        {
-          "s": "What does the man ask the woman to do at the end of the conversation?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在对话结束时男士请女士做什么？"
-        },
-        {
-          "s": "How does the man sound?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士听起来怎么样？"
-        },
-        {
-          "s": "What is the woman recommending to the man?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位女士在向男士推荐什么？"
-        },
-        {
-          "s": "What does the man tell Jane to do?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士让简做什么？"
-        },
-        {
-          "s": "What does the man want the woman to do?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士想让那位女士做什么？"
-        },
-        {
-          "s": "The man’s home.",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士的家。"
-        },
-        {
-          "s": "What will the woman do for the man?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位女士将为男士做什么？"
-        },
-        {
-          "s": "Why does the man want to see Mr Stone?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位男士为什么要见斯通先生？"
-        },
-        {
-          "s": "disability cannot stop a man's pursuit of success",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D. 残疾无法阻挡一个人对成功的追求。"
-        },
-        {
-          "s": "What is the man?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那个男士是什么职业？"
-        },
-        {
-          "s": "Why does the woman meet the man?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那位女士为什么见这位男士？"
-        },
-        {
-          "s": "What does the man say about the kitchen?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "那位男士关于厨房说了什么？"
-        },
-        {
-          "s": "She knew more about art than the man．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "C．她比男士更懂艺术。"
-        },
-        {
-          "s": "“Man, that's a big dog!” he thought.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“天哪，那是条好大的狗！”他想。"
-        },
-        {
-          "s": "Why does the man sound surprised?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么这位男士听起来很惊讶？"
-        },
-        {
-          "s": "Why does the woman call the man?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "2．为什么女士给这位男士打电话？"
-        },
-        {
-          "s": "How does the man feel?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "5 ．这位男士感觉怎么样？"
-        },
-        {
-          "s": "Chewang Norphel lives in a mountainous region in India, where he is known as the Ice Man.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "丘旺·诺普尔生活在印度的一个山区，他在那里被称为\"冰人\"。"
-        },
-        {
-          "s": "What does the man want to cut out of paper?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位男士想剪纸做什么？"
-        }
-      ]
+     "s": "It’s about Hemingway’s life as a young man.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它讲述海明威年轻时的生活。"
     },
     {
-      "def": "a man who works for or supports a particular organization, comes from a particular town, etc. （来自某处、支持某组织或为其工作的）人",
-      "ex": [
-        {
-          "s": "I learned that Freddy did several jobs after his   52    from high school and remained the same  53    person I met forty years before .Once, while working overnight at a store, he let a homeless man   54   in his truck .",
-          "src": "2017重庆卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我了解到弗雷迪高中____后做过几份工作，并且仍然是我四十年前认识的那个____53____的人。有一次，他在商店通宵工作时，让一个无家可归的人____54____在他的卡车里。"
-        },
-        {
-          "s": "After years of observing human nature, I have decided that two qualities make the difference between men of great achievement and men of average performance curioscy and discontent.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "经过多年对人性的观察，我已认定有两种品质决定了成就卓著者与表现平庸者之间的差别：好奇与不满。"
-        },
-        {
-          "s": "What is the Town Guide according to the man?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据这位男士的说法，城镇指南是什么？"
-        },
-        {
-          "s": "What is the Town Guide according to the man?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据这位男士的说法，城镇指南是什么？"
-        }
-      ]
+     "s": "Perhaps most   47  , however, was the fact that this man spent hours studying every day after hard physical labor.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "然而，也许最____47____的是，这个人在繁重体力劳作后每天还花数小时学习。"
     },
     {
-      "def": "a soldier or a male worker who obeys the instructions of a person of higher rank 士兵；（男性）工人",
-      "ex": [
-        {
-          "s": "They first found 10 overweight and inactive but otherwise healthy young men, whose lifestyles are, for better and worse, representative of those of most of us.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们首先找到了10名超重且不爱运动但其他方面健康的年轻男性，他们的生活方式无论好坏都代表了我们大多数人的生活方式。"
-        },
-        {
-          "s": "These genes were much more active when the men had fasted before exercise than when they had breakfasted.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些基因在男性运动前禁食时比吃早餐时活跃得多。"
-        },
-        {
-          "s": "The stereotypes commonly associated with men, such as competitiveness and dominance, are more valued than those associated with women.",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "通常与男性联系在一起的刻板印象，如竞争力和支配欲，比与女性联系在一起的更受重视。"
-        },
-        {
-          "s": "Most obviously, the men displayed lower blood sugar levels at the start of their workouts when they had skipped breakfast than when they had eaten.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最明显的是，这些男性在不吃早餐时开始锻炼的血糖水平比吃早餐时更低。"
-        },
-        {
-          "s": "Advantages of sporty woman over man",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "运动型女性相对于男性的优势"
-        }
-      ]
+     "s": "From the Australian side, we have only a wooden shield (盾) dropped by a man in flight after his first experience of gunshot.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从澳大利亚一方那里，我们只有一面木盾（盾），是一个人在第一次经历枪击后逃跑时丢下的。"
     },
     {
-      "def": "a man who comes to your house to do a job 上门服务的人",
-      "ex": [
-        {
-          "s": "She had been talking to her mother about the lives of homeless people   42   they first saw the homeless man.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她一直在和母亲谈论无家可归者的生活，____42____他们第一次看到那个无家可归的人。"
-        },
-        {
-          "s": "Years of experience in the industry - and failed attempts to use technology - have convinced him that the best way to check cattle is with a man on a horse.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "多年的行业经验——以及使用技术却失败的尝试——让他确信，检查牛群最好的方式是用一个骑在马上的人。"
-        },
-        {
-          "s": "Why did my friend use a negative word about such a nice man?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "为什么我的朋友对这么好的人用负面的词？"
-        },
-        {
-          "s": "A quiet man, he didn’t understand my world of school activities.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他是个安静的人，不理解我参加学校活动的那个世界。"
-        },
-        {
-          "s": "A tough man can tolerate suffering．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．坚韧的人能忍受苦难。"
-        },
-        {
-          "s": "Once, while working overnight at a store, he let a homeless man   54   in his truck.",
-          "src": "2017全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "有一次，他在一家商店上夜班时，让一个无家可归的人____54____在他的卡车里。"
-        },
-        {
-          "s": "It slows down a running man.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它让奔跑的人慢下来。"
-        },
-        {
-          "s": "A wise man can live without self﹣pity．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "B．智者能不带自怜地生活。"
-        }
-      ]
+     "s": "If you see a painting of a movement, like of a man pulling his arm away after being bitten by a dog, you feel like going through a similar experience.",
+     "src": "2023天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如果你看到一幅描绘运动的画作，比如一个人被狗咬后缩回手臂的画面，你会感觉自己仿佛经历了类似的体验。"
     },
     {
-      "def": "伙计；哥儿们",
-      "ex": []
+     "s": "You can tell a lot about a man by how he treats his dogs.",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "你可以通过一个人如何对待他的狗，看出他很多的为人。"
     },
     {
-      "def": "（不耐烦或生气时对男人的称呼）你这家伙",
-      "ex": [
-        {
-          "s": "（2）Why did the author refuse the help from the man in the house？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）为什么作者拒绝了房子里那个男人的帮助？"
-        },
-        {
-          "s": "A man should try to satisfy people around him．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "C．一个人应该努力满足周围人的期望。"
-        },
-        {
-          "s": "About 100 of these stayed rich men for the rest of their lives.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "其中大约100人余生都保持着富人的身份。"
-        },
-        {
-          "s": "To frame his story, Klein creates the character of Ned, a fictional witness to the progress brought about by the steams and electric revolutions in America during one man's lifetime.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为了构建他的故事，Klein创造了Ned这个角色，一个见证美国在一个人的有生之年因蒸汽和电力革命而取得进展的虚构人物。"
-        },
-        {
-          "s": "Teresa    56    a photo of the chance meeting on a social networking website    57    by the touching words: “What a    58    this young man was to our family!",
-          "src": "2018全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "特蕾莎把这次偶遇的照片___56___到社交网站，___57___感人的文字：“这年轻人对我们家是多么大的___58___！"
-        },
-        {
-          "s": "The man’s daughter.",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "那个男人的女儿。"
-        },
-        {
-          "s": "What does the man say about the restaurant?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位男士如何评价这家餐厅？"
-        },
-        {
-          "s": "What does the man say about the restaurant?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位男士如何评价这家餐厅？"
-        }
-      ]
+     "s": "I never heard this man whisper a word about his own  20 .",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我从未听到这个人低声说过一句关于他自己20 的话。"
     },
     {
-      "def": "a husband or sexual partner 丈夫；性伴侣",
-      "ex": []
+     "s": "He seemed not to notice the man next to him.",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他似乎没有注意到旁边的那个人。"
     },
     {
-      "def": "a person who is strong and brave or has other qualities that some people think are particularly male 勇敢强壮的人；男子汉",
-      "ex": []
+     "s": "But we want to go beyond one man and explore the nature of genius itself.",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "但我们想超越某一个人，去探索天才本身的本质。"
     },
     {
-      "def": "a male servant 男仆",
-      "ex": []
+     "s": "How did the man feel about his performance today?",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个人对自己今天的表现感觉如何？"
     },
     {
-      "def": "one of the figures or objects that you play with in a game such as chess 棋子",
-      "ex": []
+     "s": "The wise old man told him to travel to the Li River～perhaps he could learn a little from the greatest artist in the world.",
+     "src": "2020全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "那位睿智的老人让他去漓江旅行——也许他能从业界最伟大的画家那里学到一点东西。"
+    },
+    {
+     "s": "And I have never known an average man who had both.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我也从未见过一个两者兼备的普通人。"
+    },
+    {
+     "s": "Reading Makes a Full Man",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D．阅读使人充实"
+    },
+    {
+     "s": "Linking arms with one of the instructors，I helped   51   the young man out of the water.",
+     "src": "2018全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我挽着一位教练的胳膊，帮忙把那个年轻人____51____拉出水面。"
+    },
+    {
+     "s": "What did the Ice Man do to reduce the effect of global warming?",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "\"冰人\"做了什么来减缓全球变暖的影响？"
+    },
+    {
+     "s": "Days later when the curtain was drawn, I saw this  31  old man for the first time.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "几天后当帘子拉开时，我第一次看到了这位31 老人。"
+    },
+    {
+     "s": "I have never known an outstanding man who lacked either.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我从未见过一个缺乏其中任何一项的杰出人物。"
+    },
+    {
+     "s": "A man should learn suitable ways to deal with life．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D．人应学会恰当的方式应对生活。"
+    },
+    {
+     "s": "A bit later, they spotted what they, too, assumed was a dog running alongside a man on a bike.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "过了一会儿，他们也看到了那个他们原以为是一只狗、正和骑车人并肩奔跑的东西。"
+    },
+    {
+     "s": "\"It is curious that no one has put together a history of both the steam and electric revolutions.\" writes Maury Klein in his book The Power Makers, Steam, Electricity, and the Men Invented Modem America.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "奇怪的是，竟没有人把蒸汽和电气两次革命的历史合在一起写，莫里·克莱因在《造电者：蒸汽、电力与发明现代美国的人》一书中写道。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a person, either male or female （不论性别的）人",
+   "ex": []
+  },
+  {
+   "def": "a man who comes from the place mentioned or whose job or interest is connected with the thing mentioned 构成复合词",
+   "ex": [
     {
-      "en": "man want",
-      "cn": "人想要",
-      "type": "名词短语",
-      "count": 11
+     "s": "What is the man going to do?",
+     "src": "2024卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "男士打算做什么？"
     },
     {
-      "en": "young man",
-      "cn": "年轻人",
-      "type": "名词短语",
-      "count": 5
+     "s": "Who is the man?",
+     "src": "2024全国甲卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这位男士是谁？"
     },
     {
-      "en": "homeless man",
-      "cn": "无家可归的人",
-      "type": "名词短语",
-      "count": 3
+     "s": "When will the man see Bob?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "男士什么时候见鲍勃？"
     },
     {
-      "en": "old man",
-      "cn": "老人",
-      "type": "名词短语",
-      "count": 3
+     "s": "What is the man doing?",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "What is difficult for the man to deal with?",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士觉得什么难以应对？"
+    },
+    {
+     "s": "What is the man doing?",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "What is difficult for the man to deal with?",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士觉得什么难以应对？"
+    },
+    {
+     "s": "What do the man and the woman both want to do?",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士和女士都想做什么？"
+    },
+    {
+     "s": "How much did the man spend on the city passes?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士在城市通票上花了多少钱？"
+    },
+    {
+     "s": "What is the man doing?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "How much did the man spend on the city passes?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士在城市通票上花了多少钱？"
+    },
+    {
+     "s": "What is the man doing?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "The man must have heard my  25  the night before.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士一定听到了我25 前一天晚上的声音。"
+    },
+    {
+     "s": "What is the man doing?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "What is the man doing?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "What did the man say helped him overcome the problem?",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他说什么来帮助他克服问题？"
+    },
+    {
+     "s": "How can the man improve his article?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士如何改进他的文章？"
+    },
+    {
+     "s": "Which function is the man most interested in?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士最感兴趣的是哪个功能？"
+    },
+    {
+     "s": "How much would the man pay for the second camera?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士会为第二台相机付多少钱？"
+    },
+    {
+     "s": "How can the man improve his article?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士如何改进他的文章？"
+    },
+    {
+     "s": "Which function is the man most interested in?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士最感兴趣的是哪个功能？"
+    },
+    {
+     "s": "How much would the man pay for the second camera?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士会为第二台相机付多少钱？"
+    },
+    {
+     "s": "How can the man improve his article?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士如何改进他的文章？"
+    },
+    {
+     "s": "Which function is the man most interested in?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士最感兴趣的是哪个功能？"
+    },
+    {
+     "s": "How much would the man pay for the second camera?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士会为第二台相机付多少钱？"
+    },
+    {
+     "s": "What will the man do next?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士接下来要做什么？"
+    },
+    {
+     "s": "When did the man see the film?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士什么时候看了这部电影？"
+    },
+    {
+     "s": "What is the man going to do?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士打算做什么？"
+    },
+    {
+     "s": "What is the man doing?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士在做什么？"
+    },
+    {
+     "s": "How much will the man pay?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士要付多少钱？"
+    },
+    {
+     "s": "How did the man spend his weekend?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士是如何度过周末的？"
+    },
+    {
+     "s": "When will the man meet Mr Stone this afternoon?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士今天下午什么时候会见斯通先生？"
+    },
+    {
+     "s": "When will the man hear from the woman?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士什么时候会收到女士的消息？"
+    },
+    {
+     "s": "What is the man doing for the woman?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那位男士在为那位女士做什么？"
+    },
+    {
+     "s": "The man thinks Professor Smith explained the physics problem very clearly.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你会被问到几个问题，文章和对话将读两遍，但问题只读一遍。"
+    },
+    {
+     "s": "The man can't understand the physics problem.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这个男人无法理解这道物理题。"
+    },
+    {
+     "s": "What is the man going to do?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "男士打算做什么？"
+    },
+    {
+     "s": "What is the man looking for?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这个男士在找什么？"
+    },
+    {
+     "s": "What is the man going to do?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "男士打算做什么？"
+    },
+    {
+     "s": "Which club will the man join?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位男士会加入哪个俱乐部？"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a man who likes or who does the thing mentioned （喜欢或做某事的）人",
+   "ex": [
+    {
+     "s": "They pursued and arrested the man.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他们追捕并逮捕了那个人。"
+    },
+    {
+     "s": "The man’s words sounded pretty convincing.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "所有营员需自带午餐和零食。"
+    },
+    {
+     "s": "What does the man want to do?",
+     "src": "2024卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "男士想做什么？"
+    },
+    {
+     "s": "What does the woman ask the man to do?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "女士让男士做什么？"
+    },
+    {
+     "s": "Why does the man apologize?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "男士为什么道歉？"
+    },
+    {
+     "s": "What does the man want to do on the weekend?",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士周末想做什么？"
+    },
+    {
+     "s": "What position does the man apply for?",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士申请的是什么职位？"
+    },
+    {
+     "s": "Which aspect of the company appeals to the man?",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "公司的哪个方面吸引了这位男士？"
+    },
+    {
+     "s": "What does the man want to do on the weekend?",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士周末想做什么？"
+    },
+    {
+     "s": "What position does the man apply for?",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这位男士申请的是什么职位？"
+    },
+    {
+     "s": "Which aspect of the company appeals to the man?",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "公司的哪个方面吸引了这位男士？"
+    },
+    {
+     "s": "Why does the man make the phone call?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士为什么打电话？"
+    },
+    {
+     "s": "What does the man probably want to do?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士最可能想做什么？"
+    },
+    {
+     "s": "6 Why does the woman come to the man?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "6 这位女士为什么来找这位男士？"
+    },
+    {
+     "s": "The man’s wife.",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "男士的妻子。"
+    },
+    {
+     "s": "The man’s sister.",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "男士的妹妹。"
+    },
+    {
+     "s": "What does the man want to do?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "男士想做什么？"
+    },
+    {
+     "s": "Why does the man suggest going to the park?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士为什么建议去公园？"
+    },
+    {
+     "s": "Where is the man’s table?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "男士的桌子在哪里？"
+    },
+    {
+     "s": "What does the man want to do before Friday?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士想在周五之前做什么？"
+    },
+    {
+     "s": "What does the man suggest the woman do?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "男士建议女士做什么。"
+    },
+    {
+     "s": "Why does the man make the phone call?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士为什么打电话？"
+    },
+    {
+     "s": "What does the man probably want to do?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位男士最可能想做什么？"
+    },
+    {
+     "s": "Why does the woman come to the man?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这位女士为什么来找这位男士？"
+    },
+    {
+     "s": "As I was wheeled out of the room, I said my final goodbye to the old man.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当我被推出房间时，我向这位老人做了最后的告别。"
+    },
+    {
+     "s": "It drinks water 30 times faster than man.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它喝水的速度比人快30倍。"
+    },
+    {
+     "s": "Which tour does the man seem to be interested in?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "那位男士似乎对哪个旅游项目感兴趣？"
+    },
+    {
+     "s": "8 What does the man advise Mrs White to do?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "8 男士建议怀特太太做什么？"
+    },
+    {
+     "s": "What is the man?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "那个男士是什么职业？"
+    },
+    {
+     "s": "What does the man advise MrsWhite to do?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "男士建议怀特太太做什么？"
+    },
+    {
+     "s": "What is the man?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "丹尼尔为什么提到他在戏剧中的表演？"
+    },
+    {
+     "s": "What is the woman recommending to the man?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位女士在向男士推荐什么？"
+    },
+    {
+     "s": "What is the woman recommending to the man?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位女士在向男士推荐什么？"
+    },
+    {
+     "s": "What does the man do?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士做什么？"
+    },
+    {
+     "s": "What kind of camera does the man want?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士想要什么样的相机？"
+    },
+    {
+     "s": "The man’s pet.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士的宠物。"
+    },
+    {
+     "s": "What does the man do?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士做什么？"
+    },
+    {
+     "s": "What kind of camera does the man want?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士想要什么样的相机？"
+    },
+    {
+     "s": "The man’s pet.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士的宠物。"
+    },
+    {
+     "s": "What does the man do?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士做什么？"
+    },
+    {
+     "s": "What kind of camera does the man want?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士想要什么样的相机？"
+    },
+    {
+     "s": "What does the man ask the woman to do at the end of the conversation?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在对话结束时男士请女士做什么？"
+    },
+    {
+     "s": "How does the man sound?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士听起来怎么样？"
+    },
+    {
+     "s": "What is the woman recommending to the man?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位女士在向男士推荐什么？"
+    },
+    {
+     "s": "What does the man tell Jane to do?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士让简做什么？"
+    },
+    {
+     "s": "What does the man want the woman to do?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士想让那位女士做什么？"
+    },
+    {
+     "s": "The man’s home.",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士的家。"
+    },
+    {
+     "s": "What will the woman do for the man?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位女士将为男士做什么？"
+    },
+    {
+     "s": "Why does the man want to see Mr Stone?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位男士为什么要见斯通先生？"
+    },
+    {
+     "s": "disability cannot stop a man's pursuit of success",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D. 残疾无法阻挡一个人对成功的追求。"
+    },
+    {
+     "s": "What is the man?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那个男士是什么职业？"
+    },
+    {
+     "s": "Why does the woman meet the man?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那位女士为什么见这位男士？"
+    },
+    {
+     "s": "What does the man say about the kitchen?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "那位男士关于厨房说了什么？"
+    },
+    {
+     "s": "She knew more about art than the man．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "C．她比男士更懂艺术。"
+    },
+    {
+     "s": "“Man, that's a big dog!” he thought.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“天哪，那是条好大的狗！”他想。"
+    },
+    {
+     "s": "Why does the man sound surprised?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么这位男士听起来很惊讶？"
+    },
+    {
+     "s": "Why does the woman call the man?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "2．为什么女士给这位男士打电话？"
+    },
+    {
+     "s": "How does the man feel?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "5 ．这位男士感觉怎么样？"
+    },
+    {
+     "s": "Chewang Norphel lives in a mountainous region in India, where he is known as the Ice Man.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "丘旺·诺普尔生活在印度的一个山区，他在那里被称为\"冰人\"。"
+    },
+    {
+     "s": "What does the man want to cut out of paper?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位男士想剪纸做什么？"
+    }
+   ]
+  },
+  {
+   "def": "a man who works for or supports a particular organization, comes from a particular town, etc. （来自某处、支持某组织或为其工作的）人",
+   "ex": [
+    {
+     "s": "I learned that Freddy did several jobs after his   52    from high school and remained the same  53    person I met forty years before .Once, while working overnight at a store, he let a homeless man   54   in his truck .",
+     "src": "2017重庆卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我了解到弗雷迪高中____后做过几份工作，并且仍然是我四十年前认识的那个____53____的人。有一次，他在商店通宵工作时，让一个无家可归的人____54____在他的卡车里。"
+    },
+    {
+     "s": "After years of observing human nature, I have decided that two qualities make the difference between men of great achievement and men of average performance curioscy and discontent.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "经过多年对人性的观察，我已认定有两种品质决定了成就卓著者与表现平庸者之间的差别：好奇与不满。"
+    },
+    {
+     "s": "What is the Town Guide according to the man?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据这位男士的说法，城镇指南是什么？"
+    },
+    {
+     "s": "What is the Town Guide according to the man?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据这位男士的说法，城镇指南是什么？"
+    }
+   ]
+  },
+  {
+   "def": "a soldier or a male worker who obeys the instructions of a person of higher rank 士兵；（男性）工人",
+   "ex": [
+    {
+     "s": "They first found 10 overweight and inactive but otherwise healthy young men, whose lifestyles are, for better and worse, representative of those of most of us.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们首先找到了10名超重且不爱运动但其他方面健康的年轻男性，他们的生活方式无论好坏都代表了我们大多数人的生活方式。"
+    },
+    {
+     "s": "These genes were much more active when the men had fasted before exercise than when they had breakfasted.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些基因在男性运动前禁食时比吃早餐时活跃得多。"
+    },
+    {
+     "s": "The stereotypes commonly associated with men, such as competitiveness and dominance, are more valued than those associated with women.",
+     "src": "2025浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "通常与男性联系在一起的刻板印象，如竞争力和支配欲，比与女性联系在一起的更受重视。"
+    },
+    {
+     "s": "Most obviously, the men displayed lower blood sugar levels at the start of their workouts when they had skipped breakfast than when they had eaten.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最明显的是，这些男性在不吃早餐时开始锻炼的血糖水平比吃早餐时更低。"
+    },
+    {
+     "s": "Advantages of sporty woman over man",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "运动型女性相对于男性的优势"
+    }
+   ]
+  },
+  {
+   "def": "a man who comes to your house to do a job 上门服务的人",
+   "ex": [
+    {
+     "s": "She had been talking to her mother about the lives of homeless people   42   they first saw the homeless man.",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她一直在和母亲谈论无家可归者的生活，____42____他们第一次看到那个无家可归的人。"
+    },
+    {
+     "s": "Years of experience in the industry - and failed attempts to use technology - have convinced him that the best way to check cattle is with a man on a horse.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "多年的行业经验——以及使用技术却失败的尝试——让他确信，检查牛群最好的方式是用一个骑在马上的人。"
+    },
+    {
+     "s": "Why did my friend use a negative word about such a nice man?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "为什么我的朋友对这么好的人用负面的词？"
+    },
+    {
+     "s": "A quiet man, he didn’t understand my world of school activities.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他是个安静的人，不理解我参加学校活动的那个世界。"
+    },
+    {
+     "s": "A tough man can tolerate suffering．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "A．坚韧的人能忍受苦难。"
+    },
+    {
+     "s": "Once, while working overnight at a store, he let a homeless man   54   in his truck.",
+     "src": "2017全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "有一次，他在一家商店上夜班时，让一个无家可归的人____54____在他的卡车里。"
+    },
+    {
+     "s": "It slows down a running man.",
+     "src": "2020天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它让奔跑的人慢下来。"
+    },
+    {
+     "s": "A wise man can live without self﹣pity．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "B．智者能不带自怜地生活。"
+    }
+   ]
+  },
+  {
+   "def": "伙计；哥儿们",
+   "ex": []
+  },
+  {
+   "def": "（不耐烦或生气时对男人的称呼）你这家伙",
+   "ex": [
+    {
+     "s": "（2）Why did the author refuse the help from the man in the house？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）为什么作者拒绝了房子里那个男人的帮助？"
+    },
+    {
+     "s": "A man should try to satisfy people around him．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "C．一个人应该努力满足周围人的期望。"
+    },
+    {
+     "s": "About 100 of these stayed rich men for the rest of their lives.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "其中大约100人余生都保持着富人的身份。"
+    },
+    {
+     "s": "To frame his story, Klein creates the character of Ned, a fictional witness to the progress brought about by the steams and electric revolutions in America during one man's lifetime.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为了构建他的故事，Klein创造了Ned这个角色，一个见证美国在一个人的有生之年因蒸汽和电力革命而取得进展的虚构人物。"
+    },
+    {
+     "s": "Teresa    56    a photo of the chance meeting on a social networking website    57    by the touching words: “What a    58    this young man was to our family!",
+     "src": "2018全国III卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "特蕾莎把这次偶遇的照片___56___到社交网站，___57___感人的文字：“这年轻人对我们家是多么大的___58___！"
+    },
+    {
+     "s": "The man’s daughter.",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "那个男人的女儿。"
+    },
+    {
+     "s": "What does the man say about the restaurant?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位男士如何评价这家餐厅？"
+    },
+    {
+     "s": "What does the man say about the restaurant?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位男士如何评价这家餐厅？"
+    }
+   ]
+  },
+  {
+   "def": "a husband or sexual partner 丈夫；性伴侣",
+   "ex": []
+  },
+  {
+   "def": "a person who is strong and brave or has other qualities that some people think are particularly male 勇敢强壮的人；男子汉",
+   "ex": []
+  },
+  {
+   "def": "a male servant 男仆",
+   "ex": []
+  },
+  {
+   "def": "one of the figures or objects that you play with in a game such as chess 棋子",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "man want",
+   "cn": "人想要",
+   "type": "名词短语",
+   "count": 11
+  },
+  {
+   "en": "young man",
+   "cn": "年轻的man",
+   "type": "名词短语",
+   "count": 5
+  },
+  {
+   "en": "homeless man",
+   "cn": "无家可归的人",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "old man",
+   "cn": "老人",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
