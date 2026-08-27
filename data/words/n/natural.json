@@ -1,448 +1,448 @@
 {
-  "meta": {
-    "ph": "ˈnætʃrəl; NAmE ˈnætʃrəl",
-    "pos": "adjective",
-    "stars": "★"
+ "meta": {
+  "ph": "ˈnætʃrəl; NAmE ˈnætʃrəl",
+  "pos": "adjective",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "existing in nature; not made or caused by humans 自然的；天然的",
+   "ex": [
+    {
+     "s": "This nice Cantonese restaurant in Columbia Heights quickly became a destination for chef Henji Cheung’s Hong Kong-style cooking and co-owner Sarah Thompson’s natural wine list that earned her a Michelin nod.",
+     "src": "2026新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这家位于Columbia Heights的精致粤菜馆，很快成为主厨Henji Cheung的港式料理以及联合老板Sarah Thompson获得米其林认可的天然葡萄酒单的打卡地。"
+    },
+    {
+     "s": "Its natural environment.",
+     "src": "2026新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "那里的自然环境。"
+    },
+    {
+     "s": "Scientists at Salk Institute are making use of the natural capacity of plants to absorb carbon dioxide by enhancing their root systems.",
+     "src": "2026浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "萨尔克研究所的科学家正在利用植物吸收二氧化碳的自然能力，通过增强其根系来实现这一目标。"
+    },
+    {
+     "s": "So, as climate change and biodiversity loss threaten natural scents, many people may not even notice.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "无论我们是否关注世界的\"气味景观\"，热浪和污染正在使其发生变化。"
+    },
+    {
+     "s": "Loss of smells can lead to natural disasters.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "气味景观的损害可以被人工修复。"
+    },
+    {
+     "s": "Some might assume morality and happiness naturally go together.",
+     "src": "2026北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "即使是最专注最投入的听众最终也会感到厌倦。"
+    },
+    {
+     "s": "Allowing kids to eat what they want also exposes them to the natural consequences of their decisions.",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "允许孩子吃他们想吃的东西，也会让他们尝到自己所作决定带来的自然结果。"
+    },
+    {
+     "s": "Help restore and protect Marin's natural areas from the Marin Headlands to Bolinas Ridge.",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "帮助修复并保护从马林海角到博利纳斯岭的马林自然区域。"
+    },
+    {
+     "s": "Walk 1 — The Natural World",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "路线1——自然世界"
+    },
+    {
+     "s": "The Natural World.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "自然世界。"
+    },
+    {
+     "s": "The natural beauty of the West",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "西部的自然之美。"
+    },
+    {
+     "s": "“I wanted to come up with a healthy, natural way for people to drink when on the go.",
+     "src": "2022北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我想出一种健康、自然的方式，让人们在路上也能喝东西。"
+    },
+    {
+     "s": "In my view, science is not simple, and neither is the natural world.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在我看来，科学并不简单，自然世界也不简单。"
+    },
+    {
+     "s": "Our efforts to understand and explain the natural world are just that: efforts.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我们理解和解释自然界的努力仅仅是努力而已。"
+    },
+    {
+     "s": "Native Americans had taken care of these precious natural resources wisely.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "美洲原住民一直明智地照料着这些珍贵的自然资源。"
+    },
+    {
+     "s": "Hunters willingly pay the stamp price to ensure the survival of our natural resources.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "猎人乐意支付鸭票的价格，以确保我们的自然资源得以存续。"
+    },
+    {
+     "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "即便这种计时方式在细节上很新颖，早期的农业社会也将时间与自然现象联系起来。例如在前古典时期的希腊，人们会通过把日期向前或向后调整来“修正”官方历法，以反映季节的变化。与环境的时间联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统或许也能唤起人们的环保意识。"
+    },
+    {
+     "s": "In her natural state, the actor weighed 105 pounds.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在自然状态下，这位演员重105磅。"
+    },
+    {
+     "s": "“it seemed like the perfect chance for natural selection to act on a population,\" said Dr Ilardo.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“这似乎是自然选择作用于一个种群的绝佳机会，”伊拉尔多博士说。"
+    },
+    {
+     "s": "achieve effects of natural lighting",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "实现自然照明效果"
+    },
+    {
+     "s": "Back when science—then called “the new philosophy”—took shape, academics looked to craftsmen for help in understanding the natural world.",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "早在科学——当时被称为『新哲学』——成形之时，学者们就向工匠寻求帮助，以理解自然世界。"
+    },
+    {
+     "s": "It allows one to work in the natural environment.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "允许在自然环境中工作。"
+    },
+    {
+     "s": "Hearing these stories, I’m   44   about the place — other destinations are described as “purer” natural experiences.",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "听到这些故事，我对这个地方感到____44____——其他地方被描述为“更纯粹”的自然体验。"
+    },
+    {
+     "s": "Consequently, she succeeded in making a kind of candy only using natural sweeteners, which can reduce oral bacteria.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "结果，她成功做出一种只用天然甜味剂、能减少口腔细菌的糖果。"
+    },
+    {
+     "s": "Dawson did not have any of the natural conveniences of cities like London or Paris.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "道森没有像伦敦或巴黎那样的自然便利设施。"
+    },
+    {
+     "s": "Curiosity gave us all a natural awareness.",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "好奇心给了我们所有人一种天然的觉察。"
+    },
+    {
+     "s": "The natural beauty isn't attractive to them．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．自然之美对他们没有吸引力。"
+    },
+    {
+     "s": "So while some of the world's first coins were made from a naturally occurring hybrid of gold and silver called electrum, objects other than coins have served as currency, including beads, ivory, livestock, and cowrie shells.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "因此，尽管世界上最早的一些硬币是由黄金和白银的天然混合物——金银合金制成的，但除硬币外的其他物品也曾被用作货币，包括珠子、象牙、牲畜和贝壳。"
+    },
+    {
+     "s": "The perfumes attract natural enemies.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "香味吸引了天敌。"
+    },
+    {
+     "s": "predict natural disasters           B. protect themselves against insects",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "预测自然灾害           B. 保护自己免受昆虫侵害"
+    },
+    {
+     "s": "The perfumes attract natural enemies.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "香味吸引了天敌。"
+    },
+    {
+     "s": "predict natural disasters  B.protect themselves against insects",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "预测自然灾害  B. 抵御昆虫保护自己"
+    },
+    {
+     "s": "Walkers are sure to learn lots about the habitats and natural world of the Blackstairs.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "徒步者一定会了解到很多关于布莱克斯塔斯山脉的栖息地和自然世界。"
+    },
+    {
+     "s": "In many of the places where the butterfly can be found, people are destroying the natural environment.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "在许多能发现这种蝴蝶的地方，人们正在破坏自然环境。"
+    },
+    {
+     "s": "The more we know about this lovely creature, the greater the chance it will survive and keep its place in the natural world for a long time to come.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "我们对这种可爱的生物了解得越多，它就越有可能生存下来，并在未来很长一段时间内保持其在自然界的地位。"
+    },
+    {
+     "s": "Unfortunately, you must carry the necessary equipment with you, since it’s all but impossible to find natural substitutes.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "遗憾的是，你必须随身携带必要的设备，因为几乎不可能找到天然的替代品。"
+    },
+    {
+     "s": "It takes a lot of thought to look this natural.",
+     "src": "2025浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "要达到这种自然的外观，需要大量心思。"
+    },
+    {
+     "s": "People settle in these places because they are easy to get to and naturally suited to communications and trade.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人们在这些地方定居，因为它们交通便利，且天然适合通信和贸易。"
+    },
+    {
+     "s": "That is a good example of why — no matter how complex our models are or may one day be — we need direct observation of the natural world.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这是一个很好的例子，说明为什么——无论我们的模型现在或将来有多复杂——我们都需要对自然世界进行直接观察。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "normal; as you would expect 正常的；自然的；意料之中的",
+   "ex": [
     {
-      "def": "existing in nature; not made or caused by humans 自然的；天然的",
-      "ex": [
-        {
-          "s": "This nice Cantonese restaurant in Columbia Heights quickly became a destination for chef Henji Cheung’s Hong Kong-style cooking and co-owner Sarah Thompson’s natural wine list that earned her a Michelin nod.",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这家位于Columbia Heights的精致粤菜馆，很快成为主厨Henji Cheung的港式料理以及联合老板Sarah Thompson获得米其林认可的天然葡萄酒单的打卡地。"
-        },
-        {
-          "s": "Its natural environment.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "那里的自然环境。"
-        },
-        {
-          "s": "Scientists at Salk Institute are making use of the natural capacity of plants to absorb carbon dioxide by enhancing their root systems.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "萨尔克研究所的科学家正在利用植物吸收二氧化碳的自然能力，通过增强其根系来实现这一目标。"
-        },
-        {
-          "s": "So, as climate change and biodiversity loss threaten natural scents, many people may not even notice.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "无论我们是否关注世界的\"气味景观\"，热浪和污染正在使其发生变化。"
-        },
-        {
-          "s": "Loss of smells can lead to natural disasters.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "气味景观的损害可以被人工修复。"
-        },
-        {
-          "s": "Some might assume morality and happiness naturally go together.",
-          "src": "2026北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "即使是最专注最投入的听众最终也会感到厌倦。"
-        },
-        {
-          "s": "Allowing kids to eat what they want also exposes them to the natural consequences of their decisions.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "允许孩子吃他们想吃的东西，也会让他们尝到自己所作决定带来的自然结果。"
-        },
-        {
-          "s": "Help restore and protect Marin's natural areas from the Marin Headlands to Bolinas Ridge.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "帮助修复并保护从马林海角到博利纳斯岭的马林自然区域。"
-        },
-        {
-          "s": "Walk 1 — The Natural World",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "路线1——自然世界"
-        },
-        {
-          "s": "The Natural World.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "自然世界。"
-        },
-        {
-          "s": "The natural beauty of the West",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "西部的自然之美。"
-        },
-        {
-          "s": "“I wanted to come up with a healthy, natural way for people to drink when on the go.",
-          "src": "2022北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我想出一种健康、自然的方式，让人们在路上也能喝东西。"
-        },
-        {
-          "s": "In my view, science is not simple, and neither is the natural world.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在我看来，科学并不简单，自然世界也不简单。"
-        },
-        {
-          "s": "Our efforts to understand and explain the natural world are just that: efforts.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们理解和解释自然界的努力仅仅是努力而已。"
-        },
-        {
-          "s": "Native Americans had taken care of these precious natural resources wisely.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "美洲原住民一直明智地照料着这些珍贵的自然资源。"
-        },
-        {
-          "s": "Hunters willingly pay the stamp price to ensure the survival of our natural resources.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "猎人乐意支付鸭票的价格，以确保我们的自然资源得以存续。"
-        },
-        {
-          "s": "Even if this method of timekeeping is novel in its particulars，early agricultural societies also connected time to natural phenomena．In pre-Classical Greece，for instance，people“corrected”official calendars by shifting dates forward or backward to reflect the change of season．Temporal connection to the environment was vital to their survival．Likewise，river time and other timekeeping systems we're developing may encourage environmental awareness．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "即便这种计时方式在细节上很新颖，早期的农业社会也将时间与自然现象联系起来。例如在前古典时期的希腊，人们会通过把日期向前或向后调整来“修正”官方历法，以反映季节的变化。与环境的时间联系对他们的生存至关重要。同样，我们正在开发的河流时间和其他计时系统或许也能唤起人们的环保意识。"
-        },
-        {
-          "s": "In her natural state, the actor weighed 105 pounds.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在自然状态下，这位演员重105磅。"
-        },
-        {
-          "s": "“it seemed like the perfect chance for natural selection to act on a population,\" said Dr Ilardo.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“这似乎是自然选择作用于一个种群的绝佳机会，”伊拉尔多博士说。"
-        },
-        {
-          "s": "achieve effects of natural lighting",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "实现自然照明效果"
-        },
-        {
-          "s": "Back when science—then called “the new philosophy”—took shape, academics looked to craftsmen for help in understanding the natural world.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "早在科学——当时被称为『新哲学』——成形之时，学者们就向工匠寻求帮助，以理解自然世界。"
-        },
-        {
-          "s": "It allows one to work in the natural environment.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "允许在自然环境中工作。"
-        },
-        {
-          "s": "Hearing these stories, I’m   44   about the place — other destinations are described as “purer” natural experiences.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "听到这些故事，我对这个地方感到____44____——其他地方被描述为“更纯粹”的自然体验。"
-        },
-        {
-          "s": "Consequently, she succeeded in making a kind of candy only using natural sweeteners, which can reduce oral bacteria.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "结果，她成功做出一种只用天然甜味剂、能减少口腔细菌的糖果。"
-        },
-        {
-          "s": "Dawson did not have any of the natural conveniences of cities like London or Paris.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "道森没有像伦敦或巴黎那样的自然便利设施。"
-        },
-        {
-          "s": "Curiosity gave us all a natural awareness.",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "好奇心给了我们所有人一种天然的觉察。"
-        },
-        {
-          "s": "The natural beauty isn't attractive to them．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．自然之美对他们没有吸引力。"
-        },
-        {
-          "s": "So while some of the world's first coins were made from a naturally occurring hybrid of gold and silver called electrum, objects other than coins have served as currency, including beads, ivory, livestock, and cowrie shells.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "因此，尽管世界上最早的一些硬币是由黄金和白银的天然混合物——金银合金制成的，但除硬币外的其他物品也曾被用作货币，包括珠子、象牙、牲畜和贝壳。"
-        },
-        {
-          "s": "The perfumes attract natural enemies.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "香味吸引了天敌。"
-        },
-        {
-          "s": "predict natural disasters           B. protect themselves against insects",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "预测自然灾害           B. 保护自己免受昆虫侵害"
-        },
-        {
-          "s": "The perfumes attract natural enemies.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "香味吸引了天敌。"
-        },
-        {
-          "s": "predict natural disasters  B.protect themselves against insects",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "预测自然灾害  B. 抵御昆虫保护自己"
-        },
-        {
-          "s": "Walkers are sure to learn lots about the habitats and natural world of the Blackstairs.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "徒步者一定会了解到很多关于布莱克斯塔斯山脉的栖息地和自然世界。"
-        },
-        {
-          "s": "In many of the places where the butterfly can be found, people are destroying the natural environment.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "在许多能发现这种蝴蝶的地方，人们正在破坏自然环境。"
-        },
-        {
-          "s": "The more we know about this lovely creature, the greater the chance it will survive and keep its place in the natural world for a long time to come.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "我们对这种可爱的生物了解得越多，它就越有可能生存下来，并在未来很长一段时间内保持其在自然界的地位。"
-        },
-        {
-          "s": "Unfortunately, you must carry the necessary equipment with you, since it’s all but impossible to find natural substitutes.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "遗憾的是，你必须随身携带必要的设备，因为几乎不可能找到天然的替代品。"
-        },
-        {
-          "s": "It takes a lot of thought to look this natural.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "要达到这种自然的外观，需要大量心思。"
-        },
-        {
-          "s": "People settle in these places because they are easy to get to and naturally suited to communications and trade.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们在这些地方定居，因为它们交通便利，且天然适合通信和贸易。"
-        },
-        {
-          "s": "That is a good example of why — no matter how complex our models are or may one day be — we need direct observation of the natural world.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这是一个很好的例子，说明为什么——无论我们的模型现在或将来有多复杂——我们都需要对自然世界进行直接观察。"
-        }
-      ]
+     "s": "The best way is to normalise mistakes as a natural part of learning.",
+     "src": "2026新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "最好的办法是把犯错正常化为学习中自然而然的一部分。"
     },
     {
-      "def": "normal; as you would expect 正常的；自然的；意料之中的",
-      "ex": [
-        {
-          "s": "The best way is to normalise mistakes as a natural part of learning.",
-          "src": "2026新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "最好的办法是把犯错正常化为学习中自然而然的一部分。"
-        },
-        {
-          "s": "You could apply to be a Stewardship Youth Ranger and work on local natural resource management projects for eight weeks this summer.",
-          "src": "2019全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "你可以申请成为“资源管理青年护林员”，今年夏天用八周时间参与当地的自然资源管理工作。"
-        },
-        {
-          "s": "Others say it’s only natural that newcomers learn the language of their host nation, seeing it as a condition to ensure they can contribute to society.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
-        }
-      ]
+     "s": "You could apply to be a Stewardship Youth Ranger and work on local natural resource management projects for eight weeks this summer.",
+     "src": "2019全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "你可以申请成为“资源管理青年护林员”，今年夏天用八周时间参与当地的自然资源管理工作。"
     },
     {
-      "def": "天生的；本能的；与生俱来的",
-      "ex": [
-        {
-          "s": "a has a natural talent for his job.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "a对他的工作有天生的才能。"
-        }
-      ]
-    },
-    {
-      "def": "having an ability that you were born with 天赋的；天生具有某种能力的",
-      "ex": [
-        {
-          "s": "Her natural gift for music.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她对音乐的天赋。"
-        },
-        {
-          "s": "Naturally, you would expect the addition of the errors to have increased unwanted confusion.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "类似的研究也被用来理解当我们欣赏令人印象深刻的雕塑、有吸引力的面孔、精彩的舞蹈等时产生的\"神经元烟花\"。"
-        }
-      ]
-    },
-    {
-      "def": "relaxed and not pretending to be sb/sth different 不拘束的；不做作的；自然的",
-      "ex": [
-        {
-          "s": "One of the best things about this job is that you can observe animals in their natural environment.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "这项工作的最好之处之一是，您可以在自然环境中观察动物。"
-        }
-      ]
-    },
-    {
-      "def": "related by blood 父母或其子女",
-      "ex": []
-    },
-    {
-      "def": "born to parents who are not married 儿女",
-      "ex": [
-        {
-          "s": "They pump out perfumes designed to attract different insects who are natural enemies to the attackers.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它们释放出专门设计用来吸引不同昆虫的气味，而这些昆虫正是攻击者的天敌。"
-        },
-        {
-          "s": "Some plants pump out smelly chemicals to keep insects away.But others do double duty .They pump out perfumes designed to attract different insects who are natural enemies to the attackers.Once they arrive,the tables are turned .The attacker who was lunching now becomes lunch.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"
-        }
-      ]
-    },
-    {
-      "def": "based on human reason alone 符合人的理性的；正常的；自然的",
-      "ex": []
-    },
-    {
-      "def": "本位音的，标有还原号的（书写符号为 ♮）",
-      "ex": []
-    },
-    {
-      "def": "a person who is very good at sth without having to learn how to do it, or who is perfectly suited for a particular job 有天赋的人；擅长做某事的人",
-      "ex": []
-    },
-    {
-      "def": "a normal musical note, not its sharp or flat form. The written symbol is (♮). 本位音，还原音，本位号（书写符号为 ♮）",
-      "ex": []
+     "s": "Others say it’s only natural that newcomers learn the language of their host nation, seeing it as a condition to ensure they can contribute to society.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "天生的；本能的；与生俱来的",
+   "ex": [
     {
-      "en": "natural world",
-      "cn": "自然世界",
-      "type": "名词短语",
-      "count": 8
-    },
-    {
-      "en": "the natural world",
-      "cn": "自然世界",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "natural enemies",
-      "cn": "天敌",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "natural environment",
-      "cn": "自然环境",
-      "type": "形容词短语",
-      "count": 4
-    },
-    {
-      "en": "natural enemy",
-      "cn": "自然敌人",
-      "type": "形容词短语",
-      "count": 4
-    },
-    {
-      "en": "natural disasters",
-      "cn": "自然灾害",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "natural disaster",
-      "cn": "自然灾难",
-      "type": "形容词短语",
-      "count": 3
-    },
-    {
-      "en": "natural resource",
-      "cn": "自然资源",
-      "type": "形容词短语",
-      "count": 3
-    },
-    {
-      "en": "natural beauty",
-      "cn": "自然美",
-      "type": "形容词短语",
-      "count": 2
+     "s": "a has a natural talent for his job.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "a对他的工作有天生的才能。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "having an ability that you were born with 天赋的；天生具有某种能力的",
+   "ex": [
+    {
+     "s": "Her natural gift for music.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她对音乐的天赋。"
+    },
+    {
+     "s": "Naturally, you would expect the addition of the errors to have increased unwanted confusion.",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "类似的研究也被用来理解当我们欣赏令人印象深刻的雕塑、有吸引力的面孔、精彩的舞蹈等时产生的\"神经元烟花\"。"
+    }
+   ]
+  },
+  {
+   "def": "relaxed and not pretending to be sb/sth different 不拘束的；不做作的；自然的",
+   "ex": [
+    {
+     "s": "One of the best things about this job is that you can observe animals in their natural environment.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "这项工作的最好之处之一是，您可以在自然环境中观察动物。"
+    }
+   ]
+  },
+  {
+   "def": "related by blood 父母或其子女",
+   "ex": []
+  },
+  {
+   "def": "born to parents who are not married 儿女",
+   "ex": [
+    {
+     "s": "They pump out perfumes designed to attract different insects who are natural enemies to the attackers.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它们释放出专门设计用来吸引不同昆虫的气味，而这些昆虫正是攻击者的天敌。"
+    },
+    {
+     "s": "Some plants pump out smelly chemicals to keep insects away.But others do double duty .They pump out perfumes designed to attract different insects who are natural enemies to the attackers.Once they arrive,the tables are turned .The attacker who was lunching now becomes lunch.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"
+    }
+   ]
+  },
+  {
+   "def": "based on human reason alone 符合人的理性的；正常的；自然的",
+   "ex": []
+  },
+  {
+   "def": "本位音的，标有还原号的（书写符号为 ♮）",
+   "ex": []
+  },
+  {
+   "def": "a person who is very good at sth without having to learn how to do it, or who is perfectly suited for a particular job 有天赋的人；擅长做某事的人",
+   "ex": []
+  },
+  {
+   "def": "a normal musical note, not its sharp or flat form. The written symbol is (♮). 本位音，还原音，本位号（书写符号为 ♮）",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "natural world",
+   "cn": "自然世界",
+   "type": "名词短语",
+   "count": 8
+  },
+  {
+   "en": "the natural world",
+   "cn": "自然世界",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "natural enemies",
+   "cn": "自然的enemies",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "natural environment",
+   "cn": "自然环境",
+   "type": "形容词短语",
+   "count": 4
+  },
+  {
+   "en": "natural enemy",
+   "cn": "自然敌人",
+   "type": "形容词短语",
+   "count": 4
+  },
+  {
+   "en": "natural disasters",
+   "cn": "自然灾害",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "natural disaster",
+   "cn": "自然灾难",
+   "type": "形容词短语",
+   "count": 3
+  },
+  {
+   "en": "natural resource",
+   "cn": "自然资源",
+   "type": "形容词短语",
+   "count": 3
+  },
+  {
+   "en": "natural beauty",
+   "cn": "自然美",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
