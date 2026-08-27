@@ -1,59 +1,52 @@
 {
-  "meta": {
-    "ph": "rɪˈpʌblɪk; NAmE rɪˈpʌblɪk",
-    "pos": "noun",
-    "stars": "★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "rɪˈpʌblɪk; NAmE rɪˈpʌblɪk",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "a country that is governed by a president and politicians elected by the people and where there is no king or queen 共和国；共和政体",
+   "ex": [
     {
-      "def": "a country that is governed by a president and politicians elected by the people and where there is no king or queen 共和国；共和政体",
-      "ex": [
-        {
-          "s": "I’m walking on a path in the forest in the Central African Republic.",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我走在中非共和国森林中的一条小径上。"
-        },
-        {
-          "s": "It has raised over ￡2 million for gorilla conservation and poverty reduction projects in Central Africa ·The Gorilla Organization works on gorilla conservation projects in Rwanda, Uganda and the Democratic Republic of Congo.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它为中非的大猩猩保护和扶贫项目筹集了超过200万英镑·大猩猩组织在中非的卢旺达、乌干达和刚果民主共和国开展大猩猩保护项目。"
-        },
-        {
-          "s": "Ebola was first identified in 1976 in a village near the Ebola River, in the Democratic Republic of the Congo.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "埃博拉病毒于1976年在刚果民主共和国埃博拉河附近的一个村庄首次被发现。"
-        },
-        {
-          "s": "After the People‘s Republic of China (PRC) was established, Yang was reburied with full military honours, in Tonghua, Jilin Province.",
-          "src": "外研社B6 U3",
-          "cat": "waiyan",
-          "t": "中华人民共和国成立后，杨靖宇在吉林省通化市以完整的军事荣誉礼仪重新安葬。"
-        },
-        {
-          "s": "In the Republic of Korea, some students have been taught English by teachers in the Philippines and other countries since 2011.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "在韩国，自2011年以来，一些学生一直由来自菲律宾和其他国家的老师教授英语。"
-        },
-        {
-          "s": "The new People’s Republic of China saw Dr Lin Qiaozhi playing a key role.",
-          "src": "人教B3 U2",
-          "cat": "renjiao",
-          "t": "在新中国，林巧稚医生发挥了关键作用。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "I’m walking on a path in the forest in the Central African Republic.",
+     "src": "2018全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我走在中非共和国森林中的一条小径上。"
+    },
     {
-      "en": "democratic republic",
-      "cn": "共和国",
-      "type": "名词短语",
-      "count": 2
+     "s": "It has raised over ￡2 million for gorilla conservation and poverty reduction projects in Central Africa ·The Gorilla Organization works on gorilla conservation projects in Rwanda, Uganda and the Democratic Republic of Congo.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "它为中非的大猩猩保护和扶贫项目筹集了超过200万英镑·大猩猩组织在中非的卢旺达、乌干达和刚果民主共和国开展大猩猩保护项目。"
+    },
+    {
+     "s": "Ebola was first identified in 1976 in a village near the Ebola River, in the Democratic Republic of the Congo.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "埃博拉病毒于1976年在刚果民主共和国埃博拉河附近的一个村庄首次被发现。"
+    },
+    {
+     "s": "After the People‘s Republic of China (PRC) was established, Yang was reburied with full military honours, in Tonghua, Jilin Province.",
+     "src": "外研社B6 U3",
+     "cat": "waiyan",
+     "t": "中华人民共和国成立后，杨靖宇在吉林省通化市以完整的军事荣誉礼仪重新安葬。"
+    },
+    {
+     "s": "In the Republic of Korea, some students have been taught English by teachers in the Philippines and other countries since 2011.",
+     "src": "人教B2 U5",
+     "cat": "renjiao",
+     "t": "在韩国，自2011年以来，一些学生一直由来自菲律宾和其他国家的老师教授英语。"
+    },
+    {
+     "s": "The new People’s Republic of China saw Dr Lin Qiaozhi playing a key role.",
+     "src": "人教B3 U2",
+     "cat": "renjiao",
+     "t": "在新中国，林巧稚医生发挥了关键作用。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
