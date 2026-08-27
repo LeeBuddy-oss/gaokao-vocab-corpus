@@ -1,614 +1,608 @@
 {
-  "meta": {
-    "ph": "luːz; NAmE luːz",
-    "pos": "verb",
-    "stars": ""
+ "meta": {
+  "ph": "luːz; NAmE luːz",
+  "pos": "verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to be unable to find sth/sb 遗失；丢失",
+   "ex": [
+    {
+     "s": "How did Terri avoid losing the deposit on the house she rented?",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "Terri是怎么避免她租房子的押金丢失的？"
+    },
+    {
+     "s": "One day, while driving near her home, she saw a dog wandering on the road, clearly lost.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一天，在她家附近开车时，她看到一只狗在路上游荡，显然迷路了。"
+    },
+    {
+     "s": "He had just lost his job.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他刚刚失业了。"
+    },
+    {
+     "s": "He who hesitates is lost．",
+     "src": "2021北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "犹豫不决的人会错失良机．"
+    },
+    {
+     "s": "He left after seven months, physically broken and having lost his mind.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "七个月后他离开了身体垮了精神也崩溃了。"
+    },
+    {
+     "s": "As the economy was in decline, some people in the town had lost their jobs.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于经济衰退，镇上的一些人已经失去了工作。"
+    },
+    {
+     "s": "As the economy was in decline, some people in the town had lost their jobs.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于经济衰退，镇上的一些人已经失去了工作。"
+    },
+    {
+     "s": "Call Lost Property on 13 16 17 during business hours for items lost on Queensland Rail services.",
+     "src": "2020全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如在昆士兰铁路服务中遗失物品，请在营业时间内拨打失物招领处电话13 16 17。"
+    },
+    {
+     "s": "At which station can you find the lost property office?",
+     "src": "2020全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你可以在哪个车站找到失物招领处？"
+    },
+    {
+     "s": "They lost to new technologies.",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们输给了新技术。"
+    },
+    {
+     "s": "She never wanted me to lose that  49  as grew older.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她从不想让我在长大的过程中失去那种49。"
+    },
+    {
+     "s": "Do not lose your card or lend it to others.",
+     "src": "2020天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "不要丢失你的卡或借给他人。"
+    },
+    {
+     "s": "If your card has been lost, a fee of £5 is charged for the production of a replacement card.",
+     "src": "2020天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果你的卡丢失，补发卡将收取5英镑费用。"
+    },
+    {
+     "s": "A local farmer told them the dog sounded like one   50   as lost in the local paper.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一位当地农夫告诉他们，这只狗听起来像是当地报纸上报道过____50____丢失的那只。"
+    },
+    {
+     "s": "I figured whoever lost the dog was probably just as    59   to it as I am to my dogs,” says Ehlers.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "埃勒斯说：“我想，不管是谁丢了这只狗，大概也会像我珍惜我的狗一样____59____它。”"
+    },
+    {
+     "s": "His effort to reunite families with lost medals began with a Christmas gift from his mother, a Purple Heart with the name Corrado A.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "他让家庭与丢失勋章重聚的努力，始于母亲送的一份圣诞礼物——一枚刻着科拉多·A之名的紫心勋章。"
+    },
+    {
+     "s": "Zac recently returned another lost medal to a family in Alabama.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "扎克最近把另一枚丢失的勋章归还给阿拉巴马州的一个家庭。"
+    },
+    {
+     "s": "A lost property office in Europe.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "欧洲的一个失物招领处。"
+    },
+    {
+     "s": "A lost property office in London.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "伦敦的一个失物招领处。"
+    },
+    {
+     "s": "A lost property office in Tokyo.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "东京的一个失物招领处。"
+    },
+    {
+     "s": "Almost all of the lost items were returned to their owners.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "几乎所有丢失的物品都归还给了它们的主人。"
+    },
+    {
+     "s": "Because they think their lost shoes are useless.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "因为他们找不到丢失的鞋子。"
+    },
+    {
+     "s": "Because they can't find their lost shoes.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "因为他们找不到丢失的鞋子。"
+    },
+    {
+     "s": "“I [had] lost enough sleep over this,” says David Cox, the company's Western region vice president — and that was before the hospital mentioned the tree's distinguished origin.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“我为此已经失眠够多了，”该公司西区副总裁David Cox说——而且那还是在医院提到这棵树显赫的来历之前。"
+    },
+    {
+     "s": "made up his mind to runD. lost hope",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "赢家是一个付出巨大努力的人。"
+    },
+    {
+     "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL, Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
+    },
+    {
+     "s": "Lover’s Labour’s Lost.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "《爱的徒劳》。"
+    },
+    {
+     "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL,Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
+    },
+    {
+     "s": "This means that great books can lose plot details and characters when they move to the big screen.",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "这意味着伟大的书籍在搬上大银幕时可能会丢失情节细节和人物。"
+    },
+    {
+     "s": "Many would become sick, due to the extreme cold and low air pressure, and a few would even lose their lives.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "t": "许多人会因为极端寒冷和低气压而生病，少数人甚至会丧命。"
+    },
+    {
+     "s": "Lost items are taken good care of by Cowan's team.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "丢失的物品受到考恩团队的妥善保管。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to have sth/sb taken away from you as a result of an accident, getting old, dying, etc. （因事故、年老、死亡等）损失，丧失，失去",
+   "ex": [
     {
-      "def": "to be unable to find sth/sb 遗失；丢失",
-      "ex": [
-        {
-          "s": "How did Terri avoid losing the deposit on the house she rented?",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "Terri是怎么避免她租房子的押金丢失的？"
-        },
-        {
-          "s": "One day, while driving near her home, she saw a dog wandering on the road, clearly lost.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一天，在她家附近开车时，她看到一只狗在路上游荡，显然迷路了。"
-        },
-        {
-          "s": "He had just lost his job.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他刚刚失业了。"
-        },
-        {
-          "s": "He who hesitates is lost．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "犹豫不决的人会错失良机．"
-        },
-        {
-          "s": "He left after seven months, physically broken and having lost his mind.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "七个月后他离开了身体垮了精神也崩溃了。"
-        },
-        {
-          "s": "As the economy was in decline, some people in the town had lost their jobs.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于经济衰退，镇上的一些人已经失去了工作。"
-        },
-        {
-          "s": "As the economy was in decline, some people in the town had lost their jobs.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于经济衰退，镇上的一些人已经失去了工作。"
-        },
-        {
-          "s": "Call Lost Property on 13 16 17 during business hours for items lost on Queensland Rail services.",
-          "src": "2020全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如在昆士兰铁路服务中遗失物品，请在营业时间内拨打失物招领处电话13 16 17。"
-        },
-        {
-          "s": "At which station can you find the lost property office?",
-          "src": "2020全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你可以在哪个车站找到失物招领处？"
-        },
-        {
-          "s": "They lost to new technologies.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们输给了新技术。"
-        },
-        {
-          "s": "She never wanted me to lose that  49  as grew older.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她从不想让我在长大的过程中失去那种49。"
-        },
-        {
-          "s": "Do not lose your card or lend it to others.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不要丢失你的卡或借给他人。"
-        },
-        {
-          "s": "If your card has been lost, a fee of £5 is charged for the production of a replacement card.",
-          "src": "2020天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你的卡丢失，补发卡将收取5英镑费用。"
-        },
-        {
-          "s": "A local farmer told them the dog sounded like one   50   as lost in the local paper.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一位当地农夫告诉他们，这只狗听起来像是当地报纸上报道过____50____丢失的那只。"
-        },
-        {
-          "s": "I figured whoever lost the dog was probably just as    59   to it as I am to my dogs,” says Ehlers.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "埃勒斯说：“我想，不管是谁丢了这只狗，大概也会像我珍惜我的狗一样____59____它。”"
-        },
-        {
-          "s": "His effort to reunite families with lost medals began with a Christmas gift from his mother, a Purple Heart with the name Corrado A.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "他让家庭与丢失勋章重聚的努力，始于母亲送的一份圣诞礼物——一枚刻着科拉多·A之名的紫心勋章。"
-        },
-        {
-          "s": "Zac recently returned another lost medal to a family in Alabama.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "扎克最近把另一枚丢失的勋章归还给阿拉巴马州的一个家庭。"
-        },
-        {
-          "s": "A lost property office in Europe.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "欧洲的一个失物招领处。"
-        },
-        {
-          "s": "A lost property office in London.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "伦敦的一个失物招领处。"
-        },
-        {
-          "s": "A lost property office in Tokyo.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "东京的一个失物招领处。"
-        },
-        {
-          "s": "Almost all of the lost items were returned to their owners.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "几乎所有丢失的物品都归还给了它们的主人。"
-        },
-        {
-          "s": "Because they think their lost shoes are useless.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "因为他们找不到丢失的鞋子。"
-        },
-        {
-          "s": "Because they can't find their lost shoes.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "因为他们找不到丢失的鞋子。"
-        },
-        {
-          "s": "“I [had] lost enough sleep over this,” says David Cox, the company's Western region vice president — and that was before the hospital mentioned the tree's distinguished origin.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“我为此已经失眠够多了，”该公司西区副总裁David Cox说——而且那还是在医院提到这棵树显赫的来历之前。"
-        },
-        {
-          "s": "made up his mind to runD. lost hope",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "赢家是一个付出巨大努力的人。"
-        },
-        {
-          "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL, Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
-        },
-        {
-          "s": "Lover’s Labour’s Lost.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "《爱的徒劳》。"
-        },
-        {
-          "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL,Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
-        },
-        {
-          "s": "This means that great books can lose plot details and characters when they move to the big screen.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "这意味着伟大的书籍在搬上大银幕时可能会丢失情节细节和人物。"
-        },
-        {
-          "s": "Many would become sick, due to the extreme cold and low air pressure, and a few would even lose their lives.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "许多人会因为极端寒冷和低气压而生病，少数人甚至会丧命。"
-        },
-        {
-          "s": "Lost items are taken good care of by Cowan's team.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "丢失的物品受到考恩团队的妥善保管。"
-        }
-      ]
+     "s": "“You have to think about what you would lose if you do that.” Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
     },
     {
-      "def": "to have sth/sb taken away from you as a result of an accident, getting old, dying, etc. （因事故、年老、死亡等）损失，丧失，失去",
-      "ex": [
-        {
-          "s": "“You have to think about what you would lose if you do that.” Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
-        },
-        {
-          "s": "she might lose her shelter in the future",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她将来可能会失去住所"
-        },
-        {
-          "s": "I feared that my classmates might grow tired of my efforts or even lose patience with me.",
-          "src": "2025新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我担心同学们可能会厌倦我的努力，甚至对我失去耐心。"
-        },
-        {
-          "s": "About a decade ago, I noticed that she began to lose her hearing.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "大约十年前，我注意到她开始丧失听力。"
-        },
-        {
-          "s": "Those who are on the losing side often have only their things to tell their stories.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "处于失败一方的人往往只能用他们的物品来讲述自己的故事。"
-        },
-        {
-          "s": "They have lost their way.",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们花了大约3个小时走完了西安城墙的全程48。"
-        },
-        {
-          "s": "Bring back lost memories.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "唤回失去的记忆。"
-        },
-        {
-          "s": "It is losing its traditions.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它正在失去传统。"
-        },
-        {
-          "s": "lost contact withD. thrown light on",
-          "src": "2022天津4月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "与……失去联系 D. 阐明"
-        },
-        {
-          "s": "Somewhere along the way, however, I lost touch with my creative self.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "然而在某个时候我与创造性的自我失去了联系。"
-        },
-        {
-          "s": "They would lose popularity.",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们将失去人气。"
-        },
-        {
-          "s": "Lose the interest to continue learning．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D．残疾不能阻止人对成功的追求"
-        },
-        {
-          "s": "14 hours later the films had lost 13% of their mass — apparently broken down by enzymes (酶) from the worms’ stomachs.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "14小时后，薄膜失去了13%的质量——显然是被蠕虫胃中的酶（酶）分解了。"
-        },
-        {
-          "s": "Moran says one of the problems with jazz today is that the entertainment aspect of the music has been lost.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "爵士乐变得更容易接触。"
-        },
-        {
-          "s": "Since almost 3% of the metal is lost during reprocessing, we’d have to make an extra 10 cans each year.",
-          "src": "2017浙江11月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "由于在再加工过程中几乎会损失3%的金属，我们每年还得额外制造10个罐子。"
-        },
-        {
-          "s": "SELF-CONTROL Questionnaire 1 Do you ever lose your temper with your family, friends, or classmates?",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "自我控制问卷1您是否曾经对家人、朋友或同学发过脾气？"
-        },
-        {
-          "s": "When the polluting industries argue that we’ve lost the battle to control carbon pollution and have no choice but to adapt, it’s a nonsense designed to make the case for business as usual.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当污染行业争辩说我们在控制碳排放的战斗中已经失败，除了适应别无选择时，这是一种旨在为一切照旧的商业模式制造理由的 nonsense。"
-        },
-        {
-          "s": "I believe this was a perfect   29   for a child in losing something important…to lose it and feel the full   30   of that loss, and then to miraculously get it back.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我相信，对于一个孩子来说，这是失去重要之物的完美___29___……失去它，感受那份失去的全部___30___，然后奇迹般地失而复得。"
-        },
-        {
-          "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
-        },
-        {
-          "s": "Next time you see a young person lost in thought, don’t rush to pull them back.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "下次你看到一个陷入沉思的年轻人，不要急着把他们拉回来。"
-        },
-        {
-          "s": "If we don’t look at it, we lose all the richness behind it.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果我们不去审视它，我们就会失去它背后所有的丰富内涵。"
-        },
-        {
-          "s": "But if he's out there every day and playing hard, you should praise his effort regardless of whether his team wins or loses.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但如果他每天都在那里努力打球，无论他的球队输赢，你都应该赞扬他的努力。"
-        },
-        {
-          "s": "The Hidden Letter At the height of his fame as a musician and composer, Ludwig van Beethoven slowly began to lose his hearing.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "《隐藏的信》：在他作为音乐家和作曲家的名声达到顶峰时，路德维希·凡·贝多芬慢慢开始失去听力。"
-        },
-        {
-          "s": "Most of us， in fact， progressively narrow the variety of our lives． We succeed in our field of specialization and then become trapped in it． Nothing surprises us． We lose our sense of wonder． But， if we are willing to learn， the opportunities are everywhere．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "事实上，我们大多数人都在逐渐缩小生活的多样性。我们在自己的专业领域取得成功，然后便被困其中。没有什么能让我们感到惊讶。我们失去了好奇心。但是，如果我们愿意学习，机会无处不在。"
-        },
-        {
-          "s": "He said without the job, he would   49   have too much time and would just do what I did back in  50  .He said that if he   51   the job, he would lose his   52  to work and succeed.",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他说如果没有这份工作，他____49____会有太多时间，只会像我当年在____50____时那样做事。他说如果他____51____失去这份工作，他就会失去工作和成功的____52____。"
-        }
-      ]
+     "s": "she might lose her shelter in the future",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "她将来可能会失去住所"
     },
     {
-      "def": "to have sth taken away by sb/sth 被 … 夺去",
-      "ex": [
-        {
-          "s": "They consist of an electric motor which collects energy used in the braking action that would be lost as heat by conventional brakes.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它们由一个电动机构成，该电机收集制动过程中原本会被传统刹车以热量形式耗散的能量。"
-        },
-        {
-          "s": "Lost items become the property of transport for London.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "百分之二十的失物在三个月内被认领。"
-        },
-        {
-          "s": "Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "于是有了这本书——《追逐大海：在中亚帝国的幽灵中迷失》，它讲述了一段从塔什干到卡拉卡尔帕克斯坦的公路旅行，在那里，数百万人的生活被大海缓慢干涸所摧毁。"
-        }
-      ]
+     "s": "I feared that my classmates might grow tired of my efforts or even lose patience with me.",
+     "src": "2025新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我担心同学们可能会厌倦我的努力，甚至对我失去耐心。"
     },
     {
-      "def": "to have to give up sth; to fail to keep sth 被迫放弃；失去",
-      "ex": []
+     "s": "About a decade ago, I noticed that she began to lose her hearing.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "大约十年前，我注意到她开始丧失听力。"
     },
     {
-      "def": "to have less and less of sth, especially until you no longer have any of it 降低；减少；渐渐丧失",
-      "ex": [
-        {
-          "s": "An essay not submitted in class on the due date will lose a letter grade for each class period it is late.",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果作文未在截止日期当天课堂上提交，每逾期一个课时就会降低一个字母等级。"
-        },
-        {
-          "s": "You will lose a letter grade.",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你将降一个字母等级。"
-        },
-        {
-          "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "麦金太尔说，自20世纪30年代以来，导致该州水压力上升的最大因素是气温上升——气温上升导致树木向空气中散失更多水分——以及融雪提前——融雪提前减少了旱季树木可用的供水量。"
-        }
-      ]
+     "s": "Those who are on the losing side often have only their things to tell their stories.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "处于失败一方的人往往只能用他们的物品来讲述自己的故事。"
     },
     {
-      "def": "to be defeated; to fail to win a competition, a court case, an argument, etc. 被打败；输掉（比赛、诉讼案件、辩论等）",
-      "ex": [
-        {
-          "s": "The possibility of entering into and losing such a match should concentrate the minds of computer scientists.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "陷入并输掉这样一局棋的可能性，理应让计算机科学家集中注意力。"
-        }
-      ]
+     "s": "They have lost their way.",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我们花了大约3个小时走完了西安城墙的全程48。"
     },
     {
-      "def": "to fail to keep sth you want or need, especially money; to cause sb to fail to keep sth （使）失去（所需要的东西，尤指钱）",
-      "ex": [
-        {
-          "s": "Would you BET on the future of this man？ He is 53 years old． Most of his adult life has been a losing struggle against debt and misfortune． A war injury has made his left hand stop functioning， and he has often been in prison． Driven by heaven﹣knows﹣what motives， he determines to write a book．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "他已经53岁了，他的成年生活大多是债务和不幸的失败。战争的伤害使他的左手停止了运转，他经常在监狱里。由于天知道什么动机，他决定写一本书。"
-        },
-        {
-          "s": "Six months after suffering our （14）     on the spring practice field， we won our first game and our second， and continued to （15）     ．Finally， we faced the number one team in the state． I felt that it would be a （16）     for us even if we lost the game． But that wasn't what happened． My boys beat the best team in Georgia， giving me one of the greatest （17）     of my life！",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在春季训练场遭受（14）___六个月后，我们赢下第一场、第二场，并继续（15）___。终于，我们面对全州第一的队。我觉得即使输了，对我们也是（16）___。但事实并非如此。我的孩子们击败了佐治亚最好的队，给了我一生中最伟大的（17）___之一！"
-        },
-        {
-          "s": "It was a form of energy, giving me back something I’d lost.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "那是一种能量，让我找回了失去的东西。"
-        },
-        {
-          "s": "Credibility is hard to earn but easy to lose, and the problem is only going to harder from here on out.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "信誉来之不易却容易失去，而且从现在起这个问题只会变得更加严峻。"
-        },
-        {
-          "s": "\"Don’t be late for supper,\" Uncle Paul cried, \"and keep to the track so that you don’t get lost!\" \"OK! \" my dad cried back.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“晚饭别迟到了，”保罗叔叔喊道，“沿着小路走，这样你们就不会迷路！”“好的！”我爸爸大声回应。"
-        },
-        {
-          "s": "Sometimes we lose sight that the music has a wider context,” says Moran, “so I want to continue those dialogues.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“有时我们忽略了音乐有更广阔的语境，”莫兰说，“所以我想延续那些对话。”"
-        },
-        {
-          "s": "However, I soon found that by doing so, I might be losing something more important: the opportunity to share a small part of my cultural identity.",
-          "src": "2025新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "然而我很快发现，这样做我可能正在失去更重要的东西：分享自己文化身份一小部分的机会。"
-        },
-        {
-          "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
-        }
-      ]
+     "s": "Bring back lost memories.",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "唤回失去的记忆。"
     },
     {
-      "def": "to fail to get, hear or understand sth 不明白；听不见；弄不懂",
-      "ex": []
+     "s": "It is losing its traditions.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它正在失去传统。"
     },
     {
-      "def": "to be no longer understood by sb 使弄不懂；使不理解",
-      "ex": []
+     "s": "lost contact withD. thrown light on",
+     "src": "2022天津4月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "与……失去联系 D. 阐明"
     },
     {
-      "def": "to escape from sb/sth 逃避；逃脱",
-      "ex": []
+     "s": "Somewhere along the way, however, I lost touch with my creative self.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "然而在某个时候我与创造性的自我失去了联系。"
     },
     {
-      "def": "to waste time or an opportunity 浪费（时间）；错过（机会）",
-      "ex": [
-        {
-          "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）____的那一刻紧接着便是心算。更换那个小钱包里的（3）____需要花费多少时间和金钱？信用卡、驾照、现金，全都落在了公交车上。"
-        },
-        {
-          "s": "But that purpose is lost over time.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "但那个目的随着时间消失了。"
-        },
-        {
-          "s": "Twenty percent of the lost items are claimed in three months’ time.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "百分之二十的遗失物品在三个月内被认领。"
-        }
-      ]
+     "s": "They would lose popularity.",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们将失去人气。"
     },
     {
-      "def": "if a watch or clock loses or loses time, it goes too slowly or becomes a particular amount of time behind the correct time （钟、表）走慢，慢（若干时间）",
-      "ex": [
-        {
-          "s": "They successfully lost weight.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们的新陈代谢率较慢。"
-        },
-        {
-          "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
-        },
-        {
-          "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
-        }
-      ]
+     "s": "Lose the interest to continue learning．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D．残疾不能阻止人对成功的追求"
+    },
+    {
+     "s": "14 hours later the films had lost 13% of their mass — apparently broken down by enzymes (酶) from the worms’ stomachs.",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "14小时后，薄膜失去了13%的质量——显然是被蠕虫胃中的酶（酶）分解了。"
+    },
+    {
+     "s": "Moran says one of the problems with jazz today is that the entertainment aspect of the music has been lost.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "爵士乐变得更容易接触。"
+    },
+    {
+     "s": "Since almost 3% of the metal is lost during reprocessing, we’d have to make an extra 10 cans each year.",
+     "src": "2017浙江11月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "由于在再加工过程中几乎会损失3%的金属，我们每年还得额外制造10个罐子。"
+    },
+    {
+     "s": "SELF-CONTROL Questionnaire 1 Do you ever lose your temper with your family, friends, or classmates?",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "自我控制问卷1您是否曾经对家人、朋友或同学发过脾气？"
+    },
+    {
+     "s": "When the polluting industries argue that we’ve lost the battle to control carbon pollution and have no choice but to adapt, it’s a nonsense designed to make the case for business as usual.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "当污染行业争辩说我们在控制碳排放的战斗中已经失败，除了适应别无选择时，这是一种旨在为一切照旧的商业模式制造理由的 nonsense。"
+    },
+    {
+     "s": "I believe this was a perfect   29   for a child in losing something important…to lose it and feel the full   30   of that loss, and then to miraculously get it back.",
+     "src": "2020北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我相信，对于一个孩子来说，这是失去重要之物的完美___29___……失去它，感受那份失去的全部___30___，然后奇迹般地失而复得。"
+    },
+    {
+     "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
+    },
+    {
+     "s": "Next time you see a young person lost in thought, don’t rush to pull them back.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "下次你看到一个陷入沉思的年轻人，不要急着把他们拉回来。"
+    },
+    {
+     "s": "If we don’t look at it, we lose all the richness behind it.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "如果我们不去审视它，我们就会失去它背后所有的丰富内涵。"
+    },
+    {
+     "s": "But if he's out there every day and playing hard, you should praise his effort regardless of whether his team wins or loses.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但如果他每天都在那里努力打球，无论他的球队输赢，你都应该赞扬他的努力。"
+    },
+    {
+     "s": "The Hidden Letter At the height of his fame as a musician and composer, Ludwig van Beethoven slowly began to lose his hearing.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "《隐藏的信》：在他作为音乐家和作曲家的名声达到顶峰时，路德维希·凡·贝多芬慢慢开始失去听力。"
+    },
+    {
+     "s": "Most of us， in fact， progressively narrow the variety of our lives． We succeed in our field of specialization and then become trapped in it． Nothing surprises us． We lose our sense of wonder． But， if we are willing to learn， the opportunities are everywhere．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "事实上，我们大多数人都在逐渐缩小生活的多样性。我们在自己的专业领域取得成功，然后便被困其中。没有什么能让我们感到惊讶。我们失去了好奇心。但是，如果我们愿意学习，机会无处不在。"
+    },
+    {
+     "s": "He said without the job, he would   49   have too much time and would just do what I did back in  50  .He said that if he   51   the job, he would lose his   52  to work and succeed.",
+     "src": "2018浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他说如果没有这份工作，他____49____会有太多时间，只会像我当年在____50____时那样做事。他说如果他____51____失去这份工作，他就会失去工作和成功的____52____。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to have sth taken away by sb/sth 被 … 夺去",
+   "ex": [
     {
-      "en": "lost property",
-      "cn": "失物招领",
-      "type": "动词短语",
-      "count": 5
+     "s": "They consist of an electric motor which collects energy used in the braking action that would be lost as heat by conventional brakes.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它们由一个电动机构成，该电机收集制动过程中原本会被传统刹车以热量形式耗散的能量。"
     },
     {
-      "en": "a lost property",
-      "cn": "失物",
-      "type": "名词短语",
-      "count": 3
+     "s": "Lost items become the property of transport for London.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "百分之二十的失物在三个月内被认领。"
+    },
+    {
+     "s": "Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "于是有了这本书——《追逐大海：在中亚帝国的幽灵中迷失》，它讲述了一段从塔什干到卡拉卡尔帕克斯坦的公路旅行，在那里，数百万人的生活被大海缓慢干涸所摧毁。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to have to give up sth; to fail to keep sth 被迫放弃；失去",
+   "ex": []
+  },
+  {
+   "def": "to have less and less of sth, especially until you no longer have any of it 降低；减少；渐渐丧失",
+   "ex": [
+    {
+     "s": "An essay not submitted in class on the due date will lose a letter grade for each class period it is late.",
+     "src": "2022全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果作文未在截止日期当天课堂上提交，每逾期一个课时就会降低一个字母等级。"
+    },
+    {
+     "s": "You will lose a letter grade.",
+     "src": "2022全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "你将降一个字母等级。"
+    },
+    {
+     "s": "Since the 1930s, Mclntyre said, the biggest factors driving up water stress in the state have been rising temperatures, which cause trees to lose more water to the air, and earlier snowmelt, which reduces the water supply available to trees during the dry season.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "麦金太尔说，自20世纪30年代以来，导致该州水压力上升的最大因素是气温上升——气温上升导致树木向空气中散失更多水分——以及融雪提前——融雪提前减少了旱季树木可用的供水量。"
+    }
+   ]
+  },
+  {
+   "def": "to be defeated; to fail to win a competition, a court case, an argument, etc. 被打败；输掉（比赛、诉讼案件、辩论等）",
+   "ex": [
+    {
+     "s": "The possibility of entering into and losing such a match should concentrate the minds of computer scientists.",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "陷入并输掉这样一局棋的可能性，理应让计算机科学家集中注意力。"
+    }
+   ]
+  },
+  {
+   "def": "to fail to keep sth you want or need, especially money; to cause sb to fail to keep sth （使）失去（所需要的东西，尤指钱）",
+   "ex": [
+    {
+     "s": "Would you BET on the future of this man？ He is 53 years old． Most of his adult life has been a losing struggle against debt and misfortune． A war injury has made his left hand stop functioning， and he has often been in prison． Driven by heaven﹣knows﹣what motives， he determines to write a book．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "他已经53岁了，他的成年生活大多是债务和不幸的失败。战争的伤害使他的左手停止了运转，他经常在监狱里。由于天知道什么动机，他决定写一本书。"
+    },
+    {
+     "s": "Six months after suffering our （14）     on the spring practice field， we won our first game and our second， and continued to （15）     ．Finally， we faced the number one team in the state． I felt that it would be a （16）     for us even if we lost the game． But that wasn't what happened． My boys beat the best team in Georgia， giving me one of the greatest （17）     of my life！",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在春季训练场遭受（14）___六个月后，我们赢下第一场、第二场，并继续（15）___。终于，我们面对全州第一的队。我觉得即使输了，对我们也是（16）___。但事实并非如此。我的孩子们击败了佐治亚最好的队，给了我一生中最伟大的（17）___之一！"
+    },
+    {
+     "s": "It was a form of energy, giving me back something I’d lost.",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "那是一种能量，让我找回了失去的东西。"
+    },
+    {
+     "s": "Credibility is hard to earn but easy to lose, and the problem is only going to harder from here on out.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "信誉来之不易却容易失去，而且从现在起这个问题只会变得更加严峻。"
+    },
+    {
+     "s": "\"Don’t be late for supper,\" Uncle Paul cried, \"and keep to the track so that you don’t get lost!\" \"OK! \" my dad cried back.",
+     "src": "2018浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“晚饭别迟到了，”保罗叔叔喊道，“沿着小路走，这样你们就不会迷路！”“好的！”我爸爸大声回应。"
+    },
+    {
+     "s": "Sometimes we lose sight that the music has a wider context,” says Moran, “so I want to continue those dialogues.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“有时我们忽略了音乐有更广阔的语境，”莫兰说，“所以我想延续那些对话。”"
+    },
+    {
+     "s": "However, I soon found that by doing so, I might be losing something more important: the opportunity to share a small part of my cultural identity.",
+     "src": "2025新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "然而我很快发现，这样做我可能正在失去更重要的东西：分享自己文化身份一小部分的机会。"
+    },
+    {
+     "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
+    }
+   ]
+  },
+  {
+   "def": "to fail to get, hear or understand sth 不明白；听不见；弄不懂",
+   "ex": []
+  },
+  {
+   "def": "to be no longer understood by sb 使弄不懂；使不理解",
+   "ex": []
+  },
+  {
+   "def": "to escape from sb/sth 逃避；逃脱",
+   "ex": []
+  },
+  {
+   "def": "to waste time or an opportunity 浪费（时间）；错过（机会）",
+   "ex": [
+    {
+     "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）____的那一刻紧接着便是心算。更换那个小钱包里的（3）____需要花费多少时间和金钱？信用卡、驾照、现金，全都落在了公交车上。"
+    },
+    {
+     "s": "But that purpose is lost over time.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "但那个目的随着时间消失了。"
+    },
+    {
+     "s": "Twenty percent of the lost items are claimed in three months’ time.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "百分之二十的遗失物品在三个月内被认领。"
+    }
+   ]
+  },
+  {
+   "def": "if a watch or clock loses or loses time, it goes too slowly or becomes a particular amount of time behind the correct time （钟、表）走慢，慢（若干时间）",
+   "ex": [
+    {
+     "s": "They successfully lost weight.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们的新陈代谢率较慢。"
+    },
+    {
+     "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
+     "src": "2021北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
+    },
+    {
+     "s": "38   “I think a point that many people lose sight of is how easy it can be to fall behind schedule,” says graduate student Amanda Bindman.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "38 “我认为很多人忽视的一点是，落后于计划是多么容易的事情，”研究生阿曼达·宾德曼说。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "lost property",
+   "cn": "失物招领",
+   "type": "动词短语",
+   "count": 5
+  }
+ ]
 }
