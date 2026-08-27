@@ -1,1647 +1,1635 @@
 {
-  "meta": {
-    "ph": "riːd; NAmE riːd",
-    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun",
-    "stars": ""
+ "meta": {
+  "ph": "riːd; NAmE riːd",
+  "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to look at and understand the meaning of written or printed words or symbols 不用于进行时",
+   "ex": [
+    {
+     "s": "Now, read these words back to yourself.",
+     "src": "2020全国I卷·A Few Tips for Self-Acceptance",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "40   翻开日记的一页，看看你的优点和成就列表。"
+    },
+    {
+     "s": "Written communications can often read as cold and dull.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "书面交流往往显得冷淡乏味。"
+    },
+    {
+     "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一旦每位家庭成员都读完了每本杂志，你就可以把它们用于艺术和写作项目。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to go through written or printed words, etc. in silence or speaking them to other people 读；朗读",
+   "ex": [
     {
-      "def": "to look at and understand the meaning of written or printed words or symbols 不用于进行时",
-      "ex": [
-        {
-          "s": "Now, read these words back to yourself.",
-          "src": "2020全国I卷·A Few Tips for Self-Acceptance",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "40   翻开日记的一页，看看你的优点和成就列表。"
-        },
-        {
-          "s": "Written communications can often read as cold and dull.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "书面交流往往显得冷淡乏味。"
-        },
-        {
-          "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一旦每位家庭成员都读完了每本杂志，你就可以把它们用于艺术和写作项目。"
-        }
-      ]
+     "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但我想，虽然金钱确实美好且必不可少，但重读一位作者的作品，是读者能给予他们的最高回报。"
     },
     {
-      "def": "to go through written or printed words, etc. in silence or speaking them to other people 读；朗读",
-      "ex": [
-        {
-          "s": "But I imagine that, while money is indeed wonderful and necessary, rereading an author’s work is the highest currency a reader can pay them.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但我想，虽然金钱确实美好且必不可少，但重读一位作者的作品，是读者能给予他们的最高回报。"
-        },
-        {
-          "s": "Some 60,000 novels were published during the Victorian age, from 1837 to1901; today a casual reader might be able to name a half-dozen of them.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在维多利亚时代，从1837年到1901年，出版了约6万本小说；今天，一个随便的读者也许可以将其中的六分之一命名。"
-        },
-        {
-          "s": "And you’ll never be without something to read.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "而且你再也不会没有东西可读。"
-        },
-        {
-          "s": "I had brought a children's book to read.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我带来了一本儿童书要读给他听。"
-        },
-        {
-          "s": "From the minute reached our house, I started to read. knew this was extreme happiness, knew it at the time.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从到达我们家的那一刻起，我就开始读。我知道这是极度的快乐，当时就知道。"
-        },
-        {
-          "s": "Does the look inspire you, and make you want to read more?",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这个样子会激励你，让你想读更多吗？"
-        },
-        {
-          "s": "●How often do you read?",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "●你多久读一次？"
-        },
-        {
-          "s": "Practice reading the words aloud.",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "练习大声读出这些单词。"
-        },
-        {
-          "s": "Practice reading the words aloud.",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "练习大声读出这些单词。"
-        },
-        {
-          "s": "The image of the reader appears throughout history, in art made long before books as we now know them came into being.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "读者的形象贯穿整个历史，出现在远早于我们今天所熟知的书籍诞生之前的艺术作品中。"
-        },
-        {
-          "s": "If we are to find the other half of that conversation, we have to read not just the texts, but the objects.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果我们要找回那场对话的另一半，我们不仅要读文本，还要读那些实物。"
-        },
-        {
-          "s": "So two by two,I read library books as fast as I could go: rushing them home in the basket of my bicycle.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以两本两本地，我尽可能快地读图书馆的书：把它们匆忙放在我的自行车篮子里带回家。"
-        },
-        {
-          "s": "It can take some other forms, either via the books we read or the films we watch.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它也可以表现为其他形式，要么通过我们读的书，要么通过我们看的电影。"
-        },
-        {
-          "s": "Reading magazines as a family can be used to introduce each other to the various interests that each family member possesses.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "全家一起读杂志，可以用来让彼此了解各位家庭成员的各种兴趣。"
-        },
-        {
-          "s": "The next day, when Ms Black read the essay to the class, everyone laughed.",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第二天，当布莱克女士在班上朗读这篇文章时，大家都笑了。"
-        },
-        {
-          "s": "I always read ,using different voices ,as though I were acting out the stories with my voice and they loved it !It was a special time to bond with my children and it filled them with the wonderment of books .",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我总是用不同的声音朗读，仿佛用声音把故事演出来，他们很喜欢！那是一段与孩子建立亲密关系的特别时光，也让他们充满对书籍的惊奇。"
-        },
-        {
-          "s": "The passages or conversation you will be asked several questions, the passages and the conversation will be read twice, but the questions will be spoken only once.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你将针对短文或对话回答若干问题，短文和对话将读两遍，但问题只读一遍。"
-        },
-        {
-          "s": "Spend a few minutes reading the material aloud.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "花几分钟大声朗读材料。"
-        },
-        {
-          "s": "That’s what happened the day my club was reading aloud a poem by Henry Longfellow.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "那是在我的读书会朗读亨利·朗费罗的一首诗的那天发生的事。"
-        },
-        {
-          "s": "He likes reading short plays to others.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他喜欢给别人朗读短剧。"
-        },
-        {
-          "s": "I enjoyed reading stories aloud.",
-          "src": "2020浙江7月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我喜欢大声朗读故事。"
-        },
-        {
-          "s": "However, new studies have shown that dogs can read human behaviour and have a preference to people who are more friendly or generous with food.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，新研究表明，狗能读懂人类行为，并偏好那些更友好或对食物更大方的人。"
-        },
-        {
-          "s": "Thirteen-year-old Sally Carter loved reading fantasy books.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "13岁的Sally Carter喜欢读奇幻小说。"
-        },
-        {
-          "s": "There are three books I reread annually The first, which I take to reading every spring is Emest Hemningway’s A Moveable Feast.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有三本书我每年重读。第一本是海明威的《流动的盛宴》，我每年春天都会读。"
-        },
-        {
-          "s": "I was always an enthusiastic reader, sometimes reading up to three books a day as a child.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我一直以来都是个热忱的读者，小时候有时一天能读三本书。"
-        },
-        {
-          "s": "After I read the book, Taylor patiently answered my questions about it.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我读完那本书后，泰勒耐心地回答了我关于它的问题。"
-        },
-        {
-          "s": "It was a big deal for us to load up and go to the local library, where my kids could pick out books to read or books they wanted me to read to them.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对我们来说，装满东西去当地图书馆是件大事，孩子们可以在那里挑选自己读的书，或挑出想让我读给他们听的书。"
-        },
-        {
-          "s": "I had just finished reading The Mill on the Floss by George Eliot, and I was heartbroken with the ending.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我刚读完乔治·艾略特的《弗洛斯河上的磨坊》，对结局感到心碎。"
-        },
-        {
-          "s": "So I was actually reading it again, but what I was rereading seemed entirely new.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "所以我其实是在重读它，但我重读的内容似乎完全是全新的。"
-        },
-        {
-          "s": "---                 .I'm still reading the last chapter.",
-          "src": "2021天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "---                 .我还在读最后一章。"
-        },
-        {
-          "s": "What is the woman reading now?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "女士现在在读什么？"
-        },
-        {
-          "s": "What is the woman reading now?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "女士现在在读什么？"
-        },
-        {
-          "s": "I remember her reading a magazine while taking the part of the Wolf in a game of “Little Red Riding Hood” with my brother’s two daughters.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我记得她一边读杂志，一边和我哥哥的两个女儿玩“小红帽”游戏，扮演大灰狼。"
-        },
-        {
-          "s": "What is the woman reading now?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "女士现在在读什么？"
-        },
-        {
-          "s": "How did Smith, feel after reading the French manuscript? （    ）",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Smith读完法语手稿后感觉如何？（    ）"
-        },
-        {
-          "s": "Marian Bechtel sits at West Palm Beach’s Bar Louie counter by herself, quietly reading her e-book as she waits for her salad.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "玛丽安·贝克特尔独自坐在西棕榈滩Bar Louie餐厅的吧台前，安静地读着电子书，等待她的沙拉。"
-        },
-        {
-          "s": "This seems almost too obvious to bother writing or reading about.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这似乎太显而易见，不值得写或读。"
-        },
-        {
-          "s": "You like going to the movies and reading crime novels and you have $ 150 to spend, In the example below, assume that each movie costs $10 and each crime novel costs $15.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你喜欢看电影和读犯罪小说，有150美元可花。在下面的例子中，假设每部电影10美元，每本犯罪小说15美元。"
-        },
-        {
-          "s": "It’s a bit like reading a foreign language.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这有点像读一门外语。"
-        },
-        {
-          "s": "We played games together, and stayed up late reading bedtime stories.",
-          "src": "2020天津3月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们一起玩游戏熬夜读睡前故事。"
-        },
-        {
-          "s": "What did the author find when reading Montaigne’s Essays?",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者在读蒙田的《随笔集》时发现了什么？"
-        },
-        {
-          "s": "（4）The author takes novel reading as a way to     ．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（4）作者把读小说当作一种___的方式。"
-        },
-        {
-          "s": "Choosing what to read became easier.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "选择读什么书变得更容易了。"
-        },
-        {
-          "s": "How to Remember What You Read",
-          "src": "2017浙江11月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如何记住你所读的内容"
-        },
-        {
-          "s": "If the plot, characters, or word usage is confusing for you, likely won’t be able to remember what you read.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果情节、人物或用词让你困惑，你很可能记不住读过什么。"
-        },
-        {
-          "s": "Marking helps you remember what you read.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "标记有助于你记住所读的内容。"
-        },
-        {
-          "s": "What is she reading?",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "她在读什么？"
-        },
-        {
-          "s": "Here are a few tricks for remembering what you read.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这里有几个帮助你记住所读内容的技巧。"
-        },
-        {
-          "s": "You’ll learn to enjoy literature—as you remember what you read!",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "你会学会欣赏文学——同时记住你所读的内容！"
-        },
-        {
-          "s": "Sometimes she would look in and ask what we were reading — not to check but to know.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "有时她会走进来问我们在读什么——不是为了检查而是为了了解。"
-        },
-        {
-          "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
-        },
-        {
-          "s": "Benjamin could read only a little,having been a poor student.But he later said,”Those two books were my companions by day,and under my pillow at night.”While it is likely that he understood very little of the books,they were his introduction to classical paintings.The nine-year-old boy decided then that he would be an artist.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "本杰明只读过一点书，因为他曾是个差学生。但他后来说：“那两本书白天是我的伙伴，晚上就在我的枕头下。”虽然他很可能几乎看不懂那些书，但它们是他接触古典绘画的入门。这个九岁男孩当时就下定决心要成为一名艺术家。"
-        },
-        {
-          "s": "Yes, we all have our phones, but many of us still like to go old school and read something printed.",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "是的，我们都有手机，但我们中的许多人仍然喜欢老派一点，读点印刷品。"
-        },
-        {
-          "s": "How much time does the man have to read the book?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个男的有多少时间来读这本书？"
-        },
-        {
-          "s": "How much time does the man have to read the book?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个男的有多少时间来读这本书？"
-        },
-        {
-          "s": "How much time does the man have to read the book?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这个男的有多少时间来读这本书？"
-        },
-        {
-          "s": "Miss Chevalier pretended not to have noticed my red face and handed me a dictionary, asking me to read its definition aloud.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "谢瓦利埃小姐假装没注意到我涨红的脸，递给我一本字典，让我大声读出其中的释义。"
-        },
-        {
-          "s": "I took down one of the dictionaries, and we read it together for a few minutes before I handed it to him.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我取下其中一本词典，我们一起读了几分钟，然后递给了他。"
-        },
-        {
-          "s": "But a dictionary can be a pleasure to read.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "但词典也可以读得津津有味。"
-        },
-        {
-          "s": "If read by someone poorly educated.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "如果被教育程度低的人读到。"
-        },
-        {
-          "s": "From then on, if I wanted to read an ending guaranteed to be happy, I’d pick up a love romance.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "从那以后，如果我想读一个保证美满的结局，我就会拿起一本爱情浪漫小说。"
-        },
-        {
-          "s": "I even read a few of them.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我甚至读了其中几本。"
-        },
-        {
-          "s": "I even read a few of them.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我甚至读了其中几本。"
-        },
-        {
-          "s": "“and I want to read it when you’re through.”",
-          "src": "2023北京卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“而且你想读完的时候，我想读它。”"
-        },
-        {
-          "s": "He wanted to read it by himself.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他想自己读。"
-        },
-        {
-          "s": "“I’m not a trained musician, but I’ve learnt to read music so I can help Maria in her performance.”",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我不是受过训练的音乐家，但我学会了读谱，这样能在演出中帮助玛丽亚。"
-        },
-        {
-          "s": "In the former case you may be able to read a chapter.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在前一种情况下，你可能能读一章。"
-        },
-        {
-          "s": "In the latter you may only be able to read one page.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在后一种情况下，你可能只能读一页。"
-        },
-        {
-          "s": "Returning to a book you’ve read many times can feel like drinks with an old friend.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "重读一本你读过很多遍的书，感觉就像与一位老友共饮。"
-        },
-        {
-          "s": "Read the lines.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "读这些台词。"
-        },
-        {
-          "s": "You could not take back a book to the library on the same day you’d taken it out; it made no difference to her that you’d read every word in it and needed another to start.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你不能在借书当天就把书还回图书馆；即便你把里面每个字都读了、需要另一本开始读，对她来说也没区别。"
-        },
-        {
-          "s": "AI will affect us all, and if you only read one book on the subject, this is it.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "人工智能将影响我们所有人，如果你只读一本关于这个主题的书，那就是这本。"
-        },
-        {
-          "s": "She wanted mom to read the news to her．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．她想让妈妈给她读新闻。"
-        },
-        {
-          "s": "Everyone was silent, wait to see who would be called upon to read his and her paragraph aloud.",
-          "src": "2018全国III卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "大家都安静地等待，看谁会被叫起来大声朗读自己的段落。"
-        },
-        {
-          "s": "When you see the capitalized “WHO” in a medical report, do you read it as the “who” in “Who’s that?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "当你在医学报告中看到大写的＂WHO＂时，你是把它读作＂Who's that＂中的＂who＂吗？"
-        },
-        {
-          "s": "●Read it; hear it; be it!",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "●读它；听它；成为它！"
-        },
-        {
-          "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
-        },
-        {
-          "s": "Whaley says the project is about more than just learning to read and speak in public.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "惠利说，这个项目不只是关于学习在公开场合朗读和说话。"
-        },
-        {
-          "s": "The more dispassionate that negative write-up, the more likely it was to take the reader in.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "负面评论写得越冷静克制，就越容易让读者信以为真。"
-        },
-        {
-          "s": "When scanning a text, you read it quickly in order to find a specific piece of information.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "在扫描一个文本时，您会快速读取，以便找到一个特定的信息片段。"
-        },
-        {
-          "s": "The writing in magazines also tends to be easy to read, especially if it is a children's publication.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志的写作也往往易读，尤其是儿童刊物。"
-        },
-        {
-          "s": "Reading history is an amazing experience because it enables us to reflect on the social and economic life of the people living long time ago.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "读史是一种奇妙的体验，因为它让我们得以反思很久以前人们的社会与经济生活。"
-        },
-        {
-          "s": "Long before reading and writing became widely spread and available, oral storytelling had already been a form that the wisdom and knowledge of the people were passed down from elders to children.",
-          "src": "2023天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "早在读写广泛普及之前，口头讲故事就已是人们将智慧和知识从长辈传给孩子的一种形式。"
-        },
-        {
-          "s": "The end result is a read in which we learn to wonder like Socrates, see like Thoreau, listen like Schopenhauer, and have no regrets like Nietzsche.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最终读到的，是我们学会像苏格拉底一样发问、像梭罗一样观察、像叔本华一样倾听、像尼采一样无怨无悔。"
-        },
-        {
-          "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "印刷和数字阅读结果之间的差异部分与纸张的物理特性有关。"
-        },
-        {
-          "s": "Feature stories typically start with a \"hook\" that gets the interest of the reader.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "特写故事通常以一个能吸引读者兴趣的\"钩子\"开头。"
-        },
-        {
-          "s": "Later, a second student wanted to read with him, then a third.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "后来，第二个学生想和他一起读书，接着是第三个。"
-        },
-        {
-          "s": "All the kids went to the teacher asking, “Can I read with Mr Herman?”",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "所有孩子都跑去问老师：\"我能和赫尔曼先生一起读书吗？\""
-        },
-        {
-          "s": "Yet， now that I'm growing and the world I once knew as being so simple is becoming more complex， I find myself needing a way to escape． By opening a novel， I can leave behind my burdens and enter into a wonderful and mysterious world where I am now a new character． In these worlds I can become anyone． I don't have to write down what happened or what technique the author was using when he or she wrote this． I just read to relax．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "然而，随着我渐渐长大，曾经以为如此简单的世界变得越来越复杂，我发现自己需要一种逃避的方式。打开一本小说，我就能抛开烦恼，进入一个奇妙而神秘的世界，在那里我成为一个新的角色。在这些世界里我可以成为任何人。我不必记下发生了什么，也不必分析作者写作时运用了什么技巧。我阅读只是为了放松。"
-        },
-        {
-          "s": "Magazine articles can provide reluctant readers with a lively, breezy writing style that can inspire them to read more.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志文章能以生动、轻松的写作风格为不情愿的读者提供灵感，鼓励他们多阅读。"
-        },
-        {
-          "s": "We're taught to read because it's necessary for much of human understanding． Reading is a vital part of my life． Reading satisfies my desire to keep learning． And I've found that the possibilities that lie within books are limitless．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我们被教导阅读，因为这对于人类理解的许多内容来说是必要的。阅读是我生活中不可或缺的一部分。阅读满足了我不断学习的渴望。而且我发现，书中蕴含的可能性是无限的。"
-        },
-        {
-          "s": "People now rarely have the patience to read.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如今人们很少有阅读的耐心。"
-        },
-        {
-          "s": "The light，about one-thousandth of the amount needed to read by，is just a start.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这种光约为阅读所需光强的千分之一，只是一个开端。"
-        },
-        {
-          "s": "I was willing; I would do anything to read.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我愿意；为了读书我什么都愿意做。"
-        },
-        {
-          "s": "“Eudora is nine years old and has my permission to read any book she wants from the shelves, children or adults,” Mother said.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"Eudora九岁了，我允许她阅读书架上任何她想读的书，无论是儿童读物还是成人读物，\"妈妈说。"
-        },
-        {
-          "s": "Desire to read.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "阅读的渴望。"
-        },
-        {
-          "s": "Students should read the list with their parents / carers, and select two activities they would like to do.",
-          "src": "2018全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "学生应和家长/监护人一起阅读清单，并选择两项他们想做的活动。"
-        },
-        {
-          "s": "Data shows that kids and teens who do read frequently, compared to infrequent readers, have more books in the home, more books purchased for them, parents who read more often, and parents who set aside time for them to read.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "数据显示，与不常阅读的孩子和青少年相比，经常阅读的孩子和青少年家里有更多的书，为他们购买的书籍更多，父母阅读更频繁，并且父母会为他们留出阅读时间。"
-        },
-        {
-          "s": "How should parents encourage their children to read more?",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "家长应该如何鼓励孩子多读书？"
-        },
-        {
-          "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
-        },
-        {
-          "s": "Do you ever get to the train station and realize you forgot to bring something to read?",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "你有没有过到了火车站才发现忘了带读物的时候？"
-        },
-        {
-          "s": "One of the    60   (effect) ways to build vocabulary is to read good books.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "建立词汇量最有效（60）的方法之一就是读好书。"
-        }
-      ]
+     "s": "Some 60,000 novels were published during the Victorian age, from 1837 to1901; today a casual reader might be able to name a half-dozen of them.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在维多利亚时代，从1837年到1901年，出版了约6万本小说；今天，一个随便的读者也许可以将其中的六分之一命名。"
     },
     {
-      "def": "to discover or find out about sb/sth by reading 不用于进行时",
-      "ex": [
-        {
-          "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
-        },
-        {
-          "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
-        }
-      ]
+     "s": "And you’ll never be without something to read.",
+     "src": "2024新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "而且你再也不会没有东西可读。"
     },
     {
-      "def": "to guess what sb else is thinking 猜测；揣摩",
-      "ex": [
-        {
-          "s": "But the next step is making sure that you remember what you’ve read!",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "有些书，你立刻就会产生共鸣。"
-        }
-      ]
+     "s": "I had brought a children's book to read.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我带来了一本儿童书要读给他听。"
     },
     {
-      "def": "to look at the movements of sb's lips to learn what they are saying 观唇辨意；读唇语",
-      "ex": []
+     "s": "From the minute reached our house, I started to read. knew this was extreme happiness, knew it at the time.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从到达我们家的那一刻起，我就开始读。我知道这是极度的快乐，当时就知道。"
     },
     {
-      "def": "to understand sth in a particular way 懂得；理解",
-      "ex": [
-        {
-          "s": "But something about quantum computing makes it especially prone to hype, Johnson suggests, perhaps because “‘quantum’ stands for something cool you shouldn’t be able to understand.” And that brings me back to Taylor, who suggested that I read his book Q for Quantum.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但量子计算的某些特点使其特别容易受到炒作的影响，Johnson暗示道，也许是因为\"'量子'代表着你本不该理解的酷东西。\"这让我回到了Taylor身边，他建议我读他的书《Q for Quantum》。"
-        },
-        {
-          "s": "But remember, it’s you that has to grow and read and reread in order to better understand your friends.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但请记住，是你自己需要成长、阅读和反复阅读，才能更好地理解你的朋友。"
-        },
-        {
-          "s": "If you don’t understand what you’re reading, how would you remember it?",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果你不理解你正在读的内容，又怎么能记得住呢？"
-        },
-        {
-          "s": "Is comprehension the same whether a person reads a text onscreen or on paper?",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一个人在屏幕上读文章和在纸上读文章，理解效果是一样的吗？"
-        },
-        {
-          "s": "35  As you make reading a regular part of your life, you’ll make more connections, stay more focused and understand the text better.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "35 当你让阅读成为生活的固定部分，你会建立更多联系、更专注，并更好地理解文本。"
-        }
-      ]
+     "s": "Does the look inspire you, and make you want to read more?",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这个样子会激励你，让你想读更多吗？"
     },
     {
-      "def": "to have sth written on it; to be written in a particular way 写着；写成",
-      "ex": [
-        {
-          "s": "Choose the one that fits best according to the information given in the passage you have just read.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "显然，不与特定银行或特定国家挂钩的货币这一概念对许多人很有吸引力。"
-        },
-        {
-          "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
-        },
-        {
-          "s": "Over the weekend， he worked through the piles of handmade cards at his house． One card from a student stood out to him． It read： \"Mr． Haze，you are my sunshine．\"",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "整个周末，他在家翻看那一堆手写卡片。一张学生的卡片让他眼前一亮。上面写着：“黑兹先生，你是我的阳光。”"
-        }
-      ]
+     "s": "●How often do you read?",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "●你多久读一次？"
     },
     {
-      "def": "to give a particular impression when read 读起来（给人以某种印象）",
-      "ex": [
-        {
-          "s": "This isn’t as hard as it    62   (sound), and it is far better than any other method because you improve your vocabulary while    63   (read) an interesting piece of literature.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这并不像它___62___（听起来）那么难，而且远比任何其他方法好，因为你在___63___（阅读）一篇有趣的文学作品时提高了词汇量。"
-        },
-        {
-          "s": "People often link their memory of what they’ve read to how far into the book it was or where it was on the page.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "人们常把对所读内容的记忆与它出现在书中的位置或页面上的位置联系起来。"
-        },
-        {
-          "s": "Eat Less, Read More",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "阐述一个论点。"
-        },
-        {
-          "s": "Klein, a noted historian of technology, spins a narrative so lively that at times it reads like a novel.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Klein是一位著名的技术史学家，他讲述的叙事如此生动，有时读起来像小说。"
-        }
-      ]
+     "s": "Practice reading the words aloud.",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "练习大声读出这些单词。"
     },
     {
-      "def": "to show a particular weight, pressure, etc. 测量仪器",
-      "ex": []
+     "s": "Practice reading the words aloud.",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "练习大声读出这些单词。"
     },
     {
-      "def": "to get information from a measuring instrument 看读数",
-      "ex": [
-        {
-          "s": "Simple readings are now readily available on our phones and wearables.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如今，我们的手机和可穿戴设备都能轻松给出这些简单读数。"
-        },
-        {
-          "s": "Why the digital readings varied.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "数字读数为什么会有差异。"
-        },
-        {
-          "s": "take pollutant readings            B. record pollutant levels",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "采集污染物读数            B. 记录污染物水平"
-        }
-      ]
+     "s": "The image of the reader appears throughout history, in art made long before books as we now know them came into being.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "读者的形象贯穿整个历史，出现在远早于我们今天所熟知的书籍诞生之前的艺术作品中。"
     },
     {
-      "def": "to hear and understand sb speaking on a radio set 听到，听明白（用无线电机讲的话）",
-      "ex": [
-        {
-          "s": "I read both definitions over again, trying to figure it out, but Miss Chevalier must have read my mind.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我把两个释义又读了一遍，试图弄明白，但谢瓦利埃小姐一定看穿了我的心思。"
-        },
-        {
-          "s": "“Listen, if you don't mind, I'd like to come to the school and read with you. ”he said.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“听着，如果你不介意的话，我想来学校和你一起读书。”他说。"
-        },
-        {
-          "s": "You never knowD．You read my mind",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．我不明白B．由你决定"
-        },
-        {
-          "s": "After you hear a conversation and the question about it, read the four possible answers on your paper, and decide which one is the best answer to the question you have heard.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "听完对话及问题后，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
-        },
-        {
-          "s": "When you hear a question, read the four possible answers on your paper and decide which one is the best answer to the question you have heard.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "听到问题时，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
-        },
-        {
-          "s": "I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"
-        },
-        {
-          "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
-        }
-      ]
+     "s": "If we are to find the other half of that conversation, we have to read not just the texts, but the objects.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如果我们要找回那场对话的另一半，我们不仅要读文本，还要读那些实物。"
     },
     {
-      "def": "to replace one word, etc. with another when correcting a text 替换；将 … 改为",
-      "ex": [
-        {
-          "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
-        }
-      ]
+     "s": "So two by two,I read library books as fast as I could go: rushing them home in the basket of my bicycle.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "所以两本两本地，我尽可能快地读图书馆的书：把它们匆忙放在我的自行车篮子里带回家。"
     },
     {
-      "def": "to study a subject, especially at a university 学习；攻读；主修",
-      "ex": [
-        {
-          "s": "reading novels is a way to learn about a historical period",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "读小说是了解某个历史时期的一种方式"
-        },
-        {
-          "s": "We see scenes of children learning to read at home or at school, with the book as a focus for relations between the generations.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们看到了孩子们在家或在学校学习阅读的场景，书成为代际关系的焦点。"
-        },
-        {
-          "s": "33 Therefore, they don’t have time to learn how to read or write and don’t get an education.",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "33 因此，他们没有时间学习如何阅读或写字，也接受不到教育。"
-        },
-        {
-          "s": "The Pleasure of Reading",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "B．培养学习的热情"
-        }
-      ]
+     "s": "It can take some other forms, either via the books we read or the films we watch.",
+     "src": "2023天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它也可以表现为其他形式，要么通过我们读的书，要么通过我们看的电影。"
     },
     {
-      "def": "to take information from a disk 计算机或计算机使用者",
-      "ex": [
-        {
-          "s": "Make sure that any abbreviations and emojis you use are appropriate for the situation, and consider whether your readers will even know what you mean by BRB or COZ.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "请确保您使用的任何缩写和表情符号都适合这种情况，并考虑您的读者是否会知道您所说的BRB或COZ是什么意思。"
-        }
-      ]
+     "s": "Reading magazines as a family can be used to introduce each other to the various interests that each family member possesses.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "全家一起读杂志，可以用来让彼此了解各位家庭成员的各种兴趣。"
     },
     {
-      "def": "an act or a period of reading sth 阅读；读书",
-      "ex": [
-        {
-          "s": "Directions: After reading the passages below, fill in the blanks to make the passages coherent and grammatically correct.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说明：阅读下面短文后，填空使短文连贯。"
-        },
-        {
-          "s": "Cruse now volunteers to help kindergarten students with reading two days a week, and on a third day, he instructs the school's first-and second-graders.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "克鲁斯现在每周自愿花两天帮助幼儿园孩子阅读，第三天则指导学校的一、二年级学生。"
-        },
-        {
-          "s": "If you have difficulties reading, ask about special reading opportunities.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你阅读有困难，可以询问是否有专门的阅读机会。"
-        },
-        {
-          "s": "This depends on the type of book you are reading.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这取决于你正在读的书的类型。"
-        },
-        {
-          "s": "the parent to enjoy quiet reading",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让家长享受安静的阅读。"
-        },
-        {
-          "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
-        },
-        {
-          "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
-        },
-        {
-          "s": "Where can you find the data that best supports “children are reading a lot less for fun”?",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你在哪里能找到最有力支持“孩子趣味性阅读少了很多”的数据？"
-        },
-        {
-          "s": "In artists’ representations of books and reading, we see moments of shared humanity that go beyond culture and time.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"
-        },
-        {
-          "s": "Books and reading.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "书籍与阅读。"
-        },
-        {
-          "s": "Most of my reading through primary， middle and high school was factual reading． I read for knowledge， and to make A's on my tests． Occasionally， I would read a novel that was assigned， but I didn't enjoy this type of reading． I liked facts， things that are concrete． I thought anything abstract left too much room for argument．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在小学、初中和高中阶段，我的大部分阅读都是事实性阅读。我为获取知识而读，为了在考试中拿A。偶尔，我也会读老师指定的小说，但我并不喜欢这种阅读。我喜欢事实，喜欢具体的东西。我认为任何抽象的事物都留下了太多争论的空间。"
-        },
-        {
-          "s": "Not only can you post specific questions, but you can broaden your knowledge by reading posts from other English learners around the world.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "你不仅可以发布具体问题，还可以通过阅读来自世界各地其他英语学习者的帖子来扩展你的知识。"
-        },
-        {
-          "s": "Humans, in thinking, talking, reading and writing, also work with symbols.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "人类在思考，交谈，阅读和写作中，也用符号工作。"
-        },
-        {
-          "s": "And are listening to and viewing content as effective as reading the written word when covering the same material?",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在学习同样的材料时，听和看内容与阅读文字一样有效吗？"
-        },
-        {
-          "s": "Don’t just read the words; think the ideas.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "不要只阅读文字；要思考其中的思想。"
-        },
-        {
-          "s": "Read our Youth Policy Guidelines for youth under the age of 15.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "15岁以下的青少年请阅读我们的青少年政策指南。"
-        },
-        {
-          "s": "However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view identical pieces.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "然而，心理学家已经证明，当成年人阅读新闻故事时，比起聆听或观看相同的片段，他们对内容的记忆更多。"
-        },
-        {
-          "s": "Be sure to schedule set times to watch your lectures, read materials and contribute to online discussion boards.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "不同文化间道德美德的相似性令人瞩目，尽管各种美德的重要性排序可能因社会群体的历史和环境而异。"
-        },
-        {
-          "s": "Technology has changed the way we read.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "技术改变了我们的阅读方式。"
-        },
-        {
-          "s": "As I read, he reaches out and pokes（戳）the page with his finger.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当我读书时，他伸出手用手指戳（戳）页面。"
-        },
-        {
-          "s": "Directions: Read the following three passages.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "Directions: 阅读以下三篇短文。"
-        },
-        {
-          "s": "Directions: Read the following passage.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "Directions: 阅读以下短文。"
-        },
-        {
-          "s": "Parents are often surprised when teachers suggest their children read magazines.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志文章可以为不愿阅读的读者提供生动轻快的写作风格，能够激励他们多读书。"
-        },
-        {
-          "s": "Consumers enjoy reading and giving reviews.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "消费者喜欢阅读和撰写评价。"
-        },
-        {
-          "s": "When reading texts of several hundred words or more, learning is generally more successful when it’s on paper than onscreen.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "阅读几百词或更长的文本时，在纸上学习通常比在屏幕上更成功。"
-        },
-        {
-          "s": "Clearly, my way of reading the text had shifted, and I myself had changed over the years.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "显然，我阅读文本的方式已经改变，而这些年来我自己也变了。"
-        },
-        {
-          "s": "My reaction to the renewed reading no longer corresponded to the original experience, and I was no longer sure that I recognized myself as the same reader.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我对重新阅读的反应不再与最初的体验相符，我也不再确定自己是否还是同一个读者。"
-        },
-        {
-          "s": "When he walked in, the boy shouted proudly, “Hey, that's my bus driver!”They went into a quiet corner and began reading together.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当他走进去时，男孩骄傲地喊道：\"嘿，那是我的校车司机！\"他们走进一个安静的角落，开始一起读书。"
-        },
-        {
-          "s": "He loves how reading opens up a new world for them.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他喜爱阅读如何为他们打开一个新世界。"
-        },
-        {
-          "s": "Now I think of her as reading so much of the time while doing something else.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "现在我想象她一边做别的事，一边大部分时间都在阅读。"
-        },
-        {
-          "s": "\"You simply can't get an understanding of that handwork by reading about it,\" she says.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"你简直无法通过阅读来了解那种手工活，\"她说。"
-        },
-        {
-          "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）根据第3段，作者对路标的阅读表明____。"
-        },
-        {
-          "s": "If you read frequently, you’ll likely have and easier time with remembering what you’re reading(and what you’ve read).",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果你经常阅读，你可能会更容易记住你正在读的内容（以及你已经读过的内容）。"
-        },
-        {
-          "s": "You can do the same thing when you are reading the text!",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "你在阅读课文时也可以做同样的事情！"
-        },
-        {
-          "s": "I must have always known reading was very important because the first memories I have as a child deal with books． There was not one night that I don't remember mom reading me a storybook by my bedside． I was extremely inspired by the elegant way the words sounded．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我一定一直都知道阅读非常重要，因为我童年最早的记忆都与书有关。没有哪个夜晚我不记得妈妈在床边给我读故事书。那些文字优雅的读音极大地启发了我。"
-        },
-        {
-          "s": "My first job was working at the Ukiah Library when I was 16 years old .It was a dream job and I did everything from shelving books to reading to the children for story time.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的第一份工作是16岁时在尤凯亚图书馆工作。那是份梦想中的工作，从图书上架到故事时间给孩子们读书，我什么都做。"
-        },
-        {
-          "s": "Reading: A Source of Knowledge",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "阅读：知识的源泉"
-        },
-        {
-          "s": "Class activities will vary from day to day, but students must be ready to complete short in-class writings or tests drawn directly from assigned readings or notes from the previous class' lecture/discussion, so it is important to take careful notes during class.",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "课堂活动每天不同，但学生必须准备好完成直接取自指定阅读或上节课讲座/讨论笔记的简短课堂写作或测试，所以课堂上认真记笔记很重要。"
-        },
-        {
-          "s": "During your initial reading of material, do you ever go back and reread sentences or paragraphs?",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在你对材料的初步阅读过程中，你是否曾经回去重新阅读句子或段落？"
-        },
-        {
-          "s": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks — like identifying the main idea in a reading passage — to ones that require mental abstraction — such as drawing inferences from a text.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
-        },
-        {
-          "s": "To ask for a reading list.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "索要一份阅读书单。"
-        },
-        {
-          "s": "He thought it was an ideal place for reading.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他认为那是个读书的理想之地。"
-        },
-        {
-          "s": "The original reading was either forgotten or so totally absorbed that the new chance encounter with the text produced surprise and astonishment.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "最初的阅读要么被遗忘了，要么被完全吸收，以至于再次偶然遇到这段文字时产生了惊讶和震撼。"
-        },
-        {
-          "s": "All of these ways of reading are valuable.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "重要的不仅是符号串的外表，还有其内在含义，不仅是它们的排列方式，更是它们的意义。"
-        },
-        {
-          "s": "The new reading, a form of revision, uncovers the change in us.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "新的阅读，作为一种修订，揭示了我们自身的变化。"
-        },
-        {
-          "s": "Unexpected reading experience.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "意想不到的阅读体验。"
-        },
-        {
-          "s": "She taught in our reading club.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "建造太阳能农场的人工成本上升。"
-        },
-        {
-          "s": "Studies show teaching children how to cook at an early age helps with reading comprehension and fine motor ability, in addition to learning about nutrition and food safety.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "研究表明，尽早教孩子做饭有助于提高阅读理解能力和精细动作能力，此外还能让他们了解营养和食品安全。"
-        },
-        {
-          "s": "Reading Art: Art for Book Lovers is a celebration of an everyday object — the book, represented here in almost three hundred artworks from museums around the world.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "《阅读艺术：书迷的艺术》是对一件日常物品——书——的礼赞，书中收录了来自世界各地博物馆的近三百件艺术作品。"
-        },
-        {
-          "s": "Ways to develop reading ability.",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "培养阅读能力的方法。"
-        },
-        {
-          "s": "To develop your reading fluency.",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "培养你的阅读流利度。"
-        },
-        {
-          "s": "If the only reading you ever do is the novel or magazine, the speed at which you read -probably does not matter very much.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "如果你唯一的阅读就是小说或杂志，那么你阅读的速度可能并不太重要。"
-        },
-        {
-          "s": "Here are some tips to help improve your reading speed.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这里有一些帮助你提高阅读速度的建议。"
-        },
-        {
-          "s": "To develop your reading fluency.",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "培养你的阅读流利度。"
-        },
-        {
-          "s": "But with reading, it’s all about the present.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但阅读这件事，全都关乎当下。"
-        },
-        {
-          "s": "It’s about the now and what one contributes to the now, because reading is a give and take between author and reader.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它关乎当下，以及一个人对当下的贡献，因为阅读是作者与读者之间的一种互动交流。"
-        },
-        {
-          "s": "Joy of reading passed on in the family.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在家庭中传递的阅读之乐。"
-        },
-        {
-          "s": "To get the most out of reading these plays, try to picture the play on stage, with you, the reader, in the audience.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "要充分阅读这些剧本，试着想象舞台上的演出场景，你——读者——坐在观众席上。"
-        },
-        {
-          "s": "What does the author suggest readers do while reading the plays?",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者建议读者阅读剧本时做什么？"
-        },
-        {
-          "s": "A bright spot for me turned out to be reading.",
-          "src": "2020浙江7月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对我来说，一个亮点原来是阅读。"
-        },
-        {
-          "s": "giving access to online reading at a library branch",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在图书馆分馆提供在线阅读权限"
-        },
-        {
-          "s": "the kid to overcome reading difficulties",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "帮助孩子克服阅读困难"
-        },
-        {
-          "s": "her eagerness to develop her reading ability",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "B．她急于培养自己的阅读能力。"
-        },
-        {
-          "s": "（3）What was the author's view on factual reading？",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（3）作者对事实性阅读的看法是什么？"
-        },
-        {
-          "s": "The Magic of Reading",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A. 阅读的魔法"
-        },
-        {
-          "s": "Growing Up with Reading",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "C．了解成人社区"
-        },
-        {
-          "s": "Reading Makes a Full Man",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D．阅读使人充实"
-        },
-        {
-          "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
-        },
-        {
-          "s": "While the decline over the past decade is steep for teen readers, some data in the report shows that reading remains a big part of many children’s lives, and indicates how parents might help encourage more reading.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然过去十年青少年读者的下降幅度很大，但报告中的一些数据显示阅读仍然是许多儿童生活中的重要部分，并表明家长可能如何帮助鼓励更多阅读。"
-        },
-        {
-          "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "报告数据显示，2-8岁儿童的娱乐性阅读水平基本保持不变。"
-        },
-        {
-          "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
-        },
-        {
-          "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
-        },
-        {
-          "s": "The most hopeful data shared in the report shows clear evidence of parents serving as examples and important guides for their kids when it comes to reading.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "报告中分享的最有希望的数据表明，有明确证据表明，在阅读方面，父母为子女树立了榜样和重要的指南。"
-        },
-        {
-          "s": "Children’s reading habits.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "儿童的阅读习惯。"
-        },
-        {
-          "s": "Why do many parents limit electronic reading?",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为什么许多家长限制电子阅读？"
-        },
-        {
-          "s": "Set up reading groups for them.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为他们建立阅读小组。"
-        },
-        {
-          "s": "Talk with their reading class teachers.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "与他们的阅读课老师交谈。"
-        },
-        {
-          "s": "Reading is important.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "阅读很重要。"
-        }
-      ]
+     "s": "The next day, when Ms Black read the essay to the class, everyone laughed.",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第二天，当布莱克女士在班上朗读这篇文章时，大家都笑了。"
     },
     {
-      "def": "a book, an article, etc. that is good, etc. 好的（或有意思等的）读物；好书（或文章等）",
-      "ex": [
-        {
-          "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
-        },
-        {
-          "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
-        },
-        {
-          "s": "Read on to learn about the benefits that reading magazines offers to young readers and how to introduce your children to the medium.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志中的文章通常很短，这使得孩子能够在不因注意力短暂而失去兴趣的情况下读完一篇专题文章。"
-        },
-        {
-          "s": "You need to    61   (real)read at least one good book a week, preferably a classic.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "你需要____61____（真正）每周至少读一本好书，最好是一本经典。"
-        },
-        {
-          "s": "Here she picks her top reads.",
-          "src": "2019全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这里是她挑选的最爱读物。"
-        }
-      ]
+     "s": "I always read ,using different voices ,as though I were acting out the stories with my voice and they loved it !It was a special time to bond with my children and it filled them with the wonderment of books .",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我总是用不同的声音朗读，仿佛用声音把故事演出来，他们很喜欢！那是一段与孩子建立亲密关系的特别时光，也让他们充满对书籍的惊奇。"
+    },
+    {
+     "s": "The passages or conversation you will be asked several questions, the passages and the conversation will be read twice, but the questions will be spoken only once.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你将针对短文或对话回答若干问题，短文和对话将读两遍，但问题只读一遍。"
+    },
+    {
+     "s": "Spend a few minutes reading the material aloud.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "花几分钟大声朗读材料。"
+    },
+    {
+     "s": "That’s what happened the day my club was reading aloud a poem by Henry Longfellow.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "那是在我的读书会朗读亨利·朗费罗的一首诗的那天发生的事。"
+    },
+    {
+     "s": "He likes reading short plays to others.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他喜欢给别人朗读短剧。"
+    },
+    {
+     "s": "I enjoyed reading stories aloud.",
+     "src": "2020浙江7月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我喜欢大声朗读故事。"
+    },
+    {
+     "s": "However, new studies have shown that dogs can read human behaviour and have a preference to people who are more friendly or generous with food.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "然而，新研究表明，狗能读懂人类行为，并偏好那些更友好或对食物更大方的人。"
+    },
+    {
+     "s": "Thirteen-year-old Sally Carter loved reading fantasy books.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "13岁的Sally Carter喜欢读奇幻小说。"
+    },
+    {
+     "s": "There are three books I reread annually The first, which I take to reading every spring is Emest Hemningway’s A Moveable Feast.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "有三本书我每年重读。第一本是海明威的《流动的盛宴》，我每年春天都会读。"
+    },
+    {
+     "s": "I was always an enthusiastic reader, sometimes reading up to three books a day as a child.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我一直以来都是个热忱的读者，小时候有时一天能读三本书。"
+    },
+    {
+     "s": "After I read the book, Taylor patiently answered my questions about it.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我读完那本书后，泰勒耐心地回答了我关于它的问题。"
+    },
+    {
+     "s": "It was a big deal for us to load up and go to the local library, where my kids could pick out books to read or books they wanted me to read to them.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "对我们来说，装满东西去当地图书馆是件大事，孩子们可以在那里挑选自己读的书，或挑出想让我读给他们听的书。"
+    },
+    {
+     "s": "I had just finished reading The Mill on the Floss by George Eliot, and I was heartbroken with the ending.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我刚读完乔治·艾略特的《弗洛斯河上的磨坊》，对结局感到心碎。"
+    },
+    {
+     "s": "So I was actually reading it again, but what I was rereading seemed entirely new.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "所以我其实是在重读它，但我重读的内容似乎完全是全新的。"
+    },
+    {
+     "s": "---                 .I'm still reading the last chapter.",
+     "src": "2021天津3月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "---                 .我还在读最后一章。"
+    },
+    {
+     "s": "What is the woman reading now?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "女士现在在读什么？"
+    },
+    {
+     "s": "What is the woman reading now?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "女士现在在读什么？"
+    },
+    {
+     "s": "I remember her reading a magazine while taking the part of the Wolf in a game of “Little Red Riding Hood” with my brother’s two daughters.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我记得她一边读杂志，一边和我哥哥的两个女儿玩“小红帽”游戏，扮演大灰狼。"
+    },
+    {
+     "s": "What is the woman reading now?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "女士现在在读什么？"
+    },
+    {
+     "s": "How did Smith, feel after reading the French manuscript? （    ）",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Smith读完法语手稿后感觉如何？（    ）"
+    },
+    {
+     "s": "Marian Bechtel sits at West Palm Beach’s Bar Louie counter by herself, quietly reading her e-book as she waits for her salad.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "玛丽安·贝克特尔独自坐在西棕榈滩Bar Louie餐厅的吧台前，安静地读着电子书，等待她的沙拉。"
+    },
+    {
+     "s": "This seems almost too obvious to bother writing or reading about.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这似乎太显而易见，不值得写或读。"
+    },
+    {
+     "s": "You like going to the movies and reading crime novels and you have $ 150 to spend, In the example below, assume that each movie costs $10 and each crime novel costs $15.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你喜欢看电影和读犯罪小说，有150美元可花。在下面的例子中，假设每部电影10美元，每本犯罪小说15美元。"
+    },
+    {
+     "s": "It’s a bit like reading a foreign language.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这有点像读一门外语。"
+    },
+    {
+     "s": "We played games together, and stayed up late reading bedtime stories.",
+     "src": "2020天津3月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们一起玩游戏熬夜读睡前故事。"
+    },
+    {
+     "s": "What did the author find when reading Montaigne’s Essays?",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者在读蒙田的《随笔集》时发现了什么？"
+    },
+    {
+     "s": "（4）The author takes novel reading as a way to     ．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（4）作者把读小说当作一种___的方式。"
+    },
+    {
+     "s": "Choosing what to read became easier.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "选择读什么书变得更容易了。"
+    },
+    {
+     "s": "How to Remember What You Read",
+     "src": "2017浙江11月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如何记住你所读的内容"
+    },
+    {
+     "s": "If the plot, characters, or word usage is confusing for you, likely won’t be able to remember what you read.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果情节、人物或用词让你困惑，你很可能记不住读过什么。"
+    },
+    {
+     "s": "Marking helps you remember what you read.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "标记有助于你记住所读的内容。"
+    },
+    {
+     "s": "What is she reading?",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "她在读什么？"
+    },
+    {
+     "s": "Here are a few tricks for remembering what you read.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这里有几个帮助你记住所读内容的技巧。"
+    },
+    {
+     "s": "You’ll learn to enjoy literature—as you remember what you read!",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "你会学会欣赏文学——同时记住你所读的内容！"
+    },
+    {
+     "s": "Sometimes she would look in and ask what we were reading — not to check but to know.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "有时她会走进来问我们在读什么——不是为了检查而是为了了解。"
+    },
+    {
+     "s": "According to this theory, people approach digital texts with a mindset suited to social media, which are often not so serious, and devote less mental effort than when they are reading print.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "根据这一理论，人们以一种适合社交媒体的心态对待电子文本——往往不那么严肃，投入的脑力也比读纸质文本时少。"
+    },
+    {
+     "s": "Benjamin could read only a little,having been a poor student.But he later said,”Those two books were my companions by day,and under my pillow at night.”While it is likely that he understood very little of the books,they were his introduction to classical paintings.The nine-year-old boy decided then that he would be an artist.",
+     "src": "2017浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "本杰明只读过一点书，因为他曾是个差学生。但他后来说：“那两本书白天是我的伙伴，晚上就在我的枕头下。”虽然他很可能几乎看不懂那些书，但它们是他接触古典绘画的入门。这个九岁男孩当时就下定决心要成为一名艺术家。"
+    },
+    {
+     "s": "Yes, we all have our phones, but many of us still like to go old school and read something printed.",
+     "src": "2024新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "是的，我们都有手机，但我们中的许多人仍然喜欢老派一点，读点印刷品。"
+    },
+    {
+     "s": "How much time does the man have to read the book?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个男的有多少时间来读这本书？"
+    },
+    {
+     "s": "How much time does the man have to read the book?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个男的有多少时间来读这本书？"
+    },
+    {
+     "s": "How much time does the man have to read the book?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这个男的有多少时间来读这本书？"
+    },
+    {
+     "s": "Miss Chevalier pretended not to have noticed my red face and handed me a dictionary, asking me to read its definition aloud.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "谢瓦利埃小姐假装没注意到我涨红的脸，递给我一本字典，让我大声读出其中的释义。"
+    },
+    {
+     "s": "I took down one of the dictionaries, and we read it together for a few minutes before I handed it to him.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我取下其中一本词典，我们一起读了几分钟，然后递给了他。"
+    },
+    {
+     "s": "But a dictionary can be a pleasure to read.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "但词典也可以读得津津有味。"
+    },
+    {
+     "s": "If read by someone poorly educated.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "如果被教育程度低的人读到。"
+    },
+    {
+     "s": "From then on, if I wanted to read an ending guaranteed to be happy, I’d pick up a love romance.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "从那以后，如果我想读一个保证美满的结局，我就会拿起一本爱情浪漫小说。"
+    },
+    {
+     "s": "I even read a few of them.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我甚至读了其中几本。"
+    },
+    {
+     "s": "I even read a few of them.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我甚至读了其中几本。"
+    },
+    {
+     "s": "“and I want to read it when you’re through.”",
+     "src": "2023北京卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "“而且你想读完的时候，我想读它。”"
+    },
+    {
+     "s": "He wanted to read it by himself.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他想自己读。"
+    },
+    {
+     "s": "“I’m not a trained musician, but I’ve learnt to read music so I can help Maria in her performance.”",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我不是受过训练的音乐家，但我学会了读谱，这样能在演出中帮助玛丽亚。"
+    },
+    {
+     "s": "In the former case you may be able to read a chapter.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在前一种情况下，你可能能读一章。"
+    },
+    {
+     "s": "In the latter you may only be able to read one page.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在后一种情况下，你可能只能读一页。"
+    },
+    {
+     "s": "Returning to a book you’ve read many times can feel like drinks with an old friend.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "重读一本你读过很多遍的书，感觉就像与一位老友共饮。"
+    },
+    {
+     "s": "Read the lines.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "读这些台词。"
+    },
+    {
+     "s": "You could not take back a book to the library on the same day you’d taken it out; it made no difference to her that you’d read every word in it and needed another to start.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你不能在借书当天就把书还回图书馆；即便你把里面每个字都读了、需要另一本开始读，对她来说也没区别。"
+    },
+    {
+     "s": "AI will affect us all, and if you only read one book on the subject, this is it.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "人工智能将影响我们所有人，如果你只读一本关于这个主题的书，那就是这本。"
+    },
+    {
+     "s": "She wanted mom to read the news to her．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "A．她想让妈妈给她读新闻。"
+    },
+    {
+     "s": "Everyone was silent, wait to see who would be called upon to read his and her paragraph aloud.",
+     "src": "2018全国III卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "大家都安静地等待，看谁会被叫起来大声朗读自己的段落。"
+    },
+    {
+     "s": "When you see the capitalized “WHO” in a medical report, do you read it as the “who” in “Who’s that?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "当你在医学报告中看到大写的＂WHO＂时，你是把它读作＂Who's that＂中的＂who＂吗？"
+    },
+    {
+     "s": "●Read it; hear it; be it!",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "●读它；听它；成为它！"
+    },
+    {
+     "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
+    },
+    {
+     "s": "Whaley says the project is about more than just learning to read and speak in public.",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "惠利说，这个项目不只是关于学习在公开场合朗读和说话。"
+    },
+    {
+     "s": "The more dispassionate that negative write-up, the more likely it was to take the reader in.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "负面评论写得越冷静克制，就越容易让读者信以为真。"
+    },
+    {
+     "s": "When scanning a text, you read it quickly in order to find a specific piece of information.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "在扫描一个文本时，您会快速读取，以便找到一个特定的信息片段。"
+    },
+    {
+     "s": "The writing in magazines also tends to be easy to read, especially if it is a children's publication.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志的写作也往往易读，尤其是儿童刊物。"
+    },
+    {
+     "s": "Reading history is an amazing experience because it enables us to reflect on the social and economic life of the people living long time ago.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "读史是一种奇妙的体验，因为它让我们得以反思很久以前人们的社会与经济生活。"
+    },
+    {
+     "s": "Long before reading and writing became widely spread and available, oral storytelling had already been a form that the wisdom and knowledge of the people were passed down from elders to children.",
+     "src": "2023天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "早在读写广泛普及之前，口头讲故事就已是人们将智慧和知识从长辈传给孩子的一种形式。"
+    },
+    {
+     "s": "The end result is a read in which we learn to wonder like Socrates, see like Thoreau, listen like Schopenhauer, and have no regrets like Nietzsche.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "最终读到的，是我们学会像苏格拉底一样发问、像梭罗一样观察、像叔本华一样倾听、像尼采一样无怨无悔。"
+    },
+    {
+     "s": "The differences between print and digital reading results are partly related to paper’s physical properties.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "印刷和数字阅读结果之间的差异部分与纸张的物理特性有关。"
+    },
+    {
+     "s": "Feature stories typically start with a \"hook\" that gets the interest of the reader.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "特写故事通常以一个能吸引读者兴趣的\"钩子\"开头。"
+    },
+    {
+     "s": "Later, a second student wanted to read with him, then a third.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "后来，第二个学生想和他一起读书，接着是第三个。"
+    },
+    {
+     "s": "All the kids went to the teacher asking, “Can I read with Mr Herman?”",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "所有孩子都跑去问老师：\"我能和赫尔曼先生一起读书吗？\""
+    },
+    {
+     "s": "Yet， now that I'm growing and the world I once knew as being so simple is becoming more complex， I find myself needing a way to escape． By opening a novel， I can leave behind my burdens and enter into a wonderful and mysterious world where I am now a new character． In these worlds I can become anyone． I don't have to write down what happened or what technique the author was using when he or she wrote this． I just read to relax．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "然而，随着我渐渐长大，曾经以为如此简单的世界变得越来越复杂，我发现自己需要一种逃避的方式。打开一本小说，我就能抛开烦恼，进入一个奇妙而神秘的世界，在那里我成为一个新的角色。在这些世界里我可以成为任何人。我不必记下发生了什么，也不必分析作者写作时运用了什么技巧。我阅读只是为了放松。"
+    },
+    {
+     "s": "Magazine articles can provide reluctant readers with a lively, breezy writing style that can inspire them to read more.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志文章能以生动、轻松的写作风格为不情愿的读者提供灵感，鼓励他们多阅读。"
+    },
+    {
+     "s": "We're taught to read because it's necessary for much of human understanding． Reading is a vital part of my life． Reading satisfies my desire to keep learning． And I've found that the possibilities that lie within books are limitless．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我们被教导阅读，因为这对于人类理解的许多内容来说是必要的。阅读是我生活中不可或缺的一部分。阅读满足了我不断学习的渴望。而且我发现，书中蕴含的可能性是无限的。"
+    },
+    {
+     "s": "People now rarely have the patience to read.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如今人们很少有阅读的耐心。"
+    },
+    {
+     "s": "The light，about one-thousandth of the amount needed to read by，is just a start.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这种光约为阅读所需光强的千分之一，只是一个开端。"
+    },
+    {
+     "s": "I was willing; I would do anything to read.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我愿意；为了读书我什么都愿意做。"
+    },
+    {
+     "s": "“Eudora is nine years old and has my permission to read any book she wants from the shelves, children or adults,” Mother said.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"Eudora九岁了，我允许她阅读书架上任何她想读的书，无论是儿童读物还是成人读物，\"妈妈说。"
+    },
+    {
+     "s": "Desire to read.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "阅读的渴望。"
+    },
+    {
+     "s": "Students should read the list with their parents / carers, and select two activities they would like to do.",
+     "src": "2018全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "学生应和家长/监护人一起阅读清单，并选择两项他们想做的活动。"
+    },
+    {
+     "s": "Data shows that kids and teens who do read frequently, compared to infrequent readers, have more books in the home, more books purchased for them, parents who read more often, and parents who set aside time for them to read.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "数据显示，与不常阅读的孩子和青少年相比，经常阅读的孩子和青少年家里有更多的书，为他们购买的书籍更多，父母阅读更频繁，并且父母会为他们留出阅读时间。"
+    },
+    {
+     "s": "How should parents encourage their children to read more?",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "家长应该如何鼓励孩子多读书？"
+    },
+    {
+     "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
+    },
+    {
+     "s": "Do you ever get to the train station and realize you forgot to bring something to read?",
+     "src": "2024新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "你有没有过到了火车站才发现忘了带读物的时候？"
+    },
+    {
+     "s": "One of the    60   (effect) ways to build vocabulary is to read good books.",
+     "src": "2017浙江11月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "建立词汇量最有效（60）的方法之一就是读好书。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to discover or find out about sb/sth by reading 不用于进行时",
+   "ex": [
     {
-      "en": "finished reading",
-      "cn": "读完",
-      "type": "名词短语",
-      "count": 3
+     "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
     },
     {
-      "en": "reading magazines",
-      "cn": "读杂志",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "woman reading",
-      "cn": "女士在读",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "read a book",
-      "cn": "读书",
-      "type": "动词短语",
-      "count": 4
-    },
-    {
-      "en": "read aloud",
-      "cn": "朗读",
-      "type": "动词短语",
-      "count": 1
+     "s": "I jumped out of the car, made a mad run for the machine, and popped my card in, only to read the message: \"Out of order.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我跳下车，拼命跑向机器，把卡插进去，却看到提示：“故障停用。”"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to guess what sb else is thinking 猜测；揣摩",
+   "ex": [
+    {
+     "s": "But the next step is making sure that you remember what you’ve read!",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "有些书，你立刻就会产生共鸣。"
+    }
+   ]
+  },
+  {
+   "def": "to look at the movements of sb's lips to learn what they are saying 观唇辨意；读唇语",
+   "ex": []
+  },
+  {
+   "def": "to understand sth in a particular way 懂得；理解",
+   "ex": [
+    {
+     "s": "But something about quantum computing makes it especially prone to hype, Johnson suggests, perhaps because “‘quantum’ stands for something cool you shouldn’t be able to understand.” And that brings me back to Taylor, who suggested that I read his book Q for Quantum.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "但量子计算的某些特点使其特别容易受到炒作的影响，Johnson暗示道，也许是因为\"'量子'代表着你本不该理解的酷东西。\"这让我回到了Taylor身边，他建议我读他的书《Q for Quantum》。"
+    },
+    {
+     "s": "But remember, it’s you that has to grow and read and reread in order to better understand your friends.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但请记住，是你自己需要成长、阅读和反复阅读，才能更好地理解你的朋友。"
+    },
+    {
+     "s": "If you don’t understand what you’re reading, how would you remember it?",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果你不理解你正在读的内容，又怎么能记得住呢？"
+    },
+    {
+     "s": "Is comprehension the same whether a person reads a text onscreen or on paper?",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一个人在屏幕上读文章和在纸上读文章，理解效果是一样的吗？"
+    },
+    {
+     "s": "35  As you make reading a regular part of your life, you’ll make more connections, stay more focused and understand the text better.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "35 当你让阅读成为生活的固定部分，你会建立更多联系、更专注，并更好地理解文本。"
+    }
+   ]
+  },
+  {
+   "def": "to have sth written on it; to be written in a particular way 写着；写成",
+   "ex": [
+    {
+     "s": "Choose the one that fits best according to the information given in the passage you have just read.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "显然，不与特定银行或特定国家挂钩的货币这一概念对许多人很有吸引力。"
+    },
+    {
+     "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
+    },
+    {
+     "s": "Over the weekend， he worked through the piles of handmade cards at his house． One card from a student stood out to him． It read： \"Mr． Haze，you are my sunshine．\"",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "整个周末，他在家翻看那一堆手写卡片。一张学生的卡片让他眼前一亮。上面写着：“黑兹先生，你是我的阳光。”"
+    }
+   ]
+  },
+  {
+   "def": "to give a particular impression when read 读起来（给人以某种印象）",
+   "ex": [
+    {
+     "s": "This isn’t as hard as it    62   (sound), and it is far better than any other method because you improve your vocabulary while    63   (read) an interesting piece of literature.",
+     "src": "2017浙江11月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这并不像它___62___（听起来）那么难，而且远比任何其他方法好，因为你在___63___（阅读）一篇有趣的文学作品时提高了词汇量。"
+    },
+    {
+     "s": "People often link their memory of what they’ve read to how far into the book it was or where it was on the page.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "人们常把对所读内容的记忆与它出现在书中的位置或页面上的位置联系起来。"
+    },
+    {
+     "s": "Eat Less, Read More",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "阐述一个论点。"
+    },
+    {
+     "s": "Klein, a noted historian of technology, spins a narrative so lively that at times it reads like a novel.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Klein是一位著名的技术史学家，他讲述的叙事如此生动，有时读起来像小说。"
+    }
+   ]
+  },
+  {
+   "def": "to show a particular weight, pressure, etc. 测量仪器",
+   "ex": []
+  },
+  {
+   "def": "to get information from a measuring instrument 看读数",
+   "ex": [
+    {
+     "s": "Simple readings are now readily available on our phones and wearables.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "如今，我们的手机和可穿戴设备都能轻松给出这些简单读数。"
+    },
+    {
+     "s": "Why the digital readings varied.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "数字读数为什么会有差异。"
+    },
+    {
+     "s": "take pollutant readings            B. record pollutant levels",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "采集污染物读数            B. 记录污染物水平"
+    }
+   ]
+  },
+  {
+   "def": "to hear and understand sb speaking on a radio set 听到，听明白（用无线电机讲的话）",
+   "ex": [
+    {
+     "s": "I read both definitions over again, trying to figure it out, but Miss Chevalier must have read my mind.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我把两个释义又读了一遍，试图弄明白，但谢瓦利埃小姐一定看穿了我的心思。"
+    },
+    {
+     "s": "“Listen, if you don't mind, I'd like to come to the school and read with you. ”he said.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "“听着，如果你不介意的话，我想来学校和你一起读书。”他说。"
+    },
+    {
+     "s": "You never knowD．You read my mind",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "A．我不明白B．由你决定"
+    },
+    {
+     "s": "After you hear a conversation and the question about it, read the four possible answers on your paper, and decide which one is the best answer to the question you have heard.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "听完对话及问题后，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
+    },
+    {
+     "s": "When you hear a question, read the four possible answers on your paper and decide which one is the best answer to the question you have heard.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "听到问题时，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
+    },
+    {
+     "s": "I always wanted to know what my mom was reading． Hearing mom say，\"I can't believe what's printed in the newspaper this morning，\" made me want to grab it out of her hands and read it myself． I wanted to be like my mom and know all of the things she knew． So I carried around a book， and each night， just to be like her， I would pretend to be reading．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我一直想知道妈妈在读什么。听到妈妈说“真不敢相信今天早上报纸上印了什么”，我就想从她手里抢过报纸自己读。我想成为像妈妈那样的人，知道她知道的所有事情。于是我随身带着一本书，每天晚上，就为了像她一样，我还会假装在阅读。"
+    },
+    {
+     "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
+    }
+   ]
+  },
+  {
+   "def": "to replace one word, etc. with another when correcting a text 替换；将 … 改为",
+   "ex": [
+    {
+     "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
+    }
+   ]
+  },
+  {
+   "def": "to study a subject, especially at a university 学习；攻读；主修",
+   "ex": [
+    {
+     "s": "reading novels is a way to learn about a historical period",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "读小说是了解某个历史时期的一种方式"
+    },
+    {
+     "s": "We see scenes of children learning to read at home or at school, with the book as a focus for relations between the generations.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我们看到了孩子们在家或在学校学习阅读的场景，书成为代际关系的焦点。"
+    },
+    {
+     "s": "33 Therefore, they don’t have time to learn how to read or write and don’t get an education.",
+     "src": "2020浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "33 因此，他们没有时间学习如何阅读或写字，也接受不到教育。"
+    },
+    {
+     "s": "The Pleasure of Reading",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "B．培养学习的热情"
+    }
+   ]
+  },
+  {
+   "def": "to take information from a disk 计算机或计算机使用者",
+   "ex": [
+    {
+     "s": "Make sure that any abbreviations and emojis you use are appropriate for the situation, and consider whether your readers will even know what you mean by BRB or COZ.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "请确保您使用的任何缩写和表情符号都适合这种情况，并考虑您的读者是否会知道您所说的BRB或COZ是什么意思。"
+    }
+   ]
+  },
+  {
+   "def": "an act or a period of reading sth 阅读；读书",
+   "ex": [
+    {
+     "s": "Directions: After reading the passages below, fill in the blanks to make the passages coherent and grammatically correct.",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说明：阅读下面短文后，填空使短文连贯。"
+    },
+    {
+     "s": "Cruse now volunteers to help kindergarten students with reading two days a week, and on a third day, he instructs the school's first-and second-graders.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "克鲁斯现在每周自愿花两天帮助幼儿园孩子阅读，第三天则指导学校的一、二年级学生。"
+    },
+    {
+     "s": "If you have difficulties reading, ask about special reading opportunities.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果你阅读有困难，可以询问是否有专门的阅读机会。"
+    },
+    {
+     "s": "This depends on the type of book you are reading.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这取决于你正在读的书的类型。"
+    },
+    {
+     "s": "the parent to enjoy quiet reading",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "让家长享受安静的阅读。"
+    },
+    {
+     "s": "It is not my intention to point out the central theme of each of the plays in this collection, for that would, indeed, ruin the pleasure of reading, discussing, and thinking about the plays and the effectiveness of the playwright.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的本意不是指出这本集子里每部剧的中心主题，因为那确实会毁掉阅读、讨论、思考这些剧以及剧作家手法的乐趣。"
+    },
+    {
+     "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
+    },
+    {
+     "s": "Where can you find the data that best supports “children are reading a lot less for fun”?",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你在哪里能找到最有力支持“孩子趣味性阅读少了很多”的数据？"
+    },
+    {
+     "s": "In artists’ representations of books and reading, we see moments of shared humanity that go beyond culture and time.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在艺术家对书籍和阅读的描绘中，我们看到了超越文化与时代的、人类共有的瞬间。"
+    },
+    {
+     "s": "Books and reading.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "书籍与阅读。"
+    },
+    {
+     "s": "Most of my reading through primary， middle and high school was factual reading． I read for knowledge， and to make A's on my tests． Occasionally， I would read a novel that was assigned， but I didn't enjoy this type of reading． I liked facts， things that are concrete． I thought anything abstract left too much room for argument．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在小学、初中和高中阶段，我的大部分阅读都是事实性阅读。我为获取知识而读，为了在考试中拿A。偶尔，我也会读老师指定的小说，但我并不喜欢这种阅读。我喜欢事实，喜欢具体的东西。我认为任何抽象的事物都留下了太多争论的空间。"
+    },
+    {
+     "s": "Not only can you post specific questions, but you can broaden your knowledge by reading posts from other English learners around the world.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "你不仅可以发布具体问题，还可以通过阅读来自世界各地其他英语学习者的帖子来扩展你的知识。"
+    },
+    {
+     "s": "Humans, in thinking, talking, reading and writing, also work with symbols.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "人类在思考，交谈，阅读和写作中，也用符号工作。"
+    },
+    {
+     "s": "And are listening to and viewing content as effective as reading the written word when covering the same material?",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在学习同样的材料时，听和看内容与阅读文字一样有效吗？"
+    },
+    {
+     "s": "Don’t just read the words; think the ideas.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "不要只阅读文字；要思考其中的思想。"
+    },
+    {
+     "s": "Read our Youth Policy Guidelines for youth under the age of 15.",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "15岁以下的青少年请阅读我们的青少年政策指南。"
+    },
+    {
+     "s": "However, psychologists have demonstrated that when adults read news stories, they remember more of the content than if they listen to or view identical pieces.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "然而，心理学家已经证明，当成年人阅读新闻故事时，比起聆听或观看相同的片段，他们对内容的记忆更多。"
+    },
+    {
+     "s": "Be sure to schedule set times to watch your lectures, read materials and contribute to online discussion boards.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "不同文化间道德美德的相似性令人瞩目，尽管各种美德的重要性排序可能因社会群体的历史和环境而异。"
+    },
+    {
+     "s": "Technology has changed the way we read.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "技术改变了我们的阅读方式。"
+    },
+    {
+     "s": "As I read, he reaches out and pokes（戳）the page with his finger.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当我读书时，他伸出手用手指戳（戳）页面。"
+    },
+    {
+     "s": "Directions: Read the following three passages.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "Directions: 阅读以下三篇短文。"
+    },
+    {
+     "s": "Directions: Read the following passage.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "Directions: 阅读以下短文。"
+    },
+    {
+     "s": "Parents are often surprised when teachers suggest their children read magazines.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志文章可以为不愿阅读的读者提供生动轻快的写作风格，能够激励他们多读书。"
+    },
+    {
+     "s": "Consumers enjoy reading and giving reviews.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "消费者喜欢阅读和撰写评价。"
+    },
+    {
+     "s": "When reading texts of several hundred words or more, learning is generally more successful when it’s on paper than onscreen.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "阅读几百词或更长的文本时，在纸上学习通常比在屏幕上更成功。"
+    },
+    {
+     "s": "Clearly, my way of reading the text had shifted, and I myself had changed over the years.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "显然，我阅读文本的方式已经改变，而这些年来我自己也变了。"
+    },
+    {
+     "s": "My reaction to the renewed reading no longer corresponded to the original experience, and I was no longer sure that I recognized myself as the same reader.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我对重新阅读的反应不再与最初的体验相符，我也不再确定自己是否还是同一个读者。"
+    },
+    {
+     "s": "When he walked in, the boy shouted proudly, “Hey, that's my bus driver!”They went into a quiet corner and began reading together.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当他走进去时，男孩骄傲地喊道：\"嘿，那是我的校车司机！\"他们走进一个安静的角落，开始一起读书。"
+    },
+    {
+     "s": "He loves how reading opens up a new world for them.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他喜爱阅读如何为他们打开一个新世界。"
+    },
+    {
+     "s": "Now I think of her as reading so much of the time while doing something else.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "现在我想象她一边做别的事，一边大部分时间都在阅读。"
+    },
+    {
+     "s": "\"You simply can't get an understanding of that handwork by reading about it,\" she says.",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"你简直无法通过阅读来了解那种手工活，\"她说。"
+    },
+    {
+     "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）根据第3段，作者对路标的阅读表明____。"
+    },
+    {
+     "s": "If you read frequently, you’ll likely have and easier time with remembering what you’re reading(and what you’ve read).",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果你经常阅读，你可能会更容易记住你正在读的内容（以及你已经读过的内容）。"
+    },
+    {
+     "s": "You can do the same thing when you are reading the text!",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "你在阅读课文时也可以做同样的事情！"
+    },
+    {
+     "s": "I must have always known reading was very important because the first memories I have as a child deal with books． There was not one night that I don't remember mom reading me a storybook by my bedside． I was extremely inspired by the elegant way the words sounded．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我一定一直都知道阅读非常重要，因为我童年最早的记忆都与书有关。没有哪个夜晚我不记得妈妈在床边给我读故事书。那些文字优雅的读音极大地启发了我。"
+    },
+    {
+     "s": "My first job was working at the Ukiah Library when I was 16 years old .It was a dream job and I did everything from shelving books to reading to the children for story time.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的第一份工作是16岁时在尤凯亚图书馆工作。那是份梦想中的工作，从图书上架到故事时间给孩子们读书，我什么都做。"
+    },
+    {
+     "s": "Reading: A Source of Knowledge",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "阅读：知识的源泉"
+    },
+    {
+     "s": "Class activities will vary from day to day, but students must be ready to complete short in-class writings or tests drawn directly from assigned readings or notes from the previous class' lecture/discussion, so it is important to take careful notes during class.",
+     "src": "2022全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "课堂活动每天不同，但学生必须准备好完成直接取自指定阅读或上节课讲座/讨论笔记的简短课堂写作或测试，所以课堂上认真记笔记很重要。"
+    },
+    {
+     "s": "During your initial reading of material, do you ever go back and reread sentences or paragraphs?",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在你对材料的初步阅读过程中，你是否曾经回去重新阅读句子或段落？"
+    },
+    {
+     "s": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks — like identifying the main idea in a reading passage — to ones that require mental abstraction — such as drawing inferences from a text.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
+    },
+    {
+     "s": "To ask for a reading list.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "索要一份阅读书单。"
+    },
+    {
+     "s": "He thought it was an ideal place for reading.",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他认为那是个读书的理想之地。"
+    },
+    {
+     "s": "The original reading was either forgotten or so totally absorbed that the new chance encounter with the text produced surprise and astonishment.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "最初的阅读要么被遗忘了，要么被完全吸收，以至于再次偶然遇到这段文字时产生了惊讶和震撼。"
+    },
+    {
+     "s": "All of these ways of reading are valuable.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "重要的不仅是符号串的外表，还有其内在含义，不仅是它们的排列方式，更是它们的意义。"
+    },
+    {
+     "s": "The new reading, a form of revision, uncovers the change in us.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "新的阅读，作为一种修订，揭示了我们自身的变化。"
+    },
+    {
+     "s": "Unexpected reading experience.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "意想不到的阅读体验。"
+    },
+    {
+     "s": "She taught in our reading club.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "建造太阳能农场的人工成本上升。"
+    },
+    {
+     "s": "Studies show teaching children how to cook at an early age helps with reading comprehension and fine motor ability, in addition to learning about nutrition and food safety.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "研究表明，尽早教孩子做饭有助于提高阅读理解能力和精细动作能力，此外还能让他们了解营养和食品安全。"
+    },
+    {
+     "s": "Reading Art: Art for Book Lovers is a celebration of an everyday object — the book, represented here in almost three hundred artworks from museums around the world.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "《阅读艺术：书迷的艺术》是对一件日常物品——书——的礼赞，书中收录了来自世界各地博物馆的近三百件艺术作品。"
+    },
+    {
+     "s": "Ways to develop reading ability.",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "培养阅读能力的方法。"
+    },
+    {
+     "s": "To develop your reading fluency.",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "培养你的阅读流利度。"
+    },
+    {
+     "s": "If the only reading you ever do is the novel or magazine, the speed at which you read -probably does not matter very much.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "如果你唯一的阅读就是小说或杂志，那么你阅读的速度可能并不太重要。"
+    },
+    {
+     "s": "Here are some tips to help improve your reading speed.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这里有一些帮助你提高阅读速度的建议。"
+    },
+    {
+     "s": "To develop your reading fluency.",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "培养你的阅读流利度。"
+    },
+    {
+     "s": "But with reading, it’s all about the present.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但阅读这件事，全都关乎当下。"
+    },
+    {
+     "s": "It’s about the now and what one contributes to the now, because reading is a give and take between author and reader.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它关乎当下，以及一个人对当下的贡献，因为阅读是作者与读者之间的一种互动交流。"
+    },
+    {
+     "s": "Joy of reading passed on in the family.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在家庭中传递的阅读之乐。"
+    },
+    {
+     "s": "To get the most out of reading these plays, try to picture the play on stage, with you, the reader, in the audience.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "要充分阅读这些剧本，试着想象舞台上的演出场景，你——读者——坐在观众席上。"
+    },
+    {
+     "s": "What does the author suggest readers do while reading the plays?",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者建议读者阅读剧本时做什么？"
+    },
+    {
+     "s": "A bright spot for me turned out to be reading.",
+     "src": "2020浙江7月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "对我来说，一个亮点原来是阅读。"
+    },
+    {
+     "s": "giving access to online reading at a library branch",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在图书馆分馆提供在线阅读权限"
+    },
+    {
+     "s": "the kid to overcome reading difficulties",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "帮助孩子克服阅读困难"
+    },
+    {
+     "s": "her eagerness to develop her reading ability",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "B．她急于培养自己的阅读能力。"
+    },
+    {
+     "s": "（3）What was the author's view on factual reading？",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（3）作者对事实性阅读的看法是什么？"
+    },
+    {
+     "s": "The Magic of Reading",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "A. 阅读的魔法"
+    },
+    {
+     "s": "Growing Up with Reading",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "C．了解成人社区"
+    },
+    {
+     "s": "Reading Makes a Full Man",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D．阅读使人充实"
+    },
+    {
+     "s": "Teens and younger children are reading a lot less for fun, according to a Common Sense Media report published Monday.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "根据常识媒体周一发布的一份报告，青少年和更小的孩子为了娱乐而阅读的时间大大减少了。"
+    },
+    {
+     "s": "While the decline over the past decade is steep for teen readers, some data in the report shows that reading remains a big part of many children’s lives, and indicates how parents might help encourage more reading.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "虽然过去十年青少年读者的下降幅度很大，但报告中的一些数据显示阅读仍然是许多儿童生活中的重要部分，并表明家长可能如何帮助鼓励更多阅读。"
+    },
+    {
+     "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "报告数据显示，2-8岁儿童的娱乐性阅读水平基本保持不变。"
+    },
+    {
+     "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
+    },
+    {
+     "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
+    },
+    {
+     "s": "The most hopeful data shared in the report shows clear evidence of parents serving as examples and important guides for their kids when it comes to reading.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "报告中分享的最有希望的数据表明，有明确证据表明，在阅读方面，父母为子女树立了榜样和重要的指南。"
+    },
+    {
+     "s": "Children’s reading habits.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "儿童的阅读习惯。"
+    },
+    {
+     "s": "Why do many parents limit electronic reading?",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为什么许多家长限制电子阅读？"
+    },
+    {
+     "s": "Set up reading groups for them.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为他们建立阅读小组。"
+    },
+    {
+     "s": "Talk with their reading class teachers.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "与他们的阅读课老师交谈。"
+    },
+    {
+     "s": "Reading is important.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "阅读很重要。"
+    }
+   ]
+  },
+  {
+   "def": "a book, an article, etc. that is good, etc. 好的（或有意思等的）读物；好书（或文章等）",
+   "ex": [
+    {
+     "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
+    },
+    {
+     "s": "When I handed in the essay to my teacher, he read it, laughed out loud, and said, “Great.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我把文章交给老师时，他读了之后放声大笑，说：“很好。"
+    },
+    {
+     "s": "Read on to learn about the benefits that reading magazines offers to young readers and how to introduce your children to the medium.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志中的文章通常很短，这使得孩子能够在不因注意力短暂而失去兴趣的情况下读完一篇专题文章。"
+    },
+    {
+     "s": "You need to    61   (real)read at least one good book a week, preferably a classic.",
+     "src": "2017浙江11月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "你需要____61____（真正）每周至少读一本好书，最好是一本经典。"
+    },
+    {
+     "s": "Here she picks her top reads.",
+     "src": "2019全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这里是她挑选的最爱读物。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "woman reading",
+   "cn": "女士在读",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "read a book",
+   "cn": "读书",
+   "type": "动词短语",
+   "count": 4
+  },
+  {
+   "en": "read aloud",
+   "cn": "朗读",
+   "type": "动词短语",
+   "count": 1
+  }
+ ]
 }
