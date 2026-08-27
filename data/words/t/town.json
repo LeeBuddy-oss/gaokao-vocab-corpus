@@ -1,385 +1,373 @@
 {
-  "meta": {
-    "ph": "taʊn; NAmE taʊn",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "taʊn; NAmE taʊn",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a place with many houses, shops/stores, etc. where people live and work. It is larger than a village but smaller than a city. 镇；市镇；集镇",
+   "ex": [
+    {
+     "s": "But each town has more to do than shop.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "但每个小镇除了购物，还有更多可做的。"
+    },
+    {
+     "s": "Unless I have to be out of town, each week I take my mother to do her   36   and visit the doctor, providing   37   and transportation.",
+     "src": "2021浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "除非我必须出城否则每周我都会带母亲去   36   并看医生提供   37   和交通服务。"
+    },
+    {
+     "s": "On Saturday, we all went to the market right in the middle of the town.",
+     "src": "2020北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "星期六，我们都去了镇中心的集市。"
+    },
+    {
+     "s": "“This used to be the center of town,” he said.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "\"这里曾经是镇中心，\"他说。"
+    },
+    {
+     "s": "We finally found a vacancy in the next town.",
+     "src": "2017浙江11月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我们终于在下一个镇上找到了空房。"
+    },
+    {
+     "s": "Wang Peng, software engineer ＜/R＞ Dear Editor, 1 For this year's Spring Festival family dinner, my son has booked a table at the best restaurant in town, but I'm a bit unhappy about it.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "t": "王鹏，软件工程师 ＜/R＞ 亲爱的编辑，1 今年的春节年夜饭，我儿子已经在城里最好的餐厅订了位，但我对此有点不高兴。"
+    },
+    {
+     "s": "Having seen quite a few productions of Hamlet and read the play many times, I was full of confidence - until the Peking Opera came to town!",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "看过不少版本的《哈姆雷特》演出，也多次读过剧本，我本来信心满满——直到京剧来到镇上！"
+    },
+    {
+     "s": "English market towns come in many shapes and sizes.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "英国的集镇有各种各样的形状和规模。"
+    },
+    {
+     "s": "Getting to Shrewsbury Town Center from London is challenging but worth the anxiety.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "从伦敦到什鲁斯伯里镇中心路途虽有挑战，但值得这份焦虑。"
+    },
+    {
+     "s": "I grew up in a little town in northeast Ohio.",
+     "src": "2026新高考I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我在俄亥俄州东北部的一个小镇长大。"
+    },
+    {
+     "s": "Their app quickly grew popular in town and even won a local youth innovation award.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他们的应用很快在镇上流行起来，甚至还拿了一个本地青年创新奖。"
+    },
+    {
+     "s": "We live in a town with three beaches.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我们住在一个有三片海滩的小镇上。"
+    },
+    {
+     "s": "We were staying at a research camp outside “the polar bear capital of the world”-the town of Churchill in Manitoba，Canada.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们住在“世界北极熊之都”——加拿大曼尼托巴省丘吉尔镇——外的一个研究营地。"
+    },
+    {
+     "s": "Skirting the town square, you’ll find lovely shops, eateries, and the Black and White House Museum.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "绕过镇广场，你会看到可爱的商店、餐馆，以及黑白宅博物馆。"
+    },
+    {
+     "s": "The ad had a   51   number for a town in southern Michigan.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "广告上有一个___51___号码，对应密歇根州南部的一个小镇。"
+    },
+    {
+     "s": "The movie is set in a small town where the only movie theater is preparing to close down.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这部电影设定在一个小镇上，那里唯一的电影院正准备关闭。"
+    },
+    {
+     "s": "Ursula has always called the beautiful small town of Beaverton her home.",
+     "src": "2026浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "乌苏拉一直把美丽的小镇比弗顿称为她的家。"
+    },
+    {
+     "s": "Hereford has remained a lively market town since 1189.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "自1189年以来，Hereford一直是一座充满活力的集镇。"
+    },
+    {
+     "s": "Flowers are everywhere-hanging baskets, window boxes, and planters-just what you imagine in an attractive English market town.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "鲜花处处可见——悬挂花篮、窗台花箱和花盆——正是你想象中迷人英国集镇的样子。"
+    },
+    {
+     "s": "The two didn’t know each other well — Taylor had just moved to town a month or so before.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两人彼此不太熟——泰勒大约一个月前才刚搬到镇上。"
+    },
+    {
+     "s": "The River Severn has a significant turn through town, almost making an island of Shrewsbury Town Center.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "塞文河在镇上急转，几乎把Shrewsbury镇中心变成一座岛屿。"
+    },
+    {
+     "s": "We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们将在传统小镇中漫步，并以上海一座别具一格的博物馆结束行程。"
+    },
+    {
+     "s": "English Market Towns to Visit in the UK",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "英国值得一游的英格兰集镇"
+    },
+    {
+     "s": "What is a feature of Shrewsbury Town Center?",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "Shrewsbury镇中心有什么特点？"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the people who live in a particular town （某一市镇的）居民，市民",
+   "ex": [
     {
-      "def": "a place with many houses, shops/stores, etc. where people live and work. It is larger than a village but smaller than a city. 镇；市镇；集镇",
-      "ex": [
-        {
-          "s": "But each town has more to do than shop.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "但每个小镇除了购物，还有更多可做的。"
-        },
-        {
-          "s": "Unless I have to be out of town, each week I take my mother to do her   36   and visit the doctor, providing   37   and transportation.",
-          "src": "2021浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "除非我必须出城否则每周我都会带母亲去   36   并看医生提供   37   和交通服务。"
-        },
-        {
-          "s": "On Saturday, we all went to the market right in the middle of the town.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "星期六，我们都去了镇中心的集市。"
-        },
-        {
-          "s": "“This used to be the center of town,” he said.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "\"这里曾经是镇中心，\"他说。"
-        },
-        {
-          "s": "We finally found a vacancy in the next town.",
-          "src": "2017浙江11月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我们终于在下一个镇上找到了空房。"
-        },
-        {
-          "s": "Wang Peng, software engineer ＜/R＞ Dear Editor, 1 For this year's Spring Festival family dinner, my son has booked a table at the best restaurant in town, but I'm a bit unhappy about it.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "王鹏，软件工程师 ＜/R＞ 亲爱的编辑，1 今年的春节年夜饭，我儿子已经在城里最好的餐厅订了位，但我对此有点不高兴。"
-        },
-        {
-          "s": "Having seen quite a few productions of Hamlet and read the play many times, I was full of confidence - until the Peking Opera came to town!",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "看过不少版本的《哈姆雷特》演出，也多次读过剧本，我本来信心满满——直到京剧来到镇上！"
-        },
-        {
-          "s": "English market towns come in many shapes and sizes.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "英国的集镇有各种各样的形状和规模。"
-        },
-        {
-          "s": "Getting to Shrewsbury Town Center from London is challenging but worth the anxiety.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "从伦敦到什鲁斯伯里镇中心路途虽有挑战，但值得这份焦虑。"
-        },
-        {
-          "s": "I grew up in a little town in northeast Ohio.",
-          "src": "2026新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我在俄亥俄州东北部的一个小镇长大。"
-        },
-        {
-          "s": "Their app quickly grew popular in town and even won a local youth innovation award.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他们的应用很快在镇上流行起来，甚至还拿了一个本地青年创新奖。"
-        },
-        {
-          "s": "We live in a town with three beaches.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们住在一个有三片海滩的小镇上。"
-        },
-        {
-          "s": "We were staying at a research camp outside “the polar bear capital of the world”-the town of Churchill in Manitoba，Canada.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们住在“世界北极熊之都”——加拿大曼尼托巴省丘吉尔镇——外的一个研究营地。"
-        },
-        {
-          "s": "Skirting the town square, you’ll find lovely shops, eateries, and the Black and White House Museum.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "绕过镇广场，你会看到可爱的商店、餐馆，以及黑白宅博物馆。"
-        },
-        {
-          "s": "The ad had a   51   number for a town in southern Michigan.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "广告上有一个___51___号码，对应密歇根州南部的一个小镇。"
-        },
-        {
-          "s": "The movie is set in a small town where the only movie theater is preparing to close down.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这部电影设定在一个小镇上，那里唯一的电影院正准备关闭。"
-        },
-        {
-          "s": "Ursula has always called the beautiful small town of Beaverton her home.",
-          "src": "2026浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "乌苏拉一直把美丽的小镇比弗顿称为她的家。"
-        },
-        {
-          "s": "Hereford has remained a lively market town since 1189.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "自1189年以来，Hereford一直是一座充满活力的集镇。"
-        },
-        {
-          "s": "Flowers are everywhere-hanging baskets, window boxes, and planters-just what you imagine in an attractive English market town.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "鲜花处处可见——悬挂花篮、窗台花箱和花盆——正是你想象中迷人英国集镇的样子。"
-        },
-        {
-          "s": "The two didn’t know each other well — Taylor had just moved to town a month or so before.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两人彼此不太熟——泰勒大约一个月前才刚搬到镇上。"
-        },
-        {
-          "s": "The River Severn has a significant turn through town, almost making an island of Shrewsbury Town Center.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "塞文河在镇上急转，几乎把Shrewsbury镇中心变成一座岛屿。"
-        },
-        {
-          "s": "We will wander in traditional small towns and end our tour with an exceptional museum in Shanghai.",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们将在传统小镇中漫步，并以上海一座别具一格的博物馆结束行程。"
-        },
-        {
-          "s": "English Market Towns to Visit in the UK",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "英国值得一游的英格兰集镇"
-        },
-        {
-          "s": "What is a feature of Shrewsbury Town Center?",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Shrewsbury镇中心有什么特点？"
-        }
-      ]
+     "s": "She drove on for a while and found herself on an unfamiliar road toward a Canadian town.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "她又开了一会儿，发现自己走上了一条通往加拿大小镇的陌生道路。"
     },
     {
-      "def": "the people who live in a particular town （某一市镇的）居民，市民",
-      "ex": [
-        {
-          "s": "She drove on for a while and found herself on an unfamiliar road toward a Canadian town.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "她又开了一会儿，发现自己走上了一条通往加拿大小镇的陌生道路。"
-        },
-        {
-          "s": "In my ninth-grade writing class last year, I met a cowboy who saved his town, a strict father who demanded his son earn straight A’s, and a modern-day Juliet who died of heartbreak after her parents rejected the love of her young life.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "去年在我九年级的写作课上，我遇到了一个拯救了小镇的牛仔、一个要求儿子门门得A的严厉父亲，以及一个在现代版朱丽叶——她在父母拒绝了她年轻生命中的挚爱后，因心碎而死。"
-        },
-        {
-          "s": "The hospital is very old and can no longer serve the needs of the town.",
-          "src": "2022天津4月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这家医院已经很老了，不能再满足小镇的需求了。"
-        },
-        {
-          "s": "On Malaita, the most- populated island that’s part of the Solomon Islands, shells are accepted at most places in “How much tuna you can get for your shells depends on their color and shape,” Mary Bruno, a shop owner from the small town of Auki, on Malaita, told Vice.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在所罗门群岛人口最多的马莱塔岛上，大多数地方都接受贝壳。“你能用贝壳换到多少金枪鱼，取决于贝壳的颜色和形状，”马莱塔岛奥基小镇的店主Mary Bruno告诉Vice。"
-        },
-        {
-          "s": "It was about the history of the town.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它是关于这个镇的历史的。"
-        },
-        {
-          "s": "Start Point: The Town Hall",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：市政厅"
-        },
-        {
-          "s": "As the economy was in decline, some people in the town had lost their jobs.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于经济衰退，镇上的一些人已经失去了工作。"
-        },
-        {
-          "s": "As the economy was in decline, some people in the town had lost their jobs.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于经济衰退，镇上的一些人已经失去了工作。"
-        },
-        {
-          "s": "Tomorrow we’re going to visit the famous old town of Lijiang.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "明天我们将访问丽江这个著名的老城。"
-        }
-      ]
+     "s": "In my ninth-grade writing class last year, I met a cowboy who saved his town, a strict father who demanded his son earn straight A’s, and a modern-day Juliet who died of heartbreak after her parents rejected the love of her young life.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "去年在我九年级的写作课上，我遇到了一个拯救了小镇的牛仔、一个要求儿子门门得A的严厉父亲，以及一个在现代版朱丽叶——她在父母拒绝了她年轻生命中的挚爱后，因心碎而死。"
     },
     {
-      "def": "the area of a town where most of the shops/stores and businesses are （城镇的）商业区",
-      "ex": [
-        {
-          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
-        },
-        {
-          "s": "Town: Pooley Bridge & Penrith",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "城镇：Pooley Bridge和Penrith"
-        },
-        {
-          "s": "What is the Town Guide according to the man?",
-          "src": "2017浙江卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据这位男士的说法，城镇指南是什么？"
-        },
-        {
-          "s": "What is the Town Guide according to the man?",
-          "src": "2017江苏卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据这位男士的说法，城镇指南是什么？"
-        },
-        {
-          "s": "How would you feel if moving to a new town meant losing track of your friends?",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "如果搬到一个新城镇意味着失去朋友的联系，你会有什么感觉？"
-        },
-        {
-          "s": "Normally, towns use rock salt to de-ice streets.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通常，城镇使用岩盐来为街道除冰。"
-        },
-        {
-          "s": "Butcher shops, greengrocers, bakeries, and cheese shops line the town square.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "肉铺、果蔬店、面包店和奶酪店排列在小镇广场周围。"
-        },
-        {
-          "s": "The Hereford Cathedral is the most impressive building in town.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "赫里福德大教堂是镇上最令人印象深刻的建筑。"
-        },
-        {
-          "s": "Don't hesitate to ask Student B for further information about the town.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "不要犹豫，向学生B询问关于这个城镇的更多信息。"
-        }
-      ]
+     "s": "The hospital is very old and can no longer serve the needs of the town.",
+     "src": "2022天津4月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这家医院已经很老了，不能再满足小镇的需求了。"
     },
     {
-      "def": "a particular town where sb lives and works or one that has just been referred to （生活、工作或刚提到的）城镇",
-      "ex": [
-        {
-          "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
-        },
-        {
-          "s": "They had driven their son several hours out of town to the university where he would soon be living and studying.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们开了几个小时的车把儿子送到城外的大学，他很快就将在那里生活和学习。"
-        },
-        {
-          "s": "My faith in human nature has never been so great as it was last weekend after our family get-together in the town of Vail.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我对人性的信心从未像上周末在韦尔镇家庭聚会后那样强烈。"
-        },
-        {
-          "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我还是个小女孩时，全家搬到了大山脚下的一座小镇。一天放学后，在探索这座壮丽山峰的青翠树林时，我几乎摔在一段台阶上。这些台阶会通向哪里呢？好奇心战胜了我，因为我知道天很快就要黑了。我开始攀登那些神秘的台阶。"
-        },
-        {
-          "s": "The Saint Lukas is one of five government-sponsored medical trains that travel to remote towns in central and eastern Russia.",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "“圣卢卡斯号”是五列政府资助的医疗列车之一，开往俄罗斯中部和东部的偏远城镇。"
-        }
-      ]
+     "s": "On Malaita, the most- populated island that’s part of the Solomon Islands, shells are accepted at most places in “How much tuna you can get for your shells depends on their color and shape,” Mary Bruno, a shop owner from the small town of Auki, on Malaita, told Vice.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在所罗门群岛人口最多的马莱塔岛上，大多数地方都接受贝壳。“你能用贝壳换到多少金枪鱼，取决于贝壳的颜色和形状，”马莱塔岛奥基小镇的店主Mary Bruno告诉Vice。"
     },
     {
-      "def": "life in towns or cities as opposed to life in the country 城市生活（与乡村生活相对）",
-      "ex": [
-        {
-          "s": "Boom towns grow from nothing almost overnight.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "新兴城市几乎是一夜之间从无到有地发展起来的。"
-        }
-      ]
+     "s": "It was about the history of the town.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它是关于这个镇的历史的。"
+    },
+    {
+     "s": "Start Point: The Town Hall",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：市政厅"
+    },
+    {
+     "s": "As the economy was in decline, some people in the town had lost their jobs.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于经济衰退，镇上的一些人已经失去了工作。"
+    },
+    {
+     "s": "As the economy was in decline, some people in the town had lost their jobs.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于经济衰退，镇上的一些人已经失去了工作。"
+    },
+    {
+     "s": "Tomorrow we’re going to visit the famous old town of Lijiang.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "明天我们将访问丽江这个著名的老城。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the area of a town where most of the shops/stores and businesses are （城镇的）商业区",
+   "ex": [
     {
-      "en": "market towns",
-      "cn": "集镇",
-      "type": "名词短语",
-      "count": 4
+     "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
     },
     {
-      "en": "town square",
-      "cn": "镇正方形",
-      "type": "名词短语",
-      "count": 2
+     "s": "Town: Pooley Bridge & Penrith",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "城镇：Pooley Bridge和Penrith"
     },
     {
-      "en": "town guide",
-      "cn": "镇指南",
-      "type": "名词短语",
-      "count": 2
+     "s": "What is the Town Guide according to the man?",
+     "src": "2017浙江卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据这位男士的说法，城镇指南是什么？"
+    },
+    {
+     "s": "What is the Town Guide according to the man?",
+     "src": "2017江苏卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据这位男士的说法，城镇指南是什么？"
+    },
+    {
+     "s": "How would you feel if moving to a new town meant losing track of your friends?",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "如果搬到一个新城镇意味着失去朋友的联系，你会有什么感觉？"
+    },
+    {
+     "s": "Normally, towns use rock salt to de-ice streets.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通常，城镇使用岩盐来为街道除冰。"
+    },
+    {
+     "s": "Butcher shops, greengrocers, bakeries, and cheese shops line the town square.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "肉铺、果蔬店、面包店和奶酪店排列在小镇广场周围。"
+    },
+    {
+     "s": "The Hereford Cathedral is the most impressive building in town.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "赫里福德大教堂是镇上最令人印象深刻的建筑。"
+    },
+    {
+     "s": "Don't hesitate to ask Student B for further information about the town.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "不要犹豫，向学生B询问关于这个城镇的更多信息。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a particular town where sb lives and works or one that has just been referred to （生活、工作或刚提到的）城镇",
+   "ex": [
+    {
+     "s": "Sullivan had been thinking about the single present he’d received in 1954 when he was growing up in a small mining town.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "沙利文一直想着1954年他在小采矿镇长大时收到的那件唯一的礼物。"
+    },
+    {
+     "s": "They had driven their son several hours out of town to the university where he would soon be living and studying.",
+     "src": "2020浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们开了几个小时的车把儿子送到城外的大学，他很快就将在那里生活和学习。"
+    },
+    {
+     "s": "My faith in human nature has never been so great as it was last weekend after our family get-together in the town of Vail.",
+     "src": "2020北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我对人性的信心从未像上周末在韦尔镇家庭聚会后那样强烈。"
+    },
+    {
+     "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我还是个小女孩时，全家搬到了大山脚下的一座小镇。一天放学后，在探索这座壮丽山峰的青翠树林时，我几乎摔在一段台阶上。这些台阶会通向哪里呢？好奇心战胜了我，因为我知道天很快就要黑了。我开始攀登那些神秘的台阶。"
+    },
+    {
+     "s": "The Saint Lukas is one of five government-sponsored medical trains that travel to remote towns in central and eastern Russia.",
+     "src": "2024全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "“圣卢卡斯号”是五列政府资助的医疗列车之一，开往俄罗斯中部和东部的偏远城镇。"
+    }
+   ]
+  },
+  {
+   "def": "life in towns or cities as opposed to life in the country 城市生活（与乡村生活相对）",
+   "ex": [
+    {
+     "s": "Boom towns grow from nothing almost overnight.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "新兴城市几乎是一夜之间从无到有地发展起来的。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "town square",
+   "cn": "镇正方形",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
