@@ -1,323 +1,317 @@
 {
-  "meta": {
-    "ph": "kənˈdɪʃn; NAmE kənˈdɪʃn",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "kənˈdɪʃn; NAmE kənˈdɪʃn",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "the state that sth is in 状态；状况",
+   "ex": [
+    {
+     "s": "Warmer conditions can intensify smells, leading the snow to smell more unpleasant and potentially gather more pollutants.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "气候变化也在加速生物多样性的丧失，威胁要彻底消除某些气味。"
+    },
+    {
+     "s": "Leigh Tindale’s dog Charlie had a serious heart condition.",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "Leigh Tindale的狗Charlie有严重的心脏问题。"
+    },
+    {
+     "s": "Current condition of the plants.",
+     "src": "2024新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "植物当前的生长状况。"
+    },
+    {
+     "s": "The living conditions in Elkhead.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "落基山脉的铁路建设。"
+    },
+    {
+     "s": "She is in good conditionD.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "她状况良好 D."
+    },
+    {
+     "s": "G Tell everyone to bring clean clothes in good condition",
+     "src": "2021全国甲卷·Swap, Don’t shop!",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "G 告诉每个人带上状况良好的干净衣服"
+    },
+    {
+     "s": "It improves the cooking conditions．",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．它能轻松解决粮食短缺问题。"
+    },
+    {
+     "s": "38    Instead, we had a pop-up camper with comfortable beds and an air conditioner.",
+     "src": "2017全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "38    相反，我们有了一辆带有舒适床铺和空调的折叠式房车。"
+    },
+    {
+     "s": "Previous physical condition.",
+     "src": "2022全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "以前的身体状况。"
+    },
+    {
+     "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+    },
+    {
+     "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the state of sb's health or how fit they are 健康状况",
+   "ex": [
     {
-      "def": "the state that sth is in 状态；状况",
-      "ex": [
-        {
-          "s": "Warmer conditions can intensify smells, leading the snow to smell more unpleasant and potentially gather more pollutants.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "气候变化也在加速生物多样性的丧失，威胁要彻底消除某些气味。"
-        },
-        {
-          "s": "Leigh Tindale’s dog Charlie had a serious heart condition.",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "Leigh Tindale的狗Charlie有严重的心脏问题。"
-        },
-        {
-          "s": "Current condition of the plants.",
-          "src": "2024新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "植物当前的生长状况。"
-        },
-        {
-          "s": "The living conditions in Elkhead.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "落基山脉的铁路建设。"
-        },
-        {
-          "s": "She is in good conditionD.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "她状况良好 D."
-        },
-        {
-          "s": "G Tell everyone to bring clean clothes in good condition",
-          "src": "2021全国甲卷·Swap, Don’t shop!",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "G 告诉每个人带上状况良好的干净衣服"
-        },
-        {
-          "s": "It improves the cooking conditions．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．它能轻松解决粮食短缺问题。"
-        },
-        {
-          "s": "38    Instead, we had a pop-up camper with comfortable beds and an air conditioner.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "38    相反，我们有了一辆带有舒适床铺和空调的折叠式房车。"
-        },
-        {
-          "s": "Previous physical condition.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "以前的身体状况。"
-        },
-        {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
-        },
-        {
-          "s": "“But we all have to accept that as we get older our reactions slow down and this often results in people avoiding any potentially challenging driving conditions and losing confidence in their driving skills.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“但我们都必须接受，随着年龄增长，我们的反应会变慢，这通常导致人们避开任何可能有挑战的驾驶状况，并对自己的驾驶技术失去信心。”"
-        }
-      ]
+     "s": "There are plenty of other benefits, too; it doesn’t charge city tax; it has both air conditioning and a heater for the rooms; it also has free Wi-Fi in every room.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "还有很多其他好处：不收城市税；房间里有空调和暖气；每个房间还有免费Wi-Fi。"
     },
     {
-      "def": "the state of sb's health or how fit they are 健康状况",
-      "ex": [
-        {
-          "s": "There are plenty of other benefits, too; it doesn’t charge city tax; it has both air conditioning and a heater for the rooms; it also has free Wi-Fi in every room.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "还有很多其他好处：不收城市税；房间里有空调和暖气；每个房间还有免费Wi-Fi。"
-        },
-        {
-          "s": "Race walkers are conditioned athletes.",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "夏奥会上最长的田径项目是50公里竞走，比马拉松长约5英里。"
-        },
-        {
-          "s": "Why did they have to invent the Tube before air conditioning?",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他们为什么非要在发明空调之前先发明地铁呢？"
-        }
-      ]
+     "s": "Race walkers are conditioned athletes.",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "夏奥会上最长的田径项目是50公里竞走，比马拉松长约5英里。"
     },
     {
-      "def": "an illness or a medical problem that you have for a long time because it is not possible to cure it （因不可能治愈而长期患有的）疾病",
-      "ex": [
-        {
-          "s": "His research shows that this is often missing for people with mental health conditions.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他的研究表明，对于有精神疾病的人来说，这常常是缺失的。"
-        },
-        {
-          "s": "Because there’s no air conditioning, the temperature inside the train can reach 35 degrees!",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "因为没有空调，车内温度可以达到35度！"
-        }
-      ]
-    },
-    {
-      "def": "the circumstances or situation in which people live, work or do things （居住、工作或做事情的）环境，境况，条件",
-      "ex": [
-        {
-          "s": "She has driven through 55 mph winds in Wyoming, heavy flooding and storms in Alabama and total whiteout conditions in Kansas.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她曾在怀俄明州55英里时速的大风中、在阿拉巴马州的严重洪水和风暴中、以及在堪萨斯州完全白茫茫的天气条件下开过车。"
-        },
-        {
-          "s": "Their operating conditions.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它们的运行条件。"
-        },
-        {
-          "s": "Living conditions were the drive.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "生活条件是驱动力。"
-        },
-        {
-          "s": "By studying the geographical conditions.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "通过研究地理条件。"
-        },
-        {
-          "s": "Money offered without conditions.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "没有任何条件提供的钱。"
-        },
-        {
-          "s": "We are therefore not talking about adapting to a new standard, but to a constantly shifting set of conditions.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "因此我们谈论的不是去适应一个新的标准，而是去适应一组不断变化的条件。"
-        },
-        {
-          "s": "Well, we agreed that night that we would meet here again exactly twenty years from that date and time, no matter what our conditions might be or from what distance we might have to come.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "好吧，那天晚上我们同意，无论我们的条件如何，或者我们可能要走多远，我们都会在那个日期和时间整整二十年后再次在这里见面。"
-        },
-        {
-          "s": "In Prague, Winton saw people living in terrible conditions and whose lives were in danger.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "在布拉格，温顿看到人们生活在恶劣的条件下，他们的生命处于危险之中。"
-        },
-        {
-          "s": "It is different from traditional tourism because it allows the traveler to become 61 (educate) about the areas - both in terms of geographical conditions and cultural characteristics, and often provides money for conservation and benefits the 62 (develop) of the local areas.",
-          "src": "2021全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它不同于传统旅游，因为它让旅行者受到____61（educate）关于该地区——无论是地理条件还是文化特征，并且常常为保护提供资金，造福当地的____62（develop）。"
-        },
-        {
-          "s": "But in some waters，such as those of the Arctic，a warming will make conditions riper for phytoplankton，and these areas will turn greener.",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但在某些水域，如北极海域，变暖将使浮游植物的生长条件更加成熟，这些区域将变得更绿。"
-        },
-        {
-          "s": "She doesn't work in summer, as it would be unpleasantly hot for the animals in the car, even with air conditioning.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她夏天不工作，因为即使在有空调的情况下，夏天车里对动物来说也会热得难受。"
-        }
-      ]
-    },
-    {
-      "def": "the physical situation that affects how sth happens （影响某事发生的）物质环境，状态，条件",
-      "ex": [
-        {
-          "s": "Led by the concept of “right plant, right place,” they match plants that enjoy the same soil, sun and weather conditions, and arrange them according to their patterns of growth.",
-          "src": "2025浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在“合适的植物，合适的位置”这一理念引领下，他们把喜好相同土壤、阳光和天气条件的植物搭配在一起，并按其生长模式排列。"
-        },
-        {
-          "s": "In some cases, it’s not so much the treatment of the animals on set in the studio that has activists worried; it’s the off-set training and living conditions that are raising concerns.",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在某些情况下，让活动家担心的不一定是摄影棚内动物的待遇问题；而是场外的训练和生活条件引发了担忧。"
-        },
-        {
-          "s": "Others say it’s only natural that newcomers learn the language of their host nation, seeing it as a condition to ensure they can contribute to society.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
-        },
-        {
-          "s": "53    Also, sometimes pre-anger does not have to do with a lasting condition, but rather a temporary state before a triggering event has occurred.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "53    此外，有时“前愤怒”与持久状态无关，而是触发事件发生前的暂时状态。"
-        }
-      ]
-    },
-    {
-      "def": "a rule or decision that you must agree to, sometimes forming part of a contract or an official agreement 条件；条款；要件",
-      "ex": []
-    },
-    {
-      "def": "a situation that must exist in order for sth else to happen （先决）条件；前提",
-      "ex": []
-    },
-    {
-      "def": "the state of a particular group of people because of their situation in life, their problems, etc. （某群体的）生存状态，处境",
-      "ex": []
-    },
-    {
-      "def": "to train sb/sth to behave in a particular way or to become used to a particular situation 训练；使习惯于；使适应",
-      "ex": [
-        {
-          "s": "Why are race walkers conditioned athletes?",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么竞走运动员是训练有素的运动员？"
-        }
-      ]
-    },
-    {
-      "def": "to have an important effect on sb/sth; to influence the way that sth happens 对 … 具有重要影响；影响（某事发生的方式）",
-      "ex": [
-        {
-          "s": "It's going to be awful on the Central Line, with no air conditioning.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "中央线会很糟糕，因为没有空调。"
-        }
-      ]
-    },
-    {
-      "def": "to keep sth such as your hair or skin healthy 保持（头发或皮肤等的）健康；养护",
-      "ex": []
+     "s": "Why did they have to invent the Tube before air conditioning?",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "他们为什么非要在发明空调之前先发明地铁呢？"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "an illness or a medical problem that you have for a long time because it is not possible to cure it （因不可能治愈而长期患有的）疾病",
+   "ex": [
     {
-      "en": "air conditioning",
-      "cn": "空调",
-      "type": "名词短语",
-      "count": 5
+     "s": "His research shows that this is often missing for people with mental health conditions.",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他的研究表明，对于有精神疾病的人来说，这常常是缺失的。"
     },
     {
-      "en": "geographical conditions",
-      "cn": "地理条件",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "living conditions",
-      "cn": "生活条件",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "physical condition",
-      "cn": "身体状况",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "condition athlete",
-      "cn": "状态运动员",
-      "type": "名词短语",
-      "count": 2
+     "s": "Because there’s no air conditioning, the temperature inside the train can reach 35 degrees!",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "因为没有空调，车内温度可以达到35度！"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the circumstances or situation in which people live, work or do things （居住、工作或做事情的）环境，境况，条件",
+   "ex": [
+    {
+     "s": "She has driven through 55 mph winds in Wyoming, heavy flooding and storms in Alabama and total whiteout conditions in Kansas.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她曾在怀俄明州55英里时速的大风中、在阿拉巴马州的严重洪水和风暴中、以及在堪萨斯州完全白茫茫的天气条件下开过车。"
+    },
+    {
+     "s": "Their operating conditions.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它们的运行条件。"
+    },
+    {
+     "s": "Living conditions were the drive.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "生活条件是驱动力。"
+    },
+    {
+     "s": "By studying the geographical conditions.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "通过研究地理条件。"
+    },
+    {
+     "s": "Money offered without conditions.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "没有任何条件提供的钱。"
+    },
+    {
+     "s": "We are therefore not talking about adapting to a new standard, but to a constantly shifting set of conditions.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "因此我们谈论的不是去适应一个新的标准，而是去适应一组不断变化的条件。"
+    },
+    {
+     "s": "Well, we agreed that night that we would meet here again exactly twenty years from that date and time, no matter what our conditions might be or from what distance we might have to come.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "好吧，那天晚上我们同意，无论我们的条件如何，或者我们可能要走多远，我们都会在那个日期和时间整整二十年后再次在这里见面。"
+    },
+    {
+     "s": "In Prague, Winton saw people living in terrible conditions and whose lives were in danger.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "在布拉格，温顿看到人们生活在恶劣的条件下，他们的生命处于危险之中。"
+    },
+    {
+     "s": "It is different from traditional tourism because it allows the traveler to become 61 (educate) about the areas - both in terms of geographical conditions and cultural characteristics, and often provides money for conservation and benefits the 62 (develop) of the local areas.",
+     "src": "2021全国乙卷·语法填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它不同于传统旅游，因为它让旅行者受到____61（educate）关于该地区——无论是地理条件还是文化特征，并且常常为保护提供资金，造福当地的____62（develop）。"
+    },
+    {
+     "s": "But in some waters，such as those of the Arctic，a warming will make conditions riper for phytoplankton，and these areas will turn greener.",
+     "src": "2019北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但在某些水域，如北极海域，变暖将使浮游植物的生长条件更加成熟，这些区域将变得更绿。"
+    },
+    {
+     "s": "She doesn't work in summer, as it would be unpleasantly hot for the animals in the car, even with air conditioning.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她夏天不工作，因为即使在有空调的情况下，夏天车里对动物来说也会热得难受。"
+    }
+   ]
+  },
+  {
+   "def": "the physical situation that affects how sth happens （影响某事发生的）物质环境，状态，条件",
+   "ex": [
+    {
+     "s": "Led by the concept of “right plant, right place,” they match plants that enjoy the same soil, sun and weather conditions, and arrange them according to their patterns of growth.",
+     "src": "2025浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在“合适的植物，合适的位置”这一理念引领下，他们把喜好相同土壤、阳光和天气条件的植物搭配在一起，并按其生长模式排列。"
+    },
+    {
+     "s": "In some cases, it’s not so much the treatment of the animals on set in the studio that has activists worried; it’s the off-set training and living conditions that are raising concerns.",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在某些情况下，让活动家担心的不一定是摄影棚内动物的待遇问题；而是场外的训练和生活条件引发了担忧。"
+    },
+    {
+     "s": "Others say it’s only natural that newcomers learn the language of their host nation, seeing it as a condition to ensure they can contribute to society.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
+    },
+    {
+     "s": "53    Also, sometimes pre-anger does not have to do with a lasting condition, but rather a temporary state before a triggering event has occurred.",
+     "src": "2018北京卷·Why Do We Get Angry?",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "53    此外，有时“前愤怒”与持久状态无关，而是触发事件发生前的暂时状态。"
+    }
+   ]
+  },
+  {
+   "def": "a rule or decision that you must agree to, sometimes forming part of a contract or an official agreement 条件；条款；要件",
+   "ex": []
+  },
+  {
+   "def": "a situation that must exist in order for sth else to happen （先决）条件；前提",
+   "ex": []
+  },
+  {
+   "def": "the state of a particular group of people because of their situation in life, their problems, etc. （某群体的）生存状态，处境",
+   "ex": []
+  },
+  {
+   "def": "to train sb/sth to behave in a particular way or to become used to a particular situation 训练；使习惯于；使适应",
+   "ex": [
+    {
+     "s": "Why are race walkers conditioned athletes?",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么竞走运动员是训练有素的运动员？"
+    }
+   ]
+  },
+  {
+   "def": "to have an important effect on sb/sth; to influence the way that sth happens 对 … 具有重要影响；影响（某事发生的方式）",
+   "ex": [
+    {
+     "s": "It's going to be awful on the Central Line, with no air conditioning.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "中央线会很糟糕，因为没有空调。"
+    }
+   ]
+  },
+  {
+   "def": "to keep sth such as your hair or skin healthy 保持（头发或皮肤等的）健康；养护",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "geographical conditions",
+   "cn": "地理条件",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "living conditions",
+   "cn": "生活条件",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "physical condition",
+   "cn": "身体状况",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "condition athlete",
+   "cn": "状态运动员",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
