@@ -1,614 +1,608 @@
 {
-  "meta": {
-    "ph": "tiːm; NAmE tiːm",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "tiːm; NAmE tiːm",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a group of people who play a particular game or sport against another group of people （游戏或运动的）队",
+   "ex": [
+    {
+     "s": "Which team will play the most games at the stadium this month?",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "本月哪支球队将在该体育场进行最多的比赛？"
+    },
+    {
+     "s": "Now, Pereira has teamed up with plant scientist Professor Wolfgang Busch to apply SLEAP to plants.",
+     "src": "2026浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "现在，佩雷拉与植物学家沃尔夫冈·布施教授合作，将SLEAP应用于植物研究。"
+    },
+    {
+     "s": "The team focused only on three common types — polystyrene, polyethylene and polypropylene — and they didn’t study other chemicals previously found in water such as vinyl chloride.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "该团队只关注三种常见类型——聚苯乙烯、聚乙烯和聚丙烯——他们没有研究之前在水中发现的其他化学物质，如氯乙烯。"
+    },
+    {
+     "s": "Habitat Restoration Team volunteers play a vital role in restoring sensitive resources and protecting endangered species across the ridges and valleys.",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "栖息地修复团队的志愿者在恢复敏感资源、保护山脊与山谷间的濒危物种方面发挥着重要作用。"
+    },
+    {
+     "s": "Wear a team uniform.",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "穿团队制服。"
+    },
+    {
+     "s": "What does Victor say about the players on the team?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "维克多对队里的球员怎么评价？"
+    },
+    {
+     "s": "How does Victor feel about his team now?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "维克多现在对他的队伍感觉如何？"
+    },
+    {
+     "s": "The research team focused on a large urban park.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "研究团队聚焦于一个大都市公园。"
+    },
+    {
+     "s": "By teaming up with other photographers.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "通过与其他摄影师合作。"
+    },
+    {
+     "s": "She was like, “Join the swim team, Tara.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "ESL课程旨在帮助国际学生提高学术英语语言技能。"
+    },
+    {
+     "s": "Levine and his research team selected volunteers aged between 45 and 64 who did not exercise much but were otherwise healthy.",
+     "src": "2022全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Levine和他的研究团队选择了45至64岁之间不常运动但其他方面健康的志愿者。"
+    },
+    {
+     "s": "Whatever grade the team received would be shared by both students.",
+     "src": "2022浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "无论团队得到什么成绩，两个学生都会共享。"
+    },
+    {
+     "s": "To recommend a research team.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为了推荐一个研究团队。"
+    },
+    {
+     "s": "Summers in the mid-70s were spent at home shooting baskets, hitting a baseball, or throwing a football, preparing for my future as a quarterback on a football team.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "70年代中期的夏天，我都在家里投篮、打棒球或扔橄榄球，为我将来当橄榄球队四分卫做准备。"
+    },
+    {
+     "s": "Why does Jeff have to pick a team to support？",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为什么Jeff必须选择支持一支队伍？"
+    },
+    {
+     "s": "Most kids want superheroes, sports team logos or princesses, while babies often receive scenes with flowers, trees and sea creatures.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "大多数孩子想要超级英雄、运动队标志或公主图案，而婴儿常常收到印有花卉、树木和海洋生物的图案。"
+    },
+    {
+     "s": "I've driven teams of horses and carried water.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"我出生在威斯康星州的乡村。"
+    },
+    {
+     "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
+    },
+    {
+     "s": "And it's all supported by an efficient customer service team, available through telephone, email and online chat.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这一切都由一个高效的客服团队支持，可通过电话、电子邮件和在线聊天联系。"
+    },
+    {
+     "s": "The team hopes to make it to market in the near future.",
+     "src": "2019全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "该团队希望在不久的将来将其推向市场。"
+    },
+    {
+     "s": "Somewhere along the way, the same parent ends up becoming an invaluable member of the team.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "不知不觉间，同一位家长最终成了球队里不可或缺的一员。"
+    },
+    {
+     "s": "Your son may not be the best basketball player on his team.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "你儿子也许不是队里最好的篮球运动员。"
+    },
+    {
+     "s": "But if he's out there every day and playing hard, you should praise his effort regardless of whether his team wins or loses.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但如果他每天都在那里努力打球，无论他的球队输赢，你都应该赞扬他的努力。"
+    },
+    {
+     "s": "Interestingly，this trend isn’t evident in baseball. where additional individual talent keeps improving the team’s performance.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "有趣的是，这种趋势在棒球中并不明显，因为在棒球里增加个人天赋会持续提升团队表现。"
+    },
+    {
+     "s": "If a basketball star is. for example，trying to gain a high personal point total，he may take a shot himself when it would be better to pass the ball to a teammate，affecting the team's performance.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "例如，如果一个篮球明星试图获得更高的个人得分总数，在把球传给队友可能更好的情况下，他可能会自己投篮，从而影响球队的表现。"
+    },
+    {
+     "s": "Young children learning to play team sports are often told，“There is no I in TEAM.”    49",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "“TEAM”（团队）里没有“I”（我），学习团队运动的幼儿经常被告诫。"
+    },
+    {
+     "s": "Another possibility is that when there is a lot of talent on a team，some players may make less effort.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "另一种可能是，当一支球队中有太多天才时，一些球员可能会不那么努力。"
+    },
+    {
+     "s": "Sports team owners spend millions of dollars attracting top talent",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "运动队老板花费数百万美元吸引顶尖人才"
+    },
+    {
+     "s": "The team transforms the family’s long weekend of celebration with less expensive but still tasty recipes.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "团队用价格更低但依然美味的食谱改变了这个家庭漫长的周末庆祝活动。"
+    },
+    {
+     "s": "Why did Babbitt's team conduct the research?",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "巴比特团队为什么进行这项研究？"
+    },
+    {
+     "s": "It was a tradition for the school's old team to play against the（4）     team at the end of spring practice． The old team had no coach， and they didn't even practice to（5）     the game． Being the coach of the new team， I was excited because I knew we were going to win， but to my disappointment we were defeated． I couldn't （6）     I had got into such a situation． Thinking hard about it， I came to（7）     that my team might not be the number one team in Georgia， but they were（8）     me． I had to change my （9）     about their ability and potential．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "学校的元老队在春季训练结束时与（4）______队比赛是一个传统。元老队没有教练，他们甚至不为（5）______比赛而练习。作为新队的教练，我很兴奋，因为我知道我们会赢，但令我失望的是我们被打败了。我无法（6）______相信我会陷入这样的境地。仔细思考后，我（7）______意识到我的队可能不是佐治亚州第一名，但他们信任（8）______我。我必须改变我对他们能力和潜力的（9）______看法。"
+    },
+    {
+     "s": "Six months after suffering our （14）     on the spring practice field， we won our first game and our second， and continued to （15）     ．Finally， we faced the number one team in the state． I felt that it would be a （16）     for us even if we lost the game． But that wasn't what happened． My boys beat the best team in Georgia， giving me one of the greatest （17）     of my life！",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在春季训练场遭受（14）___六个月后，我们赢下第一场、第二场，并继续（15）___。终于，我们面对全州第一的队。我觉得即使输了，对我们也是（16）___。但事实并非如此。我的孩子们击败了佐治亚最好的队，给了我一生中最伟大的（17）___之一！"
+    },
+    {
+     "s": "From the experience I learned a lot about how the attitude of the leader can （18）     the members of a team． Instead of seeing my boys as losers， I pushed and （19）     them． I helped them to see themselves（20）     ， and they built themselves into winners．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "从这次经历中，我学到很多关于领导者态度如何（18）___团队成员。我没有把孩子们看作失败者，而是推动并（19）___他们。我帮他们（20）___看待自己，他们把自己打造成赢家。"
+    },
+    {
+     "s": "Before the heavy lifting began, the team assessed the root system and dug a five-foot-deep cylinder , measuring 40 feet in diameter, around the trunk to protect all essential roots.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在重型吊装开始前，团队先评估了根系，并在树干周围挖了一个深五英尺、直径40英尺的圆柱形坑，以保护所有重要的根部。"
+    },
+    {
+     "s": "By underinflating the front bags, the team allowed the platform carrying the tree to roll up the ramp and out of the hole while staying level, A trailer hauled the tree along as team members removed the airbags from the back of the platform and replaced them in the front.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "通过给前袋少充气，团队让载树的平台在保持水平的情况下滚上坡道出坑，拖车拖着树前行，成员们从平台后方取下气囊补到前方。"
+    },
+    {
+     "s": "These activities involve goal management and planning along with the ability to focus while competing on a team.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这些活动涉及目标管理和规划，以及在团队竞争中专注的能力。"
+    },
+    {
+     "s": "The team left 100 wax worms on a commercial polyethylene shopping bag for 12 hours, and the worms consumed and broke down about 92 milligrams, or almost 3% of it.",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该团队把100只蜡虫放在一个商用聚乙烯购物袋上12小时，这些虫消耗并分解了约92毫克，即近3%的袋子。"
+    },
+    {
+     "s": "Bertocchini agrees and hopes her team’s findings might one day help employ the enzyme to break down plastics in landfills.",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "贝尔托基尼对此表示同意，并希望她团队的发现有朝一日能利用这种酶分解垃圾填埋场中的塑料。"
+    },
+    {
+     "s": "My team saved my life.”",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我的团队救了我的命。"
+    },
+    {
+     "s": "Today, Paris is back on the softball team.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她在练习时瑟瑟发抖"
+    },
+    {
+     "s": "She came back on the softball team.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "上网看看吧——证据表明数千名老师和家长一眼就能识别出好东西并向朋友推荐TOKNOW。"
+    },
+    {
+     "s": "Tononi’s team measured the size of these connections, or synapses, in the brains of 12 mice.",
+     "src": "2017北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Tononi的团队在12只小鼠的大脑中测量了这些连接或突触的大小。"
+    },
+    {
+     "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
+    },
+    {
+     "s": "He is also a two-time Triathlon World Champion and a two-time World Team Champion.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "他也是两届铁人三项世界冠军和两届世界队冠军。"
+    },
+    {
+     "s": "He wants to play for a top team.",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "他想为顶级球队出场。"
+    },
+    {
+     "s": "I decided to commit to completing the applications, and soon I was a part of a growing global team of young people working to protect nature.",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我决心完成申请，很快我就成为一个不断壮大的全球年轻人团队的一员，致力于保护自然。"
+    },
+    {
+     "s": "Most people believe the best way to build a great team is to gather a group of the most talented individuals.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "大多数人认为，组建一支优秀团队的最佳方式是聚集一群最有才华的人。"
+    },
+    {
+     "s": "Encourage team work .",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "鼓励团队合作。"
+    },
+    {
+     "s": "Some argue that humans and machines can coexist as long as they work in teams—yet that is not possible unless machines share the goals of humans.",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "有人认为人类和机器可以共存，只要他们团队合作——但除非机器分享人类的目标，否则这是不可能的。"
+    },
+    {
+     "s": "This allows the Salk team to determine what genes are most beneficial to their plant designs.",
+     "src": "2026浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这使 Salk 团队能够确定哪些基因对他们的植物设计最有益。"
+    },
+    {
+     "s": "That’s the local stage writing team that creates many of the Children’s Theatre of Cincinnati’s original musicals, along with the holiday family musicals at Ensemble Theatre.",
+     "src": "2024浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这就是本地编剧团队，他们创作了辛辛那提儿童剧院的多部原创音乐剧，以及 Ensemble Theatre 的节日家庭音乐剧。"
+    },
+    {
+     "s": "The team showed that this change in bite was connected with the development of agriculture in the Neolithic period.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "团队表明，这种咬合变化与新石器时代农业的发展有关。"
+    },
+    {
+     "s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.",
+     "src": "2022全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"
+    },
+    {
+     "s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.",
+     "src": "2022全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"
+    },
+    {
+     "s": "Strano’s team found that they could create a faint light for three-and-a-half hours.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "斯特拉诺的团队发现，他们能让植物发出微弱的光达三个半小时。"
+    },
+    {
+     "s": "in the future，the team hopes to develop a version of the technology that can be sprayed onto plant leaves in a one-off treatment that would last the plant’s lifetime.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "未来，该团队希望开发一种技术版本，可以一次性喷洒到植物叶片上，效果持续植物一生。"
+    },
+    {
+     "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
+    },
+    {
+     "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
+    },
+    {
+     "s": "They conclude that when task interdependence is high，team performance will suffer when there is too much talent，while individual talent will have positive effects on team performance when task interdependence is lower.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "结果喜忧参半。对于足球和篮球来说，为球队增添有天赋的球员确实是一种好方法，但仅限于当70%的球员是顶尖人才时；超过这个水平，球队的表现就开始下降。"
+    },
+    {
+     "s": "I started doing anything I could to help them build a little （10）     ．Most important， I began to treat them like （11）     ． That summer， when the other teams enjoyed their （12）      ， we met every day and （13）     passing and kicking the football．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我开始尽我所能帮助他们建立一点（10）____。最重要的是，我开始把他们当作（11）____。那年夏天，当其他队伍享受他们的（12）____时，我们每天碰面，并（13）____传接和踢足球。"
+    },
+    {
+     "s": "Lost items are taken good care of by Cowan's team.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "丢失的物品受到考恩团队的妥善保管。"
+    },
+    {
+     "s": "Led by Professor Phil Blythe, the Newcastle team are developing in-vehicle technologies for older drivers which they hope could help them to continue driving into later life.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在菲尔·布莱斯教授的领导下，纽卡斯尔团队正在为老年驾驶员开发车载技术，他们希望这些技术能帮助他们在晚年继续驾驶。"
+    },
+    {
+     "s": "In addition, the team set up a separate experiment that suggested that the baby birds that most closely imitated their mom’s voice were rewarded with the most food.",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "此外，研究团队还设立了一个独立的实验，表明那些模仿母亲声音最像的幼鸟得到了最多的食物。"
+    },
+    {
+     "s": "The team discovered that some synapses seem to be protected and stayed the same size.",
+     "src": "2017北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "研究团队发现，某些突触似乎受到保护，保持了相同的尺寸。"
+    },
+    {
+     "s": "What does Victor find difficult as a member of the basketball team?",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "作为篮球队的一员，维克多觉得什么困难？"
+    },
+    {
+     "s": "Now a team of researchers led by Damián Blasi at the University of Zurich, Switzerland, has found how and why this trend arose.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如今，由瑞士苏黎世大学的达米安·布拉西领导的研究团队，发现了这一趋势产生的方式和原因。"
+    },
+    {
+     "s": "On Thursday in an article published in Cell, a team of researchers reported a new kind of adaptation - not to air or to food, but to the ocean.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "周四，一个研究团队在《细胞》发表的文章中报告了一种新的适应——不是对空气或食物，而是对海洋。"
+    },
+    {
+     "s": "As we organized teams, prepared resources and practiced answering questions, I felt more connected than I ever had to any sports team.",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当我们组队、准备资源并练习回答问题时，我感觉比以往任何时候都更融入任何一支运动队。"
+    },
+    {
+     "s": "Building up a dream team is more complex than simply hiring the best talent.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "组建梦之队比单纯雇佣最优秀的人才更复杂。"
+    },
+    {
+     "s": "The team’s data only went up to 2007, but the researchers also explored what would happen if consumers replaced old products with new electronics that serve more than one function, such as a tablet for word processing and TV viewing.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "团队的数据只统计到2007年，但研究人员还探讨了如果消费者用具有多种功能的新电子产品替代旧产品会发生什么，例如用于文字处理和看电视的平板电脑。"
+    },
+    {
+     "s": "I  37   back in high school I spent most of my day at school since I also   38   a team sport.",
+     "src": "2018浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我___37___，高中时我白天大部分时间在学校，因为我还___38___一项团队运动。"
+    },
+    {
+     "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这项研究推翻了“人类约30万年前进化时所有语音都已存在”的流行观点。“我们使用的语音集合自人类出现以来未必保持稳定，我们今天发现的极其多样的语音，是生物变化和文化演变等事物复杂相互作用的产物，”研究团队成员史蒂文·莫兰说。"
+    },
+    {
+     "s": "Lisa: As a member of the school volleyball team, I wasn't selected for the end-of-year competition.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "Lisa ：作为学校排球队的一员，我没有被选中参加年终比赛。"
+    },
+    {
+     "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a group of people who work together at a particular job （一起工作的）组，班",
+   "ex": [
     {
-      "def": "a group of people who play a particular game or sport against another group of people （游戏或运动的）队",
-      "ex": [
-        {
-          "s": "Which team will play the most games at the stadium this month?",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "本月哪支球队将在该体育场进行最多的比赛？"
-        },
-        {
-          "s": "Now, Pereira has teamed up with plant scientist Professor Wolfgang Busch to apply SLEAP to plants.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "现在，佩雷拉与植物学家沃尔夫冈·布施教授合作，将SLEAP应用于植物研究。"
-        },
-        {
-          "s": "The team focused only on three common types — polystyrene, polyethylene and polypropylene — and they didn’t study other chemicals previously found in water such as vinyl chloride.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "该团队只关注三种常见类型——聚苯乙烯、聚乙烯和聚丙烯——他们没有研究之前在水中发现的其他化学物质，如氯乙烯。"
-        },
-        {
-          "s": "Habitat Restoration Team volunteers play a vital role in restoring sensitive resources and protecting endangered species across the ridges and valleys.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "栖息地修复团队的志愿者在恢复敏感资源、保护山脊与山谷间的濒危物种方面发挥着重要作用。"
-        },
-        {
-          "s": "Wear a team uniform.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "穿团队制服。"
-        },
-        {
-          "s": "What does Victor say about the players on the team?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "维克多对队里的球员怎么评价？"
-        },
-        {
-          "s": "How does Victor feel about his team now?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "维克多现在对他的队伍感觉如何？"
-        },
-        {
-          "s": "The research team focused on a large urban park.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "研究团队聚焦于一个大都市公园。"
-        },
-        {
-          "s": "By teaming up with other photographers.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "通过与其他摄影师合作。"
-        },
-        {
-          "s": "She was like, “Join the swim team, Tara.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "ESL课程旨在帮助国际学生提高学术英语语言技能。"
-        },
-        {
-          "s": "Levine and his research team selected volunteers aged between 45 and 64 who did not exercise much but were otherwise healthy.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Levine和他的研究团队选择了45至64岁之间不常运动但其他方面健康的志愿者。"
-        },
-        {
-          "s": "Whatever grade the team received would be shared by both students.",
-          "src": "2022浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "无论团队得到什么成绩，两个学生都会共享。"
-        },
-        {
-          "s": "To recommend a research team.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为了推荐一个研究团队。"
-        },
-        {
-          "s": "Summers in the mid-70s were spent at home shooting baskets, hitting a baseball, or throwing a football, preparing for my future as a quarterback on a football team.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "70年代中期的夏天，我都在家里投篮、打棒球或扔橄榄球，为我将来当橄榄球队四分卫做准备。"
-        },
-        {
-          "s": "Why does Jeff have to pick a team to support？",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为什么Jeff必须选择支持一支队伍？"
-        },
-        {
-          "s": "Most kids want superheroes, sports team logos or princesses, while babies often receive scenes with flowers, trees and sea creatures.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "大多数孩子想要超级英雄、运动队标志或公主图案，而婴儿常常收到印有花卉、树木和海洋生物的图案。"
-        },
-        {
-          "s": "I've driven teams of horses and carried water.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"我出生在威斯康星州的乡村。"
-        },
-        {
-          "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
-        },
-        {
-          "s": "And it's all supported by an efficient customer service team, available through telephone, email and online chat.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这一切都由一个高效的客服团队支持，可通过电话、电子邮件和在线聊天联系。"
-        },
-        {
-          "s": "The team hopes to make it to market in the near future.",
-          "src": "2019全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "该团队希望在不久的将来将其推向市场。"
-        },
-        {
-          "s": "Somewhere along the way, the same parent ends up becoming an invaluable member of the team.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "不知不觉间，同一位家长最终成了球队里不可或缺的一员。"
-        },
-        {
-          "s": "Your son may not be the best basketball player on his team.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "你儿子也许不是队里最好的篮球运动员。"
-        },
-        {
-          "s": "But if he's out there every day and playing hard, you should praise his effort regardless of whether his team wins or loses.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但如果他每天都在那里努力打球，无论他的球队输赢，你都应该赞扬他的努力。"
-        },
-        {
-          "s": "Interestingly，this trend isn’t evident in baseball. where additional individual talent keeps improving the team’s performance.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "有趣的是，这种趋势在棒球中并不明显，因为在棒球里增加个人天赋会持续提升团队表现。"
-        },
-        {
-          "s": "If a basketball star is. for example，trying to gain a high personal point total，he may take a shot himself when it would be better to pass the ball to a teammate，affecting the team's performance.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "例如，如果一个篮球明星试图获得更高的个人得分总数，在把球传给队友可能更好的情况下，他可能会自己投篮，从而影响球队的表现。"
-        },
-        {
-          "s": "Young children learning to play team sports are often told，“There is no I in TEAM.”    49",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "“TEAM”（团队）里没有“I”（我），学习团队运动的幼儿经常被告诫。"
-        },
-        {
-          "s": "Another possibility is that when there is a lot of talent on a team，some players may make less effort.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "另一种可能是，当一支球队中有太多天才时，一些球员可能会不那么努力。"
-        },
-        {
-          "s": "Sports team owners spend millions of dollars attracting top talent",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "运动队老板花费数百万美元吸引顶尖人才"
-        },
-        {
-          "s": "The team transforms the family’s long weekend of celebration with less expensive but still tasty recipes.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "团队用价格更低但依然美味的食谱改变了这个家庭漫长的周末庆祝活动。"
-        },
-        {
-          "s": "Why did Babbitt's team conduct the research?",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "巴比特团队为什么进行这项研究？"
-        },
-        {
-          "s": "It was a tradition for the school's old team to play against the（4）     team at the end of spring practice． The old team had no coach， and they didn't even practice to（5）     the game． Being the coach of the new team， I was excited because I knew we were going to win， but to my disappointment we were defeated． I couldn't （6）     I had got into such a situation． Thinking hard about it， I came to（7）     that my team might not be the number one team in Georgia， but they were（8）     me． I had to change my （9）     about their ability and potential．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "学校的元老队在春季训练结束时与（4）______队比赛是一个传统。元老队没有教练，他们甚至不为（5）______比赛而练习。作为新队的教练，我很兴奋，因为我知道我们会赢，但令我失望的是我们被打败了。我无法（6）______相信我会陷入这样的境地。仔细思考后，我（7）______意识到我的队可能不是佐治亚州第一名，但他们信任（8）______我。我必须改变我对他们能力和潜力的（9）______看法。"
-        },
-        {
-          "s": "Six months after suffering our （14）     on the spring practice field， we won our first game and our second， and continued to （15）     ．Finally， we faced the number one team in the state． I felt that it would be a （16）     for us even if we lost the game． But that wasn't what happened． My boys beat the best team in Georgia， giving me one of the greatest （17）     of my life！",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在春季训练场遭受（14）___六个月后，我们赢下第一场、第二场，并继续（15）___。终于，我们面对全州第一的队。我觉得即使输了，对我们也是（16）___。但事实并非如此。我的孩子们击败了佐治亚最好的队，给了我一生中最伟大的（17）___之一！"
-        },
-        {
-          "s": "From the experience I learned a lot about how the attitude of the leader can （18）     the members of a team． Instead of seeing my boys as losers， I pushed and （19）     them． I helped them to see themselves（20）     ， and they built themselves into winners．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "从这次经历中，我学到很多关于领导者态度如何（18）___团队成员。我没有把孩子们看作失败者，而是推动并（19）___他们。我帮他们（20）___看待自己，他们把自己打造成赢家。"
-        },
-        {
-          "s": "Before the heavy lifting began, the team assessed the root system and dug a five-foot-deep cylinder , measuring 40 feet in diameter, around the trunk to protect all essential roots.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在重型吊装开始前，团队先评估了根系，并在树干周围挖了一个深五英尺、直径40英尺的圆柱形坑，以保护所有重要的根部。"
-        },
-        {
-          "s": "By underinflating the front bags, the team allowed the platform carrying the tree to roll up the ramp and out of the hole while staying level, A trailer hauled the tree along as team members removed the airbags from the back of the platform and replaced them in the front.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "通过给前袋少充气，团队让载树的平台在保持水平的情况下滚上坡道出坑，拖车拖着树前行，成员们从平台后方取下气囊补到前方。"
-        },
-        {
-          "s": "These activities involve goal management and planning along with the ability to focus while competing on a team.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这些活动涉及目标管理和规划，以及在团队竞争中专注的能力。"
-        },
-        {
-          "s": "The team left 100 wax worms on a commercial polyethylene shopping bag for 12 hours, and the worms consumed and broke down about 92 milligrams, or almost 3% of it.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该团队把100只蜡虫放在一个商用聚乙烯购物袋上12小时，这些虫消耗并分解了约92毫克，即近3%的袋子。"
-        },
-        {
-          "s": "Bertocchini agrees and hopes her team’s findings might one day help employ the enzyme to break down plastics in landfills.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "贝尔托基尼对此表示同意，并希望她团队的发现有朝一日能利用这种酶分解垃圾填埋场中的塑料。"
-        },
-        {
-          "s": "My team saved my life.”",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我的团队救了我的命。"
-        },
-        {
-          "s": "Today, Paris is back on the softball team.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她在练习时瑟瑟发抖"
-        },
-        {
-          "s": "She came back on the softball team.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "上网看看吧——证据表明数千名老师和家长一眼就能识别出好东西并向朋友推荐TOKNOW。"
-        },
-        {
-          "s": "Tononi’s team measured the size of these connections, or synapses, in the brains of 12 mice.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Tononi的团队在12只小鼠的大脑中测量了这些连接或突触的大小。"
-        },
-        {
-          "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
-        },
-        {
-          "s": "He is also a two-time Triathlon World Champion and a two-time World Team Champion.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "他也是两届铁人三项世界冠军和两届世界队冠军。"
-        },
-        {
-          "s": "He wants to play for a top team.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "他想为顶级球队出场。"
-        },
-        {
-          "s": "I decided to commit to completing the applications, and soon I was a part of a growing global team of young people working to protect nature.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我决心完成申请，很快我就成为一个不断壮大的全球年轻人团队的一员，致力于保护自然。"
-        },
-        {
-          "s": "Most people believe the best way to build a great team is to gather a group of the most talented individuals.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "大多数人认为，组建一支优秀团队的最佳方式是聚集一群最有才华的人。"
-        },
-        {
-          "s": "Encourage team work .",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "鼓励团队合作。"
-        },
-        {
-          "s": "Some argue that humans and machines can coexist as long as they work in teams—yet that is not possible unless machines share the goals of humans.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "有人认为人类和机器可以共存，只要他们团队合作——但除非机器分享人类的目标，否则这是不可能的。"
-        },
-        {
-          "s": "This allows the Salk team to determine what genes are most beneficial to their plant designs.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这使 Salk 团队能够确定哪些基因对他们的植物设计最有益。"
-        },
-        {
-          "s": "That’s the local stage writing team that creates many of the Children’s Theatre of Cincinnati’s original musicals, along with the holiday family musicals at Ensemble Theatre.",
-          "src": "2024浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这就是本地编剧团队，他们创作了辛辛那提儿童剧院的多部原创音乐剧，以及 Ensemble Theatre 的节日家庭音乐剧。"
-        },
-        {
-          "s": "The team showed that this change in bite was connected with the development of agriculture in the Neolithic period.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "团队表明，这种咬合变化与新石器时代农业的发展有关。"
-        },
-        {
-          "s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"
-        },
-        {
-          "s": "That was why none of the children thought it unusual that David had decided to join the cross-country team.",
-          "src": "2022全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这就是为什么没有一个孩子觉得David决定加入越野队有什么不寻常。"
-        },
-        {
-          "s": "Strano’s team found that they could create a faint light for three-and-a-half hours.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "斯特拉诺的团队发现，他们能让植物发出微弱的光达三个半小时。"
-        },
-        {
-          "s": "in the future，the team hopes to develop a version of the technology that can be sprayed onto plant leaves in a one-off treatment that would last the plant’s lifetime.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "未来，该团队希望开发一种技术版本，可以一次性喷洒到植物叶片上，效果持续植物一生。"
-        },
-        {
-          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
-        },
-        {
-          "s": "The results are mixed For football and basketball，adding talented players to a team proves a good method，but only up to the point where 70% of the players are top talent；above that level, the team’s performance begins to decline.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "对于足球和篮球来说，效果不一：为球队增添有天赋的球员被证明是个好办法，但仅限于70%的球员都是顶尖人才的程度；超过这一水平，球队的表现就开始下滑。"
-        },
-        {
-          "s": "They conclude that when task interdependence is high，team performance will suffer when there is too much talent，while individual talent will have positive effects on team performance when task interdependence is lower.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "结果喜忧参半。对于足球和篮球来说，为球队增添有天赋的球员确实是一种好方法，但仅限于当70%的球员是顶尖人才时；超过这个水平，球队的表现就开始下降。"
-        },
-        {
-          "s": "I started doing anything I could to help them build a little （10）     ．Most important， I began to treat them like （11）     ． That summer， when the other teams enjoyed their （12）      ， we met every day and （13）     passing and kicking the football．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我开始尽我所能帮助他们建立一点（10）____。最重要的是，我开始把他们当作（11）____。那年夏天，当其他队伍享受他们的（12）____时，我们每天碰面，并（13）____传接和踢足球。"
-        },
-        {
-          "s": "Lost items are taken good care of by Cowan's team.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "丢失的物品受到考恩团队的妥善保管。"
-        },
-        {
-          "s": "Led by Professor Phil Blythe, the Newcastle team are developing in-vehicle technologies for older drivers which they hope could help them to continue driving into later life.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在菲尔·布莱斯教授的领导下，纽卡斯尔团队正在为老年驾驶员开发车载技术，他们希望这些技术能帮助他们在晚年继续驾驶。"
-        },
-        {
-          "s": "In addition, the team set up a separate experiment that suggested that the baby birds that most closely imitated their mom’s voice were rewarded with the most food.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "此外，研究团队还设立了一个独立的实验，表明那些模仿母亲声音最像的幼鸟得到了最多的食物。"
-        },
-        {
-          "s": "The team discovered that some synapses seem to be protected and stayed the same size.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "研究团队发现，某些突触似乎受到保护，保持了相同的尺寸。"
-        },
-        {
-          "s": "What does Victor find difficult as a member of the basketball team?",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "作为篮球队的一员，维克多觉得什么困难？"
-        },
-        {
-          "s": "Now a team of researchers led by Damián Blasi at the University of Zurich, Switzerland, has found how and why this trend arose.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如今，由瑞士苏黎世大学的达米安·布拉西领导的研究团队，发现了这一趋势产生的方式和原因。"
-        },
-        {
-          "s": "On Thursday in an article published in Cell, a team of researchers reported a new kind of adaptation - not to air or to food, but to the ocean.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "周四，一个研究团队在《细胞》发表的文章中报告了一种新的适应——不是对空气或食物，而是对海洋。"
-        },
-        {
-          "s": "As we organized teams, prepared resources and practiced answering questions, I felt more connected than I ever had to any sports team.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当我们组队、准备资源并练习回答问题时，我感觉比以往任何时候都更融入任何一支运动队。"
-        },
-        {
-          "s": "Building up a dream team is more complex than simply hiring the best talent.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "组建梦之队比单纯雇佣最优秀的人才更复杂。"
-        },
-        {
-          "s": "The team’s data only went up to 2007, but the researchers also explored what would happen if consumers replaced old products with new electronics that serve more than one function, such as a tablet for word processing and TV viewing.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "团队的数据只统计到2007年，但研究人员还探讨了如果消费者用具有多种功能的新电子产品替代旧产品会发生什么，例如用于文字处理和看电视的平板电脑。"
-        },
-        {
-          "s": "I  37   back in high school I spent most of my day at school since I also   38   a team sport.",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我___37___，高中时我白天大部分时间在学校，因为我还___38___一项团队运动。"
-        },
-        {
-          "s": "This research overturns the popular view that all human speech sounds were present when human beings evolved around 300,000 years ago. ”The set of speech sounds we use has not necessarily remained stable since the appearance of human beings, but rather the huge variety of speech sounds that we find today is the product of a complex interplay of things like biological change and cultural evolution,“ said Steven Moran, a member of the research team.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这项研究推翻了“人类约30万年前进化时所有语音都已存在”的流行观点。“我们使用的语音集合自人类出现以来未必保持稳定，我们今天发现的极其多样的语音，是生物变化和文化演变等事物复杂相互作用的产物，”研究团队成员史蒂文·莫兰说。"
-        },
-        {
-          "s": "Lisa: As a member of the school volleyball team, I wasn't selected for the end-of-year competition.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "Lisa ：作为学校排球队的一员，我没有被选中参加年终比赛。"
-        },
-        {
-          "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。"
-        }
-      ]
+     "s": "Where did Emma work for a rugby team?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "艾玛在哪里为橄榄球队工作？"
     },
     {
-      "def": "a group of people who work together at a particular job （一起工作的）组，班",
-      "ex": [
-        {
-          "s": "Where did Emma work for a rugby team?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "艾玛在哪里为橄榄球队工作？"
-        },
-        {
-          "s": "Where did Emma work for a rugby team?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "艾玛在哪里为橄榄球队工作？"
-        },
-        {
-          "s": "You should be able to work well in a team and adapt to an international working environment．",
-          "src": "2021北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你应该能够在团队中良好协作，并适应国际化工作环境。"
-        },
-        {
-          "s": "Work in a team for six months．",
-          "src": "2021北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在团队中工作六个月。"
-        },
-        {
-          "s": "What is the aim of the Habitat Restoration Team?",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "栖息地修复小组的目标是什么？"
-        },
-        {
-          "s": "What is the lower age limit for joining the Habitat Restoration Team?",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "加入栖息地修复小组的最低年龄限制是多少？"
-        },
-        {
-          "s": "A team of scientists led by Professor Eli Shlizerman at the University of Washington has now found the answer.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "华盛顿大学的Eli Shlizerman教授领导的一个科学家小组现在已经找到了答案。"
-        }
-      ]
+     "s": "Where did Emma work for a rugby team?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "艾玛在哪里为橄榄球队工作？"
     },
     {
-      "def": "two or more animals that are used together to pull a cart, etc. （同拉一辆车等的）一组牲畜，联畜",
-      "ex": [
-        {
-          "s": "Merit and his team at Environmental Design installed underneath the root ball a platform of seven-inch-diameter,44-foot-long steelbars and, just below the rods, a first set of uninflated airbags ( shown in gray).The team also dug a shallow ramp.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "环境设计公司的梅里特及其团队在根球下方安装了一个平台，由直径7英寸、长44英尺的钢条构成，钢条正下方是第一组未充气的气囊（灰色所示）。团队还挖了一条浅坡道。"
-        },
-        {
-          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
-        }
-      ]
+     "s": "You should be able to work well in a team and adapt to an international working environment．",
+     "src": "2021北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "你应该能够在团队中良好协作，并适应国际化工作环境。"
+    },
+    {
+     "s": "Work in a team for six months．",
+     "src": "2021北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在团队中工作六个月。"
+    },
+    {
+     "s": "What is the aim of the Habitat Restoration Team?",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "栖息地修复小组的目标是什么？"
+    },
+    {
+     "s": "What is the lower age limit for joining the Habitat Restoration Team?",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "加入栖息地修复小组的最低年龄限制是多少？"
+    },
+    {
+     "s": "A team of scientists led by Professor Eli Shlizerman at the University of Washington has now found the answer.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "华盛顿大学的Eli Shlizerman教授领导的一个科学家小组现在已经找到了答案。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "two or more animals that are used together to pull a cart, etc. （同拉一辆车等的）一组牲畜，联畜",
+   "ex": [
     {
-      "en": "research team",
-      "cn": "研究团队",
-      "type": "名词短语",
-      "count": 4
+     "s": "Merit and his team at Environmental Design installed underneath the root ball a platform of seven-inch-diameter,44-foot-long steelbars and, just below the rods, a first set of uninflated airbags ( shown in gray).The team also dug a shallow ramp.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "环境设计公司的梅里特及其团队在根球下方安装了一个平台，由直径7英寸、长44英尺的钢条构成，钢条正下方是第一组未充气的气囊（灰色所示）。团队还挖了一条浅坡道。"
     },
     {
-      "en": "sports team",
-      "cn": "运动队",
-      "type": "名词短语",
-      "count": 3
+     "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "research team",
+   "cn": "研究团队",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
