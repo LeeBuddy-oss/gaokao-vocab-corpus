@@ -1,308 +1,308 @@
 {
-  "meta": {
-    "ph": "ˌsaɪənˈtɪfɪk; NAmE ˌsaɪənˈtɪfɪk",
-    "pos": "adj.",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˌsaɪənˈtɪfɪk; NAmE ˌsaɪənˈtɪfɪk",
+  "pos": "adj.",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "involving science; connected with science 科学（上）的；关于科学的",
+   "ex": [
+    {
+     "s": "To illustrate a scientific concept.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "为了阐明一个科学概念。"
+    },
+    {
+     "s": "Prior to SLEAP, tracking the physical characteristics of both plants and animals required a lot of labor that slowed the scientific process.",
+     "src": "2026浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在SLEAP出现之前，追踪动植物物理特征需要大量人工，拖慢了科研进程。"
+    },
+    {
+     "s": "Until recently, scientific evidence had been limited to one aspect of morality: kindness.",
+     "src": "2026北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "直到最近，科学证据还仅限于道德的一个方面：善良。"
+    },
+    {
+     "s": "Due to the lack of scientific proof concerning their impacts, no one has succeeded in winning a lawsuit against cloud-seeding companies.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "由于缺乏关于其影响的科学证据，没有人成功起诉过人工降雨公司。"
+    },
+    {
+     "s": "Scientific studies have proved Stienwand right.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "科学研究证明了Stienwand是对的。"
+    },
+    {
+     "s": "Still, sometimes our assumptions are incorrect, and scientific findings surprise researchers, along with the rest of us.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "尽管如此，有时候我们的假设是不正确的，科学发现会让研究人员和我们其他人感到惊讶。"
+    },
+    {
+     "s": "Scientific research is inspired by an unknown phenomenon.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我正站在车旁，一只蜂鸟飞到我们中间开始悬停。"
+    },
+    {
+     "s": "Direct observation is a must for scientific research.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "5. — 迈克下周将宣布他从职业足球退役。"
+    },
+    {
+     "s": "Scientific research is guaranteed by sufficient lab facilities.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "充足的实验室设施保障了科学研究的开展。"
+    },
+    {
+     "s": "Scientific predictions should be mostly based on research models.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "科学预测应主要基于研究模型。"
+    },
+    {
+     "s": "Unfortunately, this is not a scientific question.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "不幸的是，这不是一个科学问题。"
+    },
+    {
+     "s": "We can, instead, use this idea to advance scientific knowledge.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "相反，我们可以利用这个想法来推进科学知识。"
+    },
+    {
+     "s": "It can be imagined that comparable to the process of building previous scientific models, developing the “computer simulation” metaphor-based model will also be a hugely rewarding exercise.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "可以想象，与构建以往科学模型的过程类似，发展这种基于\"计算机模拟\"隐喻的模型也将是一项极具价值的实践。"
+    },
+    {
+     "s": "They are of high scientific value.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它们有很高的科学价值。"
+    },
+    {
+     "s": "From the English side, we have scientific reports and the captain’s record of that terrible day.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从英方那里，我们有科学报告和船长对那可怕一天的记录。"
+    },
+    {
+     "s": "His report was scientific.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他的报告是科学的。"
+    },
+    {
+     "s": "In the end, I had a new scientific interest to pursue.",
+     "src": "2023北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "最终，我有了一个新的科学兴趣去追求。"
+    },
+    {
+     "s": "This track record makes ALife a ripe target for criticism, such as declarations of the field’s doubtful scientific value.",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这使得ALife成为批评的有力目标，例如对该领域科学价值的质疑。"
+    },
+    {
+     "s": "To introduce a scientific discovery.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "为了介绍一项科学发现。"
+    },
+    {
+     "s": "Other scientists may say scientific findings are true because they use “the scientific method.” But we can never actually agree on what that method is.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "其他科学家可能说科学发现是真的，因为他们用了“科学方法”。但我们永远无法真正就那方法是什么达成一致。"
+    },
+    {
+     "s": "Recently a leading scientist said the scientific method was to avoid fooling oneself into thinking something is true that is not.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "最近，一位顶尖科学家说，科学方法就是避免自欺欺人地相信不真实的东西。"
+    },
+    {
+     "s": "Each of these views has its value, but if the claim is that any one of these is the scientific method, then they all fail.",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这些观点各有价值，但如果声称其中任何一个是唯一的科学方法，那么它们都不成立。"
+    },
+    {
+     "s": "Scientific Method: Simple Choice",
+     "src": "2022天津4月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "科学方法：简单的选择"
+    },
+    {
+     "s": "Although the continuing popular appeal of emotional intelligence is desirable, we hope that such attention will excite a greater interest in the scientific and scholarly study of emotion.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "尽管情商持续的大众吸引力是可取的，我们希望这种关注能激发对情绪科学和学术研究的更大兴趣。"
+    },
+    {
+     "s": "This idea is a little off-the-wall but still has scientific backing．",
+     "src": "2021北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这个想法有点离奇，但仍不乏科学依据。"
+    },
+    {
+     "s": "The connection between people and plants has long been the subject of scientific research.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最近的研究发现了积极的影响。"
+    },
+    {
+     "s": "A scientific study.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一项科学研究。"
+    },
+    {
+     "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
+    },
+    {
+     "s": "All participants must address how communication or transportation technology has promoted the quality of life for Americans throughout history． To many people，technology means computers， hand﹣held devices， or vehicles that travel to distant planets． However， technology is also the application of scientific knowledge to solve a problem， touching lives in countless ways．",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "所有参与者必须阐述通信或交通技术如何在整个历史中提升了美国人的生活品质。对许多人来说，技术意味着电脑、手持设备，或前往遥远行星的飞行器。然而，技术也是运用科学知识解决问题，以无数种方式触动着人们的生活。"
+    },
+    {
+     "s": "It’s partly that his writings rode a wave of social, political and scientific progress.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "部分原因在于他的著作乘上了社会、政治和科学进步的浪潮。"
+    },
+    {
+     "s": "People have been more inspired by Franklin’s spirit of scientific exploration than by the facts themselves.",
+     "src": "外研社B3 U3",
+     "cat": "waiyan",
+     "t": "人们更多是被富兰克林的科学探索精神所鼓舞，而不是事实本身。"
+    },
+    {
+     "s": "Franklin’s spirit of scientific exploration is still considered an inspiration.",
+     "src": "外研社B3 U3",
+     "cat": "waiyan",
+     "t": "富兰克林的科学探索精神仍然被认为是一种灵感。"
+    },
+    {
+     "s": "So, for accurate and reliable predictions, it’s best to check an official, scientific report.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "t": "因此，为了准确可靠的预测，最好查看官方的科学报告。"
+    },
+    {
+     "s": "Despite all this, his adventures on this ship would lead to one of the most important scientific discoveries of all time.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "尽管如此，他在这艘船上的历险将导致有史以来最重要的科学发现之一。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "involving science; connected with science 科学（上）的；关于科学的",
-      "ex": [
-        {
-          "s": "To illustrate a scientific concept.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了阐明一个科学概念。"
-        },
-        {
-          "s": "Prior to SLEAP, tracking the physical characteristics of both plants and animals required a lot of labor that slowed the scientific process.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在SLEAP出现之前，追踪动植物物理特征需要大量人工，拖慢了科研进程。"
-        },
-        {
-          "s": "Until recently, scientific evidence had been limited to one aspect of morality: kindness.",
-          "src": "2026北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "直到最近，科学证据还仅限于道德的一个方面：善良。"
-        },
-        {
-          "s": "Due to the lack of scientific proof concerning their impacts, no one has succeeded in winning a lawsuit against cloud-seeding companies.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "由于缺乏关于其影响的科学证据，没有人成功起诉过人工降雨公司。"
-        },
-        {
-          "s": "Scientific studies have proved Stienwand right.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "科学研究证明了Stienwand是对的。"
-        },
-        {
-          "s": "Still, sometimes our assumptions are incorrect, and scientific findings surprise researchers, along with the rest of us.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尽管如此，有时候我们的假设是不正确的，科学发现会让研究人员和我们其他人感到惊讶。"
-        },
-        {
-          "s": "Scientific research is inspired by an unknown phenomenon.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我正站在车旁，一只蜂鸟飞到我们中间开始悬停。"
-        },
-        {
-          "s": "Direct observation is a must for scientific research.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "5. — 迈克下周将宣布他从职业足球退役。"
-        },
-        {
-          "s": "Scientific research is guaranteed by sufficient lab facilities.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "充足的实验室设施保障了科学研究的开展。"
-        },
-        {
-          "s": "Scientific predictions should be mostly based on research models.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "科学预测应主要基于研究模型。"
-        },
-        {
-          "s": "Unfortunately, this is not a scientific question.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "不幸的是，这不是一个科学问题。"
-        },
-        {
-          "s": "We can, instead, use this idea to advance scientific knowledge.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "相反，我们可以利用这个想法来推进科学知识。"
-        },
-        {
-          "s": "It can be imagined that comparable to the process of building previous scientific models, developing the “computer simulation” metaphor-based model will also be a hugely rewarding exercise.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "可以想象，与构建以往科学模型的过程类似，发展这种基于\"计算机模拟\"隐喻的模型也将是一项极具价值的实践。"
-        },
-        {
-          "s": "They are of high scientific value.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它们有很高的科学价值。"
-        },
-        {
-          "s": "From the English side, we have scientific reports and the captain’s record of that terrible day.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从英方那里，我们有科学报告和船长对那可怕一天的记录。"
-        },
-        {
-          "s": "His report was scientific.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他的报告是科学的。"
-        },
-        {
-          "s": "In the end, I had a new scientific interest to pursue.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最终，我有了一个新的科学兴趣去追求。"
-        },
-        {
-          "s": "This track record makes ALife a ripe target for criticism, such as declarations of the field’s doubtful scientific value.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这使得ALife成为批评的有力目标，例如对该领域科学价值的质疑。"
-        },
-        {
-          "s": "To introduce a scientific discovery.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "为了介绍一项科学发现。"
-        },
-        {
-          "s": "Other scientists may say scientific findings are true because they use “the scientific method.” But we can never actually agree on what that method is.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "其他科学家可能说科学发现是真的，因为他们用了“科学方法”。但我们永远无法真正就那方法是什么达成一致。"
-        },
-        {
-          "s": "Recently a leading scientist said the scientific method was to avoid fooling oneself into thinking something is true that is not.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最近，一位顶尖科学家说，科学方法就是避免自欺欺人地相信不真实的东西。"
-        },
-        {
-          "s": "Each of these views has its value, but if the claim is that any one of these is the scientific method, then they all fail.",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这些观点各有价值，但如果声称其中任何一个是唯一的科学方法，那么它们都不成立。"
-        },
-        {
-          "s": "Scientific Method: Simple Choice",
-          "src": "2022天津4月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "科学方法：简单的选择"
-        },
-        {
-          "s": "Although the continuing popular appeal of emotional intelligence is desirable, we hope that such attention will excite a greater interest in the scientific and scholarly study of emotion.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "尽管情商持续的大众吸引力是可取的，我们希望这种关注能激发对情绪科学和学术研究的更大兴趣。"
-        },
-        {
-          "s": "This idea is a little off-the-wall but still has scientific backing．",
-          "src": "2021北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这个想法有点离奇，但仍不乏科学依据。"
-        },
-        {
-          "s": "The connection between people and plants has long been the subject of scientific research.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最近的研究发现了积极的影响。"
-        },
-        {
-          "s": "A scientific study.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一项科学研究。"
-        },
-        {
-          "s": "“If we're successful,” their mission statement reads, “we believe this will be one of the most important and widely beneficial scientific advances ever made.”",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"如果我们成功的话，\"他们的使命声明写道，\"我们相信这将是迄今为止最重要、最有益的科学进步之一。\""
-        },
-        {
-          "s": "All participants must address how communication or transportation technology has promoted the quality of life for Americans throughout history． To many people，technology means computers， hand﹣held devices， or vehicles that travel to distant planets． However， technology is also the application of scientific knowledge to solve a problem， touching lives in countless ways．",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "所有参与者必须阐述通信或交通技术如何在整个历史中提升了美国人的生活品质。对许多人来说，技术意味着电脑、手持设备，或前往遥远行星的飞行器。然而，技术也是运用科学知识解决问题，以无数种方式触动着人们的生活。"
-        },
-        {
-          "s": "It’s partly that his writings rode a wave of social, political and scientific progress.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "部分原因在于他的著作乘上了社会、政治和科学进步的浪潮。"
-        },
-        {
-          "s": "People have been more inspired by Franklin’s spirit of scientific exploration than by the facts themselves.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "人们更多是被富兰克林的科学探索精神所鼓舞，而不是事实本身。"
-        },
-        {
-          "s": "Franklin’s spirit of scientific exploration is still considered an inspiration.",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "富兰克林的科学探索精神仍然被认为是一种灵感。"
-        },
-        {
-          "s": "So, for accurate and reliable predictions, it’s best to check an official, scientific report.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "因此，为了准确可靠的预测，最好查看官方的科学报告。"
-        },
-        {
-          "s": "Despite all this, his adventures on this ship would lead to one of the most important scientific discoveries of all time.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "尽管如此，他在这艘船上的历险将导致有史以来最重要的科学发现之一。"
-        }
-      ]
-    },
-    {
-      "def": "careful and logical 做事或思想的方法",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "scientific research",
-      "cn": "科学研究",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "scientific method",
-      "cn": "科学方法",
-      "type": "形容词短语",
-      "count": 4
-    },
-    {
-      "en": "scientific exploration",
-      "cn": "科学的",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "scientific study",
-      "cn": "科学学习",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "scientific finding",
-      "cn": "科学调查发现",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "scientific knowledge",
-      "cn": "科学知识",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "scientific value",
-      "cn": "科学价值",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "scientific report",
-      "cn": "科学汇报",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "scientific discovery",
-      "cn": "科学发现",
-      "type": "形容词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "careful and logical 做事或思想的方法",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "scientific research",
+   "cn": "科学研究",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "scientific method",
+   "cn": "科学方法",
+   "type": "形容词短语",
+   "count": 4
+  },
+  {
+   "en": "scientific exploration",
+   "cn": "科学的exploration",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "scientific study",
+   "cn": "科学学习",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "scientific finding",
+   "cn": "科学调查发现",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "scientific knowledge",
+   "cn": "科学知识",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "scientific value",
+   "cn": "科学价值",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "scientific report",
+   "cn": "科学汇报",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "scientific discovery",
+   "cn": "科学发现",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
