@@ -1,367 +1,361 @@
 {
-  "meta": {
-    "ph": "ˈɑːnsə(r); NAmE ˈænsər",
-    "pos": "noun; noun; noun; noun; verb; verb; verb; verb",
-    "stars": ""
+ "meta": {
+  "ph": "ˈɑːnsə(r); NAmE ˈænsər",
+  "pos": "noun; noun; noun; noun; verb; verb; verb; verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "something that you say, write or do to react to a question or situation 答复；回答",
+   "ex": [
+    {
+     "s": "She often asks this, and I always answer the same way—“To have Granddad back” —which usually gets her reminiscing about him.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "她常这么问，而我也总是同样的回答——“让爷爷回来”——这通常会让她陷入对他的回忆。"
+    },
+    {
+     "s": "After I read the book, Taylor patiently answered my questions about it.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我读完那本书后，泰勒耐心地回答了我关于它的问题。"
+    },
+    {
+     "s": "He also answered my questions about PyQuantum, the firm he co-founded in 2016.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他还回答了我关于PyQuantum的问题，那是他2016年共同创立的公司。"
+    },
+    {
+     "s": "This will make getting answers easier.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这里有一些与医生交谈的建议。"
+    },
+    {
+     "s": "As we organized teams, prepared resources and practiced answering questions, I felt more connected than I ever had to any sports team.",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当我们组队、准备资源并练习回答问题时，我感觉比以往任何时候都更融入任何一支运动队。"
+    },
+    {
+     "s": "Answering a question.",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "回答一个问题。"
+    },
+    {
+     "s": "Similarly, these invitations are answered in writing.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "同样，这些邀请将以书面形式回复。"
+    },
+    {
+     "s": "I talked to one of the senior applicants who answered questions in a way that reflected the faith she had in herself.",
+     "src": "2025北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我和一位高年级申请者交谈，她回答问题时展现出对自己的信心。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "something that you write or say in reply to a question in a test, an exam, an exercise, etc; the correct reply to a question in a test, etc. （试题、练习等的）答案，正确答案",
+   "ex": [
     {
-      "def": "something that you say, write or do to react to a question or situation 答复；回答",
-      "ex": [
-        {
-          "s": "She often asks this, and I always answer the same way—“To have Granddad back” —which usually gets her reminiscing about him.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "她常这么问，而我也总是同样的回答——“让爷爷回来”——这通常会让她陷入对他的回忆。"
-        },
-        {
-          "s": "After I read the book, Taylor patiently answered my questions about it.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我读完那本书后，泰勒耐心地回答了我关于它的问题。"
-        },
-        {
-          "s": "He also answered my questions about PyQuantum, the firm he co-founded in 2016.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他还回答了我关于PyQuantum的问题，那是他2016年共同创立的公司。"
-        },
-        {
-          "s": "This will make getting answers easier.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这里有一些与医生交谈的建议。"
-        },
-        {
-          "s": "As we organized teams, prepared resources and practiced answering questions, I felt more connected than I ever had to any sports team.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当我们组队、准备资源并练习回答问题时，我感觉比以往任何时候都更融入任何一支运动队。"
-        },
-        {
-          "s": "Answering a question.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "回答一个问题。"
-        },
-        {
-          "s": "Similarly, these invitations are answered in writing.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "同样，这些邀请将以书面形式回复。"
-        },
-        {
-          "s": "I talked to one of the senior applicants who answered questions in a way that reflected the faith she had in herself.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我和一位高年级申请者交谈，她回答问题时展现出对自己的信心。"
-        }
-      ]
+     "s": "Make sure that as you go from interview to interview, you are getting a variety of answers.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "确保你在从一个采访转到另一个采访的过程中获得各种各样的答案。"
     },
     {
-      "def": "something that you write or say in reply to a question in a test, an exam, an exercise, etc; the correct reply to a question in a test, etc. （试题、练习等的）答案，正确答案",
-      "ex": [
-        {
-          "s": "Make sure that as you go from interview to interview, you are getting a variety of answers.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "确保你在从一个采访转到另一个采访的过程中获得各种各样的答案。"
-        },
-        {
-          "s": "“There is no wrong answer,” she said, “I want to know your opinion, Addie.” Hesitantly, I said, “Maybe… both.”",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "\"没有错误答案，\"她说，\"我想知道你的看法，艾迪。\"我犹豫地说：\"也许……\""
-        },
-        {
-          "s": "Ask the tourists from around the world that flood into Yellowstone National Park what they most hope to see, and their answer is often the same: a grizzly bear.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "向来自世界各地的游客询问淹没进入黄石国家公园的游客最希望看到什么，他们的答案往往是一样的：一只灰熊。"
-        },
-        {
-          "s": "The broken window glass was the likely answer.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "破碎的窗户玻璃很可能是答案。"
-        },
-        {
-          "s": "The answer broke his heart.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "答案让他很伤心。"
-        },
-        {
-          "s": "If everyone is giving you the same answer, you won’t be able to use it.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果每个人都给你同样的答案，你就没法利用它。"
-        },
-        {
-          "s": "That number of interviews should give you all the answers you need.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这个数量的采访应该能提供你所需的所有答案。"
-        },
-        {
-          "s": "The answer is not what you might think.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "答案可能不是你想的那样。"
-        },
-        {
-          "s": "It doesn't take a genius to know the answer: absolutely not.",
-          "src": "2021全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在一个全球通信不断连接的世界里，我们都能够看到天才闪现的任何地方。"
-        },
-        {
-          "s": "\"Was he ashamed of having a friend like me?\" Bob longed for an answer.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "“他是不是因为有我这样的朋友而感到羞耻？“鲍勃渴望得到答案。"
-        },
-        {
-          "s": "A team of scientists led by Professor Eli Shlizerman at the University of Washington has now found the answer.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "华盛顿大学的Eli Shlizerman教授领导的一个科学家小组现在已经找到了答案。"
-        },
-        {
-          "s": "To find out the answer, I just had to go and see The Revenge of Prince Zidan - the Peking Opera vision of Hamlet.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "为了找到答案，我只好去看了《紫丹王子的复仇》--《哈姆雷特》的京剧幻象。"
-        },
-        {
-          "s": "So far there is no effective way to get rid of it, but a new study suggests an answer may lie in the stomachs of some hungry worms.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "到目前为止，还没有有效的方法来摆脱它，但一项新研究表明答案可能在于某些饥饿蠕虫的胃里。"
-        },
-        {
-          "s": "As soon as you get the answer you need, move on to the next person.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一旦得到你需要的答案，就转到下一个人身边。"
-        },
-        {
-          "s": "We all grew up hearing  people tell us to “go out and get some fresh air.”    36    According to recent studies，the answer is a big YES，if the air quality in your camping area is good.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我们都是在听着别人说“出去呼吸点新鲜空气”长大的。    36    根据最近的研究，如果露营地的空气质量好，答案是一个大大的“是”。"
-        },
-        {
-          "s": "The position—measuring soil quality in the Sahara Desert as part of an undergraduate research programme — had felt like the answer I had spent years looking for.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这个职位——作为本科研究项目的一部分在撒哈拉沙漠测量土壤质量——感觉就像我多年来一直在寻找的答案。"
-        }
-      ]
+     "s": "“There is no wrong answer,” she said, “I want to know your opinion, Addie.” Hesitantly, I said, “Maybe… both.”",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "\"没有错误答案，\"她说，\"我想知道你的看法，艾迪。\"我犹豫地说：\"也许……\""
     },
     {
-      "def": "a solution to a problem （问题的）解决办法，答案",
-      "ex": [
-        {
-          "s": "The answers to both questions are often “no”.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这两个问题的答案往往是否定的。"
-        },
-        {
-          "s": "If I asked what she had for lunch, she might say, “Oh, the weather has been lovely today. ” She seemed to recycle the same handful of answers to my questions.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "如果我问她午饭吃了什么，她可能会说：\"哦，今天天气真好。\"她似乎总在用同样那几个答案应付我的问题。"
-        },
-        {
-          "s": "Why did the author’s grandmother recycle the same answers to his questions? (no more than 10 words)",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为什么作者的祖母总是用同样的答案回答他的问题？（不超过10个词）"
-        },
-        {
-          "s": "If you don't understand the answer to a question, ask the doctor to explain it again until you do understand.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你不理解某个问题的答案，请医生再解释一遍，直到你真正理解为止。"
-        },
-        {
-          "s": "“He asks you questions and actually   20   the answers, so the next time you ride with him, he'll   21    those things.\"",
-          "src": "2019北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "“他会问你问题，并真的____20____答案，所以下次你和他一起骑时，他会____21____那些事。”"
-        },
-        {
-          "s": "For example, to find out the answer to the question“What did Lisa find most helpful when she started high school?”, you would look for the key words“helpful”and“started high school”.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "例如，要找出“Lisa在开始上高中时最有帮助的是什么？”这个问题的答案，您可以查找关键词“有帮助”和“开始上高中”。"
-        },
-        {
-          "s": "After you hear a conversation and the question about it, read the four possible answers on your paper, and decide which one is the best answer to the question you have heard.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "听完对话及问题后，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
-        },
-        {
-          "s": "When you hear a question, read the four possible answers on your paper and decide which one is the best answer to the question you have heard.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "听到问题时，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
-        }
-      ]
+     "s": "Ask the tourists from around the world that flood into Yellowstone National Park what they most hope to see, and their answer is often the same: a grizzly bear.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "向来自世界各地的游客询问淹没进入黄石国家公园的游客最希望看到什么，他们的答案往往是一样的：一只灰熊。"
     },
     {
-      "def": "a person or thing from one place that may be thought to be as good as a famous person or thing from another place 足以媲美的人；堪称相当的事物",
-      "ex": [
-        {
-          "s": "Their answers also show that they dislike talk to others.",
-          "src": "2021全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在我看来，遇到困难时我们应该向我们最信任的人寻求帮助。"
-        }
-      ]
+     "s": "The broken window glass was the likely answer.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "破碎的窗户玻璃很可能是答案。"
     },
     {
-      "def": "to say, write or do sth as a reaction to a question or situation 答复；回答",
-      "ex": [
-        {
-          "s": "The author didn’t know how to answer.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "作者不知道如何回答。"
-        },
-        {
-          "s": "Like most great questions, this one is easy to ask but difficult to answer.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "像大多数重大问题一样，这个问题容易提出却难以回答。"
-        },
-        {
-          "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
-        },
-        {
-          "s": "They found it hard to answer, she wrote later, because imagining something that isn’t part of real life—and learning how to make it real—is a rare skill.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她后来写道，他们发现很难回答，因为想象不属于真实生活的东西——并学会如何让它成真——是一种罕见的能力。"
-        },
-        {
-          "s": "encourage the students to answer questions",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "鼓励学生们回答问题。"
-        },
-        {
-          "s": "One way to begin is to answer your own excuses.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "开始的方法之一是回应你自己的借口。"
-        }
-      ]
+     "s": "The answer broke his heart.",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "答案让他很伤心。"
     },
     {
-      "def": "to be suitable for sth; to match sth 适合；符合；比得上；相配",
-      "ex": []
+     "s": "If everyone is giving you the same answer, you won’t be able to use it.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果每个人都给你同样的答案，你就没法利用它。"
     },
     {
-      "def": "to accept responsibility or blame for sth 对 … 负责；因 … 受到谴责",
-      "ex": []
+     "s": "That number of interviews should give you all the answers you need.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这个数量的采访应该能提供你所需的所有答案。"
     },
     {
-      "def": "to promise that sb has a particular quality or can be relied on to do sth 担保，保证（某人的品质等）",
-      "ex": [
-        {
-          "s": "The Moldovan has lived here seven years as a caregiver to Italian kids and the elderly, but in order to stay she’s had to prove her language skills by taking a test which requires her to write a postcard to an imaginary friend and answer a fictional job ad.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位摩尔多瓦人作为意大利孩子和老人的照护者已在这里住了七年，但为了留下来，她必须通过一项测试来证明自己的语言能力——测试要求她给一个想象中的朋友写明信片，并回复一则虚构的招聘广告。"
-        },
-        {
-          "s": "Transport has a lot to answer for when it comes to harming the planet.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在危害地球方面，交通运输难辞其咎。"
-        },
-        {
-          "s": "How many kinds of wildflowers can be seen from your front door If your awareness is as sharp as it could be, you'll have no trouble answering these questions．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "从你家门前能看到多少种野花？如果你的感知力足够敏锐，回答这些问题对你来说毫无困难。"
-        }
-      ]
+     "s": "The answer is not what you might think.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "答案可能不是你想的那样。"
+    },
+    {
+     "s": "It doesn't take a genius to know the answer: absolutely not.",
+     "src": "2021全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在一个全球通信不断连接的世界里，我们都能够看到天才闪现的任何地方。"
+    },
+    {
+     "s": "\"Was he ashamed of having a friend like me?\" Bob longed for an answer.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "“他是不是因为有我这样的朋友而感到羞耻？“鲍勃渴望得到答案。"
+    },
+    {
+     "s": "A team of scientists led by Professor Eli Shlizerman at the University of Washington has now found the answer.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "华盛顿大学的Eli Shlizerman教授领导的一个科学家小组现在已经找到了答案。"
+    },
+    {
+     "s": "To find out the answer, I just had to go and see The Revenge of Prince Zidan - the Peking Opera vision of Hamlet.",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "为了找到答案，我只好去看了《紫丹王子的复仇》--《哈姆雷特》的京剧幻象。"
+    },
+    {
+     "s": "So far there is no effective way to get rid of it, but a new study suggests an answer may lie in the stomachs of some hungry worms.",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "到目前为止，还没有有效的方法来摆脱它，但一项新研究表明答案可能在于某些饥饿蠕虫的胃里。"
+    },
+    {
+     "s": "As soon as you get the answer you need, move on to the next person.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一旦得到你需要的答案，就转到下一个人身边。"
+    },
+    {
+     "s": "We all grew up hearing  people tell us to “go out and get some fresh air.”    36    According to recent studies，the answer is a big YES，if the air quality in your camping area is good.",
+     "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我们都是在听着别人说“出去呼吸点新鲜空气”长大的。    36    根据最近的研究，如果露营地的空气质量好，答案是一个大大的“是”。"
+    },
+    {
+     "s": "The position—measuring soil quality in the Sahara Desert as part of an undergraduate research programme — had felt like the answer I had spent years looking for.",
+     "src": "2023北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这个职位——作为本科研究项目的一部分在撒哈拉沙漠测量土壤质量——感觉就像我多年来一直在寻找的答案。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a solution to a problem （问题的）解决办法，答案",
+   "ex": [
     {
-      "en": "answering questions",
-      "cn": "回答问题",
-      "type": "名词短语",
-      "count": 3
+     "s": "The answers to both questions are often “no”.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这两个问题的答案往往是否定的。"
     },
     {
-      "en": "answer to the question",
-      "cn": "问题的答案",
-      "type": "介词短语",
-      "count": 3
+     "s": "If I asked what she had for lunch, she might say, “Oh, the weather has been lovely today. ” She seemed to recycle the same handful of answers to my questions.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "如果我问她午饭吃了什么，她可能会说：\"哦，今天天气真好。\"她似乎总在用同样那几个答案应付我的问题。"
     },
     {
-      "en": "answer question",
-      "cn": "答复问题",
-      "type": "名词短语",
-      "count": 3
+     "s": "Why did the author’s grandmother recycle the same answers to his questions? (no more than 10 words)",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为什么作者的祖母总是用同样的答案回答他的问题？（不超过10个词）"
     },
     {
-      "en": "answer you",
-      "cn": "答复你",
-      "type": "名词短语",
-      "count": 3
+     "s": "If you don't understand the answer to a question, ask the doctor to explain it again until you do understand.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果你不理解某个问题的答案，请医生再解释一遍，直到你真正理解为止。"
+    },
+    {
+     "s": "“He asks you questions and actually   20   the answers, so the next time you ride with him, he'll   21    those things.\"",
+     "src": "2019北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "“他会问你问题，并真的____20____答案，所以下次你和他一起骑时，他会____21____那些事。”"
+    },
+    {
+     "s": "For example, to find out the answer to the question“What did Lisa find most helpful when she started high school?”, you would look for the key words“helpful”and“started high school”.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "例如，要找出“Lisa在开始上高中时最有帮助的是什么？”这个问题的答案，您可以查找关键词“有帮助”和“开始上高中”。"
+    },
+    {
+     "s": "After you hear a conversation and the question about it, read the four possible answers on your paper, and decide which one is the best answer to the question you have heard.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "听完对话及问题后，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
+    },
+    {
+     "s": "When you hear a question, read the four possible answers on your paper and decide which one is the best answer to the question you have heard.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "听到问题时，在纸上阅读四个可能答案，决定哪一个是你所听到问题的最佳答案。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a person or thing from one place that may be thought to be as good as a famous person or thing from another place 足以媲美的人；堪称相当的事物",
+   "ex": [
+    {
+     "s": "Their answers also show that they dislike talk to others.",
+     "src": "2021全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在我看来，遇到困难时我们应该向我们最信任的人寻求帮助。"
+    }
+   ]
+  },
+  {
+   "def": "to say, write or do sth as a reaction to a question or situation 答复；回答",
+   "ex": [
+    {
+     "s": "The author didn’t know how to answer.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "作者不知道如何回答。"
+    },
+    {
+     "s": "Like most great questions, this one is easy to ask but difficult to answer.",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "像大多数重大问题一样，这个问题容易提出却难以回答。"
+    },
+    {
+     "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
+    },
+    {
+     "s": "They found it hard to answer, she wrote later, because imagining something that isn’t part of real life—and learning how to make it real—is a rare skill.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她后来写道，他们发现很难回答，因为想象不属于真实生活的东西——并学会如何让它成真——是一种罕见的能力。"
+    },
+    {
+     "s": "encourage the students to answer questions",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "鼓励学生们回答问题。"
+    },
+    {
+     "s": "One way to begin is to answer your own excuses.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "开始的方法之一是回应你自己的借口。"
+    }
+   ]
+  },
+  {
+   "def": "to be suitable for sth; to match sth 适合；符合；比得上；相配",
+   "ex": []
+  },
+  {
+   "def": "to accept responsibility or blame for sth 对 … 负责；因 … 受到谴责",
+   "ex": []
+  },
+  {
+   "def": "to promise that sb has a particular quality or can be relied on to do sth 担保，保证（某人的品质等）",
+   "ex": [
+    {
+     "s": "The Moldovan has lived here seven years as a caregiver to Italian kids and the elderly, but in order to stay she’s had to prove her language skills by taking a test which requires her to write a postcard to an imaginary friend and answer a fictional job ad.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位摩尔多瓦人作为意大利孩子和老人的照护者已在这里住了七年，但为了留下来，她必须通过一项测试来证明自己的语言能力——测试要求她给一个想象中的朋友写明信片，并回复一则虚构的招聘广告。"
+    },
+    {
+     "s": "Transport has a lot to answer for when it comes to harming the planet.",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在危害地球方面，交通运输难辞其咎。"
+    },
+    {
+     "s": "How many kinds of wildflowers can be seen from your front door If your awareness is as sharp as it could be, you'll have no trouble answering these questions．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "从你家门前能看到多少种野花？如果你的感知力足够敏锐，回答这些问题对你来说毫无困难。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "answering questions",
+   "cn": "回答问题",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "answer to the question",
+   "cn": "问题的答案",
+   "type": "介词短语",
+   "count": 3
+  },
+  {
+   "en": "answer question",
+   "cn": "答复问题",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
