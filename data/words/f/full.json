@@ -1,364 +1,358 @@
 {
-  "meta": {
-    "ph": "fʊl; NAmE fʊl",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "fʊl; NAmE fʊl",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "containing or holding as much or as many as possible; having no empty space 满的；充满的；满是 … 的",
+   "ex": [
+    {
+     "s": "When I do, my box will be full of wonderful things for them.\"",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我那个想象的奶奶的箱子那年春天像魔法一样奏效，后来也是。"
+    },
+    {
+     "s": "Having seen quite a few productions of Hamlet and read the play many times, I was full of confidence - until the Peking Opera came to town!",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "看过不少版本的《哈姆雷特》演出，也多次读过剧本，我本来信心满满——直到京剧来到镇上！"
+    },
+    {
+     "s": "The production was full of colours and romantic symbols, and challenged my senses in new ways.",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "这场演出充满了色彩和浪漫的象征，以全新的方式挑战了我的感官。"
+    },
+    {
+     "s": "To work full time in travel, you have to love nature.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "要在旅行中全职工作，你必须热爱自然。"
+    },
+    {
+     "s": "67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.",
+     "src": "2017全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "67   （充满）脂肪和盐；通过   68   （吃）更多快餐，人们会摄入超过饮食所需的盐和脂肪。"
+    },
+    {
+     "s": "Museums, once quiet places filled with history, are now full of digital excitement.",
+     "src": "2026新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "博物馆曾经是充满历史气息的安静场所，如今却处处洋溢着数字化的活力。"
+    },
+    {
+     "s": "It was full of ideas that were new to me so I spent the summer with my head in and out of that book.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "书里满是对我来说全新的思想，所以我整个夏天都沉浸在那本书里，时而读时而想。"
+    },
+    {
+     "s": "Do you want a room that’s full of life?",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你想要一个充满活力的房间吗？"
+    },
+    {
+     "s": "She looks like any other schoolgirl, fresh-faced and full of life.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她看起来和其他女学生一样，面容清新，充满活力。"
+    },
+    {
+     "s": "Last Friday， after he arrived at the school， instead of finding garbage to clean up， he found almost 800 students lining the hallways with handmade cards， blowing noisemakers and singing a full﹣throated happy birthday to him． It was his 80th． As he walked the long hallway， some popped out of line to hug him． They handed him so many cards that they filled several large boxes． Touched by their enthusiastic expression of affection， Mabry thanked them all． \"They're like my children，\" Mabry said．",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "上周五，他到学校后，没找到要清理的垃圾，却发现有近800名学生排在教学楼走廊里，举着手制卡片，吹着闹响器，扯着嗓子给他唱生日快乐歌。那天是他80岁生日。当他走过长长的走廊时，有些人跳出队伍拥抱他。他们递给他的卡片多得装满了好几个大箱子。被他们热情流露的关爱所打动，马布里向所有人道谢。“他们就像我的孩子，”马布里说。"
+    },
+    {
+     "s": "\"It's a large wooden chest full of toys for my grandchildren\" I replied,",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“那是一个装满给我孙子孙女玩具的大木箱，”我回答说。"
+    },
+    {
+     "s": "\"It's a large wooden chest full of toys for my grandchildren,\" I replied,",
+     "src": "2020全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“那是一个装满给我孙子孙女玩具的大木箱，”我回答说。"
+    },
+    {
+     "s": "For a few months after the “library” opened, I didn’t bother taking a look, as I had assumed that it would be stuffed full of cheesy love stories.",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在这个\"图书馆\"开放后的几个月里，我没有费心去看一眼，因为我以为里面塞满了俗套的爱情故事。"
+    },
+    {
+     "s": "The shelves in most supermarkets are full of family-size this and multi-buy that.",
+     "src": "2024浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "大多数超市的货架上都装满了家庭大小的货架和多买的货架。"
+    },
+    {
+     "s": "•Full day camp for kids aged 5-13.",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "•面向5-13岁儿童的全日营。"
+    },
+    {
+     "s": "The day when the class is full.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "班级报满的那一天。"
+    },
+    {
+     "s": "I have a drawer full of letters to Santa.",
+     "src": "2022浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我有一抽屉写给圣诞老人的信。"
+    },
+    {
+     "s": "As it became clearer that fashion was what I wanted to do full time, the reality of my day-to-day work at the insurance company became harder.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "随着情况越来越清楚时尚是我想要全职从事的现实中日复一日在保险公司的工作变得越来越难熬。"
+    },
+    {
+     "s": "This is real rain-your umbrella may protect you in a shower, but it won't keep you dry if there is a full rainstorm.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这是真正的雨——你的伞或许能在阵雨中护你，但若是狂风暴雨就保不住你不被淋湿了。"
+    },
+    {
+     "s": "I believe this was a perfect   29   for a child in losing something important…to lose it and feel the full   30   of that loss, and then to miraculously get it back.",
+     "src": "2020北京卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我相信，对于一个孩子来说，这是失去重要之物的完美___29___……失去它，感受那份失去的全部___30___，然后奇迹般地失而复得。"
+    },
+    {
+     "s": "（1分）﹣My son got a full scholarship to his dream university!",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "6．（1分）—我儿子拿到了梦想大学的全额奖学金！"
+    },
+    {
+     "s": "After struggling for quite a while, I made a difficult decision—leaving my job and studying my design course full time.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "挣扎了相当一段时间后，我做了一个艰难的决定——辞职并全日制攻读设计课程。"
+    },
+    {
+     "s": "Some of today's AI pioneers want to move on from today's world of “weak” or “narrow” AI, to create “strong” or “full” AI, or what is often called artificial general intelligence（A GI）.",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当今一些人工智能先驱想要摆脱“弱”或“窄”人工智能的当下，去创造“强”或“全”人工智能，即常被称为通用人工智能（AGI）的东西。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "having or containing a large number or amount of sth （有）大量的；（有）许多的；丰富的",
+   "ex": [
     {
-      "def": "containing or holding as much or as many as possible; having no empty space 满的；充满的；满是 … 的",
-      "ex": [
-        {
-          "s": "When I do, my box will be full of wonderful things for them.\"",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我那个想象的奶奶的箱子那年春天像魔法一样奏效，后来也是。"
-        },
-        {
-          "s": "Having seen quite a few productions of Hamlet and read the play many times, I was full of confidence - until the Peking Opera came to town!",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "看过不少版本的《哈姆雷特》演出，也多次读过剧本，我本来信心满满——直到京剧来到镇上！"
-        },
-        {
-          "s": "The production was full of colours and romantic symbols, and challenged my senses in new ways.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "这场演出充满了色彩和浪漫的象征，以全新的方式挑战了我的感官。"
-        },
-        {
-          "s": "To work full time in travel, you have to love nature.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "要在旅行中全职工作，你必须热爱自然。"
-        },
-        {
-          "s": "67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "67   （充满）脂肪和盐；通过   68   （吃）更多快餐，人们会摄入超过饮食所需的盐和脂肪。"
-        },
-        {
-          "s": "Museums, once quiet places filled with history, are now full of digital excitement.",
-          "src": "2026新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "博物馆曾经是充满历史气息的安静场所，如今却处处洋溢着数字化的活力。"
-        },
-        {
-          "s": "It was full of ideas that were new to me so I spent the summer with my head in and out of that book.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "书里满是对我来说全新的思想，所以我整个夏天都沉浸在那本书里，时而读时而想。"
-        },
-        {
-          "s": "Do you want a room that’s full of life?",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你想要一个充满活力的房间吗？"
-        },
-        {
-          "s": "She looks like any other schoolgirl, fresh-faced and full of life.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她看起来和其他女学生一样，面容清新，充满活力。"
-        },
-        {
-          "s": "Last Friday， after he arrived at the school， instead of finding garbage to clean up， he found almost 800 students lining the hallways with handmade cards， blowing noisemakers and singing a full﹣throated happy birthday to him． It was his 80th． As he walked the long hallway， some popped out of line to hug him． They handed him so many cards that they filled several large boxes． Touched by their enthusiastic expression of affection， Mabry thanked them all． \"They're like my children，\" Mabry said．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "上周五，他到学校后，没找到要清理的垃圾，却发现有近800名学生排在教学楼走廊里，举着手制卡片，吹着闹响器，扯着嗓子给他唱生日快乐歌。那天是他80岁生日。当他走过长长的走廊时，有些人跳出队伍拥抱他。他们递给他的卡片多得装满了好几个大箱子。被他们热情流露的关爱所打动，马布里向所有人道谢。“他们就像我的孩子，”马布里说。"
-        },
-        {
-          "s": "\"It's a large wooden chest full of toys for my grandchildren\" I replied,",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“那是一个装满给我孙子孙女玩具的大木箱，”我回答说。"
-        },
-        {
-          "s": "\"It's a large wooden chest full of toys for my grandchildren,\" I replied,",
-          "src": "2020全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“那是一个装满给我孙子孙女玩具的大木箱，”我回答说。"
-        },
-        {
-          "s": "For a few months after the “library” opened, I didn’t bother taking a look, as I had assumed that it would be stuffed full of cheesy love stories.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在这个\"图书馆\"开放后的几个月里，我没有费心去看一眼，因为我以为里面塞满了俗套的爱情故事。"
-        },
-        {
-          "s": "The shelves in most supermarkets are full of family-size this and multi-buy that.",
-          "src": "2024浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "大多数超市的货架上都装满了家庭大小的货架和多买的货架。"
-        },
-        {
-          "s": "•Full day camp for kids aged 5-13.",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "•面向5-13岁儿童的全日营。"
-        },
-        {
-          "s": "The day when the class is full.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "班级报满的那一天。"
-        },
-        {
-          "s": "I have a drawer full of letters to Santa.",
-          "src": "2022浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我有一抽屉写给圣诞老人的信。"
-        },
-        {
-          "s": "As it became clearer that fashion was what I wanted to do full time, the reality of my day-to-day work at the insurance company became harder.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "随着情况越来越清楚时尚是我想要全职从事的现实中日复一日在保险公司的工作变得越来越难熬。"
-        },
-        {
-          "s": "This is real rain-your umbrella may protect you in a shower, but it won't keep you dry if there is a full rainstorm.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这是真正的雨——你的伞或许能在阵雨中护你，但若是狂风暴雨就保不住你不被淋湿了。"
-        },
-        {
-          "s": "I believe this was a perfect   29   for a child in losing something important…to lose it and feel the full   30   of that loss, and then to miraculously get it back.",
-          "src": "2020北京卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我相信，对于一个孩子来说，这是失去重要之物的完美___29___……失去它，感受那份失去的全部___30___，然后奇迹般地失而复得。"
-        },
-        {
-          "s": "（1分）﹣My son got a full scholarship to his dream university!",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "6．（1分）—我儿子拿到了梦想大学的全额奖学金！"
-        },
-        {
-          "s": "After struggling for quite a while, I made a difficult decision—leaving my job and studying my design course full time.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "挣扎了相当一段时间后，我做了一个艰难的决定——辞职并全日制攻读设计课程。"
-        },
-        {
-          "s": "Some of today's AI pioneers want to move on from today's world of “weak” or “narrow” AI, to create “strong” or “full” AI, or what is often called artificial general intelligence（A GI）.",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当今一些人工智能先驱想要摆脱“弱”或“窄”人工智能的当下，去创造“强”或“全”人工智能，即常被称为通用人工智能（AGI）的东西。"
-        }
-      ]
+     "s": "Small in size but full of information, a travel brochure can be a great way to find out all about another country, including its culture, people, geography and many other details.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "旅行手册虽小巧却信息丰富，是了解另一个国家方方面面——包括其文化、人民、地理和许多其他细节——的好途径。"
     },
     {
-      "def": "having or containing a large number or amount of sth （有）大量的；（有）许多的；丰富的",
-      "ex": [
-        {
-          "s": "Small in size but full of information, a travel brochure can be a great way to find out all about another country, including its culture, people, geography and many other details.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "旅行手册虽小巧却信息丰富，是了解另一个国家方方面面——包括其文化、人民、地理和许多其他细节——的好途径。"
-        },
-        {
-          "s": "“What I can say for the folks that gave the most, is that they were full of smiles,” Bridges said.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "\"对于那些给得最多的人，我可以说的是他们满脸笑容，\"布里奇斯说。"
-        },
-        {
-          "s": "The western half of the US was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当欧洲人到来时，美国西部半壁到处都是灰熊，大约有5万只或更多与美洲原住民比邻而居。"
-        }
-      ]
+     "s": "“What I can say for the folks that gave the most, is that they were full of smiles,” Bridges said.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "\"对于那些给得最多的人，我可以说的是他们满脸笑容，\"布里奇斯说。"
     },
     {
-      "def": "thinking or talking a lot about a particular thing 人",
-      "ex": [
-        {
-          "s": "What does Buckminster Fuller say about pollution?",
-          "src": "2017浙江11月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "巴克敏斯特·富勒对污染怎么看？"
-        },
-        {
-          "s": "“It’s about problem-solving around what it means to have a full life.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“它关乎围绕‘拥有完满人生意味着什么’来解决问题。"
-        },
-        {
-          "s": "Reading Makes a Full Man",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D．阅读使人充实"
-        }
-      ]
-    },
-    {
-      "def": "having had enough to eat 吃饱了的",
-      "ex": []
-    },
-    {
-      "def": "complete; with nothing missing 完全的；完整的；详尽的",
-      "ex": [
-        {
-          "s": "He had my full attention and I had his.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他完全吸引了我的注意力，我也完全吸引了他的注意力。"
-        },
-        {
-          "s": "64   Lincolns enlarged the house to a full two stories in 1856 to meet the needs of their growing family.",
-          "src": "2021浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "64   林肯一家在1856年把房子扩建为完整的两层，以满足日益增长的家庭需求。"
-        },
-        {
-          "s": "On which of the following dates can you cancel your registration with a full refund?",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在以下哪个日期你可以取消注册并获得全额退款？"
-        },
-        {
-          "s": "Then a full moon rose.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "接着，一轮满月升起。"
-        },
-        {
-          "s": "At 9:30am, the full red/yellow/green signal cycle might be 140 seconds.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "早上9:30，完整的红/黄/绿信号周期可能是140秒。"
-        },
-        {
-          "s": "When the container is full, you can suck the refreshment out through the tube, and won’t have to break down the still every time you need a drink.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当容器满了，你可以通过管子把饮品吸出来，不必每次想喝时都拆掉蒸馏器。"
-        },
-        {
-          "s": "full refund within 28 days",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "28天内全额退款"
-        }
-      ]
-    },
-    {
-      "def": "to the highest level or greatest amount possible 最高级的；尽量多的；最大量的",
-      "ex": []
-    },
-    {
-      "def": "busy; involving a lot of activities 忙的；有很多活动的",
-      "ex": [
-        {
-          "s": "If a session is full, you can register for the waiting list.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果一次活动满员，你可以登记等候名单。"
-        },
-        {
-          "s": "22 What can students do if a session is full?",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "22 如果一次活动满员，学生可以怎么做？"
-        },
-        {
-          "s": "My wife and I booth work full-time, so life can get pretty busy!",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我妻子和我都是全职工作，所以生活可以变得相当忙碌！"
-        }
-      ]
-    },
-    {
-      "def": "（强调数量）足足的，整整的",
-      "ex": []
-    },
-    {
-      "def": "appearing as a complete circle 圆的；满的",
-      "ex": []
-    },
-    {
-      "def": "large and round. ‘Full’ is sometimes used to avoid saying ‘fat’. 人或身体部分",
-      "ex": []
-    },
-    {
-      "def": "made with plenty of cloth; fitting loosely 宽松的；肥大的",
-      "ex": [
-        {
-          "s": "When the final bell rang in June, I walked away with a yearbook full of messages about writing’s most powerful significance — the ability to connect people, to put us in another’s skin, to teach us what it means to be human.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "当六月的下课铃响起，我带着一本写满留言的年鉴离开，那些话道出了写作最强大的意义——把人们连接起来、让我们设身处地、教会我们生而为人的含义。"
-        }
-      ]
-    },
-    {
-      "def": "deep, strong and rich 圆浑的；圆润的；浓郁的",
-      "ex": []
+     "s": "The western half of the US was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当欧洲人到来时，美国西部半壁到处都是灰熊，大约有5万只或更多与美洲原住民比邻而居。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "thinking or talking a lot about a particular thing 人",
+   "ex": [
     {
-      "en": "full of",
-      "cn": "充满",
-      "type": "形容词搭配",
-      "count": 18
+     "s": "What does Buckminster Fuller say about pollution?",
+     "src": "2017浙江11月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "巴克敏斯特·富勒对污染怎么看？"
     },
     {
-      "en": "full time",
-      "cn": "满时间",
-      "type": "形容词短语",
-      "count": 4
+     "s": "“It’s about problem-solving around what it means to have a full life.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "“它关乎围绕‘拥有完满人生意味着什么’来解决问题。"
     },
     {
-      "en": "full refund",
-      "cn": "满的",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "full you",
-      "cn": "满你",
-      "type": "形容词短语",
-      "count": 2
+     "s": "Reading Makes a Full Man",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D．阅读使人充实"
     }
-  ]
+   ]
+  },
+  {
+   "def": "having had enough to eat 吃饱了的",
+   "ex": []
+  },
+  {
+   "def": "complete; with nothing missing 完全的；完整的；详尽的",
+   "ex": [
+    {
+     "s": "He had my full attention and I had his.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他完全吸引了我的注意力，我也完全吸引了他的注意力。"
+    },
+    {
+     "s": "64   Lincolns enlarged the house to a full two stories in 1856 to meet the needs of their growing family.",
+     "src": "2021浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "64   林肯一家在1856年把房子扩建为完整的两层，以满足日益增长的家庭需求。"
+    },
+    {
+     "s": "On which of the following dates can you cancel your registration with a full refund?",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在以下哪个日期你可以取消注册并获得全额退款？"
+    },
+    {
+     "s": "Then a full moon rose.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "接着，一轮满月升起。"
+    },
+    {
+     "s": "At 9:30am, the full red/yellow/green signal cycle might be 140 seconds.",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "早上9:30，完整的红/黄/绿信号周期可能是140秒。"
+    },
+    {
+     "s": "When the container is full, you can suck the refreshment out through the tube, and won’t have to break down the still every time you need a drink.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "当容器满了，你可以通过管子把饮品吸出来，不必每次想喝时都拆掉蒸馏器。"
+    },
+    {
+     "s": "full refund within 28 days",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "28天内全额退款"
+    }
+   ]
+  },
+  {
+   "def": "to the highest level or greatest amount possible 最高级的；尽量多的；最大量的",
+   "ex": []
+  },
+  {
+   "def": "busy; involving a lot of activities 忙的；有很多活动的",
+   "ex": [
+    {
+     "s": "If a session is full, you can register for the waiting list.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果一次活动满员，你可以登记等候名单。"
+    },
+    {
+     "s": "22 What can students do if a session is full?",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "22 如果一次活动满员，学生可以怎么做？"
+    },
+    {
+     "s": "My wife and I booth work full-time, so life can get pretty busy!",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我妻子和我都是全职工作，所以生活可以变得相当忙碌！"
+    }
+   ]
+  },
+  {
+   "def": "（强调数量）足足的，整整的",
+   "ex": []
+  },
+  {
+   "def": "appearing as a complete circle 圆的；满的",
+   "ex": []
+  },
+  {
+   "def": "large and round. ‘Full’ is sometimes used to avoid saying ‘fat’. 人或身体部分",
+   "ex": []
+  },
+  {
+   "def": "made with plenty of cloth; fitting loosely 宽松的；肥大的",
+   "ex": [
+    {
+     "s": "When the final bell rang in June, I walked away with a yearbook full of messages about writing’s most powerful significance — the ability to connect people, to put us in another’s skin, to teach us what it means to be human.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "当六月的下课铃响起，我带着一本写满留言的年鉴离开，那些话道出了写作最强大的意义——把人们连接起来、让我们设身处地、教会我们生而为人的含义。"
+    }
+   ]
+  },
+  {
+   "def": "deep, strong and rich 圆浑的；圆润的；浓郁的",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "full of",
+   "cn": "充满",
+   "type": "形容词搭配",
+   "count": 18
+  },
+  {
+   "en": "full time",
+   "cn": "满时间",
+   "type": "形容词短语",
+   "count": 4
+  },
+  {
+   "en": "full you",
+   "cn": "满你",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
