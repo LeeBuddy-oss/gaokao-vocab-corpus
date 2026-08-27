@@ -1,293 +1,281 @@
 {
-  "meta": {
-    "ph": "ˈhɒlədeɪ; NAmE ˈhɑːlədeɪ",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈhɒlədeɪ; NAmE ˈhɑːlədeɪ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a period of time when you are not at work or school 假期",
+   "ex": [
+    {
+     "s": "From the age of six, Terri, now 26, accompanied Derek to work during her school holidays.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从六岁起，现年26岁的特丽就在学校放假期间陪德里克去干活。"
+    },
+    {
+     "s": "Yes, we had a fantastic holiday.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "是的，我们度过了一个非常棒的假期。"
+    },
+    {
+     "s": "In the UK, for example, the law states that students aged 15 and 16 are allowed to work a maximum of 12 hours per week during term time, and 35 hours per week during school holidays.",
+     "src": "外研社B7 U1",
+     "cat": "waiyan",
+     "t": "例如，在英国，法律规定15岁和16岁的学生在学期期间每周最多工作12小时，在学校假期期间每周最多工作35小时。"
+    },
+    {
+     "s": "In the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在咖啡馆里，那对夫妇给 Emily 买了一杯热巧克力，并耐心地听她解释自己绝望的处境：她离目的地约有一百英里，车完全陷住了，整个假期计划可能毁于一旦。"
+    },
+    {
+     "s": "Where the author spent his holiday.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "作者在哪里度过了假期。"
+    },
+    {
+     "s": "This hit home for me as I was sitting with my 2-year-old grandson on a sofa over the Spring Festival holiday.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "今年春节假期，当我抱着两岁的孙子坐在沙发上时，这一点让我深有感触。"
+    },
+    {
+     "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。"
+    },
+    {
+     "s": "During my last winter holiday, I went to countryside with my father to visit my grandparents.",
+     "src": "2018全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "去年寒假期间，我和父亲一起回乡下看望祖父母。"
+    },
+    {
+     "s": "Because of our efforts, our daughter Georgia did decide to donate a large bag of toys to a little girl whose mother was unable to pay for her holiday due to illness.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "由于我们的努力，女儿Georgia确实决定把一个大袋子装的玩具捐赠给一个小女孩，她的母亲因病无力支付她过节的费用。"
+    },
+    {
+     "s": "Saving up for her holiday B.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为她的假期攒钱 B."
+    },
+    {
+     "s": "I was, nevertheless, talked into going on another fun-filled holiday in the wilderness.",
+     "src": "2017全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "尽管如此，我还是被说服再去荒野度过一个充满乐趣的假期。"
+    },
+    {
+     "s": "People have donated more than $1, 500 so far this holiday season.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "到目前为止，这个假期人们已经捐赠了超过1500美元。"
+    },
+    {
+     "s": "The teacher told us to record ourselves speaking about a holiday.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "老师让我们录下自己讲述一次假期的内容。"
+    },
+    {
+     "s": "（1分）If we                  the flight yesterday， we would be enjoying our holiday on the beach now．（  ）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "15．（1分）如果我们昨天赶上了那趟航班，我们现在就会在海滩上享受假期了。（  ）"
+    },
+    {
+     "s": "What did David do on his most recent holiday?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "David在他最近一次假期做了什么？"
+    },
+    {
+     "s": "What did David do on his most recent holiday?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "David在他最近一次假期做了什么？"
+    },
+    {
+     "s": "Students in New York City, meanwhile, have since 2016 been able to enjoy an official day's holiday for Chinese Spring Festival.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "t": "与此同时，自2016年以来，纽约市的学生可以在中国春节享受一天的官方假期。"
+    },
+    {
+     "s": "Where does the woman suggest David go for his next holiday?",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "女士建议大卫下次假期去哪里？"
+    },
+    {
+     "s": "Where does the woman suggest David go for his next holiday?",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "女士建议大卫下次假期去哪里？"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a period of time spent travelling or resting away from home （外出旅游或休闲的）度假",
+   "ex": [
     {
-      "def": "a period of time when you are not at work or school 假期",
-      "ex": [
-        {
-          "s": "From the age of six, Terri, now 26, accompanied Derek to work during her school holidays.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从六岁起，现年26岁的特丽就在学校放假期间陪德里克去干活。"
-        },
-        {
-          "s": "Yes, we had a fantastic holiday.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "是的，我们度过了一个非常棒的假期。"
-        },
-        {
-          "s": "In the UK, for example, the law states that students aged 15 and 16 are allowed to work a maximum of 12 hours per week during term time, and 35 hours per week during school holidays.",
-          "src": "外研社B7 U1",
-          "cat": "waiyan",
-          "t": "例如，在英国，法律规定15岁和16岁的学生在学期期间每周最多工作12小时，在学校假期期间每周最多工作35小时。"
-        },
-        {
-          "s": "In the cafe, the couple bought Emily a hot chocolate and listened patiently as she explained her desperate situation: she was about a hundred miles from her destination, her car was completely stuck, and her entire holiday plan could be ruined.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在咖啡馆里，那对夫妇给 Emily 买了一杯热巧克力，并耐心地听她解释自己绝望的处境：她离目的地约有一百英里，车完全陷住了，整个假期计划可能毁于一旦。"
-        },
-        {
-          "s": "Where the author spent his holiday.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "作者在哪里度过了假期。"
-        },
-        {
-          "s": "This hit home for me as I was sitting with my 2-year-old grandson on a sofa over the Spring Festival holiday.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "今年春节假期，当我抱着两岁的孙子坐在沙发上时，这一点让我深有感触。"
-        },
-        {
-          "s": "When you were trying to figure out what to buy for the environmentalist on your holiday list, fur probably didn’t cross your mind.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当你在为假期名单上的环保主义者挑选礼物时，毛皮可能根本不会出现在你的脑海中。"
-        },
-        {
-          "s": "During my last winter holiday, I went to countryside with my father to visit my grandparents.",
-          "src": "2018全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "去年寒假期间，我和父亲一起回乡下看望祖父母。"
-        },
-        {
-          "s": "Because of our efforts, our daughter Georgia did decide to donate a large bag of toys to a little girl whose mother was unable to pay for her holiday due to illness.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "由于我们的努力，女儿Georgia确实决定把一个大袋子装的玩具捐赠给一个小女孩，她的母亲因病无力支付她过节的费用。"
-        },
-        {
-          "s": "Saving up for her holiday B.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为她的假期攒钱 B."
-        },
-        {
-          "s": "I was, nevertheless, talked into going on another fun-filled holiday in the wilderness.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "尽管如此，我还是被说服再去荒野度过一个充满乐趣的假期。"
-        },
-        {
-          "s": "People have donated more than $1, 500 so far this holiday season.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "到目前为止，这个假期人们已经捐赠了超过1500美元。"
-        },
-        {
-          "s": "The teacher told us to record ourselves speaking about a holiday.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "老师让我们录下自己讲述一次假期的内容。"
-        },
-        {
-          "s": "（1分）If we                  the flight yesterday， we would be enjoying our holiday on the beach now．（  ）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "15．（1分）如果我们昨天赶上了那趟航班，我们现在就会在海滩上享受假期了。（  ）"
-        },
-        {
-          "s": "What did David do on his most recent holiday?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "David在他最近一次假期做了什么？"
-        },
-        {
-          "s": "What did David do on his most recent holiday?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "David在他最近一次假期做了什么？"
-        },
-        {
-          "s": "Students in New York City, meanwhile, have since 2016 been able to enjoy an official day's holiday for Chinese Spring Festival.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "与此同时，自2016年以来，纽约市的学生可以在中国春节享受一天的官方假期。"
-        },
-        {
-          "s": "Where does the woman suggest David go for his next holiday?",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "女士建议大卫下次假期去哪里？"
-        },
-        {
-          "s": "Where does the woman suggest David go for his next holiday?",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "女士建议大卫下次假期去哪里？"
-        }
-      ]
+     "s": "To discuss a holiday plan .",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "讨论度假计划。"
     },
     {
-      "def": "a period of time spent travelling or resting away from home （外出旅游或休闲的）度假",
-      "ex": [
-        {
-          "s": "To discuss a holiday plan .",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "讨论度假计划。"
-        },
-        {
-          "s": "To all, I wish a pleasant trip, to groups off for a family wedding in Singapore, to seniors travelling to Rome for holiday, to children off to Disney World in Orlando...the airport is not a dull place.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "祝所有人旅途愉快，无论是前往新加坡参加家族婚礼的团体、去罗马度假的老人，还是出发去奥兰多迪士尼乐园的孩子……机场不是个沉闷的地方。"
-        },
-        {
-          "s": "In the summer holiday following my eighteen birthday, I took driving lessons.",
-          "src": "2017全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在我刚过完十八岁生日的那个暑假里，我上了驾驶课。"
-        }
-      ]
+     "s": "To all, I wish a pleasant trip, to groups off for a family wedding in Singapore, to seniors travelling to Rome for holiday, to children off to Disney World in Orlando...the airport is not a dull place.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "祝所有人旅途愉快，无论是前往新加坡参加家族婚礼的团体、去罗马度假的老人，还是出发去奥兰多迪士尼乐园的孩子……机场不是个沉闷的地方。"
     },
     {
-      "def": "a day when most people do not go to work or school, especially because of a religious or national celebration 假日，节日（尤指宗教节日或国家庆典日）",
-      "ex": [
-        {
-          "s": "On public holidays, generally a Sunday timetable operates.",
-          "src": "2020全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在公共假日，通常按周日时刻表运行。"
-        },
-        {
-          "s": "I found the Holiday Hotel chain when I was doing research online.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "我在网上做研究时发现了假日酒店连锁店。"
-        },
-        {
-          "s": "To celebrate a winter holiday.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了庆祝一个冬季节日。"
-        },
-        {
-          "s": "Holiday Lights Tour",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "节日灯光之旅"
-        },
-        {
-          "s": "This tractive four takes you to some of San Francis’s most cheerful holiday scenes.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这趟吸引人的旅程带你领略旧金山一些最欢乐的节日场景。"
-        },
-        {
-          "s": "Authentic fire gear is provided for your warmth as you get into the holiday spirit.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为让你融入节日氛围，我们提供正宗的消防装备供保暖使用。"
-        },
-        {
-          "s": "Holiday Lights Tour.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "节日灯光之旅。"
-        },
-        {
-          "s": "Enjoy the holiday scenes.",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "欣赏节日场景。"
-        },
-        {
-          "s": "What are tourists required to do to go on Holiday Lights Tour?",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "游客参加节日灯光之旅需要做什么？"
-        },
-        {
-          "s": "That’s the local stage writing team that creates many of the Children’s Theatre of Cincinnati’s original musicals, along with the holiday family musicals at Ensemble Theatre.",
-          "src": "2024浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这就是本地编剧团队，他们创作了辛辛那提儿童剧院的多部原创音乐剧，以及 Ensemble Theatre 的节日家庭音乐剧。"
-        }
-      ]
-    },
-    {
-      "def": "the time in December and early January that includes Christmas, Hanukkah and New Year 节日假期（从十二月到一月上旬，包括圣诞节、修殿节和新年）",
-      "ex": [
-        {
-          "s": "Some ecotourism holidays involve voluntary work, such as planting trees or counting endangered animals.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "一些生态旅游假期包括志愿工作，如植树或统计濒危动物。"
-        }
-      ]
+     "s": "In the summer holiday following my eighteen birthday, I took driving lessons.",
+     "src": "2017全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在我刚过完十八岁生日的那个暑假里，我上了驾驶课。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a day when most people do not go to work or school, especially because of a religious or national celebration 假日，节日（尤指宗教节日或国家庆典日）",
+   "ex": [
     {
-      "en": "holiday lights",
-      "cn": "节日灯光",
-      "type": "名词短语",
-      "count": 3
+     "s": "On public holidays, generally a Sunday timetable operates.",
+     "src": "2020全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在公共假日，通常按周日时刻表运行。"
     },
     {
-      "en": "holiday light",
-      "cn": "假期光",
-      "type": "名词短语",
-      "count": 3
+     "s": "I found the Holiday Hotel chain when I was doing research online.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "我在网上做研究时发现了假日酒店连锁店。"
     },
     {
-      "en": "holiday light tour",
-      "cn": "假期光旅行",
-      "type": "名词短语",
-      "count": 3
+     "s": "To celebrate a winter holiday.",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为了庆祝一个冬季节日。"
     },
     {
-      "en": "recent holiday",
-      "cn": "假期",
-      "type": "名词短语",
-      "count": 2
+     "s": "Holiday Lights Tour",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "节日灯光之旅"
     },
     {
-      "en": "holiday plan",
-      "cn": "假期计划",
-      "type": "名词短语",
-      "count": 2
+     "s": "This tractive four takes you to some of San Francis’s most cheerful holiday scenes.",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这趟吸引人的旅程带你领略旧金山一些最欢乐的节日场景。"
     },
     {
-      "en": "holiday scene",
-      "cn": "假期地点",
-      "type": "名词短语",
-      "count": 2
+     "s": "Authentic fire gear is provided for your warmth as you get into the holiday spirit.",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为让你融入节日氛围，我们提供正宗的消防装备供保暖使用。"
+    },
+    {
+     "s": "Holiday Lights Tour.",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "节日灯光之旅。"
+    },
+    {
+     "s": "Enjoy the holiday scenes.",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "欣赏节日场景。"
+    },
+    {
+     "s": "What are tourists required to do to go on Holiday Lights Tour?",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "游客参加节日灯光之旅需要做什么？"
+    },
+    {
+     "s": "That’s the local stage writing team that creates many of the Children’s Theatre of Cincinnati’s original musicals, along with the holiday family musicals at Ensemble Theatre.",
+     "src": "2024浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这就是本地编剧团队，他们创作了辛辛那提儿童剧院的多部原创音乐剧，以及 Ensemble Theatre 的节日家庭音乐剧。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the time in December and early January that includes Christmas, Hanukkah and New Year 节日假期（从十二月到一月上旬，包括圣诞节、修殿节和新年）",
+   "ex": [
+    {
+     "s": "Some ecotourism holidays involve voluntary work, such as planting trees or counting endangered animals.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "一些生态旅游假期包括志愿工作，如植树或统计濒危动物。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "holiday lights",
+   "cn": "节日灯光",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "holiday light tour",
+   "cn": "假期光旅行",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "holiday plan",
+   "cn": "假期计划",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "holiday scene",
+   "cn": "假期地点",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
