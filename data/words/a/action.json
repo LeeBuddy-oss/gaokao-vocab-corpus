@@ -1,293 +1,287 @@
 {
-  "meta": {
-    "ph": "ˈækʃn; NAmE ˈækʃn",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈækʃn; NAmE ˈækʃn",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "the process of doing sth in order to make sth happen or to deal with a situation 行动；行为过程",
+   "ex": [
+    {
+     "s": "They consist of an electric motor which collects energy used in the braking action that would be lost as heat by conventional brakes.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它们由一个电动机构成，该电机收集制动过程中原本会被传统刹车以热量形式耗散的能量。"
+    },
+    {
+     "s": "Students meet at the university campus (unity of place) for classes (unity of action) during their 20s (unity of time).",
+     "src": "2026北京卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "学生们在大学校园（地点统一）上课（行动统一），在二十多岁时（时间统一）。"
+    },
+    {
+     "s": "Social & Environmental Action: help address social and environmental challenges through creativity and cooperation.",
+     "src": "2026北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "社区服务：通过为有需要的人提供升级改造物品来支持社区，并通过社交平台推广项目以扩大影响范围。"
+    },
+    {
+     "s": "Given the astonishing potential of AI to transform our lives, we all need to take action to deal with our AI-powered future, and this is where AI by Design: A Plan for Living with Artificial Intelligence comes in.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "鉴于AI改变我们生活的惊人潜力，我们都需要采取行动来应对这个由AI驱动的未来，而这正是《AI by Design：与人工智能共处之计》一书的用武之地。"
+    },
+    {
+     "s": "Actions speak louder than words.",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "行动胜于言语。"
+    },
+    {
+     "s": "So here is my advice: Lead by action.",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "所以这是我的建议：以身作则。"
+    },
+    {
+     "s": "After all, nature does not require our patience, but our action.",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "毕竟，自然不需要我们的耐心，而是需要我们的行动。"
+    },
+    {
+     "s": "Action is worry’s worst enemy.",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "行动是忧虑最大的敌人。"
+    },
+    {
+     "s": "Actions speak louder than words．",
+     "src": "2021北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "行动胜于言语。"
+    },
+    {
+     "s": "This moved him to action.",
+     "src": "2020江苏卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这促使他行动起来。"
+    },
+    {
+     "s": "Lack of talent and time is no reason for taking no action.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "缺乏天赋和时间不是不采取行动的理由。"
+    },
+    {
+     "s": "Corrado, a translator for the Army during WWII, was killed in action in Europe.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "科拉多是二战期间陆军的翻译，在欧洲战场上阵亡。"
+    },
+    {
+     "s": "By signaling the urgent need for taking preventive action．",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "D．通过发出采取预防行动的迫切需要的信号。"
+    },
+    {
+     "s": "Positive thinking and action result in success.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "积极思维和行动带来成功。"
+    },
+    {
+     "s": "Elsewhere in Asia even more astonishing actions are being taken.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在亚洲其他地方，甚至更令人惊叹的行动正在被采取。"
+    },
+    {
+     "s": "Taylor’s swift action helped her teammates calm down.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "泰勒迅速的行动帮助队友冷静下来。"
+    },
+    {
+     "s": "Studies have shown that it calculates the effort required for actions and tends to stop us from squandering vital resources on fruitless efforts, like walking over 30 km for a handful of berries.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "研究表明，它会计算某项行动所需的努力，并倾向于阻止我们把宝贵的资源浪费在徒劳的努力上，比如走30多公里只为摘一把浆果。"
+    },
+    {
+     "s": "Now, lots of   7  (country)and regions are taking action to ban the sale of such bags to stop people using them.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "现在，许多____7____（country）和地区正采取行动禁止出售此类袋子，以阻止人们使用它们。"
+    },
+    {
+     "s": "This is why, in part at least, the US National Climate Assessment says that: ＂There is no ‘one-size fits all’ adaptation.＂ Nevertheless, there are some actions that offer much and carry little risk or cost.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这就是为什么，至少部分地，美国《国家气候评估》说：“没有‘一刀切’的适应。”尽管如此，有些行动收益大、风险和成本却小。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a thing that sb does 所做之事；行为",
+   "ex": [
     {
-      "def": "the process of doing sth in order to make sth happen or to deal with a situation 行动；行为过程",
-      "ex": [
-        {
-          "s": "They consist of an electric motor which collects energy used in the braking action that would be lost as heat by conventional brakes.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它们由一个电动机构成，该电机收集制动过程中原本会被传统刹车以热量形式耗散的能量。"
-        },
-        {
-          "s": "Students meet at the university campus (unity of place) for classes (unity of action) during their 20s (unity of time).",
-          "src": "2026北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "学生们在大学校园（地点统一）上课（行动统一），在二十多岁时（时间统一）。"
-        },
-        {
-          "s": "Social & Environmental Action: help address social and environmental challenges through creativity and cooperation.",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "社区服务：通过为有需要的人提供升级改造物品来支持社区，并通过社交平台推广项目以扩大影响范围。"
-        },
-        {
-          "s": "Given the astonishing potential of AI to transform our lives, we all need to take action to deal with our AI-powered future, and this is where AI by Design: A Plan for Living with Artificial Intelligence comes in.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "鉴于AI改变我们生活的惊人潜力，我们都需要采取行动来应对这个由AI驱动的未来，而这正是《AI by Design：与人工智能共处之计》一书的用武之地。"
-        },
-        {
-          "s": "Actions speak louder than words.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "行动胜于言语。"
-        },
-        {
-          "s": "So here is my advice: Lead by action.",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "所以这是我的建议：以身作则。"
-        },
-        {
-          "s": "After all, nature does not require our patience, but our action.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "毕竟，自然不需要我们的耐心，而是需要我们的行动。"
-        },
-        {
-          "s": "Action is worry’s worst enemy.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "行动是忧虑最大的敌人。"
-        },
-        {
-          "s": "Actions speak louder than words．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "行动胜于言语。"
-        },
-        {
-          "s": "This moved him to action.",
-          "src": "2020江苏卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这促使他行动起来。"
-        },
-        {
-          "s": "Lack of talent and time is no reason for taking no action.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "缺乏天赋和时间不是不采取行动的理由。"
-        },
-        {
-          "s": "Corrado, a translator for the Army during WWII, was killed in action in Europe.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "科拉多是二战期间陆军的翻译，在欧洲战场上阵亡。"
-        },
-        {
-          "s": "By signaling the urgent need for taking preventive action．",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "D．通过发出采取预防行动的迫切需要的信号。"
-        },
-        {
-          "s": "Positive thinking and action result in success.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "积极思维和行动带来成功。"
-        },
-        {
-          "s": "Elsewhere in Asia even more astonishing actions are being taken.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在亚洲其他地方，甚至更令人惊叹的行动正在被采取。"
-        },
-        {
-          "s": "Taylor’s swift action helped her teammates calm down.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "泰勒迅速的行动帮助队友冷静下来。"
-        },
-        {
-          "s": "Studies have shown that it calculates the effort required for actions and tends to stop us from squandering vital resources on fruitless efforts, like walking over 30 km for a handful of berries.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "研究表明，它会计算某项行动所需的努力，并倾向于阻止我们把宝贵的资源浪费在徒劳的努力上，比如走30多公里只为摘一把浆果。"
-        },
-        {
-          "s": "Now, lots of   7  (country)and regions are taking action to ban the sale of such bags to stop people using them.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "现在，许多____7____（country）和地区正采取行动禁止出售此类袋子，以阻止人们使用它们。"
-        },
-        {
-          "s": "This is why, in part at least, the US National Climate Assessment says that: ＂There is no ‘one-size fits all’ adaptation.＂ Nevertheless, there are some actions that offer much and carry little risk or cost.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这就是为什么，至少部分地，美国《国家气候评估》说：“没有‘一刀切’的适应。”尽管如此，有些行动收益大、风险和成本却小。"
-        }
-      ]
+     "s": "But as Aristotle observed over 2,000 years ago, actions pushed to their extreme turn into disasters.",
+     "src": "2026北京卷·写作问答",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "但正如亚里士多德在2000多年前观察到的，推向极端的行为会变成灾难。"
     },
     {
-      "def": "a thing that sb does 所做之事；行为",
-      "ex": [
-        {
-          "s": "But as Aristotle observed over 2,000 years ago, actions pushed to their extreme turn into disasters.",
-          "src": "2026北京卷·写作问答",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "但正如亚里士多德在2000多年前观察到的，推向极端的行为会变成灾难。"
-        },
-        {
-          "s": "And unplanned human activities have proved the idea of top﹣down control by top predators to be true． In the ocean， we fished for top predators such as cod on an industrial scale， while on land， we killed off large predators such as wolves． These actions have greatly affected the ecological balance．",
-          "src": "2019天津卷·19．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "而人类无计划的活动已经证明了顶级捕食者自上而下控制的观点是正确的。在海洋中，我们以工业规模捕捞鳕鱼等顶级捕食者，而在陆地上，我们消灭了狼等大型捕食者。这些行为极大地影响了生态平衡。"
-        },
-        {
-          "s": "All of this makes the actions of the homeless Tom Smith    17    more remarkable.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "所有这些都让无家可归者汤姆·史密斯的行为____17____更加了不起。"
-        },
-        {
-          "s": "“I feel more confident in my actions now,” Taylor says.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“我现在对自己的行为更有信心了，”泰勒说。"
-        },
-        {
-          "s": "If harmless actions are the opposite of harmful actions, why are shameless and shameful behaviors the same?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "如果无害的行为与有害的行为相反，为什么无耻和可耻的行为却是一样的？"
-        },
-        {
-          "s": "It has been an enormously positive force.\" Watched by millions, the ending to the race has divided opinions: should the brothers have been disqualified or highly praised for their actions?",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "“它一直是一股极为积极的力量。”在数百万人的注视下，比赛结局引发了分歧：兄弟俩的行为应该被取消资格，还是受到高度赞扬？"
-        },
-        {
-          "s": "Characters' actions, or their behaviors, not only tell your readers what kind of people they are, but also drive the plot forward and create a particular atmosphere.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "人物的行为，或者他们的行为，不仅告诉你的读者他们是什么样的人，而且还推动情节向前发展，营造出特定的氛围。"
-        },
-        {
-          "s": "Now, more evidence has been provided that dogs distinguish between similar actions associated with different intentions.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "现在有更多证据表明，狗能够区分与不同意图相关的相似行为。"
-        },
-        {
-          "s": "I was performing this action of waiting until it later became  43  .Once that happened, I just kept   44  my studying further and further back in my day.",
-          "src": "2018浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我一直在做这种等待的行为，直到后来它变得____43____。一旦如此，我就把学习一拖再拖，越推越后。"
-        }
-      ]
+     "s": "And unplanned human activities have proved the idea of top﹣down control by top predators to be true． In the ocean， we fished for top predators such as cod on an industrial scale， while on land， we killed off large predators such as wolves． These actions have greatly affected the ecological balance．",
+     "src": "2019天津卷·19．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "而人类无计划的活动已经证明了顶级捕食者自上而下控制的观点是正确的。在海洋中，我们以工业规模捕捞鳕鱼等顶级捕食者，而在陆地上，我们消灭了狼等大型捕食者。这些行为极大地影响了生态平衡。"
     },
     {
-      "def": "a legal process to stop a person or company from doing sth, or to make them pay for a mistake, etc. 诉讼；起诉",
-      "ex": []
+     "s": "All of this makes the actions of the homeless Tom Smith    17    more remarkable.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "所有这些都让无家可归者汤姆·史密斯的行为____17____更加了不起。"
     },
     {
-      "def": "fighting in a battle or war 战斗；作战",
-      "ex": []
+     "s": "“I feel more confident in my actions now,” Taylor says.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“我现在对自己的行为更有信心了，”泰勒说。"
     },
     {
-      "def": "the events in a story, play, etc. （故事、戏剧等中的）情节",
-      "ex": [
-        {
-          "s": "The best table in this two-story colonial Thai home offers a window right into the kitchen, where you can see chef Gaggan and his staff in action.",
-          "src": "2023全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这座两层殖民风格泰式宅邸里最好的桌子有一扇正对厨房的窗，你可以看到加甘主厨及其团队工作的情形。"
-        },
-        {
-          "s": "The curtains are about to open, and in a few minutes the action and dialogue will tell you the story.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "幕布即将拉开，几分钟内的动作与对白将为你讲述这个故事。"
-        },
-        {
-          "s": "It has a plot, settings, characters and actions, as well as dialogue between characters.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "year": "",
-          "t": "它有情节、场景、人物和动作，以及人物之间的对话。"
-        }
-      ]
+     "s": "If harmless actions are the opposite of harmful actions, why are shameless and shameful behaviors the same?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "如果无害的行为与有害的行为相反，为什么无耻和可耻的行为却是一样的？"
     },
     {
-      "def": "exciting events 激动人心的事",
-      "ex": []
+     "s": "It has been an enormously positive force.\" Watched by millions, the ending to the race has divided opinions: should the brothers have been disqualified or highly praised for their actions?",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "year": "",
+     "t": "“它一直是一股极为积极的力量。”在数百万人的注视下，比赛结局引发了分歧：兄弟俩的行为应该被取消资格，还是受到高度赞扬？"
     },
     {
-      "def": "the effect that one substance or chemical has on another （一种物质或化学品对另一种所起的）作用",
-      "ex": []
+     "s": "Characters' actions, or their behaviors, not only tell your readers what kind of people they are, but also drive the plot forward and create a particular atmosphere.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "人物的行为，或者他们的行为，不仅告诉你的读者他们是什么样的人，而且还推动情节向前发展，营造出特定的氛围。"
     },
     {
-      "def": "the way a part of the body moves or functions （身体部位的）动作，功能",
-      "ex": [
-        {
-          "s": "Terrified，Elli and I tried all the bear defense actions we knew.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "惊恐的埃利和我试了我们所知的所有防熊动作。"
-        }
-      ]
+     "s": "Now, more evidence has been provided that dogs distinguish between similar actions associated with different intentions.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "现在有更多证据表明，狗能够区分与不同意图相关的相似行为。"
     },
     {
-      "def": "the mechanical parts of a piano, gun, clock, etc. or the way the parts move （钢琴、枪炮、钟表等的）机械装置，活动部件；（机械部件的）活动方式",
-      "ex": []
+     "s": "I was performing this action of waiting until it later became  43  .Once that happened, I just kept   44  my studying further and further back in my day.",
+     "src": "2018浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我一直在做这种等待的行为，直到后来它变得____43____。一旦如此，我就把学习一拖再拖，越推越后。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a legal process to stop a person or company from doing sth, or to make them pay for a mistake, etc. 诉讼；起诉",
+   "ex": []
+  },
+  {
+   "def": "fighting in a battle or war 战斗；作战",
+   "ex": []
+  },
+  {
+   "def": "the events in a story, play, etc. （故事、戏剧等中的）情节",
+   "ex": [
     {
-      "en": "environmental action",
-      "cn": "环保行动",
-      "type": "名词短语",
-      "count": 2
+     "s": "The best table in this two-story colonial Thai home offers a window right into the kitchen, where you can see chef Gaggan and his staff in action.",
+     "src": "2023全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这座两层殖民风格泰式宅邸里最好的桌子有一扇正对厨房的窗，你可以看到加甘主厨及其团队工作的情形。"
     },
     {
-      "en": "action help",
-      "cn": "行动帮助",
-      "type": "名词短语",
-      "count": 2
+     "s": "The curtains are about to open, and in a few minutes the action and dialogue will tell you the story.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "幕布即将拉开，几分钟内的动作与对白将为你讲述这个故事。"
     },
     {
-      "en": "action speak",
-      "cn": "行动谈",
-      "type": "名词短语",
-      "count": 2
+     "s": "It has a plot, settings, characters and actions, as well as dialogue between characters.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "year": "",
+     "t": "它有情节、场景、人物和动作，以及人物之间的对话。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "exciting events 激动人心的事",
+   "ex": []
+  },
+  {
+   "def": "the effect that one substance or chemical has on another （一种物质或化学品对另一种所起的）作用",
+   "ex": []
+  },
+  {
+   "def": "the way a part of the body moves or functions （身体部位的）动作，功能",
+   "ex": [
+    {
+     "s": "Terrified，Elli and I tried all the bear defense actions we knew.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "惊恐的埃利和我试了我们所知的所有防熊动作。"
+    }
+   ]
+  },
+  {
+   "def": "the mechanical parts of a piano, gun, clock, etc. or the way the parts move （钢琴、枪炮、钟表等的）机械装置，活动部件；（机械部件的）活动方式",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "environmental action",
+   "cn": "环保行动",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "action help",
+   "cn": "行动帮助",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
