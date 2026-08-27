@@ -1,268 +1,261 @@
 {
-  "meta": {
-    "ph": "ˈsʌbdʒɪkt; NAmE ˈsʌbdʒɪkt",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈsʌbdʒɪkt; NAmE ˈsʌbdʒɪkt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a thing or person that is being discussed, described or dealt with 主题；题目；话题；题材；问题",
+   "ex": [
+    {
+     "s": "TransForm allows you to get to focus on your chosen track through subject matter talks, hands-on workshops, and off-site experiences.",
+     "src": "2025北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "TransForm允许您通过主题演讲，实践讲习班，以及场外体验，专注于您选择的轨道。"
+    },
+    {
+     "s": "I chose Paul Revere’s horse as my subject.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我选择保罗·里维尔的马作为我的题材。"
+    },
+    {
+     "s": "I chose Paul Revere’s horse as my subject.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我选择保罗·里维尔的马作为我的题材。"
+    },
+    {
+     "s": "Their stay in Elkhead is the subject of Nothing Daunted: The Unexpected Education of Two Society Girls in the West by Dorothy Wickenden, who is a magazine editor and Dorothy Woodruff’s granddaughter.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她们在埃尔克黑德的经历是多萝西·威肯登所著《毫不畏惧：两位上流社会女孩在西部的意外教育》一书的主题，威肯登是一位杂志编辑，也是多萝西·伍德拉夫的外孙女。"
+    },
+    {
+     "s": "We establish a subject that we will discuss throughout the procedure.\"",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我们建立了一个主题，我们将在整个程序中讨论。\""
+    },
+    {
+     "s": "What is the subject of John’s works?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "约翰作品的主题是什么？"
+    },
+    {
+     "s": "From David Waters To Kay Silverman Subject Back to nature Hi Kay, We’re having an amazing time here in South Africa.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "发件人大卫·沃特斯 收件人凯·西尔弗曼 主题 回归自然 嗨凯，我们在南非玩得特别棒。"
+    },
+    {
+     "s": "From Andrew To Matt Subject Travel arrangements Hey Matt, Good news for our trip!",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "发件人：安德鲁 收件人：马特 主题：旅行安排 嘿马特，我们旅行有好消息！"
+    },
+    {
+     "s": "Andrew From Matt To Andrew Subject Re: Travel arrangements Hey Andrew, I’ve bought the plane tickets and arranged transfer from the airport to the hotel.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "安德鲁从马特到安德鲁主题回复：旅行安排嘿，安德鲁，我已经买了机票，并安排了从机场到酒店的接送服务。"
+    },
+    {
+     "s": "AI will affect us all, and if you only read one book on the subject, this is it.",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "人工智能将影响我们所有人，如果你只读一本关于这个主题的书，那就是这本。"
+    },
+    {
+     "s": "The format of magazines enables children to be exposed to a wide variety of wide subjects.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志的形式让孩子接触到广泛多样的主题。"
+    },
+    {
+     "s": "According to Charlotte Markey, a professor of psychology, food is one of the rare subjects where, as parents, saying less is more.",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "据心理学教授Charlotte Markey所说，食物是少数几个话题之一，在这些话题上，作为父母，少说比多说更好。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "an area of knowledge studied in a school, college, etc. 学科；科目；课程",
+   "ex": [
     {
-      "def": "a thing or person that is being discussed, described or dealt with 主题；题目；话题；题材；问题",
-      "ex": [
-        {
-          "s": "TransForm allows you to get to focus on your chosen track through subject matter talks, hands-on workshops, and off-site experiences.",
-          "src": "2025北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "TransForm允许您通过主题演讲，实践讲习班，以及场外体验，专注于您选择的轨道。"
-        },
-        {
-          "s": "I chose Paul Revere’s horse as my subject.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我选择保罗·里维尔的马作为我的题材。"
-        },
-        {
-          "s": "I chose Paul Revere’s horse as my subject.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我选择保罗·里维尔的马作为我的题材。"
-        },
-        {
-          "s": "Their stay in Elkhead is the subject of Nothing Daunted: The Unexpected Education of Two Society Girls in the West by Dorothy Wickenden, who is a magazine editor and Dorothy Woodruff’s granddaughter.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她们在埃尔克黑德的经历是多萝西·威肯登所著《毫不畏惧：两位上流社会女孩在西部的意外教育》一书的主题，威肯登是一位杂志编辑，也是多萝西·伍德拉夫的外孙女。"
-        },
-        {
-          "s": "We establish a subject that we will discuss throughout the procedure.\"",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们建立了一个主题，我们将在整个程序中讨论。\""
-        },
-        {
-          "s": "What is the subject of John’s works?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "约翰作品的主题是什么？"
-        },
-        {
-          "s": "From David Waters To Kay Silverman Subject Back to nature Hi Kay, We’re having an amazing time here in South Africa.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "发件人大卫·沃特斯 收件人凯·西尔弗曼 主题 回归自然 嗨凯，我们在南非玩得特别棒。"
-        },
-        {
-          "s": "From Andrew To Matt Subject Travel arrangements Hey Matt, Good news for our trip!",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "发件人：安德鲁 收件人：马特 主题：旅行安排 嘿马特，我们旅行有好消息！"
-        },
-        {
-          "s": "Andrew From Matt To Andrew Subject Re: Travel arrangements Hey Andrew, I’ve bought the plane tickets and arranged transfer from the airport to the hotel.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "安德鲁从马特到安德鲁主题回复：旅行安排嘿，安德鲁，我已经买了机票，并安排了从机场到酒店的接送服务。"
-        },
-        {
-          "s": "AI will affect us all, and if you only read one book on the subject, this is it.",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "人工智能将影响我们所有人，如果你只读一本关于这个主题的书，那就是这本。"
-        },
-        {
-          "s": "The format of magazines enables children to be exposed to a wide variety of wide subjects.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志的形式让孩子接触到广泛多样的主题。"
-        },
-        {
-          "s": "According to Charlotte Markey, a professor of psychology, food is one of the rare subjects where, as parents, saying less is more.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "据心理学教授Charlotte Markey所说，食物是少数几个话题之一，在这些话题上，作为父母，少说比多说更好。"
-        }
-      ]
+     "s": "Studying a subject that you feel pointless is never a fun or easy task.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "学习一门你觉得毫无意义的科目从来都不是有趣或容易的事。"
     },
     {
-      "def": "an area of knowledge studied in a school, college, etc. 学科；科目；课程",
-      "ex": [
-        {
-          "s": "Studying a subject that you feel pointless is never a fun or easy task.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "学习一门你觉得毫无意义的科目从来都不是有趣或容易的事。"
-        },
-        {
-          "s": "Learners make fewer errors in difficult subjects.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "学习者在困难学科中犯的错误更少。"
-        },
-        {
-          "s": "His books cover a lot of subjects, including philosophy, logic, politics and natural science.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "他的书涉及许多学科，包括哲学、逻辑学、政治学和自然科学。"
-        },
-        {
-          "s": "In secondary school, art was my favourite subject.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在中学里，美术是我最喜欢的科目。"
-        },
-        {
-          "s": "As a high school student with English literature as one of my main subjects, I have to!",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "作为一个以英国文学为主要科目之一的高中生，我必须读！"
-        },
-        {
-          "s": "No matter what subject I’m teaching, I find ways to bring my hobbies into the classroom.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "无论教什么科目，我都会想办法把我的爱好带进课堂。"
-        },
-        {
-          "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
-        },
-        {
-          "s": "Generalists, on the other hand, know a lot about a wide range of subjects and view the whole with all its connections.",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "另一方面，通才对广泛的学科知之甚多，并能带着所有联系去看待整体。"
-        }
-      ]
+     "s": "Learners make fewer errors in difficult subjects.",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "学习者在困难学科中犯的错误更少。"
     },
     {
-      "def": "a person or thing that is the main feature of a picture or photograph, or that a work of art is based on 表现对象；绘画（或拍摄）题材",
-      "ex": [
-        {
-          "s": "For better or worse, ALife mirrors the very subject it studies.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "无论好坏，ALife反映了它所研究的对象本身。"
-        }
-      ]
+     "s": "His books cover a lot of subjects, including philosophy, logic, politics and natural science.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "他的书涉及许多学科，包括哲学、逻辑学、政治学和自然科学。"
     },
     {
-      "def": "a person or thing being used to study sth, especially in an experiment 接受试验者；实验对象",
-      "ex": [
-        {
-          "s": "The reviews were presented to 400 subjects.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这些评论被呈现给400名受试者。"
-        },
-        {
-          "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
-        }
-      ]
+     "s": "In secondary school, art was my favourite subject.",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在中学里，美术是我最喜欢的科目。"
     },
     {
-      "def": "a noun, noun phrase or pronoun representing the person or thing that performs the action of the verb (I in I sat down.), about which sth is stated (the house in the house is very old) or, in a passive sentence, that is affected by the action of the verb (the tree in the tree was blown down in the storm) 主语；主词",
-      "ex": []
+     "s": "As a high school student with English literature as one of my main subjects, I have to!",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "作为一个以英国文学为主要科目之一的高中生，我必须读！"
     },
     {
-      "def": "a person who has the right to belong to a particular country, especially one with a king or queen （尤指君主制国家的）国民，臣民",
-      "ex": []
+     "s": "No matter what subject I’m teaching, I find ways to bring my hobbies into the classroom.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "无论教什么科目，我都会想办法把我的爱好带进课堂。"
     },
     {
-      "def": "likely to be affected by sth, especially sth bad 可能受 … 影响的；易遭受 … 的",
-      "ex": [
-        {
-          "s": "Borrowed items are subject to recall by the lending library.",
-          "src": "2025浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "成为一名成功的画家需要果断。"
-        },
-        {
-          "s": "Then I noticed folk conducting spring cleans dropping boxes of voluminous books on various subjects there.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "后来我注意到人们在春季大扫除时往那里放了很多装满各种书籍的大箱子。"
-        },
-        {
-          "s": "The connection between people and plants has long been the subject of scientific research.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最近的研究发现了积极的影响。"
-        },
-        {
-          "s": "Subjects who practiced the language moderately beforehand made fewer errors than those who practiced extensively or not at all.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "事先适度练习这种语言的人犯的错误比那些大量练习或根本不练习的人少。"
-        },
-        {
-          "s": "Popularity is a well-explored subject in social psychology.",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "人气是社交心理学中一个被充分研究的课题。"
-        },
-        {
-          "s": "More than once, I found myself wondering just how my students, who’d created these people, knew their subjects so well.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "不止一次，我发现自己想知道，创造了这些角色的我的学生们，怎么会如此了解他们所写的人物。"
-        }
-      ]
+     "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
     },
     {
-      "def": "depending on sth in order to be completed or agreed 取决于；视 … 而定",
-      "ex": [
-        {
-          "s": "We offer scholarships to low-income schools and youth organizations, subject to availability.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们为低收入学校和青年组织提供奖学金，视名额而定。"
-        }
-      ]
-    },
-    {
-      "def": "under the authority of sth/sb 受 … 支配；服从于",
-      "ex": []
-    },
-    {
-      "def": "controlled by the government of another country 受异族统治的；臣服的",
-      "ex": []
+     "s": "Generalists, on the other hand, know a lot about a wide range of subjects and view the whole with all its connections.",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "另一方面，通才对广泛的学科知之甚多，并能带着所有联系去看待整体。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a person or thing that is the main feature of a picture or photograph, or that a work of art is based on 表现对象；绘画（或拍摄）题材",
+   "ex": [
     {
-      "en": "subject i",
-      "cn": "主题我",
-      "type": "名词短语",
-      "count": 2
+     "s": "For better or worse, ALife mirrors the very subject it studies.",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "无论好坏，ALife反映了它所研究的对象本身。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a person or thing being used to study sth, especially in an experiment 接受试验者；实验对象",
+   "ex": [
+    {
+     "s": "The reviews were presented to 400 subjects.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这些评论被呈现给400名受试者。"
+    },
+    {
+     "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
+    }
+   ]
+  },
+  {
+   "def": "a noun, noun phrase or pronoun representing the person or thing that performs the action of the verb (I in I sat down.), about which sth is stated (the house in the house is very old) or, in a passive sentence, that is affected by the action of the verb (the tree in the tree was blown down in the storm) 主语；主词",
+   "ex": []
+  },
+  {
+   "def": "a person who has the right to belong to a particular country, especially one with a king or queen （尤指君主制国家的）国民，臣民",
+   "ex": []
+  },
+  {
+   "def": "likely to be affected by sth, especially sth bad 可能受 … 影响的；易遭受 … 的",
+   "ex": [
+    {
+     "s": "Borrowed items are subject to recall by the lending library.",
+     "src": "2025浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "成为一名成功的画家需要果断。"
+    },
+    {
+     "s": "Then I noticed folk conducting spring cleans dropping boxes of voluminous books on various subjects there.",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "后来我注意到人们在春季大扫除时往那里放了很多装满各种书籍的大箱子。"
+    },
+    {
+     "s": "The connection between people and plants has long been the subject of scientific research.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最近的研究发现了积极的影响。"
+    },
+    {
+     "s": "Subjects who practiced the language moderately beforehand made fewer errors than those who practiced extensively or not at all.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "事先适度练习这种语言的人犯的错误比那些大量练习或根本不练习的人少。"
+    },
+    {
+     "s": "Popularity is a well-explored subject in social psychology.",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "人气是社交心理学中一个被充分研究的课题。"
+    },
+    {
+     "s": "More than once, I found myself wondering just how my students, who’d created these people, knew their subjects so well.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "不止一次，我发现自己想知道，创造了这些角色的我的学生们，怎么会如此了解他们所写的人物。"
+    }
+   ]
+  },
+  {
+   "def": "depending on sth in order to be completed or agreed 取决于；视 … 而定",
+   "ex": [
+    {
+     "s": "We offer scholarships to low-income schools and youth organizations, subject to availability.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我们为低收入学校和青年组织提供奖学金，视名额而定。"
+    }
+   ]
+  },
+  {
+   "def": "under the authority of sth/sb 受 … 支配；服从于",
+   "ex": []
+  },
+  {
+   "def": "controlled by the government of another country 受异族统治的；臣服的",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
