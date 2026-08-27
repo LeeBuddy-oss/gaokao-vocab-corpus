@@ -1,649 +1,643 @@
 {
-  "meta": {
-    "ph": "ˈnʌmbə(r); NAmE ˈnʌmbər",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "ˈnʌmbə(r); NAmE ˈnʌmbər",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a word or symbol that represents an amount or a quantity 数字；数；数量",
+   "ex": [
+    {
+     "s": "It’s hard to tell exactly how many people agree with him, but research indicates that the numbers have been rising for some time.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "很难确切地说有多少人与他意见一致，但研究表明这个数字一直在上升。"
+    },
+    {
+     "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
+    },
+    {
+     "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
+    },
+    {
+     "s": "The French take their 35-hour workweek seriously — so seriously that some labor unions recently struck a deal with a group of companies limiting the number of hours that independent contractors can be on call.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "法国人极其看重35小时工作周——以至于一些工会最近与一批公司达成协议，限制独立承包商待命的时长。"
+    },
+    {
+     "s": "That number of interviews should give you all the answers you need.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这个数量的采访应该能提供你所需的所有答案。"
+    },
+    {
+     "s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "尽管它们有助于发现一个地区物种数量和种类的变化，斯坦福的一项新研究发现这类记录并不完美。"
+    },
+    {
+     "s": "Their study revealed that the large number of observation-only records did not lead to better global coverage.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他们的研究表明，大量仅基于观察的记录并没有带来更好的全球覆盖。"
+    },
+    {
+     "s": "They are limited in number.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "它们数量有限。"
+    },
+    {
+     "s": "The key finding of the study was that when crowds were further divided into smaller groups that were allowed to have a discussion, the averages from these groups were more accurate than those from an equal number of independent individuals.",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这项研究的关键发现是，当人群被进一步分成可以进行讨论的小组时，这些小组的平均值比同等数量的独立个体的平均值更准确。"
+    },
+    {
+     "s": "It aims to control the number of the animals.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它旨在控制动物数量。"
+    },
+    {
+     "s": "On August 5, the number of postcards exchanged by members topped 31 million.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "8月5日会员之间交换的明信片数量超过了3100万张。"
+    },
+    {
+     "s": "Official reports suggest that the number of households with three generations living together had risen from 325,000 in 2002 to 419,000 in 2013.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "官方报告显示，三代同堂的家庭数量从2002年的325,000户增加到2013年的419,000户。"
+    },
+    {
+     "s": "She also said there were likely a number of other genes that help the Bajau dive.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她还说，可能还有若干其他基因帮助巴瑶族潜水。"
+    },
+    {
+     "s": "Kevin Balke, a research engineer at the Texas A&M University Transportation Institute, says that while smart lights can be particularly beneficial for some cities, others are so jammed that only a sharp reduction in the number of cars on the road will make a meaningful difference.",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "德克萨斯A&M大学交通研究所的研究工程师凯文·巴尔克(Kevin Balke)表示，虽然智能灯对一些城市特别有利，但另一些城市却卡住了，只有急剧减少路上的汽车数量才能产生有意义的变化。"
+    },
+    {
+     "s": "The number of trees larger than two feet across has declined by 50 percent on more than 46, 000 square miles of California forests, the new study finds.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一项新研究发现，在加利福尼亚州超过46,000平方英里的森林中，直径超过两英尺的大树数量已经减少了50%。"
+    },
+    {
+     "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
+    },
+    {
+     "s": "In the near future，it's not just going to be the number you see on your screen that will be in doubt.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在不久的将来，你在屏幕上看到的数字将不仅仅是值得怀疑的。"
+    },
+    {
+     "s": "They were large in number.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它们数量很大。"
+    },
+    {
+     "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
+    },
+    {
+     "s": "If movies cost $ 10 each, then the maximum number of movies you can see with the money available is 15.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果每部电影票价10美元，那么用现有资金最多可以看15部电影。"
+    },
+    {
+     "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
+    },
+    {
+     "s": "As you listen, make notes of key information such as names, numbers, facts and instructions.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "听的时候，把关键信息记下来，比如姓名、数字、事实和指示。"
+    },
+    {
+     "s": "According to Chart 2, which language has the largest number of learners?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "根据图2 ，哪种语言的学习者人数最多？"
+    },
+    {
+     "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
+    },
+    {
+     "s": "If this works, there may come a time when the number of monarch butterflies increases once again.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "如果这奏效，或许有一天帝王蝶的数量会再次增长。"
+    },
+    {
+     "s": "For this reason, the number of monarch butterflies is falling.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "因为这个原因，黑脉金斑蝶的数量正在下降。"
+    },
+    {
+     "s": "Then they identified begging calls by analyzing the order and number of notes.",
+     "src": "2017江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但最近它发现数据可以被转化为新的服务：翻译和视觉识别，然后出售给其他公司。"
+    },
+    {
+     "s": "There has been a rise in the number of students applying for food courses at UK universities and colleges.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "申请英国高校食品课程的学生数量有所上升。"
+    },
+    {
+     "s": "To calculate your speed as you do, divide 3,600(the number of seconds in an hour)by the number of seconds it takes you to travel one mile(the distance between two mileposts).",
+     "src": "2023浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "要计算你的速度，像你那样，用3600（一小时的秒数）除以你走一英里（两个里程标之间的距离）所花的秒数。"
+    },
+    {
+     "s": "Your poem can be any format, any number of lines.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你的诗可以是任何格式任何行数。"
+    },
+    {
+     "s": "25    , the number of snakes had declined as well.",
+     "src": "2020全国新高考I卷·完型填空个",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "25____，蛇的数量也下降了。"
+    },
+    {
+     "s": "The white bags were then deflated in about half an hour to lower the sequoia's root ball to the bottom of its hole, The bags were removed, but the metal bars were left with the tree because they rust and degrade over a number of years.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "然后白色气囊在约半小时内放气，将红杉根球降到坑底，气囊被取出，但钢条留在树旁，因为它们会在数年内生锈降解。"
+    },
+    {
+     "s": "This same dot appears at the extreme left above “0” on the horizontal axis because you have no money left for books — the number of books available in this example is 0.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这个点在横轴上“0”的最左端上方出现，因为你已没有钱买书——此例中可买的书数量为0。"
+    },
+    {
+     "s": "So you put a dot on the horizontal axis at the number 10.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "所以你把一个点 在水平轴 在数字10。"
+    },
+    {
+     "s": "Soon afterwards, many of those people started settling down to become farmers, and their languages too became more settled and fewer in number.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "不久之后，那些人中的许多开始定居下来成为农民，他们的语言也随之变得更加稳定，数量也减少了。"
+    },
+    {
+     "s": "Cut out pictures to help your preschool and kindergarten children learn their alphabet, numbers, and colors.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "剪下图片，帮助你上幼儿园和学前班的孩子学习字母、数字和颜色。"
+    },
+    {
+     "s": "The numbers might sound small, but they are the leading edge of a dangerous trend.",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这些数字听起来可能很小，但它们是一种危险趋势的前沿。"
+    },
+    {
+     "s": "Though overtourism is described as a problem affecting the entire world, it’s actually concentrated to a small number of extremely popular spots.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "尽管过度旅游被描述为影响全世界的问题，但它其实集中在少数极受欢迎的地点。"
+    },
+    {
+     "s": "To note this you make a dot at the number 15 (for total movie tickets) at the extreme left-hand side of the chart.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为标注这点，你在图表最左侧的数字15（电影票总数）处点一个点。"
+    },
+    {
+     "s": "For all the feelings readers attach to stories, literature is a numbers game, and the test of time is extremely difficult to pass.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "尽管读者对故事倾注诸多情感，文学终究是一场数字游戏，而时间的考验极难通过。"
+    },
+    {
+     "s": "For Japan, the   58   （number） are more striking -- 22 in 1950, 46 today and 53 in 2050.",
+     "src": "2020浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "对日本来说，  58   （数字）更惊人——1950年22，今天46，2050年53。"
+    },
+    {
+     "s": "When most of us get a text message on our cell phone from an unknown person, we usually say “sorry,    41    number!” and move on.",
+     "src": "2018全国III卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当我们大多数人在手机上收到陌生人的短信时，通常会说“抱歉，____41____号码！”然后继续。"
+    },
+    {
+     "s": "The number of cars on roads has been increasing rapidly.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "道路上的汽车数量一直在迅速增加。"
+    },
+    {
+     "s": "Four years ago they all moved into a three-storey Victorian house in Bristol — one of a growing number of multigenerational families in the UK living together under the same roof.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "四年前，他们全都搬进了布里斯托尔一栋三层维多利亚式住宅——这是英国越来越多几代人同堂、住在同一屋檐下的家庭之一。"
+    },
+    {
+     "s": "The western half of the US was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当欧洲人到来时，美国西部半壁到处都是灰熊，大约有5万只或更多与美洲原住民比邻而居。"
+    },
+    {
+     "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
+    },
+    {
+     "s": "Six months after suffering our （14）     on the spring practice field， we won our first game and our second， and continued to （15）     ．Finally， we faced the number one team in the state． I felt that it would be a （16）     for us even if we lost the game． But that wasn't what happened． My boys beat the best team in Georgia， giving me one of the greatest （17）     of my life！",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在春季训练场遭受（14）___六个月后，我们赢下第一场、第二场，并继续（15）___。终于，我们面对全州第一的队。我觉得即使输了，对我们也是（16）___。但事实并非如此。我的孩子们击败了佐治亚最好的队，给了我一生中最伟大的（17）___之一！"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "编号；序数",
+   "ex": [
     {
-      "def": "a word or symbol that represents an amount or a quantity 数字；数；数量",
-      "ex": [
-        {
-          "s": "It’s hard to tell exactly how many people agree with him, but research indicates that the numbers have been rising for some time.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "很难确切地说有多少人与他意见一致，但研究表明这个数字一直在上升。"
-        },
-        {
-          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
-        },
-        {
-          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
-        },
-        {
-          "s": "The French take their 35-hour workweek seriously — so seriously that some labor unions recently struck a deal with a group of companies limiting the number of hours that independent contractors can be on call.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "法国人极其看重35小时工作周——以至于一些工会最近与一批公司达成协议，限制独立承包商待命的时长。"
-        },
-        {
-          "s": "That number of interviews should give you all the answers you need.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这个数量的采访应该能提供你所需的所有答案。"
-        },
-        {
-          "s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尽管它们有助于发现一个地区物种数量和种类的变化，斯坦福的一项新研究发现这类记录并不完美。"
-        },
-        {
-          "s": "Their study revealed that the large number of observation-only records did not lead to better global coverage.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他们的研究表明，大量仅基于观察的记录并没有带来更好的全球覆盖。"
-        },
-        {
-          "s": "They are limited in number.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它们数量有限。"
-        },
-        {
-          "s": "The key finding of the study was that when crowds were further divided into smaller groups that were allowed to have a discussion, the averages from these groups were more accurate than those from an equal number of independent individuals.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这项研究的关键发现是，当人群被进一步分成可以进行讨论的小组时，这些小组的平均值比同等数量的独立个体的平均值更准确。"
-        },
-        {
-          "s": "It aims to control the number of the animals.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它旨在控制动物数量。"
-        },
-        {
-          "s": "On August 5, the number of postcards exchanged by members topped 31 million.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "8月5日会员之间交换的明信片数量超过了3100万张。"
-        },
-        {
-          "s": "Official reports suggest that the number of households with three generations living together had risen from 325,000 in 2002 to 419,000 in 2013.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "官方报告显示，三代同堂的家庭数量从2002年的325,000户增加到2013年的419,000户。"
-        },
-        {
-          "s": "She also said there were likely a number of other genes that help the Bajau dive.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她还说，可能还有若干其他基因帮助巴瑶族潜水。"
-        },
-        {
-          "s": "Kevin Balke, a research engineer at the Texas A&M University Transportation Institute, says that while smart lights can be particularly beneficial for some cities, others are so jammed that only a sharp reduction in the number of cars on the road will make a meaningful difference.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "德克萨斯A&M大学交通研究所的研究工程师凯文·巴尔克(Kevin Balke)表示，虽然智能灯对一些城市特别有利，但另一些城市却卡住了，只有急剧减少路上的汽车数量才能产生有意义的变化。"
-        },
-        {
-          "s": "The number of trees larger than two feet across has declined by 50 percent on more than 46, 000 square miles of California forests, the new study finds.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一项新研究发现，在加利福尼亚州超过46,000平方英里的森林中，直径超过两英尺的大树数量已经减少了50%。"
-        },
-        {
-          "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
-        },
-        {
-          "s": "In the near future，it's not just going to be the number you see on your screen that will be in doubt.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在不久的将来，你在屏幕上看到的数字将不仅仅是值得怀疑的。"
-        },
-        {
-          "s": "They were large in number.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它们数量很大。"
-        },
-        {
-          "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
-        },
-        {
-          "s": "If movies cost $ 10 each, then the maximum number of movies you can see with the money available is 15.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果每部电影票价10美元，那么用现有资金最多可以看15部电影。"
-        },
-        {
-          "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
-        },
-        {
-          "s": "As you listen, make notes of key information such as names, numbers, facts and instructions.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "听的时候，把关键信息记下来，比如姓名、数字、事实和指示。"
-        },
-        {
-          "s": "According to Chart 2, which language has the largest number of learners?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "根据图2 ，哪种语言的学习者人数最多？"
-        },
-        {
-          "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
-        },
-        {
-          "s": "If this works, there may come a time when the number of monarch butterflies increases once again.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "如果这奏效，或许有一天帝王蝶的数量会再次增长。"
-        },
-        {
-          "s": "For this reason, the number of monarch butterflies is falling.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "因为这个原因，黑脉金斑蝶的数量正在下降。"
-        },
-        {
-          "s": "Then they identified begging calls by analyzing the order and number of notes.",
-          "src": "2017江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但最近它发现数据可以被转化为新的服务：翻译和视觉识别，然后出售给其他公司。"
-        },
-        {
-          "s": "There has been a rise in the number of students applying for food courses at UK universities and colleges.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "申请英国高校食品课程的学生数量有所上升。"
-        },
-        {
-          "s": "To calculate your speed as you do, divide 3,600(the number of seconds in an hour)by the number of seconds it takes you to travel one mile(the distance between two mileposts).",
-          "src": "2023浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "要计算你的速度，像你那样，用3600（一小时的秒数）除以你走一英里（两个里程标之间的距离）所花的秒数。"
-        },
-        {
-          "s": "Your poem can be any format, any number of lines.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你的诗可以是任何格式任何行数。"
-        },
-        {
-          "s": "25    , the number of snakes had declined as well.",
-          "src": "2020全国新高考I卷·完型填空个",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "25____，蛇的数量也下降了。"
-        },
-        {
-          "s": "The white bags were then deflated in about half an hour to lower the sequoia's root ball to the bottom of its hole, The bags were removed, but the metal bars were left with the tree because they rust and degrade over a number of years.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "然后白色气囊在约半小时内放气，将红杉根球降到坑底，气囊被取出，但钢条留在树旁，因为它们会在数年内生锈降解。"
-        },
-        {
-          "s": "This same dot appears at the extreme left above “0” on the horizontal axis because you have no money left for books — the number of books available in this example is 0.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这个点在横轴上“0”的最左端上方出现，因为你已没有钱买书——此例中可买的书数量为0。"
-        },
-        {
-          "s": "So you put a dot on the horizontal axis at the number 10.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "所以你把一个点 在水平轴 在数字10。"
-        },
-        {
-          "s": "Soon afterwards, many of those people started settling down to become farmers, and their languages too became more settled and fewer in number.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "不久之后，那些人中的许多开始定居下来成为农民，他们的语言也随之变得更加稳定，数量也减少了。"
-        },
-        {
-          "s": "Cut out pictures to help your preschool and kindergarten children learn their alphabet, numbers, and colors.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "剪下图片，帮助你上幼儿园和学前班的孩子学习字母、数字和颜色。"
-        },
-        {
-          "s": "The numbers might sound small, but they are the leading edge of a dangerous trend.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些数字听起来可能很小，但它们是一种危险趋势的前沿。"
-        },
-        {
-          "s": "Though overtourism is described as a problem affecting the entire world, it’s actually concentrated to a small number of extremely popular spots.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尽管过度旅游被描述为影响全世界的问题，但它其实集中在少数极受欢迎的地点。"
-        },
-        {
-          "s": "To note this you make a dot at the number 15 (for total movie tickets) at the extreme left-hand side of the chart.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为标注这点，你在图表最左侧的数字15（电影票总数）处点一个点。"
-        },
-        {
-          "s": "For all the feelings readers attach to stories, literature is a numbers game, and the test of time is extremely difficult to pass.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "尽管读者对故事倾注诸多情感，文学终究是一场数字游戏，而时间的考验极难通过。"
-        },
-        {
-          "s": "For Japan, the   58   （number） are more striking -- 22 in 1950, 46 today and 53 in 2050.",
-          "src": "2020浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对日本来说，  58   （数字）更惊人——1950年22，今天46，2050年53。"
-        },
-        {
-          "s": "When most of us get a text message on our cell phone from an unknown person, we usually say “sorry,    41    number!” and move on.",
-          "src": "2018全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当我们大多数人在手机上收到陌生人的短信时，通常会说“抱歉，____41____号码！”然后继续。"
-        },
-        {
-          "s": "The number of cars on roads has been increasing rapidly.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "道路上的汽车数量一直在迅速增加。"
-        },
-        {
-          "s": "Four years ago they all moved into a three-storey Victorian house in Bristol — one of a growing number of multigenerational families in the UK living together under the same roof.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "四年前，他们全都搬进了布里斯托尔一栋三层维多利亚式住宅——这是英国越来越多几代人同堂、住在同一屋檐下的家庭之一。"
-        },
-        {
-          "s": "The western half of the US was full of grizzlies when Europeans came, with a rough number of 50,000 or more living alongside Native Americans.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当欧洲人到来时，美国西部半壁到处都是灰熊，大约有5万只或更多与美洲原住民比邻而居。"
-        },
-        {
-          "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
-        },
-        {
-          "s": "Six months after suffering our （14）     on the spring practice field， we won our first game and our second， and continued to （15）     ．Finally， we faced the number one team in the state． I felt that it would be a （16）     for us even if we lost the game． But that wasn't what happened． My boys beat the best team in Georgia， giving me one of the greatest （17）     of my life！",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在春季训练场遭受（14）___六个月后，我们赢下第一场、第二场，并继续（15）___。终于，我们面对全州第一的队。我觉得即使输了，对我们也是（16）___。但事实并非如此。我的孩子们击败了佐治亚最好的队，给了我一生中最伟大的（17）___之一！"
-        }
-      ]
-    },
-    {
-      "def": "编号；序数",
-      "ex": [
-        {
-          "s": "•Once a pair has been determined to be suitable, the students will be contacted individually with a special permission number to register for the programme.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "•一旦一对学生被认定合适，就会分别联系他们，并提供一个特殊许可编号以注册该项目。"
-        }
-      ]
-    },
-    {
-      "def": "a number used to identify sth or communicate by telephone, fax, etc. 常构成复合词",
-      "ex": [
-        {
-          "s": "With an increasing number of male chefs on TV, it’s no longer “uncool” for boys to like cooking.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "随着电视上出现越来越多的男性厨师，男孩喜欢烹饪不再是“不酷”的事。"
-        },
-        {
-          "s": "It is enough to put the page number and one or two words as a reminder .",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "记下页码和一两个词作为提醒就足够了。"
-        },
-        {
-          "s": "Ehlers   52   the number of Jeff and Lisa to tell them he had   53   their dog.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "埃勒斯____52____杰夫和丽莎的电话，告诉他们他____53____了他们的狗。"
-        },
-        {
-          "s": "The maximum number of movies you can see is 10.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你最多可以看10部电影。"
-        },
-        {
-          "s": "The maximum number of crime novels you can buy is 15.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你最多可以买15本犯罪小说。"
-        }
-      ]
-    },
-    {
-      "def": "a quantity of people or things 数量；数额",
-      "ex": [
-        {
-          "s": "Already, a number of films, including \"Water for Elephants,\" \"The Hangover Part Ⅱ\" and \"Zookeeper,\" have drawn the anger of activists who say the creatures acting in them haven’t been treated properly.",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "已经有不少影片，包括《大象的眼泪》《宿醉2》和《动物园看守》，引来了活动人士的愤怒，他们说片中动物的待遇不当。"
-        }
-      ]
-    },
-    {
-      "def": "a group or quantity of people 一群人；许多人",
-      "ex": [
-        {
-          "s": "A flood had hit the area earlier that year and the   24    it caused had driven away a number of birds.",
-          "src": "2020全国新高考I卷·完型填空个",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "那年早些时候，一场洪水袭击了该地区，它造成的___24___赶走了许多鸟。"
-        },
-        {
-          "s": "Often spoken by many people while hot, wet zones have lots, often spoken by small numbers.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "通常由很多人使用，而炎热潮湿地区有很多种语言，通常只有少数人使用。"
-        },
-        {
-          "s": "The problem of robocalls has gotten so bad that many people now refuse to pick up calls from numbers they don't know.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "骚扰电话的问题已经如此严重，以至于现在许多人拒绝接听来自陌生号码的电话。"
-        },
-        {
-          "s": "It is led by number of schools.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它由许多学校主导。"
-        },
-        {
-          "s": "Over the years, there have been a number of different techniques to help designers approach this important point.",
-          "src": "2018全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "多年来，出现了许多不同的技巧，帮助设计师处理这一要点。"
-        }
-      ]
-    },
-    {
-      "def": "the version of a magazine, etc. published on a particular day, in a particular month, etc. 期；号",
-      "ex": [
-        {
-          "s": "■On the same sheet of paper, write or type your name, address, telephone number, and birth date.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "■在同一张纸上，手写或打印你的姓名、地址、电话号码和出生日期。"
-        },
-        {
-          "s": "Which number should you call if you want to work with the elderly?",
-          "src": "2021天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "如果你想和老年人一起工作应该拨打哪个号码？"
-        },
-        {
-          "s": "created a large number of works beyond his expectations",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "创作了大量超出他预期的作品"
-        },
-        {
-          "s": "Email the office their numbers on the list.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "发邮件给办公室他们在名单上的号码。"
-        }
-      ]
-    },
-    {
-      "def": "a song or dance, especially one of several in a performance 一首歌，一段舞蹈（尤指演出的节目）",
-      "ex": [
-        {
-          "s": "Things like kale ribs, fish collars, rejected sweet potatoes, and cucumber butts were all re-appropriated and, with the help of a number of good chefs, turned into excellent cuisine.",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "像羽衣甘蓝梗、鱼颈肉、被挑拣出的红薯和黄瓜屁股这类东西，都被重新利用，并在几位好厨师的帮助下，变成了极好的菜肴。"
-        }
-      ]
-    },
-    {
-      "def": "a thing, such as a dress or a car, that is admired 接在一个或多个形容词后",
-      "ex": [
-        {
-          "s": "More research is needed to see if improved fitness could have a positive effect on the risk of dementia and also to look at when during a lifetime a high fitness level is most important. \" She also admitted that a relatively small number of women were studied, all of whom were form Sweden, so the results might not be applicable to other groups.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "需要开展更多的研究，以了解改善健康状况能否对痴呆症的风险产生积极的影响，并审视在一生中，高水平的健身水平何时最为重要。 \" 她还承认，研究的妇女人数相对较少，她们都是瑞典人，因此研究结果可能不适用于其他群体。"
-        },
-        {
-          "s": "It was based on a number of large families.",
-          "src": "2020浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它是基于多个大家庭的研究。"
-        },
-        {
-          "s": "a small number of measles cases can start a dangerous trend",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "少量麻疹病例就可能引发一个危险趋势。"
-        },
-        {
-          "s": "This means. for example，that a scammer could call you from what looks to be a familiar number and talk to you using a voice that sounds exactly like your bank teller 's，ricking you into \"confirming \" your address，mother's name，and card number.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这意味着，比如说，一个骗子可以给你打电话 从一个看起来熟悉的号码 并用一个声音和你说话 听起来就像你的银行出纳的，让你\"确认\"你的地址，母亲的名字，和卡片号码。"
-        },
-        {
-          "s": "When you are placed on a waiting list, we will email you a number which tells you where you are on the list.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当你被列入等候名单时，我们会给你发邮件告知一个号码，表明你在名单上的位置。"
-        },
-        {
-          "s": "The ad had a   51   number for a town in southern Michigan.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "广告上有一个___51___号码，对应密歇根州南部的一个小镇。"
-        }
-      ]
-    },
-    {
-      "def": "the form of a word, showing whether one or more than one person or thing is being talked about 数（表示所叙述的人或事物是一个或多个）",
-      "ex": [
-        {
-          "s": "At the end of the thirty days, you will then add back a small number of carefully chosen online activities that you believe will provide massive benefits to the things you value.",
-          "src": "2023新课标I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在这三十天结束时，你再重新加入少量精心挑选的线上活动，这些活动你认为会为你所看重的事物带来巨大益处。"
-        },
-        {
-          "s": "However, becoming a full-time, successful actor would still be an uphill battle for another eight years until he landed a number of film roles that finally got him noticed.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "然而，在接下来的八年里，要成为一名全职成功的演员仍是一场艰苦的斗争，直到他获得多个电影角色，终于引起了人们的注意。"
-        },
-        {
-          "s": "It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991.The total number of all multigenerational households in Britain is thought to be about 1.8 million.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "据说，25-34岁的人中约20%和父母同住，而1991年这一比例是16%。英国所有多代同堂家庭的总数估计约为180万。"
-        },
-        {
-          "s": "A safe number of interviews to conduct is about six to ten.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "进行六到十次采访是一个比较合适的数量。"
-        },
-        {
-          "s": "“There’s a certain feeling that giving can do for you and that was apparent in those that gave the most.\" Most people who took dollars took only a few, but Bridges said a very small number took as much as they could.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "\"给予能给人带来一种特定的感觉，这在那些给得最多的人身上表现得非常明显。\"大多数拿钱的人只拿了几张，但布里奇斯说有极少数人尽可能多地拿。"
-        },
-        {
-          "s": "In 1990, immigrants numbered some 1.14 million out of Italy’s then 56.7 million people, or about 2 percent.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "1990年，移民约为114万，占当时意大利5670万人口的约2%。"
-        },
-        {
-          "s": "Since 1992 the number of people dying has been bigger than that of those being born by a massive 50%.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "自1992年以来，死亡人数比出生人数多出惊人的50%。"
-        },
-        {
-          "s": "It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最近有报道称，坚持传统饮食的人数正在缓慢下降，约一半英国消费者想以某种方式改变或改善自己的烹饪。"
-        },
-        {
-          "s": "In the past few years, an increasing number of people and organisations have begun coming up with plans to counter this trend.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "过去几年里，越来越多的人和组织开始提出计划来遏制这一趋势。"
-        },
-        {
-          "s": "It was a tradition for the school's old team to play against the（4）     team at the end of spring practice． The old team had no coach， and they didn't even practice to（5）     the game． Being the coach of the new team， I was excited because I knew we were going to win， but to my disappointment we were defeated． I couldn't （6）     I had got into such a situation． Thinking hard about it， I came to（7）     that my team might not be the number one team in Georgia， but they were（8）     me． I had to change my （9）     about their ability and potential．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "学校的元老队在春季训练结束时与（4）______队比赛是一个传统。元老队没有教练，他们甚至不为（5）______比赛而练习。作为新队的教练，我很兴奋，因为我知道我们会赢，但令我失望的是我们被打败了。我无法（6）______相信我会陷入这样的境地。仔细思考后，我（7）______意识到我的队可能不是佐治亚州第一名，但他们信任（8）______我。我必须改变我对他们能力和潜力的（9）______看法。"
-        }
-      ]
-    },
-    {
-      "def": "to give a number to sth as part of a series or list 标号；给 … 编号",
-      "ex": []
-    },
-    {
-      "def": "to make a particular number when added together 总计；共计；数以 … 计",
-      "ex": [
-        {
-          "s": "The Bajau, as these people are known, number in the hundreds of thousands in Indonesia, Malaysia and the Philippines.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些被称为巴瑶人的民族，在印度尼西亚、马来西亚和菲律宾有数十万人。"
-        }
-      ]
-    },
-    {
-      "def": "to include sb/sth in a particular group; to be included in a particular group 把 … 算作；（被）归入",
-      "ex": []
+     "s": "•Once a pair has been determined to be suitable, the students will be contacted individually with a special permission number to register for the programme.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "•一旦一对学生被认定合适，就会分别联系他们，并提供一个特殊许可编号以注册该项目。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a number used to identify sth or communicate by telephone, fax, etc. 常构成复合词",
+   "ex": [
     {
-      "en": "small number",
-      "cn": "少数",
-      "type": "名词短语",
-      "count": 6
+     "s": "With an increasing number of male chefs on TV, it’s no longer “uncool” for boys to like cooking.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "随着电视上出现越来越多的男性厨师，男孩喜欢烹饪不再是“不酷”的事。"
     },
     {
-      "en": "number of monarch",
-      "cn": "帝王蝶的数量",
-      "type": "介词短语",
-      "count": 3
+     "s": "It is enough to put the page number and one or two words as a reminder .",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "记下页码和一两个词作为提醒就足够了。"
     },
     {
-      "en": "the number of monarch",
-      "cn": "帝王蝶的数量",
-      "type": "介词短语",
-      "count": 3
+     "s": "Ehlers   52   the number of Jeff and Lisa to tell them he had   53   their dog.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "埃勒斯____52____杰夫和丽莎的电话，告诉他们他____53____了他们的狗。"
+    },
+    {
+     "s": "The maximum number of movies you can see is 10.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你最多可以看10部电影。"
+    },
+    {
+     "s": "The maximum number of crime novels you can buy is 15.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你最多可以买15本犯罪小说。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a quantity of people or things 数量；数额",
+   "ex": [
+    {
+     "s": "Already, a number of films, including \"Water for Elephants,\" \"The Hangover Part Ⅱ\" and \"Zookeeper,\" have drawn the anger of activists who say the creatures acting in them haven’t been treated properly.",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "已经有不少影片，包括《大象的眼泪》《宿醉2》和《动物园看守》，引来了活动人士的愤怒，他们说片中动物的待遇不当。"
+    }
+   ]
+  },
+  {
+   "def": "a group or quantity of people 一群人；许多人",
+   "ex": [
+    {
+     "s": "A flood had hit the area earlier that year and the   24    it caused had driven away a number of birds.",
+     "src": "2020全国新高考I卷·完型填空个",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "那年早些时候，一场洪水袭击了该地区，它造成的___24___赶走了许多鸟。"
+    },
+    {
+     "s": "Often spoken by many people while hot, wet zones have lots, often spoken by small numbers.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "通常由很多人使用，而炎热潮湿地区有很多种语言，通常只有少数人使用。"
+    },
+    {
+     "s": "The problem of robocalls has gotten so bad that many people now refuse to pick up calls from numbers they don't know.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "骚扰电话的问题已经如此严重，以至于现在许多人拒绝接听来自陌生号码的电话。"
+    },
+    {
+     "s": "It is led by number of schools.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它由许多学校主导。"
+    },
+    {
+     "s": "Over the years, there have been a number of different techniques to help designers approach this important point.",
+     "src": "2018全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "多年来，出现了许多不同的技巧，帮助设计师处理这一要点。"
+    }
+   ]
+  },
+  {
+   "def": "the version of a magazine, etc. published on a particular day, in a particular month, etc. 期；号",
+   "ex": [
+    {
+     "s": "■On the same sheet of paper, write or type your name, address, telephone number, and birth date.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "■在同一张纸上，手写或打印你的姓名、地址、电话号码和出生日期。"
+    },
+    {
+     "s": "Which number should you call if you want to work with the elderly?",
+     "src": "2021天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "如果你想和老年人一起工作应该拨打哪个号码？"
+    },
+    {
+     "s": "created a large number of works beyond his expectations",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "创作了大量超出他预期的作品"
+    },
+    {
+     "s": "Email the office their numbers on the list.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "发邮件给办公室他们在名单上的号码。"
+    }
+   ]
+  },
+  {
+   "def": "a song or dance, especially one of several in a performance 一首歌，一段舞蹈（尤指演出的节目）",
+   "ex": [
+    {
+     "s": "Things like kale ribs, fish collars, rejected sweet potatoes, and cucumber butts were all re-appropriated and, with the help of a number of good chefs, turned into excellent cuisine.",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "像羽衣甘蓝梗、鱼颈肉、被挑拣出的红薯和黄瓜屁股这类东西，都被重新利用，并在几位好厨师的帮助下，变成了极好的菜肴。"
+    }
+   ]
+  },
+  {
+   "def": "a thing, such as a dress or a car, that is admired 接在一个或多个形容词后",
+   "ex": [
+    {
+     "s": "More research is needed to see if improved fitness could have a positive effect on the risk of dementia and also to look at when during a lifetime a high fitness level is most important. \" She also admitted that a relatively small number of women were studied, all of whom were form Sweden, so the results might not be applicable to other groups.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "需要开展更多的研究，以了解改善健康状况能否对痴呆症的风险产生积极的影响，并审视在一生中，高水平的健身水平何时最为重要。 \" 她还承认，研究的妇女人数相对较少，她们都是瑞典人，因此研究结果可能不适用于其他群体。"
+    },
+    {
+     "s": "It was based on a number of large families.",
+     "src": "2020浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它是基于多个大家庭的研究。"
+    },
+    {
+     "s": "a small number of measles cases can start a dangerous trend",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "少量麻疹病例就可能引发一个危险趋势。"
+    },
+    {
+     "s": "This means. for example，that a scammer could call you from what looks to be a familiar number and talk to you using a voice that sounds exactly like your bank teller 's，ricking you into \"confirming \" your address，mother's name，and card number.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这意味着，比如说，一个骗子可以给你打电话 从一个看起来熟悉的号码 并用一个声音和你说话 听起来就像你的银行出纳的，让你\"确认\"你的地址，母亲的名字，和卡片号码。"
+    },
+    {
+     "s": "When you are placed on a waiting list, we will email you a number which tells you where you are on the list.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当你被列入等候名单时，我们会给你发邮件告知一个号码，表明你在名单上的位置。"
+    },
+    {
+     "s": "The ad had a   51   number for a town in southern Michigan.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "广告上有一个___51___号码，对应密歇根州南部的一个小镇。"
+    }
+   ]
+  },
+  {
+   "def": "the form of a word, showing whether one or more than one person or thing is being talked about 数（表示所叙述的人或事物是一个或多个）",
+   "ex": [
+    {
+     "s": "At the end of the thirty days, you will then add back a small number of carefully chosen online activities that you believe will provide massive benefits to the things you value.",
+     "src": "2023新课标I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在这三十天结束时，你再重新加入少量精心挑选的线上活动，这些活动你认为会为你所看重的事物带来巨大益处。"
+    },
+    {
+     "s": "However, becoming a full-time, successful actor would still be an uphill battle for another eight years until he landed a number of film roles that finally got him noticed.",
+     "src": "2021浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "然而，在接下来的八年里，要成为一名全职成功的演员仍是一场艰苦的斗争，直到他获得多个电影角色，终于引起了人们的注意。"
+    },
+    {
+     "s": "It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991.The total number of all multigenerational households in Britain is thought to be about 1.8 million.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "据说，25-34岁的人中约20%和父母同住，而1991年这一比例是16%。英国所有多代同堂家庭的总数估计约为180万。"
+    },
+    {
+     "s": "A safe number of interviews to conduct is about six to ten.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "进行六到十次采访是一个比较合适的数量。"
+    },
+    {
+     "s": "“There’s a certain feeling that giving can do for you and that was apparent in those that gave the most.\" Most people who took dollars took only a few, but Bridges said a very small number took as much as they could.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "\"给予能给人带来一种特定的感觉，这在那些给得最多的人身上表现得非常明显。\"大多数拿钱的人只拿了几张，但布里奇斯说有极少数人尽可能多地拿。"
+    },
+    {
+     "s": "In 1990, immigrants numbered some 1.14 million out of Italy’s then 56.7 million people, or about 2 percent.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "1990年，移民约为114万，占当时意大利5670万人口的约2%。"
+    },
+    {
+     "s": "Since 1992 the number of people dying has been bigger than that of those being born by a massive 50%.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "自1992年以来，死亡人数比出生人数多出惊人的50%。"
+    },
+    {
+     "s": "It is recently reported that the number of those sticking to a traditional diet is slowly declining and around half of Britain’s consumers would like to change or improve their cooking in some way.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "最近有报道称，坚持传统饮食的人数正在缓慢下降，约一半英国消费者想以某种方式改变或改善自己的烹饪。"
+    },
+    {
+     "s": "In the past few years, an increasing number of people and organisations have begun coming up with plans to counter this trend.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "过去几年里，越来越多的人和组织开始提出计划来遏制这一趋势。"
+    },
+    {
+     "s": "It was a tradition for the school's old team to play against the（4）     team at the end of spring practice． The old team had no coach， and they didn't even practice to（5）     the game． Being the coach of the new team， I was excited because I knew we were going to win， but to my disappointment we were defeated． I couldn't （6）     I had got into such a situation． Thinking hard about it， I came to（7）     that my team might not be the number one team in Georgia， but they were（8）     me． I had to change my （9）     about their ability and potential．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "学校的元老队在春季训练结束时与（4）______队比赛是一个传统。元老队没有教练，他们甚至不为（5）______比赛而练习。作为新队的教练，我很兴奋，因为我知道我们会赢，但令我失望的是我们被打败了。我无法（6）______相信我会陷入这样的境地。仔细思考后，我（7）______意识到我的队可能不是佐治亚州第一名，但他们信任（8）______我。我必须改变我对他们能力和潜力的（9）______看法。"
+    }
+   ]
+  },
+  {
+   "def": "to give a number to sth as part of a series or list 标号；给 … 编号",
+   "ex": []
+  },
+  {
+   "def": "to make a particular number when added together 总计；共计；数以 … 计",
+   "ex": [
+    {
+     "s": "The Bajau, as these people are known, number in the hundreds of thousands in Indonesia, Malaysia and the Philippines.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些被称为巴瑶人的民族，在印度尼西亚、马来西亚和菲律宾有数十万人。"
+    }
+   ]
+  },
+  {
+   "def": "to include sb/sth in a particular group; to be included in a particular group 把 … 算作；（被）归入",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "number of monarch",
+   "cn": "帝王蝶的数量",
+   "type": "介词短语",
+   "count": 3
+  },
+  {
+   "en": "the number of monarch",
+   "cn": "帝王蝶的数量",
+   "type": "介词短语",
+   "count": 3
+  }
+ ]
 }
