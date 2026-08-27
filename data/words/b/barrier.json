@@ -1,119 +1,119 @@
 {
-  "meta": {
-    "ph": "ˈbæriə(r); NAmE ˈbæriər",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈbæriə(r); NAmE ˈbæriər",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "an object like a fence that prevents people from moving forward from one place to another 屏障；障碍物",
+   "ex": [
+    {
+     "s": "You can explore the Great Barrier Reef by visiting an underwater observatory.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "你可以通过参观水下观测站来探索大堡礁。",
+     "year": ""
+    },
+    {
+     "s": "More than 25 million years old, the Great Barrier Reef is made up of living coral growing on dead coral.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "大堡礁已有超过 2500 万年的历史，由生长在死珊瑚上的活珊瑚构成。",
+     "year": ""
+    },
+    {
+     "s": "The Great Barrier Reef is located off the coast of Queensland, Australia.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "大堡礁位于澳大利亚昆士兰州海岸外。",
+     "year": ""
+    },
+    {
+     "s": "Because of its natural beauty, the Great Barrier Reef has become one of the worlds most popular destinations, attracting about two million visitors each year.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "因其自然美景，大堡礁已成为世界上最受欢迎的旅游目的地之一，每年吸引约两百万游客。",
+     "year": ""
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a problem, rule or situation that prevents sb from doing sth, or that makes sth impossible 障碍；阻力；关卡",
+   "ex": [
     {
-      "def": "an object like a fence that prevents people from moving forward from one place to another 屏障；障碍物",
-      "ex": [
-        {
-          "s": "You can explore the Great Barrier Reef by visiting an underwater observatory.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "你可以通过参观水下观测站来探索大堡礁。",
-          "year": ""
-        },
-        {
-          "s": "More than 25 million years old, the Great Barrier Reef is made up of living coral growing on dead coral.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "大堡礁已有超过 2500 万年的历史，由生长在死珊瑚上的活珊瑚构成。",
-          "year": ""
-        },
-        {
-          "s": "The Great Barrier Reef is located off the coast of Queensland, Australia.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "大堡礁位于澳大利亚昆士兰州海岸外。",
-          "year": ""
-        },
-        {
-          "s": "Because of its natural beauty, the Great Barrier Reef has become one of the worlds most popular destinations, attracting about two million visitors each year.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "因其自然美景，大堡礁已成为世界上最受欢迎的旅游目的地之一，每年吸引约两百万游客。",
-          "year": ""
-        }
-      ]
+     "s": "Language is certainly a barrier for many people.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "t": "语言对许多人来说无疑是个障碍。",
+     "year": 2021
     },
     {
-      "def": "a problem, rule or situation that prevents sb from doing sth, or that makes sth impossible 障碍；阻力；关卡",
-      "ex": [
-        {
-          "s": "Language is certainly a barrier for many people.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "语言对许多人来说无疑是个障碍。",
-          "year": 2021
-        },
-        {
-          "s": "Love breaks down barriers.",
-          "src": "2020全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "爱能打破障碍。",
-          "year": 2020
-        },
-        {
-          "s": "In contrast to these big spenders, there are also teens that prove age is no barrier to making good use of money.",
-          "src": "外研社B5 U2",
-          "cat": "waiyan",
-          "t": "与这些大手大脚花钱的青少年相比，也有一些青少年证明年龄并不是善用金钱的障碍。",
-          "year": ""
-        },
-        {
-          "s": "age is not a barrier to achieving one's goal",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "t": "B. 年龄不是实现目标的障碍",
-          "year": 2019
-        },
-        {
-          "s": "It is difficult to get rid of cultural barriers.",
-          "src": "2020天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "很难消除文化障碍。",
-          "year": 2020
-        }
-      ]
+     "s": "Love breaks down barriers.",
+     "src": "2020全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "t": "爱能打破障碍。",
+     "year": 2020
     },
     {
-      "def": "something that exists between one thing or person and another and keeps them separate 分界线；隔阂；障碍",
-      "ex": [
-        {
-          "s": "Jones' idea has been fully   31   —the “HAPPY TO CHAT” benches help   32   the invisible social barrier that keeps people from saying hello.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "t": "琼斯的主意已得到充分__31__——“乐意聊天”长椅有助于__32__那种阻碍人们打招呼的无形社交障碍。",
-          "year": 2020
-        },
-        {
-          "s": "Unfortunately, between us stood the barrier of language.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "t": "不幸的是，我们之间横亘着语言的障碍。",
-          "year": 2022
-        }
-      ]
+     "s": "In contrast to these big spenders, there are also teens that prove age is no barrier to making good use of money.",
+     "src": "外研社B5 U2",
+     "cat": "waiyan",
+     "t": "与这些大手大脚花钱的青少年相比，也有一些青少年证明年龄并不是善用金钱的障碍。",
+     "year": ""
     },
     {
-      "def": "a particular amount, level or number that it is difficult to get past 难以逾越的数量（或水平、数目）；关口",
-      "ex": []
+     "s": "age is not a barrier to achieving one's goal",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "t": "B. 年龄不是实现目标的障碍",
+     "year": 2019
+    },
+    {
+     "s": "It is difficult to get rid of cultural barriers.",
+     "src": "2020天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "很难消除文化障碍。",
+     "year": 2020
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "something that exists between one thing or person and another and keeps them separate 分界线；隔阂；障碍",
+   "ex": [
     {
-      "en": "barrier reef",
-      "cn": "屏障",
-      "type": "名词短语",
-      "count": 4
+     "s": "Jones' idea has been fully   31   —the “HAPPY TO CHAT” benches help   32   the invisible social barrier that keeps people from saying hello.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "t": "琼斯的主意已得到充分__31__——“乐意聊天”长椅有助于__32__那种阻碍人们打招呼的无形社交障碍。",
+     "year": 2020
     },
     {
-      "en": "cultural barriers",
-      "cn": "屏障",
-      "type": "名词短语",
-      "count": 2
+     "s": "Unfortunately, between us stood the barrier of language.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "t": "不幸的是，我们之间横亘着语言的障碍。",
+     "year": 2022
     }
-  ]
+   ]
+  },
+  {
+   "def": "a particular amount, level or number that it is difficult to get past 难以逾越的数量（或水平、数目）；关口",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "barrier reef",
+   "cn": "屏障",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "cultural barriers",
+   "cn": "文化的barriers",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
