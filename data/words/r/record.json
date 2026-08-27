@@ -1,373 +1,367 @@
 {
-  "meta": {
-    "ph": "ˈrekɔːd; NAmE ˈrekərd",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "ˈrekɔːd; NAmE ˈrekərd",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a written account of sth that is kept so that it can be looked at and used in the future 记录；记载",
+   "ex": [
+    {
+     "s": "In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在赶在物种灭绝前记录地球物种的竞赛中，研究人员和公民科学家已收集了数十亿条记录。"
+    },
+    {
+     "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。"
+    },
+    {
+     "s": "Their study revealed that the large number of observation-only records did not lead to better global coverage.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他们的研究表明，大量仅基于观察的记录并没有带来更好的全球覆盖。"
+    },
+    {
+     "s": "Hire experts to check the records.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "聘请专家核查记录。"
+    },
+    {
+     "s": "From the English side, we have scientific reports and the captain’s record of that terrible day.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "从英方那里，我们有科学报告和船长对那可怕一天的记录。"
+    },
+    {
+     "s": "His record was one-sided.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他的记录是片面的。"
+    },
+    {
+     "s": "It’s a record of a historic event.",
+     "src": "2020全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它是一桩历史事件的记录。"
+    },
+    {
+     "s": "After you’ve tried a new method for a week, take a look at your record.",
+     "src": "2017全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在尝试一种新方法一周后，看看你的记录。"
+    },
+    {
+     "s": "Since he first reunited Corrado’s medal, Zac says his record is now 5 for 5.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "自从他第一次让科拉多的勋章团聚以来，扎克说他的记录现在是5次成功5次。"
+    },
+    {
+     "s": "Moreover, the USA has a track record of successfully accepting immigrants.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "此外，美国有成功接纳移民的记录。"
+    },
+    {
+     "s": "“I knew if I recorded all of my parents’ recipes, it would be a great gift that I could give my family and the next generation.” she says.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我知道，如果我把父母的所有食谱都记录下来，那将是一份我可以送给家人和下一代的珍贵礼物，她说。"
+    },
+    {
+     "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
+    },
+    {
+     "s": "These scenes may have been painted hundreds of years ago, but they record moments we can all relate to.",
+     "src": "2023新课标II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这些场景也许是数百年前画下的，但它们记录了我们每个人都能感同身受的时刻。"
+    },
+    {
+     "s": "It has a digital display that records your steps, speed and distance, as well as monitoring your heart rate and calories burnt.",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "它有一个数字显示屏，记录你的步数、速度和距离，同时监测你的心率和消耗的卡路里。"
+    },
+    {
+     "s": "It will also give them a handy record to refer back to.",
+     "src": "2025浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "它还会给他们一份方便随时查阅的记录。"
+    },
+    {
+     "s": "To keep records of her progress.",
+     "src": "2024卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为了记录自己的进展。"
+    },
+    {
+     "s": "He established an office to keep records of the children, and then returned to Britain to find temporary homes for them.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "t": "他设立了一个办公室来记录这些孩子的情况，然后返回英国为他们寻找临时住所。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a thin round piece of plastic on which music, etc. is recorded 唱片",
+   "ex": []
+  },
+  {
+   "def": "a piece or collection of music released as a record, or on CD, the Internet, etc. 唱片；专辑",
+   "ex": []
+  },
+  {
+   "def": "the best result or the highest or lowest level that has ever been reached, especially in sport （尤指体育运动中最高或最低的）纪录",
+   "ex": []
+  },
+  {
+   "def": "the facts that are known about sb/sth's past behaviour, character, achievements, etc. （有关过去的）事实；记录；经历；功过",
+   "ex": [
     {
-      "def": "a written account of sth that is kept so that it can be looked at and used in the future 记录；记载",
-      "ex": [
-        {
-          "s": "In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在赶在物种灭绝前记录地球物种的竞赛中，研究人员和公民科学家已收集了数十亿条记录。"
-        },
-        {
-          "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。"
-        },
-        {
-          "s": "Their study revealed that the large number of observation-only records did not lead to better global coverage.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他们的研究表明，大量仅基于观察的记录并没有带来更好的全球覆盖。"
-        },
-        {
-          "s": "Hire experts to check the records.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "聘请专家核查记录。"
-        },
-        {
-          "s": "From the English side, we have scientific reports and the captain’s record of that terrible day.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "从英方那里，我们有科学报告和船长对那可怕一天的记录。"
-        },
-        {
-          "s": "His record was one-sided.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他的记录是片面的。"
-        },
-        {
-          "s": "It’s a record of a historic event.",
-          "src": "2020全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它是一桩历史事件的记录。"
-        },
-        {
-          "s": "After you’ve tried a new method for a week, take a look at your record.",
-          "src": "2017全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在尝试一种新方法一周后，看看你的记录。"
-        },
-        {
-          "s": "Since he first reunited Corrado’s medal, Zac says his record is now 5 for 5.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "自从他第一次让科拉多的勋章团聚以来，扎克说他的记录现在是5次成功5次。"
-        },
-        {
-          "s": "Moreover, the USA has a track record of successfully accepting immigrants.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "此外，美国有成功接纳移民的记录。"
-        },
-        {
-          "s": "“I knew if I recorded all of my parents’ recipes, it would be a great gift that I could give my family and the next generation.” she says.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我知道，如果我把父母的所有食谱都记录下来，那将是一份我可以送给家人和下一代的珍贵礼物，她说。"
-        },
-        {
-          "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
-        },
-        {
-          "s": "These scenes may have been painted hundreds of years ago, but they record moments we can all relate to.",
-          "src": "2023新课标II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这些场景也许是数百年前画下的，但它们记录了我们每个人都能感同身受的时刻。"
-        },
-        {
-          "s": "It has a digital display that records your steps, speed and distance, as well as monitoring your heart rate and calories burnt.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "它有一个数字显示屏，记录你的步数、速度和距离，同时监测你的心率和消耗的卡路里。"
-        },
-        {
-          "s": "It will also give them a handy record to refer back to.",
-          "src": "2025浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它还会给他们一份方便随时查阅的记录。"
-        },
-        {
-          "s": "To keep records of her progress.",
-          "src": "2024卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为了记录自己的进展。"
-        },
-        {
-          "s": "He established an office to keep records of the children, and then returned to Britain to find temporary homes for them.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "t": "他设立了一个办公室来记录这些孩子的情况，然后返回英国为他们寻找临时住所。"
-        }
-      ]
+     "s": "What do we know about the records of species collected now?",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "关于现在收集到的物种记录，我们知道什么？"
     },
     {
-      "def": "a thin round piece of plastic on which music, etc. is recorded 唱片",
-      "ex": []
+     "s": "But now is the time to set the record straight, which starts with questioning the idea that all social comparison is unhealthy.",
+     "src": "2025北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "但现在是纠正错误认知的时候了，而这要从质疑\"所有社会比较都不健康\"这种观点开始。"
     },
     {
-      "def": "a piece or collection of music released as a record, or on CD, the Internet, etc. 唱片；专辑",
-      "ex": []
+     "s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "尽管它们有助于发现一个地区物种数量和种类的变化，斯坦福的一项新研究发现这类记录并不完美。"
     },
     {
-      "def": "the best result or the highest or lowest level that has ever been reached, especially in sport （尤指体育运动中最高或最低的）纪录",
-      "ex": []
+     "s": "This track record makes ALife a ripe target for criticism, such as declarations of the field’s doubtful scientific value.",
+     "src": "2023北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这使得ALife成为批评的有力目标，例如对该领域科学价值的质疑。"
     },
     {
-      "def": "the facts that are known about sb/sth's past behaviour, character, achievements, etc. （有关过去的）事实；记录；经历；功过",
-      "ex": [
-        {
-          "s": "What do we know about the records of species collected now?",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "关于现在收集到的物种记录，我们知道什么？"
-        },
-        {
-          "s": "But now is the time to set the record straight, which starts with questioning the idea that all social comparison is unhealthy.",
-          "src": "2025北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "但现在是纠正错误认知的时候了，而这要从质疑\"所有社会比较都不健康\"这种观点开始。"
-        },
-        {
-          "s": "Though they are useful for detecting shifts in the number and variety of species in an area, a new Stanford study has found that this type of record is not perfect.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尽管它们有助于发现一个地区物种数量和种类的变化，斯坦福的一项新研究发现这类记录并不完美。"
-        },
-        {
-          "s": "This track record makes ALife a ripe target for criticism, such as declarations of the field’s doubtful scientific value.",
-          "src": "2023北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这使得ALife成为批评的有力目标，例如对该领域科学价值的质疑。"
-        },
-        {
-          "s": "Present past academic records to UCLA.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "向加州大学洛杉矶分校提交过去的学业成绩。"
-        },
-        {
-          "s": "Today, most records of biodiversity are often in the form of photos, videos, and other digital records.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "如今，大多数生物多样性记录往往以照片、视频和其他数字记录的形式存在。"
-        },
-        {
-          "s": "This makes sense because the people who get observational biodiversity data on mobile devices are often citizen scientists recording their encounters with species in areas nearby.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这样做是有道理的，因为在移动设备上获得观测生物多样性数据的人往往是公民科学家，记录他们在附近地区与物种的遭遇。"
-        },
-        {
-          "s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"
-        },
-        {
-          "s": "The English youngster noticed that pollution levels are around two-thirds higher close to the ground than they are in the air at the height where they are recorded by the agency.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位英国少年注意到，靠近地面的污染水平约为地面高度三分之二，而该高度的数据是由该机构记录的。"
-        }
-      ]
+     "s": "Present past academic records to UCLA.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "向加州大学洛杉矶分校提交过去的学业成绩。"
     },
     {
-      "def": "the fact of having committed crimes in the past 前科；犯罪记录",
-      "ex": []
+     "s": "Today, most records of biodiversity are often in the form of photos, videos, and other digital records.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "如今，大多数生物多样性记录往往以照片、视频和其他数字记录的形式存在。"
     },
     {
-      "def": "（希望载入正式记录）（仅）供记录",
-      "ex": [
-        {
-          "s": "If, at a later date, you wish to apply for a job or graduate school where an official copy of your UCLA record is required, it will be to your advantage to provide an impressive academic record.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
-        },
-        {
-          "s": "If you forget to officially drop that course, a “F” (Fail) grade will be registered on your record at the end of the term.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "如果你忘记正式退选那门课程，学期末你的成绩单上将记入一个“F”（不及格）成绩。"
-        }
-      ]
+     "s": "This makes sense because the people who get observational biodiversity data on mobile devices are often citizen scientists recording their encounters with species in areas nearby.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这样做是有道理的，因为在移动设备上获得观测生物多样性数据的人往往是公民科学家，记录他们在附近地区与物种的遭遇。"
     },
     {
-      "def": "（强调要点以引起注意）",
-      "ex": [
-        {
-          "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
-          "src": "2020天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "过去，音响工程师在录音棚的后室工作，但如今许多声音专业人士正与其他领域的专业人士分享知识和经验，以基于我们所谓的声音现象创造新产品。"
-        }
-      ]
+     "s": "Since I began thinking about this project in August 2011, the issue of sea-level rise and the need to place it historically have only become more urgent: between then and the end of 2022 the global sea rose by almost 5 centimeters, about half of the overall rise recorded by satellites since 1993.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "自从我在2011年8月开始思考这个项目，海平面上升的问题以及将其置于历史背景的必要性变得更加紧迫：从那时到2022年底，全球海平面上升了近5厘米，约为卫星自1993年以来记录的总升幅的一半。"
     },
     {
-      "def": "to keep a permanent account of facts or events by writing them down, filming them, storing them in a computer, etc. 记录；记载",
-      "ex": [
-        {
-          "s": "Keep a record and evaluate it weekly.",
-          "src": "2017全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "做好记录并每周评估。"
-        },
-        {
-          "s": "take pollutant readings            B. record pollutant levels",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "采集污染物读数            B. 记录污染物水平"
-        },
-        {
-          "s": "Why did Ms Young want to record her parents’ recipes?(no more than 15 words)",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "杨女士为什么想记录她父母的食谱？（不超过15个词）"
-        },
-        {
-          "s": "Make sure you fill in the attendance sheet at each session to record your attendance.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保每次课程都填写考勤表以记录出勤情况。"
-        },
-        {
-          "s": "People have been working together to record its migration and make sure that there are enough plants for it to feed on.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "人们一直在共同努力记录它的迁徙，并确保有足够的植物供它觅食。"
-        }
-      ]
-    },
-    {
-      "def": "to make a copy of music, a film/movie, etc. by storing it on tape or a disc so that you can listen to or watch it again 录制；录（音）；录（像）",
-      "ex": [
-        {
-          "s": "I recorded myself with confidence.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "老师让我们录下自己谈论假期的内容。"
-        },
-        {
-          "s": "Why did the author feel strange about herself after listening to the recording? (no more than 10 words)",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "听完录音后作者为什么觉得自己奇怪？（不超过10词）"
-        },
-        {
-          "s": "The teacher told us to record ourselves speaking about a holiday.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "老师让我们录下自己讲述一次假期的内容。"
-        },
-        {
-          "s": "My immediate reaction was to assume I was listening to someone else's recording.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的第一反应是以为我在听别人的录音。"
-        },
-        {
-          "s": "I gave the homeowner a recording of the hunger screams of owl chicks.",
-          "src": "2017全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "\"爵士乐似乎并不真正是美国人的胃口，\"莫兰告诉美国国家公共广播电台记者尼尔·科南。"
-        },
-        {
-          "s": "Examples and dialogues are recorded with real native speakers instead of automatic computers.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例句和对话是由真正的母语者录制的，而不是用自动电脑生成的。"
-        },
-        {
-          "s": "To record popular songs    B.",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "录制流行歌曲 B."
-        }
-      ]
-    },
-    {
-      "def": "to perform music so that it can be copied onto and kept on tape 演奏音乐供录制；灌（唱片）",
-      "ex": []
-    },
-    {
-      "def": "to make an official or legal statement about sth 发表正式（或法律方面的）声明；申明",
-      "ex": []
-    },
-    {
-      "def": "to show a particular measurement or amount 标明；显示",
-      "ex": [
-        {
-          "s": "Baggy has become the first dog in the UK—and potentially the world—to join the fight against air pollution by recording pollutant levels near the ground.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它的监测器显示，越接近地面，空气污染程度越高，这突显了一个令人担忧的问题：婴儿和幼儿患肺部疾病的风险可能更高。"
-        }
-      ]
+     "s": "The English youngster noticed that pollution levels are around two-thirds higher close to the ground than they are in the air at the height where they are recorded by the agency.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位英国少年注意到，靠近地面的污染水平约为地面高度三分之二，而该高度的数据是由该机构记录的。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the fact of having committed crimes in the past 前科；犯罪记录",
+   "ex": []
+  },
+  {
+   "def": "（希望载入正式记录）（仅）供记录",
+   "ex": [
     {
-      "en": "record pollutant",
-      "cn": "记录",
-      "type": "动词短语",
-      "count": 2
+     "s": "If, at a later date, you wish to apply for a job or graduate school where an official copy of your UCLA record is required, it will be to your advantage to provide an impressive academic record.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如果在以后的日子里，你申请的工作或研究生院需要你的加州大学洛杉矶分校成绩单的正式副本，那么提供一份令人印象深刻的学业记录将对你有好处。"
     },
     {
-      "en": "record your",
-      "cn": "记录你",
-      "type": "名词短语",
-      "count": 2
+     "s": "If you forget to officially drop that course, a “F” (Fail) grade will be registered on your record at the end of the term.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "如果你忘记正式退选那门课程，学期末你的成绩单上将记入一个“F”（不及格）成绩。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "（强调要点以引起注意）",
+   "ex": [
+    {
+     "s": "In the past, sound engineers worked in the back rooms of recording studios, but many of today's sound professionals are sharing their knowledge and experience with professionals in other fields to create new products based on the phenomenon we call sound.",
+     "src": "2020天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "过去，音响工程师在录音棚的后室工作，但如今许多声音专业人士正与其他领域的专业人士分享知识和经验，以基于我们所谓的声音现象创造新产品。"
+    }
+   ]
+  },
+  {
+   "def": "to keep a permanent account of facts or events by writing them down, filming them, storing them in a computer, etc. 记录；记载",
+   "ex": [
+    {
+     "s": "Keep a record and evaluate it weekly.",
+     "src": "2017全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "做好记录并每周评估。"
+    },
+    {
+     "s": "take pollutant readings            B. record pollutant levels",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "采集污染物读数            B. 记录污染物水平"
+    },
+    {
+     "s": "Why did Ms Young want to record her parents’ recipes?(no more than 15 words)",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "杨女士为什么想记录她父母的食谱？（不超过15个词）"
+    },
+    {
+     "s": "Make sure you fill in the attendance sheet at each session to record your attendance.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "确保每次课程都填写考勤表以记录出勤情况。"
+    },
+    {
+     "s": "People have been working together to record its migration and make sure that there are enough plants for it to feed on.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "人们一直在共同努力记录它的迁徙，并确保有足够的植物供它觅食。"
+    }
+   ]
+  },
+  {
+   "def": "to make a copy of music, a film/movie, etc. by storing it on tape or a disc so that you can listen to or watch it again 录制；录（音）；录（像）",
+   "ex": [
+    {
+     "s": "I recorded myself with confidence.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "老师让我们录下自己谈论假期的内容。"
+    },
+    {
+     "s": "Why did the author feel strange about herself after listening to the recording? (no more than 10 words)",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "听完录音后作者为什么觉得自己奇怪？（不超过10词）"
+    },
+    {
+     "s": "The teacher told us to record ourselves speaking about a holiday.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "老师让我们录下自己讲述一次假期的内容。"
+    },
+    {
+     "s": "My immediate reaction was to assume I was listening to someone else's recording.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的第一反应是以为我在听别人的录音。"
+    },
+    {
+     "s": "I gave the homeowner a recording of the hunger screams of owl chicks.",
+     "src": "2017全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "\"爵士乐似乎并不真正是美国人的胃口，\"莫兰告诉美国国家公共广播电台记者尼尔·科南。"
+    },
+    {
+     "s": "Examples and dialogues are recorded with real native speakers instead of automatic computers.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例句和对话是由真正的母语者录制的，而不是用自动电脑生成的。"
+    },
+    {
+     "s": "To record popular songs    B.",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "录制流行歌曲 B."
+    }
+   ]
+  },
+  {
+   "def": "to perform music so that it can be copied onto and kept on tape 演奏音乐供录制；灌（唱片）",
+   "ex": []
+  },
+  {
+   "def": "to make an official or legal statement about sth 发表正式（或法律方面的）声明；申明",
+   "ex": []
+  },
+  {
+   "def": "to show a particular measurement or amount 标明；显示",
+   "ex": [
+    {
+     "s": "Baggy has become the first dog in the UK—and potentially the world—to join the fight against air pollution by recording pollutant levels near the ground.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它的监测器显示，越接近地面，空气污染程度越高，这突显了一个令人担忧的问题：婴儿和幼儿患肺部疾病的风险可能更高。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "record pollutant",
+   "cn": "记录",
+   "type": "动词短语",
+   "count": 2
+  }
+ ]
 }
