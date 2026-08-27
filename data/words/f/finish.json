@@ -1,248 +1,235 @@
 {
-  "meta": {
-    "ph": "ˈfɪnɪʃ; NAmE ˈfɪnɪʃ",
-    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈfɪnɪʃ; NAmE ˈfɪnɪʃ",
+  "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to stop doing sth or making sth because it is complete 完成；做好",
+   "ex": [
+    {
+     "s": "Unable to keep my eyes open, I decided I had no choice but to finish my homework the next morning.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我困得睁不开眼，于是决定别无选择，只能在第二天早上完成作业。"
+    },
+    {
+     "s": "After finishing an order, she calls out the name on the cup.",
+     "src": "2025新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "完成一单后，她会喊出杯子上写的名字。"
+    },
+    {
+     "s": "When I finally finished it, the thought of winning had given way to the enjoyment of writing.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我最终完成它的时候，胜利的想法已经让位于对写作的享受。"
+    },
+    {
+     "s": "When I finally finished it, the thought of winning had given way to the enjoyment of writing.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我最终完成它的时候，胜利的想法已经让位于对写作的享受。"
+    },
+    {
+     "s": "I can finish the report on my own.",
+     "src": "2023天津6月卷·一、单项选择",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我可以独自完成这份报告。"
+    },
+    {
+     "s": "David had not missed a single practice, and although he always finished his run long after the other children, he did always finish.",
+     "src": "2022全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "David没有错过一次训练，虽然他总是在其他孩子很久之后就完成了跑步，但他总是会完成。"
+    },
+    {
+     "s": "David had not missed a single practice, and although he always finished his run long after the other children, he did always finish.",
+     "src": "2022全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "David没有错过一次训练，虽然他总是在其他孩子很久之后就完成了跑步，但他总是会完成。"
+    },
+    {
+     "s": "Finish it all at once.",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一次性全部完成。"
+    },
+    {
+     "s": "By what time did John plan to finish his term paper?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "John计划什么时候完成学期论文？"
+    },
+    {
+     "s": "Praising the effort and not the outcome can also mean recognizing your child when she has worked hard to clean the yard, cook dinner, or finish a book report.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "表扬努力而非结果，也意味着当孩子努力清扫院子、做饭或完成读书报告时认可她。"
+    },
+    {
+     "s": "But I finished!",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他中途放弃了。"
+    },
+    {
+     "s": "His hands were shaking by the time he had finished reading.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "他读完后，双手在颤抖。"
+    },
+    {
+     "s": "When you have finished listening, try to work out the meaning from the context of the word.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "听完之后，试着从词的上下文来理解它的意思。"
+    },
+    {
+     "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
+    },
+    {
+     "s": "I was one of the final runners to finish.",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我是最后完成的跑步者之一。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to come to an end; to bring sth to an end （使）结束",
+   "ex": []
+  },
+  {
+   "def": "to eat, drink or use what remains of sth 吃完，喝光，用尽（所剩之物）",
+   "ex": [
     {
-      "def": "to stop doing sth or making sth because it is complete 完成；做好",
-      "ex": [
-        {
-          "s": "Unable to keep my eyes open, I decided I had no choice but to finish my homework the next morning.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我困得睁不开眼，于是决定别无选择，只能在第二天早上完成作业。"
-        },
-        {
-          "s": "After finishing an order, she calls out the name on the cup.",
-          "src": "2025新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "完成一单后，她会喊出杯子上写的名字。"
-        },
-        {
-          "s": "When I finally finished it, the thought of winning had given way to the enjoyment of writing.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我最终完成它的时候，胜利的想法已经让位于对写作的享受。"
-        },
-        {
-          "s": "When I finally finished it, the thought of winning had given way to the enjoyment of writing.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我最终完成它的时候，胜利的想法已经让位于对写作的享受。"
-        },
-        {
-          "s": "I can finish the report on my own.",
-          "src": "2023天津6月卷·一、单项选择",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我可以独自完成这份报告。"
-        },
-        {
-          "s": "David had not missed a single practice, and although he always finished his run long after the other children, he did always finish.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "David没有错过一次训练，虽然他总是在其他孩子很久之后就完成了跑步，但他总是会完成。"
-        },
-        {
-          "s": "David had not missed a single practice, and although he always finished his run long after the other children, he did always finish.",
-          "src": "2022全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "David没有错过一次训练，虽然他总是在其他孩子很久之后就完成了跑步，但他总是会完成。"
-        },
-        {
-          "s": "Finish it all at once.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一次性全部完成。"
-        },
-        {
-          "s": "By what time did John plan to finish his term paper?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "John计划什么时候完成学期论文？"
-        },
-        {
-          "s": "Praising the effort and not the outcome can also mean recognizing your child when she has worked hard to clean the yard, cook dinner, or finish a book report.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "表扬努力而非结果，也意味着当孩子努力清扫院子、做饭或完成读书报告时认可她。"
-        },
-        {
-          "s": "But I finished!",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他中途放弃了。"
-        },
-        {
-          "s": "His hands were shaking by the time he had finished reading.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "他读完后，双手在颤抖。"
-        },
-        {
-          "s": "When you have finished listening, try to work out the meaning from the context of the word.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "听完之后，试着从词的上下文来理解它的意思。"
-        },
-        {
-          "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
-        },
-        {
-          "s": "I was one of the final runners to finish.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我是最后完成的跑步者之一。"
-        }
-      ]
+     "s": "just two seats over，Andrew Mazoleny，a local videographer，is finishing his lunch at the bar.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "只隔两个座位，当地摄像师安德鲁·马佐莱尼正在吧台吃完他的午餐。"
     },
     {
-      "def": "to come to an end; to bring sth to an end （使）结束",
-      "ex": []
-    },
-    {
-      "def": "to eat, drink or use what remains of sth 吃完，喝光，用尽（所剩之物）",
-      "ex": [
-        {
-          "s": "just two seats over，Andrew Mazoleny，a local videographer，is finishing his lunch at the bar.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "只隔两个座位，当地摄像师安德鲁·马佐莱尼正在吧台吃完他的午餐。"
-        },
-        {
-          "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一旦每位家庭成员都读完了每本杂志，你就可以把它们用于艺术和写作项目。"
-        }
-      ]
-    },
-    {
-      "def": "to be in a particular state or position at the end of a race or a competition （赛跑、竞赛）得 … 名；获 … 成绩",
-      "ex": []
-    },
-    {
-      "def": "to make sb so tired or impatient that they cannot do any more 使筋疲力尽；使失去耐心",
-      "ex": [
-        {
-          "s": "The night before my marathon, I dreamt that I couldn’t even find the finish line.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在我参加马拉松的前一晚，我梦见自己甚至找不到终点线。"
-        }
-      ]
-    },
-    {
-      "def": "to end a relationship with sb 与（某人）断绝关系",
-      "ex": []
-    },
-    {
-      "def": "to stop dealing with a person 停止和（某人）打交道",
-      "ex": []
-    },
-    {
-      "def": "to no longer need to use sth 不再需用（某物）",
-      "ex": []
-    },
-    {
-      "def": "to stop doing sth 不再做（某事）",
-      "ex": []
-    },
-    {
-      "def": "the last part or the end of sth 最后部分；结尾；结局",
-      "ex": [
-        {
-          "s": "I had just finished reading The Mill on the Floss by George Eliot, and I was heartbroken with the ending.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我刚读完乔治·艾略特的《弗洛斯河上的磨坊》，对结局感到心碎。"
-        },
-        {
-          "s": "All we have to do is finish the last bit of work.",
-          "src": "2021天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们要做的只剩下最后一点工作了。"
-        },
-        {
-          "s": "Be Nice-You Won’t Finish Last",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "友善一点——你不会垫底"
-        },
-        {
-          "s": "Alistair ran towards Jonny, caught him and started pulling him towards the finish line.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "阿利斯泰尔跑向乔尼，抓住了他，开始把他拉向终点线。"
-        },
-        {
-          "s": "When Coach Pitt said “Nice work!” to her at the finish line, Eva was surprised.",
-          "src": "2024浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当皮特教练在终点线对她说\"干得好！\"时，伊娃很惊讶。"
-        }
-      ]
-    },
-    {
-      "def": "the last covering of paint, polish, etc. that is put onto the surface of sth; the condition of the surface 末道漆；抛光；（漆完抛光后的）成品表面",
-      "ex": [
-        {
-          "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
-        }
-      ]
-    },
-    {
-      "def": "the final details that are added to sth to make it complete 最后精细加工",
-      "ex": [
-        {
-          "s": "When your children are finished with their magazines encourage them to pass their issue on to a sibling or other family member.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当孩子们读完杂志，鼓励他们把那期传给兄弟姐妹或其他家人。"
-        }
-      ]
+     "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一旦每位家庭成员都读完了每本杂志，你就可以把它们用于艺术和写作项目。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to be in a particular state or position at the end of a race or a competition （赛跑、竞赛）得 … 名；获 … 成绩",
+   "ex": []
+  },
+  {
+   "def": "to make sb so tired or impatient that they cannot do any more 使筋疲力尽；使失去耐心",
+   "ex": [
     {
-      "en": "finish line",
-      "cn": "完成线",
-      "type": "名词短语",
-      "count": 4
+     "s": "The night before my marathon, I dreamt that I couldn’t even find the finish line.",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在我参加马拉松的前一晚，我梦见自己甚至找不到终点线。"
+    }
+   ]
+  },
+  {
+   "def": "to end a relationship with sb 与（某人）断绝关系",
+   "ex": []
+  },
+  {
+   "def": "to stop dealing with a person 停止和（某人）打交道",
+   "ex": []
+  },
+  {
+   "def": "to no longer need to use sth 不再需用（某物）",
+   "ex": []
+  },
+  {
+   "def": "to stop doing sth 不再做（某事）",
+   "ex": []
+  },
+  {
+   "def": "the last part or the end of sth 最后部分；结尾；结局",
+   "ex": [
+    {
+     "s": "I had just finished reading The Mill on the Floss by George Eliot, and I was heartbroken with the ending.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我刚读完乔治·艾略特的《弗洛斯河上的磨坊》，对结局感到心碎。"
     },
     {
-      "en": "finish it",
-      "cn": "完成它",
-      "type": "名词短语",
-      "count": 3
+     "s": "All we have to do is finish the last bit of work.",
+     "src": "2021天津3月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我们要做的只剩下最后一点工作了。"
+    },
+    {
+     "s": "Be Nice-You Won’t Finish Last",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "友善一点——你不会垫底"
+    },
+    {
+     "s": "Alistair ran towards Jonny, caught him and started pulling him towards the finish line.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "阿利斯泰尔跑向乔尼，抓住了他，开始把他拉向终点线。"
+    },
+    {
+     "s": "When Coach Pitt said “Nice work!” to her at the finish line, Eva was surprised.",
+     "src": "2024浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "当皮特教练在终点线对她说\"干得好！\"时，伊娃很惊讶。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the last covering of paint, polish, etc. that is put onto the surface of sth; the condition of the surface 末道漆；抛光；（漆完抛光后的）成品表面",
+   "ex": [
+    {
+     "s": "Alistair pushed himself towards the finish line in the burning heat, but as he came round the corner, he saw his brother about to fall onto the track.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "阿利斯泰尔在燃烧的热量中将自己推向终点线，但当他来到拐角处时，他看见他的兄弟即将掉到赛道上。"
+    }
+   ]
+  },
+  {
+   "def": "the final details that are added to sth to make it complete 最后精细加工",
+   "ex": [
+    {
+     "s": "When your children are finished with their magazines encourage them to pass their issue on to a sibling or other family member.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当孩子们读完杂志，鼓励他们把那期传给兄弟姐妹或其他家人。"
+    }
+   ]
+  }
+ ],
+ "chunks": []
 }
