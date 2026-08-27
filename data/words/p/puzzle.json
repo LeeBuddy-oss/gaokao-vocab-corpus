@@ -1,154 +1,141 @@
 {
-  "meta": {
-    "ph": "ˈpʌzl; NAmE ˈpʌzl",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈpʌzl; NAmE ˈpʌzl",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a game, etc. that you have to think about carefully in order to answer it or do it 谜；智力游戏",
+   "ex": [
+    {
+     "s": "What puzzles Lily's friends is                   she always has so many crazy ideas.",
+     "src": "2021天津3月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "让莉莉的朋友们困惑的是                   她总是有那么多疯狂的想法。"
+    },
+    {
+     "s": "worriedB. puzzled",
+     "src": "2021北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "担忧 B. 困惑"
+    },
+    {
+     "s": "Some parents will buy any high-tech toy if they think it will help their child, but researchers said puzzles help children with math-related skills.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "有些父母只要认为有助于孩子就会购买任何高科技玩具，但研究人员说玩具有助于孩子培养与数学相关的技能。"
+    },
+    {
+     "s": "Psychologist Susan Levine, an expert on mathematics development in young children the University of Chicago, found children who play with puzzles between ages 2 and 4 later develop better spatial skills.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "芝加哥大学儿童数学发展专家、心理学家苏珊·莱文发现，在2到4岁之间玩拼图的孩子，日后会发展出更好的空间技能。"
+    },
+    {
+     "s": "The researchers analyzed video recordings of 53 child-parent pairs during everyday activities at home and found children who play with puzzles between 26 and 46 months of age have better spatial skills when assessed at 54 months of age.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "研究者分析了53对亲子在家日常活动中的录像，发现26至46个月大时玩拼图的孩子，在54个月大评估时空间技能更好。"
+    },
+    {
+     "s": "The parents were asked to interact with their children as they normally would, and about half of children in the study played with puzzles at one time.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "父母被要求像平时一样和孩子互动，研究中约一半的孩子曾同时玩拼图。"
+    },
+    {
+     "s": "Higher-income parents tended to have children play with puzzles more frequently, and both boys and girls who played with puzzles had better spatial skills.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "高收入家庭的孩子更频繁地玩拼图，玩拼图的男孩和女孩都有更好的空间技能。"
+    },
+    {
+     "s": "However, boys tended to play with more complex puzzles than girls, and the parents of boys provided more spatial language and were more active during puzzle play than parents of girls.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然而，男孩往往比女孩玩更复杂的拼图，男孩的父母提供更多空间语言，并在拼图游戏中比女孩的父母更积极。"
+    },
+    {
+     "s": "In which aspect do children benefit from puzzle play?",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "孩子们从玩拼图中在哪个方面受益？"
+    },
+    {
+     "s": "How do boy differ from girls in puzzle play?",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男孩和女孩在玩拼图时有什么不同？"
+    },
+    {
+     "s": "They play with puzzles more often.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们更常玩拼图。"
+    },
+    {
+     "s": "They are likely to play with tougher puzzles.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们可能玩更有挑战性的拼图。"
+    },
+    {
+     "s": "Includes a Mammoth Map, a passport Puzzle Booklet, and Subscription",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "包含一张猛犸地图、一本护照拼图小册子以及订阅服务"
+    },
+    {
+     "s": "Getting to know a little bit about British history will help you solve this puzzle.",
+     "src": "人教B2 U4",
+     "cat": "renjiao",
+     "t": "了解一下英国历史将会帮助你解开这个谜。"
+    },
+    {
+     "s": "Check their meanings and complete the sentences below with the correct forms of the words from the puzzle.",
+     "src": "人教B2 U5",
+     "cat": "renjiao",
+     "t": "检查它们的含义，并用填字游戏中的单词的正确形式完成下面的句子。"
+    },
+    {
+     "s": "Build up your vocabulary 1 Think of a word that best fits each definition and complete the crossword puzzle.",
+     "src": "人教选必2 U2",
+     "cat": "renjiao",
+     "t": "积累你的词汇 1 想出最适合每个定义的单词，完成填字游戏。"
+    },
+    {
+     "s": "NowIdo4 crossroads /crosswords in the newspaper and other word5puzzles/puddlesIfind online.Ithelpskeepme alert and mymindfeelsclear.Ialso realised thatmydiet was reallypoor and full of 6 junk /joint food.",
+     "src": "北师大选必3 U9",
+     "cat": "beishida",
+     "t": "现在我做一些报纸上的填字游戏，以及我在网上找到的其他填词游戏。这有助于我保持头脑清醒和警觉。我还意识到我的饮食真的很差，充满了垃圾食品。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "something that is difficult to understand or explain 不解之谜；疑问",
+   "ex": [
     {
-      "def": "a game, etc. that you have to think about carefully in order to answer it or do it 谜；智力游戏",
-      "ex": [
-        {
-          "s": "What puzzles Lily's friends is                   she always has so many crazy ideas.",
-          "src": "2021天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "让莉莉的朋友们困惑的是                   她总是有那么多疯狂的想法。"
-        },
-        {
-          "s": "worriedB. puzzled",
-          "src": "2021北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "担忧 B. 困惑"
-        },
-        {
-          "s": "Some parents will buy any high-tech toy if they think it will help their child, but researchers said puzzles help children with math-related skills.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有些父母只要认为有助于孩子就会购买任何高科技玩具，但研究人员说玩具有助于孩子培养与数学相关的技能。"
-        },
-        {
-          "s": "Psychologist Susan Levine, an expert on mathematics development in young children the University of Chicago, found children who play with puzzles between ages 2 and 4 later develop better spatial skills.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "芝加哥大学儿童数学发展专家、心理学家苏珊·莱文发现，在2到4岁之间玩拼图的孩子，日后会发展出更好的空间技能。"
-        },
-        {
-          "s": "The researchers analyzed video recordings of 53 child-parent pairs during everyday activities at home and found children who play with puzzles between 26 and 46 months of age have better spatial skills when assessed at 54 months of age.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "研究者分析了53对亲子在家日常活动中的录像，发现26至46个月大时玩拼图的孩子，在54个月大评估时空间技能更好。"
-        },
-        {
-          "s": "The parents were asked to interact with their children as they normally would, and about half of children in the study played with puzzles at one time.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "父母被要求像平时一样和孩子互动，研究中约一半的孩子曾同时玩拼图。"
-        },
-        {
-          "s": "Higher-income parents tended to have children play with puzzles more frequently, and both boys and girls who played with puzzles had better spatial skills.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "高收入家庭的孩子更频繁地玩拼图，玩拼图的男孩和女孩都有更好的空间技能。"
-        },
-        {
-          "s": "However, boys tended to play with more complex puzzles than girls, and the parents of boys provided more spatial language and were more active during puzzle play than parents of girls.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然而，男孩往往比女孩玩更复杂的拼图，男孩的父母提供更多空间语言，并在拼图游戏中比女孩的父母更积极。"
-        },
-        {
-          "s": "In which aspect do children benefit from puzzle play?",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "孩子们从玩拼图中在哪个方面受益？"
-        },
-        {
-          "s": "How do boy differ from girls in puzzle play?",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男孩和女孩在玩拼图时有什么不同？"
-        },
-        {
-          "s": "They play with puzzles more often.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们更常玩拼图。"
-        },
-        {
-          "s": "They are likely to play with tougher puzzles.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们可能玩更有挑战性的拼图。"
-        },
-        {
-          "s": "Includes a Mammoth Map, a passport Puzzle Booklet, and Subscription",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "包含一张猛犸地图、一本护照拼图小册子以及订阅服务"
-        },
-        {
-          "s": "Getting to know a little bit about British history will help you solve this puzzle.",
-          "src": "人教B2 U4",
-          "cat": "renjiao",
-          "t": "了解一下英国历史将会帮助你解开这个谜。"
-        },
-        {
-          "s": "Check their meanings and complete the sentences below with the correct forms of the words from the puzzle.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "检查它们的含义，并用填字游戏中的单词的正确形式完成下面的句子。"
-        },
-        {
-          "s": "Build up your vocabulary 1 Think of a word that best fits each definition and complete the crossword puzzle.",
-          "src": "人教选必2 U2",
-          "cat": "renjiao",
-          "t": "积累你的词汇 1 想出最适合每个定义的单词，完成填字游戏。"
-        },
-        {
-          "s": "NowIdo4 crossroads /crosswords in the newspaper and other word5puzzles/puddlesIfind online.Ithelpskeepme alert and mymindfeelsclear.Ialso realised thatmydiet was reallypoor and full of 6 junk /joint food.",
-          "src": "北师大选必3 U9",
-          "cat": "beishida",
-          "t": "现在我做一些报纸上的填字游戏，以及我在网上找到的其他填词游戏。这有助于我保持头脑清醒和警觉。我还意识到我的饮食真的很差，充满了垃圾食品。"
-        }
-      ]
-    },
-    {
-      "def": "something that is difficult to understand or explain 不解之谜；疑问",
-      "ex": [
-        {
-          "s": "Many people spoke of them, puzzled and disturbed.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "许多人说起它们，既困惑又不安。"
-        }
-      ]
+     "s": "Many people spoke of them, puzzled and disturbed.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "许多人说起它们，既困惑又不安。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "puzzle play",
-      "cn": "谜玩耍",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "puzzle more",
-      "cn": "谜更",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
