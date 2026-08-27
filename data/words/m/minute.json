@@ -1,498 +1,461 @@
 {
-  "meta": {
-    "ph": "ˈmɪnɪt; NAmE ˈmɪnɪt",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈmɪnɪt; NAmE ˈmɪnɪt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "each of the 60 parts of an hour, that are equal to 60 seconds 分钟；分",
+   "ex": [
+    {
+     "s": "A 35-minute hand-clapping, foot-stomping musical version of a Mark Twain favorite returns with this Tall Stacks festival.",
+     "src": "2024浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一部35分钟、令人拍手顿足的音乐版马克·吐温名作，随Tall Stacks艺术节回归。"
+    },
+    {
+     "s": "To a child, every minute feels like forever.",
+     "src": "2022北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对孩子来说，每一分钟都像永远。"
+    },
+    {
+     "s": "Hotel and Hostel Des Artistes is located just a 10-minute walk from the central city station and it’s close to all of the city’s main attractions.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "艺术家酒店兼青旅距市中心车站仅10分钟步行路程，靠近城市所有主要景点。"
+    },
+    {
+     "s": "The next minute, the porridge boiled over and put out the fire.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "幸好杰夫保持冷静，迅速关掉了煤气。"
+    },
+    {
+     "s": "The next minute, the porridge boiled over and put out the fire.",
+     "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "幸好杰夫保持冷静，迅速关掉了煤气。"
+    },
+    {
+     "s": "Let’s take a minute to think about the water we use.",
+     "src": "2020浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "让我们花一分钟想想我们所使用的水。"
+    },
+    {
+     "s": "I hardly have a minute to myself. ”",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“我几乎连一分钟属于自己的时间都没有。”"
+    },
+    {
+     "s": "But a minute later, it was by his side again.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但一分钟后，它又来到他身边。"
+    },
+    {
+     "s": "To make some of my landscape shots, I have traveled up to four hours away to shoot within a 10-minute time frame.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "为了拍摄我的一些风景照，我曾驱车长达四小时，只为在十分钟的时间窗口内拍摄。"
+    },
+    {
+     "s": "It takes sunscreen about fifteen minutes to start working, and that's plenty of time for your skin to absorb a day's worth of Vitamin D.",
+     "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这需要15分钟的防晒霜才能开始工作，那么你的皮肤就有足够的时间吸收一天的维生素D."
+    },
+    {
+     "s": "I have missed plenty of beautiful sunsets/sunrises due to being on the spot only five minutes before the best moment.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "由于只在最佳时刻前五分钟赶到现场，我错过了许多美丽的日落和日出。"
+    },
+    {
+     "s": "I decided to play with him with only one toy for as long as it would keep his interest I expected that one toy would keep his attention for about five minutes, ten minutes, max I chose a red rubber ball—simple, universally available.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我决定只用一个玩具陪他玩，只要还能吸引他的兴趣就行；我估计一个玩具大概能让他专注五分钟，最多十分钟。我选了一个红色的橡皮球——简单、随处可见。"
+    },
+    {
+     "s": "I took down one of the dictionaries, and we read it together for a few minutes before I handed it to him.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我取下其中一本词典，我们一起读了几分钟，然后递给了他。"
+    },
+    {
+     "s": "To stay warm, she ran her engine for a few minutes every now and then.",
+     "src": "2026新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "为了保暖，她时不时把引擎发动几分钟。"
+    },
+    {
+     "s": "Spend a few minutes reading the material aloud.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "花几分钟大声朗读材料。"
+    },
+    {
+     "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
+    },
+    {
+     "s": "I touched down in Vienna just 30 minutes before the departure of the last bus to Prague.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我在维也纳降落时，距离开往布拉格的末班车发车只剩30分钟。"
+    },
+    {
+     "s": "Finally, with just two minutes to spare we rolled into the bus station.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "最后，我们提前两分钟赶到了汽车站。"
+    },
+    {
+     "s": "I touched down in Vienna just 30 minutes before the departure of the last bus to Prague.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我在维也纳降落时，距离开往布拉格的末班车发车只剩30分钟。"
+    },
+    {
+     "s": "Finally, with just two minutes to spare we rolled into the bus station.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "最后，我们提前两分钟赶到了汽车站。"
+    },
+    {
+     "s": "Each child was told if they waited for 15 minutes before eating the treat, they would be given a second treat.",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "每个孩子都被告知，如果他们在吃零食前等待15分钟，就会再得到一份零食。"
+    },
+    {
+     "s": "Put off watching your favorite show until the weekend or wait 10 extra minutes before going for that cake.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "将您最喜爱的节目推迟到周末观看，或额外等待10分钟后再去吃蛋糕。"
+    },
+    {
+     "s": "She put the new color on her hair or sat still for 30 minutes, just as the directions saying.",
+     "src": "2023全国乙卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她把染发剂涂在头发上，然后静坐了30分钟，就像说明书上写的那样。"
+    },
+    {
+     "s": "That lasted about ten minutes.",
+     "src": "2022全国新高考I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "那持续了约十分钟。"
+    },
+    {
+     "s": "Anyway, grandpa is now an internet star—two minutes of fame!",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "不管怎样，爷爷现在是个网络明星——两分钟的名气！"
+    },
+    {
+     "s": "36   When you are first trying to think of ideas for an essay, put your pen to your paper and write nonstop for ten or fifteen minutes without letting your pen leave the paper.",
+     "src": "2022全国新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "36 当你最初试图为论文想点子时，把笔放在纸上，连续写十到十五分钟，不让笔离开纸。"
+    },
+    {
+     "s": "He hung on for a few minutes   61   screamed for his father, but his father didn't hear him.",
+     "src": "2022全国新高考II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他抓住栏杆坚持了几分钟，   61  尖叫着喊他爸爸，但他爸爸没听到。"
+    },
+    {
+     "s": "When a plane is leaving in 15 minutes and the door is closing, what else can we suggest but: “Run!",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当一架飞机还有15分钟就要起飞、舱门即将关闭时，除了建议\"快跑！"
+    },
+    {
+     "s": "Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "一些音乐片段可以进行40分钟，需要长达50页的翻转，包括重复段落的回转。"
+    },
+    {
+     "s": "A few minutes later, when I landed the trick, my friends beat their boards loud, shouting: “ Safe!",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "几分钟后，当我成功完成那个技巧时，朋友们大声拍板，喊着：稳了！"
+    },
+    {
+     "s": "Every straw that' s part of Von Wong's artwork likely came from a drink that someone used for only a few minutes.",
+     "src": "2021全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "冯·王艺术作品中的每一根吸管，很可能都来自某人只用了几分钟的一杯饮料。"
+    },
+    {
+     "s": "There are two parks less than 10 minutes’ walk from home where neighbourhood children gather to play.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "离家不到10分钟步行路程就有两个公园，附近的孩子聚在那里玩耍。"
+    },
+    {
+     "s": "The curtains are about to open, and in a few minutes the action and dialogue will tell you the story.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "幕布即将拉开，几分钟内的动作与对白将为你讲述这个故事。"
+    },
+    {
+     "s": "He told me a helicopter was on its way，but it would be 30 minutes before it arrived.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他告诉我一架直升机正在赶来，但要过30分钟才能到达。"
+    },
+    {
+     "s": "Significantly, all Harbour Air routes last less than 30 minutes, making it perfectly fit for electric engines.",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "值得注意的是，所有港湾航空的航线时长都不到30分钟，这使其非常适合使用电动发动机。"
+    },
+    {
+     "s": "Performance： A dramatic presentation of the topic no more than 10 minutes long． If special clothes are used， they should truly represent a given period．",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "表演：对该主题进行的戏剧性展示，时长不超过10分钟。若使用了特殊服装，应真实代表某个特定时期。"
+    },
+    {
+     "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
+     "src": "2018全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
+    },
+    {
+     "s": "A few minutes late, the instructor asked me to stop the car.",
+     "src": "2017全国I卷·短文改错",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "几分钟后，教练让我把车停下来。"
+    },
+    {
+     "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
+    },
+    {
+     "s": "Duration: 1 hour and 30 minutes",
+     "src": "2017全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "时长：1小时30分钟"
+    },
+    {
+     "s": "Minutes after the last movie ended yesterday at the Plaza Theater, employees were busy sweeping up popcorns and gathering coke cups.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "昨天，广场影院最后一场电影结束后几分钟，员工们就开始忙着清扫爆米花和收集可乐杯。"
+    },
+    {
+     "s": "Reconsider the 15 minutes you spend in line at the café to get coffee.",
+     "src": "2017全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "重新考虑你在咖啡馆排队买咖啡所花费的那15分钟。"
+    },
+    {
+     "s": "● 34  Each interview that you get on the street shouldn’t be longer than ten minutes.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "● 34 你在街头做的每次采访不应超过十分钟。"
+    },
+    {
+     "s": "A few minutes later，the other two cyclists arrived.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "几分钟后，另外两名骑车人赶到了。"
+    },
+    {
+     "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
+    },
+    {
+     "s": "Each lesson lasts for 45 minutes.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "每节课持续45分钟。"
+    },
+    {
+     "s": "The sugar in soft drinks forms acid and attacks our teeth for about 20 minutes each time we drink them.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "软饮料中的糖会形成酸，每次饮用时都会侵蚀我们的牙齿约 20 分钟。"
+    },
+    {
+     "s": "Depending on regional customs, it may be acceptable to be 15 to 30 minutes late.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "t": "根据当地习俗，迟到15到30分钟可能是可以接受的。"
+    },
+    {
+     "s": "If you spend more than eight minutes in a shower, you’ll use as much water as in a bath - about 50 litres of water.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "如果你在淋浴里待超过八分钟，用水量就和洗一次澡差不多——大约50升水。"
+    },
+    {
+     "s": "I'll be ready in fifteen minutes!\" b \"Sounds interesting.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "我十五分钟后准备好！＂ b ＂听起来很有趣。"
+    },
+    {
+     "s": "Spend a few minutes looking through the book.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "花几分钟翻阅这本书。"
+    },
+    {
+     "s": "\"Just five more minutes outdoors can make a difference,\" David Bond says.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“只要在户外再多五分钟就能带来改变，”大卫·邦德说。"
+    },
+    {
+     "s": "Elli and I feared the fence wouldn't last through 30 more minutes of the bear's punishment.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Elli和我担心栅栏撑不过熊再30分钟的破坏。"
+    },
+    {
+     "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "纪录片：一种视觉展示（如视频、幻灯片或电脑作品），时长不超过10分钟。将提供台式电脑、屏幕、投影仪和扬声器。学生必须在3月23日星期五之前将展示内容刻录在CD上提交。"
+    },
+    {
+     "s": "﹣                 ． She will be here in about twenty minutes．（  ）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "﹣                 ．她大约二十分钟后到。（  ）"
+    },
+    {
+     "s": "In roughly 15 minutes, the movers inflated the airbags to about three feet in diameter to raise the root ball to the surface of the hole.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "大约15分钟内，搬运工把气囊充到约3英尺直径，把根球抬到坑面。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a very short time 一会儿；一会儿的工夫",
+   "ex": [
     {
-      "def": "each of the 60 parts of an hour, that are equal to 60 seconds 分钟；分",
-      "ex": [
-        {
-          "s": "A 35-minute hand-clapping, foot-stomping musical version of a Mark Twain favorite returns with this Tall Stacks festival.",
-          "src": "2024浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一部35分钟、令人拍手顿足的音乐版马克·吐温名作，随Tall Stacks艺术节回归。"
-        },
-        {
-          "s": "To a child, every minute feels like forever.",
-          "src": "2022北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对孩子来说，每一分钟都像永远。"
-        },
-        {
-          "s": "Hotel and Hostel Des Artistes is located just a 10-minute walk from the central city station and it’s close to all of the city’s main attractions.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "艺术家酒店兼青旅距市中心车站仅10分钟步行路程，靠近城市所有主要景点。"
-        },
-        {
-          "s": "The next minute, the porridge boiled over and put out the fire.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "幸好杰夫保持冷静，迅速关掉了煤气。"
-        },
-        {
-          "s": "The next minute, the porridge boiled over and put out the fire.",
-          "src": "2021新高考II卷·A MOTHER’S DAY SURPRISE",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "幸好杰夫保持冷静，迅速关掉了煤气。"
-        },
-        {
-          "s": "Let’s take a minute to think about the water we use.",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让我们花一分钟想想我们所使用的水。"
-        },
-        {
-          "s": "I hardly have a minute to myself. ”",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“我几乎连一分钟属于自己的时间都没有。”"
-        },
-        {
-          "s": "But a minute later, it was by his side again.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但一分钟后，它又来到他身边。"
-        },
-        {
-          "s": "To make some of my landscape shots, I have traveled up to four hours away to shoot within a 10-minute time frame.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为了拍摄我的一些风景照，我曾驱车长达四小时，只为在十分钟的时间窗口内拍摄。"
-        },
-        {
-          "s": "It takes sunscreen about fifteen minutes to start working, and that's plenty of time for your skin to absorb a day's worth of Vitamin D.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这需要15分钟的防晒霜才能开始工作，那么你的皮肤就有足够的时间吸收一天的维生素D."
-        },
-        {
-          "s": "I have missed plenty of beautiful sunsets/sunrises due to being on the spot only five minutes before the best moment.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "由于只在最佳时刻前五分钟赶到现场，我错过了许多美丽的日落和日出。"
-        },
-        {
-          "s": "I decided to play with him with only one toy for as long as it would keep his interest I expected that one toy would keep his attention for about five minutes, ten minutes, max I chose a red rubber ball—simple, universally available.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我决定只用一个玩具陪他玩，只要还能吸引他的兴趣就行；我估计一个玩具大概能让他专注五分钟，最多十分钟。我选了一个红色的橡皮球——简单、随处可见。"
-        },
-        {
-          "s": "I took down one of the dictionaries, and we read it together for a few minutes before I handed it to him.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我取下其中一本词典，我们一起读了几分钟，然后递给了他。"
-        },
-        {
-          "s": "To stay warm, she ran her engine for a few minutes every now and then.",
-          "src": "2026新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "为了保暖，她时不时把引擎发动几分钟。"
-        },
-        {
-          "s": "Spend a few minutes reading the material aloud.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "花几分钟大声朗读材料。"
-        },
-        {
-          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
-        },
-        {
-          "s": "I touched down in Vienna just 30 minutes before the departure of the last bus to Prague.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我在维也纳降落时，距离开往布拉格的末班车发车只剩30分钟。"
-        },
-        {
-          "s": "Finally, with just two minutes to spare we rolled into the bus station.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "最后，我们提前两分钟赶到了汽车站。"
-        },
-        {
-          "s": "I touched down in Vienna just 30 minutes before the departure of the last bus to Prague.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我在维也纳降落时，距离开往布拉格的末班车发车只剩30分钟。"
-        },
-        {
-          "s": "Finally, with just two minutes to spare we rolled into the bus station.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "最后，我们提前两分钟赶到了汽车站。"
-        },
-        {
-          "s": "Each child was told if they waited for 15 minutes before eating the treat, they would be given a second treat.",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "每个孩子都被告知，如果他们在吃零食前等待15分钟，就会再得到一份零食。"
-        },
-        {
-          "s": "Put off watching your favorite show until the weekend or wait 10 extra minutes before going for that cake.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "将您最喜爱的节目推迟到周末观看，或额外等待10分钟后再去吃蛋糕。"
-        },
-        {
-          "s": "She put the new color on her hair or sat still for 30 minutes, just as the directions saying.",
-          "src": "2023全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她把染发剂涂在头发上，然后静坐了30分钟，就像说明书上写的那样。"
-        },
-        {
-          "s": "That lasted about ten minutes.",
-          "src": "2022全国新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "那持续了约十分钟。"
-        },
-        {
-          "s": "Anyway, grandpa is now an internet star—two minutes of fame!",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "不管怎样，爷爷现在是个网络明星——两分钟的名气！"
-        },
-        {
-          "s": "36   When you are first trying to think of ideas for an essay, put your pen to your paper and write nonstop for ten or fifteen minutes without letting your pen leave the paper.",
-          "src": "2022全国新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "36 当你最初试图为论文想点子时，把笔放在纸上，连续写十到十五分钟，不让笔离开纸。"
-        },
-        {
-          "s": "He hung on for a few minutes   61   screamed for his father, but his father didn't hear him.",
-          "src": "2022全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他抓住栏杆坚持了几分钟，   61  尖叫着喊他爸爸，但他爸爸没听到。"
-        },
-        {
-          "s": "When a plane is leaving in 15 minutes and the door is closing, what else can we suggest but: “Run!",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当一架飞机还有15分钟就要起飞、舱门即将关闭时，除了建议\"快跑！"
-        },
-        {
-          "s": "Some pieces of music can go for 40 minutes and require up to 50 page turns, including back turns for repeat passages.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一些音乐片段可以进行40分钟，需要长达50页的翻转，包括重复段落的回转。"
-        },
-        {
-          "s": "A few minutes later, when I landed the trick, my friends beat their boards loud, shouting: “ Safe!",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "几分钟后，当我成功完成那个技巧时，朋友们大声拍板，喊着：稳了！"
-        },
-        {
-          "s": "Every straw that' s part of Von Wong's artwork likely came from a drink that someone used for only a few minutes.",
-          "src": "2021全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "冯·王艺术作品中的每一根吸管，很可能都来自某人只用了几分钟的一杯饮料。"
-        },
-        {
-          "s": "There are two parks less than 10 minutes’ walk from home where neighbourhood children gather to play.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "离家不到10分钟步行路程就有两个公园，附近的孩子聚在那里玩耍。"
-        },
-        {
-          "s": "The curtains are about to open, and in a few minutes the action and dialogue will tell you the story.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "幕布即将拉开，几分钟内的动作与对白将为你讲述这个故事。"
-        },
-        {
-          "s": "He told me a helicopter was on its way，but it would be 30 minutes before it arrived.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他告诉我一架直升机正在赶来，但要过30分钟才能到达。"
-        },
-        {
-          "s": "Significantly, all Harbour Air routes last less than 30 minutes, making it perfectly fit for electric engines.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "值得注意的是，所有港湾航空的航线时长都不到30分钟，这使其非常适合使用电动发动机。"
-        },
-        {
-          "s": "Performance： A dramatic presentation of the topic no more than 10 minutes long． If special clothes are used， they should truly represent a given period．",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "表演：对该主题进行的戏剧性展示，时长不超过10分钟。若使用了特殊服装，应真实代表某个特定时期。"
-        },
-        {
-          "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
-          "src": "2018全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
-        },
-        {
-          "s": "A few minutes late, the instructor asked me to stop the car.",
-          "src": "2017全国I卷·短文改错",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "几分钟后，教练让我把车停下来。"
-        },
-        {
-          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
-        },
-        {
-          "s": "Duration: 1 hour and 30 minutes",
-          "src": "2017全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "时长：1小时30分钟"
-        },
-        {
-          "s": "Minutes after the last movie ended yesterday at the Plaza Theater, employees were busy sweeping up popcorns and gathering coke cups.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "昨天，广场影院最后一场电影结束后几分钟，员工们就开始忙着清扫爆米花和收集可乐杯。"
-        },
-        {
-          "s": "Reconsider the 15 minutes you spend in line at the café to get coffee.",
-          "src": "2017全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "重新考虑你在咖啡馆排队买咖啡所花费的那15分钟。"
-        },
-        {
-          "s": "● 34  Each interview that you get on the street shouldn’t be longer than ten minutes.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "● 34 你在街头做的每次采访不应超过十分钟。"
-        },
-        {
-          "s": "A few minutes later，the other two cyclists arrived.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "几分钟后，另外两名骑车人赶到了。"
-        },
-        {
-          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
-        },
-        {
-          "s": "Each lesson lasts for 45 minutes.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "每节课持续45分钟。"
-        },
-        {
-          "s": "The sugar in soft drinks forms acid and attacks our teeth for about 20 minutes each time we drink them.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "软饮料中的糖会形成酸，每次饮用时都会侵蚀我们的牙齿约 20 分钟。"
-        },
-        {
-          "s": "Depending on regional customs, it may be acceptable to be 15 to 30 minutes late.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "根据当地习俗，迟到15到30分钟可能是可以接受的。"
-        },
-        {
-          "s": "If you spend more than eight minutes in a shower, you’ll use as much water as in a bath - about 50 litres of water.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "如果你在淋浴里待超过八分钟，用水量就和洗一次澡差不多——大约50升水。"
-        },
-        {
-          "s": "I'll be ready in fifteen minutes!\" b \"Sounds interesting.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "我十五分钟后准备好！＂ b ＂听起来很有趣。"
-        },
-        {
-          "s": "Spend a few minutes looking through the book.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "花几分钟翻阅这本书。"
-        },
-        {
-          "s": "\"Just five more minutes outdoors can make a difference,\" David Bond says.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“只要在户外再多五分钟就能带来改变，”大卫·邦德说。"
-        },
-        {
-          "s": "Elli and I feared the fence wouldn't last through 30 more minutes of the bear's punishment.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Elli和我担心栅栏撑不过熊再30分钟的破坏。"
-        },
-        {
-          "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "纪录片：一种视觉展示（如视频、幻灯片或电脑作品），时长不超过10分钟。将提供台式电脑、屏幕、投影仪和扬声器。学生必须在3月23日星期五之前将展示内容刻录在CD上提交。"
-        },
-        {
-          "s": "﹣                 ． She will be here in about twenty minutes．（  ）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "﹣                 ．她大约二十分钟后到。（  ）"
-        },
-        {
-          "s": "In roughly 15 minutes, the movers inflated the airbags to about three feet in diameter to raise the root ball to the surface of the hole.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "大约15分钟内，搬运工把气囊充到约3英尺直径，把根球抬到坑面。"
-        }
-      ]
+     "s": "Mom  41  me to start crying, but I just sat there for a minute.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "妈妈___41___我哭起来，但我只是在那里坐了一会儿。"
     },
     {
-      "def": "a very short time 一会儿；一会儿的工夫",
-      "ex": [
-        {
-          "s": "Mom  41  me to start crying, but I just sat there for a minute.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "妈妈___41___我哭起来，但我只是在那里坐了一会儿。"
-        },
-        {
-          "s": "From the minute reached our house, I started to read. knew this was extreme happiness, knew it at the time.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从到达我们家的那一刻起，我就开始读。我知道这是极度的快乐，当时就知道。"
-        }
-      ]
-    },
-    {
-      "def": "an exact moment in time 时刻",
-      "ex": []
-    },
-    {
-      "def": "each of the 60 equal parts of a degree, used in measuring angles 分（角度单位，六十分之一度）",
-      "ex": []
-    },
-    {
-      "def": "a summary or record of what is said or decided at a formal meeting 会议记录；会议纪要",
-      "ex": []
-    },
-    {
-      "def": "a short note on a subject, especially one that recommends a course of action 摘要；简短记录；备忘录",
-      "ex": [
-        {
-          "s": "Windermere—20 minutes, Kendal—25 minutes, Lancaster—45 minutes, Manchester—1 hour 30 minutes.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "温德米尔——20分钟，肯德尔——25分钟，兰卡斯特——45分钟，曼彻斯特——1小时30分钟。"
-        }
-      ]
-    },
-    {
-      "def": "fashionable and modern 时髦；紧跟时尚；入时",
-      "ex": []
-    },
-    {
-      "def": "having the latest information 包含最新信息的；时时更新的",
-      "ex": []
-    },
-    {
-      "def": "extremely small 极小的；微小的；细微的",
-      "ex": []
-    },
-    {
-      "def": "very detailed, careful and thorough 细致入微的；详细的",
-      "ex": []
+     "s": "From the minute reached our house, I started to read. knew this was extreme happiness, knew it at the time.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从到达我们家的那一刻起，我就开始读。我知道这是极度的快乐，当时就知道。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "an exact moment in time 时刻",
+   "ex": []
+  },
+  {
+   "def": "each of the 60 equal parts of a degree, used in measuring angles 分（角度单位，六十分之一度）",
+   "ex": []
+  },
+  {
+   "def": "a summary or record of what is said or decided at a formal meeting 会议记录；会议纪要",
+   "ex": []
+  },
+  {
+   "def": "a short note on a subject, especially one that recommends a course of action 摘要；简短记录；备忘录",
+   "ex": [
     {
-      "en": "few minutes",
-      "cn": "几分钟",
-      "type": "名词短语",
-      "count": 10
-    },
-    {
-      "en": "eight minutes",
-      "cn": "分钟",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "fifteen minutes",
-      "cn": "分钟",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "five minutes",
-      "cn": "分钟",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "ten minutes",
-      "cn": "分钟",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "two minutes",
-      "cn": "分钟",
-      "type": "名词短语",
-      "count": 3
+     "s": "Windermere—20 minutes, Kendal—25 minutes, Lancaster—45 minutes, Manchester—1 hour 30 minutes.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "温德米尔——20分钟，肯德尔——25分钟，兰卡斯特——45分钟，曼彻斯特——1小时30分钟。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "fashionable and modern 时髦；紧跟时尚；入时",
+   "ex": []
+  },
+  {
+   "def": "having the latest information 包含最新信息的；时时更新的",
+   "ex": []
+  },
+  {
+   "def": "extremely small 极小的；微小的；细微的",
+   "ex": []
+  },
+  {
+   "def": "very detailed, careful and thorough 细致入微的；详细的",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
