@@ -1,493 +1,481 @@
 {
-  "meta": {
-    "ph": "sɪt; NAmE sɪt",
-    "pos": "verb",
-    "stars": ""
+ "meta": {
+  "ph": "sɪt; NAmE sɪt",
+  "pos": "verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to rest your weight on your bottom with your back vertical, for example on/in a chair 坐",
+   "ex": [
+    {
+     "s": "Open: Mon to Sat and Summer Sundays 10.30 -17.00 Sumner.10.30 -16.00 Winter.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "开放时间：周一至周六及夏季周日 10:30 -17:00 夏季。10:30 -16:00 冬季。"
+    },
+    {
+     "s": "Open: High Season 1 Apr – 31 Oct: Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "开放时间：旺季 4月1日 – 10月31日：周一至周六 10:00 – 17:00，周日 11:00 – 17:00。"
+    },
+    {
+     "s": "Low Season 1 Nov – 31 Mar: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30.",
+     "src": "2020全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "淡季 11月1日 – 3月31日：周一至周六 10:00 – 16:30，周日 12:00 – 16:30。"
+    },
+    {
+     "s": "We sat down next to each other, but David wouldn’t look at me.",
+     "src": "2022全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我们挨着坐下，但David不肯看我。"
+    },
+    {
+     "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to put sb in a sitting position 使坐；使就座",
+   "ex": []
+  },
+  {
+   "def": "to be in a particular place 处在；坐落在；被放在",
+   "ex": [
     {
-      "def": "to rest your weight on your bottom with your back vertical, for example on/in a chair 坐",
-      "ex": [
-        {
-          "s": "Open: Mon to Sat and Summer Sundays 10.30 -17.00 Sumner.10.30 -16.00 Winter.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "开放时间：周一至周六及夏季周日 10:30 -17:00 夏季。10:30 -16:00 冬季。"
-        },
-        {
-          "s": "Open: High Season 1 Apr – 31 Oct: Mon to Sat 10.00 – 17.00, Sun 11.00 – 17.00.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "开放时间：旺季 4月1日 – 10月31日：周一至周六 10:00 – 17:00，周日 11:00 – 17:00。"
-        },
-        {
-          "s": "Low Season 1 Nov – 31 Mar: Mon to Sat 10.00 – 16.30, Sun 12.00 – 16.30.",
-          "src": "2020全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "淡季 11月1日 – 3月31日：周一至周六 10:00 – 16:30，周日 12:00 – 16:30。"
-        },
-        {
-          "s": "We sat down next to each other, but David wouldn’t look at me.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我们挨着坐下，但David不肯看我。"
-        },
-        {
-          "s": "The museum was free． We entered， excited． A group of people sitting in the hall stopped talking and stared at us．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "博物馆免费。我们兴奋地走进去。大厅里坐着的一群人停下交谈，盯着我们看。"
-        }
-      ]
-    },
-    {
-      "def": "to put sb in a sitting position 使坐；使就座",
-      "ex": []
-    },
-    {
-      "def": "to be in a particular place 处在；坐落在；被放在",
-      "ex": [
-        {
-          "s": "The park sits on a supervolcano, and visitors can see colourful hot springs, bubbling pots of mud and geysers.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这个公园坐落在一座超级火山上，游客可以看到五颜六色的温泉、冒泡的泥潭和间歇泉。"
-        }
-      ]
-    },
-    {
-      "def": "to have an official position as sth or as a member of sth （在 … 中）任职；任（ … 的）代表；担任",
-      "ex": [
-        {
-          "s": "But house sitting also offers a level of   49   they can't find in a hotel.",
-          "src": "2022全国新高考II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但房屋看护也提供了酒店找不到的   49  级别的体验。"
-        },
-        {
-          "s": "On our final morning in the house, we took a break from the mind-bending, never-ending work of packing to sit down for that last breakfast.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在老房子里的最后一个早晨，我们从令人头疼、没完没了的打包工作中歇下来，坐下来吃最后一顿早餐。"
-        },
-        {
-          "s": "Dad said she was probably lonely, and that I ought to sit and listen and nod my head and smile, and maybe she’d work it out of her system.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "爸爸说她可能很孤独，我应该坐下来倾听、点点头、微笑，也许她能把心里的郁闷发泄出来。"
-        },
-        {
-          "s": "In the “unwilling” scenario, however, the dogs looked at the experimenter less often, sat, lay down and wandered around more frequently.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "然而，在\"不情愿\"的情境中，狗看实验员的次数更少，坐下、躺下和四处走动的频率更高。"
-        },
-        {
-          "s": "And there are questions about the films made outside the States, which sometimes are not monitored as closely as productions filmed in the Sates.",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "还有一些关于在美国境外拍摄的电影的问题，它们有时不像美国境内制作的作品那样受到严密监控。"
-        },
-        {
-          "s": "She put the new color on her hair or sat still for 30 minutes, just as the directions saying.",
-          "src": "2023全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她把染发剂涂在头发上，然后静坐了30分钟，就像说明书上写的那样。"
-        }
-      ]
-    },
-    {
-      "def": "to meet in order to do official business 议会、委员会、法庭等",
-      "ex": []
-    },
-    {
-      "def": "to do an exam 参加考试；应试",
-      "ex": []
-    },
-    {
-      "def": "to rest on a branch, etc. or to stay on a nest to keep the eggs warm 停落；栖；孵（卵）",
-      "ex": []
-    },
-    {
-      "def": "to sit on its bottom with its front legs straight 蹲；坐",
-      "ex": [
-        {
-          "s": "They just want to sit all day.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他们只想整天坐着。"
-        },
-        {
-          "s": "The invitation is clear: Weiner wants you to pick up a coffee or tea and sit down with this book.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "邀请函很明确： Weiner希望您拿起一杯咖啡或茶，坐下来阅读这本书。"
-        },
-        {
-          "s": "Sit and eat his meal.",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "坐下来吃他的饭。"
-        },
-        {
-          "s": "I’d sit and drink while she talked.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我坐下来喝着，听她说话。"
-        },
-        {
-          "s": "Why did the author sit and listen to Mrs Stanley according to paragraph 3?",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "根据第3段，作者为什么坐下来听斯坦利太太说话？"
-        }
-      ]
-    },
-    {
-      "def": "谁给你看着孩子呢？",
-      "ex": [
-        {
-          "s": "After their mother left the room, the children sat thinking about Bernard.",
-          "src": "2020全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
-        },
-        {
-          "s": "After their mother left the room, the children sat thinking about Bernard.",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
-        },
-        {
-          "s": "People have been bringing their children in to see the hens and residents come and sit outside to watch them.",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "人们带着孩子来看母鸡，居民们也出来坐在外面观看它们。"
-        },
-        {
-          "s": "When I opened my hand, the bird did not fly away; she sat looking at me with her bright eyes.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当我张开手时，这只鸟没有飞走；她坐着用明亮的眼睛看着我。"
-        },
-        {
-          "s": "“These kids are so absorbed in their studies that I just sit back.",
-          "src": "2019全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "『这些孩子如此专注于学习，我只需在旁边看着。』"
-        }
-      ]
-    },
-    {
-      "def": "to stay where you are rather than moving away or changing position 待着不动；守在原地",
-      "ex": [
-        {
-          "s": "When a leafy plant is under attack, it doesn’t sit quietly.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当一棵多叶植物受到攻击时，它不会安静地待着。"
-        },
-        {
-          "s": "When a leafy plant is under attack ，it doesn’t  sit quietly.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当一棵多叶植物受到攻击时，它不会安静地待着。"
-        }
-      ]
-    },
-    {
-      "def": "to stay in the same situation, without changing your mind or taking any action 静观事态变化；不轻举妄动",
-      "ex": []
-    },
-    {
-      "def": "to sit on sth, usually a chair, in a relaxed position 舒舒服服地坐好",
-      "ex": [
-        {
-          "s": "And you might find it relaxing to bring your small kid to a half-hour Story Time while you sit quietly in a corner with a good book.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你可能觉得带着小孩去半小时的“故事时间”很放松，而你可以安静地坐在角落里读一本好书。"
-        }
-      ]
-    },
-    {
-      "def": "to relax, especially by not getting too involved in or anxious about sth 袖手旁观（尤指不积极参与或不挂念某事）",
-      "ex": [
-        {
-          "s": "For example, one participant’s experience of “We sat and listened to the waves at the beach for a while” was assigned the categories “sitting at beach” and “listening to waves.”",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "例如，一位参与者\"我们坐在海滩上听了一会儿海浪\"的体验被归入\"坐在海滩\"和\"听海浪\"两类。"
-        },
-        {
-          "s": "On social media sites, people tend to post only positive updates that make them appear happy and friendly.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "在社交媒体网站上，人们倾向于只发布让他们看起来快乐和友好的积极更新。"
-        }
-      ]
-    },
-    {
-      "def": "to stay in a place and wait for sth unpleasant or boring to finish 耐心等到结束；熬到结束",
-      "ex": []
-    },
-    {
-      "def": "to not take part in a dance, game or other activity 坐在一旁（不参加跳舞、游戏等活动）",
-      "ex": [
-        {
-          "s": "That evening, she sat in her room, staring into space.",
-          "src": "2026北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "那天晚上，她坐在房间里，凝视着虚空。"
-        },
-        {
-          "s": "He sat next to me.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他坐在我旁边。"
-        },
-        {
-          "s": "\"It's not just a ride；you're not just sitting there in   19   silence or with your headphones on.” Stern said.",
-          "src": "2019北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "“这不只是搭车；你不只是坐在那里___19___沉默或戴着耳机。”斯特恩说。"
-        },
-        {
-          "s": "We passed it, he tried to put it in his mouth, he tried bouncing it, rolling it, sitting on it, throwing it.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我们路过它时，他试图把它放进嘴里，又试着弹它、滚它、坐在上面、扔它。"
-        },
-        {
-          "s": "At 13, she started to sit in on cooking classes.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "13岁时，她开始坐在烹饪课上。"
-        },
-        {
-          "s": "I can’t just sit there and stare at a TV all day.",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我不能只是坐在那里整天盯着电视。"
-        },
-        {
-          "s": "When that happens, don’t sit in the grass and  54  Just get up and keep on going.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当这种情况发生时，不要坐在草地里54，只要站起来继续前进。"
-        },
-        {
-          "s": "They even let her sit on the sofa, but the old girl just wasn’t her usual cheerful self.",
-          "src": "2020浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们甚至让她坐在沙发上，但这位老姑娘就是不像往常那样高兴。"
-        },
-        {
-          "s": "In the evening, all of us would sit around the table, enjoying the food and being together again.",
-          "src": "外研社B2 U2",
-          "cat": "waiyan",
-          "t": "晚上，我们所有人都会围坐在桌旁，享用美食，再次团聚。"
-        },
-        {
-          "s": "Picture this: my grandson sitting on my lap as I hold the book in front so he can see the pictures.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "想象一下：我的孙子坐在我腿上，我把书举在他面前让他看到图片。"
-        },
-        {
-          "s": "One August afternoon, I sat in my kitchen staring at a glass vase that hadn’t seen daylight since my wedding.",
-          "src": "2025新高考I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "八月的一个下午，我坐在厨房里，盯着一只自婚礼以来就没再见天日的玻璃花瓶。"
-        },
-        {
-          "s": "Just a few days after the signs went up, he found people sitting there and engaging in active and   28   conversations.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "牌子挂上才几天，他就发现人们坐在那里，进行着活跃而___28___的交谈。"
-        },
-        {
-          "s": "My dog Don always sits beside me in the passenger scat.",
-          "src": "2020浙江7月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的狗Don总是坐在副驾驶座上我旁边。"
-        },
-        {
-          "s": "Marian Bechtel sits at West Palm Beach’s Bar Louie counter by herself, quietly reading her e-book as she waits for her salad.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "玛丽安·贝克特尔独自坐在西棕榈滩Bar Louie餐厅的吧台前，安静地读着电子书，等待她的沙拉。"
-        },
-        {
-          "s": "And while many Brits like nothing better than spending their Sunday cutting the grass, some are happy just to sit under the branches of the trees and enjoy the beauty of the world around them.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "虽然许多英国人最喜欢的事情莫过于在周日修剪草坪，但有些人也乐于坐在树枝下，享受周围世界的美丽。"
-        },
-        {
-          "s": "“I am the last original client of Frank Lloyd Wright, still living in the home he designed for me,” Reisley said, sitting in the bright open living room of the home designed by the famous architect.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“我是弗兰克·劳埃德·赖特最后一位健在的原始客户，至今仍住在他为我设计的房子里，”Reisley坐在由这位著名建筑师设计的明亮通透的客厅里说道。"
-        },
-        {
-          "s": "Bent over my laptop while sitting on the bed in the corner of my room, I suddenly felt a pounding headache, and had to lie down.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我弓着背坐在房间角落的床上盯着笔记本电脑，突然感到一阵剧烈的头痛，不得不躺下。"
-        },
-        {
-          "s": "Sitting at the table, making my mini sandwich, I realised I was ready for our next chapter.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "坐在桌前做我的迷你三明治时，我意识到我已经为我们的下一个篇章做好了准备。"
-        },
-        {
-          "s": "Sitting in the garden for my friend’s birthday.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "坐在花园里参加朋友的生日聚会。"
-        },
-        {
-          "s": "This hit home for me as I was sitting with my 2-year-old grandson on a sofa over the Spring Festival holiday.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "今年春节假期，当我抱着两岁的孙子坐在沙发上时，这一点让我深有感触。"
-        },
-        {
-          "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
-        },
-        {
-          "s": "I would go to the office, sit at my desk and repeat the same work five days a week 9 to 5.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我会去办公室，坐在我的办公桌 重复同样的工作 每周5天9到5。"
-        },
-        {
-          "s": "Yesterday, I sat with my son, Shepherd, determined to test my own theory on this.",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "昨天，我和儿子 Shepherd 坐在一起，决心用自己的理论测试这一点。"
-        },
-        {
-          "s": "After supper, we would play card games of all sort in the sitting room.",
-          "src": "2018全国II卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "晚饭后，我们会在客厅里玩各种各样的纸牌游戏。"
-        },
-        {
-          "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
-        },
-        {
-          "s": "Hotpot is meant for families and friends to sit together, dip everything they like this in one pot, and shared friendship and love.",
-          "src": "2024全国甲卷·第四部分 写作",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "火锅适合家人和朋友围坐在一起，把自己喜欢的东西都放进同一个锅里蘸着吃，分享友谊和爱。"
-        }
-      ]
-    },
-    {
-      "def": "to be or move yourself into a sitting position, rather than lying down or leaning back 坐起来；坐直",
-      "ex": [
-        {
-          "s": "Mom  41  me to start crying, but I just sat there for a minute.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "妈妈___41___我哭起来，但我只是在那里坐了一会儿。"
-        }
-      ]
-    },
-    {
-      "def": "to not go to bed until later than usual 熬夜；迟睡",
-      "ex": []
+     "s": "The park sits on a supervolcano, and visitors can see colourful hot springs, bubbling pots of mud and geysers.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这个公园坐落在一座超级火山上，游客可以看到五颜六色的温泉、冒泡的泥潭和间歇泉。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to have an official position as sth or as a member of sth （在 … 中）任职；任（ … 的）代表；担任",
+   "ex": [
     {
-      "en": "sitting in",
-      "cn": "坐在",
-      "type": "动词短语",
-      "count": 8
+     "s": "But house sitting also offers a level of   49   they can't find in a hotel.",
+     "src": "2022全国新高考II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "但房屋看护也提供了酒店找不到的   49  级别的体验。"
     },
     {
-      "en": "sitting on",
-      "cn": "坐在",
-      "type": "动词短语",
-      "count": 5
+     "s": "On our final morning in the house, we took a break from the mind-bending, never-ending work of packing to sit down for that last breakfast.",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在老房子里的最后一个早晨，我们从令人头疼、没完没了的打包工作中歇下来，坐下来吃最后一顿早餐。"
     },
     {
-      "en": "sit down",
-      "cn": "坐下",
-      "type": "动词短语",
-      "count": 3
+     "s": "Dad said she was probably lonely, and that I ought to sit and listen and nod my head and smile, and maybe she’d work it out of her system.",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "爸爸说她可能很孤独，我应该坐下来倾听、点点头、微笑，也许她能把心里的郁闷发泄出来。"
     },
     {
-      "en": "sat sun",
-      "cn": "太阳",
-      "type": "动词短语",
-      "count": 2
+     "s": "In the “unwilling” scenario, however, the dogs looked at the experimenter less often, sat, lay down and wandered around more frequently.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "然而，在\"不情愿\"的情境中，狗看实验员的次数更少，坐下、躺下和四处走动的频率更高。"
     },
     {
-      "en": "sat thinking",
-      "cn": "思想",
-      "type": "动词短语",
-      "count": 2
+     "s": "And there are questions about the films made outside the States, which sometimes are not monitored as closely as productions filmed in the Sates.",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "还有一些关于在美国境外拍摄的电影的问题，它们有时不像美国境内制作的作品那样受到严密监控。"
+    },
+    {
+     "s": "She put the new color on her hair or sat still for 30 minutes, just as the directions saying.",
+     "src": "2023全国乙卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她把染发剂涂在头发上，然后静坐了30分钟，就像说明书上写的那样。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to meet in order to do official business 议会、委员会、法庭等",
+   "ex": []
+  },
+  {
+   "def": "to do an exam 参加考试；应试",
+   "ex": []
+  },
+  {
+   "def": "to rest on a branch, etc. or to stay on a nest to keep the eggs warm 停落；栖；孵（卵）",
+   "ex": []
+  },
+  {
+   "def": "to sit on its bottom with its front legs straight 蹲；坐",
+   "ex": [
+    {
+     "s": "They just want to sit all day.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他们只想整天坐着。"
+    },
+    {
+     "s": "The invitation is clear: Weiner wants you to pick up a coffee or tea and sit down with this book.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "邀请函很明确： Weiner希望您拿起一杯咖啡或茶，坐下来阅读这本书。"
+    },
+    {
+     "s": "Sit and eat his meal.",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "坐下来吃他的饭。"
+    },
+    {
+     "s": "I’d sit and drink while she talked.",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我坐下来喝着，听她说话。"
+    },
+    {
+     "s": "Why did the author sit and listen to Mrs Stanley according to paragraph 3?",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "根据第3段，作者为什么坐下来听斯坦利太太说话？"
+    }
+   ]
+  },
+  {
+   "def": "谁给你看着孩子呢？",
+   "ex": [
+    {
+     "s": "After their mother left the room, the children sat thinking about Bernard.",
+     "src": "2020全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
+    },
+    {
+     "s": "After their mother left the room, the children sat thinking about Bernard.",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "母亲离开房间后，孩子们坐在那里想着Bernard。"
+    },
+    {
+     "s": "People have been bringing their children in to see the hens and residents come and sit outside to watch them.",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "人们带着孩子来看母鸡，居民们也出来坐在外面观看它们。"
+    },
+    {
+     "s": "When I opened my hand, the bird did not fly away; she sat looking at me with her bright eyes.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当我张开手时，这只鸟没有飞走；她坐着用明亮的眼睛看着我。"
+    },
+    {
+     "s": "“These kids are so absorbed in their studies that I just sit back.",
+     "src": "2019全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "『这些孩子如此专注于学习，我只需在旁边看着。』"
+    }
+   ]
+  },
+  {
+   "def": "to stay where you are rather than moving away or changing position 待着不动；守在原地",
+   "ex": [
+    {
+     "s": "When a leafy plant is under attack, it doesn’t sit quietly.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "当一棵多叶植物受到攻击时，它不会安静地待着。"
+    },
+    {
+     "s": "When a leafy plant is under attack ，it doesn’t  sit quietly.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "当一棵多叶植物受到攻击时，它不会安静地待着。"
+    }
+   ]
+  },
+  {
+   "def": "to stay in the same situation, without changing your mind or taking any action 静观事态变化；不轻举妄动",
+   "ex": []
+  },
+  {
+   "def": "to sit on sth, usually a chair, in a relaxed position 舒舒服服地坐好",
+   "ex": [
+    {
+     "s": "And you might find it relaxing to bring your small kid to a half-hour Story Time while you sit quietly in a corner with a good book.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你可能觉得带着小孩去半小时的“故事时间”很放松，而你可以安静地坐在角落里读一本好书。"
+    }
+   ]
+  },
+  {
+   "def": "to relax, especially by not getting too involved in or anxious about sth 袖手旁观（尤指不积极参与或不挂念某事）",
+   "ex": [
+    {
+     "s": "For example, one participant’s experience of “We sat and listened to the waves at the beach for a while” was assigned the categories “sitting at beach” and “listening to waves.”",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "例如，一位参与者\"我们坐在海滩上听了一会儿海浪\"的体验被归入\"坐在海滩\"和\"听海浪\"两类。"
+    },
+    {
+     "s": "On social media sites, people tend to post only positive updates that make them appear happy and friendly.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "在社交媒体网站上，人们倾向于只发布让他们看起来快乐和友好的积极更新。"
+    }
+   ]
+  },
+  {
+   "def": "to stay in a place and wait for sth unpleasant or boring to finish 耐心等到结束；熬到结束",
+   "ex": []
+  },
+  {
+   "def": "to not take part in a dance, game or other activity 坐在一旁（不参加跳舞、游戏等活动）",
+   "ex": [
+    {
+     "s": "That evening, she sat in her room, staring into space.",
+     "src": "2026北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "那天晚上，她坐在房间里，凝视着虚空。"
+    },
+    {
+     "s": "He sat next to me.",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他坐在我旁边。"
+    },
+    {
+     "s": "\"It's not just a ride；you're not just sitting there in   19   silence or with your headphones on.” Stern said.",
+     "src": "2019北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "“这不只是搭车；你不只是坐在那里___19___沉默或戴着耳机。”斯特恩说。"
+    },
+    {
+     "s": "We passed it, he tried to put it in his mouth, he tried bouncing it, rolling it, sitting on it, throwing it.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我们路过它时，他试图把它放进嘴里，又试着弹它、滚它、坐在上面、扔它。"
+    },
+    {
+     "s": "At 13, she started to sit in on cooking classes.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "13岁时，她开始坐在烹饪课上。"
+    },
+    {
+     "s": "I can’t just sit there and stare at a TV all day.",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我不能只是坐在那里整天盯着电视。"
+    },
+    {
+     "s": "When that happens, don’t sit in the grass and  54  Just get up and keep on going.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当这种情况发生时，不要坐在草地里54，只要站起来继续前进。"
+    },
+    {
+     "s": "They even let her sit on the sofa, but the old girl just wasn’t her usual cheerful self.",
+     "src": "2020浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们甚至让她坐在沙发上，但这位老姑娘就是不像往常那样高兴。"
+    },
+    {
+     "s": "In the evening, all of us would sit around the table, enjoying the food and being together again.",
+     "src": "外研社B2 U2",
+     "cat": "waiyan",
+     "t": "晚上，我们所有人都会围坐在桌旁，享用美食，再次团聚。"
+    },
+    {
+     "s": "Picture this: my grandson sitting on my lap as I hold the book in front so he can see the pictures.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "想象一下：我的孙子坐在我腿上，我把书举在他面前让他看到图片。"
+    },
+    {
+     "s": "One August afternoon, I sat in my kitchen staring at a glass vase that hadn’t seen daylight since my wedding.",
+     "src": "2025新高考I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "八月的一个下午，我坐在厨房里，盯着一只自婚礼以来就没再见天日的玻璃花瓶。"
+    },
+    {
+     "s": "Just a few days after the signs went up, he found people sitting there and engaging in active and   28   conversations.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "牌子挂上才几天，他就发现人们坐在那里，进行着活跃而___28___的交谈。"
+    },
+    {
+     "s": "My dog Don always sits beside me in the passenger scat.",
+     "src": "2020浙江7月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的狗Don总是坐在副驾驶座上我旁边。"
+    },
+    {
+     "s": "Marian Bechtel sits at West Palm Beach’s Bar Louie counter by herself, quietly reading her e-book as she waits for her salad.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "玛丽安·贝克特尔独自坐在西棕榈滩Bar Louie餐厅的吧台前，安静地读着电子书，等待她的沙拉。"
+    },
+    {
+     "s": "And while many Brits like nothing better than spending their Sunday cutting the grass, some are happy just to sit under the branches of the trees and enjoy the beauty of the world around them.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "虽然许多英国人最喜欢的事情莫过于在周日修剪草坪，但有些人也乐于坐在树枝下，享受周围世界的美丽。"
+    },
+    {
+     "s": "“I am the last original client of Frank Lloyd Wright, still living in the home he designed for me,” Reisley said, sitting in the bright open living room of the home designed by the famous architect.",
+     "src": "2026新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“我是弗兰克·劳埃德·赖特最后一位健在的原始客户，至今仍住在他为我设计的房子里，”Reisley坐在由这位著名建筑师设计的明亮通透的客厅里说道。"
+    },
+    {
+     "s": "Bent over my laptop while sitting on the bed in the corner of my room, I suddenly felt a pounding headache, and had to lie down.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我弓着背坐在房间角落的床上盯着笔记本电脑，突然感到一阵剧烈的头痛，不得不躺下。"
+    },
+    {
+     "s": "Sitting at the table, making my mini sandwich, I realised I was ready for our next chapter.",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "坐在桌前做我的迷你三明治时，我意识到我已经为我们的下一个篇章做好了准备。"
+    },
+    {
+     "s": "Sitting in the garden for my friend’s birthday.",
+     "src": "2023北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "坐在花园里参加朋友的生日聚会。"
+    },
+    {
+     "s": "This hit home for me as I was sitting with my 2-year-old grandson on a sofa over the Spring Festival holiday.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "今年春节假期，当我抱着两岁的孙子坐在沙发上时，这一点让我深有感触。"
+    },
+    {
+     "s": "His job is to sit beside the pianist and turn the pages of the score so the musicians don’t have to break the flow of sound by doing it themselves.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他的工作是坐在钢琴家旁边翻乐谱，这样音乐家就不必自己翻谱而打断音乐的流畅性。"
+    },
+    {
+     "s": "I would go to the office, sit at my desk and repeat the same work five days a week 9 to 5.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我会去办公室，坐在我的办公桌 重复同样的工作 每周5天9到5。"
+    },
+    {
+     "s": "Yesterday, I sat with my son, Shepherd, determined to test my own theory on this.",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "昨天，我和儿子 Shepherd 坐在一起，决心用自己的理论测试这一点。"
+    },
+    {
+     "s": "After supper, we would play card games of all sort in the sitting room.",
+     "src": "2018全国II卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "晚饭后，我们会在客厅里玩各种各样的纸牌游戏。"
+    },
+    {
+     "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
+    },
+    {
+     "s": "Hotpot is meant for families and friends to sit together, dip everything they like this in one pot, and shared friendship and love.",
+     "src": "2024全国甲卷·第四部分 写作",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "火锅适合家人和朋友围坐在一起，把自己喜欢的东西都放进同一个锅里蘸着吃，分享友谊和爱。"
+    }
+   ]
+  },
+  {
+   "def": "to be or move yourself into a sitting position, rather than lying down or leaning back 坐起来；坐直",
+   "ex": [
+    {
+     "s": "Mom  41  me to start crying, but I just sat there for a minute.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "妈妈___41___我哭起来，但我只是在那里坐了一会儿。"
+    }
+   ]
+  },
+  {
+   "def": "to not go to bed until later than usual 熬夜；迟睡",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "sitting in",
+   "cn": "坐在",
+   "type": "动词短语",
+   "count": 8
+  },
+  {
+   "en": "sitting on",
+   "cn": "坐在",
+   "type": "动词短语",
+   "count": 5
+  },
+  {
+   "en": "sit down",
+   "cn": "坐下",
+   "type": "动词短语",
+   "count": 3
+  }
+ ]
 }
