@@ -1,107 +1,101 @@
 {
-  "meta": {
-    "ph": "ˈsʌðən; NAmE ˈsʌðərn",
-    "pos": "adj.",
-    "stars": "★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈsʌðən; NAmE ˈsʌðərn",
+  "pos": "adj.",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "located in the south or facing south; connected with or typical of the south part of the world or a region 南方的；向南的；南部的",
+   "ex": [
     {
-      "def": "located in the south or facing south; connected with or typical of the south part of the world or a region 南方的；向南的；南部的",
-      "ex": [
-        {
-          "s": "“I am pleasantly surprised, because I am always looking for where to plug it in,” Espinoza said before catching the subway in a working-class area of southern Barcelona.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“我感到惊喜，因为我一直在找哪里能给车充电，”Espinoza在南巴塞罗那一个工人阶层社区赶地铁前说道。"
-        },
-        {
-          "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "人类语言包含2000多种不同的声音，从常见的\"m\"和\"a\"到某些南部非洲语言中罕见的咔嗒音。"
-        },
-        {
-          "s": "Southern Spain（15days）",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "西班牙南部（15天）"
-        },
-        {
-          "s": "What can visitors see in both Classical Provence and Southern Spain？",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "游客在古典普罗旺斯和西班牙南部都能看到什么？"
-        },
-        {
-          "s": "The ad had a   51   number for a town in southern Michigan.",
-          "src": "2019全国II卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "广告上有一个___51___号码，对应密歇根州南部的一个小镇。"
-        },
-        {
-          "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
-        },
-        {
-          "s": "In southern Spain the sudden increase of greenhouses (which reflect light back to space) has changed the warming trend locally, and actually cooled the region.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在西班牙南部，温室（将光线反射回太空）的突然增加已经改变了当地的变暖趋势，实际上使该地区降温了。"
-        },
-        {
-          "s": "What’s more, heavy rain in Eastern Europe has caused landslides, and the heat across Southern Europe has caused forest fires.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "此外，东欧的暴雨引发了山体滑坡，南欧的酷热导致了森林火灾。"
-        },
-        {
-          "s": "For two years, its people had been deep in a civil war between the slave-owning Confederate Southern States and the “free” Northern States of the Union.",
-          "src": "外研社B5 U4",
-          "cat": "waiyan",
-          "t": "两年来，其人民一直深陷拥有奴隶的南方各州与“自由”的北方各州之间的内战。"
-        },
-        {
-          "s": "Now look for more sentences with this structure in the reading passage, and summarise its use in your own words The red-eared slider, a species of freshwater turtle, is native to the Southern United States and Northern Mexico.",
-          "src": "外研社B5 U5",
-          "cat": "waiyan",
-          "t": "现在在阅读段落中寻找更多带有这种结构的句子，并用你自己的话总结其用法。红耳滑龟（The red-eared slider），一种淡水龟，原产于美国南部和墨西哥北部。"
-        },
-        {
-          "s": "Europe Struggles with Heat Wave Countries in Southern Europe have issued warnings after temperatures rose to 40°C.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "欧洲遭遇热浪 在南欧国家气温升至 40°C 后，各国已发布高温警告。"
-        },
-        {
-          "s": "It is primarily found in southern Africa, including South Africa, Angola, Zambia and Mozambique.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "主要分布于南部非洲，包括南非、安哥拉、赞比亚和莫桑比克。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "southern spain",
-      "cn": "南方的",
-      "type": "名词短语",
-      "count": 3
+     "s": "“I am pleasantly surprised, because I am always looking for where to plug it in,” Espinoza said before catching the subway in a working-class area of southern Barcelona.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“我感到惊喜，因为我一直在找哪里能给车充电，”Espinoza在南巴塞罗那一个工人阶层社区赶地铁前说道。"
     },
     {
-      "en": "southern europe",
-      "cn": "南方欧洲",
-      "type": "形容词短语",
-      "count": 2
+     "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "人类语言包含2000多种不同的声音，从常见的\"m\"和\"a\"到某些南部非洲语言中罕见的咔嗒音。"
+    },
+    {
+     "s": "Southern Spain（15days）",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "西班牙南部（15天）"
+    },
+    {
+     "s": "What can visitors see in both Classical Provence and Southern Spain？",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "游客在古典普罗旺斯和西班牙南部都能看到什么？"
+    },
+    {
+     "s": "The ad had a   51   number for a town in southern Michigan.",
+     "src": "2019全国II卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "广告上有一个___51___号码，对应密歇根州南部的一个小镇。"
+    },
+    {
+     "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
+    },
+    {
+     "s": "In southern Spain the sudden increase of greenhouses (which reflect light back to space) has changed the warming trend locally, and actually cooled the region.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在西班牙南部，温室（将光线反射回太空）的突然增加已经改变了当地的变暖趋势，实际上使该地区降温了。"
+    },
+    {
+     "s": "What’s more, heavy rain in Eastern Europe has caused landslides, and the heat across Southern Europe has caused forest fires.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "t": "此外，东欧的暴雨引发了山体滑坡，南欧的酷热导致了森林火灾。"
+    },
+    {
+     "s": "For two years, its people had been deep in a civil war between the slave-owning Confederate Southern States and the “free” Northern States of the Union.",
+     "src": "外研社B5 U4",
+     "cat": "waiyan",
+     "t": "两年来，其人民一直深陷拥有奴隶的南方各州与“自由”的北方各州之间的内战。"
+    },
+    {
+     "s": "Now look for more sentences with this structure in the reading passage, and summarise its use in your own words The red-eared slider, a species of freshwater turtle, is native to the Southern United States and Northern Mexico.",
+     "src": "外研社B5 U5",
+     "cat": "waiyan",
+     "t": "现在在阅读段落中寻找更多带有这种结构的句子，并用你自己的话总结其用法。红耳滑龟（The red-eared slider），一种淡水龟，原产于美国南部和墨西哥北部。"
+    },
+    {
+     "s": "Europe Struggles with Heat Wave Countries in Southern Europe have issued warnings after temperatures rose to 40°C.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "欧洲遭遇热浪 在南欧国家气温升至 40°C 后，各国已发布高温警告。"
+    },
+    {
+     "s": "It is primarily found in southern Africa, including South Africa, Angola, Zambia and Mozambique.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "主要分布于南部非洲，包括南非、安哥拉、赞比亚和莫桑比克。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "southern europe",
+   "cn": "南方欧洲",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
