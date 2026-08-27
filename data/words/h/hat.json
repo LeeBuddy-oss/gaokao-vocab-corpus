@@ -1,91 +1,84 @@
 {
-  "meta": {
-    "ph": "hæt; NAmE hæt",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "hæt; NAmE hæt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a covering made to fit the head, often with a brim, (= a flat edge that sticks out) and worn out of doors （常指带檐的）帽子",
+   "ex": [
     {
-      "def": "a covering made to fit the head, often with a brim, (= a flat edge that sticks out) and worn out of doors （常指带檐的）帽子",
-      "ex": [
-        {
-          "s": "\"There were rolling hills of snow, a pine tree and a snowman with a hat and broom,” she recalled.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“那里有连绵的雪丘、一棵松树，还有一个戴着帽子、拿着扫帚的雪人，”她回忆道。"
-        },
-        {
-          "s": "\"Hats, sweaters, gloves — I enjoy it all.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "\"帽子、毛衣、手套——我都喜欢。"
-        },
-        {
-          "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
-        },
-        {
-          "s": "Does a chef’s hat make the resultant food taste better?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "厨师的帽子会让做出来的食物更好吃吗？"
-        },
-        {
-          "s": "Why should anyone be frightened by a hat?” My drawing was not a picture of a hat.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "为什么会有人被一顶帽子吓到？\"我画的不是一顶帽子。"
-        },
-        {
-          "s": "But, whoever it was, he, or she, would always say: “That is a hat.” Then I would never talk to that person about boa constrictors, or primeval forests, or stars.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "但不管是谁，他或她总是会说：\"那是一顶帽子。\"然后我就再也不会和那个人谈论蟒蛇、原始森林或星星了。"
-        },
-        {
-          "s": "People would stare at me because I was “big” and I hated the way I looked.",
-          "src": "外研社B6 U1",
-          "cat": "waiyan",
-          "t": "人们会盯着我看，因为我\"块头大\"，我讨厌自己的样子。"
-        },
-        {
-          "s": "The event, however, is quite colourful since fans often dress up for the games and wear amazing hats.",
-          "src": "人教B1 U5",
-          "cat": "renjiao",
-          "t": "然而，这个活动相当丰富多彩，因为粉丝们常常穿上服装来观看比赛，戴着奇妙的帽子。"
-        },
-        {
-          "s": "He hates these almost as much as I do.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "他几乎和我一样讨厌这些。"
-        },
-        {
-          "s": "Catherine Murphy, a cafe worker in a green shirt and black hat, makes sure that each customer gets exactly what they order.",
-          "src": "2025新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Catherine Murphy是一名穿着绿衬衫、戴黑帽子的咖啡馆员工，她确保每位顾客都得到自己点的东西。"
-        }
-      ]
+     "s": "\"There were rolling hills of snow, a pine tree and a snowman with a hat and broom,” she recalled.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“那里有连绵的雪丘、一棵松树，还有一个戴着帽子、拿着扫帚的雪人，”她回忆道。"
     },
     {
-      "def": "a position or role, especially an official or professional role, when you have more than one such role （双重的）职位，角色（尤指官职或职业角色）",
-      "ex": []
-    }
-  ],
-  "chunks": [
+     "s": "\"Hats, sweaters, gloves — I enjoy it all.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "\"帽子、毛衣、手套——我都喜欢。"
+    },
     {
-      "en": "hat make",
-      "cn": "帽子制造",
-      "type": "名词短语",
-      "count": 2
+     "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
+     "src": "2018浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
+    },
+    {
+     "s": "Does a chef’s hat make the resultant food taste better?",
+     "src": "2017浙江11月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "厨师的帽子会让做出来的食物更好吃吗？"
+    },
+    {
+     "s": "Why should anyone be frightened by a hat?” My drawing was not a picture of a hat.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "t": "为什么会有人被一顶帽子吓到？\"我画的不是一顶帽子。"
+    },
+    {
+     "s": "But, whoever it was, he, or she, would always say: “That is a hat.” Then I would never talk to that person about boa constrictors, or primeval forests, or stars.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "t": "但不管是谁，他或她总是会说：\"那是一顶帽子。\"然后我就再也不会和那个人谈论蟒蛇、原始森林或星星了。"
+    },
+    {
+     "s": "People would stare at me because I was “big” and I hated the way I looked.",
+     "src": "外研社B6 U1",
+     "cat": "waiyan",
+     "t": "人们会盯着我看，因为我\"块头大\"，我讨厌自己的样子。"
+    },
+    {
+     "s": "The event, however, is quite colourful since fans often dress up for the games and wear amazing hats.",
+     "src": "人教B1 U5",
+     "cat": "renjiao",
+     "t": "然而，这个活动相当丰富多彩，因为粉丝们常常穿上服装来观看比赛，戴着奇妙的帽子。"
+    },
+    {
+     "s": "He hates these almost as much as I do.",
+     "src": "人教B3 U5",
+     "cat": "renjiao",
+     "t": "他几乎和我一样讨厌这些。"
+    },
+    {
+     "s": "Catherine Murphy, a cafe worker in a green shirt and black hat, makes sure that each customer gets exactly what they order.",
+     "src": "2025新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "Catherine Murphy是一名穿着绿衬衫、戴黑帽子的咖啡馆员工，她确保每位顾客都得到自己点的东西。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a position or role, especially an official or professional role, when you have more than one such role （双重的）职位，角色（尤指官职或职业角色）",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
