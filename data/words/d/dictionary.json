@@ -1,228 +1,215 @@
 {
-  "meta": {
-    "ph": "ˈdɪkʃənri; NAmE ˈdɪkʃəneri",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈdɪkʃənri; NAmE ˈdɪkʃəneri",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a book that gives a list of the words of a language in alphabetical order and explains what they mean, or gives a word for them in a foreign language 词典；字典；辞书",
+   "ex": [
+    {
+     "s": "I looked pointedly at the bookshelf that held at least three dictionaries, and Kevin sighed dramatically.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我特意看了看那个至少放着三本词典的书架，凯文夸张地叹了口气。"
+    },
+    {
+     "s": "Suddenly it occurred to me that he did not even know how to use a dictionary.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我突然意识到，他甚至不知道怎么用词典。"
+    },
+    {
+     "s": "I took down one of the dictionaries, and we read it together for a few minutes before I handed it to him.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我取下其中一本词典，我们一起读了几分钟，然后递给了他。"
+    },
+    {
+     "s": "I had my first dictionary as a gift for my 13th birthday.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我的第一本词典是13岁生日时收到的礼物。"
+    },
+    {
+     "s": "I continued to make these pencil marks for years, and when I went off to college, I packed that dictionary in my suitcase.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "多年来我一直做着这些铅笔标记，离家上大学时，我把那本词典装进了行李箱。"
+    },
+    {
+     "s": "Kevin wanted to see the dictionary.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "凯文想看看那本词典。"
+    },
+    {
+     "s": "I felt a small pain in my chest The dictionary was stolen at the end of my freshman year of college.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我感到胸口隐隐作痛。那本词典在我大学一年级结束时被偷了。"
+    },
+    {
+     "s": "And it wasn't, ultimately, the dictionary that got me there — not really.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "说到底，真正让我走到今天的并不是那本词典——并不是。"
+    },
+    {
+     "s": "Consult a paper dictionary.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "查阅纸质词典。"
+    },
+    {
+     "s": "How did Kevin feel while looking up the word in the dictionary?",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "凯文在词典里查那个词时感觉如何？"
+    },
+    {
+     "s": "What can we learn about the author's first dictionary?",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "关于作者的第一本词典，我们能了解到什么？"
+    },
+    {
+     "s": "I use the Concise Oxford Dictionary and the Collins Thesaurus.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我用的是《简明牛津词典》和《柯林斯同义词典》。"
+    },
+    {
+     "s": "In addition, I have an old two-volume copy of the Shorter Oxford Dictionary, picked up a few years ago in a bookshop sale for just 99 pence.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "此外，我有一套旧的《简明牛津词典》上下两册，是几年前在书店特卖时只花99便士买到的。"
+    },
+    {
+     "s": "For well over a hundred years the most influential English dictionary was Samuel Johnson's Dictionary of the English Language published in 1755.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一百多年来，最具影响力的英语词典是Samuel Johnson于1755年出版的《英语词典》。"
+    },
+    {
+     "s": "I don't often use this dictionary.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我不常用这本词典。"
+    },
+    {
+     "s": "But a dictionary can be a pleasure to read.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "但词典也可以读得津津有味。"
+    },
+    {
+     "s": "Of course, a dictionary is not only for spelling.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "当然，词典不只是用来查拼写的。"
+    },
+    {
+     "s": "Dictionaries don't always give you enough information.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "词典并不总能给你足够的信息。"
+    },
+    {
+     "s": "Miss Chevalier pretended not to have noticed my red face and handed me a dictionary, asking me to read its definition aloud.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "谢瓦利埃小姐假装没注意到我涨红的脸，递给我一本字典，让我大声读出其中的释义。"
+    },
+    {
+     "s": "By consulting the dictionary for its definitions.",
+     "src": "2024天津3月卷·阅读Passage 3",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "通过查阅词典获取其定义。"
+    },
+    {
+     "s": "Some American spellings were created by Noah Webster, who made one of America's first dictionaries.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "一些美式拼写是由诺亚·韦伯斯特创造的，他编纂了美国最早的词典之一。"
+    },
+    {
+     "s": "Due to their popularity, the Oxford Dictionaries Word of the Year in 2015 was, for the first time ever, a pictograph instead of a traditional word.",
+     "src": "外研社B5 U3",
+     "cat": "waiyan",
+     "t": "由于其流行程度，2015年《牛津词典》年度词汇首次是一个象形文字而非传统单词。"
+    },
+    {
+     "s": "He said that many words describing nature were being added to the new version of the junior dictionary.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "他说许多描述自然的词被加入了新版少儿词典。"
+    },
+    {
+     "s": "Check the words in a dictionary.",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在词典里查这些词。"
+    },
+    {
+     "s": "Check the words in a dictionary.",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在词典里查这些词。"
+    },
+    {
+     "s": "Dictionaries are still a useful tool.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "词典仍然是有用的工具。"
+    },
+    {
+     "s": "Open a dictionary, and you’ll be surprised to find that there are many more words about nature than you would think.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "翻开一本词典，你会惊讶地发现关于大自然的词比你想的要多得多。"
+    },
+    {
+     "s": "But there are a few things you can do… Use a dictionary: look up the difficult words.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但你可以做几件事……使用词典：查生词。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "a book that gives a list of the words of a language in alphabetical order and explains what they mean, or gives a word for them in a foreign language 词典；字典；辞书",
-      "ex": [
-        {
-          "s": "I looked pointedly at the bookshelf that held at least three dictionaries, and Kevin sighed dramatically.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我特意看了看那个至少放着三本词典的书架，凯文夸张地叹了口气。"
-        },
-        {
-          "s": "Suddenly it occurred to me that he did not even know how to use a dictionary.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我突然意识到，他甚至不知道怎么用词典。"
-        },
-        {
-          "s": "I took down one of the dictionaries, and we read it together for a few minutes before I handed it to him.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我取下其中一本词典，我们一起读了几分钟，然后递给了他。"
-        },
-        {
-          "s": "I had my first dictionary as a gift for my 13th birthday.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我的第一本词典是13岁生日时收到的礼物。"
-        },
-        {
-          "s": "I continued to make these pencil marks for years, and when I went off to college, I packed that dictionary in my suitcase.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "多年来我一直做着这些铅笔标记，离家上大学时，我把那本词典装进了行李箱。"
-        },
-        {
-          "s": "Kevin wanted to see the dictionary.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "凯文想看看那本词典。"
-        },
-        {
-          "s": "I felt a small pain in my chest The dictionary was stolen at the end of my freshman year of college.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我感到胸口隐隐作痛。那本词典在我大学一年级结束时被偷了。"
-        },
-        {
-          "s": "And it wasn't, ultimately, the dictionary that got me there — not really.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "说到底，真正让我走到今天的并不是那本词典——并不是。"
-        },
-        {
-          "s": "Consult a paper dictionary.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "查阅纸质词典。"
-        },
-        {
-          "s": "How did Kevin feel while looking up the word in the dictionary?",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "凯文在词典里查那个词时感觉如何？"
-        },
-        {
-          "s": "What can we learn about the author's first dictionary?",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "关于作者的第一本词典，我们能了解到什么？"
-        },
-        {
-          "s": "I use the Concise Oxford Dictionary and the Collins Thesaurus.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我用的是《简明牛津词典》和《柯林斯同义词典》。"
-        },
-        {
-          "s": "In addition, I have an old two-volume copy of the Shorter Oxford Dictionary, picked up a few years ago in a bookshop sale for just 99 pence.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "此外，我有一套旧的《简明牛津词典》上下两册，是几年前在书店特卖时只花99便士买到的。"
-        },
-        {
-          "s": "For well over a hundred years the most influential English dictionary was Samuel Johnson's Dictionary of the English Language published in 1755.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一百多年来，最具影响力的英语词典是Samuel Johnson于1755年出版的《英语词典》。"
-        },
-        {
-          "s": "I don't often use this dictionary.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我不常用这本词典。"
-        },
-        {
-          "s": "But a dictionary can be a pleasure to read.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "但词典也可以读得津津有味。"
-        },
-        {
-          "s": "Of course, a dictionary is not only for spelling.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当然，词典不只是用来查拼写的。"
-        },
-        {
-          "s": "Dictionaries don't always give you enough information.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "词典并不总能给你足够的信息。"
-        },
-        {
-          "s": "Miss Chevalier pretended not to have noticed my red face and handed me a dictionary, asking me to read its definition aloud.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "谢瓦利埃小姐假装没注意到我涨红的脸，递给我一本字典，让我大声读出其中的释义。"
-        },
-        {
-          "s": "By consulting the dictionary for its definitions.",
-          "src": "2024天津3月卷·阅读Passage 3",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "通过查阅词典获取其定义。"
-        },
-        {
-          "s": "Some American spellings were created by Noah Webster, who made one of America's first dictionaries.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "一些美式拼写是由诺亚·韦伯斯特创造的，他编纂了美国最早的词典之一。"
-        },
-        {
-          "s": "Due to their popularity, the Oxford Dictionaries Word of the Year in 2015 was, for the first time ever, a pictograph instead of a traditional word.",
-          "src": "外研社B5 U3",
-          "cat": "waiyan",
-          "t": "由于其流行程度，2015年《牛津词典》年度词汇首次是一个象形文字而非传统单词。"
-        },
-        {
-          "s": "He said that many words describing nature were being added to the new version of the junior dictionary.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "他说许多描述自然的词被加入了新版少儿词典。"
-        },
-        {
-          "s": "Check the words in a dictionary.",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在词典里查这些词。"
-        },
-        {
-          "s": "Check the words in a dictionary.",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在词典里查这些词。"
-        },
-        {
-          "s": "Dictionaries are still a useful tool.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "词典仍然是有用的工具。"
-        },
-        {
-          "s": "Open a dictionary, and you’ll be surprised to find that there are many more words about nature than you would think.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "翻开一本词典，你会惊讶地发现关于大自然的词比你想的要多得多。"
-        },
-        {
-          "s": "But there are a few things you can do… Use a dictionary: look up the difficult words.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但你可以做几件事……使用词典：查生词。"
-        }
-      ]
-    },
-    {
-      "def": "a book that explains the words that are used in a particular subject 专业术语大全；专业词典",
-      "ex": []
-    },
-    {
-      "def": "a list of words in electronic form, for example stored in a computer's spellchecker 电子词典",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "first dictionary",
-      "cn": "词典",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "oxford dictionary",
-      "cn": "词典",
-      "type": "名词短语",
-      "count": 3
-    }
-  ]
+  {
+   "def": "a book that explains the words that are used in a particular subject 专业术语大全；专业词典",
+   "ex": []
+  },
+  {
+   "def": "a list of words in electronic form, for example stored in a computer's spellchecker 电子词典",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
