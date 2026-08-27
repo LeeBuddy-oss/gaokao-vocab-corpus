@@ -1,57 +1,50 @@
 {
-  "meta": {
-    "ph": "ˈkæbɪdʒ; NAmE ˈkæbɪdʒ",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈkæbɪdʒ; NAmE ˈkæbɪdʒ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a round vegetable with large green, purplish-red or white leaves that can be eaten raw or cooked 甘蓝；卷心菜；洋白菜",
+   "ex": [
     {
-      "def": "a round vegetable with large green, purplish-red or white leaves that can be eaten raw or cooked 甘蓝；卷心菜；洋白菜",
-      "ex": [
-        {
-          "s": "Turning soil, pulling weeds, and harvesting cabbage sound like tough work for middle and high school kids.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "翻土、拔草和收卷心菜，对中学生和高中生来说听起来像是艰苦的劳动。"
-        },
-        {
-          "s": "The Chinese cabbage was delicious.",
-          "src": "外研社B7 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "大白菜很好吃。"
-        },
-        {
-          "s": "Chinese cabbages are a well-known subject of his works.",
-          "src": "北师大B3 U7",
-          "cat": "beishida",
-          "year": "",
-          "t": "大白菜是他作品中著名的题材。"
-        },
-        {
-          "s": "Its black eyes, which are fixed on the Chinese cabbage, show the creature's interest in the vegetable.",
-          "src": "北师大B3 U7",
-          "cat": "beishida",
-          "year": "",
-          "t": "它那盯着大白菜的黑眼睛，显露出这小家伙对这棵蔬菜的兴趣。"
-        },
-        {
-          "s": "Dumplings Main ingredients Dos 500 grams of meat, Chinese Before mixing, salt the Chinese cabbage, dumpling wrappers cabbage, let it rest for 15 minutes and press out extra Instructions water.",
-          "src": "译林选必1 U1",
-          "cat": "yilin",
-          "year": "",
-          "t": "饺子　主料　用量：500克肉、大白菜、饺子皮　做法：混合前，先给大白菜加盐，静置15分钟，挤掉多余水分。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "Turning soil, pulling weeds, and harvesting cabbage sound like tough work for middle and high school kids.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "翻土、拔草和收卷心菜，对中学生和高中生来说听起来像是艰苦的劳动。"
+    },
     {
-      "en": "chinese cabbage",
-      "cn": "大白菜",
-      "type": "名词短语",
-      "count": 4
+     "s": "The Chinese cabbage was delicious.",
+     "src": "外研社B7 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "大白菜很好吃。"
+    },
+    {
+     "s": "Chinese cabbages are a well-known subject of his works.",
+     "src": "北师大B3 U7",
+     "cat": "beishida",
+     "year": "",
+     "t": "大白菜是他作品中著名的题材。"
+    },
+    {
+     "s": "Its black eyes, which are fixed on the Chinese cabbage, show the creature's interest in the vegetable.",
+     "src": "北师大B3 U7",
+     "cat": "beishida",
+     "year": "",
+     "t": "它那盯着大白菜的黑眼睛，显露出这小家伙对这棵蔬菜的兴趣。"
+    },
+    {
+     "s": "Dumplings Main ingredients Dos 500 grams of meat, Chinese Before mixing, salt the Chinese cabbage, dumpling wrappers cabbage, let it rest for 15 minutes and press out extra Instructions water.",
+     "src": "译林选必1 U1",
+     "cat": "yilin",
+     "year": "",
+     "t": "饺子　主料　用量：500克肉、大白菜、饺子皮　做法：混合前，先给大白菜加盐，静置15分钟，挤掉多余水分。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
