@@ -1,104 +1,97 @@
 {
-  "meta": {
-    "ph": "maʊnt; NAmE maʊnt",
-    "pos": "verb;verb;verb;verb;verb;verb;noun;noun;verb;verb",
-    "stars": "★★"
+ "meta": {
+  "ph": "maʊnt; NAmE maʊnt",
+  "pos": "verb;verb;verb;verb;verb;verb;noun;noun;verb;verb",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "to organize and begin sth 准备；安排；组织开展",
+   "ex": []
   },
-  "defs": [
+  {
+   "def": "to increase gradually 逐步增加",
+   "ex": []
+  },
+  {
+   "def": "to go up sth, or up on to sth that is raised 登上；爬上；攀登",
+   "ex": [
     {
-      "def": "to organize and begin sth 准备；安排；组织开展",
-      "ex": []
+     "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
+     "src": "2023天津3月卷·完形填空",
+     "cat": "gaokao",
+     "t": "30年代初，我决定登上乞力马扎罗山，这是非洲最高的山峰，海拔5,895米。",
+     "year": 2023
     },
     {
-      "def": "to increase gradually 逐步增加",
-      "ex": []
+     "s": "While climbing Mount Qomolangma might be a step too far, you have a healthy sense of adventure.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "虽然攀登珠穆朗玛峰可能有些太过了，但你有一种健康的冒险精神。"
     },
     {
-      "def": "to go up sth, or up on to sth that is raised 登上；爬上；攀登",
-      "ex": [
-        {
-          "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "t": "30年代初，我决定登上乞力马扎罗山，这是非洲最高的山峰，海拔5,895米。",
-          "year": 2023
-        },
-        {
-          "s": "While climbing Mount Qomolangma might be a step too far, you have a healthy sense of adventure.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "虽然攀登珠穆朗玛峰可能有些太过了，但你有一种健康的冒险精神。"
-        },
-        {
-          "s": "For me, a day at work involves climbing up and down the cliffs of Mount Yuntai’s Red Stone Gorge.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "对我来说，一天的工作包括在云台山红石峡的悬崖上爬上爬下。"
-        }
-      ]
-    },
-    {
-      "def": "to get on a bicycle, horse, etc. in order to ride it 骑上；乘上；跨上",
-      "ex": []
-    },
-    {
-      "def": "to fix sth into position on sth, so that you can use it, look at it or study it 镶嵌；安置",
-      "ex": []
-    },
-    {
-      "def": "to get onto the back of a female animal in order to have sex 爬上（雌性动物的背）交配",
-      "ex": []
-    },
-    {
-      "def": "a mountain or a hill 在现代英语里仅用于地名",
-      "ex": [
-        {
-          "s": "The peak of Mount Qomolangma, 8,849 meters above sea level.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "科莫朗格马山峰，海拔8,849米。",
-          "year": 2026
-        },
-        {
-          "s": "I work on Mount Huangshan in Anhui Province, which is home to the famous Welcoming-Guest Pine.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "我在安徽省的黄山工作，这里以著名的迎客松闻名。"
-        },
-        {
-          "s": "B Youths from seven countries are working together to protect cultural relics on Mount Tai.",
-          "src": "人教B2 U1",
-          "cat": "renjiao",
-          "t": "B 来自七个国家的年轻人正在共同努力保护泰山上的文物。"
-        }
-      ]
-    },
-    {
-      "def": "a horse that you ride on 坐骑",
-      "ex": []
-    },
-    {
-      "def": "something such as a piece of card or glass that you put sth on or attach sth to, to display it 衬纸板；载片；裱褙",
-      "ex": [
-        {
-          "s": "This creates amazing natural features, including Mount Qomolangma, the Dead Sea, and rivers, such as the Nile, the Mississippi and the Yangtze.",
-          "src": "外研社B7 U5",
-          "cat": "waiyan",
-          "t": "这创造了令人惊叹的自然特征，包括珠穆朗玛峰、死海，以及尼罗河、密西西比河和长江等河流。"
-        }
-      ]
-    },
-    {
-      "def": "something that an object stands on or is attached to for support 托架；支撑架",
-      "ex": []
+     "s": "For me, a day at work involves climbing up and down the cliffs of Mount Yuntai’s Red Stone Gorge.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "对我来说，一天的工作包括在云台山红石峡的悬崖上爬上爬下。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to get on a bicycle, horse, etc. in order to ride it 骑上；乘上；跨上",
+   "ex": []
+  },
+  {
+   "def": "to fix sth into position on sth, so that you can use it, look at it or study it 镶嵌；安置",
+   "ex": []
+  },
+  {
+   "def": "to get onto the back of a female animal in order to have sex 爬上（雌性动物的背）交配",
+   "ex": []
+  },
+  {
+   "def": "a mountain or a hill 在现代英语里仅用于地名",
+   "ex": [
     {
-      "en": "mount qomolangma",
-      "cn": "准备",
-      "type": "名词短语",
-      "count": 3
+     "s": "The peak of Mount Qomolangma, 8,849 meters above sea level.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "t": "科莫朗格马山峰，海拔8,849米。",
+     "year": 2026
+    },
+    {
+     "s": "I work on Mount Huangshan in Anhui Province, which is home to the famous Welcoming-Guest Pine.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "我在安徽省的黄山工作，这里以著名的迎客松闻名。"
+    },
+    {
+     "s": "B Youths from seven countries are working together to protect cultural relics on Mount Tai.",
+     "src": "人教B2 U1",
+     "cat": "renjiao",
+     "t": "B 来自七个国家的年轻人正在共同努力保护泰山上的文物。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a horse that you ride on 坐骑",
+   "ex": []
+  },
+  {
+   "def": "something such as a piece of card or glass that you put sth on or attach sth to, to display it 衬纸板；载片；裱褙",
+   "ex": [
+    {
+     "s": "This creates amazing natural features, including Mount Qomolangma, the Dead Sea, and rivers, such as the Nile, the Mississippi and the Yangtze.",
+     "src": "外研社B7 U5",
+     "cat": "waiyan",
+     "t": "这创造了令人惊叹的自然特征，包括珠穆朗玛峰、死海，以及尼罗河、密西西比河和长江等河流。"
+    }
+   ]
+  },
+  {
+   "def": "something that an object stands on or is attached to for support 托架；支撑架",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
