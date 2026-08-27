@@ -1,75 +1,68 @@
 {
-  "meta": {
-    "ph": "ˈmædəm; NAmE ˈmædəm",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈmædəm; NAmE ˈmædəm",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "夫人；女士",
+   "ex": [
+    {
+     "s": "Dear Sir/Madam,",
+     "src": "2023天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "尊敬的先生/女士："
+    },
+    {
+     "s": "“Sorry, madam, I have underestimated you as I didn’t know your background. ”",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“对不起，女士，我低估了您，因为我不知道您的背景。”"
+    },
+    {
+     "s": "Dear Sir/Madam, Yours faithfully, (signature) Draft a letter to the WWF * Expanding Your World U R B A N W I L D L I F E Cities are diverse ecosystems.",
+     "src": "人教B2 U5",
+     "cat": "renjiao",
+     "t": "尊敬的先生/女士，此致敬礼，（签名）给世界自然基金会起草一封信 *拓展你的世界 城市野生动植物 城市是多样的生态系统。"
+    },
+    {
+     "s": "Dear Sir/Madam, I would like to apply for the position of camp helper.",
+     "src": "人教选必4 U5",
+     "cat": "renjiao",
+     "t": "尊敬的先生/女士，我想申请营地助手一职。"
+    },
+    {
+     "s": "At first not recognising Mathilde, Madam Forestier is shocked by her friend's haggards appearance.",
+     "src": "北师大选必1 U3",
+     "cat": "beishida",
+     "t": "起初没有认出玛蒂尔德，弗雷斯蒂埃夫人被朋友憔悴的外表震惊了。"
+    },
+    {
+     "s": "Applicant: Yes, madam, I do.",
+     "src": "译林选必4 U3",
+     "cat": "yilin",
+     "t": "申请人：是的，女士，我可以。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a girl or young woman who expects other people to do what she wants 喜欢支使别人的年轻女子；任性妄为的年轻女子",
+   "ex": [
     {
-      "def": "夫人；女士",
-      "ex": [
-        {
-          "s": "Dear Sir/Madam,",
-          "src": "2023天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "尊敬的先生/女士："
-        },
-        {
-          "s": "“Sorry, madam, I have underestimated you as I didn’t know your background. ”",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“对不起，女士，我低估了您，因为我不知道您的背景。”"
-        },
-        {
-          "s": "Dear Sir/Madam, Yours faithfully, (signature) Draft a letter to the WWF * Expanding Your World U R B A N W I L D L I F E Cities are diverse ecosystems.",
-          "src": "人教B2 U5",
-          "cat": "renjiao",
-          "t": "尊敬的先生/女士，此致敬礼，（签名）给世界自然基金会起草一封信 *拓展你的世界 城市野生动植物 城市是多样的生态系统。"
-        },
-        {
-          "s": "Dear Sir/Madam, I would like to apply for the position of camp helper.",
-          "src": "人教选必4 U5",
-          "cat": "renjiao",
-          "t": "尊敬的先生/女士，我想申请营地助手一职。"
-        },
-        {
-          "s": "At first not recognising Mathilde, Madam Forestier is shocked by her friend's haggards appearance.",
-          "src": "北师大选必1 U3",
-          "cat": "beishida",
-          "t": "起初没有认出玛蒂尔德，弗雷斯蒂埃夫人被朋友憔悴的外表震惊了。"
-        },
-        {
-          "s": "Applicant: Yes, madam, I do.",
-          "src": "译林选必4 U3",
-          "cat": "yilin",
-          "t": "申请人：是的，女士，我可以。"
-        }
-      ]
-    },
-    {
-      "def": "a girl or young woman who expects other people to do what she wants 喜欢支使别人的年轻女子；任性妄为的年轻女子",
-      "ex": [
-        {
-          "s": "Learning about the format When you write a formal letter, you should begin with Dear Sir/Madam or Dear Mr/Miss/Mrs/Ms ...",
-          "src": "译林B2 U4",
-          "cat": "yilin",
-          "t": "了解格式：当你写一封正式信函时，应该以Dear Sir/Madam或Dear Mr/Miss/Mrs/Ms开头。"
-        }
-      ]
-    },
-    {
-      "def": "a woman who is in charge of the prostitutes in a brothel 老鸨；鸨母；妓院女老板",
-      "ex": []
+     "s": "Learning about the format When you write a formal letter, you should begin with Dear Sir/Madam or Dear Mr/Miss/Mrs/Ms ...",
+     "src": "译林B2 U4",
+     "cat": "yilin",
+     "t": "了解格式：当你写一封正式信函时，应该以Dear Sir/Madam或Dear Mr/Miss/Mrs/Ms开头。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "madam i",
-      "cn": "夫人我",
-      "type": "名词短语",
-      "count": 3
-    }
-  ]
+   ]
+  },
+  {
+   "def": "a woman who is in charge of the prostitutes in a brothel 老鸨；鸨母；妓院女老板",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
