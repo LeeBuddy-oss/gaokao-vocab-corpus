@@ -1,292 +1,286 @@
 {
-  "meta": {
-    "ph": "miːl; NAmE miːl",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "miːl; NAmE miːl",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "an occasion when people sit down to eat food, especially breakfast, lunch or dinner 早（或午、晚）餐；一顿饭",
+   "ex": [
+    {
+     "s": "They cook meals for her.",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他们为她做饭。"
+    },
+    {
+     "s": "Volunteers will wash, cut, and freeze or dry them for use in meals down the road.",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "志愿者们会将它们清洗、切块、冷冻或干燥，以便日后用于餐食中。"
+    },
+    {
+     "s": "I always assist my parents in doing the dish after meals.",
+     "src": "2021全国乙卷·短文改错",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在我看来学生可以从做家务中受益良多。"
+    },
+    {
+     "s": "The trend of having meals alone.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "独自就餐的趋势。"
+    },
+    {
+     "s": "We like cooking at home and make our meals from fresh, seasonal fruit and vegetables.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我们喜欢在家做饭，用新鲜的时令水果和蔬菜来做。"
+    },
+    {
+     "s": "I know we should eat more fresh fruit and vegetables, but ready meals are so convenient.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我知道我们应该多吃新鲜水果和蔬菜，但即食食品太方便了。"
+    },
+    {
+     "s": "The atmosphere here made the meal all the more enjoyed.",
+     "src": "2024全国甲卷·第四部分 写作",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这里的氛围让这顿饭更加令人享受。"
+    },
+    {
+     "s": "The young banker who eats lunch at his desk is probably seen as a go-getter, while his colleagues who chat over a relaxed conference-room meal get dirty looks from the corner office.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "那个在办公桌前吃午餐的年轻银行家可能被视为有上进心的人，而他在会议室轻松用餐的同事则会从角落办公室投来厌恶的目光。"
+    },
+    {
+     "s": "Some were better off than others, but they all needed a good meal and a warm place to eat.",
+     "src": "2022浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "有些人比其他人境况好些，但他们都需要一顿好饭和一个温暖的就餐地方。"
+    },
+    {
+     "s": "On the other occasion, they ate a rich morning meal about two hours before they started walking.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然后，在这些男性两次早上访问实验室时，每个人都以平均速度步行一小时，理论上应该让身体主要依靠脂肪作为燃料。"
+    },
+    {
+     "s": "Sit and eat his meal.",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "坐下来吃他的饭。"
+    },
+    {
+     "s": "You can plant a tree，make a meal with locally grown vegetables，or save power—the possibilities are endless.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "你可以种一棵树、用本地蔬菜做一顿饭，或节约用电——可能性无穷无尽。"
+    },
+    {
+     "s": "It’s thanks to these TV chefs rather than any advertising campaign that Britons are turning away from meat-and-two-veg and ready-made meals and becoming more adventurous in their cooking habits.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "多亏了这些电视厨师而不是任何广告宣传活动，英国人正在远离“一肉两菜”和即食餐，在烹饪习惯上变得更具冒险精神。"
+    },
+    {
+     "s": "I guess I’ve always been a big meat eater and in this house, no family meal is complete without some form of meat.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我想我一直是一个大型肉食者，在这所房子里，没有某种形式的肉类，任何家庭用餐都是不完整的。"
+    },
+    {
+     "s": "Don't swallow a meal on the way to work.",
+     "src": "2024全国甲卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "别在去上班的路上狼吞虎咽一顿饭。"
+    },
+    {
+     "s": "Since it wasn't dark yet after the meal, I decided to walk home from the restaurant.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "因为饭后天还没黑，我决定从餐厅走路回家。"
+    },
+    {
+     "s": "Knowing some tips will help ensure that you have an enjoyable meal with friends or family — no matter where you are in the world.",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "了解一些小贴士将有助于确保你与朋友或家人享用一顿愉快的餐食——无论你在世界的哪个角落。"
+    },
+    {
+     "s": "It may seem like a simple request to ask for salt and pepper at a meal",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "用餐时要求加盐和胡椒粉似乎是个简单的请求。"
+    },
+    {
+     "s": "Family Alliance Meal Delivery",
+     "src": "2021天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "家庭联盟送餐服务"
+    },
+    {
+     "s": "For those who can stomach it, working out before breakfast may be more beneficial for health than eating first, according to a study of meal timing and physical activity.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据一项关于进餐时间与身体活动的研究，对那些能承受的人来说，早餐前锻炼可能比先吃饭更有益健康。"
+    },
+    {
+     "s": "Athletes and scientists have long known that meal timing affects performance.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "对于那些能忍受的人来说，根据一项关于进餐时间和体育活动的研究，早餐前锻炼可能比先吃早餐更有益于健康。"
+    },
+    {
+     "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
+    },
+    {
+     "s": "Sixteen years  60  (early), Pahlsson had removed the diamond ring  61  (cook) a meal.",
+     "src": "2017浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "十六年____（早）之前，Pahlsson 在____（做）饭时取下了这枚钻石戒指。"
+    },
+    {
+     "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
+    },
+    {
+     "s": "And the Good Morning Britain presenter says she’s been able to put a lot of what she’s leant into practice in her own home, preparing meals for sons, Sam, 14, Finn, 13, and Jack, 11.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这位《早安英国》主持人说，她已能把学到的很多东西付诸自家实践，为14岁的萨姆、13岁的芬恩和11岁的杰克三个儿子做饭。"
+    },
+    {
+     "s": "However, far less has been known about how meal timing and exercise might affect general health.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然而，关于进餐时间和运动如何影响整体健康，人们所知要少得多。"
+    },
+    {
+     "s": "Growing up in San Francisco, Grace Young used to watch her father shop daily in Chinatown for whatever he needed to make traditional Chinese meals at home.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在旧金山长大的格雷丝·杨，常常看着父亲每天在唐人街采购，为他要在家做的传统中餐准备所需的一切。"
+    },
+    {
+     "s": "Good Morning Britain’s Susanna Reid is used to grilling guests on the sofa every morning, but she is cooking up a storm in her latest role — showing families how to prepare delicious and nutritious meals on a tight budget.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "《早安英国》的苏珊娜·里德习惯每天早上在沙发上盘问嘉宾，但在她最新的角色里，她正大显身手——教家庭如何在预算紧张的情况下准备美味又营养的饭菜。"
+    },
+    {
+     "s": "If a student gets hungry on the long drives to and from school, Wilson never   25   to buy them a meal.",
+     "src": "2019北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "如果学生在往返学校的长途车程中饿了，威尔逊从不___25___给他们买顿饭。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the food that is eaten at a meal 一餐所吃的食物",
+   "ex": [
     {
-      "def": "an occasion when people sit down to eat food, especially breakfast, lunch or dinner 早（或午、晚）餐；一顿饭",
-      "ex": [
-        {
-          "s": "They cook meals for her.",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他们为她做饭。"
-        },
-        {
-          "s": "Volunteers will wash, cut, and freeze or dry them for use in meals down the road.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "志愿者们会将它们清洗、切块、冷冻或干燥，以便日后用于餐食中。"
-        },
-        {
-          "s": "I always assist my parents in doing the dish after meals.",
-          "src": "2021全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在我看来学生可以从做家务中受益良多。"
-        },
-        {
-          "s": "The trend of having meals alone.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "独自就餐的趋势。"
-        },
-        {
-          "s": "We like cooking at home and make our meals from fresh, seasonal fruit and vegetables.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我们喜欢在家做饭，用新鲜的时令水果和蔬菜来做。"
-        },
-        {
-          "s": "I know we should eat more fresh fruit and vegetables, but ready meals are so convenient.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我知道我们应该多吃新鲜水果和蔬菜，但即食食品太方便了。"
-        },
-        {
-          "s": "The atmosphere here made the meal all the more enjoyed.",
-          "src": "2024全国甲卷·第四部分 写作",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这里的氛围让这顿饭更加令人享受。"
-        },
-        {
-          "s": "The young banker who eats lunch at his desk is probably seen as a go-getter, while his colleagues who chat over a relaxed conference-room meal get dirty looks from the corner office.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "那个在办公桌前吃午餐的年轻银行家可能被视为有上进心的人，而他在会议室轻松用餐的同事则会从角落办公室投来厌恶的目光。"
-        },
-        {
-          "s": "Some were better off than others, but they all needed a good meal and a warm place to eat.",
-          "src": "2022浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "有些人比其他人境况好些，但他们都需要一顿好饭和一个温暖的就餐地方。"
-        },
-        {
-          "s": "On the other occasion, they ate a rich morning meal about two hours before they started walking.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然后，在这些男性两次早上访问实验室时，每个人都以平均速度步行一小时，理论上应该让身体主要依靠脂肪作为燃料。"
-        },
-        {
-          "s": "Sit and eat his meal.",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "坐下来吃他的饭。"
-        },
-        {
-          "s": "You can plant a tree，make a meal with locally grown vegetables，or save power—the possibilities are endless.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "你可以种一棵树、用本地蔬菜做一顿饭，或节约用电——可能性无穷无尽。"
-        },
-        {
-          "s": "It’s thanks to these TV chefs rather than any advertising campaign that Britons are turning away from meat-and-two-veg and ready-made meals and becoming more adventurous in their cooking habits.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "多亏了这些电视厨师而不是任何广告宣传活动，英国人正在远离“一肉两菜”和即食餐，在烹饪习惯上变得更具冒险精神。"
-        },
-        {
-          "s": "I guess I’ve always been a big meat eater and in this house, no family meal is complete without some form of meat.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我想我一直是一个大型肉食者，在这所房子里，没有某种形式的肉类，任何家庭用餐都是不完整的。"
-        },
-        {
-          "s": "Don't swallow a meal on the way to work.",
-          "src": "2024全国甲卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "别在去上班的路上狼吞虎咽一顿饭。"
-        },
-        {
-          "s": "Since it wasn't dark yet after the meal, I decided to walk home from the restaurant.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "因为饭后天还没黑，我决定从餐厅走路回家。"
-        },
-        {
-          "s": "Knowing some tips will help ensure that you have an enjoyable meal with friends or family — no matter where you are in the world.",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "了解一些小贴士将有助于确保你与朋友或家人享用一顿愉快的餐食——无论你在世界的哪个角落。"
-        },
-        {
-          "s": "It may seem like a simple request to ask for salt and pepper at a meal",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "用餐时要求加盐和胡椒粉似乎是个简单的请求。"
-        },
-        {
-          "s": "Family Alliance Meal Delivery",
-          "src": "2021天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "家庭联盟送餐服务"
-        },
-        {
-          "s": "For those who can stomach it, working out before breakfast may be more beneficial for health than eating first, according to a study of meal timing and physical activity.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据一项关于进餐时间与身体活动的研究，对那些能承受的人来说，早餐前锻炼可能比先吃饭更有益健康。"
-        },
-        {
-          "s": "Athletes and scientists have long known that meal timing affects performance.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对于那些能忍受的人来说，根据一项关于进餐时间和体育活动的研究，早餐前锻炼可能比先吃早餐更有益于健康。"
-        },
-        {
-          "s": "The unwilling parent organizes the meal schedule, sends out emails, and collects money for end-of-season gifts.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "那位不情愿的家长安排用餐时间表、发送电子邮件，并为赛季末礼物筹集资金。"
-        },
-        {
-          "s": "Sixteen years  60  (early), Pahlsson had removed the diamond ring  61  (cook) a meal.",
-          "src": "2017浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "十六年____（早）之前，Pahlsson 在____（做）饭时取下了这枚钻石戒指。"
-        },
-        {
-          "s": "Since early 2020, Ms Young has raised money to buy meals from Chinatown restaurants and deliver them to those in need.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "自2020年初以来，杨女士一直在筹款购买唐人街餐厅的餐食并送给需要帮助的人。"
-        },
-        {
-          "s": "And the Good Morning Britain presenter says she’s been able to put a lot of what she’s leant into practice in her own home, preparing meals for sons, Sam, 14, Finn, 13, and Jack, 11.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这位《早安英国》主持人说，她已能把学到的很多东西付诸自家实践，为14岁的萨姆、13岁的芬恩和11岁的杰克三个儿子做饭。"
-        },
-        {
-          "s": "However, far less has been known about how meal timing and exercise might affect general health.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然而，关于进餐时间和运动如何影响整体健康，人们所知要少得多。"
-        },
-        {
-          "s": "Growing up in San Francisco, Grace Young used to watch her father shop daily in Chinatown for whatever he needed to make traditional Chinese meals at home.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在旧金山长大的格雷丝·杨，常常看着父亲每天在唐人街采购，为他要在家做的传统中餐准备所需的一切。"
-        },
-        {
-          "s": "Good Morning Britain’s Susanna Reid is used to grilling guests on the sofa every morning, but she is cooking up a storm in her latest role — showing families how to prepare delicious and nutritious meals on a tight budget.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "《早安英国》的苏珊娜·里德习惯每天早上在沙发上盘问嘉宾，但在她最新的角色里，她正大显身手——教家庭如何在预算紧张的情况下准备美味又营养的饭菜。"
-        },
-        {
-          "s": "If a student gets hungry on the long drives to and from school, Wilson never   25   to buy them a meal.",
-          "src": "2019北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "如果学生在往返学校的长途车程中饿了，威尔逊从不___25___给他们买顿饭。"
-        }
-      ]
+     "s": "Curtin is CEO of DC Central Kitchen in Washington, D.C., which recovers food and turns it into healthy meals.",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Curtin是华盛顿特区DC Central Kitchen的首席执行官，该公司回收食物并将其转化为健康餐食。"
     },
     {
-      "def": "the food that is eaten at a meal 一餐所吃的食物",
-      "ex": [
-        {
-          "s": "Curtin is CEO of DC Central Kitchen in Washington, D.C., which recovers food and turns it into healthy meals.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Curtin是华盛顿特区DC Central Kitchen的首席执行官，该公司回收食物并将其转化为健康餐食。"
-        },
-        {
-          "s": "It makes meals out of unwanted food.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它用不需要的食物制作餐食。"
-        },
-        {
-          "s": "A new report found 46 percent of meals are eaten alone in America.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一份新报告发现，美国有46%的餐食是独自吃的。"
-        },
-        {
-          "s": "Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在我眼中，露营者是那些喜欢蚊虫叮咬、半生不熟的食物和不舒服睡袋的人。"
-        },
-        {
-          "s": "I often end up saving part of my meal for the next day.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我经常把一部分饭菜留到第二天。"
-        },
-        {
-          "s": "Nevertheless, it serves as a reminder that there are many ways to address problems of sustainability, and that you can make an amazing meal out of almost anything.",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "不过，它提醒我们，解决可持续性问题的办法有很多，而且你几乎可以用任何东西做出美味的饭菜。"
-        },
-        {
-          "s": "digest the meal easilyB. manage without breakfast",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些结果的启示是，要从运动中获得最大的健康益处，不吃东西可能是明智的选择。"
-        },
-        {
-          "s": "To have a meal together.",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一起吃饭。"
-        }
-      ]
+     "s": "It makes meals out of unwanted food.",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它用不需要的食物制作餐食。"
     },
     {
-      "def": "grain that has been crushed to produce a powder, used as food for animals and for making flour 常构成复合词",
-      "ex": []
+     "s": "A new report found 46 percent of meals are eaten alone in America.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一份新报告发现，美国有46%的餐食是独自吃的。"
+    },
+    {
+     "s": "Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.",
+     "src": "2017全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在我眼中，露营者是那些喜欢蚊虫叮咬、半生不熟的食物和不舒服睡袋的人。"
+    },
+    {
+     "s": "I often end up saving part of my meal for the next day.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我经常把一部分饭菜留到第二天。"
+    },
+    {
+     "s": "Nevertheless, it serves as a reminder that there are many ways to address problems of sustainability, and that you can make an amazing meal out of almost anything.",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "不过，它提醒我们，解决可持续性问题的办法有很多，而且你几乎可以用任何东西做出美味的饭菜。"
+    },
+    {
+     "s": "digest the meal easilyB. manage without breakfast",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些结果的启示是，要从运动中获得最大的健康益处，不吃东西可能是明智的选择。"
+    },
+    {
+     "s": "To have a meal together.",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一起吃饭。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "meal from",
-      "cn": "早餐从",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "meal out",
-      "cn": "早餐出来",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+   ]
+  },
+  {
+   "def": "grain that has been crushed to produce a powder, used as food for animals and for making flour 常构成复合词",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "meal out",
+   "cn": "早餐出来",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
