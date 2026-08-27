@@ -1,132 +1,125 @@
 {
-  "meta": {
-    "ph": "sel; NAmE sel",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "sel; NAmE sel",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a room for one or more prisoners in a prison or police station 单间牢房；牢房",
+   "ex": [
+    {
+     "s": "The Next Generation Cell Phone: The Textalyzer",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "随着我们年龄增长，即使我们保持健康，心脏处理氧气的效率也不如从前了。"
+    },
+    {
+     "s": "When most of us get a text message on our cell phone from an unknown person, we usually say “sorry,    41    number!” and move on.",
+     "src": "2018全国III卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当我们大多数人在手机上收到陌生人的短信时，通常会说“抱歉，____41____号码！”然后继续。"
+    },
+    {
+     "s": "What does the woman decide to do with her cell phone in the end?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位女士最后决定怎么处理她的手机？"
+    },
+    {
+     "s": "If the Textalyzer bill becomes law, he said, \"people are going to be more afraid to put their hands on the cell phone.\"",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他说，如果Textalyzer法案成为法律，“人们会更不敢把手放在手机上。”"
+    },
+    {
+     "s": "The cells in the station were very small, cold, and damp; some did not even have light, but the immigrants had nowhere else to go.",
+     "src": "人教B3 U5",
+     "cat": "renjiao",
+     "year": "",
+     "t": "站里的牢房十分狭小、阴冷潮湿；有些甚至没有灯，但移民们无处可去。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a small room without much furniture in which a monk or nun lives （修道士或修女住的）小房间",
+   "ex": [
     {
-      "def": "a room for one or more prisoners in a prison or police station 单间牢房；牢房",
-      "ex": [
-        {
-          "s": "The Next Generation Cell Phone: The Textalyzer",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "随着我们年龄增长，即使我们保持健康，心脏处理氧气的效率也不如从前了。"
-        },
-        {
-          "s": "When most of us get a text message on our cell phone from an unknown person, we usually say “sorry,    41    number!” and move on.",
-          "src": "2018全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当我们大多数人在手机上收到陌生人的短信时，通常会说“抱歉，____41____号码！”然后继续。"
-        },
-        {
-          "s": "What does the woman decide to do with her cell phone in the end?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位女士最后决定怎么处理她的手机？"
-        },
-        {
-          "s": "If the Textalyzer bill becomes law, he said, \"people are going to be more afraid to put their hands on the cell phone.\"",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他说，如果Textalyzer法案成为法律，“人们会更不敢把手放在手机上。”"
-        },
-        {
-          "s": "The cells in the station were very small, cold, and damp; some did not even have light, but the immigrants had nowhere else to go.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "year": "",
-          "t": "站里的牢房十分狭小、阴冷潮湿；有些甚至没有灯，但移民们无处可去。"
-        }
-      ]
+     "s": "We were raised on books and computers, highways and cell phones, but now we were living in a village without running water or electricity It was easy for us to go to sleep at the end of the day feeling a little misunderstood.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们是在书本、电脑、高速公路和手机的环境中长大的，但现在却住在一个没有自来水和电的村庄。一天结束时，我们带着一点不被理解的感觉入睡是很容易的事。"
     },
     {
-      "def": "a small room without much furniture in which a monk or nun lives （修道士或修女住的）小房间",
-      "ex": [
-        {
-          "s": "We were raised on books and computers, highways and cell phones, but now we were living in a village without running water or electricity It was easy for us to go to sleep at the end of the day feeling a little misunderstood.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们是在书本、电脑、高速公路和手机的环境中长大的，但现在却住在一个没有自来水和电的村庄。一天结束时，我们带着一点不被理解的感觉入睡是很容易的事。"
-        },
-        {
-          "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "飞机向有威胁的风暴云团播撒一种化学物质，使小冰晶在长成危险的冰雹之前就以雨的形式落下。"
-        }
-      ]
-    },
-    {
-      "def": "the smallest unit of living matter that can exist on its own. All plants and animals are made up of cells. 细胞",
-      "ex": [
-        {
-          "s": "On Thursday in an article published in Cell, a team of researchers reported a new kind of adaptation - not to air or to food, but to the ocean.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "周四，一个研究团队在《细胞》发表的文章中报告了一种新的适应——不是对空气或食物，而是对海洋。"
-        },
-        {
-          "s": "But it was the effects deep within the fat cells that may have been the most significant, the researchers found.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但研究人员发现，脂肪细胞深处的影响可能是最显著的。"
-        },
-        {
-          "s": "I reckon that nanorobots that can eliminate cancerous cells are just around the corner.",
-          "src": "外研社B6 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我认为能清除癌细胞的纳米机器人指日可待。"
-        },
-        {
-          "s": "The nucleus of this cell contains all the genes needed to produce a new sheep.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "year": "",
-          "t": "这个细胞的细胞核包含所有繁育一只新羊所需的基因。"
-        },
-        {
-          "s": "The sheep cloning procedure works like this: • Female sheep A provides an egg cell.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "year": "",
-          "t": "绵羊克隆的过程是这样的：• 母羊A提供一个卵细胞。"
-        }
-      ]
-    },
-    {
-      "def": "each of the small sections that together form a larger structure, for example a honeycomb （大结构中的）小隔室（如蜂房巢室）",
-      "ex": []
-    },
-    {
-      "def": "a device for producing an electric current, for example by the action of chemicals or light 电池",
-      "ex": []
-    },
-    {
-      "def": "a small group of people who work as part of a larger political organization, especially secretly （尤指秘密的）政治小组，基层组织",
-      "ex": []
-    },
-    {
-      "def": "one of the small squares in a spreadsheet computer program in which you enter a single piece of data （计算机电子表格的）单元格",
-      "ex": []
+     "s": "Airplanes seed threatening storm cells with a chemical to make small ice crystals fall as rain before they can grow into dangerous hailstones.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "飞机向有威胁的风暴云团播撒一种化学物质，使小冰晶在长成危险的冰雹之前就以雨的形式落下。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the smallest unit of living matter that can exist on its own. All plants and animals are made up of cells. 细胞",
+   "ex": [
     {
-      "en": "cell phone",
-      "cn": "手机",
-      "type": "名词短语",
-      "count": 5
+     "s": "On Thursday in an article published in Cell, a team of researchers reported a new kind of adaptation - not to air or to food, but to the ocean.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "周四，一个研究团队在《细胞》发表的文章中报告了一种新的适应——不是对空气或食物，而是对海洋。"
+    },
+    {
+     "s": "But it was the effects deep within the fat cells that may have been the most significant, the researchers found.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但研究人员发现，脂肪细胞深处的影响可能是最显著的。"
+    },
+    {
+     "s": "I reckon that nanorobots that can eliminate cancerous cells are just around the corner.",
+     "src": "外研社B6 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我认为能清除癌细胞的纳米机器人指日可待。"
+    },
+    {
+     "s": "The nucleus of this cell contains all the genes needed to produce a new sheep.",
+     "src": "人教选必1 U5",
+     "cat": "renjiao",
+     "year": "",
+     "t": "这个细胞的细胞核包含所有繁育一只新羊所需的基因。"
+    },
+    {
+     "s": "The sheep cloning procedure works like this: • Female sheep A provides an egg cell.",
+     "src": "人教选必1 U5",
+     "cat": "renjiao",
+     "year": "",
+     "t": "绵羊克隆的过程是这样的：• 母羊A提供一个卵细胞。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "each of the small sections that together form a larger structure, for example a honeycomb （大结构中的）小隔室（如蜂房巢室）",
+   "ex": []
+  },
+  {
+   "def": "a device for producing an electric current, for example by the action of chemicals or light 电池",
+   "ex": []
+  },
+  {
+   "def": "a small group of people who work as part of a larger political organization, especially secretly （尤指秘密的）政治小组，基层组织",
+   "ex": []
+  },
+  {
+   "def": "one of the small squares in a spreadsheet computer program in which you enter a single piece of data （计算机电子表格的）单元格",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
