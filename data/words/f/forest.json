@@ -1,312 +1,294 @@
 {
-  "meta": {
-    "ph": "ˈfɒrɪst; NAmE ˈfɔːrɪst",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈfɒrɪst; NAmE ˈfɔːrɪst",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a large area of land that is thickly covered with trees 森林；林区",
+   "ex": [
+    {
+     "s": "Pick out diseased plants in the forestB.",
+     "src": "2026浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "从森林中挑选出患病植物。"
+    },
+    {
+     "s": "“If you go to a forest, you have a given environment and temperature.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“如果你走进森林，你就处在一个既定的环境和温度中。"
+    },
+    {
+     "s": "“And therefore, the perception of how the forest smells changes.”",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这种影响不仅限于森林。"
+    },
+    {
+     "s": "Forest smell is likely to be changed by perception.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "地球气味的消失可能是一种文化损失。"
+    },
+    {
+     "s": "Smell changes of forest and snow share a common underlying cause.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "森林和雪的气味变化有一个共同的深层原因。"
+    },
+    {
+     "s": "Most days after school, I love walking in the forest with my dog Nick.",
+     "src": "2025北京卷·语法填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "多数放学后，我喜欢和我的狗尼克在森林里散步。"
+    },
+    {
+     "s": "Just me, Nick, and the quiet forest",
+     "src": "2025北京卷·语法填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "只有我、尼克和安静的森林。"
+    },
+    {
+     "s": "Walk 4 — Photographic Walk in Kilbrannish Forest",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "路线4——基尔布兰尼什森林摄影徒步"
+    },
+    {
+     "s": "Bring along your camera and enjoy the wonderful views along this well-surfaced forest path.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "带上相机，沿着这条铺设平整的森林小径欣赏美景吧。"
+    },
+    {
+     "s": "Start Point: Kilbrannish Forest Recreation Area",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "起点：基尔布兰尼什森林休闲区"
+    },
+    {
+     "s": "Photographic Walk in Kilbrannish Forest",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "基尔布兰尼什森林摄影徒步"
+    },
+    {
+     "s": "Mangroves known as “red forest” in China, grow between land and sea, characterised by their complex roots.",
+     "src": "2023北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "红树林在中国被称为\"红树林\"，生长在陆地与海洋之间，以其复杂的根系为特征。"
+    },
+    {
+     "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
+    },
+    {
+     "s": "Tiny forests were first pioneered as a concept in the 1970s by Dr Miyawaki, a Japanese botanist.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "小森林的概念最早由日本植物学家宫胁博士在20世纪70年代开创。"
+    },
+    {
+     "s": "Louise Hartley, who is leading the Tiny Forest project in the UK, explains that the process begins by identifying areas in which a tiny forest could have the biggest influence.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Louise Hartley是英国微型森林项目的负责人，她解释说这个过程首先确定微型森林可能产生最大影响的区域。"
+    },
+    {
+     "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
+    },
+    {
+     "s": "What do we know about the Tiny Forest movement?",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "关于“微型森林”运动我们知道什么？"
+    },
+    {
+     "s": "What is special about the trees in a Tiny Forest?",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "微型森林中的树木有什么特别之处？"
+    },
+    {
+     "s": "They focus on snow—covered forests.",
+     "src": "2021全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它们聚焦于被雪覆盖的森林。"
+    },
+    {
+     "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。"
+    },
+    {
+     "s": "The ground floor of the forest is not all tangled leaves and bushes, like in films, but is actually fairly clear.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "森林的地面并不像电影里那样全是纠缠不清的树叶和灌木，而是实际上相当开阔。"
+    },
+    {
+     "s": "It is where dead leaves turn into food for the trees and other forest life.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们被称为热带雨林是有原因的！"
+    },
+    {
+     "s": "The forest park.",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "森林公园。"
+    },
+    {
+     "s": "The number of trees larger than two feet across has declined by 50 percent on more than 46, 000 square miles of California forests, the new study finds.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一项新研究发现，在加利福尼亚州超过46,000平方英里的森林中，直径超过两英尺的大树数量已经减少了50%。"
+    },
+    {
+     "s": "But in comparing a study of California forests done in the 1920s and 1930s with another one between 2001 and 2010, Mclntyre and his colleagues documented a widespread death of big trees that was evident even in wildlands protected from woodcutting or development.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但在将20世纪20、30年代对加州森林的研究与2001至2010年的另一项研究对比时，麦金太尔和同事记录到大树的大范围死亡，即便在受保护、免遭砍伐或开发的荒野也同样明显。"
+    },
+    {
+     "s": "The distribution of big trees in California forests.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "加州森林中大树的分布情况。"
+    },
+    {
+     "s": "Ecological studies of forests.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "对森林的生态学研究。"
+    },
+    {
+     "s": "California's Forests: Where Have All the Big Trees Gone?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "加利福尼亚的森林：大树都去哪儿了？"
+    },
+    {
+     "s": "Why Are the Big Trees Important to California Forests?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "为什么大树对加州的森林如此重要？"
+    },
+    {
+     "s": "I’m walking on a path in the forest in the Central African Republic.",
+     "src": "2018全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我走在中非共和国森林中的一条小径上。"
+    },
+    {
+     "s": "He was just saying: “I’m king of this forest, and here is your reminder!” Once his message was delivered, he allowed me    70    (stay) and watch.",
+     "src": "2018全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它只是在说：\"我是这片森林之王，这是提醒你！\"一旦传达完信息，它允许我____70____（stay）留下观察。"
+    },
+    {
+     "s": "The forest in the dark is dangerous for them．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．用我们的感官去感受世界的奇迹"
+    },
+    {
+     "s": "They went farther north into the deep forests of Canada, where there were fewer humans around.",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它们向北迁移进入加拿大深处的森林，那里人类较少。"
+    },
+    {
+     "s": "A second later, the bear turned and ran back into the forest.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "一秒钟后，熊转身跑回了森林里。"
+    },
+    {
+     "s": "There were forests, mountains with snowy tops and masses of ice.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "有森林、有雪顶的高山和大量的冰块。"
+    },
+    {
+     "s": "They change from mountains to grasslands, forests to rivers.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "它们从山脉变为草原，从森林变为河流。"
+    },
+    {
+     "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
+    },
+    {
+     "s": "Last spring in Yellowstone, I followed a path that took me through a dark forest.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "去年春天在黄石公园，我沿着一条穿过黑暗森林的小路前行。"
+    },
+    {
+     "s": "And it is not just humans who are benefiting- in Brazil, people have given a new 3D-printed shell to a turtle injured in a forest fire!",
+     "src": "外研社B3 U3",
+     "cat": "waiyan",
+     "t": "受益的不仅仅是人类——在巴西，人们给一只在森林大火中受伤的海龟装上了新的3D打印龟壳！"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "a large area of land that is thickly covered with trees 森林；林区",
-      "ex": [
-        {
-          "s": "Pick out diseased plants in the forestB.",
-          "src": "2026浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "从森林中挑选出患病植物。"
-        },
-        {
-          "s": "“If you go to a forest, you have a given environment and temperature.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“如果你走进森林，你就处在一个既定的环境和温度中。"
-        },
-        {
-          "s": "“And therefore, the perception of how the forest smells changes.”",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这种影响不仅限于森林。"
-        },
-        {
-          "s": "Forest smell is likely to be changed by perception.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "地球气味的消失可能是一种文化损失。"
-        },
-        {
-          "s": "Smell changes of forest and snow share a common underlying cause.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "森林和雪的气味变化有一个共同的深层原因。"
-        },
-        {
-          "s": "Most days after school, I love walking in the forest with my dog Nick.",
-          "src": "2025北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "多数放学后，我喜欢和我的狗尼克在森林里散步。"
-        },
-        {
-          "s": "Just me, Nick, and the quiet forest",
-          "src": "2025北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "只有我、尼克和安静的森林。"
-        },
-        {
-          "s": "Walk 4 — Photographic Walk in Kilbrannish Forest",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "路线4——基尔布兰尼什森林摄影徒步"
-        },
-        {
-          "s": "Bring along your camera and enjoy the wonderful views along this well-surfaced forest path.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "带上相机，沿着这条铺设平整的森林小径欣赏美景吧。"
-        },
-        {
-          "s": "Start Point: Kilbrannish Forest Recreation Area",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "起点：基尔布兰尼什森林休闲区"
-        },
-        {
-          "s": "Photographic Walk in Kilbrannish Forest",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "基尔布兰尼什森林摄影徒步"
-        },
-        {
-          "s": "Mangroves known as “red forest” in China, grow between land and sea, characterised by their complex roots.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "红树林在中国被称为\"红树林\"，生长在陆地与海洋之间，以其复杂的根系为特征。"
-        },
-        {
-          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
-        },
-        {
-          "s": "Tiny forests were first pioneered as a concept in the 1970s by Dr Miyawaki, a Japanese botanist.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "小森林的概念最早由日本植物学家宫胁博士在20世纪70年代开创。"
-        },
-        {
-          "s": "Louise Hartley, who is leading the Tiny Forest project in the UK, explains that the process begins by identifying areas in which a tiny forest could have the biggest influence.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Louise Hartley是英国微型森林项目的负责人，她解释说这个过程首先确定微型森林可能产生最大影响的区域。"
-        },
-        {
-          "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
-        },
-        {
-          "s": "What do we know about the Tiny Forest movement?",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于“微型森林”运动我们知道什么？"
-        },
-        {
-          "s": "What is special about the trees in a Tiny Forest?",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "微型森林中的树木有什么特别之处？"
-        },
-        {
-          "s": "They focus on snow—covered forests.",
-          "src": "2021全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它们聚焦于被雪覆盖的森林。"
-        },
-        {
-          "s": "To survive in the forest, animals must climb, jump or fly across the gaps.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了在森林中生存，动物们必须爬过、跳过或飞越这些空隙。"
-        },
-        {
-          "s": "The ground floor of the forest is not all tangled leaves and bushes, like in films, but is actually fairly clear.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "森林的地面并不像电影里那样全是纠缠不清的树叶和灌木，而是实际上相当开阔。"
-        },
-        {
-          "s": "It is where dead leaves turn into food for the trees and other forest life.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们被称为热带雨林是有原因的！"
-        },
-        {
-          "s": "The forest park.",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "森林公园。"
-        },
-        {
-          "s": "The number of trees larger than two feet across has declined by 50 percent on more than 46, 000 square miles of California forests, the new study finds.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一项新研究发现，在加利福尼亚州超过46,000平方英里的森林中，直径超过两英尺的大树数量已经减少了50%。"
-        },
-        {
-          "s": "But in comparing a study of California forests done in the 1920s and 1930s with another one between 2001 and 2010, Mclntyre and his colleagues documented a widespread death of big trees that was evident even in wildlands protected from woodcutting or development.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但在将20世纪20、30年代对加州森林的研究与2001至2010年的另一项研究对比时，麦金太尔和同事记录到大树的大范围死亡，即便在受保护、免遭砍伐或开发的荒野也同样明显。"
-        },
-        {
-          "s": "The distribution of big trees in California forests.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "加州森林中大树的分布情况。"
-        },
-        {
-          "s": "Ecological studies of forests.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "对森林的生态学研究。"
-        },
-        {
-          "s": "California's Forests: Where Have All the Big Trees Gone?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "加利福尼亚的森林：大树都去哪儿了？"
-        },
-        {
-          "s": "Why Are the Big Trees Important to California Forests?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "为什么大树对加州的森林如此重要？"
-        },
-        {
-          "s": "I’m walking on a path in the forest in the Central African Republic.",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我走在中非共和国森林中的一条小径上。"
-        },
-        {
-          "s": "He was just saying: “I’m king of this forest, and here is your reminder!” Once his message was delivered, he allowed me    70    (stay) and watch.",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它只是在说：\"我是这片森林之王，这是提醒你！\"一旦传达完信息，它允许我____70____（stay）留下观察。"
-        },
-        {
-          "s": "The forest in the dark is dangerous for them．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．用我们的感官去感受世界的奇迹"
-        },
-        {
-          "s": "They went farther north into the deep forests of Canada, where there were fewer humans around.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它们向北迁移进入加拿大深处的森林，那里人类较少。"
-        },
-        {
-          "s": "A second later, the bear turned and ran back into the forest.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "一秒钟后，熊转身跑回了森林里。"
-        },
-        {
-          "s": "There were forests, mountains with snowy tops and masses of ice.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "有森林、有雪顶的高山和大量的冰块。"
-        },
-        {
-          "s": "They change from mountains to grasslands, forests to rivers.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "它们从山脉变为草原，从森林变为河流。"
-        },
-        {
-          "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
-        },
-        {
-          "s": "Last spring in Yellowstone, I followed a path that took me through a dark forest.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "去年春天在黄石公园，我沿着一条穿过黑暗森林的小路前行。"
-        },
-        {
-          "s": "And it is not just humans who are benefiting- in Brazil, people have given a new 3D-printed shell to a turtle injured in a forest fire!",
-          "src": "外研社B3 U3",
-          "cat": "waiyan",
-          "t": "受益的不仅仅是人类——在巴西，人们给一只在森林大火中受伤的海龟装上了新的3D打印龟壳！"
-        }
-      ]
-    },
-    {
-      "def": "a mass of tall narrow objects that are close together （森林似的）一丛，一片",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "tiny forest",
-      "cn": "小森林",
-      "type": "名词短语",
-      "count": 8
-    },
-    {
-      "en": "california forests",
-      "cn": "森林",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "kilbrannish forest",
-      "cn": "森林",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "forest movement",
-      "cn": "森林运动",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "a mass of tall narrow objects that are close together （森林似的）一丛，一片",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "forest movement",
+   "cn": "森林运动",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
