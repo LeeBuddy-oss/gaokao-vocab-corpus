@@ -1,493 +1,475 @@
 {
-  "meta": {
-    "ph": "pə ˈsent; NAmE pər ˈsent",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "pə ˈsent; NAmE pər ˈsent",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "one part in every hundred 百分之 …adjectiveadverb",
+   "ex": [
+    {
+     "s": "Be demanding on yourself and expect 100 percent attention to the task.",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "对自己严格要求，期待百分之百的注意力投入到任务中。"
+    },
+    {
+     "s": "In the study, boiling hard water containing 300 milligrams of calcium carbonate led to an almost 90 percent drop in plastics.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "研究中，煮沸含有300毫克碳酸钙的硬水，使塑料含量下降了近90%。"
+    },
+    {
+     "s": "But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
+    },
+    {
+     "s": "By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "到20世纪70年代初，在定居者几个世纪残酷而持续的捕猎之后，在北部落基山脉，仅剩600到800只灰熊栖息在它们昔日活动范围的区区2%的土地上。"
+    },
+    {
+     "s": "Five percent of the highly fit women developed dementia, compared to 25 percent of the women with medium fitness and 32 percent of the women with low fitness.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "5%的高度健康女性患上痴呆症，相比之下中等健康女性为25%，低健康女性为32%。"
+    },
+    {
+     "s": "In fact, most people only absorb about 20 percent of a speaker’s message.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "事实上，大多数人只吸收了演讲者信息的约20%。"
+    },
+    {
+     "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
+    },
+    {
+     "s": "A new report found 46 percent of meals are eaten alone in America.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一份新报告发现，美国有46%的餐食是独自吃的。"
+    },
+    {
+     "s": "More than half（53 percent）have breakfast alone and nearly half（46 percent）have lunch by themselves.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "超过一半（53%）的人独自吃早餐，近半数（46%）的人独自吃午餐。"
+    },
+    {
+     "s": "Only at dinnertime are we eating together anymore，74 percent，according to statistics from the report.",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "只有晚餐时我们才会聚在一起吃饭——74%，根据该报告的统计数据。"
+    },
+    {
+     "s": "Pupils at about 90 percent of British secondary schools wear uniforms.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "约90%的英国中学生就读的学校要求学生穿校服。"
+    },
+    {
+     "s": "According to the World Bank, China accounts for about 30 percent of total   67   (globe) fertilizer consumption.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "根据世界银行，中国约占全球____67____（globe）化肥消费总量的30%。"
+    },
+    {
+     "s": "Twenty percent of the lost items are claimed in three months’ time.",
+     "src": "2018上海卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "百分之二十的遗失物品在三个月内被认领。"
+    },
+    {
+     "s": "More than 23 percent of adults and 80 percent of adolescents don't get enough physical activity, and according to a 2019 report from the World Health Organization.",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "超过23%的成年人和80%的青少年缺乏足够的身体活动，根据世界卫生组织2019年的一份报告。"
+    },
+    {
+     "s": "While 78 percent of parents said they believed they were good screen time role models, the study found a disconnect between their behavior and their perception of their behavior.",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "虽然78%的父母说他们相信自己是有良好屏幕时间榜样的人，但研究发现他们的行为与他们对自身行为的认知之间存在脱节。"
+    },
+    {
+     "s": "In 1990, immigrants numbered some 1.14 million out of Italy’s then 56.7 million people, or about 2 percent.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "1990年，移民约为114万，占当时意大利5670万人口的约2%。"
+    },
+    {
+     "s": "At the start of this year, foreigners living in Italy amounted to 4.56 million of a total population of 60.6 million, or 7.5 percent, with immigrants’ children accounting for an even larger percentage of births in Italy.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "今年年初，居住在意大利的外国人达456万，占总人口6060万的7.5%，而移民子女在意大利出生人口中所占比例甚至更高。"
+    },
+    {
+     "s": "Antarctica holds about 90 per cent of the world’s ice, with most of its fresh water in a frozen state.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "南极洲拥有全球约90%的冰，其大部分淡水处于冻结状态。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "following sth that has been decided 每；每一",
+   "ex": [
     {
-      "def": "one part in every hundred 百分之 …adjectiveadverb",
-      "ex": [
-        {
-          "s": "Be demanding on yourself and expect 100 percent attention to the task.",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "对自己严格要求，期待百分之百的注意力投入到任务中。"
-        },
-        {
-          "s": "In the study, boiling hard water containing 300 milligrams of calcium carbonate led to an almost 90 percent drop in plastics.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "研究中，煮沸含有300毫克碳酸钙的硬水，使塑料含量下降了近90%。"
-        },
-        {
-          "s": "But in samples with less than 60 milligrams of calcium carbonate, boiling reduced the level of plastics by just 25 percent.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "但在碳酸钙含量低于60毫克的样本中，煮沸只将塑料含量降低了25%。"
-        },
-        {
-          "s": "By the early 1970s, after centuries of cruel and continuous hunting by settlers, 600 to 800 grizzlies remained on a mere 2 percent of their former range in the Northern Rockies.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "到20世纪70年代初，在定居者几个世纪残酷而持续的捕猎之后，在北部落基山脉，仅剩600到800只灰熊栖息在它们昔日活动范围的区区2%的土地上。"
-        },
-        {
-          "s": "Five percent of the highly fit women developed dementia, compared to 25 percent of the women with medium fitness and 32 percent of the women with low fitness.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "5%的高度健康女性患上痴呆症，相比之下中等健康女性为25%，低健康女性为32%。"
-        },
-        {
-          "s": "In fact, most people only absorb about 20 percent of a speaker’s message.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "事实上，大多数人只吸收了演讲者信息的约20%。"
-        },
-        {
-          "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
-        },
-        {
-          "s": "A new report found 46 percent of meals are eaten alone in America.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一份新报告发现，美国有46%的餐食是独自吃的。"
-        },
-        {
-          "s": "More than half（53 percent）have breakfast alone and nearly half（46 percent）have lunch by themselves.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "超过一半（53%）的人独自吃早餐，近半数（46%）的人独自吃午餐。"
-        },
-        {
-          "s": "Only at dinnertime are we eating together anymore，74 percent，according to statistics from the report.",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "只有晚餐时我们才会聚在一起吃饭——74%，根据该报告的统计数据。"
-        },
-        {
-          "s": "Pupils at about 90 percent of British secondary schools wear uniforms.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "约90%的英国中学生就读的学校要求学生穿校服。"
-        },
-        {
-          "s": "According to the World Bank, China accounts for about 30 percent of total   67   (globe) fertilizer consumption.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据世界银行，中国约占全球____67____（globe）化肥消费总量的30%。"
-        },
-        {
-          "s": "Twenty percent of the lost items are claimed in three months’ time.",
-          "src": "2018上海卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "百分之二十的遗失物品在三个月内被认领。"
-        },
-        {
-          "s": "More than 23 percent of adults and 80 percent of adolescents don't get enough physical activity, and according to a 2019 report from the World Health Organization.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "超过23%的成年人和80%的青少年缺乏足够的身体活动，根据世界卫生组织2019年的一份报告。"
-        },
-        {
-          "s": "While 78 percent of parents said they believed they were good screen time role models, the study found a disconnect between their behavior and their perception of their behavior.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然78%的父母说他们相信自己是有良好屏幕时间榜样的人，但研究发现他们的行为与他们对自身行为的认知之间存在脱节。"
-        },
-        {
-          "s": "In 1990, immigrants numbered some 1.14 million out of Italy’s then 56.7 million people, or about 2 percent.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "1990年，移民约为114万，占当时意大利5670万人口的约2%。"
-        },
-        {
-          "s": "At the start of this year, foreigners living in Italy amounted to 4.56 million of a total population of 60.6 million, or 7.5 percent, with immigrants’ children accounting for an even larger percentage of births in Italy.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "今年年初，居住在意大利的外国人达456万，占总人口6060万的7.5%，而移民子女在意大利出生人口中所占比例甚至更高。"
-        },
-        {
-          "s": "Antarctica holds about 90 per cent of the world’s ice, with most of its fresh water in a frozen state.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "南极洲拥有全球约90%的冰，其大部分淡水处于冻结状态。"
-        }
-      ]
+     "s": "Despite a weight of up to 300 kilograms, they can run at a speed of around 64 kilometers per hour and are also excellent swimmers.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "尽管体重可达 300 公斤，它们的奔跑速度仍能达到每小时约 64 公里，而且也是出色的游泳者。"
     },
     {
-      "def": "following sth that has been decided 每；每一",
-      "ex": [
-        {
-          "s": "Despite a weight of up to 300 kilograms, they can run at a speed of around 64 kilometers per hour and are also excellent swimmers.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "尽管体重可达 300 公斤，它们的奔跑速度仍能达到每小时约 64 公里，而且也是出色的游泳者。"
-        },
-        {
-          "s": "FRESHWATER PROBLEMS in Africa by 2025 * Freshwater shortage (less than 1,000 m3/capita/year) * Freshwater stress (1,000 to 1,700 m3/capita/year) * Globally, renewable internal freshwater resource per capita was around 6,000 m3 in 2014.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "非洲2025年淡水问题 * 淡水短缺（人均每年少于1000立方米） * 淡水紧张（人均每年1000至1700立方米） * 全球范围内，2014年人均可再生内部淡水资源约6000立方米。"
-        },
-        {
-          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
-        },
-        {
-          "s": "A survey found that 29 percent of college students registered for online courses.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一项调查发现，29%的大学生注册了在线课程。"
-        },
-        {
-          "s": "New researchers found that middle-aged women who were physically fit could be nearly 90 percent less likely to develop dementia in later life, and as they did, it came on a decade later than less sporty women.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "新研究发现，身体健硕的中年女性晚年患痴呆症的可能性低近90%，而且即使患病，也比不爱运动的女性晚十年发作。"
-        },
-        {
-          "s": "It’s been reported that 76 percent of employees in some western countries are using emojis at work.",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "据报道，一些西方国家76%的员工在工作中使用表情符号。"
-        },
-        {
-          "s": "In the study, about 52 percent of the dads exhibited above-average levels of authoritative parenting. key finding is that over time, children raised by an authoritative father were significantly more likely to develop persistence, which leads to better outcomes in school.",
-          "src": "2020浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在这项研究中，约52%的父亲表现出高于平均水平的权威型育儿方式。关键发现是，随着时间的推移，由权威型父亲抚养的孩子明显更有可能培养出毅力，从而在学校取得更好的成绩。"
-        },
-        {
-          "s": "The number of trees larger than two feet across has declined by 50 percent on more than 46, 000 square miles of California forests, the new study finds.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一项新研究发现，在加利福尼亚州超过46,000平方英里的森林中，直径超过两英尺的大树数量已经减少了50%。"
-        },
-        {
-          "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
-        },
-        {
-          "s": "Corn production has jumped nearly 125 percent over   62   past 25 years, while rice has increased only 7 percent.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "玉米产量在____62____过去25年里增长了近125%，而水稻只增长了7%。"
-        },
-        {
-          "s": "In America the demand for oil has grown by 22 percent since 1990.",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "美国对石油的需求自1990年以来增长了22%。"
-        },
-        {
-          "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
-        },
-        {
-          "s": "Its population has crashed by as much as 90 per cent in the last few years.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "过去几年里，其种群数量骤减了多达90%。"
-        },
-        {
-          "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
-        },
-        {
-          "s": "You will work on a morning, afternoon or evening shift at your project site for 3 to 5 hours per day, Monday to Friday.",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "你将在周一至周五每天在项目地点工作，轮早班、午班或晚班，每天3到5小时。"
-        },
-        {
-          "s": "Completing many courses no longer brings out the feeling of success because more than four AP classes per year is a norm set by top universities.",
-          "src": "2025北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "完成许多课程不再带来成功感，因为每年超过四门AP课已是顶尖大学设定的常态。"
-        },
-        {
-          "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。"
-        },
-        {
-          "s": "The average spend per project will be around £ 823.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每个项目的平均花费约为823英镑。"
-        },
-        {
-          "s": "•Fees: $365 per week.",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "•费用：每周365美元。"
-        },
-        {
-          "s": "The day is divided into two thematic sessions per age group.",
-          "src": "2023浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "每天按年龄组分两个主题时段。"
-        },
-        {
-          "s": "40 hours per week during the summer break.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "暑假期间每周40小时。"
-        },
-        {
-          "s": "20 hours per week during the semester.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "学期期间每周20小时。"
-        },
-        {
-          "s": "2 jobs, each with 16 hours per week.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "2份工作，每份16小时/周。"
-        },
-        {
-          "s": "3 jobs, each with 2 hours per week.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "3份工作，每份2小时/周。"
-        },
-        {
-          "s": "Failure to provide enough chaperones will result in an extra charge of $50 per absent adult.",
-          "src": "2022全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "若未提供足够的监护人，每位缺席的成人将额外收取50美元。"
-        },
-        {
-          "s": "A special low entrance charge of £2 per person is available to all in full-time education, up to and including those at first degree level, in organised groups with teachers.",
-          "src": "2022全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对所有全日制教育者，包括处于本科学位层次的人，在有教师组织的团体中，每人2英镑的特别低入场费适用。"
-        },
-        {
-          "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
-        },
-        {
-          "s": "It turns out that pet transporting pays quite well at about $30, 000 per year before tax.",
-          "src": "2022浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "事实证明宠物运输报酬相当可观，税前每年约30,000美元。"
-        },
-        {
-          "s": "Tickets: £7.50 per session",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "门票：每场7.50英镑。"
-        },
-        {
-          "s": "According to her research, runners hit the ground with as much as four times their body weight per step, while race walkers, who do not leave the ground, create only about 1.4 times their body weight with each step.",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "根据她的研究，跑步者每步落地时对地面的冲击力可达体重的四倍，而竞走者不离开地面，每步只产生约1.4倍体重的冲击。"
-        },
-        {
-          "s": "In Save Money: Good Food, she visits a different home each week and with the help of chef Matt Tebbutt offers top tips on how to reduce food waste, while preparing recipes for under £5 per family a day.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在《省钱：美味食物》中，她每周走访一户不同的家庭，并在厨师马特·特巴特的帮助下，提供减少食物浪费的顶级建议，同时准备每天每户不到5英镑的食谱。"
-        },
-        {
-          "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
-        },
-        {
-          "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
-        },
-        {
-          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
-        },
-        {
-          "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
-        },
-        {
-          "s": "On the ground, it gets 35 miles per gallon.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在地面行驶时，每加仑可行驶35英里。"
-        },
-        {
-          "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
-        },
-        {
-          "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
-        },
-        {
-          "s": "On the ground, it gets 35 miles per gallon.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在地面行驶时，每加仑可行驶35英里。"
-        },
-        {
-          "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
-        },
-        {
-          "s": "Furthermore, around 50% of the world’s population live in regions where the figure is now below the replacement level (ie 2.1 births per woman) and almost all developed nations are experiencing sub-replacement birth rate.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
-        },
-        {
-          "s": "Its population has crashed by as much as 90 per cent in the last few years.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "过去几年里，其种群数量骤减了多达90%。"
-        },
-        {
-          "s": "Despite a weight of up to 300 kilograms, they can run at a speed of around 64 kilometers per hour and are also excellent swimmers.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "尽管体重可达 300 公斤，它们的奔跑速度仍能达到每小时约 64 公里，而且也是出色的游泳者。"
-        },
-        {
-          "s": "FRESHWATER PROBLEMS in Africa by 2025 * Freshwater shortage (less than 1,000 m3/capita/year) * Freshwater stress (1,000 to 1,700 m3/capita/year) * Globally, renewable internal freshwater resource per capita was around 6,000 m3 in 2014.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "非洲2025年淡水问题 * 淡水短缺（人均每年少于1000立方米） * 淡水紧张（人均每年1000至1700立方米） * 全球范围内，2014年人均可再生内部淡水资源约6000立方米。"
-        },
-        {
-          "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
-          "src": "外研社B3 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
-        },
-        {
-          "s": "Antarctica holds about 90 per cent of the world’s ice, with most of its fresh water in a frozen state.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "南极洲拥有全球约90%的冰，其大部分淡水处于冻结状态。"
-        }
-      ]
+     "s": "FRESHWATER PROBLEMS in Africa by 2025 * Freshwater shortage (less than 1,000 m3/capita/year) * Freshwater stress (1,000 to 1,700 m3/capita/year) * Globally, renewable internal freshwater resource per capita was around 6,000 m3 in 2014.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "非洲2025年淡水问题 * 淡水短缺（人均每年少于1000立方米） * 淡水紧张（人均每年1000至1700立方米） * 全球范围内，2014年人均可再生内部淡水资源约6000立方米。"
+    },
+    {
+     "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
+    },
+    {
+     "s": "A survey found that 29 percent of college students registered for online courses.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一项调查发现，29%的大学生注册了在线课程。"
+    },
+    {
+     "s": "New researchers found that middle-aged women who were physically fit could be nearly 90 percent less likely to develop dementia in later life, and as they did, it came on a decade later than less sporty women.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "新研究发现，身体健硕的中年女性晚年患痴呆症的可能性低近90%，而且即使患病，也比不爱运动的女性晚十年发作。"
+    },
+    {
+     "s": "It’s been reported that 76 percent of employees in some western countries are using emojis at work.",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "据报道，一些西方国家76%的员工在工作中使用表情符号。"
+    },
+    {
+     "s": "In the study, about 52 percent of the dads exhibited above-average levels of authoritative parenting. key finding is that over time, children raised by an authoritative father were significantly more likely to develop persistence, which leads to better outcomes in school.",
+     "src": "2020浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在这项研究中，约52%的父亲表现出高于平均水平的权威型育儿方式。关键发现是，随着时间的推移，由权威型父亲抚养的孩子明显更有可能培养出毅力，从而在学校取得更好的成绩。"
+    },
+    {
+     "s": "The number of trees larger than two feet across has declined by 50 percent on more than 46, 000 square miles of California forests, the new study finds.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一项新研究发现，在加利福尼亚州超过46,000平方英里的森林中，直径超过两英尺的大树数量已经减少了50%。"
+    },
+    {
+     "s": "In the Sierra high country, the number of big trees has fallen by more than 55 percent; in parts of southern California the decline was nearly 75 percent.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在内华达高海拔地区，大树的数量下降了超过55%；在南加州部分地区，下降幅度接近75%。"
+    },
+    {
+     "s": "Corn production has jumped nearly 125 percent over   62   past 25 years, while rice has increased only 7 percent.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "玉米产量在____62____过去25年里增长了近125%，而水稻只增长了7%。"
+    },
+    {
+     "s": "In America the demand for oil has grown by 22 percent since 1990.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "美国对石油的需求自1990年以来增长了22%。"
+    },
+    {
+     "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
+     "src": "2017北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
+    },
+    {
+     "s": "Its population has crashed by as much as 90 per cent in the last few years.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "过去几年里，其种群数量骤减了多达90%。"
+    },
+    {
+     "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
+    },
+    {
+     "s": "You will work on a morning, afternoon or evening shift at your project site for 3 to 5 hours per day, Monday to Friday.",
+     "src": "2026北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "你将在周一至周五每天在项目地点工作，轮早班、午班或晚班，每天3到5小时。"
+    },
+    {
+     "s": "Completing many courses no longer brings out the feeling of success because more than four AP classes per year is a norm set by top universities.",
+     "src": "2025北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "完成许多课程不再带来成功感，因为每年超过四门AP课已是顶尖大学设定的常态。"
+    },
+    {
+     "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。"
+    },
+    {
+     "s": "The average spend per project will be around £ 823.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "每个项目的平均花费约为823英镑。"
+    },
+    {
+     "s": "•Fees: $365 per week.",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "•费用：每周365美元。"
+    },
+    {
+     "s": "The day is divided into two thematic sessions per age group.",
+     "src": "2023浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "每天按年龄组分两个主题时段。"
+    },
+    {
+     "s": "40 hours per week during the summer break.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "暑假期间每周40小时。"
+    },
+    {
+     "s": "20 hours per week during the semester.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "学期期间每周20小时。"
+    },
+    {
+     "s": "2 jobs, each with 16 hours per week.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "2份工作，每份16小时/周。"
+    },
+    {
+     "s": "3 jobs, each with 2 hours per week.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "3份工作，每份2小时/周。"
+    },
+    {
+     "s": "Failure to provide enough chaperones will result in an extra charge of $50 per absent adult.",
+     "src": "2022全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "若未提供足够的监护人，每位缺席的成人将额外收取50美元。"
+    },
+    {
+     "s": "A special low entrance charge of £2 per person is available to all in full-time education, up to and including those at first degree level, in organised groups with teachers.",
+     "src": "2022全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对所有全日制教育者，包括处于本科学位层次的人，在有教师组织的团体中，每人2英镑的特别低入场费适用。"
+    },
+    {
+     "s": "Fruit juices, milk-based drinks and most alcoholic drinks are free of the tax, as are small companies manufacturing fewer than 1m litres per year.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "帮助下一代拥有健康活跃的童年非常重要，行业也在尽自己的一份力。"
+    },
+    {
+     "s": "It turns out that pet transporting pays quite well at about $30, 000 per year before tax.",
+     "src": "2022浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "事实证明宠物运输报酬相当可观，税前每年约30,000美元。"
+    },
+    {
+     "s": "Tickets: £7.50 per session",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "门票：每场7.50英镑。"
+    },
+    {
+     "s": "According to her research, runners hit the ground with as much as four times their body weight per step, while race walkers, who do not leave the ground, create only about 1.4 times their body weight with each step.",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "根据她的研究，跑步者每步落地时对地面的冲击力可达体重的四倍，而竞走者不离开地面，每步只产生约1.4倍体重的冲击。"
+    },
+    {
+     "s": "In Save Money: Good Food, she visits a different home each week and with the help of chef Matt Tebbutt offers top tips on how to reduce food waste, while preparing recipes for under £5 per family a day.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在《省钱：美味食物》中，她每周走访一户不同的家庭，并在厨师马特·特巴特的帮助下，提供减少食物浪费的顶级建议，同时准备每天每户不到5英镑的食谱。"
+    },
+    {
+     "s": "The average number of electronic devices rose from four per household in 1992 to 13 in 2007.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "电子设备的平均数量从1992年的每户4台增加到了2007年的13台。"
+    },
+    {
+     "s": "But the amount of time spent in reading each session has declined, from closer to an hour or more to closer to a half hour per session.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但每次阅读所花时间下降了，从接近一小时或更多，降到接近每次半小时。"
+    },
+    {
+     "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
+    },
+    {
+     "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
+    },
+    {
+     "s": "On the ground, it gets 35 miles per gallon.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在地面行驶时，每加仑可行驶35英里。"
+    },
+    {
+     "s": "The Transition, which flew at 1,400 feet for eight minutes last month, can reach around 70 miles per hour on the road and 115 in the air.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "Transition上个月以1400英尺的高度飞行了8分钟，在公路上时速可达70英里左右，在空中可达115英里。"
+    },
+    {
+     "s": "It flies using a 23-gallon tank of gas and bums 5 gallons per hour in the air.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它使用一个23加仑的油箱飞行，在空中每小时消耗5加仑汽油。"
+    },
+    {
+     "s": "On the ground, it gets 35 miles per gallon.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在地面行驶时，每加仑可行驶35英里。"
+    },
+    {
+     "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
+    },
+    {
+     "s": "Furthermore, around 50% of the world’s population live in regions where the figure is now below the replacement level (ie 2.1 births per woman) and almost all developed nations are experiencing sub-replacement birth rate.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "此外，约50%的世界人口生活在生育率目前低于替代水平（即每名女性2.1个孩子）的地区，几乎所有发达国家都在经历低于替代水平的生育率。"
+    },
+    {
+     "s": "Its population has crashed by as much as 90 per cent in the last few years.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "过去几年里，其种群数量骤减了多达90%。"
+    },
+    {
+     "s": "Despite a weight of up to 300 kilograms, they can run at a speed of around 64 kilometers per hour and are also excellent swimmers.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "尽管体重可达 300 公斤，它们的奔跑速度仍能达到每小时约 64 公里，而且也是出色的游泳者。"
+    },
+    {
+     "s": "FRESHWATER PROBLEMS in Africa by 2025 * Freshwater shortage (less than 1,000 m3/capita/year) * Freshwater stress (1,000 to 1,700 m3/capita/year) * Globally, renewable internal freshwater resource per capita was around 6,000 m3 in 2014.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "非洲2025年淡水问题 * 淡水短缺（人均每年少于1000立方米） * 淡水紧张（人均每年1000至1700立方米） * 全球范围内，2014年人均可再生内部淡水资源约6000立方米。"
+    },
+    {
+     "s": "He used donated funds and his own money to pay the 50 pounds per child that the British government required.",
+     "src": "外研社B3 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "他用捐赠的资金和自己的钱来支付英国政府要求的每个孩子50英镑的费用。"
+    },
+    {
+     "s": "Antarctica holds about 90 per cent of the world’s ice, with most of its fresh water in a frozen state.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "南极洲拥有全球约90%的冰，其大部分淡水处于冻结状态。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "hours per",
-      "cn": "每小时",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
-      "en": "per hour",
-      "cn": "每小时",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
-      "en": "per week",
-      "cn": "每周",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "miles per",
-      "cn": "每英里",
-      "type": "名词短语",
-      "count": 4
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "per hour",
+   "cn": "每小时",
+   "type": "名词短语",
+   "count": 6
+  }
+ ]
 }
