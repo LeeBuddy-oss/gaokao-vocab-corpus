@@ -1,260 +1,253 @@
 {
-  "meta": {
-    "ph": "striːt; NAmE striːt",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "striːt; NAmE striːt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a public road in a city or town that has houses and buildings on one side or both sides 大街；街道",
+   "ex": [
     {
-      "def": "a public road in a city or town that has houses and buildings on one side or both sides 大街；街道",
-      "ex": [
-        {
-          "s": "Right across the street, Sonder Lüim Hotel offers spacious rooms and a rooftop pool.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "就在街对面，Sonder Lüim酒店提供宽敞的客房和屋顶泳池。"
-        },
-        {
-          "s": "Little do they know that as they do so, a burst of energy is sent up to street level to help charge an electric car.",
-          "src": "2026新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "他们几乎不知道，在这么做的同时，一股能量被传送到街道层面，用来给一辆电动汽车充电。"
-        },
-        {
-          "s": "In their new book Movement: How to Take Back Our Streets and Transform Our Lives, they call for a rethink of our streets and the role they play in our lives.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在他们的新书《Movement：如何收回我们的街道并改变我们的生活》中，他们呼吁重新思考街道及其在我们生活中的作用。"
-        },
-        {
-          "s": "Life on city streets started to change decades ago.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "几十年前，城市街道上的生活开始发生变化。"
-        },
-        {
-          "s": "My mobile phone was inside, but luckily there was a telephone box across the street.",
-          "src": "2024浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我的手机在屋里，但幸好街对面有个电话亭。"
-        },
-        {
-          "s": "One day, I saw a boy walking along George Street with an armful of books.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "有一天，我看见一个男孩抱着一摞书沿乔治街走着。"
-        },
-        {
-          "s": "Wendy Wilson, extra care manager at 60 Penfold Street, one of the first to embark on the project, said: “Residents really welcome the idea of the project and the creative sessions.",
-          "src": "2022全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Penfold街60号的额外护理经理Wendy Wilson是最早参与该项目的人之一，她说：\"居民们非常欢迎这个项目和创意活动。"
-        },
-        {
-          "s": "Walking through the streets of Brooklyn today, I am no longer confused by this city’s sounds and smells.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "今天走在布鲁克林的街道上，我不再对这个城市的声音和气味感到困惑。"
-        },
-        {
-          "s": "How long until they go the way of gas street lamps and morning milk deliveries?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "还要多久它们会像煤气路灯和早晨送牛奶一样被淘汰？"
-        },
-        {
-          "s": "The technology, Strano said, could one day be used to light the rooms or even to turn tree into self-powered street lamps.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "将来，该团队希望能开发出一种可以喷洒在植物叶片上的一次性处理版本，能在植物的整个生命周期内持续有效。"
-        },
-        {
-          "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在成为许多英国街道的重要组成部分后，电话亭在1980年代开始消失，随着手机的兴起，大多数被送到了废品收购站。"
-        },
-        {
-          "s": "Normally, towns use rock salt to de-ice streets.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通常，城镇使用岩盐来为街道除冰。"
-        },
-        {
-          "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
-        },
-        {
-          "s": "They performed their first concert in America at CBS television's 53rd street studio.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "他们在CBS电视台的53街工作室表演了他们在美国的首场演唱会。"
-        },
-        {
-          "s": "To think he is sleeping on the streets tonight    26    he could have stolen the money and paid for a place to stay in.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "想到他今晚睡在街上    26    他本可以偷了那笔钱来付住处的费用。"
-        },
-        {
-          "s": "She’d watch me coming down her street, and by the time I’d biked up to her doorstep, there’d be a cold drink waiting.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她看着我沿着她的街道走过来，等我骑到她家门口时，那里已经放着一杯冷饮等着我了。"
-        },
-        {
-          "s": "What would Peter and his family like to do on Beale Street?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "彼得和他家人想在比尔街做什么？"
-        },
-        {
-          "s": "The authors of Movement have it right: it’s time to think differently about that street outside your front door.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "《运动》一书的作者说得对：是时候用不同的眼光看待你家前门外的那条街了。"
-        },
-        {
-          "s": "Mrs Hill’s front window faced Mr and Mrs Green’s house across the street.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "希尔太太家的前窗正对着街对面格林夫妇的房子。"
-        },
-        {
-          "s": "He rushed out of Mrs Hill’s house and crossed the street quickly.",
-          "src": "2025浙江1月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他冲出希尔太太的家，迅速穿过街道。"
-        },
-        {
-          "s": "For example, The street was long and dark, and there was no one around...",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "例如，街道又长又暗，周围一个人也没有……"
-        },
-        {
-          "s": "Go along the street and turn left at the third street on the left.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "沿着这条街走，在第三条街左转。"
-        },
-        {
-          "s": "When the accident happened, I was walking along the street.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "事故发生时，我正沿街走。"
-        },
-        {
-          "s": "Do not stand near street lights or under power lines.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "不要站在路灯下或电线下面。"
-        },
-        {
-          "s": "After becoming an important part of many British streets, the phone boxes began disappearing in the 1980s, with the rise of the mobile phone sending most of them away to the junkyards.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在成为许多英国街道的重要组成部分后，电话亭从20世纪80年代开始逐渐消失，随着手机的兴起，大多数被送进了垃圾场。"
-        },
-        {
-          "s": "People tend to lake pride in keeping everything in their street fresh and inviting.",
-          "src": "2018浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们往往以保持街道上的一切清新、诱人为荣。"
-        },
-        {
-          "s": "Now he hopes that other cities will consider making their streets run smarter instead of just making them bigger.",
-          "src": "2020浙江7月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "现在，他希望其他城市能够考虑让它们的街道变得更智能，而不仅仅是让它们变得更大。"
-        },
-        {
-          "s": "People have been approaching him in the street; he’s had job    34    and all sorts,” Mr Anderson commented.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们在大街上找他搭话；他有了工作____34____和各种各样的事，”安德森先生评论道。"
-        }
-      ]
+     "s": "Right across the street, Sonder Lüim Hotel offers spacious rooms and a rooftop pool.",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "就在街对面，Sonder Lüim酒店提供宽敞的客房和屋顶泳池。"
     },
     {
-      "def": "the ideas and opinions of ordinary people, especially people who live in cities, which are considered important （尤指城市里）街头民意",
-      "ex": [
-        {
-          "s": "But the   16   would no doubt be greater if you were living on the streets with little food and money.",
-          "src": "2018北京卷·The Homeless Hero",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但如果你流浪街头，缺吃少钱，这种____16____无疑会更大。"
-        },
-        {
-          "s": "● 34  Each interview that you get on the street shouldn’t be longer than ten minutes.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "● 34 你在街头做的每次采访不应超过十分钟。"
-        },
-        {
-          "s": "He developed a talent for football by kicking a ball made of rubbish around the streets.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "他在街头踢用垃圾做成的球，练就了足球天赋。"
-        },
-        {
-          "s": "While eating and enjoying street performances, they chat with each other and share stories of their daily lives.",
-          "src": "2026新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "人们一边吃吃喝喝、欣赏街头表演，一边相互聊天，分享日常生活的故事。"
-        },
-        {
-          "s": "From broadcasting to street art, these are just 4 of the 17 highly unique camps being offered.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从广播到街头艺术，这些只是所开设的17个极具特色的营会中的4个。"
-        },
-        {
-          "s": "Wander among a variety of shops selling gifts while enjoying a live music show and nice street entertainment.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在售卖礼品的各类店铺间漫步，同时享受现场音乐表演和精彩的街头娱乐。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "Little do they know that as they do so, a burst of energy is sent up to street level to help charge an electric car.",
+     "src": "2026新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "他们几乎不知道，在这么做的同时，一股能量被传送到街道层面，用来给一辆电动汽车充电。"
+    },
     {
-      "en": "street lamp",
-      "cn": "大街灯",
-      "type": "名词短语",
-      "count": 2
+     "s": "In their new book Movement: How to Take Back Our Streets and Transform Our Lives, they call for a rethink of our streets and the role they play in our lives.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在他们的新书《Movement：如何收回我们的街道并改变我们的生活》中，他们呼吁重新思考街道及其在我们生活中的作用。"
+    },
+    {
+     "s": "Life on city streets started to change decades ago.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "几十年前，城市街道上的生活开始发生变化。"
+    },
+    {
+     "s": "My mobile phone was inside, but luckily there was a telephone box across the street.",
+     "src": "2024浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我的手机在屋里，但幸好街对面有个电话亭。"
+    },
+    {
+     "s": "One day, I saw a boy walking along George Street with an armful of books.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "有一天，我看见一个男孩抱着一摞书沿乔治街走着。"
+    },
+    {
+     "s": "Wendy Wilson, extra care manager at 60 Penfold Street, one of the first to embark on the project, said: “Residents really welcome the idea of the project and the creative sessions.",
+     "src": "2022全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Penfold街60号的额外护理经理Wendy Wilson是最早参与该项目的人之一，她说：\"居民们非常欢迎这个项目和创意活动。"
+    },
+    {
+     "s": "Walking through the streets of Brooklyn today, I am no longer confused by this city’s sounds and smells.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "今天走在布鲁克林的街道上，我不再对这个城市的声音和气味感到困惑。"
+    },
+    {
+     "s": "How long until they go the way of gas street lamps and morning milk deliveries?",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "还要多久它们会像煤气路灯和早晨送牛奶一样被淘汰？"
+    },
+    {
+     "s": "The technology, Strano said, could one day be used to light the rooms or even to turn tree into self-powered street lamps.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "将来，该团队希望能开发出一种可以喷洒在植物叶片上的一次性处理版本，能在植物的整个生命周期内持续有效。"
+    },
+    {
+     "s": "About that time, Tony Inglis’ engineering and transport company got the job to remove phone boxes from the streets and sell them out.",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在成为许多英国街道的重要组成部分后，电话亭在1980年代开始消失，随着手机的兴起，大多数被送到了废品收购站。"
+    },
+    {
+     "s": "Normally, towns use rock salt to de-ice streets.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通常，城镇使用岩盐来为街道除冰。"
+    },
+    {
+     "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
+    },
+    {
+     "s": "They performed their first concert in America at CBS television's 53rd street studio.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "他们在CBS电视台的53街工作室表演了他们在美国的首场演唱会。"
+    },
+    {
+     "s": "To think he is sleeping on the streets tonight    26    he could have stolen the money and paid for a place to stay in.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "想到他今晚睡在街上    26    他本可以偷了那笔钱来付住处的费用。"
+    },
+    {
+     "s": "She’d watch me coming down her street, and by the time I’d biked up to her doorstep, there’d be a cold drink waiting.",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她看着我沿着她的街道走过来，等我骑到她家门口时，那里已经放着一杯冷饮等着我了。"
+    },
+    {
+     "s": "What would Peter and his family like to do on Beale Street?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "彼得和他家人想在比尔街做什么？"
+    },
+    {
+     "s": "The authors of Movement have it right: it’s time to think differently about that street outside your front door.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "《运动》一书的作者说得对：是时候用不同的眼光看待你家前门外的那条街了。"
+    },
+    {
+     "s": "Mrs Hill’s front window faced Mr and Mrs Green’s house across the street.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "希尔太太家的前窗正对着街对面格林夫妇的房子。"
+    },
+    {
+     "s": "He rushed out of Mrs Hill’s house and crossed the street quickly.",
+     "src": "2025浙江1月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他冲出希尔太太的家，迅速穿过街道。"
+    },
+    {
+     "s": "For example, The street was long and dark, and there was no one around...",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "例如，街道又长又暗，周围一个人也没有……"
+    },
+    {
+     "s": "Go along the street and turn left at the third street on the left.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "沿着这条街走，在第三条街左转。"
+    },
+    {
+     "s": "When the accident happened, I was walking along the street.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "事故发生时，我正沿街走。"
+    },
+    {
+     "s": "Do not stand near street lights or under power lines.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "不要站在路灯下或电线下面。"
+    },
+    {
+     "s": "After becoming an important part of many British streets, the phone boxes began disappearing in the 1980s, with the rise of the mobile phone sending most of them away to the junkyards.",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在成为许多英国街道的重要组成部分后，电话亭从20世纪80年代开始逐渐消失，随着手机的兴起，大多数被送进了垃圾场。"
+    },
+    {
+     "s": "People tend to lake pride in keeping everything in their street fresh and inviting.",
+     "src": "2018浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人们往往以保持街道上的一切清新、诱人为荣。"
+    },
+    {
+     "s": "Now he hopes that other cities will consider making their streets run smarter instead of just making them bigger.",
+     "src": "2020浙江7月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "现在，他希望其他城市能够考虑让它们的街道变得更智能，而不仅仅是让它们变得更大。"
+    },
+    {
+     "s": "People have been approaching him in the street; he’s had job    34    and all sorts,” Mr Anderson commented.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人们在大街上找他搭话；他有了工作____34____和各种各样的事，”安德森先生评论道。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "the ideas and opinions of ordinary people, especially people who live in cities, which are considered important （尤指城市里）街头民意",
+   "ex": [
+    {
+     "s": "But the   16   would no doubt be greater if you were living on the streets with little food and money.",
+     "src": "2018北京卷·The Homeless Hero",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但如果你流浪街头，缺吃少钱，这种____16____无疑会更大。"
+    },
+    {
+     "s": "● 34  Each interview that you get on the street shouldn’t be longer than ten minutes.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "● 34 你在街头做的每次采访不应超过十分钟。"
+    },
+    {
+     "s": "He developed a talent for football by kicking a ball made of rubbish around the streets.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "他在街头踢用垃圾做成的球，练就了足球天赋。"
+    },
+    {
+     "s": "While eating and enjoying street performances, they chat with each other and share stories of their daily lives.",
+     "src": "2026新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "人们一边吃吃喝喝、欣赏街头表演，一边相互聊天，分享日常生活的故事。"
+    },
+    {
+     "s": "From broadcasting to street art, these are just 4 of the 17 highly unique camps being offered.",
+     "src": "2020全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从广播到街头艺术，这些只是所开设的17个极具特色的营会中的4个。"
+    },
+    {
+     "s": "Wander among a variety of shops selling gifts while enjoying a live music show and nice street entertainment.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在售卖礼品的各类店铺间漫步，同时享受现场音乐表演和精彩的街头娱乐。"
+    }
+   ]
+  }
+ ],
+ "chunks": []
 }
