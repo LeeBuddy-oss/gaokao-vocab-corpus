@@ -1,196 +1,190 @@
 {
-  "meta": {
-    "ph": "ˈkæmərə; NAmE ˈkæmərə",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈkæmərə; NAmE ˈkæmərə",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a piece of equipment for taking photographs, moving pictures or television pictures 照相机；（电影）摄影机；（电视）摄像机",
+   "ex": [
     {
-      "def": "a piece of equipment for taking photographs, moving pictures or television pictures 照相机；（电影）摄影机；（电视）摄像机",
-      "ex": [
-        {
-          "s": "Bring along your camera and enjoy the wonderful views along this well-surfaced forest path.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "带上相机，沿着这条铺设平整的森林小径欣赏美景吧。"
-        },
-        {
-          "s": "Once we found the place, it was stressful getting lights and cameras set up in the limited time.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一旦我们找到那个地方，在有限的时间里安装灯光和摄像头 压力很大。"
-        },
-        {
-          "s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "然而，我在新媒体经验中有一个明显的空白：我很少出现在镜头前，因为我有一张适合做广播的脸。"
-        },
-        {
-          "s": "It will use cameras and sensors to monitor the animals.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它将使用摄像头和传感器来监测动物。"
-        },
-        {
-          "s": "What kind of camera does the man want?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士想要什么样的相机？"
-        },
-        {
-          "s": "A TV camera.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一台电视摄像机。"
-        },
-        {
-          "s": "A video camera.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一台摄像机。"
-        },
-        {
-          "s": "A movie camera.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一台电影摄影机。"
-        },
-        {
-          "s": "How much would the man pay for the second camera?",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士会为第二台相机付多少钱？"
-        },
-        {
-          "s": "What kind of camera does the man want?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士想要什么样的相机？"
-        },
-        {
-          "s": "A TV camera.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一台电视摄像机。"
-        },
-        {
-          "s": "A video camera.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一台摄像机。"
-        },
-        {
-          "s": "A movie camera.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一台电影摄影机。"
-        },
-        {
-          "s": "How much would the man pay for the second camera?",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士会为第二台相机付多少钱？"
-        },
-        {
-          "s": "What kind of camera does the man want?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这位男士想要什么样的相机？"
-        },
-        {
-          "s": "How much would the man pay for the second camera?",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "男士会为第二台相机付多少钱？"
-        },
-        {
-          "s": "When I'm face to face with a polar bear，I like it to be through a camera with a telephoto lens.",
-          "src": "2020浙江7月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当我面对面遇到北极熊时，我喜欢通过带长焦镜头的相机来看它。"
-        },
-        {
-          "s": "Digital cameras arrived on the scene in 1997.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "数码相机于1997年到达现场。"
-        },
-        {
-          "s": "If you don’t own a camera, you can buy one.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果你没有相机，可以买一台。"
-        },
-        {
-          "s": "Slowly, and with the camera still held to my eye, I turned… and froze.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
-        },
-        {
-          "s": "When I recovered from the shock, I looked at my camera.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "当我从惊吓中回过神来，我看了看相机。"
-        },
-        {
-          "s": "Slowly, and with the camera still held to my eye, I turned...and froze.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
-        },
-        {
-          "s": "While still holding the camera to my eye, I turned slowly...then stopped still.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "仍把相机贴在眼前，我缓缓转过身……然后静止不动。"
-        },
-        {
-          "s": "Remember to bring your camera!",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "记得带上你的相机！"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "second camera",
-      "cn": "照相机",
-      "type": "名词短语",
-      "count": 3
+     "s": "Bring along your camera and enjoy the wonderful views along this well-surfaced forest path.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "带上相机，沿着这条铺设平整的森林小径欣赏美景吧。"
     },
     {
-      "en": "camera still",
-      "cn": "照相机还",
-      "type": "名词短语",
-      "count": 2
+     "s": "Once we found the place, it was stressful getting lights and cameras set up in the limited time.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "一旦我们找到那个地方，在有限的时间里安装灯光和摄像头 压力很大。"
+    },
+    {
+     "s": "There's one notable gap in my new-media experience, however: I've spent little time in front of a camera, since I have a face made for radio.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "然而，我在新媒体经验中有一个明显的空白：我很少出现在镜头前，因为我有一张适合做广播的脸。"
+    },
+    {
+     "s": "It will use cameras and sensors to monitor the animals.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它将使用摄像头和传感器来监测动物。"
+    },
+    {
+     "s": "What kind of camera does the man want?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士想要什么样的相机？"
+    },
+    {
+     "s": "A TV camera.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一台电视摄像机。"
+    },
+    {
+     "s": "A video camera.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一台摄像机。"
+    },
+    {
+     "s": "A movie camera.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一台电影摄影机。"
+    },
+    {
+     "s": "How much would the man pay for the second camera?",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士会为第二台相机付多少钱？"
+    },
+    {
+     "s": "What kind of camera does the man want?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士想要什么样的相机？"
+    },
+    {
+     "s": "A TV camera.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一台电视摄像机。"
+    },
+    {
+     "s": "A video camera.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一台摄像机。"
+    },
+    {
+     "s": "A movie camera.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一台电影摄影机。"
+    },
+    {
+     "s": "How much would the man pay for the second camera?",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士会为第二台相机付多少钱？"
+    },
+    {
+     "s": "What kind of camera does the man want?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这位男士想要什么样的相机？"
+    },
+    {
+     "s": "How much would the man pay for the second camera?",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "男士会为第二台相机付多少钱？"
+    },
+    {
+     "s": "When I'm face to face with a polar bear，I like it to be through a camera with a telephoto lens.",
+     "src": "2020浙江7月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当我面对面遇到北极熊时，我喜欢通过带长焦镜头的相机来看它。"
+    },
+    {
+     "s": "Digital cameras arrived on the scene in 1997.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "数码相机于1997年到达现场。"
+    },
+    {
+     "s": "If you don’t own a camera, you can buy one.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果你没有相机，可以买一台。"
+    },
+    {
+     "s": "Slowly, and with the camera still held to my eye, I turned… and froze.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
+    },
+    {
+     "s": "When I recovered from the shock, I looked at my camera.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "当我从惊吓中回过神来，我看了看相机。"
+    },
+    {
+     "s": "Slowly, and with the camera still held to my eye, I turned...and froze.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我慢慢地转过身，相机仍贴在眼前……然后僵住了。"
+    },
+    {
+     "s": "While still holding the camera to my eye, I turned slowly...then stopped still.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "仍把相机贴在眼前，我缓缓转过身……然后静止不动。"
+    },
+    {
+     "s": "Remember to bring your camera!",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "记得带上你的相机！"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "camera still",
+   "cn": "照相机还",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
