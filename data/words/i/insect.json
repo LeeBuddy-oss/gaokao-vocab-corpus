@@ -1,230 +1,224 @@
 {
-  "meta": {
-    "ph": "ˈɪnsekt; NAmE ˈɪnsekt",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈɪnsekt; NAmE ˈɪnsekt",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "any small creature with six legs and a body divided into three parts. Insects usually also have wings. Ants, bees and flies are all insects. 昆虫",
+   "ex": [
+    {
+     "s": "“You have to think about what you would lose if you do that.” Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
+    },
+    {
+     "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。"
+    },
+    {
+     "s": "“They come to us thinking vegetables are awful, dirt is awful, insects are awful.” Though some are initially scared of the insects and turned off by the dirt, most are eager to try something new.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "“他们来找我们时，认为蔬菜很讨厌，泥土很讨厌，昆虫很讨厌。”虽然有些人一开始害怕昆虫、厌恶泥土，但大多数人都渴望尝试新事物。"
+    },
+    {
+     "s": "I used to afraid of insects, but last Friday’s biology class make a big change in me.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我过去害怕昆虫，但上周五的生物课让我发生了很大的改变。"
+    },
+    {
+     "s": "In that class, Miss Zhao, our biology teacher, showed we insects on stamps.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在那节课上，我们的生物老师赵老师给我们看了邮票上的昆虫。"
+    },
+    {
+     "s": "The bees, butterfly and many other insects looked lovely and beautifully on the stamps.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "蜜蜂、蝴蝶和许多其他昆虫在邮票上看起来可爱又美丽。"
+    },
+    {
+     "s": "Miss Zhao told us the names of the insects or described their living habits.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "赵老师告诉我们昆虫的名字，或描述它们的生活习性。"
+    },
+    {
+     "s": "In the evening, when I take the walk in the school garden, the singing of insects become more meaningful to me.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "晚上，当我在学校花园里散步时，昆虫的鸣叫对我来说变得更有意义了。"
+    },
+    {
+     "s": "Children, on the other hand, have no idea that insect population has dropped dramatically.",
+     "src": "2023北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "另一方面，孩子们根本不知道昆虫数量已经大幅下降。"
+    },
+    {
+     "s": "Scientists think this is the plants' way to prevent the spread of any tree diseases and make life more difficult for leaf-eating insects like caterpillars.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "科学家认为这是植物防止树木疾病传播、让毛毛虫等食叶昆虫更难生存的方式。"
+    },
+    {
+     "s": "For the detection of insects.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "用于检测昆虫。"
+    },
+    {
+     "s": "I am, in part, an ant biologist, so my thoughts turned to what we know about insect life and I knew that much in the world of insects remains unknown.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我在某种程度上是个蚂蚁生物学家，所以我的思绪转向我们对昆虫生命的认知，而我知道昆虫世界中仍有许多未知。"
+    },
+    {
+     "s": "Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.",
+     "src": "2017全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在我眼中，露营者是那些喜欢蚊虫叮咬、半生不熟的食物和不舒服睡袋的人。"
+    },
+    {
+     "s": "Back in 1983, two scientists, Jack Schultz and Ian Baldwin, reported that young maple trees getting bitten by insects send out a particular smell that neighboring plants can get.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "早在1983年，两位科学家杰克·舒尔茨和伊恩·鲍德温报告说，被昆虫叮咬的幼枫树会发出一种特殊的气味，邻近的植物能够接收到。"
+    },
+    {
+     "s": "Some plants pump out smelly chemicals to keep insects away.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "有些植物释放有刺激性气味的化学物质来驱赶昆虫。"
+    },
+    {
+     "s": "They pump out perfumes designed to attract different insects who are natural enemies to the attackers.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "它们释放出专门设计用来吸引不同昆虫的气味，而这些昆虫正是攻击者的天敌。"
+    },
+    {
+     "s": "The insects gather under the table.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "昆虫聚集在桌子下面。"
+    },
+    {
+     "s": "predict natural disasters           B. protect themselves against insects",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "预测自然灾害           B. 保护自己免受昆虫侵害"
+    },
+    {
+     "s": "Back in 1983,two scientists,Jack Schultz and Ian Baldwin,reported that young maple trees getting bitten by insects send out a particular smell that neighboring plants can get.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "早在1983年，两位科学家杰克·舒尔茨和伊恩·鲍德温报告说，被昆虫叮咬的幼枫树会发出一种特殊的气味，邻近的植物能够接收到。"
+    },
+    {
+     "s": "Some plants pump out smelly chemicals to keep insects away.But others do double duty .They pump out perfumes designed to attract different insects who are natural enemies to the attackers.Once they arrive,the tables are turned .The attacker who was lunching now becomes lunch.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"
+    },
+    {
+     "s": "The insects gather under the table.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "昆虫聚集在桌子下面。"
+    },
+    {
+     "s": "predict natural disasters  B.protect themselves against insects",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "预测自然灾害  B. 抵御昆虫保护自己"
+    },
+    {
+     "s": "Something about my insect collection, perhaps.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "也许是关于我的昆虫收藏之类的。"
+    },
+    {
+     "s": "Every autumn, millions of these beautiful insects with fine black and orange wings begin a long and difficult journey.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "每年秋天，数以百万计这些长着黑橙相间美丽翅膀的昆虫开始一段漫长而艰难的旅程。"
+    },
+    {
+     "s": "Other natural dyes are made from insects, sea creatures and mineral compounds.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "其他天然染料是由昆虫、海洋生物和矿物化合物制成的。"
+    },
+    {
+     "s": "This happens when a plant, say a bean plant, gets attacked by insects.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "当一株植物，比如豆类植物，遭到昆虫攻击时就会发生这种情况。"
+    },
+    {
+     "s": "Some of these chemicals drive insects away.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "其中一些化学物质会驱赶昆虫。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "insects away",
+   "cn": "昆虫离开",
+   "type": "动词短语",
+   "count": 3
   },
-  "defs": [
-    {
-      "def": "any small creature with six legs and a body divided into three parts. Insects usually also have wings. Ants, bees and flies are all insects. 昆虫",
-      "ex": [
-        {
-          "s": "“You have to think about what you would lose if you do that.” Oaks are keystone species, she pointed out, providing food and habitat for native insects, birds and other animals.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“你得想想你那么做会失去什么。”她指出，橡树是关键物种，为本地的昆虫、鸟类和其他动物提供食物和栖息地。"
-        },
-        {
-          "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。"
-        },
-        {
-          "s": "“They come to us thinking vegetables are awful, dirt is awful, insects are awful.” Though some are initially scared of the insects and turned off by the dirt, most are eager to try something new.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“他们来找我们时，认为蔬菜很讨厌，泥土很讨厌，昆虫很讨厌。”虽然有些人一开始害怕昆虫、厌恶泥土，但大多数人都渴望尝试新事物。"
-        },
-        {
-          "s": "I used to afraid of insects, but last Friday’s biology class make a big change in me.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我过去害怕昆虫，但上周五的生物课让我发生了很大的改变。"
-        },
-        {
-          "s": "In that class, Miss Zhao, our biology teacher, showed we insects on stamps.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在那节课上，我们的生物老师赵老师给我们看了邮票上的昆虫。"
-        },
-        {
-          "s": "The bees, butterfly and many other insects looked lovely and beautifully on the stamps.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "蜜蜂、蝴蝶和许多其他昆虫在邮票上看起来可爱又美丽。"
-        },
-        {
-          "s": "Miss Zhao told us the names of the insects or described their living habits.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "赵老师告诉我们昆虫的名字，或描述它们的生活习性。"
-        },
-        {
-          "s": "In the evening, when I take the walk in the school garden, the singing of insects become more meaningful to me.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "晚上，当我在学校花园里散步时，昆虫的鸣叫对我来说变得更有意义了。"
-        },
-        {
-          "s": "Children, on the other hand, have no idea that insect population has dropped dramatically.",
-          "src": "2023北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "另一方面，孩子们根本不知道昆虫数量已经大幅下降。"
-        },
-        {
-          "s": "Scientists think this is the plants' way to prevent the spread of any tree diseases and make life more difficult for leaf-eating insects like caterpillars.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "科学家认为这是植物防止树木疾病传播、让毛毛虫等食叶昆虫更难生存的方式。"
-        },
-        {
-          "s": "For the detection of insects.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "用于检测昆虫。"
-        },
-        {
-          "s": "I am, in part, an ant biologist, so my thoughts turned to what we know about insect life and I knew that much in the world of insects remains unknown.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我在某种程度上是个蚂蚁生物学家，所以我的思绪转向我们对昆虫生命的认知，而我知道昆虫世界中仍有许多未知。"
-        },
-        {
-          "s": "Campers, in my eyes, were people who enjoyed insect bites, ill-cooked meals, and uncomfortable sleeping bags.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在我眼中，露营者是那些喜欢蚊虫叮咬、半生不熟的食物和不舒服睡袋的人。"
-        },
-        {
-          "s": "Back in 1983, two scientists, Jack Schultz and Ian Baldwin, reported that young maple trees getting bitten by insects send out a particular smell that neighboring plants can get.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "早在1983年，两位科学家杰克·舒尔茨和伊恩·鲍德温报告说，被昆虫叮咬的幼枫树会发出一种特殊的气味，邻近的植物能够接收到。"
-        },
-        {
-          "s": "Some plants pump out smelly chemicals to keep insects away.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "有些植物释放有刺激性气味的化学物质来驱赶昆虫。"
-        },
-        {
-          "s": "They pump out perfumes designed to attract different insects who are natural enemies to the attackers.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "它们释放出专门设计用来吸引不同昆虫的气味，而这些昆虫正是攻击者的天敌。"
-        },
-        {
-          "s": "The insects gather under the table.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "昆虫聚集在桌子下面。"
-        },
-        {
-          "s": "predict natural disasters           B. protect themselves against insects",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "预测自然灾害           B. 保护自己免受昆虫侵害"
-        },
-        {
-          "s": "Back in 1983,two scientists,Jack Schultz and Ian Baldwin,reported that young maple trees getting bitten by insects send out a particular smell that neighboring plants can get.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "早在1983年，两位科学家杰克·舒尔茨和伊恩·鲍德温报告说，被昆虫叮咬的幼枫树会发出一种特殊的气味，邻近的植物能够接收到。"
-        },
-        {
-          "s": "Some plants pump out smelly chemicals to keep insects away.But others do double duty .They pump out perfumes designed to attract different insects who are natural enemies to the attackers.Once they arrive,the tables are turned .The attacker who was lunching now becomes lunch.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一些植物释放出难闻的化学物质来驱赶昆虫。但另一些植物则一石二鸟。它们释放出特意设计的香气，以吸引不同种类的昆虫，而这些昆虫正是攻击者的天敌。一旦它们到来，局势便发生逆转。原本在进食的攻击者现在变成了食物。"
-        },
-        {
-          "s": "The insects gather under the table.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "昆虫聚集在桌子下面。"
-        },
-        {
-          "s": "predict natural disasters  B.protect themselves against insects",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "预测自然灾害  B. 抵御昆虫保护自己"
-        },
-        {
-          "s": "Something about my insect collection, perhaps.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "也许是关于我的昆虫收藏之类的。"
-        },
-        {
-          "s": "Every autumn, millions of these beautiful insects with fine black and orange wings begin a long and difficult journey.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "每年秋天，数以百万计这些长着黑橙相间美丽翅膀的昆虫开始一段漫长而艰难的旅程。"
-        },
-        {
-          "s": "Other natural dyes are made from insects, sea creatures and mineral compounds.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "其他天然染料是由昆虫、海洋生物和矿物化合物制成的。"
-        },
-        {
-          "s": "This happens when a plant, say a bean plant, gets attacked by insects.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "当一株植物，比如豆类植物，遭到昆虫攻击时就会发生这种情况。"
-        },
-        {
-          "s": "Some of these chemicals drive insects away.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "其中一些化学物质会驱赶昆虫。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "insects away",
-      "cn": "昆虫离开",
-      "type": "动词短语",
-      "count": 3
-    },
-    {
-      "en": "insect bird",
-      "cn": "昆虫鸟",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "insect send",
-      "cn": "昆虫邮寄",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "insect who",
-      "cn": "昆虫谁",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "insect gather",
-      "cn": "昆虫聚集",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "en": "insect bird",
+   "cn": "昆虫鸟",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "insect send",
+   "cn": "昆虫邮寄",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "insect who",
+   "cn": "昆虫谁",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
