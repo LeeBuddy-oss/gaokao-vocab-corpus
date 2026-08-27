@@ -1,379 +1,373 @@
 {
-  "meta": {
-    "ph": "ˈnæʃnəl; NAmE ˈnæʃnəl",
-    "pos": "adjective",
-    "stars": "★"
+ "meta": {
+  "ph": "ˈnæʃnəl; NAmE ˈnæʃnəl",
+  "pos": "adjective",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "connected with a particular nation; shared by a whole nation 国家的；民族的；全国的",
+   "ex": [
+    {
+     "s": "The house is now listed on the National Register of Historic Places.",
+     "src": "2026新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这座房子如今已被列入《国家史迹名录》。"
+    },
+    {
+     "s": "Heatherwick Studio recently built a greenhouse at the edge of the National Trust’s Woolbeding Gardens.",
+     "src": "2024新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "Heatherwick工作室最近在英国国家信托Woolbeding花园的边缘建了一座温室。"
+    },
+    {
+     "s": "How did the national park system come about?",
+     "src": "2024全国甲卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "国家公园系统是如何形成的？"
+    },
+    {
+     "s": "Two years later, 18 years before Wyoming became a state, Yellowstone became the first national park in the United States and the world.",
+     "src": "2024全国甲卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "两年后，早于怀俄明建州18年，黄石成为美国和世界上第一座国家公园。"
+    },
+    {
+     "s": "Yellowstone National Park offers a variety of ranger programs throughout the park and throughout the year.",
+     "src": "2023新课标II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "黄石国家公园全年在园内提供各种各样的护林员项目。"
+    },
+    {
+     "s": "Ask the tourists from around the world that flood into Yellowstone National Park what they most hope to see, and their answer is often the same: a grizzly bear.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "向来自世界各地的游客询问淹没进入黄石国家公园的游客最希望看到什么，他们的答案往往是一样的：一只灰熊。"
+    },
+    {
+     "s": "They should be kept in national parks.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它们应该被关在国家公园里。"
+    },
+    {
+     "s": "Last week, in a public debate in San Francisco, a software program called Project Debater beat its human opponents, including Noa Ovadia, Israel’s former national debating champion.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "上周，在旧金山的一场公开辩论中，一个名为\"辩论者项目\"的软件程序击败了它的人类对手，包括以色列前全国辩论冠军诺亚·奥瓦迪亚。"
+    },
+    {
+     "s": "St David’s Hall is the award winning National Concert Hall of Wales standing at the very heart of Cardiff’s entertainment centre.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "St David's Hall是威尔士获奖的国家音乐厅，位于卡迪夫娱乐中心的核心地带。"
+    },
+    {
+     "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
+    },
+    {
+     "s": "The National Wildlife Refuge System",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "国家野生动物保护区系统"
+    },
+    {
+     "s": "I have worked as a keeper at the National Zoo, Paris for 11 years.",
+     "src": "2021新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我在巴黎国家动物园做饲养员已经有11年了。"
+    },
+    {
+     "s": "Komodo National Park, officially recognized in 1980, is popular for ecotourism because of its unique biodiversity.",
+     "src": "2021全国乙卷·语法填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "科莫多国家公园于1980年正式确立，因其独特的生物多样性而成为生态游的热门地。"
+    },
+    {
+     "s": "China's National Highway 318,                    over 5,000 kilometers from Shanghai to Zhangmu, Tibet, is known as the \"heavenly road“ for its amazing views.",
+     "src": "2021天津3月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "中国的318国道                    5000多公里从上海延伸至西藏樟木因其惊人的景色而被称为\"天路\"。"
+    },
+    {
+     "s": "Trip includes round-trip air tickets, hotel stay for two nights, and tours of the National Air and Space Museum and the office of National Geographic World.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "旅行包括往返机票两晚酒店住宿以及参观国家航空航天博物馆和国家地理世界办公室的游览。"
+    },
+    {
+     "s": "The environmental challenges are   48   but the efforts made by the Tanzania National Park Authority seem to be   49  .",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "环境挑战为48个，但坦桑尼亚国家公园管理局的努力似乎为49个。"
+    },
+    {
+     "s": "To preserve national traditions．",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "A．为了保存国家传统。"
+    },
+    {
+     "s": "Explore the monuments and memorials on the National Mall as your guide shares unique facts and history at each stop.",
+     "src": "2018全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当导游在每一站分享独特的事实和历史时，探索国家广场上的纪念碑和纪念物。"
+    },
+    {
+     "s": "Get up close to the monuments and memorials as your bike the sites of Capitol Hill and the National Mall.",
+     "src": "2018全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当你骑行经过国会山和国家广场的景点时，可以近距离观赏那些纪念碑和纪念建筑。"
+    },
+    {
+     "s": "Go to a national park.",
+     "src": "2018全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "去一个国家公园。"
+    },
+    {
+     "s": "National Garden Day   28th August",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "国家花园日 8月28日"
+    },
+    {
+     "s": "National Garden Day.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "国家花园日。"
+    },
+    {
+     "s": "While famous foreign architects are invited to lead the designs of landmark buildings in China such as the new CCTV tower and the National Center for the Performing Arts, many excellent Chinese architects are making great efforts to take the center stage.",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "虽然著名的外国建筑师受邀主导中国地标性建筑的设计，如新央视大楼和国家大剧院，但许多优秀的中国建筑师也在努力走向舞台中央。"
+    },
+    {
+     "s": "“Jazz seems like it’s not really a part of the American appetite,” Moran tells National Public Radio’s reporter Neal Conan.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“爵士乐似乎并不真正属于美国人的胃口，”莫兰对国家公共广播电台记者尼尔·科南说。"
+    },
+    {
+     "s": "National Theatre of China   Beijing | Chinese",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "中国国家剧院   北京 | 中文"
+    },
+    {
+     "s": "This production of Shakespeare’s Richard III will be directed by the National’s Associate Director, Wang Xiaoying.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这版莎士比亚《理查三世》将由国家剧院副院长王小英执导。"
+    },
+    {
+     "s": "Habima National Theatre   Tel Aviv | Hebrew",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "哈比马国家剧院   特拉维夫 | 希伯来语"
+    },
+    {
+     "s": "Since 1958, they have been recognised as the national theatre of Israel.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "自1958年以来，他们一直被公认为以色列的国家剧院。"
+    },
+    {
+     "s": "Which play will be performed by the National Theatre of China?",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "中国国家剧院将上演哪部戏剧？"
+    },
+    {
+     "s": "After years of heated debate, gray wolves were reintroduced to Yellowstone National Park.",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "经过多年的激烈争论后，灰狼被重新引入黄石国家公园。"
+    },
+    {
+     "s": "But the new National Sleep Foundation survey found that 35% of 10- to 12-year-olds get only seven or eight hours.",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但新的国家睡眠基金会调查发现，35%的10至12岁儿童每晚睡眠不足推荐时间。"
+    },
+    {
+     "s": "What is the new National Sleep Foundation survey on?",
+     "src": "2017浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "新的国家睡眠基金会的调查是关于什么的？"
+    },
+    {
+     "s": "Habima National Theatre Tel Aviv | Hebrew",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "哈比马国家剧院 特拉维夫 | 希伯来语"
+    },
+    {
+     "s": "The Habima is the centre of Hebrew-language theatre worldwide ,Founded in Moscow after the 1905 revolution, the company eventually settled in Tel Aviv in the late 1920s,Since 1958, they have been recognised as the national theatre of Israel .This production of Shakespeare’s The Merchant of Venice marks their first visit to the UK.",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "哈比马是全球希伯来语戏剧的中心，成立于1905年革命后的莫斯科，该公司于20世纪20年代末最终定居特拉维夫。自1958年以来，他们被公认为以色列国家剧院。这部莎士比亚《威尼斯商人》的演出标志着他们首次访问英国。"
+    },
+    {
+     "s": "which play will be performed by the National Theatre of China?",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "中国国家剧院将上演哪部戏剧？"
+    },
+    {
+     "s": "This is why, in part at least, the US National Climate Assessment says that: ＂There is no ‘one-size fits all’ adaptation.＂ Nevertheless, there are some actions that offer much and carry little risk or cost.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这就是为什么，至少部分地，美国《国家气候评估》说：“没有‘一刀切’的适应。”尽管如此，有些行动收益大、风险和成本却小。"
+    },
+    {
+     "s": "More recently, the foundation began another  47  called National Red Scarf Day --- a day when people donate $20 and wear red scarves in support of Canada’s  48   and homeless.",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "最近，该基金会又发起了一项名为“全国红围巾日”的活动——这一天人们捐出20美元并戴上红围巾，以支持加拿大的____和无家可归者。"
+    },
+    {
+     "s": "With a different theme each year, the day Is observed with a wide range of events that are organised at local, national and international levels.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "每年有不同的主题，这一天以地方、国家和国际层面组织的各种活动来纪念。"
+    },
+    {
+     "s": "My favorite place to take photos is Yellowstone National Park.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "我最喜欢拍照的地方是黄石国家公园。"
+    },
+    {
+     "s": "As the world’s first national park, Yellowstone is famous for the variety of its wildlife, but it is probably best known for its bears.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "作为世界上第一个国家公园，黄石公园以其野生动物的多样性而闻名，但它最出名的可能是它的熊。"
+    },
+    {
+     "s": "MP4 Hi Jane, I'm now back in the hotel after a fantastic day exploring Huangguoshu National Park.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "MP4 嗨，简，在经历了探索黄果树国家公园的精彩一天后，我现在回到了酒店。"
+    },
+    {
+     "s": "As the world's first national park, Yellowstone is famous for the variety of its wildlife, but it is probably best known for its bears.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "作为世界上第一个国家公园，黄石公园以其野生动物的多样性而闻名，但它最广为人知的可能是它的熊。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "owned, controlled or paid for by the government 国有的；国立的；国营的",
+   "ex": [
     {
-      "def": "connected with a particular nation; shared by a whole nation 国家的；民族的；全国的",
-      "ex": [
-        {
-          "s": "The house is now listed on the National Register of Historic Places.",
-          "src": "2026新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这座房子如今已被列入《国家史迹名录》。"
-        },
-        {
-          "s": "Heatherwick Studio recently built a greenhouse at the edge of the National Trust’s Woolbeding Gardens.",
-          "src": "2024新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "Heatherwick工作室最近在英国国家信托Woolbeding花园的边缘建了一座温室。"
-        },
-        {
-          "s": "How did the national park system come about?",
-          "src": "2024全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "国家公园系统是如何形成的？"
-        },
-        {
-          "s": "Two years later, 18 years before Wyoming became a state, Yellowstone became the first national park in the United States and the world.",
-          "src": "2024全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "两年后，早于怀俄明建州18年，黄石成为美国和世界上第一座国家公园。"
-        },
-        {
-          "s": "Yellowstone National Park offers a variety of ranger programs throughout the park and throughout the year.",
-          "src": "2023新课标II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "黄石国家公园全年在园内提供各种各样的护林员项目。"
-        },
-        {
-          "s": "Ask the tourists from around the world that flood into Yellowstone National Park what they most hope to see, and their answer is often the same: a grizzly bear.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "向来自世界各地的游客询问淹没进入黄石国家公园的游客最希望看到什么，他们的答案往往是一样的：一只灰熊。"
-        },
-        {
-          "s": "They should be kept in national parks.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它们应该被关在国家公园里。"
-        },
-        {
-          "s": "Last week, in a public debate in San Francisco, a software program called Project Debater beat its human opponents, including Noa Ovadia, Israel’s former national debating champion.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "上周，在旧金山的一场公开辩论中，一个名为\"辩论者项目\"的软件程序击败了它的人类对手，包括以色列前全国辩论冠军诺亚·奥瓦迪亚。"
-        },
-        {
-          "s": "St David’s Hall is the award winning National Concert Hall of Wales standing at the very heart of Cardiff’s entertainment centre.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "St David's Hall是威尔士获奖的国家音乐厅，位于卡迪夫娱乐中心的核心地带。"
-        },
-        {
-          "s": "About 98 cents of every duck stamp dollar goes directly into the Migratory Bird Conservation Fund to purchase wetlands and wildlife habitat for inclusion into the National Wildlife Refuge System — a fact that ensures this land will be protected and available for all generations to come.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "每张鸭票所筹的每一美元中，约有98美分直接汇入候鸟保护基金，用于购置湿地和野生动物栖息地，并将其纳入国家野生动物保护区系统——这一事实确保了这片土地将受到保护，并为子孙后代所用。"
-        },
-        {
-          "s": "The National Wildlife Refuge System",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "国家野生动物保护区系统"
-        },
-        {
-          "s": "I have worked as a keeper at the National Zoo, Paris for 11 years.",
-          "src": "2021新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我在巴黎国家动物园做饲养员已经有11年了。"
-        },
-        {
-          "s": "Komodo National Park, officially recognized in 1980, is popular for ecotourism because of its unique biodiversity.",
-          "src": "2021全国乙卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "科莫多国家公园于1980年正式确立，因其独特的生物多样性而成为生态游的热门地。"
-        },
-        {
-          "s": "China's National Highway 318,                    over 5,000 kilometers from Shanghai to Zhangmu, Tibet, is known as the \"heavenly road“ for its amazing views.",
-          "src": "2021天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "中国的318国道                    5000多公里从上海延伸至西藏樟木因其惊人的景色而被称为\"天路\"。"
-        },
-        {
-          "s": "Trip includes round-trip air tickets, hotel stay for two nights, and tours of the National Air and Space Museum and the office of National Geographic World.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "旅行包括往返机票两晚酒店住宿以及参观国家航空航天博物馆和国家地理世界办公室的游览。"
-        },
-        {
-          "s": "The environmental challenges are   48   but the efforts made by the Tanzania National Park Authority seem to be   49  .",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "环境挑战为48个，但坦桑尼亚国家公园管理局的努力似乎为49个。"
-        },
-        {
-          "s": "To preserve national traditions．",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "A．为了保存国家传统。"
-        },
-        {
-          "s": "Explore the monuments and memorials on the National Mall as your guide shares unique facts and history at each stop.",
-          "src": "2018全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当导游在每一站分享独特的事实和历史时，探索国家广场上的纪念碑和纪念物。"
-        },
-        {
-          "s": "Get up close to the monuments and memorials as your bike the sites of Capitol Hill and the National Mall.",
-          "src": "2018全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当你骑行经过国会山和国家广场的景点时，可以近距离观赏那些纪念碑和纪念建筑。"
-        },
-        {
-          "s": "Go to a national park.",
-          "src": "2018全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "去一个国家公园。"
-        },
-        {
-          "s": "National Garden Day   28th August",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "国家花园日 8月28日"
-        },
-        {
-          "s": "National Garden Day.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "国家花园日。"
-        },
-        {
-          "s": "While famous foreign architects are invited to lead the designs of landmark buildings in China such as the new CCTV tower and the National Center for the Performing Arts, many excellent Chinese architects are making great efforts to take the center stage.",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然著名的外国建筑师受邀主导中国地标性建筑的设计，如新央视大楼和国家大剧院，但许多优秀的中国建筑师也在努力走向舞台中央。"
-        },
-        {
-          "s": "“Jazz seems like it’s not really a part of the American appetite,” Moran tells National Public Radio’s reporter Neal Conan.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“爵士乐似乎并不真正属于美国人的胃口，”莫兰对国家公共广播电台记者尼尔·科南说。"
-        },
-        {
-          "s": "National Theatre of China   Beijing | Chinese",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "中国国家剧院   北京 | 中文"
-        },
-        {
-          "s": "This production of Shakespeare’s Richard III will be directed by the National’s Associate Director, Wang Xiaoying.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这版莎士比亚《理查三世》将由国家剧院副院长王小英执导。"
-        },
-        {
-          "s": "Habima National Theatre   Tel Aviv | Hebrew",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "哈比马国家剧院   特拉维夫 | 希伯来语"
-        },
-        {
-          "s": "Since 1958, they have been recognised as the national theatre of Israel.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "自1958年以来，他们一直被公认为以色列的国家剧院。"
-        },
-        {
-          "s": "Which play will be performed by the National Theatre of China?",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "中国国家剧院将上演哪部戏剧？"
-        },
-        {
-          "s": "After years of heated debate, gray wolves were reintroduced to Yellowstone National Park.",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "经过多年的激烈争论后，灰狼被重新引入黄石国家公园。"
-        },
-        {
-          "s": "But the new National Sleep Foundation survey found that 35% of 10- to 12-year-olds get only seven or eight hours.",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但新的国家睡眠基金会调查发现，35%的10至12岁儿童每晚睡眠不足推荐时间。"
-        },
-        {
-          "s": "What is the new National Sleep Foundation survey on?",
-          "src": "2017浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "新的国家睡眠基金会的调查是关于什么的？"
-        },
-        {
-          "s": "Habima National Theatre Tel Aviv | Hebrew",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "哈比马国家剧院 特拉维夫 | 希伯来语"
-        },
-        {
-          "s": "The Habima is the centre of Hebrew-language theatre worldwide ,Founded in Moscow after the 1905 revolution, the company eventually settled in Tel Aviv in the late 1920s,Since 1958, they have been recognised as the national theatre of Israel .This production of Shakespeare’s The Merchant of Venice marks their first visit to the UK.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "哈比马是全球希伯来语戏剧的中心，成立于1905年革命后的莫斯科，该公司于20世纪20年代末最终定居特拉维夫。自1958年以来，他们被公认为以色列国家剧院。这部莎士比亚《威尼斯商人》的演出标志着他们首次访问英国。"
-        },
-        {
-          "s": "which play will be performed by the National Theatre of China?",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "中国国家剧院将上演哪部戏剧？"
-        },
-        {
-          "s": "This is why, in part at least, the US National Climate Assessment says that: ＂There is no ‘one-size fits all’ adaptation.＂ Nevertheless, there are some actions that offer much and carry little risk or cost.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这就是为什么，至少部分地，美国《国家气候评估》说：“没有‘一刀切’的适应。”尽管如此，有些行动收益大、风险和成本却小。"
-        },
-        {
-          "s": "More recently, the foundation began another  47  called National Red Scarf Day --- a day when people donate $20 and wear red scarves in support of Canada’s  48   and homeless.",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "最近，该基金会又发起了一项名为“全国红围巾日”的活动——这一天人们捐出20美元并戴上红围巾，以支持加拿大的____和无家可归者。"
-        },
-        {
-          "s": "With a different theme each year, the day Is observed with a wide range of events that are organised at local, national and international levels.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "每年有不同的主题，这一天以地方、国家和国际层面组织的各种活动来纪念。"
-        },
-        {
-          "s": "My favorite place to take photos is Yellowstone National Park.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "我最喜欢拍照的地方是黄石国家公园。"
-        },
-        {
-          "s": "As the world’s first national park, Yellowstone is famous for the variety of its wildlife, but it is probably best known for its bears.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "作为世界上第一个国家公园，黄石公园以其野生动物的多样性而闻名，但它最出名的可能是它的熊。"
-        },
-        {
-          "s": "MP4 Hi Jane, I'm now back in the hotel after a fantastic day exploring Huangguoshu National Park.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "MP4 嗨，简，在经历了探索黄果树国家公园的精彩一天后，我现在回到了酒店。"
-        },
-        {
-          "s": "As the world's first national park, Yellowstone is famous for the variety of its wildlife, but it is probably best known for its bears.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "作为世界上第一个国家公园，黄石公园以其野生动物的多样性而闻名，但它最广为人知的可能是它的熊。"
-        }
-      ]
+     "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
+     "src": "2023天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
     },
     {
-      "def": "owned, controlled or paid for by the government 国有的；国立的；国营的",
-      "ex": [
-        {
-          "s": "In one experiment carried out at the National University of Singapore, participants were given the task of learning concepts on a difficult subject.",
-          "src": "2023天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在新加坡国立大学进行的一项实验中，参与者被赋予学习一门困难学科概念的任务。"
-        },
-        {
-          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
-        },
-        {
-          "s": "Shakespeare’s Richard III will be directed by the National’s Associate Director，Wang Xiaoying.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "莎士比亚的《理查三世》将由国立剧院副院长王小英执导。"
-        }
-      ]
+     "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
+    },
+    {
+     "s": "Shakespeare’s Richard III will be directed by the National’s Associate Director，Wang Xiaoying.",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "莎士比亚的《理查三世》将由国立剧院副院长王小英执导。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "national park",
-      "cn": "国家公园",
-      "type": "名词短语",
-      "count": 12
-    },
-    {
-      "en": "national theatre",
-      "cn": "国家剧院",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "yellowstone national",
-      "cn": "国家的",
-      "type": "形容词搭配",
-      "count": 4
-    },
-    {
-      "en": "first national",
-      "cn": "国家的",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "habima national",
-      "cn": "国家的",
-      "type": "形容词搭配",
-      "count": 2
-    },
-    {
-      "en": "national mall",
-      "cn": "国家购物商场",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "national garden",
-      "cn": "国家庭园",
-      "type": "形容词短语",
-      "count": 2
-    },
-    {
-      "en": "national sleep",
-      "cn": "国家睡",
-      "type": "形容词短语",
-      "count": 2
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "national park",
+   "cn": "国家公园",
+   "type": "名词短语",
+   "count": 12
+  },
+  {
+   "en": "national theatre",
+   "cn": "国家剧院",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "yellowstone national",
+   "cn": "国家的",
+   "type": "形容词搭配",
+   "count": 4
+  },
+  {
+   "en": "habima national",
+   "cn": "国家的",
+   "type": "形容词搭配",
+   "count": 2
+  },
+  {
+   "en": "national mall",
+   "cn": "国家购物商场",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "national garden",
+   "cn": "国家庭园",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "national sleep",
+   "cn": "国家睡",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
