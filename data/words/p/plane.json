@@ -1,171 +1,165 @@
 {
-  "meta": {
-    "ph": "pleɪn; NAmE pleɪn",
-    "pos": "noun;noun;noun;noun;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "pleɪn; NAmE pleɪn",
+  "pos": "noun;noun;noun;noun;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a flying vehicle with wings and one or more engines 飞机",
+   "ex": [
+    {
+     "s": "The greening of planes, trains and automobiles",
+     "src": "2025新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "\"我觉得这是个很棒的主意，\"塔尼亚·佩里利说，她经营着一家服装租赁店。"
+    },
+    {
+     "s": "If we see the elderly trying to catch their planes but walking at a snail’s pace, we find a wheelchair for them immediately.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果我们看到老人试图赶飞机却以蜗牛般的速度行走，我们会立刻为他们找来轮椅。"
+    },
+    {
+     "s": "\"As an airline, we're currently in the process of turning all our planes into electric airplanes,” says CEO Greg McDougall.",
+     "src": "2020天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“作为一家航空公司，我们目前正在把全部飞机改造成电动飞机，”首席执行官格雷格·麦克杜格尔说。"
+    },
+    {
+     "s": "I enjoyed studying difference kings of cars and planes, playing pop music, and collecting the late music albums.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我喜欢研究不同种类的汽车和飞机，演奏流行音乐，收集最新的音乐专辑。"
+    },
+    {
+     "s": "Mann said Terrafugia was helped by the Federal Aviation  Administration’s decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes Terrafugia says an owner would need to pass a test and complete 20 hours of flying time to be able to fly the Transition, a requirement pilots would find relatively easy to meet.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "曼说，Terrafugia得益于联邦航空管理局五年前做出的为轻型运动飞机制定一套单独标准的决定，这些标准低于大型飞机飞行员所需的标准。Terrafugia表示，车主需要通过一项测试并完成20小时的飞行时间才能驾驶Transition，飞行员会觉得这是很容易满足的要求。"
+    },
+    {
+     "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
+    },
+    {
+     "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
+    },
+    {
+     "s": "decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "五年前做出的为轻型运动飞机制定一套单独标准的决定，这些标准低于大型飞机飞行员所需的标准。"
+    },
+    {
+     "s": "When a plane is leaving in 15 minutes and the door is closing, what else can we suggest but: “Run!",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当一架飞机还有15分钟就要起飞、舱门即将关闭时，除了建议\"快跑！"
+    },
+    {
+     "s": "We flew on a small plane to a faraway village.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们乘一架小飞机去一个遥远的村庄。"
+    },
+    {
+     "s": "We took a plane to Albuquerque, a big city in the state of New Mexico.",
+     "src": "2018浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我们乘飞机到了阿尔伯克基，新墨西哥州的一座大城市。"
+    },
+    {
+     "s": "Psychologist Frank Farley has spent years studying people who jump out of planes and drive fast cars, as well as those who climb Qomolangma.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "心理学家Frank Farley花了多年时间研究那些跳伞、开快车的人，以及那些攀登珠峰的人。"
+    },
+    {
+     "s": "Although the remains of his plane were discovered in 2000, Saint-Exupéry’s body has never been found, and the cause of his death remains unknown.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "虽然他的飞机残骸于2000年被发现，但圣埃克苏佩里的遗体一直没有找到，他的死因至今仍是个谜。"
+    },
+    {
+     "s": "The story was probably inspired by his plane crash in the desert in 1935.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "这个故事很可能受到他1935年在沙漠中坠机的启发。"
+    },
+    {
+     "s": "Andrew From Matt To Andrew Subject Re: Travel arrangements Hey Andrew, I’ve bought the plane tickets and arranged transfer from the airport to the hotel.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "安德鲁从马特到安德鲁主题回复：旅行安排嘿，安德鲁，我已经买了机票，并安排了从机场到酒店的接送服务。"
+    },
+    {
+     "s": "By the way, did you buy the plane tickets?",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "顺便问一下，你买机票了吗？"
+    },
+    {
+     "s": "A plane ticket.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一张机票。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "a flying vehicle with wings and one or more engines 飞机",
-      "ex": [
-        {
-          "s": "The greening of planes, trains and automobiles",
-          "src": "2025新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "\"我觉得这是个很棒的主意，\"塔尼亚·佩里利说，她经营着一家服装租赁店。"
-        },
-        {
-          "s": "If we see the elderly trying to catch their planes but walking at a snail’s pace, we find a wheelchair for them immediately.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果我们看到老人试图赶飞机却以蜗牛般的速度行走，我们会立刻为他们找来轮椅。"
-        },
-        {
-          "s": "\"As an airline, we're currently in the process of turning all our planes into electric airplanes,” says CEO Greg McDougall.",
-          "src": "2020天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“作为一家航空公司，我们目前正在把全部飞机改造成电动飞机，”首席执行官格雷格·麦克杜格尔说。"
-        },
-        {
-          "s": "I enjoyed studying difference kings of cars and planes, playing pop music, and collecting the late music albums.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我喜欢研究不同种类的汽车和飞机，演奏流行音乐，收集最新的音乐专辑。"
-        },
-        {
-          "s": "Mann said Terrafugia was helped by the Federal Aviation  Administration’s decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes Terrafugia says an owner would need to pass a test and complete 20 hours of flying time to be able to fly the Transition, a requirement pilots would find relatively easy to meet.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "曼说，Terrafugia得益于联邦航空管理局五年前做出的为轻型运动飞机制定一套单独标准的决定，这些标准低于大型飞机飞行员所需的标准。Terrafugia表示，车主需要通过一项测试并完成20小时的飞行时间才能驾驶Transition，飞行员会觉得这是很容易满足的要求。"
-        },
-        {
-          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
-        },
-        {
-          "s": "The moment I got off the plane, I ran like crazy through the airport building and jumped into the first taxi on the rank without a second thought.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我一下飞机，就发疯似的跑过航站楼，想都没想就跳上了排队的第一辆出租车。"
-        },
-        {
-          "s": "decision five years ago to create a separate set of standards for light sport aircraft, which are lower than those pilots of larger planes.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "五年前做出的为轻型运动飞机制定一套单独标准的决定，这些标准低于大型飞机飞行员所需的标准。"
-        },
-        {
-          "s": "When a plane is leaving in 15 minutes and the door is closing, what else can we suggest but: “Run!",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当一架飞机还有15分钟就要起飞、舱门即将关闭时，除了建议\"快跑！"
-        },
-        {
-          "s": "We flew on a small plane to a faraway village.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们乘一架小飞机去一个遥远的村庄。"
-        },
-        {
-          "s": "We took a plane to Albuquerque, a big city in the state of New Mexico.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我们乘飞机到了阿尔伯克基，新墨西哥州的一座大城市。"
-        },
-        {
-          "s": "Psychologist Frank Farley has spent years studying people who jump out of planes and drive fast cars, as well as those who climb Qomolangma.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "心理学家Frank Farley花了多年时间研究那些跳伞、开快车的人，以及那些攀登珠峰的人。"
-        },
-        {
-          "s": "Although the remains of his plane were discovered in 2000, Saint-Exupéry’s body has never been found, and the cause of his death remains unknown.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "虽然他的飞机残骸于2000年被发现，但圣埃克苏佩里的遗体一直没有找到，他的死因至今仍是个谜。"
-        },
-        {
-          "s": "The story was probably inspired by his plane crash in the desert in 1935.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这个故事很可能受到他1935年在沙漠中坠机的启发。"
-        },
-        {
-          "s": "Andrew From Matt To Andrew Subject Re: Travel arrangements Hey Andrew, I’ve bought the plane tickets and arranged transfer from the airport to the hotel.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "安德鲁从马特到安德鲁主题回复：旅行安排嘿，安德鲁，我已经买了机票，并安排了从机场到酒店的接送服务。"
-        },
-        {
-          "s": "By the way, did you buy the plane tickets?",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "顺便问一下，你买机票了吗？"
-        },
-        {
-          "s": "A plane ticket.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一张机票。"
-        }
-      ]
-    },
-    {
-      "def": "any flat or level surface, or an imaginary flat surface through or joining material objects 平面",
-      "ex": []
-    },
-    {
-      "def": "a level of thought, existence or development （思想、存在或发展的）水平，程度，阶段，境界",
-      "ex": []
-    },
-    {
-      "def": "a tool with a blade set in a flat surface, used for making the surface of wood smooth by shaving very thin layers off it 木工刨；刨子",
-      "ex": []
-    },
-    {
-      "def": "to make a piece of wood smoother or flatter with a plane n. (4) 用刨子刨平",
-      "ex": []
-    },
-    {
-      "def": "to fly without moving the wings, especially high up in the air 鸟",
-      "ex": []
-    },
-    {
-      "def": "to move quickly across water, only just touching the surface 船等",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "plane tickets",
-      "cn": "飞机票",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "plane i",
-      "cn": "飞机我",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "any flat or level surface, or an imaginary flat surface through or joining material objects 平面",
+   "ex": []
+  },
+  {
+   "def": "a level of thought, existence or development （思想、存在或发展的）水平，程度，阶段，境界",
+   "ex": []
+  },
+  {
+   "def": "a tool with a blade set in a flat surface, used for making the surface of wood smooth by shaving very thin layers off it 木工刨；刨子",
+   "ex": []
+  },
+  {
+   "def": "to make a piece of wood smoother or flatter with a plane n. (4) 用刨子刨平",
+   "ex": []
+  },
+  {
+   "def": "to fly without moving the wings, especially high up in the air 鸟",
+   "ex": []
+  },
+  {
+   "def": "to move quickly across water, only just touching the surface 船等",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "plane tickets",
+   "cn": "飞机票",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
