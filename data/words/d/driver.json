@@ -1,268 +1,262 @@
 {
-  "meta": {
-    "ph": "ˈdraɪvə(r); NAmE ˈdraɪvər",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈdraɪvə(r); NAmE ˈdraɪvər",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a person who drives a vehicle 驾驶员；司机；驾车者",
+   "ex": [
+    {
+     "s": "Herman Cruse, a school bus driver from New Jersey, has been with Middle Township Public Schools for the past nine years.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "赫尔曼·克鲁斯是新泽西州一名校车司机，过去九年在Middle Township公立学校工作。"
+    },
+    {
+     "s": "He believes bus drivers are the eyes and ears of students when they're away from home and they have a gift to discern what kids are feeling.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他认为，当学生们离家在外时，公交车司机就是他们的眼睛和耳朵，并且他们有一种辨别孩子们感受的天赋。"
+    },
+    {
+     "s": "When he walked in, the boy shouted proudly, “Hey, that's my bus driver!”They went into a quiet corner and began reading together.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "当他走进去时，男孩骄傲地喊道：\"嘿，那是我的校车司机！\"他们走进一个安静的角落，开始一起读书。"
+    },
+    {
+     "s": "Over the last seven years, most states have banned texting by drivers, and public service campaigns have tried a wide range of methods to persuade people to put down their phones when they are behind the wheel.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "过去七年里，大多数州已禁止司机发短信，公益宣传用了多种方法说服人们开车时放下手机。"
+    },
+    {
+     "s": "It would work like this: An officer arriving at the scene of a crash could ask for the phones of the drivers and use the Textalyzer to check in the operating system for recent activity.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它会这样运作：到达车祸现场的警官可以要求司机交出手机，并用Textalyzer在操作系统里检查近期活动。"
+    },
+    {
+     "s": "The technology could determine whether a driver had just texted, emailed or done anything else that is not allowed under New York's hands-free driving laws.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "该技术能判断司机是否刚刚发过短信、邮件或做了纽约免提驾驶法所不允许的其他事情。"
+    },
+    {
+     "s": "Ortiz, who pushed for the state's 2001 ban on hand-held devices by drivers.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Ortiz 推动了该州2001年禁止司机使用手持设备的法规。"
+    },
+    {
+     "s": "Which of the following best describes the ban on drivers' texting in the US?",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "以下哪项最能描述美国对司机发短信的禁令？"
+    },
+    {
+     "s": "Where a driver came from.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "司机是否使用了手机。"
+    },
+    {
+     "s": "Whether a driver used their phone.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "司机是否使用他们的电话。"
+    },
+    {
+     "s": "How fast a driver was going.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "司机当时开得有多快。"
+    },
+    {
+     "s": "When a driver arrived at the scene.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "司机何时到达现场。"
+    },
+    {
+     "s": "New York Banning Hand-Held Devices by Drivers",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "下一代手机：Textalyzer"
+    },
+    {
+     "s": "Which job requires a driver's license?",
+     "src": "2021天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "哪份工作需要驾照？"
+    },
+    {
+     "s": "Mom lifted me out of the car and  38  to speak to the driver.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "妈妈把我从车里抱出来，____38____去和司机说话。"
+    },
+    {
+     "s": "Wilson first worked as a driver through a student-support programme of the non-profit organisation.",
+     "src": "2019北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "威尔逊最初是通过一家非营利组织的学生支持项目当司机的。"
+    },
+    {
+     "s": "A taxi driver.",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一名出租车司机。"
+    },
+    {
+     "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
+    },
+    {
+     "s": "Led by Professor Phil Blythe, the Newcastle team are developing in-vehicle technologies for older drivers which they hope could help them to continue driving into later life.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在菲尔·布莱斯教授的领导下，纽卡斯尔团队正在为老年驾驶员开发车载技术，他们希望这些技术能帮助他们在晚年继续驾驶。"
+    },
+    {
+     "s": "Dr Amy Guo, the leading researcher on the older driver study, explains, “The Drive LAB is helping us to understand what the key points and difficulties are for older drivers and how we might use technology to address these problems.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "老年驾驶研究的首席研究员郭艾米博士解释道：“Drive LAB正在帮助我们理解老年驾驶者的关键点和困难，以及我们如何能用技术解决这些问题。”"
+    },
+    {
+     "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“例如，我们大多数人都以为老年驾驶者总是比其他人开得慢，但令人惊讶的是，我们发现，在限速30英里每小时的区域，他们难以保持匀速，因此更有可能超速并被罚款的风险。"
+    },
+    {
+     "s": "To find out older driver’s problems.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "了解老年驾驶员的问题。"
+    },
+    {
+     "s": "What do researchers hope to do for older drivers?",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "研究人员希望能为老年驾驶员做些什么？"
+    },
+    {
+     "s": "Keeping Older Drivers on the Road",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "让老年驾驶员继续上路驾驶"
+    },
+    {
+     "s": "A young English teacher saved the lives of 30 students when he took    36    of a bus after its driver suffered a serious heart attack.",
+     "src": "2017浙江11月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一名年轻的英语老师在公交车司机严重心脏病发作后接过____公交车，救了30名学生的命。"
+    },
+    {
+     "s": "The driver didn’t    44   .",
+     "src": "2017浙江11月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "司机没有____44____。"
+    },
+    {
+     "s": "The bus driver never regained consciousness and died at Easy Surrey Hospital.",
+     "src": "2017浙江11月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "公共汽车司机再也没恢复意识，在 Easy Surrey 医院去世。"
+    },
+    {
+     "s": "As an ambulance driver, she’s seen a lot of car accidents involving teenagers and thinks the legal age for getting a driving licence should be 21.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "t": "作为救护车司机，她见过很多涉及青少年的车祸，认为拿驾照的法定年龄应为21岁。"
+    },
+    {
+     "s": "Millenniumbutterfly, you say how great it would be to have self-driving cars, but what about all the taxi drivers who would lose their jobs?",
+     "src": "外研社B6 U4",
+     "cat": "waiyan",
+     "t": "Millennibutterfly，你说有自驾车会有多好，但是那些会失业的出租车司机呢？"
+    },
+    {
+     "s": "The 2008 Olympics in Beijing were a great motivator, attracting even taxi-drivers and homemakers to learn English.",
+     "src": "外研社B7 U6",
+     "cat": "waiyan",
+     "t": "2008年北京奥运会是一个极大的激励，连出租车司机和家庭主妇都被吸引来学英语。"
+    },
+    {
+     "s": "The sound of the dogs barking, the calls of the drivers, and the shouts of the crowd create an exciting northern experience.",
+     "src": "人教B3 U5",
+     "cat": "renjiao",
+     "t": "狗的吠叫声、赶狗人的吆喝声、人群的呐喊声，共同创造了一场激动人心的北方体验。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a club with a wooden head 高尔夫球",
+   "ex": []
+  },
+  {
+   "def": "software that controls the sending of data between a computer and a piece of equipment that is attached to it, such as a printer 驱动程序",
+   "ex": [
     {
-      "def": "a person who drives a vehicle 驾驶员；司机；驾车者",
-      "ex": [
-        {
-          "s": "Herman Cruse, a school bus driver from New Jersey, has been with Middle Township Public Schools for the past nine years.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "赫尔曼·克鲁斯是新泽西州一名校车司机，过去九年在Middle Township公立学校工作。"
-        },
-        {
-          "s": "He believes bus drivers are the eyes and ears of students when they're away from home and they have a gift to discern what kids are feeling.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他认为，当学生们离家在外时，公交车司机就是他们的眼睛和耳朵，并且他们有一种辨别孩子们感受的天赋。"
-        },
-        {
-          "s": "When he walked in, the boy shouted proudly, “Hey, that's my bus driver!”They went into a quiet corner and began reading together.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "当他走进去时，男孩骄傲地喊道：\"嘿，那是我的校车司机！\"他们走进一个安静的角落，开始一起读书。"
-        },
-        {
-          "s": "Over the last seven years, most states have banned texting by drivers, and public service campaigns have tried a wide range of methods to persuade people to put down their phones when they are behind the wheel.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "过去七年里，大多数州已禁止司机发短信，公益宣传用了多种方法说服人们开车时放下手机。"
-        },
-        {
-          "s": "It would work like this: An officer arriving at the scene of a crash could ask for the phones of the drivers and use the Textalyzer to check in the operating system for recent activity.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它会这样运作：到达车祸现场的警官可以要求司机交出手机，并用Textalyzer在操作系统里检查近期活动。"
-        },
-        {
-          "s": "The technology could determine whether a driver had just texted, emailed or done anything else that is not allowed under New York's hands-free driving laws.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "该技术能判断司机是否刚刚发过短信、邮件或做了纽约免提驾驶法所不允许的其他事情。"
-        },
-        {
-          "s": "Ortiz, who pushed for the state's 2001 ban on hand-held devices by drivers.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Ortiz 推动了该州2001年禁止司机使用手持设备的法规。"
-        },
-        {
-          "s": "Which of the following best describes the ban on drivers' texting in the US?",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "以下哪项最能描述美国对司机发短信的禁令？"
-        },
-        {
-          "s": "Where a driver came from.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "司机是否使用了手机。"
-        },
-        {
-          "s": "Whether a driver used their phone.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "司机是否使用他们的电话。"
-        },
-        {
-          "s": "How fast a driver was going.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "司机当时开得有多快。"
-        },
-        {
-          "s": "When a driver arrived at the scene.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "司机何时到达现场。"
-        },
-        {
-          "s": "New York Banning Hand-Held Devices by Drivers",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "下一代手机：Textalyzer"
-        },
-        {
-          "s": "Which job requires a driver's license?",
-          "src": "2021天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "哪份工作需要驾照？"
-        },
-        {
-          "s": "Mom lifted me out of the car and  38  to speak to the driver.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "妈妈把我从车里抱出来，____38____去和司机说话。"
-        },
-        {
-          "s": "Wilson first worked as a driver through a student-support programme of the non-profit organisation.",
-          "src": "2019北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "威尔逊最初是通过一家非营利组织的学生支持项目当司机的。"
-        },
-        {
-          "s": "A taxi driver.",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一名出租车司机。"
-        },
-        {
-          "s": "The Intelligent Transport team at Newcastle University have turned an electric car into a mobile laboratory named “Drive LAB” in order to understand the challenges faced by older drivers and to discover where the key stress points are.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "纽卡斯尔大学的智能交通团队把一辆电动汽车改造成了一个名为“Drive LAB”的移动实验室，以了解老年驾驶者面临的挑战，并找出关键的压力点在哪里。"
-        },
-        {
-          "s": "Led by Professor Phil Blythe, the Newcastle team are developing in-vehicle technologies for older drivers which they hope could help them to continue driving into later life.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在菲尔·布莱斯教授的领导下，纽卡斯尔团队正在为老年驾驶员开发车载技术，他们希望这些技术能帮助他们在晚年继续驾驶。"
-        },
-        {
-          "s": "Dr Amy Guo, the leading researcher on the older driver study, explains, “The Drive LAB is helping us to understand what the key points and difficulties are for older drivers and how we might use technology to address these problems.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "老年驾驶研究的首席研究员郭艾米博士解释道：“Drive LAB正在帮助我们理解老年驾驶者的关键点和困难，以及我们如何能用技术解决这些问题。”"
-        },
-        {
-          "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“例如，我们大多数人都以为老年驾驶者总是比其他人开得慢，但令人惊讶的是，我们发现，在限速30英里每小时的区域，他们难以保持匀速，因此更有可能超速并被罚款的风险。"
-        },
-        {
-          "s": "To find out older driver’s problems.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "了解老年驾驶员的问题。"
-        },
-        {
-          "s": "What do researchers hope to do for older drivers?",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "研究人员希望能为老年驾驶员做些什么？"
-        },
-        {
-          "s": "Keeping Older Drivers on the Road",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "让老年驾驶员继续上路驾驶"
-        },
-        {
-          "s": "A young English teacher saved the lives of 30 students when he took    36    of a bus after its driver suffered a serious heart attack.",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一名年轻的英语老师在公交车司机严重心脏病发作后接过____公交车，救了30名学生的命。"
-        },
-        {
-          "s": "The driver didn’t    44   .",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "司机没有____44____。"
-        },
-        {
-          "s": "The bus driver never regained consciousness and died at Easy Surrey Hospital.",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "公共汽车司机再也没恢复意识，在 Easy Surrey 医院去世。"
-        },
-        {
-          "s": "As an ambulance driver, she’s seen a lot of car accidents involving teenagers and thinks the legal age for getting a driving licence should be 21.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "作为救护车司机，她见过很多涉及青少年的车祸，认为拿驾照的法定年龄应为21岁。"
-        },
-        {
-          "s": "Millenniumbutterfly, you say how great it would be to have self-driving cars, but what about all the taxi drivers who would lose their jobs?",
-          "src": "外研社B6 U4",
-          "cat": "waiyan",
-          "t": "Millennibutterfly，你说有自驾车会有多好，但是那些会失业的出租车司机呢？"
-        },
-        {
-          "s": "The 2008 Olympics in Beijing were a great motivator, attracting even taxi-drivers and homemakers to learn English.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "2008年北京奥运会是一个极大的激励，连出租车司机和家庭主妇都被吸引来学英语。"
-        },
-        {
-          "s": "The sound of the dogs barking, the calls of the drivers, and the shouts of the crowd create an exciting northern experience.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "t": "狗的吠叫声、赶狗人的吆喝声、人群的呐喊声，共同创造了一场激动人心的北方体验。"
-        }
-      ]
-    },
-    {
-      "def": "a club with a wooden head 高尔夫球",
-      "ex": []
-    },
-    {
-      "def": "software that controls the sending of data between a computer and a piece of equipment that is attached to it, such as a printer 驱动程序",
-      "ex": [
-        {
-          "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
-          "src": "2019天津卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）____的那一刻紧接着便是心算。更换那个小钱包里的（3）____需要花费多少时间和金钱？信用卡、驾照、现金，全都落在了公交车上。"
-        }
-      ]
-    },
-    {
-      "def": "one of the main things that influence sth or cause it to make progress 驱动因素",
-      "ex": [
-        {
-          "s": "However, there is increasing evidence that the real driver of poor health is not so much fatty food, as it is sugar.",
-          "src": "人教选必2 U3",
-          "cat": "renjiao",
-          "t": "然而，越来越多的证据表明，导致健康不良的真正驱动因素与其说是高脂肪食物，不如说是糖。"
-        }
-      ]
+     "s": "The（2）     moment was quickly followed by mental math． How much time and money would it cost to replace the（3）     of that little wallet？ The credit cards， the driver's license， the cash， all lost to the bus．",
+     "src": "2019天津卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）____的那一刻紧接着便是心算。更换那个小钱包里的（3）____需要花费多少时间和金钱？信用卡、驾照、现金，全都落在了公交车上。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "one of the main things that influence sth or cause it to make progress 驱动因素",
+   "ex": [
     {
-      "en": "older drivers",
-      "cn": "驾驶员",
-      "type": "名词短语",
-      "count": 8
-    },
-    {
-      "en": "bus driver",
-      "cn": "公交车司机",
-      "type": "名词短语",
-      "count": 4
+     "s": "However, there is increasing evidence that the real driver of poor health is not so much fatty food, as it is sugar.",
+     "src": "人教选必2 U3",
+     "cat": "renjiao",
+     "t": "然而，越来越多的证据表明，导致健康不良的真正驱动因素与其说是高脂肪食物，不如说是糖。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "bus driver",
+   "cn": "公交车司机",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
