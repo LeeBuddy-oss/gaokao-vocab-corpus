@@ -1,114 +1,107 @@
 {
-  "meta": {
-    "ph": "iːz; NAmE iːz",
-    "pos": "noun",
-    "stars": "★★"
+ "meta": {
+  "ph": "iːz; NAmE iːz",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "lack of difficulty 容易；轻易；不费劲",
+   "ex": []
   },
-  "defs": [
+  {
+   "def": "the state of feeling relaxed or comfortable without worries, problems or pain 舒适；安逸；自在；无忧无虑",
+   "ex": [
     {
-      "def": "lack of difficulty 容易；轻易；不费劲",
-      "ex": []
+     "s": "I would feel completely at ease doing my homework in bed, with light music on.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我喜欢躺在床上做作业，放着轻音乐，感觉无比自在。"
     },
     {
-      "def": "the state of feeling relaxed or comfortable without worries, problems or pain 舒适；安逸；自在；无忧无虑",
-      "ex": [
-        {
-          "s": "I would feel completely at ease doing my homework in bed, with light music on.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我喜欢躺在床上做作业，放着轻音乐，感觉无比自在。"
-        },
-        {
-          "s": "Youth means a temperamental predominance of courage over timidity of the appetite, for adventure over the love of ease.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。"
-        },
-        {
-          "s": "In today’s modern world, their ideas about living simply and being at ease with nature may take us a step closer to attaining personal well-being and fulfilment.",
-          "src": "外研社B6 U5",
-          "cat": "waiyan",
-          "t": "在当今现代社会，他们关于简朴生活、与自然从容相处的理念，或许能让我们离获得个人的幸福与满足更近一步。"
-        }
-      ]
+     "s": "Youth means a temperamental predominance of courage over timidity of the appetite, for adventure over the love of ease.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "青春气贯长虹，勇锐盖过怯弱，进取压倒苟安。"
     },
     {
-      "def": "to become or to make sth less unpleasant, painful, severe, etc. （使）宽慰；减轻；缓解",
-      "ex": [
-        {
-          "s": "It eases peer pressure.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "它能缓解同伴压力。"
-        },
-        {
-          "s": "After Charlie had a heart attack, Tindale says, she was prepared to put him to sleep, but Farber’s treatments eased her dog’s suffering so much that she was able to keep him alive for an additional five months.",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "Charlie心脏病发作后，Tindale说，她本准备让它安乐死，但Farber的治疗大大减轻了它的痛苦，让她又能让它多活了五个月。"
-        },
-        {
-          "s": "The best way to ease pressure on over-touristed destinations is to go somewhere else.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "缓解游客过多目的地压力的最好办法，是去别的地方。"
-        },
-        {
-          "s": "There are things you can do to ease this problem.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这些普遍规范远早于任何宗教戒律或成文法的概念。"
-        },
-        {
-          "s": "To help ease this burden, there are also robots that can help workers carry fruit and vegetables to storage areas.",
-          "src": "人教选必1 U5",
-          "cat": "renjiao",
-          "t": "为了帮助减轻这个负担，还有可以帮助工人将水果和蔬菜搬运到储藏区域的机器人。"
-        },
-        {
-          "s": "T F 5 Putting butter or oil on burns helps because it may reduce swelling and ease discomfort.",
-          "src": "人教选必2 U5",
-          "cat": "renjiao",
-          "t": "判断对错　5 在烧伤处涂黄油或油有帮助，因为可能减轻肿胀、缓解不适。"
-        }
-      ]
-    },
-    {
-      "def": "to move, or to move sb/sth, slowly and carefully （使）小心缓缓地移动",
-      "ex": []
-    },
-    {
-      "def": "to make sth easier 使 … 容易些",
-      "ex": []
-    },
-    {
-      "def": "to make sth or to become less tight and more relaxed （使）缓和，放松",
-      "ex": []
-    },
-    {
-      "def": "to become or make sth lower in price or value 降低；（使）贬值",
-      "ex": []
-    },
-    {
-      "def": "to reduce the speed at which you are travelling 放慢速度",
-      "ex": []
-    },
-    {
-      "def": "to become less strong, unpleasant, etc. 减轻；缓和；放松",
-      "ex": []
+     "s": "In today’s modern world, their ideas about living simply and being at ease with nature may take us a step closer to attaining personal well-being and fulfilment.",
+     "src": "外研社B6 U5",
+     "cat": "waiyan",
+     "t": "在当今现代社会，他们关于简朴生活、与自然从容相处的理念，或许能让我们离获得个人的幸福与满足更近一步。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to become or to make sth less unpleasant, painful, severe, etc. （使）宽慰；减轻；缓解",
+   "ex": [
     {
-      "en": "ease this",
-      "cn": "容易这",
-      "type": "名词短语",
-      "count": 2
+     "s": "It eases peer pressure.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "它能缓解同伴压力。"
+    },
+    {
+     "s": "After Charlie had a heart attack, Tindale says, she was prepared to put him to sleep, but Farber’s treatments eased her dog’s suffering so much that she was able to keep him alive for an additional five months.",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "Charlie心脏病发作后，Tindale说，她本准备让它安乐死，但Farber的治疗大大减轻了它的痛苦，让她又能让它多活了五个月。"
+    },
+    {
+     "s": "The best way to ease pressure on over-touristed destinations is to go somewhere else.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "缓解游客过多目的地压力的最好办法，是去别的地方。"
+    },
+    {
+     "s": "There are things you can do to ease this problem.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这些普遍规范远早于任何宗教戒律或成文法的概念。"
+    },
+    {
+     "s": "To help ease this burden, there are also robots that can help workers carry fruit and vegetables to storage areas.",
+     "src": "人教选必1 U5",
+     "cat": "renjiao",
+     "t": "为了帮助减轻这个负担，还有可以帮助工人将水果和蔬菜搬运到储藏区域的机器人。"
+    },
+    {
+     "s": "T F 5 Putting butter or oil on burns helps because it may reduce swelling and ease discomfort.",
+     "src": "人教选必2 U5",
+     "cat": "renjiao",
+     "t": "判断对错　5 在烧伤处涂黄油或油有帮助，因为可能减轻肿胀、缓解不适。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to move, or to move sb/sth, slowly and carefully （使）小心缓缓地移动",
+   "ex": []
+  },
+  {
+   "def": "to make sth easier 使 … 容易些",
+   "ex": []
+  },
+  {
+   "def": "to make sth or to become less tight and more relaxed （使）缓和，放松",
+   "ex": []
+  },
+  {
+   "def": "to become or make sth lower in price or value 降低；（使）贬值",
+   "ex": []
+  },
+  {
+   "def": "to reduce the speed at which you are travelling 放慢速度",
+   "ex": []
+  },
+  {
+   "def": "to become less strong, unpleasant, etc. 减轻；缓和；放松",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
