@@ -1,759 +1,759 @@
 {
-  "meta": {
-    "ph": "ˈlæŋɡwɪdʒ; NAmE ˈlæŋɡwɪdʒ",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈlæŋɡwɪdʒ; NAmE ˈlæŋɡwɪdʒ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "the system of communication in speech and writing that is used by people of a particular country or area 语言",
+   "ex": [
+    {
+     "s": "In your free time, you can explore the city, have language classes, surf or choose your favourite from among the following.",
+     "src": "2026北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在空闲时间，你可以探索城市、上语言课、冲浪，或从以下选项中挑选你最喜欢的。"
+    },
+    {
+     "s": "set up social platformsD. promote language learning",
+     "src": "2026北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "建立社交平台。D.促进语言学习。"
+    },
+    {
+     "s": "Take a language test",
+     "src": "2025浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "参加一场语言测试"
+    },
+    {
+     "s": "For well over a hundred years the most influential English dictionary was Samuel Johnson's Dictionary of the English Language published in 1755.",
+     "src": "2024新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "一百多年来，最具影响力的英语词典是Samuel Johnson于1755年出版的《英语词典》。"
+    },
+    {
+     "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
+    },
+    {
+     "s": "•Students sign up and indicate the languages they can share and languages they are interested in learning.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "•学生报名并注明他们能够分享的语言和他们有兴趣学习的语言。"
+    },
+    {
+     "s": "Pairs are matched by languages of interest and proficiency levels.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "配对根据兴趣语言和熟练程度进行匹配。"
+    },
+    {
+     "s": "meet teachers each weekD. practise their language skills",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "每周见老师D. 练习他们的语言技能"
+    },
+    {
+     "s": "Indicate their languages of interestB.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "表明他们感兴趣的语言B."
+    },
+    {
+     "s": "These abilities are strengthened by our capacity for language, which allows social practices to develop in extremely unobvious ways.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这些能力因我们的语言能力而加强，语言能力让社会实践能以极其不明显的方式发展。"
+    },
+    {
+     "s": "Language capacity is limited by self-control.",
+     "src": "2024北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "语言能力受自控力限制。"
+    },
+    {
+     "s": "My family came from Brazil, so English was only my second language.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我的家人来自巴西，所以英语只是我的第二语言。"
+    },
+    {
+     "s": "Across the 320 submissions, a pattern of categories the researchers call a “nature language” began to emerge.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在320份提交材料中，一种被研究人员称为“自然语言”的类别模式开始显现。"
+    },
+    {
+     "s": "Naming each nature experience creates a usable language, which helps people recognize and take part in the activities that are most satisfying and meaningful to them.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "为每种自然体验命名创造出一种可用的语言，帮助人们认识并参与那些对他们来说最令人满足、最有意义的活动。"
+    },
+    {
+     "s": "“We’re trying to generate a language that helps bring the human-nature interactions back into our daily lives.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我们正试图创造一种语言，帮助把人与自然的互动带回到我们的日常生活中。"
+    },
+    {
+     "s": "The nature language enhances work performance.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "自然语言能提高工作表现。"
+    },
+    {
+     "s": "My family came from Brazil, so English was only my second language.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我的家人来自巴西，所以英语只是我的第二语言。"
+    },
+    {
+     "s": "Why written language is reliable.",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "为什么书面语言是可靠的。"
+    },
+    {
+     "s": "Signing up for ESL (English as a Second Language)",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "报名ESL（英语作为第二语言）"
+    },
+    {
+     "s": "ESL courses are designed to help international students improve academic English language skills.",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "ESL 课程旨在帮助国际学生提升学术英语水平。"
+    },
+    {
+     "s": "improve the students’ language skills",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "提高学生的语言技能"
+    },
+    {
+     "s": "In front of me was an array of foods I couldn’t even name in my native language.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "摆在我面前的是一系列我用母语都叫不出名字的食物。"
+    },
+    {
+     "s": "Unfortunately, between us stood the barrier of language.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "不幸的是，我们之间横亘着语言的障碍。"
+    },
+    {
+     "s": "I watched with great sympathy as elderly Italians tried to hold a conversation in Italian with people who did not speak the language.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我满怀同情地看着年长的意大利人试图用意大利语与不懂这门语言的人交谈。"
+    },
+    {
+     "s": "It suddenly became very clear to me how lucky I was to be fluent in two languages.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我突然非常清楚地意识到我能流利地说两种语言是多么幸运。"
+    },
+    {
+     "s": "In a study led by Ellen Langer of Harvard University, researchers asked people to translate sentences into a new a made-up language.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在哈佛大学的艾伦·兰格领导的一项研究中，研究人员让人们把句子翻译成一种新编出来的语言。"
+    },
+    {
+     "s": "Subjects who practiced the language moderately beforehand made fewer errors than those who practiced extensively or not at all.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "事先适度练习这种语言的人犯的错误比那些大量练习或根本不练习的人少。"
+    },
+    {
+     "s": "The very best communicators are those who know how to adjust their language to match their audience.",
+     "src": "2022浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "最好的沟通者是那些知道如何根据读者调整语言的人。"
+    },
+    {
+     "s": "Travellers need to know a second language.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "旅行者需要懂一门第二语言。"
+    },
+    {
+     "s": "We spoke our own language.",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我们说着自己的语言。"
+    },
+    {
+     "s": "Children should learn a second language.",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "孩子应该学一门第二语言。"
+    },
+    {
+     "s": "Language is certainly a barrier for many people.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "语言对许多人来说无疑是个障碍。"
+    },
+    {
+     "s": "For postcrossing to work worldwide, a common communication language is needed so that everyone can understand each other.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "要让明信片交流在全球范围内运作，需要一种通用的交流语言，以便大家相互理解。"
+    },
+    {
+     "s": "34   So a common language is required and in postcrossing that’s English since it’s widely spoken.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "34   因此需要一种通用语言，而在明信片交流中这种语言就是英语，因为它被广泛使用。"
+    },
+    {
+     "s": "We did not speak the local language, did not know the customs, and more often than not, did not entirely recognize the food.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们不会说当地语言，不了解当地习俗，而且往往认不出食物。"
+    },
+    {
+     "s": "We all spoke the same language of passes and shots.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我不擅长足球，但那个晚上很美好。"
+    },
+    {
+     "s": "He learned more about the local language.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他更多地了解了当地的语言。"
+    },
+    {
+     "s": "Perhaps you'd like to learn a language or improve your English.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "也许你想学一门语言或提高你的英语水平。"
+    },
+    {
+     "s": "The library may sponsor a language group you could join.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "图书馆可能会赞助一个你可以加入的语言小组。"
+    },
+    {
+     "s": "the kid to learn a new language",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "让孩子学习一门新语言。"
+    },
+    {
+     "s": "Lancom is a worldwide language learning app and a leader in the online language learning industry with millions of active subscribers.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Lancom是一款全球语言学习应用，也是在线语言学习行业的领导者，拥有数百万活跃订阅用户。"
+    },
+    {
+     "s": "We house a broad range of experts united by the common goal of creating the best language learning tools possible.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们汇聚了众多专家，他们因创造尽可能好的语言学习工具这一共同目标而团结在一起。"
+    },
+    {
+     "s": "At the core of Lancom is a world-class effective method that enhances language leaning with advanced technology.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Lancom的核心是一种世界级的有效方法，借助先进技术提升语言学习。"
+    },
+    {
+     "s": "The app makes our practical language lessons available wherever and whenever.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这款应用程序让我们的实用语言课程随时随地可用。"
+    },
+    {
+     "s": "Millions of learners have their own stories and their own reasons for learning a new language.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Lancom是唯一提供根据你的母语定制的课程的产品，基于你已经知道的语法和词汇构建。"
+    },
+    {
+     "s": "Learning English as a second language can be a painful experience.",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "把英语作为第二语言来学可能是一段痛苦的经历。"
+    },
+    {
+     "s": "Languages have been coming and going for thousands of years, but in recent times there has been less coming and a lot more going.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "语言来来去去已有数千年，但近来越来越少有新语言出现，却有大量语言消失。"
+    },
+    {
+     "s": "Some language experts believe that 10,000 years ago, when the world had just five to ten million people, they spoke perhaps 12,000 languages between them.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一些语言专家认为，一万年前，当世界只有五百到一千万人时，他们之间可能讲着一万两千种语言。"
+    },
+    {
+     "s": "Soon afterwards, many of those people started settling down to become farmers, and their languages too became more settled and fewer in number.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "不久之后，那些人中的许多开始定居下来成为农民，他们的语言也随之变得更加稳定，数量也减少了。"
+    },
+    {
+     "s": "Especially glbalisation and better communications in the past few decades, all have caused many Languages to disappear, and dominant languages such as English.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "尤其是近几十年的全球化和更好的通讯方式，都导致许多语言消失，而英语等主导语言正在日益占据主导地位。"
+    },
+    {
+     "s": "At present, the world has about 6,800 languages.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "目前，世界约有6800种语言。"
+    },
+    {
+     "s": "The distribution of these languages is hugely uneven.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这些语言的分布极不均匀。"
+    },
+    {
+     "s": "The general rule is that mild zones have relatively few languages.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一般规律是温带地区的语言相对较少。"
+    },
+    {
+     "s": "Europe has only around 200 Languages: the Americas about 1,000.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "欧洲只有约200种语言；美洲约1000种。"
+    },
+    {
+     "s": "What can we infer about languages in huntergatherer times?",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "关于狩猎采集时代的语言，我们能推断出什么？"
+    },
+    {
+     "s": "How many languages are spoken by less than 6,000 people at present?",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "目前有多少种语言的使用者少于6000人？"
+    },
+    {
+     "s": "New languages will be created.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "新语言将会被创造出来。"
+    },
+    {
+     "s": "Peoples lifestyles are reflected in languages",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人们的生活方式反映在语言中"
+    },
+    {
+     "s": "Human development results in fewer languages",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人类的发展导致语言数量减少。"
+    },
+    {
+     "s": "Geography determines language evolution.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "地理决定语言进化。"
+    },
+    {
+     "s": "Before there was the written word, there was the language of dance.",
+     "src": "2018全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在出现文字之前，就有舞蹈的语言。"
+    },
+    {
+     "s": "How his language skills improved.",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他的语言技能如何提高的。"
+    },
+    {
+     "s": "They are most often from Cantonese or other Chinese languages rather than Mandarin.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它们大多数来自粤语或其他汉语方言，而不是普通话。"
+    },
+    {
+     "s": "The word history of typhoon had a far less direct path to the English language than gung-ho.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "typhoon一词进入英语的路径远比gung-ho间接得多。"
+    },
+    {
+     "s": "But, according to the Merriam-Webster New Book of Word Histories, the first typhoons reported in the English language were in India and were called “touffons” or “tufans,” The word tufan or al-tufan is Arabic and means violent storm or flood.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但根据《梅里亚姆-韦伯斯特词源新词典》，英语中最早报道的台风在印度，被称为“touffons”或“tufans”。“tufan”或“al-tufan”一词是阿拉伯语，意思是猛烈的风暴或洪水。"
+    },
+    {
+     "s": "I never felt an urge to  43  any sign language before.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我以前从未有过对43种手语的冲动。"
+    },
+    {
+     "s": "Deafinitely Theatre  London | British Sign Language（BSL）",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "聋人剧院  伦敦 | 英国手语（BSL）"
+    },
+    {
+     "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL, Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
+    },
+    {
+     "s": "She was skeptical that the language requirement would encourage integration.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她对语言要求能否促进融合持怀疑态度。"
+    },
+    {
+     "s": "Italians always “see me as a foreigner,” an outsider, even though she’s stayed in the country for years and can speak the local language fluently, she said.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "意大利人总是\"把我当作外国人\"，一个局外人，尽管她在这个国家生活多年并且能流利地说当地语言，她说。"
+    },
+    {
+     "s": "Why does Cojochru have to take a language test?",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么科约克鲁必须参加语言测试？"
+    },
+    {
+     "s": "She enjoys learning the Italian language.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她喜欢学习意大利语。"
+    },
+    {
+     "s": "The books are in every language — new books, ancient books,  40  a book on the history of Iraq that is seven hundred years old.",
+     "src": "2017浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这些书使用各种语言——新书、古书，____一本有七百年历史的关于伊拉克历史的书。"
+    },
+    {
+     "s": "It’s a bit like reading a foreign language.",
+     "src": "2017浙江11月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这有点像读一门外语。"
+    },
+    {
+     "s": "They were going to    39    a course at the ABC Language School in Bournemouth where Harvold works as a    40   .",
+     "src": "2017浙江11月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他们打算在伯恩茅斯的ABC语言学校____39____一门课程，哈沃德在那里担任____40____。"
+    },
+    {
+     "s": "The head of the language school told the local newspaper that the school is going to send Harvold on a weekend   53    to Dublin with a friend, thanking him for his    54   .",
+     "src": "2017浙江11月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这所语言学校的校长告诉当地报纸，学校将送哈沃德在周末____53____与一位朋友去都柏林，并感谢他的____54____。"
+    },
+    {
+     "s": "Deafinitely Theatre  London | British Sign  Language （BSL）",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "聋人剧院 伦敦 | 英国手语（BSL）"
+    },
+    {
+     "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL,Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
+    },
+    {
+     "s": "“It takes a lot for any student，” Whaley explains，“especially for a student who is learning English as their new language，to feel confident enough to say，‘I don’t know，but I want to know.’”",
+     "src": "2019全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "“对任何学生来说都需要很大勇气，”惠利解释道，“尤其对一个把英语当作新语言来学的学生，要自信到能说‘我不知道，但我想知道’。”"
+    },
+    {
+     "s": "The Moldovan has lived here seven years as a caregiver to Italian kids and the elderly, but in order to stay she’s had to prove her language skills by taking a test which requires her to write a postcard to an imaginary friend and answer a fictional job ad.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这位摩尔多瓦人作为意大利孩子和老人的照护者已在这里住了七年，但为了留下来，她必须通过一项测试来证明自己的语言能力——测试要求她给一个想象中的朋友写明信片，并回复一则虚构的招聘广告。"
+    },
+    {
+     "s": "Others say it’s only natural that newcomers learn the language of their host nation, seeing it as a condition to ensure they can contribute to society.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
+    },
+    {
+     "s": "According to Chart 2, which language has the largest number of learners?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "根据图2 ，哪种语言的学习者人数最多？"
+    },
+    {
+     "s": "This got me thinking how English can be a crazy language to learn.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "这让我想到，英语学起来可真是一门疯狂的语言。"
+    },
+    {
+     "s": "You also have to wonder at the unique madness of a language in which a house can burn up as it burns down, in which you fill in a form by filling it out, and in which an alarm is only heard once it goes off!",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "您还必须惊讶于一种独特的疯狂语言，在这种语言中，房子可以在燃烧时燃烧，您可以通过填写表格来填写表格，并且只有在警报响起时才会听到警报！"
+    },
+    {
+     "s": "Some of the language used on the Internet is different to the language used in other forms of communication.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "互联网上使用的一些语言与其他形式的交流中使用的语言不同。"
+    },
+    {
+     "s": "So I learnt a new language.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "所以我学了一门新语言。"
+    },
+    {
+     "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "人类语言包含2000多种不同的声音，从常见的\"m\"和\"a\"到某些南部非洲语言中罕见的咔嗒音。"
+    },
+    {
+     "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一项开创性的五年研究表明，与人类咬合相关的饮食变化导致了新的语音，如今这些语音存在于世界上一半的语言中。"
+    },
+    {
+     "s": "More than 30 years ago, the scholar Charles Hockett noted that speech sounds called labiodentals, such as “f” and “v”, were more common in the languages of societies that ate softer foods.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "30多年前，学者查尔斯·霍克特(Charles Hockett)指出，在食用软食的社会语言中，称为labiodentals的语音，如“f”和“v”更为常见。"
+    },
+    {
+     "s": "These sounds are still not found in the languages of many hunter-gatherer people today.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这些声音在今天许多狩猎采集民族的语言中仍然不存在。"
+    },
+    {
+     "s": "Analyses of a language database also confirmed that there was a global change in the sound of world languages after the Neolithic age, with the use of “f” and “v” increasing remarkably during the last few thousand years.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对一个语言数据库的分析也证实，新石器时代之后世界语言的声音发生了全球性的变化，\"f\"和\"v\"的使用在近几千年显著增加。"
+    },
+    {
+     "s": "However, boys tended to play with more complex puzzles than girls, and the parents of boys provided more spatial language and were more active during puzzle play than parents of girls.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "然而，男孩往往比女孩玩更复杂的拼图，男孩的父母提供更多空间语言，并在拼图游戏中比女孩的父母更积极。"
+    },
+    {
+     "s": "In the coming months, we are bringing together artists form all over the globe, to enjoy speaking Shakespeare’s plays in their own language, in our Globe, within the architecture Shakespeare wrote for.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在接下来的几个月里，我们将汇聚来自全球各地的艺术家，在我们的环球剧场、在莎士比亚当年写作时所设计的建筑中，用他们各自的语言来演绎莎士比亚的戏剧。"
+    },
+    {
+     "s": "In the coming months, we are bringing together artists form all over the globe, to enjoy speaking Shakespeare’s plays in their own language, in our Globe, within the architecture Shakespeare wrote for.",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在接下来的几个月里，我们将汇聚来自全球各地的艺术家，在我们的环球剧场、在莎士比亚当年写作时所设计的建筑中，用他们各自的语言来演绎莎士比亚的戏剧。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the use by humans of a system of sounds and words to communicate 言语；说话；语言",
+   "ex": [
     {
-      "def": "the system of communication in speech and writing that is used by people of a particular country or area 语言",
-      "ex": [
-        {
-          "s": "In your free time, you can explore the city, have language classes, surf or choose your favourite from among the following.",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在空闲时间，你可以探索城市、上语言课、冲浪，或从以下选项中挑选你最喜欢的。"
-        },
-        {
-          "s": "set up social platformsD. promote language learning",
-          "src": "2026北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "建立社交平台。D.促进语言学习。"
-        },
-        {
-          "s": "Take a language test",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "参加一场语言测试"
-        },
-        {
-          "s": "For well over a hundred years the most influential English dictionary was Samuel Johnson's Dictionary of the English Language published in 1755.",
-          "src": "2024新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "一百多年来，最具影响力的英语词典是Samuel Johnson于1755年出版的《英语词典》。"
-        },
-        {
-          "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
-        },
-        {
-          "s": "•Students sign up and indicate the languages they can share and languages they are interested in learning.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "•学生报名并注明他们能够分享的语言和他们有兴趣学习的语言。"
-        },
-        {
-          "s": "Pairs are matched by languages of interest and proficiency levels.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "配对根据兴趣语言和熟练程度进行匹配。"
-        },
-        {
-          "s": "meet teachers each weekD. practise their language skills",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "每周见老师D. 练习他们的语言技能"
-        },
-        {
-          "s": "Indicate their languages of interestB.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "表明他们感兴趣的语言B."
-        },
-        {
-          "s": "These abilities are strengthened by our capacity for language, which allows social practices to develop in extremely unobvious ways.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这些能力因我们的语言能力而加强，语言能力让社会实践能以极其不明显的方式发展。"
-        },
-        {
-          "s": "Language capacity is limited by self-control.",
-          "src": "2024北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "语言能力受自控力限制。"
-        },
-        {
-          "s": "My family came from Brazil, so English was only my second language.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我的家人来自巴西，所以英语只是我的第二语言。"
-        },
-        {
-          "s": "Across the 320 submissions, a pattern of categories the researchers call a “nature language” began to emerge.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在320份提交材料中，一种被研究人员称为“自然语言”的类别模式开始显现。"
-        },
-        {
-          "s": "Naming each nature experience creates a usable language, which helps people recognize and take part in the activities that are most satisfying and meaningful to them.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为每种自然体验命名创造出一种可用的语言，帮助人们认识并参与那些对他们来说最令人满足、最有意义的活动。"
-        },
-        {
-          "s": "“We’re trying to generate a language that helps bring the human-nature interactions back into our daily lives.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我们正试图创造一种语言，帮助把人与自然的互动带回到我们的日常生活中。"
-        },
-        {
-          "s": "The nature language enhances work performance.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "自然语言能提高工作表现。"
-        },
-        {
-          "s": "My family came from Brazil, so English was only my second language.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我的家人来自巴西，所以英语只是我的第二语言。"
-        },
-        {
-          "s": "Why written language is reliable.",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为什么书面语言是可靠的。"
-        },
-        {
-          "s": "Signing up for ESL (English as a Second Language)",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "报名ESL（英语作为第二语言）"
-        },
-        {
-          "s": "ESL courses are designed to help international students improve academic English language skills.",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "ESL 课程旨在帮助国际学生提升学术英语水平。"
-        },
-        {
-          "s": "improve the students’ language skills",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "提高学生的语言技能"
-        },
-        {
-          "s": "In front of me was an array of foods I couldn’t even name in my native language.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "摆在我面前的是一系列我用母语都叫不出名字的食物。"
-        },
-        {
-          "s": "Unfortunately, between us stood the barrier of language.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "不幸的是，我们之间横亘着语言的障碍。"
-        },
-        {
-          "s": "I watched with great sympathy as elderly Italians tried to hold a conversation in Italian with people who did not speak the language.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我满怀同情地看着年长的意大利人试图用意大利语与不懂这门语言的人交谈。"
-        },
-        {
-          "s": "It suddenly became very clear to me how lucky I was to be fluent in two languages.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我突然非常清楚地意识到我能流利地说两种语言是多么幸运。"
-        },
-        {
-          "s": "In a study led by Ellen Langer of Harvard University, researchers asked people to translate sentences into a new a made-up language.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在哈佛大学的艾伦·兰格领导的一项研究中，研究人员让人们把句子翻译成一种新编出来的语言。"
-        },
-        {
-          "s": "Subjects who practiced the language moderately beforehand made fewer errors than those who practiced extensively or not at all.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "事先适度练习这种语言的人犯的错误比那些大量练习或根本不练习的人少。"
-        },
-        {
-          "s": "The very best communicators are those who know how to adjust their language to match their audience.",
-          "src": "2022浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最好的沟通者是那些知道如何根据读者调整语言的人。"
-        },
-        {
-          "s": "Travellers need to know a second language.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "旅行者需要懂一门第二语言。"
-        },
-        {
-          "s": "We spoke our own language.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我们说着自己的语言。"
-        },
-        {
-          "s": "Children should learn a second language.",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "孩子应该学一门第二语言。"
-        },
-        {
-          "s": "Language is certainly a barrier for many people.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "语言对许多人来说无疑是个障碍。"
-        },
-        {
-          "s": "For postcrossing to work worldwide, a common communication language is needed so that everyone can understand each other.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "要让明信片交流在全球范围内运作，需要一种通用的交流语言，以便大家相互理解。"
-        },
-        {
-          "s": "34   So a common language is required and in postcrossing that’s English since it’s widely spoken.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "34   因此需要一种通用语言，而在明信片交流中这种语言就是英语，因为它被广泛使用。"
-        },
-        {
-          "s": "We did not speak the local language, did not know the customs, and more often than not, did not entirely recognize the food.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们不会说当地语言，不了解当地习俗，而且往往认不出食物。"
-        },
-        {
-          "s": "We all spoke the same language of passes and shots.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我不擅长足球，但那个晚上很美好。"
-        },
-        {
-          "s": "He learned more about the local language.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他更多地了解了当地的语言。"
-        },
-        {
-          "s": "Perhaps you'd like to learn a language or improve your English.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "也许你想学一门语言或提高你的英语水平。"
-        },
-        {
-          "s": "The library may sponsor a language group you could join.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "图书馆可能会赞助一个你可以加入的语言小组。"
-        },
-        {
-          "s": "the kid to learn a new language",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "让孩子学习一门新语言。"
-        },
-        {
-          "s": "Lancom is a worldwide language learning app and a leader in the online language learning industry with millions of active subscribers.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom是一款全球语言学习应用，也是在线语言学习行业的领导者，拥有数百万活跃订阅用户。"
-        },
-        {
-          "s": "We house a broad range of experts united by the common goal of creating the best language learning tools possible.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们汇聚了众多专家，他们因创造尽可能好的语言学习工具这一共同目标而团结在一起。"
-        },
-        {
-          "s": "At the core of Lancom is a world-class effective method that enhances language leaning with advanced technology.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom的核心是一种世界级的有效方法，借助先进技术提升语言学习。"
-        },
-        {
-          "s": "The app makes our practical language lessons available wherever and whenever.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这款应用程序让我们的实用语言课程随时随地可用。"
-        },
-        {
-          "s": "Millions of learners have their own stories and their own reasons for learning a new language.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom是唯一提供根据你的母语定制的课程的产品，基于你已经知道的语法和词汇构建。"
-        },
-        {
-          "s": "Learning English as a second language can be a painful experience.",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "把英语作为第二语言来学可能是一段痛苦的经历。"
-        },
-        {
-          "s": "Languages have been coming and going for thousands of years, but in recent times there has been less coming and a lot more going.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "语言来来去去已有数千年，但近来越来越少有新语言出现，却有大量语言消失。"
-        },
-        {
-          "s": "Some language experts believe that 10,000 years ago, when the world had just five to ten million people, they spoke perhaps 12,000 languages between them.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一些语言专家认为，一万年前，当世界只有五百到一千万人时，他们之间可能讲着一万两千种语言。"
-        },
-        {
-          "s": "Soon afterwards, many of those people started settling down to become farmers, and their languages too became more settled and fewer in number.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "不久之后，那些人中的许多开始定居下来成为农民，他们的语言也随之变得更加稳定，数量也减少了。"
-        },
-        {
-          "s": "Especially glbalisation and better communications in the past few decades, all have caused many Languages to disappear, and dominant languages such as English.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "尤其是近几十年的全球化和更好的通讯方式，都导致许多语言消失，而英语等主导语言正在日益占据主导地位。"
-        },
-        {
-          "s": "At present, the world has about 6,800 languages.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "目前，世界约有6800种语言。"
-        },
-        {
-          "s": "The distribution of these languages is hugely uneven.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这些语言的分布极不均匀。"
-        },
-        {
-          "s": "The general rule is that mild zones have relatively few languages.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一般规律是温带地区的语言相对较少。"
-        },
-        {
-          "s": "Europe has only around 200 Languages: the Americas about 1,000.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "欧洲只有约200种语言；美洲约1000种。"
-        },
-        {
-          "s": "What can we infer about languages in huntergatherer times?",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "关于狩猎采集时代的语言，我们能推断出什么？"
-        },
-        {
-          "s": "How many languages are spoken by less than 6,000 people at present?",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "目前有多少种语言的使用者少于6000人？"
-        },
-        {
-          "s": "New languages will be created.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "新语言将会被创造出来。"
-        },
-        {
-          "s": "Peoples lifestyles are reflected in languages",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人们的生活方式反映在语言中"
-        },
-        {
-          "s": "Human development results in fewer languages",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人类的发展导致语言数量减少。"
-        },
-        {
-          "s": "Geography determines language evolution.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "地理决定语言进化。"
-        },
-        {
-          "s": "Before there was the written word, there was the language of dance.",
-          "src": "2018全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在出现文字之前，就有舞蹈的语言。"
-        },
-        {
-          "s": "How his language skills improved.",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他的语言技能如何提高的。"
-        },
-        {
-          "s": "They are most often from Cantonese or other Chinese languages rather than Mandarin.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它们大多数来自粤语或其他汉语方言，而不是普通话。"
-        },
-        {
-          "s": "The word history of typhoon had a far less direct path to the English language than gung-ho.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "typhoon一词进入英语的路径远比gung-ho间接得多。"
-        },
-        {
-          "s": "But, according to the Merriam-Webster New Book of Word Histories, the first typhoons reported in the English language were in India and were called “touffons” or “tufans,” The word tufan or al-tufan is Arabic and means violent storm or flood.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但根据《梅里亚姆-韦伯斯特词源新词典》，英语中最早报道的台风在印度，被称为“touffons”或“tufans”。“tufan”或“al-tufan”一词是阿拉伯语，意思是猛烈的风暴或洪水。"
-        },
-        {
-          "s": "I never felt an urge to  43  any sign language before.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我以前从未有过对43种手语的冲动。"
-        },
-        {
-          "s": "Deafinitely Theatre  London | British Sign Language（BSL）",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "聋人剧院  伦敦 | 英国手语（BSL）"
-        },
-        {
-          "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL, Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
-        },
-        {
-          "s": "She was skeptical that the language requirement would encourage integration.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她对语言要求能否促进融合持怀疑态度。"
-        },
-        {
-          "s": "Italians always “see me as a foreigner,” an outsider, even though she’s stayed in the country for years and can speak the local language fluently, she said.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "意大利人总是\"把我当作外国人\"，一个局外人，尽管她在这个国家生活多年并且能流利地说当地语言，她说。"
-        },
-        {
-          "s": "Why does Cojochru have to take a language test?",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么科约克鲁必须参加语言测试？"
-        },
-        {
-          "s": "She enjoys learning the Italian language.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她喜欢学习意大利语。"
-        },
-        {
-          "s": "The books are in every language — new books, ancient books,  40  a book on the history of Iraq that is seven hundred years old.",
-          "src": "2017浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些书使用各种语言——新书、古书，____一本有七百年历史的关于伊拉克历史的书。"
-        },
-        {
-          "s": "It’s a bit like reading a foreign language.",
-          "src": "2017浙江11月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这有点像读一门外语。"
-        },
-        {
-          "s": "They were going to    39    a course at the ABC Language School in Bournemouth where Harvold works as a    40   .",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他们打算在伯恩茅斯的ABC语言学校____39____一门课程，哈沃德在那里担任____40____。"
-        },
-        {
-          "s": "The head of the language school told the local newspaper that the school is going to send Harvold on a weekend   53    to Dublin with a friend, thanking him for his    54   .",
-          "src": "2017浙江11月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这所语言学校的校长告诉当地报纸，学校将送哈沃德在周末____53____与一位朋友去都柏林，并感谢他的____54____。"
-        },
-        {
-          "s": "Deafinitely Theatre  London | British Sign  Language （BSL）",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "聋人剧院 伦敦 | 英国手语（BSL）"
-        },
-        {
-          "s": "By translating the rich and humourous text of Love’s Labour’s Lost into the physical language of BSL,Deafinitely Theatre creates a new interpretation of Shakespeare’s comedy and aims to build a bridge between deaf and hearing worlds by performing to both groups as one audience.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "通过将《爱的徒劳》丰富幽默的文本翻译成英式手语这种肢体语言，Deafinitely剧院为莎士比亚的喜剧创造了一种新的诠释，并旨在通过为聋人和听力正常的人共同演出，在两者之间架起一座桥梁。"
-        },
-        {
-          "s": "“It takes a lot for any student，” Whaley explains，“especially for a student who is learning English as their new language，to feel confident enough to say，‘I don’t know，but I want to know.’”",
-          "src": "2019全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "“对任何学生来说都需要很大勇气，”惠利解释道，“尤其对一个把英语当作新语言来学的学生，要自信到能说‘我不知道，但我想知道’。”"
-        },
-        {
-          "s": "The Moldovan has lived here seven years as a caregiver to Italian kids and the elderly, but in order to stay she’s had to prove her language skills by taking a test which requires her to write a postcard to an imaginary friend and answer a fictional job ad.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这位摩尔多瓦人作为意大利孩子和老人的照护者已在这里住了七年，但为了留下来，她必须通过一项测试来证明自己的语言能力——测试要求她给一个想象中的朋友写明信片，并回复一则虚构的招聘广告。"
-        },
-        {
-          "s": "Others say it’s only natural that newcomers learn the language of their host nation, seeing it as a condition to ensure they can contribute to society.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "另一些人说，新来者学习所在国的语言是再自然不过的事，他们把这看作是为了确保自己能为社会做贡献的一个条件。"
-        },
-        {
-          "s": "According to Chart 2, which language has the largest number of learners?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "根据图2 ，哪种语言的学习者人数最多？"
-        },
-        {
-          "s": "This got me thinking how English can be a crazy language to learn.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "这让我想到，英语学起来可真是一门疯狂的语言。"
-        },
-        {
-          "s": "You also have to wonder at the unique madness of a language in which a house can burn up as it burns down, in which you fill in a form by filling it out, and in which an alarm is only heard once it goes off!",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "您还必须惊讶于一种独特的疯狂语言，在这种语言中，房子可以在燃烧时燃烧，您可以通过填写表格来填写表格，并且只有在警报响起时才会听到警报！"
-        },
-        {
-          "s": "Some of the language used on the Internet is different to the language used in other forms of communication.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "互联网上使用的一些语言与其他形式的交流中使用的语言不同。"
-        },
-        {
-          "s": "So I learnt a new language.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "所以我学了一门新语言。"
-        },
-        {
-          "s": "Human speech contains more than 2,000 different sounds, from the common “m” and “a” to the rare clicks of some southern African languages.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "人类语言包含2000多种不同的声音，从常见的\"m\"和\"a\"到某些南部非洲语言中罕见的咔嗒音。"
-        },
-        {
-          "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一项开创性的五年研究表明，与人类咬合相关的饮食变化导致了新的语音，如今这些语音存在于世界上一半的语言中。"
-        },
-        {
-          "s": "More than 30 years ago, the scholar Charles Hockett noted that speech sounds called labiodentals, such as “f” and “v”, were more common in the languages of societies that ate softer foods.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "30多年前，学者查尔斯·霍克特(Charles Hockett)指出，在食用软食的社会语言中，称为labiodentals的语音，如“f”和“v”更为常见。"
-        },
-        {
-          "s": "These sounds are still not found in the languages of many hunter-gatherer people today.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这些声音在今天许多狩猎采集民族的语言中仍然不存在。"
-        },
-        {
-          "s": "Analyses of a language database also confirmed that there was a global change in the sound of world languages after the Neolithic age, with the use of “f” and “v” increasing remarkably during the last few thousand years.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对一个语言数据库的分析也证实，新石器时代之后世界语言的声音发生了全球性的变化，\"f\"和\"v\"的使用在近几千年显著增加。"
-        },
-        {
-          "s": "However, boys tended to play with more complex puzzles than girls, and the parents of boys provided more spatial language and were more active during puzzle play than parents of girls.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "然而，男孩往往比女孩玩更复杂的拼图，男孩的父母提供更多空间语言，并在拼图游戏中比女孩的父母更积极。"
-        },
-        {
-          "s": "In the coming months, we are bringing together artists form all over the globe, to enjoy speaking Shakespeare’s plays in their own language, in our Globe, within the architecture Shakespeare wrote for.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在接下来的几个月里，我们将汇聚来自全球各地的艺术家，在我们的环球剧场、在莎士比亚当年写作时所设计的建筑中，用他们各自的语言来演绎莎士比亚的戏剧。"
-        },
-        {
-          "s": "In the coming months, we are bringing together artists form all over the globe, to enjoy speaking Shakespeare’s plays in their own language, in our Globe, within the architecture Shakespeare wrote for.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在接下来的几个月里，我们将汇聚来自全球各地的艺术家，在我们的环球剧场、在莎士比亚当年写作时所设计的建筑中，用他们各自的语言来演绎莎士比亚的戏剧。"
-        }
-      ]
+     "s": "The Language Exchange Programme allows students in pairs to communicate in two different languages they wish to share and learn each week.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "语言交换项目让学生两人一组，每周用两种他们希望分享和学习的不同语言进行交流。"
     },
     {
-      "def": "the use by humans of a system of sounds and words to communicate 言语；说话；语言",
-      "ex": [
-        {
-          "s": "The Language Exchange Programme allows students in pairs to communicate in two different languages they wish to share and learn each week.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "语言交换项目让学生两人一组，每周用两种他们希望分享和学习的不同语言进行交流。"
-        },
-        {
-          "s": "Our courses, totalling 20,000 hours of content in 20 different languages, guarantee you language skills you can use right away.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我们的课程总计2万小时内容，涵盖20种不同的语言，保证你掌握可立即使用的语言技能。"
-        },
-        {
-          "s": "Lancom is the only product to offer courses tailored to your native language, building on grammar and words you already know.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom是唯一提供根据母语量身定制课程的产品，在你已掌握的语法和词汇基础上进行构建。"
-        },
-        {
-          "s": "On a recent program, we told you the stories of English words borrowed from other languages.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在最近一期节目中，我们讲述了源自其他语言的英语单词的故事。"
-        },
-        {
-          "s": "They prefer to use more spatial language.",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他们倾向于使用更多空间语言。"
-        }
-      ]
+     "s": "Our courses, totalling 20,000 hours of content in 20 different languages, guarantee you language skills you can use right away.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我们的课程总计2万小时内容，涵盖20种不同的语言，保证你掌握可立即使用的语言技能。"
     },
     {
-      "def": "a particular style of speaking or writing 某种类型的言语（或语言）",
-      "ex": []
+     "s": "Lancom is the only product to offer courses tailored to your native language, building on grammar and words you already know.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Lancom是唯一提供根据母语量身定制课程的产品，在你已掌握的语法和词汇基础上进行构建。"
     },
     {
-      "def": "a way of expressing ideas and feelings using movements, symbols and sound （用动作、符号和语音来表达思想感情的）表达方式，交际方式",
-      "ex": [
-        {
-          "s": "The pronunciation system of the Chinese language is quite different from that of English.",
-          "src": "2025新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "汉语的语音系统与英语的语音系统大不相同。"
-        }
-      ]
+     "s": "On a recent program, we told you the stories of English words borrowed from other languages.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在最近一期节目中，我们讲述了源自其他语言的英语单词的故事。"
     },
     {
-      "def": "a system of symbols and rules that is used to operate a computer 计算机语言",
-      "ex": []
+     "s": "They prefer to use more spatial language.",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他们倾向于使用更多空间语言。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a particular style of speaking or writing 某种类型的言语（或语言）",
+   "ex": []
+  },
+  {
+   "def": "a way of expressing ideas and feelings using movements, symbols and sound （用动作、符号和语音来表达思想感情的）表达方式，交际方式",
+   "ex": [
     {
-      "en": "language skills",
-      "cn": "语言技能",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "second language",
-      "cn": "语言",
-      "type": "名词短语",
-      "count": 6
-    },
-    {
-      "en": "new language",
-      "cn": "新语言",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "physical language",
-      "cn": "语言",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "spatial language",
-      "cn": "语言",
-      "type": "名词短语",
-      "count": 4
+     "s": "The pronunciation system of the Chinese language is quite different from that of English.",
+     "src": "2025新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "汉语的语音系统与英语的语音系统大不相同。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a system of symbols and rules that is used to operate a computer 计算机语言",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "language skills",
+   "cn": "语言技能",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "second language",
+   "cn": "语言",
+   "type": "名词短语",
+   "count": 6
+  },
+  {
+   "en": "new language",
+   "cn": "新语言",
+   "type": "名词短语",
+   "count": 5
+  },
+  {
+   "en": "physical language",
+   "cn": "身体；物理的language",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "spatial language",
+   "cn": "语言",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
