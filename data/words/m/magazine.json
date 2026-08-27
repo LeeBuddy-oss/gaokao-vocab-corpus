@@ -1,300 +1,294 @@
 {
-  "meta": {
-    "ph": "ˌmæɡəˈziːn; NAmE ˈmæɡəziːn",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˌmæɡəˈziːn; NAmE ˈmæɡəziːn",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a type of large thin book with a paper cover that you can buy every week or month, containing articles, photographs, etc., often on a particular topic 杂志；期刊",
+   "ex": [
+    {
+     "s": "Their stay in Elkhead is the subject of Nothing Daunted: The Unexpected Education of Two Society Girls in the West by Dorothy Wickenden, who is a magazine editor and Dorothy Woodruff’s granddaughter.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她们在埃尔克黑德的经历是多萝西·威肯登所著《毫不畏惧：两位上流社会女孩在西部的意外教育》一书的主题，威肯登是一位杂志编辑，也是多萝西·伍德拉夫的外孙女。"
+    },
+    {
+     "s": "If the only reading you ever do is the novel or magazine, the speed at which you read -probably does not matter very much.",
+     "src": "2021新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "如果你唯一的阅读就是小说或杂志，那么你阅读的速度可能并不太重要。"
+    },
+    {
+     "s": "She’d just look up at the right time, long enough to answer-in character - “The better to eat you with, my dear,” and go back to her place in the magazine article.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她只是在恰当的时候抬起头——足够长的时间——用角色的语气回答：\"这样我就能更好地吃掉你了，亲爱的，\"然后回到她的杂志文章那里去。"
+    },
+    {
+     "s": "You can borrow movies on DVDs, music on CDs, and popular magazines.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "可以在DVD,CD上的音乐，以及流行杂志上借用电影。"
+    },
+    {
+     "s": "If a popular magazine you want isn't offered and the library keeps a list of such requests, they may bring it in when enough interest is shown.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果你想要的热门杂志没有馆藏，而图书馆保留了这类请求的清单，当显示出足够兴趣时，他们可能会购进。"
+    },
+    {
+     "s": "A magazine and an e-book.",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一本杂志和一本电子书。"
+    },
+    {
+     "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
+    },
+    {
+     "s": "The format of magazines enables children to be exposed to a wide variety of wide subjects.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志的形式让孩子接触到广泛多样的主题。"
+    },
+    {
+     "s": "Magazines and newspapers provide adults with critical news.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "保留有趣的杂志图片给孩子提供故事灵感。"
+    },
+    {
+     "s": "Being exposed to magazines and newspapers benefits you a lot.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志对许多人来说是有价值的资产，尤其是对儿童。"
+    },
+    {
+     "s": "Keep interesting magazine pictures to give children story ideas.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "保留有趣的杂志图片，给孩子们提供故事创意。"
+    },
+    {
+     "s": "Magazines and newspapers are expensive now but out of style",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当老师建议他们的孩子阅读杂志时，家长常常感到惊讶。"
+    },
+    {
+     "s": "Magazine Articles More Valuable Than You May Think",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "继续阅读阅读杂志给年轻读者带来的好处以及如何向孩子介绍这种媒介。"
+    },
+    {
+     "s": "Parents are often surprised when teachers suggest their children read magazines.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志文章可以为不愿阅读的读者提供生动轻快的写作风格，能够激励他们多读书。"
+    },
+    {
+     "s": "Read on to learn about the benefits that reading magazines offers to young readers and how to introduce your children to the medium.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志中的文章通常很短，这使得孩子能够在不因注意力短暂而失去兴趣的情况下读完一篇专题文章。"
+    },
+    {
+     "s": "Magazine articles can provide reluctant readers with a lively, breezy writing style that can inspire them to read more.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志文章能以生动、轻松的写作风格为不情愿的读者提供灵感，鼓励他们多阅读。"
+    },
+    {
+     "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
+    },
+    {
+     "s": "The writing in magazines also tends to be easy to read, especially if it is a children's publication.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志的写作也往往易读，尤其是儿童刊物。"
+    },
+    {
+     "s": "Reading magazines as a family can be used to introduce each other to the various interests that each family member possesses.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "全家一起读杂志，可以用来让彼此了解各位家庭成员的各种兴趣。"
+    },
+    {
+     "s": "When your children are finished with their magazines encourage them to pass their issue on to a sibling or other family member.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当孩子们读完杂志，鼓励他们把那期传给兄弟姐妹或其他家人。"
+    },
+    {
+     "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一旦每位家庭成员都读完了每本杂志，你就可以把它们用于艺术和写作项目。"
+    },
+    {
+     "s": "Around me in picture are the things they were very important in my life at that time; car magazines and musical instruments.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "照片中围绕着我的那些东西在当时对我来说非常重要；汽车杂志和乐器。"
+    },
+    {
+     "s": "TOKNOW Magazine is a big hit in the world of children’s publishing, bringing a unique combination of challenging ideas and good fun to young fans every month.",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "TOKNOW 杂志在儿童出版界大受欢迎，每月都为年轻的读者粉丝带来兼具挑战性思想与趣味的独特组合。"
+    },
+    {
+     "s": "The first magazine with your gift message will arrive in time for the special day.",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "带有你的赠言的第一期杂志将及时送达，赶上那个特殊的日子。"
+    },
+    {
+     "s": "To encourage writing for the magazine.",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "鼓励为杂志写作。"
+    },
+    {
+     "s": "A business magazine.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "一本商业杂志。"
+    },
+    {
+     "s": "In an art magazine.",
+     "src": "2021全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在一本艺术杂志中。"
+    },
+    {
+     "s": "“I don’t really mind it,” Emil Norby told Modern Farmer magazine.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“我并不真的介意，”埃米尔·诺比告诉《现代农民》杂志。"
+    },
+    {
+     "s": "A health magazine.",
+     "src": "2018全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一本健康杂志。"
+    },
+    {
+     "s": "Why is TOKNOW a special magazine?",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么TOKNOW是一本特别的杂志？"
+    },
+    {
+     "s": "Magazines are valuable assets for many people, but in particular to children.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "杂志对许多人来说都是宝贵的资源，尤其是对孩子们。"
+    },
+    {
+     "s": "Last week, Anne was attracted by a particular article in a magazine, so she bought it.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "上周，安妮被杂志上的一篇文章吸引，于是她买下了那本杂志。"
+    },
+    {
+     "s": "People sit uncomfortably on plastic chairs, looking through old magazines, all of which have been read hundreds of times previously.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "人们不舒服地坐在塑料椅子上，翻阅着旧杂志，所有这些杂志之前都已经被翻阅过数百次了。"
+    },
+    {
+     "s": "You’ll also be asked to promote the islands through newspapers, magazines and TV interviews.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "透过报纸、杂志及电视采访,"
+    },
+    {
+     "s": "People sit uncomfortably on plastic chairs and look through old magazines.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "人们不舒服地坐在塑料椅子上，翻阅旧杂志。"
+    },
+    {
+     "s": "My dance comes from their traditional belief and aims to bring out the Dai women's beauty.” 1 An art magazine.",
+     "src": "外研社B4 U4",
+     "cat": "waiyan",
+     "t": "我的舞蹈源自他们的传统信仰，旨在展现傣族女性的美。\" 1 一本艺术杂志。"
+    },
+    {
+     "s": "I remember her reading a magazine while taking the part of the Wolf in a game of “Little Red Riding Hood” with my brother’s two daughters.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我记得她一边读杂志，一边和我哥哥的两个女儿玩“小红帽”游戏，扮演大灰狼。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "a type of large thin book with a paper cover that you can buy every week or month, containing articles, photographs, etc., often on a particular topic 杂志；期刊",
-      "ex": [
-        {
-          "s": "Their stay in Elkhead is the subject of Nothing Daunted: The Unexpected Education of Two Society Girls in the West by Dorothy Wickenden, who is a magazine editor and Dorothy Woodruff’s granddaughter.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她们在埃尔克黑德的经历是多萝西·威肯登所著《毫不畏惧：两位上流社会女孩在西部的意外教育》一书的主题，威肯登是一位杂志编辑，也是多萝西·伍德拉夫的外孙女。"
-        },
-        {
-          "s": "If the only reading you ever do is the novel or magazine, the speed at which you read -probably does not matter very much.",
-          "src": "2021新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "如果你唯一的阅读就是小说或杂志，那么你阅读的速度可能并不太重要。"
-        },
-        {
-          "s": "She’d just look up at the right time, long enough to answer-in character - “The better to eat you with, my dear,” and go back to her place in the magazine article.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她只是在恰当的时候抬起头——足够长的时间——用角色的语气回答：\"这样我就能更好地吃掉你了，亲爱的，\"然后回到她的杂志文章那里去。"
-        },
-        {
-          "s": "You can borrow movies on DVDs, music on CDs, and popular magazines.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "可以在DVD,CD上的音乐，以及流行杂志上借用电影。"
-        },
-        {
-          "s": "If a popular magazine you want isn't offered and the library keeps a list of such requests, they may bring it in when enough interest is shown.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你想要的热门杂志没有馆藏，而图书馆保留了这类请求的清单，当显示出足够兴趣时，他们可能会购进。"
-        },
-        {
-          "s": "A magazine and an e-book.",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一本杂志和一本电子书。"
-        },
-        {
-          "s": "When I was 17， I read a magazine article about a museum called the McNay， once the home of a watercolorist named Marian McNay． She had requested the community to turn it into a museum upon her death． On a sunny Saturday， Sally and I drove over to the museum． She asked， \"Do you have the address？ \"\"No， but I'll recognize it， there was a picture in the magazine．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我17岁时，读到一篇杂志文章，介绍一家叫麦克奈的博物馆，它曾是水彩画家玛丽安·麦克奈的故居。她曾要求社区在她去世后将其改为博物馆。一个阳光明媚的周六，萨莉和我开车去了博物馆。她问：\"你有地址吗？\"\"没有，但我会认出来的，杂志上有照片。\""
-        },
-        {
-          "s": "The format of magazines enables children to be exposed to a wide variety of wide subjects.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志的形式让孩子接触到广泛多样的主题。"
-        },
-        {
-          "s": "Magazines and newspapers provide adults with critical news.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "保留有趣的杂志图片给孩子提供故事灵感。"
-        },
-        {
-          "s": "Being exposed to magazines and newspapers benefits you a lot.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志对许多人来说是有价值的资产，尤其是对儿童。"
-        },
-        {
-          "s": "Keep interesting magazine pictures to give children story ideas.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "保留有趣的杂志图片，给孩子们提供故事创意。"
-        },
-        {
-          "s": "Magazines and newspapers are expensive now but out of style",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当老师建议他们的孩子阅读杂志时，家长常常感到惊讶。"
-        },
-        {
-          "s": "Magazine Articles More Valuable Than You May Think",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "继续阅读阅读杂志给年轻读者带来的好处以及如何向孩子介绍这种媒介。"
-        },
-        {
-          "s": "Parents are often surprised when teachers suggest their children read magazines.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志文章可以为不愿阅读的读者提供生动轻快的写作风格，能够激励他们多读书。"
-        },
-        {
-          "s": "Read on to learn about the benefits that reading magazines offers to young readers and how to introduce your children to the medium.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志中的文章通常很短，这使得孩子能够在不因注意力短暂而失去兴趣的情况下读完一篇专题文章。"
-        },
-        {
-          "s": "Magazine articles can provide reluctant readers with a lively, breezy writing style that can inspire them to read more.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志文章能以生动、轻松的写作风格为不情愿的读者提供灵感，鼓励他们多阅读。"
-        },
-        {
-          "s": "The articles in magazines are generally short, which allows a child to finish reading a feature article without losing interest due to short attention span.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志上的文章一般都很短，这使得儿童可以完成一篇专题文章的阅读，而不会因为关注时间短而失去兴趣。"
-        },
-        {
-          "s": "The writing in magazines also tends to be easy to read, especially if it is a children's publication.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志的写作也往往易读，尤其是儿童刊物。"
-        },
-        {
-          "s": "Reading magazines as a family can be used to introduce each other to the various interests that each family member possesses.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "全家一起读杂志，可以用来让彼此了解各位家庭成员的各种兴趣。"
-        },
-        {
-          "s": "When your children are finished with their magazines encourage them to pass their issue on to a sibling or other family member.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当孩子们读完杂志，鼓励他们把那期传给兄弟姐妹或其他家人。"
-        },
-        {
-          "s": "Once each family member has finished reading each magazine, you can use them for art and writing projects.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一旦每位家庭成员都读完了每本杂志，你就可以把它们用于艺术和写作项目。"
-        },
-        {
-          "s": "Around me in picture are the things they were very important in my life at that time; car magazines and musical instruments.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "照片中围绕着我的那些东西在当时对我来说非常重要；汽车杂志和乐器。"
-        },
-        {
-          "s": "TOKNOW Magazine is a big hit in the world of children’s publishing, bringing a unique combination of challenging ideas and good fun to young fans every month.",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "TOKNOW 杂志在儿童出版界大受欢迎，每月都为年轻的读者粉丝带来兼具挑战性思想与趣味的独特组合。"
-        },
-        {
-          "s": "The first magazine with your gift message will arrive in time for the special day.",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "带有你的赠言的第一期杂志将及时送达，赶上那个特殊的日子。"
-        },
-        {
-          "s": "To encourage writing for the magazine.",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "鼓励为杂志写作。"
-        },
-        {
-          "s": "A business magazine.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "一本商业杂志。"
-        },
-        {
-          "s": "In an art magazine.",
-          "src": "2021全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在一本艺术杂志中。"
-        },
-        {
-          "s": "“I don’t really mind it,” Emil Norby told Modern Farmer magazine.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“我并不真的介意，”埃米尔·诺比告诉《现代农民》杂志。"
-        },
-        {
-          "s": "A health magazine.",
-          "src": "2018全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一本健康杂志。"
-        },
-        {
-          "s": "Why is TOKNOW a special magazine?",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么TOKNOW是一本特别的杂志？"
-        },
-        {
-          "s": "Magazines are valuable assets for many people, but in particular to children.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "杂志对许多人来说都是宝贵的资源，尤其是对孩子们。"
-        },
-        {
-          "s": "Last week, Anne was attracted by a particular article in a magazine, so she bought it.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "上周，安妮被杂志上的一篇文章吸引，于是她买下了那本杂志。"
-        },
-        {
-          "s": "People sit uncomfortably on plastic chairs, looking through old magazines, all of which have been read hundreds of times previously.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "人们不舒服地坐在塑料椅子上，翻阅着旧杂志，所有这些杂志之前都已经被翻阅过数百次了。"
-        },
-        {
-          "s": "You’ll also be asked to promote the islands through newspapers, magazines and TV interviews.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "透过报纸、杂志及电视采访,"
-        },
-        {
-          "s": "People sit uncomfortably on plastic chairs and look through old magazines.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "人们不舒服地坐在塑料椅子上，翻阅旧杂志。"
-        },
-        {
-          "s": "My dance comes from their traditional belief and aims to bring out the Dai women's beauty.” 1 An art magazine.",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "t": "我的舞蹈源自他们的传统信仰，旨在展现傣族女性的美。\" 1 一本艺术杂志。"
-        },
-        {
-          "s": "I remember her reading a magazine while taking the part of the Wolf in a game of “Little Red Riding Hood” with my brother’s two daughters.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我记得她一边读杂志，一边和我哥哥的两个女儿玩“小红帽”游戏，扮演大灰狼。"
-        }
-      ]
-    },
-    {
-      "def": "a radio or television programme that is about a particular topic （电视、广播）专题节目",
-      "ex": []
-    },
-    {
-      "def": "the part of a gun that holds the bullets before they are fired 弹仓；弹盒；弹盘",
-      "ex": []
-    },
-    {
-      "def": "a room or building where weapons, explosives and bullets are stored 弹药库；军火库；军械库",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "magazine article",
-      "cn": "杂志文章",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "magazines and newspapers",
-      "cn": "杂志和报纸",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "magazine you",
-      "cn": "杂志你",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "a radio or television programme that is about a particular topic （电视、广播）专题节目",
+   "ex": []
+  },
+  {
+   "def": "the part of a gun that holds the bullets before they are fired 弹仓；弹盒；弹盘",
+   "ex": []
+  },
+  {
+   "def": "a room or building where weapons, explosives and bullets are stored 弹药库；军火库；军械库",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "magazine article",
+   "cn": "杂志文章",
+   "type": "名词短语",
+   "count": 4
+  },
+  {
+   "en": "magazines and newspapers",
+   "cn": "杂志和报纸",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
