@@ -1,191 +1,185 @@
 {
-  "meta": {
-    "ph": "ˈsteɪdiəm; NAmE ˈsteɪdiəm",
-    "pos": "noun",
-    "stars": "★★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈsteɪdiəm; NAmE ˈsteɪdiəm",
+  "pos": "noun",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "a large sports ground surrounded by rows of seats and usually other buildings 体育场；运动场",
+   "ex": [
     {
-      "def": "a large sports ground surrounded by rows of seats and usually other buildings 体育场；运动场",
-      "ex": [
-        {
-          "s": "SoFi Stadium Events This Month",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "SoFi体育场本月活动"
-        },
-        {
-          "s": "SoFi Stadium is the go-to destination in the heart of Los Angeles for sports fans.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "SoFi体育场位于洛杉矶市中心，是体育迷们的首选目的地。"
-        },
-        {
-          "s": "When attending an event at SoFi Stadium, you’re just a short walk or ride from several comfortable and classy hotels.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在SoFi体育场参加活动时，步行或乘车一小段路就能到达几家舒适而高档的酒店。"
-        },
-        {
-          "s": "SoFi Stadium requires you to park strictly in your assigned zone, and guests must enter through the exact gate indicated on their color-coded digital parking pass.",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "SoFi体育场要求你严格在指定区域停车，并且宾客必须通过其彩色编码电子停车证上标明的确切入口进入。"
-        },
-        {
-          "s": "Which team will play the most games at the stadium this month?",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "本月哪支球队将在该体育场进行最多的比赛？"
-        },
-        {
-          "s": "Which hotel is nearest to the stadium?",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "哪家酒店离体育场最近？"
-        },
-        {
-          "s": "What do you need to do if you want to park at the stadium?",
-          "src": "2026新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果你想在体育场停车，需要做什么？"
-        },
-        {
-          "s": "When the stadium is crowded.",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当体育场拥挤时。"
-        },
-        {
-          "s": "People have been pouring into stadiums since the days of ancient Greece.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "罗马大竞技场高157英尺，有80个入口，可容纳50,000人。"
-        },
-        {
-          "s": "In around 8 A.Q., the Romans built the Colosseum, which remains the world's best known stadium are continues to inform contemporary design.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "大约在公元8年，罗马人建造了斗兽场，它仍是世界上最著名的体育场，并持续影响着当代设计。"
-        },
-        {
-          "s": "For the biggest stadiums in the world, we have used data supplied by the World Atlas list so far, which ranks them by their stated permanent capacity, as well as updated information from official stadium websites.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "对于世界上最大的体育场，我们目前使用了世界地图册提供的数据，该数据按公布的固定容量对它们排名，并参考了官方体育场网站的更新信息。"
-        },
-        {
-          "s": "All these stadiums are still functional, still open and still hosting the biggest events in world sport.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "所有这些体育场仍然在运作，仍然开放，仍然主办世界体育界最大的赛事。"
-        },
-        {
-          "s": "•Rungrado 1st of May Stadium, Pyongyang, D.P.R-Korea.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "• 平壤五月一日体育场(Rungrado 1st of Mach Stadium),D.P.R-Korea."
-        },
-        {
-          "s": "•Michigan Stadium, Ann Arbor, Michigan, US Capacity: 107,601.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "• 米奇根体育场，安阿博尔，密歇根州，美国容量:107,601."
-        },
-        {
-          "s": "•Beaver Stadium, State College, Pennsylvania, US Capacity: 106,572.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "• Beaver体育场，宾夕法尼亚州立学院，美国容量:106,572."
-        },
-        {
-          "s": "•Ohio Stadium, Columbus, Ohio, US Capacity: 104,944.",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "• 俄亥俄州哥伦布市Ohio体育场，美国容量:104,944。"
-        },
-        {
-          "s": "Of the following stadiums, which is the oldest?",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在以下体育场馆中，哪个最古老？"
-        },
-        {
-          "s": "What do the listed stadiums have in common?",
-          "src": "2021全国乙卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "所列体育场有哪些共同点？"
-        },
-        {
-          "s": "When the stadium is crowded",
-          "src": "2021浙江卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当体育场拥挤时。"
-        },
-        {
-          "s": "It made me think about going to the Central Stadium this Saturday.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "让我想到这个星期六去中央体育场"
-        },
-        {
-          "s": "If China wins this point, they will walk out of the stadium with an Olympic gold medal.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "如果中国赢了这一分，他们将带着奥运金牌走出体育场。"
-        },
-        {
-          "s": "October 22 Wuhan vs Guangzhou Wuhan Stadium Beijing International Marathon Day B O X I N G BADMINTON MATCH No.",
-          "src": "人教B1 U3",
-          "cat": "renjiao",
-          "t": "10 月 22 日　武汉 vs 广州　武汉体育场　北京国际马拉松日　拳击　羽毛球　比赛　第……号。"
-        },
-        {
-          "s": "An athlete is An event is A stadium is A gym is a thing that happens, especially something important.",
-          "src": "人教B1 U5",
-          "cat": "renjiao",
-          "t": "运动员是……事件是……体育场是……健身房是发生的事情，尤其是重要的事情。"
-        },
-        {
-          "s": "REFLECTING distribution violence frequency herb hatch capacity 1 The iconic Beijing National Stadium, also known as the “Bird’s Nest”, has a of 80,000.",
-          "src": "人教选必4 U2",
-          "cat": "renjiao",
-          "t": "反思 分布 暴力 频率 草本植物 孵化 容量 1 标志性的北京国家体育场，也被称为\"鸟巢\"，容量为80000。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "sofi stadium",
-      "cn": "体育场",
-      "type": "名词短语",
-      "count": 4
+     "s": "SoFi Stadium Events This Month",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "SoFi体育场本月活动"
     },
     {
-      "en": "stadium this",
-      "cn": "体育场这",
-      "type": "名词短语",
-      "count": 2
+     "s": "SoFi Stadium is the go-to destination in the heart of Los Angeles for sports fans.",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "SoFi体育场位于洛杉矶市中心，是体育迷们的首选目的地。"
+    },
+    {
+     "s": "When attending an event at SoFi Stadium, you’re just a short walk or ride from several comfortable and classy hotels.",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在SoFi体育场参加活动时，步行或乘车一小段路就能到达几家舒适而高档的酒店。"
+    },
+    {
+     "s": "SoFi Stadium requires you to park strictly in your assigned zone, and guests must enter through the exact gate indicated on their color-coded digital parking pass.",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "SoFi体育场要求你严格在指定区域停车，并且宾客必须通过其彩色编码电子停车证上标明的确切入口进入。"
+    },
+    {
+     "s": "Which team will play the most games at the stadium this month?",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "本月哪支球队将在该体育场进行最多的比赛？"
+    },
+    {
+     "s": "Which hotel is nearest to the stadium?",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "哪家酒店离体育场最近？"
+    },
+    {
+     "s": "What do you need to do if you want to park at the stadium?",
+     "src": "2026新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "如果你想在体育场停车，需要做什么？"
+    },
+    {
+     "s": "When the stadium is crowded.",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "当体育场拥挤时。"
+    },
+    {
+     "s": "People have been pouring into stadiums since the days of ancient Greece.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "罗马大竞技场高157英尺，有80个入口，可容纳50,000人。"
+    },
+    {
+     "s": "In around 8 A.Q., the Romans built the Colosseum, which remains the world's best known stadium are continues to inform contemporary design.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "大约在公元8年，罗马人建造了斗兽场，它仍是世界上最著名的体育场，并持续影响着当代设计。"
+    },
+    {
+     "s": "For the biggest stadiums in the world, we have used data supplied by the World Atlas list so far, which ranks them by their stated permanent capacity, as well as updated information from official stadium websites.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "对于世界上最大的体育场，我们目前使用了世界地图册提供的数据，该数据按公布的固定容量对它们排名，并参考了官方体育场网站的更新信息。"
+    },
+    {
+     "s": "All these stadiums are still functional, still open and still hosting the biggest events in world sport.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "所有这些体育场仍然在运作，仍然开放，仍然主办世界体育界最大的赛事。"
+    },
+    {
+     "s": "•Rungrado 1st of May Stadium, Pyongyang, D.P.R-Korea.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "• 平壤五月一日体育场(Rungrado 1st of Mach Stadium),D.P.R-Korea."
+    },
+    {
+     "s": "•Michigan Stadium, Ann Arbor, Michigan, US Capacity: 107,601.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "• 米奇根体育场，安阿博尔，密歇根州，美国容量:107,601."
+    },
+    {
+     "s": "•Beaver Stadium, State College, Pennsylvania, US Capacity: 106,572.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "• Beaver体育场，宾夕法尼亚州立学院，美国容量:106,572."
+    },
+    {
+     "s": "•Ohio Stadium, Columbus, Ohio, US Capacity: 104,944.",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "• 俄亥俄州哥伦布市Ohio体育场，美国容量:104,944。"
+    },
+    {
+     "s": "Of the following stadiums, which is the oldest?",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在以下体育场馆中，哪个最古老？"
+    },
+    {
+     "s": "What do the listed stadiums have in common?",
+     "src": "2021全国乙卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "所列体育场有哪些共同点？"
+    },
+    {
+     "s": "When the stadium is crowded",
+     "src": "2021浙江卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "当体育场拥挤时。"
+    },
+    {
+     "s": "It made me think about going to the Central Stadium this Saturday.",
+     "src": "外研社B4 U3",
+     "cat": "waiyan",
+     "t": "让我想到这个星期六去中央体育场"
+    },
+    {
+     "s": "If China wins this point, they will walk out of the stadium with an Olympic gold medal.",
+     "src": "外研社B4 U3",
+     "cat": "waiyan",
+     "t": "如果中国赢了这一分，他们将带着奥运金牌走出体育场。"
+    },
+    {
+     "s": "October 22 Wuhan vs Guangzhou Wuhan Stadium Beijing International Marathon Day B O X I N G BADMINTON MATCH No.",
+     "src": "人教B1 U3",
+     "cat": "renjiao",
+     "t": "10 月 22 日　武汉 vs 广州　武汉体育场　北京国际马拉松日　拳击　羽毛球　比赛　第……号。"
+    },
+    {
+     "s": "An athlete is An event is A stadium is A gym is a thing that happens, especially something important.",
+     "src": "人教B1 U5",
+     "cat": "renjiao",
+     "t": "运动员是……事件是……体育场是……健身房是发生的事情，尤其是重要的事情。"
+    },
+    {
+     "s": "REFLECTING distribution violence frequency herb hatch capacity 1 The iconic Beijing National Stadium, also known as the “Bird’s Nest”, has a of 80,000.",
+     "src": "人教选必4 U2",
+     "cat": "renjiao",
+     "t": "反思 分布 暴力 频率 草本植物 孵化 容量 1 标志性的北京国家体育场，也被称为\"鸟巢\"，容量为80000。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "sofi stadium",
+   "cn": "体育场",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
