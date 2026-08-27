@@ -1,1181 +1,1169 @@
 {
-  "meta": {
-    "ph": "ʃəʊ; NAmE ʃoʊ",
-    "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun",
-    "stars": ""
+ "meta": {
+  "ph": "ʃəʊ; NAmE ʃoʊ",
+  "pos": "verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;verb;noun;noun;noun;noun;noun;noun;noun;noun;noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "to make sth clear; to prove sth 表明；证明",
+   "ex": [
+    {
+     "s": "Follow-up studies with the children later in life showed a connection between an ability to wait long enough to obtain a second treat and various forms of success.",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "后来对这些孩子进行的跟踪研究表明，能够耐心等待以获得第二份零食的能力与各种形式的成功之间存在关联。"
+    },
+    {
+     "s": "The study showed the animals had figured out how to apply what they learned about human faces during training to new faces in the testing stage.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "研究表明，这些动物已经想出了如何把训练时学到的关于人脸的知识，运用到测试阶段的新面孔上。"
+    },
+    {
+     "s": "The most hopeful data shared in the report shows clear evidence of parents serving as examples and important guides for their kids when it comes to reading.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "报告中分享的最有希望的数据表明，有明确证据表明，在阅读方面，父母为子女树立了榜样和重要的指南。"
+    },
+    {
+     "s": "When it came to England, “apple” was added to show it is a kind of fruit.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "说到英语，加了“apple”以表明它是一种水果。"
+    },
+    {
+     "s": "Studies show teaching children how to cook at an early age helps with reading comprehension and fine motor ability, in addition to learning about nutrition and food safety.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "研究表明，尽早教孩子做饭有助于提高阅读理解能力和精细动作能力，此外还能让他们了解营养和食品安全。"
+    },
+    {
+     "s": "Take a look online—evidence shows that thousands of teachers and parents know a good thing when they see it and recommend TOKNOW to their friends.",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "上网看看吧——有证据表明，成千上万的老师和家长都能辨识好东西，并向朋友推荐TOKNOW。"
+    },
+    {
+     "s": "The results show that consumers generally trust negative reviews more than positive ones.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "结果表明，消费者总体上更相信负面评论而不是正面评论。"
+    },
+    {
+     "s": "What does Ellen Langer’s study show?",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Ellen Langer的研究表明了什么？"
+    },
+    {
+     "s": "Race walking shares many fitness benefits with running, research shows, while most likely contributing to fewer injuries.",
+     "src": "2020全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "研究表明，竞走与跑步有许多相同的健身益处，同时可能减少受伤。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "to let sb see sth 给 … 看；出示；展示",
+   "ex": [
     {
-      "def": "to make sth clear; to prove sth 表明；证明",
-      "ex": [
-        {
-          "s": "Follow-up studies with the children later in life showed a connection between an ability to wait long enough to obtain a second treat and various forms of success.",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "后来对这些孩子进行的跟踪研究表明，能够耐心等待以获得第二份零食的能力与各种形式的成功之间存在关联。"
-        },
-        {
-          "s": "The study showed the animals had figured out how to apply what they learned about human faces during training to new faces in the testing stage.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "研究表明，这些动物已经想出了如何把训练时学到的关于人脸的知识，运用到测试阶段的新面孔上。"
-        },
-        {
-          "s": "The most hopeful data shared in the report shows clear evidence of parents serving as examples and important guides for their kids when it comes to reading.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "报告中分享的最有希望的数据表明，有明确证据表明，在阅读方面，父母为子女树立了榜样和重要的指南。"
-        },
-        {
-          "s": "When it came to England, “apple” was added to show it is a kind of fruit.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "说到英语，加了“apple”以表明它是一种水果。"
-        },
-        {
-          "s": "Studies show teaching children how to cook at an early age helps with reading comprehension and fine motor ability, in addition to learning about nutrition and food safety.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "研究表明，尽早教孩子做饭有助于提高阅读理解能力和精细动作能力，此外还能让他们了解营养和食品安全。"
-        },
-        {
-          "s": "Take a look online—evidence shows that thousands of teachers and parents know a good thing when they see it and recommend TOKNOW to their friends.",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "上网看看吧——有证据表明，成千上万的老师和家长都能辨识好东西，并向朋友推荐TOKNOW。"
-        },
-        {
-          "s": "The results show that consumers generally trust negative reviews more than positive ones.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "结果表明，消费者总体上更相信负面评论而不是正面评论。"
-        },
-        {
-          "s": "What does Ellen Langer’s study show?",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Ellen Langer的研究表明了什么？"
-        },
-        {
-          "s": "Race walking shares many fitness benefits with running, research shows, while most likely contributing to fewer injuries.",
-          "src": "2020全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "研究表明，竞走与跑步有许多相同的健身益处，同时可能减少受伤。"
-        }
-      ]
+     "s": "Before starting any position, all students need to complete required taforms and show identification.",
+     "src": "2023天津3月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在开始任何职位之前，所有学生需要完成必要的表格并出示身份证件。"
     },
     {
-      "def": "to let sb see sth 给 … 看；出示；展示",
-      "ex": [
-        {
-          "s": "Before starting any position, all students need to complete required taforms and show identification.",
-          "src": "2023天津3月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在开始任何职位之前，所有学生需要完成必要的表格并出示身份证件。"
-        },
-        {
-          "s": "I’ve discovered that if I show students how what they learn is relevant to my hobbies, they’re much more willing to make connections to their personal interests and develop their own hobbies.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我发现，如果我向学生展示所学内容与我的爱好的关联，他们就更愿意把知识与自己的兴趣联系起来，并培养出自己的爱好。"
-        },
-        {
-          "s": "Most importantly, Edison realized that success depended on mass electrification, which he showed in New York City.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最重要的是，Edison意识到成功取决于大规模电气化，他在纽约市展示了这一点。"
-        },
-        {
-          "s": "He showed us that even a single desire, never given up on, can make for a remarkable life.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他向我们展示，哪怕只是一个永不放弃的愿望，也能成就非凡的人生。"
-        },
-        {
-          "s": "Remember that Thomas Costain was 57 when he published his first novel, and that Grandma Moses showed her first pictures when she was 78.",
-          "src": "2020天津6月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "记住，托马斯·科斯坦57岁时才出版了他的第一部小说，而摩西奶奶78岁时才展出了她的第一批画作。"
-        },
-        {
-          "s": "Benjamin West, the father of American painting, showed his talent for art when he was only six years of age.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "本杰明·韦斯特，美国绘画之父，年仅六岁时就展现了他的艺术天赋。"
-        },
-        {
-          "s": "He showed me how his medical instruments was used.",
-          "src": "2022全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他给我展示他的医疗器械是如何使用的。"
-        },
-        {
-          "s": "Dad showed me a photo we had taken then-just see how time flies!",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "爸爸给我看了一张我们那时拍的照片——看时间过得多快！"
-        },
-        {
-          "s": "He hoped to show them this beautiful place someday.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他希望有一天能向他们展示这个美丽的地方。"
-        },
-        {
-          "s": "To show an application of John’s idea.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为了展示约翰想法的应用。"
-        },
-        {
-          "s": "D It’s just as important to show yourself some forgiveness.",
-          "src": "2023新课标I卷·Personal Forgiveness",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "D同样重要的是要向自己展示一些宽恕。"
-        },
-        {
-          "s": "To show the cleverness of Project Debater.",
-          "src": "2023浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "展示\"辩论手项目\"的聪明才智。"
-        },
-        {
-          "s": "They show mountainous scenes.",
-          "src": "2021全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它们展示山区景色。"
-        },
-        {
-          "s": "He was encouraged by Susan to show his genius for art.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "苏珊鼓励他展示自己的艺术天赋。"
-        },
-        {
-          "s": "He is eager to show others his new skills.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他渴望向别人展示他的新技能。"
-        },
-        {
-          "s": "What did Bridges want to show by mentioning the bride?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "Bridges想通过提到新娘来展示什么？"
-        },
-        {
-          "s": "To show the influence of cars on American culture.",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "强调快餐在美国的流行程度。"
-        },
-        {
-          "s": "To show his love of films.",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "表达他对电影的热爱。"
-        },
-        {
-          "s": "But he is also working at a far more fundamental level: his staff show people how to make floating gardens and fish ponds prevent starvation during the wet season.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但是，他也在更根本的层面上工作：他的工作人员向人们展示如何在潮湿的季节使漂浮的花园和鱼塘防止饥饿。"
-        },
-        {
-          "s": "This beautiful structure, named Glasshouse, is at the centre of a new garden that shows how the Silk Road influences English gardens even in modern times.",
-          "src": "2024新高考I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这座名为Glasshouse的美丽建筑位于一座新花园的中心，展示了丝绸之路如何在现代仍影响着英国花园。"
-        },
-        {
-          "s": "It shows the cooking process to guests.",
-          "src": "2023全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "它向房客展示了烹饪过程。"
-        },
-        {
-          "s": "Unusual fashion shows in New Orleans and Brooklyn have(showcased)nutria fur made into clothes in different styles.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "新奥尔良（ New Orleans ）和布鲁克林（ Brooklyn ）不寻常的时装秀（展示）了制作成不同风格服装的营养皮草。"
-        },
-        {
-          "s": "To do this I have searched through dozens of plays to find the ones that I think best show the power and purpose of the short play.",
-          "src": "2020浙江7月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为此我翻阅了几十部剧本，找到我认为最能展示短剧力量和目的的那些。"
-        },
-        {
-          "s": "The company’s productions show the new face of 21st century Chinese theatre.",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "该公司的作品展现了21世纪中国戏剧的新面貌。"
-        },
-        {
-          "s": "The company’s productions show the new face of 21st century Chinese theatre.",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "该公司的作品展现了21世纪中国戏剧的新面貌。"
-        },
-        {
-          "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "纪录片：一种视觉展示（如视频、幻灯片或电脑作品），时长不超过10分钟。将提供台式电脑、屏幕、投影仪和扬声器。学生必须在3月23日星期五之前将展示内容刻录在CD上提交。"
-        },
-        {
-          "s": "In that class, Miss Zhao, our biology teacher, showed we insects on stamps.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在那节课上，我们的生物老师赵老师给我们看了邮票上的昆虫。"
-        },
-        {
-          "s": "I showed her the eggs and sadly explained what happened.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我把鸡蛋拿给她看，难过地解释了发生的事。"
-        },
-        {
-          "s": "I remember showing my parents a video of Bea Johnson, sharing how cool I thought it would be to buy groceries with jars, and have so little trash!",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我记得给父母看了一段比阿·约翰逊的视频，分享我认为用罐子买杂货、产生极少垃圾会是多么酷！"
-        },
-        {
-          "s": "You don’t have to be the joke teller in the group in order to show your sense of humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你不必成为群体中的笑话王才能展示你的幽默感。"
-        },
-        {
-          "s": "While the clip might look like part of a new ad campaign Bridges said the only goal was to show generosity and sympathy.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "虽然这段视频片段看起来像新广告活动的一部分，但布里奇斯说，唯一的目的就是展现慷慨和同情。"
-        },
-        {
-          "s": "Cats bring gifts for their owners to show they love you.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "猫给主人带礼物是为了表达它们爱你。"
-        },
-        {
-          "s": "To show the link between storms and moisture.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为了展示风暴与水分之间的联系。"
-        },
-        {
-          "s": "To show his pride.",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为了展示他的自豪。"
-        },
-        {
-          "s": "To show a parent's love",
-          "src": "2018全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为了展示父母的爱"
-        },
-        {
-          "s": "But I recently came across a study that shows why his approach works",
-          "src": "2021全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "但我最近偶然看到一项研究，说明了他的方法为何有效"
-        },
-        {
-          "s": "Their answers also show that they dislike talk to others.",
-          "src": "2021全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "在我看来，遇到困难时我们应该向我们最信任的人寻求帮助。"
-        },
-        {
-          "s": "As the generation to have grown up in the Information Age, they are quite confident when it comes to showing off their interests and skills in this field.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "作为在信息时代长大的一代人，他们在展示自己在这一领域的兴趣和技能时相当自信。"
-        },
-        {
-          "s": "Presenting the best of the West End along with the pick of the UK’s touring shows, the New Theatre is Cardiff’s oldest surviving traditional theatre.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "呈现西区最佳剧目以及英国巡演精选，New Theatre是卡迪夫现存最古老的传统剧院。"
-        }
-      ]
+     "s": "I’ve discovered that if I show students how what they learn is relevant to my hobbies, they’re much more willing to make connections to their personal interests and develop their own hobbies.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我发现，如果我向学生展示所学内容与我的爱好的关联，他们就更愿意把知识与自己的兴趣联系起来，并培养出自己的爱好。"
     },
     {
-      "def": "to help sb to do sth by letting them watch you do it or by explaining it （通过示范）教，解说；演示",
-      "ex": [
-        {
-          "s": "To show he was not talented in sports.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "为了表明他在体育方面没有天赋。"
-        },
-        {
-          "s": "What does the author want to show by telling the arugula story?",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者通过讲述芝麻菜的故事想要表达什么？"
-        },
-        {
-          "s": "What does the author intend to show with the example of Toni?",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者想通过托尼的例子说明什么？"
-        },
-        {
-          "s": "The researchers then tested the dogs’ ability to distinguish between human facial expressions by showing them the other half of the person’s face or images totally different from the ones used in training.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "然后研究者通过给狗看那个人脸的另一半、或完全不同于训练所用图像，来测试狗区分人类面部表情的能力。"
-        },
-        {
-          "s": "Good Morning Britain’s Susanna Reid is used to grilling guests on the sofa every morning, but she is cooking up a storm in her latest role — showing families how to prepare delicious and nutritious meals on a tight budget.",
-          "src": "2018全国I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "《早安英国》的苏珊娜·里德习惯每天早上在沙发上盘问嘉宾，但在她最新的角色里，她正大显身手——教家庭如何在预算紧张的情况下准备美味又营养的饭菜。"
-        }
-      ]
+     "s": "Most importantly, Edison realized that success depended on mass electrification, which he showed in New York City.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "最重要的是，Edison意识到成功取决于大规模电气化，他在纽约市展示了这一点。"
     },
     {
-      "def": "to point to sth so that sb can see where or what it is 指给某人看；指出",
-      "ex": [
-        {
-          "s": "So, when my brother showed up, I asked him to watch Toby and keep him outside.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "多年来，心理学家将身份认同看作是某人的价值观、信念、目标和社会角色的组合。"
-        },
-        {
-          "s": "“Showing thankfulness can foster self-control,” said Ye Li, researcher at the University of California.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "“表达感恩可以培养自制力，”加州大学的研究员叶莉说。"
-        },
-        {
-          "s": "What is the purpose of the fashion shows in New Orleans and Brooklyn?",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "新奥尔良和布鲁克林时装秀的目的是什么？"
-        }
-      ]
+     "s": "He showed us that even a single desire, never given up on, can make for a remarkable life.",
+     "src": "2021浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他向我们展示，哪怕只是一个永不放弃的愿望，也能成就非凡的人生。"
     },
     {
-      "def": "to lead or guide sb to a place 引；带；领",
-      "ex": [
-        {
-          "s": "Showing her around the seaside.",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "带她游览海边。"
-        }
-      ]
+     "s": "Remember that Thomas Costain was 57 when he published his first novel, and that Grandma Moses showed her first pictures when she was 78.",
+     "src": "2020天津6月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "记住，托马斯·科斯坦57岁时才出版了他的第一部小说，而摩西奶奶78岁时才展出了她的第一批画作。"
     },
     {
-      "def": "to make it clear that you have a particular quality 表现；体现",
-      "ex": []
+     "s": "Benjamin West, the father of American painting, showed his talent for art when he was only six years of age.",
+     "src": "2017浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "本杰明·韦斯特，美国绘画之父，年仅六岁时就展现了他的艺术天赋。"
     },
     {
-      "def": "to behave in a particular way towards sb （对某人）表现出；对待；表示",
-      "ex": [
-        {
-          "s": "Even those who didn’t share that interest with me seemed more engaged once I showed a different side of myself.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "即便是那些与我没有共同兴趣的学生，在我展现出不同的一面后，似乎也更投入了。"
-        },
-        {
-          "s": "Showing no sympathy.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "没有表现出任何同情。"
-        },
-        {
-          "s": "Showing great passion for project planning.",
-          "src": "2023北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "对项目规划表现出极大的热情。"
-        },
-        {
-          "s": "Such people show greater overall life satisfaction, too.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这样的人也表现出更高的整体生活满足感。"
-        },
-        {
-          "s": "It’s being able to show understanding when communicating with others.",
-          "src": "2025北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我停下脚步，它很快展翅起飞，但并没有立即飞远。"
-        },
-        {
-          "s": "To show friendliness.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "表现出友善。"
-        },
-        {
-          "s": "To show friendliness.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "表现出友善。"
-        },
-        {
-          "s": "C To show friendliness.",
-          "src": "2020江苏卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "C表现出友善。"
-        },
-        {
-          "s": "Showing good manners.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "表现出良好的礼貌。"
-        }
-      ]
+     "s": "He showed me how his medical instruments was used.",
+     "src": "2022全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他给我展示他的医疗器械是如何使用的。"
     },
     {
-      "def": "if a feeling or quality shows, or if you show it, people can see it 显示出；流露出",
-      "ex": [
-        {
-          "s": "Enviable as the cool kids may have seemed, Dr Prinstein’s studies show unpleasant consequences.",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "尽管酷孩子们看起来令人羡慕，但普林斯坦博士的研究显示了令人不愉快的后果。"
-        },
-        {
-          "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
-        },
-        {
-          "s": "Wang’s works show a deep understanding of modern architecture and a good knowledge of traditions.",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "王澍的作品显示出对现代建筑的深刻理解和对传统的良好把握。"
-        },
-        {
-          "s": "That might mean either developing a uniform way to mark videos and images, showing when and who they were made by. or abandoning phone calls altogether and moving towards data-based communications—using apps like Face Time or WhatsApp, which can be tied to your identity.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这可能意味着要么开发一种统一的方式来标记视频和图像，显示它们何时以及由谁制作，要么完全放弃电话，转向使用基于数据的通信应用程序，如Face Time或WhatsApp ，这些应用程序可以与您的身份相关联。"
-        },
-        {
-          "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
-          "src": "2018全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
-        },
-        {
-          "s": "What does the author’s experience show?",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者的经历显示了什么？"
-        },
-        {
-          "s": "Show respect for the researchers.",
-          "src": "2024浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "尊重研究人员。"
-        },
-        {
-          "s": "Program evaluations show that kids eat more vegetables as a result of the classes.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "项目评估显示，由于这些课程，孩子们吃了更多的蔬菜。"
-        },
-        {
-          "s": "What trend in DIY does the research show?",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这项研究显示了DIY的什么趋势？"
-        },
-        {
-          "s": "\"However, this study does not show cause and effect between cardiovascular fitness and dementia, it only shows an association.",
-          "src": "2022浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"然而，这项研究并没有显示心血管健康与痴呆症之间的因果关系，它只显示了两者之间的关联。"
-        },
-        {
-          "s": "She trying to come up with a lable to attach to nutria fashions to show it is eco-friendly.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她正在想出一个标签来贴在海狸鼠皮服饰上以显示它是环保的。"
-        },
-        {
-          "s": "Flying Car at Auto Show.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "车展上的飞行汽车。"
-        },
-        {
-          "s": "The film classic The Last Picture Show was the last movie shown in the old theater.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "经典影片《最后一场电影》是这座老剧院放映的最后一部电影。"
-        },
-        {
-          "s": "He waved and yelled at passing cars but was careful not to show down.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他挥了挥手，对路过的汽车大喊大叫，但小心翼翼地不屈服。"
-        },
-        {
-          "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
-        },
-        {
-          "s": "The results showed that those who chatted with their server reported significantly higher positive feelings and a better coffee shop experience.",
-          "src": "2018全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "结果显示，与店员聊过天的人报告了明显更高的积极情绪和更好的咖啡店体验。"
-        },
-        {
-          "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "报告数据显示，2-8岁儿童的娱乐性阅读水平基本保持不变。"
-        },
-        {
-          "s": "With millions of people likely to take on DIY projects over that coming weeks, new research shows that more than half of people are planning to make the most of the long, warm summer days to get jobs done.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "数以百万计的人可能在接下来的几周里动手做DIY项目，新的研究显示，超过一半的人打算利用漫长而温暖的夏日把活干完。"
-        },
-        {
-          "s": "Organizers expected perhaps 50,000 people to show up.",
-          "src": "2020全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "组织者预计可能有5万人出席。"
-        },
-        {
-          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
-        },
-        {
-          "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
-        },
-        {
-          "s": "Though DIY has traditionally been seen as male hobby, the research shows it is women now leading the charge.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "尽管DIY传统上被视为男性的爱好，但研究显示，如今是女性冲在最前面。"
-        },
-        {
-          "s": "To show the difficulty of their recycling.",
-          "src": "2021全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为了显示它们回收的难度。"
-        },
-        {
-          "s": "Data shows that kids and teens who do read frequently, compared to infrequent readers, have more books in the home, more books purchased for them, parents who read more often, and parents who set aside time for them to read.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "数据显示，与不常阅读的孩子和青少年相比，经常阅读的孩子和青少年家里有更多的书，为他们购买的书籍更多，父母阅读更频繁，并且父母会为他们留出阅读时间。"
-        }
-      ]
+     "s": "Dad showed me a photo we had taken then-just see how time flies!",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "爸爸给我看了一张我们那时拍的照片——看时间过得多快！"
     },
     {
-      "def": "if sth shows, people can see it. If sth shows a mark, dirt, etc., the mark can be seen. 露出；显出",
-      "ex": []
+     "s": "He hoped to show them this beautiful place someday.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他希望有一天能向他们展示这个美丽的地方。"
     },
     {
-      "def": "to give particular information, or a time or measurement 通常不用于进行时",
-      "ex": [
-        {
-          "s": "However, data of the first six months showed it would make less than half this amount.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "目前预计截至2019年4月的财年将产生2.4亿英镑收入，这笔钱将用于学校体育。"
-        }
-      ]
+     "s": "To show an application of John’s idea.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "为了展示约翰想法的应用。"
     },
     {
-      "def": "to be of sb/sth; to represent sb/sth 描绘，描述，表现（为）",
-      "ex": [
-        {
-          "s": "Still, the findings show a potential path forward for reducing microplastic exposure — a task that’s becoming increasingly difficult.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "尽管如此，这些发现为减少微塑料摄入指明了一条可行的路径——这是一项正变得愈发困难的任务。"
-        },
-        {
-          "s": "Sometimes I think no matter where we come from, what colour our eyes, hair and skin, we are here to show our understanding and help.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "有时我想，无论我们来自哪里，无论眼睛、头发和皮肤是什么颜色，我们来到这里都是为了表达理解并提供帮助。"
-        },
-        {
-          "s": "To show his love of films.",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为了表达他对电影的热爱。"
-        },
-        {
-          "s": "Why was The Last Picture Show put on?",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么要放映《最后一场电影》？"
-        }
-      ]
+     "s": "D It’s just as important to show yourself some forgiveness.",
+     "src": "2023新课标I卷·Personal Forgiveness",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "D同样重要的是要向自己展示一些宽恕。"
     },
     {
-      "def": "to be or make sth available for the public to see 展览；陈列；上映；演出",
-      "ex": [
-        {
-          "s": "See family shows.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "观看家庭演出。"
-        },
-        {
-          "s": "She has turned down several  67  (invitation) to star at shows in order to concentrate on her studies.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "她为了专心学业，已拒绝了数次  67  （邀请）在演出中担任主演。"
-        },
-        {
-          "s": "But Sarah,  64  has taken part in shows along with top models, wants 65      (prove) that she has brains as well as beauty.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但曾与顶级模特同台演出的萨拉，想____65____（prove）她既有美貌也有智慧。"
-        }
-      ]
+     "s": "To show the cleverness of Project Debater.",
+     "src": "2023浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "展示\"辩论手项目\"的聪明才智。"
     },
     {
-      "def": "to prove that you can do sth or are sth 证明；表明",
-      "ex": [
-        {
-          "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
-        },
-        {
-          "s": "There is also research showing that pot plants can clean the air around them by removing harmful gases, such as carbon dioxide.",
-          "src": "2023全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "还有研究表明，盆栽植物可以通过去除二氧化碳等有害气体来净化周围的空气。"
-        },
-        {
-          "s": "The team showed that this change in bite was connected with the development of agriculture in the Neolithic period.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "团队表明，这种咬合变化与新石器时代农业的发展有关。"
-        },
-        {
-          "s": "“Also, there is a lot of research showing that a positive mood leads to higher levels of productivity and creativity.",
-          "src": "2022浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "此外，大量研究表明，积极的情绪能带来更高的生产力和创造力。"
-        },
-        {
-          "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
-          "src": "2017北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
-        },
-        {
-          "s": "It clearly showed that while likability can lead to healthy adjustment, high status has just the opposite effect on us.\"",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "结果清楚地表明，虽然讨人喜欢可以促进健康的适应，但高地位对我们却有完全相反的效果。\""
-        },
-        {
-          "s": "Our study showed that there was a 30% decrease in sick leave for people who were in plant-rich workplaces.”",
-          "src": "2025新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我们的研究表明，在植物丰富的工作场所工作的人的病假减少了30 ％。”"
-        },
-        {
-          "s": "His research shows that this is often missing for people with mental health conditions.",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "他的研究表明，对于有精神疾病的人来说，这常常是缺失的。"
-        },
-        {
-          "s": "The tests show that the social environment is extremely influential when we’re making decisions.",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "测试表明，当我们做决定时，社会环境的影响极大。"
-        },
-        {
-          "s": "F Studies show that friendlier communication leads to a happier workplace",
-          "src": "2020全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "F 研究表明，更友好的沟通会带来更快乐的工作场所"
-        },
-        {
-          "s": "Studies show that a good sense of humor even makes you seem smarter.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "研究表明，良好的幽默感甚至会让你显得更聪明。"
-        },
-        {
-          "s": "（1）The passage starts with the story of Cervantes to show that     ．",
-          "src": "2019天津卷·20．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（ 1 ）段落以塞万提斯的故事开头，以此表明。"
-        },
-        {
-          "s": "Past research has found health and wellness benefits of nature for humans, but a new study shows that wildness in urban areas is extremely important for human well-being.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "过去的研究发现了大自然对人类健康和幸福的益处，而一项新研究表明，城市中的自然野趣对人类的幸福极其重要。"
-        },
-        {
-          "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一项开创性的五年研究表明，与人类咬合相关的饮食变化导致了新的语音，如今这些语音存在于世界上一半的语言中。"
-        },
-        {
-          "s": "But using machine learning and artificial intelligence, some scientists propose that human diets consist of at least 26,000 biochemicals—and that the vast majority are not known.This shows that we have some way to travel before achieving the first objective of systems t hinking - which,in this example, is to identify more constituent parts of the nutrition system.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但是，利用机器学习和人工智能，一些科学家提出人类饮食由至少26,000种生化物质组成——而绝大多数是未知的。这表明在实现系统思维第一个目标之前，我们还有一段路要走。"
-        },
-        {
-          "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
-        },
-        {
-          "s": "While the decline over the past decade is steep for teen readers, some data in the report shows that reading remains a big part of many children’s lives, and indicates how parents might help encourage more reading.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然过去十年青少年读者的下降幅度很大，但报告中的一些数据显示阅读仍然是许多儿童生活中的重要部分，并表明家长可能如何帮助鼓励更多阅读。"
-        }
-      ]
+     "s": "They show mountainous scenes.",
+     "src": "2021全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它们展示山区景色。"
     },
     {
-      "def": "to arrive where you have arranged to meet sb or do sth 如约赶到；出现；露面",
-      "ex": [
-        {
-          "s": "In most people the first signs show up in their 50s or early 60s.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对于大多数人来说，最初的症状出现在50多岁或60岁出头。"
-        },
-        {
-          "s": "After receiving permission from the boy's teacher, Alex Bakley, Cruse showed up at her classroom the following week.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在得到男孩的老师Alex Bakley的许可后， Cruse在接下来的一周出现在她的教室里。"
-        },
-        {
-          "s": "And MP3 players, smart phones, and LCD TVs entered homes in 2002, before tablets and e-readers showed up in 2007.",
-          "src": "2018全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "MP3播放器、智能手机和液晶电视在2002年进入家庭，之后平板电脑和电子阅读器在2007年出现。"
-        },
-        {
-          "s": "If a strange family showed up on her front doorstep, Mom would have been delighted.",
-          "src": "2017浙江11月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果有一户陌生人家出现在她家门口，妈妈本会很高兴的。"
-        },
-        {
-          "s": "In recent years, I’ve been trying to show up for her more, in person.",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "近年来，我一直在努力更多地亲自陪在她身边。"
-        },
-        {
-          "s": "But don’t expect it to show up in too many driveways.",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但不要指望它会在太多车道上出现。"
-        },
-        {
-          "s": "Why is the Transition unlikely to show up in too many driveways?",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么Transition不太可能出现在太多车道上？"
-        },
-        {
-          "s": "But don’t expect it to show up in too many driveways.",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但不要指望它会在太多车道上出现。"
-        },
-        {
-          "s": "Why is the Transition unlikely to show up in too many driveways?",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "为什么Transition不太可能出现在太多车道上？"
-        },
-        {
-          "s": "Some of the fur ends up in the fashion shows like the one in Brooklyn last month.",
-          "src": "2020全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一些毛皮最终出现在像上个月布鲁克林那场这样的时装秀上。"
-        }
-      ]
+     "s": "He was encouraged by Susan to show his genius for art.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "苏珊鼓励他展示自己的艺术天赋。"
     },
     {
-      "def": "to enter an animal in a competition 替（动物）报名参加比赛",
-      "ex": [
-        {
-          "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
-        },
-        {
-          "s": "We supported each other financially and by showing up at events.",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我们在经济上相互支持，并且出席彼此的活动。"
-        },
-        {
-          "s": "We supported each other financially and by showing up at events.",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我们在经济上相互支持，并且出席彼此的活动。"
-        },
-        {
-          "s": "From time to time I look at the photo as a reminder to show respect to all animals.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "我时不时地看着这张照片，提醒大家要尊重所有的动物。"
-        }
-      ]
+     "s": "He is eager to show others his new skills.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他渴望向别人展示他的新技能。"
     },
     {
-      "def": "to make sb feel embarrassed by behaving badly （因举止不妥而）使人难堪，使人尴尬，使人丢脸",
-      "ex": []
+     "s": "What did Bridges want to show by mentioning the bride?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "Bridges想通过提到新娘来展示什么？"
     },
     {
-      "def": "to make sb feel embarrassed by doing sth better than them （做得比别人好而）使人难堪，使人尴尬，使人丢脸",
-      "ex": []
+     "s": "To show the influence of cars on American culture.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "强调快餐在美国的流行程度。"
     },
     {
-      "def": "a theatre performance, especially one that includes singing and dancing 演出；歌舞表演",
-      "ex": [
-        {
-          "s": "Which event will you go to if you want to see a live music show?",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如果你想看现场音乐表演，会去哪个活动？"
-        },
-        {
-          "s": "The New Theatre has been the home of quality drama, musicals, dance and children’s shows for more than 100 years.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "100多年来，新剧院一直是优质戏剧、音乐剧、舞蹈和儿童表演的所在地。"
-        },
-        {
-          "s": "The President's eyes, brightened at her show of spirit.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "总统的眼睛在她的精神表演中亮了起来。"
-        },
-        {
-          "s": "He was in the cast of “Tom Sawyer” when it was first performed and is a Children’s Theatre regular, with five shows to his credit.",
-          "src": "2024浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "他在《汤姆·索亚》首演时就在演员阵容中，是儿童剧院的常客，已参演五部剧。"
-        },
-        {
-          "s": "The event celebrate its 22nd anniversary with a great show of the very best of gardening,  making it one of the most popular events in gardening.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "该活动以一场展示最佳园艺的盛大演出庆祝其22周年，使之成为最受欢迎的园艺活动之一。"
-        }
-      ]
+     "s": "To show his love of films.",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "表达他对电影的热爱。"
     },
     {
-      "def": "a programme on television or the radio （电视或广播）节目",
-      "ex": [
-        {
-          "s": "Watch a British TV show.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "看一部英国电视剧。"
-        },
-        {
-          "s": "Even if you haven’t been to the small fishing village Mevagissey, you’ve probably seen it in a movie or British TV show.",
-          "src": "2025新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "即便你没去过Mevagissey这个小渔村，也可能在电影或英国电视剧里见过它。"
-        },
-        {
-          "s": "Sherman Cymru is excited to present a packed programme of the very best theatre, dance, family shows and music from Wales and the rest of the world.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Sherman Cymru很高兴呈献一套密集的节目，囊括来自威尔士及世界各地最优秀的戏剧、舞蹈、家庭秀和音乐。"
-        },
-        {
-          "s": "Put off watching your favorite show until the weekend or wait 10 extra minutes before going for that cake.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "将您最喜爱的节目推迟到周末观看，或额外等待10分钟后再去吃蛋糕。"
-        },
-        {
-          "s": "Why is Emily doing unpaid work in the new season of the show?",
-          "src": "2022新高考I卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Emily为什么在新一季节目中做无报酬的工作？"
-        },
-        {
-          "s": "15 Why is Emily doing unpaid work in the new season of the show?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "15 Emily为什么在新一季节目中做无报酬的工作？"
-        },
-        {
-          "s": "Cookery shows and documentaries about food are broadcast more often than before.",
-          "src": "2023全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "烹饪节目和关于食物的纪录片播出得比以前更频繁了。"
-        }
-      ]
+     "s": "But he is also working at a far more fundamental level: his staff show people how to make floating gardens and fish ponds prevent starvation during the wet season.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但是，他也在更根本的层面上工作：他的工作人员向人们展示如何在潮湿的季节使漂浮的花园和鱼塘防止饥饿。"
     },
     {
-      "def": "a concert, especially of rock music （尤指摇滚）音乐会",
-      "ex": [
-        {
-          "s": "Wander among a variety of shops selling gifts while enjoying a live music show and nice street entertainment.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在售卖礼品的各类店铺间漫步，同时享受现场音乐表演和精彩的街头娱乐。"
-        }
-      ]
+     "s": "This beautiful structure, named Glasshouse, is at the centre of a new garden that shows how the Silk Road influences English gardens even in modern times.",
+     "src": "2024新高考I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这座名为Glasshouse的美丽建筑位于一座新花园的中心，展示了丝绸之路如何在现代仍影响着英国花园。"
     },
     {
-      "def": "an occasion when a collection of things are brought together for people to look at 展览；展览会",
-      "ex": []
+     "s": "It shows the cooking process to guests.",
+     "src": "2023全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "它向房客展示了烹饪过程。"
     },
     {
-      "def": "an action or a way of behaving that shows how you feel （体现内心感受的）动作，行为，样子",
-      "ex": [
-        {
-          "s": "（3）The bird watchers' behavior shows that they     ．",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（3）观鸟者的行为表明他们     。"
-        }
-      ]
+     "s": "Unusual fashion shows in New Orleans and Brooklyn have(showcased)nutria fur made into clothes in different styles.",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "新奥尔良（ New Orleans ）和布鲁克林（ Brooklyn ）不寻常的时装秀（展示）了制作成不同风格服装的营养皮草。"
     },
     {
-      "def": "something that is done only to give a good impression, but is not sincere 装出的样子；虚假的外观；假象",
-      "ex": [
-        {
-          "s": "Helping strangers can leave you with a deep sense of satisfaction, but you’ve likely also felt the stress of showing up for others when you’re already stretched thin.",
-          "src": "2026北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "帮助陌生人会给你一种深深的满足感，但你也可能体会过在自己已经分身乏术时还要为他人付出的压力。"
-        }
-      ]
+     "s": "To do this I have searched through dozens of plays to find the ones that I think best show the power and purpose of the short play.",
+     "src": "2020浙江7月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为此我翻阅了几十部剧本，找到我认为最能展示短剧力量和目的的那些。"
     },
     {
-      "def": "a brightly coloured or pleasing sight 色彩缤纷的景象",
-      "ex": []
+     "s": "The company’s productions show the new face of 21st century Chinese theatre.",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "该公司的作品展现了21世纪中国戏剧的新面貌。"
     },
     {
-      "def": "an event, a business or a situation where sth is being done or organized 事情；机构；场面",
-      "ex": [
-        {
-          "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
-        }
-      ]
+     "s": "The company’s productions show the new face of 21st century Chinese theatre.",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "该公司的作品展现了21世纪中国戏剧的新面貌。"
     },
     {
-      "def": "something that is done in a particular way 表现",
-      "ex": []
+     "s": "Documentary： A visual presentation （such as a video， slide show， or computer project） no more than 10 minutes long． A desktop computer， screen， projector， and loudspeakers will be available． Students must provide their presentations on CDs before Friday， March 23．",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "纪录片：一种视觉展示（如视频、幻灯片或电脑作品），时长不超过10分钟。将提供台式电脑、屏幕、投影仪和扬声器。学生必须在3月23日星期五之前将展示内容刻录在CD上提交。"
+    },
+    {
+     "s": "In that class, Miss Zhao, our biology teacher, showed we insects on stamps.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在那节课上，我们的生物老师赵老师给我们看了邮票上的昆虫。"
+    },
+    {
+     "s": "I showed her the eggs and sadly explained what happened.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "我把鸡蛋拿给她看，难过地解释了发生的事。"
+    },
+    {
+     "s": "I remember showing my parents a video of Bea Johnson, sharing how cool I thought it would be to buy groceries with jars, and have so little trash!",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我记得给父母看了一段比阿·约翰逊的视频，分享我认为用罐子买杂货、产生极少垃圾会是多么酷！"
+    },
+    {
+     "s": "You don’t have to be the joke teller in the group in order to show your sense of humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你不必成为群体中的笑话王才能展示你的幽默感。"
+    },
+    {
+     "s": "While the clip might look like part of a new ad campaign Bridges said the only goal was to show generosity and sympathy.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "虽然这段视频片段看起来像新广告活动的一部分，但布里奇斯说，唯一的目的就是展现慷慨和同情。"
+    },
+    {
+     "s": "Cats bring gifts for their owners to show they love you.",
+     "src": "2024全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "猫给主人带礼物是为了表达它们爱你。"
+    },
+    {
+     "s": "To show the link between storms and moisture.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为了展示风暴与水分之间的联系。"
+    },
+    {
+     "s": "To show his pride.",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "为了展示他的自豪。"
+    },
+    {
+     "s": "To show a parent's love",
+     "src": "2018全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为了展示父母的爱"
+    },
+    {
+     "s": "But I recently came across a study that shows why his approach works",
+     "src": "2021全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "但我最近偶然看到一项研究，说明了他的方法为何有效"
+    },
+    {
+     "s": "Their answers also show that they dislike talk to others.",
+     "src": "2021全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "在我看来，遇到困难时我们应该向我们最信任的人寻求帮助。"
+    },
+    {
+     "s": "As the generation to have grown up in the Information Age, they are quite confident when it comes to showing off their interests and skills in this field.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "作为在信息时代长大的一代人，他们在展示自己在这一领域的兴趣和技能时相当自信。"
+    },
+    {
+     "s": "Presenting the best of the West End along with the pick of the UK’s touring shows, the New Theatre is Cardiff’s oldest surviving traditional theatre.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "呈现西区最佳剧目以及英国巡演精选，New Theatre是卡迪夫现存最古老的传统剧院。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "to help sb to do sth by letting them watch you do it or by explaining it （通过示范）教，解说；演示",
+   "ex": [
     {
-      "en": "research shows",
-      "cn": "研究表明",
-      "type": "名词短语",
-      "count": 7
+     "s": "To show he was not talented in sports.",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "为了表明他在体育方面没有天赋。"
     },
     {
-      "en": "auto show",
-      "cn": "表明",
-      "type": "名词短语",
-      "count": 3
+     "s": "What does the author want to show by telling the arugula story?",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者通过讲述芝麻菜的故事想要表达什么？"
     },
     {
-      "en": "family shows",
-      "cn": "家庭表演",
-      "type": "名词短语",
-      "count": 3
+     "s": "What does the author intend to show with the example of Toni?",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者想通过托尼的例子说明什么？"
     },
     {
-      "en": "fashion shows",
-      "cn": "时装秀",
-      "type": "名词短语",
-      "count": 3
+     "s": "The researchers then tested the dogs’ ability to distinguish between human facial expressions by showing them the other half of the person’s face or images totally different from the ones used in training.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "然后研究者通过给狗看那个人脸的另一半、或完全不同于训练所用图像，来测试狗区分人类面部表情的能力。"
     },
     {
-      "en": "show up",
-      "cn": "出现，到场",
-      "type": "动词短语",
-      "count": 8
-    },
-    {
-      "en": "show around",
-      "cn": "带领参观",
-      "type": "动词短语",
-      "count": 1
+     "s": "Good Morning Britain’s Susanna Reid is used to grilling guests on the sofa every morning, but she is cooking up a storm in her latest role — showing families how to prepare delicious and nutritious meals on a tight budget.",
+     "src": "2018全国I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "《早安英国》的苏珊娜·里德习惯每天早上在沙发上盘问嘉宾，但在她最新的角色里，她正大显身手——教家庭如何在预算紧张的情况下准备美味又营养的饭菜。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to point to sth so that sb can see where or what it is 指给某人看；指出",
+   "ex": [
+    {
+     "s": "So, when my brother showed up, I asked him to watch Toby and keep him outside.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "多年来，心理学家将身份认同看作是某人的价值观、信念、目标和社会角色的组合。"
+    },
+    {
+     "s": "“Showing thankfulness can foster self-control,” said Ye Li, researcher at the University of California.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "“表达感恩可以培养自制力，”加州大学的研究员叶莉说。"
+    },
+    {
+     "s": "What is the purpose of the fashion shows in New Orleans and Brooklyn?",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "新奥尔良和布鲁克林时装秀的目的是什么？"
+    }
+   ]
+  },
+  {
+   "def": "to lead or guide sb to a place 引；带；领",
+   "ex": [
+    {
+     "s": "Showing her around the seaside.",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "带她游览海边。"
+    }
+   ]
+  },
+  {
+   "def": "to make it clear that you have a particular quality 表现；体现",
+   "ex": []
+  },
+  {
+   "def": "to behave in a particular way towards sb （对某人）表现出；对待；表示",
+   "ex": [
+    {
+     "s": "Even those who didn’t share that interest with me seemed more engaged once I showed a different side of myself.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "即便是那些与我没有共同兴趣的学生，在我展现出不同的一面后，似乎也更投入了。"
+    },
+    {
+     "s": "Showing no sympathy.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "没有表现出任何同情。"
+    },
+    {
+     "s": "Showing great passion for project planning.",
+     "src": "2023北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "对项目规划表现出极大的热情。"
+    },
+    {
+     "s": "Such people show greater overall life satisfaction, too.",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "这样的人也表现出更高的整体生活满足感。"
+    },
+    {
+     "s": "It’s being able to show understanding when communicating with others.",
+     "src": "2025北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我停下脚步，它很快展翅起飞，但并没有立即飞远。"
+    },
+    {
+     "s": "To show friendliness.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "表现出友善。"
+    },
+    {
+     "s": "To show friendliness.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "表现出友善。"
+    },
+    {
+     "s": "C To show friendliness.",
+     "src": "2020江苏卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "C表现出友善。"
+    },
+    {
+     "s": "Showing good manners.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "表现出良好的礼貌。"
+    }
+   ]
+  },
+  {
+   "def": "if a feeling or quality shows, or if you show it, people can see it 显示出；流露出",
+   "ex": [
+    {
+     "s": "Enviable as the cool kids may have seemed, Dr Prinstein’s studies show unpleasant consequences.",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "尽管酷孩子们看起来令人羡慕，但普林斯坦博士的研究显示了令人不愉快的后果。"
+    },
+    {
+     "s": "These include plants that have sensors printed onto their leaves to show when they’re short of water and a plant that can detect harmful chemicals in groundwater. ＂We’re thinking about how we can engineer plants to replace functions of the things that we use every day,＂explained Michael Strano, a professor of chemical engineering at MIT.",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些包括叶子上印有传感器、能显示植物何时缺水的植物，以及一种能检测地下水中有害化学物质的植物。“我们正在思考如何改造植物，以取代我们日常使用物品的功能，”麻省理工学院化学工程教授Michael Strano解释道。"
+    },
+    {
+     "s": "Wang’s works show a deep understanding of modern architecture and a good knowledge of traditions.",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "王澍的作品显示出对现代建筑的深刻理解和对传统的良好把握。"
+    },
+    {
+     "s": "That might mean either developing a uniform way to mark videos and images, showing when and who they were made by. or abandoning phone calls altogether and moving towards data-based communications—using apps like Face Time or WhatsApp, which can be tied to your identity.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这可能意味着要么开发一种统一的方式来标记视频和图像，显示它们何时以及由谁制作，要么完全放弃电话，转向使用基于数据的通信应用程序，如Face Time或WhatsApp ，这些应用程序可以与您的身份相关联。"
+    },
+    {
+     "s": "Two of the authors of the review also made a study published in 2014  66  showed a mere five to 10 minutes A day of running reduced the risk of heart disease and early deaths from all  67    (cause).",
+     "src": "2018全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该综述的两位作者还做了一项2014年发表的研究，___66___显示每天仅5到10分钟跑步就能降低心脏病及各种原因（___67___ cause）早逝的风险。"
+    },
+    {
+     "s": "What does the author’s experience show?",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者的经历显示了什么？"
+    },
+    {
+     "s": "Show respect for the researchers.",
+     "src": "2024浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "尊重研究人员。"
+    },
+    {
+     "s": "Program evaluations show that kids eat more vegetables as a result of the classes.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "项目评估显示，由于这些课程，孩子们吃了更多的蔬菜。"
+    },
+    {
+     "s": "What trend in DIY does the research show?",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这项研究显示了DIY的什么趋势？"
+    },
+    {
+     "s": "\"However, this study does not show cause and effect between cardiovascular fitness and dementia, it only shows an association.",
+     "src": "2022浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "\"然而，这项研究并没有显示心血管健康与痴呆症之间的因果关系，它只显示了两者之间的关联。"
+    },
+    {
+     "s": "She trying to come up with a lable to attach to nutria fashions to show it is eco-friendly.",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她正在想出一个标签来贴在海狸鼠皮服饰上以显示它是环保的。"
+    },
+    {
+     "s": "Flying Car at Auto Show.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "车展上的飞行汽车。"
+    },
+    {
+     "s": "The film classic The Last Picture Show was the last movie shown in the old theater.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "经典影片《最后一场电影》是这座老剧院放映的最后一部电影。"
+    },
+    {
+     "s": "He waved and yelled at passing cars but was careful not to show down.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他挥了挥手，对路过的汽车大喊大叫，但小心翼翼地不屈服。"
+    },
+    {
+     "s": "Statistics show that the average number of births per woman has fallen from 4.9 in the early 1960s to 2.5 nowadays.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "统计数据显示，每位女性的平均生育数从20世纪60年代初的4.9下降到现在的2.5。"
+    },
+    {
+     "s": "The results showed that those who chatted with their server reported significantly higher positive feelings and a better coffee shop experience.",
+     "src": "2018全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "结果显示，与店员聊过天的人报告了明显更高的积极情绪和更好的咖啡店体验。"
+    },
+    {
+     "s": "The report data shows that pleasure reading levels for younger children, ages 2-8, remain largely the same.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "报告数据显示，2-8岁儿童的娱乐性阅读水平基本保持不变。"
+    },
+    {
+     "s": "With millions of people likely to take on DIY projects over that coming weeks, new research shows that more than half of people are planning to make the most of the long, warm summer days to get jobs done.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "数以百万计的人可能在接下来的几周里动手做DIY项目，新的研究显示，超过一半的人打算利用漫长而温暖的夏日把活干完。"
+    },
+    {
+     "s": "Organizers expected perhaps 50,000 people to show up.",
+     "src": "2020全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "组织者预计可能有5万人出席。"
+    },
+    {
+     "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
+    },
+    {
+     "s": "Around 100 people have already put down a $10,000 deposit to get a Transition when they go on sale, and those numbers will likely rise after Terrafugia introduces the Transition to the public later this week at the New York Auto Show.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "已有约100人支付了1万美元定金，准备在Transition上市时入手，而且随着Terrafugia本周晚些时候在纽约车展上向公众推出Transition，这一数字很可能还会上升。"
+    },
+    {
+     "s": "Though DIY has traditionally been seen as male hobby, the research shows it is women now leading the charge.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "尽管DIY传统上被视为男性的爱好，但研究显示，如今是女性冲在最前面。"
+    },
+    {
+     "s": "To show the difficulty of their recycling.",
+     "src": "2021全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "为了显示它们回收的难度。"
+    },
+    {
+     "s": "Data shows that kids and teens who do read frequently, compared to infrequent readers, have more books in the home, more books purchased for them, parents who read more often, and parents who set aside time for them to read.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "数据显示，与不常阅读的孩子和青少年相比，经常阅读的孩子和青少年家里有更多的书，为他们购买的书籍更多，父母阅读更频繁，并且父母会为他们留出阅读时间。"
+    }
+   ]
+  },
+  {
+   "def": "if sth shows, people can see it. If sth shows a mark, dirt, etc., the mark can be seen. 露出；显出",
+   "ex": []
+  },
+  {
+   "def": "to give particular information, or a time or measurement 通常不用于进行时",
+   "ex": [
+    {
+     "s": "However, data of the first six months showed it would make less than half this amount.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "目前预计截至2019年4月的财年将产生2.4亿英镑收入，这笔钱将用于学校体育。"
+    }
+   ]
+  },
+  {
+   "def": "to be of sb/sth; to represent sb/sth 描绘，描述，表现（为）",
+   "ex": [
+    {
+     "s": "Still, the findings show a potential path forward for reducing microplastic exposure — a task that’s becoming increasingly difficult.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "尽管如此，这些发现为减少微塑料摄入指明了一条可行的路径——这是一项正变得愈发困难的任务。"
+    },
+    {
+     "s": "Sometimes I think no matter where we come from, what colour our eyes, hair and skin, we are here to show our understanding and help.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "有时我想，无论我们来自哪里，无论眼睛、头发和皮肤是什么颜色，我们来到这里都是为了表达理解并提供帮助。"
+    },
+    {
+     "s": "To show his love of films.",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为了表达他对电影的热爱。"
+    },
+    {
+     "s": "Why was The Last Picture Show put on?",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么要放映《最后一场电影》？"
+    }
+   ]
+  },
+  {
+   "def": "to be or make sth available for the public to see 展览；陈列；上映；演出",
+   "ex": [
+    {
+     "s": "See family shows.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "观看家庭演出。"
+    },
+    {
+     "s": "She has turned down several  67  (invitation) to star at shows in order to concentrate on her studies.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "她为了专心学业，已拒绝了数次  67  （邀请）在演出中担任主演。"
+    },
+    {
+     "s": "But Sarah,  64  has taken part in shows along with top models, wants 65      (prove) that she has brains as well as beauty.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但曾与顶级模特同台演出的萨拉，想____65____（prove）她既有美貌也有智慧。"
+    }
+   ]
+  },
+  {
+   "def": "to prove that you can do sth or are sth 证明；表明",
+   "ex": [
+    {
+     "s": "The experiment of estimation he conducted showed that in some cases, the average of a large number of independent estimates could be quite accurate.",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他进行的估计实验表明，在某些情况下，大量独立估计的平均值可能相当准确。"
+    },
+    {
+     "s": "There is also research showing that pot plants can clean the air around them by removing harmful gases, such as carbon dioxide.",
+     "src": "2023全国乙卷·七选五",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "还有研究表明，盆栽植物可以通过去除二氧化碳等有害气体来净化周围的空气。"
+    },
+    {
+     "s": "The team showed that this change in bite was connected with the development of agriculture in the Neolithic period.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "团队表明，这种咬合变化与新石器时代农业的发展有关。"
+    },
+    {
+     "s": "“Also, there is a lot of research showing that a positive mood leads to higher levels of productivity and creativity.",
+     "src": "2022浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "此外，大量研究表明，积极的情绪能带来更高的生产力和创造力。"
+    },
+    {
+     "s": "74  The synapses in the mice taken at the end of a period of sleep were 18 percent smaller than those taken before sleep, showing that the connections between neurons weaken while sleeping.",
+     "src": "2017北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "74  在一段睡眠结束时取出小鼠的突触比睡眠前取出的小18%，表明神经元之间的连接在睡眠时减弱。"
+    },
+    {
+     "s": "It clearly showed that while likability can lead to healthy adjustment, high status has just the opposite effect on us.\"",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "结果清楚地表明，虽然讨人喜欢可以促进健康的适应，但高地位对我们却有完全相反的效果。\""
+    },
+    {
+     "s": "Our study showed that there was a 30% decrease in sick leave for people who were in plant-rich workplaces.”",
+     "src": "2025新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我们的研究表明，在植物丰富的工作场所工作的人的病假减少了30 ％。”"
+    },
+    {
+     "s": "His research shows that this is often missing for people with mental health conditions.",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "他的研究表明，对于有精神疾病的人来说，这常常是缺失的。"
+    },
+    {
+     "s": "The tests show that the social environment is extremely influential when we’re making decisions.",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "测试表明，当我们做决定时，社会环境的影响极大。"
+    },
+    {
+     "s": "F Studies show that friendlier communication leads to a happier workplace",
+     "src": "2020全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "F 研究表明，更友好的沟通会带来更快乐的工作场所"
+    },
+    {
+     "s": "Studies show that a good sense of humor even makes you seem smarter.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "研究表明，良好的幽默感甚至会让你显得更聪明。"
+    },
+    {
+     "s": "（1）The passage starts with the story of Cervantes to show that     ．",
+     "src": "2019天津卷·20．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（ 1 ）段落以塞万提斯的故事开头，以此表明。"
+    },
+    {
+     "s": "Past research has found health and wellness benefits of nature for humans, but a new study shows that wildness in urban areas is extremely important for human well-being.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "过去的研究发现了大自然对人类健康和幸福的益处，而一项新研究表明，城市中的自然野趣对人类的幸福极其重要。"
+    },
+    {
+     "s": "A ground-breaking, five-year study shows that diet-related changes in human bite led to new speech sounds that are now found in half the world’s languages.",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一项开创性的五年研究表明，与人类咬合相关的饮食变化导致了新的语音，如今这些语音存在于世界上一半的语言中。"
+    },
+    {
+     "s": "But using machine learning and artificial intelligence, some scientists propose that human diets consist of at least 26,000 biochemicals—and that the vast majority are not known.This shows that we have some way to travel before achieving the first objective of systems t hinking - which,in this example, is to identify more constituent parts of the nutrition system.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "但是，利用机器学习和人工智能，一些科学家提出人类饮食由至少26,000种生化物质组成——而绝大多数是未知的。这表明在实现系统思维第一个目标之前，我们还有一段路要走。"
+    },
+    {
+     "s": "A comprehensive study of 4, 500 children conducted by the National Institutes of Health in 2018 shows that children who spent more than seven hours a day staring at screens showed evidence of premature thinning of their brain's cortex-the outer layer that processes sensory information.",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "美国国立卫生研究院2018年对4500名儿童进行的一项综合研究表明，每天盯着屏幕超过七小时的儿童，其大脑皮层的变薄迹象提前出现——大脑皮层是处理感官信息的外层。"
+    },
+    {
+     "s": "While the decline over the past decade is steep for teen readers, some data in the report shows that reading remains a big part of many children’s lives, and indicates how parents might help encourage more reading.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "虽然过去十年青少年读者的下降幅度很大，但报告中的一些数据显示阅读仍然是许多儿童生活中的重要部分，并表明家长可能如何帮助鼓励更多阅读。"
+    }
+   ]
+  },
+  {
+   "def": "to arrive where you have arranged to meet sb or do sth 如约赶到；出现；露面",
+   "ex": [
+    {
+     "s": "In most people the first signs show up in their 50s or early 60s.",
+     "src": "2022全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对于大多数人来说，最初的症状出现在50多岁或60岁出头。"
+    },
+    {
+     "s": "After receiving permission from the boy's teacher, Alex Bakley, Cruse showed up at her classroom the following week.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在得到男孩的老师Alex Bakley的许可后， Cruse在接下来的一周出现在她的教室里。"
+    },
+    {
+     "s": "And MP3 players, smart phones, and LCD TVs entered homes in 2002, before tablets and e-readers showed up in 2007.",
+     "src": "2018全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "MP3播放器、智能手机和液晶电视在2002年进入家庭，之后平板电脑和电子阅读器在2007年出现。"
+    },
+    {
+     "s": "If a strange family showed up on her front doorstep, Mom would have been delighted.",
+     "src": "2017浙江11月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果有一户陌生人家出现在她家门口，妈妈本会很高兴的。"
+    },
+    {
+     "s": "In recent years, I’ve been trying to show up for her more, in person.",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "近年来，我一直在努力更多地亲自陪在她身边。"
+    },
+    {
+     "s": "But don’t expect it to show up in too many driveways.",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但不要指望它会在太多车道上出现。"
+    },
+    {
+     "s": "Why is the Transition unlikely to show up in too many driveways?",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么Transition不太可能出现在太多车道上？"
+    },
+    {
+     "s": "But don’t expect it to show up in too many driveways.",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但不要指望它会在太多车道上出现。"
+    },
+    {
+     "s": "Why is the Transition unlikely to show up in too many driveways?",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "为什么Transition不太可能出现在太多车道上？"
+    },
+    {
+     "s": "Some of the fur ends up in the fashion shows like the one in Brooklyn last month.",
+     "src": "2020全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一些毛皮最终出现在像上个月布鲁克林那场这样的时装秀上。"
+    }
+   ]
+  },
+  {
+   "def": "to enter an animal in a competition 替（动物）报名参加比赛",
+   "ex": [
+    {
+     "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
+    },
+    {
+     "s": "We supported each other financially and by showing up at events.",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我们在经济上相互支持，并且出席彼此的活动。"
+    },
+    {
+     "s": "We supported each other financially and by showing up at events.",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我们在经济上相互支持，并且出席彼此的活动。"
+    },
+    {
+     "s": "From time to time I look at the photo as a reminder to show respect to all animals.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "我时不时地看着这张照片，提醒大家要尊重所有的动物。"
+    }
+   ]
+  },
+  {
+   "def": "to make sb feel embarrassed by behaving badly （因举止不妥而）使人难堪，使人尴尬，使人丢脸",
+   "ex": []
+  },
+  {
+   "def": "to make sb feel embarrassed by doing sth better than them （做得比别人好而）使人难堪，使人尴尬，使人丢脸",
+   "ex": []
+  },
+  {
+   "def": "a theatre performance, especially one that includes singing and dancing 演出；歌舞表演",
+   "ex": [
+    {
+     "s": "Which event will you go to if you want to see a live music show?",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如果你想看现场音乐表演，会去哪个活动？"
+    },
+    {
+     "s": "The New Theatre has been the home of quality drama, musicals, dance and children’s shows for more than 100 years.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "100多年来，新剧院一直是优质戏剧、音乐剧、舞蹈和儿童表演的所在地。"
+    },
+    {
+     "s": "The President's eyes, brightened at her show of spirit.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "总统的眼睛在她的精神表演中亮了起来。"
+    },
+    {
+     "s": "He was in the cast of “Tom Sawyer” when it was first performed and is a Children’s Theatre regular, with five shows to his credit.",
+     "src": "2024浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "他在《汤姆·索亚》首演时就在演员阵容中，是儿童剧院的常客，已参演五部剧。"
+    },
+    {
+     "s": "The event celebrate its 22nd anniversary with a great show of the very best of gardening,  making it one of the most popular events in gardening.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "该活动以一场展示最佳园艺的盛大演出庆祝其22周年，使之成为最受欢迎的园艺活动之一。"
+    }
+   ]
+  },
+  {
+   "def": "a programme on television or the radio （电视或广播）节目",
+   "ex": [
+    {
+     "s": "Watch a British TV show.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "看一部英国电视剧。"
+    },
+    {
+     "s": "Even if you haven’t been to the small fishing village Mevagissey, you’ve probably seen it in a movie or British TV show.",
+     "src": "2025新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "即便你没去过Mevagissey这个小渔村，也可能在电影或英国电视剧里见过它。"
+    },
+    {
+     "s": "Sherman Cymru is excited to present a packed programme of the very best theatre, dance, family shows and music from Wales and the rest of the world.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Sherman Cymru很高兴呈献一套密集的节目，囊括来自威尔士及世界各地最优秀的戏剧、舞蹈、家庭秀和音乐。"
+    },
+    {
+     "s": "Put off watching your favorite show until the weekend or wait 10 extra minutes before going for that cake.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "将您最喜爱的节目推迟到周末观看，或额外等待10分钟后再去吃蛋糕。"
+    },
+    {
+     "s": "Why is Emily doing unpaid work in the new season of the show?",
+     "src": "2022新高考I卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Emily为什么在新一季节目中做无报酬的工作？"
+    },
+    {
+     "s": "15 Why is Emily doing unpaid work in the new season of the show?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "15 Emily为什么在新一季节目中做无报酬的工作？"
+    },
+    {
+     "s": "Cookery shows and documentaries about food are broadcast more often than before.",
+     "src": "2023全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "烹饪节目和关于食物的纪录片播出得比以前更频繁了。"
+    }
+   ]
+  },
+  {
+   "def": "a concert, especially of rock music （尤指摇滚）音乐会",
+   "ex": [
+    {
+     "s": "Wander among a variety of shops selling gifts while enjoying a live music show and nice street entertainment.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在售卖礼品的各类店铺间漫步，同时享受现场音乐表演和精彩的街头娱乐。"
+    }
+   ]
+  },
+  {
+   "def": "an occasion when a collection of things are brought together for people to look at 展览；展览会",
+   "ex": []
+  },
+  {
+   "def": "an action or a way of behaving that shows how you feel （体现内心感受的）动作，行为，样子",
+   "ex": [
+    {
+     "s": "（3）The bird watchers' behavior shows that they     ．",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（3）观鸟者的行为表明他们     。"
+    }
+   ]
+  },
+  {
+   "def": "something that is done only to give a good impression, but is not sincere 装出的样子；虚假的外观；假象",
+   "ex": [
+    {
+     "s": "Helping strangers can leave you with a deep sense of satisfaction, but you’ve likely also felt the stress of showing up for others when you’re already stretched thin.",
+     "src": "2026北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "帮助陌生人会给你一种深深的满足感，但你也可能体会过在自己已经分身乏术时还要为他人付出的压力。"
+    }
+   ]
+  },
+  {
+   "def": "a brightly coloured or pleasing sight 色彩缤纷的景象",
+   "ex": []
+  },
+  {
+   "def": "an event, a business or a situation where sth is being done or organized 事情；机构；场面",
+   "ex": [
+    {
+     "s": "I mention the single parent with four kids running the show and I talk about the dad coaching a team that his kids aren’t even on … At this point the unwilling parent speaks up,“Alright.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我提到那位带着四个孩子独撑局面的单亲家长，也谈到那位给根本不是自己孩子的球队当教练的父亲……这时，那位不情愿的家长开口了：“好吧。"
+    }
+   ]
+  },
+  {
+   "def": "something that is done in a particular way 表现",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "research shows",
+   "cn": "研究表明",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "family shows",
+   "cn": "家庭表演",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "show up",
+   "cn": "出现，到场",
+   "type": "动词短语",
+   "count": 8
+  },
+  {
+   "en": "show around",
+   "cn": "带领参观",
+   "type": "动词短语",
+   "count": 1
+  }
+ ]
 }
