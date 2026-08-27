@@ -1,376 +1,370 @@
 {
-  "meta": {
-    "ph": "saɪn; NAmE saɪn",
-    "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "saɪn; NAmE saɪn",
+  "pos": "noun;noun;noun;noun;noun;verb;verb;verb;verb;verb;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "an event, an action, a fact, etc. that shows that sth exists, is happening or may happen in the future 迹象；征兆；预兆",
+   "ex": [
+    {
+     "s": "She searched the faces of her classmates for signs of panic.",
+     "src": "2024浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "当某事与他们的观点矛盾时，他们不会将其视为例外。"
+    },
+    {
+     "s": "Bonds, who bought his first cattle almost 50 years ago, still has each of his cowboys inspect 300 or 400 cattle daily and look for signs that an animal is getting sick.",
+     "src": "2021新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "邦德在近50年前购买了他的第一头牛，他仍然让每个牛仔每天检查300或400头牛，并寻找动物生病的迹象。"
+    },
+    {
+     "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
+    },
+    {
+     "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "（2）根据第3段，作者对路标的阅读表明____。"
+    },
+    {
+     "s": "It is also said that mice and snakes head for safer ground several days before an earthquake, while dogs avoiding the beach may be a sign that a tsunami is approaching.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "t": "还有人说，老鼠和蛇会在地震前几天逃往更安全的地方，而狗避开海滩可能是海啸即将来临的征兆。"
+    },
+    {
+     "s": "Over generations, communities became desensitised to increasingly smelly rivers, a sign of broader ecosystem degradation.",
+     "src": "2026北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "一代代下来，这些社区对越来越臭的河流变得麻木，这是更广泛的生态系统退化的一个信号。"
+    },
+    {
+     "s": "They use their noses to assess their environment and look out for any signs of danger.",
+     "src": "2024全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "它们用鼻子来评估周围环境，并留意任何危险的迹象。"
+    },
+    {
+     "s": "In most people the first signs show up in their 50s or early 60s.",
+     "src": "2022全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "对于大多数人来说，最初的症状出现在50多岁或60岁出头。"
+    },
+    {
+     "s": "He   25   the police department to allow him to   26   a couple of “chat benches” in two of their local parks, Then he hung a colorful sign on each of the benches that   27   ：“HAPPY TO CHAT”.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他___25___警察局允许他在当地两个公园里___26___几条“聊天长椅”，然后在每条长椅上挂了一块彩色牌子，上面___27___：“乐意聊天”。"
+    },
+    {
+     "s": "It’s a good sign for the chef if you make a mess around your plate",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果你把盘子周围弄得一团糟，对厨师来说是好兆头"
+    },
+    {
+     "s": "This call is open to Burlington-based artists and is open to all art forms that can be presented in a sign format.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "本次征集面向Burlington本地艺术家，并接受所有能以标识形式呈现的艺术门类。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a piece of paper, wood or metal that has writing or a picture on it that gives you information, instructions, a warning, etc. 招牌；标牌；指示牌；标志",
+   "ex": [
     {
-      "def": "an event, an action, a fact, etc. that shows that sth exists, is happening or may happen in the future 迹象；征兆；预兆",
-      "ex": [
-        {
-          "s": "She searched the faces of her classmates for signs of panic.",
-          "src": "2024浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当某事与他们的观点矛盾时，他们不会将其视为例外。"
-        },
-        {
-          "s": "Bonds, who bought his first cattle almost 50 years ago, still has each of his cowboys inspect 300 or 400 cattle daily and look for signs that an animal is getting sick.",
-          "src": "2021新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "邦德在近50年前购买了他的第一头牛，他仍然让每个牛仔每天检查300或400头牛，并寻找动物生病的迹象。"
-        },
-        {
-          "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
-        },
-        {
-          "s": "（2）According to Paragraph 3， the author's reading of road signs indicates     ．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "（2）根据第3段，作者对路标的阅读表明____。"
-        },
-        {
-          "s": "It is also said that mice and snakes head for safer ground several days before an earthquake, while dogs avoiding the beach may be a sign that a tsunami is approaching.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "还有人说，老鼠和蛇会在地震前几天逃往更安全的地方，而狗避开海滩可能是海啸即将来临的征兆。"
-        },
-        {
-          "s": "Over generations, communities became desensitised to increasingly smelly rivers, a sign of broader ecosystem degradation.",
-          "src": "2026北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "一代代下来，这些社区对越来越臭的河流变得麻木，这是更广泛的生态系统退化的一个信号。"
-        },
-        {
-          "s": "They use their noses to assess their environment and look out for any signs of danger.",
-          "src": "2024全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它们用鼻子来评估周围环境，并留意任何危险的迹象。"
-        },
-        {
-          "s": "In most people the first signs show up in their 50s or early 60s.",
-          "src": "2022全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "对于大多数人来说，最初的症状出现在50多岁或60岁出头。"
-        },
-        {
-          "s": "He   25   the police department to allow him to   26   a couple of “chat benches” in two of their local parks, Then he hung a colorful sign on each of the benches that   27   ：“HAPPY TO CHAT”.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他___25___警察局允许他在当地两个公园里___26___几条“聊天长椅”，然后在每条长椅上挂了一块彩色牌子，上面___27___：“乐意聊天”。"
-        },
-        {
-          "s": "It’s a good sign for the chef if you make a mess around your plate",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果你把盘子周围弄得一团糟，对厨师来说是好兆头"
-        },
-        {
-          "s": "This call is open to Burlington-based artists and is open to all art forms that can be presented in a sign format.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "本次征集面向Burlington本地艺术家，并接受所有能以标识形式呈现的艺术门类。"
-        }
-      ]
+     "s": "The City of Burlington public art program is presenting a series of temporary public art signs at the Beachway in conjunction with the Ontario Culture Days.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "Burlington市公共艺术项目正与安大略文化节合作，在Beachway展出一系列临时公共艺术标识。"
     },
     {
-      "def": "a piece of paper, wood or metal that has writing or a picture on it that gives you information, instructions, a warning, etc. 招牌；标牌；指示牌；标志",
-      "ex": [
-        {
-          "s": "The City of Burlington public art program is presenting a series of temporary public art signs at the Beachway in conjunction with the Ontario Culture Days.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Burlington市公共艺术项目正与安大略文化节合作，在Beachway展出一系列临时公共艺术标识。"
-        },
-        {
-          "s": "How long will the public art signs be on display?",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "公共艺术标牌将展出多长时间？"
-        },
-        {
-          "s": "SILENCE in big black letters was on signs hung everywhere If she thought you were dressed improperly, she sent you straight back home to change your clothes.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "用大写字母写的\"安静\"标志到处都是如果她觉得你穿得不合适，她会直接让你回家换衣服。"
-        },
-        {
-          "s": "By Car：Follow brown signs on A590 from J36, M6.",
-          "src": "2018全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "自驾：从M6高速J36出口沿A590公路跟随棕色指示牌。"
-        },
-        {
-          "s": "At mile 3, I passed a sign: “GO FOR IT, RUNNERS!”",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在3英里处，我经过一块牌子：“加油，跑者！”"
-        },
-        {
-          "s": "As I approached mile 23, I could see my wife waving a sign.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "接近23英里时，我看见妻子挥舞着牌子。"
-        },
-        {
-          "s": "This project will select 10 visual artists and 10 writers to create artwork that will be displayed on temporary signs along the multi-use path.",
-          "src": "2026浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "该项目将选出10名视觉艺术家和10名作家，创作将在多功能步道沿线的临时标牌上展出的作品。"
-        },
-        {
-          "s": "Just a few days after the signs went up, he found people sitting there and engaging in active and   28   conversations.",
-          "src": "2020天津6月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "牌子挂上才几天，他就发现人们坐在那里，进行着活跃而___28___的交谈。"
-        },
-        {
-          "s": "(Note: A \"doggy bag\" is a bag or box in which you take unfinished food home from a restaurant.) You see a sign in a supermarket saying \"3 for 2\".",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "（注：\"打包袋\"是一种袋子或盒子，用来把餐厅没吃完的食物带回家。）你在超市看到一个牌子写着\"3件2元\"。"
-        },
-        {
-          "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
-        },
-        {
-          "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "相反，一位身着全身猴子装的活动人士举着一块称赞电影制作人的牌子出现：“感谢你们没有使用真猿！”"
-        },
-        {
-          "s": "I never felt an urge to  43  any sign language before.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我以前从未有过对43种手语的冲动。"
-        }
-      ]
+     "s": "How long will the public art signs be on display?",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "公共艺术标牌将展出多长时间？"
     },
     {
-      "def": "a movement or sound that you make to tell sb sth 示意的动作（或声音）；手势",
-      "ex": []
+     "s": "SILENCE in big black letters was on signs hung everywhere If she thought you were dressed improperly, she sent you straight back home to change your clothes.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "用大写字母写的\"安静\"标志到处都是如果她觉得你穿得不合适，她会直接让你回家换衣服。"
     },
     {
-      "def": "a mark used to represent sth, especially in mathematics 符号；记号",
-      "ex": []
+     "s": "By Car：Follow brown signs on A590 from J36, M6.",
+     "src": "2018全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "自驾：从M6高速J36出口沿A590公路跟随棕色指示牌。"
     },
     {
-      "def": "你属什么星座？",
-      "ex": []
+     "s": "At mile 3, I passed a sign: “GO FOR IT, RUNNERS!”",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在3英里处，我经过一块牌子：“加油，跑者！”"
     },
     {
-      "def": "to write your name on a document, letter, etc. to show that you have written it, that you agree with what it says, or that it is genuine 签（名）；署（名）；签字；签署",
-      "ex": [
-        {
-          "s": "Some of my friends had signed up to spend time at a soup kitchen, so I did, too.",
-          "src": "2022浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我的一些朋友报名参加了在汤厨房度过的时光，所以我也这样做了。"
-        },
-        {
-          "s": "Volunteers under the age of 18 must have the parent/guardian approval section signed.",
-          "src": "2024新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "未满18岁的志愿者必须由家长/监护人签字批准。"
-        },
-        {
-          "s": "6 First Prizes：The book Sky Pioneer：A Photobiography of Amelia Earhart signed by author Corinne Szabo and pilot Linda Finch.",
-          "src": "2020全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "6个一等奖：由作者科琳·萨博和飞行员琳达·芬奇签名的《天空先驱：阿梅莉亚·埃尔哈特摄影传记》一书。"
-        },
-        {
-          "s": "Future continuous a … I will be signing an organ donation agreement this time tomorrow.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "将来进行时 a…我明天这个时候将签署一份器官捐赠协议。"
-        },
-        {
-          "s": "To give an example, I will be signing an organ donation agreement this time tomorrow.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "t": "举个例子，我明天这个时候将签署一份器官捐赠协议。"
-        },
-        {
-          "s": "● If your news station or school requires interviewees to sign release forms to appear on the air, don’t leave work without them.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "● 如果你的新闻台或学校要求受访者在出镜前签署免责声明表格，没有完成这项工作就不要离开。"
-        },
-        {
-          "s": "Before choices are finalized, parents / carers will be asked to sign to confirm their child’s choices.",
-          "src": "2018全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在最终确定选择之前，父母/照顾者将被要求签名以确认孩子的选择。"
-        },
-        {
-          "s": "Since there are many factors involved in the pairing process, not all students who sign up will be matched with a partner and be able to register for the programme.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "由于配对过程中涉及许多因素，并非所有报名的学生都能匹配到搭档并注册该项目。"
-        },
-        {
-          "s": "Sign up for the waiting list.",
-          "src": "2022北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "注册加入等候名单。"
-        },
-        {
-          "s": "Campers who sign up for the 2-week secret agent camp can get to know about the life of real secret agents by learning strategies and military skills on the paintball field.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "报名两周秘密特工营的营员，可以通过在彩弹场上学习策略与军事技能，了解真实特工的生活。"
-        },
-        {
-          "s": "Signing up for ESL (English as a Second Language)",
-          "src": "2023天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "报名ESL（英语作为第二语言）"
-        },
-        {
-          "s": "一I haven’t made up my mind whether I’ll sign the contract with this company.",
-          "src": "2022天津4月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "—我还没决定是否要与这家公司签合同。"
-        },
-        {
-          "s": "As I dreamt bigger, I began looking into college courses for Fashion Design and three months later I signed up for a part-time design course.",
-          "src": "2021天津3月卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当我梦想更大的时候我开始关注大学里的时装设计课程三个月后我报名参加了一个兼职设计课程。"
-        },
-        {
-          "s": "In 1959, an agreement was signed by twelve countries, and since then many more countries have joined.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "1959年， 12个国家签署了一项协议，此后又有更多国家加入。"
-        }
-      ]
+     "s": "As I approached mile 23, I could see my wife waving a sign.",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "接近23英里时，我看见妻子挥舞着牌子。"
     },
     {
-      "def": "to arrange for sb, for example a sports player or musician, to sign a contract agreeing to work for your company; to sign a contract agreeing to work for a company 和 … 签约（达成雇聘关系）",
-      "ex": [
-        {
-          "s": "•Students sign up and indicate the languages they can share and languages they are interested in learning.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "•学生报名并注明他们能够分享的语言和他们有兴趣学习的语言。"
-        }
-      ]
+     "s": "This project will select 10 visual artists and 10 writers to create artwork that will be displayed on temporary signs along the multi-use path.",
+     "src": "2026浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "该项目将选出10名视觉艺术家和10名作家，创作将在多功能步道沿线的临时标牌上展出的作品。"
     },
     {
-      "def": "to make a request or tell sb to do sth by using a sign, especially a hand movement 示意；打手势",
-      "ex": []
+     "s": "Just a few days after the signs went up, he found people sitting there and engaging in active and   28   conversations.",
+     "src": "2020天津6月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "牌子挂上才几天，他就发现人们坐在那里，进行着活跃而___28___的交谈。"
     },
     {
-      "def": "to use sign language to communicate with sb 打手语",
-      "ex": [
-        {
-          "s": "Deafinitely Theatre  London | British Sign Language（BSL）",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "聋人剧院  伦敦 | 英国手语（BSL）"
-        },
-        {
-          "s": "Deafinitely Theatre  London | British Sign  Language （BSL）",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "聋人剧院 伦敦 | 英国手语（BSL）"
-        }
-      ]
+     "s": "(Note: A \"doggy bag\" is a bag or box in which you take unfinished food home from a restaurant.) You see a sign in a supermarket saying \"3 for 2\".",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "（注：\"打包袋\"是一种袋子或盒子，用来把餐厅没吃完的食物带回家。）你在超市看到一个牌子写着\"3件2元\"。"
     },
     {
-      "def": "to end a letter 结束写信",
-      "ex": []
+     "s": "But at Union Station in Los Angeles last month, a board went up with dollar bills attached to it with pins and a sign that read, \"Give What You Can, Take What You Need.\"",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "但上个月在洛杉矶的联合车站，立起了一块板，上面用图钉钉着美元钞票，还有一块牌子写着：“能给多少给多少，需要多少拿多少。”"
     },
     {
-      "def": "to end a broadcast by saying goodbye or playing a piece of music （以说再见或播放音乐的形式）结束广播",
-      "ex": []
+     "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "相反，一位身着全身猴子装的活动人士举着一块称赞电影制作人的牌子出现：“感谢你们没有使用真猿！”"
     },
     {
-      "def": "to commit yourself to a project or course of action, especially one that you have agreed with a group of other people, countries or organizations 签署同意；签订",
-      "ex": []
-    },
-    {
-      "def": "to agree to take part in sth 同意参与",
-      "ex": [
-        {
-          "s": "00 A．M． ﹣ 9：00 A．M．  Participants signing in at the gym",
-          "src": "2019天津卷·History Fair Competition",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "上午7:00–9:00 参与者在体育馆签到"
-        },
-        {
-          "s": "Signing up for the programme does not automatically mean that you will be able to register and participate.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "报名该项目并不自动意味着你将能够注册并参与。"
-        }
-      ]
+     "s": "I never felt an urge to  43  any sign language before.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我以前从未有过对43种手语的冲动。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a movement or sound that you make to tell sb sth 示意的动作（或声音）；手势",
+   "ex": []
+  },
+  {
+   "def": "a mark used to represent sth, especially in mathematics 符号；记号",
+   "ex": []
+  },
+  {
+   "def": "你属什么星座？",
+   "ex": []
+  },
+  {
+   "def": "to write your name on a document, letter, etc. to show that you have written it, that you agree with what it says, or that it is genuine 签（名）；署（名）；签字；签署",
+   "ex": [
     {
-      "en": "sign up",
-      "cn": "报名;登记",
-      "type": "动词短语",
-      "count": 8
+     "s": "Some of my friends had signed up to spend time at a soup kitchen, so I did, too.",
+     "src": "2022浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我的一些朋友报名参加了在汤厨房度过的时光，所以我也这样做了。"
     },
     {
-      "en": "sign language",
-      "cn": "迹象语言",
-      "type": "名词短语",
-      "count": 3
+     "s": "Volunteers under the age of 18 must have the parent/guardian approval section signed.",
+     "src": "2024新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "未满18岁的志愿者必须由家长/监护人签字批准。"
     },
     {
-      "en": "sign go",
-      "cn": "迹象去",
-      "type": "名词短语",
-      "count": 2
+     "s": "6 First Prizes：The book Sky Pioneer：A Photobiography of Amelia Earhart signed by author Corinne Szabo and pilot Linda Finch.",
+     "src": "2020全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "6个一等奖：由作者科琳·萨博和飞行员琳达·芬奇签名的《天空先驱：阿梅莉亚·埃尔哈特摄影传记》一书。"
+    },
+    {
+     "s": "Future continuous a … I will be signing an organ donation agreement this time tomorrow.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "t": "将来进行时 a…我明天这个时候将签署一份器官捐赠协议。"
+    },
+    {
+     "s": "To give an example, I will be signing an organ donation agreement this time tomorrow.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "t": "举个例子，我明天这个时候将签署一份器官捐赠协议。"
+    },
+    {
+     "s": "● If your news station or school requires interviewees to sign release forms to appear on the air, don’t leave work without them.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "● 如果你的新闻台或学校要求受访者在出镜前签署免责声明表格，没有完成这项工作就不要离开。"
+    },
+    {
+     "s": "Before choices are finalized, parents / carers will be asked to sign to confirm their child’s choices.",
+     "src": "2018全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在最终确定选择之前，父母/照顾者将被要求签名以确认孩子的选择。"
+    },
+    {
+     "s": "Since there are many factors involved in the pairing process, not all students who sign up will be matched with a partner and be able to register for the programme.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "由于配对过程中涉及许多因素，并非所有报名的学生都能匹配到搭档并注册该项目。"
+    },
+    {
+     "s": "Sign up for the waiting list.",
+     "src": "2022北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "注册加入等候名单。"
+    },
+    {
+     "s": "Campers who sign up for the 2-week secret agent camp can get to know about the life of real secret agents by learning strategies and military skills on the paintball field.",
+     "src": "2020全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "报名两周秘密特工营的营员，可以通过在彩弹场上学习策略与军事技能，了解真实特工的生活。"
+    },
+    {
+     "s": "Signing up for ESL (English as a Second Language)",
+     "src": "2023天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "报名ESL（英语作为第二语言）"
+    },
+    {
+     "s": "一I haven’t made up my mind whether I’ll sign the contract with this company.",
+     "src": "2022天津4月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "—我还没决定是否要与这家公司签合同。"
+    },
+    {
+     "s": "As I dreamt bigger, I began looking into college courses for Fashion Design and three months later I signed up for a part-time design course.",
+     "src": "2021天津3月卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "当我梦想更大的时候我开始关注大学里的时装设计课程三个月后我报名参加了一个兼职设计课程。"
+    },
+    {
+     "s": "In 1959, an agreement was signed by twelve countries, and since then many more countries have joined.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "1959年， 12个国家签署了一项协议，此后又有更多国家加入。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to arrange for sb, for example a sports player or musician, to sign a contract agreeing to work for your company; to sign a contract agreeing to work for a company 和 … 签约（达成雇聘关系）",
+   "ex": [
+    {
+     "s": "•Students sign up and indicate the languages they can share and languages they are interested in learning.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "•学生报名并注明他们能够分享的语言和他们有兴趣学习的语言。"
+    }
+   ]
+  },
+  {
+   "def": "to make a request or tell sb to do sth by using a sign, especially a hand movement 示意；打手势",
+   "ex": []
+  },
+  {
+   "def": "to use sign language to communicate with sb 打手语",
+   "ex": [
+    {
+     "s": "Deafinitely Theatre  London | British Sign Language（BSL）",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "聋人剧院  伦敦 | 英国手语（BSL）"
+    },
+    {
+     "s": "Deafinitely Theatre  London | British Sign  Language （BSL）",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "聋人剧院 伦敦 | 英国手语（BSL）"
+    }
+   ]
+  },
+  {
+   "def": "to end a letter 结束写信",
+   "ex": []
+  },
+  {
+   "def": "to end a broadcast by saying goodbye or playing a piece of music （以说再见或播放音乐的形式）结束广播",
+   "ex": []
+  },
+  {
+   "def": "to commit yourself to a project or course of action, especially one that you have agreed with a group of other people, countries or organizations 签署同意；签订",
+   "ex": []
+  },
+  {
+   "def": "to agree to take part in sth 同意参与",
+   "ex": [
+    {
+     "s": "00 A．M． ﹣ 9：00 A．M．  Participants signing in at the gym",
+     "src": "2019天津卷·History Fair Competition",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "上午7:00–9:00 参与者在体育馆签到"
+    },
+    {
+     "s": "Signing up for the programme does not automatically mean that you will be able to register and participate.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "报名该项目并不自动意味着你将能够注册并参与。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "sign up",
+   "cn": "报名;登记",
+   "type": "动词短语",
+   "count": 8
+  },
+  {
+   "en": "sign language",
+   "cn": "迹象语言",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
