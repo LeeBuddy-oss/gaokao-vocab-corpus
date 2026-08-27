@@ -1,83 +1,76 @@
 {
-  "meta": {
-    "ph": "ˈbʌtəflaɪ; NAmE ˈbʌtərflaɪ",
-    "pos": "noun",
-    "stars": ""
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈbʌtəflaɪ; NAmE ˈbʌtərflaɪ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a flying insect with a long thin body and four large, usually brightly coloured, wings 蝴蝶",
+   "ex": [
     {
-      "def": "a flying insect with a long thin body and four large, usually brightly coloured, wings 蝴蝶",
-      "ex": [
-        {
-          "s": "The bees, butterfly and many other insects looked lovely and beautifully on the stamps.",
-          "src": "2023全国甲卷·短文改错",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "蜜蜂、蝴蝶和许多其他昆虫在邮票上看起来可爱又美丽。"
-        },
-        {
-          "s": "From Snoopy to Spider-Man and bears to butterflies, there isn't much he hasn't drawn.",
-          "src": "2020天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "从史努比到蜘蛛侠，从熊到蝴蝶，没什么他没画过的。"
-        },
-        {
-          "s": "One of the most wonderful migrations in nature is that of the North American monarch butterfly.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "自然界中最奇妙的迁徙之一，是北美帝王蝶的迁徙。"
-        },
-        {
-          "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
-        },
-        {
-          "s": "In many of the places where the butterfly can be found, people are destroying the natural environment.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "在许多能发现这种蝴蝶的地方，人们正在破坏自然环境。"
-        },
-        {
-          "s": "On the first day of my first grade，I stood by the door with butterflies in my stomach.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "一年级开学第一天，我站在门口，心里像有蝴蝶扑腾般紧张不安。"
-        },
-        {
-          "s": "These two pieces of information - the time of day and the point where the sun is in the sky - allow the butterfly to determine the way to go.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "这两个信息--一天中的时间和太阳在天空中的位置--让蝴蝶决定前进的方向。"
-        }
-      ]
+     "s": "The bees, butterfly and many other insects looked lovely and beautifully on the stamps.",
+     "src": "2023全国甲卷·短文改错",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "蜜蜂、蝴蝶和许多其他昆虫在邮票上看起来可爱又美丽。"
     },
     {
-      "def": "a swimming stroke in which you swim on your front and lift both arms forward at the same time while your legs move up and down together 蝶泳",
-      "ex": [
-        {
-          "s": "If this works, there may come a time when the number of monarch butterflies increases once again.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "如果这奏效，或许有一天帝王蝶的数量会再次增长。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "From Snoopy to Spider-Man and bears to butterflies, there isn't much he hasn't drawn.",
+     "src": "2020天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "从史努比到蜘蛛侠，从熊到蝴蝶，没什么他没画过的。"
+    },
     {
-      "en": "monarch butterflies",
-      "cn": "蝴蝶",
-      "type": "名词短语",
-      "count": 3
+     "s": "One of the most wonderful migrations in nature is that of the North American monarch butterfly.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "自然界中最奇妙的迁徙之一，是北美帝王蝶的迁徙。"
+    },
+    {
+     "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
+    },
+    {
+     "s": "In many of the places where the butterfly can be found, people are destroying the natural environment.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "在许多能发现这种蝴蝶的地方，人们正在破坏自然环境。"
+    },
+    {
+     "s": "On the first day of my first grade，I stood by the door with butterflies in my stomach.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "一年级开学第一天，我站在门口，心里像有蝴蝶扑腾般紧张不安。"
+    },
+    {
+     "s": "These two pieces of information - the time of day and the point where the sun is in the sky - allow the butterfly to determine the way to go.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "这两个信息--一天中的时间和太阳在天空中的位置--让蝴蝶决定前进的方向。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a swimming stroke in which you swim on your front and lift both arms forward at the same time while your legs move up and down together 蝶泳",
+   "ex": [
+    {
+     "s": "If this works, there may come a time when the number of monarch butterflies increases once again.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "如果这奏效，或许有一天帝王蝶的数量会再次增长。"
+    }
+   ]
+  }
+ ],
+ "chunks": []
 }
