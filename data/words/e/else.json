@@ -1,338 +1,320 @@
 {
-  "meta": {
-    "ph": "els; NAmE els",
-    "pos": "adv.",
-    "stars": ""
+ "meta": {
+  "ph": "els; NAmE els",
+  "pos": "adv.",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "in addition to sth already mentioned 其他的；别的",
+   "ex": [
+    {
+     "s": "I found comfort in keeping myself awake when everyone else had gone to bed, and I loved the silence of the night.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "用大写字母写的“安静”标志到处都是。如果她觉得你穿得不合适，她会直接让你回家换衣服。"
+    },
+    {
+     "s": "I missed that paragraph because I was thinking of something else, but I’m going to keep on going and start paying close attention.”",
+     "src": "2026浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我漏看了那一段，因为我在想别的事情，但我会继续读下去，并开始集中注意力。\""
+    },
+    {
+     "s": "The Disruptor forces change; the clean-up is somebody else’s problem.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这种态度最好概括为\"快速行动，打破常规\"。"
+    },
+    {
+     "s": "She has served here for 17 years and can’t imagine working anywhere else.",
+     "src": "2025新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "她在这里工作17年了，无法想象去别的地方工作。"
+    },
+    {
+     "s": "The best way to ease pressure on over-touristed destinations is to go somewhere else.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "缓解游客过多目的地压力的最好办法，是去别的地方。"
+    },
+    {
+     "s": "Travel for you and no one else.",
+     "src": "2024新高考II卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "为自己、而不是为别人而旅行。"
+    },
+    {
+     "s": "While taking a 20-hour train ride along the edge of the Taklimakan Desert in northwestern China, I had the kind of humbling, educational, and above all else, wonderful   41   with a local that all travelers long for.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "沿着中国西北部塔克拉玛干沙漠边缘乘坐20小时火车时，我经历了那种所有旅行者都渴望的谦卑、有教育意义，而且最重要的，美妙的   41   与当地人的交流。"
+    },
+    {
+     "s": "The notion that we live in someone else’s video game is irresistible to many.",
+     "src": "2024北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我们生活在别人电子游戏中的想法对许多人来说很有吸引力。"
+    },
+    {
+     "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
+    },
+    {
+     "s": "You’ll work harder if you train with someone else.",
+     "src": "2022全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "如果和别人一起训练，你会更努力。"
+    },
+    {
+     "s": "The technology could determine whether a driver had just texted, emailed or done anything else that is not allowed under New York's hands-free driving laws.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "该技术能判断司机是否刚刚发过短信、邮件或做了纽约免提驾驶法所不允许的其他事情。"
+    },
+    {
+     "s": "Klein writes, \"America did not invent the steam engine, but once they grasped its passwords they put it to more uses than anyone else. \"",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Klein写道：\"美国人没有发明蒸汽机，但一旦他们掌握了它的奥秘，它的用途就比任何人都多。\""
+    },
+    {
+     "s": "I’m certainly not going to advise my friend or anyone else to invest in quantum computers.",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我当然不会建议我的朋友或任何人投资量子计算机。"
+    },
+    {
+     "s": "When a plane is leaving in 15 minutes and the door is closing, what else can we suggest but: “Run!",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "当一架飞机还有15分钟就要起飞、舱门即将关闭时，除了建议\"快跑！"
+    },
+    {
+     "s": "19    And like everything else in life, that takes practice.",
+     "src": "2020全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "19    和生活中的一切一样，这需要练习。"
+    },
+    {
+     "s": "Your medical history is a list of your illnesses, treatments, what the doctors told you to do, and anything else you think your doctor should know.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你的病史是一份清单，包括你的疾病、治疗、医生嘱咐你做的事，以及你认为医生应该知道的任何其他事项。"
+    },
+    {
+     "s": "In looking into the stories of biological discovery, I also began to find something else, a collection of scientists, usually brilliant occasionally half-mad, who made the discoveries.",
+     "src": "2020江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第二个抽屉也开始填满了，当它填满时我在想是否还有更大的发现，不仅仅是物种，还有依赖于被认为无用的东西的生命，甚至是没有DNA的生命。"
+    },
+    {
+     "s": "Now I think of her as reading so much of the time while doing something else.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "现在我想象她一边做别的事，一边大部分时间都在阅读。"
+    },
+    {
+     "s": "My immediate reaction was to assume I was listening to someone else's recording.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我的第一反应是以为我在听别人的录音。"
+    },
+    {
+     "s": "As any younger brother will tell you, having a big brother involves a lot of walking in someone else's shadow, especially when you have a brother who is a typical example of \"cool\".",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "正如任何弟弟会告诉你的那样，拥有一个大哥哥涉及很多在别人的阴影下行走，特别是当你有一个哥哥是\"酷\"的典型例子时。"
+    },
+    {
+     "s": "I didn't feel as though I needed to keep up with anybody else; I was finally with peers who understood me.",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我感觉不需要跟上任何人；我终于和懂我的同龄人在一起了。"
+    },
+    {
+     "s": "Instead, I agree with Oxford University philosopher Nick Bostrom, who believes that the heaviest risks from A GI do not come from a decision to turn against mankind but rather from a dogged pursuit of set objectives at the expense of everything else.",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "相反，我同意牛津大学哲学家尼克·博斯特罗姆的观点，他相信GI带来的最重风险并非来自对全人类的背叛，而是来自于以牺牲其他一切为代价，对既定目标的顽强追求。"
+    },
+    {
+     "s": "There was a bit of me that didn't want to love this when everyone else on the planet did but the horror story is brilliant.",
+     "src": "2019全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "当地球上其他人都喜爱这本书时，我心里有一点不想爱上它，但这本恐怖小说太精彩了。"
+    },
+    {
+     "s": "Dance expresses love and hate, joy and sorrow, life and death, and everything else in between.",
+     "src": "2018全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "舞蹈表达爱与恨、喜与悲、生与死，以及其间的一切。"
+    },
+    {
+     "s": "“I can’t imagine doing anything else with my life.” Bridges runs dance classes for all ages.",
+     "src": "2018全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“我无法想象在生活中做其他任何事情。”布里奇斯为所有年龄段的人开设舞蹈课。"
+    },
+    {
+     "s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"
+    },
+    {
+     "s": "The director recommended someone else.",
+     "src": "2017全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "导演推荐了别人。"
+    },
+    {
+     "s": "I don’t want to have nothing else to fall back on when I can’t model my more.”",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我不想在我不能再模特的时候没有任何退路。\""
+    },
+    {
+     "s": "The director recommended someone else.",
+     "src": "2017重庆卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "导演推荐了别人。"
+    },
+    {
+     "s": "In his first years of high school, Gabriel would look pityingly at music students,     36     across the campus with their heavy instrument cases,     37       at school for practice hours     38       anyone else had to be there.",
+     "src": "2017江苏卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在高中最初几年，加布里埃尔会怜悯地看着音乐生，____36____拖着沉重的乐器箱____校园，____37____提前到学校练几个小时，____38__别人不得不待在那儿。"
+    },
+    {
+     "s": "But when no one else came forward, Taylor ran to Paris and began doing CPR, “It was scary.",
+     "src": "2017北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但没有人上前时，泰勒跑向帕里斯开始做心肺复苏。“这很吓人。”"
+    },
+    {
+     "s": "It is extremely beautiful and you can experience the indigenous Australia there more than anywhere else.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "这里非常美丽，您可以在那里体验到比其他任何地方都更多的澳大利亚原住民。"
+    },
+    {
+     "s": "I was just letting off steam really, because I was so angry, but then my friend went and told everyone else what I’d said.",
+     "src": "外研社B3 U1",
+     "cat": "waiyan",
+     "t": "我其实只是在发泄情绪，因为我太生气了，但后来我的朋友跑去把我说的告诉了其他人。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "different 另外的；不同的",
+   "ex": [
     {
-      "def": "in addition to sth already mentioned 其他的；别的",
-      "ex": [
-        {
-          "s": "I found comfort in keeping myself awake when everyone else had gone to bed, and I loved the silence of the night.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "用大写字母写的“安静”标志到处都是。如果她觉得你穿得不合适，她会直接让你回家换衣服。"
-        },
-        {
-          "s": "I missed that paragraph because I was thinking of something else, but I’m going to keep on going and start paying close attention.”",
-          "src": "2026浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我漏看了那一段，因为我在想别的事情，但我会继续读下去，并开始集中注意力。\""
-        },
-        {
-          "s": "The Disruptor forces change; the clean-up is somebody else’s problem.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这种态度最好概括为\"快速行动，打破常规\"。"
-        },
-        {
-          "s": "She has served here for 17 years and can’t imagine working anywhere else.",
-          "src": "2025新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "她在这里工作17年了，无法想象去别的地方工作。"
-        },
-        {
-          "s": "The best way to ease pressure on over-touristed destinations is to go somewhere else.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "缓解游客过多目的地压力的最好办法，是去别的地方。"
-        },
-        {
-          "s": "Travel for you and no one else.",
-          "src": "2024新高考II卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "为自己、而不是为别人而旅行。"
-        },
-        {
-          "s": "While taking a 20-hour train ride along the edge of the Taklimakan Desert in northwestern China, I had the kind of humbling, educational, and above all else, wonderful   41   with a local that all travelers long for.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "沿着中国西北部塔克拉玛干沙漠边缘乘坐20小时火车时，我经历了那种所有旅行者都渴望的谦卑、有教育意义，而且最重要的，美妙的   41   与当地人的交流。"
-        },
-        {
-          "s": "The notion that we live in someone else’s video game is irresistible to many.",
-          "src": "2024北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们生活在别人电子游戏中的想法对许多人来说很有吸引力。"
-        },
-        {
-          "s": "Skilled at putting up shelves and piecing together furniture, she never pays someone else to do a job she can do herself.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她擅长安装架子和拼装家具，从不花钱请别人做自己能做的事。"
-        },
-        {
-          "s": "You’ll work harder if you train with someone else.",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "如果和别人一起训练，你会更努力。"
-        },
-        {
-          "s": "The technology could determine whether a driver had just texted, emailed or done anything else that is not allowed under New York's hands-free driving laws.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "该技术能判断司机是否刚刚发过短信、邮件或做了纽约免提驾驶法所不允许的其他事情。"
-        },
-        {
-          "s": "Klein writes, \"America did not invent the steam engine, but once they grasped its passwords they put it to more uses than anyone else. \"",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Klein写道：\"美国人没有发明蒸汽机，但一旦他们掌握了它的奥秘，它的用途就比任何人都多。\""
-        },
-        {
-          "s": "I’m certainly not going to advise my friend or anyone else to invest in quantum computers.",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我当然不会建议我的朋友或任何人投资量子计算机。"
-        },
-        {
-          "s": "When a plane is leaving in 15 minutes and the door is closing, what else can we suggest but: “Run!",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "当一架飞机还有15分钟就要起飞、舱门即将关闭时，除了建议\"快跑！"
-        },
-        {
-          "s": "19    And like everything else in life, that takes practice.",
-          "src": "2020全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "19    和生活中的一切一样，这需要练习。"
-        },
-        {
-          "s": "Your medical history is a list of your illnesses, treatments, what the doctors told you to do, and anything else you think your doctor should know.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你的病史是一份清单，包括你的疾病、治疗、医生嘱咐你做的事，以及你认为医生应该知道的任何其他事项。"
-        },
-        {
-          "s": "In looking into the stories of biological discovery, I also began to find something else, a collection of scientists, usually brilliant occasionally half-mad, who made the discoveries.",
-          "src": "2020江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第二个抽屉也开始填满了，当它填满时我在想是否还有更大的发现，不仅仅是物种，还有依赖于被认为无用的东西的生命，甚至是没有DNA的生命。"
-        },
-        {
-          "s": "Now I think of her as reading so much of the time while doing something else.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "现在我想象她一边做别的事，一边大部分时间都在阅读。"
-        },
-        {
-          "s": "My immediate reaction was to assume I was listening to someone else's recording.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我的第一反应是以为我在听别人的录音。"
-        },
-        {
-          "s": "As any younger brother will tell you, having a big brother involves a lot of walking in someone else's shadow, especially when you have a brother who is a typical example of \"cool\".",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "正如任何弟弟会告诉你的那样，拥有一个大哥哥涉及很多在别人的阴影下行走，特别是当你有一个哥哥是\"酷\"的典型例子时。"
-        },
-        {
-          "s": "I didn't feel as though I needed to keep up with anybody else; I was finally with peers who understood me.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我感觉不需要跟上任何人；我终于和懂我的同龄人在一起了。"
-        },
-        {
-          "s": "Instead, I agree with Oxford University philosopher Nick Bostrom, who believes that the heaviest risks from A GI do not come from a decision to turn against mankind but rather from a dogged pursuit of set objectives at the expense of everything else.",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "相反，我同意牛津大学哲学家尼克·博斯特罗姆的观点，他相信GI带来的最重风险并非来自对全人类的背叛，而是来自于以牺牲其他一切为代价，对既定目标的顽强追求。"
-        },
-        {
-          "s": "There was a bit of me that didn't want to love this when everyone else on the planet did but the horror story is brilliant.",
-          "src": "2019全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "当地球上其他人都喜爱这本书时，我心里有一点不想爱上它，但这本恐怖小说太精彩了。"
-        },
-        {
-          "s": "Dance expresses love and hate, joy and sorrow, life and death, and everything else in between.",
-          "src": "2018全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "舞蹈表达爱与恨、喜与悲、生与死，以及其间的一切。"
-        },
-        {
-          "s": "“I can’t imagine doing anything else with my life.” Bridges runs dance classes for all ages.",
-          "src": "2018全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“我无法想象在生活中做其他任何事情。”布里奇斯为所有年龄段的人开设舞蹈课。"
-        },
-        {
-          "s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"
-        },
-        {
-          "s": "The director recommended someone else.",
-          "src": "2017全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "导演推荐了别人。"
-        },
-        {
-          "s": "I don’t want to have nothing else to fall back on when I can’t model my more.”",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我不想在我不能再模特的时候没有任何退路。\""
-        },
-        {
-          "s": "The director recommended someone else.",
-          "src": "2017重庆卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "导演推荐了别人。"
-        },
-        {
-          "s": "In his first years of high school, Gabriel would look pityingly at music students,     36     across the campus with their heavy instrument cases,     37       at school for practice hours     38       anyone else had to be there.",
-          "src": "2017江苏卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在高中最初几年，加布里埃尔会怜悯地看着音乐生，____36____拖着沉重的乐器箱____校园，____37____提前到学校练几个小时，____38__别人不得不待在那儿。"
-        },
-        {
-          "s": "But when no one else came forward, Taylor ran to Paris and began doing CPR, “It was scary.",
-          "src": "2017北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但没有人上前时，泰勒跑向帕里斯开始做心肺复苏。“这很吓人。”"
-        },
-        {
-          "s": "It is extremely beautiful and you can experience the indigenous Australia there more than anywhere else.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "这里非常美丽，您可以在那里体验到比其他任何地方都更多的澳大利亚原住民。"
-        },
-        {
-          "s": "I was just letting off steam really, because I was so angry, but then my friend went and told everyone else what I’d said.",
-          "src": "外研社B3 U1",
-          "cat": "waiyan",
-          "t": "我其实只是在发泄情绪，因为我太生气了，但后来我的朋友跑去把我说的告诉了其他人。"
-        }
-      ]
+     "s": "Is there anything else in particular that you'd like to share with us?",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "您还有什么特别想与我们分享的吗？"
     },
     {
-      "def": "different 另外的；不同的",
-      "ex": [
-        {
-          "s": "Is there anything else in particular that you'd like to share with us?",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "您还有什么特别想与我们分享的吗？"
-        },
-        {
-          "s": "What else do you recommend?",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "你还有什么推荐的吗？"
-        }
-      ]
-    },
-    {
-      "def": "if not 要不然；否则",
-      "ex": []
-    },
-    {
-      "def": "（表示另一种可能）或者，也许",
-      "ex": [
-        {
-          "s": "Not a brilliant idea, but funny; and unlikely to be anyone else’s choice.",
-          "src": "2023新课标I卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "不是个绝妙的主意，但很有趣；而且不太可能是别人的选择。"
-        },
-        {
-          "s": "Not a brilliant idea, but funny; and unlikely to be anyone else’s choice.",
-          "src": "2023新课标II卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "不是个绝妙的主意，但很有趣；而且不太可能是别人的选择。"
-        },
-        {
-          "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
-          "src": "2017全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "“例如，我们大多数人都以为老年驾驶者总是比其他人开得慢，但令人惊讶的是，我们发现，在限速30英里每小时的区域，他们难以保持匀速，因此更有可能超速并被罚款的风险。"
-        }
-      ]
-    },
-    {
-      "def": "（威胁或警告）否则的话，要不然的话",
-      "ex": []
+     "s": "What else do you recommend?",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "你还有什么推荐的吗？"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "if not 要不然；否则",
+   "ex": []
+  },
+  {
+   "def": "（表示另一种可能）或者，也许",
+   "ex": [
     {
-      "en": "anyone else",
-      "cn": "其他的",
-      "type": "名词短语",
-      "count": 5
+     "s": "Not a brilliant idea, but funny; and unlikely to be anyone else’s choice.",
+     "src": "2023新课标I卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "不是个绝妙的主意，但很有趣；而且不太可能是别人的选择。"
     },
     {
-      "en": "anything else",
-      "cn": "其他任何东西",
-      "type": "名词短语",
-      "count": 5
+     "s": "Not a brilliant idea, but funny; and unlikely to be anyone else’s choice.",
+     "src": "2023新课标II卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "不是个绝妙的主意，但很有趣；而且不太可能是别人的选择。"
     },
     {
-      "en": "someone else",
-      "cn": "其他的",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "everyone else",
-      "cn": "其他的",
-      "type": "名词短语",
-      "count": 4
-    },
-    {
-      "en": "everything else",
-      "cn": "其他一切",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "something else",
-      "cn": "其他东西",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "else to",
-      "cn": "其他",
-      "type": "短语",
-      "count": 3
+     "s": "“For example, most of us would expect older drivers always go slower than everyone else but surprisingly, we found that in 30mph zones they struggled to keep at a constant speed and so were more likely to break the speed limit and be at risk of getting fined.",
+     "src": "2017全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "“例如，我们大多数人都以为老年驾驶者总是比其他人开得慢，但令人惊讶的是，我们发现，在限速30英里每小时的区域，他们难以保持匀速，因此更有可能超速并被罚款的风险。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "（威胁或警告）否则的话，要不然的话",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "anything else",
+   "cn": "其他任何东西",
+   "type": "名词短语",
+   "count": 5
+  },
+  {
+   "en": "everything else",
+   "cn": "其他一切",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "something else",
+   "cn": "其他东西",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "else to",
+   "cn": "其他",
+   "type": "短语",
+   "count": 3
+  }
+ ]
 }
