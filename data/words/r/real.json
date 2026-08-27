@@ -1,799 +1,787 @@
 {
-  "meta": {
-    "ph": "rɪəl; NAmE ˈriːəl",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "rɪəl; NAmE ˈriːəl",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "actually existing or happening and not imagined or pretended 真实的；实际存在的；非凭空想像的",
+   "ex": [
+    {
+     "s": "I find that doing so energizes my instruction, engages my students, and demonstrates to them how abstract concepts play out in the real world.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我发现，这样做让我的教学更有活力，让学生更投入，也向他们展示了抽象概念在现实世界中的实际运用。"
+    },
+    {
+     "s": "Some of them were real; others were fake.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "其中一些是真实的，另一些是虚假的。"
+    },
+    {
+     "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
+    },
+    {
+     "s": "The reviews were written by real people who were given information about the hotel.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这些评论是由真实的人写的，他们拿到了关于酒店的信息。"
+    },
+    {
+     "s": "The fake reviews written for Azimi’s study were put together by humans, but increasingly, fake reviews are being written by AI, which makes them look more real.",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "Azimi研究中使用的虚假评论由真人编写，但越来越多的虚假评论正由人工智能撰写，这使它们看起来更加真实。"
+    },
+    {
+     "s": "Overtourism Is For Real: How Can You Help?",
+     "src": "2024新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "过度旅游真实存在：你能帮上什么忙？"
+    },
+    {
+     "s": "It opened her eyes to the real world.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "让她看到了真实的世界。"
+    },
+    {
+     "s": "I should just   59   repeatedly having to say, ＂No We can’t go outside now.＂ Then when they come to other doors in life, be they real or metaphorical, they won’t   60   to open them and walk through.",
+     "src": "2020全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我应该只是____59____反复说“不，我们现在不能出去。”然后当他们在生活中遇到其他门时，无论是真实的还是比喻意义上的，他们都不会____60____去打开并穿过。"
+    },
+    {
+     "s": "Soon I will graduate and become part of the real world.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我很快就要毕业，成为现实世界的一部分。"
+    },
+    {
+     "s": "Soon you will also question whether the voice you're hearing is actually real.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "机器人电话的问题已经变得如此严重，以至于许多人现在拒绝接听来自陌生号码的电话。"
+    },
+    {
+     "s": "The possibility of self-driving robot cars has often seemed like a futurist’s dream, years away from materializing in the real world.",
+     "src": "2018北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "自动驾驶机器人汽车的可能性常常像一个未来主义者的梦想，似乎还要好多年才能在现实中出现。"
+    },
+    {
+     "s": "The resistance to vaccine has continued for decades, and it is driven by a real but very small risk.",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "对疫苗的抵制已经持续了数十年，它是由一个真实但极小的风险所驱动的。"
+    },
+    {
+     "s": "If we are not careful, then, we could face a kind of global chess match against very determined, super intelligent machines whose objectives conflict with our own, with the real world as the chessboard.",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果我们不小心，那么，我们可能面临一种全球象棋比赛，对手是非常坚定、超级智能的机器，其目标与我们冲突，而真实世界就是棋盘。"
+    },
+    {
+     "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
+    },
+    {
+     "s": "To her dismay, she quickly realized such a camp didn’t exist.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "令她沮丧的是，她很快意识到这样的夏令营并不存在。"
+    },
+    {
+     "s": "With a sinking feeling, he realized that he actually     43       doing it.",
+     "src": "2017江苏卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "怀着一种下沉的感觉，他意识到自己实际上43在做这件事。"
+    },
+    {
+     "s": "They found it hard to answer, she wrote later, because imagining something that isn’t part of real life—and learning how to make it real—is a rare skill.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她后来写道，他们发现很难回答，因为想象不属于真实生活的东西——并学会如何让它成真——是一种罕见的能力。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "genuine and not false or artificial 真的；正宗的；非假冒的；非人工的",
+   "ex": [
     {
-      "def": "actually existing or happening and not imagined or pretended 真实的；实际存在的；非凭空想像的",
-      "ex": [
-        {
-          "s": "I find that doing so energizes my instruction, engages my students, and demonstrates to them how abstract concepts play out in the real world.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我发现，这样做让我的教学更有活力，让学生更投入，也向他们展示了抽象概念在现实世界中的实际运用。"
-        },
-        {
-          "s": "Some of them were real; others were fake.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "其中一些是真实的，另一些是虚假的。"
-        },
-        {
-          "s": "Each subject got eight reviews to read: a balanced set of two positive fake, two positive real, two negative fake and two negative real, presented in a random order.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "每位受试者读了八条评论：均衡地包含两条正面虚假、两条正面真实、两条负面虚假和两条负面真实，以随机顺序呈现。"
-        },
-        {
-          "s": "The reviews were written by real people who were given information about the hotel.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这些评论是由真实的人写的，他们拿到了关于酒店的信息。"
-        },
-        {
-          "s": "The fake reviews written for Azimi’s study were put together by humans, but increasingly, fake reviews are being written by AI, which makes them look more real.",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Azimi研究中使用的虚假评论由真人编写，但越来越多的虚假评论正由人工智能撰写，这使它们看起来更加真实。"
-        },
-        {
-          "s": "Overtourism Is For Real: How Can You Help?",
-          "src": "2024新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "过度旅游真实存在：你能帮上什么忙？"
-        },
-        {
-          "s": "It opened her eyes to the real world.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "让她看到了真实的世界。"
-        },
-        {
-          "s": "I should just   59   repeatedly having to say, ＂No We can’t go outside now.＂ Then when they come to other doors in life, be they real or metaphorical, they won’t   60   to open them and walk through.",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我应该只是____59____反复说“不，我们现在不能出去。”然后当他们在生活中遇到其他门时，无论是真实的还是比喻意义上的，他们都不会____60____去打开并穿过。"
-        },
-        {
-          "s": "Soon I will graduate and become part of the real world.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我很快就要毕业，成为现实世界的一部分。"
-        },
-        {
-          "s": "Soon you will also question whether the voice you're hearing is actually real.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "机器人电话的问题已经变得如此严重，以至于许多人现在拒绝接听来自陌生号码的电话。"
-        },
-        {
-          "s": "The possibility of self-driving robot cars has often seemed like a futurist’s dream, years away from materializing in the real world.",
-          "src": "2018北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "自动驾驶机器人汽车的可能性常常像一个未来主义者的梦想，似乎还要好多年才能在现实中出现。"
-        },
-        {
-          "s": "The resistance to vaccine has continued for decades, and it is driven by a real but very small risk.",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "对疫苗的抵制已经持续了数十年，它是由一个真实但极小的风险所驱动的。"
-        },
-        {
-          "s": "If we are not careful, then, we could face a kind of global chess match against very determined, super intelligent machines whose objectives conflict with our own, with the real world as the chessboard.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果我们不小心，那么，我们可能面临一种全球象棋比赛，对手是非常坚定、超级智能的机器，其目标与我们冲突，而真实世界就是棋盘。"
-        },
-        {
-          "s": "Some researchers argue that we can seal the machines inside a kind of firewall, using them to answer difficult questions but never allowing them to affect the real world.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "一些研究者认为，我们可以把机器封在一种防火墙内，用它们来回答难题，但绝不允许它们影响真实世界。"
-        },
-        {
-          "s": "To her dismay, she quickly realized such a camp didn’t exist.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "令她沮丧的是，她很快意识到这样的夏令营并不存在。"
-        },
-        {
-          "s": "With a sinking feeling, he realized that he actually     43       doing it.",
-          "src": "2017江苏卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "怀着一种下沉的感觉，他意识到自己实际上43在做这件事。"
-        },
-        {
-          "s": "They found it hard to answer, she wrote later, because imagining something that isn’t part of real life—and learning how to make it real—is a rare skill.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她后来写道，他们发现很难回答，因为想象不属于真实生活的东西——并学会如何让它成真——是一种罕见的能力。"
-        }
-      ]
+     "s": "Campers who sign up for the 2-week secret agent camp can get to know about the life of real secret agents by learning strategies and military skills on the paintball field.",
+     "src": "2020全国新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "报名两周秘密特工营的营员，可以通过在彩弹场上学习策略与军事技能，了解真实特工的生活。"
     },
     {
-      "def": "genuine and not false or artificial 真的；正宗的；非假冒的；非人工的",
-      "ex": [
-        {
-          "s": "Campers who sign up for the 2-week secret agent camp can get to know about the life of real secret agents by learning strategies and military skills on the paintball field.",
-          "src": "2020全国新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "报名两周秘密特工营的营员，可以通过在彩弹场上学习策略与军事技能，了解真实特工的生活。"
-        },
-        {
-          "s": "Lisa: Orientation Day was really helpful.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "丽莎：迎新日真的很有帮助。"
-        },
-        {
-          "s": "He had told me that his grandfather was \"really wicked\".",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "他告诉我他祖父真的很坏。"
-        },
-        {
-          "s": "Another way of strengthening an apology is by using and stressing adverbs: I'm really sorry, I'm so sorry.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "加强道歉的另一种方式是使用并强调副词：我真的很抱歉，我非常抱歉。"
-        },
-        {
-          "s": "But it was now getting real dark． If I kept going I might not be able to see my way back． My mum would be worried sick if I didn't come home soon． So I ran back home almost in the dark while trying not to get too scared．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但天这会儿真的黑了。如果我继续走，可能看不清回去的路。如果我不快点回家，妈妈会担心死的。所以我几乎是摸黑跑回家，努力不让自己太害怕。"
-        },
-        {
-          "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
-        },
-        {
-          "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
-        },
-        {
-          "s": "I woke up really early and tip-toed to the kitchen.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "我真的很早就醒了，踮着脚走到厨房。"
-        }
-      ]
+     "s": "Lisa: Orientation Day was really helpful.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "丽莎：迎新日真的很有帮助。"
     },
     {
-      "def": "actual or true, rather than what appears to be true 真正的；确实的；真实的",
-      "ex": [
-        {
-          "s": "They often offer a real alternative to the common and regular way of thinking.",
-          "src": "2020北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "它们通常提供一种真正的替代方案来取代常见的常规思维方式。"
-        },
-        {
-          "s": "It's a real whodunit and the frustration when you realise what's going on is horribly enjoyable",
-          "src": "2019全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这是一部真正的悬疑推理剧，而当你意识到发生了什么时的那种挫败感，竟让人享受得可怕。"
-        },
-        {
-          "s": "The real museum lacked enough artwork to interest her．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "A．真正的博物馆缺乏足够吸引她的艺术品。"
-        },
-        {
-          "s": "But unlike school friends, 16-year-old Sarah is not spending half-term    61    (real).",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "但与学校朋友不同的是，16岁的萨拉并没有在期中假期____（真正）休息。"
-        },
-        {
-          "s": "These were the first pictures and first real paint and brushes Benjamin had  ever  seen.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这些是本杰明见过的第一批照片 和第一批真正的油漆和刷子"
-        },
-        {
-          "s": "F.Our aim was to see if we could live, in some way, like real Parisians.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "F.我们的目标是看看我们是否能以某种方式像真正的巴黎人一样生活。"
-        },
-        {
-          "s": "This is real rain-your umbrella may protect you in a shower, but it won't keep you dry if there is a full rainstorm.",
-          "src": "2020全国新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这是真正的雨——你的伞或许能在阵雨中护你，但若是狂风暴雨就保不住你不被淋湿了。"
-        },
-        {
-          "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "相反，一位身着全身猴子装的活动人士举着一块称赞电影制作人的牌子出现：“感谢你们没有使用真猿！”"
-        },
-        {
-          "s": "The performance of real apes.",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "真正猿类的表演。"
-        },
-        {
-          "s": "Examples and dialogues are recorded with real native speakers instead of automatic computers.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "例句和对话是由真正的母语者录制的，而不是用自动电脑生成的。"
-        },
-        {
-          "s": "Phone carriers and consumers need to work together to find ways of determining and communicating what is real.",
-          "src": "2019北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "电话运营商和消费者需要共同努力，找到方法来辨别并传达什么是真实的。"
-        },
-        {
-          "s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"
-        },
-        {
-          "s": "You need to    61   (real)read at least one good book a week, preferably a classic.",
-          "src": "2017浙江11月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "你需要____61____（真正）每周至少读一本好书，最好是一本经典。"
-        },
-        {
-          "s": "（4）Why did the author describe the real McNay museum in just a few words？",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（4）作者为什么只用寥寥数语描述真正的麦克奈博物馆？"
-        },
-        {
-          "s": "She was too upset to spend much time at the real museum．",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "B．她太难过，没能在真正的博物馆待太久。"
-        },
-        {
-          "s": "run out of human controlB. satisfy human’s real desires",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "脱离人类控制 B. 满足人类真正的欲望"
-        },
-        {
-          "s": "The real problem relates to the possibility that artificial intelligence(AI) may become extremely good at achieving something other than what we really want.",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "真正的问题与这样一种可能性有关：人工智能（AI）可能变得极其擅长实现某些并非我们真正想要的东西。"
-        },
-        {
-          "s": "True to a gorilla’s unaggressive nature, the huge animal    69   (mean) me no real harm.",
-          "src": "2018全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "符合大猩猩不具攻击性的天性，这只巨兽___69___（mean）并无真正伤害我的意思。"
-        },
-        {
-          "s": "“That’s so sad,” he said, “but you still know all those words, even without the book.” I realized that this was true.",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "“那太遗憾了，”他说，“不过即使没有那本书，你依然认识那些词。”我意识到这话确实没错。"
-        },
-        {
-          "s": "What has the author come to realize about learning?",
-          "src": "2026新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "关于学习，作者逐渐认识到了什么？"
-        },
-        {
-          "s": "What did the author realize after seeing Gracie?",
-          "src": "2024全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "作者见到格雷西后意识到了什么？"
-        },
-        {
-          "s": "In her 30s, she realized that while she had helped create more than 40 cookbooks, she didn’t know how to make the dishes that tasted of home.",
-          "src": "2023天津3月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在她30多岁时，她意识到，尽管她已协助创作了40多本烹饪书，她却不知道如何做出有家乡味道的菜。"
-        },
-        {
-          "s": "Then I realized what was happening.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "然后我意识到发生了什么。"
-        },
-        {
-          "s": "Soon, however, they realized what they had undertaken.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "她们搬进当地一家姓Harrison的人家，和他们一样几乎没有隐私，很少洗澡，早晨醒来时被子上有雪。"
-        },
-        {
-          "s": "What did the author realize after entering school in Brooklyn?",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "作者进入布鲁克林的学校后意识到了什么？"
-        },
-        {
-          "s": "It's a real whodunit and the frustration when you realise what's going on is horribly enjoyable",
-          "src": "2019全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这是一部真正的悬疑推理剧，而当你意识到发生了什么时的那种挫败感，竟让人享受得可怕。"
-        },
-        {
-          "s": "What did Zac realize when Adeline drove to meet him？",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "当阿德琳开车来见扎克时，扎克意识到了什么？"
-        },
-        {
-          "s": "Many westerners   57   come to China cook much less than in their own countries once they realize how cheap   58   can be to eat out.",
-          "src": "2018浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "许多来中国的西方人____57____一旦意识到外出就餐可以有多便宜____58____，他们做的饭就比在自己国家时少得多。"
-        },
-        {
-          "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
-          "src": "2018天津卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
-        }
-      ]
+     "s": "He had told me that his grandfather was \"really wicked\".",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "他告诉我他祖父真的很坏。"
     },
     {
-      "def": "having all the important qualities that it should have to deserve to be called what it is called 真正的；名副其实的",
-      "ex": [
-        {
-          "s": "Hearing Dad’s cheerfulness, I realised that what I’d been seeing as “the end of an era” was actually the start of a new one.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "听到爸爸的欢快，我意识到我一直视为“一个时代终结”的事情，其实是一个新时代的开始。"
-        },
-        {
-          "s": "Often students come to the classroom believing that learning can’t be fun and that what they learn isn’t relevant to the real world — much less to their personal interests.",
-          "src": "2026浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "学生们常常带着这样的看法走进教室：学习不可能有趣，所学内容与现实世界无关——更谈不上与他们的个人兴趣有关。"
-        },
-        {
-          "s": "Also, there is a convenient app that provides growing data in real time.",
-          "src": "2024新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "此外，还有一款便捷的应用可实时提供日益增长的数据。"
-        },
-        {
-          "s": "Benjamin would have real brushes soon.",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "本杰明很快就要离开家了。"
-        },
-        {
-          "s": "I realized that years of living as a late-night person had turned my heart into an overworked engine.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我意识到，多年熬夜的生活已经把我的心变成了一台过度运转的发动机。"
-        },
-        {
-          "s": "I realise now that Mum didn’t find the joy in these tasks: she created it.",
-          "src": "2026浙江1月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我现在才明白，妈妈并不是在这些任务中找到快乐：是她创造了快乐。"
-        },
-        {
-          "s": "Then I realized that the problem was the question itself.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "想到那个男人可能在警察到来之前为所欲为，凯文决定采取行动。"
-        },
-        {
-          "s": "I realized that if I didn’t stop, the entire lecture would be ruined.",
-          "src": "2025新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我意识到如果我不停下来，整场讲座就会被毁掉。"
-        },
-        {
-          "s": "Little did I realize that single moment would ruin everything.",
-          "src": "2025北京卷·完形填空",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "如果你想要过上更可持续的生活方式，很有可能你身边的人并不会立刻加入你的行列。"
-        },
-        {
-          "s": "Just then I realised that I had zero cash in my wallet.",
-          "src": "2024新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "就在那时，我意识到钱包里一分钱现金都没有。"
-        },
-        {
-          "s": "Just then I realised that I had zero cash in my wallet.",
-          "src": "2024新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "就在那时，我意识到钱包里一分钱现金都没有。"
-        },
-        {
-          "s": "The school grew in popularity so quickly that Drewry realized she would need more space outside her home for the classes.",
-          "src": "2024天津3月卷·阅读Passage 2",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这所学校迅速走红，德鲁里意识到她需要在家以外找更大的空间来上课。"
-        },
-        {
-          "s": "I realised that by trying something new, I can have fun — even if it means stepping out of my comfort zone.",
-          "src": "2024北京卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我意识到，通过尝试新事物，我可以获得快乐——即使这意味着走出舒适区。"
-        },
-        {
-          "s": "It wasn't until he offered to help the boy on the bus that he realized there was something more rewarding he could be doing.",
-          "src": "2023天津6月卷·阅读表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "直到他主动提出帮助公交车上的男孩，他才意识到有更有意义的事情可以做。"
-        },
-        {
-          "s": "Most importantly, Edison realized that success depended on mass electrification, which he showed in New York City.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "最重要的是，Edison意识到成功取决于大规模电气化，他在纽约市展示了这一点。"
-        },
-        {
-          "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "影片制作人大卫·邦德(David Bond)在几年前意识到，他的孩子当时五岁三岁，被贴在屏幕上，以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
-        },
-        {
-          "s": "He realised that something needed to change, and, being a London media type, appointed himself \"marketing director for Nature\".",
-          "src": "2021浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "结果就是《野性事物》这部电影它记录了野性网络组织的诞生这是一个有着共同目标——让孩子们走进大自然——的组织联盟。"
-        },
-        {
-          "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
-        },
-        {
-          "s": "\"I often send postcards to family and friends.\" he says to China Daily, \"but you can imagine that after a while, you never receive as many as you send, and you realize that not everyone is into it   32   ” Seeking other like-minded souls, however, Paulo started looking in a somewhat unlikely place: online.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我经常给家人和朋友寄明信片，”他对《中国日报》说，“但你可以想象，过一阵子后，你收到的永远不会和你寄出的一样多，你会意识到不是每个人都像你一样热衷于它____32____”不过，为了寻找其他志同道合的人，保罗开始在一个不太可能的地方寻找：网上。"
-        },
-        {
-          "s": "I’m glad you will be contributing to the household.\" My dad’s words made me realize that my earnings might not be mine to do with as I wished.",
-          "src": "2021浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我很高兴你能为这个家庭贡献力量。” 我父亲的话让我意识到，我的收入可能不是按我的意愿来支付的。"
-        },
-        {
-          "s": "I realized that we have to learn to leave the past behind.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "我意识到我们必须学会把过去抛在身后。"
-        },
-        {
-          "s": "These specialists could work at the office until ten each night, then look back and realize they would have loved to have gone home and enjoyed the sweetness of their family and friends, or traveled to exciting places, meeting interesting people.",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这些专家可能在办公室工作到每天晚上十点然后回头看才发现他们本可以早点回家享受家人朋友的甜蜜或者去激动人心的地方旅行结识有趣的人。"
-        },
-        {
-          "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
-        },
-        {
-          "s": "In the beginning，I dared myself to make a difference in the life of another person．Now that our project is over，I realize that I have affected not only one life，but ten．With our efforts，ten young boys and girls will now be able to further their education．",
-          "src": "2021北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一开始我鼓起勇气想要改变另一个人的生活。现在我们的项目结束了，我意识到我影响的不只是一个生命，而是十个。通过我们的努力，十个年轻人现在将能够继续接受教育。"
-        },
-        {
-          "s": "“But as I grew older,” Adeline says, \"and missed my brother more and more, I realized that was the only thing we had left.\" Corrado Piccoli’s Purple Heart medal now hangs at the Italian American Civic Association in Watertown.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "\"但随着年龄的增长，\"阿德琳说，\"而且我越来越想念我的哥哥，我才意识到这是我们唯一留下的东西。\"科拉多·皮科利的紫心勋章现在挂在沃特敦意大利美国公民协会。"
-        },
-        {
-          "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
-          "src": "2019天津卷·18．",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
-        },
-        {
-          "s": "In her 48   , she didn’t seem to realize that she was    49    the baby’s photos with a complete stranger.” “Well, I don’t    50    you all but I will get there to take pictures with the baby,” replied Dennis before asking which room the new    51    were in.",
-          "src": "2018全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在她的___48___中，她似乎没意识到自己正在把一个婴儿的照片___49___给一个完全陌生的人。“嗯，我___50___你们所有人，但我会到那里和宝宝合影，”丹尼斯回复道，然后问新手___51___在哪个房间。"
-        },
-        {
-          "s": "But they must realize that the employment market is about how an employee will be a good fit for a company, not the other way around.",
-          "src": "2018上海卷·Becoming an Attractive Employee",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但他们必须意识到，就业市场关乎员工如何契合公司，而非相反。"
-        },
-        {
-          "s": "I soon realized that the silence was not unpleasant.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我很快意识到这种安静并不令人不愉快。"
-        },
-        {
-          "s": "As they got closer, they realized that the dog was a wolf.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当他们靠近时，才意识到那“狗”其实是一只狼。"
-        },
-        {
-          "s": "A few years later, as I stood in the lunch line with my kindergarten class in a school in Brooklyn, I realized things were no longer that simple.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "几年后，当我和幼儿园班级站在布鲁克林一所学校的午餐队伍里时，我意识到事情不再那么简单了。"
-        },
-        {
-          "s": "This made me realize that there’s no egg in eggplant either.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "t": "这让我意识到茄子里也没有鸡蛋。"
-        },
-        {
-          "s": "This made me realize that there's no egg in eggplant either.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这让我意识到茄子里也没有鸡蛋。"
-        },
-        {
-          "s": "It was then that I realised her seat was empty!",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "就在那时，我意识到她的座位是空的！"
-        }
-      ]
+     "s": "Another way of strengthening an apology is by using and stressing adverbs: I'm really sorry, I'm so sorry.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "加强道歉的另一种方式是使用并强调副词：我真的很抱歉，我非常抱歉。"
     },
     {
-      "def": "（强调状态或品质）",
-      "ex": []
+     "s": "But it was now getting real dark． If I kept going I might not be able to see my way back． My mum would be worried sick if I didn't come home soon． So I ran back home almost in the dark while trying not to get too scared．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但天这会儿真的黑了。如果我继续走，可能看不清回去的路。如果我不快点回家，妈妈会担心死的。所以我几乎是摸黑跑回家，努力不让自己太害怕。"
     },
     {
-      "def": "when the effect of such things as price rises on the power of money to buy things is included in the sums 实际的（已按物价指数等调整）；按购买力衡量的",
-      "ex": [
-        {
-          "s": "I’m secretly relieved because I know there’s real power in sharing volunteer responsibilities among many.",
-          "src": "2019全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我暗自松了一口气，因为我知道在多人之间分担志愿责任是真正有力量的。"
-        },
-        {
-          "s": "They were almost knee﹣deep when they realized it was a hot spring.",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当他们意识到那是温泉时，水已几乎没到膝盖。"
-        },
-        {
-          "s": "When I started running in my 30s, I realized running was a battle against myself, not about competition or whether or not I was athletic.",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在我30多岁开始跑步时，我意识到跑步是一场与自己的较量，而不是关乎竞争或我是否有运动天赋。"
-        },
-        {
-          "s": "If we’re too impetuous, we can end up tearing out things we don’t yet realise we rely upon.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "如果我们太鲁莽，最终可能会拆除那些我们尚未意识到自己正依赖着的东西。"
-        }
-      ]
+     "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
     },
     {
-      "def": "realise (realize)",
-      "ex": [
-        {
-          "s": "I realised this wasn’t about loss at all, but about movement and trust.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我意识到这根本不是关于失去，而是关于移动和信任。"
-        },
-        {
-          "s": "Sitting at the table, making my mini sandwich, I realised I was ready for our next chapter.",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "坐在桌前做我的迷你三明治时，我意识到我已经为我们的下一个篇章做好了准备。"
-        },
-        {
-          "s": "I realized it was me who was at fault.",
-          "src": "2025新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "我意识到犯错的是我自己。"
-        },
-        {
-          "s": "Do you ever get to the train station and realize you forgot to bring something to read?",
-          "src": "2024新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "你有没有过到了火车站才发现忘了带读物的时候？"
-        },
-        {
-          "s": "I realised I was always afraid of wanting too much.",
-          "src": "2024北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我意识到我总是害怕想要太多。"
-        },
-        {
-          "s": "Many young people don't even realize it's new.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "许多年轻人甚至没有意识到这是新的。"
-        },
-        {
-          "s": "I realised there was something strange about me.",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我意识到我身上有某种奇怪之处。"
-        },
-        {
-          "s": "She realized she looked like a child, with her tiny figure.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她意识到自己身材娇小，看起来像个孩子。"
-        },
-        {
-          "s": "Before hearing from Zac, Adeline hadn’t realized the medal was missing.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "在收到扎克的来信之前，阿德琳并没有意识到勋章丢失了。"
-        },
-        {
-          "s": "I didn’t realize how right my parents are until I entered high school.",
-          "src": "2018全国II卷·短文改错",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "300多年来，其人口从800人逐渐增长到800万人。"
-        },
-        {
-          "s": "I realize of how fast time flies.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我意识到时光飞逝之快。"
-        },
-        {
-          "s": "At first, I hadn’t realised how much work it would be.",
-          "src": "外研社B2 U4",
-          "cat": "waiyan",
-          "t": "一开始，我没有意识到工作量会有多大。"
-        }
-      ]
+     "s": "At first I was really sad, but later I realized that I joined the team for the love of the sport.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "起初我真的很伤心，但后来我意识到我加入这个队是因为对这项运动的热爱。"
+    },
+    {
+     "s": "I woke up really early and tip-toed to the kitchen.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "我真的很早就醒了，踮着脚走到厨房。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "actual or true, rather than what appears to be true 真正的；确实的；真实的",
+   "ex": [
     {
-      "en": "half-term real",
-      "cn": "真实的",
-      "type": "形容词搭配",
-      "count": 1
+     "s": "They often offer a real alternative to the common and regular way of thinking.",
+     "src": "2020北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "它们通常提供一种真正的替代方案来取代常见的常规思维方式。"
     },
     {
-      "en": "using real",
-      "cn": "真实的",
-      "type": "形容词搭配",
-      "count": 1
+     "s": "It's a real whodunit and the frustration when you realise what's going on is horribly enjoyable",
+     "src": "2019全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这是一部真正的悬疑推理剧，而当你意识到发生了什么时的那种挫败感，竟让人享受得可怕。"
     },
     {
-      "en": "real world",
-      "cn": "真实世界",
-      "type": "名词短语",
-      "count": 7
+     "s": "The real museum lacked enough artwork to interest her．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "A．真正的博物馆缺乏足够吸引她的艺术品。"
     },
     {
-      "en": "the real world",
-      "cn": "真实世界",
-      "type": "名词短语",
-      "count": 7
+     "s": "But unlike school friends, 16-year-old Sarah is not spending half-term    61    (real).",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "但与学校朋友不同的是，16岁的萨拉并没有在期中假期____（真正）休息。"
     },
     {
-      "en": "real apes",
-      "cn": "真实的",
-      "type": "名词短语",
-      "count": 2
+     "s": "These were the first pictures and first real paint and brushes Benjamin had  ever  seen.",
+     "src": "2017浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这些是本杰明见过的第一批照片 和第一批真正的油漆和刷子"
     },
     {
-      "en": "real mcnay",
-      "cn": "真实的",
-      "type": "名词短语",
-      "count": 2
+     "s": "F.Our aim was to see if we could live, in some way, like real Parisians.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "F.我们的目标是看看我们是否能以某种方式像真正的巴黎人一样生活。"
+    },
+    {
+     "s": "This is real rain-your umbrella may protect you in a shower, but it won't keep you dry if there is a full rainstorm.",
+     "src": "2020全国新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这是真正的雨——你的伞或许能在阵雨中护你，但若是狂风暴雨就保不住你不被淋湿了。"
+    },
+    {
+     "s": "Instead, one activist, dressed in a full-body monkey suit, had arrived with a sign praising the filmmakers: \"Thanks for not using real apes (猿)!\"",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "相反，一位身着全身猴子装的活动人士举着一块称赞电影制作人的牌子出现：“感谢你们没有使用真猿！”"
+    },
+    {
+     "s": "The performance of real apes.",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "真正猿类的表演。"
+    },
+    {
+     "s": "Examples and dialogues are recorded with real native speakers instead of automatic computers.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "例句和对话是由真正的母语者录制的，而不是用自动电脑生成的。"
+    },
+    {
+     "s": "Phone carriers and consumers need to work together to find ways of determining and communicating what is real.",
+     "src": "2019北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "电话运营商和消费者需要共同努力，找到方法来辨别并传达什么是真实的。"
+    },
+    {
+     "s": "The real McNay was splendid， but we felt nervous the whole time we were there． Van Gogh， Picasso． This time， we stayed together， in case anything else unusual happened．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "真正的麦克奈庄园很华丽，但我们在那里的整个时间都很紧张。梵高、毕加索。这次，我们待在一起，以防再发生什么不寻常的事。"
+    },
+    {
+     "s": "You need to    61   (real)read at least one good book a week, preferably a classic.",
+     "src": "2017浙江11月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "你需要____61____（真正）每周至少读一本好书，最好是一本经典。"
+    },
+    {
+     "s": "（4）Why did the author describe the real McNay museum in just a few words？",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（4）作者为什么只用寥寥数语描述真正的麦克奈博物馆？"
+    },
+    {
+     "s": "She was too upset to spend much time at the real museum．",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "B．她太难过，没能在真正的博物馆待太久。"
+    },
+    {
+     "s": "run out of human controlB. satisfy human’s real desires",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "脱离人类控制 B. 满足人类真正的欲望"
+    },
+    {
+     "s": "The real problem relates to the possibility that artificial intelligence(AI) may become extremely good at achieving something other than what we really want.",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "真正的问题与这样一种可能性有关：人工智能（AI）可能变得极其擅长实现某些并非我们真正想要的东西。"
+    },
+    {
+     "s": "True to a gorilla’s unaggressive nature, the huge animal    69   (mean) me no real harm.",
+     "src": "2018全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "符合大猩猩不具攻击性的天性，这只巨兽___69___（mean）并无真正伤害我的意思。"
+    },
+    {
+     "s": "“That’s so sad,” he said, “but you still know all those words, even without the book.” I realized that this was true.",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "“那太遗憾了，”他说，“不过即使没有那本书，你依然认识那些词。”我意识到这话确实没错。"
+    },
+    {
+     "s": "What has the author come to realize about learning?",
+     "src": "2026新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "关于学习，作者逐渐认识到了什么？"
+    },
+    {
+     "s": "What did the author realize after seeing Gracie?",
+     "src": "2024全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "作者见到格雷西后意识到了什么？"
+    },
+    {
+     "s": "In her 30s, she realized that while she had helped create more than 40 cookbooks, she didn’t know how to make the dishes that tasted of home.",
+     "src": "2023天津3月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在她30多岁时，她意识到，尽管她已协助创作了40多本烹饪书，她却不知道如何做出有家乡味道的菜。"
+    },
+    {
+     "s": "Then I realized what was happening.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "然后我意识到发生了什么。"
+    },
+    {
+     "s": "Soon, however, they realized what they had undertaken.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "她们搬进当地一家姓Harrison的人家，和他们一样几乎没有隐私，很少洗澡，早晨醒来时被子上有雪。"
+    },
+    {
+     "s": "What did the author realize after entering school in Brooklyn?",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "作者进入布鲁克林的学校后意识到了什么？"
+    },
+    {
+     "s": "It's a real whodunit and the frustration when you realise what's going on is horribly enjoyable",
+     "src": "2019全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这是一部真正的悬疑推理剧，而当你意识到发生了什么时的那种挫败感，竟让人享受得可怕。"
+    },
+    {
+     "s": "What did Zac realize when Adeline drove to meet him？",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "当阿德琳开车来见扎克时，扎克意识到了什么？"
+    },
+    {
+     "s": "Many westerners   57   come to China cook much less than in their own countries once they realize how cheap   58   can be to eat out.",
+     "src": "2018浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "许多来中国的西方人____57____一旦意识到外出就餐可以有多便宜____58____，他们做的饭就比在自己国家时少得多。"
+    },
+    {
+     "s": "\"That was my home． I was a teenager sitting in the hall． Before you came over， I never realized what a beautiful place I lived in． I never felt lucky before． You thought it was a museum． My feelings about my home changed after that． I've always wanted to thank you．\"",
+     "src": "2018天津卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“那是我家。我当时是个坐在厅里的少年。你来之前，我从没意识到自己住的地方多美。我以前从没觉得自己幸运。你以为那是博物馆。从那以后我对家的感觉变了。我一直想谢谢你。”"
     }
-  ]
+   ]
+  },
+  {
+   "def": "having all the important qualities that it should have to deserve to be called what it is called 真正的；名副其实的",
+   "ex": [
+    {
+     "s": "Hearing Dad’s cheerfulness, I realised that what I’d been seeing as “the end of an era” was actually the start of a new one.",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "听到爸爸的欢快，我意识到我一直视为“一个时代终结”的事情，其实是一个新时代的开始。"
+    },
+    {
+     "s": "Often students come to the classroom believing that learning can’t be fun and that what they learn isn’t relevant to the real world — much less to their personal interests.",
+     "src": "2026浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "学生们常常带着这样的看法走进教室：学习不可能有趣，所学内容与现实世界无关——更谈不上与他们的个人兴趣有关。"
+    },
+    {
+     "s": "Also, there is a convenient app that provides growing data in real time.",
+     "src": "2024新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "此外，还有一款便捷的应用可实时提供日益增长的数据。"
+    },
+    {
+     "s": "Benjamin would have real brushes soon.",
+     "src": "2017浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "本杰明很快就要离开家了。"
+    },
+    {
+     "s": "I realized that years of living as a late-night person had turned my heart into an overworked engine.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我意识到，多年熬夜的生活已经把我的心变成了一台过度运转的发动机。"
+    },
+    {
+     "s": "I realise now that Mum didn’t find the joy in these tasks: she created it.",
+     "src": "2026浙江1月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我现在才明白，妈妈并不是在这些任务中找到快乐：是她创造了快乐。"
+    },
+    {
+     "s": "Then I realized that the problem was the question itself.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "想到那个男人可能在警察到来之前为所欲为，凯文决定采取行动。"
+    },
+    {
+     "s": "I realized that if I didn’t stop, the entire lecture would be ruined.",
+     "src": "2025新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我意识到如果我不停下来，整场讲座就会被毁掉。"
+    },
+    {
+     "s": "Little did I realize that single moment would ruin everything.",
+     "src": "2025北京卷·完形填空",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "如果你想要过上更可持续的生活方式，很有可能你身边的人并不会立刻加入你的行列。"
+    },
+    {
+     "s": "Just then I realised that I had zero cash in my wallet.",
+     "src": "2024新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "就在那时，我意识到钱包里一分钱现金都没有。"
+    },
+    {
+     "s": "Just then I realised that I had zero cash in my wallet.",
+     "src": "2024新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "就在那时，我意识到钱包里一分钱现金都没有。"
+    },
+    {
+     "s": "The school grew in popularity so quickly that Drewry realized she would need more space outside her home for the classes.",
+     "src": "2024天津3月卷·阅读Passage 2",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这所学校迅速走红，德鲁里意识到她需要在家以外找更大的空间来上课。"
+    },
+    {
+     "s": "I realised that by trying something new, I can have fun — even if it means stepping out of my comfort zone.",
+     "src": "2024北京卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我意识到，通过尝试新事物，我可以获得快乐——即使这意味着走出舒适区。"
+    },
+    {
+     "s": "It wasn't until he offered to help the boy on the bus that he realized there was something more rewarding he could be doing.",
+     "src": "2023天津6月卷·阅读表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "直到他主动提出帮助公交车上的男孩，他才意识到有更有意义的事情可以做。"
+    },
+    {
+     "s": "Most importantly, Edison realized that success depended on mass electrification, which he showed in New York City.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "最重要的是，Edison意识到成功取决于大规模电气化，他在纽约市展示了这一点。"
+    },
+    {
+     "s": "A couple of years ago, film-maker David Bond realised that his children, then aged five and three, were attached to screens to the point where he was able to say \"chocolate\" into his three-year-old son’s ear without getting a response.",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "影片制作人大卫·邦德(David Bond)在几年前意识到，他的孩子当时五岁三岁，被贴在屏幕上，以至于他可以在三岁的儿子的耳朵里说\"巧克力\"而没有得到回应。"
+    },
+    {
+     "s": "He realised that something needed to change, and, being a London media type, appointed himself \"marketing director for Nature\".",
+     "src": "2021浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "结果就是《野性事物》这部电影它记录了野性网络组织的诞生这是一个有着共同目标——让孩子们走进大自然——的组织联盟。"
+    },
+    {
+     "s": "\"Instead, our results suggest that the successful dogs realized that a smiling mouth means the same thing as smiling eyes, and the same rule applies to an angry mouth having the same meaning as angry eyes.”",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“相反，我们的结果表明，成功的狗意识到微笑的嘴和微笑的眼睛表达的是同一意思，同样的规则也适用于生气的嘴和生气的眼睛含义相同。”"
+    },
+    {
+     "s": "\"I often send postcards to family and friends.\" he says to China Daily, \"but you can imagine that after a while, you never receive as many as you send, and you realize that not everyone is into it   32   ” Seeking other like-minded souls, however, Paulo started looking in a somewhat unlikely place: online.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“我经常给家人和朋友寄明信片，”他对《中国日报》说，“但你可以想象，过一阵子后，你收到的永远不会和你寄出的一样多，你会意识到不是每个人都像你一样热衷于它____32____”不过，为了寻找其他志同道合的人，保罗开始在一个不太可能的地方寻找：网上。"
+    },
+    {
+     "s": "I’m glad you will be contributing to the household.\" My dad’s words made me realize that my earnings might not be mine to do with as I wished.",
+     "src": "2021浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我很高兴你能为这个家庭贡献力量。” 我父亲的话让我意识到，我的收入可能不是按我的意愿来支付的。"
+    },
+    {
+     "s": "I realized that we have to learn to leave the past behind.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "我意识到我们必须学会把过去抛在身后。"
+    },
+    {
+     "s": "These specialists could work at the office until ten each night, then look back and realize they would have loved to have gone home and enjoyed the sweetness of their family and friends, or traveled to exciting places, meeting interesting people.",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这些专家可能在办公室工作到每天晚上十点然后回头看才发现他们本可以早点回家享受家人朋友的甜蜜或者去激动人心的地方旅行结识有趣的人。"
+    },
+    {
+     "s": "The most rewarding day for our group was project day，when all the efforts we put into collecting the items finally came together．When I saw the various supplies we had collected，it hit me that every kit we were to build that day would eventually be in the hands of an Iraqi child．Over the past four months，I had never imagined how I would feel once our project was completed．While making the kits，I realized that I had lost sight of the true meaning behind it．I had only focused on the fact that it was another school project and one I wanted to get a good grade on．When the kits were completed，and ready to be sent overseas，the warm feeling I had was one I would never forget．",
+     "src": "2021北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "对我们小组来说最有收获的一天是项目日，那天我们为收集物资付出的所有努力终于汇聚在一起。当我看到我们收集到的各种物资时，我突然意识到，那天我们要制作的每一个套装最终都会送到一个伊拉克孩子手中。在过去的四个月里，我从未想象过项目完成后自己会有怎样的感受。在制作这些套装的过程中，我意识到自己已经忽略了它背后的真正意义——我只顾着把它当成又一个学校项目，而且是我想要拿高分的一个。当这些套装制作完成、准备送往海外时，那种温暖的感觉我将永远铭记。"
+    },
+    {
+     "s": "In the beginning，I dared myself to make a difference in the life of another person．Now that our project is over，I realize that I have affected not only one life，but ten．With our efforts，ten young boys and girls will now be able to further their education．",
+     "src": "2021北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "一开始我鼓起勇气想要改变另一个人的生活。现在我们的项目结束了，我意识到我影响的不只是一个生命，而是十个。通过我们的努力，十个年轻人现在将能够继续接受教育。"
+    },
+    {
+     "s": "“But as I grew older,” Adeline says, \"and missed my brother more and more, I realized that was the only thing we had left.\" Corrado Piccoli’s Purple Heart medal now hangs at the Italian American Civic Association in Watertown.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "\"但随着年龄的增长，\"阿德琳说，\"而且我越来越想念我的哥哥，我才意识到这是我们唯一留下的东西。\"科拉多·皮科利的紫心勋章现在挂在沃特敦意大利美国公民协会。"
+    },
+    {
+     "s": "This is how everyone learned to read． We would start off with sentences， then paragraphs， and then stories． It seemed an unending journey， but even as a six﹣year﹣old girl I realized that knowing how to read could open many doors． When mom said， \"The C﹣A﹣N﹣D﹣Y is hidden on the top shelf，\" I knew where the candy was． My progress in reading raised my curiosity， and I wanted to know everything． I often found myself telling my mom to drive more slowly， so that I could read all of the road signs we passed．",
+     "src": "2019天津卷·18．",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "每个人都是这样学会阅读的。我们从句子开始，然后是段落，再然后是故事。这似乎是一段永无止境的旅程，但即使作为一个六岁的女孩，我也意识到学会阅读能打开许多扇门。当妈妈说：“C-A-N-D-Y藏在最上面的架子上”时，我知道糖果在哪里。我在阅读上的进步激发了我的好奇心，我想知道一切。我经常叫妈妈开慢一点，这样我就能读出我们路过的所有路标。"
+    },
+    {
+     "s": "In her 48   , she didn’t seem to realize that she was    49    the baby’s photos with a complete stranger.” “Well, I don’t    50    you all but I will get there to take pictures with the baby,” replied Dennis before asking which room the new    51    were in.",
+     "src": "2018全国III卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在她的___48___中，她似乎没意识到自己正在把一个婴儿的照片___49___给一个完全陌生的人。“嗯，我___50___你们所有人，但我会到那里和宝宝合影，”丹尼斯回复道，然后问新手___51___在哪个房间。"
+    },
+    {
+     "s": "But they must realize that the employment market is about how an employee will be a good fit for a company, not the other way around.",
+     "src": "2018上海卷·Becoming an Attractive Employee",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但他们必须意识到，就业市场关乎员工如何契合公司，而非相反。"
+    },
+    {
+     "s": "I soon realized that the silence was not unpleasant.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我很快意识到这种安静并不令人不愉快。"
+    },
+    {
+     "s": "As they got closer, they realized that the dog was a wolf.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "当他们靠近时，才意识到那“狗”其实是一只狼。"
+    },
+    {
+     "s": "A few years later, as I stood in the lunch line with my kindergarten class in a school in Brooklyn, I realized things were no longer that simple.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "几年后，当我和幼儿园班级站在布鲁克林一所学校的午餐队伍里时，我意识到事情不再那么简单了。"
+    },
+    {
+     "s": "This made me realize that there’s no egg in eggplant either.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "t": "这让我意识到茄子里也没有鸡蛋。"
+    },
+    {
+     "s": "This made me realize that there's no egg in eggplant either.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这让我意识到茄子里也没有鸡蛋。"
+    },
+    {
+     "s": "It was then that I realised her seat was empty!",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "就在那时，我意识到她的座位是空的！"
+    }
+   ]
+  },
+  {
+   "def": "（强调状态或品质）",
+   "ex": []
+  },
+  {
+   "def": "when the effect of such things as price rises on the power of money to buy things is included in the sums 实际的（已按物价指数等调整）；按购买力衡量的",
+   "ex": [
+    {
+     "s": "I’m secretly relieved because I know there’s real power in sharing volunteer responsibilities among many.",
+     "src": "2019全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我暗自松了一口气，因为我知道在多人之间分担志愿责任是真正有力量的。"
+    },
+    {
+     "s": "They were almost knee﹣deep when they realized it was a hot spring.",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当他们意识到那是温泉时，水已几乎没到膝盖。"
+    },
+    {
+     "s": "When I started running in my 30s, I realized running was a battle against myself, not about competition or whether or not I was athletic.",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在我30多岁开始跑步时，我意识到跑步是一场与自己的较量，而不是关乎竞争或我是否有运动天赋。"
+    },
+    {
+     "s": "If we’re too impetuous, we can end up tearing out things we don’t yet realise we rely upon.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "如果我们太鲁莽，最终可能会拆除那些我们尚未意识到自己正依赖着的东西。"
+    }
+   ]
+  },
+  {
+   "def": "realise (realize)",
+   "ex": [
+    {
+     "s": "I realised this wasn’t about loss at all, but about movement and trust.",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我意识到这根本不是关于失去，而是关于移动和信任。"
+    },
+    {
+     "s": "Sitting at the table, making my mini sandwich, I realised I was ready for our next chapter.",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "坐在桌前做我的迷你三明治时，我意识到我已经为我们的下一个篇章做好了准备。"
+    },
+    {
+     "s": "I realized it was me who was at fault.",
+     "src": "2025新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "我意识到犯错的是我自己。"
+    },
+    {
+     "s": "Do you ever get to the train station and realize you forgot to bring something to read?",
+     "src": "2024新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "你有没有过到了火车站才发现忘了带读物的时候？"
+    },
+    {
+     "s": "I realised I was always afraid of wanting too much.",
+     "src": "2024北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我意识到我总是害怕想要太多。"
+    },
+    {
+     "s": "Many young people don't even realize it's new.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "许多年轻人甚至没有意识到这是新的。"
+    },
+    {
+     "s": "I realised there was something strange about me.",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我意识到我身上有某种奇怪之处。"
+    },
+    {
+     "s": "She realized she looked like a child, with her tiny figure.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她意识到自己身材娇小，看起来像个孩子。"
+    },
+    {
+     "s": "Before hearing from Zac, Adeline hadn’t realized the medal was missing.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "在收到扎克的来信之前，阿德琳并没有意识到勋章丢失了。"
+    },
+    {
+     "s": "I didn’t realize how right my parents are until I entered high school.",
+     "src": "2018全国II卷·短文改错",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "300多年来，其人口从800人逐渐增长到800万人。"
+    },
+    {
+     "s": "I realize of how fast time flies.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我意识到时光飞逝之快。"
+    },
+    {
+     "s": "At first, I hadn’t realised how much work it would be.",
+     "src": "外研社B2 U4",
+     "cat": "waiyan",
+     "t": "一开始，我没有意识到工作量会有多大。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "half-term real",
+   "cn": "真实的",
+   "type": "形容词搭配",
+   "count": 1
+  },
+  {
+   "en": "using real",
+   "cn": "真实的",
+   "type": "形容词搭配",
+   "count": 1
+  },
+  {
+   "en": "real world",
+   "cn": "真实世界",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "the real world",
+   "cn": "真实世界",
+   "type": "名词短语",
+   "count": 7
+  }
+ ]
 }
