@@ -1,231 +1,225 @@
 {
-  "meta": {
-    "ph": "ˈtaɪni; NAmE ˈtaɪni",
-    "pos": "adj.",
-    "stars": ""
+ "meta": {
+  "ph": "ˈtaɪni; NAmE ˈtaɪni",
+  "pos": "adj.",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "ery small in size or amount 极小的；微小的；微量的",
+   "ex": [
+    {
+     "s": "They provide shade, lower surface temperatures, absorb a surprising amount of airborne carbon, remove tiny pollutants, and provide wildlife habitat along with just plain beauty.",
+     "src": "2026新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它们提供树荫、降低地表温度、吸收可观的空气中的碳、清除微小污染物，并提供野生动物栖息地，还有纯粹的美的享受。"
+    },
+    {
+     "s": "A dirty stream, for example, often became clear after flowing through plants and along rocks where tiny creatures lived.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "例如，一条污浊的小溪在流经植物和栖息着微小生物的岩石后，常常变得清澈。"
+    },
+    {
+     "s": "Most tiny creatures live in groups.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "大多数微小生物群居生活。"
+    },
+    {
+     "s": "For a very long moment, this tiny creature looked into my eyes, turning her head from side to side.",
+     "src": "2023浙江1月卷·书面表达",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "很长一段时间，这个小家伙看着我的眼睛，把她的头从一边转到另一边。"
+    },
+    {
+     "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
+    },
+    {
+     "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
+    },
+    {
+     "s": "Tiny forests were first pioneered as a concept in the 1970s by Dr Miyawaki, a Japanese botanist.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "小森林的概念最早由日本植物学家宫胁博士在20世纪70年代开创。"
+    },
+    {
+     "s": "Louise Hartley, who is leading the Tiny Forest project in the UK, explains that the process begins by identifying areas in which a tiny forest could have the biggest influence.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Louise Hartley是英国微型森林项目的负责人，她解释说这个过程首先确定微型森林可能产生最大影响的区域。"
+    },
+    {
+     "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
+    },
+    {
+     "s": "What do we know about the Tiny Forest movement?",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "关于“微型森林”运动我们知道什么？"
+    },
+    {
+     "s": "What is special about the trees in a Tiny Forest?",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "微型森林中的树木有什么特别之处？"
+    },
+    {
+     "s": "It was so tiny that we had to leave our suitcases in the hallway.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它太小了，我们不得不把行李箱放在走廊里。"
+    },
+    {
+     "s": "37     Our building even had a tiny lift with a female voice that said, “Ouverture des portes,” in perfect French.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "37 我们的大楼甚至有一部小小的电梯，里面有个女声用完美的法语说“开门”。"
+    },
+    {
+     "s": "When the tiny creature arrived on January 31, she became the 40th black rhino to be born at the reserve.",
+     "src": "2021全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "当这个小家伙1月31日到来时，它成为了保护区出生的第40头黑犀牛。"
+    },
+    {
+     "s": "Tiny pieces of glass were everywhere.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "细小的玻璃碎片到处都是。"
+    },
+    {
+     "s": "Molai grew up in a tiny village in India.",
+     "src": "2020全国新高考I卷·完型填空个",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "莫莱在印度一个偏僻的小村庄长大。"
+    },
+    {
+     "s": "The tiny shops made economic sense, according to Robert Kerr, a founder of LoveFone.",
+     "src": "2020江苏卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "据LoveFone创始人罗伯特·克尔说，这些小店在经济上是行得通的。"
+    },
+    {
+     "s": "She realized she looked like a child, with her tiny figure.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她意识到自己身材娇小，看起来像个孩子。"
+    },
+    {
+     "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
+     "src": "2020北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
+    },
+    {
+     "s": "How is NASA overcoming this very tiny big problem?",
+     "src": "2019全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "NASA是如何克服这个微小但重大的问题的？"
+    },
+    {
+     "s": "In 1870, when Dickens died, the world mourned him as its first professional writer and publisher, famous and beloved, who had led an explosion in both the publication of novels and their readership and whose characters — from Oliver Twist to Tiny Tim— were held up as moral touchstones.",
+     "src": "2018浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "1870年狄更斯去世时，世界哀悼这位首位职业作家和出版人，他声名显赫、深受爱戴，引领了小说出版与读者群的爆发式增长，其笔下人物——从奥利弗·崔斯特到小蒂姆——被视为道德试金石。"
+    },
+    {
+     "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "当我还是个小女孩时，我家搬到了一座大山脚下的一个小镇。一天放学后，在探索这座壮丽山林的绿色树林时，我差点摔倒在一组台阶上。这些台阶会通向哪里？好奇心占了上风，因为我知道天很快就要黑了。我开始攀登那些奇怪而神秘的台阶。"
+    },
+    {
+     "s": "Yes, there beneath the leafy top of one tiny carrot was her long-lost wedding ring.",
+     "src": "2017浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "是的，在一棵小胡萝卜绿叶覆盖的顶端下面，是她丢失已久的结婚戒指。"
+    },
+    {
+     "s": "I ordered a large vegetarian pizza, but it was tiny!",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我点了一份大份的素食披萨，但它好小！"
+    },
+    {
+     "s": "This tiny organism can survive temperatures from 150 °C to a below freezing -272 °C.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "这种微小的有机体可以从150°C到低于冻度的-272°C的温度中生存。"
+    },
+    {
+     "s": "The plant releases tiny amounts of chemicals from the leaves that are being eaten.",
+     "src": "外研社B4 U5",
+     "cat": "waiyan",
+     "t": "植物从被食用的叶子中释放出少量的化学物质。"
+    },
+    {
+     "s": "(Adaptation from “fHeiligenstadt Testament” by Ludwig van Beethoven) first choice of all time in question be crowded with come to exist adapt to a variety of tiny amounts of drive...",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "（改编自路德维希·范·贝多芬（ Ludwig van Beethoven ）的《海利根斯塔特遗嘱》（ fHeiligenstadt Testament ） ）有史以来的首选，都挤满了来适应各种微小的驱动力......"
+    },
+    {
+     "s": "My candle was almost burnt out when, by its tiny light, I saw the yellow eye of the creature open.",
+     "src": "外研社B6 U6",
+     "cat": "waiyan",
+     "t": "我的蜡烛快燃尽了，借着微弱的光，我看见那怪物黄色的眼睛睁开了。"
+    }
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "tiny creature",
+   "cn": "极小生物",
+   "type": "形容词短语",
+   "count": 4
   },
-  "defs": [
-    {
-      "def": "ery small in size or amount 极小的；微小的；微量的",
-      "ex": [
-        {
-          "s": "They provide shade, lower surface temperatures, absorb a surprising amount of airborne carbon, remove tiny pollutants, and provide wildlife habitat along with just plain beauty.",
-          "src": "2026新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它们提供树荫、降低地表温度、吸收可观的空气中的碳、清除微小污染物，并提供野生动物栖息地，还有纯粹的美的享受。"
-        },
-        {
-          "s": "A dirty stream, for example, often became clear after flowing through plants and along rocks where tiny creatures lived.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "例如，一条污浊的小溪在流经植物和栖息着微小生物的岩石后，常常变得清澈。"
-        },
-        {
-          "s": "Most tiny creatures live in groups.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "大多数微小生物群居生活。"
-        },
-        {
-          "s": "For a very long moment, this tiny creature looked into my eyes, turning her head from side to side.",
-          "src": "2023浙江1月卷·书面表达",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "很长一段时间，这个小家伙看着我的眼睛，把她的头从一边转到另一边。"
-        },
-        {
-          "s": "At the side of roads, behind school playgrounds and on all kinds of unloved pieces of land across towns and cities, tiny forests barely the size of tennis courts are appearing, making a great place for both wildlife and local people who may not normally have easy access to nature.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在路边、学校游乐场后面以及城镇和城市之间的各种不受爱戴的土地上，几乎没有网球场规模的细小森林正在出现，这为野生动物和当地人提供了一个大好地方，他们通常无法轻易进入大自然。"
-        },
-        {
-          "s": "This is the Tiny Forest movement, which aims to prove that the best things in life really do come in small packages.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这就是微型森林运动，旨在证明生活中最好的东西确实来自小包装。"
-        },
-        {
-          "s": "Tiny forests were first pioneered as a concept in the 1970s by Dr Miyawaki, a Japanese botanist.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "小森林的概念最早由日本植物学家宫胁博士在20世纪70年代开创。"
-        },
-        {
-          "s": "Louise Hartley, who is leading the Tiny Forest project in the UK, explains that the process begins by identifying areas in which a tiny forest could have the biggest influence.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Louise Hartley是英国微型森林项目的负责人，她解释说这个过程首先确定微型森林可能产生最大影响的区域。"
-        },
-        {
-          "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
-        },
-        {
-          "s": "What do we know about the Tiny Forest movement?",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "关于“微型森林”运动我们知道什么？"
-        },
-        {
-          "s": "What is special about the trees in a Tiny Forest?",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "微型森林中的树木有什么特别之处？"
-        },
-        {
-          "s": "It was so tiny that we had to leave our suitcases in the hallway.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它太小了，我们不得不把行李箱放在走廊里。"
-        },
-        {
-          "s": "37     Our building even had a tiny lift with a female voice that said, “Ouverture des portes,” in perfect French.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "37 我们的大楼甚至有一部小小的电梯，里面有个女声用完美的法语说“开门”。"
-        },
-        {
-          "s": "When the tiny creature arrived on January 31, she became the 40th black rhino to be born at the reserve.",
-          "src": "2021全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当这个小家伙1月31日到来时，它成为了保护区出生的第40头黑犀牛。"
-        },
-        {
-          "s": "Tiny pieces of glass were everywhere.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "细小的玻璃碎片到处都是。"
-        },
-        {
-          "s": "Molai grew up in a tiny village in India.",
-          "src": "2020全国新高考I卷·完型填空个",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "莫莱在印度一个偏僻的小村庄长大。"
-        },
-        {
-          "s": "The tiny shops made economic sense, according to Robert Kerr, a founder of LoveFone.",
-          "src": "2020江苏卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "据LoveFone创始人罗伯特·克尔说，这些小店在经济上是行得通的。"
-        },
-        {
-          "s": "She realized she looked like a child, with her tiny figure.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她意识到自己身材娇小，看起来像个孩子。"
-        },
-        {
-          "s": "Over time, the bags fall apart   6   countless tiny pieces, and fish cam accidentally eat some of them.",
-          "src": "2020北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随着时间的推移，这些袋子____6____破碎成无数小碎片，鱼可能会不小心吃到一些。"
-        },
-        {
-          "s": "How is NASA overcoming this very tiny big problem?",
-          "src": "2019全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "NASA是如何克服这个微小但重大的问题的？"
-        },
-        {
-          "s": "In 1870, when Dickens died, the world mourned him as its first professional writer and publisher, famous and beloved, who had led an explosion in both the publication of novels and their readership and whose characters — from Oliver Twist to Tiny Tim— were held up as moral touchstones.",
-          "src": "2018浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "1870年狄更斯去世时，世界哀悼这位首位职业作家和出版人，他声名显赫、深受爱戴，引领了小说出版与读者群的爆发式增长，其笔下人物——从奥利弗·崔斯特到小蒂姆——被视为道德试金石。"
-        },
-        {
-          "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "当我还是个小女孩时，我家搬到了一座大山脚下的一个小镇。一天放学后，在探索这座壮丽山林的绿色树林时，我差点摔倒在一组台阶上。这些台阶会通向哪里？好奇心占了上风，因为我知道天很快就要黑了。我开始攀登那些奇怪而神秘的台阶。"
-        },
-        {
-          "s": "Yes, there beneath the leafy top of one tiny carrot was her long-lost wedding ring.",
-          "src": "2017浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "是的，在一棵小胡萝卜绿叶覆盖的顶端下面，是她丢失已久的结婚戒指。"
-        },
-        {
-          "s": "I ordered a large vegetarian pizza, but it was tiny!",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我点了一份大份的素食披萨，但它好小！"
-        },
-        {
-          "s": "This tiny organism can survive temperatures from 150 °C to a below freezing -272 °C.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "这种微小的有机体可以从150°C到低于冻度的-272°C的温度中生存。"
-        },
-        {
-          "s": "The plant releases tiny amounts of chemicals from the leaves that are being eaten.",
-          "src": "外研社B4 U5",
-          "cat": "waiyan",
-          "t": "植物从被食用的叶子中释放出少量的化学物质。"
-        },
-        {
-          "s": "(Adaptation from “fHeiligenstadt Testament” by Ludwig van Beethoven) first choice of all time in question be crowded with come to exist adapt to a variety of tiny amounts of drive...",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "（改编自路德维希·范·贝多芬（ Ludwig van Beethoven ）的《海利根斯塔特遗嘱》（ fHeiligenstadt Testament ） ）有史以来的首选，都挤满了来适应各种微小的驱动力......"
-        },
-        {
-          "s": "My candle was almost burnt out when, by its tiny light, I saw the yellow eye of the creature open.",
-          "src": "外研社B6 U6",
-          "cat": "waiyan",
-          "t": "我的蜡烛快燃尽了，借着微弱的光，我看见那怪物黄色的眼睛睁开了。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
-    {
-      "en": "tiny forest",
-      "cn": "小森林",
-      "type": "名词短语",
-      "count": 5
-    },
-    {
-      "en": "tiny creature",
-      "cn": "极小生物",
-      "type": "形容词短语",
-      "count": 4
-    },
-    {
-      "en": "tiny creatures",
-      "cn": "微小生物",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "tiny amount",
-      "cn": "极小金额",
-      "type": "形容词短语",
-      "count": 2
-    }
-  ]
+  {
+   "en": "tiny creatures",
+   "cn": "微小生物",
+   "type": "名词短语",
+   "count": 2
+  },
+  {
+   "en": "tiny amount",
+   "cn": "极小金额",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
