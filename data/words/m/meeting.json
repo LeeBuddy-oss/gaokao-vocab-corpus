@@ -1,344 +1,338 @@
 {
-  "meta": {
-    "ph": "ˈmiːtɪŋ; NAmE ˈmiːtɪŋ",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈmiːtɪŋ; NAmE ˈmiːtɪŋ",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "an occasion when people come together to discuss or decide sth 会议；集会",
+   "ex": [
+    {
+     "s": "Allow them to lead discussions and meetings to develop their communication skills.",
+     "src": "2025浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "让他们主导讨论和会议，以培养他们的沟通技能。"
+    },
+    {
+     "s": "Norman Stienwand, who farms in that area, has been addressing public meetings on this issue for years.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "在那个地区务农的诺曼·斯泰因万德，多年来一直在公开会议上谈这个问题。"
+    },
+    {
+     "s": "You can also find students on the class discussion board to organize a study group, or schedule in-person meetings with your professor to discuss course concepts.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "你也可以在课堂讨论板上找同学组建学习小组，或约教授当面讨论课程概念。"
+    },
+    {
+     "s": "•18 weekly one-hour pair meetings",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "•18次每周一小时的双人见面会"
+    },
+    {
+     "s": "•Weekly progress reports for all pair meetings",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "•每次双人见面会提交周进度报告"
+    },
+    {
+     "s": "•At least three pair-teacher meetings",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "•至少三次双人-教师见面会"
+    },
+    {
+     "s": "chair daily meetingsB. evaluate the exchange",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "主持每日会议B. 评估交换效果"
+    },
+    {
+     "s": "development testsB. participate in pair meetings",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "发展测试 B. 参加双人见面会"
+    },
+    {
+     "s": "After that, feeling the need to   52   further, I decided to drop in on one of ASL club’s meetings.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在那之后，感到有必要进一步____52____，我决定顺便去参加美国手语俱乐部的一次聚会。"
+    },
+    {
+     "s": "I then made it a point to   55   those meetings and learn all I could.",
+     "src": "2017全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "然后我特意去参加那些聚会，尽我所能地学习。"
+    },
+    {
+     "s": "He’s chairing a meeting.",
+     "src": "2023全国甲卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他正在主持会议。"
+    },
+    {
+     "s": "He’s chairing a meeting.",
+     "src": "2023全国乙卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他正在主持会议。"
+    },
+    {
+     "s": "To call off a meeting.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为了取消一场会议。"
+    },
+    {
+     "s": "To call off a meeting.",
+     "src": "2020全国卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "为了取消一场会议。"
+    },
+    {
+     "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
+    },
+    {
+     "s": "Chairing a meeting.",
+     "src": "2019全国I卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "主持一场会议。"
+    },
+    {
+     "s": "Chairing a meeting.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "主持一场会议。"
+    },
+    {
+     "s": "Once upon a time, all the animals were called to an early morning meeting.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "从前，所有的动物都被召集参加一个清晨的会议。"
+    },
+    {
+     "s": "What time does Dave's meeting start?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "戴夫的会议几点开始？"
+    },
+    {
+     "s": "Last week some city officials suggested the city might be interested in turning the old theater into a museum and public meeting place.",
+     "src": "2017全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "上周，一些市政官员表示，该市可能有兴趣把这座老剧院改造成博物馆和公共集会场所。"
+    },
+    {
+     "s": "To put off a meeting.",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "推迟一个会议。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "the people at a meeting （统称）与会者",
+   "ex": [
     {
-      "def": "an occasion when people come together to discuss or decide sth 会议；集会",
-      "ex": [
-        {
-          "s": "Allow them to lead discussions and meetings to develop their communication skills.",
-          "src": "2025浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "让他们主导讨论和会议，以培养他们的沟通技能。"
-        },
-        {
-          "s": "Norman Stienwand, who farms in that area, has been addressing public meetings on this issue for years.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "在那个地区务农的诺曼·斯泰因万德，多年来一直在公开会议上谈这个问题。"
-        },
-        {
-          "s": "You can also find students on the class discussion board to organize a study group, or schedule in-person meetings with your professor to discuss course concepts.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "你也可以在课堂讨论板上找同学组建学习小组，或约教授当面讨论课程概念。"
-        },
-        {
-          "s": "•18 weekly one-hour pair meetings",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "•18次每周一小时的双人见面会"
-        },
-        {
-          "s": "•Weekly progress reports for all pair meetings",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "•每次双人见面会提交周进度报告"
-        },
-        {
-          "s": "•At least three pair-teacher meetings",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "•至少三次双人-教师见面会"
-        },
-        {
-          "s": "chair daily meetingsB. evaluate the exchange",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "主持每日会议B. 评估交换效果"
-        },
-        {
-          "s": "development testsB. participate in pair meetings",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "发展测试 B. 参加双人见面会"
-        },
-        {
-          "s": "After that, feeling the need to   52   further, I decided to drop in on one of ASL club’s meetings.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在那之后，感到有必要进一步____52____，我决定顺便去参加美国手语俱乐部的一次聚会。"
-        },
-        {
-          "s": "I then made it a point to   55   those meetings and learn all I could.",
-          "src": "2017全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "然后我特意去参加那些聚会，尽我所能地学习。"
-        },
-        {
-          "s": "He’s chairing a meeting.",
-          "src": "2023全国甲卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他正在主持会议。"
-        },
-        {
-          "s": "He’s chairing a meeting.",
-          "src": "2023全国乙卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他正在主持会议。"
-        },
-        {
-          "s": "To call off a meeting.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了取消一场会议。"
-        },
-        {
-          "s": "To call off a meeting.",
-          "src": "2020全国卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "为了取消一场会议。"
-        },
-        {
-          "s": "I don't know what made me decide to try some new activities at the new school, but one day I chanced to show up for an after-school meeting of the Science Olympiad team.",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我不知道是什么让我决定在新学校尝试一些新活动，但有一天我碰巧去参加了科学奥林匹克队的一次课后会议。"
-        },
-        {
-          "s": "Chairing a meeting.",
-          "src": "2019全国I卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "主持一场会议。"
-        },
-        {
-          "s": "Chairing a meeting.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "主持一场会议。"
-        },
-        {
-          "s": "Once upon a time, all the animals were called to an early morning meeting.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "从前，所有的动物都被召集参加一个清晨的会议。"
-        },
-        {
-          "s": "What time does Dave's meeting start?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "戴夫的会议几点开始？"
-        },
-        {
-          "s": "Last week some city officials suggested the city might be interested in turning the old theater into a museum and public meeting place.",
-          "src": "2017全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "上周，一些市政官员表示，该市可能有兴趣把这座老剧院改造成博物馆和公共集会场所。"
-        },
-        {
-          "s": "To put off a meeting.",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "推迟一个会议。"
-        }
-      ]
+     "s": "A family member is returning from a year-long trip, and you are meeting her at the airport.",
+     "src": "2026北京卷·语法填空",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "一位家人结束长达一年的旅行归来，你正在机场接她。"
     },
     {
-      "def": "the people at a meeting （统称）与会者",
-      "ex": [
-        {
-          "s": "A family member is returning from a year-long trip, and you are meeting her at the airport.",
-          "src": "2026北京卷·语法填空",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "一位家人结束长达一年的旅行归来，你正在机场接她。"
-        },
-        {
-          "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
-          "src": "2024北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
-        },
-        {
-          "s": "Meeting Jim in the park.",
-          "src": "2023卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在公园见吉姆。"
-        },
-        {
-          "s": "This place is good for a candlelit dinner or a work meeting with colleagues who appreciate fine food.",
-          "src": "2023全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这个地方适合烛光晚餐，也适合与懂得欣赏美食的同事举行工作聚餐。"
-        },
-        {
-          "s": "Your first meeting may be a little awkward.",
-          "src": "2022全国新高考I卷·七选五",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你们的第一次见面可能有点尴尬。"
-        },
-        {
-          "s": "Meeting animals in Antarctica.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在南极洲遇见动物。"
-        },
-        {
-          "s": "What time will the meeting probably be over?",
-          "src": "2022浙江卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "会议大概什么时候结束？"
-        },
-        {
-          "s": "The result—an approach known as systems thinking—is now seen as essential in meeting global challenges.",
-          "src": "2022北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "结果——一种被称为系统思维的方法——现在被视为应对全球挑战的关键。"
-        },
-        {
-          "s": "enjoy meeting funny people",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "享受结识有趣的人"
-        },
-        {
-          "s": "What time does Dave's meeting star?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Helen打算做什么？"
-        },
-        {
-          "s": "What time does Dave's meeting star?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Helen打算做什么？"
-        },
-        {
-          "s": "“Yes, sir,” she replied, her dark eyes meeting his.",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "“是的，先生，”她答道，乌黑的眼睛与他对视。"
-        },
-        {
-          "s": "For many of them, it’s a way of meeting people and having a social life.”",
-          "src": "2018全国III卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "“对她们许多人来说，这是结识人、拥有社交生活的方式。”"
-        },
-        {
-          "s": "Teresa    56    a photo of the chance meeting on a social networking website    57    by the touching words: “What a    58    this young man was to our family!",
-          "src": "2018全国III卷·完形填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "特蕾莎把这次偶遇的照片___56___到社交网站，___57___感人的文字：“这年轻人对我们家是多么大的___58___！"
-        },
-        {
-          "s": "Scene 1: Bob dining with Jimmy at “Big Joe” Brady’s twenty years ago Scene 2: Bob making his fortune in the West Scene 3: Bob and Jimmy meeting again after twenty years The story is about two friends named Bob and Jimmy.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "场景1：二十年前鲍勃和吉米在＂大乔＂布雷迪餐厅吃饭 场景2：鲍勃在西部发家致富 场景3：二十年后鲍勃和吉米重逢 故事是关于叫鲍勃和吉米的两个朋友。"
-        },
-        {
-          "s": "My mum says I need to have three healthy meals a day, but I’m too busy studying and meeting friends!",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "我妈妈说我需要每天吃三顿健康的饭，但我太忙于学习和见朋友了！"
-        },
-        {
-          "s": "You love trying new things, experiencing new places and meeting new people.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "你喜欢尝试新鲜事物、体验新的地方和结识新朋友。"
-        },
-        {
-          "s": "Please let everyone at the meeting know how sorry I am.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "请让在座的每个人知道我有多抱歉。"
-        },
-        {
-          "s": "These specialists could work at the office until ten each night, then look back and realize they would have loved to have gone home and enjoyed the sweetness of their family and friends, or traveled to exciting places, meeting interesting people.",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这些专家可能在办公室工作到每天晚上十点然后回头看才发现他们本可以早点回家享受家人朋友的甜蜜或者去激动人心的地方旅行结识有趣的人。"
-        }
-      ]
+     "s": "Students record short entries after each partner meeting noting the language skills practised and the topics discussed.",
+     "src": "2024北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "学生在每次搭档见面后记录简短条目，注明练习的语言技能和讨论的话题。"
     },
     {
-      "def": "a situation in which two or more people meet together, because they have arranged it or by chance 会面；集会；集合",
-      "ex": [
-        {
-          "s": "arranging meetings with government officials",
-          "src": "2020天津6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "安排与政府官员会面"
-        },
-        {
-          "s": "Afterwards, she and her father secured their first business meeting with a supermarket owner, who finally agreed to sell  Moore's product-Cancandy.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "之后，她和父亲争取到与一位超市老板的首次商务会面，对方最终同意销售摩尔的产品Cancandy。"
-        },
-        {
-          "s": "Eventually, I got up in the dark and drove to the meeting spot.",
-          "src": "2023天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "最终，我在黑暗中起床开车去了集合地点。"
-        }
-      ]
+     "s": "Meeting Jim in the park.",
+     "src": "2023卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在公园见吉姆。"
     },
     {
-      "def": "a sports event or set of races, especially for horses 运动会；（尤指）赛马",
-      "ex": []
+     "s": "This place is good for a candlelit dinner or a work meeting with colleagues who appreciate fine food.",
+     "src": "2023全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这个地方适合烛光晚餐，也适合与懂得欣赏美食的同事举行工作聚餐。"
+    },
+    {
+     "s": "Your first meeting may be a little awkward.",
+     "src": "2022全国新高考I卷·七选五",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "你们的第一次见面可能有点尴尬。"
+    },
+    {
+     "s": "Meeting animals in Antarctica.",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在南极洲遇见动物。"
+    },
+    {
+     "s": "What time will the meeting probably be over?",
+     "src": "2022浙江卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "会议大概什么时候结束？"
+    },
+    {
+     "s": "The result—an approach known as systems thinking—is now seen as essential in meeting global challenges.",
+     "src": "2022北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "结果——一种被称为系统思维的方法——现在被视为应对全球挑战的关键。"
+    },
+    {
+     "s": "enjoy meeting funny people",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "享受结识有趣的人"
+    },
+    {
+     "s": "What time does Dave's meeting star?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Helen打算做什么？"
+    },
+    {
+     "s": "What time does Dave's meeting star?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Helen打算做什么？"
+    },
+    {
+     "s": "“Yes, sir,” she replied, her dark eyes meeting his.",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "“是的，先生，”她答道，乌黑的眼睛与他对视。"
+    },
+    {
+     "s": "For many of them, it’s a way of meeting people and having a social life.”",
+     "src": "2018全国III卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "“对她们许多人来说，这是结识人、拥有社交生活的方式。”"
+    },
+    {
+     "s": "Teresa    56    a photo of the chance meeting on a social networking website    57    by the touching words: “What a    58    this young man was to our family!",
+     "src": "2018全国III卷·完形填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "特蕾莎把这次偶遇的照片___56___到社交网站，___57___感人的文字：“这年轻人对我们家是多么大的___58___！"
+    },
+    {
+     "s": "Scene 1: Bob dining with Jimmy at “Big Joe” Brady’s twenty years ago Scene 2: Bob making his fortune in the West Scene 3: Bob and Jimmy meeting again after twenty years The story is about two friends named Bob and Jimmy.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "场景1：二十年前鲍勃和吉米在＂大乔＂布雷迪餐厅吃饭 场景2：鲍勃在西部发家致富 场景3：二十年后鲍勃和吉米重逢 故事是关于叫鲍勃和吉米的两个朋友。"
+    },
+    {
+     "s": "My mum says I need to have three healthy meals a day, but I’m too busy studying and meeting friends!",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "我妈妈说我需要每天吃三顿健康的饭，但我太忙于学习和见朋友了！"
+    },
+    {
+     "s": "You love trying new things, experiencing new places and meeting new people.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "你喜欢尝试新鲜事物、体验新的地方和结识新朋友。"
+    },
+    {
+     "s": "Please let everyone at the meeting know how sorry I am.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "请让在座的每个人知道我有多抱歉。"
+    },
+    {
+     "s": "These specialists could work at the office until ten each night, then look back and realize they would have loved to have gone home and enjoyed the sweetness of their family and friends, or traveled to exciting places, meeting interesting people.",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这些专家可能在办公室工作到每天晚上十点然后回头看才发现他们本可以早点回家享受家人朋友的甜蜜或者去激动人心的地方旅行结识有趣的人。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a situation in which two or more people meet together, because they have arranged it or by chance 会面；集会；集合",
+   "ex": [
     {
-      "en": "dave's meeting",
-      "cn": "会议",
-      "type": "名词短语",
-      "count": 3
+     "s": "arranging meetings with government officials",
+     "src": "2020天津6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "安排与政府官员会面"
     },
     {
-      "en": "pair meetings",
-      "cn": "配对会议",
-      "type": "名词短语",
-      "count": 3
+     "s": "Afterwards, she and her father secured their first business meeting with a supermarket owner, who finally agreed to sell  Moore's product-Cancandy.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "之后，她和父亲争取到与一位超市老板的首次商务会面，对方最终同意销售摩尔的产品Cancandy。"
     },
     {
-      "en": "meet star",
-      "cn": "相遇恒星",
-      "type": "短语",
-      "count": 2
+     "s": "Eventually, I got up in the dark and drove to the meeting spot.",
+     "src": "2023天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "最终，我在黑暗中起床开车去了集合地点。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a sports event or set of races, especially for horses 运动会；（尤指）赛马",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "pair meetings",
+   "cn": "配对会议",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "meet star",
+   "cn": "相遇恒星",
+   "type": "短语",
+   "count": 2
+  }
+ ]
 }
