@@ -1,308 +1,302 @@
 {
-  "meta": {
-    "ph": "ˈdɒktə(r); NAmE ˈdɑːktər",
-    "pos": "noun;noun;noun;noun;verb;verb;verb",
-    "stars": ""
+ "meta": {
+  "ph": "ˈdɒktə(r); NAmE ˈdɑːktər",
+  "pos": "noun;noun;noun;noun;verb;verb;verb",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a person who has been trained in medical science, whose job is to treat people who are ill/sick or injured 医生；大夫",
+   "ex": [
+    {
+     "s": "The hospital school is free of parents, doctors, and medical procedures.",
+     "src": "2025新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "这对我来说是一个恍然大悟的时刻，从此我再也不会以同样的方式看待结局了。"
+    },
+    {
+     "s": "“Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
+     "src": "2025新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "“医生从事医学工作，律师从事法律工作，您应该允许自己进行维持植物所需的实践。"
+    },
+    {
+     "s": "What does Detrinidad try to explain by mentioning doctors and lawyers?",
+     "src": "2025新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "Detrinidad通过提到医生和律师想解释什么？"
+    },
+    {
+     "s": "“I was very impressed by the doctors and their assistants working and living in such little space but still staying focused and very concerned,” says Ducke.",
+     "src": "2024全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "\"我对在这些狭小空间里工作和生活的医生及其助手印象深刻，他们仍然保持专注和高度关切，\"杜克说。"
+    },
+    {
+     "s": "It offers training for doctors.",
+     "src": "2024全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "它为医生提供培训。"
+    },
+    {
+     "s": "The boy is in the hospital and doctors say he'll be OK.",
+     "src": "2022全国新高考II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这个男孩在医院里，医生说他没事。"
+    },
+    {
+     "s": "It tells what doctors are doing to the patient.",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它告诉医生在对患者做什么。"
+    },
+    {
+     "s": "Developed by two doctors in the US Department of Agriculture, it’s an excellent water collector.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "而且由于回收钢铁的过程比制造新钢铁污染更少，我们还取得了以下显著的节约：能源使用——47%至74%；空气污染——85%；水污染——35%；用水量——40%。"
+    },
+    {
+     "s": "A doctor tells me people who lives the longest are dancers and cyclists.",
+     "src": "2022全国乙卷·短文改错",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一位医生告诉我，最长寿的人是舞蹈家和骑行者。"
+    },
+    {
+     "s": "The ability to accurately understand how others are feeling may be used by a doctor to find how best to help her patients, while a cheater might use it to control potential victims.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "准确理解他人感受的能力，医生可以用来找到最好地帮助病人的方法，而骗子可能用它来控制潜在受害者。"
+    },
+    {
+     "s": "Why does the author mention \"doctor\" and \"cheater\" in paragraph 2?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作者为什么在第2段提到“医生”和“骗子（cheater）”？"
+    },
+    {
+     "s": "Talking freely with your doctor can make you feel better and gives your doctor the information she or he needs to give you the best care.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "与你的医生畅所欲言能让你感觉更好，也能让你的医生得到他/她所需的信息，从而给你最好的治疗。"
+    },
+    {
+     "s": "Your medical history is a list of your illnesses, treatments, what the doctors told you to do, and anything else you think your doctor should know.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你的病史是一份清单，包括你的疾病、治疗、医生嘱咐你做的事，以及你认为医生应该知道的任何其他事项。"
+    },
+    {
+     "s": "Do not be afraid to ask your doctor any questions you have.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "不要害怕向你的医生提出你的任何问题。"
+    },
+    {
+     "s": "If you don't understand the answer to a question, ask the doctor to explain it again until you do understand.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果你不理解某个问题的答案，请医生再解释一遍，直到你真正理解为止。"
+    },
+    {
+     "s": "Here are some tips for talking with your doctor.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这里有一些与你的医生交谈的建议。"
+    },
+    {
+     "s": "You can talk to another doctor if the treatments don't work.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果治疗无效，你可以去看另一位医生。"
+    },
+    {
+     "s": "Before your doctor's visit, keep notes on how you are feeling.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "记住，你的医生和其他护理人员都是站在你这边的。"
+    },
+    {
+     "s": "Remember, your doctor and other caregivers are on your side.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "带上你的病历，包括你当前用药的清单。"
+    },
+    {
+     "s": "Writing down what the doctor says will help you remember important information.",
+     "src": "2020全国新高考II卷·Talking with your doctor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "把医生说的话写下来会帮助你记住重要信息。"
+    },
+    {
+     "s": "Bob, the doctor says I've only got three months.",
+     "src": "外研社B1 U4",
+     "cat": "waiyan",
+     "t": "Bob，医生说我只有三个月了。"
+    },
+    {
+     "s": "Ellie 24 Junior doctor (1 picture) There’s not enough room to swing a cat in my small apartment, so I don’t cook very often.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "Ellie 24初级医生（ 1张照片）我的小公寓没有足够的空间荡猫，所以我不经常做饭。"
+    },
+    {
+     "s": "I only joined my local athletics club because my doctor told me that in my particular case exercise could improve how my lungs work.",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "我之所以加入本地田径俱乐部，完全是因为我的医生告诉我，就我而言，运动可以改善我的肺功能。"
+    },
+    {
+     "s": "As a doctor, I know I had better change the way I eat, but I just don’t have the time or the energy right now.",
+     "src": "外研社B2 U1",
+     "cat": "waiyan",
+     "t": "作为一名医生，我知道我最好改变我的饮食方式，但我现在就是没有时间也没有精力。"
+    },
+    {
+     "s": "That is until I put on my curly rainbow wig, big red nose, and add my name badge \"Doctor Larry Laugh-Out-Loud\".",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "直到我戴上卷曲的彩虹色假发、大红鼻子，并加上我的名牌“Larry Laugh-Out-Loud医生”，情况才有所改变。"
+    },
+    {
+     "s": "At the school clinic, a doctor, with a serious expression on his face, handed me a medical report.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "在学校诊所，一位表情严肃的医生递给我一份体检报告。"
+    },
+    {
+     "s": "Struck by the doctor’s warning, I knew I had to make a change.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "被医生的警告触动，我知道自己必须做出改变。"
+    },
+    {
+     "s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.",
+     "src": "2024全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。"
+    },
+    {
+     "s": "Doctors see up to 150 patients every day.",
+     "src": "2024全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "医生每天最多接诊150名病人。"
+    },
+    {
+     "s": "He longed to be a doctor.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他渴望成为一名医生。"
+    },
+    {
+     "s": "She's a medical doctor.",
+     "src": "2023浙江卷",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她是一名医生。"
+    },
+    {
+     "s": "Unless I have to be out of town, each week I take my mother to do her   36   and visit the doctor, providing   37   and transportation.",
+     "src": "2021浙江6月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "除非我必须出城否则每周我都会带母亲去   36   并看医生提供   37   和交通服务。"
+    },
+    {
+     "s": "According to the author, a superior doctor is one who       .",
+     "src": "2021天津3月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "根据作者，一位卓越的医生是那种___。"
+    },
+    {
+     "s": "When I studied chemistry high school, I reconsidered mg goal or decided to be a doctor.",
+     "src": "2019全国II卷·第四部分  写作",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "当我在高中学生物化学时，我重新考虑了自己的目标，决定当医生。"
+    },
+    {
+     "s": "One was that I was amazing at the fact that a sick person could feel much more better after seeing a doctor.",
+     "src": "2019全国II卷·第四部分  写作",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "其中一点是，令我惊讶的是，一个病人看完医生后竟能感觉好得多这一事实。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a place where a doctor sees patients 诊所",
+   "ex": [
     {
-      "def": "a person who has been trained in medical science, whose job is to treat people who are ill/sick or injured 医生；大夫",
-      "ex": [
-        {
-          "s": "The hospital school is free of parents, doctors, and medical procedures.",
-          "src": "2025新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这对我来说是一个恍然大悟的时刻，从此我再也不会以同样的方式看待结局了。"
-        },
-        {
-          "s": "“Doctors practice medicine and lawyers practice law and you should allow yourself the practice it takes to sustain a plant.",
-          "src": "2025新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“医生从事医学工作，律师从事法律工作，您应该允许自己进行维持植物所需的实践。"
-        },
-        {
-          "s": "What does Detrinidad try to explain by mentioning doctors and lawyers?",
-          "src": "2025新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "Detrinidad通过提到医生和律师想解释什么？"
-        },
-        {
-          "s": "“I was very impressed by the doctors and their assistants working and living in such little space but still staying focused and very concerned,” says Ducke.",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "\"我对在这些狭小空间里工作和生活的医生及其助手印象深刻，他们仍然保持专注和高度关切，\"杜克说。"
-        },
-        {
-          "s": "It offers training for doctors.",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "它为医生提供培训。"
-        },
-        {
-          "s": "The boy is in the hospital and doctors say he'll be OK.",
-          "src": "2022全国新高考II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这个男孩在医院里，医生说他没事。"
-        },
-        {
-          "s": "It tells what doctors are doing to the patient.",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它告诉医生在对患者做什么。"
-        },
-        {
-          "s": "Developed by two doctors in the US Department of Agriculture, it’s an excellent water collector.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "而且由于回收钢铁的过程比制造新钢铁污染更少，我们还取得了以下显著的节约：能源使用——47%至74%；空气污染——85%；水污染——35%；用水量——40%。"
-        },
-        {
-          "s": "A doctor tells me people who lives the longest are dancers and cyclists.",
-          "src": "2022全国乙卷·短文改错",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一位医生告诉我，最长寿的人是舞蹈家和骑行者。"
-        },
-        {
-          "s": "The ability to accurately understand how others are feeling may be used by a doctor to find how best to help her patients, while a cheater might use it to control potential victims.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "准确理解他人感受的能力，医生可以用来找到最好地帮助病人的方法，而骗子可能用它来控制潜在受害者。"
-        },
-        {
-          "s": "Why does the author mention \"doctor\" and \"cheater\" in paragraph 2?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作者为什么在第2段提到“医生”和“骗子（cheater）”？"
-        },
-        {
-          "s": "Talking freely with your doctor can make you feel better and gives your doctor the information she or he needs to give you the best care.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "与你的医生畅所欲言能让你感觉更好，也能让你的医生得到他/她所需的信息，从而给你最好的治疗。"
-        },
-        {
-          "s": "Your medical history is a list of your illnesses, treatments, what the doctors told you to do, and anything else you think your doctor should know.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你的病史是一份清单，包括你的疾病、治疗、医生嘱咐你做的事，以及你认为医生应该知道的任何其他事项。"
-        },
-        {
-          "s": "Do not be afraid to ask your doctor any questions you have.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "不要害怕向你的医生提出你的任何问题。"
-        },
-        {
-          "s": "If you don't understand the answer to a question, ask the doctor to explain it again until you do understand.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你不理解某个问题的答案，请医生再解释一遍，直到你真正理解为止。"
-        },
-        {
-          "s": "Here are some tips for talking with your doctor.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这里有一些与你的医生交谈的建议。"
-        },
-        {
-          "s": "You can talk to another doctor if the treatments don't work.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果治疗无效，你可以去看另一位医生。"
-        },
-        {
-          "s": "Before your doctor's visit, keep notes on how you are feeling.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "记住，你的医生和其他护理人员都是站在你这边的。"
-        },
-        {
-          "s": "Remember, your doctor and other caregivers are on your side.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "带上你的病历，包括你当前用药的清单。"
-        },
-        {
-          "s": "Writing down what the doctor says will help you remember important information.",
-          "src": "2020全国新高考II卷·Talking with your doctor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "把医生说的话写下来会帮助你记住重要信息。"
-        },
-        {
-          "s": "Bob, the doctor says I've only got three months.",
-          "src": "外研社B1 U4",
-          "cat": "waiyan",
-          "t": "Bob，医生说我只有三个月了。"
-        },
-        {
-          "s": "Ellie 24 Junior doctor (1 picture) There’s not enough room to swing a cat in my small apartment, so I don’t cook very often.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "Ellie 24初级医生（ 1张照片）我的小公寓没有足够的空间荡猫，所以我不经常做饭。"
-        },
-        {
-          "s": "I only joined my local athletics club because my doctor told me that in my particular case exercise could improve how my lungs work.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "我之所以加入本地田径俱乐部，完全是因为我的医生告诉我，就我而言，运动可以改善我的肺功能。"
-        },
-        {
-          "s": "As a doctor, I know I had better change the way I eat, but I just don’t have the time or the energy right now.",
-          "src": "外研社B2 U1",
-          "cat": "waiyan",
-          "t": "作为一名医生，我知道我最好改变我的饮食方式，但我现在就是没有时间也没有精力。"
-        },
-        {
-          "s": "That is until I put on my curly rainbow wig, big red nose, and add my name badge \"Doctor Larry Laugh-Out-Loud\".",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "直到我戴上卷曲的彩虹色假发、大红鼻子，并加上我的名牌“Larry Laugh-Out-Loud医生”，情况才有所改变。"
-        },
-        {
-          "s": "At the school clinic, a doctor, with a serious expression on his face, handed me a medical report.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "在学校诊所，一位表情严肃的医生递给我一份体检报告。"
-        },
-        {
-          "s": "Struck by the doctor’s warning, I knew I had to make a change.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "被医生的警告触动，我知道自己必须做出改变。"
-        },
-        {
-          "s": "The government has struggled to come up with measures to address the problem, particularly in the poorer, rural areas east of the Volga River, including arranging doctor’s appointments by video chat and expanding financial aid programs to motivate doctors to practice medicine in remote parts of the country like Krasnoyarsk.",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "政府努力想出措施解决这个问题，尤其是在伏尔加河以东较贫困的农村地区，包括通过视频聊天安排医生预约，并扩大财政援助项目以激励医生到克拉斯诺亚尔斯克等偏远地区行医。"
-        },
-        {
-          "s": "Doctors see up to 150 patients every day.",
-          "src": "2024全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "医生每天最多接诊150名病人。"
-        },
-        {
-          "s": "He longed to be a doctor.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他渴望成为一名医生。"
-        },
-        {
-          "s": "She's a medical doctor.",
-          "src": "2023浙江卷",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她是一名医生。"
-        },
-        {
-          "s": "Unless I have to be out of town, each week I take my mother to do her   36   and visit the doctor, providing   37   and transportation.",
-          "src": "2021浙江6月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "除非我必须出城否则每周我都会带母亲去   36   并看医生提供   37   和交通服务。"
-        },
-        {
-          "s": "According to the author, a superior doctor is one who       .",
-          "src": "2021天津3月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "根据作者，一位卓越的医生是那种___。"
-        },
-        {
-          "s": "When I studied chemistry high school, I reconsidered mg goal or decided to be a doctor.",
-          "src": "2019全国II卷·第四部分  写作",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "当我在高中学生物化学时，我重新考虑了自己的目标，决定当医生。"
-        },
-        {
-          "s": "One was that I was amazing at the fact that a sick person could feel much more better after seeing a doctor.",
-          "src": "2019全国II卷·第四部分  写作",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "其中一点是，令我惊讶的是，一个病人看完医生后竟能感觉好得多这一事实。"
-        }
-      ]
-    },
-    {
-      "def": "a place where a doctor sees patients 诊所",
-      "ex": [
-        {
-          "s": "Doctor and patient.",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "医患关系。"
-        }
-      ]
-    },
-    {
-      "def": "a person who has received the highest university degree 博士",
-      "ex": []
-    },
-    {
-      "def": "（用作头衔或称呼）牙医",
-      "ex": []
-    },
-    {
-      "def": "to change sth in order to trick sb 篡改；伪造",
-      "ex": []
-    },
-    {
-      "def": "to add sth harmful to food or drink 将有害物掺入（食物或饮料）中",
-      "ex": [
-        {
-          "s": "This brief visit with Mother Nature cost me two days off from work, recovering from a bad case of sunburn and the doctor’s bill for my son’s food poisoning.",
-          "src": "2017全国I卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这次与大自然的短暂接触让我请了两天假，还因为严重的晒伤和儿子食物中毒的医药费而恢复了好一阵子。"
-        }
-      ]
-    },
-    {
-      "def": "to remove part of the sex organs of an animal 阉割（动物）",
-      "ex": []
+     "s": "Doctor and patient.",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "医患关系。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a person who has received the highest university degree 博士",
+   "ex": []
+  },
+  {
+   "def": "（用作头衔或称呼）牙医",
+   "ex": []
+  },
+  {
+   "def": "to change sth in order to trick sb 篡改；伪造",
+   "ex": []
+  },
+  {
+   "def": "to add sth harmful to food or drink 将有害物掺入（食物或饮料）中",
+   "ex": [
     {
-      "en": "doctor say",
-      "cn": "医生说",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "doctor tell",
-      "cn": "医生人",
-      "type": "名词短语",
-      "count": 3
+     "s": "This brief visit with Mother Nature cost me two days off from work, recovering from a bad case of sunburn and the doctor’s bill for my son’s food poisoning.",
+     "src": "2017全国I卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这次与大自然的短暂接触让我请了两天假，还因为严重的晒伤和儿子食物中毒的医药费而恢复了好一阵子。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "to remove part of the sex organs of an animal 阉割（动物）",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "doctor tell",
+   "cn": "医生人",
+   "type": "名词短语",
+   "count": 3
+  }
+ ]
 }
