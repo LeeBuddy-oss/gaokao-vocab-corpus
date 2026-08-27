@@ -1,253 +1,241 @@
 {
-  "meta": {
-    "ph": "rɒk; NAmE rɑːk",
-    "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;noun;noun;verb;verb;verb;verb;int",
-    "stars": ""
+ "meta": {
+  "ph": "rɒk; NAmE rɑːk",
+  "pos": "noun;noun;noun;noun;noun;noun;noun;noun;verb;verb;noun;noun;verb;verb;verb;verb;int",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "the hard solid material that forms part of the surface of the earth and some other planets 岩石",
+   "ex": [
+    {
+     "s": "A dirty stream, for example, often became clear after flowing through plants and along rocks where tiny creatures lived.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "例如，一条污浊的小溪在流经植物和栖息着微小生物的岩石后，常常变得清澈。"
+    },
+    {
+     "s": "After we found a crazy-looking road that hung over a bunch of rocks, we decided to photograph the scene at sunset.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "在我们发现一条悬在一堆岩石上方、看起来奇特的路之后，我们决定在日落时拍摄这一场景。"
+    },
+    {
+     "s": "It was so peaceful and quiet and the colors of the brown rocks, the deep green pine trees, and the late afternoon sun mixed to create a magic scene.",
+     "src": "2018浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一切如此宁静安详，棕岩、深绿松树和傍晚夕阳的色彩交融，构成一幅神奇的画面。"
+    },
+    {
+     "s": "The frozen solid ground actually contains bits of rock, mineral and organic matter, leaving spaces in between.",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "冻得坚硬的地面实际上包含岩石、矿物和有机物的微粒，在它们之间留下了空隙。"
+    },
+    {
+     "s": "They went crazy with the purple quartz rock.",
+     "src": "2023全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他们为紫色石英岩而疯狂。"
+    },
+    {
+     "s": "Next, cover the hole with the plastic sheet, securing the edges of the plastic with dirt and weighting the sheet’s center down with a rock.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "接着，用塑料布盖住坑，用土固定塑料边缘，并在布中央压一块石头。"
+    },
+    {
+     "s": "As a photographer I love the bright light and amazing colours: red rocks, green plants blue-green waters and blue skies.",
+     "src": "外研社B2 U5",
+     "cat": "waiyan",
+     "t": "作为一名摄影师，我喜爱明亮的光线和惊人的色彩：红色的岩石、绿色的植物、蓝绿色的水和蓝天。"
+    },
+    {
+     "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
+    },
+    {
+     "s": "After seven long and difficult days, they reached Elephant Island, an uninhabited island little more than a large rock in the sea.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "t": "经过七天漫长而艰难的航行，他们到达了大象岛，一个无人居住的岛屿，不过是海中的一块大岩石。"
+    },
+    {
+     "s": "But using cheese brine could help both cheese producers and cities save money, while keeping roads safe Cheese brine has salt in it, which, like the rock salt, helps lower water’s freezing point.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但使用奶酪盐水可以帮助奶酪生产者和城市省钱，同时保持道路安全。奶酪盐水里含有盐，与岩盐一样，有助于降低水的冰点。"
+    },
+    {
+     "s": "The bumps and rocks that lined the road under the basket caused the ball to bounce in all directions.",
+     "src": "外研社B4 U3",
+     "cat": "waiyan",
+     "t": "沿路排列在篮筐下的颠簸和岩石使球向各个方向弹跳。"
+    },
+    {
+     "s": "Many people suspect that all the rock salt used every winter is harming the environment.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "许多人怀疑每年使用的所有岩盐都在损害环境。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a mass of rock standing above the earth's surface or in the sea/ocean 石山；礁石",
+   "ex": [
     {
-      "def": "the hard solid material that forms part of the surface of the earth and some other planets 岩石",
-      "ex": [
-        {
-          "s": "A dirty stream, for example, often became clear after flowing through plants and along rocks where tiny creatures lived.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "例如，一条污浊的小溪在流经植物和栖息着微小生物的岩石后，常常变得清澈。"
-        },
-        {
-          "s": "After we found a crazy-looking road that hung over a bunch of rocks, we decided to photograph the scene at sunset.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "在我们发现一条悬在一堆岩石上方、看起来奇特的路之后，我们决定在日落时拍摄这一场景。"
-        },
-        {
-          "s": "It was so peaceful and quiet and the colors of the brown rocks, the deep green pine trees, and the late afternoon sun mixed to create a magic scene.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一切如此宁静安详，棕岩、深绿松树和傍晚夕阳的色彩交融，构成一幅神奇的画面。"
-        },
-        {
-          "s": "The frozen solid ground actually contains bits of rock, mineral and organic matter, leaving spaces in between.",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "冻得坚硬的地面实际上包含岩石、矿物和有机物的微粒，在它们之间留下了空隙。"
-        },
-        {
-          "s": "They went crazy with the purple quartz rock.",
-          "src": "2023全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他们为紫色石英岩而疯狂。"
-        },
-        {
-          "s": "Next, cover the hole with the plastic sheet, securing the edges of the plastic with dirt and weighting the sheet’s center down with a rock.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "接着，用塑料布盖住坑，用土固定塑料边缘，并在布中央压一块石头。"
-        },
-        {
-          "s": "As a photographer I love the bright light and amazing colours: red rocks, green plants blue-green waters and blue skies.",
-          "src": "外研社B2 U5",
-          "cat": "waiyan",
-          "t": "作为一名摄影师，我喜爱明亮的光线和惊人的色彩：红色的岩石、绿色的植物、蓝绿色的水和蓝天。"
-        },
-        {
-          "s": "Microplastics have become a common source of pollution across the Earth — they have settled in the deep sea and on the Himalayas, stuck inside volcanic rocks, filled the stomachs of seabirds and even fallen in fresh Antarctic snow.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "微塑料已成为全球普遍的污染源——它们沉积在深海和喜马拉雅山上，卡在火山岩中，填满海鸟的胃，甚至落在南极的新鲜积雪里。"
-        },
-        {
-          "s": "After seven long and difficult days, they reached Elephant Island, an uninhabited island little more than a large rock in the sea.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "t": "经过七天漫长而艰难的航行，他们到达了大象岛，一个无人居住的岛屿，不过是海中的一块大岩石。"
-        },
-        {
-          "s": "But using cheese brine could help both cheese producers and cities save money, while keeping roads safe Cheese brine has salt in it, which, like the rock salt, helps lower water’s freezing point.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但使用奶酪盐水可以帮助奶酪生产者和城市省钱，同时保持道路安全。奶酪盐水里含有盐，与岩盐一样，有助于降低水的冰点。"
-        },
-        {
-          "s": "The bumps and rocks that lined the road under the basket caused the ball to bounce in all directions.",
-          "src": "外研社B4 U3",
-          "cat": "waiyan",
-          "t": "沿路排列在篮筐下的颠簸和岩石使球向各个方向弹跳。"
-        },
-        {
-          "s": "Many people suspect that all the rock salt used every winter is harming the environment.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "许多人怀疑每年使用的所有岩盐都在损害环境。"
-        }
-      ]
+     "s": "Increasing sales of rock salt.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "减少水污染。"
     },
     {
-      "def": "a mass of rock standing above the earth's surface or in the sea/ocean 石山；礁石",
-      "ex": [
-        {
-          "s": "Increasing sales of rock salt.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "减少水污染。"
-        },
-        {
-          "s": "To construct a working still, use a sharp stick or rock to dig a hole four feet across and three feet deep.",
-          "src": "2017全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "要造一个可用的蒸馏器，用尖棍或石头挖一个直径四英尺、深三英尺的坑。"
-        }
-      ]
-    },
-    {
-      "def": "a large single piece of rock 巨石块；岩块",
-      "ex": []
-    },
-    {
-      "def": "a small stone 碎石；石子；小石块",
-      "ex": []
-    },
-    {
-      "def": "a type of loud popular music, developed in the 1960s, with a strong beat played on electric guitars and drums 摇滚乐",
-      "ex": [
-        {
-          "s": "Many rock bands were able to follow in the footsteps of the Beatles.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "许多摇滚乐队能够追随披头士的脚步。"
-        },
-        {
-          "s": "Rock music consists of many different styles.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "摇滚乐由许多不同的风格组成。"
-        },
-        {
-          "s": "Rock music developed in the 1950s and the early 1960s.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "摇滚音乐发展于20世纪50年代和60年代早期。"
-        }
-      ]
-    },
-    {
-      "def": "a type of hard sweet/candy made in long sticks, often sold in places where people go on holiday/vacation by the sea/ocean 棒棒糖",
-      "ex": []
-    },
-    {
-      "def": "a precious stone, especially a diamond 宝石；（尤指）钻石",
-      "ex": []
-    },
-    {
-      "def": "a person who is emotionally strong and who you can rely on 可信赖的人；靠山",
-      "ex": []
-    },
-    {
-      "def": "to have an orgasm 达到性高潮",
-      "ex": []
-    },
-    {
-      "def": "to do sth that you really enjoy 做自己真正喜欢的事；享受",
-      "ex": []
-    },
-    {
-      "def": "a relationship or business that is on the rocks is having difficulties and is likely to fail soon （关系或生意）陷于困境，濒临崩溃",
-      "ex": []
-    },
-    {
-      "def": "served with pieces of ice but no water 饮料",
-      "ex": []
-    },
-    {
-      "def": "to move gently backwards and forwards or from side to side; to make sb/sth move in this way （使）轻轻摇晃，缓缓摆动",
-      "ex": [
-        {
-          "s": "Normally, towns use rock salt to de-ice streets.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通常，城镇使用岩盐来为街道除冰。"
-        },
-        {
-          "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
-        },
-        {
-          "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
-          "src": "2022全国新高考I卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
-        },
-        {
-          "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
-          "src": "2022全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
-        }
-      ]
-    },
-    {
-      "def": "to shock sb/sth very much or make them afraid 惊吓；使震惊；使害怕",
-      "ex": []
-    },
-    {
-      "def": "to shake or to make sth shake violently （使）剧烈摇摆，猛烈晃动",
-      "ex": []
-    },
-    {
-      "def": "to dance to rock music 随摇滚乐跳舞；跳摇滚",
-      "ex": [
-        {
-          "s": "It presents live entertainment, including pop, rock, folk, jazz, musicals, dance, world music, films and classical music.",
-          "src": "2022全国甲卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它呈现现场娱乐表演，包括流行、摇滚、民谣、爵士、音乐剧、舞蹈、世界音乐、电影和古典音乐。"
-        }
-      ]
-    },
-    {
-      "def": "很好；棒极了",
-      "ex": []
+     "s": "To construct a working still, use a sharp stick or rock to dig a hole four feet across and three feet deep.",
+     "src": "2017全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "要造一个可用的蒸馏器，用尖棍或石头挖一个直径四英尺、深三英尺的坑。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "a large single piece of rock 巨石块；岩块",
+   "ex": []
+  },
+  {
+   "def": "a small stone 碎石；石子；小石块",
+   "ex": []
+  },
+  {
+   "def": "a type of loud popular music, developed in the 1960s, with a strong beat played on electric guitars and drums 摇滚乐",
+   "ex": [
     {
-      "en": "rock salt",
-      "cn": "岩盐",
-      "type": "动词短语",
-      "count": 6
+     "s": "Many rock bands were able to follow in the footsteps of the Beatles.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "许多摇滚乐队能够追随披头士的脚步。"
     },
     {
-      "en": "rock music",
-      "cn": "岩石音乐",
-      "type": "名词短语",
-      "count": 2
+     "s": "Rock music consists of many different styles.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "摇滚乐由许多不同的风格组成。"
     },
     {
-      "en": "rock from",
-      "cn": "岩石从",
-      "type": "名词短语",
-      "count": 2
+     "s": "Rock music developed in the 1950s and the early 1960s.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "摇滚音乐发展于20世纪50年代和60年代早期。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "a type of hard sweet/candy made in long sticks, often sold in places where people go on holiday/vacation by the sea/ocean 棒棒糖",
+   "ex": []
+  },
+  {
+   "def": "a precious stone, especially a diamond 宝石；（尤指）钻石",
+   "ex": []
+  },
+  {
+   "def": "a person who is emotionally strong and who you can rely on 可信赖的人；靠山",
+   "ex": []
+  },
+  {
+   "def": "to have an orgasm 达到性高潮",
+   "ex": []
+  },
+  {
+   "def": "to do sth that you really enjoy 做自己真正喜欢的事；享受",
+   "ex": []
+  },
+  {
+   "def": "a relationship or business that is on the rocks is having difficulties and is likely to fail soon （关系或生意）陷于困境，濒临崩溃",
+   "ex": []
+  },
+  {
+   "def": "served with pieces of ice but no water 饮料",
+   "ex": []
+  },
+  {
+   "def": "to move gently backwards and forwards or from side to side; to make sb/sth move in this way （使）轻轻摇晃，缓缓摆动",
+   "ex": [
+    {
+     "s": "Normally, towns use rock salt to de-ice streets.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通常，城镇使用岩盐来为街道除冰。"
+    },
+    {
+     "s": "By spreading cheese brine on streets before adding a layer of rock salt, Milwaukee may be able to cut its rock salt use by 30 percent.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "通过在添加一层岩盐之前先在街道上撒奶酪卤水，密尔沃基可能能将其岩盐使用量减少30%。"
+    },
+    {
+     "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
+     "src": "2022全国新高考I卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
+    },
+    {
+     "s": "After making sure that David could run if he wanted, I turned to find him coming towards me, his small body rocking from side to side as he swung his feet forward.",
+     "src": "2022全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "确保David想跑就能跑之后，我转身发现他正朝我走来，小小的身体前后摇晃着向前迈步。"
+    }
+   ]
+  },
+  {
+   "def": "to shock sb/sth very much or make them afraid 惊吓；使震惊；使害怕",
+   "ex": []
+  },
+  {
+   "def": "to shake or to make sth shake violently （使）剧烈摇摆，猛烈晃动",
+   "ex": []
+  },
+  {
+   "def": "to dance to rock music 随摇滚乐跳舞；跳摇滚",
+   "ex": [
+    {
+     "s": "It presents live entertainment, including pop, rock, folk, jazz, musicals, dance, world music, films and classical music.",
+     "src": "2022全国甲卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它呈现现场娱乐表演，包括流行、摇滚、民谣、爵士、音乐剧、舞蹈、世界音乐、电影和古典音乐。"
+    }
+   ]
+  },
+  {
+   "def": "很好；棒极了",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "rock music",
+   "cn": "岩石音乐",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
