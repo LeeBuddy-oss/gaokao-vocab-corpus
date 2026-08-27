@@ -1,115 +1,108 @@
 {
-  "meta": {
-    "ph": "ˈbɪljən; NAmE ˈbɪljən",
-    "pos": "n",
-    "stars": "★★"
+ "meta": {
+  "ph": "ˈbɪljən; NAmE ˈbɪljən",
+  "pos": "n",
+  "stars": "★★"
+ },
+ "defs": [
+  {
+   "def": "1 000 000 000; one thousand million 十亿",
+   "ex": [
+    {
+     "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。",
+     "year": 2024
+    },
+    {
+     "s": "It is calculated that European railways alone spend approximately 20 billion euros a year on maintenance, including sending maintenance staff, often at night, to inspect and repair the rail infrastructure.",
+     "src": "2022全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "t": "这可能是危险的工作，如果有无人机协助工作人员就可以避免这种危险。",
+     "year": 2022
+    },
+    {
+     "s": "The state produced 2.8 billion pounds of cheese last year!",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "t": "该州去年生产了28亿磅奶酪！",
+     "year": 2020
+    },
+    {
+     "s": "The population of China is about 1.39 billion.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "中国的人口大约是13.9亿。",
+     "year": ""
+    },
+    {
+     "s": "China has a population of about 1.39 billion.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "中国的人口大约是13.9亿。",
+     "year": ""
+    },
+    {
+     "s": "Student A: Turn to Page 83 Student B: Turn to Page 86 HURRICANE KATRINA AUGUST 23-31, 2005 It is one of the costliest natural disasters in US history, causing USD 108 billion in damage.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "t": "学生A：翻到第83页 学生B：翻到第86页 卡特里娜飓风 2005年8月23-31日 这是美国历史上损失最惨重的自然灾害之一，造成1080亿美元的损失。",
+     "year": ""
+    },
+    {
+     "s": "Soon, it was understood that the Sun was just one star among billions in the galaxy we call the Milky Way.",
+     "src": "外研社B7 U6",
+     "cat": "waiyan",
+     "t": "很快，人们明白了太阳只是我们称之为银河系的星系中数十亿颗恒星中的一颗。",
+     "year": ""
+    },
+    {
+     "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "t": "自1934年以来，超过5亿美元进入该基金，用于购买500多万英亩的栖息地。",
+     "year": 2021
+    },
+    {
+     "s": "In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records.",
+     "src": "2024新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "在赶在物种灭绝前记录地球物种的竞赛中，研究人员和公民科学家已收集了数十亿条记录。",
+     "year": 2024
+    },
+    {
+     "s": "We are the products of evolution, and not just evolution that occurred billions of years ago.",
+     "src": "2020全国III卷·阅读理解D",
+     "cat": "gaokao",
+     "t": "我们是进化的产物，而且不仅仅是数十亿年前发生的进化。",
+     "year": 2020
+    },
+    {
+     "s": "Recent studies estimate that between 400 million and 1 billion birds die from window impacts each year in the US alone.",
+     "src": "外研社B5 U6",
+     "cat": "waiyan",
+     "t": "最近的研究估计，仅在美国，每年就有 4 亿到 10 亿只鸟死于窗户撞击。",
+     "year": ""
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a very large amount 数以十亿计；大量",
+   "ex": [
     {
-      "def": "1 000 000 000; one thousand million 十亿",
-      "ex": [
-        {
-          "s": "Using a global dataset of 1.9 billion records of plants, insects, birds, and animals, Daru and his team tested how well these data represent actual global biodiversity patterns.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "利用包含19亿条植物、昆虫、鸟类和动物记录的全球数据集，Daru及其团队检验了这些数据在多大程度上代表了实际的全球生物多样性模式。",
-          "year": 2024
-        },
-        {
-          "s": "It is calculated that European railways alone spend approximately 20 billion euros a year on maintenance, including sending maintenance staff, often at night, to inspect and repair the rail infrastructure.",
-          "src": "2022全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "t": "这可能是危险的工作，如果有无人机协助工作人员就可以避免这种危险。",
-          "year": 2022
-        },
-        {
-          "s": "The state produced 2.8 billion pounds of cheese last year!",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "该州去年生产了28亿磅奶酪！",
-          "year": 2020
-        },
-        {
-          "s": "The population of China is about 1.39 billion.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "中国的人口大约是13.9亿。",
-          "year": ""
-        },
-        {
-          "s": "China has a population of about 1.39 billion.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "中国的人口大约是13.9亿。",
-          "year": ""
-        },
-        {
-          "s": "Student A: Turn to Page 83 Student B: Turn to Page 86 HURRICANE KATRINA AUGUST 23-31, 2005 It is one of the costliest natural disasters in US history, causing USD 108 billion in damage.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "学生A：翻到第83页 学生B：翻到第86页 卡特里娜飓风 2005年8月23-31日 这是美国历史上损失最惨重的自然灾害之一，造成1080亿美元的损失。",
-          "year": ""
-        },
-        {
-          "s": "Soon, it was understood that the Sun was just one star among billions in the galaxy we call the Milky Way.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "t": "很快，人们明白了太阳只是我们称之为银河系的星系中数十亿颗恒星中的一颗。",
-          "year": ""
-        },
-        {
-          "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "t": "自1934年以来，超过5亿美元进入该基金，用于购买500多万英亩的栖息地。",
-          "year": 2021
-        },
-        {
-          "s": "In the race to document the species on Earth before they go extinct, researchers and citizen scientists have collected billions of records.",
-          "src": "2024新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "在赶在物种灭绝前记录地球物种的竞赛中，研究人员和公民科学家已收集了数十亿条记录。",
-          "year": 2024
-        },
-        {
-          "s": "We are the products of evolution, and not just evolution that occurred billions of years ago.",
-          "src": "2020全国III卷·阅读理解D",
-          "cat": "gaokao",
-          "t": "我们是进化的产物，而且不仅仅是数十亿年前发生的进化。",
-          "year": 2020
-        },
-        {
-          "s": "Recent studies estimate that between 400 million and 1 billion birds die from window impacts each year in the US alone.",
-          "src": "外研社B5 U6",
-          "cat": "waiyan",
-          "t": "最近的研究估计，仅在美国，每年就有 4 亿到 10 亿只鸟死于窗户撞击。",
-          "year": ""
-        }
-      ]
-    },
-    {
-      "def": "a very large amount 数以十亿计；大量",
-      "ex": [
-        {
-          "s": "Americans use more than 100 billion thin film plastic bags every year.",
-          "src": "2018浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "t": "这些袋子在加州约90个城市被禁止使用，包括洛杉矶。",
-          "year": 2018
-        }
-      ]
-    },
-    {
-      "def": "1 000 000 000 000; one million million 一万亿",
-      "ex": []
+     "s": "Americans use more than 100 billion thin film plastic bags every year.",
+     "src": "2018浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "t": "这些袋子在加州约90个城市被禁止使用，包括洛杉矶。",
+     "year": 2018
     }
-  ],
-  "chunks": [
-    {
-      "en": "billion euros",
-      "cn": "十亿",
-      "type": "名词短语",
-      "count": 1
-    }
-  ]
+   ]
+  },
+  {
+   "def": "1 000 000 000 000; one million million 一万亿",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
