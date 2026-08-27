@@ -1,176 +1,169 @@
 {
-  "meta": {
-    "ph": "ˈtʃaɪldhʊd; NAmE ˈtʃaɪldhʊd",
-    "pos": "noun",
-    "stars": "★"
-  },
-  "defs": [
+ "meta": {
+  "ph": "ˈtʃaɪldhʊd; NAmE ˈtʃaɪldhʊd",
+  "pos": "noun",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "the period of sb's life when they are a child 童年；幼年；孩童时期",
+   "ex": [
     {
-      "def": "the period of sb's life when they are a child 童年；幼年；孩童时期",
-      "ex": [
-        {
-          "s": "“You don’t want to get fat” was on constant repeat throughout my childhood.",
-          "src": "2025浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "“你不想变胖”这句话在我整个童年里被不断重复。"
-        },
-        {
-          "s": "My childhood was all about the pursuits I had attempted most of which had been chosen by Mom.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "我的童年全是关于我尝试过的那些追求，其中大多数都是妈妈替我选的。"
-        },
-        {
-          "s": "Her childhood memory.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "鼓励学生回答问题"
-        },
-        {
-          "s": "Ever since her childhood, Ginni, now 71, has had a deep love for travel.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "从童年时起，现年71岁的金妮就对旅行有着深厚的热爱。"
-        },
-        {
-          "s": "A childhood dream.",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "一个童年梦想。"
-        },
-        {
-          "s": "Helping the next generation to have a healthy and active childhood is of great importance, and the industry is playing its part.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "帮助下一代拥有健康而活跃的童年至关重要，而该行业正在发挥其作用。"
-        },
-        {
-          "s": "It made her childhood dream come true.",
-          "src": "2022浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "让她的童年梦想成真。"
-        },
-        {
-          "s": "What childhood experience gave Sullivan the idea to make free toys for kids? (no more than 15 words)",
-          "src": "2022天津4月卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "是什么童年经历让沙利文产生了为孩子们制作免费玩具的想法？（不超过15个单词）"
-        },
-        {
-          "s": "Why did the speaker feel lonely in her childhood?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者为什么在童年时期感到孤独？"
-        },
-        {
-          "s": "To relive his childhood days",
-          "src": "2021全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为了重温他的童年时光"
-        },
-        {
-          "s": "Why did the speaker feel lonely in her childhood?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "为什么说话者在童年时感到孤独？"
-        },
-        {
-          "s": "Leslie Nielsen’s childhood was a difficult one, but he had one particular shining star in his life — his uncle, who was a well-known actor.",
-          "src": "2021浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "莱斯利·尼尔森的童年很艰难，但他生命中有一颗特别闪亮的星——他的叔叔，一位知名演员。"
-        },
-        {
-          "s": "Of all the stories of my early childhood, the one about a  36  is my mother’s favorite.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在我幼年的所有故事里，那个关于___36___的故事是母亲最爱的。"
-        },
-        {
-          "s": "her innocent childhood in the country",
-          "src": "2020天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "她在乡下的天真无邪的童年"
-        },
-        {
-          "s": "What did John enjoy doing in his childhood?",
-          "src": "2019全国II卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "约翰童年时喜欢做什么？"
-        },
-        {
-          "s": "Her childhood dream.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "她童年的梦想。"
-        },
-        {
-          "s": "childhood                         B. neighborhood",
-          "src": "2018上海卷·Section A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "童年 B. 社区"
-        },
-        {
-          "s": "I had an interesting childhood.",
-          "src": "2017浙江11月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我有一个有趣的童年。"
-        },
-        {
-          "s": "Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "安杰卢以她的七部自传系列最为知名，这些自传聚焦于她的童年和成年早期经历。"
-        },
-        {
-          "s": "Pablo Picasso □ childhood □ family and friends □ books and films □ other artists □ history □ travel □ nature □ social issues □ private feelings □ culture and traditions □ imagination ＜R＞ What inspires you?",
-          "src": "外研社B4 U4",
-          "cat": "waiyan",
-          "year": "",
-          "t": "巴勃罗·毕加索（ Pablo Picasso ）□童年□家庭和朋友□书籍和电影□其他艺术家□历史□旅行□自然□社会问题□私人感情□文化和传统□想象力＜ R ＞是什么启发了您？"
-        },
-        {
-          "s": "From childhood on my heart and soul have been full of kindness, but for six years now, I have been forced to remove myself from society, to live life alone.",
-          "src": "外研社B4 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "从童年开始，我的内心和灵魂就充满了善意，但六年来，我被迫脱离社会，独自生活。"
-        },
-        {
-          "s": "Li Ning 19, Shanghai, China I celebrated my 18th birthday just before I went to university.I expected to feel instantly different, as if I had closed the door on my childhood and stepped into a whole new adult world.",
-          "src": "外研社B5 U1",
-          "cat": "waiyan",
-          "year": "",
-          "t": "19岁的李宁，中国上海我在上大学前刚刚庆祝了我的18岁生日。我期待着立刻感觉不同，仿佛我已经关上了童年的大门，踏入了一个全新的成人世界。"
-        }
-      ]
-    }
-  ],
-  "chunks": [
+     "s": "“You don’t want to get fat” was on constant repeat throughout my childhood.",
+     "src": "2025浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "“你不想变胖”这句话在我整个童年里被不断重复。"
+    },
     {
-      "en": "childhood dream",
-      "cn": "童年梦",
-      "type": "名词短语",
-      "count": 3
+     "s": "My childhood was all about the pursuits I had attempted most of which had been chosen by Mom.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "我的童年全是关于我尝试过的那些追求，其中大多数都是妈妈替我选的。"
+    },
+    {
+     "s": "Her childhood memory.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "鼓励学生回答问题"
+    },
+    {
+     "s": "Ever since her childhood, Ginni, now 71, has had a deep love for travel.",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "从童年时起，现年71岁的金妮就对旅行有着深厚的热爱。"
+    },
+    {
+     "s": "A childhood dream.",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "一个童年梦想。"
+    },
+    {
+     "s": "Helping the next generation to have a healthy and active childhood is of great importance, and the industry is playing its part.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "帮助下一代拥有健康而活跃的童年至关重要，而该行业正在发挥其作用。"
+    },
+    {
+     "s": "It made her childhood dream come true.",
+     "src": "2022浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "让她的童年梦想成真。"
+    },
+    {
+     "s": "What childhood experience gave Sullivan the idea to make free toys for kids? (no more than 15 words)",
+     "src": "2022天津4月卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "是什么童年经历让沙利文产生了为孩子们制作免费玩具的想法？（不超过15个单词）"
+    },
+    {
+     "s": "Why did the speaker feel lonely in her childhood?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "演讲者为什么在童年时期感到孤独？"
+    },
+    {
+     "s": "To relive his childhood days",
+     "src": "2021全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "为了重温他的童年时光"
+    },
+    {
+     "s": "Why did the speaker feel lonely in her childhood?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "为什么说话者在童年时感到孤独？"
+    },
+    {
+     "s": "Leslie Nielsen’s childhood was a difficult one, but he had one particular shining star in his life — his uncle, who was a well-known actor.",
+     "src": "2021浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "莱斯利·尼尔森的童年很艰难，但他生命中有一颗特别闪亮的星——他的叔叔，一位知名演员。"
+    },
+    {
+     "s": "Of all the stories of my early childhood, the one about a  36  is my mother’s favorite.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在我幼年的所有故事里，那个关于___36___的故事是母亲最爱的。"
+    },
+    {
+     "s": "her innocent childhood in the country",
+     "src": "2020天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "她在乡下的天真无邪的童年"
+    },
+    {
+     "s": "What did John enjoy doing in his childhood?",
+     "src": "2019全国II卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "约翰童年时喜欢做什么？"
+    },
+    {
+     "s": "Her childhood dream.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "她童年的梦想。"
+    },
+    {
+     "s": "childhood                         B. neighborhood",
+     "src": "2018上海卷·Section A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "童年 B. 社区"
+    },
+    {
+     "s": "I had an interesting childhood.",
+     "src": "2017浙江11月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我有一个有趣的童年。"
+    },
+    {
+     "s": "Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "安杰卢以她的七部自传系列最为知名，这些自传聚焦于她的童年和成年早期经历。"
+    },
+    {
+     "s": "Pablo Picasso □ childhood □ family and friends □ books and films □ other artists □ history □ travel □ nature □ social issues □ private feelings □ culture and traditions □ imagination ＜R＞ What inspires you?",
+     "src": "外研社B4 U4",
+     "cat": "waiyan",
+     "year": "",
+     "t": "巴勃罗·毕加索（ Pablo Picasso ）□童年□家庭和朋友□书籍和电影□其他艺术家□历史□旅行□自然□社会问题□私人感情□文化和传统□想象力＜ R ＞是什么启发了您？"
+    },
+    {
+     "s": "From childhood on my heart and soul have been full of kindness, but for six years now, I have been forced to remove myself from society, to live life alone.",
+     "src": "外研社B4 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "从童年开始，我的内心和灵魂就充满了善意，但六年来，我被迫脱离社会，独自生活。"
+    },
+    {
+     "s": "Li Ning 19, Shanghai, China I celebrated my 18th birthday just before I went to university.I expected to feel instantly different, as if I had closed the door on my childhood and stepped into a whole new adult world.",
+     "src": "外研社B5 U1",
+     "cat": "waiyan",
+     "year": "",
+     "t": "19岁的李宁，中国上海我在上大学前刚刚庆祝了我的18岁生日。我期待着立刻感觉不同，仿佛我已经关上了童年的大门，踏入了一个全新的成人世界。"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
