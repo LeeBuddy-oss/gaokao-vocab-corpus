@@ -1,627 +1,615 @@
 {
-  "meta": {
-    "ph": "meɪn; NAmE meɪn",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "meɪn; NAmE meɪn",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a large pipe that carries water or gas to a building; a large cable that carries electricity to a building （通往建筑物的）主管道，总管，输电干线",
+   "ex": [
+    {
+     "s": "What is paragraph 3 mainly about?",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第3段主要讲什么？"
+    },
+    {
+     "s": "Which aspect of the study does paragraph 2 mainly talk about?",
+     "src": "2026浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "第2段主要谈了研究的哪个方面？"
+    },
+    {
+     "s": "What does the story mainly tell us?",
+     "src": "2026北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这个故事主要告诉了我们什么？"
+    },
+    {
+     "s": "What is paragraph 5 mainly about?",
+     "src": "2025新高考II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "第5段主要讲什么？"
+    },
+    {
+     "s": "What does the last paragraph mainly talk about?",
+     "src": "2025浙江1月卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "最后一段主要讲什么？"
+    },
+    {
+     "s": "What does the author mainly do in this passage?",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "作者在这篇文章中主要做了什么？"
+    },
+    {
+     "s": "What is the passage mainly about?",
+     "src": "2025北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What does paragraph 3 mainly talk about?",
+     "src": "2024新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第3段主要讲什么？"
+    },
+    {
+     "s": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks — like identifying the main idea in a reading passage — to ones that require mental abstraction — such as drawing inferences from a text.",
+     "src": "2024新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
+    },
+    {
+     "s": "What does the text mainly talk about?",
+     "src": "2024新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2024全国甲卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "Your motivation should be your main concern.",
+     "src": "2024浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "你的动机应该是你的主要考虑。"
+    },
+    {
+     "s": "What does Paragraph 1 mainly tell us?",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第1款主要告诉我们什么？"
+    },
+    {
+     "s": "What is the main idea of Paragraph 3? (no more than 10 words)",
+     "src": "2024天津3月卷·阅读Passage 1",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "第三段的主旨是什么？（不超过10个词）"
+    },
+    {
+     "s": "What if I didn’t get a main role?",
+     "src": "2024北京卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "如果我没有得到一个主要角色怎么办？"
+    },
+    {
+     "s": "My friends checked and came back shouting, “Amy, you got the main role! ” Sure enough, my name was at the top.",
+     "src": "2024北京卷",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我的朋友们查看后跑回来喊道：\"艾米，你拿到主角了！\"果然，我的名字在最上面。"
+    },
+    {
+     "s": "What is paragraph 2 of the text mainly about?",
+     "src": "2023新课标I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "文章第2段主要讲什么？"
+    },
+    {
+     "s": "To analyze the main features of the park.",
+     "src": "2023新课标II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "为了分析公园的主要特征。"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2023全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2023浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "The main finding was that the dogs approached the experimenter significantly sooner in the unable scenario than in the unwilling scenario.",
+     "src": "2023天津6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "主要发现是，在\"做不到\"情境中，狗接近实验者的速度明显比在\"不愿意\"情境中快得多。"
+    },
+    {
+     "s": "Your four major essays will combine to form the main part of the grade for this course: Essay 1 = 10%; Essay 2 = 15%; Essay 3 = 15%; Essay 4 = 20%.",
+     "src": "2022全国新高考I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "你的四篇主要作文将构成本课程成绩的主要部分：作文1 = 10%；作文2 = 15%；作文3 = 15%；作文4 = 20%。"
+    },
+    {
+     "s": "What is paragraph 5 mainly about?",
+     "src": "2022全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第5段主要讲什么？"
+    },
+    {
+     "s": "What is the speaker mainly talking about?",
+     "src": "2022全国甲卷",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2022全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "He lived mainly in the 19th century.",
+     "src": "2022浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "他主要生活在19世纪。"
+    },
+    {
+     "s": "My perfectionist tendencies were the main root of this: I wanted to be perfect at whatever I did, which obviously in life is not possible, but it consumed me.",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我的完美主义倾向是主要原因：我想在所做的任何事情上都做到完美，这在生活中显然是不可能的，但它吞噬了我。"
+    },
+    {
+     "s": "What was the main cause for Alice’s anxiety?",
+     "src": "2022北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "Alice焦虑的主要原因是什么？"
+    },
+    {
+     "s": "As an added bonus, it’s close to the main train station.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "作为额外的优点，它离主要火车站很近。"
+    },
+    {
+     "s": "Hotel and Hostel Des Artistes is located just a 10-minute walk from the central city station and it’s close to all of the city’s main attractions.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "艺术家酒店兼青旅距市中心车站仅10分钟步行路程，靠近城市所有主要景点。"
+    },
+    {
+     "s": "What does the last paragraph mainly talk about concerning emotional intelligence?",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "关于情商，最后一段主要讲了什么？"
+    },
+    {
+     "s": "The amazing food is mainly consumed by local farmers.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "E.这不是法国人比我们吃得少的唯一原因。"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2021全国甲卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "演讲者主要谈论的是什么？"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2021全国乙卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What does paragraph 2 mainly tell us about mobile phones?",
+     "src": "2021全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第2段主要告诉我们关于手机的什么？"
+    },
+    {
+     "s": "What is the last paragraph mainly about?",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "最后一段主要讲什么？"
+    },
+    {
+     "s": "What is the passage mainly about?",
+     "src": "2021天津3月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What is the main idea of Paragraph 1？",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "第1段的主旨是什么？"
+    },
+    {
+     "s": "What is the recent study mainly about? （    ）",
+     "src": "2020全国新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最近这项研究主要是关于什么的？（    ）"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2020卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2020全国新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What does Jeff mainly talk about？",
+     "src": "2020全国I卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Jeff主要谈论什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2020全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2020全国II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What does paragraph 2 mainly talk about?",
+     "src": "2020全国III卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第2段主要讲什么？"
+    },
+    {
+     "s": "Who mainly uses the ground floor in the Victorian house in Bristol?",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "谁主要使用布里斯托尔维多利亚式房子的一楼？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
+    },
+    {
+     "s": "What are the speakers mainly talking about?",
+     "src": "2020浙江卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the main idea of Para.2? (no more than 10 words)",
+     "src": "2020天津3月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第2段的主旨是什么？（不超过10个词）"
+    },
+    {
+     "s": "What does Paragraph 4 mainly talk about? （no more than 10 words）",
+     "src": "2020天津6月卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "第4段主要讲的是什么？（不超过10个词）"
+    },
+    {
+     "s": "But Smith was struck mainly by the fact that she didn't truly grasp any of the skills the author described.",
+     "src": "2020北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "尽管史密斯确实拿到了最好的沙子，但用传统方式做事不仅仅是在玩弄法国泥巴。"
+    },
+    {
+     "s": "What is the second paragraph mainly about？",
+     "src": "2019全国I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段主要讲的是什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2019全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What is the second paragraph mainly about?",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "第2段主要讲什么？"
+    },
+    {
+     "s": "What is the main responsibility of volunteer managers?",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "志愿者管理者的主要职责是什么？"
+    },
+    {
+     "s": "What are the first two paragraphs mainly about?",
+     "src": "2019北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "前两段主要讲什么？"
+    },
+    {
+     "s": "What is the main purpose of the passage？",
+     "src": "2019北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "这篇文章的主要目的是什么？"
+    },
+    {
+     "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
+     "src": "2018全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
+    },
+    {
+     "s": "What was the main reason for many people to leave Dawson?",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "许多人离开道森的主要原因是什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "How does the speaker mainly talk about?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "说话者主要怎么讲述？"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2018浙江卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "演讲者主要谈论的是什么？"
+    },
+    {
+     "s": "（1）What is the main duty of the fire prevention professionals？",
+     "src": "2018天津卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（1）消防预防专业人员的主要职责是什么？"
+    },
+    {
+     "s": "（4）What is the main factor that prevents 3D food printing from spreading widely？",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（4）阻止3D食品打印技术广泛传播的主要因素是什么？"
+    },
+    {
+     "s": "Summarize the main idea and the main point (s) of the passage in no more than 60 words.",
+     "src": "2018上海卷·Section C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "用不超过60个词概括这篇文章的主旨和要点。"
+    },
+    {
+     "s": "What does the story mainly tell us?",
+     "src": "2018北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "故事主要告诉我们什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2017全国II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2017全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What is the text mainly about?",
+     "src": "2017浙江6月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这篇文章主要讲什么？"
+    },
+    {
+     "s": "What is the main idea of the text?",
+     "src": "2017浙江11月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "这篇文章的主旨是什么？"
+    },
+    {
+     "s": "What does the speaker mainly talk about?",
+     "src": "2017重庆卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the first paragraph mainly about?",
+     "src": "2017重庆卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第一段主要讲什么？"
+    },
+    {
+     "s": "What are the two speakers mainly talking about?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "两位说话者主要在谈论什么？"
+    },
+    {
+     "s": "What is the main reason for the comeback of measles?",
+     "src": "2017北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "麻疹卷土重来的主要原因是什么？"
+    },
+    {
+     "s": "Paragraph 1 mainly tells us that artificial intelligence may         .",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "第1段主要告诉我们人工智能可能         。"
+    },
+    {
+     "s": "And of course, the main reason why they were so excited is that pandas are just so cute!",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "当然，他们之所以如此兴奋，最主要的原因还是熊猫实在太可爱了！"
+    },
+    {
+     "s": "In a debate, first listen out for the main topic.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "在辩论中，首先要听出主要话题。"
+    },
+    {
+     "s": "A topic sentence is a sentence that states or suggests the main idea or topic of a paragraph.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "主题句是陈述或暗示段落主旨或主题的句子。"
+    },
+    {
+     "s": "Fun facts: ·It is the main source of food for giant pandas.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "有趣的事实：它是大熊猫的主要食物来源。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a large pipe that carries waste/water and sewage (= human waste, etc.) away from a building （建筑物的）污水总管道",
+   "ex": [
     {
-      "def": "a large pipe that carries water or gas to a building; a large cable that carries electricity to a building （通往建筑物的）主管道，总管，输电干线",
-      "ex": [
-        {
-          "s": "What is paragraph 3 mainly about?",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第3段主要讲什么？"
-        },
-        {
-          "s": "Which aspect of the study does paragraph 2 mainly talk about?",
-          "src": "2026浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "第2段主要谈了研究的哪个方面？"
-        },
-        {
-          "s": "What does the story mainly tell us?",
-          "src": "2026北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这个故事主要告诉了我们什么？"
-        },
-        {
-          "s": "What is paragraph 5 mainly about?",
-          "src": "2025新高考II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "第5段主要讲什么？"
-        },
-        {
-          "s": "What does the last paragraph mainly talk about?",
-          "src": "2025浙江1月卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "最后一段主要讲什么？"
-        },
-        {
-          "s": "What does the author mainly do in this passage?",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "作者在这篇文章中主要做了什么？"
-        },
-        {
-          "s": "What is the passage mainly about?",
-          "src": "2025北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What does paragraph 3 mainly talk about?",
-          "src": "2024新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第3段主要讲什么？"
-        },
-        {
-          "s": "The benefits of print reading particularly shine through when experimenters move from posing simple tasks — like identifying the main idea in a reading passage — to ones that require mental abstraction — such as drawing inferences from a text.",
-          "src": "2024新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "当实验者从简单任务——比如找出一段阅读材料的主旨——转向需要心智抽象的任务——比如从文本中做推断——时，纸质阅读的优势尤为明显。"
-        },
-        {
-          "s": "What does the text mainly talk about?",
-          "src": "2024新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2024全国甲卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "Your motivation should be your main concern.",
-          "src": "2024浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "你的动机应该是你的主要考虑。"
-        },
-        {
-          "s": "What does Paragraph 1 mainly tell us?",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第1款主要告诉我们什么？"
-        },
-        {
-          "s": "What is the main idea of Paragraph 3? (no more than 10 words)",
-          "src": "2024天津3月卷·阅读Passage 1",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "第三段的主旨是什么？（不超过10个词）"
-        },
-        {
-          "s": "What if I didn’t get a main role?",
-          "src": "2024北京卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "如果我没有得到一个主要角色怎么办？"
-        },
-        {
-          "s": "My friends checked and came back shouting, “Amy, you got the main role! ” Sure enough, my name was at the top.",
-          "src": "2024北京卷",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我的朋友们查看后跑回来喊道：\"艾米，你拿到主角了！\"果然，我的名字在最上面。"
-        },
-        {
-          "s": "What is paragraph 2 of the text mainly about?",
-          "src": "2023新课标I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "文章第2段主要讲什么？"
-        },
-        {
-          "s": "To analyze the main features of the park.",
-          "src": "2023新课标II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "为了分析公园的主要特征。"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2023全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2023浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "The main finding was that the dogs approached the experimenter significantly sooner in the unable scenario than in the unwilling scenario.",
-          "src": "2023天津6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "主要发现是，在\"做不到\"情境中，狗接近实验者的速度明显比在\"不愿意\"情境中快得多。"
-        },
-        {
-          "s": "Your four major essays will combine to form the main part of the grade for this course: Essay 1 = 10%; Essay 2 = 15%; Essay 3 = 15%; Essay 4 = 20%.",
-          "src": "2022全国新高考I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "你的四篇主要作文将构成本课程成绩的主要部分：作文1 = 10%；作文2 = 15%；作文3 = 15%；作文4 = 20%。"
-        },
-        {
-          "s": "What is paragraph 5 mainly about?",
-          "src": "2022全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第5段主要讲什么？"
-        },
-        {
-          "s": "What is the speaker mainly talking about?",
-          "src": "2022全国甲卷",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2022全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "He lived mainly in the 19th century.",
-          "src": "2022浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "他主要生活在19世纪。"
-        },
-        {
-          "s": "My perfectionist tendencies were the main root of this: I wanted to be perfect at whatever I did, which obviously in life is not possible, but it consumed me.",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我的完美主义倾向是主要原因：我想在所做的任何事情上都做到完美，这在生活中显然是不可能的，但它吞噬了我。"
-        },
-        {
-          "s": "What was the main cause for Alice’s anxiety?",
-          "src": "2022北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "Alice焦虑的主要原因是什么？"
-        },
-        {
-          "s": "As an added bonus, it’s close to the main train station.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "作为额外的优点，它离主要火车站很近。"
-        },
-        {
-          "s": "Hotel and Hostel Des Artistes is located just a 10-minute walk from the central city station and it’s close to all of the city’s main attractions.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "艺术家酒店兼青旅距市中心车站仅10分钟步行路程，靠近城市所有主要景点。"
-        },
-        {
-          "s": "What does the last paragraph mainly talk about concerning emotional intelligence?",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "关于情商，最后一段主要讲了什么？"
-        },
-        {
-          "s": "The amazing food is mainly consumed by local farmers.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "E.这不是法国人比我们吃得少的唯一原因。"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2021全国甲卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "演讲者主要谈论的是什么？"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2021全国乙卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What does paragraph 2 mainly tell us about mobile phones?",
-          "src": "2021全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第2段主要告诉我们关于手机的什么？"
-        },
-        {
-          "s": "What is the last paragraph mainly about?",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最后一段主要讲什么？"
-        },
-        {
-          "s": "What is the passage mainly about?",
-          "src": "2021天津3月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What is the main idea of Paragraph 1？",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "第1段的主旨是什么？"
-        },
-        {
-          "s": "What is the recent study mainly about? （    ）",
-          "src": "2020全国新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最近这项研究主要是关于什么的？（    ）"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2020卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2020全国新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What does Jeff mainly talk about？",
-          "src": "2020全国I卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Jeff主要谈论什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2020全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2020全国II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What does paragraph 2 mainly talk about?",
-          "src": "2020全国III卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第2段主要讲什么？"
-        },
-        {
-          "s": "Who mainly uses the ground floor in the Victorian house in Bristol?",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "谁主要使用布里斯托尔维多利亚式房子的一楼？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "Then, on two separate morning visits to the scientists’ lab, each man walked for an hour at an average speed that, in theory should allow his body to rely mainly on fat for fuel.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "随后，在两次分别前往科学家实验室的早晨探访中，每名男子都以平均速度走了一小时，这个速度理论上应能让身体主要依靠脂肪供能。"
-        },
-        {
-          "s": "What are the speakers mainly talking about?",
-          "src": "2020浙江卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the main idea of Para.2? (no more than 10 words)",
-          "src": "2020天津3月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第2段的主旨是什么？（不超过10个词）"
-        },
-        {
-          "s": "What does Paragraph 4 mainly talk about? （no more than 10 words）",
-          "src": "2020天津6月卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "第4段主要讲的是什么？（不超过10个词）"
-        },
-        {
-          "s": "But Smith was struck mainly by the fact that she didn't truly grasp any of the skills the author described.",
-          "src": "2020北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "尽管史密斯确实拿到了最好的沙子，但用传统方式做事不仅仅是在玩弄法国泥巴。"
-        },
-        {
-          "s": "What is the second paragraph mainly about？",
-          "src": "2019全国I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段主要讲的是什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2019全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What is the second paragraph mainly about?",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "第2段主要讲什么？"
-        },
-        {
-          "s": "What is the main responsibility of volunteer managers?",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "志愿者管理者的主要职责是什么？"
-        },
-        {
-          "s": "What are the first two paragraphs mainly about?",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "前两段主要讲什么？"
-        },
-        {
-          "s": "What is the main purpose of the passage？",
-          "src": "2019北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "这篇文章的主要目的是什么？"
-        },
-        {
-          "s": "It does point out that many parents still limit electronic reading, mainly due to concerns about increased screen time.",
-          "src": "2018全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它确实指出，许多父母仍然限制电子阅读，主要是出于对屏幕时间增加的担忧。"
-        },
-        {
-          "s": "What was the main reason for many people to leave Dawson?",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "许多人离开道森的主要原因是什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "How does the speaker mainly talk about?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "说话者主要怎么讲述？"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2018浙江卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "演讲者主要谈论的是什么？"
-        },
-        {
-          "s": "（1）What is the main duty of the fire prevention professionals？",
-          "src": "2018天津卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（1）消防预防专业人员的主要职责是什么？"
-        },
-        {
-          "s": "（4）What is the main factor that prevents 3D food printing from spreading widely？",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（4）阻止3D食品打印技术广泛传播的主要因素是什么？"
-        },
-        {
-          "s": "Summarize the main idea and the main point (s) of the passage in no more than 60 words.",
-          "src": "2018上海卷·Section C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "用不超过60个词概括这篇文章的主旨和要点。"
-        },
-        {
-          "s": "What does the story mainly tell us?",
-          "src": "2018北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "故事主要告诉我们什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2017全国II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2017全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What is the text mainly about?",
-          "src": "2017浙江6月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这篇文章主要讲什么？"
-        },
-        {
-          "s": "What is the main idea of the text?",
-          "src": "2017浙江11月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "这篇文章的主旨是什么？"
-        },
-        {
-          "s": "What does the speaker mainly talk about?",
-          "src": "2017重庆卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the first paragraph mainly about?",
-          "src": "2017重庆卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第一段主要讲什么？"
-        },
-        {
-          "s": "What are the two speakers mainly talking about?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "两位说话者主要在谈论什么？"
-        },
-        {
-          "s": "What is the main reason for the comeback of measles?",
-          "src": "2017北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "麻疹卷土重来的主要原因是什么？"
-        },
-        {
-          "s": "Paragraph 1 mainly tells us that artificial intelligence may         .",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "第1段主要告诉我们人工智能可能         。"
-        },
-        {
-          "s": "And of course, the main reason why they were so excited is that pandas are just so cute!",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "当然，他们之所以如此兴奋，最主要的原因还是熊猫实在太可爱了！"
-        },
-        {
-          "s": "In a debate, first listen out for the main topic.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "在辩论中，首先要听出主要话题。"
-        },
-        {
-          "s": "A topic sentence is a sentence that states or suggests the main idea or topic of a paragraph.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "主题句是陈述或暗示段落主旨或主题的句子。"
-        },
-        {
-          "s": "Fun facts: ·It is the main source of food for giant pandas.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "有趣的事实：它是大熊猫的主要食物来源。"
-        }
-      ]
+     "s": "With these main reasons in mind, we can evaluate our level of anger throughout the day and prevent cases of outbursts by comprehending the reasons for our feelings.",
+     "src": "2018北京卷·Why Do We Get Angry?",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "咖啡馆位于1号楼楼上，每天营业直到太平洋科学中心关门前一小时。"
     },
     {
-      "def": "a large pipe that carries waste/water and sewage (= human waste, etc.) away from a building （建筑物的）污水总管道",
-      "ex": [
-        {
-          "s": "With these main reasons in mind, we can evaluate our level of anger throughout the day and prevent cases of outbursts by comprehending the reasons for our feelings.",
-          "src": "2018北京卷·Why Do We Get Angry?",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "咖啡馆位于1号楼楼上，每天营业直到太平洋科学中心关门前一小时。"
-        },
-        {
-          "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
-        }
-      ]
-    },
-    {
-      "def": "the place where the supply of water, gas or electricity to a building or an area starts; the system of providing gas, water and electricity to a building or of carrying it away from a building 水源；煤气源；电源；（水、煤气、电等的）供应系统；下水道系统",
-      "ex": [
-        {
-          "s": "What is the main purpose of the passage?",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这篇文章的主要目的是什么？"
-        }
-      ]
+     "s": "Sadly, human activity is the main reason why the number of monarch butterflies is falling.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "可悲的是，人类活动是帝王蝶数量下降的主要原因。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "the place where the supply of water, gas or electricity to a building or an area starts; the system of providing gas, water and electricity to a building or of carrying it away from a building 水源；煤气源；电源；（水、煤气、电等的）供应系统；下水道系统",
+   "ex": [
     {
-      "en": "main idea",
-      "cn": "主旨",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "the main idea",
-      "cn": "主旨",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "main reason",
-      "cn": "主要原因",
-      "type": "名词短语",
-      "count": 4
+     "s": "What is the main purpose of the passage?",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这篇文章的主要目的是什么？"
     }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "main reason",
+   "cn": "主要原因",
+   "type": "名词短语",
+   "count": 4
+  }
+ ]
 }
