@@ -1,154 +1,147 @@
 {
-  "meta": {
-    "ph": "keɪk; NAmE keɪk",
-    "pos": "noun;noun;verb;noun",
-    "stars": ""
+ "meta": {
+  "ph": "keɪk; NAmE keɪk",
+  "pos": "noun;noun;verb;noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a sweet food made from a mixture of flour, eggs, butter, sugar, etc. that is baked in an oven. Cakes are made in various shapes and sizes and are often decorated, for example with cream or icing. 糕饼；蛋糕",
+   "ex": [
+    {
+     "s": "Put off watching your favorite show until the weekend or wait 10 extra minutes before going for that cake.",
+     "src": "2023全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "将您最喜爱的节目推迟到周末观看，或额外等待10分钟后再去吃蛋糕。"
+    },
+    {
+     "s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.",
+     "src": "2021新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。"
+    },
+    {
+     "s": "Just quickly tun around and say, \"This cake is extremely delicious and you have to tell me all about it.”",
+     "src": "2021全国乙卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "只要迅速转过身说：“这蛋糕太好吃了，你一定得跟我说说它的来历。”"
+    },
+    {
+     "s": "“Let's make a cake for Dad!” I cried.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“我们给爸爸做个蛋糕吧！”我喊道。"
+    },
+    {
+     "s": "Candles on the cake!",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "蛋糕上的蜡烛！"
+    },
+    {
+     "s": "It fell and crashed beside the cake.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "它掉下来在蛋糕旁摔碎了。"
+    },
+    {
+     "s": "She sobbed loudly as I threw the cake away.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "当我把蛋糕扔掉时她大声哭泣。"
+    },
+    {
+     "s": "The birthday cake was ruined.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "生日蛋糕毁了。"
+    },
+    {
+     "s": "They couldn't afford a birthday cake.",
+     "src": "2021天津3月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他们买不起生日蛋糕。"
+    },
+    {
+     "s": "And while some food items, such as cakes and fruit can be eaten in more or less the same way that they are on Earth, water needs to be added to much of the food that is eaten in space.",
+     "src": "外研社B7 U6",
+     "cat": "waiyan",
+     "year": "",
+     "t": "尽管有些食物——如蛋糕和水果——在太空中的吃法与在地球上大致相同，但太空中吃的大部分食物都需要加水。"
+    },
+    {
+     "s": "It’s going to be a piece of cake!",
+     "src": "人教选必2 U3",
+     "cat": "renjiao",
+     "year": "",
+     "t": "那将是小菜一碟！"
+    },
+    {
+     "s": "It included cakes and sandwiches,andtea was It is believed that the custom began served to wash down the food.",
+     "src": "北师大B1 U1",
+     "cat": "beishida",
+     "year": "",
+     "t": "它包括蛋糕和三明治，并佐以茶水下咽食物。据信这一习俗始于……"
+    },
+    {
+     "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
+     "src": "2018天津卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
+    },
+    {
+     "s": "It also serves a variety of chef’s specials, beef with rice cakes, and more.",
+     "src": "2026新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "它还供应各种主厨特色菜、年糕炒牛肉等。"
+    },
+    {
+     "s": "Which restaurant can you go to for beef with rice cakes?",
+     "src": "2026新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "你可以去哪家餐厅吃牛肉炒年糕？"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a food mixture that is cooked in a round flat shape 饼状食物；饼",
+   "ex": [
     {
-      "def": "a sweet food made from a mixture of flour, eggs, butter, sugar, etc. that is baked in an oven. Cakes are made in various shapes and sizes and are often decorated, for example with cream or icing. 糕饼；蛋糕",
-      "ex": [
-        {
-          "s": "Put off watching your favorite show until the weekend or wait 10 extra minutes before going for that cake.",
-          "src": "2023全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "将您最喜爱的节目推迟到周末观看，或额外等待10分钟后再去吃蛋糕。"
-        },
-        {
-          "s": "Pack a bag cut a cake, guess which juice container holds the most liquid, and much more.",
-          "src": "2021新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "装一个袋子、切一块蛋糕、猜猜哪个果汁容器装的水最多，还有很多其他活动。"
-        },
-        {
-          "s": "Just quickly tun around and say, \"This cake is extremely delicious and you have to tell me all about it.”",
-          "src": "2021全国乙卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "只要迅速转过身说：“这蛋糕太好吃了，你一定得跟我说说它的来历。”"
-        },
-        {
-          "s": "“Let's make a cake for Dad!” I cried.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我们给爸爸做个蛋糕吧！”我喊道。"
-        },
-        {
-          "s": "Candles on the cake!",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "蛋糕上的蜡烛！"
-        },
-        {
-          "s": "It fell and crashed beside the cake.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "它掉下来在蛋糕旁摔碎了。"
-        },
-        {
-          "s": "She sobbed loudly as I threw the cake away.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "当我把蛋糕扔掉时她大声哭泣。"
-        },
-        {
-          "s": "The birthday cake was ruined.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "生日蛋糕毁了。"
-        },
-        {
-          "s": "They couldn't afford a birthday cake.",
-          "src": "2021天津3月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他们买不起生日蛋糕。"
-        },
-        {
-          "s": "And while some food items, such as cakes and fruit can be eaten in more or less the same way that they are on Earth, water needs to be added to much of the food that is eaten in space.",
-          "src": "外研社B7 U6",
-          "cat": "waiyan",
-          "year": "",
-          "t": "尽管有些食物——如蛋糕和水果——在太空中的吃法与在地球上大致相同，但太空中吃的大部分食物都需要加水。"
-        },
-        {
-          "s": "It’s going to be a piece of cake!",
-          "src": "人教选必2 U3",
-          "cat": "renjiao",
-          "year": "",
-          "t": "那将是小菜一碟！"
-        },
-        {
-          "s": "It included cakes and sandwiches,andtea was It is believed that the custom began served to wash down the food.",
-          "src": "北师大B1 U1",
-          "cat": "beishida",
-          "year": "",
-          "t": "它包括蛋糕和三明治，并佐以茶水下咽食物。据信这一习俗始于……"
-        },
-        {
-          "s": "With a 3D printer， a cook can print complicated chocolate sculptures and beautiful pieces for decoration on a wedding cake． Not everybody can do that﹣it takes years of experience， but a printer makes it easy． A restaurant  in Spain uses a Foodini to \"re﹣create forms and pieces\" of food that are \"exactly the same，\" freeing cooks to complete other tasks． In another restaurant， all of the dishes and desserts it serves are 3D﹣printed， rather than farm to table．",
-          "src": "2018天津卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "有了3D打印机，厨师能打印复杂的巧克力雕塑和婚礼蛋糕上漂亮的装饰件。不是人人都能做到——那需要多年经验，但打印机让它变得简单。西班牙一家餐厅用Foodini“重现”食物的“形状和部件”，做到“完全一致”，解放厨师去完成其他任务。另一家餐厅所有菜肴甜点都是3D打印的，而非从农场到餐桌。"
-        },
-        {
-          "s": "It also serves a variety of chef’s specials, beef with rice cakes, and more.",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "它还供应各种主厨特色菜、年糕炒牛肉等。"
-        },
-        {
-          "s": "Which restaurant can you go to for beef with rice cakes?",
-          "src": "2026新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "你可以去哪家餐厅吃牛肉炒年糕？"
-        }
-      ]
+     "s": "Commonly exchanged gifts include food such as fruit, sticky rice cakes, and homemade desserts.",
+     "src": "人教B3 U5",
+     "cat": "renjiao",
+     "year": "",
+     "t": "常见的交换礼物包括水果、糯米糕和自制甜点等食物。"
     },
     {
-      "def": "a food mixture that is cooked in a round flat shape 饼状食物；饼",
-      "ex": [
-        {
-          "s": "Commonly exchanged gifts include food such as fruit, sticky rice cakes, and homemade desserts.",
-          "src": "人教B3 U5",
-          "cat": "renjiao",
-          "year": "",
-          "t": "常见的交换礼物包括水果、糯米糕和自制甜点等食物。"
-        },
-        {
-          "s": "They are making moon cakes with bean paste.",
-          "src": "北师大B1 U3",
-          "cat": "beishida",
-          "year": "",
-          "t": "他们在做豆沙月饼。"
-        }
-      ]
-    },
-    {
-      "def": "to cover sth with a thick layer of sth soft that becomes hard when it dries （厚厚一层干后即变硬的软东西）覆盖",
-      "ex": []
-    },
-    {
-      "def": "if a substance cakes, it becomes hard when it dries （干后）结成硬块；胶凝",
-      "ex": []
+     "s": "They are making moon cakes with bean paste.",
+     "src": "北师大B1 U3",
+     "cat": "beishida",
+     "year": "",
+     "t": "他们在做豆沙月饼。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "rice cakes",
-      "cn": "米糕",
-      "type": "名词短语",
-      "count": 3
-    }
-  ]
+   ]
+  },
+  {
+   "def": "to cover sth with a thick layer of sth soft that becomes hard when it dries （厚厚一层干后即变硬的软东西）覆盖",
+   "ex": []
+  },
+  {
+   "def": "if a substance cakes, it becomes hard when it dries （干后）结成硬块；胶凝",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
