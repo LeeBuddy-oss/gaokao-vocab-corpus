@@ -1,319 +1,307 @@
 {
-  "meta": {
-    "ph": "ˈmɪljən; NAmE ˈmɪljən",
-    "pos": "n",
-    "stars": "★"
+ "meta": {
+  "ph": "ˈmɪljən; NAmE ˈmɪljən",
+  "pos": "n",
+  "stars": "★"
+ },
+ "defs": [
+  {
+   "def": "1 000 000 一百万",
+   "ex": [
+    {
+     "s": "In Australia we now have over twenty million cars for just over twenty-six million people, among the highest rate of car ownership in the world.",
+     "src": "2025新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在澳大利亚，我们现在有超过两千万辆汽车，对应着仅超过两千六百万的人口，汽车拥有率位居世界前列。"
+    },
+    {
+     "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
+     "src": "2024浙江1月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。"
+    },
+    {
+     "s": "With millions of people likely to take on DIY projects over that coming weeks, new research shows that more than half of people are planning to make the most of the long, warm summer days to get jobs done.",
+     "src": "2023全国甲卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "数以百万计的人可能在接下来的几周里动手做DIY项目，新的研究显示，超过一半的人打算利用漫长而温暖的夏日把活干完。"
+    },
+    {
+     "s": "In a world where nearly 800 million people a year go hungry, “food waste goes against the moral grain,” as Elizabeth Royte writes in this month’s cover story.",
+     "src": "2022全国新高考I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "在一个每年近8亿人挨饿的世界里，\"食物浪费违背道德准则，\"伊丽莎白·罗伊特在本月封面故事中写道。"
+    },
+    {
+     "s": "Drinks now contain 45 million fewer kilos of sugar as a result of manufacturers' efforts to avoid the charge, according to Treasury analysis.",
+     "src": "2022全国乙卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "据英国财政部分析，由于制造商们努力规避糖税，饮料中的糖含量如今减少了4500万公斤。"
+    },
+    {
+     "s": "“What’s new,” Johnson wrote, “is that millions of dollars are now potentially available to quantum computing researchers.”",
+     "src": "2022北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "\"新的变化是，\"Johnson写道，\"现在可能有数百万美元可用于量子计算研究人员。\""
+    },
+    {
+     "s": "I am one of the faces of Toronto that welcome millions of air travellers from all over the world.",
+     "src": "2022天津4月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "我是那张迎接来自世界各地数百万旅客的多伦多的面孔之一。"
+    },
+    {
+     "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "自1934年以来，超过5亿美元进入该基金，用于购买500多万英亩的栖息地。"
+    },
+    {
+     "s": "A British woman who won a S1 million prize after she was named the World's Best Teacher will use the cash to bring inspirational figures into UK schools.",
+     "src": "2021新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "一名英国女性在被评上世界最佳教师后赢得了100万美元奖金，她将用这笔钱把励志人物带进英国学校。"
+    },
+    {
+     "s": "You’ve heard that plastic is polluting the oceans—between 4.8 and 12.7 million tonnes enter ocean ecosystems every year.",
+     "src": "2021全国乙卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "你听说过塑料正在污染海洋——每年有480万到1270万吨进入海洋生态系统。"
+    },
+    {
+     "s": "On August 5, the number of postcards exchanged by members topped 31 million.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "8月5日会员之间交换的明信片数量超过了3100万张。"
+    },
+    {
+     "s": "Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea.",
+     "src": "2020全国新高考I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "于是有了这本书——《追逐大海：在中亚帝国的幽灵中迷失》，它讲述了一段从塔什干到卡拉卡尔帕克斯坦的公路旅行，在那里，数百万人的生活被大海缓慢干涸所摧毁。"
+    },
+    {
+     "s": "But our insisting it’s   45   a window has kept them from   46   millions of requests to open the door.",
+     "src": "2020全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但我们坚持说它___45___是一扇窗户，使他们免于___46___无数次要求开门。"
+    },
+    {
+     "s": "It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991.The total number of all multigenerational households in Britain is thought to be about 1.8 million.",
+     "src": "2020全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "据说，25-34岁的人中约20%和父母同住，而1991年这一比例是16%。英国所有多代同堂家庭的总数估计约为180万。"
+    },
+    {
+     "s": "Did you know that around 750 million people do not have clean water to drink?",
+     "src": "2020浙江1月卷·七选五",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你知道吗，全球约有 7.5 亿人喝不到干净的水？"
+    },
+    {
+     "s": "Lancom is a worldwide language learning app and a leader in the online language learning industry with millions of active subscribers.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Lancom是一款全球语言学习应用，也是在线语言学习行业的领导者，拥有数百万活跃订阅用户。"
+    },
+    {
+     "s": "Millions of learners have their own stories and their own reasons for learning a new language.",
+     "src": "2020北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "Lancom是唯一提供根据你的母语定制的课程的产品，基于你已经知道的语法和词汇构建。"
+    },
+    {
+     "s": "By the time she was 13，her company was worth millions of dollars with the invention of a super-sweet treat that could save kids' teeth，instead of destroying them.",
+     "src": "2019北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "到她13岁时，她发明了一种超级甜食，能够保护孩子的牙齿而不是损害它们，这使她的公司价值数百万美元。"
+    },
+    {
+     "s": "46    Companies spend millions hiring top business people.",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "46 公司花费数百万雇佣顶尖商业人才。"
+    },
+    {
+     "s": "Sports team owners spend millions of dollars attracting top talent",
+     "src": "2019北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "运动队老板花费数百万美元吸引顶尖人才"
+    },
+    {
+     "s": "Some language experts believe that 10,000 years ago, when the world had just five to ten million people, they spoke perhaps 12,000 languages between them.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一些语言专家认为，一万年前，当世界只有五百到一千万人时，他们之间可能讲着一万两千种语言。"
+    },
+    {
+     "s": "The Chinese Ministry of Agriculture finds that between 2005 – when the government   68   (start) a soil – testing program   69   gives specific fertilizer recommendations to farmers – and 2011, fertilizer use dropped by 7.7 million tons.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "中国农业部发现，在2005年（政府___68___ start一项为农民提供具体施肥建议的测土配方项目）至2011年间，化肥使用量下降了770万吨。"
+    },
+    {
+     "s": "Over 300 years its population grew gradually from 800 people to 8 million.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "三百多年来，它的人口逐渐从800人增长到800万。"
+    },
+    {
+     "s": "Wang collected more than 7 million abandoned bricks of different ages.",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "王先生收集了700多万块不同时期的废弃砖块。"
+    },
+    {
+     "s": "But eventually Henry Ford would build fifteen million of them.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但最终亨利·福特会造出一千五百万辆这样的车。"
+    },
+    {
+     "s": "Humans produce more than 300 million tons of plastic every year.",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "人类每年生产超过3亿吨塑料。"
+    },
+    {
+     "s": "But she expects using the chemical in some kind of industrial process — not simply “millions of worms thrown on top of the plastic.”",
+     "src": "2018北京卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但她期望将这种化学物质用于某种工业流程中——而不是简单地把“数百万条虫子扔在塑料上”。"
+    },
+    {
+     "s": "Today Pacific Science Center serves more than 1.3 million people a year and beings inquiry-based science education to classrooms and community events all over Washington State.",
+     "src": "2017全国I卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "今天，太平洋科学中心每年为130多万人提供服务，为华盛顿州各地的教室和社区活动提供以调查为基础的科学教育。"
+    },
+    {
+     "s": "Tell the person you’re sorry and explain that you have a million things to do and then ask if the two of you can talk at a different time.",
+     "src": "2017全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "告诉对方你很抱歉，解释说你有太多事要做，然后问你们能否换个时间谈。"
+    },
+    {
+     "s": "Sarah  63   (tell) that she could be Britain’s new supermodel, earning a million dollars in the new year.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "萨拉____（被告知）她可能成为英国新的超模，在新的一年里赚一百万美元。"
+    },
+    {
+     "s": "In 1990, immigrants numbered some 1.14 million out of Italy’s then 56.7 million people, or about 2 percent.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "1990年，移民约为114万，占当时意大利5670万人口的约2%。"
+    },
+    {
+     "s": "At the start of this year, foreigners living in Italy amounted to 4.56 million of a total population of 60.6 million, or 7.5 percent, with immigrants’ children accounting for an even larger percentage of births in Italy.",
+     "src": "2017浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "今年年初，居住在意大利的外国人达456万，占总人口6060万的7.5%，而移民子女在意大利出生人口中所占比例甚至更高。"
+    },
+    {
+     "s": "Tell the person you’re sorry and explain that you have a million things to do and then ask if the two of you can talk at a different time.",
+     "src": "2017重庆卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "告诉对方你很抱歉，解释说你有太多事要做，然后问你们能否换个时间谈。"
+    },
+    {
+     "s": "It has been an enormously positive force.\" Watched by millions, the ending to the race has divided opinions: should the brothers have been disqualified or highly praised for their actions?",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "“它一直是一股极为积极的力量。”在数百万人的注视下，比赛结局引发了分歧：兄弟俩的行为应该被取消资格，还是受到高度赞扬？"
+    },
+    {
+     "s": "Every autumn, millions of these beautiful insects with fine black and orange wings begin a long and difficult journey.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "每年秋天，数以百万计这些长着黑橙相间美丽翅膀的昆虫开始一段漫长而艰难的旅程。"
+    },
+    {
+     "s": "Emma ·Around four million people live in the Arctic region, of whom around 170,000 are lnuit.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "艾玛：大约有四百万人生活在北极地区，其中约十七万是因纽特人。"
+    },
+    {
+     "s": "It is fun enough to attract millions of people.",
+     "src": "外研社B2 U3",
+     "cat": "waiyan",
+     "t": "休息一下/过了一会儿，简宁斯先生吃掉了主人公。"
+    },
+    {
+     "s": "Finning kills millions of sharks a year.Finning would have an unexpected effect upon Peter Benchley, the man who wrote the book the film Jaws was based on.",
+     "src": "外研社B2 U6",
+     "cat": "waiyan",
+     "t": "割鱼翅每年导致数百万鲨鱼死亡。割鱼翅对Peter Benchley——写了电影《大白鲨》所依据的那本书的人——产生了意想不到的影响。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a very large amount 大量",
+   "ex": [
     {
-      "def": "1 000 000 一百万",
-      "ex": [
-        {
-          "s": "In Australia we now have over twenty million cars for just over twenty-six million people, among the highest rate of car ownership in the world.",
-          "src": "2025新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在澳大利亚，我们现在有超过两千万辆汽车，对应着仅超过两千六百万的人口，汽车拥有率位居世界前列。"
-        },
-        {
-          "s": "As a result, since 1996 a group of insurance companies have spent about $2 million per year on the Alberta Hail Suppression Project.",
-          "src": "2024浙江1月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "因此，自1996年以来，一批保险公司每年在阿尔伯塔冰雹抑制项目上花费约200万美元。"
-        },
-        {
-          "s": "With millions of people likely to take on DIY projects over that coming weeks, new research shows that more than half of people are planning to make the most of the long, warm summer days to get jobs done.",
-          "src": "2023全国甲卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "数以百万计的人可能在接下来的几周里动手做DIY项目，新的研究显示，超过一半的人打算利用漫长而温暖的夏日把活干完。"
-        },
-        {
-          "s": "In a world where nearly 800 million people a year go hungry, “food waste goes against the moral grain,” as Elizabeth Royte writes in this month’s cover story.",
-          "src": "2022全国新高考I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "在一个每年近8亿人挨饿的世界里，\"食物浪费违背道德准则，\"伊丽莎白·罗伊特在本月封面故事中写道。"
-        },
-        {
-          "s": "Drinks now contain 45 million fewer kilos of sugar as a result of manufacturers' efforts to avoid the charge, according to Treasury analysis.",
-          "src": "2022全国乙卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "据英国财政部分析，由于制造商们努力规避糖税，饮料中的糖含量如今减少了4500万公斤。"
-        },
-        {
-          "s": "“What’s new,” Johnson wrote, “is that millions of dollars are now potentially available to quantum computing researchers.”",
-          "src": "2022北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "\"新的变化是，\"Johnson写道，\"现在可能有数百万美元可用于量子计算研究人员。\""
-        },
-        {
-          "s": "I am one of the faces of Toronto that welcome millions of air travellers from all over the world.",
-          "src": "2022天津4月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "我是那张迎接来自世界各地数百万旅客的多伦多的面孔之一。"
-        },
-        {
-          "s": "Since 1934, better than half a billion dollars has gone into that Fund to purchase more than 5 million acres of habitat.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "自1934年以来，超过5亿美元进入该基金，用于购买500多万英亩的栖息地。"
-        },
-        {
-          "s": "A British woman who won a S1 million prize after she was named the World's Best Teacher will use the cash to bring inspirational figures into UK schools.",
-          "src": "2021新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "一名英国女性在被评上世界最佳教师后赢得了100万美元奖金，她将用这笔钱把励志人物带进英国学校。"
-        },
-        {
-          "s": "You’ve heard that plastic is polluting the oceans—between 4.8 and 12.7 million tonnes enter ocean ecosystems every year.",
-          "src": "2021全国乙卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "你听说过塑料正在污染海洋——每年有480万到1270万吨进入海洋生态系统。"
-        },
-        {
-          "s": "On August 5, the number of postcards exchanged by members topped 31 million.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "8月5日会员之间交换的明信片数量超过了3100万张。"
-        },
-        {
-          "s": "Hence this book, Chasing the Sea: Lost Among the Ghosts of Empire in Central Asia, which talks about a road trip from Tashkent to Karakalpakstan, where millions of lives have been destroyed by the slow drying up of the sea.",
-          "src": "2020全国新高考I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "于是有了这本书——《追逐大海：在中亚帝国的幽灵中迷失》，它讲述了一段从塔什干到卡拉卡尔帕克斯坦的公路旅行，在那里，数百万人的生活被大海缓慢干涸所摧毁。"
-        },
-        {
-          "s": "But our insisting it’s   45   a window has kept them from   46   millions of requests to open the door.",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但我们坚持说它___45___是一扇窗户，使他们免于___46___无数次要求开门。"
-        },
-        {
-          "s": "It is said that about 20% of 25-34-year-olds live with their parents, compared with 16% in 1991.The total number of all multigenerational households in Britain is thought to be about 1.8 million.",
-          "src": "2020全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "据说，25-34岁的人中约20%和父母同住，而1991年这一比例是16%。英国所有多代同堂家庭的总数估计约为180万。"
-        },
-        {
-          "s": "Did you know that around 750 million people do not have clean water to drink?",
-          "src": "2020浙江1月卷·七选五",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你知道吗，全球约有 7.5 亿人喝不到干净的水？"
-        },
-        {
-          "s": "Lancom is a worldwide language learning app and a leader in the online language learning industry with millions of active subscribers.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom是一款全球语言学习应用，也是在线语言学习行业的领导者，拥有数百万活跃订阅用户。"
-        },
-        {
-          "s": "Millions of learners have their own stories and their own reasons for learning a new language.",
-          "src": "2020北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "Lancom是唯一提供根据你的母语定制的课程的产品，基于你已经知道的语法和词汇构建。"
-        },
-        {
-          "s": "By the time she was 13，her company was worth millions of dollars with the invention of a super-sweet treat that could save kids' teeth，instead of destroying them.",
-          "src": "2019北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "到她13岁时，她发明了一种超级甜食，能够保护孩子的牙齿而不是损害它们，这使她的公司价值数百万美元。"
-        },
-        {
-          "s": "46    Companies spend millions hiring top business people.",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "46 公司花费数百万雇佣顶尖商业人才。"
-        },
-        {
-          "s": "Sports team owners spend millions of dollars attracting top talent",
-          "src": "2019北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "运动队老板花费数百万美元吸引顶尖人才"
-        },
-        {
-          "s": "Some language experts believe that 10,000 years ago, when the world had just five to ten million people, they spoke perhaps 12,000 languages between them.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一些语言专家认为，一万年前，当世界只有五百到一千万人时，他们之间可能讲着一万两千种语言。"
-        },
-        {
-          "s": "The Chinese Ministry of Agriculture finds that between 2005 – when the government   68   (start) a soil – testing program   69   gives specific fertilizer recommendations to farmers – and 2011, fertilizer use dropped by 7.7 million tons.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "中国农业部发现，在2005年（政府___68___ start一项为农民提供具体施肥建议的测土配方项目）至2011年间，化肥使用量下降了770万吨。"
-        },
-        {
-          "s": "Over 300 years its population grew gradually from 800 people to 8 million.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "三百多年来，它的人口逐渐从800人增长到800万。"
-        },
-        {
-          "s": "Wang collected more than 7 million abandoned bricks of different ages.",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "王先生收集了700多万块不同时期的废弃砖块。"
-        },
-        {
-          "s": "But eventually Henry Ford would build fifteen million of them.",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但最终亨利·福特会造出一千五百万辆这样的车。"
-        },
-        {
-          "s": "Humans produce more than 300 million tons of plastic every year.",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "人类每年生产超过3亿吨塑料。"
-        },
-        {
-          "s": "But she expects using the chemical in some kind of industrial process — not simply “millions of worms thrown on top of the plastic.”",
-          "src": "2018北京卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但她期望将这种化学物质用于某种工业流程中——而不是简单地把“数百万条虫子扔在塑料上”。"
-        },
-        {
-          "s": "Today Pacific Science Center serves more than 1.3 million people a year and beings inquiry-based science education to classrooms and community events all over Washington State.",
-          "src": "2017全国I卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "今天，太平洋科学中心每年为130多万人提供服务，为华盛顿州各地的教室和社区活动提供以调查为基础的科学教育。"
-        },
-        {
-          "s": "Tell the person you’re sorry and explain that you have a million things to do and then ask if the two of you can talk at a different time.",
-          "src": "2017全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "告诉对方你很抱歉，解释说你有太多事要做，然后问你们能否换个时间谈。"
-        },
-        {
-          "s": "Sarah  63   (tell) that she could be Britain’s new supermodel, earning a million dollars in the new year.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "萨拉____（被告知）她可能成为英国新的超模，在新的一年里赚一百万美元。"
-        },
-        {
-          "s": "In 1990, immigrants numbered some 1.14 million out of Italy’s then 56.7 million people, or about 2 percent.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "1990年，移民约为114万，占当时意大利5670万人口的约2%。"
-        },
-        {
-          "s": "At the start of this year, foreigners living in Italy amounted to 4.56 million of a total population of 60.6 million, or 7.5 percent, with immigrants’ children accounting for an even larger percentage of births in Italy.",
-          "src": "2017浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "今年年初，居住在意大利的外国人达456万，占总人口6060万的7.5%，而移民子女在意大利出生人口中所占比例甚至更高。"
-        },
-        {
-          "s": "Tell the person you’re sorry and explain that you have a million things to do and then ask if the two of you can talk at a different time.",
-          "src": "2017重庆卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "告诉对方你很抱歉，解释说你有太多事要做，然后问你们能否换个时间谈。"
-        },
-        {
-          "s": "It has been an enormously positive force.\" Watched by millions, the ending to the race has divided opinions: should the brothers have been disqualified or highly praised for their actions?",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "“它一直是一股极为积极的力量。”在数百万人的注视下，比赛结局引发了分歧：兄弟俩的行为应该被取消资格，还是受到高度赞扬？"
-        },
-        {
-          "s": "Every autumn, millions of these beautiful insects with fine black and orange wings begin a long and difficult journey.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "每年秋天，数以百万计这些长着黑橙相间美丽翅膀的昆虫开始一段漫长而艰难的旅程。"
-        },
-        {
-          "s": "Emma ·Around four million people live in the Arctic region, of whom around 170,000 are lnuit.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "艾玛：大约有四百万人生活在北极地区，其中约十七万是因纽特人。"
-        },
-        {
-          "s": "It is fun enough to attract millions of people.",
-          "src": "外研社B2 U3",
-          "cat": "waiyan",
-          "t": "休息一下/过了一会儿，简宁斯先生吃掉了主人公。"
-        },
-        {
-          "s": "Finning kills millions of sharks a year.Finning would have an unexpected effect upon Peter Benchley, the man who wrote the book the film Jaws was based on.",
-          "src": "外研社B2 U6",
-          "cat": "waiyan",
-          "t": "割鱼翅每年导致数百万鲨鱼死亡。割鱼翅对Peter Benchley——写了电影《大白鲨》所依据的那本书的人——产生了意想不到的影响。"
-        }
-      ]
-    },
-    {
-      "def": "a very large amount 大量",
-      "ex": [
-        {
-          "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
-          "src": "2020浙江1月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。"
-        }
-      ]
+     "s": "But while you probably add only a small amount of salt to your food, road crews spread about 20 million tons of salt on U.",
+     "src": "2020浙江1月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但尽管你大概只在食物中加少量盐，道路养护工在美国的道路上撒下约2000万吨盐。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "million people",
-      "cn": "上百万人",
-      "type": "名词短语",
-      "count": 7
-    },
-    {
-      "en": "million tons",
-      "cn": "百万吨",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "millions of dollars",
-      "cn": "数百万美元",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "million things",
-      "cn": "百万件事",
-      "type": "名词短语",
-      "count": 2
-    },
-    {
-      "en": "fifteen million",
-      "cn": "一百万",
-      "type": "名词短语",
-      "count": 1
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "million people",
+   "cn": "上百万人",
+   "type": "名词短语",
+   "count": 7
+  },
+  {
+   "en": "millions of dollars",
+   "cn": "数百万美元",
+   "type": "名词短语",
+   "count": 3
+  },
+  {
+   "en": "million things",
+   "cn": "百万件事",
+   "type": "名词短语",
+   "count": 2
+  }
+ ]
 }
