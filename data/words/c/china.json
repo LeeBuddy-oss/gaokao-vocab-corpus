@@ -1,354 +1,348 @@
 {
-  "meta": {
-    "ph": "ˈtʃaɪnə; NAmE ˈtʃaɪnə",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈtʃaɪnə; NAmE ˈtʃaɪnə",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "white clay which is baked and used for making delicate cups, plates, etc. 瓷；瓷料",
+   "ex": [
+    {
+     "s": "He also designed an eco-machine to clean canal water in Fuzhou, a city in southeast China.",
+     "src": "2023新课标I卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他还设计了一台生态机器，用于净化中国东南部城市福州的运河水。"
+    },
+    {
+     "s": "Mangroves known as “red forest” in China, grow between land and sea, characterised by their complex roots.",
+     "src": "2023北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "红树林在中国被称为\"红树林\"，生长在陆地与海洋之间，以其复杂的根系为特征。"
+    },
+    {
+     "s": "Or China’s Great Wall.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "或者是中国的长城。"
+    },
+    {
+     "s": "China's National Highway 318,                    over 5,000 kilometers from Shanghai to Zhangmu, Tibet, is known as the \"heavenly road“ for its amazing views.",
+     "src": "2021天津3月卷·单项选择",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "中国的318国道                    5000多公里从上海延伸至西藏樟木因其惊人的景色而被称为\"天路\"。"
+    },
+    {
+     "s": "Best of luck with yours learning kung fu in China.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "祝你在中国学习功夫好运。"
+    },
+    {
+     "s": "China’s Sacred Landscapes（21days）",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "中国的神圣景观（21天）"
+    },
+    {
+     "s": "China’s approach to protecting its environment while   70   (feed) its citizens “offers useful lessons for agriculture and food policymakers worldwide,” says the bank’s Juergen Voegele.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "中国在保护环境的同时70（养活）公民的做法\"为全球农业和食品政策制定者提供了有益的启示，\"银行的Juergen Voegele说。"
+    },
+    {
+     "s": "After that, critics used the word kowtow when anyone was too submissive to China.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "在英语中，gung-ho是一个形容词，意思是极度兴奋地想做某事。"
+    },
+    {
+     "s": "Today, the usage has no connection to China, nor any specific political connection.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如今，这个用法与中国没有任何联系，也没有任何特定的政治联系。"
+    },
+    {
+     "s": "Colonel Evans Carlson of the United States Marine3 Corps4 observed these cooperatives while he was in China.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "美国海军陆战队3团4的埃文斯·卡尔森上校在中国期间观察了这些合作社。"
+    },
+    {
+     "s": "Which play will be performed by the National Theatre of China?",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "中国国家剧院将上演哪部戏剧？"
+    },
+    {
+     "s": "which play will be performed by the National Theatre of China?",
+     "src": "2017重庆卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "中国国家剧院将上演哪部戏剧？"
+    },
+    {
+     "s": "A great decline in young work force is likely to occur in China, for instance.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "例如，中国很可能出现年轻劳动力的大幅减少。"
+    },
+    {
+     "s": "How much should you pay if you make a 12-mouth subscription to TOKNOW with gift pack from China?",
+     "src": "2017北京卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "如果你从中国订阅带礼品包的TOKNOW 12个月，应该付多少钱？"
+    },
+    {
+     "s": "I was part of a student exchange programme between a university in England and my university in China.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我参加了英国一所大学和我中国的大学之间的学生交换项目。"
+    },
+    {
+     "s": "The oldest zoo in China is Beijing Zoo, which was founded in 1906.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "中国最古老的动物园是北京动物园，成立于1906年。"
+    },
+    {
+     "s": "The red-crowned crane is found in China, Russia, Mongolia, Japan and the Korean Peninsula.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "红冠鹤分布在中国、俄罗斯、蒙古、日本和朝鲜半岛。"
+    },
+    {
+     "s": "I was part of a student exchange programme between a university in England and my university in China.",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "我参加了英国一所大学和我中国的大学之间的学生交换项目。"
+    },
+    {
+     "s": "The oldest zoo in China is Beijing Zoo, which was founded in 1906.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "中国最古老的动物园是北京动物园，成立于1906年。"
+    },
+    {
+     "s": "The red-crowned crane is found in China, Russia, Mongolia, Japan and the Korean Peninsula.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "红冠鹤分布在中国、俄罗斯、蒙古、日本和朝鲜半岛。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "cups, plates, etc. that are made of china 瓷制品；瓷器",
+   "ex": [
     {
-      "def": "white clay which is baked and used for making delicate cups, plates, etc. 瓷；瓷料",
-      "ex": [
-        {
-          "s": "He also designed an eco-machine to clean canal water in Fuzhou, a city in southeast China.",
-          "src": "2023新课标I卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他还设计了一台生态机器，用于净化中国东南部城市福州的运河水。"
-        },
-        {
-          "s": "Mangroves known as “red forest” in China, grow between land and sea, characterised by their complex roots.",
-          "src": "2023北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "红树林在中国被称为\"红树林\"，生长在陆地与海洋之间，以其复杂的根系为特征。"
-        },
-        {
-          "s": "Or China’s Great Wall.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "或者是中国的长城。"
-        },
-        {
-          "s": "China's National Highway 318,                    over 5,000 kilometers from Shanghai to Zhangmu, Tibet, is known as the \"heavenly road“ for its amazing views.",
-          "src": "2021天津3月卷·单项选择",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "中国的318国道                    5000多公里从上海延伸至西藏樟木因其惊人的景色而被称为\"天路\"。"
-        },
-        {
-          "s": "Best of luck with yours learning kung fu in China.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "祝你在中国学习功夫好运。"
-        },
-        {
-          "s": "China’s Sacred Landscapes（21days）",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "中国的神圣景观（21天）"
-        },
-        {
-          "s": "China’s approach to protecting its environment while   70   (feed) its citizens “offers useful lessons for agriculture and food policymakers worldwide,” says the bank’s Juergen Voegele.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "中国在保护环境的同时70（养活）公民的做法\"为全球农业和食品政策制定者提供了有益的启示，\"银行的Juergen Voegele说。"
-        },
-        {
-          "s": "After that, critics used the word kowtow when anyone was too submissive to China.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "在英语中，gung-ho是一个形容词，意思是极度兴奋地想做某事。"
-        },
-        {
-          "s": "Today, the usage has no connection to China, nor any specific political connection.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如今，这个用法与中国没有任何联系，也没有任何特定的政治联系。"
-        },
-        {
-          "s": "Colonel Evans Carlson of the United States Marine3 Corps4 observed these cooperatives while he was in China.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "美国海军陆战队3团4的埃文斯·卡尔森上校在中国期间观察了这些合作社。"
-        },
-        {
-          "s": "Which play will be performed by the National Theatre of China?",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "中国国家剧院将上演哪部戏剧？"
-        },
-        {
-          "s": "which play will be performed by the National Theatre of China?",
-          "src": "2017重庆卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "中国国家剧院将上演哪部戏剧？"
-        },
-        {
-          "s": "A great decline in young work force is likely to occur in China, for instance.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "例如，中国很可能出现年轻劳动力的大幅减少。"
-        },
-        {
-          "s": "How much should you pay if you make a 12-mouth subscription to TOKNOW with gift pack from China?",
-          "src": "2017北京卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "如果你从中国订阅带礼品包的TOKNOW 12个月，应该付多少钱？"
-        },
-        {
-          "s": "I was part of a student exchange programme between a university in England and my university in China.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我参加了英国一所大学和我中国的大学之间的学生交换项目。"
-        },
-        {
-          "s": "The oldest zoo in China is Beijing Zoo, which was founded in 1906.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "中国最古老的动物园是北京动物园，成立于1906年。"
-        },
-        {
-          "s": "The red-crowned crane is found in China, Russia, Mongolia, Japan and the Korean Peninsula.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "红冠鹤分布在中国、俄罗斯、蒙古、日本和朝鲜半岛。"
-        },
-        {
-          "s": "I was part of a student exchange programme between a university in England and my university in China.",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "我参加了英国一所大学和我中国的大学之间的学生交换项目。"
-        },
-        {
-          "s": "The oldest zoo in China is Beijing Zoo, which was founded in 1906.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "中国最古老的动物园是北京动物园，成立于1906年。"
-        },
-        {
-          "s": "The red-crowned crane is found in China, Russia, Mongolia, Japan and the Korean Peninsula.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "红冠鹤分布在中国、俄罗斯、蒙古、日本和朝鲜半岛。"
-        }
-      ]
+     "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
+     "src": "2025新高考I卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2025,
+     "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
     },
     {
-      "def": "cups, plates, etc. that are made of china 瓷制品；瓷器",
-      "ex": [
-        {
-          "s": "In a study published Wednesday in Environmental Science & Technology Letters, researchers from China found that boiling tap water for just five minutes — then filtering it after it cools — could remove at least 80 percent of its microplastics.",
-          "src": "2025新高考I卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2025,
-          "t": "在周三发表于《Environmental Science & Technology Letters》的一项研究中，中国研究人员发现，将自来水煮沸仅五分钟——冷却后过滤——可去除其中至少80%的微塑料。"
-        },
-        {
-          "s": "Development of Transport in China",
-          "src": "2024全国甲卷·书面表达",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "中国交通的发展"
-        },
-        {
-          "s": "While taking a 20-hour train ride along the edge of the Taklimakan Desert in northwestern China, I had the kind of humbling, educational, and above all else, wonderful   41   with a local that all travelers long for.",
-          "src": "2024浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "沿着中国西北部塔克拉玛干沙漠边缘乘坐20小时火车时，我经历了那种所有旅行者都渴望的谦卑、有教育意义，而且最重要的，美妙的   41   与当地人的交流。"
-        },
-        {
-          "s": "But that didn't stop China Daily from asking me last week to share a personal story for a video project about the integration of Beijing, Tianjin and Hebei province.",
-          "src": "2022全国新高考II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "但这并没有阻止《中国日报》上周邀请我为一个关于京津冀一体化的视频项目分享个人故事。"
-        },
-        {
-          "s": "The Xi'an City Wall is the most complete city wall that has survived China's long history.",
-          "src": "2021全国甲卷·语法填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "西安城墙是经过中国悠久历史存留下来的最完整的城墙。"
-        },
-        {
-          "s": "\"I often send postcards to family and friends.\" he says to China Daily, \"but you can imagine that after a while, you never receive as many as you send, and you realize that not everyone is into it   32   ” Seeking other like-minded souls, however, Paulo started looking in a somewhat unlikely place: online.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "“我经常给家人和朋友寄明信片，”他对《中国日报》说，“但你可以想象，过一阵子后，你收到的永远不会和你寄出的一样多，你会意识到不是每个人都像你一样热衷于它____32____”不过，为了寻找其他志同道合的人，保罗开始在一个不太可能的地方寻找：网上。"
-        },
-        {
-          "s": "\"Many people in China have limited exposure to English.",
-          "src": "2021浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "‘许多中国人接触英语的机会有限。’"
-        },
-        {
-          "s": "China has become the first country to land a spacecraft on the far side of the moon.",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "中国已成为首个在月球背面着陆航天器的国家。"
-        },
-        {
-          "s": "Because the moon’s body blocks direct radio communication with a probe, China first had to put a satellite in orbit above the moon in a spot   63   it could send signals to the spacecraft and to Earth.",
-          "src": "2020全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "由于月球本体阻挡了与探测器的直接无线电通信，中国必须先在月球上方轨道上的一个___63___能将信号发往航天器和地球的位置部署一颗卫星。"
-        },
-        {
-          "s": "I’m glad to know that you’ve come China to learn kung fu in a school in my hometown.",
-          "src": "2020全国II卷",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "很高兴得知你来中国，在我家乡的一所学校里学功夫。"
-        },
-        {
-          "s": "Discover the China of“past ages，its walled cities，temples and mountain scenery with Prof  Robert Thorp.",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "与Robert Thorp教授一起发现\"过去时代\"的中国，它的城墙环绕的城市、寺庙和山地风光。"
-        },
-        {
-          "s": "In ancient China lived an artist.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "中国古代住着一位画家。"
-        },
-        {
-          "s": "Diets have changed in China – and so too has its top crop.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "中国的饮食发生了变化——它最主要的作物也随之改变。"
-        },
-        {
-          "s": "According to the World Bank, China accounts for about 30 percent of total   67   (globe) fertilizer consumption.",
-          "src": "2018全国II卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "根据世界银行，中国约占全球____67____（globe）化肥消费总量的30%。"
-        },
-        {
-          "s": "While famous foreign architects are invited to lead the designs of landmark buildings in China such as the new CCTV tower and the National Center for the Performing Arts, many excellent Chinese architects are making great efforts to take the center stage.",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "虽然著名的外国建筑师受邀主导中国地标性建筑的设计，如新央视大楼和国家大剧院，但许多优秀的中国建筑师也在努力走向舞台中央。"
-        },
-        {
-          "s": "Wang serves as head of the Architecture Department at the China Academy of Art (CAA).",
-          "src": "2018全国III卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "王担任中国美术学院（CAA）建筑系主任。"
-        },
-        {
-          "s": "Many westerners   57   come to China cook much less than in their own countries once they realize how cheap   58   can be to eat out.",
-          "src": "2018浙江6月卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "许多来中国的西方人____57____一旦意识到外出就餐可以有多便宜____58____，他们做的饭就比在自己国家时少得多。"
-        },
-        {
-          "s": "It is not surprising, then, that Macartney left China without negotiating the trade agreement.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "因此，马戛尔尼离开中国时未能谈成贸易协定，也就不足为奇了。"
-        },
-        {
-          "s": "The organizations were established in the 1930s by Westerners in China to promote industrial and economic development.",
-          "src": "2018上海卷·Section B",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "这些组织是20世纪30年代由在华西方人建立的，旨在促进工业和经济发展。"
-        },
-        {
-          "s": "National Theatre of China   Beijing | Chinese",
-          "src": "2017全国II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "中国国家剧院   北京 | 中文"
-        },
-        {
-          "s": "First, China needs to undergo rapid economic development before a population zxxk decline hits the country.",
-          "src": "2017江苏卷·Population Change",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "首先，中国需要在人口下降冲击该国之前经历快速经济发展。"
-        },
-        {
-          "s": "Why do you think many people in China learn English?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "为什么你认为中国有很多人学英语？"
-        },
-        {
-          "s": "In April 2017, two giant pandas from China arrived at a zoo in the Netherlands.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "2017年4月，两只来自中国的大熊猫来到荷兰的一个动物园。"
-        },
-        {
-          "s": "Why do you think many people in China learn English?",
-          "src": "外研社B1 U2",
-          "cat": "waiyan",
-          "year": "",
-          "t": "为什么你认为中国有很多人学英语？"
-        },
-        {
-          "s": "In April 2017, two giant pandas from China arrived at a zoo in the Netherlands.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "year": "",
-          "t": "2017年4月，两只来自中国的大熊猫来到荷兰的一个动物园。"
-        }
-      ]
+     "s": "Development of Transport in China",
+     "src": "2024全国甲卷·书面表达",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "中国交通的发展"
+    },
+    {
+     "s": "While taking a 20-hour train ride along the edge of the Taklimakan Desert in northwestern China, I had the kind of humbling, educational, and above all else, wonderful   41   with a local that all travelers long for.",
+     "src": "2024浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "沿着中国西北部塔克拉玛干沙漠边缘乘坐20小时火车时，我经历了那种所有旅行者都渴望的谦卑、有教育意义，而且最重要的，美妙的   41   与当地人的交流。"
+    },
+    {
+     "s": "But that didn't stop China Daily from asking me last week to share a personal story for a video project about the integration of Beijing, Tianjin and Hebei province.",
+     "src": "2022全国新高考II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "但这并没有阻止《中国日报》上周邀请我为一个关于京津冀一体化的视频项目分享个人故事。"
+    },
+    {
+     "s": "The Xi'an City Wall is the most complete city wall that has survived China's long history.",
+     "src": "2021全国甲卷·语法填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "西安城墙是经过中国悠久历史存留下来的最完整的城墙。"
+    },
+    {
+     "s": "\"I often send postcards to family and friends.\" he says to China Daily, \"but you can imagine that after a while, you never receive as many as you send, and you realize that not everyone is into it   32   ” Seeking other like-minded souls, however, Paulo started looking in a somewhat unlikely place: online.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "“我经常给家人和朋友寄明信片，”他对《中国日报》说，“但你可以想象，过一阵子后，你收到的永远不会和你寄出的一样多，你会意识到不是每个人都像你一样热衷于它____32____”不过，为了寻找其他志同道合的人，保罗开始在一个不太可能的地方寻找：网上。"
+    },
+    {
+     "s": "\"Many people in China have limited exposure to English.",
+     "src": "2021浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "‘许多中国人接触英语的机会有限。’"
+    },
+    {
+     "s": "China has become the first country to land a spacecraft on the far side of the moon.",
+     "src": "2020全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "中国已成为首个在月球背面着陆航天器的国家。"
+    },
+    {
+     "s": "Because the moon’s body blocks direct radio communication with a probe, China first had to put a satellite in orbit above the moon in a spot   63   it could send signals to the spacecraft and to Earth.",
+     "src": "2020全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "由于月球本体阻挡了与探测器的直接无线电通信，中国必须先在月球上方轨道上的一个___63___能将信号发往航天器和地球的位置部署一颗卫星。"
+    },
+    {
+     "s": "I’m glad to know that you’ve come China to learn kung fu in a school in my hometown.",
+     "src": "2020全国II卷",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "很高兴得知你来中国，在我家乡的一所学校里学功夫。"
+    },
+    {
+     "s": "Discover the China of“past ages，its walled cities，temples and mountain scenery with Prof  Robert Thorp.",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "与Robert Thorp教授一起发现\"过去时代\"的中国，它的城墙环绕的城市、寺庙和山地风光。"
+    },
+    {
+     "s": "In ancient China lived an artist.",
+     "src": "2020全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "中国古代住着一位画家。"
+    },
+    {
+     "s": "Diets have changed in China – and so too has its top crop.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "中国的饮食发生了变化——它最主要的作物也随之改变。"
+    },
+    {
+     "s": "According to the World Bank, China accounts for about 30 percent of total   67   (globe) fertilizer consumption.",
+     "src": "2018全国II卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "根据世界银行，中国约占全球____67____（globe）化肥消费总量的30%。"
+    },
+    {
+     "s": "While famous foreign architects are invited to lead the designs of landmark buildings in China such as the new CCTV tower and the National Center for the Performing Arts, many excellent Chinese architects are making great efforts to take the center stage.",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "虽然著名的外国建筑师受邀主导中国地标性建筑的设计，如新央视大楼和国家大剧院，但许多优秀的中国建筑师也在努力走向舞台中央。"
+    },
+    {
+     "s": "Wang serves as head of the Architecture Department at the China Academy of Art (CAA).",
+     "src": "2018全国III卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "王担任中国美术学院（CAA）建筑系主任。"
+    },
+    {
+     "s": "Many westerners   57   come to China cook much less than in their own countries once they realize how cheap   58   can be to eat out.",
+     "src": "2018浙江6月卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "许多来中国的西方人____57____一旦意识到外出就餐可以有多便宜____58____，他们做的饭就比在自己国家时少得多。"
+    },
+    {
+     "s": "It is not surprising, then, that Macartney left China without negotiating the trade agreement.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "因此，马戛尔尼离开中国时未能谈成贸易协定，也就不足为奇了。"
+    },
+    {
+     "s": "The organizations were established in the 1930s by Westerners in China to promote industrial and economic development.",
+     "src": "2018上海卷·Section B",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "这些组织是20世纪30年代由在华西方人建立的，旨在促进工业和经济发展。"
+    },
+    {
+     "s": "National Theatre of China   Beijing | Chinese",
+     "src": "2017全国II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "中国国家剧院   北京 | 中文"
+    },
+    {
+     "s": "First, China needs to undergo rapid economic development before a population zxxk decline hits the country.",
+     "src": "2017江苏卷·Population Change",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "首先，中国需要在人口下降冲击该国之前经历快速经济发展。"
+    },
+    {
+     "s": "Why do you think many people in China learn English?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "为什么你认为中国有很多人学英语？"
+    },
+    {
+     "s": "In April 2017, two giant pandas from China arrived at a zoo in the Netherlands.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "2017年4月，两只来自中国的大熊猫来到荷兰的一个动物园。"
+    },
+    {
+     "s": "Why do you think many people in China learn English?",
+     "src": "外研社B1 U2",
+     "cat": "waiyan",
+     "year": "",
+     "t": "为什么你认为中国有很多人学英语？"
+    },
+    {
+     "s": "In April 2017, two giant pandas from China arrived at a zoo in the Netherlands.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "year": "",
+     "t": "2017年4月，两只来自中国的大熊猫来到荷兰的一个动物园。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "many people in china",
-      "cn": "在中国的许多人",
-      "type": "介词短语",
-      "count": 3
-    },
-    {
-      "en": "national theatre of china",
-      "cn": "中国国家大剧院",
-      "type": "介词短语",
-      "count": 3
-    },
-    {
-      "en": "china learn",
-      "cn": "瓷学",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": [
+  {
+   "en": "many people in china",
+   "cn": "在中国的许多人",
+   "type": "介词短语",
+   "count": 3
+  },
+  {
+   "en": "national theatre of china",
+   "cn": "中国国家大剧院",
+   "type": "介词短语",
+   "count": 3
+  }
+ ]
 }
