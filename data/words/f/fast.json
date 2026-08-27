@@ -1,353 +1,347 @@
 {
-  "meta": {
-    "ph": "fɑːst; NAmE fæst",
-    "pos": "adjective",
-    "stars": ""
+ "meta": {
+  "ph": "fɑːst; NAmE fæst",
+  "pos": "adjective",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "moving or able to move quickly 快的；迅速的；敏捷的",
+   "ex": [
+    {
+     "s": "He was talking fast        B.",
+     "src": "2017浙江11月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "从悲伤中恢复          B. 搬离这个社区"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "happening in a short time or without delay 迅速发生的；立即发生的",
+   "ex": []
+  },
+  {
+   "def": "able to do sth quickly 动作迅速的；头脑灵活的",
+   "ex": []
+  },
+  {
+   "def": "producing or allowing quick movement 可供快速运动的",
+   "ex": [
     {
-      "def": "moving or able to move quickly 快的；迅速的；敏捷的",
-      "ex": [
-        {
-          "s": "He was talking fast        B.",
-          "src": "2017浙江11月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "从悲伤中恢复          B. 搬离这个社区"
-        }
-      ]
-    },
-    {
-      "def": "happening in a short time or without delay 迅速发生的；立即发生的",
-      "ex": []
-    },
-    {
-      "def": "able to do sth quickly 动作迅速的；头脑灵活的",
-      "ex": []
-    },
-    {
-      "def": "producing or allowing quick movement 可供快速运动的",
-      "ex": [
-        {
-          "s": "These genes were much more active when the men had fasted before exercise than when they had breakfasted.",
-          "src": "2020江苏卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些基因在男性运动前禁食时比吃早餐时活跃得多。"
-        }
-      ]
-    },
-    {
-      "def": "showing a time later than the true time 走得快",
-      "ex": [
-        {
-          "s": "Nothing kills the love for philosophy faster than people who think they understand Foucault, Baudrillard, or Confucius better than you — and then try to explain them.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "没有什么比那些自以为比你更懂福柯、波德里亚或孔子——然后还试图向你解释的人——更能扼杀对哲学的热爱了。"
-        },
-        {
-          "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
-          "src": "2022浙江6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
-        },
-        {
-          "s": "You don’t have to run fast or for long  62  (see) the benefit.",
-          "src": "2018全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "你不必跑得快或跑得____62____（看）很长时间就能获得益处。"
-        }
-      ]
-    },
-    {
-      "def": "very sensitive to light, and therefore useful when taking photographs in poor light or of sth that is moving very quickly 感光快的",
-      "ex": []
-    },
-    {
-      "def": "firmly fixed and safe 船等",
-      "ex": []
-    },
-    {
-      "def": "not likely to change or to come out when washed 不褪色的",
-      "ex": []
-    },
-    {
-      "def": "quickly 快；快速；迅速",
-      "ex": [
-        {
-          "s": "Fast forward to my first year of college.",
-          "src": "2026新高考II卷·读后续写",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "快进到我大学一年级。"
-        },
-        {
-          "s": "Our fast train was packing with passengers.",
-          "src": "2024全国甲卷·第四部分 写作",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "我们的快车上挤满了乘客。"
-        },
-        {
-          "s": "Jaramillo’s students live in neighborhoods where fresh food and green space are not easy to find and fast food restaurants outnumber grocery stores.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "哈拉米略的学生居住的社区里，新鲜食物和绿地很难找到，快餐店的数量超过了杂货店。"
-        },
-        {
-          "s": "She owns a fast food restaurant.",
-          "src": "2023新课标II卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "她拥有一家快餐餐厅。"
-        },
-        {
-          "s": "How fast a driver was going.",
-          "src": "2022全国新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "司机当时开得有多快。"
-        },
-        {
-          "s": "Catamarans are faster, but they’re not so elegant, and they’re not fun to pilot.",
-          "src": "2022全国甲卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "双体船速度更快，但不那么优雅，驾驶起来也不好玩。"
-        },
-        {
-          "s": "Interestingly，the more cheerful the music was，the faster their heart rates were．",
-          "src": "2021北京卷·七选五",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "有趣的是音乐越欢快他们的心率越快。"
-        },
-        {
-          "s": "So two by two,I read library books as fast as I could go: rushing them home in the basket of my bicycle.",
-          "src": "2020浙江1月卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以两本两本地，我尽可能快地读图书馆的书：把它们匆忙放在我的自行车篮子里带回家。"
-        },
-        {
-          "s": "Fingerprint scanning techniques develop fast.",
-          "src": "2019全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "指纹扫描技术发展迅速。"
-        },
-        {
-          "s": "You prefer healthy food to fast food.",
-          "src": "2018全国II卷·七选五",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "比起健康食品，你更偏爱快餐。"
-        },
-        {
-          "s": "To stress the popularity of fast food with Americans.",
-          "src": "2018浙江6月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "强调快餐在美国人中的受欢迎程度。"
-        },
-        {
-          "s": "The production of jazz growing faster.",
-          "src": "2017全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "爵士乐的产量增长得更快。"
-        },
-        {
-          "s": "I realize of how fast time flies.",
-          "src": "2017全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "我意识到时光飞逝之快。"
-        },
-        {
-          "s": "It’s an attitude best summed up as “Move fast and break things.”",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "这种态度可概括为“快速行动，打破陈规”。"
-        },
-        {
-          "s": "Chesterton identified the core problem with moving fast and breaking things through a thought experiment.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "Chesterton通过一个思想实验指出了“快速行动、打破陈规”的核心问题。"
-        },
-        {
-          "s": "He pulled in front of it as the wolf was catching up fast, just a dozen yards away now.",
-          "src": "2017浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "他冲到那辆车前面，这时狼正在快速逼近，只有十几码远了。"
-        },
-        {
-          "s": "a rapid rise of water surfaceB. the permafrost to melt faster",
-          "src": "2024天津3月卷·Passage 4",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "水面快速上涨。B. 永久冻土更快融化。"
-        },
-        {
-          "s": "It drinks water 30 times faster than man.",
-          "src": "2022天津4月卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "它喝水的速度比人快30倍。"
-        },
-        {
-          "s": "These systems are sometimes faster and more perceptive than we humans are.",
-          "src": "2020北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "这些系统有时比我们人类更快、更敏锐。"
-        },
-        {
-          "s": "The world is changing faster than ever.",
-          "src": "2017全国II卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "世界变化的速度比以往任何时候都快。"
-        },
-        {
-          "s": "The word is changing faster than ever.",
-          "src": "2017重庆卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "世界变化得比以往任何时候都快。"
-        },
-        {
-          "s": "command armies of killer robotsD. work faster than a mathematician",
-          "src": "2017北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "指挥杀手机器人军团D. 比数学家算得更快"
-        },
-        {
-          "s": "67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "67   （充满）脂肪和盐；通过   68   （吃）更多快餐，人们会摄入超过饮食所需的盐和脂肪。"
-        },
-        {
-          "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
-          "src": "2021北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
-        },
-        {
-          "s": "That said, with a bang of the starting gun, I would dive into the cold water with all my strength and swim to the other side of the pool as fast as I could, only to find that the other swimmers slid past me.",
-          "src": "2023天津6月卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "话虽如此，随着发令枪响，我会全力扎进冷水中，尽可能快地游向泳池另一边，却发现其他游泳者从我身边滑过。"
-        },
-        {
-          "s": "I was running so fast that I bounced off the trunk and  40   on my backside.",
-          "src": "2020浙江1月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "我跑得太快，结果撞到树干弹了回来，___40___摔在了屁股上。"
-        },
-        {
-          "s": "They developed very fast.",
-          "src": "2018全国I卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "它们发展得非常快。"
-        },
-        {
-          "s": "Even    66   (bad), the amount of fast food that people eat goes up.",
-          "src": "2017全国I卷·语法填空",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "更    66   （糟）的是，人们吃的快餐量上升了。"
-        },
-        {
-          "s": "So in physics class on Monday, l did the same, but the teacher spoke so fast that l couldn't take everything down.",
-          "src": "外研社B1 U1",
-          "cat": "waiyan",
-          "t": "所以周一的物理课上，我也照做了，但老师讲得太快了，我都没来得及全部记下来。"
-        },
-        {
-          "s": "We need the ability to work out which messes are worth avoiding — because however impressively fast you move, some things can’t be easily unbroken.",
-          "src": "2026北京卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "我们需要具备分辨哪些混乱值得避免的能力——因为无论你行动得多快，有些东西一旦打破就很难复原。"
-        },
-        {
-          "s": "Hospital patients Who see tree branches out their window are likely to recover at a faster rate than patients who see buildings or sky instead.",
-          "src": "2019全国I卷·Is Fresh Air Really Good for You?",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "从窗户能看到树枝的医院病人，康复速度可能比看建筑和天空的病人更快。"
-        },
-        {
-          "s": "Psychologist Frank Farley has spent years studying people who jump out of planes and drive fast cars, as well as those who climb Qomolangma.",
-          "src": "外研社B3 U5",
-          "cat": "waiyan",
-          "t": "心理学家Frank Farley花了多年时间研究那些跳伞、开快车的人，以及那些攀登珠峰的人。"
-        },
-        {
-          "s": "The music industry is developing fast now.",
-          "src": "外研社B1 U3",
-          "cat": "waiyan",
-          "t": "音乐产业现在发展迅速。"
-        },
-        {
-          "s": "Stop eating fast food and have breakfast every day.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "停止吃快餐，每天要吃早餐。"
-        }
-      ]
-    },
-    {
-      "def": "in a short time; without delay 不久；立即",
-      "ex": [
-        {
-          "s": "The rain was coming down so hard and so fast.",
-          "src": "外研社B3 U6",
-          "cat": "waiyan",
-          "t": "雨下得又大又急。"
-        }
-      ]
-    },
-    {
-      "def": "firmly; completely 牢固地；完全地",
-      "ex": []
+     "s": "These genes were much more active when the men had fasted before exercise than when they had breakfasted.",
+     "src": "2020江苏卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些基因在男性运动前禁食时比吃早餐时活跃得多。"
     }
-  ],
-  "chunks": [
+   ]
+  },
+  {
+   "def": "showing a time later than the true time 走得快",
+   "ex": [
     {
-      "en": "fast food",
-      "cn": "快餐",
-      "type": "名词短语",
-      "count": 7
+     "s": "Nothing kills the love for philosophy faster than people who think they understand Foucault, Baudrillard, or Confucius better than you — and then try to explain them.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "没有什么比那些自以为比你更懂福柯、波德里亚或孔子——然后还试图向你解释的人——更能扼杀对哲学的热爱了。"
     },
     {
-      "en": "fast as",
-      "cn": "快像",
-      "type": "形容词短语",
-      "count": 2
+     "s": "This variety, coupled with the fact that tiny forests grow up to ten times faster than standard forests, means they attract a rich abundance of wildlife.",
+     "src": "2022浙江6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这种多样性，加上小森林的生长速度可达标准森林的十倍这一事实，意味着它们吸引了丰富的野生动物。"
     },
     {
-      "en": "fast and",
-      "cn": "快",
-      "type": "形容词短语",
-      "count": 2
+     "s": "You don’t have to run fast or for long  62  (see) the benefit.",
+     "src": "2018全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "你不必跑得快或跑得____62____（看）很长时间就能获得益处。"
     }
-  ]
+   ]
+  },
+  {
+   "def": "very sensitive to light, and therefore useful when taking photographs in poor light or of sth that is moving very quickly 感光快的",
+   "ex": []
+  },
+  {
+   "def": "firmly fixed and safe 船等",
+   "ex": []
+  },
+  {
+   "def": "not likely to change or to come out when washed 不褪色的",
+   "ex": []
+  },
+  {
+   "def": "quickly 快；快速；迅速",
+   "ex": [
+    {
+     "s": "Fast forward to my first year of college.",
+     "src": "2026新高考II卷·读后续写",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "快进到我大学一年级。"
+    },
+    {
+     "s": "Our fast train was packing with passengers.",
+     "src": "2024全国甲卷·第四部分 写作",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "我们的快车上挤满了乘客。"
+    },
+    {
+     "s": "Jaramillo’s students live in neighborhoods where fresh food and green space are not easy to find and fast food restaurants outnumber grocery stores.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "哈拉米略的学生居住的社区里，新鲜食物和绿地很难找到，快餐店的数量超过了杂货店。"
+    },
+    {
+     "s": "She owns a fast food restaurant.",
+     "src": "2023新课标II卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "她拥有一家快餐餐厅。"
+    },
+    {
+     "s": "How fast a driver was going.",
+     "src": "2022全国新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "司机当时开得有多快。"
+    },
+    {
+     "s": "Catamarans are faster, but they’re not so elegant, and they’re not fun to pilot.",
+     "src": "2022全国甲卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "双体船速度更快，但不那么优雅，驾驶起来也不好玩。"
+    },
+    {
+     "s": "Interestingly，the more cheerful the music was，the faster their heart rates were．",
+     "src": "2021北京卷·七选五",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "有趣的是音乐越欢快他们的心率越快。"
+    },
+    {
+     "s": "So two by two,I read library books as fast as I could go: rushing them home in the basket of my bicycle.",
+     "src": "2020浙江1月卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "所以两本两本地，我尽可能快地读图书馆的书：把它们匆忙放在我的自行车篮子里带回家。"
+    },
+    {
+     "s": "Fingerprint scanning techniques develop fast.",
+     "src": "2019全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "指纹扫描技术发展迅速。"
+    },
+    {
+     "s": "You prefer healthy food to fast food.",
+     "src": "2018全国II卷·七选五",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "比起健康食品，你更偏爱快餐。"
+    },
+    {
+     "s": "To stress the popularity of fast food with Americans.",
+     "src": "2018浙江6月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "强调快餐在美国人中的受欢迎程度。"
+    },
+    {
+     "s": "The production of jazz growing faster.",
+     "src": "2017全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "爵士乐的产量增长得更快。"
+    },
+    {
+     "s": "I realize of how fast time flies.",
+     "src": "2017全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "我意识到时光飞逝之快。"
+    },
+    {
+     "s": "It’s an attitude best summed up as “Move fast and break things.”",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "这种态度可概括为“快速行动，打破陈规”。"
+    },
+    {
+     "s": "Chesterton identified the core problem with moving fast and breaking things through a thought experiment.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "Chesterton通过一个思想实验指出了“快速行动、打破陈规”的核心问题。"
+    },
+    {
+     "s": "He pulled in front of it as the wolf was catching up fast, just a dozen yards away now.",
+     "src": "2017浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "他冲到那辆车前面，这时狼正在快速逼近，只有十几码远了。"
+    },
+    {
+     "s": "a rapid rise of water surfaceB. the permafrost to melt faster",
+     "src": "2024天津3月卷·Passage 4",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "水面快速上涨。B. 永久冻土更快融化。"
+    },
+    {
+     "s": "It drinks water 30 times faster than man.",
+     "src": "2022天津4月卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "它喝水的速度比人快30倍。"
+    },
+    {
+     "s": "These systems are sometimes faster and more perceptive than we humans are.",
+     "src": "2020北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "这些系统有时比我们人类更快、更敏锐。"
+    },
+    {
+     "s": "The world is changing faster than ever.",
+     "src": "2017全国II卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "世界变化的速度比以往任何时候都快。"
+    },
+    {
+     "s": "The word is changing faster than ever.",
+     "src": "2017重庆卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "世界变化得比以往任何时候都快。"
+    },
+    {
+     "s": "command armies of killer robotsD. work faster than a mathematician",
+     "src": "2017北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "指挥杀手机器人军团D. 比数学家算得更快"
+    },
+    {
+     "s": "67   (be) full of fat and salt; by   68   (eat) more fast food people will get more salt and fat than they need in their diet.",
+     "src": "2017全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "67   （充满）脂肪和盐；通过   68   （吃）更多快餐，人们会摄入超过饮食所需的盐和脂肪。"
+    },
+    {
+     "s": "Recently，I conceptualized a new approach to timekeeping that's connected to circumstances on our planet，conditions that might change as a result of global warming．We're now building a clock at the Anchorage Museum that reflects the total flow of several major Alaskan rivers，which are sensitive to local and global environmental changes．We've programmed it to match an atomic clock if the waterways continue to flow at their present rate．If the rivers run faster in the future on average，the clock will get ahead of standard time．If they run slower，you'll see the opposite effect．",
+     "src": "2021北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "最近，我构想了一种与地球环境状况相关的新计时方法，而这些状况可能因全球变暖而改变。我们现在正在安克雷奇博物馆建造一座时钟，它反映阿拉斯加几条主要河流的总流量，这些河流对地方和全球的环境变化十分敏感。我们已对它编程：如果水道继续以目前速率流动，它就与原子钟同步；如果未来河流平均流速加快，时钟就会跑在标准时间前面；如果变慢，则会出现相反效果。"
+    },
+    {
+     "s": "That said, with a bang of the starting gun, I would dive into the cold water with all my strength and swim to the other side of the pool as fast as I could, only to find that the other swimmers slid past me.",
+     "src": "2023天津6月卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "话虽如此，随着发令枪响，我会全力扎进冷水中，尽可能快地游向泳池另一边，却发现其他游泳者从我身边滑过。"
+    },
+    {
+     "s": "I was running so fast that I bounced off the trunk and  40   on my backside.",
+     "src": "2020浙江1月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "我跑得太快，结果撞到树干弹了回来，___40___摔在了屁股上。"
+    },
+    {
+     "s": "They developed very fast.",
+     "src": "2018全国I卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "它们发展得非常快。"
+    },
+    {
+     "s": "Even    66   (bad), the amount of fast food that people eat goes up.",
+     "src": "2017全国I卷·语法填空",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "更    66   （糟）的是，人们吃的快餐量上升了。"
+    },
+    {
+     "s": "So in physics class on Monday, l did the same, but the teacher spoke so fast that l couldn't take everything down.",
+     "src": "外研社B1 U1",
+     "cat": "waiyan",
+     "t": "所以周一的物理课上，我也照做了，但老师讲得太快了，我都没来得及全部记下来。"
+    },
+    {
+     "s": "We need the ability to work out which messes are worth avoiding — because however impressively fast you move, some things can’t be easily unbroken.",
+     "src": "2026北京卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "我们需要具备分辨哪些混乱值得避免的能力——因为无论你行动得多快，有些东西一旦打破就很难复原。"
+    },
+    {
+     "s": "Hospital patients Who see tree branches out their window are likely to recover at a faster rate than patients who see buildings or sky instead.",
+     "src": "2019全国I卷·Is Fresh Air Really Good for You?",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "从窗户能看到树枝的医院病人，康复速度可能比看建筑和天空的病人更快。"
+    },
+    {
+     "s": "Psychologist Frank Farley has spent years studying people who jump out of planes and drive fast cars, as well as those who climb Qomolangma.",
+     "src": "外研社B3 U5",
+     "cat": "waiyan",
+     "t": "心理学家Frank Farley花了多年时间研究那些跳伞、开快车的人，以及那些攀登珠峰的人。"
+    },
+    {
+     "s": "The music industry is developing fast now.",
+     "src": "外研社B1 U3",
+     "cat": "waiyan",
+     "t": "音乐产业现在发展迅速。"
+    },
+    {
+     "s": "Stop eating fast food and have breakfast every day.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "停止吃快餐，每天要吃早餐。"
+    }
+   ]
+  },
+  {
+   "def": "in a short time; without delay 不久；立即",
+   "ex": [
+    {
+     "s": "The rain was coming down so hard and so fast.",
+     "src": "外研社B3 U6",
+     "cat": "waiyan",
+     "t": "雨下得又大又急。"
+    }
+   ]
+  },
+  {
+   "def": "firmly; completely 牢固地；完全地",
+   "ex": []
+  }
+ ],
+ "chunks": [
+  {
+   "en": "fast as",
+   "cn": "快像",
+   "type": "形容词短语",
+   "count": 2
+  },
+  {
+   "en": "fast and",
+   "cn": "快",
+   "type": "形容词短语",
+   "count": 2
+  }
+ ]
 }
