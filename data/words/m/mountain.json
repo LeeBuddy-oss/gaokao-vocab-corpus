@@ -1,314 +1,295 @@
 {
-  "meta": {
-    "ph": "ˈmaʊntən; NAmE ˈmaʊntn",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈmaʊntən; NAmE ˈmaʊntn",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "a very high hill, often with rocks near the top 高山；山岳",
+   "ex": [
+    {
+     "s": "Appropriately, the book took shape during a summer spent between sea and mountains.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "恰如其分地，这本书是在一个穿梭于海与山之间的夏天里成形的。"
+    },
+    {
+     "s": "Some mountains are getting higher.",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "一些山正在变高。"
+    },
+    {
+     "s": "Mountains to Seas: Ups and Downs",
+     "src": "2026新高考II卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2026,
+     "t": "《从山到海：起起伏伏》"
+    },
+    {
+     "s": "The Carlow Autumn Walking Festival is a great opportunity for the beginner, experienced or advanced walker to enjoy the challenges of Carlow’s mountain hikes or the peace of its woodland walks.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "Carlow秋季徒步节是初学者、有经验或高阶徒步者享受Carlow山地徒步挑战或林间漫步宁静的绝佳机会。"
+    },
+    {
+     "s": "This mountain walk provides an insight into the skills required for hillwalking to ensure you get the most from future walking trips.",
+     "src": "2024新高考II卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2024,
+     "t": "这场山间漫步让您深入了解山间漫步所需的技能，以确保您从未来的徒步之旅中获得最大收益。"
+    },
+    {
+     "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
+     "src": "2023天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "30年代初，我决定登上乞力马扎罗山，这是非洲最高的山峰，海拔5,895米。"
+    },
+    {
+     "s": "Y.—Dorothy Woodruff and Rosamond Underwood—traveled to a settlement in the Rocky Mountains to teach in a one-room schoolhouse.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "多萝西·伍德拉夫和罗莎蒙德·安德伍德前往落基山脉的一个定居点，在一间只有一间教室的校舍里教书。"
+    },
+    {
+     "s": "Here is a picture of Dorothy Woodruff, on her horse, looking down from a hill top: “When the sun slipped behind the mountains, it shed a rosy glow all around them.",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "这里有一张多萝西·伍德拉夫骑在马上的照片，从山顶俯瞰：当太阳滑到山后，它在他们四周洒下玫瑰色的光辉。"
+    },
+    {
+     "s": "Why did Dorothy and Rosamond go to the Rocky Mountains?",
+     "src": "2022全国乙卷·阅读理解B",
+     "cat": "gaokao",
+     "year": 2022,
+     "t": "多萝西和罗莎蒙德为什么去落基山脉？"
+    },
+    {
+     "s": "The hot spring at the foot of the mountain is something you must try after the climb.",
+     "src": "2021卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "山脚下的温泉是你爬完山一定要试的。"
+    },
+    {
+     "s": "He climbed a mountain.",
+     "src": "2021新高考II卷",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "他爬了一座山。"
+    },
+    {
+     "s": "Robbie Pruitt admitted that he got 16   when he discovered the theft of his mountain bike last September.",
+     "src": "2021天津3月卷·完形填空",
+     "cat": "gaokao",
+     "year": 2021,
+     "t": "罗比·普鲁特承认去年9月发现他的山地自行车被偷时他很   16   愤怒。"
+    },
+    {
+     "s": "Discover the China of“past ages，its walled cities，temples and mountain scenery with Prof  Robert Thorp.",
+     "src": "2020全国III卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "与Robert Thorp教授一起发现\"过去时代\"的中国，它的城墙环绕的城市、寺庙和山地风光。"
+    },
+    {
+     "s": "As the small boat moved,   68   (gentle) along the river he was left speechless by the mountains being silently reflected in the water.",
+     "src": "2020全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "当小船移动时，   68  （轻柔）地沿河而下，群山在水中静静倒影的景象让他哑口无言。"
+    },
+    {
+     "s": "He passed milky white waterfalls and mountains in many shades of blue.",
+     "src": "2020全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "他经过乳白色的瀑布和呈现各种蓝色调的山峦。"
+    },
+    {
+     "s": "69   (surround) the mountain tops, he was reduced to tears.",
+     "src": "2020全国III卷·语法填空",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "69  （环绕）山顶，他感动得流下了眼泪。"
+    },
+    {
+     "s": "Every year about 40,000 people attempt to climb Kilimanjaro, the highest mountain in Africa.",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "每年大约有40,000人尝试攀登乞力马扎罗山——非洲最高的山峰。"
+    },
+    {
+     "s": "I find a   47   mountain, with toilets at camps and along the paths.",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我发现一座___47___的山，营地和小径旁都有厕所。"
+    },
+    {
+     "s": "Does Kilimanjaro   60   its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace？I found the opposite to be true.",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "乞力马扎罗山___60___它作为一座拥挤、游客排成长队破坏宁静氛围的山之名声了吗？我发现事实恰恰相反。"
+    },
+    {
+     "s": "No area was spared or unaffected, from the foggy northern coast to the Sierra Nevada Mountains to the San Gabriels above Los Angeles.",
+     "src": "2019浙江卷",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "从多雾的北部海岸，到内华达山脉，再到洛杉矶上方的圣加布里埃尔山，没有哪个地区幸免或不受影响。"
+    },
+    {
+     "s": "We have such roles as project managers，mountain leaders，and communication officers.",
+     "src": "2019北京卷·阅读理解A",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "我们有项目经理、登山领队和沟通干事等角色。"
+    },
+    {
+     "s": "They travelled over snow-covered mountains and sailed hundreds of miles up icy rivers.",
+     "src": "2018全国III卷·B源",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "他们翻越被雪覆盖的群山，沿冰封的河流航行了数百英里。"
+    },
+    {
+     "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
+     "src": "2018浙江6月卷·读后续写",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
+    },
+    {
+     "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
+     "src": "2018天津卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。"
+    },
+    {
+     "s": "（10分）Some people live to climb the highest mountains． Some people live only dreaming about it while others live to avoid ever climbing at all． But one thing is certain， all people encounter mountains in their life．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "21．（10分）有些人活着是为了攀登最高的山峰。有些人只活在梦想里，而另一些人活着则完全避免去爬。但有一件事是确定的：所有人一生中都会遇到山。"
+    },
+    {
+     "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "我还是个小女孩时，全家搬到了大山脚下的一座小镇。一天放学后，在探索这座壮丽山峰的青翠树林时，我几乎摔在一段台阶上。这些台阶会通向哪里呢？好奇心战胜了我，因为我知道天很快就要黑了。我开始攀登那些神秘的台阶。"
+    },
+    {
+     "s": "But something inside me was going to climb that mountain at all cost． I could hardly wait to try this adventure again．",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "但我内心有股力量要不惜一切代价去爬那座山。我迫不及待地想再试一次这次冒险。"
+    },
+    {
+     "s": "Now we live in a world surrounded by the \"can't do\" attitudes． We all fall down． We all have doubts and regrets． Still we must climb and dream about what's at the top of our mountain． Monsters may appear or the night will fall． But never ever give up on your dream!",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "如今我们生活在一个被“做不到”态度包围的世界。我们都会跌倒。我们都有疑虑和悔恨。但我们仍须攀登，梦想山顶的风景。怪物可能出现，夜幕可能降临。但永远不要放弃你的梦想！"
+    },
+    {
+     "s": "（1）What made the author start to climb up the stairs to the mountain top？（no more than 5 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（1）是什么让作者开始爬上通往山顶的台阶？（不超过5个词）"
+    },
+    {
+     "s": "（2）Why did the author hurry back home without reaching the top of the mountain？ Give two reasons．（no more than 15 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（2）作者为什么没有到达山顶就匆忙回家？给出两个原因。（不超过15个词）"
+    },
+    {
+     "s": "（5）What's your attitude towards the\"mountain\"in your life？Please explain．（no more than 20 words）",
+     "src": "2018天津卷",
+     "cat": "gaokao",
+     "year": 2018,
+     "t": "（5）你对你生命中的“山”持什么态度？请说明。（不超过20个词）"
+    },
+    {
+     "s": "When the war was near, Alia was  38  that the fires of war would destroy the books, which are more  39  to her than mountain of gold.",
+     "src": "2017浙江6月卷·七选五",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "当战争临近时，Alia 担心   38   战火会毁掉这些书，这些书对她来说比一座金山更  39  。"
+    },
+    {
+     "s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.",
+     "src": "2017江苏卷·阅读理解D",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "在秘鲁，一座山峰的冰川已成为气候变化的牺牲品，周围的当地农民开始把整个山顶漆成白色，希望增加的反射率能恢复那赋予生命的冰。"
+    },
+    {
+     "s": "What was the weather like in the mountains yesterday?",
+     "src": "2017北京卷",
+     "cat": "gaokao",
+     "year": 2017,
+     "t": "昨天山里的天气怎么样？"
+    },
+    {
+     "s": "Reaching as far as the eye can see, these terraces cover tall mountains, often from the bottom to the very top.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "这些梯田延绵至目力所及之处，覆盖着座座高山，常常从山脚一直延伸到山顶。"
+    }
+   ]
   },
-  "defs": [
+  {
+   "def": "a very large amount or number of sth 许多；大量",
+   "ex": [
     {
-      "def": "a very high hill, often with rocks near the top 高山；山岳",
-      "ex": [
-        {
-          "s": "Appropriately, the book took shape during a summer spent between sea and mountains.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "恰如其分地，这本书是在一个穿梭于海与山之间的夏天里成形的。"
-        },
-        {
-          "s": "Some mountains are getting higher.",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "一些山正在变高。"
-        },
-        {
-          "s": "Mountains to Seas: Ups and Downs",
-          "src": "2026新高考II卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2026,
-          "t": "《从山到海：起起伏伏》"
-        },
-        {
-          "s": "The Carlow Autumn Walking Festival is a great opportunity for the beginner, experienced or advanced walker to enjoy the challenges of Carlow’s mountain hikes or the peace of its woodland walks.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "Carlow秋季徒步节是初学者、有经验或高阶徒步者享受Carlow山地徒步挑战或林间漫步宁静的绝佳机会。"
-        },
-        {
-          "s": "This mountain walk provides an insight into the skills required for hillwalking to ensure you get the most from future walking trips.",
-          "src": "2024新高考II卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2024,
-          "t": "这场山间漫步让您深入了解山间漫步所需的技能，以确保您从未来的徒步之旅中获得最大收益。"
-        },
-        {
-          "s": "In my early thirties, I decided to climb Mount Kilimanjaro, the highest mountain in Africa at 5, 895 meters above sea level.",
-          "src": "2023天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "30年代初，我决定登上乞力马扎罗山，这是非洲最高的山峰，海拔5,895米。"
-        },
-        {
-          "s": "Y.—Dorothy Woodruff and Rosamond Underwood—traveled to a settlement in the Rocky Mountains to teach in a one-room schoolhouse.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "多萝西·伍德拉夫和罗莎蒙德·安德伍德前往落基山脉的一个定居点，在一间只有一间教室的校舍里教书。"
-        },
-        {
-          "s": "Here is a picture of Dorothy Woodruff, on her horse, looking down from a hill top: “When the sun slipped behind the mountains, it shed a rosy glow all around them.",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "这里有一张多萝西·伍德拉夫骑在马上的照片，从山顶俯瞰：当太阳滑到山后，它在他们四周洒下玫瑰色的光辉。"
-        },
-        {
-          "s": "Why did Dorothy and Rosamond go to the Rocky Mountains?",
-          "src": "2022全国乙卷·阅读理解B",
-          "cat": "gaokao",
-          "year": 2022,
-          "t": "多萝西和罗莎蒙德为什么去落基山脉？"
-        },
-        {
-          "s": "The hot spring at the foot of the mountain is something you must try after the climb.",
-          "src": "2021卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "山脚下的温泉是你爬完山一定要试的。"
-        },
-        {
-          "s": "He climbed a mountain.",
-          "src": "2021新高考II卷",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "他爬了一座山。"
-        },
-        {
-          "s": "Robbie Pruitt admitted that he got 16   when he discovered the theft of his mountain bike last September.",
-          "src": "2021天津3月卷·完形填空",
-          "cat": "gaokao",
-          "year": 2021,
-          "t": "罗比·普鲁特承认去年9月发现他的山地自行车被偷时他很   16   愤怒。"
-        },
-        {
-          "s": "Discover the China of“past ages，its walled cities，temples and mountain scenery with Prof  Robert Thorp.",
-          "src": "2020全国III卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "与Robert Thorp教授一起发现\"过去时代\"的中国，它的城墙环绕的城市、寺庙和山地风光。"
-        },
-        {
-          "s": "As the small boat moved,   68   (gentle) along the river he was left speechless by the mountains being silently reflected in the water.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "当小船移动时，   68  （轻柔）地沿河而下，群山在水中静静倒影的景象让他哑口无言。"
-        },
-        {
-          "s": "He passed milky white waterfalls and mountains in many shades of blue.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "他经过乳白色的瀑布和呈现各种蓝色调的山峦。"
-        },
-        {
-          "s": "69   (surround) the mountain tops, he was reduced to tears.",
-          "src": "2020全国III卷·语法填空",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "69  （环绕）山顶，他感动得流下了眼泪。"
-        },
-        {
-          "s": "Every year about 40,000 people attempt to climb Kilimanjaro, the highest mountain in Africa.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "每年大约有40,000人尝试攀登乞力马扎罗山——非洲最高的山峰。"
-        },
-        {
-          "s": "I find a   47   mountain, with toilets at camps and along the paths.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我发现一座___47___的山，营地和小径旁都有厕所。"
-        },
-        {
-          "s": "Does Kilimanjaro   60   its reputation as a crowded mountain with lines of tourists ruining the atmosphere of peace？I found the opposite to be true.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "乞力马扎罗山___60___它作为一座拥挤、游客排成长队破坏宁静氛围的山之名声了吗？我发现事实恰恰相反。"
-        },
-        {
-          "s": "No area was spared or unaffected, from the foggy northern coast to the Sierra Nevada Mountains to the San Gabriels above Los Angeles.",
-          "src": "2019浙江卷",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "从多雾的北部海岸，到内华达山脉，再到洛杉矶上方的圣加布里埃尔山，没有哪个地区幸免或不受影响。"
-        },
-        {
-          "s": "We have such roles as project managers，mountain leaders，and communication officers.",
-          "src": "2019北京卷·阅读理解A",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "我们有项目经理、登山领队和沟通干事等角色。"
-        },
-        {
-          "s": "They travelled over snow-covered mountains and sailed hundreds of miles up icy rivers.",
-          "src": "2018全国III卷·B源",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "他们翻越被雪覆盖的群山，沿冰封的河流航行了数百英里。"
-        },
-        {
-          "s": "So, my dad and I put on our new cowboy hats, got on our horses, and headed slowly towards the mountains.",
-          "src": "2018浙江6月卷·读后续写",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "于是，我和爸爸戴上新的牛仔帽，骑上马，慢慢朝山里走去。"
-        },
-        {
-          "s": "One chilly night when I was hiking in the Rocky Mountains with some students, I mentioned that we were going to cross a mountain stream.",
-          "src": "2018天津卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "一个寒冷的夜晚，我和几个学生在落基山脉徒步，我提到我们要穿过一条山溪。"
-        },
-        {
-          "s": "（10分）Some people live to climb the highest mountains． Some people live only dreaming about it while others live to avoid ever climbing at all． But one thing is certain， all people encounter mountains in their life．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "21．（10分）有些人活着是为了攀登最高的山峰。有些人只活在梦想里，而另一些人活着则完全避免去爬。但有一件事是确定的：所有人一生中都会遇到山。"
-        },
-        {
-          "s": "When I was a little girl， my family moved to a tiny town at the bottom of a big mountain． One day after school， while exploring the green woods of this magnificent mountain， I almost fell on a set of stairs． What could these steps lead to？ Curiosity got the best of me as I knew it would be starting to get dark soon． I started climbing up those strangely mysterious steps．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "我还是个小女孩时，全家搬到了大山脚下的一座小镇。一天放学后，在探索这座壮丽山峰的青翠树林时，我几乎摔在一段台阶上。这些台阶会通向哪里呢？好奇心战胜了我，因为我知道天很快就要黑了。我开始攀登那些神秘的台阶。"
-        },
-        {
-          "s": "But something inside me was going to climb that mountain at all cost． I could hardly wait to try this adventure again．",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "但我内心有股力量要不惜一切代价去爬那座山。我迫不及待地想再试一次这次冒险。"
-        },
-        {
-          "s": "Now we live in a world surrounded by the \"can't do\" attitudes． We all fall down． We all have doubts and regrets． Still we must climb and dream about what's at the top of our mountain． Monsters may appear or the night will fall． But never ever give up on your dream!",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "如今我们生活在一个被“做不到”态度包围的世界。我们都会跌倒。我们都有疑虑和悔恨。但我们仍须攀登，梦想山顶的风景。怪物可能出现，夜幕可能降临。但永远不要放弃你的梦想！"
-        },
-        {
-          "s": "（1）What made the author start to climb up the stairs to the mountain top？（no more than 5 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（1）是什么让作者开始爬上通往山顶的台阶？（不超过5个词）"
-        },
-        {
-          "s": "（2）Why did the author hurry back home without reaching the top of the mountain？ Give two reasons．（no more than 15 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（2）作者为什么没有到达山顶就匆忙回家？给出两个原因。（不超过15个词）"
-        },
-        {
-          "s": "（5）What's your attitude towards the\"mountain\"in your life？Please explain．（no more than 20 words）",
-          "src": "2018天津卷",
-          "cat": "gaokao",
-          "year": 2018,
-          "t": "（5）你对你生命中的“山”持什么态度？请说明。（不超过20个词）"
-        },
-        {
-          "s": "When the war was near, Alia was  38  that the fires of war would destroy the books, which are more  39  to her than mountain of gold.",
-          "src": "2017浙江6月卷·七选五",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "当战争临近时，Alia 担心   38   战火会毁掉这些书，这些书对她来说比一座金山更  39  。"
-        },
-        {
-          "s": "In Peru, local farmers around a mountain with a glacier that has already fallen victim to climate change have begun painting the entire mountain peak white in the hope that the added reflectiveness will restore the life-giving ice.",
-          "src": "2017江苏卷·阅读理解D",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "在秘鲁，一座山峰的冰川已成为气候变化的牺牲品，周围的当地农民开始把整个山顶漆成白色，希望增加的反射率能恢复那赋予生命的冰。"
-        },
-        {
-          "s": "What was the weather like in the mountains yesterday?",
-          "src": "2017北京卷",
-          "cat": "gaokao",
-          "year": 2017,
-          "t": "昨天山里的天气怎么样？"
-        },
-        {
-          "s": "Reaching as far as the eye can see, these terraces cover tall mountains, often from the bottom to the very top.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "这些梯田延绵至目力所及之处，覆盖着座座高山，常常从山脚一直延伸到山顶。"
-        }
-      ]
+     "s": "Mountains are   51   as spiritual places by many cultures.",
+     "src": "2019全国I卷·完形填空",
+     "cat": "gaokao",
+     "year": 2019,
+     "t": "许多文化将山脉视为精神圣地。"
     },
     {
-      "def": "a very large amount or number of sth 许多；大量",
-      "ex": [
-        {
-          "s": "Mountains are   51   as spiritual places by many cultures.",
-          "src": "2019全国I卷·完形填空",
-          "cat": "gaokao",
-          "year": 2019,
-          "t": "许多文化将山脉视为精神圣地。"
-        },
-        {
-          "s": "An eagle flew over the snow-capped mountains, which were reflected in the still lake below.",
-          "src": "外研社B1 U5",
-          "cat": "waiyan",
-          "t": "一只鹰飞越白雪皑皑的山峰，山峰倒映在下方平静的湖水中。"
-        },
-        {
-          "s": "Understanding ideas (two pictures) (picture 1) Zhuang people (picture 2) Yao people Longji Rice Terraces 1 Imagine mountains wrapped in silver water, shining in the spring sun.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "理解思路：想象群山被银色的水包裹，在春天的阳光下闪闪发光。"
-        },
-        {
-          "s": "Summer sees the mountains turn bright green with growing rice.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "夏季，这些山随着水稻的生长变成明亮的绿色。"
-        },
-        {
-          "s": "During autumn, these same mountains are gold, and in winter they are covered in sheets white frost.",
-          "src": "外研社B1 U6",
-          "cat": "waiyan",
-          "t": "秋天，这些山峦一片金黄，冬天则覆盖着一层白霜。"
-        }
-      ]
+     "s": "An eagle flew over the snow-capped mountains, which were reflected in the still lake below.",
+     "src": "外研社B1 U5",
+     "cat": "waiyan",
+     "t": "一只鹰飞越白雪皑皑的山峰，山峰倒映在下方平静的湖水中。"
+    },
+    {
+     "s": "Understanding ideas (two pictures) (picture 1) Zhuang people (picture 2) Yao people Longji Rice Terraces 1 Imagine mountains wrapped in silver water, shining in the spring sun.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "理解思路：想象群山被银色的水包裹，在春天的阳光下闪闪发光。"
+    },
+    {
+     "s": "Summer sees the mountains turn bright green with growing rice.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "夏季，这些山随着水稻的生长变成明亮的绿色。"
+    },
+    {
+     "s": "During autumn, these same mountains are gold, and in winter they are covered in sheets white frost.",
+     "src": "外研社B1 U6",
+     "cat": "waiyan",
+     "t": "秋天，这些山峦一片金黄，冬天则覆盖着一层白霜。"
     }
-  ],
-  "chunks": [
-    {
-      "en": "highest mountain",
-      "cn": "高山",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "rocky mountains",
-      "cn": "高山",
-      "type": "名词短语",
-      "count": 3
-    },
-    {
-      "en": "mountain top",
-      "cn": "高山顶",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+   ]
+  }
+ ],
+ "chunks": []
 }
