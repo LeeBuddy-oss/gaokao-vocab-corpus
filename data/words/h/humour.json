@@ -1,180 +1,173 @@
 {
-  "meta": {
-    "ph": "ˈhjuːmə(r); NAmE ˈhjuːmər",
-    "pos": "noun",
-    "stars": ""
+ "meta": {
+  "ph": "ˈhjuːmə(r); NAmE ˈhjuːmər",
+  "pos": "noun",
+  "stars": ""
+ },
+ "defs": [
+  {
+   "def": "the quality in sth that makes it funny or amusing; the ability to laugh at things that are amusing 幽默；幽默感",
+   "ex": [
+    {
+     "s": "He makes philosophical thought an appealing exercise that improves the quality of our experiences, and he does so with plenty of humor.",
+     "src": "2023全国甲卷·阅读理解C",
+     "cat": "gaokao",
+     "year": 2023,
+     "t": "他让哲学思考成为一种吸引人的练习，提升我们体验的质量，而且他做得充满幽默。"
+    },
+    {
+     "s": "If you see humor as an optional form of entertainment, you’re missing some of its biggest benefits: Humor makes average-looking people look cute and uninteresting people seem entertaining.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "如果你把幽默看作一种可有可无的娱乐形式，你就错过了它最大的好处之一：幽默让长相普通的人显得可爱，让无趣的人显得有趣。"
+    },
+    {
+     "s": "Best of all, humor raises your energy, and that can have an effect on everything you do at school, at work, or in your personal life.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "最好的是，幽默可以提高你的能量，这可以影响你在学校，工作或个人生活中所做的一切。"
+    },
+    {
+     "s": "Humor lets you better understand life and sometimes helps you laugh at even the worst of your problems.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "幽默让你更好地理解生活，有时甚至能让你对最糟糕的问题一笑置之。"
+    },
+    {
+     "s": "In my experience, most people think they have a sense of humor, and to some degree that’s true.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "依我的经验，大多数人都认为自己有幽默感，而且在某种程度上这是真的。"
+    },
+    {
+     "s": "But not all senses of humor are created equal.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "但并非所有的幽默感都是生来平等的。"
+    },
+    {
+     "s": "People need permission to be funny in social settings because there’s always a risk that comes with humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "在社交场合，人们需要被允许才能表现风趣，因为幽默总伴随着风险。"
+    },
+    {
+     "s": "For in-person humor, quality isn’t as important as you might think.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "对于面对面的幽默来说，质量并不像你想象的那么重要。"
+    },
+    {
+     "s": "The problem comes when you start doing too much complaint-based humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "问题在于你开始做太多基于抱怨的幽默。"
+    },
+    {
+     "s": "Studies show that a good sense of humor even makes you seem smarter.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "研究表明，良好的幽默感甚至会让你显得更聪明。"
+    },
+    {
+     "s": "You don’t have to be the joke teller in the group in order to show your sense of humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你不必成为群体中的笑话王才能展示你的幽默感。"
+    },
+    {
+     "s": "So even if your own efforts at humor fall short, you might be freeing the long kept humor in others.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "所以即使你自己的幽默努力不够完美，你也可能释放了他人心中长期压抑的幽默。"
+    },
+    {
+     "s": "One self-deprecating comment is a generous and even confident form of humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "一句自嘲的话是一种大方、甚至自信的幽默形式。"
+    },
+    {
+     "s": "The Importance of Humour 1 Humour has been an essential part of human behaviour for thousands of years.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "幽默的重要性 1 几千年来，幽默一直是人类行为的一个重要组成部分。"
+    },
+    {
+     "s": "While these same jokes might not be as funny to us now as they were then, their authors understood that humour could not only entertain but also throw new light on sensitive or emotive issues.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "虽然这些笑话现在对我们来说可能不像当时那么有趣，但它们的作者明白，幽默不仅可以娱乐，还可以为敏感或情感问题带来新的启发。"
+    },
+    {
+     "s": "I always have to stand when that fellow lectures!” 3 Like Twain, but on the other side of the world, Lin Yutang was soon to become famous for his unique brand of humour.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "“那个家伙讲课时我总得站着！”3 与吐温相似，但在地球另一端，林语堂很快便以其独特的幽默风格闻名。"
+    },
+    {
+     "s": "A well-known bilingual writer, Lin brought the concept of humour to modern Chinese literature.",
+     "src": "外研社B4 U1",
+     "cat": "waiyan",
+     "t": "作为一位著名的双语作家，林语堂将幽默的概念引入到现代中国文学中。"
+    },
+    {
+     "s": "Humor also transports your mind away from your daily troubles.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "幽默还能让你的思绪从日常烦恼中转移开来。"
+    },
+    {
+     "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "你可以成为那个把对话引向有趣话题的人，让他人有机会添加幽默。"
+    },
+    {
+     "s": "When it comes to in-person humor, effort counts a lot.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "对于面对面的幽默来说，努力很重要。"
+    },
+    {
+     "s": "So I thought it would be useful to include some humor tips for everyday life.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "所以我认为把一些日常生活中的幽默技巧包括进来会有用。"
+    },
+    {
+     "s": "Some people--and I was one of them--believe that humorous complaints about the little problems of life make humor, and sometimes that is the case.",
+     "src": "2020江苏卷·Humor",
+     "cat": "gaokao",
+     "year": 2020,
+     "t": "有些人 -- 我也是其中之一 -- 相信幽默的抱怨 生活的小问题 使幽默，有时就是这样。"
+    }
+   ]
   },
-  "defs": [
-    {
-      "def": "the quality in sth that makes it funny or amusing; the ability to laugh at things that are amusing 幽默；幽默感",
-      "ex": [
-        {
-          "s": "He makes philosophical thought an appealing exercise that improves the quality of our experiences, and he does so with plenty of humor.",
-          "src": "2023全国甲卷·阅读理解C",
-          "cat": "gaokao",
-          "year": 2023,
-          "t": "他让哲学思考成为一种吸引人的练习，提升我们体验的质量，而且他做得充满幽默。"
-        },
-        {
-          "s": "If you see humor as an optional form of entertainment, you’re missing some of its biggest benefits: Humor makes average-looking people look cute and uninteresting people seem entertaining.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "如果你把幽默看作一种可有可无的娱乐形式，你就错过了它最大的好处之一：幽默让长相普通的人显得可爱，让无趣的人显得有趣。"
-        },
-        {
-          "s": "Best of all, humor raises your energy, and that can have an effect on everything you do at school, at work, or in your personal life.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "最好的是，幽默可以提高你的能量，这可以影响你在学校，工作或个人生活中所做的一切。"
-        },
-        {
-          "s": "Humor lets you better understand life and sometimes helps you laugh at even the worst of your problems.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "幽默让你更好地理解生活，有时甚至能让你对最糟糕的问题一笑置之。"
-        },
-        {
-          "s": "In my experience, most people think they have a sense of humor, and to some degree that’s true.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "依我的经验，大多数人都认为自己有幽默感，而且在某种程度上这是真的。"
-        },
-        {
-          "s": "But not all senses of humor are created equal.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "但并非所有的幽默感都是生来平等的。"
-        },
-        {
-          "s": "People need permission to be funny in social settings because there’s always a risk that comes with humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "在社交场合，人们需要被允许才能表现风趣，因为幽默总伴随着风险。"
-        },
-        {
-          "s": "For in-person humor, quality isn’t as important as you might think.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对于面对面的幽默来说，质量并不像你想象的那么重要。"
-        },
-        {
-          "s": "The problem comes when you start doing too much complaint-based humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "问题在于你开始做太多基于抱怨的幽默。"
-        },
-        {
-          "s": "Studies show that a good sense of humor even makes you seem smarter.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "研究表明，良好的幽默感甚至会让你显得更聪明。"
-        },
-        {
-          "s": "You don’t have to be the joke teller in the group in order to show your sense of humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你不必成为群体中的笑话王才能展示你的幽默感。"
-        },
-        {
-          "s": "So even if your own efforts at humor fall short, you might be freeing the long kept humor in others.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以即使你自己的幽默努力不够完美，你也可能释放了他人心中长期压抑的幽默。"
-        },
-        {
-          "s": "One self-deprecating comment is a generous and even confident form of humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "一句自嘲的话是一种大方、甚至自信的幽默形式。"
-        },
-        {
-          "s": "The Importance of Humour 1 Humour has been an essential part of human behaviour for thousands of years.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "幽默的重要性 1 几千年来，幽默一直是人类行为的一个重要组成部分。"
-        },
-        {
-          "s": "While these same jokes might not be as funny to us now as they were then, their authors understood that humour could not only entertain but also throw new light on sensitive or emotive issues.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "虽然这些笑话现在对我们来说可能不像当时那么有趣，但它们的作者明白，幽默不仅可以娱乐，还可以为敏感或情感问题带来新的启发。"
-        },
-        {
-          "s": "I always have to stand when that fellow lectures!” 3 Like Twain, but on the other side of the world, Lin Yutang was soon to become famous for his unique brand of humour.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "“那个家伙讲课时我总得站着！”3 与吐温相似，但在地球另一端，林语堂很快便以其独特的幽默风格闻名。"
-        },
-        {
-          "s": "A well-known bilingual writer, Lin brought the concept of humour to modern Chinese literature.",
-          "src": "外研社B4 U1",
-          "cat": "waiyan",
-          "t": "作为一位著名的双语作家，林语堂将幽默的概念引入到现代中国文学中。"
-        },
-        {
-          "s": "Humor also transports your mind away from your daily troubles.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "幽默还能让你的思绪从日常烦恼中转移开来。"
-        },
-        {
-          "s": "You can be the one who directs the conversation to fun topics that are ripe for others to add humor.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "你可以成为那个把对话引向有趣话题的人，让他人有机会添加幽默。"
-        },
-        {
-          "s": "When it comes to in-person humor, effort counts a lot.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "对于面对面的幽默来说，努力很重要。"
-        },
-        {
-          "s": "So I thought it would be useful to include some humor tips for everyday life.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "所以我认为把一些日常生活中的幽默技巧包括进来会有用。"
-        },
-        {
-          "s": "Some people--and I was one of them--believe that humorous complaints about the little problems of life make humor, and sometimes that is the case.",
-          "src": "2020江苏卷·Humor",
-          "cat": "gaokao",
-          "year": 2020,
-          "t": "有些人 -- 我也是其中之一 -- 相信幽默的抱怨 生活的小问题 使幽默，有时就是这样。"
-        }
-      ]
-    },
-    {
-      "def": "the state of your feelings or mind at a particular time 感觉；心情；精神状态",
-      "ex": []
-    },
-    {
-      "def": "one of the four liquids that were thought in the past to be in a person's body and to influence health and character 体液（旧时认为存在人体内，有四种，可影响健康和性格）",
-      "ex": []
-    }
-  ],
-  "chunks": [
-    {
-      "en": "humour humour",
-      "cn": "幽默幽默",
-      "type": "名词短语",
-      "count": 2
-    }
-  ]
+  {
+   "def": "the state of your feelings or mind at a particular time 感觉；心情；精神状态",
+   "ex": []
+  },
+  {
+   "def": "one of the four liquids that were thought in the past to be in a person's body and to influence health and character 体液（旧时认为存在人体内，有四种，可影响健康和性格）",
+   "ex": []
+  }
+ ],
+ "chunks": []
 }
