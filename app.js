@@ -1,9 +1,9 @@
-const WORDS_URL = 'data/words.json?v=20260828aab';
+const WORDS_URL = 'data/words.json?v=20260828aac';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260828aab';
-const DICT_URL = 'data/en_cn_dict.json?v=20260828aab';
+const STATS_URL = 'data/stats.json?v=20260828aac';
+const DICT_URL = 'data/en_cn_dict.json?v=20260828aac';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -181,15 +181,36 @@ async function sha256(text) {
   return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
-// 启动时检查：已通过验证的浏览器直接进入
+// 启动检查：已通过验证的浏览器直接进入；支持带 token 的分享链接
 function initGate() {
+  focusGateInput();
   try {
+    // 带 token 的链接直接进入（便于可信分享，免去每次输入）
+    const params = new URLSearchParams(location.search);
+    const t = params.get('t');
+    if (t) {
+      sha256(t).then(h => {
+        if (h === ACCESS_CODE_SHA256) {
+          try { localStorage.setItem(GATE_KEY, '1'); } catch (e2) {}
+          updateLogoutBtn(true);
+          hideAuthOverlay();
+          // 通过后清空 URL 中的 token，避免明文残留于地址栏/历史
+          try { history.replaceState(null, '', location.pathname); } catch (e3) {}
+        } else {
+          showAuthOverlay();
+        }
+      });
+      return;
+    }
     if (localStorage.getItem(GATE_KEY) === '1') {
       updateLogoutBtn(true);
       return;
     }
   } catch (e) { /* localStorage 不可用时仍显示门槛 */ }
   showAuthOverlay();
+}
+
+function focusGateInput() {
   setTimeout(() => {
     const input = document.getElementById('access-code');
     if (input) input.focus();
@@ -260,8 +281,8 @@ async function init() {
   loadStats();
   try {
     const [wr, mr, dr] = await Promise.all([
-      fetch(WORDS_URL + '?v=20260828aab'),
-      fetch(WORDS_BASE + 'manifest.json?v=20260828aab'),
+      fetch(WORDS_URL + '?v=20260828aac'),
+      fetch(WORDS_BASE + 'manifest.json?v=20260828aac'),
       fetch(DICT_URL)
     ]);
     WORDS = wr.ok ? await wr.json() : [];
@@ -475,7 +496,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260828aab'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260828aac'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
