@@ -1,9 +1,9 @@
-const WORDS_URL = 'data/words.json?v=20260827aaa';
+const WORDS_URL = 'data/words.json?v=20260828aab';
 const INDEX_BASE = 'data/index/';
 const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
-const STATS_URL = 'data/stats.json?v=20260827aaa';
-const DICT_URL = 'data/en_cn_dict.json?v=20260827aaa';
+const STATS_URL = 'data/stats.json?v=20260828aab';
+const DICT_URL = 'data/en_cn_dict.json?v=20260828aab';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -152,7 +152,7 @@ const $result = document.getElementById('result');
 const $empty = document.getElementById('empty');
 
 /* ========== 访问码门槛（免注册，输入一次永久记住） ========== */
-const ACCESS_CODE_SHA256 = '24c387b7cd22a79876fe121fb1cd9a191c8a77167f692ac8c251c5b449895eb6'; // sha256(访问码=课题编号)
+const ACCESS_CODE_SHA256 = '8d0431c87470adcd45571c9c7d56454fcf972686adc999fe71d52dd05fe3ab15'; // sha256(xbjy2026)
 const GATE_KEY = 'gk_gate_ok';
 const $overlay   = document.getElementById('auth-overlay');
 const $authMsg   = document.getElementById('auth-msg');
@@ -260,8 +260,8 @@ async function init() {
   loadStats();
   try {
     const [wr, mr, dr] = await Promise.all([
-      fetch(WORDS_URL + '?v=20260827aaa'),
-      fetch(WORDS_BASE + 'manifest.json?v=20260827aaa'),
+      fetch(WORDS_URL + '?v=20260828aab'),
+      fetch(WORDS_BASE + 'manifest.json?v=20260828aab'),
       fetch(DICT_URL)
     ]);
     WORDS = wr.ok ? await wr.json() : [];
@@ -475,7 +475,7 @@ async function search(rawWord) {
 
   try {
     // 词条（小文件）、思维导图（已预热）、词性变换表 并行加载
-    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260827aaa'), ensureMindmap(letter), ensureFamily()]);
+    const [res] = await Promise.all([fetch(WORDS_BASE + rel + '?v=20260828aab'), ensureMindmap(letter), ensureFamily()]);
     if (!res.ok) { renderNotFound(word); return; }
     const entry = await res.json();
     const fam = (FAMILY_INDEX && FAMILY_INDEX[word.toLowerCase()]) ? FAMILY_INDEX[word.toLowerCase()] : null;
