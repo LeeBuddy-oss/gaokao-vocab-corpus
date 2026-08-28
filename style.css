@@ -230,6 +230,7 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   white-space: nowrap; /* 避免页脚文字在中间换行 */
 }
 .foot .copy { color: var(--faint); font-size: 12px; }
+.foot .license { color: #e53935; font-size: 13px; font-weight: 700; }
 /* 小屏允许页脚换行，避免横向溢出 */
 @media (max-width: 720px) {
   .foot { white-space: normal; }
@@ -556,6 +557,17 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   line-height: 1.7 !important;
 }
 .auth-note b { color: var(--title) !important; }
+.auth-license {
+  font-size: 13px !important;
+  color: #e53935 !important;
+  background: #fff4f1;
+  border: 1px solid #f0c9bd;
+  border-radius: 8px;
+  padding: 8px 10px;
+  line-height: 1.6 !important;
+  margin-top: 4px;
+  font-weight: 700 !important;
+}
 .auth-enter {
   width: 100%;
   margin-top: 18px;
