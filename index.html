@@ -7,7 +7,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
-<link rel="stylesheet" href="style.css?v=20260828aag" />
+<link rel="stylesheet" href="style.css?v=20260828aah" />
 </head>
 <body>
 <!-- 访问码门槛：输入一次后永久记住 -->
@@ -72,38 +72,36 @@
   <span>例句来源于高考真题及高中英语教材，仅用于学术研究与教学交流，不作商业用途。中文翻译由AI提供，如有错误，请以英文原句为准。</span>
   <span class="license">⚠️ 内容仅供个人教学，禁止二次分发与商用。</span>
   <span class="copy">本网站系深圳市教育科学规划2023年度校本专项研究课题《语料库技术促进高考英语主题词汇深度学习的行动研究》的阶段性研究成果</span>
-  <!-- 51.la 数据挂件：显示 总访问量 + 今日访客数（在线才加载，离线自动跳过） -->
+  <!-- 51.la 数据挂件：显示 总访问量 + 今日访客数 -->
   <div class="la-widget-count" id="la-widget-count"></div>
 </footer>
 
-<!-- 51.la 访问统计：先探测网络，能联网才注入，离线打开零报错 -->
+<!-- 51.la 访问统计：在线正常显示，离线/加载失败时静默不报错 -->
 <script>
 (function () {
-  function load51la() {
-    var w = document.createElement('script');
-    w.id = 'LA-DATA-WIDGET';
-    w.crossOrigin = 'anonymous';
-    w.charset = 'UTF-8';
-    w.src = 'https://v6-widget.51.la/v6/3QseTkrfL73yg81l/quote.js?theme=0&col=true&f=12&display=0,0,1,0,0,0,0,1';
-    document.getElementById('la-widget-count').appendChild(w);
+  var container = document.getElementById('la-widget-count');
+  function loadScript(src, onload) {
     var s = document.createElement('script');
     s.charset = 'UTF-8';
-    s.src = 'https://sdk.51.la/js-sdk-pro.min.js';
-    s.onload = function () { if (window.LA) LA.init({ id: "3QseTkrfL73yg81l", ck: "3QseTkrfL73yg81l" }); };
+    s.src = src;
+    s.onerror = function () { /* 离线或网络异常时静默忽略 */ };
+    if (onload) s.onload = onload;
     document.body.appendChild(s);
   }
-  // 仅当能解析 51.la 域名时才加载统计（离线/白板直接跳过，不影响内容与功能）
-  var img = new Image();
-  var done = false;
-  var t = setTimeout(function () { if (!done) { done = true; /* 超时即视为离线，跳过 */ } }, 1500);
-  img.onload = img.onerror = function () {
-    if (done) return; done = true; clearTimeout(t);
-    // onerror 表示网络不通（离线），不加载统计；onload 表示可达，加载
-    if (img.naturalWidth !== 0 || img.width !== 0) load51la();
-  };
-  img.src = 'https://sdk.51.la/favicon.ico?' + Date.now();
+  // 数据挂件
+  var w = document.createElement('script');
+  w.id = 'LA-DATA-WIDGET';
+  w.crossOrigin = 'anonymous';
+  w.charset = 'UTF-8';
+  w.src = 'https://v6-widget.51.la/v6/3QseTkrfL73yg81l/quote.js?theme=0&col=true&f=12&display=0,0,1,0,0,0,0,1';
+  w.onerror = function () { if (container) container.style.display = 'none'; };
+  if (container) container.appendChild(w);
+  // 统计 SDK
+  loadScript('https://sdk.51.la/js-sdk-pro.min.js', function () {
+    if (window.LA) LA.init({ id: "3QseTkrfL73yg81l", ck: "3QseTkrfL73yg81l" });
+  });
 })();
 </script>
-<script src="app.js?v=20260828aag"></script>
+<script src="app.js?v=20260828aah"></script>
 </body>
 </html>
