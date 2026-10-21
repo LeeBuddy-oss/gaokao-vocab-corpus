@@ -4,6 +4,8 @@ const MINDMAP_BASE = 'data/mindmap/';
 const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
+const PRACTICE_BASE = 'data/practice/';
+const PRACTICE_VER = '20261021i';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -504,6 +506,7 @@ async function search(rawWord) {
     $empty.hidden = true;
     const mmHtml = renderMindMap(word, entry);
     renderEntry(entry, word, mmHtml, fam, variants);
+    appendPractice(word);   // 主题词汇巩固练（异步追加，不阻塞词条渲染）
   } catch (e) {
     console.error(e);
   }
@@ -3163,6 +3166,590 @@ function renderFamily(word, fam) {
       </tr></tbody>
     </table>
   </div>`;
+}
+
+/* ========== 主题词汇巩固练（主题语境阅读 + 三项任务） ========== */
+let PRACTICE_INDEX = null;
+
+// 异步追加练习模块；词条切换时不串词
+async function appendPractice(word) {
+  try {
+    if (!PRACTICE_INDEX) {
+      const r = await fetch(PRACTICE_BASE + 'manifest.json?v=' + PRACTICE_VER);
+      PRACTICE_INDEX = r.ok ? await r.json() : {};
+    }
+    const file = PRACTICE_INDEX[String(word || '').toLowerCase()];
+    if (!file) return;
+    const r2 = await fetch(PRACTICE_BASE + file + '?v=' + PRACTICE_VER);
+    if (!r2.ok) return;
+    const data = await r2.json();
+    // 竞态保护：用户可能已切到其它词条
+    const head = $result.querySelector('.word-head .w');
+    if (!head || head.textContent.trim().toLowerCase() !== String(word).toLowerCase()) return;
+    const holder = document.createElement('div');
+    holder.innerHTML = renderPractice(word, data);
+    const node = holder.firstElementChild;
+    if (node) {
+      $result.appendChild(node);
+      bindPractice(node, data);
+    }
+  } catch (e) { /* 练习缺失时静默，不影响词条展示 */ }
+}
+
+// 阅读文本：圈码序号 + 目标词高亮
+function _pracPassageHtml(paras, word) {
+  const safe = String(word).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const re = new RegExp('\\b' + safe + '(?:s|es|ed|ing)?\\b', 'gi');
+  return (paras || []).map(p => {
+    let t = esc(p);
+    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮])/g, '<span class="prac-circ">$1</span>');
+    t = t.replace(re, m => '<b class="prac-kw">' + m + '</b>');
+    return '<p class="prac-p">' + t + '</p>';
+  }).join('');
+}
+
+function renderPractice(word, d) {
+  const t1 = d.task1 || {}, t2 = d.task2 || {}, t3 = d.task3 || {};
+  const letters = ['A','B','C','D','E','F','G','H','I','J'];
+  const nOpt = (t1.options || []).length;
+
+  // Task 1：下拉选择 + 核对
+  let t1Html = '';
+  (t1.items || []).forEach((it, i) => {
+    let opts = '<option value="">—</option>';
+    for (let k = 0; k < nOpt; k++) {
+      const L = letters[k];
+      opts += `<option value="${L}">${L}</option>`;
+    }
+    t1Html += `<div class="prac-item" data-idx="${i}">` +
+      `<span class="prac-num">${i + 1}.</span>` +
+      `<span class="prac-q">${esc(it.q || '')}</span>` +
+      `<select class="prac-select">${opts}</select>` +
+      `<span class="prac-mark"></span>` +
+      `<div class="prac-why"></div>` +
+      `</div>`;
+  });
+  const t1Options = (t1.options || []).map(o => `<div class="prac-opt">${esc(o)}</div>`).join('');
+
+  // Task 2：翻译（每题下方带书写横线）
+  const t2Html = (t2.items || []).map((s, i) =>
+    `<div class="prac-item prac-t2-item"><span class="prac-num">${i + 1}.</span><span class="prac-q">${esc(s)}</span>` +
+    `<textarea class="prac-input" rows="1" data-t2="${i}" placeholder="在此输入你的英文翻译"></textarea></div>`
+  ).join('');
+
+  // Task 3：微写作（每条线可输入）
+  const bank = (t3.wordbank || []).map(w => `<span class="prac-bank">${esc(w)}</span>`).join('');
+  const lines = Array.from({ length: t3.lines || 6 }, (_, i) =>
+    `<div class="prac-line"><span class="prac-num">${i + 1}.</span><textarea class="prac-input" rows="1" data-t3="${i}" placeholder="在此书写你的句子"></textarea></div>`
+  ).join('');
+
+  // 参考答案
+  const t1Ans = (t1.answers || []).map((a, i) =>
+    `<li><b>${esc(a.key)}</b>　${esc(a.why || '')}</li>`).join('');
+  const t2Ans = (t2.answers || []).map(s => `<li>${esc(s)}</li>`).join('');
+  const t3Ans = (t3.answers || []).map(s => `<li>${esc(s)}</li>`).join('');
+
+  return `<div class="wv-wrap practice-wrap">
+    <div class="wv-header">
+      <span class="wv-title">主题词汇巩固练</span>
+      <span class="wv-subtitle">${esc(d.subtitle || '')}</span>
+    </div>
+    <div class="prac-meta">${esc(d.meta || '')}</div>
+    <div class="prac-doc-title">${esc(d.title || '')}</div>
+    <div class="prac-intro">${esc(d.intro || '')}</div>
+
+    <div class="prac-sec-title">Reading</div>
+    <div class="prac-passage">${_pracPassageHtml(d.passage || [], word)}</div>
+
+    <div class="prac-sec-title">${esc(t1.title || '')}</div>
+    <div class="prac-task-intro">${esc(t1.intro || '')}</div>
+    <div class="prac-options">${t1Options}</div>
+    <div class="prac-items">${t1Html}</div>
+    <div class="prac-btn-row"><button class="prac-btn prac-btn-blue" data-act="submit1">提交 Task 1 答案</button></div>
+
+    <div class="prac-sec-title">${esc(t2.title || '')}</div>
+    <div class="prac-task-intro">${esc(t2.intro || '')}</div>
+    <div class="prac-items">${t2Html}</div>
+    <div class="prac-btn-row"><button class="prac-btn prac-btn-blue" data-act="submit2">提交 Task 2 答案</button></div>
+
+    <div class="prac-sec-title">${esc(t3.title || '')}</div>
+    <div class="prac-task-intro">${esc(t3.intro || '')}</div>
+    <div class="prac-bank-wrap">${bank}</div>
+    <div class="prac-items">${lines}</div>
+    <div class="prac-btn-row"><button class="prac-btn prac-btn-blue" data-act="submit3">提交 Task 3 写作</button></div>
+
+    <div class="prac-ans-toggle"><button class="prac-btn prac-btn-ans" data-act="answers">显示参考答案</button></div>
+    <div class="prac-answers" hidden>
+      <div class="prac-ans-note">${esc(d.answersNote || '参考答案')}</div>
+      <div class="prac-ans-sec">${esc(t1.title || 'Task 1')}</div>
+      <ol class="prac-ans-list">${t1Ans}</ol>
+      <div class="prac-ans-sec">${esc(t2.title || 'Task 2')}</div>
+      <ol class="prac-ans-list">${t2Ans}</ol>
+      <div class="prac-ans-sec">${esc(t3.title || 'Task 3')}（示例）</div>
+      <ol class="prac-ans-list">${t3Ans}</ol>
+    </div>
+  </div>`;
+}
+
+// ====== 巩固练：云服务 AI（Task 3 点拨） ======
+// 以下两项来自 WorkBuddy 云服务 publicConfig（publishableKey 本身无权限，服务端校验 Origin）
+const CLOUD_CONFIG = {
+  endpoint: 'https://gaokao-vocab-16064.app.workbuddy.host',
+  oauthRelayBaseUrl: 'https://www.workbuddy.cn/v2/as/genie-baas/oauth',
+  publishableKey: 'wbpk_AsTULSglknZYIEFQdc6seg_QVIiHUHye83ewKI4SMTGqbgQkKXGS1U5'
+};
+let _cloudClient = null;
+function _getCloud() {
+  if (!_cloudClient && window.WorkBuddyCloud) {
+    try {
+      _cloudClient = window.WorkBuddyCloud.createWorkBuddyCloud({
+        endpoint: CLOUD_CONFIG.endpoint,
+        oauthRelayBaseUrl: CLOUD_CONFIG.oauthRelayBaseUrl,
+        publishableKey: CLOUD_CONFIG.publishableKey
+      });
+    } catch (e) { _cloudClient = null; }
+  }
+  return _cloudClient;
+}
+
+const _PRAC_AI_SYSTEM = '你是一位资深高中英语写作批改老师。学生提交的是一篇围绕指定课标词（见用户消息中的"目标课标词"）的英语语境写作（5-6 句）。' +
+  '请从三个方面给出具体、可操作的批改，并用简体中文说明、英文示例：' +
+  '1) vocab：词汇升级——指出可以用更高级/更准确的表达替换的词或短语；' +
+  '2) grammar：语法纠正——指出语法错误并给出正确写法（主谓一致、时态、单复数、冠词、介词等）；' +
+  '3) polish：润色点拨——句子衔接、逻辑、地道表达方面的提升建议；' +
+  '4) overall：一段 60 字以内的总评，先肯定亮点再指出主要努力方向。' +
+  '只输出 JSON 对象，不要输出任何其它文字，格式：' +
+  '{"vocab":[{"from":"学生原词","to":"升级建议","note":"中文理由"}],' +
+  '"grammar":[{"from":"错误原文","to":"改正后","note":"中文说明"}],' +
+  '"polish":["建议1","建议2"],"overall":"总评"}。' +
+  '若某一方面确实没有问题，就给空数组；grammar 若无错误不要编造错误。';
+
+async function _pracAICritique(text, word) {
+  const cloud = _getCloud();
+  if (!cloud) throw new Error('AI 服务初始化失败，请刷新页面重试');
+  const models = await cloud.llm.models.list();
+  // 优先使用响应快的模型，缺席时退回第一个可用模型
+  const prefer = ['deepseek-v4-flash', 'glm-5.3-flash'];
+  let model = null;
+  for (const id of prefer) {
+    const m = models.find(x => x.id === id && x.disabled !== true);
+    if (m) { model = m; break; }
+  }
+  if (!model) model = models.find(m => m.disabled !== true);
+  if (!model) throw new Error('AI 模型暂不可用，请稍后再试');
+  let out = '';
+  for await (const chunk of cloud.llm.chat.completions.create({
+    model: model.id,
+    messages: [
+      { role: 'system', content: _PRAC_AI_SYSTEM },
+      { role: 'user', content: '目标课标词：' + (word || '') + '\n学生习作：\n' + String(text || '').slice(0, 3000) }
+    ],
+    stream: true,
+    response_format: { type: 'json_object' }
+  })) {
+    const d = chunk.choices && chunk.choices[0] && chunk.choices[0].delta;
+    if (d && d.content) out += d.content;
+  }
+  let obj = null;
+  try { obj = JSON.parse(out); } catch (e) {
+    const m = out.match(/\{[\s\S]*\}/);
+    if (m) { try { obj = JSON.parse(m[0]); } catch (e2) {} }
+  }
+  if (!obj) throw new Error('AI 返回格式异常，请重试');
+  return obj;
+}
+
+// ====== 巩固练结果页辅助 ======
+
+// 柱形图：labels 各柱标签，vals 各柱取值 0~1
+function _pracChartHtml(labels, vals) {
+  const cols = labels.map((l, i) => {
+    const v = Math.round((vals[i] || 0) * 100);
+    const cls = v >= 80 ? 'c-ok' : (v >= 50 ? 'c-mid' : 'c-bad');
+    return `<div class="prac-col"><div class="prac-col-val">${v}%</div>` +
+      `<div class="prac-bar-zone"><div class="prac-bar ${cls}" style="height:${Math.max(v, 2)}%"></div></div>` +
+      `<div class="prac-col-label">${esc(String(l))}</div></div>`;
+  }).join('');
+  return `<div class="prac-chart-wrap"><div class="prac-chart">${cols}</div></div>`;
+}
+
+function _pracFbHtml(head, items) {
+  return `<div class="prac-fb"><div class="prac-fb-head">${esc(head)}</div>` +
+    `<ul>${items.map(s => `<li>${esc(s)}</li>`).join('')}</ul></div>`;
+}
+
+// （结果改为就地显示在提交按钮下方，不再跳转）
+
+// Task 1 反馈：rate 正答率，wrongs [{idx,key,why}]
+// 从选项里提炼"义项简称"，用于生成分词的反馈（不依赖具体单词）
+function _pracSenseNames(t1) {
+  const names = [];
+  const add = t => { if (t && names.indexOf(t) < 0) names.push(t); };
+  (t1.options || []).forEach(o => {
+    let t = String(o).replace(/^[A-J][.、]\s*/, '');
+    if (/^固定搭配/.test(t)) { add('固定搭配'); return; }
+    t = t.replace(/^(n|v|adj|adv|prep|conj|pron)\.\s*/i, '');
+    t = t.replace(/（[^）]*）/g, '').replace(/\([^)]*\)/g, '');
+    t = t.replace(/^\s*[、，,]\s*/, '').trim();
+    const first = t.split(/[；;]/)[0].trim();
+    add(first.length >= 2 ? first : t.replace(/[；;]/g, '／'));
+  });
+  return names;
+}
+
+function _pracT1Feedback(t1, total, right, wrongs, word) {
+  const rate = total ? right / total : 0;
+  const pct = Math.round(rate * 100);
+  const W = word || '该词';
+  const senses = _pracSenseNames(t1);
+  const senseTxt = senses.slice(0, 5).join('、') + (senses.length > 5 ? ' 等' : '');
+  let head, tips = [];
+  if (rate === 1) {
+    head = `太棒了，${total} 题全对（${pct}%）！`;
+    tips.push(`说明你已能在语境中准确辨认 ${W} 的各项含义，请保持这个状态。`);
+    tips.push(`下一步建议：把这份练习里的 ${senses.length} 种用法（${senseTxt}）各仿写一个句子，用到你自己的作文里。`);
+    tips.push('一周后重做本练习，检验记忆是否保持。');
+  } else if (rate >= 0.8) {
+    head = `完成得不错，正答率 ${pct}%，离满分只差一步！`;
+  } else if (rate >= 0.6) {
+    head = `基本掌握，正答率 ${pct}%，还有几个义项需要巩固。`;
+  } else {
+    head = `本次正答率 ${pct}%，不要灰心，这正是提高的起点。`;
+  }
+  if (rate < 1) {
+    const byKey = {};
+    wrongs.forEach(w => { (byKey[w.key] = byKey[w.key] || []).push(w.idx + 1); });
+    const optMap = {};
+    (t1.options || []).forEach(o => { const L = o.slice(0, 1); optMap[L] = o.slice(2).trim(); });
+    const parts = Object.keys(byKey).map(k => `第 ${byKey[k].join('、')} 题应选「${esc(optMap[k] || k)}」`).join('；');
+    if (parts) tips.push(`错题回顾：${parts}。请回读 Reading 中对应编号的句子，结合上下文再体会一次。`);
+    tips.push('把每道错题的解析抄进积累本，并仿照原句各造一个新句子——会辨认更要会使用。');
+    tips.push('先重读 Reading 全文一遍，再回来重新作答，争取下一次 100%。');
+  }
+  return _pracFbHtml('学习建议', [head].concat(tips));
+}
+
+// Task 2 反馈：按与参考答案完全一致的句数
+function _pracT2FeedbackAuto(total, right, word) {
+  const rate = total ? right / total : 0;
+  const pct = Math.round(rate * 100);
+  const W = word || '该词';
+  let head, tips = [];
+  if (rate === 1) {
+    head = `${total} 句全部与参考答案一致，翻译功底扎实！`;
+    tips.push(`建议把 ${total} 个参考答案中的地道表达抄进积累本并背诵，尤其是含 ${W} 的那几句——它们体现了这个词在真实语境中的搭配。`);
+    tips.push(`挑战一下：明天不看参考答案，把这 ${total} 句再默写一遍。`);
+  } else if (rate >= 0.8) {
+    head = `整体不错，${right}/${total} 句与参考答案完全一致，个别句子还需打磨。`;
+  } else if (rate >= 0.5) {
+    head = `${right}/${total} 句完全一致，部分句型还需加强。`;
+    tips.push('先回读 Reading，找到每个翻译点对应的原句，模仿其结构再翻译。');
+    tips.push(`把没译出的词块各造一个新句，特别是 ${W} 的固定搭配，加深印象。`);
+    tips.push('明天只重做本次标红的句子。');
+  } else {
+    head = `${right}/${total} 句一致，别着急，翻译本来就需要反复练习。`;
+    tips.push('第一步：对照参考答案，把每句话大声朗读 3 遍，熟悉句子结构。');
+    tips.push('第二步：盖住参考答案，看中文逐句口头翻译，再写下来。');
+    tips.push('第三步：明天重新提交一次，和自己今天比一比。');
+  }
+  if (rate < 1) {
+    tips.push('语言修改方法：逐句看红色标记——漏词就补、误词就换、语序不对就调整，改完把整句重抄一遍，比只看答案记得牢。');
+    tips.push('注意词形变化：名词单复数、动词第三人称/时态、比较级最高级，这些是翻译题最常见的失分点。');
+  }
+  return _pracFbHtml('学习建议', [head].concat(tips));
+}
+
+// Task 3 反馈：checks 4 项达成情况
+function _pracT3Crits(word) {
+  return [
+    `至少使用了 ${word || '该词'} 的 3 种不同用法`,
+    '至少使用了词块表中的 3 个词语',
+    '句子结构准确，没有影响理解的语法错误',
+    '内容连贯，有自己的观点'
+  ];
+}
+function _pracT3Feedback(checks, word) {
+  const W = word || '该词';
+  const done = checks.filter(Boolean).length;
+  const pct = Math.round(done / checks.length * 100);
+  const head = done === checks.length
+    ? '四项标准全部达成，这篇语境写作已经达到高考范文水准！'
+    : `达成 ${done}/4 项（${pct}%），按下面的建议逐项完善。`;
+  const tips = [];
+  const fixMap = [
+    `回看 Reading，圈出其中 ${W} 的不同用法，确保你的短文至少覆盖 3 种。修改时把用到的用法标注在句子旁。`,
+    '从词块表里再挑 2—3 个词，自然地嵌入你的句子；没用的词先想好搭配再落笔。',
+    '朗读你的短文，凭语感找不通顺的地方；重点检查主谓一致、时态和名词单复数，逐句修改。',
+    '在短文结尾加一句总结或感受，让文章有明确的观点；可参考 Task 3 示例文的写法。'
+  ];
+  checks.forEach((ok, i) => { if (!ok) tips.push(fixMap[i]); });
+  if (done === checks.length) {
+    tips.push(`把这篇短文抄进作文本，作为 ${W} 用法的个人范例保存。`);
+    tips.push('尝试用同样的结构写另一个课标词的微写作，实现方法迁移。');
+  } else {
+    tips.push('修改完成后，回来重新勾选自评，看看能不能达成全部 4 项。');
+  }
+  return _pracFbHtml('学习建议', [head].concat(tips));
+}
+
+// ====== Task 2 逐词比对（标准答案唯一判分） ======
+function _pracTokSpans(s) {
+  const spans = [];
+  const re = /[A-Za-z0-9']+/g;
+  let m;
+  while ((m = re.exec(String(s || '')))) {
+    const t = m[0].toLowerCase().replace(/^'+|'+$/g, '');
+    if (t) spans.push({ t, start: m.index, end: m.index + m[0].length });
+  }
+  return spans;
+}
+
+// LCS 对齐后标注：学生句中不在对齐上的词=误写（红），参考句中未对齐的词=漏写（红下划线）
+function _pracDiff(stu, ref) {
+  const A = _pracTokSpans(stu), B = _pracTokSpans(ref);
+  const n = A.length, m = B.length;
+  const dp = Array.from({ length: n + 1 }, () => new Array(m + 1).fill(0));
+  for (let i = n - 1; i >= 0; i--) {
+    for (let j = m - 1; j >= 0; j--) {
+      dp[i][j] = A[i].t === B[j].t ? dp[i + 1][j + 1] + 1 : Math.max(dp[i + 1][j], dp[i][j + 1]);
+    }
+  }
+  const aMatch = new Array(n).fill(false), bMatch = new Array(m).fill(false);
+  let i = 0, j = 0;
+  while (i < n && j < m) {
+    if (A[i].t === B[j].t) { aMatch[i] = bMatch[j] = true; i++; j++; }
+    else if (dp[i + 1][j] >= dp[i][j + 1]) i++;
+    else j++;
+  }
+  function wrap(s, spans, marks, cls) {
+    let out = '', pos = 0;
+    spans.forEach((sp, k) => {
+      out += esc(s.slice(pos, sp.start));
+      out += marks[k] ? `<span class="${cls}">${esc(s.slice(sp.start, sp.end))}</span>` : esc(s.slice(sp.start, sp.end));
+      pos = sp.end;
+    });
+    out += esc(s.slice(pos));
+    return out;
+  }
+  const wrong = A.filter((sp, k) => !aMatch[k]).map(sp => sp.t);
+  const missing = B.filter((sp, k) => !bMatch[k]).map(sp => sp.t);
+  const ok = wrong.length === 0 && missing.length === 0;
+  return {
+    ok, wrong, missing,
+    stuHtml: wrap(stu, A, aMatch.map(x => !x), 'prac-err'),
+    refHtml: wrap(ref, B, bMatch.map(x => !x), 'prac-miss')
+  };
+}
+
+// Task 2 单句修改建议
+function _pracT2ItemTip(r) {
+  if (r.ok) return '与参考答案完全一致，非常好！';
+  const tips = [];
+  if (r.missing.length) tips.push(`漏掉了：${r.missing.join('、')}——对照参考答案把这部分补上。`);
+  if (r.wrong.length) tips.push(`这些词与参考答案不一致（已标红）：${r.wrong.join('、')}——检查用词、词形变化或词序。`);
+  tips.push('把红色部分改正后，在横线上重写一遍这个句子。');
+  return tips.join(' ');
+}
+
+function bindPractice(root, d) {
+  const t1 = d.task1 || {};
+  const letters = ['A','B','C','D','E','F','G','H','I','J'];
+
+  // 选择变化时清除上次批改结果
+  root.querySelectorAll('.prac-select').forEach(sel => {
+    sel.addEventListener('change', function () {
+      const item = this.closest('.prac-item');
+      item.querySelector('.prac-mark').textContent = '';
+      item.querySelector('.prac-mark').className = 'prac-mark';
+      item.querySelector('.prac-why').textContent = '';
+      item.classList.remove('prac-right', 'prac-wrong');
+    });
+  });
+
+  // 输入框自动增高（保持"下横线"外观）
+  root.querySelectorAll('.prac-input').forEach(ta => {
+    ta.addEventListener('input', function () {
+      this.style.height = 'auto';
+      this.style.height = this.scrollHeight + 'px';
+    });
+  });
+
+  // Task 1 判分（核对与提交共用），返回 {right,total,wrongs}
+  function gradeT1() {
+    let right = 0, total = 0;
+    const wrongs = [];
+    root.querySelectorAll('.prac-item[data-idx]').forEach(item => {
+      const i = Number(item.dataset.idx);
+      const ans = (t1.answers || [])[i];
+      if (!ans) return;
+      total++;
+      const sel = item.querySelector('.prac-select');
+      const mark = item.querySelector('.prac-mark');
+      const why = item.querySelector('.prac-why');
+      const val = (sel.value || '').toUpperCase();
+      const keys = String(ans.key || '').split('/').map(s => s.trim().toUpperCase()).filter(Boolean);
+      const ok = val && keys.includes(val);
+      item.classList.toggle('prac-right', !!ok);
+      item.classList.toggle('prac-wrong', !!(val && !ok));
+      mark.textContent = !val ? '—' : (ok ? '✓' : '✗');
+      mark.className = 'prac-mark ' + (ok ? 'mk-right' : (val ? 'mk-wrong' : ''));
+      why.textContent = ok ? '' : (val ? `正确答案：${ans.key}。${ans.why || ''}` : `参考答案：${ans.key}。${ans.why || ''}`);
+      if (ok) right++; else wrongs.push({ idx: i, key: (keys[0] || ''), why: ans.why || '' });
+    });
+    return { right, total, wrongs };
+  }
+
+  // 结果就地显示在提交按钮下方（不跳转）；重复提交时刷新内容
+  function inlineResult(btn) {
+    const row = btn.closest('.prac-btn-row') || btn;
+    let box = row.nextElementSibling;
+    if (!box || !box.classList.contains('prac-inline-result')) {
+      box = document.createElement('div');
+      box.className = 'prac-inline-result';
+      if (row.parentNode) row.parentNode.insertBefore(box, row.nextSibling);
+    }
+    box.innerHTML = '';
+    return box;
+  }
+
+  // —— 提交 Task 1：就地显示正答率柱形图与建议 ——
+  const submit1 = root.querySelector('[data-act="submit1"]');
+  if (submit1) {
+    submit1.addEventListener('click', function () {
+      const t1d = d.task1 || {};
+      const r = gradeT1();
+      const labels = (t1d.items || []).map((_, i) => String(i + 1));
+      const vals = (t1d.items || []).map((_, i) => r.wrongs.some(w => w.idx === i) ? 0 : 1);
+      const pct = r.total ? Math.round(r.right / r.total * 100) : 0;
+      const box = inlineResult(submit1);
+      box.innerHTML =
+        `<div class="prac-rate">Task 1 正答率：<b>${pct}%</b>（${r.right} / ${r.total} 题）</div>` +
+        _pracChartHtml(labels, vals) +
+        _pracT1Feedback(t1d, r.total, r.right, r.wrongs, d.word);
+      box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  }
+
+  // —— 提交 Task 2：逐词比对标准答案，自动判分 + 红色标记 + 修改建议 ——
+  const submit2 = root.querySelector('[data-act="submit2"]');
+  if (submit2) {
+    submit2.addEventListener('click', function () {
+      const t2d = d.task2 || {};
+      const items = t2d.items || [];
+      const results = items.map((s, i) => {
+        const ta = root.querySelector(`textarea[data-t2="${i}"]`);
+        const stu = (ta && ta.value.trim()) || '';
+        const ref = (t2d.answers || [])[i] || '';
+        const r = _pracDiff(stu, ref);
+        r.stu = stu; r.ref = ref;
+        return r;
+      });
+      const right = results.filter(r => r.ok).length;
+      const total = results.length;
+      const pct = total ? Math.round(right / total * 100) : 0;
+      const labels = items.map((_, i) => String(i + 1));
+      const rows = results.map((r, i) =>
+        `<div class="prac-cmp">` +
+        `<div class="prac-cmp-q">${i + 1}. ${esc(items[i])}　<span class="prac-mark ${r.ok ? 'mk-right' : 'mk-wrong'}">${r.ok ? '✓' : '✗'}</span></div>` +
+        `<div class="prac-cmp-stu">你的翻译：${r.stu ? r.stuHtml : '<i>（未作答）</i>'}</div>` +
+        `<div class="prac-cmp-ref">参考答案：${r.refHtml}</div>` +
+        `<div class="prac-cmp-tip">${esc(_pracT2ItemTip(r))}</div>` +
+        `</div>`).join('');
+      const box = inlineResult(submit2);
+      box.innerHTML =
+        `<div class="prac-rate">Task 2 正答率：<b>${pct}%</b>（${right} / ${total} 句与参考答案完全一致）</div>` +
+        _pracChartHtml(labels, results.map(r => r.ok ? 1 : 0)) +
+        _pracT2FeedbackAuto(total, right, d.word) + rows;
+      box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  }
+
+  // —— 提交 Task 3：四项标准自评 + AI 词汇升级/语法纠正/润色点拨 ——
+  const submit3 = root.querySelector('[data-act="submit3"]');
+  if (submit3) {
+    submit3.addEventListener('click', function () {
+      const wrote = Array.from(root.querySelectorAll('textarea[data-t3]'))
+        .filter(ta => ta.value.trim()).length;
+      const essayText = Array.from(root.querySelectorAll('textarea[data-t3]'))
+        .map(ta => ta.value.trim()).filter(Boolean).join('\n');
+      const crits = _pracT3Crits(d.word);
+      const checks = crits.map(() => false);
+      const rows = crits.map((c, i) =>
+        `<div class="prac-cmp"><div class="prac-self"><label>` +
+        `<input type="checkbox" data-t3c="${i}">　${esc(c)}` +
+        `</label></div></div>`).join('');
+      const body =
+        `<div class="prac-hint">语境写作没有唯一答案，请对照 4 项标准逐条自评；同时 AI 老师会从词汇升级、语法纠正、润色点拨三方面点评你的习作。${wrote === 0 ? '（检测到你还没有书写任何句子，建议先在 Task 3 完成初稿）' : `（已书写 ${wrote} 句）`}</div>` +
+        `<div class="prac-rate" data-role="t3-rate" style="display:none"></div>` +
+        `<div data-role="t3-chart"></div>` +
+        `<div data-role="t3-fb"></div>` + rows +
+        `<div class="prac-ai" data-role="t3-ai">` +
+        `<div class="prac-ai-title">AI 作文点拨</div>` +
+        (essayText
+          ? `<div class="prac-ai-loading" data-role="t3-ai-loading">AI 老师正在批改你的习作，请稍候……</div><div data-role="t3-ai-body"></div>`
+          : `<div class="prac-hint">没有检测到习作内容，先在 Task 3 写好后重新提交，AI 才能点评。</div>`) +
+        `</div>`;
+      const rn = inlineResult(submit3);
+      rn.innerHTML = body;
+      const rateEl = rn.querySelector('[data-role="t3-rate"]');
+      const chartEl = rn.querySelector('[data-role="t3-chart"]');
+      const fbEl = rn.querySelector('[data-role="t3-fb"]');
+      function refreshT3() {
+        const done = checks.filter(Boolean).length;
+        const pct = Math.round(done / checks.length * 100);
+        rateEl.style.display = '';
+        rateEl.innerHTML = `Task 3 自评达成率：<b>${pct}%</b>（${done} / 4 项标准）`;
+        chartEl.innerHTML = _pracChartHtml(
+          [`${d.word || '该词'} 用法≥3种`, '词块≥3个', '语法准确', '内容连贯'],
+          checks.map(Boolean)
+        );
+        fbEl.innerHTML = _pracT3Feedback(checks, d.word);
+      }
+      rn.querySelectorAll('input[data-t3c]').forEach(cb => {
+        cb.addEventListener('change', function () {
+          checks[Number(this.dataset.t3c)] = this.checked;
+          refreshT3();
+        });
+      });
+      refreshT3();
+      // AI 点拨（异步，不阻塞自评）
+      if (essayText) {
+        const aiBody = rn.querySelector('[data-role="t3-ai-body"]');
+        const loading = rn.querySelector('[data-role="t3-ai-loading"]');
+        _pracAICritique(essayText, d.word).then(res => {
+          if (loading) loading.style.display = 'none';
+          let html = '';
+          if (res.overall) html += `<div class="prac-ai-overall">${esc(res.overall)}</div>`;
+          const sec = (title, arr, fmt) => {
+            if (!arr || !arr.length) return '';
+            return `<div class="prac-ai-sec">${esc(title)}</div><ul class="prac-ai-list">` +
+              arr.map(x => `<li>${fmt(x)}</li>`).join('') + `</ul>`;
+          };
+          html += sec('词汇升级', res.vocab, x =>
+            `${esc(x.from)} → <b class="prac-ai-up">${esc(x.to)}</b>　${esc(x.note || '')}`);
+          html += sec('语法纠正', res.grammar, x =>
+            `${esc(x.from)} → <b class="prac-ai-up">${esc(x.to)}</b>　${esc(x.note || '')}`);
+          html += sec('润色点拨', res.polish, x => esc(typeof x === 'string' ? x : (x.text || '')));
+          aiBody.innerHTML = html || '<div class="prac-hint">AI 暂时没有给出具体建议，可稍后重新提交再试。</div>';
+        }).catch(err => {
+          if (loading) loading.style.display = 'none';
+          aiBody.innerHTML = `<div class="prac-hint">AI 点拨暂时不可用（${esc((err && err.message) || '网络异常')}），稍后可重新提交再试。</div>`;
+        });
+      }
+    });
+  }
+
+  // 参考答案折叠
+  const ansBtn = root.querySelector('[data-act="answers"]');
+  const ansBox = root.querySelector('.prac-answers');
+  if (ansBtn && ansBox) {
+    ansBtn.addEventListener('click', function () {
+      const show = ansBox.hidden;
+      ansBox.hidden = !show;
+      ansBtn.textContent = show ? '隐藏参考答案' : '显示参考答案';
+      if (show) ansBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  }
 }
 
 function renderEntry(entry, word, mmHtml, fam, variants) {
