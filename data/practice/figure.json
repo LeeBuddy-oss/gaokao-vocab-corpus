@@ -1,0 +1,89 @@
+{
+  "word": "figure",
+  "title": "Figures Behind a Nation",
+  "subtitle": "国家公民 · 主题语境阅读",
+  "theme": "国家公民（人与社会）",
+  "meta": "主题语境：国家公民（人与社会）　|　核心词汇：figure　|　正文 348 words　|　高三一轮复习",
+  "intro": "请阅读文章，根据上下文判断每一处 figure 的含义，再完成 Task 1—Task 3。",
+  "passage": [
+    "A country is more than a flag on a map. Behind the ① facts and figures in official reports stand ordinary people, whose daily choices hold the nation together.",
+    "Last spring, our county government published a report on population. The ② figures were striking: nearly a third of the residents were over sixty, and the number of schoolchildren had fallen by twelve percent in a decade. A ③ figure of 1.4 billion may sound impressive for a whole country, yet locally such numbers raise hard questions. Who will look after the elderly when their children work in distant cities? What will happen to the crowded schools that once served every village?",
+    "At first, few of us could ④ figure out what the report meant. Then a young official came to our community centre. Instead of quoting statistics, she described three families she had visited: an old couple who had not seen their son for two years, a single mother working two jobs, a boy who did his homework under a street lamp. Listening to her, I began to ⑤ figure that a good citizen is not simply someone who enjoys rights, but someone who notices what is missing and acts.",
+    "That winter, students started a weekend reading club for left-behind children. A retired doctor gave free health checks. Nobody paid them; they were motivated by what the constitution calls the duty of citizens. These are the inspirational ⑥ figures I admire most — not heroes in textbooks, but neighbours who turn concern into action.",
+    "Some people ⑦ figure the cost of such efforts in money and decide it is not worth it. I disagree. A republic is not kept alive by tax money alone, and patriotism is not a matter of waving a flag once a year. It grows from people who can read the ⑧ facts and figures, ⑨ figure out what they mean, and then do something small but real.",
+    "So when you next see a ⑩ figure in a report, do not skip it. Ask what it says about the person behind it. That habit, more than any speech, is what makes a country strong."
+  ],
+  "task1": {
+    "title": "Task 1　语境辨义",
+    "intro": "请将对应义项填入表中。",
+    "options": [
+      "A. n. 数字；统计数据",
+      "B. n. （具体的）数量",
+      "C. n. 人物；人士",
+      "D. n. 身材；体形",
+      "E. v. 认为；认定",
+      "F. v. 计算（成本、数量）",
+      "G. v. 弄明白；想出",
+      "H. 固定搭配：事实与数据"
+    ],
+    "items": [
+      { "q": "facts and figures in official reports" },
+      { "q": "The figures were striking." },
+      { "q": "A figure of 1.4 billion" },
+      { "q": "figure out what the report meant" },
+      { "q": "figure that..." },
+      { "q": "the inspirational figures I admire most" },
+      { "q": "figure the cost of such efforts" },
+      { "q": "read the facts and figures" },
+      { "q": "figure out what they mean" },
+      { "q": "see a figure in a report" }
+    ],
+    "answers": [
+      { "key": "H", "why": "facts and figures 是固定搭配，与 reports 呼应，指官方报告中的事实与数据。" },
+      { "key": "A", "why": "前面是 population report，后面是 were striking，复数 figures 指一组统计数字。" },
+      { "key": "B", "why": "a figure of + 具体数字（1.4 billion），取“数量”义，单数。" },
+      { "key": "G", "why": "figure out 后接 what 从句，且主语是人、对象是含义，取“弄明白”。" },
+      { "key": "E", "why": "figure 后直接跟 that 从句，表达看法，取“认为”。" },
+      { "key": "C", "why": "inspirational 修饰、后接 I admire most，且指学生与退休医生，取“人物”。" },
+      { "key": "F", "why": "宾语是 the cost，状语是 in money，取“计算”。" },
+      { "key": "H/A", "why": "与 read 搭配，仍是“事实与数据”；单看 figures 也可归为数据。" },
+      { "key": "G", "why": "同④，figure out + what they mean。" },
+      { "key": "A", "why": "see a figure、do not skip it，指报告里的一个数字。" }
+    ]
+  },
+  "task2": {
+    "title": "Task 2　语境运用",
+    "intro": "请把下列句子译成英文，括号里是必须用到的形式。",
+    "items": [
+      "政府公布了最新的官方数据。（official figures）",
+      "我弄不明白为什么这个县的人口在下降。（figure out）",
+      "他认为一个好公民应当履行自己的义务。（figure that）",
+      "她是我们社区最鼓舞人心的人物之一。（inspirational figures）",
+      "我们先把这个项目的成本算一下。（figure the cost）",
+      "我国人口超过十四亿，将近三分之一的居民住在城市。（a figure of / nearly）"
+    ],
+    "answers": [
+      "The government has published the latest official figures.",
+      "I cannot figure out why the population of this county is falling.",
+      "He figures that a good citizen should perform his or her duties.",
+      "She is one of the most inspirational figures in our community.",
+      "Let us figure the cost of the project first.",
+      "Our population is over a figure of 1.4 billion, and nearly a third of the residents live in cities."
+    ]
+  },
+  "task3": {
+    "title": "Task 3　语境写作",
+    "intro": "请写 5—6 个句子，至少使用 figure 的 3 种不同用法；至少使用下列词语中的 3 个。",
+    "wordbank": ["official", "government", "population", "billion", "nearly", "county", "right", "constitution", "motivate", "tax"],
+    "lines": 6,
+    "answers": [
+      "A good citizen is not someone who only enjoys rights, but someone who can read the facts and figures behind a problem.",
+      "When our county government published the population figures, few of us could figure out what they meant for ordinary families.",
+      "Only nearly a third of the young people in our county had voted, and that, I figure, is where the real problem lies.",
+      "The constitution promises us rights, but those rights are kept alive by people who are motivated to act, not by officials alone.",
+      "My neighbour is one of the most inspirational figures in my life: she pays her tax honestly and still finds time to help the old.",
+      "So I do not figure a citizen's worth by what he says, but by what small, real thing he does."
+    ]
+  },
+  "answersNote": "参考答案（完成 Task 1—Task 3 后再核对）"
+}
