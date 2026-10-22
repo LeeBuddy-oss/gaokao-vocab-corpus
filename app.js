@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261025a';
+const PRACTICE_VER = '20261025b';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
