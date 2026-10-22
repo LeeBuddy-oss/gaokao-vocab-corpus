@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261023p';
+const PRACTICE_VER = '20261023q';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -3202,8 +3202,10 @@ function _pracPassageHtml(paras, word) {
   const re = new RegExp('\\b' + safe + '(?:s|es|ed|ing)?\\b', 'gi');
   return (paras || []).map(p => {
     let t = esc(p);
-    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮])/g, '<span class="prac-circ">$1</span>');
+    // 先高亮目标词（此时 t 还是纯文本），再包圈码标签；
+    // 顺序反了会命中 <span class="prac-circ"> 里的属性名（如目标词 class）而破坏标签
     t = t.replace(re, m => '<b class="prac-kw">' + m + '</b>');
+    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮])/g, '<span class="prac-circ">$1</span>');
     return '<p class="prac-p">' + t + '</p>';
   }).join('');
 }
