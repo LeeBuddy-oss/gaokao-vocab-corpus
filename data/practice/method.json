@@ -1,0 +1,149 @@
+{
+  "word": "method",
+  "title": "The Forecast Machine",
+  "subtitle": "未来展望 · 主题语境阅读",
+  "theme": "未来展望（宇宙探索·未来与展望）",
+  "meta": "主题语境：未来展望（宇宙探索·未来与展望）　|　核心词汇：method　|　正文 403 words　|　高三一轮复习",
+  "intro": "请阅读文章，根据上下文判断每一处 method 的含义，再完成 Task 1—Task 3。",
+  "passage": [
+    "In the last year of school our class was given a machine that predicted the future. It was, in fact, a spreadsheet and a ① method: list what you know, list what you do not, and be honest about which list is longer. Our teacher called it the only ② method worth teaching, and then taught us eleven others, all of which she said were worse.",
+    "I used it badly at first. My ③ method was to fill every box with a number, because a blank box looks like ignorance and a wrong number looks like work. There was, she pointed out, ④ method in my madness but no arithmetic in it: I had put the same figure in eleven places and called it a trend.",
+    "The project was to say what the town would look like in 2050. Most of us ⑤ methodically predicted flying cars. One girl, whose father kept the post office, used a different ⑥ method entirely: she counted how many houses had one person living in them, and how many of those people were over seventy, and let the numbers argue. Her report was four pages and the rest of ours were twelve, and hers was the only one that has since come true, and the method behind it was arithmetic rather than hope, which is why it held.",
+    "What I remember now is not the prediction but the discipline. ⑦ Method, she said, is not the same as order; it is order with a reason attached. The ⑧ method she drilled into us — write the assumption down before the answer — is the only thing from that year I still use daily. Every method I have met since, in offices and laboratories and one very cold warehouse, is a variation on the same instruction; and inside the software I write now, where a ⑨ method is simply a small machine that does one thing and does not argue, the instruction is unchanged.",
+    "The town did change, though not in the way any of us wrote down. The post office is a hairdresser's now, the flying cars did not arrive, and the number of one-person houses went up exactly as she said. ⑩ Method, I have decided, is mostly a way of being caught out more slowly. There is method in keeping the old spreadsheets too: I still have mine, I am still wrong in the same places, and that is the most useful thing in them."
+  ],
+  "task1": {
+    "title": "Task 1　语境辨义",
+    "intro": "请将对应义项填入表中。",
+    "options": [
+      "A. n. 方法；办法；做法",
+      "B. n. 条理；系统性（与 order 相对的用法）",
+      "C. n. 教学法；教学方法",
+      "D. adv. 有条理地；有条不紊地（methodically）",
+      "E. 固定搭配：there is method in ... ……自有其道理／章法",
+      "F. 固定搭配：the method of doing（……的）具体步骤",
+      "G. n. 方法论；方法体系",
+      "H. n. （编程中的）方法；函数"
+    ],
+    "items": [
+      {
+        "q": "a spreadsheet and a method"
+      },
+      {
+        "q": "the only method worth teaching"
+      },
+      {
+        "q": "My method was to fill every box with a number"
+      },
+      {
+        "q": "method in my madness"
+      },
+      {
+        "q": "Most of us methodically predicted flying cars"
+      },
+      {
+        "q": "used a different method entirely"
+      },
+      {
+        "q": "Method, she said, is not the same as order"
+      },
+      {
+        "q": "The method she drilled into us"
+      },
+      {
+        "q": "a method is simply a small machine that does one thing"
+      },
+      {
+        "q": "Method, I have decided, is mostly a way of being caught out"
+      }
+    ],
+    "answers": [
+      {
+        "key": "A",
+        "why": "指一套具体的“方法、做法”：把已知与未知分别列出来。"
+      },
+      {
+        "key": "C",
+        "why": "与 teaching 同现，指“教学法”，老师说这是唯一值得教的那种。"
+      },
+      {
+        "key": "A",
+        "why": "指“我”自己的“做法”：每个格子都填上数字。"
+      },
+      {
+        "key": "E",
+        "why": "there is method in one's madness 意为“看似疯狂实有其道理”，化用莎翁名句。"
+      },
+      {
+        "key": "D",
+        "why": "methodically 作副词，意为“有条不紊地”，此处带讽刺：大家一本正经地预测飞行汽车。"
+      },
+      {
+        "key": "A",
+        "why": "指那个女生完全不同的“方法”：数独居老人户数。"
+      },
+      {
+        "key": "B",
+        "why": "此处 method 与 order 对举，指“条理、系统性”：条理加上理由才是方法。"
+      },
+      {
+        "key": "F",
+        "why": "the method of doing 指具体步骤：先写假设，再写答案。"
+      },
+      {
+        "key": "H",
+        "why": "编程术语中的“方法”，即一段只做一件事的小程序，与日常义不同。"
+      },
+      {
+        "key": "G",
+        "why": "此处 method 抽象为“方法论、方法体系”，说它只是让人慢一点被揭穿。"
+      }
+    ]
+  },
+  "task2": {
+    "title": "Task 2　语境运用",
+    "intro": "请把下列句子译成英文，括号里是必须用到的形式。",
+    "items": [
+      "老师说这是唯一值得教的方法。（method）",
+      "我的做法是把每个格子都填上数字。（method）",
+      "她指出我的疯狂里自有其章法。（there is method in）",
+      "我们大多数人都有条不紊地预测了飞行汽车。（methodically）",
+      "她教给我们的方法是在写答案前先写下假设。（the method of）",
+      "在软件里，方法只是做一件事的小机器。（method）"
+    ],
+    "answers": [
+      "Our teacher said this was the only method worth teaching.",
+      "My method was to fill every box with a number.",
+      "She pointed out that there was method in my madness.",
+      "Most of us methodically predicted flying cars.",
+      "The method she taught us was to write the assumption down before the answer.",
+      "In software a method is simply a small machine that does one thing."
+    ]
+  },
+  "task3": {
+    "title": "Task 3　语境写作",
+    "intro": "请写 5—6 个句子，至少使用 method 的 3 种不同用法；至少使用下列词语中的 3 个。",
+    "wordbank": [
+      "predict",
+      "spreadsheet",
+      "teacher",
+      "numbers",
+      "assumption",
+      "trend",
+      "report",
+      "post",
+      "town",
+      "discipline"
+    ],
+    "lines": 6,
+    "answers": [
+      "The machine that predicted the future was really a spreadsheet and a method: list what you know and list what you do not.",
+      "My own method was to fill every box with a number, because a blank box looks like ignorance.",
+      "She pointed out that there was method in my madness but no arithmetic in it.",
+      "Method, she said, is not the same as order; it is order with a reason attached.",
+      "The method she drilled into us — write the assumption down before the answer — is the only thing from that year I still use daily.",
+      "Method, I have decided, is mostly a way of being caught out more slowly."
+    ]
+  },
+  "answersNote": "参考答案（完成 Task 1—Task 3 后再核对）"
+}
