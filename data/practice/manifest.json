@@ -1,4 +1,10 @@
 {
+  "ability": "ability.json",
+  "absence": "absence.json",
+  "abuse": "abuse.json",
+  "accent": "accent.json",
+  "access": "access.json",
+  "accident": "accident.json",
   "account": "account.json",
   "case": "case.json",
   "chance": "chance.json",
@@ -153,5 +159,9 @@
   "woman": "woman.json",
   "wood": "wood.json",
   "word": "word.json",
-  "worker": "worker.json"
+  "worker": "worker.json",
+  "world": "world.json",
+  "writer": "writer.json",
+  "year": "year.json",
+  "youth": "youth.json"
 }
