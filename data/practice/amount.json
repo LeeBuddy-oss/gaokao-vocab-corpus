@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 amount 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1961 my grandmother kept a blue book in which every ① amount was written twice, once in pencil and once in ink, and the two never agreed. She said an amount is the only thing in a house that can be right and wrong at the same time, and my grandfather said that was not a fault in the book. He had ② an amount of nine pounds put by in 1954, and it took him six years and it was the whole of what he had.",
-    "The ③ amount of flour in the shop, which she weighed every Thursday for thirty-one years, went down by a fifth between 1968 and 1971 and nobody said why. There was ④ a large amount of talk about the price and none about the flour, and she said talk is the only thing in the world that is measured by how little it weighs.",
-    "In 1974 she wrote the same ⑤ amount twice on one page and left both standing, and when I asked her which was true she said the page was. The ⑥ amount owed to the shop by 1979 was nine hundred and forty-one pounds, which ⑦ amounted to more than the shop, and my father said a debt that amounts to more than the thing it is about is not a debt at all but a decision.",
-    "My uncle said the ⑧ amount of the whole thing, meaning the thirty-one years and not the money, was the only thing worth counting, and he had counted nothing in his life. Every ⑨ amount in the blue book after 1981 was in pencil only, and she said ink is for things you are willing to be wrong about in public.",
-    "The ⑩ amount I would write down, if I had the book, is not nine hundred and forty-one pounds but the nine pounds put by in six years, which is the only amount in it that anybody ever loved."
+    "The  amount of flour in the shop, which she weighed every Thursday for thirty-one years, went down by a fifth between 1968 and 1971 and nobody said why. There was ③ a large amount of talk about the price and none about the flour, and she said talk is the only thing in the world that is measured by how little it weighs.",
+    "In 1974 she wrote the same ④ amount twice on one page and left both standing, and when I asked her which was true she said the page was. The ⑤ amount owed to the shop by 1979 was nine hundred and forty-one pounds, which ⑥ amounted to more than the shop, and my father said a debt that amounts to more than the thing it is about is not a debt at all but a decision.",
+    "My uncle said the ⑦ amount of the whole thing, meaning the thirty-one years and not the money, was the only thing worth counting, and he had counted nothing in his life. Every ⑧ amount in the blue book after 1981 was in pencil only, and she said ink is for things you are willing to be wrong about in public.",
+    "The  amount I would write down, if I had the book, is not nine hundred and forty-one pounds but the nine pounds put by in six years, which is the only amount in it that anybody ever loved."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -33,9 +33,6 @@
         "q": "an amount of nine pounds put by"
       },
       {
-        "q": "The amount of flour in the shop"
-      },
-      {
         "q": "a large amount of talk about the price"
       },
       {
@@ -52,9 +49,6 @@
       },
       {
         "q": "Every amount in the blue book"
-      },
-      {
-        "q": "The amount I would write down"
       }
     ],
     "answers": [
@@ -65,10 +59,6 @@
       {
         "key": "E",
         "why": "an amount of ... 意为“一笔、一定数量的……”，1954 年他攒下了九英镑的一笔钱，攒了六年。"
-      },
-      {
-        "key": "A",
-        "why": "amount 意为“数量”，铺子里面粉的数量她每星期四称一次，称了三十一年。"
       },
       {
         "key": "F",
@@ -93,10 +83,6 @@
       {
         "key": "C",
         "why": "amount 意为“总额”，1981 年以后蓝皮本上每一个数额都只用铅笔写。"
-      },
-      {
-        "key": "B",
-        "why": "amount 意为“金额”，我要写下的金额不是九百四十一英镑，而是六年攒下的九英镑。"
       }
     ]
   },
