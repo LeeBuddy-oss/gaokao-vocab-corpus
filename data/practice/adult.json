@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 adult 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "On my mother's eighteenth birthday in 1977 my grandmother gave her a bus pass and said an ① adult is somebody who can be late on purpose, and my mother said she had been late by accident for eighteen years and saw no difference. The ② adult education class she joined that September met on the wrong night of the week, and she went eleven times and never finished it; adults, my grandmother said, are only children who have learned to say which night.",
-    "The class was full of ③ young adults, which was the word on the form, and she said the word adult on a form is only ever a way of saying somebody else is not. There was one ④ adult student of sixty-one in it, a man who had left school at nine, and she said the  adult in the room was him and nobody else, and that the rest of them were waiting.",
-    "Her own ⑤ adult life began, she told me, on the night my father did not come home, which was 1980, and she was twenty-one, with a child and no bus pass. She said she had grown into an ⑥ adult in one evening and that it had not been a choice, and I have never decided whether that was a complaint; an adult, she said, is somebody who has run out of people to ask.",
-    "In 1984 she went back to the same building, for the same class, and the door said adult education and the shelf beside it said ⑦ adults only, meaning the magazines, and she said the two uses of the word had never once been the same word. She was twenty-eight and the ⑧ adult on the form was her, and she said she had been signing that word for seven years without once believing it, and that every adult in the room was somebody's child.",
-    "The  adult woman I would put on a form now, if there were one, is the one on the wrong night, eleven times, in a building with two doors and the same word on both. Being an adult, she said in 1996, is only the thing you are when nobody else is in the room, and an adult is whoever is left when the asking stops."
+    "The class was full of ③ young adults, which was the word on the form, and she said the word adult on a form is only ever a way of saying somebody else is not. There was one ④ adult student of sixty-one in it, a man who had left school at nine, and she said the ⑤ adult in the room was him and nobody else, and that the rest of them were waiting.",
+    "Her own ⑥ adult life began, she told me, on the night my father did not come home, which was 1980, and she was twenty-one, with a child and no bus pass. She said she had grown into an ⑦ adult in one evening and that it had not been a choice, and I have never decided whether that was a complaint; an adult, she said, is somebody who has run out of people to ask.",
+    "In 1984 she went back to the same building, for the same class, and the door said adult education and the shelf beside it said ⑧ adults only, meaning the magazines, and she said the two uses of the word had never once been the same word. She was twenty-eight and the ⑨ adult on the form was her, and she said she had been signing that word for seven years without once believing it, and that every adult in the room was somebody's child.",
+    "The ⑩ adult woman I would put on a form now, if there were one, is the one on the wrong night, eleven times, in a building with two doors and the same word on both. Being an adult, she said in 1996, is only the thing you are when nobody else is in the room, and an adult is whoever is left when the asking stops."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -39,6 +39,9 @@
         "q": "one adult student of sixty-one"
       },
       {
+        "q": "the adult in the room was him"
+      },
+      {
         "q": "Her own adult life began"
       },
       {
@@ -49,6 +52,9 @@
       },
       {
         "q": "the adult on the form was her"
+      },
+      {
+        "q": "The adult woman I would put on a form"
       }
     ],
     "answers": [
@@ -69,6 +75,10 @@
         "why": "adult 作形容词，意为“成年的”，班里唯一的成年学生六十一岁，九岁就离开了学校。"
       },
       {
+        "key": "A",
+        "why": "adult 意为“成年人”，她说屋里真正的成年人是他，其余的人都还在等。"
+      },
+      {
         "key": "H",
         "why": "adult life 意为“成年生活”，她说自己的成年生活是从父亲没回家的那个晚上开始的。"
       },
@@ -83,6 +93,10 @@
       {
         "key": "B",
         "why": "adult 指表格上、法律意义上的成年人”，1984 年表格上那个成年人就是她，而她签了七年都没信过。"
+      },
+      {
+        "key": "C",
+        "why": "adult 作形容词，意为“成年的”，我要写进表格的是那个成年女人——每周走错那个晚上、去过十一次的那个。"
       }
     ]
   },
