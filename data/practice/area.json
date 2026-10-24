@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 area 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1967 my grandfather walked the ① area behind the hill every Sunday and said he was measuring it with his feet. The ② area, meaning the ground and not the map, was nine acres and one pond; an area, he said, is the only thing that is bigger when you walk it than when you draw it. He had walked it for eleven years and still found a gate he did not know.",
-    "Every ③ area on his map had a name that nobody in the village used, and he said that was the difference between a map and a place. The ④ area of the field, nine acres, was written on a card in 1952 and never changed; an area, my father said, is the only fact about land that a piece of paper can hold. He said the card was the only honest thing in the house.",
-    "My mother said the whole ⑤ area had gone quiet by 1974, meaning the people and not the ground. The ⑥ area, meaning the subject and not the place, is the only word that means both a field and a question; an area, my grandmother said, is a piece of the world or a piece of a mind, and you cannot tell from the word which. She said that was why argument is endless.",
-    "By 1979 the ⑦ area had been fenced, nine posts and one gate, and the walking stopped. The ⑧ area he cared about most was the pond, which was nine feet across and never froze; an area, he said, is measured by what it will not give up. He said the pond had refused him for eleven winters and he respected it for that.",
-    "The ⑨ area I remember is the one behind the hill, which I have not walked since 1981. An ⑩ area, my grandfather said, is the only thing you can own without ever having seen all of it; every area, he said, is larger than the person who is measuring it. He said that was the argument for walking and against maps."
+    "Every  area on his map had a name that nobody in the village used, and he said that was the difference between a map and a place. The ③ area of the field, nine acres, was written on a card in 1952 and never changed; an area, my father said, is the only fact about land that a piece of paper can hold. He said the card was the only honest thing in the house.",
+    "My mother said the whole ④ area had gone quiet by 1974, meaning the people and not the ground. The ⑤ area, meaning the subject and not the place, is the only word that means both a field and a question; an area, my grandmother said, is a piece of the world or a piece of a mind, and you cannot tell from the word which. She said that was why argument is endless.",
+    "By 1979 the ⑥ area had been fenced, nine posts and one gate, and the walking stopped. The ⑦ area he cared about most was the pond, which was nine feet across and never froze; an area, he said, is measured by what it will not give up. He said the pond had refused him for eleven winters and he respected it for that.",
+    "The  area I remember is the one behind the hill, which I have not walked since 1981. An ⑧ area, my grandfather said, is the only thing you can own without ever having seen all of it; every area, he said, is larger than the person who is measuring it. He said that was the argument for walking and against maps."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -26,28 +26,64 @@
       "H. n. 区域（指其中他最在乎的那一小块）"
     ],
     "items": [
-      { "q": "the area behind the hill" },
-      { "q": "The area, meaning the ground and not the map" },
-      { "q": "Every area on his map" },
-      { "q": "The area of the field" },
-      { "q": "the whole area had gone quiet" },
-      { "q": "The area, meaning the subject and not the place" },
-      { "q": "the area had been fenced" },
-      { "q": "The area he cared about most" },
-      { "q": "The area I remember" },
-      { "q": "An area, my grandfather said" }
+      {
+        "q": "the area behind the hill"
+      },
+      {
+        "q": "The area, meaning the ground and not the map"
+      },
+      {
+        "q": "The area of the field"
+      },
+      {
+        "q": "the whole area had gone quiet"
+      },
+      {
+        "q": "The area, meaning the subject and not the place"
+      },
+      {
+        "q": "the area had been fenced"
+      },
+      {
+        "q": "The area he cared about most"
+      },
+      {
+        "q": "An area, my grandfather said"
+      }
     ],
     "answers": [
-      { "key": "A", "why": "area 意为“地区、区域”，1967 年起祖父每个星期天都走山后那片地方，说他在用脚丈量它。" },
-      { "key": "B", "why": "area 指“实地、那片土地本身”，与地图相对，那片地是九英亩加一口池塘。" },
-      { "key": "A", "why": "area 意为“地区、区域”，他地图上每一片区域都有一个村里人从不用的名字。" },
-      { "key": "D", "why": "area 意为“面积”，这块地的面积是九英亩，1952 年写在一张卡片上，再没改过。" },
-      { "key": "E", "why": "area 引申为“一带的居民”，母亲说整个一带到 1974 年都安静下来了，指的是人而不是土地。" },
-      { "key": "F", "why": "area 意为“领域、方面”，指主题而不是地方，它是唯一既指一片田野又指一个问题的词。" },
-      { "key": "C", "why": "area 指被围栏围起来的那片地，到 1979 年那片区域围起来了，九根柱子一道门，散步也停了。" },
-      { "key": "H", "why": "area 指其中他最在乎的那一小块，他最上心的是那口池塘，宽九英尺，从不结冰。" },
-      { "key": "A", "why": "area 意为“地区、区域”，我记得的是山后那一片，1981 年之后我再没走过。" },
-      { "key": "G", "why": "area 为抽象总称，泛指“区域这种东西”，祖父说区域是你唯一可以拥有却从未看全的东西。" }
+      {
+        "key": "A",
+        "why": "area 意为“地区、区域”，1967 年起祖父每个星期天都走山后那片地方，说他在用脚丈量它。"
+      },
+      {
+        "key": "B",
+        "why": "area 指“实地、那片土地本身”，与地图相对，那片地是九英亩加一口池塘。"
+      },
+      {
+        "key": "D",
+        "why": "area 意为“面积”，这块地的面积是九英亩，1952 年写在一张卡片上，再没改过。"
+      },
+      {
+        "key": "E",
+        "why": "area 引申为“一带的居民”，母亲说整个一带到 1974 年都安静下来了，指的是人而不是土地。"
+      },
+      {
+        "key": "F",
+        "why": "area 意为“领域、方面”，指主题而不是地方，它是唯一既指一片田野又指一个问题的词。"
+      },
+      {
+        "key": "C",
+        "why": "area 指被围栏围起来的那片地，到 1979 年那片区域围起来了，九根柱子一道门，散步也停了。"
+      },
+      {
+        "key": "H",
+        "why": "area 指其中他最在乎的那一小块，他最上心的是那口池塘，宽九英尺，从不结冰。"
+      },
+      {
+        "key": "G",
+        "why": "area 为抽象总称，泛指“区域这种东西”，祖父说区域是你唯一可以拥有却从未看全的东西。"
+      }
     ]
   },
   "task2": {
