@@ -658,3 +658,180 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
   background: var(--bg-2);
 }
 .logout-btn[hidden] { display: none; }
+
+/* ========== 主题词汇巩固练 ========== */
+.practice-wrap { line-height: 1.75; }
+.prac-meta {
+  font-size: 13px; color: #6b7280; margin-bottom: 14px;
+  padding: 8px 12px; background: #fff; border: 1px dashed #d1d5db; border-radius: 6px;
+}
+.prac-doc-title {
+  font-size: 20px; font-weight: 700; color: var(--text);
+  text-align: center; margin: 6px 0 2px;
+}
+.prac-intro { text-align: center; font-size: 14px; color: #6b7280; margin-bottom: 16px; }
+.prac-sec-title {
+  font-size: 16px; font-weight: 700; color: #dc2626;
+  margin: 20px 0 10px; padding-left: 10px; border-left: 4px solid #dc2626;
+}
+.prac-passage {
+  background: #fff; border: 1px solid var(--result-border); border-radius: 8px;
+  padding: 14px 18px; font-size: 15px;
+}
+.prac-p { margin: 0 0 10px; text-align: justify; }
+.prac-p:last-child { margin-bottom: 0; }
+.prac-circ { color: #dc2626; font-weight: 700; padding: 0 1px; }
+.prac-kw { color: #1d4ed8; }
+.prac-task-intro { font-size: 14px; color: #374151; margin-bottom: 10px; }
+.prac-options {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 6px 16px; margin-bottom: 12px;
+}
+.prac-opt { font-size: 14px; color: var(--text); }
+.prac-items { margin-bottom: 12px; }
+.prac-item {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px;
+  padding: 7px 10px; border-radius: 6px; margin-bottom: 4px; font-size: 14.5px;
+}
+.prac-item.prac-right { background: #f0fdf4; }
+.prac-item.prac-wrong { background: #fef2f2; }
+.prac-num { color: #9ca3af; font-weight: 600; flex: 0 0 auto; }
+.prac-q { flex: 1 1 auto; min-width: 200px; }
+.prac-select {
+  font-size: 14px; padding: 2px 6px; border: 1px solid #d1d5db;
+  border-radius: 5px; background: #fff; color: var(--text);
+}
+.prac-mark { flex: 0 0 auto; font-weight: 800; width: 18px; text-align: center; }
+.prac-mark.mk-right { color: #16a34a; }
+.prac-mark.mk-wrong { color: #dc2626; }
+.prac-why {
+  flex: 1 1 100%; font-size: 13px; color: #92400e;
+  padding-left: 30px; display: none;
+}
+.prac-why:not(:empty) { display: block; }
+.prac-btn {
+  font-size: 14px; font-weight: 600; color: #fff; background: #dc2626;
+  border: none; border-radius: 6px; padding: 7px 18px; cursor: pointer;
+}
+.prac-btn:hover { background: #b91c1c; }
+.prac-btn-ans { background: #1d4ed8; }
+.prac-btn-ans:hover { background: #1e40af; }
+.prac-bank-wrap { margin: 0 0 12px; display: flex; flex-wrap: wrap; gap: 8px; }
+.prac-bank {
+  font-size: 13.5px; color: #1e40af; background: #eff6ff;
+  border: 1px solid #bfdbfe; border-radius: 14px; padding: 2px 12px;
+}
+.prac-line { display: flex; align-items: baseline; gap: 8px; margin-bottom: 14px; }
+.prac-line-blank {
+  flex: 1 1 auto; border-bottom: 1px solid #9ca3af; height: 20px;
+}
+.prac-ans-toggle { text-align: center; margin: 18px 0 6px; }
+.prac-answers {
+  background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px;
+  padding: 14px 18px; margin-top: 10px;
+}
+.prac-ans-note { font-weight: 700; color: #92400e; margin-bottom: 8px; }
+.prac-ans-sec {
+  font-weight: 700; color: var(--text); margin: 12px 0 6px;
+  padding-bottom: 4px; border-bottom: 1px solid #fde68a;
+}
+.prac-ans-list { margin: 0; padding-left: 22px; font-size: 14px; }
+.prac-ans-list li { margin-bottom: 6px; }
+.prac-ans-list li b { color: #16a34a; }
+
+/* ========== 巩固练：书写输入线 ========== */
+.prac-t2-item { display: block; }
+.prac-t2-item .prac-q { display: inline; }
+.prac-input {
+  display: block; width: 100%; box-sizing: border-box;
+  margin-top: 6px; padding: 4px 2px;
+  border: none; border-bottom: 1.5px solid #9ca3af; outline: none;
+  background: transparent; font-size: 14.5px; line-height: 1.6;
+  font-family: inherit; color: var(--text); resize: none; overflow: hidden;
+}
+.prac-input:focus { border-bottom-color: #1d4ed8; background: #f8fafc; }
+.prac-input::placeholder { color: #c4c9d4; font-size: 13px; }
+.prac-line { display: flex; align-items: flex-end; gap: 8px; margin-bottom: 14px; }
+.prac-line .prac-input { flex: 1 1 auto; margin-top: 0; }
+.prac-line-blank { display: none; }
+
+/* ========== 巩固练：提交按钮（蓝） ========== */
+.prac-btn-row { margin: 10px 0 6px; display: flex; gap: 10px; flex-wrap: wrap; }
+.prac-btn-blue { background: #1d4ed8; }
+.prac-btn-blue:hover { background: #1e40af; }
+.prac-btn-back { background: #6b7280; }
+.prac-btn-back:hover { background: #4b5563; }
+
+/* ========== 巩固练：结果页 ========== */
+.prac-result { margin-top: 8px; }
+.prac-result .wv-wrap { background: var(--result-bg); }
+.prac-rate {
+  font-size: 16px; margin: 4px 0 14px; padding: 10px 14px;
+  background: #fff; border: 1px solid var(--result-border); border-radius: 8px;
+}
+.prac-rate b { font-size: 22px; color: #dc2626; margin: 0 2px; }
+.prac-chart-wrap {
+  background: #fff; border: 1px solid var(--result-border);
+  border-radius: 8px; padding: 14px 18px 10px; margin-bottom: 14px;
+}
+.prac-chart-title { font-size: 14px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+.prac-chart {
+  display: flex; align-items: stretch; gap: 10px;
+  height: 190px; padding-top: 4px;
+}
+.prac-col { flex: 1 1 0; display: flex; flex-direction: column; align-items: center; min-width: 0; }
+.prac-col-val { font-size: 11.5px; color: #6b7280; margin-bottom: 3px; }
+.prac-bar-zone {
+  flex: 1 1 auto; width: 100%; max-width: 46px;
+  display: flex; align-items: flex-end; justify-content: center;
+  border-bottom: 2px solid #e5e7eb;
+}
+.prac-bar { width: 70%; border-radius: 4px 4px 0 0; min-height: 3px; }
+.prac-bar.c-ok { background: #16a34a; }
+.prac-bar.c-mid { background: #f59e0b; }
+.prac-bar.c-bad { background: #dc2626; }
+.prac-col-label { font-size: 12px; color: #6b7280; margin-top: 5px; }
+.prac-fb {
+  background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px;
+  padding: 14px 18px; margin-bottom: 14px;
+}
+.prac-fb-head { font-weight: 700; color: #92400e; margin-bottom: 6px; }
+.prac-fb ul { margin: 0; padding-left: 20px; font-size: 14px; color: #374151; }
+.prac-fb li { margin-bottom: 5px; }
+.prac-back-row { text-align: center; margin: 14px 0 4px; }
+
+/* 对比自评（Task 2 / Task 3） */
+.prac-cmp {
+  background: #fff; border: 1px solid var(--result-border); border-radius: 8px;
+  padding: 10px 14px; margin-bottom: 10px; font-size: 14px;
+}
+.prac-cmp-q { font-weight: 600; color: var(--text); margin-bottom: 4px; }
+.prac-cmp-stu { color: #1d4ed8; margin-bottom: 2px; word-break: break-word; }
+.prac-cmp-stu i { color: #9ca3af; }
+.prac-cmp-ref { color: #16a34a; margin-bottom: 6px; word-break: break-word; }
+.prac-self { display: flex; gap: 14px; flex-wrap: wrap; }
+.prac-self label { display: inline-flex; align-items: center; gap: 4px; font-size: 13.5px; color: #374151; cursor: pointer; }
+.prac-self input { accent-color: #1d4ed8; }
+.prac-hint { font-size: 13px; color: #92400e; background: #fef3c7; border-radius: 6px; padding: 7px 12px; margin-bottom: 12px; }
+
+/* 结果就地显示（不跳转） */
+.prac-inline-result { margin-top: 10px; }
+
+/* Task 2 逐词比对标记 */
+.prac-err { color: #dc2626; font-weight: 700; text-decoration: underline wavy #dc2626 1px; text-underline-offset: 3px; }
+.prac-miss { color: #dc2626; font-weight: 700; border-bottom: 2px solid #dc2626; }
+.prac-cmp-tip { font-size: 13px; color: #92400e; background: #fef3c7; border-radius: 6px; padding: 6px 10px; margin-top: 6px; }
+.prac-cmp .prac-mark { margin-left: 6px; }
+
+/* Task 3 AI 点拨 */
+.prac-ai { background: #f0f7ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 14px 18px; margin-bottom: 14px; }
+.prac-ai-title { font-size: 15px; font-weight: 700; color: #1d4ed8; margin-bottom: 8px; }
+.prac-ai-loading { font-size: 14px; color: #6b7280; padding: 8px 0; }
+.prac-ai-overall {
+  font-size: 14px; color: var(--text); background: #fff;
+  border-left: 4px solid #1d4ed8; padding: 8px 12px; border-radius: 0 6px 6px 0; margin-bottom: 10px;
+}
+.prac-ai-sec { font-size: 14px; font-weight: 700; color: var(--text); margin: 12px 0 6px; }
+.prac-ai-list { margin: 0; padding-left: 20px; font-size: 14px; color: #374151; }
+.prac-ai-list li { margin-bottom: 6px; }
+.prac-ai-up { color: #16a34a; }
