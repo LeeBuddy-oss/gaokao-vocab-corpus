@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261026n';
+const PRACTICE_VER = '20261026p';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -3170,9 +3170,15 @@ function renderFamily(word, fam) {
 
 /* ========== 主题词汇巩固练（主题语境阅读 + 三项任务） ========== */
 let PRACTICE_INDEX = null;
+// 每次追加取一个递增序号：连续触发（连点搜索、切回同一词）时只保留最后一次，
+// 否则异步 fetch 各自成功，页面上会叠出两个「主题词汇巩固练」
+let PRACTICE_SEQ = 0;
 
 // 异步追加练习模块；词条切换时不串词
 async function appendPractice(word) {
+  const seq = ++PRACTICE_SEQ;
+  // 先清掉上一次已渲染的练习块，保证任何时刻页面上最多一个
+  $result.querySelectorAll('.practice-wrap').forEach(n => n.remove());
   try {
     if (!PRACTICE_INDEX) {
       const r = await fetch(PRACTICE_BASE + 'manifest.json?v=' + PRACTICE_VER);
@@ -3183,9 +3189,13 @@ async function appendPractice(word) {
     const r2 = await fetch(PRACTICE_BASE + file + '?v=' + PRACTICE_VER);
     if (!r2.ok) return;
     const data = await r2.json();
+    // 竞态保护：已发起更新的追加请求时，丢弃这次结果
+    if (seq !== PRACTICE_SEQ) return;
     // 竞态保护：用户可能已切到其它词条
     const head = $result.querySelector('.word-head .w');
     if (!head || head.textContent.trim().toLowerCase() !== String(word).toLowerCase()) return;
+    // 双保险：插入前再确认没有残留的练习块
+    $result.querySelectorAll('.practice-wrap').forEach(n => n.remove());
     const holder = document.createElement('div');
     holder.innerHTML = renderPractice(word, data);
     const node = holder.firstElementChild;
