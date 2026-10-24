@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 aim 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1952 my uncle had one ① aim, which was to hit a mark nine inches across at three hundred yards, and he did it nine times and then stopped. He said an aim is the only thing you can have that is not a wish, and he said the difference is that a wish does not tell you where to stand; an aim, he said, is a wish with numbers on it.",
-    "He ② took aim for the last time in 1958 and put the rifle down and never picked it up, and nobody in the family has ever asked why. There was ③ no aim in the eleven years after that, by which my grandmother meant no plan, and she said a man without an aim is not the same as a man with a bad one; aim, she said, is the cheapest thing a person can have.",
-    "In 1969 he began to build a boat ④ with the aim of finishing it in three years, and it took him eleven and he never launched it. My father said he would never ⑤ achieve his aim, and my grandmother said ⑥ an aim you do not reach is the only kind that keeps you going, and she was right about that and wrong about nothing else.",
-    "The boat was ⑦ aimed at the sea and had never been in it, and he said the phrase is what people use when they do not want to say where. He did not ⑧ aim to hurt anybody, he said in 1981, and nobody had said he had, which my mother said was the whole of the trouble; an aim, he said, is something you can miss for eleven years.",
-    "The ⑨ aim I would put on a card, if I had to write one down, is not the boat but the nine inches at three hundred yards, which he hit nine times and then stopped. An ⑩ aim, he told me in 1990, is the only possession you can lose without noticing, and the only one that does you any good once it is gone."
+    "He ② took aim for the last time in 1958 and put the rifle down and never picked it up, and nobody in the family has ever asked why. There was  no aim in the eleven years after that, by which my grandmother meant no plan, and she said a man without an aim is not the same as a man with a bad one; aim, she said, is the cheapest thing a person can have.",
+    "In 1969 he began to build a boat ③ with the aim of finishing it in three years, and it took him eleven and he never launched it. My father said he would never ④ achieve his aim, and my grandmother said ⑤ an aim you do not reach is the only kind that keeps you going, and she was right about that and wrong about nothing else.",
+    "The boat was ⑥ aimed at the sea and had never been in it, and he said the phrase is what people use when they do not want to say where. He did not ⑦ aim to hurt anybody, he said in 1981, and nobody had said he had, which my mother said was the whole of the trouble; an aim, he said, is something you can miss for eleven years.",
+    "The ⑧ aim I would put on a card, if I had to write one down, is not the boat but the nine inches at three hundred yards, which he hit nine times and then stopped. An  aim, he told me in 1990, is the only possession you can lose without noticing, and the only one that does you any good once it is gone."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -33,9 +33,6 @@
         "q": "took aim for the last time"
       },
       {
-        "q": "There was no aim in the eleven years"
-      },
-      {
         "q": "with the aim of finishing it"
       },
       {
@@ -52,9 +49,6 @@
       },
       {
         "q": "The aim I would put on a card"
-      },
-      {
-        "q": "An aim, he told me in 1990"
       }
     ],
     "answers": [
@@ -65,10 +59,6 @@
       {
         "key": "E",
         "why": "take aim 意为“瞄准”，1958 年他最后一次瞄准，然后放下枪，再没拿起来。"
-      },
-      {
-        "key": "A",
-        "why": "aim 意为“目标、目的”，之后的十一年里他没有任何目标，祖母的意思是没有任何计划。"
       },
       {
         "key": "F",
@@ -93,10 +83,6 @@
       {
         "key": "B",
         "why": "aim 意为“瞄准目标、靶子”，我要写在卡片上的是那三百码外九英寸宽的靶子，而不是那条船。"
-      },
-      {
-        "key": "C",
-        "why": "aim 意为“志向、追求”，他说志向是唯一一样你丢了也不会察觉的东西。"
       }
     ]
   },
