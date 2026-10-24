@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 addict 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "By 1996 my brother was ① an addict, my mother said, and he said the word was too big for it. The ② addict, meaning the person and not the machine, sat for nine hours and answered nobody; an addict, she said, is somebody who has agreed to a bargain they did not read. He said the bargain was nine pounds a month.",
-    "Every  addict she had read about had a drug and a story, and he said he had neither. Their ③ addict — the one they argued about in March — had a nine-page bill and a modem that hummed; an addict, my father said, is the only person in a house whose absence is noticed and whose presence is not. He said the humming stopped in June.",
-    "My grandmother said everybody is ④ an addict of something, by which she meant tea, and she said that with eleven sugars. The ⑤ addict, meaning the idea and not the person, is nine parts loneliness and one part availability; an addict, my mother said, is somebody who has found a thing that answers faster than people do. She said that was the whole diagnosis.",
-    "By 1998 the ⑥ addict had become a subject on the radio and a joke at dinner. The ⑦ addict in the article they read that June was nine years old, and my grandmother said that was the part she could not forgive; an addict, my father said, is either a person who cannot stop or a person nobody has asked to. He said the second is the sadder one.",
-    "The  addict I remember is my brother at nineteen, who came out for food and nothing else. An ⑧ addict, my mother said in 2001, is the only person in a family who is present and absent at the same time; every addict, she said, is somebody waiting for a thing that never says no. She said people say no all the time."
+    "Every ③ addict she had read about had a drug and a story, and he said he had neither. Their ④ addict — the one they argued about in March — had a nine-page bill and a modem that hummed; an addict, my father said, is the only person in a house whose absence is noticed and whose presence is not. He said the humming stopped in June.",
+    "My grandmother said everybody is ⑤ an addict of something, by which she meant tea, and she said that with eleven sugars. The ⑥ addict, meaning the idea and not the person, is nine parts loneliness and one part availability; an addict, my mother said, is somebody who has found a thing that answers faster than people do. She said that was the whole diagnosis.",
+    "By 1998 the ⑦ addict had become a subject on the radio and a joke at dinner. The ⑧ addict in the article they read that June was nine years old, and my grandmother said that was the part she could not forgive; an addict, my father said, is either a person who cannot stop or a person nobody has asked to. He said the second is the sadder one.",
+    "The ⑨ addict I remember is my brother at nineteen, who came out for food and nothing else. An ⑩ addict, my mother said in 2001, is the only person in a family who is present and absent at the same time; every addict, she said, is somebody waiting for a thing that never says no. She said people say no all the time."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -33,6 +33,9 @@
         "q": "The addict, meaning the person and not the machine"
       },
       {
+        "q": "Every addict she had read about"
+      },
+      {
         "q": "Their addict"
       },
       {
@@ -48,6 +51,9 @@
         "q": "The addict in the article"
       },
       {
+        "q": "The addict I remember"
+      },
+      {
         "q": "An addict, my mother said in 2001"
       }
     ],
@@ -59,6 +65,10 @@
       {
         "key": "B",
         "why": "addict 指“人本身”，与机器相对，那个上瘾的人一坐九小时，谁叫他都不应。"
+      },
+      {
+        "key": "A",
+        "why": "addict 意为“上瘾者”，她读到过的每一个上瘾者都有一种药和一个故事，他说他两样都没有。"
       },
       {
         "key": "F",
@@ -79,6 +89,10 @@
       {
         "key": "G",
         "why": "addict 指文章里那一位，他们那年六月读到的文章里那个上瘾者只有九岁。"
+      },
+      {
+        "key": "A",
+        "why": "addict 意为“上瘾者”，我记得的是十九岁的弟弟，他只为了吃饭才出来，别的都不。"
       },
       {
         "key": "H",
