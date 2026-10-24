@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261026k';
+const PRACTICE_VER = '20261026n';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -3196,15 +3196,31 @@ async function appendPractice(word) {
   } catch (e) { /* 练习缺失时静默，不影响词条展示 */ }
 }
 
-// 阅读文本：圈码序号 + 目标词高亮
-function _pracPassageHtml(paras, word) {
+// 正文内嵌答题位：目标词后紧跟一个小选择框（figure 起用的新布局）
+function _pracInlineSlotHtml(i, nOpt) {
+  const letters = ['A','B','C','D','E','F','G','H','I','J'];
+  let opts = '<option value="">—</option>';
+  for (let k = 0; k < nOpt; k++) opts += `<option value="${letters[k]}">${letters[k]}</option>`;
+  return `<span class="prac-inline-q" data-idx="${i}">` +
+    `<select class="prac-select prac-select-inline" aria-label="第 ${i + 1} 题">${opts}</select>` +
+    `<span class="prac-mark prac-mark-inline"></span>` +
+    `<span class="prac-why-inline"></span>` +
+    `</span>`;
+}
+
+// 阅读文本：圈码序号 + 目标词高亮（nOpt > 0 时在每处目标词后内嵌选择框）
+function _pracPassageHtml(paras, word, nOpt) {
   const safe = String(word).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const re = new RegExp('\\b' + safe + '(?:s|es|ed|ing)?\\b', 'gi');
+  let slot = 0;
   return (paras || []).map(p => {
     let t = esc(p);
     // 先高亮目标词（此时 t 还是纯文本），再包圈码标签；
     // 顺序反了会命中 <span class="prac-circ"> 里的属性名（如目标词 class）而破坏标签
-    t = t.replace(re, m => '<b class="prac-kw">' + m + '</b>');
+    t = t.replace(re, m => {
+      const hit = '<b class="prac-kw">' + m + '</b>';
+      return nOpt ? hit + _pracInlineSlotHtml(slot++, nOpt) : hit;
+    });
     t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮])/g, '<span class="prac-circ">$1</span>');
     return '<p class="prac-p">' + t + '</p>';
   }).join('');
@@ -3214,23 +3230,28 @@ function renderPractice(word, d) {
   const t1 = d.task1 || {}, t2 = d.task2 || {}, t3 = d.task3 || {};
   const letters = ['A','B','C','D','E','F','G','H','I','J'];
   const nOpt = (t1.options || []).length;
+  // 新布局（figure 起用）：Task 1 标题与义项表前置到 Reading 之下，选择框内嵌正文，
+  // 提交按钮紧随正文，读完即可核对正答率与学习建议；其它词仍走原布局
+  const inline = d.layout === 'inline';
 
-  // Task 1：下拉选择 + 核对
+  // Task 1：下拉选择 + 核对（inline 布局下选择框已内嵌正文，不再重复列题）
   let t1Html = '';
-  (t1.items || []).forEach((it, i) => {
-    let opts = '<option value="">—</option>';
-    for (let k = 0; k < nOpt; k++) {
-      const L = letters[k];
-      opts += `<option value="${L}">${L}</option>`;
-    }
-    t1Html += `<div class="prac-item" data-idx="${i}">` +
-      `<span class="prac-num">${i + 1}.</span>` +
-      `<span class="prac-q">${esc(it.q || '')}</span>` +
-      `<select class="prac-select">${opts}</select>` +
-      `<span class="prac-mark"></span>` +
-      `<div class="prac-why"></div>` +
-      `</div>`;
-  });
+  if (!inline) {
+    (t1.items || []).forEach((it, i) => {
+      let opts = '<option value="">—</option>';
+      for (let k = 0; k < nOpt; k++) {
+        const L = letters[k];
+        opts += `<option value="${L}">${L}</option>`;
+      }
+      t1Html += `<div class="prac-item" data-idx="${i}">` +
+        `<span class="prac-num">${i + 1}.</span>` +
+        `<span class="prac-q">${esc(it.q || '')}</span>` +
+        `<select class="prac-select">${opts}</select>` +
+        `<span class="prac-mark"></span>` +
+        `<div class="prac-why"></div>` +
+        `</div>`;
+    });
+  }
   const t1Options = (t1.options || []).map(o => `<div class="prac-opt">${esc(o)}</div>`).join('');
 
   // Task 2：翻译（每题下方带书写横线）
@@ -3251,6 +3272,20 @@ function renderPractice(word, d) {
   const t2Ans = (t2.answers || []).map(s => `<li>${esc(s)}</li>`).join('');
   const t3Ans = (t3.answers || []).map(s => `<li>${esc(s)}</li>`).join('');
 
+  // Reading 区：新布局把 Task 1 标题、义项表、正文、提交按钮串成一段，
+  // 学生边读边选，读完立刻核对；旧布局保持「正文 → 题目 → 按钮」原样
+  const passageBlock = `<div class="prac-passage${inline ? ' prac-passage-inline' : ''}">` +
+    `${_pracPassageHtml(d.passage || [], word, inline ? nOpt : 0)}</div>`;
+  const t1Head =
+    `<div class="${inline ? 'prac-sub-title' : 'prac-sec-title'}">${esc(t1.title || '')}</div>` +
+    `<div class="prac-task-intro">${esc(t1.intro || '')}</div>` +
+    `<div class="prac-options${inline ? ' prac-options-top' : ''}">${t1Options}</div>`;
+  const t1Btn = `<div class="prac-btn-row"><button class="prac-btn prac-btn-blue" data-act="submit1">提交 Task 1 答案</button></div>`;
+  const readingBlock = inline
+    ? `<div class="prac-sec-title">Reading</div>` + t1Head + passageBlock + t1Btn
+    : `<div class="prac-sec-title">Reading</div>` + passageBlock + t1Head +
+      `<div class="prac-items">${t1Html}</div>` + t1Btn;
+
   return `<div class="wv-wrap practice-wrap">
     <div class="wv-header">
       <span class="wv-title">主题词汇巩固练</span>
@@ -3260,14 +3295,7 @@ function renderPractice(word, d) {
     <div class="prac-doc-title">${esc(d.title || '')}</div>
     <div class="prac-intro">${esc(d.intro || '')}</div>
 
-    <div class="prac-sec-title">Reading</div>
-    <div class="prac-passage">${_pracPassageHtml(d.passage || [], word)}</div>
-
-    <div class="prac-sec-title">${esc(t1.title || '')}</div>
-    <div class="prac-task-intro">${esc(t1.intro || '')}</div>
-    <div class="prac-options">${t1Options}</div>
-    <div class="prac-items">${t1Html}</div>
-    <div class="prac-btn-row"><button class="prac-btn prac-btn-blue" data-act="submit1">提交 Task 1 答案</button></div>
+    ${readingBlock}
 
     <div class="prac-sec-title">${esc(t2.title || '')}</div>
     <div class="prac-task-intro">${esc(t2.intro || '')}</div>
@@ -3397,6 +3425,22 @@ function _pracSenseNames(t1) {
     add(first.length >= 2 ? first : t.replace(/[；;]/g, '／'));
   });
   return names;
+}
+
+// Task 1 逐题解析（新布局：正文内嵌答题后，提交即给出每处的义项与理由）
+function _pracT1DetailHtml(t1, wrongs) {
+  const marks = ['①','②','③','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪','⑫','⑬','⑭','⑮'];
+  const bad = new Set(wrongs.map(w => w.idx));
+  const rows = (t1.items || []).map((it, i) => {
+    const ans = (t1.answers || [])[i] || {};
+    const ok = !bad.has(i);
+    return `<div class="prac-detail ${ok ? 'is-ok' : 'is-bad'}">` +
+      `<div class="prac-detail-q"><span class="prac-detail-n">${marks[i] || (i + 1)}</span>` +
+      `<span class="prac-detail-phrase">${esc(it.q || '')}</span>` +
+      `<span class="prac-detail-key">${esc(ans.key || '')}</span></div>` +
+      `<div class="prac-detail-why">${esc(ans.why || '')}</div></div>`;
+  }).join('');
+  return `<div class="prac-detail-wrap"><div class="prac-detail-head">逐题解析</div>${rows}</div>`;
 }
 
 function _pracT1Feedback(t1, total, right, wrongs, word) {
@@ -3556,15 +3600,28 @@ function _pracT2ItemTip(r) {
 function bindPractice(root, d) {
   const t1 = d.task1 || {};
   const letters = ['A','B','C','D','E','F','G','H','I','J'];
+  const inline = d.layout === 'inline';
 
   // 选择变化时清除上次批改结果
   root.querySelectorAll('.prac-select').forEach(sel => {
     sel.addEventListener('change', function () {
-      const item = this.closest('.prac-item');
-      item.querySelector('.prac-mark').textContent = '';
-      item.querySelector('.prac-mark').className = 'prac-mark';
-      item.querySelector('.prac-why').textContent = '';
-      item.classList.remove('prac-right', 'prac-wrong');
+      const item = this.closest('.prac-item') || this.closest('.prac-inline-q');
+      if (item) {
+        const mark = item.querySelector('.prac-mark');
+        if (mark) { mark.textContent = ''; mark.className = 'prac-mark' + (item.classList.contains('prac-inline-q') ? ' prac-mark-inline' : ''); }
+        const why = item.querySelector('.prac-why');
+        if (why) why.textContent = '';
+        const iw = item.querySelector('.prac-why-inline');
+        if (iw) iw.textContent = '';
+        item.classList.remove('prac-right', 'prac-wrong');
+      }
+      // 改答案后清掉 Task 1 上次的核对结果，避免看到过期正答率
+      const b1 = root.querySelector('[data-act="submit1"]');
+      if (b1) {
+        const row = b1.closest('.prac-btn-row');
+        const box = row && row.nextElementSibling;
+        if (box && box.classList.contains('prac-inline-result')) box.innerHTML = '';
+      }
     });
   });
 
@@ -3577,25 +3634,32 @@ function bindPractice(root, d) {
   });
 
   // Task 1 判分（核对与提交共用），返回 {right,total,wrongs}
+  // 兼容两种布局：旧布局题行 .prac-item，新布局正文内嵌 .prac-inline-q，二者都带 data-idx
   function gradeT1() {
     let right = 0, total = 0;
     const wrongs = [];
-    root.querySelectorAll('.prac-item[data-idx]').forEach(item => {
-      const i = Number(item.dataset.idx);
-      const ans = (t1.answers || [])[i];
+    (t1.answers || []).forEach((ans, i) => {
       if (!ans) return;
+      const host = root.querySelector(`[data-idx="${i}"]`);
+      if (!host) return;
       total++;
-      const sel = item.querySelector('.prac-select');
-      const mark = item.querySelector('.prac-mark');
-      const why = item.querySelector('.prac-why');
-      const val = (sel.value || '').toUpperCase();
+      const sel = host.querySelector('.prac-select');
+      const mark = host.querySelector('.prac-mark');
+      const why = host.querySelector('.prac-why');
+      const iw = host.querySelector('.prac-why-inline');
+      const isInline = host.classList.contains('prac-inline-q');
+      const val = ((sel && sel.value) || '').toUpperCase();
       const keys = String(ans.key || '').split('/').map(s => s.trim().toUpperCase()).filter(Boolean);
-      const ok = val && keys.includes(val);
-      item.classList.toggle('prac-right', !!ok);
-      item.classList.toggle('prac-wrong', !!(val && !ok));
-      mark.textContent = !val ? '—' : (ok ? '✓' : '✗');
-      mark.className = 'prac-mark ' + (ok ? 'mk-right' : (val ? 'mk-wrong' : ''));
-      why.textContent = ok ? '' : (val ? `正确答案：${ans.key}。${ans.why || ''}` : `参考答案：${ans.key}。${ans.why || ''}`);
+      const ok = !!val && keys.includes(val);
+      host.classList.toggle('prac-right', !!ok);
+      host.classList.toggle('prac-wrong', !!(val && !ok));
+      if (mark) {
+        mark.textContent = !val ? '—' : (ok ? '✓' : '✗');
+        mark.className = 'prac-mark' + (isInline ? ' prac-mark-inline' : '') +
+          ' ' + (ok ? 'mk-right' : (val ? 'mk-wrong' : ''));
+      }
+      if (why) why.textContent = ok ? '' : (val ? `正确答案：${ans.key}。${ans.why || ''}` : `参考答案：${ans.key}。${ans.why || ''}`);
+      if (iw) iw.textContent = ok ? '' : `应选 ${ans.key}`;
       if (ok) right++; else wrongs.push({ idx: i, key: (keys[0] || ''), why: ans.why || '' });
     });
     return { right, total, wrongs };
@@ -3627,7 +3691,8 @@ function bindPractice(root, d) {
       box.innerHTML =
         `<div class="prac-rate">Task 1 正答率：<b>${pct}%</b>（${r.right} / ${r.total} 题）</div>` +
         _pracChartHtml(labels, vals) +
-        _pracT1Feedback(t1d, r.total, r.right, r.wrongs, d.word);
+        _pracT1Feedback(t1d, r.total, r.right, r.wrongs, d.word) +
+        (inline ? _pracT1DetailHtml(t1d, r.wrongs) : '');
       box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     });
   }
