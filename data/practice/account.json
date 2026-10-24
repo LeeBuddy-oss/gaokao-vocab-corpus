@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 account 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "My mother kept the accounts in a grey notebook: rent, food, bus fares, everything. She checked them every evening by the window. On the first page she opened a small ① account for me when I was ten, with my name written in pencil. Every month she wrote down what I had spent and what I had saved, and she never once did it without asking me to sit beside her.",
-    "I did not love those evenings. She would read out each line, then give me a clear ② account of where the money had gone: bus fares, a notebook, the cake I could not resist. Rent and food together ③ accounted for almost two thirds of everything she earned, and seeing that  accounted for why she always said no to the things I wanted most.",
-    "When I turned sixteen she said I could manage one hundred yuan a month myself. 'But you must ④ take account of the small things,' she warned. 'The bus, the water, the pen you lose every week.' She even agreed that my marks might improve ⑤ on account of fewer arguments about money, and she laughed when she said it.",
-    "Last winter she lost her job for three months. I offered to give her my savings. She refused, and I could see from her face that this was not the moment to argue; the notebook stayed shut. What she did instead was keep two ⑥ accounts in the same notebook, one for her savings and one for mine, so that the two sums would never be mixed. Slowly I came to see how much wisdom there was in that grey book.",
-    "Now I keep my own book, though mine is on a phone, with one page for food and one for books. I write down every purchase before I forget it, and ⑦ on no account do I write a sum I am not sure about. At the end of each month I look at the last page and try to give myself an honest  account of the thirty days. It is rarely flattering. Every account has a last page, and the last page never lies. But ⑧ by all accounts my mother's method has done for me what no lecture on wealth ever could: it taught me to look before I spend."
+    "I did not love those evenings. She would read out each line, then give me a clear ② account of where the money had gone: bus fares, a notebook, the cake I could not resist. Rent and food together ③ accounted for almost two thirds of everything she earned, and seeing that ④ accounted for why she always said no to the things I wanted most.",
+    "When I turned sixteen she said I could manage one hundred yuan a month myself. 'But you must ⑤ take account of the small things,' she warned. 'The bus, the water, the pen you lose every week.' She even agreed that my marks might improve ⑥ on account of fewer arguments about money, and she laughed when she said it.",
+    "Last winter she lost her job for three months. I offered to give her my savings. She refused, and I could see from her face that this was not the moment to argue; the notebook stayed shut. What she did instead was keep two ⑦ accounts in the same notebook, one for her savings and one for mine, so that the two sums would never be mixed. Slowly I came to see how much wisdom there was in that grey book.",
+    "Now I keep my own book, though mine is on a phone, with one page for food and one for books. I write down every purchase before I forget it, and ⑧ on no account do I write a sum I am not sure about. At the end of each month I look at the last page and try to give myself an honest ⑨ account of the thirty days. It is rarely flattering. Every account has a last page, and the last page never lies. But ⑩ by all accounts my mother's method has done for me what no lecture on wealth ever could: it taught me to look before I spend."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -36,6 +36,9 @@
         "q": "Rent and food together accounted for almost two thirds"
       },
       {
+        "q": "and seeing that accounted for why she always said no"
+      },
+      {
         "q": "you must take account of the small things"
       },
       {
@@ -46,6 +49,9 @@
       },
       {
         "q": "on no account do I write a sum"
+      },
+      {
+        "q": "give myself an honest account of the thirty days"
       },
       {
         "q": "by all accounts my mother's method"
@@ -65,6 +71,10 @@
         "why": "account for＋比例，是动词短语“（数量上）占”，房租和食物占了收入的三分之二。"
       },
       {
+        "key": "D",
+        "why": "account for＋why 从句，是另一义：解释、说明原因，说明母亲总是拒绝的原因。"
+      },
+      {
         "key": "E",
         "why": "take account of sth 意为“考虑到某事”，母亲提醒我把零碎开支也算进去。"
       },
@@ -79,6 +89,10 @@
       {
         "key": "G",
         "why": "on no account 意为“决不”，置于句首时主谓部分倒装（do I write），是强调的否定。"
+      },
+      {
+        "key": "B",
+        "why": "give sb an account of＋对象，与第 2 题同义，意为“对这三十天做个如实交代”。"
       },
       {
         "key": "H",
