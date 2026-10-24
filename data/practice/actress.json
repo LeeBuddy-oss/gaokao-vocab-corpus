@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 actress 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1956 an ① actress played nine parts in one season and was paid for four, and my grandmother said that was the whole history of it. The ② actress, meaning the woman and not the parts, was thirty-one and had been told her name was wrong; an actress, she said, is somebody who is asked to be both the part and the advertisement for it. She said the advertisement was the harder of the two.",
-    "Every ③ actress in that company was called by a different name in the programme, and she said that was not an accident either. Their  actress — the one my mother loved — had nine lines and stole the evening; an actress, my father said, is the only performer who is judged on the way in and the way out. He said the way out is the one they remember.",
-    "My aunt said she had been ④ an actress for eleven weeks in 1949, by which she meant a chorus, and my mother said that counted. The ⑤ actress, meaning the profession and not the woman, is nine parts waiting and one part being looked at; an actress, my grandmother said, is the only worker whose appearance is part of the contract and not part of the work. She said the contract said nine words about it.",
-    "By 1963 the  actress had taken nine curtain calls and one of them was for somebody else. The ⑥ actress in the photograph by the door had died in 1951 and was still in the programme; an actress, my father said, is either a person or a photograph, and the management prefers the photograph. He said the photograph cost eleven shillings.",
-    "The ⑦ actress I remember is the one with nine lines, whom the reviews did not mention once. An ⑧ actress, my grandmother said in 1968, is the only person who is famous for being looked at and blamed for looking; every actress, she said, is two jobs, and only one of them is written down. She said the other one is the one that pays."
+    "Every ③ actress in that company was called by a different name in the programme, and she said that was not an accident either. Their ④ actress — the one my mother loved — had nine lines and stole the evening; an actress, my father said, is the only performer who is judged on the way in and the way out. He said the way out is the one they remember.",
+    "My aunt said she had been ⑤ an actress for eleven weeks in 1949, by which she meant a chorus, and my mother said that counted. The ⑥ actress, meaning the profession and not the woman, is nine parts waiting and one part being looked at; an actress, my grandmother said, is the only worker whose appearance is part of the contract and not part of the work. She said the contract said nine words about it.",
+    "By 1963 the ⑦ actress had taken nine curtain calls and one of them was for somebody else. The ⑧ actress in the photograph by the door had died in 1951 and was still in the programme; an actress, my father said, is either a person or a photograph, and the management prefers the photograph. He said the photograph cost eleven shillings.",
+    "The ⑨ actress I remember is the one with nine lines, whom the reviews did not mention once. An ⑩ actress, my grandmother said in 1968, is the only person who is famous for being looked at and blamed for looking; every actress, she said, is two jobs, and only one of them is written down. She said the other one is the one that pays."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -36,10 +36,16 @@
         "q": "Every actress in that company"
       },
       {
+        "q": "Their actress"
+      },
+      {
         "q": "an actress for eleven weeks in 1949"
       },
       {
         "q": "The actress, meaning the profession"
+      },
+      {
+        "q": "the actress had taken nine curtain calls"
       },
       {
         "q": "The actress in the photograph"
@@ -65,12 +71,20 @@
         "why": "actress 泛指“女演员这类人”，那个剧团里每一位女演员在节目单上都用另一个名字，她说那也不是偶然。"
       },
       {
+        "key": "A",
+        "why": "actress 意为“女演员”，他们那位女演员，也就是母亲喜爱的那一位，只有九句台词，却把整个晚上抢了去。"
+      },
+      {
         "key": "D",
         "why": "actress 指合唱队里、短期从艺的那一位，姑姑说她在 1949 年当过十一个星期的女演员，指的是合唱队。"
       },
       {
         "key": "E",
         "why": "actress 指“这个职业、这门行当”，与人相对，是九分等待加一分被观看。"
+      },
+      {
+        "key": "A",
+        "why": "actress 意为“女演员”，到 1963 年那位女演员谢了九次幕，其中有一次是替别人谢的。"
       },
       {
         "key": "G",
