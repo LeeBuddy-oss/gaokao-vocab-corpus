@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261026r';
+const PRACTICE_VER = '20261026s';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -292,6 +292,14 @@ async function init() {
     EN_CN_DICT = dr.ok ? await dr.json() : null;
   } catch (e) {
     console.error('加载词表失败', e);
+  }
+  // 词表首屏请求偶发失败（CDN 抖动或证书链问题）会让搜索整体不可用、只提示「未找到」，
+  // 这里补一次重试；仍失败则保持空表，不影响词条详情等其它模块
+  if (!WORDS.length) {
+    try {
+      const r2 = await fetch(WORDS_URL);
+      if (r2.ok) WORDS = await r2.json();
+    } catch (e2) { /* 忽略，保持空表 */ }
   }
   bindEvents();
   // 预热首页示例词的字母思维导图（identify/ability/improve/culture/environment → i,a,m,c,e）
