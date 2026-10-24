@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 actor 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1968 an ① actor came to the hall and forgot nine lines in the first scene, and my grandmother said that was the honest part. The ② actor, meaning the man and not the part, was fifty-four and had played the same role eleven times; an actor, she said, is somebody who is paid to be somebody else in public. She said the being paid was the strange half of it.",
-    "Every ③ actor in that company had another job, and she said that was the whole of the theatre. Their  actor who forgot came back on the Tuesday and did it perfectly; an actor, my father said, is the only worker who is judged twice, once for the rehearsal and once for the night. He said the night is the one everybody remembers.",
-    "My uncle said he had been ④ an actor in the whole business, meaning a participant and not a performer, and my mother said he had been neither. The ⑤ actor, meaning the profession and not the man, is nine parts memory and one part nerve; an actor, she said, is the only worker whose mistakes are visible to everybody and forgiven by nobody. She said that is why they drink.",
-    "By 1972 the  actor had taken to arriving nine minutes late and leaving before the applause. The ⑥ actor on the poster was younger by eleven years and better-looking; an actor, my father said, is either a person or a picture, and the poster is the one people believe. He said the poster was painted in 1961.",
-    "The ⑦ actor I remember is the one who forgot the nine lines and came back on the Tuesday. An ⑧ actor, my grandmother said in 1977, is the only person who is praised for being convincing and distrusted for it; every actor, she said, is a liar who has agreed to tell the truth. She said the agreement is the whole art."
+    "Every ③ actor in that company had another job, and she said that was the whole of the theatre. Their ④ actor who forgot came back on the Tuesday and did it perfectly; an actor, my father said, is the only worker who is judged twice, once for the rehearsal and once for the night. He said the night is the one everybody remembers.",
+    "My uncle said he had been ⑤ an actor in the whole business, meaning a participant and not a performer, and my mother said he had been neither. The ⑥ actor, meaning the profession and not the man, is nine parts memory and one part nerve; an actor, she said, is the only worker whose mistakes are visible to everybody and forgiven by nobody. She said that is why they drink.",
+    "By 1972 the ⑦ actor had taken to arriving nine minutes late and leaving before the applause. The ⑧ actor on the poster was younger by eleven years and better-looking; an actor, my father said, is either a person or a picture, and the poster is the one people believe. He said the poster was painted in 1961.",
+    "The ⑨ actor I remember is the one who forgot the nine lines and came back on the Tuesday. An ⑩ actor, my grandmother said in 1977, is the only person who is praised for being convincing and distrusted for it; every actor, she said, is a liar who has agreed to tell the truth. She said the agreement is the whole art."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -36,10 +36,16 @@
         "q": "Every actor in that company"
       },
       {
+        "q": "Their actor who forgot"
+      },
+      {
         "q": "an actor in the whole business"
       },
       {
         "q": "The actor, meaning the profession"
+      },
+      {
+        "q": "the actor had taken to arriving nine minutes late"
       },
       {
         "q": "The actor on the poster"
@@ -65,12 +71,20 @@
         "why": "actor 泛指“演员这类人”，那个剧团里每一位演员都另有工作，她说这就是戏剧的全部。"
       },
       {
+        "key": "A",
+        "why": "actor 意为“演员”，他们那位忘词的演员星期二回来，演得完美无缺。"
+      },
+      {
         "key": "D",
         "why": "actor 为比喻义，意为“参与者、起作用的人”，叔叔说他在整件事里是个参与者而不是表演者。"
       },
       {
         "key": "E",
         "why": "actor 指“这个职业、这门行当”，与人相对，是九分记性加一分胆量。"
+      },
+      {
+        "key": "A",
+        "why": "actor 意为“演员”，到 1972 年那位演员养成了迟到九分钟、掌声未起就先走的习惯。"
       },
       {
         "key": "G",
