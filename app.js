@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261026s';
+const PRACTICE_VER = '20261026t';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -3226,10 +3226,30 @@ function _pracInlineSlotHtml(i, nOpt) {
     `</span>`;
 }
 
-// 阅读文本：圈码序号 + 目标词高亮（nOpt > 0 时在每处目标词后内嵌选择框）
-function _pracPassageHtml(paras, word, nOpt) {
+// Task 1 的「有效题目」：一个用法只考一次。
+// 数据里每题都标了义项键（answers[].key），同一键重复出现即重复考查，
+// 这里按「首次出现」保留，题量就等于该词实际考到的用法数（7、8…），不再硬凑 10。
+function _pracT1Kept(t1) {
+  const items = (t1 && t1.items) || [];
+  const answers = (t1 && t1.answers) || [];
+  const seen = new Set();
+  const keep = [];
+  answers.forEach((a, i) => {
+    const k = String((a && a.key) || '').split('/')[0].trim().toUpperCase();
+    if (k && !seen.has(k)) { seen.add(k); keep.push(i); }
+  });
+  if (!keep.length || keep.length === answers.length) {
+    return { items, answers, keep: items.map((_, i) => i) };
+  }
+  return { items: keep.map(i => items[i]), answers: keep.map(i => answers[i]), keep };
+}
+
+// 阅读文本：圈码序号 + 目标词高亮（nOpt > 0 时在每处圈码后内嵌选择框）
+// keep：Task 1 保留的题目索引；正文里不属于这些题目的圈码整段不显示
+function _pracPassageHtml(paras, word, nOpt, keep) {
   const safe = String(word).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const re = new RegExp('\\b' + safe + '(?:s|es|ed|ing)?\\b', 'gi');
+  const CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩';
   let slot = 0;
   return (paras || []).map(p => {
     let t = esc(p);
@@ -3238,10 +3258,13 @@ function _pracPassageHtml(paras, word, nOpt) {
     const hits = [];
     t = t.replace(re, m => { hits.push(m); return '@@HL' + (hits.length - 1) + '@@'; });
     // 答题位挂在圈码之后：圈码本来就贴在目标词之前（如 ① believed、② figures），
-    // 视觉上等同于「词后一个三角」，且不依赖目标词出现次数——任何词条都恰好 10 个框
-    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩])/g, mm => {
-      let html = '<span class="prac-circ">' + mm + '</span>';
-      if (nOpt && slot < 10) html += _pracInlineSlotHtml(slot++, nOpt);
+    // 视觉上等同于「词后一个三角」，且不依赖目标词出现次数
+    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩])/g, () => {
+      const pos = slot++;                         // 正文中的第几处（0 起）
+      const idx = keep ? keep.indexOf(pos) : pos; // 保留后的第几题（-1 = 重复考查，不显示）
+      if (idx < 0) return '';
+      let html = '<span class="prac-circ">' + CIRCLED[idx] + '</span>';
+      if (nOpt) html += _pracInlineSlotHtml(idx, nOpt);
       return html;
     });
     t = t.replace(/@@HL(\d+)@@/g, (_, i) => '<b class="prac-kw">' + hits[Number(i)] + '</b>');
@@ -3257,11 +3280,13 @@ function renderPractice(word, d) {
   // 选择框内嵌正文紧跟圈码，提交按钮紧随正文，读完即可核对正答率与学习建议。
   // 只有显式标记 layout:"classic" 的词条才走原来的「正文 → 题行」布局
   const inline = d.layout !== 'classic';
+  // Task 1 题量随该词实际用法数：同一义项只考一次（数据里重复考查的题目在渲染时略去）
+  const kept = _pracT1Kept(t1);
 
   // Task 1：下拉选择 + 核对（inline 布局下选择框已内嵌正文，不再重复列题）
   let t1Html = '';
   if (!inline) {
-    (t1.items || []).forEach((it, i) => {
+    kept.items.forEach((it, i) => {
       let opts = '<option value="">—</option>';
       for (let k = 0; k < nOpt; k++) {
         const L = letters[k];
@@ -3291,7 +3316,7 @@ function renderPractice(word, d) {
   ).join('');
 
   // 参考答案
-  const t1Ans = (t1.answers || []).map((a, i) =>
+  const t1Ans = kept.answers.map(a =>
     `<li><b>${esc(a.key)}</b>　${esc(a.why || '')}</li>`).join('');
   const t2Ans = (t2.answers || []).map(s => `<li>${esc(s)}</li>`).join('');
   const t3Ans = (t3.answers || []).map(s => `<li>${esc(s)}</li>`).join('');
@@ -3299,7 +3324,7 @@ function renderPractice(word, d) {
   // Reading 区：新布局把 Task 1 标题、义项表、正文、提交按钮串成一段，
   // 学生边读边选，读完立刻核对；旧布局保持「正文 → 题目 → 按钮」原样
   const passageBlock = `<div class="prac-passage${inline ? ' prac-passage-inline' : ''}">` +
-    `${_pracPassageHtml(d.passage || [], word, inline ? nOpt : 0)}</div>`;
+    `${_pracPassageHtml(d.passage || [], word, inline ? nOpt : 0, kept.keep)}</div>`;
   // 引导语按词条动态生成（此前各词 json 里写死的文案不统一），word 从数据取、不硬编码
   const t1Intro = inline
     ? `阅读下面短文，请选择${word}对应义项。`
@@ -3456,11 +3481,11 @@ function _pracSenseNames(t1) {
 }
 
 // Task 1 逐题解析（新布局：正文内嵌答题后，提交即给出每处的义项与理由）
-function _pracT1DetailHtml(t1, wrongs) {
+function _pracT1DetailHtml(kept, wrongs) {
   const marks = ['①','②','③','④','⑤','⑥','⑦','⑧','⑨','⑩','⑪','⑫','⑬','⑭','⑮'];
   const bad = new Set(wrongs.map(w => w.idx));
-  const rows = (t1.items || []).map((it, i) => {
-    const ans = (t1.answers || [])[i] || {};
+  const rows = (kept.items || []).map((it, i) => {
+    const ans = (kept.answers || [])[i] || {};
     const ok = !bad.has(i);
     return `<div class="prac-detail ${ok ? 'is-ok' : 'is-bad'}">` +
       `<div class="prac-detail-q"><span class="prac-detail-n">${marks[i] || (i + 1)}</span>` +
@@ -3629,6 +3654,8 @@ function bindPractice(root, d) {
   const t1 = d.task1 || {};
   const letters = ['A','B','C','D','E','F','G','H','I','J'];
   const inline = d.layout !== 'classic';
+  // 与 renderPractice 保持同一裁剪口径：题量 = 该词实际考到的用法数
+  const kept = _pracT1Kept(t1);
 
   // 选择变化时清除上次批改结果
   root.querySelectorAll('.prac-select').forEach(sel => {
@@ -3666,7 +3693,7 @@ function bindPractice(root, d) {
   function gradeT1() {
     let right = 0, total = 0;
     const wrongs = [];
-    (t1.answers || []).forEach((ans, i) => {
+    kept.answers.forEach((ans, i) => {
       if (!ans) return;
       const host = root.querySelector(`[data-idx="${i}"]`);
       if (!host) return;
@@ -3712,15 +3739,15 @@ function bindPractice(root, d) {
     submit1.addEventListener('click', function () {
       const t1d = d.task1 || {};
       const r = gradeT1();
-      const labels = (t1d.items || []).map((_, i) => String(i + 1));
-      const vals = (t1d.items || []).map((_, i) => r.wrongs.some(w => w.idx === i) ? 0 : 1);
+      const labels = kept.items.map((_, i) => String(i + 1));
+      const vals = kept.items.map((_, i) => r.wrongs.some(w => w.idx === i) ? 0 : 1);
       const pct = r.total ? Math.round(r.right / r.total * 100) : 0;
       const box = inlineResult(submit1);
       box.innerHTML =
         `<div class="prac-rate">Task 1 正答率：<b>${pct}%</b>（${r.right} / ${r.total} 题）</div>` +
         _pracChartHtml(labels, vals) +
         _pracT1Feedback(t1d, r.total, r.right, r.wrongs, d.word) +
-        (inline ? _pracT1DetailHtml(t1d, r.wrongs) : '');
+        (inline ? _pracT1DetailHtml(kept, r.wrongs) : '');
       box.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     });
   }
