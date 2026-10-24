@@ -704,8 +704,8 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 
 /* 前置义项表：与正文卡片区分开 */
 .prac-sub-title {
-  font-size: 15px; font-weight: 700; color: var(--text);
-  margin: 2px 0 6px; padding-left: 9px; border-left: 3px solid #fca5a5;
+  font-size: 15px; font-weight: 700; color: #dc2626;
+  margin: 2px 0 6px; padding-left: 9px; border-left: 3px solid #dc2626;
 }
 .prac-options-top {
   background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 8px;
