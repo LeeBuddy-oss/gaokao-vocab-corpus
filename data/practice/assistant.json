@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 assistant 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1974 my mother became ① an assistant to a man who never learned her name, and she said that was the job. The ② assistant, meaning the person and not the title, did nine things a day and was thanked for one; an assistant, she said, is somebody who is paid to know everything and say nothing. She said the knowing was the easy half.",
-    "Every ③ assistant in that shop lasted nine months, and she said the shop was designed for that. Their ④ assistant on Saturdays was a boy of sixteen who knew the prices by heart; an assistant, my father said, is the only person in a shop who is not allowed to be wrong out loud. He said the boy was never wrong.",
-    "My grandmother had been ⑤ an assistant in a school in 1951, which my mother said was a different word entirely. The ⑥ assistant, meaning the job and not the person, is nine parts memory and one part patience, my mother said; an assistant, she said, is the only worker who is judged by how little anybody notices. She said her mother had been noticed once in eleven years.",
-    "By 1979 the ⑦ assistant had become the manager and the manager had become a name on a door. The ⑧ assistant she trained in March left in June and sent a card; an assistant, my father said, is the only person you are sorry to lose twice. He said the card was worth more than the training.",
-    "The ⑨ assistant I remember is the boy of sixteen, who is now the only one of them I can name. An ⑩ assistant, my mother said in 1983, is the only person in a room who knows how everything works and is not allowed to say so; every assistant, she said, is an expert with the licence taken away. She said the licence comes back with the title."
+    "Every ③ assistant in that shop lasted nine months, and she said the shop was designed for that. Their  assistant on Saturdays was a boy of sixteen who knew the prices by heart; an assistant, my father said, is the only person in a shop who is not allowed to be wrong out loud. He said the boy was never wrong.",
+    "My grandmother had been ④ an assistant in a school in 1951, which my mother said was a different word entirely. The ⑤ assistant, meaning the job and not the person, is nine parts memory and one part patience, my mother said; an assistant, she said, is the only worker who is judged by how little anybody notices. She said her mother had been noticed once in eleven years.",
+    "By 1979 the ⑥ assistant had become the manager and the manager had become a name on a door. The ⑦ assistant she trained in March left in June and sent a card; an assistant, my father said, is the only person you are sorry to lose twice. He said the card was worth more than the training.",
+    "The  assistant I remember is the boy of sixteen, who is now the only one of them I can name. An ⑧ assistant, my mother said in 1983, is the only person in a room who knows how everything works and is not allowed to say so; every assistant, she said, is an expert with the licence taken away. She said the licence comes back with the title."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -36,9 +36,6 @@
         "q": "Every assistant in that shop"
       },
       {
-        "q": "Their assistant on Saturdays"
-      },
-      {
         "q": "an assistant in a school in 1951"
       },
       {
@@ -49,9 +46,6 @@
       },
       {
         "q": "The assistant she trained in March"
-      },
-      {
-        "q": "The assistant I remember"
       },
       {
         "q": "An assistant, my mother said in 1983"
@@ -71,10 +65,6 @@
         "why": "assistant 意为“店员、售货员”，那家店里每一个店员都只干九个月，她说那家店就是照这个设计的。"
       },
       {
-        "key": "F",
-        "why": "assistant 意为“店员”，他们星期六的店员是个十六岁的男孩，把价钱全记在心里。"
-      },
-      {
         "key": "C",
         "why": "an assistant in a school 意为“学校里的助教、助理”，祖母 1951 年在学校当过助理，母亲说那完全是另一个词。"
       },
@@ -89,10 +79,6 @@
       {
         "key": "E",
         "why": "assistant 指培养出来又离开的那一位，她三月带出来的那位助理六月就走了，只寄了一张卡片。"
-      },
-      {
-        "key": "A",
-        "why": "assistant 意为“助理、店员”，我记得的是那个十六岁的男孩，如今是他们当中我唯一叫得出名字的。"
       },
       {
         "key": "G",
