@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 autumn 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1958 my grandmother said the ① autumn had come early and my grandfather said it always did, and they were both right. The ② autumn, meaning the weather and not the month, lasted nine weeks and gave them one fine day; an autumn, she said, is the only season that admits it is leaving. She said the spring never admits anything at all.",
-    "Every ③ autumn in that house began with the same coat and the same argument about the coat. Their ④ autumn in 1961 had nine frosts before November and no apples; an autumn, my father said, is the only time of year that is measured by what is taken away. He said what is left is never counted.",
-    "My grandfather used the word the other way in 1974 and said he was in ⑤ the autumn of his life, which my grandmother said was a phrase borrowed from a book. The ⑥ autumn, meaning the late part of a thing and not the season, is the only metaphor that everybody agrees on and nobody means; an autumn, he said, is either nine weeks of weather or a way of saying nearly done. He said he preferred the second.",
-    "By 1969 the ⑦ autumn had become a job: nine days of lifting, four of burning, and one of standing still. The ⑧ autumn she liked best was 1953, when the rain held off and the whole village came out; an autumn, my mother said, is the only season that people describe by what they managed to finish. She said 1953 was the only one she finished.",
-    "The ⑨ autumn I remember is the one in 1965, which had nine fine days in a row and fooled everybody. An ⑩ autumn, my grandmother said in 1977, is the only thing that is beautiful because it is failing; every autumn, she said, is a lesson that nobody learns twice. She said she had been taught eleven times."
+    "Every  autumn in that house began with the same coat and the same argument about the coat. Their ③ autumn in 1961 had nine frosts before November and no apples; an autumn, my father said, is the only time of year that is measured by what is taken away. He said what is left is never counted.",
+    "My grandfather used the word the other way in 1974 and said he was in ④ the autumn of his life, which my grandmother said was a phrase borrowed from a book. The ⑤ autumn, meaning the late part of a thing and not the season, is the only metaphor that everybody agrees on and nobody means; an autumn, he said, is either nine weeks of weather or a way of saying nearly done. He said he preferred the second.",
+    "By 1969 the ⑥ autumn had become a job: nine days of lifting, four of burning, and one of standing still. The ⑦ autumn she liked best was 1953, when the rain held off and the whole village came out; an autumn, my mother said, is the only season that people describe by what they managed to finish. She said 1953 was the only one she finished.",
+    "The  autumn I remember is the one in 1965, which had nine fine days in a row and fooled everybody. An ⑧ autumn, my grandmother said in 1977, is the only thing that is beautiful because it is failing; every autumn, she said, is a lesson that nobody learns twice. She said she had been taught eleven times."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -33,9 +33,6 @@
         "q": "The autumn, meaning the weather and not the month"
       },
       {
-        "q": "Every autumn in that house"
-      },
-      {
         "q": "Their autumn in 1961"
       },
       {
@@ -51,9 +48,6 @@
         "q": "The autumn she liked best"
       },
       {
-        "q": "The autumn I remember"
-      },
-      {
         "q": "An autumn, my grandmother said in 1977"
       }
     ],
@@ -65,10 +59,6 @@
       {
         "key": "B",
         "why": "autumn 指“天气”，与月份相对，那年秋天持续了九个星期，只给了他们一个好天。"
-      },
-      {
-        "key": "A",
-        "why": "autumn 意为“秋天”，那屋里每一个秋天都是从同一件大衣、以及关于这件大衣的同一场争论开始的。"
       },
       {
         "key": "C",
@@ -89,10 +79,6 @@
       {
         "key": "G",
         "why": "autumn 指她最喜欢的那一个，她最喜欢的秋天是 1953 年，那年雨没有落下来，全村人都出了门。"
-      },
-      {
-        "key": "A",
-        "why": "autumn 意为“秋天”，我记得的是 1965 年那个秋天，它连着给了九个好天，把所有人都骗了。"
       },
       {
         "key": "H",
