@@ -681,7 +681,61 @@ main { max-width: 920px; margin: 0 auto; padding: 28px 20px 60px; }
 .prac-p { margin: 0 0 10px; text-align: justify; }
 .prac-p:last-child { margin-bottom: 0; }
 .prac-circ { color: #dc2626; font-weight: 700; padding: 0 1px; }
-.prac-kw { color: #1d4ed8; }
+.prac-kw { color: #1d4ed8; font-weight: 700; }
+
+/* ========== 巩固练：正文内嵌答题位（figure 起用） ========== */
+.prac-passage-inline { padding: 16px 20px; line-height: 2.05; }
+.prac-inline-q { display: inline; white-space: nowrap; }
+.prac-select-inline {
+  display: inline-block; width: auto; min-width: 46px;
+  margin: 0 0 0 4px; padding: 0 2px;
+  font-size: 12.5px; line-height: 1.5; color: #374151;
+  border: 1px solid #cbd5e1; border-radius: 4px; background: #fff;
+  cursor: pointer; vertical-align: 1px;
+}
+.prac-select-inline:focus { outline: none; border-color: #1d4ed8; box-shadow: 0 0 0 2px #dbeafe; }
+.prac-inline-q.prac-right .prac-select-inline { border-color: #86efac; background: #f0fdf4; }
+.prac-inline-q.prac-wrong .prac-select-inline { border-color: #fca5a5; background: #fef2f2; }
+.prac-mark-inline { font-size: 12.5px; margin-left: 2px; width: auto; }
+.prac-why-inline {
+  font-size: 12px; color: #dc2626; margin-left: 3px; font-weight: 600;
+}
+.prac-why-inline:empty { display: none; }
+
+/* 前置义项表：与正文卡片区分开 */
+.prac-sub-title {
+  font-size: 15px; font-weight: 700; color: var(--text);
+  margin: 2px 0 6px; padding-left: 9px; border-left: 3px solid #fca5a5;
+}
+.prac-options-top {
+  background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 8px;
+  padding: 12px 16px; margin-bottom: 14px;
+}
+
+/* 逐题解析（新布局提交后回看） */
+.prac-detail-wrap {
+  background: #fff; border: 1px solid var(--result-border); border-radius: 8px;
+  padding: 12px 16px; margin-bottom: 14px;
+}
+.prac-detail-head { font-size: 14px; font-weight: 700; color: var(--text); margin-bottom: 8px; }
+.prac-detail { border-left: 3px solid #e5e7eb; padding: 5px 0 5px 10px; margin-bottom: 7px; }
+.prac-detail.is-ok { border-left-color: #16a34a; }
+.prac-detail.is-bad { border-left-color: #dc2626; }
+.prac-detail-q { display: flex; align-items: baseline; gap: 8px; font-size: 14px; }
+.prac-detail-n { flex: 0 0 auto; color: #dc2626; font-weight: 700; }
+.prac-detail-phrase { flex: 1 1 auto; color: var(--text); font-style: italic; }
+.prac-detail-key { flex: 0 0 auto; font-weight: 800; color: #16a34a; }
+.prac-detail.is-bad .prac-detail-key { color: #dc2626; }
+.prac-detail-why { font-size: 13px; color: #6b7280; margin-top: 2px; }
+
+/* 窄屏：内嵌选择框会与目标词一起换行，取消两端对齐并缩小控件，避免行间出现大片空白 */
+@media (max-width: 640px) {
+  .prac-passage-inline { padding: 14px; line-height: 1.95; }
+  .prac-passage-inline .prac-p { text-align: left; }
+  .prac-select-inline { min-width: 38px; font-size: 11.5px; margin-left: 3px; }
+  .prac-options-top { padding: 10px 12px; }
+  .prac-options { grid-template-columns: 1fr; }
+}
 .prac-task-intro { font-size: 14px; color: #374151; margin-bottom: 10px; }
 .prac-options {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
