@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 author 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1973 an ① author came to the library and read for nine minutes to eleven people, and my mother said that was a good crowd. The ② author, meaning the man and not the book, was nervous and had signed nine copies for nobody; an author, she said, is somebody who has finished a thing and now has to talk about it. She said the talking is the part nobody warns you about.",
-    "Every ③ author my father had met wanted to be asked about the writing and was asked about the money. Their ④ author — the one who came in March — had written nine books and remembered two of them; an author, my mother said, is the only worker who is praised for the part that was lonely. He said the lonely part is nine-tenths of it.",
-    "My grandfather said the ⑤ author of the whole trouble was the weather, and my grandmother said that was the truest use of the word. The ⑥ author, meaning the cause and not the writer, is the only word that covers both a book and a disaster; an author, she said, is either a person who made something or a thing that made something happen. She said the weather does both.",
-    "By 1979 the ⑦ author had given nine interviews and said the same thing in each, which he said was the trick. The ⑧ author on the card in the drawer was somebody else, with the same name; an author, my father said, is either a person or a name on a spine, and readers mean the second. He said the spine is nine inches of the whole business.",
-    "The ⑨ author I remember is the one who read for nine minutes, who asked more questions than he answered. An ⑩ author, my mother said in 1984, is the only person who is introduced to a room and then ignored by it; every author, she said, is a talker who has spent years alone. She said the aloneness shows in the first eleven words."
+    "Every ③ author my father had met wanted to be asked about the writing and was asked about the money. Their  author — the one who came in March — had written nine books and remembered two of them; an author, my mother said, is the only worker who is praised for the part that was lonely. He said the lonely part is nine-tenths of it.",
+    "My grandfather said the ④ author of the whole trouble was the weather, and my grandmother said that was the truest use of the word. The ⑤ author, meaning the cause and not the writer, is the only word that covers both a book and a disaster; an author, she said, is either a person who made something or a thing that made something happen. She said the weather does both.",
+    "By 1979 the  author had given nine interviews and said the same thing in each, which he said was the trick. The ⑥ author on the card in the drawer was somebody else, with the same name; an author, my father said, is either a person or a name on a spine, and readers mean the second. He said the spine is nine inches of the whole business.",
+    "The ⑦ author I remember is the one who read for nine minutes, who asked more questions than he answered. An ⑧ author, my mother said in 1984, is the only person who is introduced to a room and then ignored by it; every author, she said, is a talker who has spent years alone. She said the aloneness shows in the first eleven words."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -36,16 +36,10 @@
         "q": "Every author my father had met"
       },
       {
-        "q": "Their author"
-      },
-      {
         "q": "the author of the whole trouble"
       },
       {
         "q": "The author, meaning the cause and not the writer"
-      },
-      {
-        "q": "the author had given nine interviews"
       },
       {
         "q": "The author on the card in the drawer"
@@ -71,20 +65,12 @@
         "why": "author 泛指“作家这类人”，父亲见过的每一位作家都想被问写作，结果被问的都是钱。"
       },
       {
-        "key": "A",
-        "why": "author 意为“作者、作家”，他们那位作家，也就是三月来的那一位，写过九本书，只记得其中两本。"
-      },
-      {
         "key": "D",
         "why": "author 为比喻义，意为“创始人、起因”，祖父说整场麻烦的肇事者是天气，祖母说那是这个词最真实的用法。"
       },
       {
         "key": "E",
         "why": "author 意为“起因、造成者（抽象）”，与写作者相对，它是唯一既指一本书又指一场灾祸的词。"
-      },
-      {
-        "key": "A",
-        "why": "author 意为“作者、作家”，到 1979 年那位作家接受了九次采访，每次说的都一样，他说这就是诀窍。"
       },
       {
         "key": "G",
