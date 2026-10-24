@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 airport 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1961 my father took the ① airport bus for the first time, to meet a man he had never seen, and said the word airport is the only word in English that sounds like an apology. He stood ② at the airport for four hours because the plane was seven hours late, and he said an airport is a building designed for waiting, and that nobody has ever improved on that.",
-    "The ③ airport bus ran nine times a day and once on Sundays, and he took it for thirty-one years without ever going anywhere. Every ④ airport chair in the building had the same seven rivets, and he said an airport is the only place where the furniture is chosen by somebody who will never sit in it.",
-    "There was no ⑤ international airport within nine hundred miles in 1968, and my mother said the phrase means a building with two kinds of queue. She went through ⑥ airport security for the first time in 1979 and said it was the only queue in the world that apologises while it searches you; an airport, she said, is a queue with a roof on it.",
-    "The ⑦ airport at the edge of the town, meaning the small one with the grass, closed in 1974 and is now a car park. The ⑧ airport he had known, meaning the strip and not the building, was nine hundred yards of grass and a shed, and he said a field with a shed is an airport if somebody says it is; every airport, he said, was a field once.",
-    "The ⑨ airport I remember is the one where he stood for four hours in 1961 and met a man he never saw again. An ⑩ airport, my mother said in 1996, is the only building people leave in order to arrive somewhere else; every airport is somebody's last room in one country and first room in another, and she said it at the gate and never repeated it."
+    "The  airport bus ran nine times a day and once on Sundays, and he took it for thirty-one years without ever going anywhere. Every ③ airport chair in the building had the same seven rivets, and he said an airport is the only place where the furniture is chosen by somebody who will never sit in it.",
+    "There was no ④ international airport within nine hundred miles in 1968, and my mother said the phrase means a building with two kinds of queue. She went through ⑤ airport security for the first time in 1979 and said it was the only queue in the world that apologises while it searches you; an airport, she said, is a queue with a roof on it.",
+    "The ⑥ airport at the edge of the town, meaning the small one with the grass, closed in 1974 and is now a car park. The ⑦ airport he had known, meaning the strip and not the building, was nine hundred yards of grass and a shed, and he said a field with a shed is an airport if somebody says it is; every airport, he said, was a field once.",
+    "The ⑧ airport I remember is the one where he stood for four hours in 1961 and met a man he never saw again. An  airport, my mother said in 1996, is the only building people leave in order to arrive somewhere else; every airport is somebody's last room in one country and first room in another, and she said it at the gate and never repeated it."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -33,9 +33,6 @@
         "q": "at the airport for four hours"
       },
       {
-        "q": "The airport bus ran nine times"
-      },
-      {
         "q": "Every airport chair in the building"
       },
       {
@@ -52,9 +49,6 @@
       },
       {
         "q": "The airport I remember"
-      },
-      {
-        "q": "An airport, my mother said in 1996"
       }
     ],
     "answers": [
@@ -65,10 +59,6 @@
       {
         "key": "E",
         "why": "at the airport 意为“在机场”，因为飞机晚点七小时，他在机场站了四个小时。"
-      },
-      {
-        "key": "F",
-        "why": "airport bus 意为“机场巴士”，机场巴士每天开九趟，星期天一趟，他坐了三十一年。"
       },
       {
         "key": "C",
@@ -93,10 +83,6 @@
       {
         "key": "A",
         "why": "airport 意为“机场”，我记得的是 1961 年他站了四个小时、接了一个此后再没见过的人的那个机场。"
-      },
-      {
-        "key": "A",
-        "why": "airport 意为“机场”，母亲说机场是唯一一座人们为了抵达别处而离开的建筑。"
       }
     ]
   },
