@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 action 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1978 the pump stopped and the village waited nine days for somebody to ① take action, and my grandmother did not wait, and by the fourth day she had a spanner and two of the men from the lane. Action, she said, is what you do in the first hour, and after that it is called something else; the action of a spanner, she said, is the only honest thing in a village.",
-    "The ② action took four hours and two of the men never came back, and she said the ③ action, meaning what they actually did, was less than the waiting and more than the thanks. She wrote it in a book she kept for thirty-one years, an ④ action a day in four lines, and said the book was the only thing she had ever finished.",
-    "By 1981 she could not close her hand, and she said the ⑤ action of her own fingers had gone and that this was the first thing she had not been able to mend. The pump went ⑥ out of action again in 1984 and she stood and watched four men do it in an hour, and she said the pump had been ⑦ in action longer than any of them and that this was the whole of her argument.",
-    "Her brother was ⑧ killed in action in 1944, and she was nine, and she said the phrase had been the only thing in the letter that meant anything. She never used the word action about the war again, not once in fifty-one years, though she used it about pumps, fingers, men in a lane and ⑨ the action of a story she read four times; the action, she said, is what the war took out of the word.",
-    "The ⑩ action I would put in the book is the nine days, the fourth day and the two men who did not come back. Action, she told me in 1991, is only ever the part of a thing that shows, and the action is the only part that anybody will believe; the rest is a woman with a spanner deciding, and nobody has ever put that part in a book."
+    "The ② action took four hours and two of the men never came back, and she said the ③ action, meaning what they actually did, was less than the waiting and more than the thanks. She wrote it in a book she kept for thirty-one years, an  action a day in four lines, and said the book was the only thing she had ever finished.",
+    "By 1981 she could not close her hand, and she said the ④ action of her own fingers had gone and that this was the first thing she had not been able to mend. The pump went ⑤ out of action again in 1984 and she stood and watched four men do it in an hour, and she said the pump had been ⑥ in action longer than any of them and that this was the whole of her argument.",
+    "Her brother was ⑦ killed in action in 1944, and she was nine, and she said the phrase had been the only thing in the letter that meant anything. She never used the word action about the war again, not once in fifty-one years, though she used it about pumps, fingers, men in a lane and ⑧ the action of a story she read four times; the action, she said, is what the war took out of the word.",
+    "The  action I would put in the book is the nine days, the fourth day and the two men who did not come back. Action, she told me in 1991, is only ever the part of a thing that shows, and the action is the only part that anybody will believe; the rest is a woman with a spanner deciding, and nobody has ever put that part in a book."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -36,9 +36,6 @@
         "q": "the action, meaning what they actually did"
       },
       {
-        "q": "an action a day in four lines"
-      },
-      {
         "q": "the action of her own fingers"
       },
       {
@@ -52,9 +49,6 @@
       },
       {
         "q": "the action of a story she read"
-      },
-      {
-        "q": "The action I would put in the book"
       }
     ],
     "answers": [
@@ -69,10 +63,6 @@
       {
         "key": "B",
         "why": "action 意为“行为、所做之事”，她说他们实际所做的事比等待少、比感谢多。"
-      },
-      {
-        "key": "B",
-        "why": "action 意为“（一件）行为”，她在那本记了三十一年的簿子里每天用四行记一件行为。"
       },
       {
         "key": "C",
@@ -93,10 +83,6 @@
       {
         "key": "E",
         "why": "the action of a story 意为“故事情节”，她把这个词用在小说情节上，却再也不用在战争上。"
-      },
-      {
-        "key": "A",
-        "why": "action 意为“行动”，我要写进书里的行动是那九天、第四天和没回来的两个人。"
       }
     ]
   },
