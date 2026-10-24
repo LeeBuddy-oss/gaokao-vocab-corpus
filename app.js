@@ -5,7 +5,7 @@ const WORDS_BASE = 'data/words/';
 const STATS_URL = 'data/stats.json?v=20260828aah';
 const DICT_URL = 'data/en_cn_dict.json?v=20260828aah';
 const PRACTICE_BASE = 'data/practice/';
-const PRACTICE_VER = '20261026q';
+const PRACTICE_VER = '20261026r';
 
 const CATS = [
   { key: 'gaokao',   label: '高考真题', color: 'var(--gaokao)' },
@@ -3225,13 +3225,18 @@ function _pracPassageHtml(paras, word, nOpt) {
   let slot = 0;
   return (paras || []).map(p => {
     let t = esc(p);
-    // 先高亮目标词（此时 t 还是纯文本），再包圈码标签；
-    // 顺序反了会命中 <span class="prac-circ"> 里的属性名（如目标词 class）而破坏标签
-    t = t.replace(re, m => {
-      const hit = '<b class="prac-kw">' + m + '</b>';
-      return nOpt ? hit + _pracInlineSlotHtml(slot++, nOpt) : hit;
+    // 目标词先换成占位符：防止 class / select 这类目标词命中后续注入标签里的
+    // 属性名（class="prac-kw" 等），把标签结构破坏掉
+    const hits = [];
+    t = t.replace(re, m => { hits.push(m); return '@@HL' + (hits.length - 1) + '@@'; });
+    // 答题位挂在圈码之后：圈码本来就贴在目标词之前（如 ① believed、② figures），
+    // 视觉上等同于「词后一个三角」，且不依赖目标词出现次数——任何词条都恰好 10 个框
+    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩])/g, mm => {
+      let html = '<span class="prac-circ">' + mm + '</span>';
+      if (nOpt && slot < 10) html += _pracInlineSlotHtml(slot++, nOpt);
+      return html;
     });
-    t = t.replace(/([①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮])/g, '<span class="prac-circ">$1</span>');
+    t = t.replace(/@@HL(\d+)@@/g, (_, i) => '<b class="prac-kw">' + hits[Number(i)] + '</b>');
     return '<p class="prac-p">' + t + '</p>';
   }).join('');
 }
@@ -3240,9 +3245,10 @@ function renderPractice(word, d) {
   const t1 = d.task1 || {}, t2 = d.task2 || {}, t3 = d.task3 || {};
   const letters = ['A','B','C','D','E','F','G','H','I','J'];
   const nOpt = (t1.options || []).length;
-  // 新布局（figure 起用）：Task 1 标题与义项表前置到 Reading 之下，选择框内嵌正文，
-  // 提交按钮紧随正文，读完即可核对正答率与学习建议；其它词仍走原布局
-  const inline = d.layout === 'inline';
+  // 新布局（figure 定型后推广到全站）：Task 1 标题与义项表前置到 Reading 之下，
+  // 选择框内嵌正文紧跟圈码，提交按钮紧随正文，读完即可核对正答率与学习建议。
+  // 只有显式标记 layout:"classic" 的词条才走原来的「正文 → 题行」布局
+  const inline = d.layout !== 'classic';
 
   // Task 1：下拉选择 + 核对（inline 布局下选择框已内嵌正文，不再重复列题）
   let t1Html = '';
@@ -3286,9 +3292,13 @@ function renderPractice(word, d) {
   // 学生边读边选，读完立刻核对；旧布局保持「正文 → 题目 → 按钮」原样
   const passageBlock = `<div class="prac-passage${inline ? ' prac-passage-inline' : ''}">` +
     `${_pracPassageHtml(d.passage || [], word, inline ? nOpt : 0)}</div>`;
+  // 引导语按词条动态生成（此前各词 json 里写死的文案不统一），word 从数据取、不硬编码
+  const t1Intro = inline
+    ? `阅读下面短文，请选择${word}对应义项。`
+    : esc(t1.intro || '');
   const t1Head =
     `<div class="${inline ? 'prac-sub-title' : 'prac-sec-title'}">${esc(t1.title || '')}</div>` +
-    `<div class="prac-task-intro">${esc(t1.intro || '')}</div>` +
+    `<div class="prac-task-intro">${t1Intro}</div>` +
     `<div class="prac-options${inline ? ' prac-options-top' : ''}">${t1Options}</div>`;
   const t1Btn = `<div class="prac-btn-row"><button class="prac-btn prac-btn-blue" data-act="submit1">提交 Task 1 答案</button></div>`;
   const readingBlock = inline
@@ -3610,7 +3620,7 @@ function _pracT2ItemTip(r) {
 function bindPractice(root, d) {
   const t1 = d.task1 || {};
   const letters = ['A','B','C','D','E','F','G','H','I','J'];
-  const inline = d.layout === 'inline';
+  const inline = d.layout !== 'classic';
 
   // 选择变化时清除上次批改结果
   root.querySelectorAll('.prac-select').forEach(sel => {
