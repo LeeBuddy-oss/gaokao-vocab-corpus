@@ -7,10 +7,10 @@
   "intro": "请阅读文章，根据上下文判断每一处 apple 的含义，再完成 Task 1—Task 3。",
   "passage": [
     "In 1958 my grandfather planted ① an apple tree behind the wall and said it would outlive him, and it did by nine years. The ② apple, meaning the fruit and not the tree, was small and hard and kept until March; an apple, he said, is the only fruit that improves by being forgotten. He kept them in the dark under the stairs, nine boxes of them, and took one out on Sundays.",
-    "Every ③ apple in that garden came from the same two trees, and he said that was why they all tasted of the same thing. Their ④ apple, the one the family ate and the one nobody sold, had a name in the village and no name anywhere else; an apple, my grandmother said, is a place before it is a fruit. She said you can taste a field, and everybody in the village knew which field.",
-    "My mother was ⑤ the apple of his eye, which my grandmother said was the only English phrase he ever used correctly. The ⑥ apple orchard, meaning the nine trees behind the wall and not the two in front, was measured every autumn; an apple, he said, is the only tree that tells you how its year was.",
-    "She made ⑦ apple pie on Sundays for nine years and never once wrote the recipe down, and it died with her in 1984. By 1966 ⑧ apple trees had gone in along the whole lane, nine of them, and the village smelt of them for a month; an apple, my father said, is the only thing that everybody plants and nobody counts. He counted them once, in 1970, and stopped at nine, and never said why.",
-    "The ⑨ apple I remember is one my grandfather cut in half in 1963, to show me the nine seeds. An ⑩ apple, he said, is a fruit with a plan inside it, and the plan is not about you; every apple, he said, is a letter written to somebody who has not been born."
+    "Every  apple in that garden came from the same two trees, and he said that was why they all tasted of the same thing. Their ③ apple, the one the family ate and the one nobody sold, had a name in the village and no name anywhere else; an apple, my grandmother said, is a place before it is a fruit. She said you can taste a field, and everybody in the village knew which field.",
+    "My mother was ④ the apple of his eye, which my grandmother said was the only English phrase he ever used correctly. The ⑤ apple orchard, meaning the nine trees behind the wall and not the two in front, was measured every autumn; an apple, he said, is the only tree that tells you how its year was.",
+    "She made ⑥ apple pie on Sundays for nine years and never once wrote the recipe down, and it died with her in 1984. By 1966 ⑦ apple trees had gone in along the whole lane, nine of them, and the village smelt of them for a month; an apple, my father said, is the only thing that everybody plants and nobody counts. He counted them once, in 1970, and stopped at nine, and never said why.",
+    "The  apple I remember is one my grandfather cut in half in 1963, to show me the nine seeds. An ⑧ apple, he said, is a fruit with a plan inside it, and the plan is not about you; every apple, he said, is a letter written to somebody who has not been born."
   ],
   "task1": {
     "title": "Task 1　语境辨义",
@@ -33,9 +33,6 @@
         "q": "The apple, meaning the fruit and not the tree"
       },
       {
-        "q": "Every apple in that garden"
-      },
-      {
         "q": "Their apple"
       },
       {
@@ -51,9 +48,6 @@
         "q": "apple trees had gone in along the whole lane"
       },
       {
-        "q": "The apple I remember"
-      },
-      {
         "q": "An apple, he said"
       }
     ],
@@ -65,10 +59,6 @@
       {
         "key": "A",
         "why": "apple 意为“苹果（果实）”，指果子而不是树，那种苹果又小又硬，能放到三月。"
-      },
-      {
-        "key": "A",
-        "why": "apple 意为“苹果（果实）”，园里每一个苹果都出自同样的两棵树，所以味道都一样。"
       },
       {
         "key": "C",
@@ -89,10 +79,6 @@
       {
         "key": "G",
         "why": "apple trees 为复数，意为“苹果树们”，到 1966 年整条巷子都种上了苹果树，一共九棵。"
-      },
-      {
-        "key": "A",
-        "why": "apple 意为“苹果（果实）”，我记得的是 1963 年祖父切成两半、给我看那九粒籽的那一个。"
       },
       {
         "key": "H",
